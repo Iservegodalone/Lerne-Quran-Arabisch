@@ -2,7 +2,10 @@
   "meta": {
     "title": "Kasusauslöser-Referenztabelle",
     "description": "Zusammenfassende Übersicht: Welche syntaktischen Funktionen und Partikeln lösen welchen Kasus bzw. Modus aus.",
-    "sources": ["Wright's Grammar Vol II", "Quranic Arabic Corpus"],
+    "sources": [
+      {"name": "Wright's Arabic Grammar", "url": "https://archive.org/details/WrightsArabicGrammarVol1"},
+      {"name": "Quranic Arabic Corpus", "url": "https://corpus.quran.com"}
+    ],
     "lessons": ["3.1", "2.6", "3.4", "3.5", "4.4"]
   },
   "nominalCases": {

@@ -26,10 +26,10 @@ const syntaxLessons = {
     ...chunk2,
     ...chunk3,
     ...chunk4,
-    ...chunk5,
-    ...chunk6,
     ...chunk7,
-    ...chunk8
+    ...chunk8,
+    ...chunk5,
+    ...chunk6
   ]
 }
 

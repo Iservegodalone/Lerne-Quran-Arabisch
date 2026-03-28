@@ -1347,7 +1347,7 @@
         ]
       },
       {
-        "id": "fu_ul",
+        "id": "fu_uul",
         "singularPattern": "فَعْل / فَعَل",
         "pluralPattern": "فُعُول",
         "pluralTransliteration": "fu'ūl",
@@ -1419,7 +1419,7 @@
         ]
       },
       {
-        "id": "fu_ul",
+        "id": "fu_ul_short",
         "singularPattern": "فِعَال / فَعُول",
         "pluralPattern": "فُعُل",
         "pluralTransliteration": "fu'ul",
@@ -1486,7 +1486,27 @@
           {
             "singular": "وَلِيّ (waliyy)",
             "plural": "أَوْلِيَاء (awliyā')",
+            "german": "Schutzherren; Verbündete",
+            "note": "Folgt dem Muster أَفْعِلَاء, nicht فُعَلَاء — hier aus praktischen Gründen aufgeführt"
+          }
+        ]
+      },
+      {
+        "id": "af_ilaa",
+        "singularPattern": "فَعِيل",
+        "pluralPattern": "أَفْعِلَاء",
+        "pluralTransliteration": "af'ilā'",
+        "meaning": "Plural für fa'īl-Adjektive mit Alif-Hamza-Präfix",
+        "examples": [
+          {
+            "singular": "وَلِيّ (waliyy)",
+            "plural": "أَوْلِيَاء (awliyā')",
             "german": "Schutzherren; Verbündete"
+          },
+          {
+            "singular": "نَبِيّ (nabiyy)",
+            "plural": "أَنْبِيَاء (anbiyā')",
+            "german": "Propheten"
           }
         ]
       },
@@ -1877,7 +1897,7 @@
       {
         "arabic": "قُضِيَ الْأَمْرُ",
         "location": "2:210",
-        "analysis": "قُضِيَ = Passiv Perfekt Form I von ق-ض-ي (hohl). Die Angelegenheit wurde entschieden."
+        "analysis": "قُضِيَ = Passiv Perfekt Form I von ق-ض-ي (defektiv — schwacher Endradikal). Die Angelegenheit wurde entschieden."
       }
     ]
   },

@@ -1137,5 +1137,47 @@
         }
       ]
     }
+  ],
+  "passiveParadigms": [
+    {
+      "type": "hollow_waw_passive",
+      "title": "Hohles Verb (Waw) — Passiv",
+      "verb": "قِيلَ / يُقَالُ",
+      "root": "ق-و-ل",
+      "note": "Im Passiv Perfekt wird der mittlere Radikal zu langem i (قِيلَ statt قُوِلَ, Vermeidung der schweren Vokalfolge). Im Imperfekt erscheint langer a-Vokal.",
+      "perfect": {"3ms": "قِيلَ", "3fs": "قِيلَتْ", "3mp": "قِيلُوا"},
+      "imperfect": {"3ms": "يُقَالُ", "3fs": "تُقَالُ", "3mp": "يُقَالُونَ"}
+    },
+    {
+      "type": "defective_waw_passive",
+      "title": "Defektives Verb (Waw) — Passiv",
+      "verb": "دُعِيَ / يُدْعَى",
+      "root": "د-ع-و",
+      "note": "Im Passiv Perfekt erscheint Ya statt Waw (دُعِيَ). Im Imperfekt Passiv erscheint Alif Maqsura (يُدْعَى).",
+      "perfect": {"3ms": "دُعِيَ", "3fs": "دُعِيَتْ", "3mp": "دُعُوا"},
+      "imperfect": {"3ms": "يُدْعَى", "3fs": "تُدْعَى", "3mp": "يُدْعَوْنَ"}
+    }
+  ],
+  "derivedForms": [
+    {
+      "type": "hollow_form_II",
+      "title": "Form II — hohle Wurzel",
+      "note": "In Form II (فَعَّلَ) bleibt der schwache Radikal stabil, da die Verdopplung des 2. Radikals die Struktur stützt.",
+      "verbs": [
+        {"verb": "قَوَّمَ / يُقَوِّمُ", "root": "ق-و-م", "meaning": "gerade richten, aufstellen", "masdar": "تَقْوِيم", "quranRef": "95:4"},
+        {"verb": "صَوَّرَ / يُصَوِّرُ", "root": "ص-و-ر", "meaning": "formen, gestalten", "masdar": "تَصْوِير", "quranRef": "3:6"}
+      ]
+    }
+  ],
+  "doublyWeakNotes": [
+    {
+      "type": "doubly_weak",
+      "title": "Doppelt-schwache Verben",
+      "note": "Verben mit zwei schwachen Radikalen. Die Regeln beider Schwächen wirken gleichzeitig.",
+      "verbs": [
+        {"verb": "رَأَى / يَرَى", "root": "ر-أ-ي", "types": "hamziert (2.) + defektiv (3.)", "irregularForms": "يَرَى (Hamza fällt, Ya-Endung als Alif Maqsura), رَأَيْتُ (Hamza erhalten vor Konsonant-Suffix)", "quranRef": "53:13"},
+        {"verb": "وَقَى / يَقِي", "root": "و-ق-ي", "types": "assimiliert (1.) + defektiv (3.)", "irregularForms": "Form VIII: اِتَّقَى (Waw → Ta-Assimilation + defektive Endung)", "quranRef": "76:11"}
+      ]
+    }
   ]
 }

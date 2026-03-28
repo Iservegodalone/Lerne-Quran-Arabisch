@@ -55,7 +55,7 @@
       "exercises": [
         {
           "type": "identification",
-          "question": "In خَشْيَةَ الْإِمْلَاقِ (6:151) — was ist خَشْيَةَ grammatisch?",
+          "question": "In خَشْيَةَ إِمْلَاقٍ (17:31) — was ist خَشْيَةَ grammatisch?",
           "answer": "Maf'ul li-Ajlihi (wenn im Kontext ein Verb des Handelns steht). خَشْيَةَ = Masdar von خَشِيَ (fürchten), Akkusativ. الْإِمْلَاقِ = Genitiv (Verarmung). 'Aus Furcht vor Verarmung.' Der Kausalakkusativ gibt den Grund an: warum töten manche ihre Kinder? Aus Armutsfurcht."
         }
       ],
@@ -74,6 +74,102 @@
           }
         ]
       }
+    },
+    {
+      "id": "MAL2",
+      "title": "Maf'ul li-Ajlihi — Grenzfälle und Vertiefung",
+      "description": "Erweiterte Analyse: Unterscheidung Maf'ul li-Ajlihi vs. Ḥāl, Idafa-Varianten und weitere Quranbelege.",
+      "learnContent": {
+        "sections": [
+          {
+            "type": "explanation",
+            "title": "Maf'ul li-Ajlihi mit Idafa vs. mit Tanwin",
+            "content": "Der Maf'ul li-Ajlihi kann in zwei Formen auftreten:\n\n1. Mit Tanwin (indefinit): طَلَبًا — 'aus Streben'. Der Akkusativ ist direkt am Tanwin erkennbar.\n\n2. In einer Idafa-Konstruktion: ابْتِغَاءَ مَرْضَاتِ اللَّهِ — 'im Anstreben des Wohlgefallens Gottes'. Der Akkusativ liegt auf dem Muḍāf (ابْتِغَاءَ), erkennbar an der Fatha-Endung.\n\nBeide Varianten erscheinen im Quran. Die Idafa-Variante ist häufiger, weil sie das Ziel des Strebens spezifizieren kann."
+          },
+          {
+            "type": "explanation",
+            "title": "Abgrenzung zum Ḥāl",
+            "content": "Der Ḥāl (Zustandsakkusativ) und der Maf'ul li-Ajlihi können ähnlich aussehen. Der Unterschied:\n\n- Ḥāl beantwortet: 'in welchem Zustand?' → جَاءَ رَاكِبًا ('er kam reitend')\n- Maf'ul li-Ajlihi beantwortet: 'warum?' → جَاءَ طَلَبًا ('er kam aus Streben')\n\nTest: Ist das Wort im Akkusativ ein Masdar? → Maf'ul li-Ajlihi.\nIst es ein Partizip oder Adjektiv? → Ḥāl."
+          },
+          {
+            "type": "quranExamples",
+            "title": "Weitere Quranbeispiele",
+            "examples": [
+              {
+                "ref": "4:114",
+                "arabic": "لَّا خَيْرَ فِي كَثِيرٍ مِّن نَّجْوَاهُمْ إِلَّا مَنْ أَمَرَ بِصَدَقَةٍ أَوْ مَعْرُوفٍ أَوْ إِصْلَاحٍ بَيْنَ النَّاسِ ۚ وَمَن يَفْعَلْ ذَٰلِكَ ابْتِغَاءَ مَرْضَاتِ اللَّهِ",
+                "explanation": "ابْتِغَاءَ مَرْضَاتِ اللَّهِ = Maf'ul li-Ajlihi. ابْتِغَاءَ (Masdar Form VIII von ب-غ-ي) steht im Akkusativ als Idafa-Erstglied. 'Wer dies tut — aus dem Anstreben des Wohlgefallens Gottes.' Derselbe Ausdruck wie in 2:207."
+              },
+              {
+                "ref": "2:265",
+                "arabic": "وَمَثَلُ الَّذِينَ يُنفِقُونَ أَمْوَالَهُمُ ابْتِغَاءَ مَرْضَاتِ اللَّهِ وَتَثْبِيتًا مِّنْ أَنفُسِهِمْ",
+                "explanation": "Zwei Maf'ul li-Ajlihi nebeneinander: (1) ابْتِغَاءَ مَرْضَاتِ اللَّهِ — 'aus dem Anstreben des Wohlgefallens Gottes' und (2) تَثْبِيتًا مِّنْ أَنفُسِهِمْ — 'und zur Festigung ihrer selbst'. Beide im Akkusativ, beide geben den Grund des Spendens an."
+              },
+              {
+                "ref": "2:177",
+                "arabic": "وَآتَى الْمَالَ عَلَىٰ حُبِّهِ",
+                "explanation": "عَلَىٰ حُبِّهِ = Präposition + Genitiv. Kein Maf'ul li-Ajlihi, sondern Jarr wa-Majrur. 'Er gab das Vermögen trotz seiner Liebe dazu.' Vergleichsbeispiel: Die Kausalangabe steht hier mit Präposition."
+              }
+            ]
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "identification",
+          "question": "In 2:265 — warum stehen ابْتِغَاءَ und تَثْبِيتًا beide im Akkusativ?",
+          "answer": "Beide sind Maf'ul li-Ajlihi: sie geben den Grund des Spendens an. ابْتِغَاءَ steht als Idafa-Erstglied im Akkusativ, تَثْبِيتًا mit Tanwin al-Fath. Beide beantworten die Frage 'warum spenden sie?'"
+        },
+        {
+          "type": "distinction",
+          "question": "Unterscheide: رِئَاءَ النَّاسِ (2:264) vs. عَلَىٰ حُبِّهِ (2:177) — welche Konstruktion liegt jeweils vor?",
+          "answer": "رِئَاءَ النَّاسِ = Maf'ul li-Ajlihi (Masdar im Akkusativ, ohne Präposition). عَلَىٰ حُبِّهِ = Jarr wa-Majrur (Präposition + Genitiv). Beide drücken eine Nebenumstand aus, aber syntaktisch verschieden."
+        },
+        {
+          "type": "analysis",
+          "question": "Warum kann ein Partizip (z.B. رَاكِبًا) kein Maf'ul li-Ajlihi sein?",
+          "answer": "Der Maf'ul li-Ajlihi muss ein Masdar (Verbalnomen) sein — kein Partizip, kein Adjektiv. Ein Partizip im Akkusativ ist ein Ḥāl (Zustandsakkusativ): جَاءَ رَاكِبًا = er kam reitend (Ḥāl). Nur Masdare können den Grund/Zweck ausdrücken."
+        }
+      ],
+      "testContent": {
+        "exercises": [
+          {
+            "question": "Welche Form hat ابْتِغَاءَ in 4:114?",
+            "options": [
+              "Ḥāl (Zustandsakkusativ)",
+              "Maf'ul bihi (direktes Objekt)",
+              "Maf'ul li-Ajlihi (kausaler Akkusativ)",
+              "Tamyiz (Spezifikation)"
+            ],
+            "correct": 2,
+            "explanation": "ابْتِغَاءَ ist ein Masdar (Form VIII von ب-غ-ي) im Akkusativ. Es beantwortet 'warum?' — warum tut jemand dies? Aus dem Anstreben des Wohlgefallens. Das ist die Definition des Maf'ul li-Ajlihi."
+          },
+          {
+            "question": "Wie unterscheidet man Maf'ul li-Ajlihi von Ḥāl?",
+            "options": [
+              "Ḥāl steht im Genitiv, Maf'ul li-Ajlihi im Akkusativ",
+              "Maf'ul li-Ajlihi ist ein Masdar und beantwortet 'warum?', Ḥāl ist oft ein Partizip und beantwortet 'in welchem Zustand?'",
+              "Es gibt keinen Unterschied — beide sind austauschbar",
+              "Ḥāl kommt nur bei intransitiven Verben vor"
+            ],
+            "correct": 1,
+            "explanation": "Der zentrale Test: Masdar + 'warum?' = Maf'ul li-Ajlihi. Partizip/Adjektiv + 'in welchem Zustand?' = Ḥāl. Beide stehen im Akkusativ, aber das Wortformat und die semantische Funktion unterscheiden sich."
+          },
+          {
+            "question": "Können zwei Maf'ul li-Ajlihi in einem Satz stehen?",
+            "options": [
+              "Nein, pro Satz nur einer",
+              "Ja — wie in 2:265 (ابْتِغَاءَ مَرْضَاتِ اللَّهِ وَتَثْبِيتًا)",
+              "Nur wenn einer davon ein Ḥāl ist",
+              "Nur in Nominalsätzen"
+            ],
+            "correct": 1,
+            "explanation": "2:265 zeigt zwei Maf'ul li-Ajlihi koordiniert mit وَ: ابْتِغَاءَ und تَثْبِيتًا — beide Masdare im Akkusativ, beide geben den Grund an."
+          }
+        ]
+      },
+      "wrightReference": "Wright Vol II, §83–§85 (Objective Complement of Cause)",
+      "wrightUrl": "https://archive.org/details/grammarofthearab02telerich"
     }
   ]
 }

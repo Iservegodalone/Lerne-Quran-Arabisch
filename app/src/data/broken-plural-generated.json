@@ -4,7 +4,11 @@
     "description": "Automatisch generierte Übungen zu gebrochenen Pluralmustern des koranischen Arabisch.",
     "generated": "2026-03-23",
     "revised": "2026-03-26",
-    "count": 46
+    "count": 46,
+    "sources": [
+      {"name": "Wright's Arabic Grammar", "url": "https://archive.org/details/WrightsArabicGrammarVol1"},
+      {"name": "Quranic Arabic Corpus", "url": "https://corpus.quran.com"}
+    ]
   },
   "exercises": [
     {

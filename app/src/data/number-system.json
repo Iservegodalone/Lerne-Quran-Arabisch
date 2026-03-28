@@ -94,6 +94,11 @@
                 "ref": "18:25",
                 "arabic": "وَلَبِثُوا فِي كَهْفِهِمْ ثَلَاثَ مِائَةٍ سِنِينَ وَازْدَادُوا تِسْعًا",
                 "explanation": "Dreihundert Jahre und dazu neun: ثَلَاثَ (ohne Ta → سِنِينَ ist feminin) مِائَةٍ."
+              },
+              {
+                "ref": "39:6",
+                "arabic": "يَخْلُقُكُمْ فِي بُطُونِ أُمَّهَاتِكُمْ خَلْقًا مِنْ بَعْدِ خَلْقٍ فِي ظُلُمَاتٍ ثَلَاثٍ",
+                "explanation": "In drei Dunkelheiten: ثَلَاث (OHNE Ta Marbuta → ظُلُمَات ist feminin). Kardinalzahl als Sifa (nachgestelltes Attribut)."
               }
             ]
           }
@@ -287,12 +292,7 @@
                 "arabic": "ثَلَاثَةٌ رَابِعُهُمْ كَلْبُهُمْ ... خَمْسَةٌ سَادِسُهُمْ كَلْبُهُمْ ... سَبْعَةٌ وَثَامِنُهُمْ كَلْبُهُمْ",
                 "explanation": "Drei — ihr vierter ist ihr Hund ... fünf — ihr sechster ist ihr Hund ... sieben — und ihr achter ist ihr Hund. Ordinalzahlen als Prädikat."
               },
-              {
-                "ref": "39:6",
-                "arabic": "يَخْلُقُكُمْ فِي بُطُونِ أُمَّهَاتِكُمْ خَلْقًا مِنْ بَعْدِ خَلْقٍ فِي ظُلُمَاتٍ ثَلَاثٍ",
-                "explanation": "In drei Dunkelheiten: ثَلَاث (OHNE Ta Marbuta → ظُلُمَات ist feminin). Kardinalzahl als Sifa (nachgestelltes Attribut)."
-              },
-              {
+{
                 "ref": "2:228",
                 "arabic": "ثَلَاثَةَ قُرُوءٍ",
                 "explanation": "Drei Reinigungsperioden: ثَلَاثَة (mit Ta Marbuta → قُرْء ist maskulin) + قُرُوءٍ (Plural Genitiv)."
@@ -336,6 +336,36 @@
               "Beide zeigen umgekehrtes Geschlecht"
             ],
             "correct": 1
+          }
+        ]
+      }
+    },
+    {
+      "id": "N4",
+      "title": "Distributivzahlen",
+      "description": "Distributivzahlen drücken Verteilung aus: 'je zwei', 'je drei', 'je vier'. Im Quran belegt in 4:3 und 35:1.",
+      "learnContent": {
+        "sections": [
+          {
+            "type": "explanation",
+            "title": "Distributivzahlen im Arabischen",
+            "content": "Distributivzahlen: مَثْنَىٰ (je zwei), ثُلَاثَ (je drei), رُبَاعَ (je vier). Diese Formen sind diptotisch (ممنوع من الصرف) — sie tragen kein Tanwin und nehmen im Genitiv Fatha statt Kasra. Der Grund für die Diptosie: Sie folgen besonderen Wortmustern (مَفْعَل / فُعَال), die von der regulären Deklination abweichen."
+          },
+          {
+            "type": "quranExamples",
+            "title": "Quran-Beispiele",
+            "examples": [
+              {
+                "ref": "4:3",
+                "arabic": "فَانكِحُوا مَا طَابَ لَكُم مِّنَ النِّسَاءِ مَثْنَىٰ وَثُلَاثَ وَرُبَاعَ",
+                "explanation": "Je zwei, je drei, je vier: Drei Distributivzahlen in Reihe. Alle diptotisch — kein Tanwin trotz unbestimmter Bedeutung."
+              },
+              {
+                "ref": "35:1",
+                "arabic": "جَاعِلِ الْمَلَائِكَةِ رُسُلًا أُولِي أَجْنِحَةٍ مَّثْنَىٰ وَثُلَاثَ وَرُبَاعَ",
+                "explanation": "Mit Flügeln — je zwei, je drei, je vier: Dieselbe Distributivzahl-Reihe wie in 4:3, hier für die Anzahl der Flügel."
+              }
+            ]
           }
         ]
       }

@@ -93,7 +93,7 @@
       "group": "Jīm-Gruppe",
       "exampleWord": "الرحمن",
       "exampleTransliteration": "al-raḥmān",
-      "exampleMeaning": "der Erbarmer",
+      "exampleMeaning": "der intensiv-Barmherzige",
       "exampleLocation": "1:1"
     },
     {
@@ -406,7 +406,7 @@
       "forms": { "isolated": "و", "initial": "و", "medial": "ـو", "final": "ـو" },
       "connectable": false,
       "group": "Wāw-Gruppe",
-      "exampleWord": "واياك",
+      "exampleWord": "وَإِيَّاكَ",
       "exampleTransliteration": "wa-iyyāka",
       "exampleMeaning": "und dich",
       "exampleLocation": "1:5"
@@ -439,7 +439,7 @@
     },
     {
       "id": "damma",
-      "name": "Ḍamma",
+      "name": "Damma",
       "symbol": "ُ",
       "example": "بُ",
       "sound": "kurzes u",
@@ -493,12 +493,12 @@
     },
     {
       "id": "tanwin_damma",
-      "name": "Tanwīn Ḍamma",
+      "name": "Tanwīn Damma",
       "symbol": "ٌ",
       "example": "بٌ",
       "sound": "-un",
       "position": "über dem Buchstaben (zwei Dammas)",
-      "description": "Zwei Ḍammas übereinander. Zeigt die Nunation '-un' an. Markiert unbestimmte Nomen im Nominativ."
+      "description": "Zwei Dammas übereinander. Zeigt die Nunation '-un' an. Markiert unbestimmte Nomen im Nominativ."
     },
     {
       "id": "tanwin_kasra",
@@ -516,7 +516,7 @@
       "example": "هٰذَا",
       "sound": "langes ā (historisches Alif)",
       "position": "über dem Buchstaben",
-      "description": "Eine kleine aufrechte Alif über dem Buchstaben. Zeigt an, dass hier historisch ein Alif geschrieben wurde, das im uthmanischen Rasm durch dieses Zeichen ersetzt ist. Häufige Quran-Wörter mit Alif Khanjariyya: هٰذَا (hadha — dieser), رَحْمٰن (Rahman — der Erbarmer), لٰكِن (lakin — aber), إِلٰه (ilah — Gott), ذٰلِك (dhalika — jener), سُبْحٰن (subhan — Lobpreis). In der Simple-Clean-Textdarstellung wird die Alif Khanjariyya oft als reguläres Alif geschrieben oder weggelassen."
+      "description": "Eine kleine aufrechte Alif über dem Buchstaben. Zeigt an, dass hier historisch ein Alif geschrieben wurde, das im uthmanischen Rasm durch dieses Zeichen ersetzt ist. Häufige Quran-Wörter mit Alif Khanjariyya: هٰذَا (hadha — dieser), رَحْمٰن (Rahman — der intensiv-Barmherzige), لٰكِن (lakin — aber), إِلٰه (ilah — Gott), ذٰلِك (dhalika — jener), سُبْحٰن (subhan — Lobpreis). In der Simple-Clean-Textdarstellung wird die Alif Khanjariyya oft als reguläres Alif geschrieben oder weggelassen."
     }
   ],
   "tashkilCombinations": [

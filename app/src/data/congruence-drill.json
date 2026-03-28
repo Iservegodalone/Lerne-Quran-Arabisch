@@ -223,9 +223,9 @@
     {
       "id": 25,
       "type": "fill_blank",
-      "prompt": "أَقَامَ المسلمون ___ (das Gebet, Akkusativ)",
-      "answer": "الصَّلَاةَ",
-      "explanation": "Subjekt (المسلمون) vor Verb — volle Kongruenz. أَقَامُوا wäre korrekt (nicht أَقَامَ). Die Übung zeigt: Verb muss bei SVO-Stellung kongruieren."
+      "prompt": "المسلمون ___ الصَّلَاةَ (أَقَامَ, Perfekt — konjugiere passend zum Subjekt)",
+      "answer": "أَقَامُوا",
+      "explanation": "SVO-Stellung: Subjekt (المسلمون, maskulin Plural) steht VOR dem Verb → volle Kongruenz in Person, Genus und Numerus erforderlich (Regel R2). أَقَامَ (3. Person maskulin Singular) wäre nur korrekt in VSO-Stellung (أَقَامَ المسلمونَ). Hier muss das Verb im Plural stehen: أَقَامُوا."
     },
     {
       "id": 26,
@@ -259,7 +259,8 @@
       "type": "fill_blank",
       "prompt": "جَاءَ ___ الصالحات (die rechtschaffenen Frauen, Nominativ)",
       "answer": "النِّسَاءُ",
-      "explanation": "VSO-Stellung: جَاءَ (ohne Ta!) wenn النساء nach dem Verb steht UND Trennung besteht. Mit Ta: جَاءَتِ النِّسَاءُ wäre ebenfalls korrekt."
+      "explanation": "VSO-Stellung: جَاءَ (ohne Ta) wenn النساء nach dem Verb steht. نِسَاء ist ein gebrochener Feminin-Plural. Bei solchen Formen ist die Ta-Markierung am Verb im Klassischen Arabisch optional.",
+      "note": "Beide Formen sind akzeptabel: جَاءَ النِّسَاءُ (ohne Ta-Markierung) und جَاءَتِ النِّسَاءُ (mit Ta-Markierung). Weder die eine noch die andere Form ist 'richtiger' — bei gebrochenen Pluralen und Kollektiva ist die Genuswahl am Verb frei."
     },
     {
       "id": 30,

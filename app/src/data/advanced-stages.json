@@ -252,7 +252,7 @@
         {
           "type": "intertextual",
           "prompt": "Finde alle Verse, in denen das Wort تَقْوَىٰ (taqwā) oder seine Wurzel و-ق-ي vorkommt. Was ergibt sich aus den quranischen Kontexten über تَقْوَىٰ?",
-          "hint": "Grundbedeutung der Wurzel و-ق-ي: sich schützen, sich hüten. تَقْوَىٰ wird geläufig als 'Gottesfurcht' übersetzt. Die Wurzel umfasst auch die Dimension des Schutzverhaltens — sich vor dem schützen, was schadet."
+          "hint": "Grundbedeutung der Wurzel و-ق-ي: sich schützen, sich hüten. تَقْوَىٰ wird geläufig als 'Gottesfurcht' übersetzt, doch die Wurzel bedeutet primär Schutznahme — sich vor dem schützen, was schadet."
         },
         {
           "type": "intertextual",
@@ -734,7 +734,7 @@
                 "exampleMeaning": "WENN die Hilfe Gottes kommt — es wird kommen, es ist sicher. Daher nicht إِن sondern إِذَا."
               }
             ],
-            "note": "Der Quran spricht vom Tod immer mit إِذَا (sicher), nie mit إِن (hypothetisch). Von der Auferstehung spricht er zu den Leugnern mit إِن — nicht weil sie unsicher ist, sondern weil SIE sie bezweifeln."
+            "note": "Der Quran spricht vom Tod überwiegend mit إِذَا (erwartbar), nicht mit إِن (hypothetisch). Von der Auferstehung spricht er zu den Leugnern mit إِن — nicht weil sie unsicher ist, sondern weil SIE sie bezweifeln."
           },
           {
             "type": "comparison",
@@ -745,7 +745,7 @@
                 "transliteration": "lam",
                 "meaning": "Verneint die Vergangenheit mit Jazm (مُضَارِع مَجْزُوم) — etwas ist nicht geschehen und die Verneinung dauert bis zur Gegenwart an.",
                 "example": "لَمْ يَلِدْ وَلَمْ يُولَدْ (112:3)",
-                "exampleMeaning": "Er hat nicht gezeugt und ist nicht gezeugt worden — und das war nie anders und wird nie anders sein."
+                "exampleMeaning": "Er hat nicht gezeugt und ist nicht gezeugt worden — die Verneinung reicht vom Vergangenheitspunkt bis zur Gegenwart."
               },
               {
                 "particle": "مَا",
@@ -755,7 +755,7 @@
                 "exampleMeaning": "Und Wir haben ihnen nicht Unrecht getan — Verneinung eines vergangenen Ereignisses."
               }
             ],
-            "note": "لَمْ يَكُن (er war nicht und ist nicht) vs. مَا كَانَ (er war nicht — damals). In 112:3 steht لَمْ, das eine absolute Verneinung ohne Vergangenheitsbindung erzeugt (im Gegensatz zu مَا كَانَ, das auf eine bestimmte Zeit bezogen ist)."
+            "note": "لَمْ يَكُن (er war nicht und ist nicht) vs. مَا كَانَ (er war nicht — damals). In 112:3 steht لَمْ, das eine Verneinung vom Vergangenheitspunkt bis zur Gegenwart erzeugt (im Gegensatz zu مَا كَانَ, das auf eine bestimmte Zeit bezogen ist)."
           },
           {
             "type": "comparison",
@@ -819,7 +819,7 @@
         {
           "type": "particle_distinction",
           "prompt": "Vergleiche لَمْ يَلِدْ (112:3) mit مَا وَلَدَ. Warum wählt der Quran hier لَمْ?",
-          "hint": "لَمْ verneint absolut und zeitübergreifend: Er hat nie gezeugt und wird es nie tun. مَا وَلَدَ würde nur die Vergangenheit verneinen und ließe die Zukunft theoretisch offen."
+          "hint": "لَمْ verneint vom Vergangenheitspunkt bis zur Gegenwart: Er hat nicht gezeugt — und diese Verneinung dauert an. مَا وَلَدَ würde nur die Vergangenheit verneinen und ließe die Gegenwart theoretisch offen."
         },
         {
           "type": "analysis",
@@ -852,7 +852,7 @@
           },
           {
             "type": "identification",
-            "question": "Der Quran spricht vom Tod immer mit إِذَا (idhā) und nie mit إِنْ (in). Warum?",
+            "question": "Der Quran spricht vom Tod überwiegend mit إِذَا (idhā) und nicht mit إِنْ (in). Warum?",
             "options": [
               "Weil إِذَا für sichere/erwartete Ereignisse steht — der Tod ist gewiss",
               "Weil إِنْ nur für positive Ereignisse verwendet wird",
@@ -865,7 +865,7 @@
             "type": "matching",
             "question": "Warum verwendet Sure 112:3 لَمْ يَلِدْ (lam yalid) statt مَا وَلَدَ (mā walada)?",
             "options": [
-              "لَمْ verneint absolut und zeitübergreifend: Er hat nie gezeugt und wird es nie tun — die Verneinung dauert bis in die Gegenwart an",
+              "لَمْ verneint vom Vergangenheitspunkt bis zur Gegenwart: Er hat nicht gezeugt — und diese Verneinung dauert an",
               "مَا وَلَدَ wäre grammatisch falsch in diesem Kontext",
               "لَمْ klingt besser im Reimschema der Sure",
               "Es gibt keinen inhaltlichen Unterschied zwischen beiden Formen"

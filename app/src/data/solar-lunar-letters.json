@@ -1,5 +1,12 @@
 {
-  "meta": { "title": "Sonnen- und Mondbuchstaben", "description": "Die 14 Sonnenbuchstaben (die das Lam des Artikels assimilieren) und die 14 Mondbuchstaben (bei denen das Lam erhalten bleibt)." },
+  "meta": {
+    "title": "Sonnen- und Mondbuchstaben",
+    "description": "Die 14 Sonnenbuchstaben (die das Lam des Artikels assimilieren) und die 14 Mondbuchstaben (bei denen das Lam erhalten bleibt).",
+    "sources": [
+      {"name": "Wright's Arabic Grammar Vol I", "url": "https://archive.org/details/WrightsArabicGrammarVol1"},
+      {"name": "Quranic Arabic Corpus", "url": "https://corpus.quran.com"}
+    ]
+  },
   "principle": "Wenn der Artikel ال vor einem Sonnenbuchstaben steht, wird das Lam (ل) nicht ausgesprochen sondern assimiliert sich an den folgenden Konsonanten. Im Schriftbild bleibt das Lam erhalten, aber ein Schadda auf dem folgenden Buchstaben zeigt die Assimilation an. Bei Mondbuchstaben wird das Lam normal ausgesprochen, und der folgende Buchstabe trägt kein Schadda.",
   "linguisticReason": "Die Assimilation tritt bei Konsonanten auf, deren Artikulationsort dem Lam nahesteht (alveolar, dental, interdental). Der Zungenspitze ist bei diesen Lauten in ähnlicher Position wie beim Lam. Mondbuchstaben werden an anderen Stellen artikuliert (labial, velar, uvular, pharyngeal, glottal) — zu weit vom Lam entfernt für Assimilation.",
   "jimException": "ج (Jim) ist trotz seiner koronalen Artikulation (postalveolar) ein Mondbuchstabe. Als Affrikat unterscheidet sich Jim artikulatorisch hinreichend vom lateralen ل, um keine Assimilation auszulösen.",
@@ -8,14 +15,14 @@
     {"letter": "ث", "name": "Tha", "ipa": "θ", "articulation": "interdental", "example": {"with_article": "الثَّمَرَات", "transliteration": "ath-thamarat", "meaning": "die Früchte", "ref": "2:22"}},
     {"letter": "د", "name": "Dal", "ipa": "d", "articulation": "alveolar", "example": {"with_article": "الدِّين", "transliteration": "ad-din", "meaning": "die Lebensweise / die Vergeltung", "ref": "1:4"}},
     {"letter": "ذ", "name": "Dhal", "ipa": "ð", "articulation": "interdental", "example": {"with_article": "الذِّكْر", "transliteration": "adh-dhikr", "meaning": "das Gedenken", "ref": "15:9"}},
-    {"letter": "ر", "name": "Ra", "ipa": "r", "articulation": "alveolar", "example": {"with_article": "الرَّحْمَٰن", "transliteration": "ar-rahman", "meaning": "der Barmherzige", "ref": "1:1"}},
+    {"letter": "ر", "name": "Ra", "ipa": "r", "articulation": "alveolar", "example": {"with_article": "الرَّحْمَٰن", "transliteration": "ar-rahman", "meaning": "der intensiv-Barmherzige", "ref": "1:1"}},
     {"letter": "ز", "name": "Zay", "ipa": "z", "articulation": "alveolar", "example": {"with_article": "الزَّكَاة", "transliteration": "az-zakah", "meaning": "die Reinigung", "ref": "2:43"}},
     {"letter": "س", "name": "Sin", "ipa": "s", "articulation": "alveolar", "example": {"with_article": "السَّمَاء", "transliteration": "as-sama'", "meaning": "der Himmel", "ref": "2:19"}},
     {"letter": "ش", "name": "Shin", "ipa": "ʃ", "articulation": "postalveolar", "example": {"with_article": "الشَّمْس", "transliteration": "ash-shams", "meaning": "die Sonne", "ref": "91:1"}},
     {"letter": "ص", "name": "Sad", "ipa": "sˤ", "articulation": "alveolar emphatisch", "example": {"with_article": "الصَّلَاة", "transliteration": "as-salah", "meaning": "das Gebet", "ref": "2:3"}},
-    {"letter": "ض", "name": "Dad", "ipa": "dˤ", "articulation": "alveolar emphatisch", "example": {"with_article": "الضَّالِّين", "transliteration": "aḍ-ḍāllīn", "meaning": "die Irrenden", "ref": "1:7"}},
+    {"letter": "ض", "name": "Dad", "ipa": "dˤ", "articulation": "alveolar emphatisch", "example": {"with_article": "الضَّالِّين", "transliteration": "ad-dallin", "meaning": "die Irrenden", "ref": "1:7"}},
     {"letter": "ط", "name": "Ta emphatisch", "ipa": "tˤ", "articulation": "alveolar emphatisch", "example": {"with_article": "الطَّيِّبَات", "transliteration": "at-tayyibat", "meaning": "die guten Dinge", "ref": "2:172"}},
-    {"letter": "ظ", "name": "Za emphatisch", "ipa": "ðˤ", "articulation": "interdental emphatisch", "example": {"with_article": "الظَّالِمِين", "transliteration": "az-zalimin", "meaning": "die Unrecht Tuenden", "ref": "2:35"}},
+    {"letter": "ظ", "name": "Za emphatisch", "ipa": "ðˤ", "articulation": "interdental emphatisch", "example": {"with_article": "الظَّالِمِين", "transliteration": "az-zaalimin", "meaning": "die Unrecht Tuenden", "ref": "2:35"}},
     {"letter": "ل", "name": "Lam", "ipa": "l", "articulation": "alveolar lateral", "example": {"with_article": "اللَّيْل", "transliteration": "al-layl", "meaning": "die Nacht", "ref": "92:1"}},
     {"letter": "ن", "name": "Nun", "ipa": "n", "articulation": "alveolar nasal", "example": {"with_article": "النَّاس", "transliteration": "an-nas", "meaning": "die Menschen", "ref": "114:1"}}
   ],

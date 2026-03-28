@@ -1,5 +1,14 @@
 {
-  "meta": { "title": "Hamza-Sitzregeln (كرسي الهمزة)", "description": "Systematisches Regelsystem für die Platzierung der Hamza im Schriftbild", "module": 1, "answerKey": { "0": "auf der Zeile (ء)", "1": "Alif-Sitz (أ)", "2": "Waw-Sitz (ؤ)", "3": "Ya-Sitz (ئ)" } },
+  "meta": {
+    "title": "Hamza-Sitzregeln (كرسي الهمزة)",
+    "description": "Systematisches Regelsystem für die Platzierung der Hamza im Schriftbild",
+    "module": 1,
+    "answerKey": { "0": "auf der Zeile (ء)", "1": "Alif-Sitz (أ)", "2": "Waw-Sitz (ؤ)", "3": "Ya-Sitz (ئ)" },
+    "sources": [
+      {"name": "Wright's Arabic Grammar Vol I", "url": "https://archive.org/details/WrightsArabicGrammarVol1"},
+      {"name": "Quranic Arabic Corpus", "url": "https://corpus.quran.com"}
+    ]
+  },
   "rules": {
     "hierarchy": { "title": "Vokal-Hierarchie", "content": "Die Hamza-Platzierung folgt einer Hierarchie der Vokale: Kasra (i) > Damma (u) > Fatha (a) > Sukun (kein Vokal). Der stärkere Vokal bestimmt den Träger.", "ranking": ["Kasra → Ya-Sitz (ئ)", "Damma → Waw-Sitz (ؤ)", "Fatha → Alif-Sitz (أ)", "Sukun → auf der Zeile (ء)"] },
     "positions": [
@@ -9,7 +18,13 @@
     ],
     "specialCases": [
       { "title": "Hamza nach langem Vokal", "rule": "Nach einem langen Vokal (ا, و, ي) und vor Sukun → Hamza auf der Zeile", "example": {"word": "جَاءَ", "ref": "2:87", "explanation": "Hamza nach langem Alif → Hamza steht auf der Zeile (على السطر), weil zwei aufeinanderfolgende Alifs nicht geschrieben werden können"}},
-      { "title": "Doppel-Alif-Vermeidung", "rule": "Zwei aufeinanderfolgende Alifs werden vermieden. Stattdessen Madda-Zeichen (آ).", "example": {"word": "آمَنُوا", "ref": "2:9", "explanation": "Hamza + Alif → آ (Madda)"}}
+      { "title": "Doppel-Alif-Vermeidung", "rule": "Zwei aufeinanderfolgende Alifs werden vermieden. Stattdessen Madda-Zeichen (آ).", "example": {"word": "آمَنُوا", "ref": "2:9", "explanation": "Hamza + Alif → آ (Madda)"}},
+      {
+        "id": "hamza_tanwin",
+        "title": "Hamza am Wortende mit Tanwin",
+        "rule": "Bei Tanwin al-Fath (ً-) wird ein Alif-Träger angehängt (z.B. شَيْئًا), es sei denn, der Buchstabe vor dem Hamza ist bereits ein Alif (z.B. مَاءً — kein zusätzliches Alif).",
+        "examples": ["شَيْئًا (5:32)", "مَاءً (18:29)", "جُزْءًا (15:44)"]
+      }
     ]
   },
   "exercises": [

@@ -2,7 +2,10 @@
   "meta": {
     "title": "Mushaf-Notation und Gliederungszeichen",
     "description": "Referenz für die Zeichen und Markierungen die in gedruckten Mushaf-Ausgaben erscheinen.",
-    "sources": ["Wright, W. (1896-1898). A Grammar of the Arabic Language", "Quranic Arabic Corpus (corpus.quran.com)"]
+    "sources": [
+      {"name": "Wright's Arabic Grammar Vol I", "url": "https://archive.org/details/WrightsArabicGrammarVol1"},
+      {"name": "Quranic Arabic Corpus", "url": "https://corpus.quran.com"}
+    ]
   },
   "divisions": [
     {
@@ -53,6 +56,13 @@
       "name": "Surenname und Verszahl",
       "description": "Vor jeder Sure steht ein Header mit dem Surennamen (arabisch) und der Verszahl. Diese Angabe ist nicht Teil des Qurantextes — sie ist eine spätere redaktionelle Ergänzung.",
       "note": "Surennamen und Verszahlen dienen der Navigation im Text."
+    },
+    {
+      "id": "sajda",
+      "name": "Sajda-Zeichen",
+      "nameArabic": "سجدة",
+      "description": "Markiert Stellen, an denen eine Niederwerfung überliefert ist. 15 Stellen in der gängigsten Zählung.",
+      "note": "Rein redaktionelle Markierung, nicht Teil des Korantextes."
     }
   ]
 }

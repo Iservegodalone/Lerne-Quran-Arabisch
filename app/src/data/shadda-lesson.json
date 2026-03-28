@@ -2,7 +2,10 @@
   "meta": {
     "title": "Shadda — Konsonantengemination",
     "description": "Was ist Shadda, wie erkennt man sie, wie liest man sie im Rasm? Systematische Behandlung der Konsonantenverdopplung im Quranischen Arabisch — von der phonologischen Grundlage über morphologische Muster bis zur Erkennung im Konsonantentext.",
-    "sources": ["Wright, W. (1896-1898). A Grammar of the Arabic Language, Vol. I", "Quranic Arabic Corpus (corpus.quran.com)"]
+    "sources": [
+      {"name": "Wright's Arabic Grammar Vol I", "url": "https://archive.org/details/WrightsArabicGrammarVol1"},
+      {"name": "Quranic Arabic Corpus", "url": "https://corpus.quran.com"}
+    ]
   },
   "lessons": [
     {

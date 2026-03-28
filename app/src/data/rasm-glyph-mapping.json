@@ -4,7 +4,11 @@
     "description": "Systematische Zuordnung aller undifferenzierten Rasm-Glyphen zu den möglichen Buchstaben des arabischen Alphabets. Essentiell für das Verständnis des Weges vom Rasm zum vokalisierten Text.",
     "approach": "Im fruehen Rasm haben mehrere Buchstaben dieselbe Grundform. Erst die Hinzufuegung von diakritischen Punkten (I'jam) macht die Buchstaben eindeutig. Diese Tabelle zeigt für jede Rasm-Grundform alle möglichen Buchstaben.",
     "totalGroups": 15,
-    "note": "Die 28 arabischen Buchstaben reduzieren sich im Rasm auf ca. 15-18 Grundformen. Die häufigsten Mehrdeutigkeiten betreffen die Gruppen ب/ت/ث/ن/ي und ج/ح/خ."
+    "note": "Die 28 arabischen Buchstaben reduzieren sich im Rasm auf ca. 15-18 Grundformen. Die häufigsten Mehrdeutigkeiten betreffen die Gruppen ب/ت/ث/ن/ي und ج/ح/خ.",
+    "sources": [
+      {"name": "Wright's Arabic Grammar Vol I", "url": "https://archive.org/details/WrightsArabicGrammarVol1"},
+      {"name": "Quranic Arabic Corpus", "url": "https://corpus.quran.com"}
+    ]
   },
   "groups": [
     {

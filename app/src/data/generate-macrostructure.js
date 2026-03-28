@@ -212,7 +212,7 @@ if (!existingNums.has(13)) {
       segments: [
         {verses: "13:1-4", label: "Eröffnung: Schöpfungszeichen", function: "Muqatta'at, Himmel und Erde als Zeichen", marker: "المر — Muqatta'at, هُوَ الَّذِي — Relativsatzkette"},
         {verses: "13:5-18", label: "Argumentation: Leugner vs. Zeichen", function: "Auferstehungsargument, Gleichnisse", marker: "وَإِن تَعْجَبْ فَعَجَبٌ قَوْلُهُمْ — rhetorischer Ausruf"},
-        {verses: "13:19-29", label: "Kontrastpaar: Wissende vs. Unwissende", function: "Vertragstreue, Gottesfurcht", marker: "أَفَمَن يَعْلَمُ — rhetorische Frage als Kontrastmarker"},
+        {verses: "13:19-29", label: "Kontrastpaar: Wissende vs. Unwissende", function: "Vertragstreue, Achtsamkeit", marker: "أَفَمَن يَعْلَمُ — rhetorische Frage als Kontrastmarker"},
         {verses: "13:30-37", label: "Gesandtentrost und Widerlegung", function: "Quran-Würde, Ablehnung", marker: "كَذَٰلِكَ أَرْسَلْنَاكَ — Sendeformel"},
         {verses: "13:38-43", label: "Schluss: Gottes Urteil", function: "Gottes Wissen und Schlusswort", marker: "وَيَقُولُ الَّذِينَ كَفَرُوا — Leugnerrede + Schlussantwort"}
       ],
@@ -574,7 +574,7 @@ if (!existingNums.has(33)) {
     structure: {
       type: "Ereignisbezogene Mischstruktur",
       segments: [
-        {verses: "33:1-8", label: "Eröffnung: Gottesfurcht und Status des Nabi", function: "Imperativ an den Nabi und Heuchler", marker: "يَا أَيُّهَا النَّبِيُّ اتَّقِ اللَّهَ — Vokativ an den Nabi"},
+        {verses: "33:1-8", label: "Eröffnung: Achtsamkeit und Status des Nabi", function: "Imperativ an den Nabi und Heuchler", marker: "يَا أَيُّهَا النَّبِيُّ اتَّقِ اللَّهَ — Vokativ an den Nabi"},
         {verses: "33:9-27", label: "Angriff der Ahzab", function: "Bedrohung, Heuchler, Hilfe des Textsprechers", marker: "يَا أَيُّهَا الَّذِينَ آمَنُوا اذْكُرُوا — Erinnerungsformel"},
         {verses: "33:28-34", label: "Ehefrauen des Nabi", function: "Anweisungen an die Ehefrauen des Nabi", marker: "يَا أَيُّهَا النَّبِيُّ قُل لِأَزْوَاجِكَ — Vokativ + قُلْ"},
         {verses: "33:35-44", label: "Verhaltensnormen und Lohn", function: "Tugendkatalog, Zaynab-Passage", marker: "إِنَّ الْمُسْلِمِينَ وَالْمُسْلِمَاتِ — Doppelaufzaehlung"},
@@ -689,7 +689,7 @@ if (!existingNums.has(39)) {
       segments: [
         {verses: "39:1-7", label: "Eröffnung: Offenbarung und Aufrichtigkeit", function: "Herabsendung, Warnung vor Beigesellung", marker: "تَنزِيلُ الْكِتَابِ مِنَ اللَّهِ — Offenbarungsformel"},
         {verses: "39:8-21", label: "Menschliches Verhalten in Not", function: "Kontrastpaare, Zeichen, Gleichnisse", marker: "وَإِذَا مَسَّ الْإِنسَانَ ضُرٌّ — Verhaltensmuster"},
-        {verses: "39:22-35", label: "Quranwuerde und Gottesfurcht", function: "Quran als bestes Wort, Kontrastpaare", marker: "اللَّهُ نَزَّلَ أَحْسَنَ الْحَدِيثِ — Quranattribut"},
+        {verses: "39:22-35", label: "Quranwuerde und Achtsamkeit", function: "Quran als bestes Wort, Kontrastpaare", marker: "اللَّهُ نَزَّلَ أَحْسَنَ الْحَدِيثِ — Quranattribut"},
         {verses: "39:36-52", label: "Trost und Argumentation", function: "Gottes Genügesamkeit, Schlüsselmacht", marker: "أَلَيْسَ اللَّهُ بِكَافٍ عَبْدَهُ — rhetorische Frage"},
         {verses: "39:53-63", label: "Reue-Block", function: "Aufruf zur Umkehr, Gottes Vergebung", marker: "قُلْ يَا عِبَادِيَ الَّذِينَ أَسْرَفُوا — Vokativ + Vergebungszusage"},
         {verses: "39:64-75", label: "Schluss: Gerichtsszene in Scharen", function: "Ablehnung der Götzen, Scharen zum Paradies/Hölle", marker: "وَسِيقَ الَّذِينَ كَفَرُوا إِلَىٰ جَهَنَّمَ زُمَرًا — Scharenformel (Surenname)"}
@@ -900,7 +900,7 @@ if (!existingNums.has(49)) {
         {verses: "49:11-13", label: "Zwischenmenschliche Ethik", function: "Spottverbot, Verleumdungsverbot, Völkervielfalt", marker: "يَا أَيُّهَا الَّذِينَ آمَنُوا لَا يَسْخَرْ — Vokativ + Prohibitiv"},
         {verses: "49:14-18", label: "Schluss: Glaube vs. Islam", function: "Beduinen und wahre Hingabe, Gottes Wissen", marker: "قَالَتِ الْأَعْرَابُ آمَنَّا قُل لَمْ تُؤْمِنُوا — Korrekturformel"}
       ],
-      keyFeature: "Fünf يَا أَيُّهَا الَّذِينَ آمَنُوا-Anreden in 18 Versen (höchste Dichte pro Vers). V.13 (إِنَّ أَكْرَمَكُمْ عِندَ اللَّهِ أَتْقَاكُمْ) formuliert Würde durch Gottesfurcht, nicht Abstammung. V.14 unterscheidet zwischen آمَنَّا und أَسْلَمْنَا."
+      keyFeature: "Fünf يَا أَيُّهَا الَّذِينَ آمَنُوا-Anreden in 18 Versen (höchste Dichte pro Vers). V.13 (إِنَّ أَكْرَمَكُمْ عِندَ اللَّهِ أَتْقَاكُمْ) formuliert Würde durch Achtsamkeit, nicht Abstammung. V.14 unterscheidet zwischen آمَنَّا und أَسْلَمْنَا."
     }
   });
 }
@@ -1067,7 +1067,7 @@ if (!existingNums.has(59)) {
         {verses: "59:1-4", label: "Eröffnung: Lobpreis und Vertreibung", function: "Lobpreis, Vertreibung der leugnenden Schriftbesitzer", marker: "سَبَّحَ لِلَّهِ — Lobpreis, هُوَ الَّذِي أَخْرَجَ الَّذِينَ كَفَرُوا — narrativer Bezug"},
         {verses: "59:5-10", label: "Beuteregelung und Muhajirin", function: "Palmen, Fay'-Verteilung, Muhajirun und Ansar", marker: "مَا أَفَاءَ اللَّهُ — Rechtsformel"},
         {verses: "59:11-17", label: "Heuchler und Schriftbesitzer", function: "Falsche Versprechen, Gleichnis", marker: "أَلَمْ تَرَ إِلَى الَّذِينَ نَافَقُوا — rhetorische Frage"},
-        {verses: "59:18-21", label: "Ermahnung und Qurangleichnis", function: "Gottesfurcht, Berg-Gleichnis", marker: "يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ — Vokativ, لَوْ أَنزَلْنَا هَٰذَا الْقُرْآنَ عَلَىٰ جَبَلٍ — Irrealis"},
+        {verses: "59:18-21", label: "Ermahnung und Qurangleichnis", function: "Achtsamkeit, Berg-Gleichnis", marker: "يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ — Vokativ, لَوْ أَنزَلْنَا هَٰذَا الْقُرْآنَ عَلَىٰ جَبَلٍ — Irrealis"},
         {verses: "59:22-24", label: "Schluss: Gottes-Namen-Hymnus", function: "Konzentration von Attributen", marker: "هُوَ اللَّهُ الَّذِي لَا إِلَٰهَ إِلَّا هُوَ — dreifache Attributkette"}
       ],
       keyFeature: "V.22-24 enthalten die längste zusammenhängende Attributkette (الرَّحْمَٰنُ الرَّحِيمُ, الْمَلِكُ, الْقُدُّوسُ, السَّلَامُ, الْمُؤْمِنُ, الْمُهَيْمِنُ, الْعَزِيزُ, الْجَبَّارُ, الْمُتَكَبِّرُ, الْخَالِقُ, الْبَارِئُ, الْمُصَوِّرُ)."
@@ -1161,7 +1161,7 @@ if (!existingNums.has(64)) {
       segments: [
         {verses: "64:1-4", label: "Eröffnung: Lobpreis und Schöpfung", function: "Alles lobpreist Gott, Kontrastpaar", marker: "يُسَبِّحُ لِلَّهِ مَا فِي السَّمَاوَاتِ — Lobpreisformel"},
         {verses: "64:5-10", label: "Historische Warnung und Auferstehung", function: "Fruehere Völker, Tag der Versammlung", marker: "أَلَمْ يَأْتِكُمْ نَبَأُ الَّذِينَ كَفَرُوا — rhetorische Frage"},
-        {verses: "64:11-13", label: "Prüfung und Gottvertrauen", function: "Unheil als Prüfung", marker: "مَا أَصَابَ مِن مُصِيبَةٍ إِلَّا بِإِذْنِ اللَّهِ — Schicksalsformel"},
+        {verses: "64:11-13", label: "Prüfung und Vertrauen", function: "Unheil als Prüfung", marker: "مَا أَصَابَ مِن مُصِيبَةٍ إِلَّا بِإِذْنِ اللَّهِ — Schicksalsformel"},
         {verses: "64:14-18", label: "Schluss: Familie und Spende", function: "Familie als Prüfung, Spende als Darlehen", marker: "يَا أَيُّهَا الَّذِينَ آمَنُوا إِنَّ مِنْ أَزْوَاجِكُمْ — Familienwarnung, يَوْمَ التَّغَابُنِ — Tag der Übervorteilung (Surenname)"}
       ],
       keyFeature: "V.9 erwähnt den يَوْمَ التَّغَابُنِ ('Tag der Übervorteilung'), der der Sure den Namen gibt. Die Sure verbindet kosmologische Eröffnung (Lobpreis, Schöpfung) mit sozial-ethischen Anweisungen (Familie, Spende)."
@@ -1178,7 +1178,7 @@ if (!existingNums.has(65)) {
     structure: {
       type: "Scheidungs-Gesetzgebung",
       segments: [
-        {verses: "65:1-3", label: "Eröffnung: Scheidungsregeln", function: "Wartefrist, Gottesfurcht", marker: "يَا أَيُّهَا النَّبِيُّ إِذَا طَلَّقْتُمُ — Vokativ an Propheten, Scheidung (Surenname)"},
+        {verses: "65:1-3", label: "Eröffnung: Scheidungsregeln", function: "Wartefrist, Achtsamkeit", marker: "يَا أَيُّهَا النَّبِيُّ إِذَا طَلَّقْتُمُ — Vokativ an Propheten, Scheidung (Surenname)"},
         {verses: "65:4-7", label: "Detailbestimmungen", function: "Wartefrist für verschiedene Fälle, Unterhalt", marker: "وَاللَّائِي يَئِسْنَ — Fallunterscheidung"},
         {verses: "65:8-10", label: "Warnung: Ungehorsame Städte", function: "Historische Warnung", marker: "وَكَأَيِّن مِن قَرْيَةٍ — Quantifizierungsformel"},
         {verses: "65:11-12", label: "Schluss: Licht und sieben Himmel", function: "Gesandter als Licht, kosmischer Verweis", marker: "اللَّهُ الَّذِي خَلَقَ سَبْعَ سَمَاوَاتٍ — Schöpfungsformel als Schluss"}
@@ -1514,7 +1514,7 @@ if (!existingNums.has(92)) {
         {verses: "92:12-13", label: "Überleitung", function: "Gottes Führung", marker: "إِنَّ عَلَيْنَا لَلْهُدَىٰ — Pflichtformel"},
         {verses: "92:14-21", label: "Kontrastpaar II: Warnung und Lohn", function: "Feuer für Leugner, Lohn für sich Hütende", marker: "فَأَنذَرْتُكُمْ نَارًا تَلَظَّىٰ — Warnformel, وَلَسَوْفَ يَرْضَىٰ — Schluss"}
       ],
-      keyFeature: "V.4 (إِنَّ سَعْيَكُمْ لَشَتَّىٰ, 'euer Streben ist vielfaeltig') ist die zentrale These. Die فَأَمَّا-Konstruktion (V.5-10) bildet das ethische Kontrastpaar: Geben+Gottesfurcht vs. Geiz+Selbstgenügsam."
+      keyFeature: "V.4 (إِنَّ سَعْيَكُمْ لَشَتَّىٰ, 'euer Streben ist vielfaeltig') ist die zentrale These. Die فَأَمَّا-Konstruktion (V.5-10) bildet das ethische Kontrastpaar: Geben+Achtsamkeit vs. Geiz+Selbstgenügsam."
     }
   });
 }

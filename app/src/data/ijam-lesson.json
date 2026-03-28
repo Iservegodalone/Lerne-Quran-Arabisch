@@ -3,7 +3,11 @@
     "module": 1,
     "title": "Das I'jam-System und kontextuelle Disambiguation",
     "description": "Zwei Lektionen zum diakritischen Punktesystem der arabischen Schrift — vom punktlosen Rasm zur eindeutigen Lesung.",
-    "passingScore": 80
+    "passingScore": 80,
+    "sources": [
+      {"name": "Wright's Arabic Grammar Vol I", "url": "https://archive.org/details/WrightsArabicGrammarVol1"},
+      {"name": "Quranic Arabic Corpus", "url": "https://corpus.quran.com"}
+    ]
   },
   "lessons": [
     {

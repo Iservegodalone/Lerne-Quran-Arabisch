@@ -665,7 +665,7 @@
             "answer": {
               "form": "VI"
             },
-            "hint": "Präfix تَـ + Alif nach dem 2. Radikal (فَاعَلَ-Struktur) = Form VI (Reziprok-Reflexiv)"
+            "hint": "Präfix تَـ + Alif nach dem 1. Radikal (فَاعَلَ-Struktur) = Form VI (Reziprok-Reflexiv)"
           },
           {
             "type": "pattern_recognition",
@@ -2470,10 +2470,10 @@
                 "analysis": "Hohles Verb. 3.m.pl. Perfekt. Sie sagten. Das و der Wurzel wird zu Alif."
               },
               {
-                "location": "20:81",
+                "location": "—",
                 "word": "قَائِلٌ",
                 "root": "ق-و-ل",
-                "analysis": "Hohles Verb. Aktives Partizip Form I auf dem Muster فَاعِل. Das و der Wurzel wird zu Alif (قَوَلَ → قَالَ → قَائِل)."
+                "analysis": "Hohles Verb. Aktives Partizip Form I auf dem Muster فَاعِل. Das و der Wurzel wird zu Alif (قَوَلَ → قَالَ → قَائِل). Als isolierte Form im Quran nicht belegt."
               },
               {
                 "location": "112:3",
@@ -3184,8 +3184,8 @@
                 "—"
               ],
               [
-                "مَفْعَل",
-                "mafʿal",
+                "مَفْعِل",
+                "mafʿil",
                 "مَرْجِع",
                 "Rückkehr(ort)",
                 "3:14"
@@ -3721,7 +3721,7 @@
                 "location": "35:1",
                 "word": "الْمَلَائِكَةِ",
                 "root": "م-ل-ك",
-                "analysis": "Gebrochener Plural (Muster فَعَالِئَة, semi-regulär mit Tā'-marbūṭa-Endung). Die Engel. Singular: مَلَك."
+                "analysis": "Gebrochener Plural (Sonderpluralform, nicht auf ein Standardmuster zurückführbar). Die Engel. Singular: مَلَك."
               }
             ]
           },
@@ -8703,7 +8703,7 @@
               "Sie haben keine Masdare"
             ],
             "correct": 0,
-            "explanation": "Form X folgt demselben Muster: Perfekt mit langem A (اِسْتَقَامَ), Imperfekt mit langem I (يَسْتَقِيمُ). Das Aktivpartizip ist مُسْتَقِيم (Form مُسْتَفِيل)."
+            "explanation": "Form X folgt demselben Muster: Perfekt mit langem A (اِسْتَقَامَ), Imperfekt mit langem I (يَسْتَقِيمُ). Das Aktivpartizip ist مُسْتَقِيم (Form مُسْتَفْعِل)."
           },
           {
             "question": "Warum lautet der Imperativ von أَقَامَ 'أَقِمْ' und nicht 'أَقِيمْ'?",
@@ -8891,9 +8891,9 @@
                 "explanation": "دُعِيَ würde hier nicht stehen, aber: دَعَا (er rief/bat) → Passiv: دُعِيَ (er wurde gerufen/gebeten). Das Verb دَعَا hat Wurzel د-ع-و (defektiv). Passiv Perfekt: دُعِيَ. Imperfekt Passiv: يُدْعَى."
               },
               {
-                "ref": "29:36",
-                "arabic": "وَلَا تَعْثَوْا فِي الْأَرْضِ مُفْسِدِينَ",
-                "explanation": "Hier zum Vergleich: يُقَالُ (es wird gesagt) ist das Imperfekt Passiv von قَالَ. Muster: يُفَالُ. Der mittlere Waw erscheint als langer ā-Vokal, das Präfix hat Damma (nicht ya-Fatha des Aktivs)."
+                "ref": "—",
+                "arabic": "يُقَالُ",
+                "explanation": "يُقَالُ (es wird gesagt) ist das Imperfekt Passiv von قَالَ. Muster: يُفَالُ. Der mittlere Waw erscheint als langer ā-Vokal, das Präfix hat Damma (nicht ya-Fatha des Aktivs)."
               },
               {
                 "ref": "12:31",

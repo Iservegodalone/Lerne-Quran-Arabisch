@@ -51,7 +51,7 @@
       "quranicExamples": [
         { "word": "بِسْمِ اللَّهِ", "location": "1:1", "case": "genitive", "explanation": "اسْم im Genitiv nach Präposition بِ, اللَّهِ als Mudaf ilayhi im Genitiv" },
         { "word": "رَبِّ الْعَالَمِينَ", "location": "1:2", "case": "genitive", "explanation": "رَبّ im Genitiv als Apposition/Badal zu اللَّهِ" },
-        { "word": "يَوْمَ الدِّينِ", "location": "1:4", "case": "accusative", "explanation": "يَوْم im Akkusativ (Zeitadverbial oder direkte Zuordnung)" }
+        { "word": "يَوْمِ الدِّينِ", "location": "1:4", "case": "genitive", "explanation": "يَوْمِ im Genitiv als Muḍāf ilayhi von مَالِكِ (Hafs-Lesung: مَالِكِ يَوْمِ الدِّينِ)" }
       ]
     },
     {
@@ -162,7 +162,7 @@
         "Nicht als Diminutiv"
       ],
       "quranicExamples": [
-        { "word": "أَبُوهُمْ", "location": "12:8", "case": "nominative", "explanation": "Nominativ als Subjekt: وَأَبُونَا شَيْخٌ كَبِيرٌ" },
+        { "word": "أَبُوهُمْ", "location": "12:78", "case": "nominative", "explanation": "Nominativ als Subjekt: إِنَّ لَهُ أَبًا شَيْخًا كَبِيرًا (12:78)" },
         { "word": "أَبَاهُمْ", "location": "12:61", "case": "accusative", "explanation": "Akkusativ als Objekt" },
         { "word": "أَبِيكُمْ", "location": "12:59", "case": "genitive", "explanation": "Genitiv als Idafa-Erstglied im Genitiv-Kontext" },
         { "word": "ذُو الْعَرْشِ", "location": "85:15", "case": "nominative", "explanation": "Nominativ, ذُو als Idafa-Erstglied: Besitzer des Throns" },
@@ -277,6 +277,22 @@
         { "word": "الَّذِينَ", "location": "2:3", "case": "—", "explanation": "Relativpronomen Plural — formunveränderlich, aber hier als Subjekt in Nominativ-Funktion" },
         { "word": "إِنَّ", "location": "2:6", "case": "—", "explanation": "Partikel — regiert Akkusativ für das Subjekt des Nominalsatzes" },
         { "word": "حَيْثُ", "location": "2:35", "case": "—", "explanation": "Ortsadverb — formunveränderlich, auf Damma gebaut" }
+      ]
+    },
+    {
+      "id": "alif_maqsura",
+      "title": "Nomina auf Alif Maqṣūra (الاسم المقصور)",
+      "description": "Nomina, die auf Alif Maqṣūra (ـى / ـا) enden. Der Kasus ist virtuell (مُقَدَّر) — die Alif-Endung verhindert sichtbare Kasusmarkierung.",
+      "forms": {
+        "nominative": "هُدًى (virtuell: هُدًى-u)",
+        "accusative": "هُدًى (virtuell: هُدًى-a)",
+        "genitive": "هُدًى (virtuell: هُدًى-i)"
+      },
+      "note": "Alle drei Kasus sind äußerlich identisch. Der Kasus wird aus dem syntaktischen Kontext erschlossen.",
+      "quranicExamples": [
+        {"word": "هُدًى", "location": "2:2", "case": "nominative", "explanation": "Prädikativ (Khabar) — virtueller Nominativ"},
+        {"word": "مُوسَى", "location": "2:51", "case": "genitive", "explanation": "Nach Präposition — virtueller Genitiv, keine sichtbare Kasusendung (diptotischer Eigenname)"},
+        {"word": "عِيسَى", "location": "2:87", "case": "accusative", "explanation": "Objekt von آتَيْنَا — virtueller Akkusativ"}
       ]
     }
   ],
