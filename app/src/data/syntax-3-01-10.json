@@ -102,7 +102,7 @@
             {
               "location": "112:1",
               "word": "قُلْ هُوَ اللَّهُ أَحَدٌ",
-              "analysis": "Standardanalyse: هُوَ ist ضمير الشأن (Pronomen der Angelegenheit). Der Satz اللَّهُ أَحَدٌ ist als Ganzes sein Khabar. Alternative Analyse: هُوَ = Mubtadaʾ, اللَّهُ = Badal, أَحَدٌ = Khabar."
+              "analysis": "Analyse 1: هُوَ ist ضمير الشأن (Pronomen der Angelegenheit). Der Satz اللَّهُ أَحَدٌ ist als Ganzes sein Khabar. Analyse 2: هُوَ = Mubtadaʾ, اللَّهُ = Badal, أَحَدٌ = Khabar."
             }
           ]
         }
@@ -1193,7 +1193,7 @@
             {
               "location": "35:2",
               "word": "مَا يَفْتَحِ اللَّهُ لِلنَّاسِ مِن رَّحْمَةٍ فَلَا مُمْسِكَ لَهَا",
-              "analysis": "مَا als konditionales Pronomen. Bedingung: 'Was auch immer Gott den Menschen an Barmherzigkeit öffnet'. Antwort mit فَ: 'es gibt keinen, der es zurückhält'. Drückt Gottes uneingeschränkte Souveränität aus."
+              "analysis": "مَا als konditionales Pronomen. Bedingung: 'Was auch immer Gott den Menschen an Barmherzigkeit öffnet'. Antwort mit فَ: 'es gibt keinen, der es zurückhält'. Der Konditionalsatz beschreibt eine Handlung ohne einschränkende Bedingung."
             },
             {
               "location": "5:64",
@@ -1482,13 +1482,13 @@
   {
     "id": "3.8",
     "title": "Schwur-Konstruktionen",
-    "description": "Der Schwur (Qasam) ist ein typisches Stilmittel des Quran. Gott schwört bei Seinen Schöpfungen — erkennbar an وَ + Nomen im Genitiv. Die Antwort auf den Schwur folgt oft verzögert.",
+    "description": "Der Schwur (Qasam) ist ein typisches Stilmittel des Quran — erkennbar an وَ + Nomen im Genitiv. Die Antwort auf den Schwur folgt oft verzögert.",
     "learnContent": {
       "sections": [
         {
           "type": "explanation",
           "title": "Aufbau einer Schwur-Konstruktion",
-          "content": "Die arabische Schwur-Konstruktion (القَسَم / al-Qasam) besteht aus zwei Teilen:\n\n1. Der Schwur selbst (القَسَم): Eine Schwurpartikel + Nomen im Genitiv\n2. Die Antwort auf den Schwur (جَوَاب القَسَم): Die eigentliche Aussage, die bekräftigt wird\n\nDie Schwurpartikeln:\n- وَ (wa) — Die häufigste im Quran. وَالْفَجْرِ = 'Beim Morgengrauen!'\n- بِ (bi) — Etwas seltener, aber auch im Quran: بِاللَّهِ = 'Bei Gott!'\n- تَ (ta) — Selten, nur mit اللَّه: تَاللَّهِ = 'Bei Gott!'\n\nNach der Schwurpartikel steht das Nomen IMMER im Genitiv (Jarr).\n\nDie Antwort auf den Schwur wird oft eingeleitet durch:\n- إِنَّ (Bekräftigung): وَالْعَصْرِ إِنَّ الْإِنسَانَ لَفِي خُسْرٍ\n- لَ (Bekräftigungs-Lām): وَالشَّمْسِ وَضُحَاهَا ... قَدْ أَفْلَحَ مَن زَكَّاهَا\n\nIm Quran schwört Gott oft bei Teilen Seiner Schöpfung: der Sonne, dem Morgen, der Nacht, den Sternen, dem Feigenbaum und der Olive. Dies lenkt die Aufmerksamkeit auf die Größe dieser Schöpfungen.",
+          "content": "Die arabische Schwur-Konstruktion (القَسَم / al-Qasam) besteht aus zwei Teilen:\n\n1. Der Schwur selbst (القَسَم): Eine Schwurpartikel + Nomen im Genitiv\n2. Die Antwort auf den Schwur (جَوَاب القَسَم): Die eigentliche Aussage, die bekräftigt wird\n\nDie Schwurpartikeln:\n- وَ (wa) — Die häufigste im Quran. وَالْفَجْرِ = 'Beim Morgengrauen!'\n- بِ (bi) — Etwas seltener, aber auch im Quran: بِاللَّهِ = 'Bei Gott!'\n- تَ (ta) — Selten, nur mit اللَّه: تَاللَّهِ = 'Bei Gott!'\n\nNach der Schwurpartikel steht das Nomen IMMER im Genitiv (Jarr).\n\nDie Antwort auf den Schwur wird oft eingeleitet durch:\n- إِنَّ (Bekräftigung): وَالْعَصْرِ إِنَّ الْإِنسَانَ لَفِي خُسْرٍ\n- لَ (Bekräftigungs-Lām): وَالشَّمْسِ وَضُحَاهَا ... قَدْ أَفْلَحَ مَن زَكَّاهَا\n\nIm Quran finden sich Schwurkonstruktionen mit verschiedenen Nomina im Genitiv: der Sonne, dem Morgen, der Nacht, den Sternen, dem Feigenbaum und der Olive.",
           "arabicExamples": [
             {
               "arabic": "وَالْفَجْرِ",

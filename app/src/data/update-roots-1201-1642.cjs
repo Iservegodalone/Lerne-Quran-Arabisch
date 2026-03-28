@@ -179,7 +179,7 @@ const meanings = {
   "و ف ر": "reichlich, vollstaendig",
   "ق ص ف": "zerbrechen (Wind/Sturm)",
   "د ل ك": "Neigung, Untergehen (Sonne)",
-  "ه ج د": "nachts wachen, Nachtgebet",
+  "ه ج د": "nachts wachen, naechtliche Zuwendung",
   "خ ب و": "erloeschen (Feuer)",
   "ف ج و": "weite Oeffnung, Hoehle",
   "ي ق ظ": "wach, wachsam",

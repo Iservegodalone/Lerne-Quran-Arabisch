@@ -115,7 +115,7 @@
             {
               "arabic": "سُبْحَانَ اللَّهِ",
               "transliteration": "subḥāna llāhi",
-              "meaning": "Preis sei Gott! (absoluter Akkusativ mit weggelassenem Verb أُسَبِّحُ)"
+              "meaning": "Preis sei Gott! (absoluter Akkusativ — das Fehlen eines regierenden Verbs wird grammatisch durch ein implizites Verb, z.B. أُسَبِّحُ, erklärt)"
             }
           ]
         }
@@ -133,7 +133,7 @@
             "Es ist ein Adverb der Zeit"
           ],
           "answer": "Es verstärkt die Realität der Handlung als absoluter Akkusativ",
-          "explanation": "تَكْلِيمًا ist das Masdar (Verbal-Nomen) von كَلَّمَ und steht im Akkusativ als absoluter Akkusativ (Mafʿūl Muṭlaq). Es bekräftigt, dass das Sprechen Gottes zu Musa wirklich und direkt stattfand."
+          "explanation": "تَكْلِيمًا ist das Masdar (Verbal-Nomen) von كَلَّمَ und steht im Akkusativ als absoluter Akkusativ (Mafʿūl Muṭlaq). Der Maf'ul Mutlaq تَكْلِيمًا verstärkt die Verbalhandlung كَلَّمَ grammatisch."
         },
         {
           "type": "identification",
@@ -178,7 +178,7 @@
             "Es ist eine Iḍāfa-Konstruktion"
           ],
           "answer": "Es ist ein absoluter Akkusativ mit weggelassenem Verb (أُسَبِّحُ)",
-          "explanation": "سُبْحَانَ ist ein Masdar im Akkusativ. Das zugehörige Verb أُسَبِّحُ (ich preise) ist weggelassen. Die vollständige Form wäre: أُسَبِّحُ اللَّهَ سُبْحَانَهُ. Solche elliptischen Formen sind im Quran häufig."
+          "explanation": "سُبْحَانَ ist ein Masdar im Akkusativ. Das Fehlen eines regierenden Verbs wird grammatisch durch ein implizites Verb (z.B. أُسَبِّحُ — ich preise) erklärt. Die rekonstruierte Form wäre: أُسَبِّحُ اللَّهَ سُبْحَانَهُ. Solche elliptischen Formen sind im Quran häufig."
         }
       ]
     },
@@ -566,7 +566,7 @@
             "إِلَّا — Ausnahmepartikel: 'außer'",
             "اللَّهُ — das Ausgenommene. Steht im NOMINATIV (Ḍamma).",
             "Warum Nominativ? Weil der Satz verneint und unvollständig ist (das Prädikat von لَا ist weggelassen). In diesem Fall folgt das Ausgenommene dem Kasus, den es im Satz haben würde, wenn إِلَّا nicht da wäre.",
-            "Rekonstruktion: لَا إِلَهَ [مَوْجُودٌ] إِلَّا اللَّهُ — Kein Gott [ist existent] außer Gott. اللَّهُ wäre das Subjekt des impliziten Prädikats, daher Nominativ.",
+            "Rekonstruktion: لَا إِلَهَ [مَوْجُودٌ / حَقٌّ] إِلَّا اللَّهُ — Kein Gott [ist existent / ist wahr] außer Gott. Ein mögliches implizites Prädikat wäre z.B. مَوْجُودٌ oder حَقٌّ. اللَّهُ wäre das Subjekt des impliziten Prädikats, daher Nominativ.",
             "Alternative Analyse: اللَّهُ ist Badal (Apposition) zu dem impliziten Pronomen in der verneinten Aussage und folgt daher dem Nominativ.",
             "Einer der häufig zitierten Sätze des Qurans — ein kanonisches Beispiel für die lā-nafiya-li-l-jins-Konstruktion."
           ]
@@ -663,7 +663,7 @@
             "Weil es ein Eigenname ist"
           ],
           "answer": "Weil es der Kasus nach Satzfunktion in einem verneinten, unvollständigen Satz ist",
-          "explanation": "In einem verneinten Satz ohne explizites Bezugswort (unvollständig/nāqiṣ) folgt das Ausgenommene dem Kasus, den es nach seiner Satzfunktion haben würde. اللَّهُ wäre Subjekt des weggelassenen Prädikats مَوْجُودٌ, daher Nominativ."
+          "explanation": "In einem verneinten Satz ohne explizites Bezugswort (unvollständig/nāqiṣ) folgt das Ausgenommene dem Kasus, den es nach seiner Satzfunktion haben würde. اللَّهُ wäre Subjekt eines weggelassenen Prädikats (z.B. مَوْجُودٌ oder حَقٌّ), daher Nominativ."
         },
         {
           "type": "case_determination",
@@ -1355,7 +1355,7 @@
           "type": "sentence_analysis",
           "prompt": "Analysiere alle Bekräftigungselemente in: وَلَيَنْصُرَنَّ اللَّهُ مَنْ يَنْصُرُهُ (22:40)",
           "answer": "Drei Bekräftigungselemente: (1) وَ — möglicherweise Schwur-Wāw. (2) لَ — Bekräftigungspräfix. (3) ـَنَّ — schwere Betonungsnūn am Verb يَنْصُرَنَّ. Das Verb verliert seine normale Endung und ist auf Fatḥa gebaut. Dreifache Bekräftigung: Gott WIRD gewiss helfen.",
-          "explanation": "Dies ist ein Beispiel für maximale Bekräftigung: لَ + Imperfekt + schwere Nūn. Das Verb يَنْصُرُ wird zu يَنْصُرَنَّ — die reguläre Ḍamma-Endung wird durch Fatḥa + Nūn ersetzt. Die Botschaft: Gottes Hilfe ist absolut gewiss."
+          "explanation": "Dies ist ein Beispiel für maximale Bekräftigung: لَ + Imperfekt + schwere Nūn. Das Verb يَنْصُرُ wird zu يَنْصُرَنَّ — die reguläre Ḍamma-Endung wird durch Fatḥa + Nūn ersetzt. Die dreifache Bekräftigung (لَ + Imperfekt + Nun at-Tawkid) verstärkt die Aussage maximal."
         }
       ]
     },
@@ -1822,7 +1822,7 @@
               "arabic": "عَسَى رَبُّكُمْ أَنْ يَرْحَمَكُمْ",
               "transliteration": "ʿasā rabbukum an yarḥamakum",
               "meaning": "Vielleicht erbarmt sich euer Herr eurer (17:8)",
-              "note": "عَسَى — Hoffnung/Erwartung. Prädikat MIT أَنْ. Bei Gott als Subjekt: 'wird gewiss' (nicht nur 'vielleicht')."
+              "note": "عَسَى — Hoffnung/Erwartung. Prädikat MIT أَنْ. Grammatisch eine Möglichkeitspartikel, unabhängig vom Subjekt."
             },
             {
               "arabic": "أَوْشَكَ أَنْ يَقَعَ",

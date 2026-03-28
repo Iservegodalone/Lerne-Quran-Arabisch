@@ -19,8 +19,14 @@
       "masdar_muawwal"
     ],
     "sources": [
-      { "name": "Quranic Arabic Corpus", "url": "https://corpus.quran.com/" },
-      { "name": "Wright's Grammar Vol II", "url": "https://archive.org/details/grammarofthearab02telerich" }
+      {
+        "name": "Quranic Arabic Corpus",
+        "url": "https://corpus.quran.com/"
+      },
+      {
+        "name": "Wright's Grammar Vol II",
+        "url": "https://archive.org/details/grammarofthearab02telerich"
+      }
     ]
   },
   "exercises": [
@@ -28,20 +34,31 @@
       "id": "syn_211",
       "type": "find_element",
       "category": "taqdim_takhir",
-      "verse": { "surah": 2, "ayah": 284, "text": "لله ما فى السموت وما فى الارض" },
+      "verse": {
+        "surah": 2,
+        "ayah": 284,
+        "text": "لله ما فى السموت وما فى الارض"
+      },
       "question": "Welches Element wurde vorangestellt? Was ist Mubtada und was ist Khabar?",
       "correctAnswer": {
-        "wordIndices": [0],
+        "wordIndices": [
+          0
+        ],
         "word": "لله",
         "explanation": "Das Khabar لله (Gott gehört) wurde dem Mubtada ما فى السموت (was in den Himmeln ist) vorangestellt. Normalstellung wäre: ما فى السموت لله. Die Voranstellung des Khabar hebt hervor, WEM alles gehört: Gott — und niemandem sonst."
       },
-      "difficulty": 2
+      "difficulty": 2,
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=284"
     },
     {
       "id": "syn_212",
       "type": "multiple_choice",
       "category": "taqdim_takhir",
-      "verse": { "surah": 2, "ayah": 10, "text": "فى قلوبهم مرض فزادهم الله مرضا" },
+      "verse": {
+        "surah": 2,
+        "ayah": 10,
+        "text": "فى قلوبهم مرض فزادهم الله مرضا"
+      },
       "question": "Welche Elemente liegen im ersten Satzteil vor und was wurde vorangestellt?",
       "options": [
         "فى قلوبهم ist Khabar (vorangestellt), مرض ist Mubtada (nachgestellt)",
@@ -53,39 +70,58 @@
         "answer": 0,
         "explanation": "فى قلوبهم (in ihren Herzen) ist das vorangestellte Khabar (Präpositionalphrase), مرض (Krankheit) ist das nachgestellte Mubtada im Nominativ. Normalstellung wäre: مرض فى قلوبهم. Die Voranstellung lokalisiert zuerst den Ort (Herzen), bevor das Uebel (Krankheit) benannt wird."
       },
-      "difficulty": 2
+      "difficulty": 2,
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=10"
     },
     {
       "id": "syn_213",
       "type": "find_element",
       "category": "taqdim_takhir",
-      "verse": { "surah": 3, "ayah": 14, "text": "زين للناس حب الشهوت من النساء والبنين" },
+      "verse": {
+        "surah": 3,
+        "ayah": 14,
+        "text": "زين للناس حب الشهوت من النساء والبنين"
+      },
       "question": "Was wurde vorangestellt? Identifiziere Fa'il und die Jarr-wa-Majrur-Phrase.",
       "correctAnswer": {
-        "wordIndices": [1],
+        "wordIndices": [
+          1
+        ],
         "word": "للناس",
         "explanation": "Das Jarr-wa-Majrur للناس (den Menschen) wurde dem Fa'il حب الشهوت (die Liebe zu den Begierden) vorangestellt. Normalstellung: زين حب الشهوت للناس. Die Voranstellung von للناس hebt hervor, WESSEN Perspektive beschrieben wird."
       },
-      "difficulty": 2
+      "difficulty": 2,
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=14"
     },
     {
       "id": "syn_214",
       "type": "find_element",
       "category": "taqdim_takhir",
-      "verse": { "surah": 6, "ayah": 12, "text": "قل لمن ما فى السموت والارض قل لله" },
+      "verse": {
+        "surah": 6,
+        "ayah": 12,
+        "text": "قل لمن ما فى السموت والارض قل لله"
+      },
       "question": "Im Satzteil لمن ما فى السموت — was wurde vorangestellt?",
       "correctAnswer": {
-        "wordIndices": [1],
+        "wordIndices": [
+          1
+        ],
         "word": "لمن",
         "explanation": "Das Khabar لمن (wem gehört) wurde dem Mubtada ما فى السموت والارض (was in den Himmeln und der Erde ist) vorangestellt. Die Fragestellung erzwingt die Voranstellung — im Arabischen steht das Fragewort (من) immer am Satzanfang, was das Khabar mit nach vorn zieht."
       },
-      "difficulty": 3
+      "difficulty": 3,
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=6&verse=12"
     },
     {
       "id": "syn_215",
       "type": "multiple_choice",
       "category": "taqdim_takhir",
-      "verse": { "surah": 20, "ayah": 39, "text": "والقيت عليك محبه منى ولتصنع على عينى" },
+      "verse": {
+        "surah": 20,
+        "ayah": 39,
+        "text": "والقيت عليك محبه منى ولتصنع على عينى"
+      },
       "question": "Im Satzteil ولتصنع على عينى — was wurde vorangestellt und warum?",
       "options": [
         "على عينى wurde dem Verb vorangestellt — Betonung der Aufsicht",
@@ -97,65 +133,98 @@
         "answer": 2,
         "explanation": "Kein Taqdim im eigentlichen Sinne. Die Lam (ل) ist hier Lam al-amr oder Lam at-ta'lil (Zweck-Lam), die regulär vor dem Verb steht. Das على عينى (unter meinem Auge / unter meiner Aufsicht) folgt dem Verb — normale Stellung."
       },
-      "difficulty": 3
+      "difficulty": 3,
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=20&verse=39"
     },
     {
       "id": "syn_216",
       "type": "find_element",
       "category": "taqdim_takhir",
-      "verse": { "surah": 18, "ayah": 39, "text": "ولولا اذ دخلت جنتك قلت ما شاء الله لا قوه الا بالله" },
+      "verse": {
+        "surah": 18,
+        "ayah": 39,
+        "text": "ولولا اذ دخلت جنتك قلت ما شاء الله لا قوه الا بالله"
+      },
       "question": "Im Satzteil لا قوه الا بالله — welcher Satztyp liegt vor und wie ist die Wortstellung?",
       "correctAnswer": {
-        "wordIndices": [0],
+        "wordIndices": [
+          0
+        ],
         "word": "لا قوه الا بالله",
         "explanation": "لا قوه الا بالله ist ein Nominalsatz: لا قوه = negiertes Mubtada (La al-nafiya lil-jins: keine Kraft). الا بالله = Khabar (ausser bei/durch Gott). Die Wortstellung ist regulär für la al-nafiya lil-jins — kein Taqdim. Das Ism von la (قوه) steht direkt nach la, das Khabar (الا بالله) folgt."
       },
-      "difficulty": 3
+      "difficulty": 3,
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=18&verse=39"
     },
     {
       "id": "syn_217",
       "type": "find_element",
       "category": "taqdim_takhir",
-      "verse": { "surah": 28, "ayah": 88, "text": "كل شى هالك الا وجهه له الحكم واليه ترجعون" },
+      "verse": {
+        "surah": 28,
+        "ayah": 88,
+        "text": "كل شى هالك الا وجهه له الحكم واليه ترجعون"
+      },
       "question": "Im Satzteil له الحكم — identifiziere Mubtada und Khabar und bestimme die Wortstellung.",
       "correctAnswer": {
-        "wordIndices": [0],
+        "wordIndices": [
+          0
+        ],
         "word": "له",
         "explanation": "له (Ihm gehört) ist das vorangestellte Khabar, الحكم (die Urteilsgewalt) ist das nachgestellte Mubtada. Ebenso im folgenden Satzteil: واليه (und zu Ihm) ist vorangestelltes Khabar, ترجعون (werdet ihr zurückgebracht) ist das nachgestellte Verb-Prädikat. Beide Male betont die Voranstellung den Adressaten: IHM — und niemandem sonst."
       },
-      "difficulty": 2
+      "difficulty": 2,
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=28&verse=88"
     },
     {
       "id": "syn_218",
       "type": "find_element",
       "category": "taqdim_takhir",
-      "verse": { "surah": 39, "ayah": 44, "text": "قل لله الشفعه جميعا" },
+      "verse": {
+        "surah": 39,
+        "ayah": 44,
+        "text": "قل لله الشفعه جميعا"
+      },
       "question": "Was wurde hier vorangestellt?",
       "correctAnswer": {
-        "wordIndices": [1],
+        "wordIndices": [
+          1
+        ],
         "word": "لله",
         "explanation": "لله (Gott gehört) ist das vorangestellte Khabar, الشفعه (die Fuerbitte/Fuersprache) ist das nachgestellte Mubtada. جميعا (insgesamt) ist Hal/Tawkid. Die Voranstellung des Khabar erzeugt Hasr (Restriktion)."
       },
-      "difficulty": 2
+      "difficulty": 2,
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=39&verse=44"
     },
     {
       "id": "syn_219",
       "type": "find_element",
       "category": "anaphora_advanced",
-      "verse": { "surah": 24, "ayah": 35, "text": "الله نور السموت والارض مثل نوره كمشكوه فيها مصباح المصباح فى زجاجه" },
+      "verse": {
+        "surah": 24,
+        "ayah": 35,
+        "text": "الله نور السموت والارض مثل نوره كمشكوه فيها مصباح المصباح فى زجاجه"
+      },
       "question": "Worauf verweist das Pronomen ه in نوره zurück?",
       "correctAnswer": {
-        "wordIndices": [0],
+        "wordIndices": [
+          0
+        ],
         "word": "الله",
         "explanation": "Das Suffix ه in نوره (sein Licht) verweist zurück auf الله am Satzanfang. Trotz der Distanz zwischen dem Bezugswort (الله) und dem Pronomen ist die Referenz eindeutig, weil الله das einzige maskuline Singular-Nomen ist, das als Bezugswort in Frage kommt."
       },
-      "difficulty": 2
+      "difficulty": 2,
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=24&verse=35"
     },
     {
       "id": "syn_220",
       "type": "multiple_choice",
       "category": "anaphora_advanced",
-      "verse": { "surah": 2, "ayah": 74, "text": "ثم قست قلوبكم من بعد ذلك فهى كالحجاره او اشد قسوه وان من الحجاره لما يتفجر منه الانهر" },
+      "verse": {
+        "surah": 2,
+        "ayah": 74,
+        "text": "ثم قست قلوبكم من بعد ذلك فهى كالحجاره او اشد قسوه وان من الحجاره لما يتفجر منه الانهر"
+      },
       "question": "Worauf verweist هى in فهى كالحجاره?",
       "options": [
         "Auf الحجاره (die Steine)",
@@ -167,39 +236,56 @@
         "answer": 1,
         "explanation": "هى (sie) verweist auf قلوبكم (eure Herzen). Der femininer Plural قلوب wird im Arabischen als gebrochener Plural mit feminin Singular Pronomen (هى) referenziert. Die Herzen sind wie Steine — oder härter."
       },
-      "difficulty": 2
+      "difficulty": 2,
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=74"
     },
     {
       "id": "syn_221",
       "type": "find_element",
       "category": "anaphora_advanced",
-      "verse": { "surah": 9, "ayah": 40, "text": "اذ يقول لصحبه لا تحزن ان الله معنا فانزل الله سكينته عليه وايده بجنود لم تروها" },
+      "verse": {
+        "surah": 9,
+        "ayah": 40,
+        "text": "اذ يقول لصحبه لا تحزن ان الله معنا فانزل الله سكينته عليه وايده بجنود لم تروها"
+      },
       "question": "Auf wen verweist das Pronomen ه in عليه und in وايده?",
       "correctAnswer": {
-        "wordIndices": [2],
+        "wordIndices": [
+          2
+        ],
         "word": "صحبه",
         "explanation": "Die Pronomen ه in عليه und وايده könnten sich auf den Gefährten (صحبه) oder auf den Sprecher beziehen. Syntaktisch ist der nächste maskuline Singular-Referent der Gefährte (صحبه), aber der Kontext des gesamten Verses macht beide Lesungen möglich. Die Kasusanalyse allein reicht hier nicht zur Disambiguation."
       },
-      "difficulty": 3
+      "difficulty": 3,
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=9&verse=40"
     },
     {
       "id": "syn_222",
       "type": "find_element",
       "category": "anaphora_advanced",
-      "verse": { "surah": 11, "ayah": 107, "text": "خلدين فيها ما دامت السموت والارض الا ما شاء ربك ان ربك فعال لما يريد" },
+      "verse": {
+        "surah": 11,
+        "ayah": 107,
+        "text": "خلدين فيها ما دامت السموت والارض الا ما شاء ربك ان ربك فعال لما يريد"
+      },
       "question": "Worauf verweist ها in فيها?",
       "correctAnswer": {
         "wordIndices": [],
         "word": "النار (aus dem Kontext von 11:106)",
         "explanation": "Das Suffix ها in فيها verweist auf النار (das Feuer), das im vorhergehenden Vers 11:106 erwähnt wird. Dies ist ein Fall von vers-übergereifender Anapher: Das Pronomen ueberschreitet die Vers-Grenze. Solche Fälle erfordern Kenntnis des unmittelbaren Kontexts."
       },
-      "difficulty": 3
+      "difficulty": 3,
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=11&verse=107"
     },
     {
       "id": "syn_223",
       "type": "multiple_choice",
       "category": "anaphora_advanced",
-      "verse": { "surah": 36, "ayah": 39, "text": "والقمر قدرنه منازل حتى عاد كالعرجون القديم" },
+      "verse": {
+        "surah": 36,
+        "ayah": 39,
+        "text": "والقمر قدرنه منازل حتى عاد كالعرجون القديم"
+      },
       "question": "Das Suffix ه in قدرنه — worauf verweist es und welche syntaktische Konstruktion liegt vor?",
       "options": [
         "Es verweist auf القمر und ist ein normales Objekt-Suffix",
@@ -211,39 +297,54 @@
         "answer": 1,
         "explanation": "Das ه in قدرنه ist ein resumptives Pronomen (Rückverweis-Pronomen), das auf das vorangestellte القمر zurückverweist. Dies ist eine Ishtighal-Konstruktion: القمر steht VOR dem Verb, und das Verb ist bereits mit dem Pronomen ه 'beschäftigt'. Das Nomen und das Pronomen sind koreferent."
       },
-      "difficulty": 3
+      "difficulty": 3,
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=36&verse=39"
     },
     {
       "id": "syn_224",
       "type": "find_element",
       "category": "anaphora_advanced",
-      "verse": { "surah": 105, "ayah": 3, "text": "وارسل عليهم طيرا ابابيل" },
+      "verse": {
+        "surah": 105,
+        "ayah": 3,
+        "text": "وارسل عليهم طيرا ابابيل"
+      },
       "question": "Worauf verweist هم in عليهم? (Betrachte den Kontext ab 105:1)",
       "correctAnswer": {
         "wordIndices": [],
         "word": "اصحب الفيل (aus 105:1)",
         "explanation": "Das Suffix هم in عليهم verweist auf اصحب الفيل (die Gefährten des Elefanten) aus 105:1. Obwohl der Referent drei Verse entfernt ist, bleibt die Referenz durch den Plural-Marker (هم = sie, maskulin Plural) und den thematischen Zusammenhang eindeutig."
       },
-      "difficulty": 2
+      "difficulty": 2,
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=105&verse=3"
     },
     {
       "id": "syn_225",
       "type": "find_element",
       "category": "clause_boundary",
-      "verse": { "surah": 2, "ayah": 2, "text": "ذلك الكتاب لا ريب فيه هدى للمتقين" },
+      "verse": {
+        "surah": 2,
+        "ayah": 2,
+        "text": "ذلك الكتاب لا ريب فيه هدى للمتقين"
+      },
       "question": "Wo liegen die Satzgrenzen? Wie viele syntaktische Einheiten enthält dieser Vers?",
       "correctAnswer": {
         "wordIndices": [],
         "word": "Drei Einheiten",
         "explanation": "Drei syntaktische Einheiten: (1) ذلك الكتب — Demonstrativpronomen + Substantiv/Apposition. (2) لا ريب فيه — ein eigenständiger Nominalsatz mit la al-nafiya lil-jins. (3) هدى للمتقين — ein weiterer Nominalsatz (هدى = Khabar/Prädikat, Mubtada impliziert oder هدى als zweites Khabar zu ذلك). Die Grenze zwischen (1) und (2) ist nicht markiert — sie muss aus der Syntax erschlossen werden."
       },
-      "difficulty": 3
+      "difficulty": 3,
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=2"
     },
     {
       "id": "syn_226",
       "type": "multiple_choice",
       "category": "clause_boundary",
-      "verse": { "surah": 2, "ayah": 5, "text": "اولئك على هدى من ربهم واولئك هم المفلحون" },
+      "verse": {
+        "surah": 2,
+        "ayah": 5,
+        "text": "اولئك على هدى من ربهم واولئك هم المفلحون"
+      },
       "question": "Wo liegt die Satzgrenze? Wie viele Sätze sind es?",
       "options": [
         "Ein einziger Nominalsatz",
@@ -255,26 +356,38 @@
         "answer": 1,
         "explanation": "Zwei durch وَ koordinierte Nominalsätze: (1) اولئك (Mubtada) + على هدى من ربهم (Khabar). (2) واولئك (Mubtada) + هم المفلحون (Khabar, mit هم als Trennpronomen/Stützpronomen). Die وَ markiert die Satzgrenze deutlich."
       },
-      "difficulty": 2
+      "difficulty": 2,
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=5"
     },
     {
       "id": "syn_227",
       "type": "find_element",
       "category": "clause_boundary",
-      "verse": { "surah": 55, "ayah": 1, "text": "الرحمن" },
+      "verse": {
+        "surah": 55,
+        "ayah": 1,
+        "text": "الرحمن"
+      },
       "question": "Betrachte 55:1-4: الرحمن (1) علم القرءان (2) خلق الانسن (3) علمه البيان (4). Wo liegen die Satzgrenzen?",
       "correctAnswer": {
-        "wordIndices": [0],
+        "wordIndices": [
+          0
+        ],
         "word": "الرحمن",
         "explanation": "الرحمن (1) ist das Mubtada (Satzthema). Die folgenden Verse علم القرءان (2), خلق الانسن (3), علمه البيان (4) sind koordinierte Verbalsätze, die alle als Khabar (Prädikat) zu الرحمن fungieren. Die gesamte Passage ist EIN Satz mit einem Mubtada und mehreren koordinierten Khabar-Sätzen. Die Vers-Grenzen sind NICHT identisch mit den Satzgrenzen."
       },
-      "difficulty": 3
+      "difficulty": 3,
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=55&verse=1"
     },
     {
       "id": "syn_228",
       "type": "multiple_choice",
       "category": "clause_boundary",
-      "verse": { "surah": 56, "ayah": 57, "text": "نحن خلقنكم فلولا تصدقون" },
+      "verse": {
+        "surah": 56,
+        "ayah": 57,
+        "text": "نحن خلقنكم فلولا تصدقون"
+      },
       "question": "Wie viele syntaktische Einheiten enthält dieser Vers?",
       "options": [
         "Eine — ein einziger Nominalsatz",
@@ -286,52 +399,78 @@
         "answer": 1,
         "explanation": "Zwei syntaktische Einheiten: (1) نحن خلقنكم — Nominalsatz mit نحن als Mubtada und خلقنكم als Khabar (Verbalsatz). (2) فلولا تصدقون — mit فَ als Konsequenz-Partikel und لولا als Aufforderungs-/Tadel-Partikel: 'warum bestätigt ihr dann nicht?'. Die فَ markiert die Satzgrenze."
       },
-      "difficulty": 2
+      "difficulty": 2,
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=56&verse=57"
     },
     {
       "id": "syn_229",
       "type": "find_element",
       "category": "clause_boundary",
-      "verse": { "surah": 2, "ayah": 17, "text": "مثلهم كمثل الذى استوقد نارا فلما اضاءت ما حوله ذهب الله بنورهم وتركهم فى ظلمت لا يبصرون" },
+      "verse": {
+        "surah": 2,
+        "ayah": 17,
+        "text": "مثلهم كمثل الذى استوقد نارا فلما اضاءت ما حوله ذهب الله بنورهم وتركهم فى ظلمت لا يبصرون"
+      },
       "question": "Identifiziere alle Satzgrenzen in diesem Vers.",
       "correctAnswer": {
         "wordIndices": [],
         "word": "Vier Einheiten",
         "explanation": "Vier syntaktische Einheiten: (1) مثلهم كمثل الذى استوقد نارا — Hauptsatz (Nominalsatz mit Vergleich, der Relativsatz enthält). (2) فلما اضاءت ما حوله — temporaler Nebensatz (als ... erleuchtete). (3) ذهب الله بنورهم وتركهم فى ظلمت — Hauptsatz (Antwort auf لما). (4) لا يبصرون — Hal-Satz (Zustandssatz: während sie nicht sehen). Die Satzgrenzen werden durch فَلمّا und die Hal-Konstruktion markiert."
       },
-      "difficulty": 3
+      "difficulty": 3,
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=17"
     },
     {
       "id": "syn_230",
       "type": "find_element",
       "category": "clause_boundary",
-      "verse": { "surah": 12, "ayah": 31, "text": "فلما سمعت بمكرهن ارسلت اليهن واعتدت لهن متكا واتت كل وحده منهن سكينا وقالت اخرج عليهن" },
+      "verse": {
+        "surah": 12,
+        "ayah": 31,
+        "text": "فلما سمعت بمكرهن ارسلت اليهن واعتدت لهن متكا واتت كل وحده منهن سكينا وقالت اخرج عليهن"
+      },
       "question": "Identifiziere die لمّا-Bedingung und ihre Antwort. Wo liegt die Grenze?",
       "correctAnswer": {
-        "wordIndices": [0, 1, 2],
+        "wordIndices": [
+          0,
+          1,
+          2
+        ],
         "word": "فلما سمعت بمكرهن",
         "explanation": "Die لمّا-Bedingung ist فلما سمعت بمكرهن (als sie von ihrem Ränken hörte). Die Antwort beginnt mit ارسلت اليهن (sandte sie zu ihnen). Alle folgenden Verben (واعتدت, واتت, وقالت) sind durch وَ koordinierte Fortfuehrungen der Antwort — NICHT neue Bedingungssätze. Die eine Satzgrenze liegt zwischen بمكرهن und ارسلت."
       },
-      "difficulty": 3
+      "difficulty": 3,
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=12&verse=31"
     },
     {
       "id": "syn_231",
       "type": "find_element",
       "category": "ism_al_fil",
-      "verse": { "surah": 23, "ayah": 36, "text": "هيهات هيهات لما توعدون" },
+      "verse": {
+        "surah": 23,
+        "ayah": 36,
+        "text": "هيهات هيهات لما توعدون"
+      },
       "question": "Identifiziere das Ism al-Fi'l. Welche Verbbedeutung hat es und was ist sein Subjekt?",
       "correctAnswer": {
-        "wordIndices": [0],
+        "wordIndices": [
+          0
+        ],
         "word": "هيهات",
         "explanation": "هيهات ist ein Ism al-Fi'l Madi (mit vergangener Bedeutung, ohne Konjugation/Zeitmarkierung) — es bedeutet 'fern ist / unmöglich ist' (wie بَعُدَ). Sein Subjekt ist ما توعدون (das, was euch versprochen wird) im Nominativ. Die Verdoppelung هيهات هيهات verstärkt die Aussage: Absolut fern/unmöglich ist, was euch versprochen wird!"
       },
-      "difficulty": 2
+      "difficulty": 2,
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=23&verse=36"
     },
     {
       "id": "syn_232",
       "type": "multiple_choice",
       "category": "ism_al_fil",
-      "verse": { "surah": 17, "ayah": 23, "text": "فلا تقل لهما اف ولا تنهرهما وقل لهما قولا كريما" },
+      "verse": {
+        "surah": 17,
+        "ayah": 23,
+        "text": "فلا تقل لهما اف ولا تنهرهما وقل لهما قولا كريما"
+      },
       "question": "Was ist اف grammatisch?",
       "options": [
         "Ein reguläres Verb im Imperativ",
@@ -343,26 +482,38 @@
         "answer": 1,
         "explanation": "اف ist ein Ism al-Fi'l Mudari' — es trägt die Bedeutung eines Verbs des Empfindens (اتضجر = ich empfinde Verdruss/Ekel). Es ist morphologisch unveränderlich, hat aber Verbbedeutung. Sein implizites Subjekt ist der Sprecher (1. Person). Es ist keine blosse Interjektion, sondern hat eine grammatische Funktion im Satz."
       },
-      "difficulty": 2
+      "difficulty": 2,
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=17&verse=23"
     },
     {
       "id": "syn_233",
       "type": "find_element",
       "category": "ism_al_fil",
-      "verse": { "surah": 6, "ayah": 150, "text": "قل هلم شهداءكم الذين يشهدون ان الله حرم هذا" },
+      "verse": {
+        "surah": 6,
+        "ayah": 150,
+        "text": "قل هلم شهداءكم الذين يشهدون ان الله حرم هذا"
+      },
       "question": "Was ist هلم und welche Funktion hat es?",
       "correctAnswer": {
-        "wordIndices": [1],
+        "wordIndices": [
+          1
+        ],
         "word": "هلم",
         "explanation": "هلم ist ein Ism al-Fi'l Amr (mit befehlender Bedeutung) — es bedeutet 'kommt her / bringt her' (wie أَقْبِل / أَحْضِر). Es ist unveränderlich und wird nicht konjugiert. شهداءكم (eure Zeugen) ist sein Maf'ul bihi im Akkusativ. Im hijazischen Dialekt bleibt هلم für alle Personen unverändert."
       },
-      "difficulty": 2
+      "difficulty": 2,
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=6&verse=150"
     },
     {
       "id": "syn_234",
       "type": "multiple_choice",
       "category": "ism_al_fil",
-      "verse": { "surah": 33, "ayah": 18, "text": "قد يعلم الله المعوقين منكم والقائلين لاخونهم هلم الينا" },
+      "verse": {
+        "surah": 33,
+        "ayah": 18,
+        "text": "قد يعلم الله المعوقين منكم والقائلين لاخونهم هلم الينا"
+      },
       "question": "Was ist die syntaktische Funktion von هلم الينا?",
       "options": [
         "Verbalsatz: هلم ist ein normales Verb mit الينا als Präpositionalphrase",
@@ -374,39 +525,59 @@
         "answer": 1,
         "explanation": "هلم ist ein Ism al-Fi'l Amr mit der Bedeutung 'kommt her' (= أَقْبِلُوا). Es ist unveränderlich und regiert wie ein imperatives Verb. الينا ist eine Präpositionalphrase, die das Ziel angibt. Der gesamte Ausdruck هلم الينا ist eine zitierte Aufforderung innerhalb der direkten Rede."
       },
-      "difficulty": 2
+      "difficulty": 2,
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=33&verse=18"
     },
     {
       "id": "syn_235",
       "type": "find_element",
       "category": "ism_al_fil",
-      "verse": { "surah": 46, "ayah": 17, "text": "والذى قال لولديه اف لكما اتعداننى ان اخرج" },
+      "verse": {
+        "surah": 46,
+        "ayah": 17,
+        "text": "والذى قال لولديه اف لكما اتعداننى ان اخرج"
+      },
       "question": "Vergleiche اف hier mit dem Vorkommen in 17:23. Liegt dasselbe grammatische Phänomen vor?",
       "correctAnswer": {
-        "wordIndices": [3],
+        "wordIndices": [
+          3
+        ],
         "word": "اف",
         "explanation": "Ja, auch hier ist اف ein Ism al-Fi'l Mudari' mit der Bedeutung 'ich empfinde Ekel/Verdruss'. In beiden Versen (17:23 und 46:17) wird es in direkter Rede verwendet und drückt die ablehnende Haltung des Sprechers gegenüber seinen Eltern aus. لكما (euch beiden) ist eine angeheftete Präpositionalphrase, die den Adressaten angibt."
       },
-      "difficulty": 2
+      "difficulty": 2,
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=46&verse=17"
     },
     {
       "id": "syn_236",
       "type": "find_element",
       "category": "tanazu",
-      "verse": { "surah": 6, "ayah": 151, "text": "قل تعالوا اتل ما حرم ربكم عليكم" },
+      "verse": {
+        "surah": 6,
+        "ayah": 151,
+        "text": "قل تعالوا اتل ما حرم ربكم عليكم"
+      },
       "question": "Zwei Verben stehen hintereinander: تعالوا und اتل. Liegt Tanazu' al-I'rab vor?",
       "correctAnswer": {
-        "wordIndices": [1, 2],
+        "wordIndices": [
+          1,
+          2
+        ],
         "word": "تعالوا اتل",
         "explanation": "Ja, hier liegt eine Form von Tanazu' vor. Beide Verben (تعالوا = kommt her, اتل = ich trage vor) könnten theoretisch ما حرم ربكم (was euer Herr verboten hat) als Komplement beanspruchen. Praktisch gehört ما حرم ربكم zum zweiten Verb (اتل), während تعالوا als einleitendes Imperativ-Verb ohne eigenes Objekt steht."
       },
-      "difficulty": 3
+      "difficulty": 3,
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=6&verse=151"
     },
     {
       "id": "syn_237",
       "type": "multiple_choice",
       "category": "tanazu",
-      "verse": { "surah": 18, "ayah": 96, "text": "ءاتونى افرغ عليه قطرا" },
+      "verse": {
+        "surah": 18,
+        "ayah": 96,
+        "text": "ءاتونى افرغ عليه قطرا"
+      },
       "question": "Liegt Tanazu' al-I'rab vor bei ءاتونى und افرغ?",
       "options": [
         "Ja — beide Verben beanspruchen قطرا als Objekt",
@@ -418,26 +589,39 @@
         "answer": 1,
         "explanation": "Ein Grenzfall des Tanazu': ءاتونى (bringt mir) hat ein impliziertes Objekt (Metallstücke — aus dem Kontext), während افرغ (ich werde giessen) قطرا (geschmolzenes Kupfer) als explizites Objekt hat. Das Objekt wird dem zweiten Verb zugewiesen, das erste bleibt mit impliziertem Komplement."
       },
-      "difficulty": 3
+      "difficulty": 3,
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=18&verse=96"
     },
     {
       "id": "syn_238",
       "type": "find_element",
       "category": "tanazu",
-      "verse": { "surah": 40, "ayah": 36, "text": "وقال فرعون يهمن ابن لى صرحا لعلى ابلغ الاسبب" },
+      "verse": {
+        "surah": 40,
+        "ayah": 36,
+        "text": "وقال فرعون يهمن ابن لى صرحا لعلى ابلغ الاسبب"
+      },
       "question": "Teilen sich die Verben ابن und ابلغ ein Komplement?",
       "correctAnswer": {
-        "wordIndices": [2, 3],
+        "wordIndices": [
+          2,
+          3
+        ],
         "word": "ابن لى صرحا",
         "explanation": "Hier liegt kein Tanazu' vor. Die Verben haben verschiedene Komplemente: ابن (baue) hat صرحا (einen Turm) als direktes Objekt und لى als indirektes Objekt. ابلغ (ich erreiche) hat الاسبب (die Ursachen/Wege) als sein eigenes Objekt. Die Konstruktion لعلى ابلغ leitet einen Zwecksatz ein — kein geteiltes Komplement."
       },
-      "difficulty": 3
+      "difficulty": 3,
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=40&verse=36"
     },
     {
       "id": "syn_239",
       "type": "multiple_choice",
       "category": "tanazu",
-      "verse": { "surah": 27, "ayah": 36, "text": "فلما جاء سليمن قال اتمدوننى بمال" },
+      "verse": {
+        "surah": 27,
+        "ayah": 36,
+        "text": "فلما جاء سليمن قال اتمدوننى بمال"
+      },
       "question": "Beide Verben جاء und قال haben Subjekte. Liegt hier Tanazu' vor?",
       "options": [
         "Ja — سليمن könnte Subjekt beider Verben sein",
@@ -449,39 +633,60 @@
         "answer": 2,
         "explanation": "Kein Tanazu' im technischen Sinne. سليمن ist das Fa'il von جاء (er kam). قال hat dasselbe Subjekt (Salomon) als implizites Pronomen. Es liegt eine normale Abfolge von Verbalsätzen mit demselben Subjekt vor — kein Konkurrieren zweier Verben um ein Komplement."
       },
-      "difficulty": 2
+      "difficulty": 2,
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=27&verse=36"
     },
     {
       "id": "syn_240",
       "type": "find_element",
       "category": "tanazu",
-      "verse": { "surah": 59, "ayah": 9, "text": "يحبون من هاجر اليهم ولا يجدون فى صدورهم حاجه مما اوتوا" },
+      "verse": {
+        "surah": 59,
+        "ayah": 9,
+        "text": "يحبون من هاجر اليهم ولا يجدون فى صدورهم حاجه مما اوتوا"
+      },
       "question": "Die Verben يحبون und لا يجدون — haben sie unterschiedliche oder geteilte Komplemente?",
       "correctAnswer": {
-        "wordIndices": [0, 3],
+        "wordIndices": [
+          0,
+          3
+        ],
         "word": "يحبون / لا يجدون",
         "explanation": "Kein Tanazu'. Jedes Verb hat sein eigenes Komplement: يحبون hat من هاجر اليهم (die zu ihnen ausgewandert sind) als Maf'ul bihi. لا يجدون hat حاجه (Beduerfnis) als Maf'ul bihi und فى صدورهم (in ihren Bruesten) als Jarr-wa-Majrur. Die Verben sind durch وَ koordiniert mit je eigenen Komplementen."
       },
-      "difficulty": 2
+      "difficulty": 2,
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=59&verse=9"
     },
     {
       "id": "syn_241",
       "type": "find_element",
       "category": "ishtighal",
-      "verse": { "surah": 36, "ayah": 39, "text": "والقمر قدرنه منازل حتى عاد كالعرجون القديم" },
+      "verse": {
+        "surah": 36,
+        "ayah": 39,
+        "text": "والقمر قدرنه منازل حتى عاد كالعرجون القديم"
+      },
       "question": "Analysiere die Ishtighal-Konstruktion. Was ist das vorangestellte Nomen und wo ist das resumptive Pronomen?",
       "correctAnswer": {
-        "wordIndices": [0, 1],
+        "wordIndices": [
+          0,
+          1
+        ],
         "word": "القمر قدرنه",
         "explanation": "Ishtighal-Konstruktion: القمر (der Mond) steht im Akkusativ VOR dem Verb. Das Verb قدرنه (Wir bestimmten ihm) ist durch das Suffix-Pronomen ه 'beschäftigt' — es verweist zurück auf القمر. Das vorangestellte Nomen wird durch ein impliziertes Verb regiert. منازل (Stationen) ist ein zweites Maf'ul bihi oder Hal."
       },
-      "difficulty": 2
+      "difficulty": 2,
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=36&verse=39"
     },
     {
       "id": "syn_242",
       "type": "multiple_choice",
       "category": "ishtighal",
-      "verse": { "surah": 76, "ayah": 31, "text": "والظلمين اعد لهم عذابا اليما" },
+      "verse": {
+        "surah": 76,
+        "ayah": 31,
+        "text": "والظلمين اعد لهم عذابا اليما"
+      },
       "question": "Welche Ishtighal-Konstruktion liegt bei والظلمين اعد لهم vor?",
       "options": [
         "الظلمين ist Mubtada im Nominativ, اعد لهم ist Khabar",
@@ -493,26 +698,38 @@
         "answer": 1,
         "explanation": "Ishtighal: الظلمين steht im Akkusativ (erkennbar an der Ya+Nun-Endung des maskulinen Plurals) VOR dem Verb. Das Verb اعد hat لهم als praepositionales Komplement, das auf الظلمين zurückverweist. Das vorangestellte Nomen wird durch ein impliziertes Verb im Akkusativ regiert — Ishtighal ist hier syntaktisch zwingend."
       },
-      "difficulty": 3
+      "difficulty": 3,
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=76&verse=31"
     },
     {
       "id": "syn_243",
       "type": "find_element",
       "category": "ishtighal",
-      "verse": { "surah": 14, "ayah": 36, "text": "رب انهن اضللن كثيرا من الناس فمن تبعنى فانه منى ومن عصانى فانك غفور رحيم" },
+      "verse": {
+        "surah": 14,
+        "ayah": 36,
+        "text": "رب انهن اضللن كثيرا من الناس فمن تبعنى فانه منى ومن عصانى فانك غفور رحيم"
+      },
       "question": "Im Satzteil فمن تبعنى فانه منى — liegt Ishtighal vor?",
       "correctAnswer": {
-        "wordIndices": [0],
+        "wordIndices": [
+          0
+        ],
         "word": "من تبعنى",
         "explanation": "Kein Ishtighal im klassischen Sinne. من ist hier ein Bedingungspronomen ('wer auch immer'), nicht ein vorangestelltes Nomen. تبعنى ist das Bedingungsverb, فانه منى ist die Bedingungsantwort. Das ه in فانه verweist auf من, aber dies ist eine Standard-Bedingungskonstruktion, keine Ishtighal-Konstruktion."
       },
-      "difficulty": 3
+      "difficulty": 3,
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=14&verse=36"
     },
     {
       "id": "syn_244",
       "type": "multiple_choice",
       "category": "ishtighal",
-      "verse": { "surah": 7, "ayah": 38, "text": "كلما دخلت امه لعنت اختها" },
+      "verse": {
+        "surah": 7,
+        "ayah": 38,
+        "text": "كلما دخلت امه لعنت اختها"
+      },
       "question": "Könnte hier eine Ishtighal-Analyse vorliegen?",
       "options": [
         "Ja — امه ist vorangestellt mit resumptivem Pronomen in اختها",
@@ -524,26 +741,38 @@
         "answer": 1,
         "explanation": "Kein Ishtighal. Die Satzstruktur ist: كلما (Temporalpartikel: jedes Mal wenn) + دخلت (Verb) + امه (Fa'il = Subjekt). Es handelt sich um einen normalen Verbalsatz innerhalb einer كلما-Konstruktion. Ishtighal erfordert ein Nomen VOR dem Verb mit einem resumptiven Pronomen — hier steht امه regulär nach dem Verb als Subjekt."
       },
-      "difficulty": 2
+      "difficulty": 2,
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=7&verse=38"
     },
     {
       "id": "syn_245",
       "type": "find_element",
       "category": "ishtighal",
-      "verse": { "surah": 2, "ayah": 40, "text": "يبنى اسرءيل اذكروا نعمتى التى انعمت عليكم واوفوا بعهدى اوف بعهدكم واياى فارهبون" },
+      "verse": {
+        "surah": 2,
+        "ayah": 40,
+        "text": "يبنى اسرءيل اذكروا نعمتى التى انعمت عليكم واوفوا بعهدى اوف بعهدكم واياى فارهبون"
+      },
       "question": "Im letzten Satzteil واياى فارهبون — liegt Ishtighal vor?",
       "correctAnswer": {
-        "wordIndices": [0],
+        "wordIndices": [
+          0
+        ],
         "word": "واياى فارهبون",
         "explanation": "Dies ist eine Ishtighal-verwandte Konstruktion (oder genauer: Taqdim des Maf'ul bihi). اياى (Mich) steht als betontes Objektpronomen VOR dem Verb ارهبون (fürchtet). Das فَ verstärkt die Bindung. Da اياى eine selbstständige Pronomenform ist, fungiert es direkt als vorangestelltes Objekt. Es ist kein klassisches Ishtighal (kein resumptives Pronomen nötig, da das Verb-Suffix ون die 2. Person markiert, nicht die 3.), sondern ein Taqdim mit Hasr (Einschränkung durch Voranstellung des Objekts)."
       },
-      "difficulty": 3
+      "difficulty": 3,
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=40"
     },
     {
       "id": "syn_246",
       "type": "multiple_choice",
       "category": "an_anna",
-      "verse": { "surah": 4, "ayah": 28, "text": "يريد الله ان يخفف عنكم" },
+      "verse": {
+        "surah": 4,
+        "ayah": 28,
+        "text": "يريد الله ان يخفف عنكم"
+      },
       "question": "Welche Art von ان liegt vor?",
       "options": [
         "ان المصدرية (Masdariyya) — Subjunktiv-auslösend",
@@ -555,26 +784,38 @@
         "answer": 0,
         "explanation": "ان المصدرية (Masdariyya): ان + يخفف im Subjunktiv (Fatha auf der Endung statt Damma). Die ان-Konstruktion nominalisiert das Verb: يريد الله + (die Erleichterung für euch) = Gott will euch erleichtern. Das Verb nach ان steht im Subjunktiv — sicheres Erkennungszeichen der Masdariyya."
       },
-      "difficulty": 1
+      "difficulty": 1,
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=28"
     },
     {
       "id": "syn_247",
       "type": "find_element",
       "category": "an_anna",
-      "verse": { "surah": 23, "ayah": 27, "text": "فاوحينا اليه ان اصنع الفلك باعيننا ووحينا" },
+      "verse": {
+        "surah": 23,
+        "ayah": 27,
+        "text": "فاوحينا اليه ان اصنع الفلك باعيننا ووحينا"
+      },
       "question": "Welche Art von ان liegt vor und was ist das Erkennungszeichen?",
       "correctAnswer": {
-        "wordIndices": [2],
+        "wordIndices": [
+          2
+        ],
         "word": "ان اصنع",
         "explanation": "ان المفسرة (Mufassira — erklärend). Erkennungszeichen: (1) Vor ان steht اوحينا — ein Verb der Mitteilung (offenbaren). (2) Nach ان steht اصنع — ein Imperativ, KEIN Subjunktiv. Wäre es Masdariyya, müsste ein Subjunktiv stehen (ان يصنع). Die Mufassira leitet den Inhalt der Offenbarung ein: Wir offenbarten ihm: 'Baue das Schiff!'"
       },
-      "difficulty": 2
+      "difficulty": 2,
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=23&verse=27"
     },
     {
       "id": "syn_248",
       "type": "multiple_choice",
       "category": "an_anna",
-      "verse": { "surah": 73, "ayah": 20, "text": "علم ان سيكون منكم مرضى" },
+      "verse": {
+        "surah": 73,
+        "ayah": 20,
+        "text": "علم ان سيكون منكم مرضى"
+      },
       "question": "Warum ist ان hier NICHT die Masdariyya?",
       "options": [
         "Weil يكون im Indikativ steht (Damma), nicht im Subjunktiv",
@@ -586,26 +827,38 @@
         "answer": 3,
         "explanation": "Alle drei Punkte zusammen identifizieren die Mukhaffafa: (1) يكون steht im Indikativ (nicht Subjunktiv). (2) علم (er wusste) ist ein Verb der Wahrnehmung, das inhaltlich ein 'dass' erfordert. (3) سَـ steht zwischen ان und dem Verb — ein typisches Zeichen der Mukhaffafa. Die Mukhaffafa ist ein abgeschwaechtes انّ, das seine Bedeutung ('dass') behaelt."
       },
-      "difficulty": 2
+      "difficulty": 2,
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=73&verse=20"
     },
     {
       "id": "syn_249",
       "type": "find_element",
       "category": "an_anna",
-      "verse": { "surah": 26, "ayah": 63, "text": "فاوحينا الى موسى ان اضرب بعصاك البحر" },
+      "verse": {
+        "surah": 26,
+        "ayah": 63,
+        "text": "فاوحينا الى موسى ان اضرب بعصاك البحر"
+      },
       "question": "Klassifiziere ان und begründe.",
       "correctAnswer": {
-        "wordIndices": [3],
+        "wordIndices": [
+          3
+        ],
         "word": "ان اضرب",
         "explanation": "ان المفسرة (Mufassira). Vor ان steht اوحينا (Wir offenbarten) — ein Verb der Mitteilung. Nach ان steht اضرب (Imperativ: schlage!). Ein Imperativ nach ان zeigt die Mufassira an. Bedeutung: 'Wir offenbarten Musa: Schlage mit deinem Stock auf das Meer!' Der Doppelpunkt-Charakter der Mufassira ist hier klar ersichtlich."
       },
-      "difficulty": 2
+      "difficulty": 2,
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=26&verse=63"
     },
     {
       "id": "syn_250",
       "type": "multiple_choice",
       "category": "an_anna",
-      "verse": { "surah": 20, "ayah": 89, "text": "افلا يرون الا يرجع اليهم قولا ولا يملك لهم ضرا ولا نفعا" },
+      "verse": {
+        "surah": 20,
+        "ayah": 89,
+        "text": "افلا يرون الا يرجع اليهم قولا ولا يملك لهم ضرا ولا نفعا"
+      },
       "question": "Was ist الا in الا يرجع?",
       "options": [
         "ان المصدرية + لا (Negation): dass es nicht...",
@@ -617,26 +870,38 @@
         "answer": 1,
         "explanation": "الا = ان المخففة + لا (Negation). يرجع steht im Indikativ (Damma-Endung, nicht Fatha) → also NICHT Masdariyya (die Subjunktiv fordern würde). يرون (sie sehen) ist ein Verb der Wahrnehmung → passt zur Mukhaffafa. Bedeutung: 'Sehen sie denn nicht, dass es ihnen kein Wort erwidert?'"
       },
-      "difficulty": 3
+      "difficulty": 3,
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=20&verse=89"
     },
     {
       "id": "syn_251",
       "type": "find_element",
       "category": "ma_variants",
-      "verse": { "surah": 3, "ayah": 67, "text": "ما كان ابرهيم يهوديا ولا نصرنيا ولكن كان حنيفا مسلما وما كان من المشركين" },
+      "verse": {
+        "surah": 3,
+        "ayah": 67,
+        "text": "ما كان ابرهيم يهوديا ولا نصرنيا ولكن كان حنيفا مسلما وما كان من المشركين"
+      },
       "question": "Bestimme die Funktion von ما in ما كان ابرهيم.",
       "correctAnswer": {
-        "wordIndices": [0],
+        "wordIndices": [
+          0
+        ],
         "word": "ما",
         "explanation": "ما النافية (Negation). ما steht direkt vor dem Verb كان und verneint den gesamten Satz: 'Abraham war NICHT juedisch und nicht christlich.' Erkennungszeichen: ما + Verb (كان) + keine Bedingungsantwort, kein Relativsatz. Einfache Negation des Verbalsatzes."
       },
-      "difficulty": 1
+      "difficulty": 1,
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=67"
     },
     {
       "id": "syn_252",
       "type": "multiple_choice",
       "category": "ma_variants",
-      "verse": { "surah": 16, "ayah": 96, "text": "ما عندكم ينفد وما عند الله باق" },
+      "verse": {
+        "surah": 16,
+        "ayah": 96,
+        "text": "ما عندكم ينفد وما عند الله باق"
+      },
       "question": "Welche Funktion hat ما in ما عندكم?",
       "options": [
         "Negation: 'Bei euch vergeht nicht'",
@@ -648,26 +913,38 @@
         "answer": 1,
         "explanation": "ما الموصولة (Relativpronomen): 'Das, was bei euch ist, vergeht.' ما leitet einen Relativsatz ein (عندكم = bei euch) und das Verb ينفد (vergeht) ist das Prädikat des Relativsatzes oder des Hauptsatzes. Wäre es Negation, ergaebe sich 'bei euch vergeht nicht' — das widerspricht dem Kontext, der gerade die Vergänglichkeit irdischen Besitzes betont."
       },
-      "difficulty": 2
+      "difficulty": 2,
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=16&verse=96"
     },
     {
       "id": "syn_253",
       "type": "find_element",
       "category": "ma_variants",
-      "verse": { "surah": 78, "ayah": 1, "text": "عم يتساءلون" },
+      "verse": {
+        "surah": 78,
+        "ayah": 1,
+        "text": "عم يتساءلون"
+      },
       "question": "Analysiere عم. Welche Art von ما liegt vor?",
       "correctAnswer": {
-        "wordIndices": [0],
+        "wordIndices": [
+          0
+        ],
         "word": "عم",
         "explanation": "ما الاستفهامية (Frage-ما). عم = عن + ما (worueber/wonach). Das entscheidende Erkennungszeichen: Das Alif von ما ist weggefallen. Nach Präpositionen fällt das Alif der Frage-ما weg (عن + ما → عمّ, في + ما → فيم, ل + ما → لم). Dieser Alif-Wegfall kommt NUR bei der Frage-ما vor — nie beim Relativpronomen oder der Negation."
       },
-      "difficulty": 2
+      "difficulty": 2,
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=78&verse=1"
     },
     {
       "id": "syn_254",
       "type": "multiple_choice",
       "category": "ma_variants",
-      "verse": { "surah": 3, "ayah": 159, "text": "فبما رحمه من الله لنت لهم" },
+      "verse": {
+        "surah": 3,
+        "ayah": 159,
+        "text": "فبما رحمه من الله لنت لهم"
+      },
       "question": "Welche Funktion hat ما in فبما رحمه?",
       "options": [
         "Negation",
@@ -679,26 +956,38 @@
         "answer": 2,
         "explanation": "ما الزائدة (verstärkend). Erkennungszeichen: ما steht zwischen der Präposition بِ und dem Nomen رحمه im Genitiv. Entfernt man ما, bleibt فبرحمه — grammatisch und semantisch identisch. ما ändert weder die Rektion noch die Bedeutung. Es verstärkt lediglich den Ausdruck."
       },
-      "difficulty": 2
+      "difficulty": 2,
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=159"
     },
     {
       "id": "syn_255",
       "type": "find_element",
       "category": "ma_variants",
-      "verse": { "surah": 2, "ayah": 197, "text": "وما تفعلوا من خير يعلمه الله" },
+      "verse": {
+        "surah": 2,
+        "ayah": 197,
+        "text": "وما تفعلوا من خير يعلمه الله"
+      },
       "question": "Welche Funktion hat ما hier? Begründe anhand der Verbmodi.",
       "correctAnswer": {
-        "wordIndices": [0],
+        "wordIndices": [
+          0
+        ],
         "word": "ما",
         "explanation": "ما الشرطية (Bedingung): 'Was auch immer ihr an Gutem tut.' Erkennungszeichen: (1) تفعلوا steht im Jussiv (Wegfall des Nun: تفعلوا statt تفعلون). (2) يعلمه steht im Jussiv (Sukun auf dem Mim). Zwei Jussiv-Verben (Bedingungsverb + Antwortverb) beweisen die Bedingungsfunktion von ما."
       },
-      "difficulty": 2
+      "difficulty": 2,
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=197"
     },
     {
       "id": "syn_256",
       "type": "multiple_choice",
       "category": "oath_particles",
-      "verse": { "surah": 103, "ayah": 1, "text": "والعصر" },
+      "verse": {
+        "surah": 103,
+        "ayah": 1,
+        "text": "والعصر"
+      },
       "question": "Welche Partikel leitet den Schwur ein und in welchem Kasus steht das Schwurobjekt?",
       "options": [
         "وَ (Konjunktion) + العصر im Nominativ",
@@ -710,26 +999,38 @@
         "answer": 1,
         "explanation": "وَ القسم (Schwur-Waw): والعصر = 'Bei der Zeit!' Die Schwurpartikel وَ regiert den Genitiv — العصر steht im Genitiv (Kasra auf dem Ra, verdeckt durch den bestimmten Artikel). Die Antwort auf den Schwur folgt in 103:2 mit ان الانسن لفى خسر, eingeleitet durch ان + ل."
       },
-      "difficulty": 1
+      "difficulty": 1,
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=103&verse=1"
     },
     {
       "id": "syn_257",
       "type": "find_element",
       "category": "oath_particles",
-      "verse": { "surah": 91, "ayah": 1, "text": "والشمس وضحىها" },
+      "verse": {
+        "surah": 91,
+        "ayah": 1,
+        "text": "والشمس وضحىها"
+      },
       "question": "Identifiziere die Schwurstruktur. Wo ist die Schwur-Antwort (jawab al-qasam)?",
       "correctAnswer": {
-        "wordIndices": [0],
+        "wordIndices": [
+          0
+        ],
         "word": "والشمس",
         "explanation": "وَ القسم leitet den Schwur ein: 'Bei der Sonne und ihrem Morgenlicht!' Der Schwur erstreckt sich über die Verse 91:1-7 (sieben Schwurobjekte). Die Schwur-Antwort (jawab al-qasam) beginnt erst in 91:9 mit قد افلح من زكىها, eingeleitet durch قد. Die lange Distanz zwischen Schwur und Antwort ist ein stilistisches Merkmal dieser Sure."
       },
-      "difficulty": 2
+      "difficulty": 2,
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=91&verse=1"
     },
     {
       "id": "syn_258",
       "type": "multiple_choice",
       "category": "oath_particles",
-      "verse": { "surah": 21, "ayah": 57, "text": "وتالله لاكيدن اصنمكم بعد ان تولوا مدبرين" },
+      "verse": {
+        "surah": 21,
+        "ayah": 57,
+        "text": "وتالله لاكيدن اصنمكم بعد ان تولوا مدبرين"
+      },
       "question": "Welche Schwurpartikel liegt vor und was ist ihre Besonderheit?",
       "options": [
         "وَ القسم — die häufigste Schwurpartikel",
@@ -741,26 +1042,38 @@
         "answer": 2,
         "explanation": "تَ القسم (ta al-qasam): تالله = 'bei Gott!' Die seltenste Schwurpartikel. Sie kommt im Quran nur mit الله vor und drückt oft Verwunderung oder emotionale Intensität aus. Hier: Ibrahims entschlossener Schwur: 'Bei Gott, ich werde gewiss euren Götzenbildern zusetzen!' Die Schwur-Antwort ist لاكيدن mit ل + Energikus-Nun."
       },
-      "difficulty": 2
+      "difficulty": 2,
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=21&verse=57"
     },
     {
       "id": "syn_259",
       "type": "find_element",
       "category": "oath_particles",
-      "verse": { "surah": 12, "ayah": 73, "text": "قالوا تالله لقد علمتم ما جئنا لنفسد فى الارض وما كنا سرقين" },
+      "verse": {
+        "surah": 12,
+        "ayah": 73,
+        "text": "قالوا تالله لقد علمتم ما جئنا لنفسد فى الارض وما كنا سرقين"
+      },
       "question": "Analysiere den Schwur und seine Antwort.",
       "correctAnswer": {
-        "wordIndices": [1],
+        "wordIndices": [
+          1
+        ],
         "word": "تالله",
         "explanation": "تَ القسم: تالله (bei Gott). Die Schwur-Antwort ist لقد علمتم (ihr wisst gewiss), eingeleitet durch لَ (Bekräftigungs-Lam) + قد (Vergangenheitsbekraeftigung). Der gesamte Schwur in direkter Rede (Josephs Brüder): 'Bei Gott, ihr wisst doch, dass wir nicht gekommen sind, um im Land Unheil zu stiften.' Die تَ drückt hier die emphatische Beteuerung der Unschuld aus."
       },
-      "difficulty": 2
+      "difficulty": 2,
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=12&verse=73"
     },
     {
       "id": "syn_260",
       "type": "multiple_choice",
       "category": "oath_particles",
-      "verse": { "surah": 95, "ayah": 1, "text": "والتين والزيتون" },
+      "verse": {
+        "surah": 95,
+        "ayah": 1,
+        "text": "والتين والزيتون"
+      },
       "question": "Die Waw in والتين und والزيتون — sind beide Schwur-Waw?",
       "options": [
         "Ja, beide sind waw al-qasam — doppelter Schwur bei zwei Objekten",
@@ -772,26 +1085,39 @@
         "answer": 1,
         "explanation": "Nur die erste وَ in والتين ist die Schwurpartikel (waw al-qasam). Die zweite وَ in والزيتون ist eine koordinierende Konjunktion (waw al-'atf), die ein zweites Schwurobjekt anfuegt. Ein neuer Schwur müsste am Satzanfang stehen — hier liegt ein einzelner Schwur mit zwei koordinierten Schwurobjekten vor."
       },
-      "difficulty": 2
+      "difficulty": 2,
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=95&verse=1"
     },
     {
       "id": "syn_261",
       "type": "find_element",
       "category": "la_nafiya_lil_jins",
-      "verse": { "surah": 2, "ayah": 2, "text": "ذلك الكتاب لا ريب فيه هدى للمتقين" },
+      "verse": {
+        "surah": 2,
+        "ayah": 2,
+        "text": "ذلك الكتاب لا ريب فيه هدى للمتقين"
+      },
       "question": "Analysiere لا ريب فيه. Was ist Ism und Khabar von لا?",
       "correctAnswer": {
-        "wordIndices": [2, 3],
+        "wordIndices": [
+          2,
+          3
+        ],
         "word": "لا ريب فيه",
         "explanation": "لا النافية للجنس (Gattungsnegation). ريب (Zweifel) ist das Ism von لا — es steht im Akkusativ ohne Tanwin (Fatha auf dem Ba, ohne Tanwin-Nunation). فيه (darin) ist das Khabar von لا als Präpositionalphrase. Bedeutung: 'Kein Zweifel (ueberhaupt, als Gattung) ist darin.' Die gesamte Gattung 'Zweifel' wird negiert."
       },
-      "difficulty": 1
+      "difficulty": 1,
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=2"
     },
     {
       "id": "syn_262",
       "type": "multiple_choice",
       "category": "la_nafiya_lil_jins",
-      "verse": { "surah": 2, "ayah": 256, "text": "لا اكراه فى الدين قد تبين الرشد من الغى" },
+      "verse": {
+        "surah": 2,
+        "ayah": 256,
+        "text": "لا اكراه فى الدين قد تبين الرشد من الغى"
+      },
       "question": "In welchem Kasus steht اكراه und warum?",
       "options": [
         "Nominativ mit Tanwin (اكراهٌ) — normales Mubtada",
@@ -803,26 +1129,38 @@
         "answer": 2,
         "explanation": "اكراه steht im Akkusativ ohne Tanwin — es ist das Ism von لا النافية للجنس. Die Gattung 'Zwang' wird vollständig negiert: Es gibt ueberhaupt keinen Zwang in der Lebensweise. Wäre es اكراهٌ (Nominativ mit Tanwin), laege nur eine einfache Negation eines Einzelfalls vor."
       },
-      "difficulty": 2
+      "difficulty": 2,
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=256"
     },
     {
       "id": "syn_263",
       "type": "find_element",
       "category": "la_nafiya_lil_jins",
-      "verse": { "surah": 2, "ayah": 48, "text": "واتقوا يوما لا تجزى نفس عن نفس شيا ولا يقبل منها شفعه ولا يوخذ منها عدل ولا هم ينصرون" },
+      "verse": {
+        "surah": 2,
+        "ayah": 48,
+        "text": "واتقوا يوما لا تجزى نفس عن نفس شيا ولا يقبل منها شفعه ولا يوخذ منها عدل ولا هم ينصرون"
+      },
       "question": "Ist لا in لا تجزى eine la al-nafiya lil-jins oder eine andere Art von لا?",
       "correctAnswer": {
-        "wordIndices": [2],
+        "wordIndices": [
+          2
+        ],
         "word": "لا تجزى",
         "explanation": "Dies ist NICHT لا النافية للجنس, sondern لا النافية (einfache Negation) vor einem Verb. لا تجزى = 'nicht leistet' — لا negiert das Verb تجزى direkt. لا النافية للجنس steht nur vor NOMEN (nicht vor Verben) und setzt das Nomen in den Akkusativ ohne Tanwin. Hier folgt auf لا ein Verb → einfache Negation."
       },
-      "difficulty": 2
+      "difficulty": 2,
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=48"
     },
     {
       "id": "syn_264",
       "type": "multiple_choice",
       "category": "la_nafiya_lil_jins",
-      "verse": { "surah": 55, "ayah": 33, "text": "يمعشر الجن والانس ان استطعتم ان تنفذوا من اقطار السموت والارض فانفذوا لا تنفذون الا بسلطن" },
+      "verse": {
+        "surah": 55,
+        "ayah": 33,
+        "text": "يمعشر الجن والانس ان استطعتم ان تنفذوا من اقطار السموت والارض فانفذوا لا تنفذون الا بسلطن"
+      },
       "question": "Welche Art von لا liegt in لا تنفذون vor?",
       "options": [
         "لا النافية للجنس — Gattungsnegation",
@@ -834,39 +1172,63 @@
         "answer": 2,
         "explanation": "لا النافية (einfache Negation). تنفذون steht im Indikativ (Raf', mit Nun am Ende), nicht im Jussiv. لا + Indikativ = einfache Negation: 'Ihr werdet nicht durchdringen.' Wäre es لا الناهية (Verbot), stuende das Verb im Jussiv: لا تنفذوا."
       },
-      "difficulty": 2
+      "difficulty": 2,
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=55&verse=33"
     },
     {
       "id": "syn_265",
       "type": "find_element",
       "category": "la_nafiya_lil_jins",
-      "verse": { "surah": 37, "ayah": 35, "text": "انهم كانوا اذا قيل لهم لا اله الا الله يستكبرون" },
+      "verse": {
+        "surah": 37,
+        "ayah": 35,
+        "text": "انهم كانوا اذا قيل لهم لا اله الا الله يستكبرون"
+      },
       "question": "Analysiere لا اله الا الله. Wie ist die I'rab-Struktur?",
       "correctAnswer": {
-        "wordIndices": [5, 6, 7, 8],
+        "wordIndices": [
+          5,
+          6,
+          7,
+          8
+        ],
         "word": "لا اله الا الله",
         "explanation": "لا النافية للجنس: لا (Gattungsnegation) + اله (Ism von لا, Akkusativ ohne Tanwin). Das Khabar von لا ist implizit (موجود = vorhanden) oder wird als getilgt betrachtet. الا (Ausnahme-Partikel) + الله im Nominativ als Badal (Apposition) zum impliziten Khabar oder als Ausnahme. Gesamtanalyse: Kein Gott (existiert) ausser Gott."
       },
-      "difficulty": 3
+      "difficulty": 3,
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=37&verse=35"
     },
     {
       "id": "syn_266",
       "type": "find_element",
       "category": "ma_hijaziyya",
-      "verse": { "surah": 12, "ayah": 31, "text": "فلما رايته اكبرنه وقطعن ايديهن وقلن حش لله ما هذا بشرا ان هذا الا ملك كريم" },
+      "verse": {
+        "surah": 12,
+        "ayah": 31,
+        "text": "فلما رايته اكبرنه وقطعن ايديهن وقلن حش لله ما هذا بشرا ان هذا الا ملك كريم"
+      },
       "question": "Analysiere ما هذا بشرا. Liegt ما الحجازية vor?",
       "correctAnswer": {
-        "wordIndices": [8, 9, 10],
+        "wordIndices": [
+          8,
+          9,
+          10
+        ],
         "word": "ما هذا بشرا",
         "explanation": "Ja, ما الحجازية. ما funktioniert hier wie ليس: هذا = Ism von ما (Nominativ, als Demonstrativpronomen unveränderlich). بشرا = Khabar von ما im Akkusativ (erkennbar an der Endung -an). Der Akkusativ des Prädikats beweist, dass ما hier wie ليس regiert: 'Dies ist kein Mensch.' Im tamimischen Dialekt stuende بشرٌ im Nominativ."
       },
-      "difficulty": 2
+      "difficulty": 2,
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=12&verse=31"
     },
     {
       "id": "syn_267",
       "type": "multiple_choice",
       "category": "ma_hijaziyya",
-      "verse": { "surah": 11, "ayah": 109, "text": "وما ربك بغفل عما يعملون" },
+      "verse": {
+        "surah": 11,
+        "ayah": 109,
+        "text": "وما ربك بغفل عما يعملون"
+      },
       "question": "Was ist die Funktion der بـ in بغفل?",
       "options": [
         "Präposition: 'mit Achtlosigkeit'",
@@ -878,26 +1240,39 @@
         "answer": 2,
         "explanation": "باء زائدة (verstärkendes Ba). In der ما الحجازية-Konstruktion tritt häufig ein verstärkendes بـ vor dem Khabar auf. ما ربك بغفل: ما = Negation wie ليس, ربك = Ism (Nominativ), بغفل = Khabar — syntaktisch Akkusativ, aber die باء زائدة verstärkt die Negation. Ohne بـ: ما ربك غافلا — identische Bedeutung."
       },
-      "difficulty": 2
+      "difficulty": 2,
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=11&verse=109"
     },
     {
       "id": "syn_268",
       "type": "find_element",
       "category": "ma_hijaziyya",
-      "verse": { "surah": 2, "ayah": 102, "text": "وما هم بضارين به من احد الا باذن الله" },
+      "verse": {
+        "surah": 2,
+        "ayah": 102,
+        "text": "وما هم بضارين به من احد الا باذن الله"
+      },
       "question": "Analysiere die ما-Konstruktion. Identifiziere Ism, Khabar und die باء زائدة.",
       "correctAnswer": {
-        "wordIndices": [1, 2],
+        "wordIndices": [
+          1,
+          2
+        ],
         "word": "ما هم بضارين",
         "explanation": "ما الحجازية: ما = Negation wie ليس. هم = Ism von ما (Nominativ, Personalpronomen 3. Person Plural). بضارين = Khabar von ما. Die بـ ist باء زائدة (verstärkend). ضارين ist syntaktisch Akkusativ (Khabar von ما), obwohl die باء es formell in den Genitiv setzt. Bedeutung: 'Sie können niemandem damit schaden — ausser mit Gottes Erlaubnis.'"
       },
-      "difficulty": 3
+      "difficulty": 3,
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=102"
     },
     {
       "id": "syn_269",
       "type": "multiple_choice",
       "category": "ma_hijaziyya",
-      "verse": { "surah": 12, "ayah": 31, "text": "ان هذا الا ملك كريم" },
+      "verse": {
+        "surah": 12,
+        "ayah": 31,
+        "text": "ان هذا الا ملك كريم"
+      },
       "question": "Im Folgesatz ان هذا الا ملك كريم — steht ملك im Nominativ (كريمٌ). Warum verliert ما hier seine Rektion?",
       "options": [
         "Weil ان (negierend) anders regiert als ما",
@@ -909,39 +1284,60 @@
         "answer": 1,
         "explanation": "Wenn الا vor dem Khabar steht, verliert die Negation (ما oder ان النافية) ihre Rektion über den Kasus. Das Khabar steht dann im Nominativ statt im Akkusativ. In ما هذا بشرا → Akkusativ (keine الا). In ان هذا الا ملك كريم → Nominativ (weil الا die Rektion aufhebt). Dies ist eine feste Regel der arabischen Grammatik."
       },
-      "difficulty": 3
+      "difficulty": 3,
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=12&verse=31"
     },
     {
       "id": "syn_270",
       "type": "find_element",
       "category": "ma_hijaziyya",
-      "verse": { "surah": 3, "ayah": 176, "text": "وما هم بضارين الله شيا" },
+      "verse": {
+        "surah": 3,
+        "ayah": 176,
+        "text": "وما هم بضارين الله شيا"
+      },
       "question": "Vergleiche diese Konstruktion mit 2:102 (وما هم بضارين به من احد). Was ist strukturell identisch?",
       "correctAnswer": {
-        "wordIndices": [1, 2],
+        "wordIndices": [
+          1,
+          2
+        ],
         "word": "ما هم بضارين",
         "explanation": "Strukturell identisch: ما الحجازية + هم (Ism, Nominativ) + بضارين (Khabar mit باء زائدة). Der Unterschied liegt nur im Komplement: 2:102 hat به من احد (damit niemandem), 3:176 hat الله شيا (Gott etwas). In beiden Fällen ist die grammatische Konstruktion dieselbe: ما fungiert wie ليس, بـ verstärkt die Negation."
       },
-      "difficulty": 2
+      "difficulty": 2,
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=176"
     },
     {
       "id": "syn_271",
       "type": "find_element",
       "category": "masdar_muawwal",
-      "verse": { "surah": 2, "ayah": 184, "text": "وان تصوموا خير لكم" },
+      "verse": {
+        "surah": 2,
+        "ayah": 184,
+        "text": "وان تصوموا خير لكم"
+      },
       "question": "Identifiziere den Masdar muawwal. Welche syntaktische Funktion hat er im Satz?",
       "correctAnswer": {
-        "wordIndices": [0, 1],
+        "wordIndices": [
+          0,
+          1
+        ],
         "word": "ان تصوموا",
         "explanation": "ان تصوموا ist ein Masdar muawwal (= صيامكم, euer Fasten). Er fungiert als Mubtada (Subjekt) des Nominalsatzes. خير ist das Khabar. Umwandlung in Masdar sarih: صيامُكم خيرٌ لكم. Die Partikel أَنْ versetzt das Verb تصوموا in den Subjunktiv (Mansubform: Wegfall des Nun)."
       },
-      "difficulty": 2
+      "difficulty": 2,
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=184"
     },
     {
       "id": "syn_272",
       "type": "multiple_choice",
       "category": "masdar_muawwal",
-      "verse": { "surah": 4, "ayah": 11, "text": "يوصيكم الله فى اولدكم" },
+      "verse": {
+        "surah": 4,
+        "ayah": 11,
+        "text": "يوصيكم الله فى اولدكم"
+      },
       "question": "In 4:11 steht später: فَإِنْ كُنَّ نِسَاءً فَوْقَ اثْنَتَيْنِ فَلَهُنَّ ثُلُثَا مَا تَرَكَ. Welche Funktion hat أَنْ in يُرِيدُ اللَّهُ أَنْ يُخَفِّفَ عَنْكُمْ (4:28)?",
       "options": [
         "ان المصدرية — bildet mit dem Verb einen Masdar muawwal als Maf'ul bihi",
@@ -953,39 +1349,60 @@
         "answer": 0,
         "explanation": "أَنْ يُخَفِّفَ ist ein Masdar muawwal in der Funktion des Maf'ul bihi (Akkusativobjekt) von يُرِيدُ. Masdar sarih: يُرِيدُ اللَّهُ التَّخْفِيفَ عَنْكُمْ. Die Partikel أَنْ ist hier ان المصدرية, die mit dem Subjunktiv ein Masdar muawwal bildet."
       },
-      "difficulty": 2
+      "difficulty": 2,
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=11"
     },
     {
       "id": "syn_273",
       "type": "find_element",
       "category": "masdar_muawwal",
-      "verse": { "surah": 6, "ayah": 151, "text": "قل تعالوا اتل ما حرم ربكم عليكم الا تشركوا به شيا" },
+      "verse": {
+        "surah": 6,
+        "ayah": 151,
+        "text": "قل تعالوا اتل ما حرم ربكم عليكم الا تشركوا به شيا"
+      },
       "question": "Analysiere الا تشركوا. Liegt ein Masdar muawwal vor?",
       "correctAnswer": {
-        "wordIndices": [6, 7],
+        "wordIndices": [
+          6,
+          7
+        ],
         "word": "الا تشركوا",
         "explanation": "الا تشركوا besteht aus أَنْ + لَا + تشركوا. Die Partikel أَنْ ist hier ان المصدرية (das Verb steht im Subjunktiv: Wegfall des Nun). Der Masdar muawwal الا تشركوا (= عدم الاشراك, das Nicht-Beigesellen) fungiert als Badal (erklärende Apposition) von ما حرم oder als direkte Explikation des Verbotenen. Masdar sarih: حرم عليكم الاشراك به."
       },
-      "difficulty": 3
+      "difficulty": 3,
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=6&verse=151"
     },
     {
       "id": "syn_274",
       "type": "find_element",
       "category": "masdar_muawwal",
-      "verse": { "surah": 7, "ayah": 85, "text": "قد جاءتكم بينه من ربكم فاوفوا الكيل والميزان ولا تبخسوا الناس اشياءهم ولا تفسدوا فى الارض بعد اصلحها" },
+      "verse": {
+        "surah": 7,
+        "ayah": 85,
+        "text": "قد جاءتكم بينه من ربكم فاوفوا الكيل والميزان ولا تبخسوا الناس اشياءهم ولا تفسدوا فى الارض بعد اصلحها"
+      },
       "question": "In 7:85 steht: قَدْ جَاءَتْكُمْ بَيِّنَةٌ مِنْ رَبِّكُمْ. Wie würde man أَنْ قَدْ جَاءَتْكُمْ بَيِّنَةٌ als Masdar muawwal analysieren?",
       "correctAnswer": {
-        "wordIndices": [0, 1],
+        "wordIndices": [
+          0,
+          1
+        ],
         "word": "قد جاءتكم بينه",
         "explanation": "In der Konstruktion أَنْ قَدْ جَاءَتْكُمْ بَيِّنَةٌ wäre der Masdar muawwal (= مجيء البينة, das Kommen des Beweises) als Maf'ul bihi oder als Fa'il möglich, je nach syntaktischem Kontext. Hier im Vers steht قَدْ جَاءَتْكُمْ als direkte Aussage ohne أَنْ — also kein Masdar muawwal, sondern ein Verbalsatz."
       },
-      "difficulty": 3
+      "difficulty": 3,
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=7&verse=85"
     },
     {
       "id": "syn_275",
       "type": "multiple_choice",
       "category": "masdar_muawwal",
-      "verse": { "surah": 9, "ayah": 3, "text": "واذن من الله ورسوله الى الناس يوم الحج الاكبر ان الله برىء من المشركين ورسوله" },
+      "verse": {
+        "surah": 9,
+        "ayah": 3,
+        "text": "واذن من الله ورسوله الى الناس يوم الحج الاكبر ان الله برىء من المشركين ورسوله"
+      },
       "question": "Was ist die syntaktische Funktion von أَنَّ اللَّهَ بَرِيءٌ مِنَ الْمُشْرِكِينَ?",
       "options": [
         "Masdar muawwal als Maf'ul bihi (Objekt) von اذن — Inhalt der Bekanntmachung",
@@ -997,26 +1414,39 @@
         "answer": 0,
         "explanation": "أَنَّ اللَّهَ بَرِيءٌ مِنَ الْمُشْرِكِينَ ist ein Masdar muawwal mit أَنَّ. Er fungiert als Inhalt/Explikation der Bekanntmachung (اذن). Masdar sarih: أَذَانٌ بِبَرَاءَةِ اللَّهِ مِنَ الْمُشْرِكِينَ. Die Partikel أَنَّ steht mit Ism im Akkusativ (اللَّهَ) und Khabar im Nominativ (بَرِيءٌ)."
       },
-      "difficulty": 2
+      "difficulty": 2,
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=9&verse=3"
     },
     {
       "id": "syn_276",
       "type": "find_element",
       "category": "masdar_muawwal",
-      "verse": { "surah": 17, "ayah": 23, "text": "وقضى ربك الا تعبدوا الا اياه وبالولدين احسنا" },
+      "verse": {
+        "surah": 17,
+        "ayah": 23,
+        "text": "وقضى ربك الا تعبدوا الا اياه وبالولدين احسنا"
+      },
       "question": "Identifiziere den Masdar muawwal und bestimme seine syntaktische Funktion.",
       "correctAnswer": {
-        "wordIndices": [2, 3],
+        "wordIndices": [
+          2,
+          3
+        ],
         "word": "الا تعبدوا",
         "explanation": "الا تعبدوا = أَنْ + لَا + تعبدوا. Der Masdar muawwal (= عدم عبادة غيره, das Nicht-Dienen ausser Ihm) fungiert als Maf'ul bihi (Objekt) von قضى im Sinne von 'er hat bestimmt/verfügt'. Masdar sarih: قضى ربك عبادته وحده. Das Verb تعبدوا steht im Subjunktiv (Mansubform: Wegfall des Nun). الا hier = أَنْ + لَا (Negation innerhalb des Masdar muawwal)."
       },
-      "difficulty": 2
+      "difficulty": 2,
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=17&verse=23"
     },
     {
       "id": "syn_277",
       "type": "multiple_choice",
       "category": "masdar_muawwal",
-      "verse": { "surah": 20, "ayah": 73, "text": "انا امنا بربنا ليغفر لنا خطينا وما اكرهتنا عليه من السحر والله خير وابقى" },
+      "verse": {
+        "surah": 20,
+        "ayah": 73,
+        "text": "انا امنا بربنا ليغفر لنا خطينا وما اكرهتنا عليه من السحر والله خير وابقى"
+      },
       "question": "Welche syntaktische Funktion hat أَنَّا آمَنَّا (vollständig: إِنَّا آمَنَّا بِرَبِّنَا) im Gesamtkontext?",
       "options": [
         "Masdar muawwal als Maf'ul bihi — Objekt einer vorhergehenden Drohung",
@@ -1028,20 +1458,32 @@
         "answer": 1,
         "explanation": "Hier liegt kein Masdar muawwal vor. إِنَّا آمَنَّا بِرَبِّنَا ist ein eigenständiger Aussagesatz mit إِنَّ (Bekräftigungspartikel), nicht mit أَنَّ (Masdar-bildend). إِنَّ leitet keinen Masdar muawwal ein, sondern bekräftigt die Aussage: 'Wahrlich, wir glauben an unseren Herrn.' Der Unterschied zwischen إِنَّ (Bekräftigung) und أَنَّ (Masdar-bildend) ist hier entscheidend."
       },
-      "difficulty": 3
+      "difficulty": 3,
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=20&verse=73"
     },
     {
       "id": "syn_278",
       "type": "find_element",
       "category": "masdar_muawwal",
-      "verse": { "surah": 39, "ayah": 53, "text": "قل يعبادى الذين اسرفوا على انفسهم لا تقنطوا من رحمه الله ان الله يغفر الذنوب جميعا" },
+      "verse": {
+        "surah": 39,
+        "ayah": 53,
+        "text": "قل يعبادى الذين اسرفوا على انفسهم لا تقنطوا من رحمه الله ان الله يغفر الذنوب جميعا"
+      },
       "question": "Analysiere أَنَّ اللَّهَ يَغْفِرُ الذُّنُوبَ جَمِيعًا. Liegt ein Masdar muawwal vor und welche Funktion hat er?",
       "correctAnswer": {
-        "wordIndices": [9, 10, 11, 12, 13],
+        "wordIndices": [
+          9,
+          10,
+          11,
+          12,
+          13
+        ],
         "word": "ان الله يغفر الذنوب جميعا",
         "explanation": "أَنَّ اللَّهَ يَغْفِرُ الذُّنُوبَ جَمِيعًا ist ein Masdar muawwal mit أَنَّ. Er fungiert als Ta'lil (Begründung) für لَا تَقْنَطُوا: 'Verzweifelt nicht — denn/weil Gott alle Verfehlungen vergibt.' Masdar sarih: لِمَغْفِرَةِ اللَّهِ الذُّنُوبَ جَمِيعًا. Struktur: أَنَّ + Ism im Akkusativ (اللَّهَ) + Khabar als Verbalsatz (يَغْفِرُ الذُّنُوبَ جَمِيعًا)."
       },
-      "difficulty": 2
+      "difficulty": 2,
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=39&verse=53"
     }
   ]
 }

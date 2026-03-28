@@ -1830,7 +1830,7 @@
                 "Imperfekt",
                 "يَفْعَلُ (ya-fʿa-lu)",
                 "يُفْعَلُ (yu-fʿa-lu)",
-                "ya → yu, Kasra vor letztem Radikal entfällt"
+                "ya → yu (Präfixvokal wird Damma), Stammvokal vor letztem Radikal wird Fatha"
               ]
             ]
           },
@@ -3647,7 +3647,7 @@
                 "Lasten"
               ],
               [
-                "فُعُول",
+                "فُعُل",
                 "كِتَاب → كُتُب",
                 "Bücher"
               ],
@@ -6410,13 +6410,13 @@
                 "location": "2:2",
                 "word": "ذٰلِكَ",
                 "root": "—",
-                "analysis": "Dolch-Alif (Alif khanjariyya) über dem ذ (nach dem Dhāl). Modere Schreibung: ذَالِكَ. Aussprache: dhālika. Jenes. Das Dolch-Alif markiert ein langes ā, das im Rasm nicht als Buchstabe geschrieben wird."
+                "analysis": "Dolch-Alif (Alif khanjariyya) über dem ذ (nach dem Dhāl). Moderne Schreibung: ذَالِكَ. Aussprache: dhālika. Jenes. Das Dolch-Alif markiert ein langes ā, das im Rasm nicht als Buchstabe geschrieben wird."
               },
               {
                 "location": "2:3",
                 "word": "الصَّلوٰة",
                 "root": "ص-ل-و",
-                "analysis": "Dolch-Alif statt normalem Alif. Modere Schreibung: الصَّلَاة. Die Zuwendung."
+                "analysis": "Dolch-Alif statt normalem Alif. Moderne Schreibung: الصَّلَاة. Die Zuwendung."
               }
             ]
           }
@@ -7022,7 +7022,7 @@
               {
                 "ref": "2:2",
                 "arabic": "ذلك الكتاب لا ريب فيه",
-                "explanation": "ذلك — Demonstrativpronomen, definit. الكتب — Sifa oder Badal, definit durch Artikel. لا ريب — Gattungsnegation: ريب ist indefinit (kein Artikel, kein Tanwin wegen لا التي لنفي الجنس)."
+                "explanation": "ذلك — Demonstrativpronomen, definit. الكتاب — Sifa oder Badal, definit durch Artikel. لا ريب — Gattungsnegation: ريب ist indefinit (kein Artikel, kein Tanwin wegen لا التي لنفي الجنس)."
               },
               {
                 "ref": "2:30",
@@ -8669,18 +8669,6 @@
           }
         ]
       },
-      "exercises": [
-        {
-          "type": "derivation",
-          "question": "أَقَامَ ist Form IV Perfekt von ق-و-م. Wie lautet das Imperfekt 3ms?",
-          "answer": "يُقِيمُ — das lange A im Perfekt (أَقَامَ) wird zu langem I im Imperfekt (يُقِيمُ). Muster: أَفَالَ → يُفِيلُ."
-        },
-        {
-          "type": "identification",
-          "question": "الْمُسْتَقِيمَ (1:6) — was ist die Wurzel und die Form?",
-          "answer": "Wurzel ق-و-م. Form X Aktivpartizip: مُسْتَفِيل. Der mittlere Waw wird zu langem I. Verb: اِسْتَقَامَ/يَسْتَقِيمُ."
-        }
-      ],
       "testContent": {
         "exercises": [
           {
@@ -8724,6 +8712,16 @@
               "yuriidu"
             ],
             "explanation": "يُرِيدُ — Form IV Imperfekt von ر-و-د. Muster يُفِيلُ. Perfekt: أَرَادَ. Belegt in 2:185: يُرِيدُ اللَّهُ بِكُمُ الْيُسْرَ."
+          },
+          {
+            "type": "derivation",
+            "question": "أَقَامَ ist Form IV Perfekt von ق-و-م. Wie lautet das Imperfekt 3ms?",
+            "answer": "يُقِيمُ — das lange A im Perfekt (أَقَامَ) wird zu langem I im Imperfekt (يُقِيمُ). Muster: أَفَالَ → يُفِيلُ."
+          },
+          {
+            "type": "identification",
+            "question": "الْمُسْتَقِيمَ (1:6) — was ist die Wurzel und die Form?",
+            "answer": "Wurzel ق-و-م. Form X Aktivpartizip: مُسْتَفِيل. Der mittlere Waw wird zu langem I. Verb: اِسْتَقَامَ/يَسْتَقِيمُ."
           }
         ]
       },
@@ -8789,18 +8787,6 @@
           }
         ]
       },
-      "exercises": [
-        {
-          "type": "derivation",
-          "question": "صَلَّى ist Form II Perfekt von ص-ل-و. Wie lautet das Imperfekt 3ms und der Imperativ 2ms?",
-          "answer": "Imperfekt: يُصَلِّي — Muster يُفَعِّلُ + defektiver Endung. Imperativ: صَلِّ — mit Kasra auf dem letzten starken Radikal, ohne Endung. Belegt als صَلِّ (108:2)."
-        },
-        {
-          "type": "identification",
-          "question": "الْمُتَّقِينَ (2:2) — warum steht ein Taschdid auf dem Ta?",
-          "answer": "Weil الْمُتَّقِينَ Form VIII Aktivpartizip von و-ق-ي ist. In Form VIII (اِفْتَعَلَ) assimiliert der erste Radikal Waw an das Ta des Infixes: اِوْتَقَى → اِتَّقَى. Das doppelte Ta ist die phonologische Spur dieser Assimilation."
-        }
-      ],
       "testContent": {
         "exercises": [
           {
@@ -8844,6 +8830,16 @@
               "yuuhii"
             ],
             "explanation": "يُوحِي — Form IV Imperfekt von و-ح-ي. Muster يُفْعِلُ + defektiver Endung. Das erste Radikal Waw bleibt (kein Idgham in Form IV, nur in Form VIII). Passiv: يُوحَى (53:4)."
+          },
+          {
+            "type": "derivation",
+            "question": "صَلَّى ist Form II Perfekt von ص-ل-و. Wie lautet das Imperfekt 3ms und der Imperativ 2ms?",
+            "answer": "Imperfekt: يُصَلِّي — Muster يُفَعِّلُ + defektiver Endung. Imperativ: صَلِّ — mit Kasra auf dem letzten starken Radikal, ohne Endung. Belegt als صَلِّ (108:2)."
+          },
+          {
+            "type": "identification",
+            "question": "الْمُتَّقِينَ (2:2) — warum steht ein Taschdid auf dem Ta?",
+            "answer": "Weil الْمُتَّقِينَ Form VIII Aktivpartizip von و-ق-ي ist. In Form VIII (اِفْتَعَلَ) assimiliert der erste Radikal Waw an das Ta des Infixes: اِوْتَقَى → اِتَّقَى. Das doppelte Ta ist die phonologische Spur dieser Assimilation."
           }
         ]
       },
@@ -8904,18 +8900,6 @@
           }
         ]
       },
-      "exercises": [
-        {
-          "type": "derivation",
-          "question": "قَالَ ist ein hohles Verb (ق-و-ل). Wie lautet das Passiv Perfekt 3ms (nicht *قُوِلَ)?",
-          "answer": "قِيلَ — Kasra auf dem ersten Radikal, langer ī-Vokal, dann letzter Radikal. Die Kontraktion des Waw zwischen zwei Vokalen ergibt das lange ī. Das ist die feste Form, keine Ausnahme."
-        },
-        {
-          "type": "identification",
-          "question": "قُضِيَ (39:69) — was verrät die Endung ـِيَ über die Verbklasse?",
-          "answer": "Die Endung ـِيَ (Kasra + Ya + kurzes a) ist das eindeutige Signal für den Passiv Perfekt eines DEFEKTIVEN Verbs. Das Ya ist der ehemalige dritte Radikal (ي oder و), der im Passiv zu langem ī wird. Wurzel hier: ق-ض-ي."
-        }
-      ],
       "testContent": {
         "exercises": [
           {
@@ -8970,6 +8954,16 @@
               "yudʿā"
             ],
             "explanation": "يُدْعَى — Präfix-Damma (Passiv), dann Stamm, dann Alif Maqsura (typisch für defektives Imperfekt Passiv). Signal: Präfix-Damma + ـَى am Ende."
+          },
+          {
+            "type": "derivation",
+            "question": "قَالَ ist ein hohles Verb (ق-و-ل). Wie lautet das Passiv Perfekt 3ms (nicht *قُوِلَ)?",
+            "answer": "قِيلَ — Kasra auf dem ersten Radikal, langer ī-Vokal, dann letzter Radikal. Die Kontraktion des Waw zwischen zwei Vokalen ergibt das lange ī. Das ist die feste Form, keine Ausnahme."
+          },
+          {
+            "type": "identification",
+            "question": "قُضِيَ (39:69) — was verrät die Endung ـِيَ über die Verbklasse?",
+            "answer": "Die Endung ـِيَ (Kasra + Ya + kurzes a) ist das eindeutige Signal für den Passiv Perfekt eines DEFEKTIVEN Verbs. Das Ya ist der ehemalige dritte Radikal (ي oder و), der im Passiv zu langem ī wird. Wurzel hier: ق-ض-ي."
           }
         ]
       },

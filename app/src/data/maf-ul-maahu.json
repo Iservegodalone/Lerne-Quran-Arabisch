@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": "Maf'ul Ma'ahu — Begleitobjekt (المفعول معه)",
-    "description": "Das Begleitobjekt steht nach dem Waw al-Ma'iyya (واو المعية) im Akkusativ und drückt aus, dass jemand oder etwas gleichzeitig mit der Handlung praesent ist — ohne aktiv an ihr teilzunehmen. Dieser Akkusativ ist im Quran selten, aber grammatisch klar von Waw al-'Atf zu unterscheiden.",
+    "description": "Das Begleitobjekt steht nach dem Waw al-Ma'iyya (واو المعية) im Akkusativ und drückt aus, dass jemand oder etwas gleichzeitig mit der Handlung praesent ist — ohne aktiv an ihr teilzunehmen. Im Quran ist kein eindeutiger, unumstrittener Beleg für den Maf'ul Ma'ahu vorhanden. Die Konstruktion ist primär aus der klassischen Grammatiktradition bekannt. Die folgenden Beispiele zeigen Grenzfälle und Kontrastbeispiele.",
     "sources": [
       { "name": "Wright's Arabic Grammar Vol II", "url": "https://archive.org/details/grammarofthearab02telerich" },
       { "name": "Quranic Arabic Corpus", "url": "https://corpus.quran.com/" }
@@ -11,7 +11,7 @@
     {
       "id": "MAA1",
       "title": "Maf'ul Ma'ahu — das Begleitobjekt",
-      "description": "Struktur, Erkennungsmerkmale und Quranbeispiele des Begleitobjekts.",
+      "description": "Struktur, Erkennungsmerkmale und Kontrastbeispiele des Begleitobjekts. Im Quran ist kein eindeutiger Beleg vorhanden.",
       "learnContent": {
         "sections": [
           {
@@ -25,8 +25,13 @@
             "content": "Der entscheidende Test:\n\nWAW AL-'ATF: Das zweite Nomen könnte dasselbe Verb/Prädikat haben. Beide Nomen 'tun' die Handlung.\nجَاءَ مُحَمَّدٌ وَعَلِيٌّ — 'Muhammad und Ali kamen' (beide kamen)\nعَلِيٌّ im Nominativ — konjunktiver Nominativ (معطوف)\n\nMAF'UL MA'ATH: Das zweite Nomen kann die Handlung NICHT tun — es begleitet nur.\nجَاءَ مُحَمَّدٌ وَالنِّيلَ — nicht möglicher Satz, da Nil nicht gehen kann\n\nWICHTIG: Im Arabischen ist oft BEIDES grammatisch möglich — sowohl Maf'ul ma'ahu als auch Waw al-'Atf. Die Wahl ändert die Bedeutung:\nسِرْتُ وَزَيْدًا — Akkusativ: 'ich reiste, Zayd dabei' (er kam nur mit)\nسِرْتُ وَزَيْدٌ — Nominativ: 'Zayd und ich reisten' (beide aktiv)"
           },
           {
+            "type": "explanation",
+            "title": "Hinweis zur Beleglage im Quran",
+            "content": "Im Quran ist kein eindeutiger, unumstrittener Beleg für den Maf'ul Ma'ahu vorhanden. Die Konstruktion ist primär aus der klassischen Grammatiktradition bekannt (Standardbeispiel: سِرْتُ وَالنِّيلَ). Der Quran verwendet für Begleitungsangaben fast ausschliesslich مَعَ + Genitiv. Die folgenden Beispiele zeigen daher Grenzfälle und Kontrastbeispiele, um das Erkennen der Konstruktion zu schulen — nicht weil sie tatsächlich Maf'ul Ma'ahu enthalten."
+          },
+          {
             "type": "quranExamples",
-            "title": "Quranbeispiele und Grenzfaelle",
+            "title": "Grenzfaelle und Kontrastbeispiele aus dem Quran",
             "examples": [
               {
                 "ref": "20:18",

@@ -136,6 +136,116 @@
           }
         ]
       }
+    },
+    {
+      "id": "TAM3",
+      "title": "Zahlentamyiz im Detail und Abgrenzung",
+      "description": "Vertiefte Behandlung des Tamyiz bei Zahlen mit allen Kasusregeln, zusätzliche Quranbelege und systematische Abgrenzung von Hal und Maf'ul bihi.",
+      "learnContent": {
+        "sections": [
+          {
+            "type": "explanation",
+            "title": "Das vollständige Kasusschema bei Zahlwörtern",
+            "content": "Die Kasusregeln für den Tamyiz nach Zahlen im Überblick:\n\n1-2: Kein Tamyiz — das Gezählte steht als eigenständiges Nomen, die Zahl ist Attribut.\nرَجُلٌ وَاحِدٌ — 'ein Mann' (واحد ist Sifa zu رجل)\n\n3-10: Gezähltes im GENITIV PLURAL (Idafa-Konstruktion).\nDie Zahl bildet eine Idafa mit dem Gezählten. Genuswechsel: Die Zahl hat das entgegengesetzte Genus zum Gezählten.\nثَلَاثَةُ أَيَّامٍ — 'drei Tage' (أيام maskulin → ثلاثة mit Ta-Marbuta)\nثَلَاثُ لَيَالٍ — 'drei Nächte' (ليال feminin → ثلاث ohne Ta-Marbuta)\n\n11-99: Gezähltes im AKKUSATIV SINGULAR.\nأَحَدَ عَشَرَ كَوْكَبًا — 'elf Sterne' (كَوْكَبًا Akk. Sg.)\nعِشْرُونَ كِتَابًا — 'zwanzig Bücher' (كِتَابًا Akk. Sg.)\n\n100, 1000 und ihre Vielfachen: Gezähltes im GENITIV SINGULAR (Idafa).\nمِائَةُ عَامٍ — 'hundert Jahre'\nأَلْفَ سَنَةٍ — 'tausend Jahre'"
+          },
+          {
+            "type": "quranExamples",
+            "title": "Quranbeispiele: Zahlen 3-10 (Genitiv Plural)",
+            "examples": [
+              {
+                "ref": "2:196",
+                "arabic": "فَصِيَامُ ثَلَاثَةِ أَيَّامٍ فِي الْحَجِّ وَسَبْعَةٍ إِذَا رَجَعْتُمْ",
+                "explanation": "ثَلَاثَةِ أَيَّامٍ = Zahl 3 + Gezähltes im Genitiv Plural (Idafa). سَبْعَةٍ = Zahl 7, das Gezaehlte (أَيَّامٍ) ist hier elliptisch zu ergänzen aus dem Kontext. Beide folgen der Regel: Zahlen 3-10 regieren Genitiv Plural."
+              },
+              {
+                "ref": "18:22",
+                "arabic": "سَيَقُولُونَ ثَلَاثَةٌ رَّابِعُهُمْ كَلْبُهُمْ وَيَقُولُونَ خَمْسَةٌ سَادِسُهُمْ كَلْبُهُمْ",
+                "explanation": "ثَلَاثَةٌ und خَمْسَةٌ stehen hier als Khabar (Praedikat) im Nominativ OHNE Tamyiz — das Gezaehlte wird nicht explizit genannt, sondern aus dem Kontext erschlossen. رَّابِعُهُمْ كَلْبُهُمْ ist ein eigenständiger Nominalsatz ('ihr Vierter ist ihr Hund'). Beachte: Keine Idafa, kein Tamyiz — die Zahl steht prädikativ allein."
+              },
+              {
+                "ref": "12:4",
+                "arabic": "إِنِّي رَأَيْتُ أَحَدَ عَشَرَ كَوْكَبًا",
+                "explanation": "أَحَدَ عَشَرَ = Zusammengesetzte Zahl 11. كَوْكَبًا = Tamyiz im Akkusativ Singular — Regel für 11-99. Das Nomen ist indefinit und steht im Singular trotz der Pluralbedeutung."
+              }
+            ]
+          },
+          {
+            "type": "quranExamples",
+            "title": "Quranbeispiele: Zahlen 11-99 (Akkusativ Singular)",
+            "examples": [
+              {
+                "ref": "7:142",
+                "arabic": "وَوَاعَدْنَا مُوسَىٰ ثَلَاثِينَ لَيْلَةً وَأَتْمَمْنَاهَا بِعَشْرٍ",
+                "explanation": "ثَلَاثِينَ = Zahl 30 (Akkusativ als Maf'ul bihi zweites Objekt von واعد). لَيْلَةً = Tamyiz im Akkusativ Singular. Regel 11-99: Singular, nicht Plural."
+              },
+              {
+                "ref": "29:14",
+                "arabic": "فَلَبِثَ فِيهِمْ أَلْفَ سَنَةٍ إِلَّا خَمْسِينَ عَامًا",
+                "explanation": "أَلْفَ سَنَةٍ = 1000 + Genitiv Singular (Idafa, Regel für 100/1000). خَمْسِينَ عَامًا = 50 + Akkusativ Singular (Tamyiz, Regel für 11-99). Beide Regeln in einem Vers sichtbar."
+              },
+              {
+                "ref": "9:36",
+                "arabic": "إِنَّ عِدَّةَ الشُّهُورِ عِندَ اللَّهِ اثْنَا عَشَرَ شَهْرًا",
+                "explanation": "اثْنَا عَشَرَ = 12 (Nominativ als Khabar von إِنَّ nach عِدَّة). شَهْرًا = Tamyiz im Akkusativ Singular. Beachte: Die Zahl 12 kongruiert im Genus mit dem Gezaehlten (عَشَرَ ohne Ta-Marbuta, da شَهْر maskulin)."
+              }
+            ]
+          },
+          {
+            "type": "explanation",
+            "title": "Abgrenzung: Tamyiz vs. Hal vs. Maf'ul bihi",
+            "content": "Alle drei stehen im Akkusativ und können verwechselt werden. Systematische Unterscheidung:\n\nTAMYIZ: Beantwortet 'in Bezug worauf?' oder 'wovon?'\n- Steht nach Zahlen, Elativ oder mengenunbestimmten Ausdrücken\n- Immer indefinit (mit Tanwin oder diptotischer Fatha)\n- Präzisiert eine quantitative oder qualitative Mehrdeutigkeit\n- Beispiel: أَحَدَ عَشَرَ كَوْكَبًا — elf wovon? Sterne.\n\nHAL: Beantwortet 'in welchem Zustand?'\n- Steht nach Verben und beschreibt den Zustand des Subjekts/Objekts WAEHREND der Handlung\n- Kann indefinit (Partizip/Adjektiv) oder als Satz (Hal-Satz) auftreten\n- Beispiel: جَاءَ رَاكِبًا — er kam reitend (Zustand beim Kommen)\n\nMAF'UL BIHI: Beantwortet 'wen/was?'\n- Direktes Objekt eines transitiven Verbs\n- Kann definit oder indefinit sein\n- Beispiel: قَرَأْتُ كِتَابًا — ich las ein Buch (was las ich?)\n\nGrenzfall-Test am Quran:\nفَفَتَحْنَا أَبْوَابَ السَّمَاءِ بِمَاءٍ مُّنْهَمِرٍ (54:11)\nأَبْوَابَ = Maf'ul bihi (was wurde geöffnet? Die Tore)\nNICHT Tamyiz, weil kein Zahl-/Mengenausdruck vorliegt und أبواب definit ist (Idafa-Definitheit)."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "analysis",
+          "question": "In 29:14 steht أَلْفَ سَنَةٍ إِلَّا خَمْسِينَ عَامًا. Warum steht سَنَةٍ im Genitiv, aber عَامًا im Akkusativ?",
+          "answer": "سَنَةٍ steht im Genitiv Singular, weil es nach أَلْف (1000) steht — Regel: nach 100/1000 folgt Genitiv Singular (Idafa). عَامًا steht im Akkusativ Singular, weil es nach خَمْسِينَ (50) steht — Regel: nach 11-99 folgt Akkusativ Singular (Tamyiz). Beide Wörter bedeuten 'Jahr', zeigen aber unterschiedliche Kasusrektion je nach Zahlwort."
+        },
+        {
+          "type": "contrast",
+          "question": "In 12:4 steht أَحَدَ عَشَرَ كَوْكَبًا — ist كَوْكَبًا Tamyiz oder Maf'ul bihi?",
+          "answer": "كَوْكَبًا ist Tamyiz (Spezifikationsakkusativ) zur Zahl أَحَدَ عَشَرَ. Es beantwortet: 'elf wovon? — Sterne.' Das Maf'ul bihi des Verbs رَأَيْتُ ist die gesamte Phrase أَحَدَ عَشَرَ كَوْكَبًا. Der Tamyiz präzisiert die Zahl, nicht das Verb."
+        }
+      ],
+      "testContent": {
+        "exercises": [
+          {
+            "question": "Welchen Kasus hat das Gezählte nach den Zahlen 3-10?",
+            "options": [
+              "Akkusativ Singular",
+              "Genitiv Singular",
+              "Genitiv Plural",
+              "Nominativ Plural"
+            ],
+            "correct": 2,
+            "explanation": "Die Zahlen 3-10 bilden eine Idafa mit dem Gezählten: Genitiv Plural. Beispiel: ثَلَاثَةِ أَيَّامٍ (2:196)."
+          },
+          {
+            "question": "In 29:14: أَلْفَ سَنَةٍ إِلَّا خَمْسِينَ عَامًا — warum unterscheiden sich die Kasus von سَنَةٍ und عَامًا?",
+            "options": [
+              "Unterschiedliche Verben regieren unterschiedliche Kasus",
+              "أَلْف (1000) regiert Genitiv Singular (Idafa), خَمْسِين (50) regiert Akkusativ Singular (Tamyiz)",
+              "سَنَة ist feminin, عَام ist maskulin",
+              "Es handelt sich um einen Schreibfehler"
+            ],
+            "correct": 1,
+            "explanation": "Nach 100/1000 steht das Gezählte im Genitiv Singular (Idafa-Konstruktion). Nach 11-99 steht der Tamyiz im Akkusativ Singular. Beide Regeln sind in einem Vers sichtbar."
+          },
+          {
+            "question": "Was unterscheidet Tamyiz von Hal?",
+            "options": [
+              "Tamyiz ist immer definit, Hal immer indefinit",
+              "Tamyiz präzisiert eine Mengen-/Vergleichsmehrdeutigkeit ('wovon?'), Hal beschreibt einen Zustand ('wie?')",
+              "Tamyiz steht nur nach Verben, Hal nur nach Nomen",
+              "Es gibt keinen Unterschied"
+            ],
+            "correct": 1,
+            "explanation": "Tamyiz beantwortet 'in Bezug worauf / wovon?' und steht nach Zahlen, Elativ oder mengenunbestimmten Ausdrücken. Hal beantwortet 'in welchem Zustand?' und beschreibt die Situation des Subjekts/Objekts während der Handlung."
+          }
+        ]
+      }
     }
   ]
 }
