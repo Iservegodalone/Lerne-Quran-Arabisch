@@ -138,7 +138,7 @@ const M = {
 'غ و ث': 'Hilfe, Rettung', 'و ج ل': 'aengstlich sein',
 'ح و ت': 'Fisch, Wal', 'ا س ف': 'bedauern, traurig',
 'د ح ر': 'verstossen', 'ر ت ب': 'ordnen',
-'ن ع م': 'Gnade, Wohltat', 'ل ع ل': 'vielleicht',
+'ن ع م': 'Wohltat, Gunst', 'ل ع ل': 'vielleicht',
 'خ ش ب': 'Holzbalken', 'ص ب ب': 'giessen',
 'ع م ه': 'blind umherirren', 'ق ص م': 'zerbrechen',
 'ن ح ر': 'schlachten, Brust', 'ف ل ت': 'entkommen',

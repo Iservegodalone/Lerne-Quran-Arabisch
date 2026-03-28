@@ -744,7 +744,7 @@
             "Vers: نِعْمَ الْعَبْدُ إِنَّهُ أَوَّابٌ (38:30) — Vortrefflich ist der Diener! Er ist reumütig.",
             "Schritt 1: نِعْمَ ist das erstarrte Verb des Lobes — es wird nicht konjugiert",
             "Schritt 2: الْعَبْدُ ist das Subjekt (فَاعِل) im Nominativ — die gelobte Kategorie: 'der Diener'",
-            "Schritt 3: Das المَخْصُوص (die konkret gemeinte Person) ist hier implizit — gemeint ist Dawud oder Sulayman (je nach Kontext)",
+            "Schritt 3: Das المَخْصُوص (die konkret gelobte Person) ist syntaktisch nicht explizit genannt. Der Kontext legt nahe, auf wen sich das Lob bezieht.",
             "Schritt 4: إِنَّهُ أَوَّابٌ ist ein eigenständiger Satz der das Lob begründet: 'Wahrlich, er ist reumütig'",
             "Schritt 5: Die gesamte Konstruktion ist eine Lobformel: نِعْمَ + فَاعِل (+ optionales مَخْصُوص)"
           ]
@@ -932,7 +932,7 @@
             "Schritt 3: أَصْبَرَ ist das Verb auf dem Muster أَفْعَلَ — abgeleitet von der Wurzel ص-ب-ر (geduldig sein)",
             "Schritt 4: هُمْ (sie) ist das Objekt im Akkusativ — die Bestaunten",
             "Schritt 5: عَلَى النَّارِ = 'mit dem Feuer' — Präpositionalphrase als Ergänzung",
-            "Schritt 6: Gesamtbedeutung: 'Wie geduldig sie doch mit dem Feuer sind!' — ironischer Ausruf über diejenigen, die wissentlich die Hölle riskieren"
+            "Schritt 6: Gesamtbedeutung: 'Wie geduldig sie doch mit dem Feuer sind!' — ironischer Ausruf über diejenigen, die wissentlich das Feuer riskieren"
           ]
         },
         {
@@ -1178,7 +1178,7 @@
         {
           "type": "sentence_analysis",
           "prompt": "Analysiere: وَهُمْ رُقُودٌ aus وَتَحْسَبُهُمْ أَيْقَاظًا وَهُمْ رُقُودٌ (18:18)",
-          "answer": "وَ = واو الحالية. هُمْ = مُبْتَدَأ (Subjekt). رُقُودٌ = خَبَر (Prädikat, Plural von رَاقِد = schlafend). Der gesamte Satz ist جُمْلَة حَالِيَّة: 'während sie (in Wirklichkeit) schliefen'. Kontrast zu تَحْسَبُهُمْ أَيْقَاظًا: 'du hältst sie für wach'.",
+          "answer": "وَ = واو الحالية. هُمْ = مُبْتَدَأ (Subjekt). رُقُودٌ = خَبَر (Prädikat, Plural von رَاقِد = schlafend). Der gesamte Satz ist جُمْلَة حَالِيَّة: 'während sie schliefen'. Kontrast zu تَحْسَبُهُمْ أَيْقَاظًا: 'du hältst sie für wach'.",
           "explanation": "Der Zustandssatz وَهُمْ رُقُودٌ kontrastiert mit dem Hauptsatz: Man hält sie für wach (أَيْقَاظ), aber der wahre Zustand ist: sie schlafen (رُقُود). Die واو الحالية markiert diesen Kontrast."
         }
       ]
@@ -1256,7 +1256,7 @@
             {
               "arabic": "لَوْلَا أَنْتُمْ لَكُنَّا مُؤْمِنِينَ",
               "transliteration": "lawlā antum la-kunnā muʾminīna",
-              "meaning": "wenn ihr nicht gewesen wärt, wären wir Gläubige geworden (34:31) — KONDITIONAL"
+              "meaning": "wenn ihr nicht gewesen wärt, wären wir Vertrauende geworden (34:31) — KONDITIONAL"
             },
             {
               "arabic": "لَوْلَا أُنْزِلَ عَلَيْهِ مَلَكٌ",
@@ -1282,12 +1282,12 @@
             {
               "location": "6:8",
               "word": "لَوْلَا أُنْزِلَ عَلَيْهِ مَلَكٌ",
-              "analysis": "لَوْلَا + Perfekt Passiv = Vorwurf/Forderung der Ungläubigen. Warum wurde nicht ein Engel zu ihm herabgesandt?"
+              "analysis": "لَوْلَا + Perfekt Passiv = Vorwurf/Forderung der Leugnenden. Warum wurde nicht ein Engel zu ihm herabgesandt?"
             },
             {
               "location": "34:31",
               "word": "لَوْلَا أَنْتُمْ لَكُنَّا مُؤْمِنِينَ",
-              "analysis": "لَوْلَا + Nomen (أَنْتُمْ) = KONDITIONAL. Wenn ihr nicht gewesen wärt, wären wir Gläubige. Zum Vergleich: Hier ist es NICHT Vorwurf, sondern irreale Bedingung."
+              "analysis": "لَوْلَا + Nomen (أَنْتُمْ) = KONDITIONAL. Wenn ihr nicht gewesen wärt, wären wir Vertrauende. Zum Vergleich: Hier ist es NICHT Vorwurf, sondern irreale Bedingung."
             }
           ]
         }
@@ -1345,7 +1345,7 @@
           "type": "sentence_analysis",
           "prompt": "Analysiere: لَوْلَا أُنْزِلَ عَلَيْهِ مَلَكٌ (6:8)",
           "answer": "لَوْلَا = Vorwurfs-/Forderungspartikel (تحضيض), da ein Verb folgt. أُنْزِلَ = Perfekt Passiv (herabgesandt wurde). عَلَيْهِ = Präpositionalphrase (auf ihn). مَلَكٌ = Subjekt des Passivs (Stellvertreter-Subjekt, نائب فاعل) im Nominativ. Bedeutung: Warum wurde nicht ein Engel auf ihn herabgesandt?",
-          "explanation": "Die Ungläubigen fordern mit لَوْلَا ein Zeichen. لَوْلَا + Verb = Vorwurf/Forderung. Das Verb ist Passiv, مَلَكٌ ist der نائب فاعل."
+          "explanation": "Die Leugnenden fordern mit لَوْلَا ein Zeichen. لَوْلَا + Verb = Vorwurf/Forderung. Das Verb ist Passiv, مَلَكٌ ist der نائب فاعل."
         },
         {
           "type": "multiple_choice",
@@ -1373,34 +1373,34 @@
         {
           "type": "explanation",
           "title": "Was ist Taqdīr?",
-          "content": "تَقْدِير (Taqdīr) bedeutet wörtlich 'Einschätzung/Annahme' und bezeichnet in der arabischen Grammatik das Konzept der implizierten Elemente. Manchmal enthält ein Satz nicht alle grammatisch erwarteten Elemente — ein Wort wird 'mitgedacht' (مُقَدَّر), ohne dass es im Text erscheint. Dies ist kein Fehler, sondern ein bewusstes rhetorisches Mittel (إِيجَاز = Kürze). Der Quran verwendet Taqdīr häufig, und der Leser muss die fehlenden Elemente ergänzen können, um den Satz korrekt zu verstehen.",
+          "content": "تَقْدِير (Taqdīr) bedeutet wörtlich 'Einschätzung/Annahme' und bezeichnet in der arabischen Grammatiktradition das Konzept der postulierten Elemente. Die Grammatiktradition postuliert in bestimmten Konstruktionen getilgte Elemente (Taqdir). Der Text selbst ist jedoch grammatisch vollständig. Ein Wort wird in der traditionellen Analyse als 'mitgedacht' (مُقَدَّر) markiert — dies ist eine Beschreibungskategorie der Grammatiker, kein Defizit des Textes.",
           "arabicExamples": [
             {
               "arabic": "وَاسْأَلِ الْقَرْيَةَ",
               "transliteration": "wa-sʾali l-qaryata",
-              "meaning": "und frag das Dorf (12:82) — impliziert: frag die BEWOHNER des Dorfes"
+              "meaning": "وَاسْأَلِ الْقَرْيَةَ — frag die Ortschaft (12:82). Der Text formuliert die Aufforderung so; die Grammatiktradition ergänzt أَهْلَ, doch syntaktisch ist der Satz vollständig."
             },
             {
               "arabic": "حُرِّمَتْ عَلَيْكُمُ الْمَيْتَةُ",
               "transliteration": "ḥurrimat ʿalaykumu l-maytatu",
-              "meaning": "verboten wurde euch das Verendete (5:3) — impliziert: das ESSEN des Verendeten"
+              "meaning": "verboten wurde euch das Verendete (5:3). Der Text formuliert das Verbot so; die Grammatiktradition ergänzt أَكْلَ, doch syntaktisch ist der Satz vollständig."
             }
           ]
         },
         {
           "type": "explanation",
           "title": "Typen des Taqdīr",
-          "content": "Es gibt verschiedene Typen implizierter Elemente: 1) Impliziertes مُضَاف: وَاسْأَلِ الْقَرْيَةَ = frag [die Bewohner] des Dorfes — أَهْلَ ist impliziert. 2) Impliziertes Verb: Bei Antworten auf Fragen wird das Verb oft weggelassen. 3) Impliziertes Subjekt oder Prädikat: In Nominalsätzen kann eines von beiden fehlen. 4) Impliziertes Objekt: Ein transitives Verb steht ohne explizites Objekt. Implizierte Elemente werden in der Analyse als مُقَدَّر (geschätzt/angenommen) markiert.",
+          "content": "Die Grammatiktradition unterscheidet verschiedene Typen postulierter Elemente: 1) Postuliertes مُضَاف: وَاسْأَلِ الْقَرْيَةَ — die Tradition ergänzt أَهْلَ; der Text selbst ist syntaktisch vollständig. 2) Postuliertes Verb: Bei Antworten auf Fragen wird das Verb oft nicht wiederholt. 3) Postuliertes Subjekt oder Prädikat: In Nominalsätzen kann eines von beiden nicht explizit erscheinen. 4) Postuliertes Objekt: Ein transitives Verb steht ohne explizites Objekt. Diese Elemente werden in der traditionellen Analyse als مُقَدَّر (geschätzt/angenommen) markiert.",
           "arabicExamples": [
             {
               "arabic": "أَهْلَ الْقَرْيَةِ",
               "transliteration": "ahla l-qaryati",
-              "meaning": "die Bewohner des Dorfes — das implizierte مُضَاف in وَاسْأَلِ الْقَرْيَةَ"
+              "meaning": "die Bewohner des Dorfes — das von der Grammatiktradition postulierte مُضَاف in وَاسْأَلِ الْقَرْيَةَ; der Text selbst ist ohne diese Ergänzung vollständig"
             },
             {
               "arabic": "أَكْلَ الْمَيْتَةِ",
               "transliteration": "akla l-maytati",
-              "meaning": "das Essen des Verendeten — das implizierte مُضَاف in حُرِّمَتْ عَلَيْكُمُ الْمَيْتَةُ"
+              "meaning": "das Essen des Verendeten — das von der Grammatiktradition postulierte مُضَاف in حُرِّمَتْ عَلَيْكُمُ الْمَيْتَةُ; der Text selbst ist ohne diese Ergänzung vollständig"
             }
           ]
         },
@@ -1549,7 +1549,7 @@
         {
           "type": "explanation",
           "title": "Woran erkennt man das historische Präsens?",
-          "content": "Das Erkennungszeichen ist die Kombination aus إِذْ (als/damals — Zeitadverb der Vergangenheit) mit einem Imperfekt-Verb. إِذْ markiert eindeutig die Vergangenheit, aber das Verb steht im Imperfekt. Dieser Widerspruch signalisiert das historische Präsens. Weitere Kontextmarker: Die Erzählung handelt offensichtlich von vergangenen Propheten oder Ereignissen. Auch وَ + Imperfekt nach einer Perfekt-Kette kann historisches Präsens sein.",
+          "content": "Das Erkennungszeichen ist die Kombination aus إِذْ (als/damals — Zeitadverb der Vergangenheit) mit einem Imperfekt-Verb. إِذْ markiert eindeutig die Vergangenheit, aber das Verb steht im Imperfekt. Dieser Widerspruch signalisiert das historische Präsens. Weitere Kontextmarker: Die Erzählung handelt offensichtlich von vergangenen Verkündern oder Ereignissen. Auch وَ + Imperfekt nach einer Perfekt-Kette kann historisches Präsens sein.",
           "arabicExamples": [
             {
               "arabic": "إِذْ + يَفْعَلُ",
@@ -1580,7 +1580,7 @@
         {
           "type": "explanation",
           "title": "Rhetorische Wirkung (historisches Präsens)",
-          "content": "Diese Technik heißt اِسْتِحْضَار — linguistisch handelt es sich um den Einsatz des Imperfekts mit Vergangenheitsbedeutung (historisches Praesens). Ihr Zweck ist es, vergangene Ereignisse so lebendig darzustellen, dass der Leser/Hörer sie als gegenwärtig empfindet. Im Quran wird dies an besonders bedeutsamen Stellen eingesetzt: beim Bau der Kaaba, bei Schlüsselmomenten der Prophetengeschichten, bei dramatischen Szenen am Tag des Gerichts. Der Tempuswechsel ist NIEMALS zufällig — jede Stelle hat eine rhetorische Begründung.",
+          "content": "Diese Technik heißt اِسْتِحْضَار — linguistisch handelt es sich um den Einsatz des Imperfekts mit Vergangenheitsbedeutung (historisches Praesens). Ihr Zweck ist es, vergangene Ereignisse so lebendig darzustellen, dass der Leser/Hörer sie als gegenwärtig empfindet. Im Quran wird dies an besonders bedeutsamen Stellen eingesetzt: beim Bau der Kaaba, bei Schlüsselmomenten der Verkündergeschichten, bei dramatischen Szenen am Tag des Gerichts. Der Tempuswechsel ist NIEMALS zufällig — jede Stelle hat eine rhetorische Begründung.",
           "arabicExamples": [
             {
               "arabic": "وَإِذْ يَمْكُرُ بِكَ الَّذِينَ كَفَرُوا",
@@ -1611,7 +1611,7 @@
             {
               "location": "3:39",
               "word": "وَهُوَ قَائِمٌ يُصَلِّي فِي الْمِحْرَابِ",
-              "analysis": "Zakariya STEHT betend im Gebetsraum — die Szene wird durch Nominalsatz + Imperfekt vergegenwärtigt. يُصَلِّي vergegenwärtigt das vergangene Gebet."
+              "analysis": "Zakariya STEHT sich zuwendend im Zuwendungsraum — die Szene wird durch Nominalsatz + Imperfekt vergegenwärtigt. يُصَلِّي vergegenwärtigt die vergangene Zuwendung."
             },
             {
               "location": "37:102",

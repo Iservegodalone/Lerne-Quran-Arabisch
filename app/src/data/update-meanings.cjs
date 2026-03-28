@@ -121,7 +121,7 @@ const meanings = {
   "ك ف ف": "zurueckhalten, Hand, insgesamt",
   "ر ك ب": "reiten, besteigen",
   "ب ي ع": "Kauf, Verkauf, Treueid",
-  "ح ر ج": "Beengung, Bedrängnis, Sünde",
+  "ح ر ج": "Beengung, Bedrängnis, Verfehlung",
   "م ط ر": "Regen, regnen",
   "ش ك ك": "Zweifel, zweifeln",
   "ب د ا": "beginnen, anfangen, erschaffen",

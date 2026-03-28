@@ -521,16 +521,16 @@
     {
       "root": "ن ف س",
       "frequency": 298,
-      "meaning": "Seele, Selbst, Atem — Grundbedeutung des Selbst und der Lebenskraft",
-      "semanticField": "Seele und Selbst",
+      "meaning": "Selbst, Atem — Grundbedeutung des Selbst und der Lebenskraft",
+      "semanticField": "Selbst und Atem",
       "keyDerivatives": [
         {
           "form": "نَفْس",
-          "meaning": "Seele, Selbst, Person"
+          "meaning": "Selbst, Person"
         },
         {
           "form": "أَنْفُس",
-          "meaning": "Seelen, Personen (Plural)"
+          "meaning": "Selbste, Personen (Plural)"
         },
         {
           "form": "تَنَفَّسَ",
@@ -750,7 +750,7 @@
         },
         {
           "form": "آخِرَة",
-          "meaning": "das Letzte, Jenseits"
+          "meaning": "das Letzte, das Spätere"
         },
         {
           "form": "أُخْرَى",
@@ -1383,7 +1383,7 @@
       "keyDerivatives": [
         {
           "form": "نَبِيّ",
-          "meaning": "Prophet (Verkünder)"
+          "meaning": "Nabi/Verkünder (نَبِيّ — von der Wurzel ن-ب-أ 'verkünden', konventionell 'Prophet')"
         },
         {
           "form": "نَبَأ",
@@ -1574,16 +1574,16 @@
     {
       "root": "ن ع م",
       "frequency": 140,
-      "meaning": "Gnade erweisen, Wohltat geben — Grundbedeutung der Gunst/Gnade",
-      "semanticField": "Gnade und Wohltat",
+      "meaning": "Gunst erweisen, Wohltat geben — Grundbedeutung der Gunst/Wohltat (نِعْمَة — wörtl. Wohltat/Gunst, konventionell 'Gnade')",
+      "semanticField": "Gunst und Wohltat",
       "keyDerivatives": [
         {
           "form": "نِعْمَة",
-          "meaning": "Gnade, Wohltat"
+          "meaning": "Wohltat, Gunst"
         },
         {
           "form": "أَنْعَمَ",
-          "meaning": "er erwies Gnade (IV)"
+          "meaning": "er erwies Gunst (IV)"
         },
         {
           "form": "نَعِيم",
@@ -2299,15 +2299,15 @@
       "keyDerivatives": [
         {
           "form": "صَلَاة",
-          "meaning": "Gebet (konventionelle Entsprechung); wörtlich: Zuwendung/Verbindung (Masdar)"
+          "meaning": "Zuwendung/Hinwendung (konventionell 'Gebet'); Masdar"
         },
         {
           "form": "صَلَّى",
-          "meaning": "er betete (II)"
+          "meaning": "er wandte sich zu (II)"
         },
         {
           "form": "مُصَلِّين",
-          "meaning": "Betende (Partizip II)"
+          "meaning": "sich Zuwendende (Partizip II)"
         }
       ]
     },
@@ -3310,8 +3310,8 @@
     {
       "root": "ج ر م",
       "frequency": 66,
-      "meaning": "abschneiden, suendigen — Grundbedeutung des Abschneidens/Vergehens",
-      "semanticField": "Vergehen und Sünde",
+      "meaning": "abschneiden, verfehlen — Grundbedeutung des Abschneidens/Vergehens",
+      "semanticField": "Vergehen und Verfehlung",
       "keyDerivatives": [
         {
           "form": "مُجْرِم",
@@ -3319,7 +3319,7 @@
         },
         {
           "form": "جُرْم",
-          "meaning": "Vergehen, Sünde"
+          "meaning": "Vergehen, Verfehlung"
         },
         {
           "form": "أَجْرَمَ",
@@ -4150,20 +4150,20 @@
     {
       "root": "ا ث م",
       "frequency": 48,
-      "meaning": "suendigen, Schuld — Grundbedeutung der Sünde/Verfehlung",
-      "semanticField": "Sünde und Verfehlung",
+      "meaning": "verfehlen, Schuld — Grundbedeutung der Verfehlung",
+      "semanticField": "Verfehlung und Vergehen",
       "keyDerivatives": [
         {
           "form": "إِثْم",
-          "meaning": "Sünde, Verfehlung"
+          "meaning": "Verfehlung, Vergehen"
         },
         {
           "form": "آثِم",
-          "meaning": "suendigend, schuldig"
+          "meaning": "verfehlend, schuldig"
         },
         {
           "form": "أَثِيم",
-          "meaning": "suendhaft (Intensivform)"
+          "meaning": "schwer verfehlend (Intensivform)"
         }
       ]
     },
@@ -5084,7 +5084,7 @@
         },
         {
           "form": "آلَاء",
-          "meaning": "Gnaden, Wohltaten",
+          "meaning": "Wohltaten, Gaben",
           "note": "آلَاء (Gaben) wird von einigen Lexikographen einer eigenen Wurzel zugeordnet."
         }
       ]
@@ -5421,7 +5421,7 @@
         },
         {
           "form": "جُنَاح",
-          "meaning": "Sünde, Vergehen"
+          "meaning": "Verfehlung, Vergehen"
         },
         {
           "form": "جَنَحَ",
@@ -5673,7 +5673,7 @@
       "root": "و ر ي",
       "frequency": 32,
       "meaning": "hinter, zurück — Grundbedeutung des Dahinter-Seins",
-      "semanticField": "Hintergrund und Jenseits",
+      "semanticField": "Hintergrund und das Spätere",
       "keyDerivatives": [
         {
           "form": "وَرَاء",
@@ -6293,7 +6293,7 @@
       "root": "ص ي ر",
       "frequency": 29,
       "meaning": "werden, Schicksal",
-      "semanticField": "Jenseits und Vergeltung",
+      "semanticField": "Das Spätere und Vergeltung",
       "keyDerivatives": [
         {
           "form": "ٱلْمَصِيرُ",
@@ -6405,7 +6405,7 @@
       "root": "ف و ز",
       "frequency": 29,
       "meaning": "Erfolg, gewinnen",
-      "semanticField": "Jenseits und Vergeltung",
+      "semanticField": "Das Spätere und Vergeltung",
       "keyDerivatives": [
         {
           "form": "ٱلْفَوْزُ",
@@ -6784,7 +6784,7 @@
     {
       "root": "م ن ن",
       "frequency": 27,
-      "meaning": "Gnade erweisen",
+      "meaning": "Gunst erweisen, wohltun",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -6980,7 +6980,7 @@
     {
       "root": "و ز ر",
       "frequency": 27,
-      "meaning": "Last, Sünde",
+      "meaning": "Last, Verfehlung",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -7546,7 +7546,7 @@
       "root": "ص ل ي",
       "frequency": 25,
       "meaning": "brennen, dem Feuer ausgesetzt sein",
-      "semanticField": "Jenseits und Vergeltung",
+      "semanticField": "Das Spätere und Vergeltung",
       "keyDerivatives": [
         {
           "form": "يَصْلَوْنَهَا",
@@ -8189,7 +8189,7 @@
     {
       "root": "خ ط ا",
       "frequency": 22,
-      "meaning": "verfehlen, Sünde, Fehler",
+      "meaning": "verfehlen, Verfehlung, Fehler",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -9281,7 +9281,7 @@
     {
       "root": "س ع ر",
       "frequency": 19,
-      "meaning": "entfachen, Flamme, Höllenfeuer",
+      "meaning": "entfachen, Flamme, loderndes Feuer",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -10597,7 +10597,7 @@
     {
       "root": "ح ر ج",
       "frequency": 15,
-      "meaning": "Beengung, Bedrängnis, Sünde",
+      "meaning": "Beengung, Bedrängnis, Verfehlung",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -11082,7 +11082,7 @@
       "root": "ر ك ع",
       "frequency": 13,
       "meaning": "sich verneigen",
-      "semanticField": "Gott und Anbetung",
+      "semanticField": "Gott und Dienst",
       "keyDerivatives": [
         {
           "form": "ٱلرَّٰكِعِينَ",
@@ -11137,7 +11137,7 @@
     {
       "root": "ق ن ت",
       "frequency": 13,
-      "meaning": "demuetig beten",
+      "meaning": "demuetig ergeben sein",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -15954,7 +15954,7 @@
       "root": "ن س ك",
       "frequency": 7,
       "meaning": "(Quranische Formen: مَنسَكًا, مَنَاسِكَنَا, نُسُكٍ, مَّنَٰسِكَكُمْ, وَنُسُكِى)",
-      "semanticField": "Gott und Anbetung",
+      "semanticField": "Gott und Dienst",
       "keyDerivatives": [
         {
           "form": "مَنسَكًا",
@@ -26685,7 +26685,7 @@
     {
       "root": "ح ن ث",
       "frequency": 2,
-      "meaning": "Eidbruch, Sünde",
+      "meaning": "Eidbruch, Verfehlung",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -27505,7 +27505,7 @@
     {
       "root": "ح و ب",
       "frequency": 1,
-      "meaning": "Sünde, Vergehen",
+      "meaning": "Verfehlung, Vergehen",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -31741,7 +31741,7 @@
     {
       "root": "ز ب ن",
       "frequency": 1,
-      "meaning": "Höllenschergen, Wächter",
+      "meaning": "Feuerschergen, Wächter",
       "semanticField": "",
       "keyDerivatives": [
         {

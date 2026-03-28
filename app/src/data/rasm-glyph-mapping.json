@@ -25,7 +25,7 @@
       "description": "Die häufigste und größte Ambiguitätsgruppe. 5 verschiedene Buchstaben teilen sich dieselbe Grundform. In Anfangs- und Mittelposition sind sie ohne Punkte völlig identisch. Erst die I'jam-Punkte disambiguieren.",
       "examples": [
         {"rasm": "ٮىٮ", "possible": ["بيت (Haus)", "بنت (Tochter)", "ثبت (fest sein)"], "note": "Dieselben 3 Rasm-Zeichen — völlig verschiedene Wörter"},
-        {"rasm": "ٮٮى", "possible": ["بني (bauen)", "نبي (Prophet)", "ثني (falten)"], "note": "Ohne Punkte nicht unterscheidbar"}
+        {"rasm": "ٮٮى", "possible": ["بني (bauen)", "نبي (Nabi/Verkünder)", "ثني (falten)"], "note": "Ohne Punkte nicht unterscheidbar"}
       ],
       "frequency": "Extrem häufig — diese 5 Buchstaben machen ca. 30% aller Buchstaben im Quran aus"
     },

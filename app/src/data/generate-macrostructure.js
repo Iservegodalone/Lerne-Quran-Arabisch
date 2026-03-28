@@ -38,7 +38,7 @@ if (!existingNums.has(4)) {
         {verses: "4:127-152", label: "Anweisungen zu Frauen und Familie", function: "Waisenmaedchen, Ehekonflikte, Schriftbesitzer", marker: "وَيَسْتَفْتُونَكَ فِي النِّسَاءِ — Anfrage-Formel"},
         {verses: "4:153-176", label: "Schluss: Schriftbesitzer und Christologie", function: "Musa-Erzählung, Isa-Passage, Schluss-Verteilungsregeln", marker: "يَسْأَلُكَ أَهْلُ الْكِتَابِ — Frageformel, يَسْتَفْتُونَكَ — Schlussformel"}
       ],
-      keyFeature: "Staendiger Wechsel zwischen Anweisungen und Adressaten-Gruppen: universale Anrede (يَا أَيُّهَا النَّاسُ, V.1), Gläubige (يَا أَيُّهَا الَّذِينَ آمَنُوا), Schriftbesitzer (يَا أَهْلَ الْكِتَابِ, V.171). Rahmen: Beginnt mit Verteilungsregeln (V.1-6), endet mit Verteilungsregeln (V.176)."
+      keyFeature: "Staendiger Wechsel zwischen Anweisungen und Adressaten-Gruppen: universale Anrede (يَا أَيُّهَا النَّاسُ, V.1), Vertrauende (يَا أَيُّهَا الَّذِينَ آمَنُوا), Schriftbesitzer (يَا أَهْلَ الْكِتَابِ, V.171). Rahmen: Beginnt mit Verteilungsregeln (V.1-6), endet mit Verteilungsregeln (V.176)."
     }
   });
 }
@@ -78,9 +78,9 @@ if (!existingNums.has(6)) {
       segments: [
         {verses: "6:1-11", label: "Eröffnung: Lobpreis und Leugnung", function: "Schöpfungslob, Ablehnung der Zeichen", marker: "الْحَمْدُ لِلَّهِ الَّذِي خَلَقَ — Lobpreis als Eröffnung"},
         {verses: "6:12-24", label: "Konfrontation mit Götzendienern", function: "Rhetorische Fragen, Gerichtsszene", marker: "قُلْ لِمَن — قُلْ-Imperative als Leitstruktur"},
-        {verses: "6:25-73", label: "Argumentationsblock", function: "Gleichnisse, Prophetengeschichten, Zeichenaufzaehlung", marker: "وَعِندَهُ مَفَاتِحُ الْغَيْبِ — Attributkette Gottes"},
+        {verses: "6:25-73", label: "Argumentationsblock", function: "Gleichnisse, Verkündergeschichten, Zeichenaufzaehlung", marker: "وَعِندَهُ مَفَاتِحُ الْغَيْبِ — Attributkette Gottes"},
         {verses: "6:74-83", label: "Ibrahim-Argumentation", function: "Ibrahims Suche: Stern, Mond, Sonne", marker: "وَإِذْ قَالَ إِبْرَاهِيمُ لِأَبِيهِ — narrativer Rückblick"},
-        {verses: "6:84-90", label: "Prophetenkatalog", function: "Aufzählung von 18 Propheten", marker: "وَوَهَبْنَا لَهُ — Gabenkette"},
+        {verses: "6:84-90", label: "Verkünderkatalog", function: "Aufzählung von 18 Verkündern", marker: "وَوَهَبْنَا لَهُ — Gabenkette"},
         {verses: "6:91-117", label: "Schriftverteidigung", function: "Verteidigung der Schrift, Auseinandersetzung", marker: "وَمَا قَدَرُوا اللَّهَ حَقَّ قَدْرِهِ — zentrale Aussage"},
         {verses: "6:118-153", label: "Speisevorschriften und Auseinandersetzung", function: "Erlaubtes/Verbotenes, Widerlegung von Braeuchen", marker: "قُلْ لَا أَجِدُ — قُلْ-Imperativ"},
         {verses: "6:154-165", label: "Schluss: Schriftverweis und Mahnung", function: "Thora-Verweis, Individualverantwortung", marker: "ثُمَّ آتَيْنَا مُوسَى الْكِتَابَ — Schlussrahmen"}
@@ -101,13 +101,13 @@ if (!existingNums.has(7)) {
       segments: [
         {verses: "7:1-10", label: "Eröffnung: Muqatta'at und Warnung", function: "Schriftbezug, Warnung vor Hochmut", marker: "المص — Muqatta'at, كِتَابٌ أُنزِلَ إِلَيْكَ — Schriftreferenz"},
         {verses: "7:11-25", label: "Adam und Iblis", function: "Urgeschichtliche Erzählung", marker: "وَلَقَدْ خَلَقْنَاكُمْ ثُمَّ صَوَّرْنَاكُمْ — narrative Eröffnung"},
-        {verses: "7:26-58", label: "Prophetenkette: Nuh, Hud, Salih, Lut, Shu'ayb", function: "Fünf Prophetenerzählungen mit Refrain", marker: "لَقَدْ أَرْسَلْنَا — wiederholte Sendeformel"},
-        {verses: "7:59-102", label: "Fortgesetzte Prophetenkette", function: "Erzählungen mit Bestrafungsmotiv", marker: "يَا قَوْمِ — Vokativ in Prophetenreden"},
+        {verses: "7:26-58", label: "Verkünderkette: Nuh, Hud, Salih, Lut, Shu'ayb", function: "Fünf Verkündererzählungen mit Refrain", marker: "لَقَدْ أَرْسَلْنَا — wiederholte Sendeformel"},
+        {verses: "7:59-102", label: "Fortgesetzte Verkünderkette", function: "Erzählungen mit Bestrafungsmotiv", marker: "يَا قَوْمِ — Vokativ in Verkünderreden"},
         {verses: "7:103-171", label: "Musa-Block", function: "Ausführlichste Musa-Erzählung der Sure", marker: "ثُمَّ بَعَثْنَا مِن بَعْدِهِم مُوسَىٰ — Überleitung"},
         {verses: "7:172-178", label: "Ur-Bund-Passage", function: "Alast-Szene: Zeugnis der Nachkommen", marker: "وَإِذْ أَخَذَ رَبُّكَ مِن بَنِي آدَمَ — narrativer Rückblick"},
         {verses: "7:179-206", label: "Schluss: Ermahnung und Lobpreis", function: "Warnung, Gottes Namen, Schlussimperativ", marker: "وَلِلَّهِ الْأَسْمَاءُ الْحُسْنَىٰ — Attributformel, Niederwerfung"}
       ],
-      keyFeature: "Die Prophetenerzählungen folgen einem festen Schema: Sendung → يَا قَوْمِ-Anrede → Ablehnung → Bestrafung. Die Alast-Passage (V.172) ist ein textlinguistischer Sonderfall — ein narrativer Rückblick auf ein praehistorisches Ereignis."
+      keyFeature: "Die Verkündererzählungen folgen einem festen Schema: Sendung → يَا قَوْمِ-Anrede → Ablehnung → Bestrafung. Die Alast-Passage (V.172) ist ein textlinguistischer Sonderfall — ein narrativer Rückblick auf ein praehistorisches Ereignis."
     }
   });
 }
@@ -121,9 +121,9 @@ if (!existingNums.has(8)) {
     structure: {
       type: "Ereignisbezogene Diskursstruktur",
       segments: [
-        {verses: "8:1-4", label: "Eröffnung: Beute-Frage", function: "Frage nach Beuteverteilung, Gläubigedefinition", marker: "يَسْأَلُونَكَ عَنِ الْأَنفَالِ — Frageformel"},
+        {verses: "8:1-4", label: "Eröffnung: Beute-Frage", function: "Frage nach Beuteverteilung, Vertrauendendefinition", marker: "يَسْأَلُونَكَ عَنِ الْأَنفَالِ — Frageformel"},
         {verses: "8:5-19", label: "Rückblick auf den Auszug", function: "Vorbereitung, Engelshilfe", marker: "كَمَا أَخْرَجَكَ رَبُّكَ — Vergleichspartikel كَمَا"},
-        {verses: "8:20-40", label: "Anweisungen an Gläubige", function: "Gehorsamspflicht, Kampfbereitschaft", marker: "يَا أَيُّهَا الَّذِينَ آمَنُوا — wiederholter Vokativ"},
+        {verses: "8:20-40", label: "Anweisungen an Vertrauende", function: "Gehorsamspflicht, Kampfbereitschaft", marker: "يَا أَيُّهَا الَّذِينَ آمَنُوا — wiederholter Vokativ"},
         {verses: "8:41-44", label: "Beuteverteilung", function: "Konkrete Verteilungsregel", marker: "وَاعْلَمُوا أَنَّمَا غَنِمْتُم — Imperativ + Rechtsformel"},
         {verses: "8:45-60", label: "Verhaltensanweisungen bei Konfrontation", function: "Standhaftigkeit, Vertragsprinzipien", marker: "يَا أَيُّهَا الَّذِينَ آمَنُوا إِذَا لَقِيتُمْ — Vokativ + temporaler Konditionalsatz"},
         {verses: "8:61-75", label: "Schluss: Verträge und Loyalität", function: "Friedensbereitschaft, Loyalitätspflichten", marker: "وَإِن جَنَحُوا لِلسَّلْمِ فَاجْنَحْ لَهَا — Konditionalsatz"}
@@ -169,8 +169,8 @@ if (!existingNums.has(10)) {
         {verses: "10:1-10", label: "Eröffnung: Offenbarung und Schöpfung", function: "Muqatta'at, Verwunderung über Offenbarung, Zeichen", marker: "الر — Muqatta'at, أَكَانَ لِلنَّاسِ عَجَبًا — rhetorische Frage"},
         {verses: "10:11-30", label: "Argumentation gegen Leugner", function: "Zeichen, Gleichnisse, rhetorische Fragen", marker: "قُلْ مَن يَرْزُقُكُم — قُلْ-Imperative"},
         {verses: "10:31-56", label: "Argumentation für Gottes Einheit", function: "Beweis durch Schöpfungszeichen", marker: "قُلْ مَنْ يَرْزُقُكُمْ — wiederholte قُلْ-Struktur"},
-        {verses: "10:57-70", label: "Quran als Heilung", function: "Offenbarung als Ermahnung und Gnade", marker: "يَا أَيُّهَا النَّاسُ قَدْ جَاءَتْكُم مَوْعِظَةٌ — Vokativ + Perfekt"},
-        {verses: "10:71-92", label: "Prophetenerzählungen: Nuh, Musa", function: "Narrative Bloecke", marker: "وَاتْلُ عَلَيْهِمْ نَبَأَ نُوحٍ — Erzählimperativ"},
+        {verses: "10:57-70", label: "Quran als Heilung", function: "Offenbarung als Ermahnung und Wohltat", marker: "يَا أَيُّهَا النَّاسُ قَدْ جَاءَتْكُم مَوْعِظَةٌ — Vokativ + Perfekt"},
+        {verses: "10:71-92", label: "Verkündererzählungen: Nuh, Musa", function: "Narrative Bloecke", marker: "وَاتْلُ عَلَيْهِمْ نَبَأَ نُوحٍ — Erzählimperativ"},
         {verses: "10:93-109", label: "Schluss: Yunus und Ermahnung", function: "Yunus' Volk als positives Beispiel, Schlussformel", marker: "فَلَوْلَا كَانَتْ قَرْيَةٌ آمَنَتْ ... إِلَّا قَوْمَ يُونُسَ — Ausnahmeformel"}
       ],
       keyFeature: "Yunus' Volk ist die einzige Ausnahme eines Volkes, das nach der Warnung glaubte (V.98). Die Sure enthält über 20 قُلْ-Imperative und bewegt sich von kosmischen Zeichen zu historischen Belegen."
@@ -196,7 +196,7 @@ if (!existingNums.has(11)) {
         {verses: "11:84-95", label: "Shu'ayb und Madyan", function: "Shu'ayb-Erzählung", marker: "وَإِلَىٰ مَدْيَنَ أَخَاهُمْ شُعَيْبًا — Sendeformel"},
         {verses: "11:96-123", label: "Musa und Schluss", function: "Musa-Kurzform, Zusammenfassung, Ermahnung", marker: "وَلَقَدْ أَرْسَلْنَا مُوسَىٰ — Sendeformel, dann Schlussermahnung"}
       ],
-      keyFeature: "Sieben Prophetenerzählungen mit gleichem Schema: Sendeformel (وَإِلَىٰ/وَلَقَدْ أَرْسَلْنَا) → يَا قَوْمِ-Anrede → Ablehnung → Vernichtung. Die Nuh-Erzählung (V.25-49) ist mit 25 Versen die längste."
+      keyFeature: "Sieben Verkündererzählungen mit gleichem Schema: Sendeformel (وَإِلَىٰ/وَلَقَدْ أَرْسَلْنَا) → يَا قَوْمِ-Anrede → Ablehnung → Vernichtung. Die Nuh-Erzählung (V.25-49) ist mit 25 Versen die längste."
     }
   });
 }
@@ -231,13 +231,13 @@ if (!existingNums.has(14)) {
       type: "Narrative Gleichnis-Struktur",
       segments: [
         {verses: "14:1-4", label: "Eröffnung: Muqatta'at und Sendung", function: "Offenbarungsbezug, Sendung an Musa", marker: "الر كِتَابٌ أَنزَلْنَاهُ إِلَيْكَ — Muqatta'at + Offenbarung"},
-        {verses: "14:5-17", label: "Musa und Prophetenrede", function: "Musa-Sendung, Dialog Volk/Gesandte", marker: "وَلَقَدْ أَرْسَلْنَا مُوسَىٰ — Sendeformel"},
+        {verses: "14:5-17", label: "Musa und Verkünderrede", function: "Musa-Sendung, Dialog Volk/Gesandte", marker: "وَلَقَدْ أَرْسَلْنَا مُوسَىٰ — Sendeformel"},
         {verses: "14:18-27", label: "Gleichnisse", function: "Asche-Gleichnis, Baum-Gleichnis (gut/schlecht)", marker: "مَثَلُ الَّذِينَ كَفَرُوا — Gleichnisformel, أَلَمْ تَرَ كَيْفَ — rhetorische Frage"},
         {verses: "14:28-34", label: "Undankbarkeit und Gottes Gaben", function: "Aufzählung der im Text genannten Gaben", marker: "أَلَمْ تَرَ إِلَى الَّذِينَ بَدَّلُوا — rhetorische Frage"},
-        {verses: "14:35-41", label: "Ibrahims Gebet", function: "Direkte Rede Ibrahims", marker: "وَإِذْ قَالَ إِبْرَاهِيمُ رَبِّ — Vokativ + Bittgebet"},
+        {verses: "14:35-41", label: "Ibrahims Bittgebet", function: "Direkte Rede Ibrahims", marker: "وَإِذْ قَالَ إِبْرَاهِيمُ رَبِّ — Vokativ + Bittgebet"},
         {verses: "14:42-52", label: "Schluss: Gerichtstag", function: "Aufschub und Abrechnung", marker: "وَلَا تَحْسَبَنَّ اللَّهَ غَافِلًا — Prohibitiv + eschatologische Szene"}
       ],
-      keyFeature: "Das Doppelgleichnis vom guten und schlechten Baum (V.24-26) ist das strukturelle Zentrum. Ibrahim erscheint nur im Gebet (V.35-41), nicht in einer Erzählung — Ibrahim erscheint ausschließlich als redende Figur in direkter Rede, nicht als Akteur einer Handlung."
+      keyFeature: "Das Doppelgleichnis vom guten und schlechten Baum (V.24-26) ist das strukturelle Zentrum. Ibrahim erscheint nur im Bittgebet (V.35-41), nicht in einer Erzählung — Ibrahim erscheint ausschließlich als redende Figur in direkter Rede, nicht als Akteur einer Handlung."
     }
   });
 }
@@ -254,7 +254,7 @@ if (!existingNums.has(15)) {
         {verses: "15:1-15", label: "Eröffnung: Warnung und Leugnung", function: "Muqatta'at, Schutz des Quran, Leugnung", marker: "الر — Muqatta'at, إِنَّا نَحْنُ نَزَّلْنَا الذِّكْرَ — Schutzzusage"},
         {verses: "15:16-25", label: "Schöpfungszeichen", function: "Himmel, Sterne, Erde", marker: "وَلَقَدْ جَعَلْنَا فِي السَّمَاءِ بُرُوجًا — Schöpfungskatalog"},
         {verses: "15:26-44", label: "Adam und Iblis", function: "Erschaffung aus Lehm, Iblis' Weigerung", marker: "وَلَقَدْ خَلَقْنَا الْإِنسَانَ — narrative Eröffnung"},
-        {verses: "15:45-79", label: "Erzählblock", function: "Paradies/Hölle, Ibrahim-Gaeste, Lut, Al-Hijr", marker: "إِنَّ الْمُتَّقِينَ — Kontrastpaar, Prophetenerzählungen"},
+        {verses: "15:45-79", label: "Erzählblock", function: "Garten/Feuer, Ibrahim-Gaeste, Lut, Al-Hijr", marker: "إِنَّ الْمُتَّقِينَ — Kontrastpaar, Verkündererzählungen"},
         {verses: "15:80-86", label: "Al-Hijr-Volk", function: "Steinland-Bewohner als warnendes Beispiel", marker: "وَلَقَدْ كَذَّبَ أَصْحَابُ الْحِجْرِ — Ortsname als Surenname"},
         {verses: "15:87-99", label: "Schluss: Trost und Lobpreis", function: "Sieben Wiederholte, Lobpreis bis zum Tod", marker: "وَلَقَدْ آتَيْنَاكَ سَبْعًا مِنَ الْمَثَانِي — Gabennennung, وَاعْبُدْ رَبَّكَ حَتَّىٰ يَأْتِيَكَ الْيَقِينُ — Schlussvers"}
       ],
@@ -300,7 +300,7 @@ if (!existingNums.has(17)) {
         {verses: "17:23-39", label: "Ethischer Dekalog", function: "Gebotskette: Eltern, Verwandte, Verschwendung, Toetung, Unzucht", marker: "وَقَضَىٰ رَبُّكَ — wiederholte Gebotsformel, لَا تَقْتُلُوا — Prohibitivkette"},
         {verses: "17:40-60", label: "Auseinandersetzung mit Götzendienst", function: "Engelskritik, Argumentation", marker: "أَفَأَصْفَاكُمْ رَبُّكُم بِالْبَنِينَ — rhetorische Frage"},
         {verses: "17:61-72", label: "Adam und Iblis", function: "Iblis' Weigerung, menschliche Würde", marker: "وَإِذْ قُلْنَا لِلْمَلَائِكَةِ — narrativer Rückblick"},
-        {verses: "17:73-100", label: "Prophetentrost und Argumentation", function: "Standfestigkeit, Quranrezitation, Auferstehungsargument", marker: "وَإِن كَادُوا لَيَفْتِنُونَكَ — Beinahe-Konstruktion"},
+        {verses: "17:73-100", label: "Verkündertrost und Argumentation", function: "Standfestigkeit, Quranrezitation, Auferstehungsargument", marker: "وَإِن كَادُوا لَيَفْتِنُونَكَ — Beinahe-Konstruktion"},
         {verses: "17:101-111", label: "Schluss: Musa und Lobpreis", function: "Musa-Pharao-Verweis, Schlusslobpreis", marker: "وَقُلِ الْحَمْدُ لِلَّهِ — Lobpreis als Schluss, Rahmen mit V.1"}
       ],
       keyFeature: "V.23-39 bilden einen 'ethischen Dekalog' — die längste zusammenhängende Gebotskette des Quran. Rahmenstruktur: Lobpreis am Anfang (سُبْحَانَ, V.1) und am Ende (الْحَمْدُ لِلَّهِ, V.111)."
@@ -321,7 +321,7 @@ if (!existingNums.has(20)) {
         {verses: "20:9-98", label: "Musa-Block", function: "Ausführlichste Musa-Erzählung: Feuer, Sendung, Pharao, Auszug, Goldenes Kalb", marker: "وَهَلْ أَتَاكَ حَدِيثُ مُوسَىٰ — Erzähleroeffnung"},
         {verses: "20:99-114", label: "Überleitung: Quran und Wissen", function: "Quranverweis, Gerichtstag", marker: "كَذَٰلِكَ نَقُصُّ عَلَيْكَ — Meta-Narration"},
         {verses: "20:115-127", label: "Adam-Erzählung", function: "Adam, Iblis, Vertreibung", marker: "وَلَقَدْ عَهِدْنَا إِلَىٰ آدَمَ — narrativer Rückblick"},
-        {verses: "20:128-135", label: "Schluss: Geduld und Ermahnung", function: "Historischer Verweis, Gebetszeiten", marker: "فَاصْبِرْ عَلَىٰ مَا يَقُولُونَ — Imperativ als Schluss"}
+        {verses: "20:128-135", label: "Schluss: Geduld und Ermahnung", function: "Historischer Verweis, Zuwendungszeiten", marker: "فَاصْبِرْ عَلَىٰ مَا يَقُولُونَ — Imperativ als Schluss"}
       ],
       keyFeature: "Die Musa-Erzählung (V.9-98) umfasst 90 von 135 Versen — die größte Einzelerzaehlung einer Sure. Sie enthält die detaillierteste Darstellung des Goldenen-Kalb-Vorfalls (V.83-98)."
     }
@@ -335,16 +335,16 @@ if (!existingNums.has(21)) {
     name: "Al-Anbiya'",
     verses: 112,
     structure: {
-      type: "Prophetenkatalog-Struktur",
+      type: "Verkünderkatalog-Struktur",
       segments: [
         {verses: "21:1-10", label: "Eröffnung: Warnung und Leugnung", function: "Abrechnung naht, Leugner verspotten", marker: "اقْتَرَبَ لِلنَّاسِ حِسَابُهُمْ — Perfekt als Nähezeichen"},
         {verses: "21:11-29", label: "Schöpfungsargument", function: "Himmel und Erde nicht als Spiel geschaffen", marker: "مَا خَلَقْنَا السَّمَاءَ وَالْأَرْضَ — Negationsformel"},
         {verses: "21:30-50", label: "Schöpfungszeichen und Sterblichkeit", function: "Wasser-Ursprung, Sterblichkeit aller", marker: "كُلُّ نَفْسٍ ذَائِقَةُ الْمَوْتِ — universale Aussage"},
-        {verses: "21:51-73", label: "Prophetenkatalog I: Ibrahim, Lut, Nuh", function: "Ibrahim zerstört Götzen, Feuer-Wunder", marker: "وَلَقَدْ آتَيْنَا إِبْرَاهِيمَ رُشْدَهُ — Gabenverweis"},
-        {verses: "21:74-91", label: "Prophetenkatalog II: Dawud bis Maryam", function: "Kurzcharakterisierungen vieler Propheten", marker: "وَدَاوُودَ وَسُلَيْمَانَ — asyndetische Aufzählung"},
+        {verses: "21:51-73", label: "Verkünderkatalog I: Ibrahim, Lut, Nuh", function: "Ibrahim zerstört Götzen, Feuer-Wunder", marker: "وَلَقَدْ آتَيْنَا إِبْرَاهِيمَ رُشْدَهُ — Gabenverweis"},
+        {verses: "21:74-91", label: "Verkünderkatalog II: Dawud bis Maryam", function: "Kurzcharakterisierungen vieler Verkünder", marker: "وَدَاوُودَ وَسُلَيْمَانَ — asyndetische Aufzählung"},
         {verses: "21:92-112", label: "Schluss: Einheit und Gericht", function: "Eine Gemeinde, Gog/Magog, Schlussgebet", marker: "إِنَّ هَٰذِهِ أُمَّتُكُمْ أُمَّةً وَاحِدَةً — Einheitsformel"}
       ],
-      keyFeature: "Die Sure enthält den umfangreichsten Prophetenkatalog des Quran — über 16 Propheten werden in Kurzform erwähnt. Ibrahims Götzen-Disputation (V.51-70) ist die ausführlichste narrative Episode."
+      keyFeature: "Die Sure enthält den umfangreichsten Verkünderkatalog des Quran — über 16 Verkünder werden in Kurzform erwähnt. Ibrahims Götzen-Disputation (V.51-70) ist die ausführlichste narrative Episode."
     }
   });
 }
@@ -377,11 +377,11 @@ if (!existingNums.has(23)) {
     name: "Al-Mu'minun",
     verses: 118,
     structure: {
-      type: "Rahmenstruktur: Gläubigedefinition",
+      type: "Rahmenstruktur: Vertrauendendefinition",
       segments: [
-        {verses: "23:1-11", label: "Eröffnung: Gläubige-Definition", function: "Sieben Eigenschaften der Erfolgreichen", marker: "قَدْ أَفْلَحَ الْمُؤْمِنُونَ — Perfekt + قَدْ, Relativsatzkette"},
+        {verses: "23:1-11", label: "Eröffnung: Vertrauende-Definition", function: "Sieben Eigenschaften der Erfolgreichen", marker: "قَدْ أَفْلَحَ الْمُؤْمِنُونَ — Perfekt + قَدْ, Relativsatzkette"},
         {verses: "23:12-22", label: "Schöpfungszeichen", function: "Menschliche Schöpfung, Naturzeichen", marker: "وَلَقَدْ خَلَقْنَا الْإِنسَانَ مِن سُلَالَةٍ — Schöpfungsformel"},
-        {verses: "23:23-56", label: "Prophetenerzählungen", function: "Nuh, Hud, Musa, Isa", marker: "وَلَقَدْ أَرْسَلْنَا — wiederholte Sendeformel"},
+        {verses: "23:23-56", label: "Verkündererzählungen", function: "Nuh, Hud, Musa, Isa", marker: "وَلَقَدْ أَرْسَلْنَا — wiederholte Sendeformel"},
         {verses: "23:57-77", label: "Kontrastpaar: sich Hütende vs. Leugner", function: "Tugendkatalog, Leugnungsvorwurf", marker: "إِنَّ الَّذِينَ هُم مِن خَشْيَةِ رَبِّهِم — Relativsatzkette (Parallele zu V.1-11)"},
         {verses: "23:78-92", label: "Schöpfungsargumente", function: "Sinne, Schöpfung, Auferstehung", marker: "قُل لِمَنِ الْأَرْضُ — rhetorische Fragen"},
         {verses: "23:93-118", label: "Schluss: Schutzsuche und Schlussgebet", function: "Schutzgebet, Auferstehungsszene", marker: "رَبِّ اغْفِرْ وَارْحَمْ — Bittgebet als Schluss"}
@@ -401,8 +401,8 @@ if (!existingNums.has(25)) {
       type: "Argumentativ-Hymnische Struktur",
       segments: [
         {verses: "25:1-9", label: "Eröffnung: Lobpreis und Leugnung", function: "Schriftherabsendung, Einwaende der Leugner", marker: "تَبَارَكَ الَّذِي نَزَّلَ الْفُرْقَانَ — Lobpreis als Eröffnung"},
-        {verses: "25:10-20", label: "Leugner-Einwaende", function: "Paradiesforderung, Engelsforderung", marker: "وَقَالَ الَّذِينَ لَا يَرْجُونَ — wiederholte Leugner-Reden"},
-        {verses: "25:21-34", label: "Gerichtsszene und Argumentation", function: "Auferstehungsszene, Prophetengeschichten", marker: "وَقَالَ الرَّسُولُ يَا رَبِّ — Klagerede des Gesandten"},
+        {verses: "25:10-20", label: "Leugner-Einwaende", function: "Gartenforderung, Engelsforderung", marker: "وَقَالَ الَّذِينَ لَا يَرْجُونَ — wiederholte Leugner-Reden"},
+        {verses: "25:21-34", label: "Gerichtsszene und Argumentation", function: "Auferstehungsszene, Verkündergeschichten", marker: "وَقَالَ الرَّسُولُ يَا رَبِّ — Klagerede des Gesandten"},
         {verses: "25:35-44", label: "Historische Verweise", function: "Musa, Nuh, 'Ad, Thamud, Rass, Lut", marker: "وَلَقَدْ آتَيْنَا مُوسَى الْكِتَابَ — Sendeformel"},
         {verses: "25:45-62", label: "Schöpfungszeichen", function: "Schatten, Nacht, Wind, Wasser, Verwandtschaft", marker: "أَلَمْ تَرَ إِلَىٰ رَبِّكَ كَيْفَ مَدَّ الظِّلَّ — rhetorische Frage"},
         {verses: "25:63-77", label: "Schluss: Ibad ar-Rahman", function: "Beschreibung der Gottesdiener", marker: "وَعِبَادُ الرَّحْمَٰنِ الَّذِينَ يَمْشُونَ — Tugendkatalog als Schluss"}
@@ -493,8 +493,8 @@ if (!existingNums.has(29)) {
     structure: {
       type: "Prüfungs-Diskursstruktur",
       segments: [
-        {verses: "29:1-13", label: "Eröffnung: Prüfung der Gläubigen", function: "Muqatta'at, Prüfungsmotiv", marker: "الم أَحَسِبَ النَّاسُ أَن يُتْرَكُوا — rhetorische Frage"},
-        {verses: "29:14-40", label: "Prophetenerzählungen", function: "Nuh, Ibrahim, Lut, Shu'ayb, 'Ad, Thamud", marker: "وَلَقَدْ أَرْسَلْنَا نُوحًا — Sendeformel"},
+        {verses: "29:1-13", label: "Eröffnung: Prüfung der Vertrauenden", function: "Muqatta'at, Prüfungsmotiv", marker: "الم أَحَسِبَ النَّاسُ أَن يُتْرَكُوا — rhetorische Frage"},
+        {verses: "29:14-40", label: "Verkündererzählungen", function: "Nuh, Ibrahim, Lut, Shu'ayb, 'Ad, Thamud", marker: "وَلَقَدْ أَرْسَلْنَا نُوحًا — Sendeformel"},
         {verses: "29:41-44", label: "Spinnengleichnis", function: "Schwäche der Götzen wie Spinnenhaus", marker: "مَثَلُ الَّذِينَ اتَّخَذُوا مِن دُونِ اللَّهِ أَوْلِيَاءَ كَمَثَلِ الْعَنكَبُوتِ — Gleichnisformel (Surenname)"},
         {verses: "29:45-55", label: "Quran und Argumentation", function: "Schriftrezitation, Zeichenverweis", marker: "اتْلُ مَا أُوحِيَ إِلَيْكَ — Rezitationsimperativ"},
         {verses: "29:56-69", label: "Schluss: Auswanderung und Führung", function: "Weite der Erde, Gottes Führung", marker: "يَا عِبَادِيَ الَّذِينَ آمَنُوا — Vokativ, وَالَّذِينَ جَاهَدُوا — Schluss"}
@@ -540,7 +540,7 @@ if (!existingNums.has(31)) {
         {verses: "31:20-30", label: "Argumentation und Zeichen", function: "Gottes Gaben, Lebensbaum-Gleichnis", marker: "أَلَمْ تَرَوْا — rhetorische Frage"},
         {verses: "31:31-34", label: "Schluss: Verborgenes Wissen", function: "Schiff-Zeichen, fünf verborgene Dinge", marker: "إِنَّ اللَّهَ عِندَهُ عِلْمُ السَّاعَةِ — Schlussformel"}
       ],
-      keyFeature: "Luqmans Rede an seinen Sohn (V.12-19) ist die einzige längere Weisheitsrede einer nicht-prophetischen Figur im Quran. Der Vokativ يَا بُنَيَّ ('mein Soehnchen', Diminutiv) strukturiert die Rede."
+      keyFeature: "Luqmans Rede an seinen Sohn (V.12-19) ist die einzige längere Weisheitsrede einer nicht als Nabi bezeichneten Figur im Quran. Der Vokativ يَا بُنَيَّ ('mein Soehnchen', Diminutiv) strukturiert die Rede."
     }
   });
 }
@@ -555,9 +555,9 @@ if (!existingNums.has(32)) {
       type: "Schöpfungs-Eschatologie-Struktur",
       segments: [
         {verses: "32:1-3", label: "Eröffnung: Muqatta'at und Offenbarung", function: "Schriftverweis, Bestätigung", marker: "الم تَنزِيلُ الْكِتَابِ — Muqatta'at + Nominalsatz"},
-        {verses: "32:4-11", label: "Schöpfung und Menschenwerdung", function: "Sechs Tage, Menschenschoepfung, Seele", marker: "اللَّهُ الَّذِي خَلَقَ — Relativsatzkette"},
-        {verses: "32:12-17", label: "Gerichtsszene und Niederwerfung", function: "Reue der Leugner, Belohnung der Gläubigen", marker: "وَلَوْ تَرَىٰ إِذِ الْمُجْرِمُونَ — Irrealis + Niederwerfungsvers"},
-        {verses: "32:18-22", label: "Kontrastpaar", function: "Gläubige vs. Sünder", marker: "أَفَمَن كَانَ مُؤْمِنًا — rhetorische Kontrastfrage"},
+        {verses: "32:4-11", label: "Schöpfung und Menschenwerdung", function: "Sechs Tage, Menschenschoepfung, Selbst", marker: "اللَّهُ الَّذِي خَلَقَ — Relativsatzkette"},
+        {verses: "32:12-17", label: "Gerichtsszene und Niederwerfung", function: "Reue der Leugner, Belohnung der Vertrauenden", marker: "وَلَوْ تَرَىٰ إِذِ الْمُجْرِمُونَ — Irrealis + Niederwerfungsvers"},
+        {verses: "32:18-22", label: "Kontrastpaar", function: "Vertrauende vs. Fehlgehende", marker: "أَفَمَن كَانَ مُؤْمِنًا — rhetorische Kontrastfrage"},
         {verses: "32:23-30", label: "Schluss: Musa und Warten", function: "Musa-Schriftverweis, Geduld", marker: "وَلَقَدْ آتَيْنَا مُوسَى الْكِتَابَ — Gabenverweis, فَأَعْرِضْ عَنْهُمْ وَانتَظِرْ — Schlussimperativ"}
       ],
       keyFeature: "V.15-16 enthalten das Wort sajda (سَجْدَة), das der Sure ihren Namen gibt. Die Schöpfungspassage (V.4-9) ist eine der detailliertesten Darstellungen der embryonalen Entwicklung."
@@ -638,18 +638,18 @@ if (!existingNums.has(37)) {
       segments: [
         {verses: "37:1-10", label: "Schwurkette und Himmelsbild", function: "Schwur auf Engel, Himmelsbewachung", marker: "وَالصَّافَّاتِ صَفًّا — Schwurformel (Surenname)"},
         {verses: "37:11-39", label: "Leugner und Gerichtsszene", function: "Spott, Kontrastpaar", marker: "فَاسْتَفْتِهِمْ — rhetorische Herausforderung"},
-        {verses: "37:40-74", label: "Paradies und Hölle", function: "Beschreibung, Dialog", marker: "إِلَّا عِبَادَ اللَّهِ الْمُخْلَصِينَ — Ausnahmeformel"},
-        {verses: "37:75-113", label: "Prophetenkette: Nuh, Ibrahim, Isma'il", function: "Ibrahim-Opferszene, Isaak/Isma'il", marker: "وَلَقَدْ نَادَانَا نُوحٌ — narrative Eröffnung"},
+        {verses: "37:40-74", label: "Garten und Feuer", function: "Beschreibung, Dialog", marker: "إِلَّا عِبَادَ اللَّهِ الْمُخْلَصِينَ — Ausnahmeformel"},
+        {verses: "37:75-113", label: "Verkünderkette: Nuh, Ibrahim, Isma'il", function: "Ibrahim-Opferszene, Isaak/Isma'il", marker: "وَلَقَدْ نَادَانَا نُوحٌ — narrative Eröffnung"},
         {verses: "37:114-132", label: "Musa, Harun, Ilyas, Lut", function: "Kurznarrative mit Refrain", marker: "سَلَامٌ عَلَىٰ مُوسَىٰ — Friedensgruss-Refrain"},
         {verses: "37:133-148", label: "Lut und Yunus", function: "Lut-Kurzform, Yunus-Fisch-Szene", marker: "وَإِنَّ لُوطًا لَمِنَ الْمُرْسَلِينَ — Zugehörigkeitsformel"},
         {verses: "37:149-182", label: "Schluss: Widerlegung und Lobpreis", function: "Engelskritik, Schlusslob", marker: "أَفَأَصْفَاكُمْ رَبُّكُم بِالْبَنِينَ — rhetorische Frage, سُبْحَانَ رَبِّكَ — Schlusslob"}
       ],
       refrain: {
-        arabic: "سَلَامٌ عَلَىٰ + Prophetenname",
+        arabic: "سَلَامٌ عَلَىٰ + Verkündername",
         occurrences: 5,
         function: "Friedensgruss nach jeder Erzählung: Nuh (V.79), Ibrahim (V.109), Musa/Harun (V.120), Ilyas (V.130), Schluss (V.181)."
       },
-      keyFeature: "Fünffacher Friedensgruss-Refrain (سَلَامٌ عَلَىٰ) nach jeder Prophetenerzaehlung. Die Ibrahim-Opferszene (V.100-111) ist die ausführlichste Darstellung dieses Motivs im Quran."
+      keyFeature: "Fünffacher Friedensgruss-Refrain (سَلَامٌ عَلَىٰ) nach jeder Verkündererzaehlung. Die Ibrahim-Opferszene (V.100-111) ist die ausführlichste Darstellung dieses Motivs im Quran."
     }
   });
 }
@@ -669,8 +669,8 @@ if (!existingNums.has(38)) {
         {verses: "38:27-29", label: "Schöpfungszweck", function: "Himmel und Erde nicht grundlos geschaffen", marker: "وَمَا خَلَقْنَا السَّمَاءَ وَالْأَرْضَ — Negationsformel"},
         {verses: "38:30-40", label: "Sulayman-Erzählung", function: "Pferde, Thron, Prüfung", marker: "وَوَهَبْنَا لِدَاوُودَ سُلَيْمَانَ — Gabenverweis"},
         {verses: "38:41-44", label: "Ayyub-Erzählung", function: "Leid, Geduld, Heilung", marker: "وَاذْكُرْ عَبْدَنَا أَيُّوبَ — Erinnerungsimperativ"},
-        {verses: "38:45-54", label: "Prophetenkatalog", function: "Ibrahim, Ishaq, Ya'qub, Ilyas, Al-Yasa'", marker: "وَاذْكُرْ عِبَادَنَا — Erinnerungsformel"},
-        {verses: "38:55-70", label: "Kontrastpaar: Paradies/Hölle", function: "Beschreibung beider Orte", marker: "هَٰذَا — deiktisch, إِنَّ لِلطَّاغِينَ — Kontrastmarker"},
+        {verses: "38:45-54", label: "Verkünderkatalog", function: "Ibrahim, Ishaq, Ya'qub, Ilyas, Al-Yasa'", marker: "وَاذْكُرْ عِبَادَنَا — Erinnerungsformel"},
+        {verses: "38:55-70", label: "Kontrastpaar: Garten/Feuer", function: "Beschreibung beider Orte", marker: "هَٰذَا — deiktisch, إِنَّ لِلطَّاغِينَ — Kontrastmarker"},
         {verses: "38:71-88", label: "Schluss: Adam und Iblis", function: "Schöpfung, Iblis' Weigerung, Schlussformel", marker: "إِذْ قَالَ رَبُّكَ لِلْمَلَائِكَةِ — narrative Eröffnung"}
       ],
       keyFeature: "Die Sure verwendet اذْكُرْ عَبْدَنَا ('erwähne unseren Diener') als Strukturformel für Dawud (V.17), Ayyub (V.41) und die Gruppe (V.45). Die Iblis-Szene (V.71-85) schließt die Sure mit einer kosmischen Perspektive."
@@ -692,7 +692,7 @@ if (!existingNums.has(39)) {
         {verses: "39:22-35", label: "Quranwuerde und Achtsamkeit", function: "Quran als bestes Wort, Kontrastpaare", marker: "اللَّهُ نَزَّلَ أَحْسَنَ الْحَدِيثِ — Quranattribut"},
         {verses: "39:36-52", label: "Trost und Argumentation", function: "Gottes Genügesamkeit, Schlüsselmacht", marker: "أَلَيْسَ اللَّهُ بِكَافٍ عَبْدَهُ — rhetorische Frage"},
         {verses: "39:53-63", label: "Reue-Block", function: "Aufruf zur Umkehr, Gottes Vergebung", marker: "قُلْ يَا عِبَادِيَ الَّذِينَ أَسْرَفُوا — Vokativ + Vergebungszusage"},
-        {verses: "39:64-75", label: "Schluss: Gerichtsszene in Scharen", function: "Ablehnung der Götzen, Scharen zum Paradies/Hölle", marker: "وَسِيقَ الَّذِينَ كَفَرُوا إِلَىٰ جَهَنَّمَ زُمَرًا — Scharenformel (Surenname)"}
+        {verses: "39:64-75", label: "Schluss: Gerichtsszene in Scharen", function: "Ablehnung der Götzen, Scharen zum Garten/Feuer", marker: "وَسِيقَ الَّذِينَ كَفَرُوا إِلَىٰ جَهَنَّمَ زُمَرًا — Scharenformel (Surenname)"}
       ],
       keyFeature: "V.53 (قُلْ يَا عِبَادِيَ الَّذِينَ أَسْرَفُوا عَلَىٰ أَنفُسِهِمْ لَا تَقْنَطُوا مِن رَحْمَةِ اللَّهِ) enthält die umfassendste Vergebungszusage. Die Schlussszene (V.71-75) beschreibt das Eintreffen in Scharen (زُمَرًا), was den Surennamen bildet."
     }
@@ -711,12 +711,12 @@ if (!existingNums.has(40)) {
         {verses: "40:1-6", label: "Eröffnung: Muqatta'at und Attribute", function: "Gottes Vergebung und Strenge", marker: "حم — Muqatta'at, غَافِرِ الذَّنبِ — Attribut (Surenname)"},
         {verses: "40:7-9", label: "Engelsgebet", function: "Fuerbittegebet der Throntraeger", marker: "الَّذِينَ يَحْمِلُونَ الْعَرْشَ — Relativsatz"},
         {verses: "40:10-22", label: "Gerichtsszene und Warnung", function: "Dialog der Verdammten, historische Verweise", marker: "إِنَّ الَّذِينَ كَفَرُوا يُنَادَوْنَ — Gerichts-Dialog"},
-        {verses: "40:23-46", label: "Musa-Erzählung und Gläubiger", function: "Musa bei Pharao, Rede des Gläubigen aus Pharaos Sippe", marker: "وَقَالَ رَجُلٌ مُؤْمِنٌ مِنْ آلِ فِرْعَوْنَ — narrative Eröffnung"},
-        {verses: "40:47-55", label: "Höllendialog und Geduld", function: "Dialog in der Hölle, Geduldsimperativ", marker: "وَإِذْ يَتَحَاجُّونَ فِي النَّارِ — temporaler Rückblick"},
+        {verses: "40:23-46", label: "Musa-Erzählung und Vertrauender", function: "Musa bei Pharao, Rede des Vertrauenden aus Pharaos Sippe", marker: "وَقَالَ رَجُلٌ مُؤْمِنٌ مِنْ آلِ فِرْعَوْنَ — narrative Eröffnung"},
+        {verses: "40:47-55", label: "Dialog im Feuer und Geduld", function: "Dialog im Feuer, Geduldsimperativ", marker: "وَإِذْ يَتَحَاجُّونَ فِي النَّارِ — temporaler Rückblick"},
         {verses: "40:56-68", label: "Argumentation gegen Hochmut", function: "Schöpfungszeichen, Hochmut-Kritik", marker: "إِنَّ الَّذِينَ يُجَادِلُونَ فِي آيَاتِ اللَّهِ — Warnung"},
         {verses: "40:69-85", label: "Schluss: Götzen und Strafe", function: "Götzen bereuen, Warnung nutzlos für Leugner", marker: "أَلَمْ يَسِيرُوا فِي الْأَرْضِ — rhetorische Frage, فَلَمْ يَكُ يَنفَعُهُمْ — Schlussformel"}
       ],
-      keyFeature: "Die Rede des Gläubigen aus Pharaos Sippe (V.28-46) ist die längste Einzelrede einer unbenannten Figur im Quran. Die Ha-Mim-Muqatta'at (حم) eröffnen eine Siebenergruppe (Suren 40-46)."
+      keyFeature: "Die Rede des Vertrauenden aus Pharaos Sippe (V.28-46) ist die längste Einzelrede einer unbenannten Figur im Quran. Die Ha-Mim-Muqatta'at (حم) eröffnen eine Siebenergruppe (Suren 40-46)."
     }
   });
 }
@@ -753,7 +753,7 @@ if (!existingNums.has(42)) {
       segments: [
         {verses: "42:1-9", label: "Eröffnung: Doppelte Muqatta'at und Einheit", function: "Offenbarung, Einheitsgebot", marker: "حم عسق — doppelte Muqatta'at (einzigartig)"},
         {verses: "42:10-19", label: "Einheit der Religion", function: "Keine Spaltung, Gott als Richter", marker: "شَرَعَ لَكُم مِنَ الدِّينِ — Religionsformel"},
-        {verses: "42:20-29", label: "Irdisches und Jenseitiges", function: "Wer Jenseits will vs. Diesseits, Vergebung", marker: "مَن كَانَ يُرِيدُ حَرْثَ الْآخِرَةِ — Kontrastpaar"},
+        {verses: "42:20-29", label: "Irdisches und Späteres", function: "Wer das Spätere will vs. das Nahe, Vergebung", marker: "مَن كَانَ يُرِيدُ حَرْثَ الْآخِرَةِ — Kontrastpaar"},
         {verses: "42:30-35", label: "Schiff-Zeichen", function: "Schiffe als Zeichen, Naturgewalt", marker: "وَمِنْ آيَاتِهِ الْجَوَارِ — Zeichenformel"},
         {verses: "42:36-43", label: "Shura und Gemeinschaftsethik", function: "Beratung als Gemeinschaftsprinzip, Vergebung", marker: "وَأَمْرُهُمْ شُورَىٰ بَيْنَهُمْ — Shura-Formel (Surenname)"},
         {verses: "42:44-53", label: "Schluss: Offenbarungsmodi", function: "Drei Formen der Offenbarung, Weg-Metapher", marker: "وَمَا كَانَ لِبَشَرٍ أَن يُكَلِّمَهُ اللَّهُ — Offenbarungstheorie"}
@@ -797,7 +797,7 @@ if (!existingNums.has(44)) {
         {verses: "44:9-16", label: "Rauch-Warnung", function: "Himmel bringt Rauch", marker: "فَارْتَقِبْ يَوْمَ تَأْتِي السَّمَاءُ بِدُخَانٍ — Rauch (Surenname)"},
         {verses: "44:17-33", label: "Pharao-Erzählung", function: "Musa-Sendung, Auszug, Bestrafung", marker: "وَلَقَدْ فَتَنَّا قَبْلَهُمْ قَوْمَ فِرْعَوْنَ — Prüfungsformel"},
         {verses: "44:34-42", label: "Leugner und Auferstehung", function: "Erste-Schöpfung-Argument", marker: "إِنَّ هَٰؤُلَاءِ لَيَقُولُونَ — Leugnerrede"},
-        {verses: "44:43-57", label: "Hölle und Paradies", function: "Kontrastbeschreibung", marker: "إِنَّ شَجَرَتَ الزَّقُّومِ — Höllenbaum, إِنَّ الْمُتَّقِينَ — Kontrastpaar"},
+        {verses: "44:43-57", label: "Feuer und Garten", function: "Kontrastbeschreibung", marker: "إِنَّ شَجَرَتَ الزَّقُّومِ — Feuerbaum, إِنَّ الْمُتَّقِينَ — Kontrastpaar"},
         {verses: "44:58-59", label: "Schluss: Erleichterung", function: "Quran erleichtert, Warteimperativ", marker: "فَإِنَّمَا يَسَّرْنَاهُ — Erleichterungsformel, فَارْتَقِبْ — Ringschluss mit V.10"}
       ],
       keyFeature: "Die Sure rahmt sich durch den Imperativ فَارْتَقِبْ ('so warte ab') in V.10 und V.59. Der Rauch (الدُّخَان, V.10) als kosmisches Zeichen gibt der Sure ihren Namen."
@@ -854,13 +854,13 @@ if (!existingNums.has(47)) {
     structure: {
       type: "Kampf-Diskurs",
       segments: [
-        {verses: "47:1-6", label: "Eröffnung: Kontrastpaar", function: "Leugner vs. Gläubige", marker: "الَّذِينَ كَفَرُوا ... وَالَّذِينَ آمَنُوا — Kontrastpaar als Eröffnung"},
-        {verses: "47:7-15", label: "Kampfanweisungen und Paradies", function: "Taktik, Flussparadies", marker: "يَا أَيُّهَا الَّذِينَ آمَنُوا إِن تَنصُرُوا اللَّهَ — Vokativ + Konditionalsatz"},
+        {verses: "47:1-6", label: "Eröffnung: Kontrastpaar", function: "Leugner vs. Vertrauende", marker: "الَّذِينَ كَفَرُوا ... وَالَّذِينَ آمَنُوا — Kontrastpaar als Eröffnung"},
+        {verses: "47:7-15", label: "Kampfanweisungen und Garten", function: "Taktik, Flussgarten", marker: "يَا أَيُّهَا الَّذِينَ آمَنُوا إِن تَنصُرُوا اللَّهَ — Vokativ + Konditionalsatz"},
         {verses: "47:16-24", label: "Heuchler-Kritik", function: "Heuchler verweigern Gehorsam", marker: "وَمِنْهُم مَن يَسْتَمِعُ إِلَيْكَ — Klassifizierung"},
         {verses: "47:25-32", label: "Engel und Heuchelei", function: "Todesengel, Entlarvung", marker: "فَكَيْفَ إِذَا تَوَفَّتْهُمُ الْمَلَائِكَةُ — rhetorische Frage"},
         {verses: "47:33-38", label: "Schluss: Standfestigkeit und Sparsamkeit", function: "Gehorsamspflicht, Gottes Unabhängigkeit", marker: "يَا أَيُّهَا الَّذِينَ آمَنُوا أَطِيعُوا — Vokativ + Imperativ"}
       ],
-      keyFeature: "Einzige Sure, die Muhammad namentlich erwähnt (V.2). Die Paradies-Beschreibung (V.15) mit vier Fluessen (Wasser, Milch, Wein, Honig) ist eine der detailliertesten."
+      keyFeature: "Einzige Sure, die Muhammad namentlich erwähnt (V.2). Die Garten-Beschreibung (V.15) mit vier Fluessen (Wasser, Milch, Wein, Honig) ist eine der detailliertesten."
     }
   });
 }
@@ -918,10 +918,10 @@ if (!existingNums.has(50)) {
         {verses: "50:6-11", label: "Schöpfungszeichen", function: "Himmel, Erde, Regen, Palmengaerten", marker: "أَفَلَمْ يَنظُرُوا إِلَى السَّمَاءِ — rhetorische Frage"},
         {verses: "50:12-15", label: "Historische Verweise", function: "Nuh, 'Ad, Pharao, Thamud u.a.", marker: "كَذَّبَتْ قَبْلَهُمْ — Leugnungsformel"},
         {verses: "50:16-29", label: "Nähe Gottes und Engelsaufzeichnung", function: "Gottes Nähe, zwei Aufzeichner, Gerichtsszene", marker: "وَلَقَدْ خَلَقْنَا الْإِنسَانَ — V.16: نَحْنُ أَقْرَبُ إِلَيْهِ مِنْ حَبْلِ الْوَرِيدِ"},
-        {verses: "50:30-40", label: "Hölle, Paradies, Schöpfungsargument", function: "Hölle voll?, Paradies, sechs Tage ohne Ermuedung", marker: "يَوْمَ نَقُولُ لِجَهَنَّمَ هَلِ امْتَلَأْتِ — Dialog mit Hölle"},
+        {verses: "50:30-40", label: "Feuer, Garten, Schöpfungsargument", function: "Feuer voll?, Garten, sechs Tage ohne Ermuedung", marker: "يَوْمَ نَقُولُ لِجَهَنَّمَ هَلِ امْتَلَأْتِ — Dialog mit Dschahannam"},
         {verses: "50:41-45", label: "Schluss: Horchen und Ermahnung", function: "Tag des Rufes, Ermahnung", marker: "وَاسْتَمِعْ يَوْمَ يُنَادِ — Imperativ, فَذَكِّرْ بِالْقُرْآنِ — Schlussimperativ"}
       ],
-      keyFeature: "V.16 (نَحْنُ أَقْرَبُ إِلَيْهِ مِنْ حَبْلِ الْوَرِيدِ, 'Wir sind ihm näher als seine Halsschlagader') ist eine der prägnantesten Nähe-Aussagen. V.30 enthält einen einzigartigen Dialog mit der Hölle."
+      keyFeature: "V.16 (نَحْنُ أَقْرَبُ إِلَيْهِ مِنْ حَبْلِ الْوَرِيدِ, 'Wir sind ihm näher als seine Halsschlagader') ist eine der prägnantesten Nähe-Aussagen. V.30 enthält einen einzigartigen Dialog mit Dschahannam."
     }
   });
 }
@@ -958,7 +958,7 @@ if (!existingNums.has(52)) {
       segments: [
         {verses: "52:1-8", label: "Schwurkette", function: "Fünffacher Schwur auf Berg, Schrift, Haus, Meer", marker: "وَالطُّورِ — Schwur auf Berg (Surenname)"},
         {verses: "52:9-16", label: "Gerichtsszene", function: "Himmel bewegt sich, Berge wandern", marker: "يَوْمَ تَمُورُ السَّمَاءُ — temporale Szenenbeschreibung"},
-        {verses: "52:17-28", label: "Paradiesbeschreibung", function: "Gärten, Früchte, Gemeinschaft", marker: "إِنَّ الْمُتَّقِينَ فِي جَنَّاتٍ — Kontrastbeginn"},
+        {verses: "52:17-28", label: "Gartenbeschreibung", function: "Gärten, Früchte, Gemeinschaft", marker: "إِنَّ الْمُتَّقِينَ فِي جَنَّاتٍ — Kontrastbeginn"},
         {verses: "52:29-43", label: "Argumentation gegen Leugner", function: "Rhetorische Fragen, Tahaddi", marker: "فَذَكِّرْ فَمَا أَنتَ — Negationsformel, أَمْ — wiederholte أَمْ-Fragen"},
         {verses: "52:44-49", label: "Schluss: Geduld und Lobpreis", function: "Strafe-Warnung, Lobpreis-Imperativ", marker: "وَسَبِّحْ بِحَمْدِ رَبِّكَ — Lobpreisimperativ"}
       ],
@@ -1025,7 +1025,7 @@ if (!existingNums.has(57)) {
       segments: [
         {verses: "57:1-6", label: "Eröffnung: Kosmischer Lobpreis", function: "Alles lobpreist Gott, Attribute", marker: "سَبَّحَ لِلَّهِ مَا فِي السَّمَاوَاتِ — Lobpreisformel"},
         {verses: "57:7-11", label: "Spendenaufruf", function: "Glauben und Spenden", marker: "آمِنُوا بِاللَّهِ وَرَسُولِهِ وَأَنفِقُوا — Imperativpaar"},
-        {verses: "57:12-15", label: "Licht und Heuchler", function: "Licht der Gläubigen, Heuchler bitten um Licht", marker: "يَوْمَ تَرَى الْمُؤْمِنِينَ — Gerichtsszene"},
+        {verses: "57:12-15", label: "Licht und Heuchler", function: "Licht der Vertrauenden, Heuchler bitten um Licht", marker: "يَوْمَ تَرَى الْمُؤْمِنِينَ — Gerichtsszene"},
         {verses: "57:16-19", label: "Herzenserweichung", function: "Aufruf zur Demut, Spende als Darlehen", marker: "أَلَمْ يَأْنِ لِلَّذِينَ آمَنُوا أَن تَخْشَعَ قُلُوبُهُمْ — rhetorische Frage"},
         {verses: "57:20-24", label: "Diesseitskritik und Qadr", function: "Wettlauf-Gleichnis, Vorherbestimmung", marker: "اعْلَمُوا أَنَّمَا الْحَيَاةُ الدُّنْيَا لَعِبٌ — Wissensimperativ"},
         {verses: "57:25-29", label: "Schluss: Gesandte, Eisen, Moenchstum", function: "Waage, Eisen, Isa-Verweis, Moenchstumskritik", marker: "وَأَنزَلْنَا الْحَدِيدَ — Eisen (Surenname), Schluss"}
@@ -1124,9 +1124,9 @@ if (!existingNums.has(62)) {
       segments: [
         {verses: "62:1-4", label: "Lobpreis und Sendung", function: "Lobpreis, Gesandter unter den Analphabeten", marker: "يُسَبِّحُ لِلَّهِ — Lobpreis, هُوَ الَّذِي بَعَثَ فِي الْأُمِّيِّينَ — Sendeformel"},
         {verses: "62:5-8", label: "Gleichnis und Warnung", function: "Esel-Gleichnis für Schriftkenner", marker: "مَثَلُ الَّذِينَ حُمِّلُوا التَّوْرَاةَ كَمَثَلِ الْحِمَارِ — Gleichnisformel"},
-        {verses: "62:9-11", label: "Schluss: Freitagsgebet", function: "Aufruf zum Gebet, Handelswarnung", marker: "يَا أَيُّهَا الَّذِينَ آمَنُوا إِذَا نُودِيَ لِلصَّلَاةِ مِن يَوْمِ الْجُمُعَةِ — Freitagsgebet (Surenname)"}
+        {verses: "62:9-11", label: "Schluss: Freitagszuwendung", function: "Aufruf zur Zuwendung, Handelswarnung", marker: "يَا أَيُّهَا الَّذِينَ آمَنُوا إِذَا نُودِيَ لِلصَّلَاةِ مِن يَوْمِ الْجُمُعَةِ — Freitagszuwendung (Surenname)"}
       ],
-      keyFeature: "Das Esel-Gleichnis (V.5: كَمَثَلِ الْحِمَارِ يَحْمِلُ أَسْفَارًا) beschreibt Wissen ohne Verständnis. V.9-10 enthalten die einzige explizite Freitagsgebets-Anweisung."
+      keyFeature: "Das Esel-Gleichnis (V.5: كَمَثَلِ الْحِمَارِ يَحْمِلُ أَسْفَارًا) beschreibt Wissen ohne Verständnis. V.9-10 enthalten die einzige explizite Freitagszuwendungs-Anweisung."
     }
   });
 }
@@ -1178,7 +1178,7 @@ if (!existingNums.has(65)) {
     structure: {
       type: "Scheidungs-Gesetzgebung",
       segments: [
-        {verses: "65:1-3", label: "Eröffnung: Scheidungsregeln", function: "Wartefrist, Achtsamkeit", marker: "يَا أَيُّهَا النَّبِيُّ إِذَا طَلَّقْتُمُ — Vokativ an Propheten, Scheidung (Surenname)"},
+        {verses: "65:1-3", label: "Eröffnung: Scheidungsregeln", function: "Wartefrist, Achtsamkeit", marker: "يَا أَيُّهَا النَّبِيُّ إِذَا طَلَّقْتُمُ — Vokativ an den Nabi, Scheidung (Surenname)"},
         {verses: "65:4-7", label: "Detailbestimmungen", function: "Wartefrist für verschiedene Fälle, Unterhalt", marker: "وَاللَّائِي يَئِسْنَ — Fallunterscheidung"},
         {verses: "65:8-10", label: "Warnung: Ungehorsame Städte", function: "Historische Warnung", marker: "وَكَأَيِّن مِن قَرْيَةٍ — Quantifizierungsformel"},
         {verses: "65:11-12", label: "Schluss: Licht und sieben Himmel", function: "Gesandter als Licht, kosmischer Verweis", marker: "اللَّهُ الَّذِي خَلَقَ سَبْعَ سَمَاوَاتٍ — Schöpfungsformel als Schluss"}
@@ -1195,11 +1195,11 @@ if (!existingNums.has(66)) {
     name: "At-Tahrim",
     verses: 12,
     structure: {
-      type: "Prophetenfamilien-Diskurs",
+      type: "Nabi-Familien-Diskurs",
       segments: [
         {verses: "66:1-5", label: "Eröffnung: Selbstverbot und Ehefrauen des Nabi", function: "Nabi verbietet sich etwas, Warnung an Ehefrauen", marker: "يَا أَيُّهَا النَّبِيُّ لِمَ تُحَرِّمُ — Vokativ + Tadelformel (Surenname)"},
         {verses: "66:6-8", label: "Feuerschutz und Reue", function: "Familie vor Feuer schützen, Reue-Aufruf", marker: "يَا أَيُّهَا الَّذِينَ آمَنُوا قُوا أَنفُسَكُمْ — Vokativ + Imperativ"},
-        {verses: "66:9-10", label: "Prophetentrost und negative Frauen-Beispiele", function: "Nuhs und Luts Frauen als Warnung", marker: "ضَرَبَ اللَّهُ مَثَلًا لِلَّذِينَ كَفَرُوا — Gleichnisformel"},
+        {verses: "66:9-10", label: "Verkündertrost und negative Frauen-Beispiele", function: "Nuhs und Luts Frauen als Warnung", marker: "ضَرَبَ اللَّهُ مَثَلًا لِلَّذِينَ كَفَرُوا — Gleichnisformel"},
         {verses: "66:11-12", label: "Schluss: Positive Frauen-Beispiele", function: "Pharaos Frau und Maryam als Vorbild", marker: "وَضَرَبَ اللَّهُ مَثَلًا لِلَّذِينَ آمَنُوا — Kontrastgleichnis"}
       ],
       keyFeature: "Die Sure schließt mit vier Frauen-Gleichnissen: zwei negativ (Nuhs und Luts Frauen, V.10) und zwei positiv (Pharaos Frau und Maryam, V.11-12). V.12 nennt Maryam als einzige Frau im Quran namentlich in einer Vorbildfunktion."
@@ -1258,10 +1258,10 @@ if (!existingNums.has(70)) {
       segments: [
         {verses: "70:1-7", label: "Eröffnung: Frage nach Strafe", function: "Jemand fragt nach der Strafe", marker: "سَأَلَ سَائِلٌ بِعَذَابٍ — Eröffnung durch Frage"},
         {verses: "70:8-18", label: "Gerichtsszene", function: "Kosmischer Zusammenbruch, Distanzierung", marker: "يَوْمَ تَكُونُ السَّمَاءُ كَالْمُهْلِ — Vergleichspartikel"},
-        {verses: "70:19-35", label: "Menschliche Natur und Ausnahme", function: "Mensch ist ungeduldig, Ausnahme: Betende", marker: "إِنَّ الْإِنسَانَ خُلِقَ هَلُوعًا — Schoeöpfungsattribut, إِلَّا الْمُصَلِّينَ — Ausnahmeformel"},
+        {verses: "70:19-35", label: "Menschliche Natur und Ausnahme", function: "Mensch ist ungeduldig, Ausnahme: sich Zuwendende", marker: "إِنَّ الْإِنسَانَ خُلِقَ هَلُوعًا — Schoeöpfungsattribut, إِلَّا الْمُصَلِّينَ — Ausnahmeformel"},
         {verses: "70:36-44", label: "Schluss: Leugner und Geduld", function: "Leugner laufen, werden ueberholt", marker: "فَمَالِ الَّذِينَ كَفَرُوا قِبَلَكَ مُهْطِعِينَ — rhetorische Frage"}
       ],
-      keyFeature: "V.19-21 definieren die menschliche Natur als هَلُوعًا ('ungeduldig'), dann differenziert in V.22-35: Ausnahme sind die Betenden (الْمُصَلِّينَ) — ein Tugendkatalog parallel zu 23:1-11."
+      keyFeature: "V.19-21 definieren die menschliche Natur als هَلُوعًا ('ungeduldig'), dann differenziert in V.22-35: Ausnahme sind die sich Zuwendenden (الْمُصَلِّينَ) — ein Tugendkatalog parallel zu 23:1-11."
     }
   });
 }
@@ -1313,7 +1313,7 @@ if (!existingNums.has(75)) {
     structure: {
       type: "Schwur-Auferstehung-Struktur",
       segments: [
-        {verses: "75:1-6", label: "Schwur und Leugnung", function: "Schwur auf Auferstehungstag und tadelnde Seele", marker: "لَا أُقْسِمُ بِيَوْمِ الْقِيَامَةِ — Schwurformel (Surenname)"},
+        {verses: "75:1-6", label: "Schwur und Leugnung", function: "Schwur auf Auferstehungstag und tadelndes Selbst", marker: "لَا أُقْسِمُ بِيَوْمِ الْقِيَامَةِ — Schwurformel (Surenname)"},
         {verses: "75:7-15", label: "Gerichtsszene", function: "Augen blenden, Selbstzeugnis", marker: "فَإِذَا بَرِقَ الْبَصَرُ — temporale Szenenbeschreibung"},
         {verses: "75:16-19", label: "Quran-Rezitationsanweisung", function: "Nicht eilen bei Rezitation", marker: "لَا تُحَرِّكْ بِهِ لِسَانَكَ — Prohibitiv, thematischer Einschub"},
         {verses: "75:20-30", label: "Diesseitsliebe und Tod", function: "Gesichter leuchtend/finster, Todesszene", marker: "كَلَّا بَلْ تُحِبُّونَ الْعَاجِلَةَ — كَلَّا + Anklage"},
@@ -1331,14 +1331,14 @@ if (!existingNums.has(76)) {
     name: "Al-Insan",
     verses: 31,
     structure: {
-      type: "Schöpfung-Paradies-Ermahnung",
+      type: "Schöpfung-Garten-Ermahnung",
       segments: [
         {verses: "76:1-3", label: "Eröffnung: Menschenschoepfung", function: "Rhetorische Frage, Prüfung", marker: "هَلْ أَتَىٰ عَلَى الْإِنسَانِ — rhetorische Frage (Surenname)"},
         {verses: "76:4-10", label: "Kontrastpaar: Ketten vs. Becher", function: "Leugner in Ketten, Fromme spenden", marker: "إِنَّا أَعْتَدْنَا لِلْكَافِرِينَ — Kontrastbeginn"},
-        {verses: "76:11-22", label: "Paradiesbeschreibung", function: "Ausführliche Gartenszene", marker: "فَوَقَاهُمُ اللَّهُ شَرَّ ذَٰلِكَ الْيَوْمِ — Überleitung, Silbergeschirr, Ingwer"},
+        {verses: "76:11-22", label: "Gartenbeschreibung", function: "Ausführliche Gartenszene", marker: "فَوَقَاهُمُ اللَّهُ شَرَّ ذَٰلِكَ الْيَوْمِ — Überleitung, Silbergeschirr, Ingwer"},
         {verses: "76:23-31", label: "Schluss: Offenbarung und Gottes Wille", function: "Quranherabsendung, Geduld, Gottes Wille", marker: "إِنَّا نَحْنُ نَزَّلْنَا عَلَيْكَ الْقُرْآنَ — Offenbarungsformel, فَاصْبِرْ — Geduldsimperativ"}
       ],
-      keyFeature: "V.11-22 enthalten eine der detailliertesten Paradiesbeschreibungen (Seide, Silber, Ingwer, Kampfer, Gefäße). Die Sure beginnt mit einer existentiellen Frage (V.1: هَلْ أَتَىٰ) und endet mit Gottes souveraenem Willen."
+      keyFeature: "V.11-22 enthalten eine der detailliertesten Gartenbeschreibungen (Seide, Silber, Ingwer, Kampfer, Gefäße). Die Sure beginnt mit einer existentiellen Frage (V.1: هَلْ أَتَىٰ) und endet mit Gottes souveraenem Willen."
     }
   });
 }
@@ -1355,7 +1355,7 @@ if (!existingNums.has(77)) {
         {verses: "77:1-7", label: "Schwurkette", function: "Fünffacher Schwur auf Winde/Engel", marker: "وَالْمُرْسَلَاتِ عُرْفًا — Schwur auf Gesandte (Surenname)"},
         {verses: "77:8-15", label: "Gerichtsszene", function: "Sterne verloeschen, Gesandte terminiert", marker: "فَإِذَا النُّجُومُ طُمِسَتْ — temporale Szenenbeschreibung"},
         {verses: "77:16-40", label: "Schöpfungszeichen und Warnung", function: "Fruehere Völker, Schöpfungsargumente", marker: "أَلَمْ نُهْلِكِ الْأَوَّلِينَ — rhetorische Frage"},
-        {verses: "77:41-50", label: "Schluss: Paradies vs. Wehe", function: "sich Hütende belohnt, Leugner gewarnt", marker: "إِنَّ الْمُتَّقِينَ فِي ظِلَالٍ — Kontrastbeginn"}
+        {verses: "77:41-50", label: "Schluss: Garten vs. Wehe", function: "sich Hütende belohnt, Leugner gewarnt", marker: "إِنَّ الْمُتَّقِينَ فِي ظِلَالٍ — Kontrastbeginn"}
       ],
       refrain: {
         arabic: "وَيْلٌ يَوْمَئِذٍ لِلْمُكَذِّبِينَ",
@@ -1472,7 +1472,7 @@ if (!existingNums.has(88)) {
       type: "Frage-Kontrast-Betrachtung-Struktur",
       segments: [
         {verses: "88:1-7", label: "Eröffnung: Bedeckende und Gesichter I", function: "Frage nach dem Ereignis, gedemuetigt-arbeitende Gesichter", marker: "هَلْ أَتَاكَ حَدِيثُ الْغَاشِيَةِ — Erzähleroeffnung (Surenname)"},
-        {verses: "88:8-16", label: "Gesichter II: Glückliche", function: "Zufriedene Gesichter, Paradiesbeschreibung", marker: "وُجُوهٌ يَوْمَئِذٍ نَاعِمَةٌ — Kontrastpaar"},
+        {verses: "88:8-16", label: "Gesichter II: Glückliche", function: "Zufriedene Gesichter, Gartenbeschreibung", marker: "وُجُوهٌ يَوْمَئِذٍ نَاعِمَةٌ — Kontrastpaar"},
         {verses: "88:17-20", label: "Schöpfungsbetrachtung", function: "Vierfache Aufforderung zum Schauen", marker: "أَفَلَا يَنظُرُونَ إِلَى الْإِبِلِ — vierfache أَفَلَا يَنظُرُونَ-Frage (Kamel, Himmel, Berge, Erde)"},
         {verses: "88:21-26", label: "Schluss: Ermahnung und Abrechnung", function: "Ermahner, nicht Zwinger", marker: "فَذَكِّرْ إِنَّمَا أَنتَ مُذَكِّرٌ — Rollendefinition, إِنَّ إِلَيْنَا إِيَابَهُمْ — Schlussformel"}
       ],
@@ -1530,9 +1530,9 @@ if (!existingNums.has(98)) {
       segments: [
         {verses: "98:1-3", label: "Eröffnung: Klarer Beweis", function: "Schriftbesitzer und Beigeseller warteten auf Beweis", marker: "لَمْ يَكُنِ الَّذِينَ كَفَرُوا — Negation + Perfekt, الْبَيِّنَةُ — Beweis (Surenname)"},
         {verses: "98:4-5", label: "Spaltung und reine Religion", function: "Spaltung erst nach dem Beweis, reine Hingabe", marker: "وَمَا تَفَرَّقَ الَّذِينَ — Spaltungsformel"},
-        {verses: "98:6-8", label: "Schluss: Kontrastpaar", function: "Leugner vs. Gläubige, bestes/schlechtestes Geschöpf", marker: "إِنَّ الَّذِينَ كَفَرُوا / إِنَّ الَّذِينَ آمَنُوا — parallele إِنَّ-Konstruktionen"}
+        {verses: "98:6-8", label: "Schluss: Kontrastpaar", function: "Leugner vs. Vertrauende, bestes/schlechtestes Geschöpf", marker: "إِنَّ الَّذِينَ كَفَرُوا / إِنَّ الَّذِينَ آمَنُوا — parallele إِنَّ-Konstruktionen"}
       ],
-      keyFeature: "V.7 beschreibt Gläubige als خَيْرُ الْبَرِيَّةِ ('bestes Geschöpf') und V.6 Leugner als شَرُّ الْبَرِيَّةِ ('schlechtestes Geschöpf') — extremstes Kontrastpaar in einer Kurzsure."
+      keyFeature: "V.7 beschreibt Vertrauende als خَيْرُ الْبَرِيَّةِ ('bestes Geschöpf') und V.6 Leugner als شَرُّ الْبَرِيَّةِ ('schlechtestes Geschöpf') — extremstes Kontrastpaar in einer Kurzsure."
     }
   });
 }
@@ -1547,9 +1547,9 @@ if (!existingNums.has(106)) {
       type: "Konsequenz-Struktur",
       segments: [
         {verses: "106:1-2", label: "Vertrautheit", function: "Vertrautheit der Quraysh mit Winter- und Sommerreise", marker: "لِإِيلَافِ قُرَيْشٍ — لِ-Präposition als Anbindung (möglicherweise an Sure 105)"},
-        {verses: "106:3-4", label: "Konsequenz: Anbetung", function: "Daher sollen sie den Herrn dieses Hauses anbeten", marker: "فَلْيَعْبُدُوا رَبَّ هَٰذَا الْبَيْتِ — فَ + Imperativ der 3. Person"}
+        {verses: "106:3-4", label: "Konsequenz: Dienst", function: "Daher sollen sie dem Herrn dieses Hauses dienen", marker: "فَلْيَعْبُدُوا رَبَّ هَٰذَا الْبَيْتِ — فَ + Imperativ der 3. Person"}
       ],
-      keyFeature: "Die Sure beginnt mit لِإِيلَافِ — einer Präposition ohne vorhergehenden Bezug in der Sure selbst, was eine Verbindung zu Sure 105 nahelegt. V.3-4 formulieren eine Kausallogik: Sicherheit → Anbetung."
+      keyFeature: "Die Sure beginnt mit لِإِيلَافِ — einer Präposition ohne vorhergehenden Bezug in der Sure selbst, was eine Verbindung zu Sure 105 nahelegt. V.3-4 formulieren eine Kausallogik: Sicherheit → Dienst."
     }
   });
 }

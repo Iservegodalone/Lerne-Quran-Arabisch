@@ -12,7 +12,7 @@
   "fields": [
     {
       "id": "deity_worship",
-      "title": "Gott und Anbetung",
+      "title": "Gott und Dienst",
       "roots": [
         {
           "root": "ا ل ه",
@@ -36,7 +36,7 @@
           "transliteration": "ʿ-b-d",
           "keyWords": [
             "عبد (diente)",
-            "عبادة (Anbetung)",
+            "عبادة (Dienst)",
             "عبد (Diener)"
           ],
           "count": "~275"
@@ -72,8 +72,8 @@
           "root": "ص ل و",
           "transliteration": "ṣ-l-w",
           "keyWords": [
-            "صلى (betete/verband sich)",
-            "صلوة (Gebet/Verbindung)"
+            "صلى (wandte sich zu/verband sich)",
+            "صلوة (Zuwendung/Verbindung)"
           ],
           "count": "~99"
         },
@@ -227,7 +227,7 @@
           "keyWords": [
             "آمن (glaubte)",
             "ايمان (Glaube)",
-            "مومن (Gläubiger)"
+            "مومن (Vertrauender)"
           ],
           "count": "~879"
         },
@@ -742,7 +742,7 @@
           "root": "س ع ر",
           "transliteration": "s-ʿ-r",
           "keyWords": [
-            "سعير (Flamme/Höllenfeuer)",
+            "سعير (Flamme/loderndes Feuer)",
             "ٱلسَّعِيرِ"
           ],
           "count": "~19"
@@ -6471,7 +6471,7 @@
           "transliteration": "n-b-ʾ",
           "keyWords": [
             "نبأ (Nachricht)",
-            "نبي (Prophet/Verkünder)"
+            "نبي (Nabi/Verkünder)"
           ],
           "count": "~160"
         },
@@ -6770,8 +6770,8 @@
           "root": "ا ث م",
           "transliteration": "ʾ-ṯ-m",
           "keyWords": [
-            "اثم (Sünde/Vergehen)",
-            "آثم (Sünder)"
+            "اثم (Verfehlung/Vergehen)",
+            "آثم (Fehlgehender)"
           ],
           "count": "~48"
         },
@@ -10443,7 +10443,7 @@
     },
     {
       "id": "afterlife",
-      "title": "Jenseits und Vergeltung",
+      "title": "Das Spätere und Vergeltung",
       "roots": [
         {
           "root": "ي و م",
@@ -10457,7 +10457,7 @@
           "root": "ا خ ر",
           "transliteration": "ʾ-ḫ-r",
           "keyWords": [
-            "اخرة (Jenseits)",
+            "اخرة (das Spätere)",
             "اخر (anderer/letzter)"
           ],
           "count": "~250"
@@ -10555,7 +10555,7 @@
           "root": "ن ع م",
           "transliteration": "n-ʿ-m",
           "keyWords": [
-            "نعمة (Gnade/Gunst)",
+            "نعمة (Wohltat/Gunst)",
             "انعم (gewählte Gunst)"
           ],
           "count": "~140"
@@ -10617,7 +10617,7 @@
           "root": "ج ح م",
           "transliteration": "ǧ-ḥ-m",
           "keyWords": [
-            "جحيم (Höllenfeuer)"
+            "جحيم (Dschahannam-Feuer)"
           ],
           "count": "~26"
         },
@@ -10727,8 +10727,8 @@
           "root": "ن ف س",
           "transliteration": "n-f-s",
           "keyWords": [
-            "نفس (Seele/Selbst)",
-            "انفس (Seelen)"
+            "نفس (Selbst)",
+            "انفس (Selbste)"
           ],
           "count": "~298"
         },
@@ -10984,7 +10984,7 @@
           "root": "ف ض ل",
           "transliteration": "f-ḍ-l",
           "keyWords": [
-            "فضل (Vorzug/Gnade)",
+            "فضل (Vorzug/Gunst)",
             "فضل (bevorzugte)"
           ],
           "count": "~104"
@@ -12866,7 +12866,7 @@
           "root": "ن ف س",
           "transliteration": "n-f-s",
           "keyWords": [
-            "نفس (Seele/Selbst)"
+            "نفس (Selbst)"
           ],
           "count": "~298"
         },
@@ -12874,7 +12874,7 @@
           "root": "ر و ح",
           "transliteration": "r-w-ḥ",
           "keyWords": [
-            "روح (Geist/Seele)",
+            "روح (Geist/Hauch)",
             "ريح (Wind)"
           ],
           "count": "~57"

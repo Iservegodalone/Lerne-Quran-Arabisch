@@ -68,7 +68,7 @@
       "arabic": "وَيُقِيمُونَ الصَّلَاةَ",
       "targetWord": "الصَّلَاة", "root": "ص-ل-و", "form": "I oder II",
       "isMasdar": true, "masdarPattern": "فَعَالَة (mit Ta Marbuta)",
-      "explanation": "صَلَاة ist Masdar der Wurzel ص-ل-و (Grundbedeutung: sich zuwenden, sich anschließen, folgen). Muster فَعَالَة. Im Quran bezeichnet الصَّلَاة die Hinwendung/das Gebet als Handlungsform."
+      "explanation": "صَلَاة ist Masdar der Wurzel ص-ل-و (Grundbedeutung: sich zuwenden, sich anschließen, folgen). Muster فَعَالَة. Im Quran bezeichnet الصَّلَاة die Zuwendung/Hinwendung als Handlungsform."
     },
     {
       "id": 8, "ref": "49:9",
@@ -102,7 +102,7 @@
       "id": 12, "ref": "3:135",
       "arabic": "وَمَن يَغْفِرُ الذُّنُوبَ إِلَّا اللَّهُ",
       "targetWord": "الذُّنُوب", "root": "ذ-ن-ب", "form": "I",
-      "isMasdar": false, "actualType": "Nomen (Plural von ذَنْب = Sünde)",
+      "isMasdar": false, "actualType": "Nomen (Plural von ذَنْب = Verfehlung)",
       "explanation": "ذُنُوب ist Plural von ذَنْب (Nomen), nicht Masdar. Der Masdar von ذَنَبَ wäre anders."
     },
     {
@@ -258,14 +258,14 @@
       "arabic": "الَّذِي خَلَقَ الْمَوْتَ وَالْحَيَاةَ لِيَبْلُوَكُمْ أَيُّكُمْ أَحْسَنُ عَمَلًا",
       "targetWord": "الْمَوْت", "root": "م-و-ت", "form": "I",
       "isMasdar": true, "masdarPattern": "فَعْل",
-      "explanation": "مَوْت ist Masdar von Form I (مَاتَ). Muster فَعْل (mit defektivem Ain). Bedeutung: das Sterben/der Tod."
+      "explanation": "مَوْت ist Masdar von Form I (مَاتَ). Muster فَعْل (mit hohlem Ain). Bedeutung: das Sterben/der Tod."
     },
     {
       "id": 35, "ref": "2:275",
       "arabic": "وَأَحَلَّ اللَّهُ الْبَيْعَ وَحَرَّمَ الرِّبَا",
       "targetWord": "الْبَيْع", "root": "ب-ي-ع", "form": "I",
       "isMasdar": true, "masdarPattern": "فَعْل",
-      "explanation": "بَيْع ist Masdar von Form I (بَاعَ). Muster فَعْل (mit defektivem Ain). Bedeutung: der Verkauf."
+      "explanation": "بَيْع ist Masdar von Form I (بَاعَ). Muster فَعْل (mit hohlem Ain). Bedeutung: der Verkauf."
     },
     {
       "id": 36, "ref": "53:39",
@@ -307,7 +307,7 @@
       "arabic": "رَبَّنَا وَلَا تُحَمِّلْنَا مَا لَا طَاقَةَ لَنَا بِهِ",
       "targetWord": "طَاقَة", "root": "ط-و-ق", "form": "I",
       "isMasdar": true, "masdarPattern": "فَاعِلَة",
-      "explanation": "طَاقَة ist Masdar von Form I (طَاقَ). Muster فَاعِلَة (mit defektivem Ain). Bedeutung: die Fähigkeit/das Vermögen."
+      "explanation": "طَاقَة ist Masdar von Form I (طَاقَ). Muster فَاعِلَة (mit hohlem Ain). Bedeutung: die Fähigkeit/das Vermögen."
     },
     {
       "id": 42, "ref": "20:114",
@@ -342,7 +342,7 @@
       "arabic": "تُوبُوا إِلَى اللَّهِ تَوْبَةً نَصُوحًا",
       "targetWord": "تَوْبَة", "root": "ت-و-ب", "form": "I",
       "isMasdar": true, "masdarPattern": "فَعْلَة",
-      "explanation": "تَوْبَة ist Masdar von Form I (تَابَ). Muster فَعْلَة (mit defektivem Ain). Bedeutung: die Umkehr/Reue."
+      "explanation": "تَوْبَة ist Masdar von Form I (تَابَ). Muster فَعْلَة (mit hohlem Ain). Bedeutung: die Umkehr/Reue."
     },
     {
       "id": 47, "ref": "17:82",
@@ -461,7 +461,7 @@
       "arabic": "وَقَالَ رَبُّكُمُ ادْعُونِي أَسْتَجِبْ لَكُمْ إِنَّ الَّذِينَ يَسْتَكْبِرُونَ عَنْ عِبَادَتِي",
       "targetWord": "عِبَادَة", "root": "ع-ب-د", "form": "I",
       "isMasdar": true, "masdarPattern": "فِعَالَة",
-      "explanation": "عِبَادَة ist Masdar von Form I (عَبَدَ). Muster فِعَالَة. Bedeutung: das Dienen/die Anbetung."
+      "explanation": "عِبَادَة ist Masdar von Form I (عَبَدَ). Muster فِعَالَة. Bedeutung: das Dienen."
     },
     {
       "id": 64, "ref": "2:143",

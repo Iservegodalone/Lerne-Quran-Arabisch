@@ -34,7 +34,7 @@ for (const r of lanes.frequentRootsWithLaneReferences.roots) {
 
 // Field keywords
 const fieldKeywords = {
-  deity_worship: ['gott', 'anbeten', 'beten', 'gebet', 'lobpreis', 'verehr', 'dien', 'opfer', 'pilger'],
+  deity_worship: ['gott', 'dienen', 'zuwend', 'zuwendung', 'lobpreis', 'verehr', 'dien', 'opfer', 'pilger'],
   knowledge_belief: ['wissen', 'glaub', 'lehr', 'versteh', 'denk', 'kennt', 'zeich', 'beweis', 'zeug', 'vernunft'],
   creation_nature: ['schaff', 'schoepf', 'tier', 'pflanz', 'baum', 'stern', 'mond', 'sonn', 'wind', 'wolke'],
   speech_communication: ['sprech', 'sag', 'red', 'ruf', 'kund', 'mitteil', 'bot', 'wort', 'stimm', 'laut', 'schrei', 'fluestern'],

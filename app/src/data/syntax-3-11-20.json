@@ -369,7 +369,7 @@
             {
               "arabic": "اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ · صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ",
               "transliteration": "ihdinā ṣ-ṣirāṭa l-mustaqīma · ṣirāṭa llaḏīna anʿamta ʿalayhim",
-              "meaning": "Führe uns den geraden Weg, den Weg derer, denen Du Gnade erwiesen hast (1:6-7)"
+              "meaning": "Führe uns den geraden Weg, den Weg derer, denen Du Gunst erwiesen hast (1:6-7)"
             },
             {
               "arabic": "لِلَّهِ عَلَى النَّاسِ حِجُّ الْبَيْتِ مَنِ اسْتَطَاعَ إِلَيْهِ سَبِيلًا",
@@ -388,9 +388,9 @@
             "الْمُسْتَقِيمَ — Adjektiv im Akkusativ (kongruent mit الصِّرَاط): 'den geraden'",
             "صِرَاطَ — Apposition (Badal) zu الصِّرَاطَ im Akkusativ: 'den Weg'",
             "Beachte: صِرَاطَ steht im SELBEN Kasus (Akkusativ) wie الصِّرَاطَ — das ist das Kennzeichen der Apposition.",
-            "الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ — Relativsatz: 'derer, denen Du Gnade erwiesen hast'",
-            "Typ: Badal Kull min Kull — صِرَاطَ الَّذِينَ أَنْعَمْتَ ist identisch mit الصِّرَاطَ الْمُسْتَقِيمَ und präzisiert es: Der gerade Weg IST der Weg derer, denen Gott Gnade erwiesen hat.",
-            "Rhetorischer Effekt: Zuerst wird der Weg allgemein genannt (der gerade Weg), dann wird er genau definiert (der Weg der Begnadigten). Diese Stufung erzeugt Spannung und Klarheit."
+            "الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ — Relativsatz: 'derer, denen Du Gunst erwiesen hast'",
+            "Typ: Badal Kull min Kull — صِرَاطَ الَّذِينَ أَنْعَمْتَ ist identisch mit الصِّرَاطَ الْمُسْتَقِيمَ und präzisiert es: Der gerade Weg IST der Weg derer, denen Gott Gunst erwiesen hat.",
+            "Rhetorischer Effekt: Zuerst wird der Weg allgemein genannt (der gerade Weg), dann wird er genau definiert (der Weg der Begünstigten). Diese Stufung erzeugt Spannung und Klarheit."
           ]
         },
         {
@@ -400,7 +400,7 @@
             {
               "arabic": "صِرَاطَ الَّذِينَ أَنْعَمْتَ",
               "transliteration": "ṣirāṭa llaḏīna anʿamta",
-              "meaning": "den Weg derer, denen Du Gnade erwiesen hast (1:7)",
+              "meaning": "den Weg derer, denen Du Gunst erwiesen hast (1:7)",
               "note": "Badal Kull min Kull — die Apposition ist mit dem Bezugswort identisch"
             },
             {
@@ -430,7 +430,7 @@
             {
               "location": "1:6-7",
               "word": "صِرَاطَ الَّذِينَ",
-              "analysis": "Badal Kull min Kull zu الصِّرَاطَ الْمُسْتَقِيمَ. Beide stehen im Akkusativ. Die Apposition definiert den geraden Weg als den Weg der Begnadigten."
+              "analysis": "Badal Kull min Kull zu الصِّرَاطَ الْمُسْتَقِيمَ. Beide stehen im Akkusativ. Die Apposition definiert den geraden Weg als den Weg der Begünstigten."
             },
             {
               "location": "3:97",
@@ -480,7 +480,7 @@
             "Badal Ġalaṭ (Korrekturapposition)"
           ],
           "answer": "Badal Kull min Kull (Totalapposition)",
-          "explanation": "Der 'Weg derer, denen Du Gnade erwiesen hast' ist identisch mit dem 'geraden Weg'. Die Apposition ersetzt das Bezugswort vollständig und präzisiert es. Das ist Badal Kull min Kull."
+          "explanation": "Der 'Weg derer, denen Du Gunst erwiesen hast' ist identisch mit dem 'geraden Weg'. Die Apposition ersetzt das Bezugswort vollständig und präzisiert es. Das ist Badal Kull min Kull."
         },
         {
           "type": "case_determination",
@@ -618,7 +618,7 @@
             {
               "location": "3:135",
               "word": "وَمَنْ يَغْفِرُ الذُّنُوبَ إِلَّا اللَّهُ",
-              "analysis": "Verneinter (rhetorische Frage = Verneinung), unvollständiger Satz. اللَّهُ steht im Nominativ als Subjekt: 'Wer vergibt die Sünden außer Gott?'"
+              "analysis": "Verneinter (rhetorische Frage = Verneinung), unvollständiger Satz. اللَّهُ steht im Nominativ als Subjekt: 'Wer vergibt die Verfehlungen außer Gott?'"
             },
             {
               "location": "17:42",
@@ -694,7 +694,7 @@
         {
           "type": "sentence_analysis",
           "prompt": "Analysiere die Ausnahme-Konstruktion: وَمَنْ يَغْفِرُ الذُّنُوبَ إِلَّا اللَّهُ (3:135)",
-          "answer": "Rhetorische Frage (= Verneinung). Kein Bezugswort explizit genannt (unvollständig). اللَّهُ steht im Nominativ nach Satzfunktion (Subjekt von يَغْفِرُ). Bedeutung: 'Niemand vergibt die Sünden außer Gott.'",
+          "answer": "Rhetorische Frage (= Verneinung). Kein Bezugswort explizit genannt (unvollständig). اللَّهُ steht im Nominativ nach Satzfunktion (Subjekt von يَغْفِرُ). Bedeutung: 'Niemand vergibt die Verfehlungen außer Gott.'",
           "explanation": "Die rhetorische Frage مَنْ يَغْفِرُ hat die Kraft einer Verneinung: 'Niemand vergibt...' Da kein Bezugswort vor إِلَّا steht, ist der Satz unvollständig. اللَّهُ folgt der Satzfunktion als Subjekt von يَغْفِرُ und steht daher im Nominativ."
         },
         {
@@ -904,7 +904,7 @@
           "type": "sentence_analysis",
           "prompt": "Analysiere: يَا أَيَّتُهَا النَّفْسُ الْمُطْمَئِنَّةُ ارْجِعِي إِلَى رَبِّكِ (89:27-28)",
           "answer": "يَا — Vokativpartikel. أَيَّتُهَا — femininer Vermittler (أَيَّةُ + هَا), auf Ḍamma gebaut. النَّفْسُ — das Angerufene, steht als Naʿt/Badal im Nominativ. الْمُطْمَئِنَّةُ — Adjektiv (Naʿt) im Nominativ. ارْجِعِي — Imperativ (2. Sg. fem.): 'kehre zurück'. إِلَى رَبِّكِ — Präpositionalphrase: 'zu deinem Herrn'.",
-          "explanation": "Die feminine Form أَيَّتُهَا wird verwendet, weil النَّفْسُ (die Seele) grammatisch feminin ist. Die gesamte Konstruktion ist ein wunderschönes Beispiel für den Quran-Vokativ: Der Textsprecher spricht die ruhige, zufriedene Seele direkt an."
+          "explanation": "Die feminine Form أَيَّتُهَا wird verwendet, weil النَّفْسُ (das Selbst) grammatisch feminin ist. Die gesamte Konstruktion ist ein Beispiel für den Quran-Vokativ: Der Textsprecher spricht das ruhige, zufriedene Selbst direkt an."
         }
       ]
     },
@@ -1190,7 +1190,7 @@
             {
               "arabic": "قَدْ أَفْلَحَ الْمُؤْمِنُونَ",
               "transliteration": "qad aflaḥa l-muʾminūna",
-              "meaning": "Wahrhaftig erfolgreich sind die Gläubigen (23:1)"
+              "meaning": "Wahrhaftig erfolgreich sind die Vertrauenden (23:1)"
             },
             {
               "arabic": "لَقَدْ خَلَقْنَا الْإِنْسَانَ",
@@ -1217,7 +1217,7 @@
             {
               "arabic": "إِنَّ الصَّلَاةَ كَانَتْ عَلَى الْمُؤْمِنِينَ كِتَابًا مَوْقُوتًا",
               "transliteration": "inna ṣ-ṣalāta kānat ʿalā l-muʾminīna kitāban mawqūtan",
-              "meaning": "Wahrlich, das Gebet ist den Gläubigen zu festgesetzten Zeiten vorgeschrieben (4:103)"
+              "meaning": "Wahrlich, die Zuwendung (صَلَاة) ist den Vertrauenden zu festgesetzten Zeiten vorgeschrieben (4:103)"
             },
             {
               "arabic": "إِنَّ رَبَّكَ لَسَرِيعُ الْعِقَابِ",
@@ -1620,7 +1620,7 @@
             {
               "arabic": "أَمْ حَسِبْتُمْ أَنْ تَدْخُلُوا الْجَنَّةَ",
               "transliteration": "am ḥasibtum an tadḫulū l-jannata",
-              "meaning": "Oder meint ihr, dass ihr das Paradies betretet? (2:214)"
+              "meaning": "Oder meint ihr, dass ihr den Garten betretet? (2:214)"
             }
           ]
         },

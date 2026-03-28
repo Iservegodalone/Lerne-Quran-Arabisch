@@ -23,7 +23,7 @@
           "examples": [
             {"vocalized": "حَمْد", "root": "ح-م-د", "meaning": "Lob, Preis", "ref": "1:2"},
             {"vocalized": "نَصْر", "root": "ن-ص-ر", "meaning": "Hilfe, Sieg", "ref": "110:1"},
-            {"vocalized": "ذَنْب", "root": "ذ-ن-ب", "meaning": "Schuld, Sünde", "ref": "3:16"},
+            {"vocalized": "ذَنْب", "root": "ذ-ن-ب", "meaning": "Schuld, Verfehlung", "ref": "3:16"},
             {"vocalized": "قَوْل", "root": "ق-و-ل", "meaning": "Rede, Wort", "ref": "2:235"},
             {"vocalized": "أَمْر", "root": "ء-م-ر", "meaning": "Sache, Befehl, Angelegenheit", "ref": "2:210"}
           ],
@@ -85,8 +85,8 @@
           "transliteration": "fi'la",
           "function": "Nomen für Art und Weise (Ism al-Hay'a) oder allgemeines feminines Nomen.",
           "examples": [
-            {"vocalized": "نِعْمَة", "root": "ن-ع-م", "meaning": "Gnade, Wohltat", "ref": "2:231"},
-            {"vocalized": "قِبْلَة", "root": "ق-ب-ل", "meaning": "Gebetsrichtung", "ref": "2:142"},
+            {"vocalized": "نِعْمَة", "root": "ن-ع-م", "meaning": "Wohltat, Gunst", "ref": "2:231"},
+            {"vocalized": "قِبْلَة", "root": "ق-ب-ل", "meaning": "Zuwendungsrichtung", "ref": "2:142"},
             {"vocalized": "فِطْرَة", "root": "ف-ط-ر", "meaning": "natuerliche Anlage", "ref": "30:30"},
             {"vocalized": "قِطْعَة", "root": "ق-ط-ع", "meaning": "Stück", "ref": "13:4"},
             {"vocalized": "فِتْنَة", "root": "ف-ت-ن", "meaning": "Prüfung, Versuchung", "ref": "2:191"},
@@ -588,7 +588,7 @@
           "function": "Werkzeug / Instrument der Handlung. Präfix مِـ (mit Kasra).",
           "examples": [
             {"vocalized": "مِنْبَر", "root": "ن-ب-ر", "meaning": "Kanzel (im Sprachsystem)"},
-            {"vocalized": "مِحْرَاب", "root": "ح-ر-ب", "meaning": "Gebetsnische", "ref": "3:37"}
+            {"vocalized": "مِحْرَاب", "root": "ح-ر-ب", "meaning": "Mihrab (Nische/Heiligtum)", "ref": "3:37"}
           ],
           "frequencyNote": "Selten im Quran"
         },
@@ -720,7 +720,7 @@
           "transliteration": "mafā'il",
           "function": "Gebrochener Plural für مَفْعَل/مَفْعِل-Singulare (Orts-/Zeitnomen).",
           "examples": [
-            {"vocalized": "مَسَاجِد", "root": "س-ج-د", "meaning": "Gebetsstaetten (Sg. مَسْجِد)", "ref": "2:187"},
+            {"vocalized": "مَسَاجِد", "root": "س-ج-د", "meaning": "Niederwerfungsstaetten (Sg. مَسْجِد)", "ref": "2:187"},
             {"vocalized": "مَنَازِل", "root": "ن-ز-ل", "meaning": "Stationen (Sg. مَنْزِل)", "ref": "10:5"},
             {"vocalized": "مَشَارِق", "root": "ش-ر-ق", "meaning": "Aufgangsorte (Sg. مَشْرِق)", "ref": "37:5"},
             {"vocalized": "مَغَارِب", "root": "غ-ر-ب", "meaning": "Untergangsorte (Sg. مَغْرِب)", "ref": "70:40"}
@@ -765,7 +765,7 @@
           "transliteration": "af'ilā'",
           "function": "Gebrochener Plural für فَعِيل-Singulare (oft Personenbezeichnungen).",
           "examples": [
-            {"vocalized": "أَنْبِيَاء", "root": "ن-ب-ا", "meaning": "Propheten (Sg. نَبِيّ)", "ref": "2:61"},
+            {"vocalized": "أَنْبِيَاء", "root": "ن-ب-ا", "meaning": "Verkünder (Sg. نَبِيّ, konventionell 'Propheten')", "ref": "2:61"},
             {"vocalized": "أَوْلِيَاء", "root": "و-ل-ي", "meaning": "Verbuendete, Nahestehende (Sg. وَلِيّ)", "ref": "2:257"},
             {"vocalized": "أَقْرِبَاء", "root": "ق-ر-ب", "meaning": "Verwandte (Sg. قَرِيب)"}
           ],

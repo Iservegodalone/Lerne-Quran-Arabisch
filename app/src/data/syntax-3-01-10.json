@@ -66,7 +66,7 @@
         {
           "type": "explanation",
           "title": "Akkusativ-Funktionen im Detail",
-          "content": "Der Akkusativ (Naṣb) hat im Arabischen besonders viele Funktionen. Die wichtigsten für den Quran sind:\n\n1. Direktes Objekt (Mafʿūl bihi): خَلَقَ اللَّهُ السَّمَاوَاتِ — Gott erschuf die Himmel.\n2. Prädikat von كَانَ und ihren Schwestern: كَانَ اللَّهُ عَلِيمًا — Gott war/ist allwissend.\n3. Subjekt von إِنَّ und ihren Schwestern: إِنَّ اللَّهَ غَفُورٌ — Wahrlich, Gott ist vergebend.\n4. Zustandsakkusativ (Ḥāl): جَاءُوا بَاكِينَ — Sie kamen weinend.\n5. Spezifikationsakkusativ (Tamyīz): ازْدَادُوا إِيمَانًا — Sie nahmen zu an Glauben.\n6. Absoluter Akkusativ (Mafʿūl muṭlaq): فَصَلِّ لِرَبِّكَ صَلَاةً — Bete zu deinem Herrn ein Gebet.\n7. Akkusativ des Grundes: يَجْعَلُونَ أَصَابِعَهُمْ فِي آذَانِهِم مِّنَ الصَّوَاعِقِ حَذَرَ الْمَوْتِ — aus Furcht vor dem Tod.",
+          "content": "Der Akkusativ (Naṣb) hat im Arabischen besonders viele Funktionen. Die wichtigsten für den Quran sind:\n\n1. Direktes Objekt (Mafʿūl bihi): خَلَقَ اللَّهُ السَّمَاوَاتِ — Gott erschuf die Himmel.\n2. Prädikat von كَانَ und ihren Schwestern: كَانَ اللَّهُ عَلِيمًا — Gott war/ist allwissend.\n3. Subjekt von إِنَّ und ihren Schwestern: إِنَّ اللَّهَ غَفُورٌ — Wahrlich, Gott ist vergebend.\n4. Zustandsakkusativ (Ḥāl): جَاءُوا بَاكِينَ — Sie kamen weinend.\n5. Spezifikationsakkusativ (Tamyīz): ازْدَادُوا إِيمَانًا — Sie nahmen zu an Glauben.\n6. Absoluter Akkusativ (Mafʿūl muṭlaq): فَصَلِّ لِرَبِّكَ صَلَاةً — Wende dich deinem Herrn in Zuwendung zu.\n7. Akkusativ des Grundes: يَجْعَلُونَ أَصَابِعَهُمْ فِي آذَانِهِم مِّنَ الصَّوَاعِقِ حَذَرَ الْمَوْتِ — aus Furcht vor dem Tod.",
           "arabicExamples": [
             {
               "arabic": "خَلَقَ اللَّهُ السَّمَاوَاتِ",
@@ -859,7 +859,7 @@
             {
               "arabic": "إِنَّ الصَّلَاةَ كَانَتْ عَلَى الْمُؤْمِنِينَ كِتَابًا مَّوْقُوتًا",
               "transliteration": "inna ṣ-ṣalāta kānat ʿalā l-muʾminīna kitāban mawqūtan",
-              "meaning": "Wahrlich, das Gebet ist den Gläubigen zu bestimmten Zeiten vorgeschrieben"
+              "meaning": "Wahrlich, die Zuwendung (صَلَاة) ist den Vertrauenden zu bestimmten Zeiten vorgeschrieben"
             }
           ]
         },
@@ -881,7 +881,7 @@
             {
               "arabic": "لَعَلَّكُمْ تَتَّقُونَ",
               "transliteration": "laʿallakum tattaqūna",
-              "meaning": "Auf dass ihr gottesfürchtig werdet"
+              "meaning": "Auf dass ihr achtsam werdet"
             },
             {
               "arabic": "يَا لَيْتَنِي كُنتُ تُرَابًا",
@@ -1055,7 +1055,7 @@
         {
           "type": "explanation",
           "title": "Die vier Bedingungspartikeln",
-          "content": "Arabische Konditionalsätze bestehen aus zwei Teilen:\n1. Bedingung (Sharṭ / شَرْط) — der 'wenn'-Teil\n2. Antwort (Jawāb ash-sharṭ / جَوَاب الشَّرْط) — der 'dann'-Teil\n\nDie Partikel bestimmt die Art der Bedingung:\n\n1. إِنْ (in) — Ungewisse Bedingung: Die Erfüllung ist offen/ungewiss. Beide Verben stehen im Jussiv (مَجْزُوم).\n   إِنْ تَتَّقُوا اللَّهَ يَجْعَل لَّكُمْ فُرْقَانًا — Wenn ihr Gott fürchtet, wird Er euch Unterscheidung geben.\n\n2. إِذَا (idhā) — Gewisse/Erwartete Bedingung: Die Erfüllung wird als wahrscheinlich oder sicher dargestellt. Die Bedingung steht im Perfekt, die Antwort ist flexibler.\n   إِذَا جَاءَ نَصْرُ اللَّهِ — Wenn die Hilfe Gottes kommt (und sie WIRD kommen).\n\n3. لَوْ (law) — Irreale Bedingung: Die Bedingung ist nicht erfüllt (Gegenteil der Realität). Beide Verben stehen im Perfekt. Oft mit لَ in der Antwort.\n   لَوْ شَاءَ اللَّهُ لَهَدَاكُمْ — Hätte Gott gewollt, hätte Er euch rechtgeleitet.\n\n4. لَوْلَا (lawlā) — 'Gäbe es nicht / Wenn nicht': Drückt aus, dass etwas nur wegen eines bestimmten Umstands nicht eintritt.\n   لَوْلَا أَنتُمْ لَكُنَّا مُؤْمِنِينَ — Wäret ihr nicht gewesen, wären wir Gläubige geworden.",
+          "content": "Arabische Konditionalsätze bestehen aus zwei Teilen:\n1. Bedingung (Sharṭ / شَرْط) — der 'wenn'-Teil\n2. Antwort (Jawāb ash-sharṭ / جَوَاب الشَّرْط) — der 'dann'-Teil\n\nDie Partikel bestimmt die Art der Bedingung:\n\n1. إِنْ (in) — Ungewisse Bedingung: Die Erfüllung ist offen/ungewiss. Beide Verben stehen im Jussiv (مَجْزُوم).\n   إِنْ تَتَّقُوا اللَّهَ يَجْعَل لَّكُمْ فُرْقَانًا — Wenn ihr Gott fürchtet, wird Er euch Unterscheidung geben.\n\n2. إِذَا (idhā) — Gewisse/Erwartete Bedingung: Die Erfüllung wird als wahrscheinlich oder sicher dargestellt. Die Bedingung steht im Perfekt, die Antwort ist flexibler.\n   إِذَا جَاءَ نَصْرُ اللَّهِ — Wenn die Hilfe Gottes kommt (und sie WIRD kommen).\n\n3. لَوْ (law) — Irreale Bedingung: Die Bedingung ist nicht erfüllt (Gegenteil der Realität). Beide Verben stehen im Perfekt. Oft mit لَ in der Antwort.\n   لَوْ شَاءَ اللَّهُ لَهَدَاكُمْ — Hätte Gott gewollt, hätte Er euch rechtgeleitet.\n\n4. لَوْلَا (lawlā) — 'Gäbe es nicht / Wenn nicht': Drückt aus, dass etwas nur wegen eines bestimmten Umstands nicht eintritt.\n   لَوْلَا أَنتُمْ لَكُنَّا مُؤْمِنِينَ — Wäret ihr nicht gewesen, wären wir Vertrauende geworden.",
           "arabicExamples": [
             {
               "arabic": "إِن تَتُوبُوا إِلَى اللَّهِ",
@@ -1129,7 +1129,7 @@
             {
               "arabic": "لَوْلَا أَنتُمْ لَكُنَّا مُؤْمِنِينَ",
               "transliteration": "lawlā antum lakunnā muʾminīna",
-              "meaning": "Wäret ihr nicht, wären wir Gläubige",
+              "meaning": "Wäret ihr nicht, wären wir Vertrauende",
               "note": "لَوْلَا — konditional: gäbe es nicht"
             }
           ]
@@ -1515,7 +1515,7 @@
         {
           "type": "explanation",
           "title": "Die Antwort auf den Schwur (Jawāb al-Qasam)",
-          "content": "Die Antwort auf den Schwur ist die eigentliche Aussage, die durch den Schwur bekräftigt werden soll. Sie kann direkt nach dem Schwur folgen oder erst nach mehreren Schwur-Objekten.\n\nIn Sure 91 (ash-Shams) beispielsweise werden elf Schwur-Objekte aufgezählt, bevor die Antwort in Vers 9 kommt: قَدْ أَفْلَحَ مَن زَكَّاهَا — 'Wohl dem, der sie (die Seele) rein hält!'\n\nHäufige Muster der Antwort:\n1. إِنَّ + Satz: وَالْعَصْرِ ، إِنَّ الْإِنسَانَ لَفِي خُسْرٍ — 'Bei der Zeit! Wahrlich, der Mensch ist in Verlust.'\n2. لَ + Verb: وَالطُّورِ ... إِنَّ عَذَابَ رَبِّكَ لَوَاقِعٌ — 'Beim Berg! ... Die Strafe deines Herrn wird sich gewiss ereignen.'\n3. Manchmal ist die Antwort grammatisch umstritten oder implizit.",
+          "content": "Die Antwort auf den Schwur ist die eigentliche Aussage, die durch den Schwur bekräftigt werden soll. Sie kann direkt nach dem Schwur folgen oder erst nach mehreren Schwur-Objekten.\n\nIn Sure 91 (ash-Shams) beispielsweise werden elf Schwur-Objekte aufgezählt, bevor die Antwort in Vers 9 kommt: قَدْ أَفْلَحَ مَن زَكَّاهَا — 'Wohl dem, der es (das Selbst) rein hält!'\n\nHäufige Muster der Antwort:\n1. إِنَّ + Satz: وَالْعَصْرِ ، إِنَّ الْإِنسَانَ لَفِي خُسْرٍ — 'Bei der Zeit! Wahrlich, der Mensch ist in Verlust.'\n2. لَ + Verb: وَالطُّورِ ... إِنَّ عَذَابَ رَبِّكَ لَوَاقِعٌ — 'Beim Berg! ... Die Strafe deines Herrn wird sich gewiss ereignen.'\n3. Manchmal ist die Antwort grammatisch umstritten oder implizit.",
           "arabicExamples": [
             {
               "arabic": "وَالْعَصْرِ ، إِنَّ الْإِنسَانَ لَفِي خُسْرٍ",
@@ -1717,7 +1717,7 @@
             {
               "arabic": "لَا تَقْرَبُوا الصَّلَاةَ وَأَنتُمْ سُكَارَىٰ",
               "transliteration": "lā taqrabū ṣ-ṣalāta wa-antum sukārā",
-              "meaning": "Nähert euch dem Gebet nicht, während ihr betrunken seid (Ḥāl-Satz mit وَ)"
+              "meaning": "Nähert euch der Zuwendung nicht, während ihr betrunken seid (Ḥāl-Satz mit وَ)"
             },
             {
               "arabic": "خَرَجُوا مِن دِيَارِهِمْ وَهُمْ أُلُوفٌ حَذَرَ الْمَوْتِ",

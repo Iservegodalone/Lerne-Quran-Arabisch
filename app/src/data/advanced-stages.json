@@ -105,7 +105,7 @@
         {
           "type": "verse_group",
           "prompt": "Finde alle Verse, in denen die Wurzel ن-و-ر (Licht) vorkommt: 2:257, 5:15, 14:1, 24:35, 57:12. Welche Bedeutungsfacetten zeigt die Wurzel in diesen verschiedenen Kontexten?",
-          "hint": "2:257: Gott führt aus den Finsternissen ins Licht. 5:15: Ein Licht und ein klares Buch kamen zu euch. 14:1: Herausfuehren aus den Finsternissen ins Licht. 24:35: Gott ist das Licht der Himmel und der Erde. 57:12: Ihr Licht eilt vor ihnen her. Die Wurzel zeigt: Licht als Führung, als Gottes Eigenschaft, als Begleiter der Gläubigen."
+          "hint": "2:257: Gott führt aus den Finsternissen ins Licht. 5:15: Ein Licht und ein klares Buch kamen zu euch. 14:1: Herausfuehren aus den Finsternissen ins Licht. 24:35: Gott ist das Licht der Himmel und der Erde. 57:12: Ihr Licht eilt vor ihnen her. Die Wurzel zeigt: Licht als Führung, als Gottes Eigenschaft, als Begleiter der Vertrauenden."
         }
       ],
       "testContent": {
@@ -116,7 +116,7 @@
             "options": [
               "Bedecken, verbergen, verhüllen",
               "Leugnen, ablehnen, verweigern",
-              "Sündigen, Fehler machen",
+              "Verfehlen, Fehler machen",
               "Vergessen, vernachlässigen"
             ],
             "correct": 0
@@ -244,7 +244,7 @@
           {
             "type": "explanation",
             "title": "Herausforderung: Das volle Bedeutungsfeld entdecken",
-            "content": "Eine wichtige Übung ist, neben der geläufigen Übersetzung auch das volle Bedeutungsfeld einer Wurzel zu untersuchen. Beispiel: صَلَاة wird standardmäßig als 'Gebet' übersetzt. Die Wurzel ص-ل-و umfasst ein breiteres semantisches Feld, darunter 'folgen, sich anschließen, verbinden'. Der Quran verwendet صَلَاة in verschiedenen Kontexten — die intertextuelle Analyse zeigt die Bedeutungsbreite."
+            "content": "Eine wichtige Übung ist, neben der geläufigen Übersetzung auch das volle Bedeutungsfeld einer Wurzel zu untersuchen. Beispiel: صَلَاة wird konventionell als 'Gebet' übersetzt, bedeutet aber wörtlich 'Zuwendung/Hinwendung'. Die Wurzel ص-ل-و umfasst ein breiteres semantisches Feld, darunter 'folgen, sich anschließen, verbinden'. Der Quran verwendet صَلَاة in verschiedenen Kontexten — die intertextuelle Analyse zeigt die Bedeutungsbreite."
           }
         ]
       },
@@ -341,7 +341,7 @@
             "options": [
               "Prüfen, auf die Probe stellen — wie Gold im Feuer geprueft wird",
               "Kämpfen, Krieg führen",
-              "Suendigen, Fehler machen",
+              "Verfehlen, Fehler machen",
               "Glauben, vertrauen"
             ],
             "correct": 0,
@@ -538,7 +538,7 @@
         },
         {
           "type": "rhetoric_analyze",
-          "prompt": "Aufgabe: Analysiere Sure 55 (ar-Raḥmān) rhetorisch. Identifiziere: (1) Den Refrain فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ und seine Funktion — wie oft kommt er vor, was bewirkt die Wiederholung? (2) Welche rhetorischen Mittel aus dieser Lektion findest du — Taqdīm, Iltifāt, rhetorische Frage, Gleichnis? (3) Wie ist die Sure strukturiert — gibt es eine Ringkomposition oder einen thematischen Aufbau (Schöpfung → Vergänglichkeit → Paradies)? (4) An wen richtet sich der Dual (كُمَا) — und was bedeutet der Wechsel der Adressaten?",
+          "prompt": "Aufgabe: Analysiere Sure 55 (ar-Raḥmān) rhetorisch. Identifiziere: (1) Den Refrain فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ und seine Funktion — wie oft kommt er vor, was bewirkt die Wiederholung? (2) Welche rhetorischen Mittel aus dieser Lektion findest du — Taqdīm, Iltifāt, rhetorische Frage, Gleichnis? (3) Wie ist die Sure strukturiert — gibt es eine Ringkomposition oder einen thematischen Aufbau (Schöpfung → Vergänglichkeit → Garten (جَنَّة — wörtl. Garten, konventionell 'Paradies'))? (4) An wen richtet sich der Dual (كُمَا) — und was bedeutet der Wechsel der Adressaten?",
           "hint": "Der Refrain erscheint 31 Mal. Er ist eine rhetorische Frage die nach jeder Aufzählung wiederholt wird. Die Sure folgt einem Aufbau: Aufzählungen (1-30), Vergänglichkeit und Konsequenzen (31-45), Beschreibung zweier Gärten (46-78). Der Dual (كُمَا) richtet sich laut Vers 33 an Menschen und Jinn."
         },
         {
@@ -997,12 +997,12 @@
           {
             "type": "explanation",
             "title": "Weitere phonosemantische Muster",
-            "content": "Beachte auch: Wurzeln mit ن-ف (n-f) tragen oft die Bedeutung von Aushauch, Entweichen: نَفَسَ (atmen), نَفْخ (blasen), نَفْس (Seele/Atem), نَفَقَ (ausgeben/aufbrauchen). Wurzeln mit ج-م (j-m) tragen oft die Bedeutung von Sammlung: جَمَعَ (sammeln), جُمْلَة (Gesamtheit), جَمَاعَة (Gemeinschaft), جَامِع (Versammlungsort). Der Quran nutzt diese Klangmuster, um Bedeutungsebenen zu erzeugen, die über den Wortlaut hinausgehen."
+            "content": "Beachte auch: Wurzeln mit ن-ف (n-f) tragen oft die Bedeutung von Aushauch, Entweichen: نَفَسَ (atmen), نَفْخ (blasen), نَفْس (Selbst/Atem), نَفَقَ (ausgeben/aufbrauchen). Wurzeln mit ج-م (j-m) tragen oft die Bedeutung von Sammlung: جَمَعَ (sammeln), جُمْلَة (Gesamtheit), جَمَاعَة (Gemeinschaft), جَامِع (Versammlungsort). Der Quran nutzt diese Klangmuster, um Bedeutungsebenen zu erzeugen, die über den Wortlaut hinausgehen."
           },
           {
             "type": "explanation",
             "title": "Phonosemantik im Quran erkennen",
-            "content": "Wenn du eine Ansammlung ähnlich klingender Wurzeln in einem Abschnitt findest, ist das selten Zufall. Der Quran gruppiert Wörter nach Klangmustern, um eine bestimmte Atmosphäre zu schaffen. In der Beschreibung des Jüngsten Tages häufen sich emphatische und harte Konsonanten (ض, ط, ق, ك). In der Beschreibung des Paradieses überwiegen weiche und fließende Laute (ن, ل, م, ر)."
+            "content": "Wenn du eine Ansammlung ähnlich klingender Wurzeln in einem Abschnitt findest, ist das selten Zufall. Der Quran gruppiert Wörter nach Klangmustern, um eine bestimmte Atmosphäre zu schaffen. In der Beschreibung des Jüngsten Tages häufen sich emphatische und harte Konsonanten (ض, ط, ق, ك). In der Beschreibung des Gartens überwiegen weiche und fließende Laute (ن, ل, م, ر)."
           },
           {
             "type": "explanation",
@@ -1024,7 +1024,7 @@
         },
         {
           "type": "phonosemantic",
-          "prompt": "Vergleiche die Klangatmosphäre von 55:46–78 (Paradiesesbeschreibung) mit 101:1–11 (Jüngster Tag). Welche Konsonanten dominieren jeweils?",
+          "prompt": "Vergleiche die Klangatmosphäre von 55:46–78 (Gartenbeschreibung) mit 101:1–11 (Jüngster Tag). Welche Konsonanten dominieren jeweils?",
           "hint": "Sure 55: weiche Laute (ن, م, ل, ر) dominieren — fließend und friedlich. Sure 101: harte Laute (ق, ط, ك, ع) dominieren — hart und erschütternd."
         },
         {
@@ -1039,8 +1039,8 @@
         },
         {
           "type": "verse_group",
-          "prompt": "Vergleiche den Klang der Verse 56:1-6 (الواقعه / اذا وقعت الواقعه — über den Juengsten Tag) mit 56:27-34 (واصحب اليمين ما اصحب اليمين — über die Menschen des Paradieses). Welche Konsonanten dominieren in jedem Abschnitt und wie unterstützt der Klang die Bedeutung?",
-          "hint": "56:1-6: Dominanz harter Laute (ق, ع, ر, ج) — die Beschreibung des erschuetternden Ereignisses. 56:27-34: Weichere Laute mit Nasalen (م, ن) und Liquiden (ل) dominieren in den Paradiesesbeschreibungen (سدر مخضود, طلح منضود, ظل ممدود). Der Klangwechsel markiert den Übergang vom Schrecken zum Frieden."
+          "prompt": "Vergleiche den Klang der Verse 56:1-6 (الواقعه / اذا وقعت الواقعه — über den Juengsten Tag) mit 56:27-34 (واصحب اليمين ما اصحب اليمين — über die Menschen des Gartens). Welche Konsonanten dominieren in jedem Abschnitt und wie unterstützt der Klang die Bedeutung?",
+          "hint": "56:1-6: Dominanz harter Laute (ق, ع, ر, ج) — die Beschreibung des erschuetternden Ereignisses. 56:27-34: Weichere Laute mit Nasalen (م, ن) und Liquiden (ل) dominieren in den Gartenbeschreibungen (سدر مخضود, طلح منضود, ظل ممدود). Der Klangwechsel markiert den Übergang vom Schrecken zum Frieden."
         }
       ],
       "testContent": {
@@ -1080,12 +1080,12 @@
           },
           {
             "type": "multiple_choice",
-            "question": "Welche Konsonanten dominieren in Paradiesesbeschreibungen des Qurans im Gegensatz zu Beschreibungen des Jüngsten Tages?",
+            "question": "Welche Konsonanten dominieren in Gartenbeschreibungen des Qurans im Gegensatz zu Beschreibungen des Jüngsten Tages?",
             "options": [
-              "Paradies: harte Laute (ض, ط, ق) — Jüngster Tag: weiche Laute (ن, ل, م)",
-              "Paradies: weiche, fließende Laute (ن, م, ل, ر) — Jüngster Tag: harte, emphatische Laute (ق, ط, ك, ع)",
+              "Garten: harte Laute (ض, ط, ق) — Jüngster Tag: weiche Laute (ن, ل, م)",
+              "Garten: weiche, fließende Laute (ن, م, ل, ر) — Jüngster Tag: harte, emphatische Laute (ق, ط, ك, ع)",
               "In beiden Fällen werden dieselben Konsonanten verwendet",
-              "Paradies: Vokale dominieren — Jüngster Tag: Konsonanten dominieren"
+              "Garten: Vokale dominieren — Jüngster Tag: Konsonanten dominieren"
             ],
             "correct": 1
           },
@@ -1095,7 +1095,7 @@
             "options": [
               "Sammlung, Zusammenkunft",
               "Spaltung, Trennung",
-              "Aushauch, Entweichen (z.B. نَفَسَ = atmen, نَفْس = Seele/Atem, نَفْخ = blasen)",
+              "Aushauch, Entweichen (z.B. نَفَسَ = atmen, نَفْس = Selbst/Atem, نَفْخ = blasen)",
               "Druck, Schlag, Kraft"
             ],
             "correct": 2
@@ -1339,7 +1339,7 @@
                 "arabic": "أَقِيمُوا الصَّلَاةَ وَآتُوا الزَّكَاةَ",
                 "transliteration": "aqīmū ṣ-ṣalāta wa-ātū z-zakāta",
                 "ref": "2:43",
-                "analysis": "Sprechakt: Befehl/Aufforderung. Der Vers FORDERT eine Handlung: Richtet das Gebet ein und gebt die Abgabe. Der Imperativ (أَقِيمُوا, آتُوا) zeigt den Befehlscharakter."
+                "analysis": "Sprechakt: Befehl/Aufforderung. Der Vers FORDERT eine Handlung: Richtet die Zuwendung (صَلَاة — wörtl. Zuwendung/Hinwendung, konventionell 'Gebet') ein und gebt die Abgabe. Der Imperativ (أَقِيمُوا, آتُوا) zeigt den Befehlscharakter."
               }
             ]
           },
@@ -1448,7 +1448,7 @@
         },
         {
           "type": "comparison",
-          "prompt": "Vergleiche den Sprechakt von 3:185 (كل نفس ذايقه الموت — Jede Seele wird den Tod kosten) mit 21:35 (كل نفس ذايقه الموت ونبلوكم بالشر والخير فتنه — Jede Seele kostet den Tod, und Wir prüfen euch mit Schlechtem und Gutem als Prüfung). Wie verändert der Zusatz den Sprechakt?",
+          "prompt": "Vergleiche den Sprechakt von 3:185 (كل نفس ذايقه الموت — Jedes Selbst (نَفْس — wörtl. Selbst/Atem, konventionell 'Seele') wird den Tod kosten) mit 21:35 (كل نفس ذايقه الموت ونبلوكم بالشر والخير فتنه — Jedes Selbst kostet den Tod, und Wir prüfen euch mit Schlechtem und Gutem als Prüfung). Wie verändert der Zusatz den Sprechakt?",
           "hint": "3:185 allein ist eine Information — eine kosmische Tatsache wird mitgeteilt. 21:35 fuegt eine Warnung und eine Erklärung hinzu: Der Tod ist nicht nur Tatsache, sondern Teil einer Prüfung (فتنه). Der Sprechakt wechselt von 'Informieren' zu 'Informieren + Warnen + Erklären'. Derselbe Anfangssatz, aber der Kontext ändert die pragmatische Funktion."
         }
       ],
@@ -1456,7 +1456,7 @@
         "exercises": [
           {
             "type": "multiple_choice",
-            "question": "Welcher Sprechakt liegt in 2:43 vor: أَقِيمُوا الصَّلَاةَ وَآتُوا الزَّكَاةَ (Richtet das Gebet ein und gebt die Abgabe)?",
+            "question": "Welcher Sprechakt liegt in 2:43 vor: أَقِيمُوا الصَّلَاةَ وَآتُوا الزَّكَاةَ (Richtet die Zuwendung ein und gebt die Abgabe)?",
             "options": [
               "Informieren (إِخْبَار)",
               "Befehlen (أَمْر)",
@@ -1511,7 +1511,7 @@
           },
           {
             "type": "multiple_choice",
-            "question": "Welcher Sprechakt liegt in 3:185 vor: كُلُّ نَفْسٍ ذَائِقَةُ الْمَوْتِ (Jede Seele wird den Tod kosten)?",
+            "question": "Welcher Sprechakt liegt in 3:185 vor: كُلُّ نَفْسٍ ذَائِقَةُ الْمَوْتِ (Jedes Selbst wird den Tod kosten)?",
             "options": [
               "Befehlen (أَمْر)",
               "Informieren (إِخْبَار) — eine kosmische Tatsache wird mitgeteilt",
@@ -1576,7 +1576,7 @@
             "explanation": "Der Vers kombiniert zwei Sprechakte: Der Befehl (Schau hin!) aktiviert den Zuhörer, die rhetorische Frage (Siehst du Risse?) führt ihn zur eigenen Beobachtung. Die beiden Sprechakte zusammen bilden eine rhetorische Struktur: Aufforderung zur Beobachtung gefolgt von einer Frage die den Zuhörer zum eigenen Urteil zwingt."
           },
           {
-            "question": "Der Satz كل نفس ذايقه الموت (Jede Seele wird den Tod kosten) erscheint in 3:185 und 21:35. In 21:35 folgt ونبلوكم بالشر والخير فتنه (Wir prüfen euch mit Schlechtem und Gutem als Prüfung). Wie verändert der Zusatz den Sprechakt?",
+            "question": "Der Satz كل نفس ذايقه الموت (Jedes Selbst wird den Tod kosten) erscheint in 3:185 und 21:35. In 21:35 folgt ونبلوكم بالشر والخير فتنه (Wir prüfen euch mit Schlechtem und Gutem als Prüfung). Wie verändert der Zusatz den Sprechakt?",
             "options": [
               "Der Sprechakt bleibt gleich — beides ist Informieren",
               "Der Zusatz macht aus einer reinen Information (kosmische Tatsache) eine Warnung und Erklärung (der Tod ist Teil einer Prüfung)",
@@ -1704,7 +1704,7 @@
               {
                 "ref": "93:1–5",
                 "arabic": "والضحى والليل اذا سجى ما ودعك ربك وما قلى ولللاخره خير لك من الاولى ولسوف يعطيك ربك فترضى",
-                "explanation": "Sure aḍ-Ḍuḥā. Direktes Verstehen erfasst die emotionale Architektur: (1) Der Schwur beim Morgenlicht und der stillen Nacht — Gegensätze, die Geborgenheit erzeugen. (2) Die Verneinung ما ودعك (Er hat dich nicht verlassen) — der Trost kommt als Negation der Angst. (3) Die Steigerung: Nicht-Verlassen → das Jenseits ist besser → Er wird dir geben, bis du zufrieden bist (فترضى). (4) Der Rhythmus: Kurze Verse, Reimendung auf ā — wie ein beruhigender Atem. All diese Ebenen gleichzeitig wahrzunehmen, ohne eine davon ins Deutsche übersetzen zu müssen — das ist direktes Verstehen."
+                "explanation": "Sure aḍ-Ḍuḥā. Direktes Verstehen erfasst die emotionale Architektur: (1) Der Schwur beim Morgenlicht und der stillen Nacht — Gegensätze, die Geborgenheit erzeugen. (2) Die Verneinung ما ودعك (Er hat dich nicht verlassen) — der Trost kommt als Negation der Angst. (3) Die Steigerung: Nicht-Verlassen → das Spätere (الْآخِرَة — wörtl. das Spätere/Letzte, konventionell 'Jenseits') ist besser → Er wird dir geben, bis du zufrieden bist (فترضى). (4) Der Rhythmus: Kurze Verse, Reimendung auf ā — wie ein beruhigender Atem. All diese Ebenen gleichzeitig wahrzunehmen, ohne eine davon ins Deutsche übersetzen zu müssen — das ist direktes Verstehen."
               },
               {
                 "ref": "24:35",

@@ -8,7 +8,7 @@
         {
           "type": "explanation",
           "title": "كُلّ und بَعْض — Funktion und Stellung",
-          "content": "Arabisch besitzt zwei zentrale Quantifizierer: كُلّ (kull, jeder/alle) und بَعْض (baʿḍ, einige/manche). Beide Wörter können nicht allein stehen — sie brauchen immer ein Bezugswort. Dieses Bezugswort erscheint entweder als zweites Glied einer Iḍāfa-Konstruktion (كُلُّ نَفْسٍ = jede Seele) oder als angehängtes Suffixpronomen (كُلُّهُمْ = sie alle). Der Quantifizierer steht immer an erster Stelle und übernimmt den Kasus, den die syntaktische Position erfordert. Das Bezugswort steht im Genitiv, weil es das zweite Glied der Iḍāfa ist.",
+          "content": "Arabisch besitzt zwei zentrale Quantifizierer: كُلّ (kull, jeder/alle) und بَعْض (baʿḍ, einige/manche). Beide Wörter können nicht allein stehen — sie brauchen immer ein Bezugswort. Dieses Bezugswort erscheint entweder als zweites Glied einer Iḍāfa-Konstruktion (كُلُّ نَفْسٍ = jedes Selbst) oder als angehängtes Suffixpronomen (كُلُّهُمْ = sie alle). Der Quantifizierer steht immer an erster Stelle und übernimmt den Kasus, den die syntaktische Position erfordert. Das Bezugswort steht im Genitiv, weil es das zweite Glied der Iḍāfa ist.",
           "arabicExamples": [
             {
               "arabic": "كُلّ",
@@ -23,7 +23,7 @@
             {
               "arabic": "كُلُّ نَفْسٍ",
               "transliteration": "kullu nafsin",
-              "meaning": "jede Seele"
+              "meaning": "jedes Selbst"
             },
             {
               "arabic": "كُلُّهُمْ",
@@ -40,12 +40,12 @@
         {
           "type": "explanation",
           "title": "كُلّ mit Singular vs. Plural",
-          "content": "Ein entscheidender Bedeutungsunterschied ergibt sich aus dem Numerus des Bezugsworts: كُلّ mit einem Singular-Nomen bedeutet 'jeder einzelne' (distributiv): كُلُّ نَفْسٍ ذَائِقَةُ الْمَوْتِ = jede (einzelne) Seele wird den Tod kosten (3:185). كُلّ mit einem Plural-Nomen oder mit Suffixpronomen bedeutet 'alle zusammen' (kollektiv): كُلُّهُمْ أَجْمَعُونَ = sie alle zusammen (15:30). Dieser Unterschied ist im Quran durchgehend konsistent und für die korrekte grammatische Analyse wesentlich.",
+          "content": "Ein entscheidender Bedeutungsunterschied ergibt sich aus dem Numerus des Bezugsworts: كُلّ mit einem Singular-Nomen bedeutet 'jeder einzelne' (distributiv): كُلُّ نَفْسٍ ذَائِقَةُ الْمَوْتِ = jedes (einzelne) Selbst wird den Tod kosten (3:185). كُلّ mit einem Plural-Nomen oder mit Suffixpronomen bedeutet 'alle zusammen' (kollektiv): كُلُّهُمْ أَجْمَعُونَ = sie alle zusammen (15:30). Dieser Unterschied ist im Quran durchgehend konsistent und für die korrekte grammatische Analyse wesentlich.",
           "arabicExamples": [
             {
               "arabic": "كُلُّ نَفْسٍ ذَائِقَةُ الْمَوْتِ",
               "transliteration": "kullu nafsin dhāʾiqatu l-mawt",
-              "meaning": "Jede Seele wird den Tod kosten (3:185)"
+              "meaning": "Jedes Selbst wird den Tod kosten (3:185)"
             },
             {
               "arabic": "كُلُّهُمْ أَجْمَعُونَ",
@@ -66,10 +66,10 @@
             "Vers: كُلُّ نَفْسٍ ذَائِقَةُ الْمَوْتِ (3:185)",
             "كُلُّ — Quantifizierer, Nominativ (Mubtadaʾ), Ḍamma auf dem Lām",
             "نَفْسٍ — Singular-Nomen, Genitiv (zweites Glied der Iḍāfa), Kasra + Tanwīn",
-            "Da نَفْسٍ Singular ist → distributive Bedeutung: jede einzelne Seele",
+            "Da نَفْسٍ Singular ist → distributive Bedeutung: jedes einzelne Selbst",
             "ذَائِقَةُ — aktives Partizip, Nominativ (Khabar zu كُلُّ نَفْسٍ)",
             "الْمَوْتِ — Genitiv (zweites Glied der Iḍāfa mit ذَائِقَةُ)",
-            "Gesamtanalyse: كُلُّ نَفْسٍ ist Mubtadaʾ, ذَائِقَةُ الْمَوْتِ ist Khabar → Jede Seele wird den Tod kosten"
+            "Gesamtanalyse: كُلُّ نَفْسٍ ist Mubtadaʾ, ذَائِقَةُ الْمَوْتِ ist Khabar → Jedes Selbst wird den Tod kosten"
           ]
         },
         {
@@ -80,7 +80,7 @@
             {
               "arabic": "كُلُّ نَفْسٍ",
               "transliteration": "kullu nafsin",
-              "meaning": "jede Seele (Nominativ)"
+              "meaning": "jedes Selbst (Nominativ)"
             },
             {
               "arabic": "كُلَّ شَيْءٍ",
@@ -101,7 +101,7 @@
             {
               "location": "3:185",
               "word": "كُلُّ نَفْسٍ",
-              "analysis": "Mubtadaʾ (Subjekt). كُلّ im Nominativ + نَفْسٍ im Genitiv (Iḍāfa). Singular → jede einzelne Seele."
+              "analysis": "Mubtadaʾ (Subjekt). كُلّ im Nominativ + نَفْسٍ im Genitiv (Iḍāfa). Singular → jedes einzelne Selbst."
             },
             {
               "location": "15:30",
@@ -121,7 +121,7 @@
             {
               "location": "21:35",
               "word": "كُلُّ نَفْسٍ ذَائِقَةُ الْمَوْتِ",
-              "analysis": "Identische Struktur wie 3:185. كُلّ + Singular = distributiv: jede einzelne Seele kostet den Tod."
+              "analysis": "Identische Struktur wie 3:185. كُلّ + Singular = distributiv: jedes einzelne Selbst kostet den Tod."
             }
           ]
         }
@@ -133,12 +133,12 @@
           "type": "multiple_choice",
           "prompt": "Was bedeutet كُلُّ نَفْسٍ (kullu nafsin)?",
           "options": [
-            "Alle Seelen zusammen",
-            "Jede einzelne Seele",
-            "Einige Seelen",
-            "Die Seele von allen"
+            "Alle Selbste zusammen",
+            "Jedes einzelne Selbst",
+            "Einige Selbste",
+            "Das Selbst von allen"
           ],
-          "answer": "Jede einzelne Seele",
+          "answer": "Jedes einzelne Selbst",
           "explanation": "كُلّ mit einem Singular-Nomen hat distributive Bedeutung: jede einzelne. Bei einem Plural-Nomen oder Suffixpronomen wäre es kollektiv (alle zusammen)."
         },
         {
@@ -159,7 +159,7 @@
             "jeder einzelne",
             "alle zusammen"
           ],
-          "explanation": "كُلُّ نَفْسٍ = jede einzelne Seele (distributiv). كُلُّهُمْ = sie alle zusammen (kollektiv)."
+          "explanation": "كُلُّ نَفْسٍ = jedes einzelne Selbst (distributiv). كُلُّهُمْ = sie alle zusammen (kollektiv)."
         },
         {
           "type": "sentence_analysis",
@@ -185,7 +185,7 @@
           "pairs": [
             {
               "item": "كُلُّ نَفْسٍ",
-              "match": "jede einzelne Seele"
+              "match": "jedes einzelne Selbst"
             },
             {
               "item": "كُلُّهُمْ",
@@ -251,7 +251,7 @@
             {
               "arabic": "الْمُؤْمِنُونَ يَعْلَمُونَ",
               "transliteration": "al-muʾminūna yaʿlamūn",
-              "meaning": "die-Gläubigen sie-wissen (volle Kongruenz)"
+              "meaning": "die-Vertrauenden sie-wissen (volle Kongruenz)"
             }
           ]
         },
@@ -358,7 +358,7 @@
         },
         {
           "type": "multiple_choice",
-          "prompt": "Wie würde der Satz 'Die Gläubigen sagten' als Verbalsatz (V-S) lauten?",
+          "prompt": "Wie würde der Satz 'Die Vertrauenden sagten' als Verbalsatz (V-S) lauten?",
           "options": [
             "الْمُؤْمِنُونَ قَالُوا",
             "قَالُوا الْمُؤْمِنُونَ",
@@ -600,7 +600,7 @@
             {
               "arabic": "فَأَمَّا الَّذِينَ آمَنُوا فَيَعْلَمُونَ أَنَّهُ الْحَقُّ",
               "transliteration": "fa-amma lladhīna āmanū fa-yaʿlamūna annahu l-ḥaqq",
-              "meaning": "Was die Gläubigen betrifft — so wissen sie, dass es die Wahrheit ist (2:26)"
+              "meaning": "Was die Vertrauenden betrifft — so wissen sie, dass es die Wahrheit ist (2:26)"
             },
             {
               "arabic": "أَمَّا السَّفِينَةُ فَكَانَتْ لِمَسَاكِينَ",
@@ -612,7 +612,7 @@
         {
           "type": "explanation",
           "title": "Paarweise Verwendung: أَمَّا ... وَأَمَّا",
-          "content": "Besonders häufig im Quran ist die paarweise Verwendung: أَمَّا ... فَ ... وَأَمَّا ... فَ ... Diese Struktur kontrastiert zwei Gruppen oder Situationen. Typisch in Versen, die Gläubige und Ungläubige, oder verschiedene Schicksale im Jenseits gegenüberstellen. Beispiel aus Sure 11:105-106: فَمِنْهُمْ شَقِيٌّ وَسَعِيدٌ · فَأَمَّا الَّذِينَ شَقُوا فَفِي النَّارِ · وَأَمَّا الَّذِينَ سُعِدُوا فَفِي الْجَنَّةِ — Was die Unglücklichen betrifft, so sind sie im Feuer. Und was die Glücklichen betrifft, so sind sie im Paradies.",
+          "content": "Besonders häufig im Quran ist die paarweise Verwendung: أَمَّا ... فَ ... وَأَمَّا ... فَ ... Diese Struktur kontrastiert zwei Gruppen oder Situationen. Typisch in Versen, die Vertrauende und Leugnende, oder verschiedene Schicksale im Späteren gegenüberstellen. Beispiel aus Sure 11:105-106: فَمِنْهُمْ شَقِيٌّ وَسَعِيدٌ · فَأَمَّا الَّذِينَ شَقُوا فَفِي النَّارِ · وَأَمَّا الَّذِينَ سُعِدُوا فَفِي الْجَنَّةِ — Was die Unglücklichen betrifft, so sind sie im Feuer. Und was die Glücklichen betrifft, so sind sie im Garten.",
           "arabicExamples": [
             {
               "arabic": "فَأَمَّا الَّذِينَ شَقُوا فَفِي النَّارِ",
@@ -622,7 +622,7 @@
             {
               "arabic": "وَأَمَّا الَّذِينَ سُعِدُوا فَفِي الْجَنَّةِ",
               "transliteration": "wa-amma lladhīna suʿidū fa-fī l-janna",
-              "meaning": "Und was die Glücklichen betrifft — so im Paradies (11:108)"
+              "meaning": "Und was die Glücklichen betrifft — so im Garten (11:108)"
             }
           ]
         },
@@ -647,7 +647,7 @@
             {
               "location": "2:26",
               "word": "فَأَمَّا الَّذِينَ آمَنُوا فَيَعْلَمُونَ",
-              "analysis": "Topik: الَّذِينَ آمَنُوا (die Gläubigen). Kommentar: يَعْلَمُونَ (sie wissen). فَ vor dem Kommentar obligatorisch."
+              "analysis": "Topik: الَّذِينَ آمَنُوا (die Vertrauenden). Kommentar: يَعْلَمُونَ (sie wissen). فَ vor dem Kommentar obligatorisch."
             },
             {
               "location": "18:79",
@@ -711,7 +711,7 @@
         {
           "type": "sentence_analysis",
           "prompt": "Analysiere: فَأَمَّا الَّذِينَ آمَنُوا فَيَعْلَمُونَ أَنَّهُ الْحَقُّ (2:26)",
-          "answer": "فَ am Anfang verbindet mit dem vorherigen Vers. أَمَّا = Topikalisierungspartikel. الَّذِينَ آمَنُوا = Topik (die Gläubigen). فَ = obligatorisches Antwort-فَ. يَعْلَمُونَ أَنَّهُ الْحَقُّ = Kommentar (sie wissen, dass es die Wahrheit ist).",
+          "answer": "فَ am Anfang verbindet mit dem vorherigen Vers. أَمَّا = Topikalisierungspartikel. الَّذِينَ آمَنُوا = Topik (die Vertrauenden). فَ = obligatorisches Antwort-فَ. يَعْلَمُونَ أَنَّهُ الْحَقُّ = Kommentar (sie wissen, dass es die Wahrheit ist).",
           "explanation": "Die erste فَ ist die verbindende Konjunktion (ʿāṭifa), die zweite فَ ist das obligatorische Antwort-فَ der أَمَّا-Konstruktion."
         },
         {
@@ -736,7 +736,7 @@
             "Um Wiederholung zu erzeugen"
           ],
           "answer": "Um zwei Gruppen oder Situationen zu kontrastieren",
-          "explanation": "Die paarweise Verwendung kontrastiert typischerweise Gläubige vs. Ungläubige, Paradies vs. Hölle, oder verschiedene Szenarien."
+          "explanation": "Die paarweise Verwendung kontrastiert typischerweise Vertrauende vs. Leugnende, Garten vs. Feuer, oder verschiedene Szenarien."
         }
       ]
     },
@@ -1337,7 +1337,7 @@
             {
               "arabic": "اِهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ · صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ",
               "transliteration": "ihdinā ṣ-ṣirāṭa l-mustaqīm · ṣirāṭa lladhīna anʿamta ʿalayhim",
-              "meaning": "Führe uns den geraden Weg — den Weg derer, denen Du Gnade erwiesen hast (1:6–7)"
+              "meaning": "Führe uns den geraden Weg — den Weg derer, denen Du Gunst erwiesen hast (1:6–7)"
             },
             {
               "arabic": "لِلَّهِ رَبِّ الْعَالَمِينَ",
@@ -1384,9 +1384,9 @@
             "الصِّرَاطَ الْمُسْتَقِيمَ — Akkusativ (Objekt von اِهْدِنَا): den geraden Weg",
             "صِرَاطَ الَّذِينَ — Akkusativ (Badal zu الصِّرَاطَ): den Weg derer",
             "Typ: Vollständiger Badal (كُلّ مِنْ كُلّ) — der zweite Ausdruck meint dasselbe wie der erste",
-            "Der 'gerade Weg' IST 'der Weg derer, denen Du Gnade erwiesen hast'",
+            "Der 'gerade Weg' IST 'der Weg derer, denen Du Gunst erwiesen hast'",
             "Kasus-Check: الصِّرَاطَ = Akkusativ (Fatḥa), صِرَاطَ = Akkusativ (Fatḥa) → stimmt überein ✓",
-            "أَنْعَمْتَ عَلَيْهِمْ = Relativsatz: denen Du Gnade erwiesen hast"
+            "أَنْعَمْتَ عَلَيْهِمْ = Relativsatz: denen Du Gunst erwiesen hast"
           ]
         },
         {
@@ -1434,7 +1434,7 @@
             "Kein Badal"
           ],
           "answer": "Vollständiger Badal (kull min kull)",
-          "explanation": "صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ bezeichnet dasselbe wie الصِّرَاطَ الْمُسْتَقِيمَ — der gerade Weg IST der Weg der Begnadeten. Vollständige Ersetzung."
+          "explanation": "صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ bezeichnet dasselbe wie الصِّرَاطَ الْمُسْتَقِيمَ — der gerade Weg IST der Weg der Begünstigten. Vollständige Ersetzung."
         },
         {
           "type": "identification",

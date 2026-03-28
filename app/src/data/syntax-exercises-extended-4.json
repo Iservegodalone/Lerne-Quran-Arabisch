@@ -353,7 +353,7 @@
       "ayah": 105,
       "words": [
         { "word": "عَلَيْكُمْ", "role": "Ism Fi'l Amr", "case": "—", "explanation": "Ism al-Fi'l mit Imperativbedeutung = اِلْزَمُوا (haltet fest an! / kuemmert euch um!). Die Präposition عَلَى mit Suffix funktioniert als unveränderliches Ism Fi'l. Regiert das folgende Nomen im Akkusativ." },
-        { "word": "أَنْفُسَكُمْ", "role": "Maf'ul bihi", "case": "Akkusativ (Nasb)", "explanation": "'euch selbst / eure Seelen' — Akkusativobjekt von عَلَيْكُمْ als Ism Fi'l. 'Kuemmert euch um euch selbst!'" },
+        { "word": "أَنْفُسَكُمْ", "role": "Maf'ul bihi", "case": "Akkusativ (Nasb)", "explanation": "'euch selbst / eure Selbste' — Akkusativobjekt von عَلَيْكُمْ als Ism Fi'l. 'Kuemmert euch um euch selbst!'" },
         { "word": "لَا يَضُرُّكُمْ", "role": "Fi'l Mudari' + Maf'ul bihi", "case": "Raf' (Indikativ)", "explanation": "'es schadet euch nicht' — Hauptsatz als Konsequenz." },
         { "word": "مَنْ ضَلَّ", "role": "Fa'il", "case": "Nominativ", "explanation": "'wer abgeirrt ist' — Relativpronomen + Relativsatz als Subjekt von يَضُرُّ." },
         { "word": "إِذَا اهْتَدَيْتُمْ", "role": "Zarf (Bedingung)", "case": "—", "explanation": "'wenn ihr rechtgeleitet seid' — temporale Bedingung." }
@@ -601,7 +601,7 @@
         { "word": "فَ", "role": "Konjunktion", "case": "—", "explanation": "Fa al-fa'sihiyya." },
         { "word": "لِمَ", "role": "Präposition + Fragepronomen", "case": "—", "explanation": "'warum' — لِ + مَا (verkürzt zu لِمَ). Das Alif von مَا ist weggefallen, weil مَا interrogativ nach einer Präposition steht. Haengende Präposition: لِ wird durch das Fragepronomen von der normalen Rektion getrennt." },
         { "word": "تَقْتُلُونَ", "role": "Fi'l Mudari' + Fa'il", "case": "Raf' (Indikativ)", "explanation": "'toetet ihr' — Verb im Indikativ. Waw al-Jama'a ist Fa'il." },
-        { "word": "أَنْبِيَاءَ اللَّهِ", "role": "Maf'ul bihi + Mudaf ilayhi", "case": "Akkusativ + Genitiv", "explanation": "'Gottes Propheten' — Akkusativobjekt. اللَّهِ ist Mudaf ilayhi (Genitiv)." },
+        { "word": "أَنْبِيَاءَ اللَّهِ", "role": "Maf'ul bihi + Mudaf ilayhi", "case": "Akkusativ + Genitiv", "explanation": "'Gottes Verkünder' — Akkusativobjekt. اللَّهِ ist Mudaf ilayhi (Genitiv)." },
         { "word": "مِنْ قَبْلُ", "role": "Jarr wa-Majrur", "case": "Mabniyy", "explanation": "'zuvor' — قَبْلُ ist mabniyy 'ala d-damm wegen des ausgelassenen Mudaf ilayhi." }
       ]
     },
@@ -645,7 +645,7 @@
         { "word": "وَمِنَ النَّاسِ", "role": "Khabar muqaddam", "case": "Genitiv", "explanation": "'und unter den Menschen' — vorangestellter Khabar." },
         { "word": "مَنْ يَقُولُ", "role": "Mubtada' (Relativsatz)", "case": "Nominativ", "explanation": "'wer sagt' — Relativpronomen + Relativsatz als Mubtada'." },
         { "word": "آمَنَّا بِاللَّهِ وَبِالْيَوْمِ الْآخِرِ", "role": "Maqul al-Qawl", "case": "—", "explanation": "'wir glauben an Gott und an den Letzten Tag' — Inhalt der Rede (Maqul al-Qawl)." },
-        { "word": "وَمَا هُمْ بِمُؤْمِنِينَ", "role": "Qat' (Trennung)", "case": "—", "explanation": "'aber sie sind keine Gläubigen' — Qat' (rhetorische Trennung/Abbruch). Anstatt den vorhergehenden Anspruch weiterzufuehren, bricht der Text ab und widerlegt ihn direkt. مَا ist Negation (hijazisch mit Khabar im Genitiv durch Ba za'ida). هُمْ ist Ism von مَا. بِمُؤْمِنِينَ ist Khabar mit za'idem Ba." }
+        { "word": "وَمَا هُمْ بِمُؤْمِنِينَ", "role": "Qat' (Trennung)", "case": "—", "explanation": "'aber sie sind keine Vertrauenden' — Qat' (rhetorische Trennung/Abbruch). Anstatt den vorhergehenden Anspruch weiterzufuehren, bricht der Text ab und widerlegt ihn direkt. مَا ist Negation (hijazisch mit Khabar im Genitiv durch Ba za'ida). هُمْ ist Ism von مَا. بِمُؤْمِنِينَ ist Khabar mit za'idem Ba." }
       ]
     },
     {

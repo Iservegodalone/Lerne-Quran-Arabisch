@@ -92,7 +92,7 @@
       "wordA": {
         "arabic": "نَبِيّ",
         "root": "ن-ب-أ",
-        "meaning": "Prophet (Nachrichtenempfaenger)"
+        "meaning": "Nabi/Verkünder (Nachrichtenempfaenger)"
       },
       "wordB": {
         "arabic": "رَسُول",
@@ -201,15 +201,15 @@
       "wordB": {
         "arabic": "مَغْفِرَة",
         "root": "غ-ف-ر",
-        "meaning": "Vergebung (Bedecken von Sünden)"
+        "meaning": "Vergebung (Bedecken von Verfehlungen)"
       },
-      "contrast": "رَحْمَة ist umfassende Barmherzigkeit — semantisch breit und nicht auf einen Kontext beschränkt (7:156: وَسِعَتْ كُلَّ شَيْءٍ). مَغْفِرَة ist spezifisch: das Bedecken/Verbergen von Sünden. Barmherzigkeit kann ohne Sünde existieren, Vergebung setzt Sünde voraus.",
+      "contrast": "رَحْمَة ist umfassende Barmherzigkeit — semantisch breit und nicht auf einen Kontext beschränkt (7:156: وَسِعَتْ كُلَّ شَيْءٍ). مَغْفِرَة ist spezifisch: das Bedecken/Verbergen von Verfehlungen. Barmherzigkeit kann ohne Verfehlung existieren, Vergebung setzt Verfehlung voraus.",
       "exercises": [
         {
           "ref": "7:156",
           "arabic": "وَرَحْمَتِي وَسِعَتْ كُلَّ شَيْءٍ",
           "question": "Warum رَحْمَة und nicht مَغْفِرَة?",
-          "answer": "Barmherzigkeit umfasst ALLES (كُلَّ شَيْءٍ) — auch Situationen ohne Sünde. Vergebung wäre zu eng."
+          "answer": "Barmherzigkeit umfasst ALLES (كُلَّ شَيْءٍ) — auch Situationen ohne Verfehlung. Vergebung wäre zu eng."
         }
       ]
     },
@@ -225,7 +225,7 @@
         "root": "ب-ش-ر",
         "meaning": "Mensch (biologisches Wesen, äußere Erscheinung)"
       },
-      "contrast": "إِنْسَان betont die menschliche Natur mit ihren Schwächen (Vergesslichkeit, Ungeduld). بَشَر betont die äußere, physische Menschlichkeit. Wenn Propheten als Menschen wie andere beschrieben werden, steht بَشَر (18:110). Wenn menschliche Schwäche thematisiert wird, steht إِنْسَان.",
+      "contrast": "إِنْسَان betont die menschliche Natur mit ihren Schwächen (Vergesslichkeit, Ungeduld). بَشَر betont die äußere, physische Menschlichkeit. Wenn Verkünder als Menschen wie andere beschrieben werden, steht بَشَر (18:110). Wenn menschliche Schwäche thematisiert wird, steht إِنْسَان.",
       "exercises": [
         {
           "ref": "18:110",
@@ -334,14 +334,14 @@
       "wordA": {
         "arabic": "صَلَاة",
         "root": "ص-ل-و",
-        "meaning": "Gebet/Hinwendung"
+        "meaning": "Zuwendung/Hinwendung (konventionell 'Gebet')"
       },
       "wordB": {
         "arabic": "دُعَاء",
         "root": "د-ع-و",
         "meaning": "Anrufung/Bitte (persönliche Bitte)"
       },
-      "contrast": "صَلَاة von der Wurzel ص-ل-و: Hinwendung, Verbindung, Gebet. دُعَاء von der Wurzel د-ع-و: Anrufung, Bitte. Der Quran verwendet أَقَامَ الصَّلَاةَ (das Gebet einrichten/aufrechterhalten) und unterscheidet damit terminologisch von دُعَاء (der freien Anrufung).",
+      "contrast": "صَلَاة von der Wurzel ص-ل-و: Zuwendung, Hinwendung, Verbindung. دُعَاء von der Wurzel د-ع-و: Anrufung, Bitte. Der Quran verwendet أَقَامَ الصَّلَاةَ (die Zuwendung einrichten/aufrechterhalten) und unterscheidet damit terminologisch von دُعَاء (der freien Anrufung).",
       "exercises": [
         {
           "ref": "2:186",
@@ -456,13 +456,13 @@
         "root": "ج-و-ر",
         "meaning": "Ungerechtigkeit/Abweichung vom Rechten"
       },
-      "contrast": "ظُلْم ist im Quran das häufigere Wort und bedeutet grundsätzlich 'etwas an den falschen Platz setzen' — deshalb ist شِرْك der größte ظُلْم (31:13): Anbetung gehört Gott, sie woanders hinzusetzen ist ظُلْم. جَوْر betont die Abweichung von der Mitte/dem Geraden.",
+      "contrast": "ظُلْم ist im Quran das häufigere Wort und bedeutet grundsätzlich 'etwas an den falschen Platz setzen' — deshalb ist شِرْك der größte ظُلْم (31:13): Dienst gehört Gott, ihn woanders hinzusetzen ist ظُلْم. جَوْر betont die Abweichung von der Mitte/dem Geraden.",
       "exercises": [
         {
           "ref": "31:13",
           "arabic": "إِنَّ الشِّرْكَ لَظُلْمٌ عَظِيمٌ",
           "question": "Warum ظُلْم für Beigesellung?",
-          "answer": "Anbetung gehört Gott. Sie anderswo hinzusetzen = etwas an den falschen Platz setzen = die Grundbedeutung von ظُلْم."
+          "answer": "Dienst gehört Gott. Ihn anderswo hinzusetzen = etwas an den falschen Platz setzen = die Grundbedeutung von ظُلْم."
         }
       ]
     },
@@ -739,27 +739,27 @@
       "wordB": {
         "arabic": "نَفْس",
         "root": "ن-ف-س",
-        "meaning": "Seele/Selbst (individuelle Person)"
+        "meaning": "Selbst (individuelle Person)"
       },
-      "contrast": "رُوح (von ر-و-ح = Wind, Hauch) ist die Lebenskraft — das, was laut Text eingehaucht wird (15:29, 32:9). نَفْس (von ن-ف-س = atmen, selbst) ist die individuelle Seele als Person/Selbst — sie trägt Verantwortung, stirbt, wird gerichtet. رُوح ist unpersönlich und dem Geschöpf von aussen gegeben, نَفْس ist persönlich und individuell.",
+      "contrast": "رُوح (von ر-و-ح = Wind, Hauch) ist die Lebenskraft — das, was laut Text eingehaucht wird (15:29, 32:9). نَفْس (von ن-ف-س = atmen, selbst) ist das individuelle Selbst als Person — es trägt Verantwortung, stirbt, wird gerichtet. رُوح ist unpersönlich und dem Geschöpf von aussen gegeben, نَفْس ist persönlich und individuell.",
       "exercises": [
         {
           "ref": "15:29",
           "arabic": "فَإِذَا سَوَّيْتُهُ وَنَفَخْتُ فِيهِ مِن رُّوحِي",
           "question": "Warum رُوح und nicht نَفْس?",
-          "answer": "Es geht um den Lebenshauch — die Kraft die laut Text dem Geschöpf eingeblasen wird. نَفْس wäre die individuelle Seele, nicht der eingeblasene Hauch."
+          "answer": "Es geht um den Lebenshauch — die Kraft die laut Text dem Geschöpf eingeblasen wird. نَفْس wäre das individuelle Selbst, nicht der eingeblasene Hauch."
         },
         {
           "ref": "3:185",
           "arabic": "كُلُّ نَفْسٍ ذَائِقَةُ الْمَوْتِ",
           "question": "Warum نَفْس und nicht رُوح?",
-          "answer": "Jede individuelle Seele/Person schmeckt den Tod. نَفْس ist das persönliche Selbst, das stirbt und zur Rechenschaft gezogen wird."
+          "answer": "Jedes individuelle Selbst/Person schmeckt den Tod. نَفْس ist das persönliche Selbst, das stirbt und zur Rechenschaft gezogen wird."
         },
         {
           "ref": "39:42",
           "arabic": "اللَّهُ يَتَوَفَّى الْأَنفُسَ حِينَ مَوْتِهَا",
           "question": "Warum أَنْفُس (Plural von نَفْس)?",
-          "answer": "Die individuellen Seelen werden zum Zeitpunkt ihres Todes eingeholt — jede نَفْس als eigenständige, verantwortliche Einheit."
+          "answer": "Die individuellen Selbste werden zum Zeitpunkt ihres Todes eingeholt — jedes نَفْس als eigenständige, verantwortliche Einheit."
         }
       ]
     },
@@ -780,7 +780,7 @@
         "root": "د-و-ر",
         "meaning": "Aufenthaltsort/Wohnsitz (wo man sich aufhaelt)"
       },
-      "contrast": "بَلَد ist ein besiedeltes Gebiet — eine Stadt oder ein Land als politisch-geographische Einheit. أَرْض ist die physische Erde/der Boden — das Materielle. دَار (von د-و-ر = sich drehen/verweilen) ist ein Ort an dem man verweilt — Wohnsitz, Aufenthaltsort, auch metaphorisch (دَارُ الْآخِرَةِ = der Aufenthaltsort des Jenseits).",
+      "contrast": "بَلَد ist ein besiedeltes Gebiet — eine Stadt oder ein Land als politisch-geographische Einheit. أَرْض ist die physische Erde/der Boden — das Materielle. دَار (von د-و-ر = sich drehen/verweilen) ist ein Ort an dem man verweilt — Wohnsitz, Aufenthaltsort, auch metaphorisch (دَارُ الْآخِرَةِ = der Aufenthaltsort des Späteren).",
       "exercises": [
         {
           "ref": "14:35",
@@ -807,19 +807,19 @@
       "wordA": {
         "arabic": "ذَنْب",
         "root": "ذ-ن-ب",
-        "meaning": "Sünde/Vergehen (Folge hat einen Schweif)"
+        "meaning": "Verfehlung/Vergehen (Folge hat einen Schweif)"
       },
       "wordB": {
         "arabic": "إِثْم",
         "root": "ا-ث-م",
-        "meaning": "Sünde (absichtliche Übertretung)"
+        "meaning": "Verfehlung (absichtliche Übertretung)"
       },
       "wordC": {
         "arabic": "خَطِيئَة",
         "root": "خ-ط-ا",
         "meaning": "Fehltritt (Abweichung vom Richtigen)"
       },
-      "contrast": "ذَنْب (von ذ-ن-ب = Schwanz/Ende) betont die Folgen einer Tat — die 'Schleppe' die sie nach sich zieht. إِثْم ist bewusste, absichtliche Übertretung — eine wissentliche Sünde. خَطِيئَة (von خ-ط-ا = verfehlen/danebentreffen) ist ein Fehltritt — das Verfehlen des Ziels, nicht notwendig absichtlich. Intensität: إِثْم > ذَنْب > خَطِيئَة.",
+      "contrast": "ذَنْب (von ذ-ن-ب = Schwanz/Ende) betont die Folgen einer Tat — die 'Schleppe' die sie nach sich zieht. إِثْم ist bewusste, absichtliche Übertretung — eine wissentliche Verfehlung. خَطِيئَة (von خ-ط-ا = verfehlen/danebentreffen) ist ein Fehltritt — das Verfehlen des Ziels, nicht notwendig absichtlich. Intensität: إِثْم > ذَنْب > خَطِيئَة.",
       "exercises": [
         {
           "ref": "3:193",
@@ -831,7 +831,7 @@
           "ref": "4:111",
           "arabic": "وَمَن يَكْسِبْ إِثْمًا فَإِنَّمَا يَكْسِبُهُ عَلَىٰ نَفْسِهِ",
           "question": "Warum إِثْم hier?",
-          "answer": "إِثْم als bewusste Sünde — man 'erwirbt' sie (يَكْسِبْ), was Absicht voraussetzt. Ein unbewusster Fehltritt wird nicht 'erworben'."
+          "answer": "إِثْم als bewusste Verfehlung — man 'erwirbt' sie (يَكْسِبْ), was Absicht voraussetzt. Ein unbewusster Fehltritt wird nicht 'erworben'."
         },
         {
           "ref": "71:25",
@@ -920,19 +920,19 @@
         "root": "ن-و-ب",
         "meaning": "Hinwendung (wiederholte Rückkehr zu Gott)"
       },
-      "contrast": "تَوْبَة (von ت-و-ب = umkehren/zurückkehren) ist die entschiedene Abkehr von der Sünde und Rückkehr zu Gott — ein einmaliger, bestimmter Akt. إِنَابَة (von ن-و-ب = wiederholt zurückkehren, Form IV) impliziert eine habituelle, wiederholte Hinwendung — eine dauerhafte Haltung der Rückkehr zu Gott. إِنَابَة wird im Quran mit Propheten und vorbildlichen Gläubigen assoziiert (38:24, 38:34).",
+      "contrast": "تَوْبَة (von ت-و-ب = umkehren/zurückkehren) ist die entschiedene Abkehr von der Verfehlung und Rückkehr zu Gott — ein einmaliger, bestimmter Akt. إِنَابَة (von ن-و-ب = wiederholt zurückkehren, Form IV) impliziert eine habituelle, wiederholte Hinwendung — eine dauerhafte Haltung der Rückkehr zu Gott. إِنَابَة wird im Quran mit Verkündern und vorbildlichen Vertrauenden assoziiert (38:24, 38:34).",
       "exercises": [
         {
           "ref": "42:10",
           "arabic": "وَمَا اخْتَلَفْتُمْ فِيهِ مِن شَيْءٍ فَحُكْمُهُ إِلَى اللَّهِ ۚ ذَٰلِكُمُ اللَّهُ رَبِّي عَلَيْهِ تَوَكَّلْتُ وَإِلَيْهِ أُنِيبُ",
           "question": "Warum أُنِيب (إِنَابَة) und nicht أَتُوبُ (تَوْبَة)?",
-          "answer": "إِنَابَة ist die dauerhafte, wiederholte Hinwendung — eine Lebenshaltung, nicht ein einmaliger Akt der Reue nach einer Sünde."
+          "answer": "إِنَابَة ist die dauerhafte, wiederholte Hinwendung — eine Lebenshaltung, nicht ein einmaliger Akt der Reue nach einer Verfehlung."
         },
         {
           "ref": "4:17",
           "arabic": "إِنَّمَا التَّوْبَةُ عَلَى اللَّهِ لِلَّذِينَ يَعْمَلُونَ السُّوءَ بِجَهَالَةٍ ثُمَّ يَتُوبُونَ مِن قَرِيبٍ",
           "question": "Warum تَوْبَة hier?",
-          "answer": "Umkehr nach konkreter Sünde — die entschiedene Abkehr nach einer bestimmten Verfehlung. Ein punktueller Akt der Rückkehr, nicht eine habituelle Haltung."
+          "answer": "Umkehr nach konkreter Verfehlung — die entschiedene Abkehr nach einer bestimmten Verfehlung. Ein punktueller Akt der Rückkehr, nicht eine habituelle Haltung."
         }
       ]
     },
@@ -1010,7 +1010,7 @@
           "ref": "2:153",
           "arabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا اسْتَعِينُوا بِالصَّبْرِ وَالصَّلَاةِ",
           "question": "Warum صَبْر und nicht حِلْم?",
-          "answer": "Die Gläubigen werden zum Ausharren bei Widrigkeiten aufgerufen — Standhaftigkeit gegenüber Schwierigkeiten, nicht Nachsicht gegenüber Fehlverhalten anderer."
+          "answer": "Die Vertrauenden werden zum Ausharren bei Widrigkeiten aufgerufen — Standhaftigkeit gegenüber Schwierigkeiten, nicht Nachsicht gegenüber Fehlverhalten anderer."
         },
         {
           "ref": "11:87",
