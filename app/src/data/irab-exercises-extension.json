@@ -1,2191 +1,2198 @@
-[
-  {
-    "ref": "2:3",
-    "arabic": "الَّذِينَ يُؤْمِنُونَ بِالْغَيْبِ وَيُقِيمُونَ الصَّلَاةَ",
-    "words": [
-      {
-        "word": "الَّذِينَ",
-        "role": "sifa",
-        "case": "mabni",
-        "explanation": "Relativpronomen als Attribut zu المتقين (1:2). Indeklinabel, syntaktisch im Genitiv"
-      },
-      {
-        "word": "يُؤْمِنُونَ",
-        "role": "fi'l",
-        "case": "mabni",
-        "explanation": "Imperfekt 3mp, Indikativ. Die Nun-Endung ist Zeichen des Raf'. Relativsatz (Sila)"
-      },
-      {
-        "word": "بِالْغَيْبِ",
-        "role": "majrur",
-        "case": "jarr",
-        "explanation": "بِ Präposition + الغيب im Genitiv (Kasra)"
-      },
-      {
-        "word": "وَيُقِيمُونَ",
-        "role": "fi'l",
-        "case": "mabni",
-        "explanation": "Konjunktion وَ + Imperfekt 3mp, Form IV von ق-و-م. Koordiniert mit يؤمنون"
-      },
-      {
-        "word": "الصَّلَاةَ",
-        "role": "maf'ul_bihi",
-        "case": "nasb",
-        "explanation": "Direktes Objekt von يقيمون. Fatha als Akkusativzeichen"
-      }
-    ],
-    "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=3"
+{
+  "meta": {
+    "title": "I'rab-Übungen Erweiterung",
+    "description": "Erweiterte I'rab-Analysen für fortgeschrittene Lernende",
+    "totalExercises": 47
   },
-  {
-    "ref": "2:10",
-    "arabic": "فِي قُلُوبِهِمْ مَرَضٌ فَزَادَهُمُ اللَّهُ مَرَضًا",
-    "words": [
-      {
-        "word": "فِي",
-        "role": "harf",
-        "case": "mabni",
-        "explanation": "Präposition, regiert Genitiv"
-      },
-      {
-        "word": "قُلُوبِهِمْ",
-        "role": "majrur",
-        "case": "jarr",
-        "explanation": "Nach في im Genitiv. Kasra + Possessivsuffix. Jarr wa-Majrur als vorangestelltes Khabar"
-      },
-      {
-        "word": "مَرَضٌ",
-        "role": "mubtada",
-        "case": "raf'",
-        "explanation": "Mubtada (nachgestellt). Damma mit Tanwin"
-      },
-      {
-        "word": "فَزَادَهُمُ",
-        "role": "fi'l",
-        "case": "mabni",
-        "explanation": "فَ Konjunktion + Perfekt 3ms von ز-ي-د + Objektsuffix هم (1. Maf'ul bihi)"
-      },
-      {
-        "word": "اللَّهُ",
-        "role": "fail",
-        "case": "raf'",
-        "explanation": "Subjekt von زاد. Damma"
-      },
-      {
-        "word": "مَرَضًا",
-        "role": "maf'ul_bihi",
-        "case": "nasb",
-        "explanation": "Zweites direktes Objekt von زاد (doppelter Akkusativ). Fatha mit Tanwin"
-      }
-    ],
-    "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=10"
-  },
-  {
-    "ref": "2:16",
-    "arabic": "أُولَٰئِكَ الَّذِينَ اشْتَرَوُا الضَّلَالَةَ بِالْهُدَىٰ",
-    "words": [
-      {
-        "word": "أُولَٰئِكَ",
-        "role": "mubtada",
-        "case": "mabni",
-        "explanation": "Demonstrativpronomen (Ferne, Plural) als Mubtada. Indeklinabel, syntaktisch Nominativ"
-      },
-      {
-        "word": "الَّذِينَ",
-        "role": "khabar",
-        "case": "mabni",
-        "explanation": "Relativpronomen als Khabar zum Mubtada. Indeklinabel"
-      },
-      {
-        "word": "اشْتَرَوُا",
-        "role": "fi'l",
-        "case": "mabni",
-        "explanation": "Perfekt 3mp, Form VIII von ش-ر-ي. Relativsatz (Sila)"
-      },
-      {
-        "word": "الضَّلَالَةَ",
-        "role": "maf'ul_bihi",
-        "case": "nasb",
-        "explanation": "Direktes Objekt. Fatha"
-      },
-      {
-        "word": "بِالْهُدَىٰ",
-        "role": "majrur",
-        "case": "jarr",
-        "explanation": "بِ Präposition + الهدى im Genitiv (Kasra geschätzt auf Alif Maqsura)"
-      }
-    ],
-    "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=16"
-  },
-  {
-    "ref": "2:22",
-    "arabic": "الَّذِي جَعَلَ لَكُمُ الْأَرْضَ فِرَاشًا وَالسَّمَاءَ بِنَاءً",
-    "words": [
-      {
-        "word": "الَّذِي",
-        "role": "sifa",
-        "case": "mabni",
-        "explanation": "Relativpronomen als Attribut zu ربكم (2:21). Indeklinabel"
-      },
-      {
-        "word": "جَعَلَ",
-        "role": "fi'l",
-        "case": "mabni",
-        "explanation": "Perfekt 3ms, Wurzel ج-ع-ل. Relativsatz (Sila)"
-      },
-      {
-        "word": "لَكُمُ",
-        "role": "majrur",
-        "case": "mabni",
-        "explanation": "لِ Präposition + Pronominalsuffix. Jarr wa-Majrur als Maf'ul lahu"
-      },
-      {
-        "word": "الْأَرْضَ",
-        "role": "maf'ul_bihi",
-        "case": "nasb",
-        "explanation": "Erstes Objekt von جعل (doppelter Akkusativ). Fatha"
-      },
-      {
-        "word": "فِرَاشًا",
-        "role": "maf'ul_bihi",
-        "case": "nasb",
-        "explanation": "Zweites Objekt von جعل. Fatha mit Tanwin"
-      },
-      {
-        "word": "وَالسَّمَاءَ",
-        "role": "maf'ul_bihi",
-        "case": "nasb",
-        "explanation": "وَ Konjunktion + erstes Objekt des zweiten جعل (implizit). Fatha"
-      },
-      {
-        "word": "بِنَاءً",
-        "role": "maf'ul_bihi",
-        "case": "nasb",
-        "explanation": "Zweites Objekt des zweiten (impliziten) جعل. Fatha mit Tanwin"
-      }
-    ],
-    "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=22"
-  },
-  {
-    "ref": "2:30",
-    "arabic": "إِنِّي جَاعِلٌ فِي الْأَرْضِ خَلِيفَةً",
-    "words": [
-      {
-        "word": "إِنِّي",
-        "role": "harf",
-        "case": "mabni",
-        "explanation": "إنَّ Bekräftigungspartikel + Pronominalsuffix ي als Ism von إنّ (Akkusativ)"
-      },
-      {
-        "word": "جَاعِلٌ",
-        "role": "khabar_inna",
-        "case": "raf'",
-        "explanation": "Khabar von إنّ. Aktives Partizip, Nominativ mit Tanwin"
-      },
-      {
-        "word": "فِي",
-        "role": "harf",
-        "case": "mabni",
-        "explanation": "Präposition"
-      },
-      {
-        "word": "الْأَرْضِ",
-        "role": "majrur",
-        "case": "jarr",
-        "explanation": "Nach في im Genitiv. Kasra"
-      },
-      {
-        "word": "خَلِيفَةً",
-        "role": "maf'ul_bihi",
-        "case": "nasb",
-        "explanation": "Objekt des Partizips جاعل (es regiert wie sein Verb). Fatha mit Tanwin"
-      }
-    ],
-    "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=30"
-  },
-  {
-    "ref": "2:34",
-    "arabic": "فَسَجَدُوا إِلَّا إِبْلِيسَ أَبَىٰ وَاسْتَكْبَرَ وَكَانَ مِنَ الْكَافِرِينَ",
-    "words": [
-      {
-        "word": "فَسَجَدُوا",
-        "role": "fi'l",
-        "case": "mabni",
-        "explanation": "فَ Konjunktion + Perfekt 3mp, Wurzel س-ج-د"
-      },
-      {
-        "word": "إِلَّا",
-        "role": "harf",
-        "case": "mabni",
-        "explanation": "Ausnahmepartikel"
-      },
-      {
-        "word": "إِبْلِيسَ",
-        "role": "andere",
-        "case": "nasb",
-        "explanation": "Mustathna (Ausgenommenes) nach إلّا. Akkusativ, Fatha ohne Tanwin (Diptot)"
-      },
-      {
-        "word": "أَبَىٰ",
-        "role": "fi'l",
-        "case": "mabni",
-        "explanation": "Perfekt 3ms, Wurzel أ-ب-ي (schwach auf ي). Er weigerte sich"
-      },
-      {
-        "word": "وَاسْتَكْبَرَ",
-        "role": "fi'l",
-        "case": "mabni",
-        "explanation": "وَ + Perfekt 3ms, Form X von ك-ب-ر"
-      },
-      {
-        "word": "وَكَانَ",
-        "role": "fi'l",
-        "case": "mabni",
-        "explanation": "وَ + كان: Kopulaverb, regiert Ism (Raf') und Khabar (Nasb)"
-      },
-      {
-        "word": "مِنَ الْكَافِرِينَ",
-        "role": "khabar_kana",
-        "case": "jarr",
-        "explanation": "Khabar von كان als Jarr wa-Majrur. الكافرين im Genitiv (-ين gesunder mask. Plural)"
-      }
-    ],
-    "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=34"
-  },
-  {
-    "ref": "2:102",
-    "arabic": "وَمَا يُعَلِّمَانِ مِنْ أَحَدٍ حَتَّىٰ يَقُولَا",
-    "words": [
-      {
-        "word": "وَمَا",
-        "role": "harf",
-        "case": "mabni",
-        "explanation": "وَ Konjunktion + ما Negationspartikel"
-      },
-      {
-        "word": "يُعَلِّمَانِ",
-        "role": "fi'l",
-        "case": "raf'",
-        "explanation": "Imperfekt Dual 3m, Form II von ع-ل-م. Raf' durch Nun (Dual-Endung)"
-      },
-      {
-        "word": "مِنْ",
-        "role": "harf",
-        "case": "mabni",
-        "explanation": "Präposition, hier als زائدة (expletiv) zur Verstärkung der Negation"
-      },
-      {
-        "word": "أَحَدٍ",
-        "role": "maf'ul_bihi",
-        "case": "jarr",
-        "explanation": "Eigentlich Maf'ul bihi, steht im Genitiv wegen der expletiven Präposition مِنْ"
-      },
-      {
-        "word": "حَتَّىٰ",
-        "role": "harf",
-        "case": "mabni",
-        "explanation": "Partikel, löst Nasb des folgenden Imperfekts aus"
-      },
-      {
-        "word": "يَقُولَا",
-        "role": "fi'l",
-        "case": "nasb",
-        "explanation": "Imperfekt Dual 3m, Nasb durch Wegfall der Nun nach حتّى (= أن)"
-      }
-    ],
-    "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=102"
-  },
-  {
-    "ref": "2:127",
-    "arabic": "وَإِذْ يَرْفَعُ إِبْرَاهِيمُ الْقَوَاعِدَ مِنَ الْبَيْتِ وَإِسْمَاعِيلُ",
-    "words": [
-      {
-        "word": "وَإِذْ",
-        "role": "zarf",
-        "case": "mabni",
-        "explanation": "وَ + إذْ Zeitadverb (Zarf Zaman), mabni auf Sukun"
-      },
-      {
-        "word": "يَرْفَعُ",
-        "role": "fi'l",
-        "case": "raf'",
-        "explanation": "Imperfekt 3ms, Wurzel ر-ف-ع. Indikativ (Damma)"
-      },
-      {
-        "word": "إِبْرَاهِيمُ",
-        "role": "fail",
-        "case": "raf'",
-        "explanation": "Subjekt. Damma ohne Tanwin (fremdstämmiger Eigenname, Diptot)"
-      },
-      {
-        "word": "الْقَوَاعِدَ",
-        "role": "maf'ul_bihi",
-        "case": "nasb",
-        "explanation": "Direktes Objekt. Fatha (gebrochener Plural)"
-      },
-      {
-        "word": "مِنَ",
-        "role": "harf",
-        "case": "mabni",
-        "explanation": "Präposition, bayaniyya (erklärend)"
-      },
-      {
-        "word": "الْبَيْتِ",
-        "role": "majrur",
-        "case": "jarr",
-        "explanation": "Nach مِنْ im Genitiv. Kasra"
-      },
-      {
-        "word": "وَإِسْمَاعِيلُ",
-        "role": "atf",
-        "case": "raf'",
-        "explanation": "وَ Konjunktion + koordiniertes Subjekt. Damma ohne Tanwin (Diptot)"
-      }
-    ],
-    "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=127"
-  },
-  {
-    "ref": "2:143",
-    "arabic": "وَكَذَٰلِكَ جَعَلْنَاكُمْ أُمَّةً وَسَطًا",
-    "words": [
-      {
-        "word": "وَكَذَٰلِكَ",
-        "role": "harf",
-        "case": "mabni",
-        "explanation": "وَ + كَ (Präposition) + ذلك (Demonstrativpronomen): und ebenso"
-      },
-      {
-        "word": "جَعَلْنَاكُمْ",
-        "role": "fi'l",
-        "case": "mabni",
-        "explanation": "Perfekt 1pl von ج-ع-ل + Objektsuffix كم (erstes Maf'ul bihi)"
-      },
-      {
-        "word": "أُمَّةً",
-        "role": "maf'ul_bihi",
-        "case": "nasb",
-        "explanation": "Zweites Objekt von جعل (doppelter Akkusativ). Fatha mit Tanwin"
-      },
-      {
-        "word": "وَسَطًا",
-        "role": "sifa",
-        "case": "nasb",
-        "explanation": "Attribut zu أمّة. Kongruenz: indefinit, Akkusativ, Fatha mit Tanwin"
-      }
-    ],
-    "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=143"
-  },
-  {
-    "ref": "2:177",
-    "arabic": "وَلَٰكِنَّ الْبِرَّ مَنْ آمَنَ بِاللَّهِ",
-    "words": [
-      {
-        "word": "وَلَٰكِنَّ",
-        "role": "harf",
-        "case": "mabni",
-        "explanation": "وَ + لكنّ: Adversativpartikel, Schwester von إنّ, regiert Ism (Nasb) und Khabar (Raf')"
-      },
-      {
-        "word": "الْبِرَّ",
-        "role": "ism_inna",
-        "case": "nasb",
-        "explanation": "Ism von لكنّ im Akkusativ. Fatha"
-      },
-      {
-        "word": "مَنْ",
-        "role": "khabar_inna",
-        "case": "mabni",
-        "explanation": "Relativpronomen als Khabar von لكنّ. Indeklinabel, syntaktisch Nominativ"
-      },
-      {
-        "word": "آمَنَ",
-        "role": "fi'l",
-        "case": "mabni",
-        "explanation": "Perfekt 3ms, Form IV von أ-م-ن. Relativsatz (Sila)"
-      },
-      {
-        "word": "بِاللَّهِ",
-        "role": "majrur",
-        "case": "jarr",
-        "explanation": "بِ Präposition + لفظ الجلالة im Genitiv. Kasra"
-      }
-    ],
-    "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=177"
-  },
-  {
-    "ref": "2:185",
-    "arabic": "شَهْرُ رَمَضَانَ الَّذِي أُنْزِلَ فِيهِ الْقُرْآنُ",
-    "words": [
-      {
-        "word": "شَهْرُ",
-        "role": "mubtada",
-        "case": "raf'",
-        "explanation": "Mubtada und erstes Glied der Idafa. Damma"
-      },
-      {
-        "word": "رَمَضَانَ",
-        "role": "mudaf_ilayh",
-        "case": "jarr",
-        "explanation": "Mudaf ilayhi, Genitiv. Fatha statt Kasra, da Diptot (fremdstämmig/Eigenname)"
-      },
-      {
-        "word": "الَّذِي",
-        "role": "sifa",
-        "case": "mabni",
-        "explanation": "Relativpronomen als Attribut zu شهر رمضان. Indeklinabel"
-      },
-      {
-        "word": "أُنْزِلَ",
-        "role": "fi'l",
-        "case": "mabni",
-        "explanation": "Perfekt Passiv 3ms, Form IV von ن-ز-ل. Relativsatz"
-      },
-      {
-        "word": "فِيهِ",
-        "role": "majrur",
-        "case": "mabni",
-        "explanation": "في Präposition + Pronominalsuffix. Jarr wa-Majrur als Zarf"
-      },
-      {
-        "word": "الْقُرْآنُ",
-        "role": "na'ib_fail",
-        "case": "raf'",
-        "explanation": "Stellvertreter des Subjekts (Na'ib al-Fa'il) im Passiv. Damma"
-      }
-    ],
-    "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=185"
-  },
-  {
-    "ref": "2:228",
-    "arabic": "وَالْمُطَلَّقَاتُ يَتَرَبَّصْنَ بِأَنْفُسِهِنَّ ثَلَاثَةَ قُرُوءٍ",
-    "words": [
-      {
-        "word": "وَالْمُطَلَّقَاتُ",
-        "role": "mubtada",
-        "case": "raf'",
-        "explanation": "وَ + Mubtada. Passives Partizip Form II, gesunder fem. Plural. Damma"
-      },
-      {
-        "word": "يَتَرَبَّصْنَ",
-        "role": "khabar",
-        "case": "mabni",
-        "explanation": "Khabar als Verbalsatz. Imperfekt 3fp, Form V von ر-ب-ص. Mabni auf Sukun vor نَ"
-      },
-      {
-        "word": "بِأَنْفُسِهِنَّ",
-        "role": "majrur",
-        "case": "jarr",
-        "explanation": "بِ Präposition + أنفس im Genitiv + Possessivsuffix هنّ"
-      },
-      {
-        "word": "ثَلَاثَةَ",
-        "role": "zarf",
-        "case": "nasb",
-        "explanation": "Zarf Zaman (Zeitangabe) im Akkusativ. Erster Teil der Idafa. Fatha"
-      },
-      {
-        "word": "قُرُوءٍ",
-        "role": "mudaf_ilayh",
-        "case": "jarr",
-        "explanation": "Mudaf ilayhi, Genitiv mit Tanwin. Gebrochener Plural von قرء"
-      }
-    ],
-    "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=228"
-  },
-  {
-    "ref": "2:255",
-    "arabic": "لَهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ",
-    "words": [
-      {
-        "word": "لَهُ",
-        "role": "khabar",
-        "case": "mabni",
-        "explanation": "لِ Präposition + Pronominalsuffix. Vorangestelltes Khabar (Jarr wa-Majrur)"
-      },
-      {
-        "word": "مَا",
-        "role": "mubtada",
-        "case": "mabni",
-        "explanation": "Relativpronomen als nachgestelltes Mubtada. Indeklinabel, syntaktisch Nominativ"
-      },
-      {
-        "word": "فِي",
-        "role": "harf",
-        "case": "mabni",
-        "explanation": "Präposition. Teil des Relativsatzes (Sila)"
-      },
-      {
-        "word": "السَّمَاوَاتِ",
-        "role": "majrur",
-        "case": "jarr",
-        "explanation": "Nach في im Genitiv. Kasra (gesunder fem. Plural)"
-      },
-      {
-        "word": "وَمَا",
-        "role": "atf",
-        "case": "mabni",
-        "explanation": "وَ Konjunktion + koordiniertes Relativpronomen"
-      },
-      {
-        "word": "فِي الْأَرْضِ",
-        "role": "majrur",
-        "case": "jarr",
-        "explanation": "Präposition + Genitiv. Kasra"
-      }
-    ],
-    "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=255"
-  },
-  {
-    "ref": "3:7",
-    "arabic": "هُوَ الَّذِي أَنْزَلَ عَلَيْكَ الْكِتَابَ مِنْهُ آيَاتٌ مُحْكَمَاتٌ",
-    "words": [
-      {
-        "word": "هُوَ",
-        "role": "mubtada",
-        "case": "mabni",
-        "explanation": "Pronomen 3ms als Mubtada. Indeklinabel"
-      },
-      {
-        "word": "الَّذِي",
-        "role": "khabar",
-        "case": "mabni",
-        "explanation": "Relativpronomen als Khabar. Indeklinabel"
-      },
-      {
-        "word": "أَنْزَلَ",
-        "role": "fi'l",
-        "case": "mabni",
-        "explanation": "Perfekt 3ms, Form IV von ن-ز-ل. Relativsatz"
-      },
-      {
-        "word": "عَلَيْكَ",
-        "role": "majrur",
-        "case": "mabni",
-        "explanation": "على Präposition + Pronominalsuffix"
-      },
-      {
-        "word": "الْكِتَابَ",
-        "role": "maf'ul_bihi",
-        "case": "nasb",
-        "explanation": "Direktes Objekt. Fatha"
-      },
-      {
-        "word": "مِنْهُ",
-        "role": "harf",
-        "case": "mabni",
-        "explanation": "مِنْ Präposition + Suffix. Vorangestelltes Khabar des folgenden Nominalsatzes"
-      },
-      {
-        "word": "آيَاتٌ",
-        "role": "mubtada",
-        "case": "raf'",
-        "explanation": "Mubtada des eingebetteten Nominalsatzes. Damma mit Tanwin"
-      },
-      {
-        "word": "مُحْكَمَاتٌ",
-        "role": "sifa",
-        "case": "raf'",
-        "explanation": "Attribut zu آيات. Kongruenz: indefinit, fem. Plural, Nominativ mit Tanwin"
-      }
-    ],
-    "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=7"
-  },
-  {
-    "ref": "3:14",
-    "arabic": "زُيِّنَ لِلنَّاسِ حُبُّ الشَّهَوَاتِ",
-    "words": [
-      {
-        "word": "زُيِّنَ",
-        "role": "fi'l",
-        "case": "mabni",
-        "explanation": "Perfekt Passiv 3ms, Form II von ز-ي-ن"
-      },
-      {
-        "word": "لِلنَّاسِ",
-        "role": "majrur",
-        "case": "jarr",
-        "explanation": "لِ Präposition + الناس im Genitiv. Kasra"
-      },
-      {
-        "word": "حُبُّ",
-        "role": "na'ib_fail",
-        "case": "raf'",
-        "explanation": "Na'ib al-Fa'il (Passivsubjekt). Damma. Erstes Glied der Idafa"
-      },
-      {
-        "word": "الشَّهَوَاتِ",
-        "role": "mudaf_ilayh",
-        "case": "jarr",
-        "explanation": "Mudaf ilayhi, Genitiv. Kasra (gesunder fem. Plural)"
-      }
-    ],
-    "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=14"
-  },
-  {
-    "ref": "3:26",
-    "arabic": "قُلِ اللَّهُمَّ مَالِكَ الْمُلْكِ تُؤْتِي الْمُلْكَ مَنْ تَشَاءُ",
-    "words": [
-      {
-        "word": "قُلِ",
-        "role": "fi'l",
-        "case": "mabni",
-        "explanation": "Imperativ 2ms, Wurzel ق-و-ل (hohl)"
-      },
-      {
-        "word": "اللَّهُمَّ",
-        "role": "munada",
-        "case": "mabni",
-        "explanation": "Vokativ. مَ ist Ersatz für die Vokativpartikel يا. Mabni auf Damma"
-      },
-      {
-        "word": "مَالِكَ",
-        "role": "sifa",
-        "case": "nasb",
-        "explanation": "Attribut zum Munada oder Badal. Akkusativ (Fatha). Erstes Glied der Idafa"
-      },
-      {
-        "word": "الْمُلْكِ",
-        "role": "mudaf_ilayh",
-        "case": "jarr",
-        "explanation": "Mudaf ilayhi, Genitiv. Kasra"
-      },
-      {
-        "word": "تُؤْتِي",
-        "role": "fi'l",
-        "case": "raf'",
-        "explanation": "Imperfekt 2ms, Form IV von أ-ت-ي. Raf' (geschätztes Damma auf ي)"
-      },
-      {
-        "word": "الْمُلْكَ",
-        "role": "maf'ul_bihi",
-        "case": "nasb",
-        "explanation": "Erstes Objekt (doppelter Akkusativ). Fatha"
-      },
-      {
-        "word": "مَنْ",
-        "role": "maf'ul_bihi",
-        "case": "mabni",
-        "explanation": "Relativpronomen als zweites Objekt. Indeklinabel, syntaktisch Akkusativ"
-      },
-      {
-        "word": "تَشَاءُ",
-        "role": "fi'l",
-        "case": "raf'",
-        "explanation": "Imperfekt 2ms, Wurzel ش-ي-أ. Relativsatz (Sila). Damma"
-      }
-    ],
-    "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=26"
-  },
-  {
-    "ref": "3:37",
-    "arabic": "فَتَقَبَّلَهَا رَبُّهَا بِقَبُولٍ حَسَنٍ",
-    "words": [
-      {
-        "word": "فَتَقَبَّلَهَا",
-        "role": "fi'l",
-        "case": "mabni",
-        "explanation": "فَ + Perfekt 3ms, Form V von ق-ب-ل + Objektsuffix ها"
-      },
-      {
-        "word": "رَبُّهَا",
-        "role": "fail",
-        "case": "raf'",
-        "explanation": "Subjekt. Damma + Possessivsuffix ها"
-      },
-      {
-        "word": "بِقَبُولٍ",
-        "role": "majrur",
-        "case": "jarr",
-        "explanation": "بِ Präposition + قبول im Genitiv. Kasra mit Tanwin"
-      },
-      {
-        "word": "حَسَنٍ",
-        "role": "sifa",
-        "case": "jarr",
-        "explanation": "Attribut zu قبول. Kongruenz: indefinit, mask., Singular, Genitiv mit Tanwin"
-      }
-    ],
-    "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=37"
-  },
-  {
-    "ref": "3:92",
-    "arabic": "لَنْ تَنَالُوا الْبِرَّ حَتَّىٰ تُنْفِقُوا مِمَّا تُحِبُّونَ",
-    "words": [
-      {
-        "word": "لَنْ",
-        "role": "harf",
-        "case": "mabni",
-        "explanation": "Negationspartikel für die Zukunft, löst Nasb aus"
-      },
-      {
-        "word": "تَنَالُوا",
-        "role": "fi'l",
-        "case": "nasb",
-        "explanation": "Imperfekt 2mp, Wurzel ن-و-ل. Nasb durch لن: Wegfall der Nun"
-      },
-      {
-        "word": "الْبِرَّ",
-        "role": "maf'ul_bihi",
-        "case": "nasb",
-        "explanation": "Direktes Objekt. Fatha"
-      },
-      {
-        "word": "حَتَّىٰ",
-        "role": "harf",
-        "case": "mabni",
-        "explanation": "Partikel mit implizitem أن, löst Nasb aus"
-      },
-      {
-        "word": "تُنْفِقُوا",
-        "role": "fi'l",
-        "case": "nasb",
-        "explanation": "Imperfekt 2mp, Form IV von ن-ف-ق. Nasb: Wegfall der Nun"
-      },
-      {
-        "word": "مِمَّا",
-        "role": "majrur",
-        "case": "mabni",
-        "explanation": "مِنْ + ما (Relativpronomen). Kontrahierte Form"
-      },
-      {
-        "word": "تُحِبُّونَ",
-        "role": "fi'l",
-        "case": "raf'",
-        "explanation": "Imperfekt 2mp, Form IV von ح-ب-ب. Relativsatz. Raf' durch Nun"
-      }
-    ],
-    "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=92"
-  },
-  {
-    "ref": "3:110",
-    "arabic": "كُنْتُمْ خَيْرَ أُمَّةٍ أُخْرِجَتْ لِلنَّاسِ",
-    "words": [
-      {
-        "word": "كُنْتُمْ",
-        "role": "fi'l",
-        "case": "mabni",
-        "explanation": "كان Perfekt 2mp. Kopulaverb, Pronominalsuffix تم als Ism Kana (Raf')"
-      },
-      {
-        "word": "خَيْرَ",
-        "role": "khabar_kana",
-        "case": "nasb",
-        "explanation": "Khabar von كان. Akkusativ (Fatha). Elativ (Komparativ), erstes Glied der Idafa"
-      },
-      {
-        "word": "أُمَّةٍ",
-        "role": "mudaf_ilayh",
-        "case": "jarr",
-        "explanation": "Mudaf ilayhi. Genitiv mit Tanwin"
-      },
-      {
-        "word": "أُخْرِجَتْ",
-        "role": "fi'l",
-        "case": "mabni",
-        "explanation": "Perfekt Passiv 3fs, Form IV von خ-ر-ج. Relativsatz (Sifa-Satz)"
-      },
-      {
-        "word": "لِلنَّاسِ",
-        "role": "majrur",
-        "case": "jarr",
-        "explanation": "لِ Präposition + الناس im Genitiv. Kasra"
-      }
-    ],
-    "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=110"
-  },
-  {
-    "ref": "3:159",
-    "arabic": "فَبِمَا رَحْمَةٍ مِنَ اللَّهِ لِنْتَ لَهُمْ",
-    "words": [
-      {
-        "word": "فَبِمَا",
-        "role": "harf",
-        "case": "mabni",
-        "explanation": "فَ + بِ Präposition + ما زائدة (expletiv, verstärkend)"
-      },
-      {
-        "word": "رَحْمَةٍ",
-        "role": "majrur",
-        "case": "jarr",
-        "explanation": "Nach بِ im Genitiv. Kasra mit Tanwin. ما ist dazwischengeschoben"
-      },
-      {
-        "word": "مِنَ اللَّهِ",
-        "role": "majrur",
-        "case": "jarr",
-        "explanation": "مِنْ Präposition + لفظ الجلالة im Genitiv. Kasra. Sifa zu رحمة"
-      },
-      {
-        "word": "لِنْتَ",
-        "role": "fi'l",
-        "case": "mabni",
-        "explanation": "Perfekt 2ms, Wurzel ل-ي-ن (schwach auf ي). Wegfall des ي im Perfekt"
-      },
-      {
-        "word": "لَهُمْ",
-        "role": "majrur",
-        "case": "mabni",
-        "explanation": "لِ Präposition + Pronominalsuffix هم"
-      }
-    ],
-    "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=159"
-  },
-  {
-    "ref": "3:169",
-    "arabic": "وَلَا تَحْسَبَنَّ الَّذِينَ قُتِلُوا فِي سَبِيلِ اللَّهِ أَمْوَاتًا",
-    "words": [
-      {
-        "word": "وَلَا",
-        "role": "harf",
-        "case": "mabni",
-        "explanation": "وَ Konjunktion + لا Prohibitivpartikel"
-      },
-      {
-        "word": "تَحْسَبَنَّ",
-        "role": "fi'l",
-        "case": "mabni",
-        "explanation": "Imperfekt 2ms + Nun at-Tawkid (Betonungsnun). Wurzel ح-س-ب. Mabni wegen Nun"
-      },
-      {
-        "word": "الَّذِينَ",
-        "role": "maf'ul_bihi",
-        "case": "mabni",
-        "explanation": "Erstes Objekt von حسب (doppelter Akkusativ). Relativpronomen"
-      },
-      {
-        "word": "قُتِلُوا",
-        "role": "fi'l",
-        "case": "mabni",
-        "explanation": "Perfekt Passiv 3mp, Wurzel ق-ت-ل. Relativsatz"
-      },
-      {
-        "word": "فِي سَبِيلِ",
-        "role": "majrur",
-        "case": "jarr",
-        "explanation": "في Präposition + سبيل im Genitiv (Kasra). Erstes Glied der Idafa"
-      },
-      {
-        "word": "اللَّهِ",
-        "role": "mudaf_ilayh",
-        "case": "jarr",
-        "explanation": "Mudaf ilayhi. Genitiv, Kasra"
-      },
-      {
-        "word": "أَمْوَاتًا",
-        "role": "maf'ul_bihi",
-        "case": "nasb",
-        "explanation": "Zweites Objekt von حسب. Fatha mit Tanwin"
-      }
-    ],
-    "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=169"
-  },
-  {
-    "ref": "4:1",
-    "arabic": "يَا أَيُّهَا النَّاسُ اتَّقُوا رَبَّكُمُ الَّذِي خَلَقَكُمْ مِنْ نَفْسٍ وَاحِدَةٍ",
-    "words": [
-      {
-        "word": "يَا",
-        "role": "harf",
-        "case": "mabni",
-        "explanation": "Vokativpartikel"
-      },
-      {
-        "word": "أَيُّهَا",
-        "role": "munada",
-        "case": "mabni",
-        "explanation": "Angerufener. Mabni ala d-Damm"
-      },
-      {
-        "word": "النَّاسُ",
-        "role": "sifa",
-        "case": "raf'",
-        "explanation": "Attribut zum Munada. Damma"
-      },
-      {
-        "word": "اتَّقُوا",
-        "role": "fi'l",
-        "case": "mabni",
-        "explanation": "Imperativ 2mp, Form VIII von و-ق-ي"
-      },
-      {
-        "word": "رَبَّكُمُ",
-        "role": "maf'ul_bihi",
-        "case": "nasb",
-        "explanation": "Direktes Objekt. Fatha + Possessivsuffix"
-      },
-      {
-        "word": "الَّذِي",
-        "role": "sifa",
-        "case": "mabni",
-        "explanation": "Relativpronomen als Attribut zu ربّكم"
-      },
-      {
-        "word": "خَلَقَكُمْ",
-        "role": "fi'l",
-        "case": "mabni",
-        "explanation": "Perfekt 3ms + Objektsuffix. Relativsatz (Sila)"
-      },
-      {
-        "word": "مِنْ نَفْسٍ",
-        "role": "majrur",
-        "case": "jarr",
-        "explanation": "مِنْ Präposition + نفس im Genitiv. Kasra mit Tanwin"
-      },
-      {
-        "word": "وَاحِدَةٍ",
-        "role": "sifa",
-        "case": "jarr",
-        "explanation": "Attribut zu نفس. Kongruenz: indefinit, fem., Genitiv mit Tanwin"
-      }
-    ],
-    "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=1"
-  },
-  {
-    "ref": "4:11",
-    "arabic": "يُوصِيكُمُ اللَّهُ فِي أَوْلَادِكُمْ لِلذَّكَرِ مِثْلُ حَظِّ الْأُنْثَيَيْنِ",
-    "words": [
-      {
-        "word": "يُوصِيكُمُ",
-        "role": "fi'l",
-        "case": "raf'",
-        "explanation": "Imperfekt 3ms, Form IV von و-ص-ي + Objektsuffix كم. Damma geschätzt auf ي"
-      },
-      {
-        "word": "اللَّهُ",
-        "role": "fail",
-        "case": "raf'",
-        "explanation": "Subjekt. Damma"
-      },
-      {
-        "word": "فِي أَوْلَادِكُمْ",
-        "role": "majrur",
-        "case": "jarr",
-        "explanation": "في + أولاد im Genitiv (Kasra) + Possessivsuffix"
-      },
-      {
-        "word": "لِلذَّكَرِ",
-        "role": "khabar",
-        "case": "jarr",
-        "explanation": "لِ Präposition + الذكر im Genitiv. Vorangestelltes Khabar"
-      },
-      {
-        "word": "مِثْلُ",
-        "role": "mubtada",
-        "case": "raf'",
-        "explanation": "Mubtada (nachgestellt). Damma. Erstes Glied der Idafa"
-      },
-      {
-        "word": "حَظِّ",
-        "role": "mudaf_ilayh",
-        "case": "jarr",
-        "explanation": "Mudaf ilayhi. Kasra. Seinerseits erstes Glied einer zweiten Idafa"
-      },
-      {
-        "word": "الْأُنْثَيَيْنِ",
-        "role": "mudaf_ilayh",
-        "case": "jarr",
-        "explanation": "Mudaf ilayhi. Dual-Genitiv auf -يْنِ"
-      }
-    ],
-    "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=11"
-  },
-  {
-    "ref": "4:43",
-    "arabic": "لَا تَقْرَبُوا الصَّلَاةَ وَأَنْتُمْ سُكَارَىٰ",
-    "words": [
-      {
-        "word": "لَا",
-        "role": "harf",
-        "case": "mabni",
-        "explanation": "Prohibitivpartikel (لا الناهية), löst Jazm aus"
-      },
-      {
-        "word": "تَقْرَبُوا",
-        "role": "fi'l",
-        "case": "jazm",
-        "explanation": "Imperfekt 2mp, Wurzel ق-ر-ب. Jazm: Wegfall der Nun"
-      },
-      {
-        "word": "الصَّلَاةَ",
-        "role": "maf'ul_bihi",
-        "case": "nasb",
-        "explanation": "Direktes Objekt. Fatha"
-      },
-      {
-        "word": "وَأَنْتُمْ",
-        "role": "mubtada",
-        "case": "mabni",
-        "explanation": "وَ الحالية (Hal-Waw) + Pronomen 2mp als Mubtada des Hal-Satzes"
-      },
-      {
-        "word": "سُكَارَىٰ",
-        "role": "khabar",
-        "case": "raf'",
-        "explanation": "Khabar des Hal-Satzes. Nominativ (Damma geschätzt auf Alif Maqsura). Der gesamte Nominalsatz ist Hal"
-      }
-    ],
-    "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=43"
-  },
-  {
-    "ref": "4:58",
-    "arabic": "إِنَّ اللَّهَ يَأْمُرُكُمْ أَنْ تُؤَدُّوا الْأَمَانَاتِ إِلَىٰ أَهْلِهَا",
-    "words": [
-      {
-        "word": "إِنَّ",
-        "role": "harf",
-        "case": "mabni",
-        "explanation": "Bekräftigungspartikel"
-      },
-      {
-        "word": "اللَّهَ",
-        "role": "ism_inna",
-        "case": "nasb",
-        "explanation": "Ism von إنّ. Fatha"
-      },
-      {
-        "word": "يَأْمُرُكُمْ",
-        "role": "khabar_inna",
-        "case": "raf'",
-        "explanation": "Khabar von إنّ als Verbalsatz. Imperfekt 3ms, Damma + Objektsuffix"
-      },
-      {
-        "word": "أَنْ",
-        "role": "harf",
-        "case": "mabni",
-        "explanation": "Masdariyya-Partikel, löst Nasb aus"
-      },
-      {
-        "word": "تُؤَدُّوا",
-        "role": "fi'l",
-        "case": "nasb",
-        "explanation": "Imperfekt 2mp, Form II von أ-د-ي. Nasb: Wegfall der Nun"
-      },
-      {
-        "word": "الْأَمَانَاتِ",
-        "role": "maf'ul_bihi",
-        "case": "nasb",
-        "explanation": "Direktes Objekt. Kasra als Akkusativzeichen des gesunden fem. Plurals"
-      },
-      {
-        "word": "إِلَىٰ أَهْلِهَا",
-        "role": "majrur",
-        "case": "jarr",
-        "explanation": "إلى Präposition + أهل im Genitiv (Kasra) + Possessivsuffix"
-      }
-    ],
-    "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=58"
-  },
-  {
-    "ref": "5:3",
-    "arabic": "الْيَوْمَ أَكْمَلْتُ لَكُمْ دِينَكُمْ",
-    "words": [
-      {
-        "word": "الْيَوْمَ",
-        "role": "zarf",
-        "case": "nasb",
-        "explanation": "Zarf Zaman (Zeitadverb) im Akkusativ. Fatha"
-      },
-      {
-        "word": "أَكْمَلْتُ",
-        "role": "fi'l",
-        "case": "mabni",
-        "explanation": "Perfekt 1sg, Form IV von ك-م-ل"
-      },
-      {
-        "word": "لَكُمْ",
-        "role": "majrur",
-        "case": "mabni",
-        "explanation": "لِ Präposition + Pronominalsuffix"
-      },
-      {
-        "word": "دِينَكُمْ",
-        "role": "maf'ul_bihi",
-        "case": "nasb",
-        "explanation": "Direktes Objekt. Fatha + Possessivsuffix"
-      }
-    ],
-    "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=5&verse=3"
-  },
-  {
-    "ref": "5:6",
-    "arabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا إِذَا قُمْتُمْ إِلَى الصَّلَاةِ فَاغْسِلُوا وُجُوهَكُمْ",
-    "words": [
-      {
-        "word": "يَا أَيُّهَا",
-        "role": "munada",
-        "case": "mabni",
-        "explanation": "يا Vokativpartikel + أيّها Munada, mabni auf Damma"
-      },
-      {
-        "word": "الَّذِينَ",
-        "role": "sifa",
-        "case": "mabni",
-        "explanation": "Relativpronomen als Attribut zum Munada"
-      },
-      {
-        "word": "آمَنُوا",
-        "role": "fi'l",
-        "case": "mabni",
-        "explanation": "Perfekt 3mp, Form IV von أ-م-ن. Relativsatz"
-      },
-      {
-        "word": "إِذَا",
-        "role": "zarf",
-        "case": "mabni",
-        "explanation": "Bedingungspartikel (Zarf Zaman), indeklinabel. Leitet Bedingungssatz ein"
-      },
-      {
-        "word": "قُمْتُمْ",
-        "role": "fi'l",
-        "case": "mabni",
-        "explanation": "Perfekt 2mp, Wurzel ق-و-م (hohl). Bedingungssatz (Shart)"
-      },
-      {
-        "word": "إِلَى الصَّلَاةِ",
-        "role": "majrur",
-        "case": "jarr",
-        "explanation": "إلى Präposition + الصلاة im Genitiv. Kasra"
-      },
-      {
-        "word": "فَاغْسِلُوا",
-        "role": "fi'l",
-        "case": "mabni",
-        "explanation": "فَ (Jawab-Fa') + Imperativ 2mp, Wurzel غ-س-ل. Jawab ash-Shart"
-      },
-      {
-        "word": "وُجُوهَكُمْ",
-        "role": "maf'ul_bihi",
-        "case": "nasb",
-        "explanation": "Direktes Objekt. Fatha + Possessivsuffix"
-      }
-    ],
-    "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=5&verse=6"
-  },
-  {
-    "ref": "5:35",
-    "arabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ وَابْتَغُوا إِلَيْهِ الْوَسِيلَةَ",
-    "words": [
-      {
-        "word": "اتَّقُوا",
-        "role": "fi'l",
-        "case": "mabni",
-        "explanation": "Imperativ 2mp, Form VIII von و-ق-ي"
-      },
-      {
-        "word": "اللَّهَ",
-        "role": "maf'ul_bihi",
-        "case": "nasb",
-        "explanation": "Direktes Objekt. Fatha"
-      },
-      {
-        "word": "وَابْتَغُوا",
-        "role": "fi'l",
-        "case": "mabni",
-        "explanation": "وَ + Imperativ 2mp, Form VIII von ب-غ-ي"
-      },
-      {
-        "word": "إِلَيْهِ",
-        "role": "majrur",
-        "case": "mabni",
-        "explanation": "إلى Präposition + Pronominalsuffix"
-      },
-      {
-        "word": "الْوَسِيلَةَ",
-        "role": "maf'ul_bihi",
-        "case": "nasb",
-        "explanation": "Direktes Objekt von ابتغوا. Fatha"
-      }
-    ],
-    "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=5&verse=35"
-  },
-  {
-    "ref": "6:59",
-    "arabic": "وَعِنْدَهُ مَفَاتِحُ الْغَيْبِ لَا يَعْلَمُهَا إِلَّا هُوَ",
-    "words": [
-      {
-        "word": "وَعِنْدَهُ",
-        "role": "khabar",
-        "case": "nasb",
-        "explanation": "وَ + عند Zarf Makan (Akkusativ) + Suffix. Vorangestelltes Khabar"
-      },
-      {
-        "word": "مَفَاتِحُ",
-        "role": "mubtada",
-        "case": "raf'",
-        "explanation": "Mubtada (nachgestellt). Damma. Erstes Glied der Idafa"
-      },
-      {
-        "word": "الْغَيْبِ",
-        "role": "mudaf_ilayh",
-        "case": "jarr",
-        "explanation": "Mudaf ilayhi. Genitiv, Kasra"
-      },
-      {
-        "word": "لَا",
-        "role": "harf",
-        "case": "mabni",
-        "explanation": "Negationspartikel (لا النافية)"
-      },
-      {
-        "word": "يَعْلَمُهَا",
-        "role": "fi'l",
-        "case": "raf'",
-        "explanation": "Imperfekt 3ms, Wurzel ع-ل-م + Objektsuffix. Damma"
-      },
-      {
-        "word": "إِلَّا",
-        "role": "harf",
-        "case": "mabni",
-        "explanation": "Ausnahmepartikel (Hasr/Beschraenkung)"
-      },
-      {
-        "word": "هُوَ",
-        "role": "fail",
-        "case": "mabni",
-        "explanation": "Pronomen 3ms als Fa'il. Mabni, syntaktisch Nominativ. Hasr: nur Er"
-      }
-    ],
-    "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=6&verse=59"
-  },
-  {
-    "ref": "7:12",
-    "arabic": "قَالَ أَنَا خَيْرٌ مِنْهُ خَلَقْتَنِي مِنْ نَارٍ وَخَلَقْتَهُ مِنْ طِينٍ",
-    "words": [
-      {
-        "word": "قَالَ",
-        "role": "fi'l",
-        "case": "mabni",
-        "explanation": "Perfekt 3ms, Wurzel ق-و-ل (hohl)"
-      },
-      {
-        "word": "أَنَا",
-        "role": "mubtada",
-        "case": "mabni",
-        "explanation": "Pronomen 1sg als Mubtada. Indeklinabel"
-      },
-      {
-        "word": "خَيْرٌ",
-        "role": "khabar",
-        "case": "raf'",
-        "explanation": "Khabar. Elativ (Komparativ), Nominativ mit Tanwin"
-      },
-      {
-        "word": "مِنْهُ",
-        "role": "majrur",
-        "case": "mabni",
-        "explanation": "مِنْ Präposition + Suffix. Komparativ-Ergänzung"
-      },
-      {
-        "word": "خَلَقْتَنِي",
-        "role": "fi'l",
-        "case": "mabni",
-        "explanation": "Perfekt 2ms + Objektsuffix ني. Begründungssatz"
-      },
-      {
-        "word": "مِنْ نَارٍ",
-        "role": "majrur",
-        "case": "jarr",
-        "explanation": "مِنْ Präposition + نار im Genitiv mit Tanwin"
-      },
-      {
-        "word": "وَخَلَقْتَهُ",
-        "role": "fi'l",
-        "case": "mabni",
-        "explanation": "وَ + Perfekt 2ms + Objektsuffix ه"
-      },
-      {
-        "word": "مِنْ طِينٍ",
-        "role": "majrur",
-        "case": "jarr",
-        "explanation": "مِنْ Präposition + طين im Genitiv mit Tanwin"
-      }
-    ],
-    "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=7&verse=12"
-  },
-  {
-    "ref": "7:54",
-    "arabic": "إِنَّ رَبَّكُمُ اللَّهُ الَّذِي خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ فِي سِتَّةِ أَيَّامٍ",
-    "words": [
-      {
-        "word": "إِنَّ",
-        "role": "harf",
-        "case": "mabni",
-        "explanation": "Bekräftigungspartikel"
-      },
-      {
-        "word": "رَبَّكُمُ",
-        "role": "ism_inna",
-        "case": "nasb",
-        "explanation": "Ism von إنّ. Fatha + Possessivsuffix"
-      },
-      {
-        "word": "اللَّهُ",
-        "role": "khabar_inna",
-        "case": "raf'",
-        "explanation": "Khabar von إنّ. Damma"
-      },
-      {
-        "word": "الَّذِي",
-        "role": "sifa",
-        "case": "mabni",
-        "explanation": "Relativpronomen als Attribut zu اللّه oder als zweites Khabar"
-      },
-      {
-        "word": "خَلَقَ",
-        "role": "fi'l",
-        "case": "mabni",
-        "explanation": "Perfekt 3ms, Wurzel خ-ل-ق. Relativsatz"
-      },
-      {
-        "word": "السَّمَاوَاتِ",
-        "role": "maf'ul_bihi",
-        "case": "nasb",
-        "explanation": "Direktes Objekt. Kasra als Akkusativzeichen (gesunder fem. Plural)"
-      },
-      {
-        "word": "وَالْأَرْضَ",
-        "role": "atf",
-        "case": "nasb",
-        "explanation": "وَ + koordiniertes Objekt. Fatha"
-      },
-      {
-        "word": "فِي سِتَّةِ",
-        "role": "majrur",
-        "case": "jarr",
-        "explanation": "في + سِتّة im Genitiv. Kasra. Erstes Glied der Idafa"
-      },
-      {
-        "word": "أَيَّامٍ",
-        "role": "mudaf_ilayh",
-        "case": "jarr",
-        "explanation": "Mudaf ilayhi. Genitiv mit Tanwin"
-      }
-    ],
-    "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=7&verse=54"
-  },
-  {
-    "ref": "9:40",
-    "arabic": "إِذْ يَقُولُ لِصَاحِبِهِ لَا تَحْزَنْ إِنَّ اللَّهَ مَعَنَا",
-    "words": [
-      {
-        "word": "إِذْ",
-        "role": "zarf",
-        "case": "mabni",
-        "explanation": "Zarf Zaman, indeklinabel"
-      },
-      {
-        "word": "يَقُولُ",
-        "role": "fi'l",
-        "case": "raf'",
-        "explanation": "Imperfekt 3ms, Wurzel ق-و-ل. Damma"
-      },
-      {
-        "word": "لِصَاحِبِهِ",
-        "role": "majrur",
-        "case": "jarr",
-        "explanation": "لِ Präposition + صاحب im Genitiv (Kasra) + Possessivsuffix"
-      },
-      {
-        "word": "لَا",
-        "role": "harf",
-        "case": "mabni",
-        "explanation": "Prohibitivpartikel"
-      },
-      {
-        "word": "تَحْزَنْ",
-        "role": "fi'l",
-        "case": "jazm",
-        "explanation": "Imperfekt 2ms, Wurzel ح-ز-ن. Jazm durch لا الناهية: Sukun"
-      },
-      {
-        "word": "إِنَّ",
-        "role": "harf",
-        "case": "mabni",
-        "explanation": "Bekräftigungspartikel"
-      },
-      {
-        "word": "اللَّهَ",
-        "role": "ism_inna",
-        "case": "nasb",
-        "explanation": "Ism von إنّ. Fatha"
-      },
-      {
-        "word": "مَعَنَا",
-        "role": "khabar_inna",
-        "case": "mabni",
-        "explanation": "Khabar von إنّ. مع Zarf Makan + Pronominalsuffix نا"
-      }
-    ],
-    "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=9&verse=40"
-  },
-  {
-    "ref": "11:1",
-    "arabic": "كِتَابٌ أُحْكِمَتْ آيَاتُهُ ثُمَّ فُصِّلَتْ",
-    "words": [
-      {
-        "word": "كِتَابٌ",
-        "role": "khabar",
-        "case": "raf'",
-        "explanation": "Khabar eines impliziten Mubtada (هذا). Damma mit Tanwin"
-      },
-      {
-        "word": "أُحْكِمَتْ",
-        "role": "fi'l",
-        "case": "mabni",
-        "explanation": "Perfekt Passiv 3fs, Form IV von ح-ك-م. Relativsatz (Sifa)"
-      },
-      {
-        "word": "آيَاتُهُ",
-        "role": "na'ib_fail",
-        "case": "raf'",
-        "explanation": "Na'ib al-Fa'il. Damma + Possessivsuffix"
-      },
-      {
-        "word": "ثُمَّ",
-        "role": "harf",
-        "case": "mabni",
-        "explanation": "Konjunktion der Folge (dann)"
-      },
-      {
-        "word": "فُصِّلَتْ",
-        "role": "fi'l",
-        "case": "mabni",
-        "explanation": "Perfekt Passiv 3fs, Form II von ف-ص-ل. Na'ib al-Fa'il ist implizit (آياته)"
-      }
-    ],
-    "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=11&verse=1"
-  },
-  {
-    "ref": "12:2",
-    "arabic": "إِنَّا أَنْزَلْنَاهُ قُرْآنًا عَرَبِيًّا لَعَلَّكُمْ تَعْقِلُونَ",
-    "words": [
-      {
-        "word": "إِنَّا",
-        "role": "harf",
-        "case": "mabni",
-        "explanation": "إنّ + نا (Ism von إنّ, Pronomen 1pl im Akkusativ)"
-      },
-      {
-        "word": "أَنْزَلْنَاهُ",
-        "role": "khabar_inna",
-        "case": "mabni",
-        "explanation": "Khabar von إنّ als Verbalsatz. Perfekt 1pl, Form IV + Objektsuffix"
-      },
-      {
-        "word": "قُرْآنًا",
-        "role": "hal",
-        "case": "nasb",
-        "explanation": "Hal (Zustandsangabe) zum Objektsuffix ه. Fatha mit Tanwin"
-      },
-      {
-        "word": "عَرَبِيًّا",
-        "role": "sifa",
-        "case": "nasb",
-        "explanation": "Attribut zu قرآنا. Kongruenz: indefinit, Akkusativ. Nisba-Adjektiv"
-      },
-      {
-        "word": "لَعَلَّكُمْ",
-        "role": "harf",
-        "case": "mabni",
-        "explanation": "لعلّ Partikel (Schwester von إنّ) + كم als Ism (Akkusativ)"
-      },
-      {
-        "word": "تَعْقِلُونَ",
-        "role": "khabar_inna",
-        "case": "raf'",
-        "explanation": "Khabar von لعلّ als Verbalsatz. Imperfekt 2mp, Raf' durch Nun"
-      }
-    ],
-    "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=12&verse=2"
-  },
-  {
-    "ref": "13:3",
-    "arabic": "وَهُوَ الَّذِي مَدَّ الْأَرْضَ وَجَعَلَ فِيهَا رَوَاسِيَ وَأَنْهَارًا",
-    "words": [
-      {
-        "word": "وَهُوَ",
-        "role": "mubtada",
-        "case": "mabni",
-        "explanation": "وَ + Pronomen 3ms als Mubtada"
-      },
-      {
-        "word": "الَّذِي",
-        "role": "khabar",
-        "case": "mabni",
-        "explanation": "Relativpronomen als Khabar"
-      },
-      {
-        "word": "مَدَّ",
-        "role": "fi'l",
-        "case": "mabni",
-        "explanation": "Perfekt 3ms, Wurzel م-د-د (verdoppelt). Relativsatz"
-      },
-      {
-        "word": "الْأَرْضَ",
-        "role": "maf'ul_bihi",
-        "case": "nasb",
-        "explanation": "Direktes Objekt. Fatha"
-      },
-      {
-        "word": "وَجَعَلَ",
-        "role": "fi'l",
-        "case": "mabni",
-        "explanation": "وَ + Perfekt 3ms, Wurzel ج-ع-ل"
-      },
-      {
-        "word": "فِيهَا",
-        "role": "majrur",
-        "case": "mabni",
-        "explanation": "في + Pronominalsuffix"
-      },
-      {
-        "word": "رَوَاسِيَ",
-        "role": "maf'ul_bihi",
-        "case": "nasb",
-        "explanation": "Direktes Objekt. Fatha ohne Tanwin (Diptot, gebrochener Plural)"
-      },
-      {
-        "word": "وَأَنْهَارًا",
-        "role": "atf",
-        "case": "nasb",
-        "explanation": "وَ + koordiniertes Objekt. Fatha mit Tanwin"
-      }
-    ],
-    "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=13&verse=3"
-  },
-  {
-    "ref": "14:7",
-    "arabic": "لَئِنْ شَكَرْتُمْ لَأَزِيدَنَّكُمْ وَلَئِنْ كَفَرْتُمْ إِنَّ عَذَابِي لَشَدِيدٌ",
-    "words": [
-      {
-        "word": "لَئِنْ",
-        "role": "harf",
-        "case": "mabni",
-        "explanation": "لَ Schwurpartikel + إنْ Bedingungspartikel"
-      },
-      {
-        "word": "شَكَرْتُمْ",
-        "role": "fi'l",
-        "case": "mabni",
-        "explanation": "Perfekt 2mp, Wurzel ش-ك-ر. Bedingungssatz (Shart)"
-      },
-      {
-        "word": "لَأَزِيدَنَّكُمْ",
-        "role": "fi'l",
-        "case": "mabni",
-        "explanation": "لَ Schwur-Lam + Imperfekt 1sg + Nun at-Tawkid (Betonungsnun) + Suffix. Jawab al-Qasam"
-      },
-      {
-        "word": "وَلَئِنْ",
-        "role": "harf",
-        "case": "mabni",
-        "explanation": "وَ + لَ Schwurpartikel + إنْ Bedingungspartikel"
-      },
-      {
-        "word": "كَفَرْتُمْ",
-        "role": "fi'l",
-        "case": "mabni",
-        "explanation": "Perfekt 2mp, Wurzel ك-ف-ر. Zweiter Bedingungssatz"
-      },
-      {
-        "word": "إِنَّ",
-        "role": "harf",
-        "case": "mabni",
-        "explanation": "Bekräftigungspartikel. Jawab"
-      },
-      {
-        "word": "عَذَابِي",
-        "role": "ism_inna",
-        "case": "nasb",
-        "explanation": "Ism von إنّ. Akkusativ (geschätzt wegen Pronominalsuffix ي)"
-      },
-      {
-        "word": "لَشَدِيدٌ",
-        "role": "khabar_inna",
-        "case": "raf'",
-        "explanation": "لَ Betonungs-Lam + Khabar von إنّ. Nominativ mit Tanwin"
-      }
-    ],
-    "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=14&verse=7"
-  },
-  {
-    "ref": "16:90",
-    "arabic": "إِنَّ اللَّهَ يَأْمُرُ بِالْعَدْلِ وَالْإِحْسَانِ وَإِيتَاءِ ذِي الْقُرْبَىٰ",
-    "words": [
-      {
-        "word": "إِنَّ",
-        "role": "harf",
-        "case": "mabni",
-        "explanation": "Bekräftigungspartikel"
-      },
-      {
-        "word": "اللَّهَ",
-        "role": "ism_inna",
-        "case": "nasb",
-        "explanation": "Ism von إنّ. Fatha"
-      },
-      {
-        "word": "يَأْمُرُ",
-        "role": "khabar_inna",
-        "case": "raf'",
-        "explanation": "Khabar von إنّ als Verbalsatz. Imperfekt 3ms, Damma"
-      },
-      {
-        "word": "بِالْعَدْلِ",
-        "role": "majrur",
-        "case": "jarr",
-        "explanation": "بِ Präposition + العدل im Genitiv. Kasra"
-      },
-      {
-        "word": "وَالْإِحْسَانِ",
-        "role": "atf",
-        "case": "jarr",
-        "explanation": "وَ + koordiniert im Genitiv. Kasra"
-      },
-      {
-        "word": "وَإِيتَاءِ",
-        "role": "atf",
-        "case": "jarr",
-        "explanation": "وَ + Masdar von Form IV (أ-ت-ي), Genitiv. Kasra. Erstes Glied der Idafa"
-      },
-      {
-        "word": "ذِي",
-        "role": "mudaf_ilayh",
-        "case": "jarr",
-        "explanation": "Mudaf ilayhi. Genitiv angezeigt durch ي (von den fünf Nomina). Erstes Glied der Idafa"
-      },
-      {
-        "word": "الْقُرْبَىٰ",
-        "role": "mudaf_ilayh",
-        "case": "jarr",
-        "explanation": "Mudaf ilayhi. Genitiv geschätzt auf Alif Maqsura"
-      }
-    ],
-    "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=16&verse=90"
-  },
-  {
-    "ref": "18:10",
-    "arabic": "رَبَّنَا آتِنَا مِنْ لَدُنْكَ رَحْمَةً وَهَيِّئْ لَنَا مِنْ أَمْرِنَا رَشَدًا",
-    "words": [
-      {
-        "word": "رَبَّنَا",
-        "role": "munada",
-        "case": "nasb",
-        "explanation": "Munada (Vokativ) mit Idafa. Akkusativ (Fatha) + Possessivsuffix"
-      },
-      {
-        "word": "آتِنَا",
-        "role": "fi'l",
-        "case": "mabni",
-        "explanation": "Imperativ 2ms, Form IV von أ-ت-ي + Objektsuffix نا"
-      },
-      {
-        "word": "مِنْ لَدُنْكَ",
-        "role": "majrur",
-        "case": "jarr",
-        "explanation": "مِنْ + لدن (Zarf Makan, mabni) + Possessivsuffix"
-      },
-      {
-        "word": "رَحْمَةً",
-        "role": "maf'ul_bihi",
-        "case": "nasb",
-        "explanation": "Direktes Objekt. Fatha mit Tanwin"
-      },
-      {
-        "word": "وَهَيِّئْ",
-        "role": "fi'l",
-        "case": "mabni",
-        "explanation": "وَ + Imperativ 2ms, Form II von ه-ي-أ"
-      },
-      {
-        "word": "لَنَا",
-        "role": "majrur",
-        "case": "mabni",
-        "explanation": "لِ Präposition + Pronominalsuffix"
-      },
-      {
-        "word": "مِنْ أَمْرِنَا",
-        "role": "majrur",
-        "case": "jarr",
-        "explanation": "مِنْ + أمر im Genitiv + Possessivsuffix"
-      },
-      {
-        "word": "رَشَدًا",
-        "role": "maf'ul_bihi",
-        "case": "nasb",
-        "explanation": "Direktes Objekt. Fatha mit Tanwin"
-      }
-    ],
-    "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=18&verse=10"
-  },
-  {
-    "ref": "19:30",
-    "arabic": "قَالَ إِنِّي عَبْدُ اللَّهِ آتَانِيَ الْكِتَابَ وَجَعَلَنِي نَبِيًّا",
-    "words": [
-      {
-        "word": "قَالَ",
-        "role": "fi'l",
-        "case": "mabni",
-        "explanation": "Perfekt 3ms, Wurzel ق-و-ل (hohl)"
-      },
-      {
-        "word": "إِنِّي",
-        "role": "harf",
-        "case": "mabni",
-        "explanation": "إنّ + ي als Ism von إنّ (Akkusativ)"
-      },
-      {
-        "word": "عَبْدُ",
-        "role": "khabar_inna",
-        "case": "raf'",
-        "explanation": "Khabar von إنّ. Damma. Erstes Glied der Idafa"
-      },
-      {
-        "word": "اللَّهِ",
-        "role": "mudaf_ilayh",
-        "case": "jarr",
-        "explanation": "Mudaf ilayhi. Kasra"
-      },
-      {
-        "word": "آتَانِيَ",
-        "role": "fi'l",
-        "case": "mabni",
-        "explanation": "Perfekt 3ms, Form IV von أ-ت-ي + Objektsuffix ني"
-      },
-      {
-        "word": "الْكِتَابَ",
-        "role": "maf'ul_bihi",
-        "case": "nasb",
-        "explanation": "Zweites Objekt von آتى (doppelter Akkusativ). Fatha"
-      },
-      {
-        "word": "وَجَعَلَنِي",
-        "role": "fi'l",
-        "case": "mabni",
-        "explanation": "وَ + Perfekt 3ms + Objektsuffix ني (erstes Objekt)"
-      },
-      {
-        "word": "نَبِيًّا",
-        "role": "maf'ul_bihi",
-        "case": "nasb",
-        "explanation": "Zweites Objekt von جعل. Fatha mit Tanwin"
-      }
-    ],
-    "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=19&verse=30"
-  },
-  {
-    "ref": "20:25",
-    "arabic": "قَالَ رَبِّ اشْرَحْ لِي صَدْرِي وَيَسِّرْ لِي أَمْرِي",
-    "words": [
-      {
-        "word": "قَالَ",
-        "role": "fi'l",
-        "case": "mabni",
-        "explanation": "Perfekt 3ms, Wurzel ق-و-ل"
-      },
-      {
-        "word": "رَبِّ",
-        "role": "munada",
-        "case": "mabni",
-        "explanation": "Munada, mabni auf Kasra wegen Possessivsuffix (ي weggelassen). Idafa mit implizitem ي"
-      },
-      {
-        "word": "اشْرَحْ",
-        "role": "fi'l",
-        "case": "mabni",
-        "explanation": "Imperativ 2ms, Wurzel ش-ر-ح"
-      },
-      {
-        "word": "لِي",
-        "role": "majrur",
-        "case": "mabni",
-        "explanation": "لِ Präposition + Pronominalsuffix ي"
-      },
-      {
-        "word": "صَدْرِي",
-        "role": "maf'ul_bihi",
-        "case": "nasb",
-        "explanation": "Direktes Objekt. Akkusativ (geschätzt wegen Suffix)"
-      },
-      {
-        "word": "وَيَسِّرْ",
-        "role": "fi'l",
-        "case": "mabni",
-        "explanation": "وَ + Imperativ 2ms, Form II von ي-س-ر"
-      },
-      {
-        "word": "لِي",
-        "role": "majrur",
-        "case": "mabni",
-        "explanation": "لِ Präposition + Suffix"
-      },
-      {
-        "word": "أَمْرِي",
-        "role": "maf'ul_bihi",
-        "case": "nasb",
-        "explanation": "Direktes Objekt. Akkusativ (geschätzt wegen Suffix)"
-      }
-    ],
-    "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=20&verse=25"
-  },
-  {
-    "ref": "21:30",
-    "arabic": "أَوَلَمْ يَرَ الَّذِينَ كَفَرُوا أَنَّ السَّمَاوَاتِ وَالْأَرْضَ كَانَتَا رَتْقًا",
-    "words": [
-      {
-        "word": "أَوَلَمْ",
-        "role": "harf",
-        "case": "mabni",
-        "explanation": "أ Fragepartikel + وَ Konjunktion + لم Jazm-Partikel"
-      },
-      {
-        "word": "يَرَ",
-        "role": "fi'l",
-        "case": "jazm",
-        "explanation": "Imperfekt 3ms, Wurzel ر-أ-ي (schwach). Jazm: Wegfall der ا (Alif)"
-      },
-      {
-        "word": "الَّذِينَ",
-        "role": "fail",
-        "case": "mabni",
-        "explanation": "Relativpronomen als Subjekt. Indeklinabel"
-      },
-      {
-        "word": "كَفَرُوا",
-        "role": "fi'l",
-        "case": "mabni",
-        "explanation": "Perfekt 3mp. Relativsatz"
-      },
-      {
-        "word": "أَنَّ",
-        "role": "harf",
-        "case": "mabni",
-        "explanation": "Masdar-Partikel, regiert Ism (Nasb) + Khabar"
-      },
-      {
-        "word": "السَّمَاوَاتِ",
-        "role": "ism_inna",
-        "case": "nasb",
-        "explanation": "Ism von أنّ. Kasra als Akkusativzeichen (gesunder fem. Plural)"
-      },
-      {
-        "word": "وَالْأَرْضَ",
-        "role": "atf",
-        "case": "nasb",
-        "explanation": "وَ + koordiniert zu السماوات. Fatha"
-      },
-      {
-        "word": "كَانَتَا",
-        "role": "fi'l",
-        "case": "mabni",
-        "explanation": "كان Perfekt Dual 3f. Kopulaverb. Khabar-Satz von أنّ"
-      },
-      {
-        "word": "رَتْقًا",
-        "role": "khabar_kana",
-        "case": "nasb",
-        "explanation": "Khabar von كان. Fatha mit Tanwin"
-      }
-    ],
-    "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=21&verse=30"
-  },
-  {
-    "ref": "24:35",
-    "arabic": "اللَّهُ نُورُ السَّمَاوَاتِ وَالْأَرْضِ",
-    "words": [
-      {
-        "word": "اللَّهُ",
-        "role": "mubtada",
-        "case": "raf'",
-        "explanation": "Mubtada. Damma"
-      },
-      {
-        "word": "نُورُ",
-        "role": "khabar",
-        "case": "raf'",
-        "explanation": "Khabar. Damma. Erstes Glied der Idafa"
-      },
-      {
-        "word": "السَّمَاوَاتِ",
-        "role": "mudaf_ilayh",
-        "case": "jarr",
-        "explanation": "Mudaf ilayhi. Kasra (gesunder fem. Plural)"
-      },
-      {
-        "word": "وَالْأَرْضِ",
-        "role": "atf",
-        "case": "jarr",
-        "explanation": "وَ + koordiniert im Genitiv. Kasra"
-      }
-    ],
-    "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=24&verse=35"
-  },
-  {
-    "ref": "33:56",
-    "arabic": "إِنَّ اللَّهَ وَمَلَائِكَتَهُ يُصَلُّونَ عَلَى النَّبِيِّ",
-    "words": [
-      {
-        "word": "إِنَّ",
-        "role": "harf",
-        "case": "mabni",
-        "explanation": "Bekräftigungspartikel"
-      },
-      {
-        "word": "اللَّهَ",
-        "role": "ism_inna",
-        "case": "nasb",
-        "explanation": "Ism von إنّ. Fatha"
-      },
-      {
-        "word": "وَمَلَائِكَتَهُ",
-        "role": "atf",
-        "case": "nasb",
-        "explanation": "وَ + koordiniert zum Ism von إنّ. Fatha + Possessivsuffix"
-      },
-      {
-        "word": "يُصَلُّونَ",
-        "role": "khabar_inna",
-        "case": "raf'",
-        "explanation": "Khabar von إنّ als Verbalsatz. Imperfekt 3mp, Raf' durch Nun"
-      },
-      {
-        "word": "عَلَى النَّبِيِّ",
-        "role": "majrur",
-        "case": "jarr",
-        "explanation": "على + النبيّ im Genitiv. Kasra"
-      }
-    ],
-    "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=33&verse=56"
-  },
-  {
-    "ref": "36:82",
-    "arabic": "إِنَّمَا أَمْرُهُ إِذَا أَرَادَ شَيْئًا أَنْ يَقُولَ لَهُ كُنْ فَيَكُونُ",
-    "words": [
-      {
-        "word": "إِنَّمَا",
-        "role": "harf",
-        "case": "mabni",
-        "explanation": "Beschraenkungspartikel (Hasr): إنّ + ما الكافة"
-      },
-      {
-        "word": "أَمْرُهُ",
-        "role": "mubtada",
-        "case": "raf'",
-        "explanation": "Mubtada. Damma + Possessivsuffix"
-      },
-      {
-        "word": "إِذَا",
-        "role": "zarf",
-        "case": "mabni",
-        "explanation": "Bedingungspartikel (Zarf Zaman)"
-      },
-      {
-        "word": "أَرَادَ",
-        "role": "fi'l",
-        "case": "mabni",
-        "explanation": "Perfekt 3ms, Form IV von ر-و-د. Bedingungssatz"
-      },
-      {
-        "word": "شَيْئًا",
-        "role": "maf'ul_bihi",
-        "case": "nasb",
-        "explanation": "Direktes Objekt. Fatha mit Tanwin"
-      },
-      {
-        "word": "أَنْ",
-        "role": "harf",
-        "case": "mabni",
-        "explanation": "Masdariyya-Partikel. أن + يقول = Masdar als Khabar"
-      },
-      {
-        "word": "يَقُولَ",
-        "role": "fi'l",
-        "case": "nasb",
-        "explanation": "Imperfekt 3ms, Nasb durch أن. Fatha"
-      },
-      {
-        "word": "لَهُ",
-        "role": "majrur",
-        "case": "mabni",
-        "explanation": "لِ + Pronominalsuffix"
-      },
-      {
-        "word": "كُنْ",
-        "role": "fi'l",
-        "case": "mabni",
-        "explanation": "Imperativ 2ms von كان (hohl). Tamme Form: werde/sei"
-      },
-      {
-        "word": "فَيَكُونُ",
-        "role": "fi'l",
-        "case": "raf'",
-        "explanation": "فَ + Imperfekt 3ms, Wurzel ك-و-ن. Raf' (Damma). Ergebnis"
-      }
-    ],
-    "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=36&verse=82"
-  },
-  {
-    "ref": "39:53",
-    "arabic": "قُلْ يَا عِبَادِيَ الَّذِينَ أَسْرَفُوا عَلَىٰ أَنْفُسِهِمْ لَا تَقْنَطُوا مِنْ رَحْمَةِ اللَّهِ",
-    "words": [
-      {
-        "word": "قُلْ",
-        "role": "fi'l",
-        "case": "mabni",
-        "explanation": "Imperativ 2ms, Wurzel ق-و-ل"
-      },
-      {
-        "word": "يَا",
-        "role": "harf",
-        "case": "mabni",
-        "explanation": "Vokativpartikel"
-      },
-      {
-        "word": "عِبَادِيَ",
-        "role": "munada",
-        "case": "nasb",
-        "explanation": "Munada (Mudaf). Akkusativ (geschätzt) + Possessivsuffix ي"
-      },
-      {
-        "word": "الَّذِينَ",
-        "role": "sifa",
-        "case": "mabni",
-        "explanation": "Relativpronomen als Attribut. Indeklinabel, syntaktisch Akkusativ"
-      },
-      {
-        "word": "أَسْرَفُوا",
-        "role": "fi'l",
-        "case": "mabni",
-        "explanation": "Perfekt 3mp, Form IV von س-ر-ف. Relativsatz"
-      },
-      {
-        "word": "عَلَىٰ أَنْفُسِهِمْ",
-        "role": "majrur",
-        "case": "jarr",
-        "explanation": "على + أنفس im Genitiv (Kasra) + Suffix"
-      },
-      {
-        "word": "لَا",
-        "role": "harf",
-        "case": "mabni",
-        "explanation": "Prohibitivpartikel (لا الناهية)"
-      },
-      {
-        "word": "تَقْنَطُوا",
-        "role": "fi'l",
-        "case": "jazm",
-        "explanation": "Imperfekt 2mp, Wurzel ق-ن-ط. Jazm: Wegfall der Nun"
-      },
-      {
-        "word": "مِنْ رَحْمَةِ",
-        "role": "majrur",
-        "case": "jarr",
-        "explanation": "مِنْ + رحمة im Genitiv. Kasra. Erstes Glied der Idafa"
-      },
-      {
-        "word": "اللَّهِ",
-        "role": "mudaf_ilayh",
-        "case": "jarr",
-        "explanation": "Mudaf ilayhi. Kasra"
-      }
-    ],
-    "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=39&verse=53"
-  },
-  {
-    "ref": "55:26",
-    "arabic": "كُلُّ مَنْ عَلَيْهَا فَانٍ",
-    "words": [
-      {
-        "word": "كُلُّ",
-        "role": "mubtada",
-        "case": "raf'",
-        "explanation": "Mubtada. Damma. Erstes Glied der Idafa"
-      },
-      {
-        "word": "مَنْ",
-        "role": "mudaf_ilayh",
-        "case": "mabni",
-        "explanation": "Relativpronomen als Mudaf ilayhi. Indeklinabel, syntaktisch Genitiv"
-      },
-      {
-        "word": "عَلَيْهَا",
-        "role": "majrur",
-        "case": "mabni",
-        "explanation": "على + Pronominalsuffix. Jarr wa-Majrur als Relativsatz (Sila)"
-      },
-      {
-        "word": "فَانٍ",
-        "role": "khabar",
-        "case": "raf'",
-        "explanation": "Khabar. Nominativ (Damma geschätzt, da Manqus: ي fällt mit Tanwin weg). Aktives Partizip von ف-ن-ي"
-      }
-    ],
-    "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=55&verse=26"
-  },
-  {
-    "ref": "59:22",
-    "arabic": "هُوَ اللَّهُ الَّذِي لَا إِلَٰهَ إِلَّا هُوَ عَالِمُ الْغَيْبِ وَالشَّهَادَةِ",
-    "words": [
-      {
-        "word": "هُوَ",
-        "role": "mubtada",
-        "case": "mabni",
-        "explanation": "Pronomen 3ms als Mubtada"
-      },
-      {
-        "word": "اللَّهُ",
-        "role": "khabar",
-        "case": "raf'",
-        "explanation": "Khabar (oder Badal). Damma"
-      },
-      {
-        "word": "الَّذِي",
-        "role": "sifa",
-        "case": "mabni",
-        "explanation": "Relativpronomen als Attribut zu اللّه"
-      },
-      {
-        "word": "لَا",
-        "role": "harf",
-        "case": "mabni",
-        "explanation": "لا النافية للجنس. Generische Negation"
-      },
-      {
-        "word": "إِلَٰهَ",
-        "role": "ism_inna",
-        "case": "nasb",
-        "explanation": "Ism von لا. Mabni auf Fatha (ohne Tanwin)"
-      },
-      {
-        "word": "إِلَّا",
-        "role": "harf",
-        "case": "mabni",
-        "explanation": "Ausnahmepartikel"
-      },
-      {
-        "word": "هُوَ",
-        "role": "badal",
-        "case": "raf'",
-        "explanation": "Badal (Ersetzung). Syntaktisch Nominativ"
-      },
-      {
-        "word": "عَالِمُ",
-        "role": "badal",
-        "case": "raf'",
-        "explanation": "Badal zu اللّه oder weiteres Khabar. Damma. Erstes Glied der Idafa"
-      },
-      {
-        "word": "الْغَيْبِ",
-        "role": "mudaf_ilayh",
-        "case": "jarr",
-        "explanation": "Mudaf ilayhi. Kasra"
-      },
-      {
-        "word": "وَالشَّهَادَةِ",
-        "role": "atf",
-        "case": "jarr",
-        "explanation": "وَ + koordiniert im Genitiv. Kasra"
-      }
-    ],
-    "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=59&verse=22"
-  }
-]
+  "exercises": [
+    {
+      "ref": "2:3",
+      "arabic": "الَّذِينَ يُؤْمِنُونَ بِالْغَيْبِ وَيُقِيمُونَ الصَّلَاةَ",
+      "words": [
+        {
+          "word": "الَّذِينَ",
+          "role": "sifa",
+          "case": "mabni",
+          "explanation": "Relativpronomen als Attribut zu المتقين (1:2). Indeklinabel, syntaktisch im Genitiv"
+        },
+        {
+          "word": "يُؤْمِنُونَ",
+          "role": "fi'l",
+          "case": "mabni",
+          "explanation": "Imperfekt 3mp, Indikativ. Die Nun-Endung ist Zeichen des Raf'. Relativsatz (Sila)"
+        },
+        {
+          "word": "بِالْغَيْبِ",
+          "role": "majrur",
+          "case": "jarr",
+          "explanation": "بِ Präposition + الغيب im Genitiv (Kasra)"
+        },
+        {
+          "word": "وَيُقِيمُونَ",
+          "role": "fi'l",
+          "case": "mabni",
+          "explanation": "Konjunktion وَ + Imperfekt 3mp, Form IV von ق-و-م. Koordiniert mit يؤمنون"
+        },
+        {
+          "word": "الصَّلَاةَ",
+          "role": "maf'ul_bihi",
+          "case": "nasb",
+          "explanation": "Direktes Objekt von يقيمون. Fatha als Akkusativzeichen"
+        }
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=3"
+    },
+    {
+      "ref": "2:10",
+      "arabic": "فِي قُلُوبِهِمْ مَرَضٌ فَزَادَهُمُ اللَّهُ مَرَضًا",
+      "words": [
+        {
+          "word": "فِي",
+          "role": "harf",
+          "case": "mabni",
+          "explanation": "Präposition, regiert Genitiv"
+        },
+        {
+          "word": "قُلُوبِهِمْ",
+          "role": "majrur",
+          "case": "jarr",
+          "explanation": "Nach في im Genitiv. Kasra + Possessivsuffix. Jarr wa-Majrur als vorangestelltes Khabar"
+        },
+        {
+          "word": "مَرَضٌ",
+          "role": "mubtada",
+          "case": "raf'",
+          "explanation": "Mubtada (nachgestellt). Damma mit Tanwin"
+        },
+        {
+          "word": "فَزَادَهُمُ",
+          "role": "fi'l",
+          "case": "mabni",
+          "explanation": "فَ Konjunktion + Perfekt 3ms von ز-ي-د + Objektsuffix هم (1. Maf'ul bihi)"
+        },
+        {
+          "word": "اللَّهُ",
+          "role": "fail",
+          "case": "raf'",
+          "explanation": "Subjekt von زاد. Damma"
+        },
+        {
+          "word": "مَرَضًا",
+          "role": "maf'ul_bihi",
+          "case": "nasb",
+          "explanation": "Zweites direktes Objekt von زاد (doppelter Akkusativ). Fatha mit Tanwin"
+        }
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=10"
+    },
+    {
+      "ref": "2:16",
+      "arabic": "أُولَٰئِكَ الَّذِينَ اشْتَرَوُا الضَّلَالَةَ بِالْهُدَىٰ",
+      "words": [
+        {
+          "word": "أُولَٰئِكَ",
+          "role": "mubtada",
+          "case": "mabni",
+          "explanation": "Demonstrativpronomen (Ferne, Plural) als Mubtada. Indeklinabel, syntaktisch Nominativ"
+        },
+        {
+          "word": "الَّذِينَ",
+          "role": "khabar",
+          "case": "mabni",
+          "explanation": "Relativpronomen als Khabar zum Mubtada. Indeklinabel"
+        },
+        {
+          "word": "اشْتَرَوُا",
+          "role": "fi'l",
+          "case": "mabni",
+          "explanation": "Perfekt 3mp, Form VIII von ش-ر-ي. Relativsatz (Sila)"
+        },
+        {
+          "word": "الضَّلَالَةَ",
+          "role": "maf'ul_bihi",
+          "case": "nasb",
+          "explanation": "Direktes Objekt. Fatha"
+        },
+        {
+          "word": "بِالْهُدَىٰ",
+          "role": "majrur",
+          "case": "jarr",
+          "explanation": "بِ Präposition + الهدى im Genitiv (Kasra geschätzt auf Alif Maqsura)"
+        }
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=16"
+    },
+    {
+      "ref": "2:22",
+      "arabic": "الَّذِي جَعَلَ لَكُمُ الْأَرْضَ فِرَاشًا وَالسَّمَاءَ بِنَاءً",
+      "words": [
+        {
+          "word": "الَّذِي",
+          "role": "sifa",
+          "case": "mabni",
+          "explanation": "Relativpronomen als Attribut zu ربكم (2:21). Indeklinabel"
+        },
+        {
+          "word": "جَعَلَ",
+          "role": "fi'l",
+          "case": "mabni",
+          "explanation": "Perfekt 3ms, Wurzel ج-ع-ل. Relativsatz (Sila)"
+        },
+        {
+          "word": "لَكُمُ",
+          "role": "majrur",
+          "case": "mabni",
+          "explanation": "لِ Präposition + Pronominalsuffix. Jarr wa-Majrur als Maf'ul lahu"
+        },
+        {
+          "word": "الْأَرْضَ",
+          "role": "maf'ul_bihi",
+          "case": "nasb",
+          "explanation": "Erstes Objekt von جعل (doppelter Akkusativ). Fatha"
+        },
+        {
+          "word": "فِرَاشًا",
+          "role": "maf'ul_bihi",
+          "case": "nasb",
+          "explanation": "Zweites Objekt von جعل. Fatha mit Tanwin"
+        },
+        {
+          "word": "وَالسَّمَاءَ",
+          "role": "maf'ul_bihi",
+          "case": "nasb",
+          "explanation": "وَ Konjunktion + erstes Objekt des zweiten جعل (implizit). Fatha"
+        },
+        {
+          "word": "بِنَاءً",
+          "role": "maf'ul_bihi",
+          "case": "nasb",
+          "explanation": "Zweites Objekt des zweiten (impliziten) جعل. Fatha mit Tanwin"
+        }
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=22"
+    },
+    {
+      "ref": "2:30",
+      "arabic": "إِنِّي جَاعِلٌ فِي الْأَرْضِ خَلِيفَةً",
+      "words": [
+        {
+          "word": "إِنِّي",
+          "role": "harf",
+          "case": "mabni",
+          "explanation": "إنَّ Bekräftigungspartikel + Pronominalsuffix ي als Ism von إنّ (Akkusativ)"
+        },
+        {
+          "word": "جَاعِلٌ",
+          "role": "khabar_inna",
+          "case": "raf'",
+          "explanation": "Khabar von إنّ. Aktives Partizip, Nominativ mit Tanwin"
+        },
+        {
+          "word": "فِي",
+          "role": "harf",
+          "case": "mabni",
+          "explanation": "Präposition"
+        },
+        {
+          "word": "الْأَرْضِ",
+          "role": "majrur",
+          "case": "jarr",
+          "explanation": "Nach في im Genitiv. Kasra"
+        },
+        {
+          "word": "خَلِيفَةً",
+          "role": "maf'ul_bihi",
+          "case": "nasb",
+          "explanation": "Objekt des Partizips جاعل (es regiert wie sein Verb). Fatha mit Tanwin"
+        }
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=30"
+    },
+    {
+      "ref": "2:34",
+      "arabic": "فَسَجَدُوا إِلَّا إِبْلِيسَ أَبَىٰ وَاسْتَكْبَرَ وَكَانَ مِنَ الْكَافِرِينَ",
+      "words": [
+        {
+          "word": "فَسَجَدُوا",
+          "role": "fi'l",
+          "case": "mabni",
+          "explanation": "فَ Konjunktion + Perfekt 3mp, Wurzel س-ج-د"
+        },
+        {
+          "word": "إِلَّا",
+          "role": "harf",
+          "case": "mabni",
+          "explanation": "Ausnahmepartikel"
+        },
+        {
+          "word": "إِبْلِيسَ",
+          "role": "andere",
+          "case": "nasb",
+          "explanation": "Mustathna (Ausgenommenes) nach إلّا. Akkusativ, Fatha ohne Tanwin (Diptot)"
+        },
+        {
+          "word": "أَبَىٰ",
+          "role": "fi'l",
+          "case": "mabni",
+          "explanation": "Perfekt 3ms, Wurzel أ-ب-ي (schwach auf ي). Er weigerte sich"
+        },
+        {
+          "word": "وَاسْتَكْبَرَ",
+          "role": "fi'l",
+          "case": "mabni",
+          "explanation": "وَ + Perfekt 3ms, Form X von ك-ب-ر"
+        },
+        {
+          "word": "وَكَانَ",
+          "role": "fi'l",
+          "case": "mabni",
+          "explanation": "وَ + كان: Kopulaverb, regiert Ism (Raf') und Khabar (Nasb)"
+        },
+        {
+          "word": "مِنَ الْكَافِرِينَ",
+          "role": "khabar_kana",
+          "case": "jarr",
+          "explanation": "Khabar von كان als Jarr wa-Majrur. الكافرين im Genitiv (-ين gesunder mask. Plural)"
+        }
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=34"
+    },
+    {
+      "ref": "2:102",
+      "arabic": "وَمَا يُعَلِّمَانِ مِنْ أَحَدٍ حَتَّىٰ يَقُولَا",
+      "words": [
+        {
+          "word": "وَمَا",
+          "role": "harf",
+          "case": "mabni",
+          "explanation": "وَ Konjunktion + ما Negationspartikel"
+        },
+        {
+          "word": "يُعَلِّمَانِ",
+          "role": "fi'l",
+          "case": "raf'",
+          "explanation": "Imperfekt Dual 3m, Form II von ع-ل-م. Raf' durch Nun (Dual-Endung)"
+        },
+        {
+          "word": "مِنْ",
+          "role": "harf",
+          "case": "mabni",
+          "explanation": "Präposition, hier als زائدة (expletiv) zur Verstärkung der Negation"
+        },
+        {
+          "word": "أَحَدٍ",
+          "role": "maf'ul_bihi",
+          "case": "jarr",
+          "explanation": "Eigentlich Maf'ul bihi, steht im Genitiv wegen der expletiven Präposition مِنْ"
+        },
+        {
+          "word": "حَتَّىٰ",
+          "role": "harf",
+          "case": "mabni",
+          "explanation": "Partikel, löst Nasb des folgenden Imperfekts aus"
+        },
+        {
+          "word": "يَقُولَا",
+          "role": "fi'l",
+          "case": "nasb",
+          "explanation": "Imperfekt Dual 3m, Nasb durch Wegfall der Nun nach حتّى (= أن)"
+        }
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=102"
+    },
+    {
+      "ref": "2:127",
+      "arabic": "وَإِذْ يَرْفَعُ إِبْرَاهِيمُ الْقَوَاعِدَ مِنَ الْبَيْتِ وَإِسْمَاعِيلُ",
+      "words": [
+        {
+          "word": "وَإِذْ",
+          "role": "zarf",
+          "case": "mabni",
+          "explanation": "وَ + إذْ Zeitadverb (Zarf Zaman), mabni auf Sukun"
+        },
+        {
+          "word": "يَرْفَعُ",
+          "role": "fi'l",
+          "case": "raf'",
+          "explanation": "Imperfekt 3ms, Wurzel ر-ف-ع. Indikativ (Damma)"
+        },
+        {
+          "word": "إِبْرَاهِيمُ",
+          "role": "fail",
+          "case": "raf'",
+          "explanation": "Subjekt. Damma ohne Tanwin (fremdstämmiger Eigenname, Diptot)"
+        },
+        {
+          "word": "الْقَوَاعِدَ",
+          "role": "maf'ul_bihi",
+          "case": "nasb",
+          "explanation": "Direktes Objekt. Fatha (gebrochener Plural)"
+        },
+        {
+          "word": "مِنَ",
+          "role": "harf",
+          "case": "mabni",
+          "explanation": "Präposition, bayaniyya (erklärend)"
+        },
+        {
+          "word": "الْبَيْتِ",
+          "role": "majrur",
+          "case": "jarr",
+          "explanation": "Nach مِنْ im Genitiv. Kasra"
+        },
+        {
+          "word": "وَإِسْمَاعِيلُ",
+          "role": "atf",
+          "case": "raf'",
+          "explanation": "وَ Konjunktion + koordiniertes Subjekt. Damma ohne Tanwin (Diptot)"
+        }
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=127"
+    },
+    {
+      "ref": "2:143",
+      "arabic": "وَكَذَٰلِكَ جَعَلْنَاكُمْ أُمَّةً وَسَطًا",
+      "words": [
+        {
+          "word": "وَكَذَٰلِكَ",
+          "role": "harf",
+          "case": "mabni",
+          "explanation": "وَ + كَ (Präposition) + ذلك (Demonstrativpronomen): und ebenso"
+        },
+        {
+          "word": "جَعَلْنَاكُمْ",
+          "role": "fi'l",
+          "case": "mabni",
+          "explanation": "Perfekt 1pl von ج-ع-ل + Objektsuffix كم (erstes Maf'ul bihi)"
+        },
+        {
+          "word": "أُمَّةً",
+          "role": "maf'ul_bihi",
+          "case": "nasb",
+          "explanation": "Zweites Objekt von جعل (doppelter Akkusativ). Fatha mit Tanwin"
+        },
+        {
+          "word": "وَسَطًا",
+          "role": "sifa",
+          "case": "nasb",
+          "explanation": "Attribut zu أمّة. Kongruenz: indefinit, Akkusativ, Fatha mit Tanwin"
+        }
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=143"
+    },
+    {
+      "ref": "2:177",
+      "arabic": "وَلَٰكِنَّ الْبِرَّ مَنْ آمَنَ بِاللَّهِ",
+      "words": [
+        {
+          "word": "وَلَٰكِنَّ",
+          "role": "harf",
+          "case": "mabni",
+          "explanation": "وَ + لكنّ: Adversativpartikel, Schwester von إنّ, regiert Ism (Nasb) und Khabar (Raf')"
+        },
+        {
+          "word": "الْبِرَّ",
+          "role": "ism_inna",
+          "case": "nasb",
+          "explanation": "Ism von لكنّ im Akkusativ. Fatha"
+        },
+        {
+          "word": "مَنْ",
+          "role": "khabar_inna",
+          "case": "mabni",
+          "explanation": "Relativpronomen als Khabar von لكنّ. Indeklinabel, syntaktisch Nominativ"
+        },
+        {
+          "word": "آمَنَ",
+          "role": "fi'l",
+          "case": "mabni",
+          "explanation": "Perfekt 3ms, Form IV von أ-م-ن. Relativsatz (Sila)"
+        },
+        {
+          "word": "بِاللَّهِ",
+          "role": "majrur",
+          "case": "jarr",
+          "explanation": "بِ Präposition + لفظ الجلالة im Genitiv. Kasra"
+        }
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=177"
+    },
+    {
+      "ref": "2:185",
+      "arabic": "شَهْرُ رَمَضَانَ الَّذِي أُنْزِلَ فِيهِ الْقُرْآنُ",
+      "words": [
+        {
+          "word": "شَهْرُ",
+          "role": "mubtada",
+          "case": "raf'",
+          "explanation": "Mubtada und erstes Glied der Idafa. Damma"
+        },
+        {
+          "word": "رَمَضَانَ",
+          "role": "mudaf_ilayh",
+          "case": "jarr",
+          "explanation": "Mudaf ilayhi, Genitiv. Fatha statt Kasra, da Diptot (fremdstämmig/Eigenname)"
+        },
+        {
+          "word": "الَّذِي",
+          "role": "sifa",
+          "case": "mabni",
+          "explanation": "Relativpronomen als Attribut zu شهر رمضان. Indeklinabel"
+        },
+        {
+          "word": "أُنْزِلَ",
+          "role": "fi'l",
+          "case": "mabni",
+          "explanation": "Perfekt Passiv 3ms, Form IV von ن-ز-ل. Relativsatz"
+        },
+        {
+          "word": "فِيهِ",
+          "role": "majrur",
+          "case": "mabni",
+          "explanation": "في Präposition + Pronominalsuffix. Jarr wa-Majrur als Zarf"
+        },
+        {
+          "word": "الْقُرْآنُ",
+          "role": "na'ib_fail",
+          "case": "raf'",
+          "explanation": "Stellvertreter des Subjekts (Na'ib al-Fa'il) im Passiv. Damma"
+        }
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=185"
+    },
+    {
+      "ref": "2:228",
+      "arabic": "وَالْمُطَلَّقَاتُ يَتَرَبَّصْنَ بِأَنْفُسِهِنَّ ثَلَاثَةَ قُرُوءٍ",
+      "words": [
+        {
+          "word": "وَالْمُطَلَّقَاتُ",
+          "role": "mubtada",
+          "case": "raf'",
+          "explanation": "وَ + Mubtada. Passives Partizip Form II, gesunder fem. Plural. Damma"
+        },
+        {
+          "word": "يَتَرَبَّصْنَ",
+          "role": "khabar",
+          "case": "mabni",
+          "explanation": "Khabar als Verbalsatz. Imperfekt 3fp, Form V von ر-ب-ص. Mabni auf Sukun vor نَ"
+        },
+        {
+          "word": "بِأَنْفُسِهِنَّ",
+          "role": "majrur",
+          "case": "jarr",
+          "explanation": "بِ Präposition + أنفس im Genitiv + Possessivsuffix هنّ"
+        },
+        {
+          "word": "ثَلَاثَةَ",
+          "role": "zarf",
+          "case": "nasb",
+          "explanation": "Zarf Zaman (Zeitangabe) im Akkusativ. Erster Teil der Idafa. Fatha"
+        },
+        {
+          "word": "قُرُوءٍ",
+          "role": "mudaf_ilayh",
+          "case": "jarr",
+          "explanation": "Mudaf ilayhi, Genitiv mit Tanwin. Gebrochener Plural von قرء"
+        }
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=228"
+    },
+    {
+      "ref": "2:255",
+      "arabic": "لَهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ",
+      "words": [
+        {
+          "word": "لَهُ",
+          "role": "khabar",
+          "case": "mabni",
+          "explanation": "لِ Präposition + Pronominalsuffix. Vorangestelltes Khabar (Jarr wa-Majrur)"
+        },
+        {
+          "word": "مَا",
+          "role": "mubtada",
+          "case": "mabni",
+          "explanation": "Relativpronomen als nachgestelltes Mubtada. Indeklinabel, syntaktisch Nominativ"
+        },
+        {
+          "word": "فِي",
+          "role": "harf",
+          "case": "mabni",
+          "explanation": "Präposition. Teil des Relativsatzes (Sila)"
+        },
+        {
+          "word": "السَّمَاوَاتِ",
+          "role": "majrur",
+          "case": "jarr",
+          "explanation": "Nach في im Genitiv. Kasra (gesunder fem. Plural)"
+        },
+        {
+          "word": "وَمَا",
+          "role": "atf",
+          "case": "mabni",
+          "explanation": "وَ Konjunktion + koordiniertes Relativpronomen"
+        },
+        {
+          "word": "فِي الْأَرْضِ",
+          "role": "majrur",
+          "case": "jarr",
+          "explanation": "Präposition + Genitiv. Kasra"
+        }
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=255"
+    },
+    {
+      "ref": "3:7",
+      "arabic": "هُوَ الَّذِي أَنْزَلَ عَلَيْكَ الْكِتَابَ مِنْهُ آيَاتٌ مُحْكَمَاتٌ",
+      "words": [
+        {
+          "word": "هُوَ",
+          "role": "mubtada",
+          "case": "mabni",
+          "explanation": "Pronomen 3ms als Mubtada. Indeklinabel"
+        },
+        {
+          "word": "الَّذِي",
+          "role": "khabar",
+          "case": "mabni",
+          "explanation": "Relativpronomen als Khabar. Indeklinabel"
+        },
+        {
+          "word": "أَنْزَلَ",
+          "role": "fi'l",
+          "case": "mabni",
+          "explanation": "Perfekt 3ms, Form IV von ن-ز-ل. Relativsatz"
+        },
+        {
+          "word": "عَلَيْكَ",
+          "role": "majrur",
+          "case": "mabni",
+          "explanation": "على Präposition + Pronominalsuffix"
+        },
+        {
+          "word": "الْكِتَابَ",
+          "role": "maf'ul_bihi",
+          "case": "nasb",
+          "explanation": "Direktes Objekt. Fatha"
+        },
+        {
+          "word": "مِنْهُ",
+          "role": "harf",
+          "case": "mabni",
+          "explanation": "مِنْ Präposition + Suffix. Vorangestelltes Khabar des folgenden Nominalsatzes"
+        },
+        {
+          "word": "آيَاتٌ",
+          "role": "mubtada",
+          "case": "raf'",
+          "explanation": "Mubtada des eingebetteten Nominalsatzes. Damma mit Tanwin"
+        },
+        {
+          "word": "مُحْكَمَاتٌ",
+          "role": "sifa",
+          "case": "raf'",
+          "explanation": "Attribut zu آيات. Kongruenz: indefinit, fem. Plural, Nominativ mit Tanwin"
+        }
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=7"
+    },
+    {
+      "ref": "3:14",
+      "arabic": "زُيِّنَ لِلنَّاسِ حُبُّ الشَّهَوَاتِ",
+      "words": [
+        {
+          "word": "زُيِّنَ",
+          "role": "fi'l",
+          "case": "mabni",
+          "explanation": "Perfekt Passiv 3ms, Form II von ز-ي-ن"
+        },
+        {
+          "word": "لِلنَّاسِ",
+          "role": "majrur",
+          "case": "jarr",
+          "explanation": "لِ Präposition + الناس im Genitiv. Kasra"
+        },
+        {
+          "word": "حُبُّ",
+          "role": "na'ib_fail",
+          "case": "raf'",
+          "explanation": "Na'ib al-Fa'il (Passivsubjekt). Damma. Erstes Glied der Idafa"
+        },
+        {
+          "word": "الشَّهَوَاتِ",
+          "role": "mudaf_ilayh",
+          "case": "jarr",
+          "explanation": "Mudaf ilayhi, Genitiv. Kasra (gesunder fem. Plural)"
+        }
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=14"
+    },
+    {
+      "ref": "3:26",
+      "arabic": "قُلِ اللَّهُمَّ مَالِكَ الْمُلْكِ تُؤْتِي الْمُلْكَ مَنْ تَشَاءُ",
+      "words": [
+        {
+          "word": "قُلِ",
+          "role": "fi'l",
+          "case": "mabni",
+          "explanation": "Imperativ 2ms, Wurzel ق-و-ل (hohl)"
+        },
+        {
+          "word": "اللَّهُمَّ",
+          "role": "munada",
+          "case": "mabni",
+          "explanation": "Vokativ. مَ ist Ersatz für die Vokativpartikel يا. Mabni auf Damma"
+        },
+        {
+          "word": "مَالِكَ",
+          "role": "sifa",
+          "case": "nasb",
+          "explanation": "Attribut zum Munada oder Badal. Akkusativ (Fatha). Erstes Glied der Idafa"
+        },
+        {
+          "word": "الْمُلْكِ",
+          "role": "mudaf_ilayh",
+          "case": "jarr",
+          "explanation": "Mudaf ilayhi, Genitiv. Kasra"
+        },
+        {
+          "word": "تُؤْتِي",
+          "role": "fi'l",
+          "case": "raf'",
+          "explanation": "Imperfekt 2ms, Form IV von أ-ت-ي. Raf' (geschätztes Damma auf ي)"
+        },
+        {
+          "word": "الْمُلْكَ",
+          "role": "maf'ul_bihi",
+          "case": "nasb",
+          "explanation": "Erstes Objekt (doppelter Akkusativ). Fatha"
+        },
+        {
+          "word": "مَنْ",
+          "role": "maf'ul_bihi",
+          "case": "mabni",
+          "explanation": "Relativpronomen als zweites Objekt. Indeklinabel, syntaktisch Akkusativ"
+        },
+        {
+          "word": "تَشَاءُ",
+          "role": "fi'l",
+          "case": "raf'",
+          "explanation": "Imperfekt 2ms, Wurzel ش-ي-أ. Relativsatz (Sila). Damma"
+        }
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=26"
+    },
+    {
+      "ref": "3:37",
+      "arabic": "فَتَقَبَّلَهَا رَبُّهَا بِقَبُولٍ حَسَنٍ",
+      "words": [
+        {
+          "word": "فَتَقَبَّلَهَا",
+          "role": "fi'l",
+          "case": "mabni",
+          "explanation": "فَ + Perfekt 3ms, Form V von ق-ب-ل + Objektsuffix ها"
+        },
+        {
+          "word": "رَبُّهَا",
+          "role": "fail",
+          "case": "raf'",
+          "explanation": "Subjekt. Damma + Possessivsuffix ها"
+        },
+        {
+          "word": "بِقَبُولٍ",
+          "role": "majrur",
+          "case": "jarr",
+          "explanation": "بِ Präposition + قبول im Genitiv. Kasra mit Tanwin"
+        },
+        {
+          "word": "حَسَنٍ",
+          "role": "sifa",
+          "case": "jarr",
+          "explanation": "Attribut zu قبول. Kongruenz: indefinit, mask., Singular, Genitiv mit Tanwin"
+        }
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=37"
+    },
+    {
+      "ref": "3:92",
+      "arabic": "لَنْ تَنَالُوا الْبِرَّ حَتَّىٰ تُنْفِقُوا مِمَّا تُحِبُّونَ",
+      "words": [
+        {
+          "word": "لَنْ",
+          "role": "harf",
+          "case": "mabni",
+          "explanation": "Negationspartikel für die Zukunft, löst Nasb aus"
+        },
+        {
+          "word": "تَنَالُوا",
+          "role": "fi'l",
+          "case": "nasb",
+          "explanation": "Imperfekt 2mp, Wurzel ن-و-ل. Nasb durch لن: Wegfall der Nun"
+        },
+        {
+          "word": "الْبِرَّ",
+          "role": "maf'ul_bihi",
+          "case": "nasb",
+          "explanation": "Direktes Objekt. Fatha"
+        },
+        {
+          "word": "حَتَّىٰ",
+          "role": "harf",
+          "case": "mabni",
+          "explanation": "Partikel mit implizitem أن, löst Nasb aus"
+        },
+        {
+          "word": "تُنْفِقُوا",
+          "role": "fi'l",
+          "case": "nasb",
+          "explanation": "Imperfekt 2mp, Form IV von ن-ف-ق. Nasb: Wegfall der Nun"
+        },
+        {
+          "word": "مِمَّا",
+          "role": "majrur",
+          "case": "mabni",
+          "explanation": "مِنْ + ما (Relativpronomen). Kontrahierte Form"
+        },
+        {
+          "word": "تُحِبُّونَ",
+          "role": "fi'l",
+          "case": "raf'",
+          "explanation": "Imperfekt 2mp, Form IV von ح-ب-ب. Relativsatz. Raf' durch Nun"
+        }
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=92"
+    },
+    {
+      "ref": "3:110",
+      "arabic": "كُنْتُمْ خَيْرَ أُمَّةٍ أُخْرِجَتْ لِلنَّاسِ",
+      "words": [
+        {
+          "word": "كُنْتُمْ",
+          "role": "fi'l",
+          "case": "mabni",
+          "explanation": "كان Perfekt 2mp. Kopulaverb, Pronominalsuffix تم als Ism Kana (Raf')"
+        },
+        {
+          "word": "خَيْرَ",
+          "role": "khabar_kana",
+          "case": "nasb",
+          "explanation": "Khabar von كان. Akkusativ (Fatha). Elativ (Komparativ), erstes Glied der Idafa"
+        },
+        {
+          "word": "أُمَّةٍ",
+          "role": "mudaf_ilayh",
+          "case": "jarr",
+          "explanation": "Mudaf ilayhi. Genitiv mit Tanwin"
+        },
+        {
+          "word": "أُخْرِجَتْ",
+          "role": "fi'l",
+          "case": "mabni",
+          "explanation": "Perfekt Passiv 3fs, Form IV von خ-ر-ج. Relativsatz (Sifa-Satz)"
+        },
+        {
+          "word": "لِلنَّاسِ",
+          "role": "majrur",
+          "case": "jarr",
+          "explanation": "لِ Präposition + الناس im Genitiv. Kasra"
+        }
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=110"
+    },
+    {
+      "ref": "3:159",
+      "arabic": "فَبِمَا رَحْمَةٍ مِنَ اللَّهِ لِنْتَ لَهُمْ",
+      "words": [
+        {
+          "word": "فَبِمَا",
+          "role": "harf",
+          "case": "mabni",
+          "explanation": "فَ + بِ Präposition + ما زائدة (expletiv, verstärkend)"
+        },
+        {
+          "word": "رَحْمَةٍ",
+          "role": "majrur",
+          "case": "jarr",
+          "explanation": "Nach بِ im Genitiv. Kasra mit Tanwin. ما ist dazwischengeschoben"
+        },
+        {
+          "word": "مِنَ اللَّهِ",
+          "role": "majrur",
+          "case": "jarr",
+          "explanation": "مِنْ Präposition + لفظ الجلالة im Genitiv. Kasra. Sifa zu رحمة"
+        },
+        {
+          "word": "لِنْتَ",
+          "role": "fi'l",
+          "case": "mabni",
+          "explanation": "Perfekt 2ms, Wurzel ل-ي-ن (schwach auf ي). Wegfall des ي im Perfekt"
+        },
+        {
+          "word": "لَهُمْ",
+          "role": "majrur",
+          "case": "mabni",
+          "explanation": "لِ Präposition + Pronominalsuffix هم"
+        }
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=159"
+    },
+    {
+      "ref": "3:169",
+      "arabic": "وَلَا تَحْسَبَنَّ الَّذِينَ قُتِلُوا فِي سَبِيلِ اللَّهِ أَمْوَاتًا",
+      "words": [
+        {
+          "word": "وَلَا",
+          "role": "harf",
+          "case": "mabni",
+          "explanation": "وَ Konjunktion + لا Prohibitivpartikel"
+        },
+        {
+          "word": "تَحْسَبَنَّ",
+          "role": "fi'l",
+          "case": "mabni",
+          "explanation": "Imperfekt 2ms + Nun at-Tawkid (Betonungsnun). Wurzel ح-س-ب. Mabni wegen Nun"
+        },
+        {
+          "word": "الَّذِينَ",
+          "role": "maf'ul_bihi",
+          "case": "mabni",
+          "explanation": "Erstes Objekt von حسب (doppelter Akkusativ). Relativpronomen"
+        },
+        {
+          "word": "قُتِلُوا",
+          "role": "fi'l",
+          "case": "mabni",
+          "explanation": "Perfekt Passiv 3mp, Wurzel ق-ت-ل. Relativsatz"
+        },
+        {
+          "word": "فِي سَبِيلِ",
+          "role": "majrur",
+          "case": "jarr",
+          "explanation": "في Präposition + سبيل im Genitiv (Kasra). Erstes Glied der Idafa"
+        },
+        {
+          "word": "اللَّهِ",
+          "role": "mudaf_ilayh",
+          "case": "jarr",
+          "explanation": "Mudaf ilayhi. Genitiv, Kasra"
+        },
+        {
+          "word": "أَمْوَاتًا",
+          "role": "maf'ul_bihi",
+          "case": "nasb",
+          "explanation": "Zweites Objekt von حسب. Fatha mit Tanwin"
+        }
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=169"
+    },
+    {
+      "ref": "4:1",
+      "arabic": "يَا أَيُّهَا النَّاسُ اتَّقُوا رَبَّكُمُ الَّذِي خَلَقَكُمْ مِنْ نَفْسٍ وَاحِدَةٍ",
+      "words": [
+        {
+          "word": "يَا",
+          "role": "harf",
+          "case": "mabni",
+          "explanation": "Vokativpartikel"
+        },
+        {
+          "word": "أَيُّهَا",
+          "role": "munada",
+          "case": "mabni",
+          "explanation": "Angerufener. Mabni ala d-Damm"
+        },
+        {
+          "word": "النَّاسُ",
+          "role": "sifa",
+          "case": "raf'",
+          "explanation": "Attribut zum Munada. Damma"
+        },
+        {
+          "word": "اتَّقُوا",
+          "role": "fi'l",
+          "case": "mabni",
+          "explanation": "Imperativ 2mp, Form VIII von و-ق-ي"
+        },
+        {
+          "word": "رَبَّكُمُ",
+          "role": "maf'ul_bihi",
+          "case": "nasb",
+          "explanation": "Direktes Objekt. Fatha + Possessivsuffix"
+        },
+        {
+          "word": "الَّذِي",
+          "role": "sifa",
+          "case": "mabni",
+          "explanation": "Relativpronomen als Attribut zu ربّكم"
+        },
+        {
+          "word": "خَلَقَكُمْ",
+          "role": "fi'l",
+          "case": "mabni",
+          "explanation": "Perfekt 3ms + Objektsuffix. Relativsatz (Sila)"
+        },
+        {
+          "word": "مِنْ نَفْسٍ",
+          "role": "majrur",
+          "case": "jarr",
+          "explanation": "مِنْ Präposition + نفس im Genitiv. Kasra mit Tanwin"
+        },
+        {
+          "word": "وَاحِدَةٍ",
+          "role": "sifa",
+          "case": "jarr",
+          "explanation": "Attribut zu نفس. Kongruenz: indefinit, fem., Genitiv mit Tanwin"
+        }
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=1"
+    },
+    {
+      "ref": "4:11",
+      "arabic": "يُوصِيكُمُ اللَّهُ فِي أَوْلَادِكُمْ لِلذَّكَرِ مِثْلُ حَظِّ الْأُنْثَيَيْنِ",
+      "words": [
+        {
+          "word": "يُوصِيكُمُ",
+          "role": "fi'l",
+          "case": "raf'",
+          "explanation": "Imperfekt 3ms, Form IV von و-ص-ي + Objektsuffix كم. Damma geschätzt auf ي"
+        },
+        {
+          "word": "اللَّهُ",
+          "role": "fail",
+          "case": "raf'",
+          "explanation": "Subjekt. Damma"
+        },
+        {
+          "word": "فِي أَوْلَادِكُمْ",
+          "role": "majrur",
+          "case": "jarr",
+          "explanation": "في + أولاد im Genitiv (Kasra) + Possessivsuffix"
+        },
+        {
+          "word": "لِلذَّكَرِ",
+          "role": "khabar",
+          "case": "jarr",
+          "explanation": "لِ Präposition + الذكر im Genitiv. Vorangestelltes Khabar"
+        },
+        {
+          "word": "مِثْلُ",
+          "role": "mubtada",
+          "case": "raf'",
+          "explanation": "Mubtada (nachgestellt). Damma. Erstes Glied der Idafa"
+        },
+        {
+          "word": "حَظِّ",
+          "role": "mudaf_ilayh",
+          "case": "jarr",
+          "explanation": "Mudaf ilayhi. Kasra. Seinerseits erstes Glied einer zweiten Idafa"
+        },
+        {
+          "word": "الْأُنْثَيَيْنِ",
+          "role": "mudaf_ilayh",
+          "case": "jarr",
+          "explanation": "Mudaf ilayhi. Dual-Genitiv auf -يْنِ"
+        }
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=11"
+    },
+    {
+      "ref": "4:43",
+      "arabic": "لَا تَقْرَبُوا الصَّلَاةَ وَأَنْتُمْ سُكَارَىٰ",
+      "words": [
+        {
+          "word": "لَا",
+          "role": "harf",
+          "case": "mabni",
+          "explanation": "Prohibitivpartikel (لا الناهية), löst Jazm aus"
+        },
+        {
+          "word": "تَقْرَبُوا",
+          "role": "fi'l",
+          "case": "jazm",
+          "explanation": "Imperfekt 2mp, Wurzel ق-ر-ب. Jazm: Wegfall der Nun"
+        },
+        {
+          "word": "الصَّلَاةَ",
+          "role": "maf'ul_bihi",
+          "case": "nasb",
+          "explanation": "Direktes Objekt. Fatha"
+        },
+        {
+          "word": "وَأَنْتُمْ",
+          "role": "mubtada",
+          "case": "mabni",
+          "explanation": "وَ الحالية (Hal-Waw) + Pronomen 2mp als Mubtada des Hal-Satzes"
+        },
+        {
+          "word": "سُكَارَىٰ",
+          "role": "khabar",
+          "case": "raf'",
+          "explanation": "Khabar des Hal-Satzes. Nominativ (Damma geschätzt auf Alif Maqsura). Der gesamte Nominalsatz ist Hal"
+        }
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=43"
+    },
+    {
+      "ref": "4:58",
+      "arabic": "إِنَّ اللَّهَ يَأْمُرُكُمْ أَنْ تُؤَدُّوا الْأَمَانَاتِ إِلَىٰ أَهْلِهَا",
+      "words": [
+        {
+          "word": "إِنَّ",
+          "role": "harf",
+          "case": "mabni",
+          "explanation": "Bekräftigungspartikel"
+        },
+        {
+          "word": "اللَّهَ",
+          "role": "ism_inna",
+          "case": "nasb",
+          "explanation": "Ism von إنّ. Fatha"
+        },
+        {
+          "word": "يَأْمُرُكُمْ",
+          "role": "khabar_inna",
+          "case": "raf'",
+          "explanation": "Khabar von إنّ als Verbalsatz. Imperfekt 3ms, Damma + Objektsuffix"
+        },
+        {
+          "word": "أَنْ",
+          "role": "harf",
+          "case": "mabni",
+          "explanation": "Masdariyya-Partikel, löst Nasb aus"
+        },
+        {
+          "word": "تُؤَدُّوا",
+          "role": "fi'l",
+          "case": "nasb",
+          "explanation": "Imperfekt 2mp, Form II von أ-د-ي. Nasb: Wegfall der Nun"
+        },
+        {
+          "word": "الْأَمَانَاتِ",
+          "role": "maf'ul_bihi",
+          "case": "nasb",
+          "explanation": "Direktes Objekt. Kasra als Akkusativzeichen des gesunden fem. Plurals"
+        },
+        {
+          "word": "إِلَىٰ أَهْلِهَا",
+          "role": "majrur",
+          "case": "jarr",
+          "explanation": "إلى Präposition + أهل im Genitiv (Kasra) + Possessivsuffix"
+        }
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=58"
+    },
+    {
+      "ref": "5:3",
+      "arabic": "الْيَوْمَ أَكْمَلْتُ لَكُمْ دِينَكُمْ",
+      "words": [
+        {
+          "word": "الْيَوْمَ",
+          "role": "zarf",
+          "case": "nasb",
+          "explanation": "Zarf Zaman (Zeitadverb) im Akkusativ. Fatha"
+        },
+        {
+          "word": "أَكْمَلْتُ",
+          "role": "fi'l",
+          "case": "mabni",
+          "explanation": "Perfekt 1sg, Form IV von ك-م-ل"
+        },
+        {
+          "word": "لَكُمْ",
+          "role": "majrur",
+          "case": "mabni",
+          "explanation": "لِ Präposition + Pronominalsuffix"
+        },
+        {
+          "word": "دِينَكُمْ",
+          "role": "maf'ul_bihi",
+          "case": "nasb",
+          "explanation": "Direktes Objekt. Fatha + Possessivsuffix"
+        }
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=5&verse=3"
+    },
+    {
+      "ref": "5:6",
+      "arabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا إِذَا قُمْتُمْ إِلَى الصَّلَاةِ فَاغْسِلُوا وُجُوهَكُمْ",
+      "words": [
+        {
+          "word": "يَا أَيُّهَا",
+          "role": "munada",
+          "case": "mabni",
+          "explanation": "يا Vokativpartikel + أيّها Munada, mabni auf Damma"
+        },
+        {
+          "word": "الَّذِينَ",
+          "role": "sifa",
+          "case": "mabni",
+          "explanation": "Relativpronomen als Attribut zum Munada"
+        },
+        {
+          "word": "آمَنُوا",
+          "role": "fi'l",
+          "case": "mabni",
+          "explanation": "Perfekt 3mp, Form IV von أ-م-ن. Relativsatz"
+        },
+        {
+          "word": "إِذَا",
+          "role": "zarf",
+          "case": "mabni",
+          "explanation": "Bedingungspartikel (Zarf Zaman), indeklinabel. Leitet Bedingungssatz ein"
+        },
+        {
+          "word": "قُمْتُمْ",
+          "role": "fi'l",
+          "case": "mabni",
+          "explanation": "Perfekt 2mp, Wurzel ق-و-م (hohl). Bedingungssatz (Shart)"
+        },
+        {
+          "word": "إِلَى الصَّلَاةِ",
+          "role": "majrur",
+          "case": "jarr",
+          "explanation": "إلى Präposition + الصلاة im Genitiv. Kasra"
+        },
+        {
+          "word": "فَاغْسِلُوا",
+          "role": "fi'l",
+          "case": "mabni",
+          "explanation": "فَ (Jawab-Fa') + Imperativ 2mp, Wurzel غ-س-ل. Jawab ash-Shart"
+        },
+        {
+          "word": "وُجُوهَكُمْ",
+          "role": "maf'ul_bihi",
+          "case": "nasb",
+          "explanation": "Direktes Objekt. Fatha + Possessivsuffix"
+        }
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=5&verse=6"
+    },
+    {
+      "ref": "5:35",
+      "arabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ وَابْتَغُوا إِلَيْهِ الْوَسِيلَةَ",
+      "words": [
+        {
+          "word": "اتَّقُوا",
+          "role": "fi'l",
+          "case": "mabni",
+          "explanation": "Imperativ 2mp, Form VIII von و-ق-ي"
+        },
+        {
+          "word": "اللَّهَ",
+          "role": "maf'ul_bihi",
+          "case": "nasb",
+          "explanation": "Direktes Objekt. Fatha"
+        },
+        {
+          "word": "وَابْتَغُوا",
+          "role": "fi'l",
+          "case": "mabni",
+          "explanation": "وَ + Imperativ 2mp, Form VIII von ب-غ-ي"
+        },
+        {
+          "word": "إِلَيْهِ",
+          "role": "majrur",
+          "case": "mabni",
+          "explanation": "إلى Präposition + Pronominalsuffix"
+        },
+        {
+          "word": "الْوَسِيلَةَ",
+          "role": "maf'ul_bihi",
+          "case": "nasb",
+          "explanation": "Direktes Objekt von ابتغوا. Fatha"
+        }
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=5&verse=35"
+    },
+    {
+      "ref": "6:59",
+      "arabic": "وَعِنْدَهُ مَفَاتِحُ الْغَيْبِ لَا يَعْلَمُهَا إِلَّا هُوَ",
+      "words": [
+        {
+          "word": "وَعِنْدَهُ",
+          "role": "khabar",
+          "case": "nasb",
+          "explanation": "وَ + عند Zarf Makan (Akkusativ) + Suffix. Vorangestelltes Khabar"
+        },
+        {
+          "word": "مَفَاتِحُ",
+          "role": "mubtada",
+          "case": "raf'",
+          "explanation": "Mubtada (nachgestellt). Damma. Erstes Glied der Idafa"
+        },
+        {
+          "word": "الْغَيْبِ",
+          "role": "mudaf_ilayh",
+          "case": "jarr",
+          "explanation": "Mudaf ilayhi. Genitiv, Kasra"
+        },
+        {
+          "word": "لَا",
+          "role": "harf",
+          "case": "mabni",
+          "explanation": "Negationspartikel (لا النافية)"
+        },
+        {
+          "word": "يَعْلَمُهَا",
+          "role": "fi'l",
+          "case": "raf'",
+          "explanation": "Imperfekt 3ms, Wurzel ع-ل-م + Objektsuffix. Damma"
+        },
+        {
+          "word": "إِلَّا",
+          "role": "harf",
+          "case": "mabni",
+          "explanation": "Ausnahmepartikel (Hasr/Beschraenkung)"
+        },
+        {
+          "word": "هُوَ",
+          "role": "fail",
+          "case": "mabni",
+          "explanation": "Pronomen 3ms als Fa'il. Mabni, syntaktisch Nominativ. Hasr: nur Er"
+        }
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=6&verse=59"
+    },
+    {
+      "ref": "7:12",
+      "arabic": "قَالَ أَنَا خَيْرٌ مِنْهُ خَلَقْتَنِي مِنْ نَارٍ وَخَلَقْتَهُ مِنْ طِينٍ",
+      "words": [
+        {
+          "word": "قَالَ",
+          "role": "fi'l",
+          "case": "mabni",
+          "explanation": "Perfekt 3ms, Wurzel ق-و-ل (hohl)"
+        },
+        {
+          "word": "أَنَا",
+          "role": "mubtada",
+          "case": "mabni",
+          "explanation": "Pronomen 1sg als Mubtada. Indeklinabel"
+        },
+        {
+          "word": "خَيْرٌ",
+          "role": "khabar",
+          "case": "raf'",
+          "explanation": "Khabar. Elativ (Komparativ), Nominativ mit Tanwin"
+        },
+        {
+          "word": "مِنْهُ",
+          "role": "majrur",
+          "case": "mabni",
+          "explanation": "مِنْ Präposition + Suffix. Komparativ-Ergänzung"
+        },
+        {
+          "word": "خَلَقْتَنِي",
+          "role": "fi'l",
+          "case": "mabni",
+          "explanation": "Perfekt 2ms + Objektsuffix ني. Begründungssatz"
+        },
+        {
+          "word": "مِنْ نَارٍ",
+          "role": "majrur",
+          "case": "jarr",
+          "explanation": "مِنْ Präposition + نار im Genitiv mit Tanwin"
+        },
+        {
+          "word": "وَخَلَقْتَهُ",
+          "role": "fi'l",
+          "case": "mabni",
+          "explanation": "وَ + Perfekt 2ms + Objektsuffix ه"
+        },
+        {
+          "word": "مِنْ طِينٍ",
+          "role": "majrur",
+          "case": "jarr",
+          "explanation": "مِنْ Präposition + طين im Genitiv mit Tanwin"
+        }
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=7&verse=12"
+    },
+    {
+      "ref": "7:54",
+      "arabic": "إِنَّ رَبَّكُمُ اللَّهُ الَّذِي خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ فِي سِتَّةِ أَيَّامٍ",
+      "words": [
+        {
+          "word": "إِنَّ",
+          "role": "harf",
+          "case": "mabni",
+          "explanation": "Bekräftigungspartikel"
+        },
+        {
+          "word": "رَبَّكُمُ",
+          "role": "ism_inna",
+          "case": "nasb",
+          "explanation": "Ism von إنّ. Fatha + Possessivsuffix"
+        },
+        {
+          "word": "اللَّهُ",
+          "role": "khabar_inna",
+          "case": "raf'",
+          "explanation": "Khabar von إنّ. Damma"
+        },
+        {
+          "word": "الَّذِي",
+          "role": "sifa",
+          "case": "mabni",
+          "explanation": "Relativpronomen als Attribut zu اللّه oder als zweites Khabar"
+        },
+        {
+          "word": "خَلَقَ",
+          "role": "fi'l",
+          "case": "mabni",
+          "explanation": "Perfekt 3ms, Wurzel خ-ل-ق. Relativsatz"
+        },
+        {
+          "word": "السَّمَاوَاتِ",
+          "role": "maf'ul_bihi",
+          "case": "nasb",
+          "explanation": "Direktes Objekt. Kasra als Akkusativzeichen (gesunder fem. Plural)"
+        },
+        {
+          "word": "وَالْأَرْضَ",
+          "role": "atf",
+          "case": "nasb",
+          "explanation": "وَ + koordiniertes Objekt. Fatha"
+        },
+        {
+          "word": "فِي سِتَّةِ",
+          "role": "majrur",
+          "case": "jarr",
+          "explanation": "في + سِتّة im Genitiv. Kasra. Erstes Glied der Idafa"
+        },
+        {
+          "word": "أَيَّامٍ",
+          "role": "mudaf_ilayh",
+          "case": "jarr",
+          "explanation": "Mudaf ilayhi. Genitiv mit Tanwin"
+        }
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=7&verse=54"
+    },
+    {
+      "ref": "9:40",
+      "arabic": "إِذْ يَقُولُ لِصَاحِبِهِ لَا تَحْزَنْ إِنَّ اللَّهَ مَعَنَا",
+      "words": [
+        {
+          "word": "إِذْ",
+          "role": "zarf",
+          "case": "mabni",
+          "explanation": "Zarf Zaman, indeklinabel"
+        },
+        {
+          "word": "يَقُولُ",
+          "role": "fi'l",
+          "case": "raf'",
+          "explanation": "Imperfekt 3ms, Wurzel ق-و-ل. Damma"
+        },
+        {
+          "word": "لِصَاحِبِهِ",
+          "role": "majrur",
+          "case": "jarr",
+          "explanation": "لِ Präposition + صاحب im Genitiv (Kasra) + Possessivsuffix"
+        },
+        {
+          "word": "لَا",
+          "role": "harf",
+          "case": "mabni",
+          "explanation": "Prohibitivpartikel"
+        },
+        {
+          "word": "تَحْزَنْ",
+          "role": "fi'l",
+          "case": "jazm",
+          "explanation": "Imperfekt 2ms, Wurzel ح-ز-ن. Jazm durch لا الناهية: Sukun"
+        },
+        {
+          "word": "إِنَّ",
+          "role": "harf",
+          "case": "mabni",
+          "explanation": "Bekräftigungspartikel"
+        },
+        {
+          "word": "اللَّهَ",
+          "role": "ism_inna",
+          "case": "nasb",
+          "explanation": "Ism von إنّ. Fatha"
+        },
+        {
+          "word": "مَعَنَا",
+          "role": "khabar_inna",
+          "case": "mabni",
+          "explanation": "Khabar von إنّ. مع Zarf Makan + Pronominalsuffix نا"
+        }
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=9&verse=40"
+    },
+    {
+      "ref": "11:1",
+      "arabic": "كِتَابٌ أُحْكِمَتْ آيَاتُهُ ثُمَّ فُصِّلَتْ",
+      "words": [
+        {
+          "word": "كِتَابٌ",
+          "role": "khabar",
+          "case": "raf'",
+          "explanation": "Khabar eines impliziten Mubtada (هذا). Damma mit Tanwin"
+        },
+        {
+          "word": "أُحْكِمَتْ",
+          "role": "fi'l",
+          "case": "mabni",
+          "explanation": "Perfekt Passiv 3fs, Form IV von ح-ك-م. Relativsatz (Sifa)"
+        },
+        {
+          "word": "آيَاتُهُ",
+          "role": "na'ib_fail",
+          "case": "raf'",
+          "explanation": "Na'ib al-Fa'il. Damma + Possessivsuffix"
+        },
+        {
+          "word": "ثُمَّ",
+          "role": "harf",
+          "case": "mabni",
+          "explanation": "Konjunktion der Folge (dann)"
+        },
+        {
+          "word": "فُصِّلَتْ",
+          "role": "fi'l",
+          "case": "mabni",
+          "explanation": "Perfekt Passiv 3fs, Form II von ف-ص-ل. Na'ib al-Fa'il ist implizit (آياته)"
+        }
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=11&verse=1"
+    },
+    {
+      "ref": "12:2",
+      "arabic": "إِنَّا أَنْزَلْنَاهُ قُرْآنًا عَرَبِيًّا لَعَلَّكُمْ تَعْقِلُونَ",
+      "words": [
+        {
+          "word": "إِنَّا",
+          "role": "harf",
+          "case": "mabni",
+          "explanation": "إنّ + نا (Ism von إنّ, Pronomen 1pl im Akkusativ)"
+        },
+        {
+          "word": "أَنْزَلْنَاهُ",
+          "role": "khabar_inna",
+          "case": "mabni",
+          "explanation": "Khabar von إنّ als Verbalsatz. Perfekt 1pl, Form IV + Objektsuffix"
+        },
+        {
+          "word": "قُرْآنًا",
+          "role": "hal",
+          "case": "nasb",
+          "explanation": "Hal (Zustandsangabe) zum Objektsuffix ه. Fatha mit Tanwin"
+        },
+        {
+          "word": "عَرَبِيًّا",
+          "role": "sifa",
+          "case": "nasb",
+          "explanation": "Attribut zu قرآنا. Kongruenz: indefinit, Akkusativ. Nisba-Adjektiv"
+        },
+        {
+          "word": "لَعَلَّكُمْ",
+          "role": "harf",
+          "case": "mabni",
+          "explanation": "لعلّ Partikel (Schwester von إنّ) + كم als Ism (Akkusativ)"
+        },
+        {
+          "word": "تَعْقِلُونَ",
+          "role": "khabar_inna",
+          "case": "raf'",
+          "explanation": "Khabar von لعلّ als Verbalsatz. Imperfekt 2mp, Raf' durch Nun"
+        }
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=12&verse=2"
+    },
+    {
+      "ref": "13:3",
+      "arabic": "وَهُوَ الَّذِي مَدَّ الْأَرْضَ وَجَعَلَ فِيهَا رَوَاسِيَ وَأَنْهَارًا",
+      "words": [
+        {
+          "word": "وَهُوَ",
+          "role": "mubtada",
+          "case": "mabni",
+          "explanation": "وَ + Pronomen 3ms als Mubtada"
+        },
+        {
+          "word": "الَّذِي",
+          "role": "khabar",
+          "case": "mabni",
+          "explanation": "Relativpronomen als Khabar"
+        },
+        {
+          "word": "مَدَّ",
+          "role": "fi'l",
+          "case": "mabni",
+          "explanation": "Perfekt 3ms, Wurzel م-د-د (verdoppelt). Relativsatz"
+        },
+        {
+          "word": "الْأَرْضَ",
+          "role": "maf'ul_bihi",
+          "case": "nasb",
+          "explanation": "Direktes Objekt. Fatha"
+        },
+        {
+          "word": "وَجَعَلَ",
+          "role": "fi'l",
+          "case": "mabni",
+          "explanation": "وَ + Perfekt 3ms, Wurzel ج-ع-ل"
+        },
+        {
+          "word": "فِيهَا",
+          "role": "majrur",
+          "case": "mabni",
+          "explanation": "في + Pronominalsuffix"
+        },
+        {
+          "word": "رَوَاسِيَ",
+          "role": "maf'ul_bihi",
+          "case": "nasb",
+          "explanation": "Direktes Objekt. Fatha ohne Tanwin (Diptot, gebrochener Plural)"
+        },
+        {
+          "word": "وَأَنْهَارًا",
+          "role": "atf",
+          "case": "nasb",
+          "explanation": "وَ + koordiniertes Objekt. Fatha mit Tanwin"
+        }
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=13&verse=3"
+    },
+    {
+      "ref": "14:7",
+      "arabic": "لَئِنْ شَكَرْتُمْ لَأَزِيدَنَّكُمْ وَلَئِنْ كَفَرْتُمْ إِنَّ عَذَابِي لَشَدِيدٌ",
+      "words": [
+        {
+          "word": "لَئِنْ",
+          "role": "harf",
+          "case": "mabni",
+          "explanation": "لَ Schwurpartikel + إنْ Bedingungspartikel"
+        },
+        {
+          "word": "شَكَرْتُمْ",
+          "role": "fi'l",
+          "case": "mabni",
+          "explanation": "Perfekt 2mp, Wurzel ش-ك-ر. Bedingungssatz (Shart)"
+        },
+        {
+          "word": "لَأَزِيدَنَّكُمْ",
+          "role": "fi'l",
+          "case": "mabni",
+          "explanation": "لَ Schwur-Lam + Imperfekt 1sg + Nun at-Tawkid (Betonungsnun) + Suffix. Jawab al-Qasam"
+        },
+        {
+          "word": "وَلَئِنْ",
+          "role": "harf",
+          "case": "mabni",
+          "explanation": "وَ + لَ Schwurpartikel + إنْ Bedingungspartikel"
+        },
+        {
+          "word": "كَفَرْتُمْ",
+          "role": "fi'l",
+          "case": "mabni",
+          "explanation": "Perfekt 2mp, Wurzel ك-ف-ر. Zweiter Bedingungssatz"
+        },
+        {
+          "word": "إِنَّ",
+          "role": "harf",
+          "case": "mabni",
+          "explanation": "Bekräftigungspartikel. Jawab"
+        },
+        {
+          "word": "عَذَابِي",
+          "role": "ism_inna",
+          "case": "nasb",
+          "explanation": "Ism von إنّ. Akkusativ (geschätzt wegen Pronominalsuffix ي)"
+        },
+        {
+          "word": "لَشَدِيدٌ",
+          "role": "khabar_inna",
+          "case": "raf'",
+          "explanation": "لَ Betonungs-Lam + Khabar von إنّ. Nominativ mit Tanwin"
+        }
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=14&verse=7"
+    },
+    {
+      "ref": "16:90",
+      "arabic": "إِنَّ اللَّهَ يَأْمُرُ بِالْعَدْلِ وَالْإِحْسَانِ وَإِيتَاءِ ذِي الْقُرْبَىٰ",
+      "words": [
+        {
+          "word": "إِنَّ",
+          "role": "harf",
+          "case": "mabni",
+          "explanation": "Bekräftigungspartikel"
+        },
+        {
+          "word": "اللَّهَ",
+          "role": "ism_inna",
+          "case": "nasb",
+          "explanation": "Ism von إنّ. Fatha"
+        },
+        {
+          "word": "يَأْمُرُ",
+          "role": "khabar_inna",
+          "case": "raf'",
+          "explanation": "Khabar von إنّ als Verbalsatz. Imperfekt 3ms, Damma"
+        },
+        {
+          "word": "بِالْعَدْلِ",
+          "role": "majrur",
+          "case": "jarr",
+          "explanation": "بِ Präposition + العدل im Genitiv. Kasra"
+        },
+        {
+          "word": "وَالْإِحْسَانِ",
+          "role": "atf",
+          "case": "jarr",
+          "explanation": "وَ + koordiniert im Genitiv. Kasra"
+        },
+        {
+          "word": "وَإِيتَاءِ",
+          "role": "atf",
+          "case": "jarr",
+          "explanation": "وَ + Masdar von Form IV (أ-ت-ي), Genitiv. Kasra. Erstes Glied der Idafa"
+        },
+        {
+          "word": "ذِي",
+          "role": "mudaf_ilayh",
+          "case": "jarr",
+          "explanation": "Mudaf ilayhi. Genitiv angezeigt durch ي (von den fünf Nomina). Erstes Glied der Idafa"
+        },
+        {
+          "word": "الْقُرْبَىٰ",
+          "role": "mudaf_ilayh",
+          "case": "jarr",
+          "explanation": "Mudaf ilayhi. Genitiv geschätzt auf Alif Maqsura"
+        }
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=16&verse=90"
+    },
+    {
+      "ref": "18:10",
+      "arabic": "رَبَّنَا آتِنَا مِنْ لَدُنْكَ رَحْمَةً وَهَيِّئْ لَنَا مِنْ أَمْرِنَا رَشَدًا",
+      "words": [
+        {
+          "word": "رَبَّنَا",
+          "role": "munada",
+          "case": "nasb",
+          "explanation": "Munada (Vokativ) mit Idafa. Akkusativ (Fatha) + Possessivsuffix"
+        },
+        {
+          "word": "آتِنَا",
+          "role": "fi'l",
+          "case": "mabni",
+          "explanation": "Imperativ 2ms, Form IV von أ-ت-ي + Objektsuffix نا"
+        },
+        {
+          "word": "مِنْ لَدُنْكَ",
+          "role": "majrur",
+          "case": "jarr",
+          "explanation": "مِنْ + لدن (Zarf Makan, mabni) + Possessivsuffix"
+        },
+        {
+          "word": "رَحْمَةً",
+          "role": "maf'ul_bihi",
+          "case": "nasb",
+          "explanation": "Direktes Objekt. Fatha mit Tanwin"
+        },
+        {
+          "word": "وَهَيِّئْ",
+          "role": "fi'l",
+          "case": "mabni",
+          "explanation": "وَ + Imperativ 2ms, Form II von ه-ي-أ"
+        },
+        {
+          "word": "لَنَا",
+          "role": "majrur",
+          "case": "mabni",
+          "explanation": "لِ Präposition + Pronominalsuffix"
+        },
+        {
+          "word": "مِنْ أَمْرِنَا",
+          "role": "majrur",
+          "case": "jarr",
+          "explanation": "مِنْ + أمر im Genitiv + Possessivsuffix"
+        },
+        {
+          "word": "رَشَدًا",
+          "role": "maf'ul_bihi",
+          "case": "nasb",
+          "explanation": "Direktes Objekt. Fatha mit Tanwin"
+        }
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=18&verse=10"
+    },
+    {
+      "ref": "19:30",
+      "arabic": "قَالَ إِنِّي عَبْدُ اللَّهِ آتَانِيَ الْكِتَابَ وَجَعَلَنِي نَبِيًّا",
+      "words": [
+        {
+          "word": "قَالَ",
+          "role": "fi'l",
+          "case": "mabni",
+          "explanation": "Perfekt 3ms, Wurzel ق-و-ل (hohl)"
+        },
+        {
+          "word": "إِنِّي",
+          "role": "harf",
+          "case": "mabni",
+          "explanation": "إنّ + ي als Ism von إنّ (Akkusativ)"
+        },
+        {
+          "word": "عَبْدُ",
+          "role": "khabar_inna",
+          "case": "raf'",
+          "explanation": "Khabar von إنّ. Damma. Erstes Glied der Idafa"
+        },
+        {
+          "word": "اللَّهِ",
+          "role": "mudaf_ilayh",
+          "case": "jarr",
+          "explanation": "Mudaf ilayhi. Kasra"
+        },
+        {
+          "word": "آتَانِيَ",
+          "role": "fi'l",
+          "case": "mabni",
+          "explanation": "Perfekt 3ms, Form IV von أ-ت-ي + Objektsuffix ني"
+        },
+        {
+          "word": "الْكِتَابَ",
+          "role": "maf'ul_bihi",
+          "case": "nasb",
+          "explanation": "Zweites Objekt von آتى (doppelter Akkusativ). Fatha"
+        },
+        {
+          "word": "وَجَعَلَنِي",
+          "role": "fi'l",
+          "case": "mabni",
+          "explanation": "وَ + Perfekt 3ms + Objektsuffix ني (erstes Objekt)"
+        },
+        {
+          "word": "نَبِيًّا",
+          "role": "maf'ul_bihi",
+          "case": "nasb",
+          "explanation": "Zweites Objekt von جعل. Fatha mit Tanwin"
+        }
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=19&verse=30"
+    },
+    {
+      "ref": "20:25",
+      "arabic": "قَالَ رَبِّ اشْرَحْ لِي صَدْرِي وَيَسِّرْ لِي أَمْرِي",
+      "words": [
+        {
+          "word": "قَالَ",
+          "role": "fi'l",
+          "case": "mabni",
+          "explanation": "Perfekt 3ms, Wurzel ق-و-ل"
+        },
+        {
+          "word": "رَبِّ",
+          "role": "munada",
+          "case": "mabni",
+          "explanation": "Munada, mabni auf Kasra wegen Possessivsuffix (ي weggelassen). Idafa mit implizitem ي"
+        },
+        {
+          "word": "اشْرَحْ",
+          "role": "fi'l",
+          "case": "mabni",
+          "explanation": "Imperativ 2ms, Wurzel ش-ر-ح"
+        },
+        {
+          "word": "لِي",
+          "role": "majrur",
+          "case": "mabni",
+          "explanation": "لِ Präposition + Pronominalsuffix ي"
+        },
+        {
+          "word": "صَدْرِي",
+          "role": "maf'ul_bihi",
+          "case": "nasb",
+          "explanation": "Direktes Objekt. Akkusativ (geschätzt wegen Suffix)"
+        },
+        {
+          "word": "وَيَسِّرْ",
+          "role": "fi'l",
+          "case": "mabni",
+          "explanation": "وَ + Imperativ 2ms, Form II von ي-س-ر"
+        },
+        {
+          "word": "لِي",
+          "role": "majrur",
+          "case": "mabni",
+          "explanation": "لِ Präposition + Suffix"
+        },
+        {
+          "word": "أَمْرِي",
+          "role": "maf'ul_bihi",
+          "case": "nasb",
+          "explanation": "Direktes Objekt. Akkusativ (geschätzt wegen Suffix)"
+        }
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=20&verse=25"
+    },
+    {
+      "ref": "21:30",
+      "arabic": "أَوَلَمْ يَرَ الَّذِينَ كَفَرُوا أَنَّ السَّمَاوَاتِ وَالْأَرْضَ كَانَتَا رَتْقًا",
+      "words": [
+        {
+          "word": "أَوَلَمْ",
+          "role": "harf",
+          "case": "mabni",
+          "explanation": "أ Fragepartikel + وَ Konjunktion + لم Jazm-Partikel"
+        },
+        {
+          "word": "يَرَ",
+          "role": "fi'l",
+          "case": "jazm",
+          "explanation": "Imperfekt 3ms, Wurzel ر-أ-ي (schwach). Jazm: Wegfall der ا (Alif)"
+        },
+        {
+          "word": "الَّذِينَ",
+          "role": "fail",
+          "case": "mabni",
+          "explanation": "Relativpronomen als Subjekt. Indeklinabel"
+        },
+        {
+          "word": "كَفَرُوا",
+          "role": "fi'l",
+          "case": "mabni",
+          "explanation": "Perfekt 3mp. Relativsatz"
+        },
+        {
+          "word": "أَنَّ",
+          "role": "harf",
+          "case": "mabni",
+          "explanation": "Masdar-Partikel, regiert Ism (Nasb) + Khabar"
+        },
+        {
+          "word": "السَّمَاوَاتِ",
+          "role": "ism_inna",
+          "case": "nasb",
+          "explanation": "Ism von أنّ. Kasra als Akkusativzeichen (gesunder fem. Plural)"
+        },
+        {
+          "word": "وَالْأَرْضَ",
+          "role": "atf",
+          "case": "nasb",
+          "explanation": "وَ + koordiniert zu السماوات. Fatha"
+        },
+        {
+          "word": "كَانَتَا",
+          "role": "fi'l",
+          "case": "mabni",
+          "explanation": "كان Perfekt Dual 3f. Kopulaverb. Khabar-Satz von أنّ"
+        },
+        {
+          "word": "رَتْقًا",
+          "role": "khabar_kana",
+          "case": "nasb",
+          "explanation": "Khabar von كان. Fatha mit Tanwin"
+        }
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=21&verse=30"
+    },
+    {
+      "ref": "24:35",
+      "arabic": "اللَّهُ نُورُ السَّمَاوَاتِ وَالْأَرْضِ",
+      "words": [
+        {
+          "word": "اللَّهُ",
+          "role": "mubtada",
+          "case": "raf'",
+          "explanation": "Mubtada. Damma"
+        },
+        {
+          "word": "نُورُ",
+          "role": "khabar",
+          "case": "raf'",
+          "explanation": "Khabar. Damma. Erstes Glied der Idafa"
+        },
+        {
+          "word": "السَّمَاوَاتِ",
+          "role": "mudaf_ilayh",
+          "case": "jarr",
+          "explanation": "Mudaf ilayhi. Kasra (gesunder fem. Plural)"
+        },
+        {
+          "word": "وَالْأَرْضِ",
+          "role": "atf",
+          "case": "jarr",
+          "explanation": "وَ + koordiniert im Genitiv. Kasra"
+        }
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=24&verse=35"
+    },
+    {
+      "ref": "33:56",
+      "arabic": "إِنَّ اللَّهَ وَمَلَائِكَتَهُ يُصَلُّونَ عَلَى النَّبِيِّ",
+      "words": [
+        {
+          "word": "إِنَّ",
+          "role": "harf",
+          "case": "mabni",
+          "explanation": "Bekräftigungspartikel"
+        },
+        {
+          "word": "اللَّهَ",
+          "role": "ism_inna",
+          "case": "nasb",
+          "explanation": "Ism von إنّ. Fatha"
+        },
+        {
+          "word": "وَمَلَائِكَتَهُ",
+          "role": "atf",
+          "case": "nasb",
+          "explanation": "وَ + koordiniert zum Ism von إنّ. Fatha + Possessivsuffix"
+        },
+        {
+          "word": "يُصَلُّونَ",
+          "role": "khabar_inna",
+          "case": "raf'",
+          "explanation": "Khabar von إنّ als Verbalsatz. Imperfekt 3mp, Raf' durch Nun"
+        },
+        {
+          "word": "عَلَى النَّبِيِّ",
+          "role": "majrur",
+          "case": "jarr",
+          "explanation": "على + النبيّ im Genitiv. Kasra"
+        }
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=33&verse=56"
+    },
+    {
+      "ref": "36:82",
+      "arabic": "إِنَّمَا أَمْرُهُ إِذَا أَرَادَ شَيْئًا أَنْ يَقُولَ لَهُ كُنْ فَيَكُونُ",
+      "words": [
+        {
+          "word": "إِنَّمَا",
+          "role": "harf",
+          "case": "mabni",
+          "explanation": "Beschraenkungspartikel (Hasr): إنّ + ما الكافة"
+        },
+        {
+          "word": "أَمْرُهُ",
+          "role": "mubtada",
+          "case": "raf'",
+          "explanation": "Mubtada. Damma + Possessivsuffix"
+        },
+        {
+          "word": "إِذَا",
+          "role": "zarf",
+          "case": "mabni",
+          "explanation": "Bedingungspartikel (Zarf Zaman)"
+        },
+        {
+          "word": "أَرَادَ",
+          "role": "fi'l",
+          "case": "mabni",
+          "explanation": "Perfekt 3ms, Form IV von ر-و-د. Bedingungssatz"
+        },
+        {
+          "word": "شَيْئًا",
+          "role": "maf'ul_bihi",
+          "case": "nasb",
+          "explanation": "Direktes Objekt. Fatha mit Tanwin"
+        },
+        {
+          "word": "أَنْ",
+          "role": "harf",
+          "case": "mabni",
+          "explanation": "Masdariyya-Partikel. أن + يقول = Masdar als Khabar"
+        },
+        {
+          "word": "يَقُولَ",
+          "role": "fi'l",
+          "case": "nasb",
+          "explanation": "Imperfekt 3ms, Nasb durch أن. Fatha"
+        },
+        {
+          "word": "لَهُ",
+          "role": "majrur",
+          "case": "mabni",
+          "explanation": "لِ + Pronominalsuffix"
+        },
+        {
+          "word": "كُنْ",
+          "role": "fi'l",
+          "case": "mabni",
+          "explanation": "Imperativ 2ms von كان (hohl). Tamme Form: werde/sei"
+        },
+        {
+          "word": "فَيَكُونُ",
+          "role": "fi'l",
+          "case": "raf'",
+          "explanation": "فَ + Imperfekt 3ms, Wurzel ك-و-ن. Raf' (Damma). Ergebnis"
+        }
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=36&verse=82"
+    },
+    {
+      "ref": "39:53",
+      "arabic": "قُلْ يَا عِبَادِيَ الَّذِينَ أَسْرَفُوا عَلَىٰ أَنْفُسِهِمْ لَا تَقْنَطُوا مِنْ رَحْمَةِ اللَّهِ",
+      "words": [
+        {
+          "word": "قُلْ",
+          "role": "fi'l",
+          "case": "mabni",
+          "explanation": "Imperativ 2ms, Wurzel ق-و-ل"
+        },
+        {
+          "word": "يَا",
+          "role": "harf",
+          "case": "mabni",
+          "explanation": "Vokativpartikel"
+        },
+        {
+          "word": "عِبَادِيَ",
+          "role": "munada",
+          "case": "nasb",
+          "explanation": "Munada (Mudaf). Akkusativ (geschätzt) + Possessivsuffix ي"
+        },
+        {
+          "word": "الَّذِينَ",
+          "role": "sifa",
+          "case": "mabni",
+          "explanation": "Relativpronomen als Attribut. Indeklinabel, syntaktisch Akkusativ"
+        },
+        {
+          "word": "أَسْرَفُوا",
+          "role": "fi'l",
+          "case": "mabni",
+          "explanation": "Perfekt 3mp, Form IV von س-ر-ف. Relativsatz"
+        },
+        {
+          "word": "عَلَىٰ أَنْفُسِهِمْ",
+          "role": "majrur",
+          "case": "jarr",
+          "explanation": "على + أنفس im Genitiv (Kasra) + Suffix"
+        },
+        {
+          "word": "لَا",
+          "role": "harf",
+          "case": "mabni",
+          "explanation": "Prohibitivpartikel (لا الناهية)"
+        },
+        {
+          "word": "تَقْنَطُوا",
+          "role": "fi'l",
+          "case": "jazm",
+          "explanation": "Imperfekt 2mp, Wurzel ق-ن-ط. Jazm: Wegfall der Nun"
+        },
+        {
+          "word": "مِنْ رَحْمَةِ",
+          "role": "majrur",
+          "case": "jarr",
+          "explanation": "مِنْ + رحمة im Genitiv. Kasra. Erstes Glied der Idafa"
+        },
+        {
+          "word": "اللَّهِ",
+          "role": "mudaf_ilayh",
+          "case": "jarr",
+          "explanation": "Mudaf ilayhi. Kasra"
+        }
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=39&verse=53"
+    },
+    {
+      "ref": "55:26",
+      "arabic": "كُلُّ مَنْ عَلَيْهَا فَانٍ",
+      "words": [
+        {
+          "word": "كُلُّ",
+          "role": "mubtada",
+          "case": "raf'",
+          "explanation": "Mubtada. Damma. Erstes Glied der Idafa"
+        },
+        {
+          "word": "مَنْ",
+          "role": "mudaf_ilayh",
+          "case": "mabni",
+          "explanation": "Relativpronomen als Mudaf ilayhi. Indeklinabel, syntaktisch Genitiv"
+        },
+        {
+          "word": "عَلَيْهَا",
+          "role": "majrur",
+          "case": "mabni",
+          "explanation": "على + Pronominalsuffix. Jarr wa-Majrur als Relativsatz (Sila)"
+        },
+        {
+          "word": "فَانٍ",
+          "role": "khabar",
+          "case": "raf'",
+          "explanation": "Khabar. Nominativ (Damma geschätzt, da Manqus: ي fällt mit Tanwin weg). Aktives Partizip von ف-ن-ي"
+        }
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=55&verse=26"
+    },
+    {
+      "ref": "59:22",
+      "arabic": "هُوَ اللَّهُ الَّذِي لَا إِلَٰهَ إِلَّا هُوَ عَالِمُ الْغَيْبِ وَالشَّهَادَةِ",
+      "words": [
+        {
+          "word": "هُوَ",
+          "role": "mubtada",
+          "case": "mabni",
+          "explanation": "Pronomen 3ms als Mubtada"
+        },
+        {
+          "word": "اللَّهُ",
+          "role": "khabar",
+          "case": "raf'",
+          "explanation": "Khabar (oder Badal). Damma"
+        },
+        {
+          "word": "الَّذِي",
+          "role": "sifa",
+          "case": "mabni",
+          "explanation": "Relativpronomen als Attribut zu اللّه"
+        },
+        {
+          "word": "لَا",
+          "role": "harf",
+          "case": "mabni",
+          "explanation": "لا النافية للجنس. Generische Negation"
+        },
+        {
+          "word": "إِلَٰهَ",
+          "role": "ism_inna",
+          "case": "nasb",
+          "explanation": "Ism von لا. Mabni auf Fatha (ohne Tanwin)"
+        },
+        {
+          "word": "إِلَّا",
+          "role": "harf",
+          "case": "mabni",
+          "explanation": "Ausnahmepartikel"
+        },
+        {
+          "word": "هُوَ",
+          "role": "badal",
+          "case": "raf'",
+          "explanation": "Badal (Ersetzung). Syntaktisch Nominativ"
+        },
+        {
+          "word": "عَالِمُ",
+          "role": "badal",
+          "case": "raf'",
+          "explanation": "Badal zu اللّه oder weiteres Khabar. Damma. Erstes Glied der Idafa"
+        },
+        {
+          "word": "الْغَيْبِ",
+          "role": "mudaf_ilayh",
+          "case": "jarr",
+          "explanation": "Mudaf ilayhi. Kasra"
+        },
+        {
+          "word": "وَالشَّهَادَةِ",
+          "role": "atf",
+          "case": "jarr",
+          "explanation": "وَ + koordiniert im Genitiv. Kasra"
+        }
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=59&verse=22"
+    }
+  ]
+}

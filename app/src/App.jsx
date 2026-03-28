@@ -16,7 +16,7 @@ import { verifyQuranIntegrity } from './utils/integrity.js'
 import quranData from './data/quran-simple-clean.json'
 import './App.css'
 
-// Lazy-load module pages (placeholder components for now)
+// Lazy-load module pages
 const Module1 = lazy(() => import('./modules/Module1.jsx'))
 const Module2 = lazy(() => import('./modules/Module2.jsx'))
 const Module3 = lazy(() => import('./modules/Module3.jsx'))
@@ -212,6 +212,7 @@ export default function App() {
     '/module/7': 'Modul 7: Fortgeschrittene Stufen',
     '/module/8': 'Modul 8: Werkzeuge',
     '/settings': 'Einstellungen',
+    '/analyse': 'Vers-Analyse',
   }
   const currentModuleName = moduleNames[location.pathname] || 'Quranisches Arabisch'
 

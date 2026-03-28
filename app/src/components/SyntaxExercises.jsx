@@ -11,8 +11,9 @@ import syntaxExt1 from '../data/syntax-exercises-extended.json'
 import syntaxExt2 from '../data/syntax-exercises-extended-2.json'
 import syntaxExt3 from '../data/syntax-exercises-extended-3.json'
 import syntaxExt4 from '../data/syntax-exercises-extended-4.json'
+import syntaxExt5 from '../data/syntax-exercises-extended-5.json'
 
-const allExts = [syntaxExt1, syntaxExt2, syntaxExt3, syntaxExt4]
+const allExts = [syntaxExt1, syntaxExt2, syntaxExt3, syntaxExt4, syntaxExt5]
 const allCats = new Set(syntaxBase.meta?.categories || [])
 allExts.forEach(ext => (ext.meta?.categories || []).forEach(c => allCats.add(c)))
 const exerciseData = {

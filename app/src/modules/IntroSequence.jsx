@@ -33,7 +33,8 @@ const STEPS = [
         <p>
           Der Quran enthält ca. 77.000 Wörter, abgeleitet von ca. 1.800 einzigartigen
           Wurzeln. Die 300 häufigsten Wurzeln decken über 80% des Textes ab.
-          Das ist ein geschlossener Textkorpus. <strong>Das Ziel ist erreichbar.</strong>
+          Das ist ein geschlossener Textkorpus. <strong>Das Ziel ist erreichbar.</strong>{' '}
+          <span style={{ fontSize: '0.8em', color: 'var(--text-muted)' }}>(Datengrundlage: Quranic Arabic Corpus, corpus.quran.com)</span>
         </p>
         <p>
           Bevor eine einzige grammatische Regel gelernt wird, muss eine grundlegende
@@ -152,7 +153,8 @@ const STEPS = [
           verwendeten bereits Punkte um ähnliche Buchstaben zu unterscheiden, nachgewiesen
           bei rāʾ und zāy in nabatäischen Inschriften. In Übergangs-Inschriften
           zwischen Nabatäisch und Arabisch (3.–5. Jahrhundert) wurden diakritische
-          Punkte in mindestens 28 Inschriften gefunden.
+          Punkte in mindestens 28 Inschriften gefunden.{' '}
+          <span style={{ fontSize: '0.8em', color: 'var(--text-muted)' }}>(vgl. Nehmé, L. (2017); Al-Jallad, A. (2020))</span>
         </p>
         <p>
           <strong>Sie interpretieren nicht — sie disambiguieren.</strong> Sie identifizieren

@@ -4,7 +4,7 @@
 
 Ein sprachwissenschaftlicher Zugang zum Arabisch des Quran. Der Kurs behandelt Morphologie, Syntax, Semantik und Rhetorik auf Basis arabischer Lexikographie (Lane's Lexicon) und klassischer Grammatik (Wright's Grammar). Der Schwerpunkt liegt auf dem sprachlichen Verständnis des Textes.
 
-**Hinweis:** Dieser Kurs befindet sich in aktiver Entwicklung und kann Fehler enthalten. Alle Inhalte — grammatische Analysen, Übersetzungen, morphologische Zuordnungen — sollten vom Lernenden eigenständig überprüft werden. Die angegebenen Quellen (Lane's Lexicon, Wright's Grammar, Quranic Arabic Corpus) dienen als Ausgangspunkt für diese Überprüfung.
+**Disclaimer:** Alle Inhalte — grammatische Analysen, Übersetzungen, morphologische Zuordnungen — sollten vom Lernenden eigenständig überprüft werden. Die angegebenen Quellen (Lane's Lexicon, Wright's Grammar, Quranic Arabic Corpus) dienen als Ausgangspunkt für diese Überprüfung.
 
 ## Überblick
 

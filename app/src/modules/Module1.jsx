@@ -633,7 +633,7 @@ function Lesson13({ onBack }) {
             <li>Der STAERKERE Vokal bestimmt den Träger</li>
             <li>Bei Kasra → Ya-Träger (<span className="arabic" dir="rtl">ئ</span>)</li>
             <li>Bei Damma → Waw-Träger (<span className="arabic" dir="rtl">ؤ</span>)</li>
-            <li>Bei Fatha → Alif-Träger (<span className="arabic" dir="rtl">أ</span> am Anfang, <span className="arabic" dir="rtl">إ</span> mit Kasra darunter)</li>
+            <li>Bei Fatha → Alif-Träger (<span className="arabic" dir="rtl">أ</span>)</li>
             <li>Bei Sukun (kein Vokal) → Hamza steht allein auf der Linie (<span className="arabic" dir="rtl">ء</span>)</li>
           </ol>
 
@@ -1889,7 +1889,7 @@ function TestWordReading({ onBack }) {
       { word: 'بسم', letters: 'ب-س-م', meaning: 'im Namen', ref: '1:1' },
       { word: 'الله', letters: 'ا-ل-ل-ه', meaning: 'Gott', ref: '1:1' },
       { word: 'رب', letters: 'ر-ب', meaning: 'Herr', ref: '1:2' },
-      { word: 'ملك', letters: 'م-ل-ك', meaning: 'König/Besitzer', ref: '1:4' },
+      { word: 'ملك', letters: 'م-ل-ك', meaning: 'König', ref: '1:4' },
       { word: 'يوم', letters: 'ي-و-م', meaning: 'Tag', ref: '1:4' },
       { word: 'نعبد', letters: 'ن-ع-ب-د', meaning: 'wir dienen', ref: '1:5' },
       { word: 'صرط', letters: 'ص-ر-ط', meaning: 'Weg', ref: '1:6' },

@@ -309,7 +309,7 @@ const QUICK_WIN_SURAHS = [112, 113, 114, 1]
 // Guided learning path — recommended surah order for learners
 const GUIDED_PATH = [
   { phase: 'Einstieg — Kurze Suren mit einfacher Struktur', surahs: [
-    { surah: 112, name: 'al-Ikhlas', verses: 4, reason: '4 kurze Verse, klare Nominalsätze, grundlegende Syntax' },
+    { surah: 112, name: 'al-Ikhlas', verses: 4, reason: '4 kurze Verse, Mix aus Imperativ, Nominalsatz und negierten Verbalsaetzen' },
     { surah: 113, name: 'al-Falaq', verses: 5, reason: 'Imperative, Idafa-Ketten, Relativsätze' },
     { surah: 114, name: 'an-Nas', verses: 6, reason: 'Wiederholungsstruktur, Idafa, Sifa' },
     { surah: 1, name: 'al-Fatiha', verses: 7, reason: 'Nominalsätze, Idafa, Relativsatz, Verbalsatz' },
@@ -330,7 +330,7 @@ const GUIDED_PATH = [
   ]},
   { phase: 'Fortgeschritten — Lange Suren mit vielschichtiger Syntax', surahs: [
     { surah: 2, name: 'al-Baqara', verses: 286, reason: 'Längste Sure — alle syntaktischen Strukturen vertreten' },
-    { surah: 3, name: 'Al Imran', verses: 200, reason: 'Komplexe Argumentation, verschachtelte Strukturen' },
+    { surah: 3, name: 'Āl ʿImrān', verses: 200, reason: 'Komplexe Argumentation, verschachtelte Strukturen' },
     { surah: 12, name: 'Yusuf', verses: 111, reason: 'Narrativ — Dialog, Zeitformen, indirekte Rede' },
     { surah: 18, name: 'al-Kahf', verses: 110, reason: 'Vier Narrative, Bedingung, Vergleich, Rhetorik' },
   ]},

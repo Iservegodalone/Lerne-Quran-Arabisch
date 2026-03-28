@@ -169,7 +169,7 @@
         { "word": "ذِي الْقَرْنَيْنِ", "location": "18:83", "case": "genitive", "explanation": "Genitiv nach عَنْ: يَسْأَلُونَكَ عَنْ ذِي الْقَرْنَيْنِ — die Form ذِي zeigt den Genitiv der fünfgliedrigen Nomina" },
         { "word": "ذِي الْجَلَالِ", "location": "55:27", "case": "genitive", "explanation": "Genitiv als Adjektiv-Attribut" },
         { "word": "أَخُوهُمْ", "location": "7:65", "case": "nominative", "explanation": "Nominativ als Subjekt: أَخُوهُمْ هُودٌ" },
-        { "word": "فَاهُ", "location": "—", "case": "accusative", "explanation": "فُو mit Pronominalsuffix im Akkusativ (selten im Korantext)" }
+        { "word": "فَاهُ", "location": "—", "case": "accusative", "explanation": "Klassisch-arabisches Beispiel, im Qurantext nicht belegt. فُو mit Pronominalsuffix im Akkusativ." }
       ]
     },
     {
@@ -196,10 +196,12 @@
           "1p": "-نَا",
           "2ms": "-كَ",
           "2fs": "-كِ",
+          "2md": "-كُمَا",
           "2mp": "-كُمْ",
           "2fp": "-كُنَّ",
           "3ms": "-هُ",
           "3fs": "-هَا",
+          "3md": "-هُمَا",
           "3mp": "-هُمْ",
           "3fp": "-هُنَّ"
         }

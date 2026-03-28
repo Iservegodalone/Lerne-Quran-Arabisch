@@ -1,7 +1,8 @@
 {
   "meta": {
     "title": "Mushaf-Notation und Gliederungszeichen",
-    "description": "Referenz für die Zeichen und Markierungen die in gedruckten Mushaf-Ausgaben erscheinen."
+    "description": "Referenz für die Zeichen und Markierungen die in gedruckten Mushaf-Ausgaben erscheinen.",
+    "sources": ["Wright, W. (1896-1898). A Grammar of the Arabic Language", "Quranic Arabic Corpus (corpus.quran.com)"]
   },
   "divisions": [
     {
@@ -45,7 +46,7 @@
       "name": "Basmala (بسملة)",
       "symbol": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
       "description": "Steht vor jeder Sure AUSSER Sure 9 (at-Tawba). In Sure 1 (al-Fatiha) ist sie nach der gängigsten Zählkonvention (kufisch) der erste Vers. Andere Zählsysteme (basrisch) zählen sie nicht als eigenen Vers. In allen anderen Suren steht sie VOR dem ersten Vers und wird nicht als Vers gezählt.",
-      "note": "Sure 27:30 enthält eine Basmala INNERHALB des Textes (im Brief Salomos). Ob sie als eigener Vers zählt, variiert je nach Zählsystem."
+      "note": "Sure 27:30 enthält eine Basmala INNERHALB des Verstextes (im Brief Salomos) — dort ist sie Teil des Verses selbst. Die Frage, ob die Basmala als eigener Vers zählt, betrifft nur die Basmala am Anfang der Suren (d.h. die formelhafte Einleitung vor dem ersten Vers)."
     },
     {
       "id": "surah_header",

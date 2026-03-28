@@ -56,6 +56,8 @@ import phonologySupplementaryData from '../data/phonology-supplementary.json'
 import quranSimpleClean from '../data/quran-simple-clean.json'
 import layerBuildupDrill from '../data/layer-buildup-drill.json'
 import particlesData from '../data/particles.json'
+import caseTriggerData from '../data/case-trigger-reference.json'
+import weakVerbsDerivedData from '../data/weak-verbs-derived-forms.json'
 import { loadQuranRasm, loadQuranUthmani, loadQuranVocalized, loadRootFrequencyComplete, loadMorphologyDB } from '../utils/lazyData.js'
 // Lazy-load all sub-components for code-splitting (reduces initial chunk from 7.6MB)
 const ContinuousReader = lazy(() => import('../components/ContinuousReader.jsx'))
@@ -201,6 +203,8 @@ const VIEWS = {
   LAYER_COMPARE: 'layer_compare',
   LAYER_BUILDUP: 'layer_buildup',
   ANNOTATIONS: 'annotations',
+  CASE_TRIGGER_REF: 'case_trigger_ref',
+  WEAK_VERBS_DERIVED: 'weak_verbs_derived',
 }
 
 // ===== Layer Compare View =====
@@ -2379,6 +2383,101 @@ export default function Module8() {
   // --- Annotations ---
   if (view === VIEWS.ANNOTATIONS) return <AnnotationsView onBack={() => setView(VIEWS.HOME)} />
 
+  // --- Case Trigger Reference ---
+  if (view === VIEWS.CASE_TRIGGER_REF && caseTriggerData) {
+    const cases = caseTriggerData.nominalCases || {}
+    const moods = caseTriggerData.verbalMoods || {}
+    const notes = caseTriggerData.specialNotes || []
+    return (
+      <div style={{ maxWidth: 900, margin: '0 auto' }}>
+        <button onClick={() => setView(VIEWS.HOME)} style={{ background: 'none', border: 'none', color: 'var(--text-secondary)', cursor: 'pointer', fontSize: '0.9rem', padding: '8px 0', marginBottom: 16 }}>Zurück zur Übersicht</button>
+        <h2 style={{ marginBottom: 4 }}>{caseTriggerData.meta?.title || 'Kasusauslöser-Referenz'}</h2>
+        <p style={{ color: 'var(--text-secondary)', fontSize: '0.85rem', marginBottom: 20 }}>{caseTriggerData.meta?.description}</p>
+        <h3 style={{ color: 'var(--accent-teal)', marginBottom: 12 }}>Nominalkasus</h3>
+        {Object.entries(cases).map(([key, c]) => (
+          <div key={key} style={{ background: 'var(--bg-card)', border: '1px solid var(--border)', borderRadius: 8, padding: '16px 20px', marginBottom: 12 }}>
+            <div style={{ display: 'flex', alignItems: 'center', gap: 12, marginBottom: 8 }}>
+              <span className="arabic" style={{ fontSize: '1.3rem' }}>{c.arabicTerm}</span>
+              <strong style={{ textTransform: 'capitalize' }}>{key}</strong>
+              <span style={{ fontSize: '0.85rem', color: 'var(--text-muted)' }}>{c.marker}</span>
+            </div>
+            {c.triggers?.map((t, i) => (
+              <div key={i} style={{ padding: '6px 0', borderTop: i > 0 ? '1px solid var(--border)' : 'none', fontSize: '0.9rem' }}>
+                <span style={{ fontWeight: 600 }}>{t.function}</span>
+                <span className="arabic" style={{ margin: '0 8px', fontSize: '1.1rem' }}>{t.arabicTerm}</span>
+                {t.quranExample && <span style={{ color: 'var(--text-secondary)' }}> — {t.quranExample}</span>}
+              </div>
+            ))}
+          </div>
+        ))}
+        <h3 style={{ color: 'var(--accent-gold)', marginBottom: 12, marginTop: 20 }}>Verbalmodi</h3>
+        {Object.entries(moods).map(([key, m]) => (
+          <div key={key} style={{ background: 'var(--bg-card)', border: '1px solid var(--border)', borderRadius: 8, padding: '16px 20px', marginBottom: 12 }}>
+            <div style={{ display: 'flex', alignItems: 'center', gap: 12, marginBottom: 8 }}>
+              <span className="arabic" style={{ fontSize: '1.3rem' }}>{m.arabicTerm}</span>
+              <strong style={{ textTransform: 'capitalize' }}>{key}</strong>
+              <span style={{ fontSize: '0.85rem', color: 'var(--text-muted)' }}>{m.marker}</span>
+            </div>
+            {m.triggers?.map((t, i) => (
+              <div key={i} style={{ padding: '6px 0', borderTop: i > 0 ? '1px solid var(--border)' : 'none', fontSize: '0.9rem' }}>
+                <span style={{ fontWeight: 600 }}>{t.particle || t.function}</span>
+                {t.arabicTerm && <span className="arabic" style={{ margin: '0 8px', fontSize: '1.1rem' }}>{t.arabicTerm}</span>}
+                {t.quranExample && <span style={{ color: 'var(--text-secondary)' }}> — {t.quranExample}</span>}
+              </div>
+            ))}
+          </div>
+        ))}
+        {notes.length > 0 && (
+          <>
+            <h3 style={{ color: 'var(--text-muted)', marginBottom: 8, marginTop: 20 }}>Hinweise</h3>
+            {notes.map((n, i) => <p key={i} style={{ fontSize: '0.85rem', color: 'var(--text-secondary)', marginBottom: 6 }}>{n}</p>)}
+          </>
+        )}
+      </div>
+    )
+  }
+
+  // --- Weak Verbs Derived Forms ---
+  if (view === VIEWS.WEAK_VERBS_DERIVED && weakVerbsDerivedData) {
+    const entries = weakVerbsDerivedData.entries || []
+    return (
+      <div style={{ maxWidth: 900, margin: '0 auto' }}>
+        <button onClick={() => setView(VIEWS.HOME)} style={{ background: 'none', border: 'none', color: 'var(--text-secondary)', cursor: 'pointer', fontSize: '0.9rem', padding: '8px 0', marginBottom: 16 }}>Zurück zur Übersicht</button>
+        <h2 style={{ marginBottom: 4 }}>{weakVerbsDerivedData.meta?.title || 'Schwache Verben — Abgeleitete Formen'}</h2>
+        <p style={{ color: 'var(--text-secondary)', fontSize: '0.85rem', marginBottom: 20 }}>{weakVerbsDerivedData.meta?.description}</p>
+        {entries.map((e, i) => (
+          <div key={i} style={{ background: 'var(--bg-card)', border: '1px solid var(--border)', borderRadius: 8, padding: '16px 20px', marginBottom: 12 }}>
+            <div style={{ display: 'flex', alignItems: 'center', gap: 12, marginBottom: 8, flexWrap: 'wrap' }}>
+              <span style={{ background: 'var(--accent-teal-bg)', color: 'var(--accent-teal)', padding: '2px 10px', borderRadius: 6, fontSize: '0.85rem', fontWeight: 600 }}>Form {e.form}</span>
+              <span style={{ fontSize: '0.8rem', color: 'var(--text-muted)', textTransform: 'capitalize' }}>{e.weakType?.replace(/_/g, ' ')}</span>
+              <span className="arabic" style={{ fontSize: '1.3rem' }}>{e.root}</span>
+              <span style={{ color: 'var(--text-secondary)', fontSize: '0.9rem' }}>{e.meaning}</span>
+            </div>
+            <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fill, minmax(140px, 1fr))', gap: 8, marginBottom: 8 }}>
+              {[['Perfekt', e.perfect3ms], ['Imperfekt', e.imperfect3ms], ['Imperativ', e.imperative2ms], ['Akt. Part.', e.activeParticiple], ['Pass. Part.', e.passiveParticiple], ['Masdar', e.masdar]].map(([label, val]) => val && (
+                <div key={label} style={{ textAlign: 'center', padding: '6px 4px', background: 'var(--bg-input)', borderRadius: 6 }}>
+                  <div style={{ fontSize: '0.7rem', color: 'var(--text-muted)', marginBottom: 2 }}>{label}</div>
+                  <div className="arabic" style={{ fontSize: '1.1rem' }}>{val}</div>
+                </div>
+              ))}
+            </div>
+            {e.quranicExamples?.length > 0 && (
+              <div style={{ fontSize: '0.85rem', color: 'var(--text-secondary)' }}>
+                {e.quranicExamples.map((ex, j) => (
+                  <span key={j} style={{ marginRight: 12 }}>
+                    <span className="arabic" style={{ fontSize: '1rem' }}>{ex.word}</span>{' '}
+                    <span style={{ color: 'var(--accent-gold)' }}>({ex.location})</span>{' '}
+                    {ex.meaning}
+                  </span>
+                ))}
+              </div>
+            )}
+          </div>
+        ))}
+      </div>
+    )
+  }
+
   return (
     <div className="module-page" style={{ maxWidth: '900px' }}>
       <h2 style={{ marginBottom: '6px' }}>Werkzeuge und Vertiefung</h2>
@@ -2566,6 +2665,26 @@ export default function Module8() {
               Konjugationstabellen, Kasusregeln, Partikeln und Pronomen — alles auf einen Blick.
             </div>
           </button>
+          {caseTriggerData && <button onClick={() => setView(VIEWS.CASE_TRIGGER_REF)} style={{
+            padding: '20px', textAlign: 'left', borderRadius: 'var(--radius-lg)',
+            background: 'var(--bg-card)', border: '1px solid var(--border)', cursor: 'pointer',
+            color: 'var(--text-primary)',
+          }}>
+            <div style={{ fontWeight: 600, marginBottom: '4px' }}>Kasusauslöser-Referenz</div>
+            <div style={{ fontSize: '0.85rem', color: 'var(--text-secondary)' }}>
+              Welche syntaktischen Funktionen und Partikeln lösen welchen Kasus bzw. Modus aus.
+            </div>
+          </button>}
+          {weakVerbsDerivedData && <button onClick={() => setView(VIEWS.WEAK_VERBS_DERIVED)} style={{
+            padding: '20px', textAlign: 'left', borderRadius: 'var(--radius-lg)',
+            background: 'var(--bg-card)', border: '1px solid var(--border)', cursor: 'pointer',
+            color: 'var(--text-primary)',
+          }}>
+            <div style={{ fontWeight: 600, marginBottom: '4px' }}>Schwache Verben — Abgeleitete Formen</div>
+            <div style={{ fontSize: '0.85rem', color: 'var(--text-secondary)' }}>
+              Konjugation schwacher Verben in Formen II-X mit Partizipien, Masdar und Quran-Beispielen.
+            </div>
+          </button>}
           <button onClick={() => setView(VIEWS.HAPAX)} style={{
             padding: '20px', textAlign: 'left', borderRadius: 'var(--radius-lg)',
             background: 'var(--bg-card)', border: '1px solid var(--border)', cursor: 'pointer',

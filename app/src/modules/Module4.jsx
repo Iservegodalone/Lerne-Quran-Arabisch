@@ -33,7 +33,7 @@ import collocationsData from '../data/collocations.json'
 
 // ===== Constants =====
 
-const TOTAL_QURAN_ROOTS = 1642
+const TOTAL_QURAN_ROOTS = 1642 // Basiert auf root-frequency-complete.json (Quranic Arabic Corpus)
 
 import rootMeaningsData from '../data/root-meanings.json'
 const ROOT_MEANINGS_LOOKUP = new Map()

@@ -142,7 +142,7 @@ function getLeechCount(cards) {
 // ============================================================================
 
 const ARABIC_LETTERS = [
-  { letter: 'ا', name: 'Alif', sound: 'a / Vokalträger', transliteration: 'ā / ʾ' },
+  { letter: 'ا', name: 'Alif', sound: 'a / Vokalträger', transliteration: 'ā' },
   { letter: 'ب', name: 'Ba', sound: 'b', transliteration: 'b' },
   { letter: 'ت', name: 'Ta', sound: 't', transliteration: 't' },
   { letter: 'ث', name: 'Tha', sound: 'th (engl.)', transliteration: 'ṯ' },
@@ -291,7 +291,7 @@ const STARTER_VERSES = [
   { surah: 1, verse: 6, analysis: "Imperativ-Bitte: اهدنا (Form I Imperativ + Suffix 1.pl). الصراط المستقيم (Objekt, Akkusativ + Sifa)." },
   { surah: 1, verse: 7, analysis: "Sifa: صراط الذين (Badal). Relativsatz: أنعمت عليهم. Ausnahme: غير المغضوب عليهم. Koordination: ولا الضالين." },
   { surah: 2, verse: 2, analysis: "ذلك الكتاب: Demonstrativ + Nomen. لا ريب فيه: Genus-Negation. هدى للمتقين: Hal oder zweites Khabar." },
-  { surah: 2, verse: 255, analysis: "Komplexer Nominalsatz: الله لا اله الا هو (Genus-Negation + Ausnahme). الحي القيوم (Sifa). لا تأخذه سنة ولا نوم (Genus-Negation). Mehrere Relativsätze." },
+  { surah: 2, verse: 255, analysis: "Komplexer Nominalsatz: الله لا اله الا هو (Genus-Negation + Ausnahme). الحي القيوم (Sifa oder Khabar — beide Analysen syntaktisch moeglich). لا تأخذه سنة ولا نوم (Genus-Negation). Mehrere Relativsätze." },
   { surah: 112, verse: 1, analysis: "Imperativ: قل (Form I). هو الله احد: Nominalsatz. هو = Personalpronomen (Rückbezug) oder Damir al-Sha'n (Pronomen der Sache) — beide Analysen sind möglich. الله = Mubtada'. احد = Khabar." },
   { surah: 112, verse: 2, analysis: "الله الصمد: Nominalsatz. Mubtada' + Khabar. الصمد: Muster fa'al (Nomen). Bedeutungsfeld nach Lane's Lexicon: der Undurchdringliche, der Widerständige, derjenige an den man sich wendet (in Beduerfnissen)." },
   { surah: 112, verse: 3, analysis: "لم يلد: Negation + Jussiv (Form I). ولم يولد: Passiv (Form I) im Jussiv. Identische Wurzel و-ل-د in Aktiv und Passiv." },
@@ -307,12 +307,12 @@ const STARTER_VERSES = [
   { surah: 36, verse: 1, analysis: "يس: Huruf Muqatta'at. Isolierte Buchstaben Ya-Sin." },
   { surah: 55, verse: 1, analysis: "الرحمن: Nominalsatz-Beginn (Mubtada'). Intensivform fa'lan von ر-ح-م." },
   { surah: 55, verse: 2, analysis: "علم القران: Verb Form II (lehrte) + Objekt. Kein explizites Subjekt im Vers — grammatisch fortgesetztes Subjekt aus 55:1 (الرحمن)." },
-  { surah: 67, verse: 1, analysis: "تبارك الذي بيده الملك: Verb (morphologisch Form VI von ب-ر-ك — defektiv: nur Perfekt belegt, kein Imperfekt/Partizip) + Relativsatz. بيده: Jarr wa-Majrur. الملك: Mubtada'. وهو على كل شيء قدير: Nominalsatz." },
+  { surah: 67, verse: 1, analysis: "تبارك الذي بيده الملك: Verb (morphologisch Form VI von ب-ر-ك — jamid (starr): nur Perfekt belegt, kein Imperfekt/Partizip) + Relativsatz. بيده: Jarr wa-Majrur. الملك: Mubtada'. وهو على كل شيء قدير: Nominalsatz." },
   { surah: 96, verse: 1, analysis: "اقرأ: Imperativ Form I (ق-ر-أ). باسم ربك: Jarr wa-Majrur + Idafa-Kette. الذي خلق: Relativsatz." },
   { surah: 96, verse: 2, analysis: "خلق الانسان من علق: Form I + Objekt + Jarr wa-Majrur. Kein Subjekt-Wechsel." },
   { surah: 6, verse: 1, analysis: "الحمد لله الذي خلق: Wie 1:2. Relativsatz mit خلق. وجعل: Koordination. ثم: Sequenzmarker." },
-  { surah: 39, verse: 69, analysis: "وقضي بينهم بالحق: Passiv Form I. بينهم: Zarf. بالحق: Jarr wa-Majrur als Hal oder Tamyiz." },
-  { surah: 2, verse: 285, analysis: "وما انزل اليه: Passiv Form IV (انزل). Relativsatz mit ما. Kein Fa'il — Na'ib al-Fa'il implizit." },
+  { surah: 39, verse: 69, analysis: "وقضي بينهم بالحق: Passiv Form I. بينهم: Zarf. بالحق: Jarr wa-Majrur als Hal (Zustandsangabe)." },
+  { surah: 2, verse: 285, analysis: "وما انزل اليه: Passiv Form IV (انزل). Relativsatz mit ما. ما = Na'ib al-Fa'il." },
 ]
 
 function generateVerseCards(existingCards) {

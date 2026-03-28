@@ -169,7 +169,7 @@
               {
                 "ref": "1:2-5",
                 "arabic": "الحمد لله رب العالمين ... اياك نعبد واياك نستعين",
-                "explanation": "Sure 1 beginnt in der 3. Person: 'Lob gebuehrt Gott' (er wird UEBER Gott gesprochen). In Vers 5 wechselt es abrupt zur 2. Person: 'DIR dienen wir, DICH bitten wir um Hilfe.' Der Effekt: Von Beschreibung zu direkter Anrede. Die Distanz löst sich auf."
+                "explanation": "Sure 1 beginnt in der 3. Person: 'Lob gebuehrt Gott' (er wird UEBER Gott gesprochen). In Vers 5 wechselt es abrupt zur 2. Person: 'DIR dienen wir, DICH bitten wir um Hilfe.' Der Wechsel markiert einen Übergang von Beschreibung zu direkter Anrede."
               },
               {
                 "ref": "10:22",
@@ -369,7 +369,7 @@
               "العسر ist Subjekt, يسرا ist Objekt"
             ],
             "correct": 1,
-            "explanation": "Der Artikel bei العسر markiert Definitheit — es ist DIESELBE Erschwernis. يسرا ohne Artikel ist indefinit — bei jeder Wiederholung könnte es eine ANDERE Erleichterung sein. Grammatisch impliziert die Wiederholung: einer Erschwernis stehen mehrere Erleichterungen gegenüber."
+            "explanation": "Der Artikel bei العسر markiert Definitheit — es ist DIESELBE Erschwernis. يسرا ohne Artikel ist indefinit. Die Indefinitheit von يُسْرًا lässt grammatisch offen, ob es sich um dieselbe oder eine andere Erleichterung handelt."
           }
         ]
       }
@@ -422,11 +422,11 @@
             "options": [
               "Es ist ein Grammatikfehler",
               "Das Objekt war in einem frueheren Vers erwähnt",
-              "Die Auslassung drückt Allgemeinheit und Unbegrenztheit aus",
+              "Die Auslassung lässt das Objekt syntaktisch unbestimmt",
               "Es ist eine Abkürzung"
             ],
             "correct": 2,
-            "explanation": "Die Auslassung des Objekts bei einem transitiven Verb erweitert die Bedeutung: Die Gabe ist nicht auf etwas Bestimmtes beschränkt."
+            "explanation": "Die Auslassung lässt das Objekt syntaktisch unbestimmt — es wird auf nichts Bestimmtes festgelegt."
           }
         ]
       }
