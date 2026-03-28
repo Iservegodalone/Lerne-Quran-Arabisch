@@ -5,10 +5,22 @@
     "generated": "2026-03-23",
     "count": 84,
     "sources": [
-      { "name": "Wright's Grammar Vol I", "url": "https://archive.org/details/WrightsArabicGrammar1Of2" },
-      { "name": "Wright's Grammar Vol II", "url": "https://archive.org/details/grammarofthearab02telerich" },
-      { "name": "Quranic Arabic Corpus", "url": "https://corpus.quran.com/" },
-      { "name": "Lane's Lexicon", "url": "https://ejtaal.net/aa/" }
+      {
+        "name": "Wright's Grammar Vol I",
+        "url": "https://archive.org/details/WrightsArabicGrammar1Of2"
+      },
+      {
+        "name": "Wright's Grammar Vol II",
+        "url": "https://archive.org/details/grammarofthearab02telerich"
+      },
+      {
+        "name": "Quranic Arabic Corpus",
+        "url": "https://corpus.quran.com/"
+      },
+      {
+        "name": "Lane's Lexicon",
+        "url": "https://ejtaal.net/aa/"
+      }
     ]
   },
   "exercises": [
@@ -32,7 +44,8 @@
       ],
       "pos": "Verb",
       "morphology": "PERF|PASS|3MP",
-      "hint": "وَ ist eine Konjunktion (entfernen). Endung وا ist die Personalendung des Perfekts (entfernen). Vierradikalige Wurzel: ز-ل-ز-ل. Perfekt Form I."
+      "hint": "وَ ist eine Konjunktion (entfernen). Endung وا ist die Personalendung des Perfekts (entfernen). Vierradikalige Wurzel: ز-ل-ز-ل. Perfekt Form I.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=214"
     },
     {
       "id": "re002",
@@ -53,7 +66,8 @@
       ],
       "pos": "Nomen",
       "morphology": "M|GEN",
-      "hint": "بِ ist eine Präposition (entfernen). Endung كَ ist ein Pronominalsuffix (entfernen). Die drei Wurzelkonsonanten ي-م-ن bleiben."
+      "hint": "بِ ist eine Präposition (entfernen). Endung كَ ist ein Pronominalsuffix (entfernen). Die drei Wurzelkonsonanten ي-م-ن bleiben.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=20&verse=17"
     },
     {
       "id": "re003",
@@ -74,7 +88,8 @@
       ],
       "pos": "Verb",
       "morphology": "PERF|(IV)|3MS",
-      "hint": "فَ ist eine Konjunktion (entfernen). Endung هم ist ein Pronominalsuffix (entfernen). Die drei Wurzelkonsonanten ت-ب-ع bleiben. Perfekt Form IV."
+      "hint": "فَ ist eine Konjunktion (entfernen). Endung هم ist ein Pronominalsuffix (entfernen). Die drei Wurzelkonsonanten ت-ب-ع bleiben. Perfekt Form IV.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=10&verse=90"
     },
     {
       "id": "re004",
@@ -93,7 +108,8 @@
       "suffixes": [],
       "pos": "Verb",
       "morphology": "IMPF|3MS",
-      "hint": "ي ist das Imperfekt-Präfix (zeigt Person an, gehört nicht zur Wurzel). Die drei Wurzelkonsonanten م-ح-و bleiben. Imperfekt Form I."
+      "hint": "ي ist das Imperfekt-Präfix (zeigt Person an, gehört nicht zur Wurzel). Die drei Wurzelkonsonanten م-ح-و bleiben. Imperfekt Form I.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=13&verse=39"
     },
     {
       "id": "re005",
@@ -114,7 +130,8 @@
       ],
       "pos": "Verb",
       "morphology": "PERF|(II)|3MP",
-      "hint": "وَ ist eine Konjunktion (entfernen). Endung وا ist die Personalendung des Perfekts (entfernen). Die drei Wurzelkonsonanten ح-ر-م bleiben. Perfekt Form II."
+      "hint": "وَ ist eine Konjunktion (entfernen). Endung وا ist die Personalendung des Perfekts (entfernen). Die drei Wurzelkonsonanten ح-ر-م bleiben. Perfekt Form II.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=6&verse=140"
     },
     {
       "id": "re006",
@@ -133,7 +150,8 @@
       "suffixes": [],
       "pos": "Verb",
       "morphology": "PERF|(VII)|3MS",
-      "hint": "فَ ist eine Konjunktion (entfernen). Die drei Wurzelkonsonanten ه-و-ر bleiben. Perfekt Form VII."
+      "hint": "فَ ist eine Konjunktion (entfernen). Die drei Wurzelkonsonanten ه-و-ر bleiben. Perfekt Form VII.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=9&verse=109"
     },
     {
       "id": "re007",
@@ -154,7 +172,8 @@
       ],
       "pos": "Verb",
       "morphology": "PERF|(IV)|3MS",
-      "hint": "أَ ist das Präfix der Form IV (entfernen). Endung ه ist ein Pronominalsuffix (entfernen). Die drei Wurzelkonsonanten د-ر-ك bleiben. Perfekt Form IV."
+      "hint": "أَ ist das Präfix der Form IV (entfernen). Endung ه ist ein Pronominalsuffix (entfernen). Die drei Wurzelkonsonanten د-ر-ك bleiben. Perfekt Form IV.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=10&verse=90"
     },
     {
       "id": "re008",
@@ -173,7 +192,8 @@
       "suffixes": [],
       "pos": "Nomen",
       "morphology": "MP|ACC",
-      "hint": "ال ist der Definitartikel (entfernen). Die drei Wurzelkonsonanten ق-ع-د bleiben."
+      "hint": "ال ist der Definitartikel (entfernen). Die drei Wurzelkonsonanten ق-ع-د bleiben.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=127"
     },
     {
       "id": "re009",
@@ -192,7 +212,8 @@
       "suffixes": [],
       "pos": "Nomen",
       "morphology": "M|INDEF|GEN",
-      "hint": "بِ ist eine Präposition (entfernen). Die drei Wurzelkonsonanten د-ي-ن bleiben."
+      "hint": "بِ ist eine Präposition (entfernen). Die drei Wurzelkonsonanten د-ي-ن bleiben.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=282"
     },
     {
       "id": "re010",
@@ -211,7 +232,8 @@
       ],
       "pos": "Verb",
       "morphology": "PERF|1P",
-      "hint": "Endung نا ist ein Pronominalsuffix (entfernen). فَ ist KEIN Präfix, sondern der erste Radikal der Wurzel ف-ت-ح. Die drei Wurzelkonsonanten ف-ت-ح bleiben. Perfekt Form I."
+      "hint": "Endung نا ist ein Pronominalsuffix (entfernen). فَ ist KEIN Präfix, sondern der erste Radikal der Wurzel ف-ت-ح. Die drei Wurzelkonsonanten ف-ت-ح bleiben. Perfekt Form I.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=6&verse=44"
     },
     {
       "id": "re011",
@@ -230,7 +252,8 @@
       ],
       "pos": "Verb",
       "morphology": "PERF|3MS",
-      "hint": "Endung نا ist ein Pronominalsuffix (entfernen). وَ ist KEIN Präfix, sondern der erste Radikal der Wurzel و-ع-د. Die drei Wurzelkonsonanten و-ع-د bleiben. Perfekt Form I."
+      "hint": "Endung نا ist ein Pronominalsuffix (entfernen). وَ ist KEIN Präfix, sondern der erste Radikal der Wurzel و-ع-د. Die drei Wurzelkonsonanten و-ع-د bleiben. Perfekt Form I.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=7&verse=44"
     },
     {
       "id": "re012",
@@ -249,7 +272,8 @@
       "suffixes": [],
       "pos": "Nomen",
       "morphology": "MP|INDEF|GEN",
-      "hint": "بِ ist eine Präposition (entfernen). Die drei Wurzelkonsonanten ر-س-ل bleiben."
+      "hint": "بِ ist eine Präposition (entfernen). Die drei Wurzelkonsonanten ر-س-ل bleiben.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=6&verse=10"
     },
     {
       "id": "re014",
@@ -270,7 +294,8 @@
       ],
       "pos": "Nomen",
       "morphology": "ACT|PCPL|MP|NOM",
-      "hint": "ال ist der Definitartikel (entfernen). Endung ون ist das Pluralsuffix (gesunder mask. Plural, entfernen). Die drei Wurzelkonsonanten ص-د-ق bleiben. Muster: فَاعِل (Aktivpartizip Form I)."
+      "hint": "ال ist der Definitartikel (entfernen). Endung ون ist das Pluralsuffix (gesunder mask. Plural, entfernen). Die drei Wurzelkonsonanten ص-د-ق bleiben. Muster: فَاعِل (Aktivpartizip Form I).",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=49&verse=15"
     },
     {
       "id": "re015",
@@ -291,7 +316,8 @@
       ],
       "pos": "Verb",
       "morphology": "PERF|2MP",
-      "hint": "وَ ist eine Konjunktion (entfernen). Endung تم ist die Personalendung des Perfekts (entfernen). Die drei Wurzelkonsonanten س-ك-ن bleiben. Perfekt Form I."
+      "hint": "وَ ist eine Konjunktion (entfernen). Endung تم ist die Personalendung des Perfekts (entfernen). Die drei Wurzelkonsonanten س-ك-ن bleiben. Perfekt Form I.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=14&verse=45"
     },
     {
       "id": "re016",
@@ -310,7 +336,8 @@
       ],
       "pos": "Nomen",
       "morphology": "FP|ACC",
-      "hint": "Endung كم ist ein Pronominalsuffix (entfernen). أَنْفُس ist ein gebrochener Plural (Muster أَفْعُل). Die drei Wurzelkonsonanten ن-ف-س bleiben."
+      "hint": "Endung كم ist ein Pronominalsuffix (entfernen). أَنْفُس ist ein gebrochener Plural (Muster أَفْعُل). Die drei Wurzelkonsonanten ن-ف-س bleiben.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=66&verse=6"
     },
     {
       "id": "re017",
@@ -331,7 +358,8 @@
       ],
       "pos": "Verb",
       "morphology": "IMPF|2MP|MOOD:JUS",
-      "hint": "ت ist das Imperfekt-Präfix (zeigt Person an, gehört nicht zur Wurzel). Endung وا ist die Personalendung des Imperfekts 2. Person mask. Plural (entfernen). Die drei Wurzelkonsonanten و-ه-ن bleiben. Imperfekt Form I (Jussiv)."
+      "hint": "ت ist das Imperfekt-Präfix (zeigt Person an, gehört nicht zur Wurzel). Endung وا ist die Personalendung des Imperfekts 2. Person mask. Plural (entfernen). Die drei Wurzelkonsonanten و-ه-ن bleiben. Imperfekt Form I (Jussiv).",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=139"
     },
     {
       "id": "re018",
@@ -352,7 +380,8 @@
       ],
       "pos": "Verb",
       "morphology": "IMPV|(III)|2MP",
-      "hint": "وَ ist eine Konjunktion (entfernen). Endung وا ist die Personalendung des Imperativs (entfernen). Die drei Wurzelkonsonanten ر-ب-ط bleiben. Imperativ Form III."
+      "hint": "وَ ist eine Konjunktion (entfernen). Endung وا ist die Personalendung des Imperativs (entfernen). Die drei Wurzelkonsonanten ر-ب-ط bleiben. Imperativ Form III.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=200"
     },
     {
       "id": "re019",
@@ -374,7 +403,8 @@
       ],
       "pos": "Verb",
       "morphology": "IMPF|3MP",
-      "hint": "لَ ist ein Bekräftigungspartikel (entfernen). ي ist das Imperfekt-Präfix (zeigt Person an, gehört nicht zur Wurzel). Endung ون ist das Pluralsuffix (gesunder mask. Plural, entfernen). Die drei Wurzelkonsonanten ا-ك-ل bleiben. Imperfekt Form I."
+      "hint": "لَ ist ein Bekräftigungspartikel (entfernen). ي ist das Imperfekt-Präfix (zeigt Person an, gehört nicht zur Wurzel). Endung ون ist das Pluralsuffix (gesunder mask. Plural, entfernen). Die drei Wurzelkonsonanten ا-ك-ل bleiben. Imperfekt Form I.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=9&verse=34"
     },
     {
       "id": "re020",
@@ -396,7 +426,8 @@
       ],
       "pos": "Verb",
       "morphology": "PERF|(IV)|2MP",
-      "hint": "أَ ist das Präfix der Form IV (entfernen). Endung تُمُونِ besteht aus der Personalendung تُمُ (Perfekt 2mp) und dem Objektsuffix ونِ (1. Person Singular). Die drei Wurzelkonsonanten ش-ر-ك bleiben. Perfekt Form IV."
+      "hint": "أَ ist das Präfix der Form IV (entfernen). Endung تُمُونِ besteht aus der Personalendung تُمُ (Perfekt 2mp) und dem Objektsuffix ونِ (1. Person Singular). Die drei Wurzelkonsonanten ش-ر-ك bleiben. Perfekt Form IV.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=14&verse=22"
     },
     {
       "id": "re021",
@@ -415,7 +446,8 @@
       "suffixes": [],
       "pos": "Verb",
       "morphology": "IMPF|(II)|3MS",
-      "hint": "ي ist das Imperfekt-Präfix (zeigt Person an, gehört nicht zur Wurzel). Die drei Wurzelkonsonanten ذ-ب-ح bleiben. Imperfekt Form II."
+      "hint": "ي ist das Imperfekt-Präfix (zeigt Person an, gehört nicht zur Wurzel). Die drei Wurzelkonsonanten ذ-ب-ح bleiben. Imperfekt Form II.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=28&verse=4"
     },
     {
       "id": "re022",
@@ -436,7 +468,8 @@
       ],
       "pos": "Verb",
       "morphology": "PERF|PASS|(IV)|3MP",
-      "hint": "أُ ist das Präfix der Form IV im Passiv (entfernen). Endung وا ist die Personalendung des Perfekts (entfernen). Die drei Wurzelkonsonanten ب-س-ل bleiben. Perfekt Form IV (Passiv)."
+      "hint": "أُ ist das Präfix der Form IV im Passiv (entfernen). Endung وا ist die Personalendung des Perfekts (entfernen). Die drei Wurzelkonsonanten ب-س-ل bleiben. Perfekt Form IV (Passiv).",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=6&verse=70"
     },
     {
       "id": "re023",
@@ -457,7 +490,8 @@
       ],
       "pos": "Verb",
       "morphology": "IMPF|2MS|MOOD:JUS",
-      "hint": "ت ist das Imperfekt-Präfix (zeigt Person an, gehört nicht zur Wurzel). Endung هم ist ein Pronominalsuffix (entfernen). Die drei Wurzelkonsonanten ا-ت-ي bleiben. Imperfekt Form I."
+      "hint": "ت ist das Imperfekt-Präfix (zeigt Person an, gehört nicht zur Wurzel). Endung هم ist ein Pronominalsuffix (entfernen). Die drei Wurzelkonsonanten ا-ت-ي bleiben. Imperfekt Form I.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=7&verse=203"
     },
     {
       "id": "re024",
@@ -476,7 +510,8 @@
       "suffixes": [],
       "pos": "Verb",
       "morphology": "IMPF|3MS",
-      "hint": "ي ist das Imperfekt-Präfix (zeigt Person an, gehört nicht zur Wurzel). Die drei Wurzelkonsonanten ن-ي-ل bleiben. Imperfekt Form I."
+      "hint": "ي ist das Imperfekt-Präfix (zeigt Person an, gehört nicht zur Wurzel). Die drei Wurzelkonsonanten ن-ي-ل bleiben. Imperfekt Form I.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=124"
     },
     {
       "id": "re025",
@@ -497,7 +532,8 @@
       ],
       "pos": "Verb",
       "morphology": "IMPF|PASS|3MP",
-      "hint": "ي ist das Imperfekt-Präfix (zeigt Person an, gehört nicht zur Wurzel). Endung ون ist das Pluralsuffix (gesunder mask. Plural, entfernen). Die drei Wurzelkonsonanten ر-د-د bleiben. Imperfekt Form I."
+      "hint": "ي ist das Imperfekt-Präfix (zeigt Person an, gehört nicht zur Wurzel). Endung ون ist das Pluralsuffix (gesunder mask. Plural, entfernen). Die drei Wurzelkonsonanten ر-د-د bleiben. Imperfekt Form I.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=85"
     },
     {
       "id": "re026",
@@ -518,7 +554,8 @@
       ],
       "pos": "Verb",
       "morphology": "IMPV|(IV)|2MS",
-      "hint": "وَ ist eine Konjunktion (entfernen). Endung نِي ist ein Pronominalsuffix (entfernen). Die drei Wurzelkonsonanten د-خ-ل bleiben. Imperativ Form IV."
+      "hint": "وَ ist eine Konjunktion (entfernen). Endung نِي ist ein Pronominalsuffix (entfernen). Die drei Wurzelkonsonanten د-خ-ل bleiben. Imperativ Form IV.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=27&verse=19"
     },
     {
       "id": "re027",
@@ -535,7 +572,8 @@
       "suffixes": [],
       "pos": "Nomen",
       "morphology": "MP|INDEF|GEN",
-      "hint": "أَفْنَان ist ein gebrochener Plural (Muster أَفْعَال). Das أ gehört zum Pluralmuster, nicht zur Wurzel. Die drei Wurzelkonsonanten ف-ن-ن bleiben."
+      "hint": "أَفْنَان ist ein gebrochener Plural (Muster أَفْعَال). Das أ gehört zum Pluralmuster, nicht zur Wurzel. Die drei Wurzelkonsonanten ف-ن-ن bleiben.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=55&verse=48"
     },
     {
       "id": "re028",
@@ -552,7 +590,8 @@
       "suffixes": [],
       "pos": "Nomen",
       "morphology": "MS|INDEF|ACC",
-      "hint": "ي ist KEIN Präfix, sondern der erste Radikal der Wurzel ي-س-ر. Die drei Wurzelkonsonanten ي-س-ر bleiben."
+      "hint": "ي ist KEIN Präfix, sondern der erste Radikal der Wurzel ي-س-ر. Die drei Wurzelkonsonanten ي-س-ر bleiben.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=30"
     },
     {
       "id": "re029",
@@ -571,7 +610,8 @@
       ],
       "pos": "Verb",
       "morphology": "PERF|3MP",
-      "hint": "Endung وا ist die Personalendung des Perfekts (entfernen). Die drei Wurzelkonsonanten ع-ز-م bleiben. Perfekt Form I."
+      "hint": "Endung وا ist die Personalendung des Perfekts (entfernen). Die drei Wurzelkonsonanten ع-ز-م bleiben. Perfekt Form I.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=227"
     },
     {
       "id": "re030",
@@ -590,7 +630,8 @@
       "suffixes": [],
       "pos": "Nomen",
       "morphology": "M|INDEF|ACC",
-      "hint": "وَ ist eine Konjunktion (entfernen). Die drei Wurzelkonsonanten ه-د-ي bleiben."
+      "hint": "وَ ist eine Konjunktion (entfernen). Die drei Wurzelkonsonanten ه-د-ي bleiben.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=97"
     },
     {
       "id": "re031",
@@ -609,7 +650,8 @@
       ],
       "pos": "Adjektiv",
       "morphology": "FS|INDEF|GEN",
-      "hint": "ة (Ta Marbuta) ist ein Femininzeichen (entfernen). Die drei Wurzelkonsonanten ل-ذ-ذ bleiben."
+      "hint": "ة (Ta Marbuta) ist ein Femininzeichen (entfernen). Die drei Wurzelkonsonanten ل-ذ-ذ bleiben.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=37&verse=46"
     },
     {
       "id": "re032",
@@ -629,7 +671,8 @@
       "suffixes": [],
       "pos": "Verb",
       "morphology": "IMPF|(II)|3MS|MOOD:SUBJ",
-      "hint": "لِ ist eine Präposition (entfernen). ي ist das Imperfekt-Präfix (zeigt Person an, gehört nicht zur Wurzel). Die drei Wurzelkonsonanten ث-ب-ت bleiben. Imperfekt Form II (Subjunktiv)."
+      "hint": "لِ ist eine Präposition (entfernen). ي ist das Imperfekt-Präfix (zeigt Person an, gehört nicht zur Wurzel). Die drei Wurzelkonsonanten ث-ب-ت bleiben. Imperfekt Form II (Subjunktiv).",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=16&verse=102"
     },
     {
       "id": "re033",
@@ -650,7 +693,8 @@
       ],
       "pos": "Nomen",
       "morphology": "MS|GEN",
-      "hint": "لِ ist eine Präposition (entfernen). Endung هِ ist ein Pronominalsuffix (entfernen). Die drei Wurzelkonsonanten ا-خ-و bleiben."
+      "hint": "لِ ist eine Präposition (entfernen). Endung هِ ist ein Pronominalsuffix (entfernen). Die drei Wurzelkonsonanten ا-خ-و bleiben.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=7&verse=142"
     },
     {
       "id": "re034",
@@ -672,7 +716,8 @@
       ],
       "pos": "Verb",
       "morphology": "IMPF|(II)|2MP|MOOD:SUBJ",
-      "hint": "وَ ist eine Konjunktion (entfernen). ت ist das Imperfekt-Präfix (zeigt Person an, gehört nicht zur Wurzel). Endung ه ist ein Pronominalsuffix (entfernen). Die drei Wurzelkonsonanten ع-ز-ر bleiben. Imperfekt Form II."
+      "hint": "وَ ist eine Konjunktion (entfernen). ت ist das Imperfekt-Präfix (zeigt Person an, gehört nicht zur Wurzel). Endung ه ist ein Pronominalsuffix (entfernen). Die drei Wurzelkonsonanten ع-ز-ر bleiben. Imperfekt Form II.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=48&verse=9"
     },
     {
       "id": "re035",
@@ -694,7 +739,8 @@
       ],
       "pos": "Verb",
       "morphology": "PERF|(III)|3FS",
-      "hint": "فَ ist eine Konjunktion (entfernen). Endung تْ ist das Femininsuffix des Perfekts (entfernen). Endung هُ ist ein Pronominalsuffix (entfernen). Die drei Wurzelkonsonanten ن-د-و bleiben. Perfekt Form III."
+      "hint": "فَ ist eine Konjunktion (entfernen). Endung تْ ist das Femininsuffix des Perfekts (entfernen). Endung هُ ist ein Pronominalsuffix (entfernen). Die drei Wurzelkonsonanten ن-د-و bleiben. Perfekt Form III.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=39"
     },
     {
       "id": "re036",
@@ -714,7 +760,8 @@
       "suffixes": [],
       "pos": "Verb",
       "morphology": "IMPF|(IV)|3MS",
-      "hint": "وَ ist eine Konjunktion (entfernen). ي ist das Imperfekt-Präfix (zeigt Person an, gehört nicht zur Wurzel). Die drei Wurzelkonsonanten م-و-ت bleiben. Imperfekt Form IV."
+      "hint": "وَ ist eine Konjunktion (entfernen). ي ist das Imperfekt-Präfix (zeigt Person an, gehört nicht zur Wurzel). Die drei Wurzelkonsonanten م-و-ت bleiben. Imperfekt Form IV.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=258"
     },
     {
       "id": "re037",
@@ -735,7 +782,8 @@
       ],
       "pos": "Nomen",
       "morphology": "M|GEN",
-      "hint": "بِ ist eine Präposition (entfernen). Endung هِ ist ein Pronominalsuffix (entfernen). Die drei Wurzelkonsonanten ع-ل-م bleiben."
+      "hint": "بِ ist eine Präposition (entfernen). Endung هِ ist ein Pronominalsuffix (entfernen). Die drei Wurzelkonsonanten ع-ل-م bleiben.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=166"
     },
     {
       "id": "re038",
@@ -758,7 +806,8 @@
       ],
       "pos": "Verb",
       "morphology": "IMPF|(X)|3MP",
-      "hint": "وَ ist eine Konjunktion (entfernen). ي ist das Imperfekt-Präfix (zeigt Person an, gehört nicht zur Wurzel). Endung ون ist das Pluralsuffix (entfernen). Endung ه ist ein Pronominalsuffix (entfernen). Die drei Wurzelkonsonanten غ-ف-ر bleiben. Imperfekt Form X."
+      "hint": "وَ ist eine Konjunktion (entfernen). ي ist das Imperfekt-Präfix (zeigt Person an, gehört nicht zur Wurzel). Endung ون ist das Pluralsuffix (entfernen). Endung ه ist ein Pronominalsuffix (entfernen). Die drei Wurzelkonsonanten غ-ف-ر bleiben. Imperfekt Form X.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=5&verse=74"
     },
     {
       "id": "re039",
@@ -777,7 +826,8 @@
       "suffixes": [],
       "pos": "Nomen",
       "morphology": "M|NOM",
-      "hint": "ال ist der Definitartikel (entfernen). Die drei Wurzelkonsonanten م-ه-د bleiben."
+      "hint": "ال ist der Definitartikel (entfernen). Die drei Wurzelkonsonanten م-ه-د bleiben.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=206"
     },
     {
       "id": "re040",
@@ -798,7 +848,8 @@
       ],
       "pos": "Verb",
       "morphology": "IMPV|(VIII)|2MP",
-      "hint": "فَ ist eine Konjunktion (entfernen). Endung وا ist die Personalendung des Imperativs (entfernen). Die drei Wurzelkonsonanten ن-ش-ر bleiben. Imperativ Form VIII."
+      "hint": "فَ ist eine Konjunktion (entfernen). Endung وا ist die Personalendung des Imperativs (entfernen). Die drei Wurzelkonsonanten ن-ش-ر bleiben. Imperativ Form VIII.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=33&verse=53"
     },
     {
       "id": "re041",
@@ -819,7 +870,8 @@
       ],
       "pos": "Verb",
       "morphology": "PERF|3MS",
-      "hint": "فَ ist eine Konjunktion (entfernen). Endung هم ist ein Pronominalsuffix (entfernen). Die drei Wurzelkonsonanten ج-ع-ل bleiben. Perfekt Form I."
+      "hint": "فَ ist eine Konjunktion (entfernen). Endung هم ist ein Pronominalsuffix (entfernen). Die drei Wurzelkonsonanten ج-ع-ل bleiben. Perfekt Form I.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=21&verse=58"
     },
     {
       "id": "re042",
@@ -838,7 +890,8 @@
       "suffixes": [],
       "pos": "Nomen",
       "morphology": "F|NOM",
-      "hint": "ال ist der Definitartikel (entfernen). Die drei Wurzelkonsonanten ك-ب-ر bleiben."
+      "hint": "ال ist der Definitartikel (entfernen). Die drei Wurzelkonsonanten ك-ب-ر bleiben.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=10&verse=78"
     },
     {
       "id": "re043",
@@ -857,7 +910,8 @@
       ],
       "pos": "Nomen",
       "morphology": "MP|ACC",
-      "hint": "أَبْنَاء ist ein gebrochener Plural (Muster أَفْعَال). Das أ gehört zum Pluralmuster, nicht zur Wurzel. Endung نا ist ein Pronominalsuffix (entfernen). Die drei Wurzelkonsonanten ب-ن-ي bleiben."
+      "hint": "أَبْنَاء ist ein gebrochener Plural (Muster أَفْعَال). Das أ gehört zum Pluralmuster, nicht zur Wurzel. Endung نا ist ein Pronominalsuffix (entfernen). Die drei Wurzelkonsonanten ب-ن-ي bleiben.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=61"
     },
     {
       "id": "re044",
@@ -880,7 +934,8 @@
       ],
       "pos": "Verb",
       "morphology": "IMPF|(IV)|3MP",
-      "hint": "وَ ist eine Konjunktion (entfernen). ي ist das Imperfekt-Präfix (zeigt Person an, gehört nicht zur Wurzel). Endung ون ist das Pluralsuffix (entfernen). Endung ه ist ein Pronominalsuffix (entfernen). Die drei Wurzelkonsonanten ح-ب-ب bleiben. Imperfekt Form IV."
+      "hint": "وَ ist eine Konjunktion (entfernen). ي ist das Imperfekt-Präfix (zeigt Person an, gehört nicht zur Wurzel). Endung ون ist das Pluralsuffix (entfernen). Endung ه ist ein Pronominalsuffix (entfernen). Die drei Wurzelkonsonanten ح-ب-ب bleiben. Imperfekt Form IV.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=5&verse=54"
     },
     {
       "id": "re045",
@@ -899,7 +954,8 @@
       "suffixes": [],
       "pos": "Nomen",
       "morphology": "MP|GEN",
-      "hint": "ال ist der Definitartikel (entfernen). Die drei Wurzelkonsonanten ن-و-س bleiben."
+      "hint": "ال ist der Definitartikel (entfernen). Die drei Wurzelkonsonanten ن-و-س bleiben.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=8"
     },
     {
       "id": "re046",
@@ -921,7 +977,8 @@
       ],
       "pos": "Nomen",
       "morphology": "ACT|PCPL|FP|ACC",
-      "hint": "وَ ist eine Konjunktion (entfernen). ال ist der Definitartikel (entfernen). Endung ات ist das feminine Pluralsuffix (entfernen). Die drei Wurzelkonsonanten خ-ش-ع bleiben. Muster: فَاعِل (Aktivpartizip Form I)."
+      "hint": "وَ ist eine Konjunktion (entfernen). ال ist der Definitartikel (entfernen). Endung ات ist das feminine Pluralsuffix (entfernen). Die drei Wurzelkonsonanten خ-ش-ع bleiben. Muster: فَاعِل (Aktivpartizip Form I).",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=33&verse=35"
     },
     {
       "id": "re047",
@@ -942,7 +999,8 @@
       ],
       "pos": "Nomen",
       "morphology": "FP|GEN",
-      "hint": "بِ ist eine Präposition (entfernen). Endung هِ ist ein Pronominalsuffix (entfernen). Die drei Wurzelkonsonanten ك-ل-م bleiben."
+      "hint": "بِ ist eine Präposition (entfernen). Endung هِ ist ein Pronominalsuffix (entfernen). Die drei Wurzelkonsonanten ك-ل-م bleiben.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=8&verse=7"
     },
     {
       "id": "re048",
@@ -961,7 +1019,8 @@
       "suffixes": [],
       "pos": "Verb",
       "morphology": "PERF|(II)|3MS",
-      "hint": "فَ ist eine Konjunktion (entfernen). Die drei Wurzelkonsonanten ص-ل-و bleiben. Perfekt Form II."
+      "hint": "فَ ist eine Konjunktion (entfernen). Die drei Wurzelkonsonanten ص-ل-و bleiben. Perfekt Form II.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=87&verse=15"
     },
     {
       "id": "re049",
@@ -982,7 +1041,8 @@
       ],
       "pos": "Verb",
       "morphology": "IMPF|3MP",
-      "hint": "ي ist das Imperfekt-Präfix (zeigt Person an, gehört nicht zur Wurzel). Endung ون ist das Pluralsuffix (gesunder mask. Plural, entfernen). Die drei Wurzelkonsonanten ط-م-ع bleiben. Imperfekt Form I."
+      "hint": "ي ist das Imperfekt-Präfix (zeigt Person an, gehört nicht zur Wurzel). Endung ون ist das Pluralsuffix (gesunder mask. Plural, entfernen). Die drei Wurzelkonsonanten ط-م-ع bleiben. Imperfekt Form I.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=7&verse=46"
     },
     {
       "id": "re050",
@@ -1003,7 +1063,8 @@
       ],
       "pos": "Verb",
       "morphology": "IMPF|2MP",
-      "hint": "ت ist das Imperfekt-Präfix (zeigt Person an, gehört nicht zur Wurzel). Endung ون ist das Pluralsuffix (gesunder mask. Plural, entfernen). Die drei Wurzelkonsonanten ر-ك-ب bleiben. Imperfekt Form I."
+      "hint": "ت ist das Imperfekt-Präfix (zeigt Person an, gehört nicht zur Wurzel). Endung ون ist das Pluralsuffix (gesunder mask. Plural, entfernen). Die drei Wurzelkonsonanten ر-ك-ب bleiben. Imperfekt Form I.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=43&verse=12"
     },
     {
       "id": "re051",
@@ -1022,7 +1083,8 @@
       "suffixes": [],
       "pos": "Verb",
       "morphology": "IMPV|(II)|2MS",
-      "hint": "وَ ist eine Konjunktion (entfernen). Die drei Wurzelkonsonanten ه-ي-ا bleiben. Imperativ Form II."
+      "hint": "وَ ist eine Konjunktion (entfernen). Die drei Wurzelkonsonanten ه-ي-ا bleiben. Imperativ Form II.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=18&verse=10"
     },
     {
       "id": "re052",
@@ -1043,7 +1105,8 @@
       ],
       "pos": "Nomen",
       "morphology": "FP|NOM",
-      "hint": "وَ ist eine Konjunktion (entfernen). Endung ات ist das feminine Pluralsuffix (entfernen). Die drei Wurzelkonsonanten ب-ن-ي bleiben."
+      "hint": "وَ ist eine Konjunktion (entfernen). Endung ات ist das feminine Pluralsuffix (entfernen). Die drei Wurzelkonsonanten ب-ن-ي bleiben.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=23"
     },
     {
       "id": "re053",
@@ -1064,7 +1127,8 @@
       ],
       "pos": "Verb",
       "morphology": "IMPV|(IV)|2MP",
-      "hint": "وَ ist eine Konjunktion (entfernen). Endung وا ist die Personalendung des Imperativs (entfernen). Die drei Wurzelkonsonanten ش-ه-د bleiben. Imperativ Form IV."
+      "hint": "وَ ist eine Konjunktion (entfernen). Endung وا ist die Personalendung des Imperativs (entfernen). Die drei Wurzelkonsonanten ش-ه-د bleiben. Imperativ Form IV.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=282"
     },
     {
       "id": "re054",
@@ -1085,7 +1149,8 @@
       ],
       "pos": "Verb",
       "morphology": "IMPF|1S",
-      "hint": "أ ist das Imperfekt-Präfix der 1. Person Singular (zeigt Person an, gehört nicht zur Wurzel). Endung كم ist ein Pronominalsuffix (entfernen). Die drei Wurzelkonsonanten ب-غ-ي bleiben. Imperfekt Form I."
+      "hint": "أ ist das Imperfekt-Präfix der 1. Person Singular (zeigt Person an, gehört nicht zur Wurzel). Endung كم ist ein Pronominalsuffix (entfernen). Die drei Wurzelkonsonanten ب-غ-ي bleiben. Imperfekt Form I.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=7&verse=140"
     },
     {
       "id": "re055",
@@ -1107,7 +1172,8 @@
       ],
       "pos": "Verb",
       "morphology": "IMPV|2MP",
-      "hint": "فَ ist eine Konjunktion (entfernen). Endung وا ist die Personalendung des Imperativs (entfernen). Endung ه ist ein Pronominalsuffix (entfernen). Die drei Wurzelkonsonanten غ-ل-ل bleiben. Imperativ Form I."
+      "hint": "فَ ist eine Konjunktion (entfernen). Endung وا ist die Personalendung des Imperativs (entfernen). Endung ه ist ein Pronominalsuffix (entfernen). Die drei Wurzelkonsonanten غ-ل-ل bleiben. Imperativ Form I.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=69&verse=30"
     },
     {
       "id": "re056",
@@ -1124,7 +1190,8 @@
       "suffixes": [],
       "pos": "Adjektiv",
       "morphology": "MS|INDEF|GEN",
-      "hint": "ي ist KEIN Präfix, sondern der erste Radikal der Wurzel ي-ق-ن. Die drei Wurzelkonsonanten ي-ق-ن bleiben."
+      "hint": "ي ist KEIN Präfix, sondern der erste Radikal der Wurzel ي-ق-ن. Die drei Wurzelkonsonanten ي-ق-ن bleiben.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=27&verse=22"
     },
     {
       "id": "re057",
@@ -1144,7 +1211,8 @@
       ],
       "pos": "Verb",
       "morphology": "PERF|(IV)|2MP",
-      "hint": "Endung تُمُو ist die Personalendung des Perfekts 2. Person mask. Plural (entfernen). Endung هُنَّ ist ein Pronominalsuffix (entfernen). Die drei Wurzelkonsonanten ا-ت-ي bleiben. Perfekt Form IV."
+      "hint": "Endung تُمُو ist die Personalendung des Perfekts 2. Person mask. Plural (entfernen). Endung هُنَّ ist ein Pronominalsuffix (entfernen). Die drei Wurzelkonsonanten ا-ت-ي bleiben. Perfekt Form IV.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=229"
     },
     {
       "id": "re058",
@@ -1163,7 +1231,8 @@
       "suffixes": [],
       "pos": "Verb",
       "morphology": "PERF|(III)|3MS",
-      "hint": "فَ ist eine Konjunktion (entfernen). Die drei Wurzelkonsonanten ن-د-و bleiben. Perfekt Form III."
+      "hint": "فَ ist eine Konjunktion (entfernen). Die drei Wurzelkonsonanten ن-د-و bleiben. Perfekt Form III.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=21&verse=87"
     },
     {
       "id": "re059",
@@ -1182,7 +1251,8 @@
       ],
       "pos": "Nomen",
       "morphology": "ACT|PCPL|MP|NOM",
-      "hint": "Endung ون ist das Pluralsuffix (gesunder mask. Plural, entfernen). Die drei Wurzelkonsonanten ط-غ-ي bleiben. Muster: فَاعِل (Aktivpartizip Form I)."
+      "hint": "Endung ون ist das Pluralsuffix (gesunder mask. Plural, entfernen). Die drei Wurzelkonsonanten ط-غ-ي bleiben. Muster: فَاعِل (Aktivpartizip Form I).",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=51&verse=53"
     },
     {
       "id": "re060",
@@ -1201,7 +1271,8 @@
       ],
       "pos": "Nomen",
       "morphology": "NOM",
-      "hint": "ن ist KEIN Präfix, sondern der erste Radikal der Wurzel ن-ز-ل. Endung هم ist ein Pronominalsuffix (entfernen). Die drei Wurzelkonsonanten ن-ز-ل bleiben."
+      "hint": "ن ist KEIN Präfix, sondern der erste Radikal der Wurzel ن-ز-ل. Endung هم ist ein Pronominalsuffix (entfernen). Die drei Wurzelkonsonanten ن-ز-ل bleiben.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=56&verse=56"
     },
     {
       "id": "re061",
@@ -1222,7 +1293,8 @@
       ],
       "pos": "Verb",
       "morphology": "PERF|(III)|3MP",
-      "hint": "فَ ist eine Konjunktion (entfernen). Endung وا ist die Personalendung des Perfekts (entfernen). Die drei Wurzelkonsonanten ن-د-و bleiben. Perfekt Form III."
+      "hint": "فَ ist eine Konjunktion (entfernen). Endung وا ist die Personalendung des Perfekts (entfernen). Die drei Wurzelkonsonanten ن-د-و bleiben. Perfekt Form III.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=38&verse=3"
     },
     {
       "id": "re062",
@@ -1244,7 +1316,8 @@
       ],
       "pos": "Verb",
       "morphology": "IMPF|(III)|3MP",
-      "hint": "ي ist das Imperfekt-Präfix (zeigt Person an, gehört nicht zur Wurzel). Endung ون ist das Pluralsuffix (entfernen). Endung كَ ist ein Pronominalsuffix (entfernen). Die drei Wurzelkonsonanten ب-ي-ع bleiben. Imperfekt Form III."
+      "hint": "ي ist das Imperfekt-Präfix (zeigt Person an, gehört nicht zur Wurzel). Endung ون ist das Pluralsuffix (entfernen). Endung كَ ist ein Pronominalsuffix (entfernen). Die drei Wurzelkonsonanten ب-ي-ع bleiben. Imperfekt Form III.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=48&verse=10"
     },
     {
       "id": "re063",
@@ -1265,7 +1338,8 @@
       ],
       "pos": "Nomen",
       "morphology": "MP|GEN",
-      "hint": "ال ist der Definitartikel (entfernen). Endung ين ist das Pluralsuffix (gesunder mask. Plural, entfernen). Die drei Wurzelkonsonanten ع-ل-م bleiben."
+      "hint": "ال ist der Definitartikel (entfernen). Endung ين ist das Pluralsuffix (gesunder mask. Plural, entfernen). Die drei Wurzelkonsonanten ع-ل-م bleiben.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=7&verse=61"
     },
     {
       "id": "re064",
@@ -1287,7 +1361,8 @@
       ],
       "pos": "Nomen",
       "morphology": "M|GEN",
-      "hint": "أَ ist eine Fragepartikel (entfernen). لِ ist eine Präposition (entfernen). Endung ك ist ein Pronominalsuffix (entfernen). Die drei Wurzelkonsonanten ر-ب-ب bleiben."
+      "hint": "أَ ist eine Fragepartikel (entfernen). لِ ist eine Präposition (entfernen). Endung ك ist ein Pronominalsuffix (entfernen). Die drei Wurzelkonsonanten ر-ب-ب bleiben.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=37&verse=149"
     },
     {
       "id": "re065",
@@ -1306,7 +1381,8 @@
       ],
       "pos": "Nomen",
       "morphology": "M|NOM",
-      "hint": "ن ist KEIN Präfix, sondern der erste Radikal der Wurzel ن-ص-ر. Endung نا ist ein Pronominalsuffix (entfernen). Die drei Wurzelkonsonanten ن-ص-ر bleiben."
+      "hint": "ن ist KEIN Präfix, sondern der erste Radikal der Wurzel ن-ص-ر. Endung نا ist ein Pronominalsuffix (entfernen). Die drei Wurzelkonsonanten ن-ص-ر bleiben.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=6&verse=34"
     },
     {
       "id": "re066",
@@ -1325,7 +1401,8 @@
       ],
       "pos": "Nomen",
       "morphology": "PASS|PCPL|(IV)|FP|INDEF|ACC",
-      "hint": "Endung ات ist das feminine Pluralsuffix (entfernen). Die drei Wurzelkonsonanten ح-ص-ن bleiben. Passivpartizip Form IV."
+      "hint": "Endung ات ist das feminine Pluralsuffix (entfernen). Die drei Wurzelkonsonanten ح-ص-ن bleiben. Passivpartizip Form IV.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=25"
     },
     {
       "id": "re067",
@@ -1346,7 +1423,8 @@
       ],
       "pos": "Verb",
       "morphology": "PERF|(IV)|1S",
-      "hint": "أَ ist das Präfix der Form IV (entfernen). Endung تُ ist die Personalendung des Perfekts 1. Person Singular (entfernen). Die drei Wurzelkonsonanten م-ل-و bleiben. Perfekt Form IV."
+      "hint": "أَ ist das Präfix der Form IV (entfernen). Endung تُ ist die Personalendung des Perfekts 1. Person Singular (entfernen). Die drei Wurzelkonsonanten م-ل-و bleiben. Perfekt Form IV.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=22&verse=48"
     },
     {
       "id": "re068",
@@ -1365,7 +1443,8 @@
       "suffixes": [],
       "pos": "Nomen",
       "morphology": "M|GEN",
-      "hint": "بِ ist eine Präposition und ال der Definitartikel (beide entfernen). Die drei Wurzelkonsonanten ص-د-ق bleiben."
+      "hint": "بِ ist eine Präposition und ال der Definitartikel (beide entfernen). Die drei Wurzelkonsonanten ص-د-ق bleiben.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=39&verse=32"
     },
     {
       "id": "re069",
@@ -1382,7 +1461,8 @@
       "suffixes": [],
       "pos": "Nomen",
       "morphology": "MS|NOM",
-      "hint": "أَقْرَب ist ein Elativ (Muster أَفْعَل). Das أ gehört zum Elativmuster, nicht zur Wurzel. Die drei Wurzelkonsonanten ق-ر-ب bleiben."
+      "hint": "أَقْرَب ist ein Elativ (Muster أَفْعَل). Das أ gehört zum Elativmuster, nicht zur Wurzel. Die drei Wurzelkonsonanten ق-ر-ب bleiben.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=237"
     },
     {
       "id": "re070",
@@ -1401,7 +1481,8 @@
       "suffixes": [],
       "pos": "Nomen",
       "morphology": "MP|INDEF|GEN",
-      "hint": "وَ ist eine Konjunktion (entfernen). Die drei Wurzelkonsonanten ج-ف-ن bleiben."
+      "hint": "وَ ist eine Konjunktion (entfernen). Die drei Wurzelkonsonanten ج-ف-ن bleiben.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=34&verse=13"
     },
     {
       "id": "re071",
@@ -1420,7 +1501,8 @@
       ],
       "pos": "Verb",
       "morphology": "IMPV|2MS",
-      "hint": "Endung هم ist ein Pronominalsuffix (entfernen). Die drei Wurzelkonsonanten و-ذ-ر bleiben. Imperativ Form I."
+      "hint": "Endung هم ist ein Pronominalsuffix (entfernen). Die drei Wurzelkonsonanten و-ذ-ر bleiben. Imperativ Form I.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=6&verse=91"
     },
     {
       "id": "re072",
@@ -1439,7 +1521,8 @@
       "suffixes": [],
       "pos": "Nomen",
       "morphology": "GEN",
-      "hint": "ال ist der Definitartikel (entfernen). Die drei Wurzelkonsonanten ا-ل-ه bleiben."
+      "hint": "ال ist der Definitartikel (entfernen). Die drei Wurzelkonsonanten ا-ل-ه bleiben.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=5&verse=11"
     },
     {
       "id": "re073",
@@ -1460,7 +1543,8 @@
       ],
       "pos": "Verb",
       "morphology": "PERF|(V)|3MS",
-      "hint": "فَ ist eine Konjunktion (entfernen). Endung ها ist ein Pronominalsuffix (entfernen). Die drei Wurzelkonsonanten ق-ب-ل bleiben. Perfekt Form V."
+      "hint": "فَ ist eine Konjunktion (entfernen). Endung ها ist ein Pronominalsuffix (entfernen). Die drei Wurzelkonsonanten ق-ب-ل bleiben. Perfekt Form V.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=37"
     },
     {
       "id": "re074",
@@ -1481,7 +1565,8 @@
       ],
       "pos": "Verb",
       "morphology": "IMPV|2MS",
-      "hint": "فَ ist eine Konjunktion (entfernen). Endung هُنَّ ist ein Pronominalsuffix (entfernen). Die drei Wurzelkonsonanten ص-و-ر bleiben. Imperativ Form I."
+      "hint": "فَ ist eine Konjunktion (entfernen). Endung هُنَّ ist ein Pronominalsuffix (entfernen). Die drei Wurzelkonsonanten ص-و-ر bleiben. Imperativ Form I.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=260"
     },
     {
       "id": "re075",
@@ -1502,7 +1587,8 @@
       ],
       "pos": "Verb",
       "morphology": "IMPF|(II)|3MP|MOOD:SUBJ",
-      "hint": "وَ ist eine Konjunktion (entfernen). لِ zeigt den Subjunktiv an. Endung وا ist die Personalendung des Imperfekts 3. Person mask. Plural (entfernen). Die drei Wurzelkonsonanten ت-ب-ر bleiben. Imperfekt Form II (Subjunktiv)."
+      "hint": "وَ ist eine Konjunktion (entfernen). لِ zeigt den Subjunktiv an. Endung وا ist die Personalendung des Imperfekts 3. Person mask. Plural (entfernen). Die drei Wurzelkonsonanten ت-ب-ر bleiben. Imperfekt Form II (Subjunktiv).",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=17&verse=7"
     },
     {
       "id": "re076",
@@ -1523,7 +1609,8 @@
       ],
       "pos": "Verb",
       "morphology": "PERF|(IV)|3MS",
-      "hint": "فَ ist eine Konjunktion (entfernen). Endung ها ist ein Pronominalsuffix (entfernen). Die drei Wurzelkonsonanten ل-ق-ي bleiben. Perfekt Form IV."
+      "hint": "فَ ist eine Konjunktion (entfernen). Endung ها ist ein Pronominalsuffix (entfernen). Die drei Wurzelkonsonanten ل-ق-ي bleiben. Perfekt Form IV.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=20&verse=20"
     },
     {
       "id": "re077",
@@ -1542,7 +1629,8 @@
       ],
       "pos": "Nomen",
       "morphology": "M|NOM",
-      "hint": "Endung كم ist ein Pronominalsuffix (entfernen). Die drei Wurzelkonsonanten و-ل-ي bleiben."
+      "hint": "Endung كم ist ein Pronominalsuffix (entfernen). Die drei Wurzelkonsonanten و-ل-ي bleiben.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=150"
     },
     {
       "id": "re078",
@@ -1564,7 +1652,8 @@
       ],
       "pos": "Nomen",
       "morphology": "ACT|PCPL|MP|GEN",
-      "hint": "وَ ist eine Konjunktion (entfernen). لِ ist eine Präposition und ال der Definitartikel (beide entfernen). Endung ين ist das Pluralsuffix (gesunder mask. Plural, entfernen). Die drei Wurzelkonsonanten ك-ف-ر bleiben. Muster: فَاعِل (Aktivpartizip Form I)."
+      "hint": "وَ ist eine Konjunktion (entfernen). لِ ist eine Präposition und ال der Definitartikel (beide entfernen). Endung ين ist das Pluralsuffix (gesunder mask. Plural, entfernen). Die drei Wurzelkonsonanten ك-ف-ر bleiben. Muster: فَاعِل (Aktivpartizip Form I).",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=90"
     },
     {
       "id": "re079",
@@ -1586,7 +1675,8 @@
       ],
       "pos": "Nomen",
       "morphology": "M|GEN",
-      "hint": "وَ ist eine Konjunktion (entfernen). بِ ist eine Präposition (entfernen). Endung هِ ist ein Pronominalsuffix (entfernen). Die drei Wurzelkonsonanten ر-س-ل bleiben."
+      "hint": "وَ ist eine Konjunktion (entfernen). بِ ist eine Präposition (entfernen). Endung هِ ist ein Pronominalsuffix (entfernen). Die drei Wurzelkonsonanten ر-س-ل bleiben.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=9&verse=54"
     },
     {
       "id": "re080",
@@ -1607,7 +1697,8 @@
       ],
       "pos": "Verb",
       "morphology": "IMPF|3FP",
-      "hint": "ي ist das Imperfekt-Präfix (zeigt Person an, gehört nicht zur Wurzel). Endung نَ ist die Personalendung des Imperfekts 3. Person fem. Plural (entfernen). Die drei Wurzelkonsonanten ك-ت-م bleiben. Imperfekt Form I."
+      "hint": "ي ist das Imperfekt-Präfix (zeigt Person an, gehört nicht zur Wurzel). Endung نَ ist die Personalendung des Imperfekts 3. Person fem. Plural (entfernen). Die drei Wurzelkonsonanten ك-ت-م bleiben. Imperfekt Form I.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=228"
     },
     {
       "id": "re081",
@@ -1628,7 +1719,8 @@
       ],
       "pos": "Verb",
       "morphology": "IMPV|2MS",
-      "hint": "فَ ist eine Konjunktion (entfernen). Endung نا ist ein Pronominalsuffix (entfernen). Die drei Wurzelkonsonanten ك-ت-ب bleiben. Imperativ Form I."
+      "hint": "فَ ist eine Konjunktion (entfernen). Endung نا ist ein Pronominalsuffix (entfernen). Die drei Wurzelkonsonanten ك-ت-ب bleiben. Imperativ Form I.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=53"
     },
     {
       "id": "re082",
@@ -1649,7 +1741,8 @@
       ],
       "pos": "Verb",
       "morphology": "IMPF|3MS",
-      "hint": "ي ist das Imperfekt-Präfix (zeigt Person an, gehört nicht zur Wurzel). Endung كم ist ein Pronominalsuffix (entfernen). Die drei Wurzelkonsonanten ض-ر-ر bleiben. Imperfekt Form I."
+      "hint": "ي ist das Imperfekt-Präfix (zeigt Person an, gehört nicht zur Wurzel). Endung كم ist ein Pronominalsuffix (entfernen). Die drei Wurzelkonsonanten ض-ر-ر bleiben. Imperfekt Form I.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=120"
     },
     {
       "id": "re083",
@@ -1670,7 +1763,8 @@
       ],
       "pos": "Verb",
       "morphology": "IMPF|3MP",
-      "hint": "ي ist das Imperfekt-Präfix (zeigt Person an, gehört nicht zur Wurzel). Endung ون ist das Pluralsuffix (gesunder mask. Plural, entfernen). Die drei Wurzelkonsonanten ف-ر-ح bleiben. Imperfekt Form I."
+      "hint": "ي ist das Imperfekt-Präfix (zeigt Person an, gehört nicht zur Wurzel). Endung ون ist das Pluralsuffix (gesunder mask. Plural, entfernen). Die drei Wurzelkonsonanten ف-ر-ح bleiben. Imperfekt Form I.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=188"
     },
     {
       "id": "re084",
@@ -1691,7 +1785,8 @@
       ],
       "pos": "Verb",
       "morphology": "IMPV|(IV)|2MP",
-      "hint": "وَ ist eine Konjunktion (entfernen). Endung وا ist die Personalendung des Imperativs (entfernen). Die drei Wurzelkonsonanten ا-م-ن bleiben. Imperativ Form IV."
+      "hint": "وَ ist eine Konjunktion (entfernen). Endung وا ist die Personalendung des Imperativs (entfernen). Die drei Wurzelkonsonanten ا-م-ن bleiben. Imperativ Form IV.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=41"
     },
     {
       "id": "re085",
@@ -1712,7 +1807,8 @@
       ],
       "pos": "Verb",
       "morphology": "IMPF|(III)|3MP",
-      "hint": "ي ist das Imperfekt-Präfix (zeigt Person an, gehört nicht zur Wurzel). Endung ون ist das Pluralsuffix (gesunder mask. Plural, entfernen). Die drei Wurzelkonsonanten ج-د-ل bleiben. Imperfekt Form III."
+      "hint": "ي ist das Imperfekt-Präfix (zeigt Person an, gehört nicht zur Wurzel). Endung ون ist das Pluralsuffix (gesunder mask. Plural, entfernen). Die drei Wurzelkonsonanten ج-د-ل bleiben. Imperfekt Form III.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=13&verse=13"
     }
   ]
 }

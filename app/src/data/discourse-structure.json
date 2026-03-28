@@ -292,6 +292,101 @@
                 "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=5&verse=90"
               }
             ]
+          },
+          {
+            "type": "explanation",
+            "title": "حَتَّى (hattaa) — Kulminationsmarker",
+            "content": "حَتَّى markiert auf Diskursebene eine Grenze, ein Ziel oder einen Kulminationspunkt. Es signalisiert: Die Handlung/der Zustand setzt sich fort BIS zu diesem Punkt. Je nach syntaktischer Einbettung kann حَتَّى als Praeposition (+ Genitiv), als Konjunktion (+ Subjunktiv) oder als Einleitungspartikel (+ Indikativ) funktionieren. Auf Textebene erzeugt حَتَّى Spannung: Der Leser wartet auf den Endpunkt."
+          },
+          {
+            "type": "example",
+            "title": "حَتَّى als Kulminationsmarker — Beispiele",
+            "examples": [
+              {
+                "ref": "2:102",
+                "arabic": "وَمَا يُعَلِّمَانِ مِنْ أَحَدٍ حَتَّىٰ يَقُولَا إِنَّمَا نَحْنُ فِتْنَةٌ فَلَا تَكْفُرْ",
+                "transliteration": "wa-maa yuʿallimaani min ahadin hattaa yaquulaa innamaa nahnu fitnatun fa-laa takfur",
+                "note": "حَتَّى + Subjunktiv (يَقُولَا): 'Sie lehrten niemanden, BIS sie sagten: Wir sind nur eine Prüfung.' حَتَّى markiert die Bedingung, die erfuellt sein muss, bevor die Handlung fortschreitet.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=102"
+              },
+              {
+                "ref": "2:196",
+                "arabic": "وَلَا تَحْلِقُوا رُءُوسَكُمْ حَتَّىٰ يَبْلُغَ الْهَدْيُ مَحِلَّهُ",
+                "transliteration": "wa-laa tahliquu ruʾuusakum hattaa yablugha l-hadyu mahillahu",
+                "note": "حَتَّى + Subjunktiv (يَبْلُغَ): 'Rasiert eure Koepfe nicht, BIS das Opfer seinen Bestimmungsort erreicht.' Temporal-finale Grenze: Die Handlung (Nicht-Rasieren) dauert bis zum Kulminationspunkt.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=196"
+              },
+              {
+                "ref": "47:35",
+                "arabic": "فَلَا تَهِنُوا وَتَدْعُوا إِلَى السَّلْمِ وَأَنتُمُ الْأَعْلَوْنَ",
+                "transliteration": "fa-laa tahinuu wa-tadʿuu ilaa s-salmi wa-antumu l-aʿlawna",
+                "note": "Kontext fuer حَتَّى in der breiteren Passage (47:31-35): Der Text baut ueber mehrere Verse Argumente auf, die in der Anweisung kulminieren. حَتَّى strukturiert den Diskurs als Steigerung zu einem Endpunkt.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=47&verse=35"
+              }
+            ]
+          },
+          {
+            "type": "explanation",
+            "title": "لَكِنْ / لَكِنَّ (laakin / laakinna) — Adversativ- und Konzessionsmarker",
+            "content": "لَكِنْ (leicht, nach Negation) und لَكِنَّ (schwer, mit Inna-Syntax) markieren auf Diskursebene einen Gegensatz oder eine Einschraenkung: 'aber / jedoch / allerdings.' Sie korrigieren nicht wie بَلْ (das das Vorherige annulliert), sondern fuegen eine Gegenposition hinzu, ohne das Vorherige zu negieren. لَكِنَّ nimmt ein Nomen im Akkusativ (Ism von لَكِنَّ), لَكِنْ leitet einen neuen Satz ein."
+          },
+          {
+            "type": "example",
+            "title": "لَكِنْ / لَكِنَّ als Adversativmarker — Beispiele",
+            "examples": [
+              {
+                "ref": "2:12",
+                "arabic": "أَلَا إِنَّهُمْ هُمُ الْمُفْسِدُونَ وَلَٰكِن لَّا يَشْعُرُونَ",
+                "transliteration": "alaa innahum humu l-mufsiduuna wa-laakin laa yashʿuruuna",
+                "note": "وَلَٰكِنْ fuehrt den Gegensatz ein: Sie SIND die Verderber — aber sie merken es nicht. Der erste Teil stellt die Tatsache fest, لَكِنْ fuegt die Einschraenkung hinzu (sie sind sich dessen nicht bewusst).",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=12"
+              },
+              {
+                "ref": "2:154",
+                "arabic": "وَلَا تَقُولُوا لِمَن يُقْتَلُ فِي سَبِيلِ اللَّهِ أَمْوَاتٌ ۚ بَلْ أَحْيَاءٌ وَلَٰكِن لَّا تَشْعُرُونَ",
+                "transliteration": "wa-laa taquuluu li-man yuqtalu fii sabiili llaahi amwaatun bal ahyaaʾun wa-laakin laa tashʿuruuna",
+                "note": "Hier stehen بَلْ und لَكِنْ im selben Vers — mit unterschiedlicher Funktion. بَلْ korrigiert: nicht tot, sondern lebendig. لَكِنْ schraenkt ein: aber ihr nehmt es nicht wahr. بَلْ annulliert das Vorherige, لَكِنْ fuegt eine Zusatzinformation hinzu.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=154"
+              },
+              {
+                "ref": "42:8",
+                "arabic": "وَلَوْ شَاءَ اللَّهُ لَجَعَلَهُمْ أُمَّةً وَاحِدَةً وَلَٰكِن يُدْخِلُ مَن يَشَاءُ فِي رَحْمَتِهِ",
+                "transliteration": "wa-law shaaʾa llaahu la-jaʿalahum ummatan waahidatan wa-laakin yudkhilu man yashaaʾu fii rahmatih",
+                "note": "Irrealis (لَوْ شَاءَ ... لَ) + Konzession (وَلَٰكِنْ): 'Haette Gott gewollt, haette er sie zu einer einzigen Gemeinschaft gemacht — aber er laesst eintreten, wen er will.' لَكِنْ markiert den Uebergang vom hypothetischen zum tatsaechlichen Zustand.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=42&verse=8"
+              }
+            ]
+          },
+          {
+            "type": "explanation",
+            "title": "كَيْفَ (kayfa) — Interrogativ als Diskursmittel",
+            "content": "كَيْفَ (wie?) funktioniert auf Diskursebene nicht nur als echte Frage, sondern haueufig als rhetorisches Mittel. Rhetorisches كَيْفَ signalisiert Verwunderung oder Anklage: 'Wie koennt ihr nur...?' Es leitet keinen Informationsaustausch ein, sondern eine argumentative Konfrontation. Die erwartete Antwort ist: 'Es gibt keinen Grund dafuer — es ist unbegreiflich.'"
+          },
+          {
+            "type": "example",
+            "title": "كَيْفَ als Diskursmittel — Beispiele",
+            "examples": [
+              {
+                "ref": "2:28",
+                "arabic": "كَيْفَ تَكْفُرُونَ بِاللَّهِ وَكُنتُمْ أَمْوَاتًا فَأَحْيَاكُمْ ثُمَّ يُمِيتُكُمْ ثُمَّ يُحْيِيكُمْ ثُمَّ إِلَيْهِ تُرْجَعُونَ",
+                "transliteration": "kayfa takfuruuna bi-llaahi wa-kuntum amwaatan fa-ahyaakum thumma yumiitukum thumma yuhyiikum thumma ilayhi turjaʿuuna",
+                "note": "Rhetorisches كَيْفَ: 'WIE koennt ihr Gott verdecken, wo ihr doch tot wart und er euch belebte...?' Keine echte Frage — die Aufzaehlung der Taten Gottes (belebt, toetet, belebt wieder) macht die Antwort unmoeglich. كَيْفَ leitet eine argumentative Konfrontation ein.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=28"
+              },
+              {
+                "ref": "3:101",
+                "arabic": "وَكَيْفَ تَكْفُرُونَ وَأَنتُمْ تُتْلَىٰ عَلَيْكُمْ آيَاتُ اللَّهِ وَفِيكُمْ رَسُولُهُ",
+                "transliteration": "wa-kayfa takfuruuna wa-antum tutlaa ʿalaykum aayaatu llaahi wa-fiikum rasuuluhu",
+                "note": "Wie 2:28, aber mit Hal-Saetzen (وَأَنتُمْ تُتْلَىٰ / وَفِيكُمْ): 'Wie koennt ihr verdecken, WAEHREND euch Gottes Zeichen vorgetragen werden und sein Gesandter unter euch ist?' Die Gleichzeitigkeit (Hal) verstaerkt die Absurditaet.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=101"
+              },
+              {
+                "ref": "4:46",
+                "arabic": "مِّنَ الَّذِينَ هَادُوا يُحَرِّفُونَ الْكَلِمَ عَن مَّوَاضِعِهِ",
+                "note": "Kontext fuer كَيْفَ in 4:44: كَيْفَ-Fragen in der Umgebung leiten eine Serie von Vorwuerfen ein. كَيْفَ strukturiert hier eine argumentative Passage, in der verschiedene Verhaltensweisen als unbegreiflich markiert werden.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=46"
+              }
+            ]
           }
         ]
       },
@@ -299,12 +394,14 @@
         {
           "type": "discourse_analysis",
           "prompt": "Lies 12:15-18. Identifiziere alle وَ und فَ. Welche verbinden gleichrangige Elemente (Koordination) und welche markieren Szenenwechsel (Diskursmarker)?",
-          "hint": "In der Josefserzaehlung wechseln Szenen schnell: die Brüder nehmen ihn mit (فَلَمَّا ذَهَبُوا بِهِ), dann Szenenwechsel zu Gott (وَأَوْحَيْنَا), dann Szenenwechsel zu den Brüdern am Abend (وَجَاءُوا أَبَاهُمْ عِشَاءً يَبْكُونَ). Jedes وَ an Szenengraenze ist ein narrativer Konnektor."
+          "hint": "In der Josefserzaehlung wechseln Szenen schnell: die Brüder nehmen ihn mit (فَلَمَّا ذَهَبُوا بِهِ), dann Szenenwechsel zu Gott (وَأَوْحَيْنَا), dann Szenenwechsel zu den Brüdern am Abend (وَجَاءُوا أَبَاهُمْ عِشَاءً يَبْكُونَ). Jedes وَ an Szenengraenze ist ein narrativer Konnektor.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=12&verse=15"
         },
         {
           "type": "particle_function",
           "prompt": "In 23:12-14 wechseln ثُمَّ und فَ einander ab. Erkläre den Unterschied: Warum steht zwischen 'Lehm' und 'Samentropfen' ein ثُمَّ, aber zwischen 'Anhaftung' und 'Kaustück' ein فَ?",
-          "hint": "ثُمَّ markiert grosse Zeitspruenge (verschiedene Schöpfungsphasen), فَ markiert die rasche Abfolge innerhalb einer Phase (Embryonalentwicklung). Der Wechsel der Partikel bildet den Rhythmus ab: langsam → schnell → langsam → schnell."
+          "hint": "ثُمَّ markiert grosse Zeitspruenge (verschiedene Schöpfungsphasen), فَ markiert die rasche Abfolge innerhalb einer Phase (Embryonalentwicklung). Der Wechsel der Partikel bildet den Rhythmus ab: langsam → schnell → langsam → schnell.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=23&verse=12"
         }
       ]
     },
@@ -414,12 +511,14 @@
         {
           "type": "information_structure",
           "prompt": "Analysiere 1:5 (إِيَّاكَ نَعْبُدُ). Die normale Wortstellung wäre نَعْبُدُكَ (wir beten dich an). Was bewirkt die Voranstellung von إِيَّاكَ informationsstrukturell?",
-          "hint": "Durch die Voranstellung wird إِيَّاكَ (dich) zum Fokustopik — Taqdīm auf das Objekt. Die Standardwortstellung نَعْبُدُكَ hätte diese informationsstrukturelle Markierung nicht."
+          "hint": "Durch die Voranstellung wird إِيَّاكَ (dich) zum Fokustopik — Taqdīm auf das Objekt. Die Standardwortstellung نَعْبُدُكَ hätte diese informationsstrukturelle Markierung nicht.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=5"
         },
         {
           "type": "information_structure",
           "prompt": "In 24:35 wird مِصْبَاحٌ zuerst indefinit eingeführt und dann als الْمِصْبَاحُ definit wiederaufgenommen. Finde ein ähnliches Muster in einer anderen Sure.",
-          "hint": "Z.B. 2:67-71: بَقَرَةً (indefinit) → die weitere Beschreibung der Kuh mit definiten Bezuegen. Oder 36:13-14: أَصْحَابَ الْقَرْيَةِ إِذْ جَاءَهَا الْمُرْسَلُونَ ○ إِذْ أَرْسَلْنَا إِلَيْهِمُ اثْنَيْنِ — die Gesandten werden zuerst definit (bekannt im Kontext) eingeführt."
+          "hint": "Z.B. 2:67-71: بَقَرَةً (indefinit) → die weitere Beschreibung der Kuh mit definiten Bezuegen. Oder 36:13-14: أَصْحَابَ الْقَرْيَةِ إِذْ جَاءَهَا الْمُرْسَلُونَ ○ إِذْ أَرْسَلْنَا إِلَيْهِمُ اثْنَيْنِ — die Gesandten werden zuerst definit (bekannt im Kontext) eingeführt.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=24&verse=35"
         }
       ]
     },
@@ -521,12 +620,14 @@
               {
                 "ref": "2:2-5 vs. 2:6-7",
                 "arabic": "هُدًى لِّلْمُتَّقِينَ ... أُولَٰئِكَ عَلَىٰ هُدًى مِّن رَّبِّهِمْ ○○ إِنَّ الَّذِينَ كَفَرُوا ... خَتَمَ اللَّهُ عَلَىٰ قُلُوبِهِمْ",
-                "note": "Verse 2-5 beschreiben die Muttaqiin (Thema + positives Rhema), Verse 6-7 beschreiben die Kafiruun (Thema + negatives Rhema). Parallele Struktur, kontrastiver Inhalt. Die beiden Bloecke sind als Paar konzipiert."
+                "note": "Verse 2-5 beschreiben die Muttaqiin (Thema + positives Rhema), Verse 6-7 beschreiben die Kafiruun (Thema + negatives Rhema). Parallele Struktur, kontrastiver Inhalt. Die beiden Bloecke sind als Paar konzipiert.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=2"
               },
               {
                 "ref": "56:10-26 vs. 56:41-56",
                 "arabic": "وَالسَّابِقُونَ السَّابِقُونَ ... ○○ وَأَصْحَابُ الشِّمَالِ مَا أَصْحَابُ الشِّمَالِ",
-                "note": "Die Vorauseilenden (56:10ff) vs. die Leute der Linken (56:41ff): Dieselbe syntaktische Frage-Struktur (مَا أَصْحَابُ ...), aber kontrastiver Inhalt. Parallele Form, gegensätzliche Aussage."
+                "note": "Die Vorauseilenden (56:10ff) vs. die Leute der Linken (56:41ff): Dieselbe syntaktische Frage-Struktur (مَا أَصْحَابُ ...), aber kontrastiver Inhalt. Parallele Form, gegensätzliche Aussage.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=56&verse=10"
               }
             ]
           }
@@ -536,12 +637,14 @@
         {
           "type": "pronoun_reference",
           "prompt": "In 56:76 steht وَإِنَّهُ لَقَسَمٌ عَظِيمٌ. Worauf bezieht sich das Pronomen هُ?",
-          "hint": "Es bezieht sich auf den in 56:75 eingeleiteten Schwurakt (فَلَا أُقْسِمُ بِمَوَاقِعِ النُّجُومِ). Das هُ verweist auf den gesamten vorherigen Vers."
+          "hint": "Es bezieht sich auf den in 56:75 eingeleiteten Schwurakt (فَلَا أُقْسِمُ بِمَوَاقِعِ النُّجُومِ). Das هُ verweist auf den gesamten vorherigen Vers.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=56&verse=76"
         },
         {
           "type": "cohesion_analysis",
           "prompt": "Lies 91:1-10 als eine zusammenhängende Einheit. Welches syntaktische Mittel hält die Verse zusammen? Wo beginnt der Hauptsatz, auf den die gesamte وَ-Kette hinarbeitet?",
-          "hint": "Die وَ-Kette (Schwüre) läuft von Vers 1 bis 7. Die Antwort auf den Schwur (jawab al-qasam) beginnt in Vers 9: قَدْ أَفْلَحَ. Die sieben Verse vor dem Hauptsatz sind syntaktisch alle von diesem Hauptsatz abhängig."
+          "hint": "Die وَ-Kette (Schwüre) läuft von Vers 1 bis 7. Die Antwort auf den Schwur (jawab al-qasam) beginnt in Vers 9: قَدْ أَفْلَحَ. Die sieben Verse vor dem Hauptsatz sind syntaktisch alle von diesem Hauptsatz abhängig.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=91&verse=1"
         }
       ]
     },
@@ -563,12 +666,14 @@
               {
                 "ref": "Sure 2 (al-Baqara) — Makrostruktur",
                 "arabic": "",
-                "note": "Sure 2 zeigt eine Ringstruktur auf höchster Ebene: A (2:1-20): Drei Menschengruppen — B (2:21-39): Adam-Erzählung — C (2:40-103): Bani Israil — D (2:104-141): Qibla-Wechsel und Ibrahim — C' (2:142-176): Qibla und Gemeinschaft — B' (2:177-283): Gesetze und Gesellschaft — A' (2:284-286): Abschluss. Die äußeren Ringe (A/A') behandeln Glaube und Grundhaltung, die inneren Ringe führen zum Zentrum: Ibrahim und die Qibla."
+                "note": "Sure 2 zeigt eine Ringstruktur auf höchster Ebene: A (2:1-20): Drei Menschengruppen — B (2:21-39): Adam-Erzählung — C (2:40-103): Bani Israil — D (2:104-141): Qibla-Wechsel und Ibrahim — C' (2:142-176): Qibla und Gemeinschaft — B' (2:177-283): Gesetze und Gesellschaft — A' (2:284-286): Abschluss. Die äußeren Ringe (A/A') behandeln Glaube und Grundhaltung, die inneren Ringe führen zum Zentrum: Ibrahim und die Qibla.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=1"
               },
               {
                 "ref": "Sure 5 (al-Ma'ida) — Ringstruktur",
                 "arabic": "",
-                "note": "A (5:1-11): Verträge und Verpflichtungen — B (5:12-26): Bani Israil und ihr Vertrag — C (5:27-34): die zwei Söhne Adams (ابْنَيْ آدَمَ) — Gewalt und Konsequenz — C ist das Zentrum — B' (5:35-50): Gesetze und Urteile — A' (5:51-120): Verträge mit Ahl al-Kitab. Äußere Schicht: Verträge, innere Schicht: Narrativ, Zentrum: Urgeschichte."
+                "note": "A (5:1-11): Verträge und Verpflichtungen — B (5:12-26): Bani Israil und ihr Vertrag — C (5:27-34): die zwei Söhne Adams (ابْنَيْ آدَمَ) — Gewalt und Konsequenz — C ist das Zentrum — B' (5:35-50): Gesetze und Urteile — A' (5:51-120): Verträge mit Ahl al-Kitab. Äußere Schicht: Verträge, innere Schicht: Narrativ, Zentrum: Urgeschichte.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=5&verse=1"
               }
             ]
           },
@@ -584,12 +689,14 @@
               {
                 "ref": "Sure 2",
                 "arabic": "",
-                "note": "يَا أَيُّهَا النَّاسُ (2:21) — Wechsel von der Beschreibung der drei Gruppen zur Anrede an die Menschen. يَا بَنِي إِسْرَائِيلَ (2:40) — Wechsel zur Anrede an die Kinder Israels. وَإِذْ قَالَ رَبُّكَ (2:30) — Rückblende zur Erschaffung Adams. Jedes Signal markiert einen neuen Abschnitt."
+                "note": "يَا أَيُّهَا النَّاسُ (2:21) — Wechsel von der Beschreibung der drei Gruppen zur Anrede an die Menschen. يَا بَنِي إِسْرَائِيلَ (2:40) — Wechsel zur Anrede an die Kinder Israels. وَإِذْ قَالَ رَبُّكَ (2:30) — Rückblende zur Erschaffung Adams. Jedes Signal markiert einen neuen Abschnitt.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=21"
               },
               {
                 "ref": "Sure 3",
                 "arabic": "",
-                "note": "قُلْ erscheint in 3:12, 3:15, 3:20, 3:26, 3:29, 3:31, 3:32 als wiederkehrender Imperativ. Jedes قُلْ leitet ein neues Argument oder eine neue Aufforderung ein. Die قُلْ-Serie gliedert den ersten Teil der Sure."
+                "note": "قُلْ erscheint in 3:12, 3:15, 3:20, 3:26, 3:29, 3:31, 3:32 als wiederkehrender Imperativ. Jedes قُلْ leitet ein neues Argument oder eine neue Aufforderung ein. Die قُلْ-Serie gliedert den ersten Teil der Sure.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=12"
               }
             ]
           },
@@ -639,7 +746,8 @@
                 "ref": "Sure 54 (al-Qamar)",
                 "arabic": "وَلَقَدْ يَسَّرْنَا الْقُرْآنَ لِلذِّكْرِ فَهَلْ مِن مُّدَّكِرٍ",
                 "transliteration": "wa-laqad yassarnaa l-qurʾaana li-dh-dhikri fa-hal min muddakir",
-                "note": "Dieser Refrain ('Wir haben den Quran leicht gemacht zum Gedenken — gibt es also einen, der gedenkt?') erscheint 4 Mal (54:17, 22, 32, 40). Er trennt die Erzählungen von Nuh, ʿAad, Thamud und Lut und fragt nach jedem Beispiel erneut."
+                "note": "Dieser Refrain ('Wir haben den Quran leicht gemacht zum Gedenken — gibt es also einen, der gedenkt?') erscheint 4 Mal (54:17, 22, 32, 40). Er trennt die Erzählungen von Nuh, ʿAad, Thamud und Lut und fragt nach jedem Beispiel erneut.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=54&verse=17"
               }
             ]
           }
@@ -654,7 +762,8 @@
         {
           "type": "structure_analysis",
           "prompt": "Identifiziere in Sure 2 die Stellen, an denen يَا أَيُّهَا erscheint. Welche thematischen Wechsel signalisiert diese Formel?",
-          "hint": "يَا أَيُّهَا النَّاسُ (2:21): Wechsel von Beschreibung zu Anrede. يَا أَيُّهَا الَّذِينَ آمَنُوا erscheint in 2:104, 2:153, 2:172, 2:178, 2:183, 2:254, 2:264, 2:267, 2:278, 2:282. Jedes Vorkommen leitet einen neuen Regelabschnitt ein."
+          "hint": "يَا أَيُّهَا النَّاسُ (2:21): Wechsel von Beschreibung zu Anrede. يَا أَيُّهَا الَّذِينَ آمَنُوا erscheint in 2:104, 2:153, 2:172, 2:178, 2:183, 2:254, 2:264, 2:267, 2:278, 2:282. Jedes Vorkommen leitet einen neuen Regelabschnitt ein.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=21"
         }
       ]
     },
@@ -778,7 +887,8 @@
         {
           "type": "argument_mapping",
           "prompt": "Lies 56:57-74. Identifiziere die drei أَفَرَأَيْتُم-Fragen und die Prämissen, die sie aufstellen. Welche Schlussfolgerung ergibt sich kumulativ?",
-          "hint": "1. Saat (56:63-65): Ihr pflanzt, aber Gott lässt wachsen. 2. Wasser (56:68-70): Ihr trinkt, aber Gott sendet es herab. 3. Feuer (56:71-72): Ihr zuendet an, aber Gott hat den Baum erschaffen. Kumulative Schlussfolgerung: Der Mensch ist in keinem Bereich der eigentliche Schöpfer — فَسَبِّحْ بِاسْمِ رَبِّكَ الْعَظِيمِ (56:74): 'So preise den Namen deines gewaltigen Herrn.'"
+          "hint": "1. Saat (56:63-65): Ihr pflanzt, aber Gott lässt wachsen. 2. Wasser (56:68-70): Ihr trinkt, aber Gott sendet es herab. 3. Feuer (56:71-72): Ihr zuendet an, aber Gott hat den Baum erschaffen. Kumulative Schlussfolgerung: Der Mensch ist in keinem Bereich der eigentliche Schöpfer — فَسَبِّحْ بِاسْمِ رَبِّكَ الْعَظِيمِ (56:74): 'So preise den Namen deines gewaltigen Herrn.'",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=56&verse=57"
         },
         {
           "type": "argument_mapping",
@@ -788,12 +898,14 @@
         {
           "type": "discourse_analysis",
           "prompt": "Analysiere 47:12. Identifiziere die Parallelstruktur zwischen den beiden Gruppen. Welche syntaktischen Mittel erzeugen den Kontrast?",
-          "hint": "Vertrauende: إِنَّ + الَّذِينَ آمَنُوا + Konsequenz (Gärten). Verdeckende: وَ + الَّذِينَ كَفَرُوا + Konsequenz (Feuer). Parallele Relativsätze, parallele Konsequenzen, kontrastiver Inhalt. Das وَ zwischen den Teilen koordiniert und kontrastiert zugleich."
+          "hint": "Vertrauende: إِنَّ + الَّذِينَ آمَنُوا + Konsequenz (Gärten). Verdeckende: وَ + الَّذِينَ كَفَرُوا + Konsequenz (Feuer). Parallele Relativsätze, parallele Konsequenzen, kontrastiver Inhalt. Das وَ zwischen den Teilen koordiniert und kontrastiert zugleich.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=47&verse=12"
         },
         {
           "type": "topic_comment",
           "prompt": "In 93:9-11 steht eine أَمَّا...فَ-Struktur. Bestimme für jeden der drei Sätze Thema (was nach أَمَّا steht) und Rhema (was nach فَ steht). Warum ist diese Struktur hier gewählt?",
-          "hint": "Vers 9: Thema = الْيَتِيمَ (die Waise), Rhema = فَلَا تَقْهَرْ (unterdruecke nicht). Vers 10: Thema = السَّائِلَ (der Fragende), Rhema = فَلَا تَنْهَرْ (weise nicht ab). Vers 11: Thema = بِنِعْمَةِ رَبِّكَ (die Gabe deines Herrn), Rhema = فَحَدِّثْ (berichte). Die أَمَّا-Struktur setzt drei Themen nebeneinander und ordnet jedem eine Handlung zu — klare, parallele Gliederung."
+          "hint": "Vers 9: Thema = الْيَتِيمَ (die Waise), Rhema = فَلَا تَقْهَرْ (unterdruecke nicht). Vers 10: Thema = السَّائِلَ (der Fragende), Rhema = فَلَا تَنْهَرْ (weise nicht ab). Vers 11: Thema = بِنِعْمَةِ رَبِّكَ (die Gabe deines Herrn), Rhema = فَحَدِّثْ (berichte). Die أَمَّا-Struktur setzt drei Themen nebeneinander und ordnet jedem eine Handlung zu — klare, parallele Gliederung.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=93&verse=9"
         }
       ]
     }

@@ -290,7 +290,7 @@
       "word": "أَهْدَى",
       "root": "ه د ي",
       "base": "هَادٍ",
-      "meaning": "rechtgeleiteter / am besten geleitet",
+      "meaning": "besser geleitet / am besten geleitet",
       "feminine": "—",
       "quranicLocation": "17:84",
       "quranicText": "فَرَبُّكُمْ أَعْلَمُ بِمَنْ هُوَ أَهْدَىٰ سَبِيلًا",
@@ -671,7 +671,8 @@
           "Mehr als die Menschen"
         ],
         "correct": 1,
-        "explanation": "أَكْثَرَ النَّاسِ ist ein Superlativ in Idafa-Konstruktion: das Meiste / die Meisten der Menschen. النَّاسِ steht im Genitiv als Mudaf ilayhi."
+        "explanation": "أَكْثَرَ النَّاسِ ist ein Superlativ in Idafa-Konstruktion: das Meiste / die Meisten der Menschen. النَّاسِ steht im Genitiv als Mudaf ilayhi.",
+        "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=12&verse=21"
       },
       {
         "type": "multiple_choice",
@@ -683,7 +684,8 @@
           "Weil es nach فِي steht"
         ],
         "correct": 1,
-        "explanation": "Der Elativ ist diptot (Genitiv auf Fatha). Aber als Mudaf (Erstglied einer Idafa) wird die Diptosie aufgehoben, und der reguläre Genitiv mit Kasra tritt ein: أَحْسَنِ تَقْوِيمٍ."
+        "explanation": "Der Elativ ist diptot (Genitiv auf Fatha). Aber als Mudaf (Erstglied einer Idafa) wird die Diptosie aufgehoben, und der reguläre Genitiv mit Kasra tritt ein: أَحْسَنِ تَقْوِيمٍ.",
+        "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=95&verse=4"
       },
       {
         "type": "multiple_choice",
@@ -695,8 +697,10 @@
           "Khabar"
         ],
         "correct": 1,
-        "explanation": "قَسْوَةً ist ein Tamyiz — es spezifiziert, in welcher Hinsicht der Vergleich gilt: härter an HAERTE. Der Tamyiz steht im Akkusativ und ist indefinit."
+        "explanation": "قَسْوَةً ist ein Tamyiz — es spezifiziert, in welcher Hinsicht der Vergleich gilt: härter an HAERTE. Der Tamyiz steht im Akkusativ und ist indefinit.",
+        "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=74"
       }
     ]
-  }
+  },
+  "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=29&verse=45"
 }

@@ -43,7 +43,7 @@
               {
                 "ref": "2:255",
                 "arabic": "اللَّهُ لَا إِلَٰهَ إِلَّا هُوَ",
-                "explanation": "لَا إِلَٰهَ — اسم لَا: إِلَٰهَ, festgesetzt auf Fatha. Das خبر ist getilgt (implizit: مَوْجُودٌ oder ثَابِتٌ). إِلَّا هُوَ ist eine مُفَرَّغ-Ausnahme (siehe Istithna'-Lektion). Die gesamte Gattung 'Gottheit' wird negiert, dann eine Ausnahme gesetzt.",
+                "explanation": "لَا إِلَٰهَ — اسم لَا: إِلَٰهَ, festgesetzt auf Fatha. Die Konstruktion لَا إِلَٰهَ إِلَّا هُوَ ist syntaktisch vollstaendig als لَا لِنَفْيِ الجِنْس mit إِلَّا-Klausel, die die Praedikation liefert. Es muss kein implizites خبر angesetzt werden. Die gesamte Gattung 'Gottheit' wird negiert, dann eine Ausnahme gesetzt.",
                 "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=255"
               },
               {
@@ -60,7 +60,8 @@
         {
           "type": "identification",
           "prompt": "In 2:2 (لَا رَيْبَ فِيهِ): Warum steht رَيْبَ mit Fatha aber ohne Tanwin? Was ist die syntaktische Funktion von فِيهِ?",
-          "hint": "رَيْبَ ist اسم لَا — ein einfaches Nomen ohne Idafa, daher مَبْنِيّ عَلَى الفَتْح (festgesetzt auf Fatha, ohne Tanwin). فِيهِ ist خبر لَا (Praedikat der لَا-Konstruktion)."
+          "hint": "رَيْبَ ist اسم لَا — ein einfaches Nomen ohne Idafa, daher مَبْنِيّ عَلَى الفَتْح (festgesetzt auf Fatha, ohne Tanwin). فِيهِ ist خبر لَا (Praedikat der لَا-Konstruktion).",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=2"
         },
         {
           "type": "morphology",
@@ -79,7 +80,8 @@
               "Verneinung der Zukunft"
             ],
             "correct": 1,
-            "explanation": "لَا ist hier لَا النَّافِيَة لِلْجِنْس. Sie negiert die gesamte Gattung 'Zweifel' und regiert رَيْبَ im Akkusativ (festgesetzt auf Fatha)."
+            "explanation": "لَا ist hier لَا النَّافِيَة لِلْجِنْس. Sie negiert die gesamte Gattung 'Zweifel' und regiert رَيْبَ im Akkusativ (festgesetzt auf Fatha).",
+            "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=2"
           },
           {
             "question": "Warum traegt رَيْبَ in لَا رَيْبَ kein Tanwin?",
@@ -140,12 +142,14 @@
         {
           "type": "analysis",
           "prompt": "Vergleiche لَا يَعْلَمُونَ (2:13) mit لَمْ يَعْلَمُوا. Welcher Unterschied besteht in Modus und Zeitbezug?",
-          "hint": "لَا يَعْلَمُونَ: Indikativ (Nun erhalten), Gegenwart/Zukunft. لَمْ يَعْلَمُوا: Jussiv (Nun weggefallen), Vergangenheitsbezug. لَا aendert den Modus nicht, لَمْ erzwingt den Jussiv."
+          "hint": "لَا يَعْلَمُونَ: Indikativ (Nun erhalten), Gegenwart/Zukunft. لَمْ يَعْلَمُوا: Jussiv (Nun weggefallen), Vergangenheitsbezug. لَا aendert den Modus nicht, لَمْ erzwingt den Jussiv.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=13"
         },
         {
           "type": "identification",
           "prompt": "In 36:7 (فَهُمْ لَا يُؤْمِنُونَ): Welche Satzstruktur liegt vor? Was ist mubtada' und was ist khabar?",
-          "hint": "هُمْ ist mubtada' (Subjektpronomen). لَا يُؤْمِنُونَ ist khabar (Verbalsatz als Praedikat). Es ist ein Nominalsatz mit eingebettetem verneinten Verbalsatz."
+          "hint": "هُمْ ist mubtada' (Subjektpronomen). لَا يُؤْمِنُونَ ist khabar (Verbalsatz als Praedikat). Es ist ein Nominalsatz mit eingebettetem verneinten Verbalsatz.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=36&verse=7"
         }
       ],
       "testContent": {
@@ -220,12 +224,14 @@
         {
           "type": "morphology",
           "prompt": "In 112:3 (لَمْ يَلِدْ): Wie lautet die Indikativ-Form des Verbs? Welches Merkmal zeigt den Jussiv?",
-          "hint": "Indikativ: يَلِدُ mit Damma. Jussiv: يَلِدْ mit Sukun. Das Sukun auf dem letzten Radikal ist das Jussiv-Zeichen bei starken Verben."
+          "hint": "Indikativ: يَلِدُ mit Damma. Jussiv: يَلِدْ mit Sukun. Das Sukun auf dem letzten Radikal ist das Jussiv-Zeichen bei starken Verben.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=112&verse=3"
         },
         {
           "type": "morphology",
           "prompt": "In 112:4 (لَمْ يَكُن): Wie lautet die vollstaendige Indikativ-Form? Warum fehlt der letzte Radikal?",
-          "hint": "Indikativ: يَكُونُ. Im Jussiv faellt bei Verben mit schwachem Endradikal (ناقص) dieser Radikal weg: يَكُونُ → يَكُنْ. Das و ist der schwache dritte Radikal."
+          "hint": "Indikativ: يَكُونُ. Im Jussiv faellt bei Verben mit schwachem Endradikal (ناقص) dieser Radikal weg: يَكُونُ → يَكُنْ. Das و ist der schwache dritte Radikal.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=112&verse=4"
         }
       ],
       "testContent": {
@@ -300,12 +306,14 @@
         {
           "type": "morphology",
           "prompt": "In 2:55 (لَنْ نُؤْمِنَ): Wie lautet die Indikativ-Form? Welches Merkmal zeigt den Subjunktiv?",
-          "hint": "Indikativ: نُؤْمِنُ mit Damma. Subjunktiv: نُؤْمِنَ mit Fatha. Das Fatha auf dem letzten Radikal ist das Subjunktiv-Zeichen bei starken Verben."
+          "hint": "Indikativ: نُؤْمِنُ mit Damma. Subjunktiv: نُؤْمِنَ mit Fatha. Das Fatha auf dem letzten Radikal ist das Subjunktiv-Zeichen bei starken Verben.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=55"
         },
         {
           "type": "analysis",
           "prompt": "Vergleiche لَنْ تَنَالُوا (3:92) mit لَا تَنَالُونَ. Welcher Unterschied besteht in Modus, Bedeutung und Form?",
-          "hint": "لَنْ تَنَالُوا: Subjunktiv (Nun faellt weg), emphatische Zukunftsnegation. لَا تَنَالُونَ: Indikativ (Nun bleibt), neutrale Verneinung. Beide negieren in der Zukunft, aber لَنْ ist staerker."
+          "hint": "لَنْ تَنَالُوا: Subjunktiv (Nun faellt weg), emphatische Zukunftsnegation. لَا تَنَالُونَ: Indikativ (Nun bleibt), neutrale Verneinung. Beide negieren in der Zukunft, aber لَنْ ist staerker.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=92"
         }
       ],
       "testContent": {
@@ -380,12 +388,14 @@
         {
           "type": "analysis",
           "prompt": "In 49:14 stehen لَمْ تُؤْمِنُوا und وَلَمَّا يَدْخُلِ im selben Vers. Beide sind Jazm-Partikeln. Was ist der semantische Unterschied?",
-          "hint": "لَمْ تُؤْمِنُوا: 'Ihr habt nicht geglaubt' — abgeschlossene Tatsachenfeststellung. وَلَمَّا يَدْخُلِ: 'noch nicht eingetreten' — fortdauernde Negation mit der Implikation, dass es noch geschehen koennte."
+          "hint": "لَمْ تُؤْمِنُوا: 'Ihr habt nicht geglaubt' — abgeschlossene Tatsachenfeststellung. وَلَمَّا يَدْخُلِ: 'noch nicht eingetreten' — fortdauernde Negation mit der Implikation, dass es noch geschehen koennte.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=49&verse=14"
         },
         {
           "type": "morphology",
           "prompt": "In 38:8 (لَمَّا يَذُوقُوا): Wie lautet die Indikativ-Form? Welches Jussiv-Merkmal liegt vor?",
-          "hint": "Indikativ: يَذُوقُونَ. Jussiv: يَذُوقُوا — das Nun der fuenf Formen faellt weg. Dasselbe Jussiv-Merkmal wie nach لَمْ."
+          "hint": "Indikativ: يَذُوقُونَ. Jussiv: يَذُوقُوا — das Nun der fuenf Formen faellt weg. Dasselbe Jussiv-Merkmal wie nach لَمْ.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=38&verse=8"
         }
       ],
       "testContent": {
@@ -449,12 +459,14 @@
         {
           "type": "caseAnalysis",
           "prompt": "In 12:31 steht بَشَرًا im Akkusativ, aber مَلَكٌ im Nominativ. Beide folgen auf مَا/إِنْ + هَٰذَا. Erklaere den Kasusunterschied.",
-          "hint": "مَا هَٰذَا بَشَرًا: مَا الحِجَازِيَّة setzt das خبر in den Akkusativ (wie لَيْسَ). إِنْ هَٰذَا إِلَّا مَلَكٌ: Bei der مُفَرَّغ-Konstruktion mit إِلَّا verliert die Negationspartikel ihre Kasusrektion — das Praedikat bleibt im Nominativ."
+          "hint": "مَا هَٰذَا بَشَرًا: مَا الحِجَازِيَّة setzt das خبر in den Akkusativ (wie لَيْسَ). إِنْ هَٰذَا إِلَّا مَلَكٌ: Bei der مُفَرَّغ-Konstruktion mit إِلَّا verliert die Negationspartikel ihre Kasusrektion — das Praedikat bleibt im Nominativ.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=12&verse=31"
         },
         {
           "type": "identification",
           "prompt": "In 3:144 (وَمَا مُحَمَّدٌ إِلَّا رَسُولٌ): Welche Bedingung verhindert hier die Kasusrektion von مَا الحِجَازِيَّة?",
-          "hint": "Das Vorhandensein von إِلَّا. Wenn إِلَّا folgt, verliert مَا الحِجَازِيَّة ihre Rektion — das Praedikat steht im Nominativ statt im Akkusativ."
+          "hint": "Das Vorhandensein von إِلَّا. Wenn إِلَّا folgt, verliert مَا الحِجَازِيَّة ihre Rektion — das Praedikat steht im Nominativ statt im Akkusativ.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=144"
         }
       ],
       "testContent": {
@@ -529,12 +541,14 @@
         {
           "type": "caseAnalysis",
           "prompt": "In 2:177 (لَّيْسَ الْبِرَّ أَن تُوَلُّوا): Warum steht الْبِرَّ im Akkusativ? Was ist اسم لَيْسَ?",
-          "hint": "الْبِرَّ ist خبر لَيْسَ (vorangestellt) — daher Akkusativ. أَنْ تُوَلُّوا ist اسم لَيْسَ (Nominativ als مَصْدَر مُؤَوَّل: 'das Zuwenden')."
+          "hint": "الْبِرَّ ist خبر لَيْسَ (vorangestellt) — daher Akkusativ. أَنْ تُوَلُّوا ist اسم لَيْسَ (Nominativ als مَصْدَر مُؤَوَّل: 'das Zuwenden').",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=177"
         },
         {
           "type": "identification",
           "prompt": "In 3:182 (لَيْسَ بِظَلَّامٍ): Welche Funktion hat بِ? Warum steht ظَلَّامٍ im Genitiv und nicht im Akkusativ?",
-          "hint": "بِ ist zaaidah (expletiv/verstaerkend). ظَلَّامٍ steht im Genitiv wegen der Praeposition بِ, aber seine syntaktische Funktion ist خبر لَيْسَ. Ohne بِ wuerde es لَيْسَ ظَلَّامًا (Akkusativ) lauten."
+          "hint": "بِ ist zaaidah (expletiv/verstaerkend). ظَلَّامٍ steht im Genitiv wegen der Praeposition بِ, aber seine syntaktische Funktion ist خبر لَيْسَ. Ohne بِ wuerde es لَيْسَ ظَلَّامًا (Akkusativ) lauten.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=182"
         }
       ],
       "testContent": {
@@ -559,7 +573,8 @@
               "Kausativ ('wegen')"
             ],
             "correct": 2,
-            "explanation": "بِ ist hier zaaidah (expletiv). Es hat keine eigene praepositionale Bedeutung, sondern verstaerkt die Negation. Das Nomen danach steht im Genitiv (wegen بِ), ist aber syntaktisch خبر لَيْسَ."
+            "explanation": "بِ ist hier zaaidah (expletiv). Es hat keine eigene praepositionale Bedeutung, sondern verstaerkt die Negation. Das Nomen danach steht im Genitiv (wegen بِ), ist aber syntaktisch خبر لَيْسَ.",
+            "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=182"
           }
         ]
       }
@@ -614,7 +629,8 @@
         {
           "type": "analysis",
           "prompt": "Vergleiche مَا هَٰذَا بَشَرًا (12:31) mit إِنْ هَٰذَا إِلَّا مَلَكٌ كَرِيمٌ (12:31). Beide enthalten Negation + هَٰذَا. Warum unterscheidet sich der Kasus des Praedikats?",
-          "hint": "مَا الحِجَازِيَّة setzt بَشَرًا in den Akkusativ (wie لَيْسَ). Bei إِنْ ... إِلَّا (مُفَرَّغ) bleibt مَلَكٌ im Nominativ, weil die Negationspartikel bei Ausnahmekonstruktionen keine Kasusrektion ausueben kann."
+          "hint": "مَا الحِجَازِيَّة setzt بَشَرًا in den Akkusativ (wie لَيْسَ). Bei إِنْ ... إِلَّا (مُفَرَّغ) bleibt مَلَكٌ im Nominativ, weil die Negationspartikel bei Ausnahmekonstruktionen keine Kasusrektion ausueben kann.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=12&verse=31"
         }
       ],
       "testContent": {
@@ -628,7 +644,8 @@
               "Fragepartikel"
             ],
             "correct": 2,
-            "explanation": "إِنْ ist hier إِنْ النَّافِيَة (= مَا). Das Vorhandensein von إِلَّا bestaetigt die negierende Funktion: 'Dies ist nichts als ein edler Engel.' Keine Konditionalpartikel, da kein Verbalsatz folgt."
+            "explanation": "إِنْ ist hier إِنْ النَّافِيَة (= مَا). Das Vorhandensein von إِلَّا bestaetigt die negierende Funktion: 'Dies ist nichts als ein edler Engel.' Keine Konditionalpartikel, da kein Verbalsatz folgt.",
+            "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=12&verse=31"
           }
         ]
       }
@@ -641,7 +658,8 @@
           {
             "type": "explanation",
             "title": "لَاتَ حِينَ: Negation des Zeitpunkts",
-            "content": "لَاتَ ist eine seltene Negationspartikel, die ausschliesslich mit Zeitwoertern (حِين / أَوَان / سَاعَة) verwendet wird. Sie funktioniert syntaktisch wie لَيْسَ — ihr اسم oder خبر wird getilgt, das verbleibende Nomen steht im Akkusativ.\n\nDie Konstruktion ist auf temporale Kontexte beschraenkt: 'Es ist nicht die Zeit fuer X.'\n\nIm Quran kommt لَاتَ nur einmal vor (38:3). Ihre Seltenheit macht sie zu einem markierten, auffaelligen Stilmittel (Wright II, §174)."
+            "content": "لَاتَ ist eine seltene Negationspartikel, die ausschliesslich mit Zeitwoertern (حِين / أَوَان / سَاعَة) verwendet wird. Sie funktioniert syntaktisch wie لَيْسَ — ihr اسم oder خبر wird getilgt, das verbleibende Nomen steht im Akkusativ.\n\nDie Konstruktion ist auf temporale Kontexte beschraenkt: 'Es ist nicht die Zeit fuer X.'\n\nIm Quran kommt لَاتَ nur einmal vor (38:3). Ihre Seltenheit macht sie zu einem markierten, auffaelligen Stilmittel (Wright II, §174).",
+            "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=38&verse=3"
           },
           {
             "type": "explanation",
@@ -666,7 +684,8 @@
         {
           "type": "identification",
           "prompt": "In 38:3 (وَلَاتَ حِينَ مَنَاصٍ): Welche Wortart ist لَاتَ? Welches Satzglied ist getilgt?",
-          "hint": "لَاتَ ist eine Negationspartikel (funktioniert wie لَيْسَ). Entweder das اسم (Subjekt) oder das خبر (Praedikat) ist getilgt — das sichtbare حِينَ مَنَاصٍ ist das verbleibende Glied im Akkusativ."
+          "hint": "لَاتَ ist eine Negationspartikel (funktioniert wie لَيْسَ). Entweder das اسم (Subjekt) oder das خبر (Praedikat) ist getilgt — das sichtbare حِينَ مَنَاصٍ ist das verbleibende Glied im Akkusativ.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=38&verse=3"
         },
         {
           "type": "analysis",
@@ -735,7 +754,8 @@
         {
           "type": "caseAnalysis",
           "prompt": "Vergleiche غَيْرِ الْمَغْضُوبِ (1:7) mit غَيْرَ بَاغٍ (2:173). Warum hat غَيْر unterschiedliche Kasus?",
-          "hint": "In 1:7 ist غَيْرِ Attribut zu einem Genitivwort → Genitiv. In 2:173 ist غَيْرَ eine Zustandsangabe (حال) → Akkusativ. Der Kasus von غَيْر richtet sich nach der Satzfunktion. Das Idafa-Komplement (الْمَغْضُوبِ, بَاغٍ) ist in beiden Faellen Genitiv."
+          "hint": "In 1:7 ist غَيْرِ Attribut zu einem Genitivwort → Genitiv. In 2:173 ist غَيْرَ eine Zustandsangabe (حال) → Akkusativ. Der Kasus von غَيْر richtet sich nach der Satzfunktion. Das Idafa-Komplement (الْمَغْضُوبِ, بَاغٍ) ist in beiden Faellen Genitiv.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=7"
         },
         {
           "type": "identification",

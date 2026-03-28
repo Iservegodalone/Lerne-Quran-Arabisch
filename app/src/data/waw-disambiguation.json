@@ -23,7 +23,8 @@
           {
             "type": "explanation",
             "title": "Die sechs Funktionen",
-            "content": "وَ im Arabischen hat folgende Hauptfunktionen:\n\n1. WAW AL-'ATF (واو العطف) — KOORDINATION\n   'und' — verbindet zwei gleichartige Elemente\n   Signal: zwei parallele Nomina/Verben folgen\n   يَأْكُلُ وَيَشْرَبُ — 'er isst und trinkt'\n\n2. WAW AL-HAL (واو الحال) — UMSTANDSEINLEITUNG\n   'wobei / während' — leitet eine Jumla Haliyya ein\n   Signal: waw + Pronomen + Nomen (Nominalsatz), oder waw + Imperfekt\n   جَاءَ وَهُوَ يَبْكِي — 'er kam, wobei er weinte'\n\n3. WAW AL-QASAM (واو القسم) — SCHWUR\n   'bei...' — Schwurpartikel, nimmt Genitiv\n   Signal: waw + Genitiv-Nomen am Satzanfang ohne Verb\n   وَالْعَصْرِ — 'beim Asr' (Sure 103:1)\n\n4. WAW AL-MA'IYYA (واو المعية) — GLEICHZEITIGKEIT/BEGLEITUNG\n   'zusammen mit' — das folgende Nomen ist Maf'ul ma'ahu (Akkusativ)\n   Signal: waw nach Verb/Adjektiv + Akkusativ-Nomen\n   سِرْتُ وَالنِّيلَ — 'ich reiste am Nil entlang' (mit dem Nil)\n\n5. WAW AL-IBTIDA' (واو الابتداء) — DISKURS-OPENER\n   Nicht konjunktional — eroefffnet eine neue Aussageeinheit ohne syntaktische Bindung\n   Signal: am Satzanfang, kein eindeutiges Bezugsglied\n   Oft nicht von waw al-'atf unterscheidbar ohne Kontext\n\n6. WAW AL-RUBBA (واو رُبَّ) — PARTITIVE WAW\n   Selten. Nach dem waw folgt indefinites Nomen im Genitiv, implizit 'manches...'\n   Im Quran nicht eindeutig belegt."
+            "content": "وَ im Arabischen hat folgende Hauptfunktionen:\n\n1. WAW AL-'ATF (واو العطف) — KOORDINATION\n   'und' — verbindet zwei gleichartige Elemente\n   Signal: zwei parallele Nomina/Verben folgen\n   يَأْكُلُ وَيَشْرَبُ — 'er isst und trinkt'\n\n2. WAW AL-HAL (واو الحال) — UMSTANDSEINLEITUNG\n   'wobei / während' — leitet eine Jumla Haliyya ein\n   Signal: waw + Pronomen + Nomen (Nominalsatz), oder waw + Imperfekt\n   جَاءَ وَهُوَ يَبْكِي — 'er kam, wobei er weinte'\n\n3. WAW AL-QASAM (واو القسم) — SCHWUR\n   'bei...' — Schwurpartikel, nimmt Genitiv\n   Signal: waw + Genitiv-Nomen am Satzanfang ohne Verb\n   وَالْعَصْرِ — 'beim Asr' (Sure 103:1)\n\n4. WAW AL-MA'IYYA (واو المعية) — GLEICHZEITIGKEIT/BEGLEITUNG\n   'zusammen mit' — das folgende Nomen ist Maf'ul ma'ahu (Akkusativ)\n   Signal: waw nach Verb/Adjektiv + Akkusativ-Nomen\n   سِرْتُ وَالنِّيلَ — 'ich reiste am Nil entlang' (mit dem Nil)\n\n5. WAW AL-IBTIDA' (واو الابتداء) — DISKURS-OPENER\n   Nicht konjunktional — eroefffnet eine neue Aussageeinheit ohne syntaktische Bindung\n   Signal: am Satzanfang, kein eindeutiges Bezugsglied\n   Oft nicht von waw al-'atf unterscheidbar ohne Kontext\n\n6. WAW AL-RUBBA (واو رُبَّ) — PARTITIVE WAW\n   Selten. Nach dem waw folgt indefinites Nomen im Genitiv, implizit 'manches...'\n   Im Quran nicht eindeutig belegt.",
+            "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=103&verse=1"
           },
           {
             "type": "explanation",
@@ -37,22 +38,26 @@
               {
                 "ref": "103:1",
                 "arabic": "وَالْعَصْرِ",
-                "explanation": "WAW AL-QASAM. Genitiv الْعَصْرِ direkt nach وَ, ohne Verb. 'Beim Asr (Nachmittag/der Zeit).' Das Schwurobjekt steht im Genitiv (klassische Schwursyntax: وَ + Genitiv)."
+                "explanation": "WAW AL-QASAM. Genitiv الْعَصْرِ direkt nach وَ, ohne Verb. 'Beim Asr (Nachmittag/der Zeit).' Das Schwurobjekt steht im Genitiv (klassische Schwursyntax: وَ + Genitiv).",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=103&verse=1"
               },
               {
                 "ref": "4:43",
                 "arabic": "لَا تَقْرَبُوا الصَّلَاةَ وَأَنتُمْ سُكَارَىٰ",
-                "explanation": "WAW AL-HAL. Dem وَ folgt ein Pronomen (أَنتُمْ) + Adjektiv (سُكَارَىٰ) — ein Nominalsatz. 'Nähert euch der Zuwendung nicht, während ihr betrunken seid.' Test: 'während' passt, 'und' würde eine semantisch unmöglich Reihung ergeben."
+                "explanation": "WAW AL-HAL. Dem وَ folgt ein Pronomen (أَنتُمْ) + Adjektiv (سُكَارَىٰ) — ein Nominalsatz. 'Nähert euch der Zuwendung nicht, während ihr betrunken seid.' Test: 'während' passt, 'und' würde eine semantisch unmöglich Reihung ergeben.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=43"
               },
               {
                 "ref": "2:2-3",
                 "arabic": "ذَٰلِكَ الْكِتَابُ لَا رَيْبَ فِيهِ هُدًى لِّلْمُتَّقِينَ — الَّذِينَ يُؤْمِنُونَ بِالْغَيْبِ وَيُقِيمُونَ الصَّلَاةَ وَمِمَّا رَزَقْنَاهُمْ يُنفِقُونَ",
-                "explanation": "WAW AL-'ATF (dreifach). يُؤْمِنُونَ وَيُقِيمُونَ: Koordination zweier Verben (gleiche Form, gleiche Person). Das zweite وَ in وَمِمَّا رَزَقْنَاهُمْ koordiniert ebenfalls — den ganzen Relativsatz يُنفِقُونَ wird dem ersten und zweiten Verb gereiht."
+                "explanation": "WAW AL-'ATF (dreifach). يُؤْمِنُونَ وَيُقِيمُونَ: Koordination zweier Verben (gleiche Form, gleiche Person). Das zweite وَ in وَمِمَّا رَزَقْنَاهُمْ koordiniert ebenfalls — den ganzen Relativsatz يُنفِقُونَ wird dem ersten und zweiten Verb gereiht.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=2"
               },
               {
                 "ref": "2:148",
                 "arabic": "وَلِكُلٍّ وِجْهَةٌ هُوَ مُوَلِّيهَا فَاسْتَبِقُوا الْخَيْرَاتِ",
-                "explanation": "WAW AL-IBTIDA'. Das waw am Anfang eroefffnet eine neue Aussage: 'Und für jeden gibt es eine Richtung, die er einnimmt.' Es verbindet nicht mit einem spezifischen Vorgaengerelement — es markiert den Diskursfortgang."
+                "explanation": "WAW AL-IBTIDA'. Das waw am Anfang eroefffnet eine neue Aussage: 'Und für jeden gibt es eine Richtung, die er einnimmt.' Es verbindet nicht mit einem spezifischen Vorgaengerelement — es markiert den Diskursfortgang.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=148"
               }
             ]
           }
@@ -62,12 +67,14 @@
         {
           "type": "classification",
           "question": "وَالسَّمَاءِ وَالطَّارِقِ (86:1) — Was ist das erste وَ?",
-          "answer": "WAW AL-QASAM. Genitiv السَّمَاءِ direkt nach وَ, am Satzanfang. 'Beim Himmel und beim Klopfer.' Das zweite وَ ist waw al-'atf (Koordination: السَّمَاءِ وَالطَّارِقِ = zwei Schwurobjekte)."
+          "answer": "WAW AL-QASAM. Genitiv السَّمَاءِ direkt nach وَ, am Satzanfang. 'Beim Himmel und beim Klopfer.' Das zweite وَ ist waw al-'atf (Koordination: السَّمَاءِ وَالطَّارِقِ = zwei Schwurobjekte).",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=86&verse=1"
         },
         {
           "type": "classification",
           "question": "وَهُوَ أَهْوَنُ عَلَيْهِ (30:27) — Was ist das وَ?",
-          "answer": "WAW AL-HAL. Dem وَ folgt ein Pronomen (هُوَ) + Adjektiv (أَهْوَنُ) — ein Nominalsatz. 'Und das ist ihm leichter' — aber in seiner Funktion als Hal zur vorhergehenden Handlung: '...während das für ihn leichter ist.'"
+          "answer": "WAW AL-HAL. Dem وَ folgt ein Pronomen (هُوَ) + Adjektiv (أَهْوَنُ) — ein Nominalsatz. 'Und das ist ihm leichter' — aber in seiner Funktion als Hal zur vorhergehenden Handlung: '...während das für ihn leichter ist.'",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=30&verse=27"
         }
       ],
       "testContent": {
@@ -120,12 +127,14 @@
               {
                 "ref": "2:282",
                 "arabic": "وَأَشْهِدُوا إِذَا تَبَايَعْتُمْ",
-                "explanation": "Das وَ am Anfang könnte Waw al-'Atf (Koordination mit dem vorherigen Befehl) oder Waw al-Ibtida' (neuer Diskursbeginn) sein. Beide Analysen sind grammatisch vertretbar. Kein eindeutiges Unterscheidungssignal."
+                "explanation": "Das وَ am Anfang könnte Waw al-'Atf (Koordination mit dem vorherigen Befehl) oder Waw al-Ibtida' (neuer Diskursbeginn) sein. Beide Analysen sind grammatisch vertretbar. Kein eindeutiges Unterscheidungssignal.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=282"
               },
               {
                 "ref": "18:86",
                 "arabic": "حَتَّىٰ إِذَا بَلَغَ مَغْرِبَ الشَّمْسِ وَجَدَهَا تَغْرُبُ فِي عَيْنٍ حَمِئَةٍ وَوَجَدَ عِندَهَا قَوْمًا",
-                "explanation": "وَوَجَدَ = WAW AL-'ATF. Koordiniert zwei gleichartige Verben: وَجَدَهَا تَغْرُبُ... وَوَجَدَ عِندَهَا قَوْمًا. Beide im Perfekt, beide beschreiben die gleiche Entdeckungssituation. Parallele Struktur ist das Signal."
+                "explanation": "وَوَجَدَ = WAW AL-'ATF. Koordiniert zwei gleichartige Verben: وَجَدَهَا تَغْرُبُ... وَوَجَدَ عِندَهَا قَوْمًا. Beide im Perfekt, beide beschreiben die gleiche Entdeckungssituation. Parallele Struktur ist das Signal.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=18&verse=86"
               }
             ]
           }
@@ -135,7 +144,32 @@
         {
           "type": "analysis",
           "question": "فَادْخُلِي فِي عِبَادِي وَادْخُلِي جَنَّتِي (89:29-30) — Was ist das وَ zwischen den beiden Imperativformen?",
-          "answer": "WAW AL-'ATF. Koordiniert zwei Imperative: ادْخُلِي فِي عِبَادِي UND ادْخُلِي جَنَّتِي. Formale Parallelität (zwei Imperative, gleiche Form). 'So tritt ein unter meine Diener, und tritt ein in meinen Garten.'"
+          "answer": "WAW AL-'ATF. Koordiniert zwei Imperative: ادْخُلِي فِي عِبَادِي UND ادْخُلِي جَنَّتِي. Formale Parallelität (zwei Imperative, gleiche Form). 'So tritt ein unter meine Diener, und tritt ein in meinen Garten.'",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=89&verse=29"
+        },
+        {
+          "type": "analysis",
+          "question": "اسْتَوَىٰ عَلَى الْعَرْشِ وَسَخَّرَ الشَّمْسَ وَالْقَمَرَ (13:2) — Welche Funktion haben die beiden وَ?",
+          "answer": "Beide sind WAW AL-'ATF. Das erste وَ koordiniert zwei Perfektverben: اسْتَوَىٰ und سَخَّرَ (gleiche Form, gleiches Subjekt). Das zweite وَ koordiniert zwei Akkusativ-Objekte: الشَّمْسَ und الْقَمَرَ. Parallelismus-Test bestätigt: gleichartige Elemente werden verbunden.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=13&verse=2"
+        },
+        {
+          "type": "analysis",
+          "question": "فَأَجْمَعُوا أَمْرَكُمْ وَشُرَكَاءَكُمْ (10:71) — Was ist das وَ vor شُرَكَاءَكُمْ?",
+          "answer": "WAW AL-MA'IYYA. شُرَكَاءَكُمْ steht im Akkusativ — aber nicht als zweites Objekt zu أَجْمَعُوا (das Verb nimmt nur ein Objekt: أَمْرَكُمْ). Der Akkusativ zeigt: Maf'ul ma'ahu. 'So beschliesst eure Angelegenheit ZUSAMMEN MIT euren Teilhabern.' Kasus-Test: Akkusativ nach وَ, nicht durch das Verb gefordert — Signal fuer Waw al-Ma'iyya.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=10&verse=71"
+        },
+        {
+          "type": "analysis",
+          "question": "وَلَا تَأْكُلُوا أَمْوَالَهُمْ إِلَىٰ أَمْوَالِكُمْ (4:2) — وَ am Versanfang: 'Atf oder Isti'naf?",
+          "answer": "WAW AL-IBTIDA' (Diskurs-Opener) oder WAW AL-'ATF — beide Analysen sind vertretbar. Fuer Isti'naf spricht: der Vers beginnt ein neues Thema (Umgang mit Waisenbesitz) ohne syntaktische Einbettung in den vorherigen Satz. Fuer 'Atf spricht: er reiht sich an die vorherige Anweisung (وَآتُوا الْيَتَامَىٰ أَمْوَالَهُمْ in 4:2). In solchen Grenzfaellen ist die Ambiguitaet legitim — der Diskurskontext entscheidet.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=2"
+        },
+        {
+          "type": "analysis",
+          "question": "جَاءُوا أَبَاهُمْ عِشَاءً يَبْكُونَ (12:16) — Im vorherigen Vers steht وَأَوْحَيْنَا إِلَيْهِ. Was ist das وَ in وَجَاءُوا (12:16)?",
+          "answer": "WAW AL-IBTIDA' mit narrativer Funktion (Szenenwechsel). Das وَ verbindet nicht syntaktisch 'wir offenbarten ihm' mit 'sie kamen zu ihrem Vater' — es markiert den Uebergang von einer Szene (Gott und Yusuf im Brunnen) zu einer anderen (die Brueder beim Vater am Abend). Test: 'und' als logische Konjunktion ergibt keinen Sinn zwischen den beiden Saetzen — es ist ein narrativer Konnektor.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=12&verse=16"
         }
       ],
       "testContent": {

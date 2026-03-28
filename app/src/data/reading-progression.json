@@ -28,7 +28,7 @@
           "partLabels": [
             "Ba (verbindet rechts+links)",
             "Sin (verbindet rechts+links)",
-            "Mim (verbindet rechts, endet)"
+            "Mim (verbindet beidseitig, hier Endform)"
           ],
           "difficulty": 1,
           "parsingNote": "Alle drei Buchstaben verbinden sich. Ba beginnt → Anfangsform. Sin in der Mitte → Mittelform. Mim am Ende → Endform.",
@@ -195,7 +195,8 @@
           "parsingNote": "Drei Brueche: nach Sad-Ra (Ra bricht), nach Ra (Alif bricht), Alif-Ta nicht verbunden. Vier separate Gruppen: صـ + ر + ا + ط.",
           "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=6"
         }
-      ]
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=1"
     },
     {
       "id": "R1",
@@ -580,7 +581,8 @@
           "difficulty": 1,
           "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=111&verse=2"
         }
-      ]
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=2"
     },
     {
       "id": "R2",
@@ -1061,7 +1063,8 @@
           "difficulty": 2,
           "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=103&verse=3"
         }
-      ]
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=2"
     },
     {
       "id": "R3",
@@ -1428,7 +1431,8 @@
           "difficulty": 3,
           "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=103&verse=2"
         }
-      ]
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=1"
     },
     {
       "id": "R4",
@@ -1763,7 +1767,8 @@
           "difficulty": 4,
           "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=111&verse=1"
         }
-      ]
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=112&verse=1"
     },
     {
       "id": "R5",
@@ -2108,7 +2113,8 @@
           "difficulty": 5,
           "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=111&verse=5"
         }
-      ]
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=1"
     }
   ]
 }

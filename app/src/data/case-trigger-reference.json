@@ -88,7 +88,8 @@
           "lesson": "3.17",
           "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=15&verse=30"
         }
-      ]
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=17&verse=81"
     },
     "akkusativ": {
       "arabicTerm": "مَنْصُوب",
@@ -201,9 +202,11 @@
           "arabicTerm": "بَدَل",
           "example": "رَأَيْتُ زَيْدًا أَخَاكَ",
           "quranExample": "صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ (1:7, Akkusativ-Badal zu الصِّرَاطَ in 1:6)",
-          "lesson": "3.13"
+          "lesson": "3.13",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=7"
         }
-      ]
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=6"
     },
     "genitiv": {
       "arabicTerm": "مَجْرُور",
@@ -251,14 +254,16 @@
           "arabicTerm": "صِفَة",
           "example": "فِي الْبَيْتِ الْكَبِيرِ",
           "quranExample": "الرَّحْمَٰنِ الرَّحِيمِ (1:3, Genitiv-Sifa zu اللَّهِ im Genitiv als Idafa-Zweitglied)",
-          "lesson": "3.18"
+          "lesson": "3.18",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=3"
         },
         {
           "function": "Badal zu Genitiv-Nomen",
           "arabicTerm": "بَدَل",
           "example": "مَرَرْتُ بِزَيْدٍ أَخِيكَ",
           "quranExample": "رَبِّ الْعَالَمِينَ (1:2, Badal zu اللَّهِ im Genitiv)",
-          "lesson": "3.13"
+          "lesson": "3.13",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=2"
         },
         {
           "function": "Muqsam bihi (Schwurobjekt)",
@@ -277,7 +282,8 @@
           "note": "Bei Zahlen 3-10 steht das Gezählte im Genitiv Plural als Mudaf ilaihi (Idafa-Konstruktion), nicht als Tamyiz im eigentlichen Sinne. Tamyiz im strengen Sinne (Akkusativ Singular) gilt für Zahlen 11-99.",
           "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=29"
         }
-      ]
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=1"
     }
   },
   "verbalMoods": {
@@ -328,7 +334,8 @@
           "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=117"
         }
       ],
-      "lesson": "2.6"
+      "lesson": "2.6",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=247"
     },
     "jussiv": {
       "arabicTerm": "مَجْزُوم",
@@ -377,7 +384,8 @@
           "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=106"
         }
       ],
-      "lesson": "2.6"
+      "lesson": "2.6",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=112&verse=3"
     }
   },
   "specialNotes": [

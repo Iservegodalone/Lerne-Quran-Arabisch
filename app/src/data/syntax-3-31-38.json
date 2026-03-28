@@ -45,19 +45,23 @@
             {
               "arabic": "كُلُّ نَفْسٍ ذَائِقَةُ الْمَوْتِ",
               "transliteration": "kullu nafsin dhāʾiqatu l-mawt",
-              "meaning": "Jedes Selbst wird den Tod kosten (3:185)"
+              "meaning": "Jedes Selbst wird den Tod kosten (3:185)",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=185"
             },
             {
               "arabic": "كُلُّهُمْ أَجْمَعُونَ",
               "transliteration": "kulluhum ajmaʿūn",
-              "meaning": "sie alle zusammen (15:30)"
+              "meaning": "sie alle zusammen (15:30)",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=15&verse=30"
             },
             {
               "arabic": "بَعْضُهُمْ أَوْلِيَاءُ بَعْضٍ",
               "transliteration": "baʿḍuhum awliyāʾu baʿḍ",
-              "meaning": "einige von ihnen sind Schutzherren anderer (5:51)"
+              "meaning": "einige von ihnen sind Schutzherren anderer (5:51)",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=5&verse=51"
             }
-          ]
+          ],
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=185"
         },
         {
           "type": "walkthrough",
@@ -90,9 +94,11 @@
             {
               "arabic": "مِنْ كُلِّ بَابٍ",
               "transliteration": "min kulli bābin",
-              "meaning": "durch jede Tür (Genitiv, 13:23)"
+              "meaning": "durch jede Tür (Genitiv, 13:23)",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=13&verse=23"
             }
-          ]
+          ],
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=17&verse=12"
         },
         {
           "type": "quranExamples",
@@ -155,7 +161,8 @@
             "Genitiv (Jarr)"
           ],
           "answer": "Akkusativ (Naṣb)",
-          "explanation": "كُلَّ steht im Akkusativ, weil es das vorausgestellte Objekt (Mafʿūl bih muqaddam) des Verbs فَصَّلْنَا ist. Die Fatḥa auf dem Lām zeigt den Akkusativ."
+          "explanation": "كُلَّ steht im Akkusativ, weil es das vorausgestellte Objekt (Mafʿūl bih muqaddam) des Verbs فَصَّلْنَا ist. Die Fatḥa auf dem Lām zeigt den Akkusativ.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=17&verse=12"
         },
         {
           "type": "fill_in",
@@ -170,7 +177,8 @@
           "type": "sentence_analysis",
           "prompt": "Analysiere die Konstruktion: بَعْضُهُمْ أَوْلِيَاءُ بَعْضٍ (5:51)",
           "answer": "بَعْضُهُمْ = Mubtadaʾ (einige von ihnen), Nominativ. أَوْلِيَاءُ بَعْضٍ = Khabar (Schutzherren anderer). بَعْضٍ am Ende steht im Genitiv als zweites Iḍāfa-Glied.",
-          "explanation": "Die Struktur ist ein Nominalsatz: بَعْضُهُمْ (Mubtadaʾ) + أَوْلِيَاءُ بَعْضٍ (Khabar mit Iḍāfa). بَعْض erscheint zweimal mit unterschiedlichen Kasus."
+          "explanation": "Die Struktur ist ein Nominalsatz: بَعْضُهُمْ (Mubtadaʾ) + أَوْلِيَاءُ بَعْضٍ (Khabar mit Iḍāfa). بَعْض erscheint zweimal mit unterschiedlichen Kasus.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=5&verse=51"
         },
         {
           "type": "multiple_choice",
@@ -281,12 +289,14 @@
             {
               "arabic": "وَقَالَ الْمَلَأُ",
               "transliteration": "wa-qāla l-malaʾu",
-              "meaning": "und er-sagte die Vornehmen (7:60)"
+              "meaning": "und er-sagte die Vornehmen (7:60)",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=7&verse=60"
             },
             {
               "arabic": "آمَنَ الرَّسُولُ",
               "transliteration": "āmana r-rasūlu",
-              "meaning": "er-glaubte der Gesandte (2:285)"
+              "meaning": "er-glaubte der Gesandte (2:285)",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=285"
             }
           ]
         },
@@ -423,19 +433,23 @@
             {
               "arabic": "قَالَتِ امْرَأَةُ عِمْرَانَ",
               "transliteration": "qālatimraʾatu ʿImrān",
-              "meaning": "es-sagte die-Frau Imrans (3:35)"
+              "meaning": "es-sagte die-Frau Imrans (3:35)",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=35"
             },
             {
               "arabic": "جَاءَتْهُمْ رُسُلُهُمْ",
               "transliteration": "jāʾathum rusuluhum",
-              "meaning": "es-kamen-zu-ihnen ihre-Gesandten (14:9)"
+              "meaning": "es-kamen-zu-ihnen ihre-Gesandten (14:9)",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=14&verse=9"
             },
             {
               "arabic": "نَادَتْهُ الْمَلَائِكَةُ",
               "transliteration": "nādathu l-malāʾikatu",
-              "meaning": "es-riefen-ihn die-Engel (3:39)"
+              "meaning": "es-riefen-ihn die-Engel (3:39)",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=39"
             }
-          ]
+          ],
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=35"
         },
         {
           "type": "explanation",
@@ -445,12 +459,14 @@
             {
               "arabic": "قَدْ جَاءَتْكُمْ مَوْعِظَةٌ",
               "transliteration": "qad jāʾatkum mawʿiẓatun",
-              "meaning": "wahrlich ist-zu-euch-gekommen eine-Ermahnung (10:57) — mit تْ trotz Trennung"
+              "meaning": "wahrlich ist-zu-euch-gekommen eine-Ermahnung (10:57) — mit تْ trotz Trennung",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=10&verse=57"
             },
             {
               "arabic": "وَلَمَّا جَاءَ أَمْرُنَا",
               "transliteration": "wa-lammā jāʾa amrunā",
-              "meaning": "und als kam Unser-Befehl (11:66) — أَمْر ist maskulin, daher ohne تْ"
+              "meaning": "und als kam Unser-Befehl (11:66) — أَمْر ist maskulin, daher ohne تْ",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=11&verse=66"
             }
           ]
         },
@@ -472,7 +488,8 @@
             {
               "arabic": "وَتِلْكَ الْأَيَّامُ نُدَاوِلُهَا",
               "transliteration": "wa-tilka l-ayyāmu nudāwiluhā",
-              "meaning": "und jene Tage — Wir wechseln sie (3:140) — Pronomen -hā (fem.sg.)"
+              "meaning": "und jene Tage — Wir wechseln sie (3:140) — Pronomen -hā (fem.sg.)",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=140"
             }
           ]
         },
@@ -577,7 +594,8 @@
           "type": "sentence_analysis",
           "prompt": "Erkläre die Feminin-Kongruenz in: نَادَتْهُ الْمَلَائِكَةُ (3:39)",
           "answer": "نَادَتْهُ enthält die Feminin-Markierung تْ. الْمَلَائِكَةُ (die Engel) ist ein gebrochener Plural und wird als feminin Singular behandelt. Das Suffix هُ bezieht sich auf Zakariyyā.",
-          "explanation": "الْمَلَائِكَةُ ist ein gebrochener Plural → Feminin-Singular-Kongruenz. Die تْ am Verb ist obligatorisch, da das Subjekt (nach dem Pronomen) direkt folgt."
+          "explanation": "الْمَلَائِكَةُ ist ein gebrochener Plural → Feminin-Singular-Kongruenz. Die تْ am Verb ist obligatorisch, da das Subjekt (nach dem Pronomen) direkt folgt.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=39"
         }
       ]
     },
@@ -615,14 +633,17 @@
             {
               "arabic": "فَأَمَّا الَّذِينَ آمَنُوا فَيَعْلَمُونَ أَنَّهُ الْحَقُّ",
               "transliteration": "fa-amma lladhīna āmanū fa-yaʿlamūna annahu l-ḥaqq",
-              "meaning": "Was die Vertrauenden betrifft — so wissen sie, dass es die Wahrheit ist (2:26)"
+              "meaning": "Was die Vertrauenden betrifft — so wissen sie, dass es die Wahrheit ist (2:26)",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=26"
             },
             {
               "arabic": "أَمَّا السَّفِينَةُ فَكَانَتْ لِمَسَاكِينَ",
               "transliteration": "amma s-safīnatu fa-kānat li-masākīn",
-              "meaning": "Was das Schiff betrifft — so gehörte es Armen (18:79)"
+              "meaning": "Was das Schiff betrifft — so gehörte es Armen (18:79)",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=18&verse=79"
             }
-          ]
+          ],
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=26"
         },
         {
           "type": "explanation",
@@ -632,14 +653,17 @@
             {
               "arabic": "فَأَمَّا الَّذِينَ شَقُوا فَفِي النَّارِ",
               "transliteration": "fa-amma lladhīna shaqū fa-fī n-nār",
-              "meaning": "Was die Unglücklichen betrifft — so im Feuer (11:106)"
+              "meaning": "Was die Unglücklichen betrifft — so im Feuer (11:106)",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=11&verse=106"
             },
             {
               "arabic": "وَأَمَّا الَّذِينَ سُعِدُوا فَفِي الْجَنَّةِ",
               "transliteration": "wa-amma lladhīna suʿidū fa-fī l-janna",
-              "meaning": "Und was die Glücklichen betrifft — so im Garten (11:108)"
+              "meaning": "Und was die Glücklichen betrifft — so im Garten (11:108)",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=11&verse=108"
             }
-          ]
+          ],
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=11&verse=105"
         },
         {
           "type": "walkthrough",
@@ -717,7 +741,8 @@
             "Topik: لِمَسَاكِينَ / Kommentar: السَّفِينَةُ"
           ],
           "answer": "Topik: السَّفِينَةُ / Kommentar: كَانَتْ لِمَسَاكِينَ",
-          "explanation": "Das Topik ist das hervorgehobene Thema (das Schiff), der Kommentar ist die Aussage darüber (gehörte Armen)."
+          "explanation": "Das Topik ist das hervorgehobene Thema (das Schiff), der Kommentar ist die Aussage darüber (gehörte Armen).",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=18&verse=79"
         },
         {
           "type": "fill_in",
@@ -732,7 +757,8 @@
           "type": "sentence_analysis",
           "prompt": "Analysiere: فَأَمَّا الَّذِينَ آمَنُوا فَيَعْلَمُونَ أَنَّهُ الْحَقُّ (2:26)",
           "answer": "فَ am Anfang verbindet mit dem vorherigen Vers. أَمَّا = Topikalisierungspartikel. الَّذِينَ آمَنُوا = Topik (die Vertrauenden). فَ = obligatorisches Antwort-فَ. يَعْلَمُونَ أَنَّهُ الْحَقُّ = Kommentar (sie wissen, dass es die Wahrheit ist).",
-          "explanation": "Die erste فَ ist die verbindende Konjunktion (ʿāṭifa), die zweite فَ ist das obligatorische Antwort-فَ der أَمَّا-Konstruktion."
+          "explanation": "Die erste فَ ist die verbindende Konjunktion (ʿāṭifa), die zweite فَ ist das obligatorische Antwort-فَ der أَمَّا-Konstruktion.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=26"
         },
         {
           "type": "multiple_choice",
@@ -804,19 +830,23 @@
             {
               "arabic": "رَبِّ مُوسَىٰ وَهَارُونَ",
               "transliteration": "rabbi Mūsā wa-Hārūn",
-              "meaning": "der Herr von Mose und Aaron (7:122)"
+              "meaning": "der Herr von Mose und Aaron (7:122)",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=7&verse=122"
             },
             {
               "arabic": "وَالسَّمَاءِ وَالطَّارِقِ",
               "transliteration": "wa-s-samāʾi wa-ṭ-ṭāriq",
-              "meaning": "Beim Himmel und dem Nachtstern (86:1) — beide Genitiv nach وَ des Schwurs"
+              "meaning": "Beim Himmel und dem Nachtstern (86:1) — beide Genitiv nach وَ des Schwurs",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=86&verse=1"
             },
             {
               "arabic": "خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ",
               "transliteration": "khalaqa s-samāwāti wa-l-arḍ",
-              "meaning": "Er schuf die Himmel und die Erde (6:1) — beide Akkusativ"
+              "meaning": "Er schuf die Himmel und die Erde (6:1) — beide Akkusativ",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=6&verse=1"
             }
-          ]
+          ],
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=7&verse=122"
         },
         {
           "type": "explanation",
@@ -826,19 +856,22 @@
             {
               "arabic": "خَلَقَكُمْ مِنْ تُرَابٍ ثُمَّ مِنْ نُطْفَةٍ",
               "transliteration": "khalaqakum min turābin thumma min nuṭfatin",
-              "meaning": "Er schuf euch aus Staub, dann aus einem Tropfen (35:11)"
+              "meaning": "Er schuf euch aus Staub, dann aus einem Tropfen (35:11)",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=35&verse=11"
             },
             {
               "arabic": "فَأَزَلَّهُمَا الشَّيْطَانُ",
               "transliteration": "fa-azallahumā sh-shayṭān",
-              "meaning": "Da ließ sie der Satan straucheln (2:36) — فَ = unmittelbare Folge"
+              "meaning": "Da ließ sie der Satan straucheln (2:36) — فَ = unmittelbare Folge",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=36"
             },
             {
               "arabic": "يَوْمَيْنِ أَوْ ثَلَاثَةَ أَيَّامٍ",
               "transliteration": "yawmayni aw thalāthata ayyāmin",
               "meaning": "zwei Tage oder drei Tage — أَوْ = Alternative"
             }
-          ]
+          ],
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=35&verse=11"
         },
         {
           "type": "walkthrough",
@@ -915,7 +948,8 @@
             "Akkusativ, weil وَ immer Akkusativ verlangt"
           ],
           "answer": "Akkusativ, weil es mit السَّمَاوَاتِ koordiniert ist und dieses Objekt von خَلَقَ ist",
-          "explanation": "الْأَرْضَ ist durch وَ an السَّمَاوَاتِ koordiniert. Da السَّمَاوَاتِ als Objekt im Akkusativ steht, übernimmt الْأَرْضَ denselben Kasus."
+          "explanation": "الْأَرْضَ ist durch وَ an السَّمَاوَاتِ koordiniert. Da السَّمَاوَاتِ als Objekt im Akkusativ steht, übernimmt الْأَرْضَ denselben Kasus.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=6&verse=1"
         },
         {
           "type": "matching",
@@ -952,7 +986,8 @@
           "type": "sentence_analysis",
           "prompt": "Analysiere die Koordination in: رَبِّ مُوسَىٰ وَهَارُونَ (7:122)",
           "answer": "رَبِّ = Genitiv (Iḍāfa). مُوسَىٰ = zweites Iḍāfa-Glied, Genitiv (indeklinabel). وَ = koordinierende Konjunktion. هَارُونَ = koordiniert mit مُوسَىٰ, Genitiv (diptotisch → Fatḥa statt Kasra).",
-          "explanation": "هَارُونَ steht im Genitiv, weil es durch وَ an مُوسَىٰ koordiniert ist. Als diptotisches Nomen zeigt es den Genitiv mit Fatḥa (nicht Kasra)."
+          "explanation": "هَارُونَ steht im Genitiv, weil es durch وَ an مُوسَىٰ koordiniert ist. Als diptotisches Nomen zeigt es den Genitiv mit Fatḥa (nicht Kasra).",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=7&verse=122"
         },
         {
           "type": "multiple_choice",
@@ -985,12 +1020,14 @@
             {
               "arabic": "صَبْرًا جَمِيلًا",
               "transliteration": "ṣabran jamīlan",
-              "meaning": "Schöne Geduld! = Sei schön geduldig! (12:18, 70:5)"
+              "meaning": "Schöne Geduld! = Sei schön geduldig! (12:18, 70:5)",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=12&verse=18"
             },
             {
               "arabic": "فَضَرْبَ الرِّقَابِ",
               "transliteration": "fa-ḍarba r-riqāb",
-              "meaning": "So schlagt die Nacken! (47:4)"
+              "meaning": "So schlagt die Nacken! (47:4)",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=47&verse=4"
             }
           ]
         },
@@ -1036,7 +1073,8 @@
             {
               "arabic": "فَضَرْبَ الرِّقَابِ",
               "transliteration": "fa-ḍarba r-riqāb",
-              "meaning": "So schlagt die Nacken! (47:4)"
+              "meaning": "So schlagt die Nacken! (47:4)",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=47&verse=4"
             },
             {
               "arabic": "شُكْرًا",
@@ -1048,7 +1086,8 @@
               "transliteration": "ʿafwan",
               "meaning": "Verzeihung! (= Entschuldigung!)"
             }
-          ]
+          ],
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=47&verse=4"
         },
         {
           "type": "quranExamples",
@@ -1121,7 +1160,8 @@
           "type": "sentence_analysis",
           "prompt": "Analysiere: فَضَرْبَ الرِّقَابِ (47:4)",
           "answer": "فَ = Konjunktion (Folge). ضَرْبَ = Maṣdar von ضَرَبَ, Akkusativ, fungiert als Imperativ-Ersatz. الرِّقَابِ = Genitiv (zweites Iḍāfa-Glied). Impliziertes Verb: اِضْرِبُوا (schlagt!). Bedeutung: So schlagt die Nacken!",
-          "explanation": "ضَرْبَ ist der Maṣdar im Akkusativ. Er ersetzt den Imperativ اِضْرِبُوا und steht in einer Iḍāfa mit الرِّقَابِ."
+          "explanation": "ضَرْبَ ist der Maṣdar im Akkusativ. Er ersetzt den Imperativ اِضْرِبُوا und steht in einer Iḍāfa mit الرِّقَابِ.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=47&verse=4"
         },
         {
           "type": "multiple_choice",
@@ -1193,14 +1233,16 @@
             {
               "arabic": "يَسْأَلُونَكَ مَاذَا يُنْفِقُونَ · قُلِ الْعَفْوَ",
               "transliteration": "yasʾalūnaka mādhā yunfiqūn · quli l-ʿafwa",
-              "meaning": "Sie fragen dich, was sie ausgeben sollen. Sag: Das Überschüssige (2:219)"
+              "meaning": "Sie fragen dich, was sie ausgeben sollen. Sag: Das Überschüssige (2:219)",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=219"
             },
             {
               "arabic": "أَنْفِقُوا الْعَفْوَ",
               "transliteration": "anfiqū l-ʿafwa",
               "meaning": "Gebt das Überschüssige aus (implizierte vollständige Antwort)"
             }
-          ]
+          ],
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=219"
         },
         {
           "type": "walkthrough",
@@ -1224,14 +1266,17 @@
             {
               "arabic": "يَسْأَلُونَكَ عَنِ الْأَهِلَّةِ · قُلْ هِيَ مَوَاقِيتُ لِلنَّاسِ وَالْحَجِّ",
               "transliteration": "yasʾalūnaka ʿani l-ahillati · qul hiya mawāqītu li-n-nāsi wa-l-ḥajj",
-              "meaning": "Sie fragen dich über die Neumonde. Sag: Sie sind Zeitmarken für die Menschen und die Pilgerfahrt (2:189)"
+              "meaning": "Sie fragen dich über die Neumonde. Sag: Sie sind Zeitmarken für die Menschen und die Pilgerfahrt (2:189)",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=189"
             },
             {
               "arabic": "مَاذَا أَنْزَلَ رَبُّكُمْ · قَالُوا خَيْرًا",
               "transliteration": "mādhā anzala rabbukum · qālū khayran",
-              "meaning": "Was hat euer Herr herabgesandt? Sie sagten: Gutes (16:30)"
+              "meaning": "Was hat euer Herr herabgesandt? Sie sagten: Gutes (16:30)",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=16&verse=30"
             }
-          ]
+          ],
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=36&verse=52"
         },
         {
           "type": "quranExamples",
@@ -1283,7 +1328,8 @@
             "Weil es nach einer Präposition steht"
           ],
           "answer": "Weil es Objekt des aus der Frage implizierten Verbs أَنْفِقُوا ist",
-          "explanation": "Das Verb يُنْفِقُونَ aus der Frage impliziert in der Antwort أَنْفِقُوا. الْعَفْوَ ist das Objekt dieses ausgelassenen Verbs."
+          "explanation": "Das Verb يُنْفِقُونَ aus der Frage impliziert in der Antwort أَنْفِقُوا. الْعَفْوَ ist das Objekt dieses ausgelassenen Verbs.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=219"
         },
         {
           "type": "identification",
@@ -1295,7 +1341,8 @@
             "خَرَجَ (er ging hinaus)"
           ],
           "answer": "أَنْزَلَ (er sandte herab)",
-          "explanation": "Das Verb أَنْزَلَ aus der Frage wird in der Antwort impliziert: (أَنْزَلَ) خَيْرًا = (Er sandte) Gutes (herab)."
+          "explanation": "Das Verb أَنْزَلَ aus der Frage wird in der Antwort impliziert: (أَنْزَلَ) خَيْرًا = (Er sandte) Gutes (herab).",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=16&verse=30"
         },
         {
           "type": "fill_in",
@@ -1309,7 +1356,8 @@
           "type": "sentence_analysis",
           "prompt": "Rekonstruiere den vollständigen Satz hinter der Antwort in: يَسْأَلُونَكَ مَاذَا يُنْفِقُونَ · قُلِ الْعَفْوَ (2:219)",
           "answer": "Die vollständige Antwort lautet: قُلْ أَنْفِقُوا الْعَفْوَ (Sag: Gebt das Überschüssige aus). Das Verb أَنْفِقُوا ist aus يُنْفِقُونَ in der Frage impliziert. الْعَفْوَ ist das Objekt im Akkusativ.",
-          "explanation": "Das Frage-Verb يُنْفِقُونَ (sie geben aus) liefert das implizierte Antwort-Verb أَنْفِقُوا (gebt aus!). Nur das neue Informationselement الْعَفْوَ wird explizit genannt."
+          "explanation": "Das Frage-Verb يُنْفِقُونَ (sie geben aus) liefert das implizierte Antwort-Verb أَنْفِقُوا (gebt aus!). Nur das neue Informationselement الْعَفْوَ wird explizit genannt.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=219"
         },
         {
           "type": "multiple_choice",
@@ -1371,14 +1419,16 @@
             {
               "arabic": "اِهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ · صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ",
               "transliteration": "ihdinā ṣ-ṣirāṭa l-mustaqīm · ṣirāṭa lladhīna anʿamta ʿalayhim",
-              "meaning": "Führe uns den geraden Weg — den Weg derer, denen Du Gunst erwiesen hast (1:6–7)"
+              "meaning": "Führe uns den geraden Weg — den Weg derer, denen Du Gunst erwiesen hast (1:6–7)",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=6"
             },
             {
               "arabic": "لِلَّهِ رَبِّ الْعَالَمِينَ",
               "transliteration": "li-llāhi rabbi l-ʿālamīn",
               "meaning": "für Allah, den Herrn der Welten — رَبِّ ist Badal zu اللَّهِ"
             }
-          ]
+          ],
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=6"
         },
         {
           "type": "explanation",
@@ -1388,9 +1438,11 @@
             {
               "arabic": "وَلِلَّهِ عَلَى النَّاسِ حِجُّ الْبَيْتِ مَنِ اسْتَطَاعَ إِلَيْهِ سَبِيلًا",
               "transliteration": "wa-li-llāhi ʿalā n-nāsi ḥijju l-bayti mani staṭāʿa ilayhi sabīlan",
-              "meaning": "Und Allah gegenüber obliegt den Menschen die Pilgerfahrt zum Haus — wer einen Weg dorthin vermag (3:97)"
+              "meaning": "Und Allah gegenüber obliegt den Menschen die Pilgerfahrt zum Haus — wer einen Weg dorthin vermag (3:97)",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=97"
             }
-          ]
+          ],
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=97"
         },
         {
           "type": "explanation",
@@ -1400,14 +1452,17 @@
             {
               "arabic": "يَسْأَلُونَكَ عَنِ الشَّهْرِ الْحَرَامِ قِتَالٍ فِيهِ",
               "transliteration": "yasʾalūnaka ʿani sh-shahri l-ḥarāmi qitālin fīh",
-              "meaning": "Sie fragen dich über den eingeschränkten Monat (حَرَام: verboten/eingeschränkt) — Kampf darin (2:217)"
+              "meaning": "Sie fragen dich über den eingeschränkten Monat (حَرَام: verboten/eingeschränkt) — Kampf darin (2:217)",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=217"
             },
             {
               "arabic": "قُتِلَ أَصْحَابُ الْأُخْدُودِ · النَّارِ ذَاتِ الْوَقُودِ",
               "transliteration": "qutila aṣḥābu l-ukhdūdi · n-nāri dhāti l-waqūd",
-              "meaning": "Verflucht seien die Leute des Grabens — des Feuers mit Brennstoff (85:4–5)"
+              "meaning": "Verflucht seien die Leute des Grabens — des Feuers mit Brennstoff (85:4–5)",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=85&verse=4"
             }
-          ]
+          ],
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=217"
         },
         {
           "type": "walkthrough",
@@ -1430,7 +1485,8 @@
             {
               "location": "1:6–7",
               "word": "الصِّرَاطَ... صِرَاطَ الَّذِينَ",
-              "analysis": "Vollständiger Badal: صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ ist Badal kull min kull zu الصِّرَاطَ الْمُسْتَقِيمَ. Beide Akkusativ."
+              "analysis": "Vollständiger Badal: صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ ist Badal kull min kull zu الصِّرَاطَ الْمُسْتَقِيمَ. Beide Akkusativ.",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=6"
             },
             {
               "location": "3:97",
@@ -1447,7 +1503,8 @@
             {
               "location": "85:4–5",
               "word": "الْأُخْدُودِ · النَّارِ",
-              "analysis": "النَّارِ (das Feuer) ist Badal zu الْأُخْدُودِ (der Graben). Das Feuer ist ein Aspekt/Inhalt des Grabens → inkludierender oder vollständiger Badal."
+              "analysis": "النَّارِ (das Feuer) ist Badal zu الْأُخْدُودِ (der Graben). Das Feuer ist ein Aspekt/Inhalt des Grabens → inkludierender oder vollständiger Badal.",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=85&verse=4"
             },
             {
               "location": "14:1",
@@ -1471,7 +1528,8 @@
             "Kein Badal"
           ],
           "answer": "Vollständiger Badal (kull min kull)",
-          "explanation": "صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ bezeichnet dasselbe wie الصِّرَاطَ الْمُسْتَقِيمَ — der gerade Weg IST der Weg der Begünstigten. Vollständige Ersetzung."
+          "explanation": "صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ bezeichnet dasselbe wie الصِّرَاطَ الْمُسْتَقِيمَ — der gerade Weg IST der Weg der Begünstigten. Vollständige Ersetzung.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=6"
         },
         {
           "type": "identification",
@@ -1507,7 +1565,8 @@
           "type": "sentence_analysis",
           "prompt": "Bestimme den Badal-Typ und analysiere: وَلِلَّهِ عَلَى النَّاسِ حِجُّ الْبَيْتِ مَنِ اسْتَطَاعَ إِلَيْهِ سَبِيلًا (3:97)",
           "answer": "مَنِ اسْتَطَاعَ (wer es vermag) ist teilweiser Badal (بَعْض مِنْ كُلّ) zu النَّاسِ (die Menschen). Nicht alle Menschen sind gemeint, sondern nur der Teil, der die Möglichkeit hat. مَنِ übernimmt den Genitiv von النَّاسِ (das nach عَلَى im Genitiv steht).",
-          "explanation": "Teilweiser Badal: Die Pilgerpflicht gilt nicht für alle Menschen, sondern nur für diejenigen, die es sich leisten können — مَنِ اسْتَطَاعَ ist ein Teil von النَّاسِ."
+          "explanation": "Teilweiser Badal: Die Pilgerpflicht gilt nicht für alle Menschen, sondern nur für diejenigen, die es sich leisten können — مَنِ اسْتَطَاعَ ist ein Teil von النَّاسِ.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=97"
         },
         {
           "type": "multiple_choice",
@@ -1534,7 +1593,8 @@
           "type": "sentence_analysis",
           "prompt": "Konsolidierungsaufgabe: Analysiere alle Badal-Strukturen in Sure 2:255: اللَّهُ لَا إِلَٰهَ إِلَّا هُوَ الْحَيُّ الْقَيُّومُ ۚ لَا تَأْخُذُهُ سِنَةٌ وَلَا نَوْمٌ ۚ لَهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ ۗ مَنْ ذَا الَّذِي يَشْفَعُ عِنْدَهُ إِلَّا بِإِذْنِهِ ۚ يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ ۖ وَلَا يُحِيطُونَ بِشَيْءٍ مِنْ عِلْمِهِ إِلَّا بِمَا شَاءَ ۚ وَسِعَ كُرْسِيُّهُ السَّمَاوَاتِ وَالْأَرْضَ ۖ وَلَا يَئُودُهُ حِفْظُهُمَا ۚ وَهُوَ الْعَلِيُّ الْعَظِيمُ. Bestimme: Welche Elemente sind Badal? Welchen Typ haben sie? Wie verhält sich der Kasus?",
           "answer": "Die zentrale Badal-Struktur: الْحَيُّ الْقَيُّومُ ist vollständiger Badal (كُلّ مِنْ كُلّ) zu هُوَ — beide stehen im Nominativ und bezeichnen dieselbe Entität (Gott). هُوَ selbst ist Badal zu اللَّهُ in der Ausnahme-Konstruktion لَا إِلَٰهَ إِلَّا هُوَ. Die Attribute الْعَلِيُّ الْعَظِيمُ am Versende sind ebenfalls vollständiger Badal zum Subjekt هُوَ des Nominalsatzes وَهُوَ الْعَلِيُّ الْعَظِيمُ (oder attributiver Khabar). Die Phrase مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ zeigt Koordination: das zweite مَا steht im selben Kasus (Nominativ als Mubtada' nach لَهُ).",
-          "explanation": "Diese Aufgabe konsolidiert alle drei Badal-Typen und verlangt die Anwendung auf einen komplexen Vers. Der Vers enthält zusätzlich Ausnahme-Konstruktionen (إِلَّا), Verneinung (لَا), Relativsätze (الَّذِي), und Koordination — ein idealer Prüfstein für das syntaktische Gesamtverständnis."
+          "explanation": "Diese Aufgabe konsolidiert alle drei Badal-Typen und verlangt die Anwendung auf einen komplexen Vers. Der Vers enthält zusätzlich Ausnahme-Konstruktionen (إِلَّا), Verneinung (لَا), Relativsätze (الَّذِي), und Koordination — ein idealer Prüfstein für das syntaktische Gesamtverständnis.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=255"
         }
       ]
     },

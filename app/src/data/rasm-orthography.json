@@ -4,9 +4,18 @@
     "description": "Systematische Unterschiede zwischen der Orthographie des quranischen Konsonantentextes und der modernen arabischen Standardorthographie. Rein deskriptiv-sprachwissenschaftlich.",
     "note": "Der quranische Konsonantentext folgt einer älteren Orthographie die in mehreren Punkten von der später standardisierten Schreibweise abweicht. Diese Unterschiede sind orthographischer Natur — sie betreffen die Schreibung, nicht die Aussprache oder Bedeutung.",
     "sources": [
-      {"label": "Quranic Arabic Corpus — Word by Word", "url": "https://corpus.quran.com"},
-      {"label": "Tanzil.net — Quran Text (Uthmani & Simple)", "url": "https://tanzil.net"},
-      {"label": "Deroche, Qur'ans of the Umayyads", "url": "https://archive.org/search?query=deroche+qurans+umayyads"}
+      {
+        "label": "Quranic Arabic Corpus — Word by Word",
+        "url": "https://corpus.quran.com"
+      },
+      {
+        "label": "Tanzil.net — Quran Text (Uthmani & Simple)",
+        "url": "https://tanzil.net"
+      },
+      {
+        "label": "Deroche, Qur'ans of the Umayyads",
+        "url": "https://archive.org/search?query=deroche+qurans+umayyads"
+      }
     ]
   },
   "categories": [
@@ -30,7 +39,8 @@
             "2:177",
             "2:238"
           ],
-          "note": "Eines der häufigsten Wörter im Quran — erscheint über 60 Mal in dieser Schreibung"
+          "note": "Eines der häufigsten Wörter im Quran — erscheint über 60 Mal in dieser Schreibung",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=3"
         },
         {
           "quranOrtho": "الزكوة",
@@ -44,7 +54,8 @@
             "2:177",
             "2:277"
           ],
-          "note": "Erscheint ca. 30 Mal"
+          "note": "Erscheint ca. 30 Mal",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=43"
         },
         {
           "quranOrtho": "الحيوة",
@@ -59,7 +70,8 @@
             "2:204",
             "3:14"
           ],
-          "note": "Durchgehend so geschrieben"
+          "note": "Durchgehend so geschrieben",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=85"
         },
         {
           "quranOrtho": "الربوا",
@@ -72,7 +84,8 @@
             "2:278",
             "3:130"
           ],
-          "note": null
+          "note": null,
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=275"
         },
         {
           "quranOrtho": "منوة",
@@ -82,7 +95,8 @@
           "locations": [
             "53:20"
           ],
-          "note": "Eigenname"
+          "note": "Eigenname",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=53&verse=20"
         },
         {
           "quranOrtho": "النجوة",
@@ -92,7 +106,8 @@
           "locations": [
             "40:41"
           ],
-          "note": null
+          "note": null,
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=40&verse=41"
         },
         {
           "quranOrtho": "مشكوة",
@@ -102,7 +117,8 @@
           "locations": [
             "24:35"
           ],
-          "note": null
+          "note": null,
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=24&verse=35"
         },
         {
           "quranOrtho": "الغدوة",
@@ -113,7 +129,8 @@
             "6:52",
             "18:28"
           ],
-          "note": null
+          "note": null,
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=6&verse=52"
         }
       ]
     },
@@ -137,7 +154,8 @@
           "locations": [
             "6:61"
           ],
-          "note": "Ya-Schreibung statt Alif"
+          "note": "Ya-Schreibung statt Alif",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=6&verse=61"
         },
         {
           "quranOrtho": "تترا",
@@ -147,7 +165,8 @@
           "locations": [
             "23:44"
           ],
-          "note": "Alif statt Alif Maqsura"
+          "note": "Alif statt Alif Maqsura",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=23&verse=44"
         }
       ]
     },
@@ -166,7 +185,8 @@
             "1:3",
             "2:163"
           ],
-          "note": "Alif nach Mim fehlt — eines der häufigsten Wörter"
+          "note": "Alif nach Mim fehlt — eines der häufigsten Wörter",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=1"
         },
         {
           "quranOrtho": "ابرهيم",
@@ -179,7 +199,8 @@
             "2:126",
             "2:127"
           ],
-          "note": "Alif nach Ra fehlt. In Sure 2 so geschrieben, in anderen Suren teilweise mit Alif."
+          "note": "Alif nach Ra fehlt. In Sure 2 so geschrieben, in anderen Suren teilweise mit Alif.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=124"
         },
         {
           "quranOrtho": "اسمعيل",
@@ -192,7 +213,8 @@
             "2:133",
             "2:136"
           ],
-          "note": "Alif nach Mim fehlt"
+          "note": "Alif nach Mim fehlt",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=125"
         },
         {
           "quranOrtho": "اسحق",
@@ -204,7 +226,8 @@
             "2:136",
             "2:140"
           ],
-          "note": "Alif nach Ha fehlt"
+          "note": "Alif nach Ha fehlt",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=133"
         },
         {
           "quranOrtho": "سليمن",
@@ -214,7 +237,8 @@
           "locations": [
             "2:102"
           ],
-          "note": "Alif nach Mim fehlt"
+          "note": "Alif nach Mim fehlt",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=102"
         },
         {
           "quranOrtho": "لكن",
@@ -225,7 +249,8 @@
             "2:12",
             "2:102"
           ],
-          "note": "Die leichte Partikel لٰكِنْ (lākin) wird auch in moderner Orthographie ohne Alif geschrieben — die Schreibung stimmt mit dem Rasm überein. Nur die schwere Form لَاكِنَّ (lākinna, mit Schadda) erscheint in manchen Orthographien mit Alif."
+          "note": "Die leichte Partikel لٰكِنْ (lākin) wird auch in moderner Orthographie ohne Alif geschrieben — die Schreibung stimmt mit dem Rasm überein. Nur die schwere Form لَاكِنَّ (lākinna, mit Schadda) erscheint in manchen Orthographien mit Alif.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=12"
         },
         {
           "quranOrtho": "الشيطن",
@@ -238,7 +263,8 @@
             "2:208",
             "2:268"
           ],
-          "note": "Alif nach Ta fehlt"
+          "note": "Alif nach Ta fehlt",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=36"
         },
         {
           "quranOrtho": "هرون",
@@ -250,7 +276,8 @@
             "4:163",
             "6:84"
           ],
-          "note": "Alif nach Ha fehlt"
+          "note": "Alif nach Ha fehlt",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=248"
         },
         {
           "quranOrtho": "دود",
@@ -263,7 +290,8 @@
             "17:55",
             "34:10"
           ],
-          "note": "Alif nach Dal fehlt. Hinweis: Einige gedruckte Mushaf-Ausgaben schreiben داود mit Alif an bestimmten Stellen. Die defektive Schreibung دود ohne Alif ist in fruehen Rasm-Handschriften belegt, wird aber nicht in allen modernen Uthmani-Druckausgaben einheitlich wiedergegeben."
+          "note": "Alif nach Dal fehlt. Hinweis: Einige gedruckte Mushaf-Ausgaben schreiben داود mit Alif an bestimmten Stellen. Die defektive Schreibung دود ohne Alif ist in fruehen Rasm-Handschriften belegt, wird aber nicht in allen modernen Uthmani-Druckausgaben einheitlich wiedergegeben.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=251"
         }
       ]
     },
@@ -280,7 +308,8 @@
           "locations": [
             "27:21"
           ],
-          "note": "Zusaetzliches Alif nach La"
+          "note": "Zusaetzliches Alif nach La",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=27&verse=21"
         },
         {
           "quranOrtho": "لااوضعوا",
@@ -290,7 +319,8 @@
           "locations": [
             "9:47"
           ],
-          "note": null
+          "note": null,
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=9&verse=47"
         }
       ]
     },
@@ -317,7 +347,8 @@
             "30:50",
             "57:13"
           ],
-          "note": "An bestimmten Stellen mit offenem Ta geschrieben — an anderen mit Ta Marbuta"
+          "note": "An bestimmten Stellen mit offenem Ta geschrieben — an anderen mit Ta Marbuta",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=218"
         },
         {
           "quranOrtho": "نعمت",
@@ -338,7 +369,8 @@
             "35:3",
             "52:29"
           ],
-          "note": "An diesen Stellen mit offenem Ta — sonst Ta Marbuta"
+          "note": "An diesen Stellen mit offenem Ta — sonst Ta Marbuta",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=231"
         },
         {
           "quranOrtho": "سنت",
@@ -356,7 +388,8 @@
             "40:85",
             "48:23"
           ],
-          "note": "Im Konsonantentext immer mit offenem Ta"
+          "note": "Im Konsonantentext immer mit offenem Ta",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=8&verse=38"
         },
         {
           "quranOrtho": "شجرت",
@@ -370,7 +403,8 @@
             "44:43",
             "56:52"
           ],
-          "note": null
+          "note": null,
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=14&verse=24"
         },
         {
           "quranOrtho": "لعنت",
@@ -381,7 +415,8 @@
             "3:61",
             "24:7"
           ],
-          "note": null
+          "note": null,
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=61"
         },
         {
           "quranOrtho": "امرات",
@@ -398,7 +433,8 @@
             "66:11",
             "66:12"
           ],
-          "note": "Im Konsonantentext mit offenem Ta in Verbindung mit bestimmten Eigennamen"
+          "note": "Im Konsonantentext mit offenem Ta in Verbindung mit bestimmten Eigennamen",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=35"
         },
         {
           "quranOrtho": "كلمت",
@@ -413,7 +449,8 @@
             "40:6",
             "42:24"
           ],
-          "note": "An diesen Stellen mit offenem Ta"
+          "note": "An diesen Stellen mit offenem Ta",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=7&verse=137"
         },
         {
           "quranOrtho": "معصيت",
@@ -424,7 +461,8 @@
             "58:8",
             "58:9"
           ],
-          "note": null
+          "note": null,
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=58&verse=8"
         },
         {
           "quranOrtho": "فطرت",
@@ -434,7 +472,8 @@
           "locations": [
             "30:30"
           ],
-          "note": null
+          "note": null,
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=30&verse=30"
         },
         {
           "quranOrtho": "بقيت",
@@ -444,7 +483,8 @@
           "locations": [
             "11:86"
           ],
-          "note": null
+          "note": null,
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=11&verse=86"
         },
         {
           "quranOrtho": "قرت",
@@ -456,7 +496,8 @@
             "28:9",
             "32:17"
           ],
-          "note": null
+          "note": null,
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=25&verse=74"
         }
       ]
     },
@@ -474,7 +515,8 @@
             "12:87",
             "13:31"
           ],
-          "note": "Hamza mit Ya-Träger vereinfacht — Hamza zwischen zwei Ya fällt weg"
+          "note": "Hamza mit Ya-Träger vereinfacht — Hamza zwischen zwei Ya fällt weg",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=12&verse=87"
         },
         {
           "quranOrtho": "لملوا",
@@ -484,7 +526,8 @@
           "locations": [
             "18:18"
           ],
-          "note": "Hamza auf Waw-Träger vor Waw vereinfacht — Vermeidung doppelter Waw"
+          "note": "Hamza auf Waw-Träger vor Waw vereinfacht — Vermeidung doppelter Waw",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=18&verse=18"
         },
         {
           "quranOrtho": "القرءان",
@@ -496,7 +539,8 @@
             "15:1",
             "17:9"
           ],
-          "note": "Im älteren Konsonantentext mit separatem Hamza-Zeichen statt Madda (آ)"
+          "note": "Im älteren Konsonantentext mit separatem Hamza-Zeichen statt Madda (آ)",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=185"
         },
         {
           "quranOrtho": "شيا",
@@ -508,7 +552,8 @@
             "2:123",
             "2:254"
           ],
-          "note": "Hamza auf der Zeile, oft ohne Träger im älteren Text"
+          "note": "Hamza auf der Zeile, oft ohne Träger im älteren Text",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=48"
         },
         {
           "quranOrtho": "سوء",
@@ -520,7 +565,8 @@
             "3:30",
             "4:17"
           ],
-          "note": "Finales Hamza nach langem Vokal — im Konsonantentext oft ohne sichtbaren Träger"
+          "note": "Finales Hamza nach langem Vokal — im Konsonantentext oft ohne sichtbaren Träger",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=49"
         },
         {
           "quranOrtho": "اولياء",
@@ -532,7 +578,8 @@
             "3:28",
             "4:89"
           ],
-          "note": "Initiales Hamza + finales Hamza — im Konsonantentext müssen beide Positionen korrekt identifiziert werden"
+          "note": "Initiales Hamza + finales Hamza — im Konsonantentext müssen beide Positionen korrekt identifiziert werden",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=257"
         },
         {
           "quranOrtho": "ابناء",
@@ -543,7 +590,8 @@
             "2:49",
             "2:146"
           ],
-          "note": "Gebrochener Plural mit finalem Hamza"
+          "note": "Gebrochener Plural mit finalem Hamza",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=49"
         }
       ]
     },
@@ -561,7 +609,8 @@
             "1:6",
             "1:7"
           ],
-          "note": "Im Konsonantentext mit Sad geschrieben. Linguistisch interessant: das Wort ist ein Lehnwort (vgl. lat. strata) und die Sad-Schreibung reflektiert die emphatische Aussprache im Arabischen."
+          "note": "Im Konsonantentext mit Sad geschrieben. Linguistisch interessant: das Wort ist ein Lehnwort (vgl. lat. strata) und die Sad-Schreibung reflektiert die emphatische Aussprache im Arabischen.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=6"
         },
         {
           "quranOrtho": "بصطة",
@@ -571,7 +620,8 @@
           "locations": [
             "2:247"
           ],
-          "note": "Sad statt Sin — Emphatisierung durch Nachbarkonsonanten"
+          "note": "Sad statt Sin — Emphatisierung durch Nachbarkonsonanten",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=247"
         },
         {
           "quranOrtho": "يبصط",
@@ -581,7 +631,8 @@
           "locations": [
             "2:245"
           ],
-          "note": null
+          "note": null,
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=245"
         },
         {
           "quranOrtho": "المصيطرون",
@@ -591,7 +642,8 @@
           "locations": [
             "52:37"
           ],
-          "note": null
+          "note": null,
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=52&verse=37"
         }
       ]
     },
@@ -623,7 +675,8 @@
             "2:240",
             "5:48"
           ],
-          "note": "Getrennt im Konsonantentext"
+          "note": "Getrennt im Konsonantentext",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=240"
         },
         {
           "quranOrtho": "كى لا",
@@ -637,7 +690,8 @@
             "57:23",
             "59:7"
           ],
-          "note": null
+          "note": null,
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=153"
         }
       ]
     },
@@ -657,7 +711,8 @@
             "2:163",
             "55:1"
           ],
-          "note": "Eines der häufigsten Wörter mit Dolch-Alif"
+          "note": "Eines der häufigsten Wörter mit Dolch-Alif",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=1"
         },
         {
           "quranOrtho": "هٰذَا",
@@ -669,7 +724,8 @@
             "2:35",
             "7:73"
           ],
-          "note": null
+          "note": null,
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=31"
         },
         {
           "quranOrtho": "ذٰلِكَ",
@@ -681,7 +737,8 @@
             "2:5",
             "3:44"
           ],
-          "note": null
+          "note": null,
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=2"
         },
         {
           "quranOrtho": "لٰكِنَّ",
@@ -693,7 +750,8 @@
             "2:17",
             "2:150"
           ],
-          "note": null
+          "note": null,
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=12"
         },
         {
           "quranOrtho": "إِلٰه",
@@ -705,7 +763,8 @@
             "2:163",
             "4:171"
           ],
-          "note": null
+          "note": null,
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=133"
         },
         {
           "quranOrtho": "سُبْحٰنَ",
@@ -717,7 +776,8 @@
             "17:93",
             "36:36"
           ],
-          "note": null
+          "note": null,
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=17&verse=1"
         },
         {
           "quranOrtho": "طٰهٰ",
@@ -727,7 +787,8 @@
           "locations": [
             "20:1"
           ],
-          "note": "Beide Buchstaben tragen Dolch-Alif"
+          "note": "Beide Buchstaben tragen Dolch-Alif",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=20&verse=1"
         },
         {
           "quranOrtho": "يٰسٓ",
@@ -737,7 +798,8 @@
           "locations": [
             "36:1"
           ],
-          "note": null
+          "note": null,
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=36&verse=1"
         }
       ]
     },
@@ -825,7 +887,8 @@
         "Sad ist die korrekte Form, Sin ist falsch"
       ],
       "correct": 1,
-      "explanation": "Das Wort (ein Lehnwort, vgl. lat. strata) wird im Konsonantentext mit Sad geschrieben. Die Sad-Schreibung reflektiert die emphatische Aussprache — Sin und Sad alternieren in der älteren Orthographie bei bestimmten phonetischen Umgebungen."
+      "explanation": "Das Wort (ein Lehnwort, vgl. lat. strata) wird im Konsonantentext mit Sad geschrieben. Die Sad-Schreibung reflektiert die emphatische Aussprache — Sin und Sad alternieren in der älteren Orthographie bei bestimmten phonetischen Umgebungen.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=6"
     },
     {
       "id": "r5",

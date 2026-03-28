@@ -8,7 +8,8 @@
         "name": "Quranic Arabic Corpus",
         "url": "https://corpus.quran.com/"
       }
-    ]
+    ],
+    "meaningFields": "meaning and etymology added to all entries"
   },
   "names": [
     {
@@ -847,7 +848,9 @@
       ],
       "count": 828,
       "diptote": false,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=1"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=1",
+      "meaning": "Gottheit (Eigenname) — der Angebetete/Verehrte",
+      "etymology": "Wurzel ا-ل-ه (Gottheit, Verehrung). Wahrscheinlich Kontraktion von الإِلٰه (al-ilāh, 'die Gottheit'). Verwandt mit semitischem *ʔilāh-."
     },
     {
       "name": "ٱللَّهُ",
@@ -1590,7 +1593,9 @@
       ],
       "count": 733,
       "diptote": false,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=7"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=7",
+      "meaning": "Gottheit (Eigenname) — der Angebetete/Verehrte",
+      "etymology": "Wurzel ا-ل-ه (Gottheit, Verehrung). Wahrscheinlich Kontraktion von الإِلٰه (al-ilāh, 'die Gottheit'). Verwandt mit semitischem *ʔilāh-."
     },
     {
       "name": "ٱللَّهَ",
@@ -2192,7 +2197,9 @@
       ],
       "count": 592,
       "diptote": false,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=9"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=9",
+      "meaning": "Gottheit (Eigenname) — der Angebetete/Verehrte",
+      "etymology": "Wurzel ا-ل-ه (Gottheit, Verehrung). Wahrscheinlich Kontraktion von الإِلٰه (al-ilāh, 'die Gottheit'). Verwandt mit semitischem *ʔilāh-."
     },
     {
       "name": "وَٱللَّهُ",
@@ -2441,7 +2448,9 @@
       ],
       "count": 239,
       "diptote": false,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=19"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=19",
+      "meaning": "Gottheit (Eigenname) — der Angebetete/Verehrte",
+      "etymology": "Wurzel ا-ل-ه (Gottheit, Verehrung). Wahrscheinlich Kontraktion von الإِلٰه (al-ilāh, 'die Gottheit'). Verwandt mit semitischem *ʔilāh-."
     },
     {
       "name": "بِٱللَّهِ",
@@ -2590,7 +2599,9 @@
       ],
       "count": 139,
       "diptote": false,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=8"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=8",
+      "meaning": "Gottheit (Eigenname) — der Angebetete/Verehrte",
+      "etymology": "Wurzel ا-ل-ه (Gottheit, Verehrung). Wahrscheinlich Kontraktion von الإِلٰه (al-ilāh, 'die Gottheit'). Verwandt mit semitischem *ʔilāh-."
     },
     {
       "name": "لِلَّهِ",
@@ -2702,7 +2713,9 @@
       ],
       "count": 102,
       "diptote": false,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=2"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=2",
+      "meaning": "Gottheit (Eigenname) — der Angebetete/Verehrte",
+      "etymology": "Wurzel ا-ل-ه (Gottheit, Verehrung). Wahrscheinlich Kontraktion von الإِلٰه (al-ilāh, 'die Gottheit'). Verwandt mit semitischem *ʔilāh-."
     },
     {
       "name": "مُوسَىٰ",
@@ -2769,7 +2782,9 @@
       ],
       "count": 57,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=54"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=54",
+      "meaning": "Eigenname — etymologisch unsicher",
+      "etymology": "Lehnwort, wahrscheinlich ägyptischen Ursprungs (ägyptisch ms/msy = 'geboren/gezeugt'). Vgl. koptisch Μωυσῆς. Kein arabischer Wurzelbezug."
     },
     {
       "name": "جَهَنَّمَ",
@@ -2833,7 +2848,9 @@
       ],
       "count": 54,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=12"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=12",
+      "meaning": "Ortsbezeichnung für die Feuerstätte",
+      "etymology": "Lehnwort aus dem Hebräischen (גֵּי הִנֹּם, Gēy Hinnōm, 'Tal des Hinnom'), ein Tal bei Jerusalem. Über griechisch γέεννα (géenna) semitisch vermittelt."
     },
     {
       "name": "فِرْعَوْنَ",
@@ -2891,7 +2908,9 @@
       ],
       "count": 48,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=49"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=49",
+      "meaning": "Pharao — Herrschertitel",
+      "etymology": "Lehnwort aus dem Ägyptischen (pr-ʿꜣ = 'Großes Haus', Bezeichnung des Königspalasts, dann des Herrschers). Über griechisch Φαραώ und/oder direkt semitisch vermittelt."
     },
     {
       "name": "إِسْرَٰٕءِيلَ",
@@ -2942,7 +2961,9 @@
       ],
       "count": 41,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=40"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=40",
+      "meaning": "Eigenname — 'der mit Gott Streitende' oder 'Gott herrscht'",
+      "etymology": "Lehnwort aus dem Hebräischen (יִשְׂרָאֵל, Yiśrāʔēl). Volksetymologisch: śārāh ('streiten/ringen') + ʔēl ('Gott'). Alternativ: yśr ('herrschen') + ʔēl."
     },
     {
       "name": "إِبْرَٰهِيمَ",
@@ -2990,7 +3011,9 @@
       ],
       "count": 38,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=33"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=33",
+      "meaning": "Eigenname — etymologisch unsicher",
+      "etymology": "Lehnwort, wahrscheinlich aus dem Akkadischen/Aramäischen. Möglicherweise verwandt mit abr-hām ('Vater der Menge') oder ab-rām ('erhabener Vater'). Keine arabische Wurzel."
     },
     {
       "name": "ٱلشَّيْطَٰنُ",
@@ -3034,7 +3057,9 @@
       ],
       "count": 34,
       "diptote": false,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=36"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=36",
+      "meaning": "der Widersacher / der Entfernte",
+      "etymology": "Wurzel ش-ط-ن (entfernt sein, sich entfernen, widerspenstig sein). فَيْعَال-Muster: 'der sich weit [von der Wahrheit] Entfernende'. Alternativ Lehnwort aus hebr. שָׂטָן (śāṭān, 'Widersacher')."
     },
     {
       "name": "مَرْيَمَ",
@@ -3072,7 +3097,9 @@
       ],
       "count": 28,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=87"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=87",
+      "meaning": "Eigenname — etymologisch unsicher",
+      "etymology": "Lehnwort, wahrscheinlich aus dem Hebräischen/Aramäischen (מִרְיָם, Miryām). Etymologie umstritten: möglicherweise ägyptisch mry ('geliebt') oder hebr. מָרָה (mārāh, 'widerspenstig') oder מָרוֹם (mārōm, 'Höhe')."
     },
     {
       "name": "وَلِلَّهِ",
@@ -3109,7 +3136,9 @@
       ],
       "count": 27,
       "diptote": false,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=115"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=115",
+      "meaning": "Gottheit (Eigenname) — der Angebetete/Verehrte",
+      "etymology": "Wurzel ا-ل-ه (Gottheit, Verehrung). Wahrscheinlich Kontraktion von الإِلٰه (al-ilāh, 'die Gottheit'). Verwandt mit semitischem *ʔilāh-."
     },
     {
       "name": "ٱلْجَنَّةِ",
@@ -3145,7 +3174,9 @@
       ],
       "count": 26,
       "diptote": false,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=82"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=82",
+      "meaning": "der Garten / der umzäunte Ort",
+      "etymology": "Wurzel ج-ن-ن (verbergen, bedecken). جَنَّة = 'umzäunter Garten' (das Verborgene/Bedeckte durch Vegetation)."
     },
     {
       "name": "مُوسَىٰٕ",
@@ -3180,7 +3211,9 @@
       ],
       "count": 25,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=51"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=51",
+      "meaning": "Eigenname — etymologisch unsicher",
+      "etymology": "Lehnwort, wahrscheinlich ägyptischen Ursprungs (ägyptisch ms/msy = 'geboren/gezeugt'). Vgl. koptisch Μωυσῆς. Kein arabischer Wurzelbezug."
     },
     {
       "name": "ٱلْقُرْءَانَ",
@@ -3212,7 +3245,9 @@
       ],
       "count": 22,
       "diptote": false,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=82"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=82",
+      "meaning": "das Vorgetragene / die Rezitation",
+      "etymology": "Wurzel ق-ر-أ (lesen, vortragen, rezitieren). قُرْآن ist ein Verbalsubstantiv (فُعْلَان): 'das Vorgetragene/Gelesene'."
     },
     {
       "name": "نُوحٍ",
@@ -3244,7 +3279,9 @@
       ],
       "count": 22,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=163"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=163",
+      "meaning": "Eigenname — möglicherweise 'der Klagende'",
+      "etymology": "Möglicherweise Wurzel ن-و-ح (klagen, wehklagen; نَوْح = Wehklage). Parallele zu hebr. נֹחַ (Nōaḥ), dort zu נ-ו-ח ('ruhen') gestellt. Lehnwort-Charakter wahrscheinlich."
     },
     {
       "name": "ٱلشَّيْطَٰنِ",
@@ -3273,7 +3310,9 @@
       ],
       "count": 19,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=168"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=168",
+      "meaning": "der Widersacher / der Entfernte",
+      "etymology": "Wurzel ش-ط-ن (entfernt sein, sich entfernen, widerspenstig sein). فَيْعَال-Muster: 'der sich weit [von der Wahrheit] Entfernende'. Alternativ Lehnwort aus hebr. שָׂטָן (śāṭān, 'Widersacher')."
     },
     {
       "name": "ٱلْجَنَّةَ",
@@ -3301,7 +3340,9 @@
       ],
       "count": 18,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=35"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=35",
+      "meaning": "der Garten / der umzäunte Ort",
+      "etymology": "Wurzel ج-ن-ن (verbergen, bedecken). جَنَّة = 'umzäunter Garten' (das Verborgene/Bedeckte durch Vegetation)."
     },
     {
       "name": "جَهَنَّمُ",
@@ -3329,7 +3370,9 @@
       ],
       "count": 18,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=206"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=206",
+      "meaning": "Ortsbezeichnung für die Feuerstätte",
+      "etymology": "Lehnwort aus dem Hebräischen (גֵּי הִנֹּם, Gēy Hinnōm, 'Tal des Hinnom'), ein Tal bei Jerusalem. Über griechisch γέεννα (géenna) semitisch vermittelt."
     },
     {
       "name": "فِرْعَوْنُ",
@@ -3356,7 +3399,9 @@
       ],
       "count": 17,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=7&verse=123"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=7&verse=123",
+      "meaning": "Pharao — Herrschertitel",
+      "etymology": "Lehnwort aus dem Ägyptischen (pr-ʿꜣ = 'Großes Haus', Bezeichnung des Königspalasts, dann des Herrschers). Über griechisch Φαραώ und/oder direkt semitisch vermittelt."
     },
     {
       "name": "لِّلَّهِ",
@@ -3380,7 +3425,9 @@
       ],
       "count": 14,
       "diptote": false,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=98"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=98",
+      "meaning": "Gottheit (Eigenname) — der Angebetete/Verehrte",
+      "etymology": "Wurzel ا-ل-ه (Gottheit, Verehrung). Wahrscheinlich Kontraktion von الإِلٰه (al-ilāh, 'die Gottheit'). Verwandt mit semitischem *ʔilāh-."
     },
     {
       "name": "يُوسُفَ",
@@ -3404,7 +3451,9 @@
       ],
       "count": 14,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=12&verse=7"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=12&verse=7",
+      "meaning": "Eigenname — 'er möge hinzufügen'",
+      "etymology": "Lehnwort aus dem Hebräischen (יוֹסֵף, Yōsēf), zu י-ס-ף (yasaf, 'hinzufügen'): 'Möge [Gott] hinzufügen'. Keine arabische Wurzel."
     },
     {
       "name": "ءَادَمَ",
@@ -3427,7 +3476,9 @@
       ],
       "count": 13,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=31"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=31",
+      "meaning": "der Erdige / der Dunkelhäutige",
+      "etymology": "Möglicherweise Wurzel أ-د-م (Oberfläche, Haut; cf. أَدِيم = Haut/Erdoberfläche, أُدْمَة = dunkle Hautfarbe). Auch Verbindung zu أَدِيم الأَرْض (Erdoberfläche) vorgeschlagen. Parallele zu hebr. אָדָם (ādām) und אֲדָמָה (adāmāh, 'Erde')."
     },
     {
       "name": "مُوسَى",
@@ -3450,7 +3501,9 @@
       ],
       "count": 13,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=53"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=53",
+      "meaning": "Eigenname — etymologisch unsicher",
+      "etymology": "Lehnwort, wahrscheinlich ägyptischen Ursprungs (ägyptisch ms/msy = 'geboren/gezeugt'). Vgl. koptisch Μωυσῆς. Kein arabischer Wurzelbezug."
     },
     {
       "name": "ٱلْقُرْءَانِ",
@@ -3473,7 +3526,9 @@
       ],
       "count": 13,
       "diptote": false,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=17&verse=41"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=17&verse=41",
+      "meaning": "das Vorgetragene / die Rezitation",
+      "etymology": "Wurzel ق-ر-أ (lesen, vortragen, rezitieren). قُرْآن ist ein Verbalsubstantiv (فُعْلَان): 'das Vorgetragene/Gelesene'."
     },
     {
       "name": "لُوطٍ",
@@ -3495,7 +3550,9 @@
       ],
       "count": 12,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=11&verse=70"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=11&verse=70",
+      "meaning": "Eigenname — etymologisch unsicher",
+      "etymology": "Lehnwort aus dem Hebräischen (לוֹט, Lōṭ). Möglicherweise zu ל-ו-ט ('verhüllen, verbergen'). Im Arabischen ohne Wurzelbezug."
     },
     {
       "name": "يَٰمُوسَىٰ",
@@ -3516,7 +3573,9 @@
       ],
       "count": 11,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=55"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=55",
+      "meaning": "Eigenname — etymologisch unsicher",
+      "etymology": "Lehnwort, wahrscheinlich ägyptischen Ursprungs (ägyptisch ms/msy = 'geboren/gezeugt'). Vgl. koptisch Μωυσῆς. Kein arabischer Wurzelbezug."
     },
     {
       "name": "دَاوُ,دَ",
@@ -3537,7 +3596,9 @@
       ],
       "count": 11,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=163"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=163",
+      "meaning": "Eigenname — möglicherweise 'Geliebter'",
+      "etymology": "Lehnwort aus dem Hebräischen (דָּוִד, Dāwīd). Möglicherweise zu דּ-ו-ד ('lieben') oder als Lallwort. Arabisch ohne etymologische Transparenz."
     },
     {
       "name": "يَٰمُوسَىٰٕ",
@@ -3558,7 +3619,9 @@
       ],
       "count": 11,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=5&verse=22"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=5&verse=22",
+      "meaning": "Eigenname — etymologisch unsicher",
+      "etymology": "Lehnwort, wahrscheinlich ägyptischen Ursprungs (ägyptisch ms/msy = 'geboren/gezeugt'). Vgl. koptisch Μωυσῆς. Kein arabischer Wurzelbezug."
     },
     {
       "name": "ٱلْمُسْلِمِينَ",
@@ -3579,7 +3642,9 @@
       ],
       "count": 11,
       "diptote": false,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=6&verse=163"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=6&verse=163",
+      "meaning": "die sich Ergebenden / die sich Unterwerfenden (Akkusativ/Genitiv)",
+      "etymology": "Wurzel س-ل-م (heil sein, sich ergeben). مُسْلِم = Partizip IV: 'der sich Ergebende'. Pluralform."
     },
     {
       "name": "عَدْنٍ",
@@ -3600,7 +3665,9 @@
       ],
       "count": 11,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=9&verse=72"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=9&verse=72",
+      "meaning": "Beständigkeit / dauerhafter Aufenthalt",
+      "etymology": "Wurzel ع-د-ن (verweilen, sich niederlassen). عَدْن = 'dauerhafter Aufenthaltsort'. Verwandt mit hebr. עֵדֶן (ʿēḏen, 'Eden/Wonne')."
     },
     {
       "name": "وَيَعْقُوبَ",
@@ -3620,7 +3687,9 @@
       ],
       "count": 10,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=136"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=136",
+      "meaning": "Eigenname — 'der Fersenhalter / er folgt nach'",
+      "etymology": "Lehnwort aus dem Hebräischen (יַעֲקֹב, Yaʿăqōḇ), zu ע-ק-ב (ʿāqaḇ, 'an der Ferse fassen, nachfolgen')."
     },
     {
       "name": "ٱلشَّيْطَٰنَ",
@@ -3640,7 +3709,9 @@
       ],
       "count": 10,
       "diptote": false,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=83"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=83",
+      "meaning": "der Widersacher / der Entfernte",
+      "etymology": "Wurzel ش-ط-ن (entfernt sein, sich entfernen, widerspenstig sein). فَيْعَال-Muster: 'der sich weit [von der Wahrheit] Entfernende'. Alternativ Lehnwort aus hebr. שָׂטָן (śāṭān, 'Widersacher')."
     },
     {
       "name": "عِيسَى",
@@ -3659,7 +3730,9 @@
       ],
       "count": 9,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=87"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=87",
+      "meaning": "Eigenname — etymologisch unsicher",
+      "etymology": "Lehnwort, wahrscheinlich aus dem Syrischen/Aramäischen (ܝܫܘܥ, Yešūʿ), letztlich hebräisch יֵשׁוּעַ (Yēšūaʿ, 'er rettet'). Die arabische Form zeigt syrische Lautvermittlung."
     },
     {
       "name": "إِبْرَٰهِ.مَ",
@@ -3678,7 +3751,9 @@
       ],
       "count": 9,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=124"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=124",
+      "meaning": "Eigenname — etymologisch unsicher",
+      "etymology": "Lehnwort, wahrscheinlich aus dem Akkadischen/Aramäischen. Möglicherweise verwandt mit abr-hām ('Vater der Menge') oder ab-rām ('erhabener Vater'). Keine arabische Wurzel."
     },
     {
       "name": "وَإِسْحَٰقَ",
@@ -3697,7 +3772,9 @@
       ],
       "count": 9,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=133"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=133",
+      "meaning": "Eigenname — 'er lacht'",
+      "etymology": "Lehnwort aus dem Hebräischen (יִצְחָק, Yiṣḥāq), zu צ-ח-ק (ṣāḥaq, 'lachen')."
     },
     {
       "name": "هَٰرُونَ",
@@ -3716,7 +3793,9 @@
       ],
       "count": 9,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=248"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=248",
+      "meaning": "Eigenname — etymologisch unsicher",
+      "etymology": "Lehnwort aus dem Hebräischen (אַהֲרֹן, Ahărōn). Etymologie unklar, möglicherweise ägyptischen Ursprungs."
     },
     {
       "name": "مَدْيَنَ",
@@ -3735,7 +3814,9 @@
       ],
       "count": 9,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=7&verse=85"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=7&verse=85",
+      "meaning": "Ortsname — Siedlungsgebiet",
+      "etymology": "Lehnwort, wahrscheinlich vorarabisch. Möglicherweise Bezug zu Wurzel م-د-ن (sich niederlassen), aber eher Eigenname ohne transparente Etymologie."
     },
     {
       "name": "إِبْلِيسَ",
@@ -3753,7 +3834,9 @@
       ],
       "count": 8,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=34"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=34",
+      "meaning": "Eigenname des Widersachers — möglicherweise 'der Hoffnungslose'",
+      "etymology": "Umstritten: entweder Lehnwort aus griechisch διάβολος (diábolos, 'Verleumder') über syrische Vermittlung, oder arabisch zu Wurzel ب-ل-س (ablasa, 'verzweifeln, hoffnungslos werden')."
     },
     {
       "name": "وَإِسْمَٰعِيلَ",
@@ -3771,7 +3854,9 @@
       ],
       "count": 8,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=125"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=125",
+      "meaning": "Eigenname — 'Gott hört'",
+      "etymology": "Lehnwort aus dem Hebräischen (יִשְׁמָעֵאל, Yišmāʿēl), zu שׁ-מ-ע (šāmaʿ, 'hören') + אֵל (ʔēl, 'Gott')."
     },
     {
       "name": "ٱلْقُرْءَانُ",
@@ -3789,7 +3874,9 @@
       ],
       "count": 8,
       "diptote": false,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=185"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=185",
+      "meaning": "das Vorgetragene / die Rezitation",
+      "etymology": "Wurzel ق-ر-أ (lesen, vortragen, rezitieren). قُرْآن ist ein Verbalsubstantiv (فُعْلَان): 'das Vorgetragene/Gelesene'."
     },
     {
       "name": "ٱلْمَسِيحُ",
@@ -3807,7 +3894,9 @@
       ],
       "count": 8,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=45"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=45",
+      "meaning": "der Gesalbte / der Bestrichene",
+      "etymology": "Wurzel م-س-ح (streichen, wischen, salben). فَعِيل-Form im Sinne des Passivs: 'der Gesalbte'. Parallele zu hebr. מָשִׁיחַ (māšīaḥ) und aram. mšīḥā."
     },
     {
       "name": "وَهَٰرُونَ",
@@ -3825,7 +3914,9 @@
       ],
       "count": 8,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=163"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=163",
+      "meaning": "Eigenname — etymologisch unsicher",
+      "etymology": "Lehnwort aus dem Hebräischen (אַהֲרֹן, Ahărōn). Etymologie unklar, möglicherweise ägyptischen Ursprungs."
     },
     {
       "name": "تَٱللَّهِ",
@@ -3843,7 +3934,9 @@
       ],
       "count": 8,
       "diptote": false,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=12&verse=73"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=12&verse=73",
+      "meaning": "Gottheit (Eigenname) — mit Schwurpartikel",
+      "etymology": "Wurzel ا-ل-ه. Schwurpartikel تَ + الله."
     },
     {
       "name": "مُّوسَىٰ",
@@ -3860,7 +3953,9 @@
       ],
       "count": 7,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=92"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=92",
+      "meaning": "Eigenname — etymologisch unsicher",
+      "etymology": "Lehnwort, wahrscheinlich ägyptischen Ursprungs (ägyptisch ms/msy = 'geboren/gezeugt'). Vgl. koptisch Μωυσῆς. Kein arabischer Wurzelbezug."
     },
     {
       "name": "سُلَيْمَٰنَ",
@@ -3877,7 +3972,9 @@
       ],
       "count": 7,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=102"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=102",
+      "meaning": "Eigenname — möglicherweise 'der Friedliche / Mann des Friedens'",
+      "etymology": "Lehnwort aus dem Hebräischen (שְׁלֹמֹה, Šəlōmōh), zu שׁ-ל-ם (šālōm, 'Frieden'). Die arabische Form mit -ān-Endung zeigt Adaptierung an arabische Namensmorphologie."
     },
     {
       "name": "ٱلتَّوْرَىٰةِ",
@@ -3894,7 +3991,9 @@
       ],
       "count": 7,
       "diptote": false,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=50"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=50",
+      "meaning": "die Weisung / die Unterweisung",
+      "etymology": "Lehnwort aus dem Hebräischen (תּוֹרָה, Tōrāh), zu י-ר-ה (yārāh, 'unterweisen, lehren'): 'Unterweisung, Weisung'."
     },
     {
       "name": "نُوحًا",
@@ -3911,7 +4010,9 @@
       ],
       "count": 7,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=7&verse=59"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=7&verse=59",
+      "meaning": "Eigenname — möglicherweise 'der Klagende' (Akkusativform)",
+      "etymology": "Möglicherweise Wurzel ن-و-ح (klagen, wehklagen). Siehe نوح."
     },
     {
       "name": "شُعَيْبًا",
@@ -3928,7 +4029,9 @@
       ],
       "count": 7,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=7&verse=85"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=7&verse=85",
+      "meaning": "Eigenname — Diminutivform (Akkusativform)",
+      "etymology": "Möglicherweise Diminutiv von شَعْب. Wurzel ش-ع-ب ('sich verzweigen'). Siehe شعيب."
     },
     {
       "name": "ثَمُودُ",
@@ -3945,7 +4048,9 @@
       ],
       "count": 7,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=11&verse=95"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=11&verse=95",
+      "meaning": "Stammesname — möglicherweise 'die wenig Wasser Habenden'",
+      "etymology": "Möglicherweise zu Wurzel ث-م-د (wenig Wasser). ثَمُود als Stammesname der nabatäischen Region. Historisch in assyrischen Quellen als Thamudeni belegt."
     },
     {
       "name": "يُوسُفُ",
@@ -3962,7 +4067,9 @@
       ],
       "count": 7,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=12&verse=4"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=12&verse=4",
+      "meaning": "Eigenname — 'er möge hinzufügen'",
+      "etymology": "Lehnwort aus dem Hebräischen (יוֹסֵף, Yōsēf), zu י-ס-ף (yasaf, 'hinzufügen'): 'Möge [Gott] hinzufügen'. Keine arabische Wurzel."
     },
     {
       "name": "قُرْءَانًا",
@@ -3979,7 +4086,9 @@
       ],
       "count": 7,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=13&verse=31"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=13&verse=31",
+      "meaning": "Vortrag / Rezitation (Akkusativform)",
+      "etymology": "Wurzel ق-ر-أ. Siehe القرآن."
     },
     {
       "name": "هُودًا",
@@ -3995,7 +4104,9 @@
       ],
       "count": 6,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=111"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=111",
+      "meaning": "Eigenname — möglicherweise 'der Sanfte' (Akkusativform)",
+      "etymology": "Möglicherweise Wurzel ه-و-د. Siehe هود."
     },
     {
       "name": "ٱلْيَهُودُ",
@@ -4011,7 +4122,9 @@
       ],
       "count": 6,
       "diptote": false,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=113"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=113",
+      "meaning": "die Juden / die sich Bekehrenden",
+      "etymology": "Wurzel ه-و-د (umkehren, sich bekehren). يَهُود = 'die sich [zu Gott] Bekehrenden'. Parallele zu hebr. יְהוּדָה (Yəhūḏāh, 'Juda')."
     },
     {
       "name": "فَٱللَّهُ",
@@ -4027,7 +4140,9 @@
       ],
       "count": 6,
       "diptote": false,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=113"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=113",
+      "meaning": "Gottheit (Eigenname) — der Angebetete/Verehrte",
+      "etymology": "Wurzel ا-ل-ه (Gottheit, Verehrung). Wahrscheinlich Kontraktion von الإِلٰه (al-ilāh, 'die Gottheit'). Verwandt mit semitischem *ʔilāh-."
     },
     {
       "name": "إِبْرَٰهِ.مُ",
@@ -4043,7 +4158,9 @@
       ],
       "count": 6,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=126"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=126",
+      "meaning": "Eigenname — etymologisch unsicher",
+      "etymology": "Lehnwort, wahrscheinlich aus dem Akkadischen/Aramäischen. Möglicherweise verwandt mit abr-hām ('Vater der Menge') oder ab-rām ('erhabener Vater'). Keine arabische Wurzel."
     },
     {
       "name": "إِسْحَٰقَ",
@@ -4059,7 +4176,9 @@
       ],
       "count": 6,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=6&verse=84"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=6&verse=84",
+      "meaning": "Eigenname — 'er lacht'",
+      "etymology": "Lehnwort aus dem Hebräischen (יִצְחָק, Yiṣḥāq), zu צ-ח-ק (ṣāḥaq, 'lachen')."
     },
     {
       "name": "وَلُوطًا",
@@ -4075,7 +4194,9 @@
       ],
       "count": 6,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=6&verse=86"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=6&verse=86",
+      "meaning": "Eigenname (Akkusativform)",
+      "etymology": "Lehnwort aus dem Hebräischen. Siehe لوط."
     },
     {
       "name": "فَلِلَّهِ",
@@ -4091,7 +4212,9 @@
       ],
       "count": 6,
       "diptote": false,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=6&verse=149"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=6&verse=149",
+      "meaning": "Gottheit (Eigenname) — mit Konjunktion",
+      "etymology": "Wurzel ا-ل-ه. Konjunktion فَ + Präposition لِ + الله."
     },
     {
       "name": "ٱلْجَنَّةُ",
@@ -4107,7 +4230,9 @@
       ],
       "count": 6,
       "diptote": false,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=7&verse=43"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=7&verse=43",
+      "meaning": "der Garten / der umzäunte Ort",
+      "etymology": "Wurzel ج-ن-ن (verbergen, bedecken). جَنَّة = 'umzäunter Garten' (das Verborgene/Bedeckte durch Vegetation)."
     },
     {
       "name": "عَادٍ",
@@ -4123,7 +4248,9 @@
       ],
       "count": 6,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=7&verse=65"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=7&verse=65",
+      "meaning": "Stammesname — möglicherweise 'die Alten / die Zurückkehrenden'",
+      "etymology": "Möglicherweise Wurzel ع-و-د (zurückkehren). Vorarabischer Stammesname des südarabischen Raums. Etymologie nicht gesichert."
     },
     {
       "name": "وَثَمُودَ",
@@ -4139,7 +4266,9 @@
       ],
       "count": 6,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=9&verse=70"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=9&verse=70",
+      "meaning": "Stammesname — möglicherweise 'die wenig Wasser Habenden'",
+      "etymology": "Möglicherweise zu Wurzel ث-م-د (wenig Wasser). ثَمُود als Stammesname der nabatäischen Region. Historisch in assyrischen Quellen als Thamudeni belegt."
     },
     {
       "name": "نُوحٌ",
@@ -4155,7 +4284,9 @@
       ],
       "count": 6,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=11&verse=42"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=11&verse=42",
+      "meaning": "Eigenname — möglicherweise 'der Klagende'",
+      "etymology": "Möglicherweise Wurzel ن-و-ح (klagen, wehklagen; نَوْح = Wehklage). Parallele zu hebr. נֹחַ (Nōaḥ), dort zu נ-ו-ח ('ruhen') gestellt. Lehnwort-Charakter wahrscheinlich."
     },
     {
       "name": "لِءَادَمَ",
@@ -4170,7 +4301,9 @@
       ],
       "count": 5,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=34"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=34",
+      "meaning": "der Erdige / der Dunkelhäutige",
+      "etymology": "Möglicherweise Wurzel أ-د-م (Oberfläche, Haut; cf. أَدِيم = Haut/Erdoberfläche, أُدْمَة = dunkle Hautfarbe). Auch Verbindung zu أَدِيم الأَرْض (Erdoberfläche) vorgeschlagen. Parallele zu hebr. אָדָם (ādām) und אֲדָמָה (adāmāh, 'Erde')."
     },
     {
       "name": "ٱلشَّيَٰطِينَ",
@@ -4185,7 +4318,9 @@
       ],
       "count": 5,
       "diptote": false,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=102"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=102",
+      "meaning": "die Widersacher / die Entfernten (Plural)",
+      "etymology": "Plural von شَيْطَان. Wurzel ش-ط-ن. Siehe الشيطان."
     },
     {
       "name": "يَعْقُوبَ",
@@ -4200,7 +4335,9 @@
       ],
       "count": 5,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=133"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=133",
+      "meaning": "Eigenname — 'der Fersenhalter / er folgt nach'",
+      "etymology": "Lehnwort aus dem Hebräischen (יַעֲקֹב, Yaʿăqōḇ), zu ע-ק-ב (ʿāqaḇ, 'an der Ferse fassen, nachfolgen')."
     },
     {
       "name": "ٱلتَّوْرَىٰةَ",
@@ -4215,7 +4352,9 @@
       ],
       "count": 5,
       "diptote": false,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=3"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=3",
+      "meaning": "die Weisung / die Unterweisung",
+      "etymology": "Lehnwort aus dem Hebräischen (תּוֹרָה, Tōrāh), zu י-ר-ה (yārāh, 'unterweisen, lehren'): 'Unterweisung, Weisung'."
     },
     {
       "name": "وَٱلْإِنجِيلَ",
@@ -4230,7 +4369,9 @@
       ],
       "count": 5,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=3"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=3",
+      "meaning": "die frohe Botschaft",
+      "etymology": "Lehnwort aus dem Griechischen (εὐαγγέλιον, euangélion, 'gute Botschaft'). Über syrisch-aramäische Vermittlung (ܐܶܘܰܢܓܶܠܝܳܘܢ)."
     },
     {
       "name": "ٱللَّهُمَّ",
@@ -4245,7 +4386,9 @@
       ],
       "count": 5,
       "diptote": false,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=26"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=26",
+      "meaning": "Gottheit (Eigenname) — Anrufeform",
+      "etymology": "Wurzel ا-ل-ه mit enklitischem -م (Anrufeform, funktional wie يا الله)."
     },
     {
       "name": "يَٰمَرْيَمُ",
@@ -4260,7 +4403,9 @@
       ],
       "count": 5,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=37"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=37",
+      "meaning": "Eigenname — etymologisch unsicher",
+      "etymology": "Lehnwort, wahrscheinlich aus dem Hebräischen/Aramäischen (מִרְיָם, Miryām). Etymologie umstritten: möglicherweise ägyptisch mry ('geliebt') oder hebr. מָרָה (mārāh, 'widerspenstig') oder מָרוֹם (mārōm, 'Höhe')."
     },
     {
       "name": "إِبْرَٰهِيمُ",
@@ -4275,7 +4420,9 @@
       ],
       "count": 5,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=67"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=67",
+      "meaning": "Eigenname — etymologisch unsicher",
+      "etymology": "Lehnwort, wahrscheinlich aus dem Akkadischen/Aramäischen. Möglicherweise verwandt mit abr-hām ('Vater der Menge') oder ab-rām ('erhabener Vater'). Keine arabische Wurzel."
     },
     {
       "name": "وَمُوسَىٰ",
@@ -4290,7 +4437,9 @@
       ],
       "count": 5,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=6&verse=84"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=6&verse=84",
+      "meaning": "Eigenname — etymologisch unsicher",
+      "etymology": "Lehnwort, wahrscheinlich ägyptischen Ursprungs (ägyptisch ms/msy = 'geboren/gezeugt'). Vgl. koptisch Μωυσῆς. Kein arabischer Wurzelbezug."
     },
     {
       "name": "ثَمُودَ",
@@ -4305,7 +4454,9 @@
       ],
       "count": 5,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=7&verse=73"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=7&verse=73",
+      "meaning": "Stammesname — möglicherweise 'die wenig Wasser Habenden'",
+      "etymology": "Möglicherweise zu Wurzel ث-م-د (wenig Wasser). ثَمُود als Stammesname der nabatäischen Region. Historisch in assyrischen Quellen als Thamudeni belegt."
     },
     {
       "name": "صَٰلِحًا",
@@ -4320,7 +4471,9 @@
       ],
       "count": 5,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=7&verse=73"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=7&verse=73",
+      "meaning": "der Rechtschaffene (Akkusativform)",
+      "etymology": "Wurzel ص-ل-ح. Siehe صالح."
     },
     {
       "name": "عَادٌ",
@@ -4335,7 +4488,9 @@
       ],
       "count": 5,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=11&verse=59"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=11&verse=59",
+      "meaning": "Stammesname — möglicherweise 'die Alten / die Zurückkehrenden'",
+      "etymology": "Möglicherweise Wurzel ع-و-د (zurückkehren). Vorarabischer Stammesname des südarabischen Raums. Etymologie nicht gesichert."
     },
     {
       "name": "يَٰٕـَِادَمُ",
@@ -4349,7 +4504,9 @@
       ],
       "count": 4,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=33"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=33",
+      "meaning": "der Erdige / der Dunkelhäutige",
+      "etymology": "Möglicherweise Wurzel أ-د-م (Oberfläche, Haut; cf. أَدِيم = Haut/Erdoberfläche, أُدْمَة = dunkle Hautfarbe). Auch Verbindung zu أَدِيم الأَرْض (Erdoberfläche) vorgeschlagen. Parallele zu hebr. אָדָם (ādām) und אֲדָמָה (adāmāh, 'Erde')."
     },
     {
       "name": "وَٱلنَّصَٰرَىٰ",
@@ -4363,7 +4520,9 @@
       ],
       "count": 4,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=62"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=62",
+      "meaning": "die Nazarener / die Helfer",
+      "etymology": "Möglicherweise zu Wurzel ن-ص-ر (helfen) als 'Helfer', oder Herkunftsbezeichnung von نَاصِرَة (Nazareth). Vermutlich beides parallel wirksam."
     },
     {
       "name": "ٱلشَّيَٰطِينُ",
@@ -4377,7 +4536,9 @@
       ],
       "count": 4,
       "diptote": false,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=102"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=102",
+      "meaning": "die Widersacher / die Entfernten (Plural)",
+      "etymology": "Plural von شَيْطَان. Wurzel ش-ط-ن. Siehe الشيطان."
     },
     {
       "name": "نَصَٰرَىٰ",
@@ -4391,7 +4552,9 @@
       ],
       "count": 4,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=111"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=111",
+      "meaning": "Nazarener / Helfer (ohne Artikel)",
+      "etymology": "Siehe النصارى."
     },
     {
       "name": "وَعِيسَىٰ",
@@ -4405,7 +4568,9 @@
       ],
       "count": 4,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=136"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=136",
+      "meaning": "Eigenname — etymologisch unsicher",
+      "etymology": "Lehnwort, wahrscheinlich aus dem Syrischen/Aramäischen (ܝܫܘܥ, Yešūʿ), letztlich hebräisch יֵשׁוּעַ (Yēšūaʿ, 'er rettet'). Die arabische Form zeigt syrische Lautvermittlung."
     },
     {
       "name": "وَسُلَيْمَٰنَ",
@@ -4419,7 +4584,9 @@
       ],
       "count": 4,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=163"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=163",
+      "meaning": "Eigenname — möglicherweise 'der Friedliche / Mann des Friedens'",
+      "etymology": "Lehnwort aus dem Hebräischen (שְׁלֹמֹה, Šəlōmōh), zu שׁ-ל-ם (šālōm, 'Frieden'). Die arabische Form mit -ān-Endung zeigt Adaptierung an arabische Namensmorphologie."
     },
     {
       "name": "ٱلْمَدِينَةِ",
@@ -4433,7 +4600,9 @@
       ],
       "count": 4,
       "diptote": false,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=9&verse=101"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=9&verse=101",
+      "meaning": "die Stadt / der Ort der Rechtsprechung",
+      "etymology": "Wurzel م-د-ن (sich niederlassen) oder Lehnwort aus dem Aramäischen (מְדִינְתָּא, medīntā, 'Provinz/Stadt'), zu ד-י-ן (dīn, 'richten')."
     },
     {
       "name": "وَٱلْقُرْءَانِ",
@@ -4447,7 +4616,9 @@
       ],
       "count": 4,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=9&verse=111"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=9&verse=111",
+      "meaning": "das Vorgetragene / die Rezitation",
+      "etymology": "Wurzel ق-ر-أ (lesen, vortragen, rezitieren). قُرْآن ist ein Verbalsubstantiv (فُعْلَان): 'das Vorgetragene/Gelesene'."
     },
     {
       "name": "يَٰنُوحُ",
@@ -4461,7 +4632,9 @@
       ],
       "count": 4,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=11&verse=32"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=11&verse=32",
+      "meaning": "Eigenname — möglicherweise 'der Klagende'",
+      "etymology": "Möglicherweise Wurzel ن-و-ح (klagen, wehklagen; نَوْح = Wehklage). Parallele zu hebr. נֹחַ (Nōaḥ), dort zu נ-ו-ח ('ruhen') gestellt. Lehnwort-Charakter wahrscheinlich."
     },
     {
       "name": "يَٰٕإِبْرَٰهِيمُ",
@@ -4475,7 +4648,9 @@
       ],
       "count": 4,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=11&verse=76"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=11&verse=76",
+      "meaning": "Eigenname — etymologisch unsicher",
+      "etymology": "Lehnwort, wahrscheinlich aus dem Akkadischen/Aramäischen. Möglicherweise verwandt mit abr-hām ('Vater der Menge') oder ab-rām ('erhabener Vater'). Keine arabische Wurzel."
     },
     {
       "name": "لُوطًا",
@@ -4489,7 +4664,9 @@
       ],
       "count": 4,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=11&verse=77"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=11&verse=77",
+      "meaning": "Eigenname (Akkusativform)",
+      "etymology": "Lehnwort aus dem Hebräischen. Siehe لوط."
     },
     {
       "name": "ٱلشَّيَٰطِينِ",
@@ -4503,7 +4680,9 @@
       ],
       "count": 4,
       "diptote": false,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=17&verse=27"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=17&verse=27",
+      "meaning": "die Widersacher / die Entfernten (Plural)",
+      "etymology": "Plural von شَيْطَان. Wurzel ش-ط-ن. Siehe الشيطان."
     },
     {
       "name": "وَهَٰمَٰنَ",
@@ -4517,7 +4696,9 @@
       ],
       "count": 4,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=28&verse=6"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=28&verse=6",
+      "meaning": "Eigenname — etymologisch unsicher",
+      "etymology": "Fremdwort. Möglicherweise ägyptisch (Titel/Name am Pharaonenhof) oder persisch. Vgl. auch hebr. הָמָן (Hāmān) im Buch Esther (dort persischer Kontext)."
     },
     {
       "name": "وَإِبْرَٰهِيمَ",
@@ -4531,7 +4712,9 @@
       ],
       "count": 4,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=29&verse=16"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=29&verse=16",
+      "meaning": "Eigenname — etymologisch unsicher",
+      "etymology": "Lehnwort, wahrscheinlich aus dem Akkadischen/Aramäischen. Möglicherweise verwandt mit abr-hām ('Vater der Menge') oder ab-rām ('erhabener Vater'). Keine arabische Wurzel."
     },
     {
       "name": "سُلَيْمَٰنُ",
@@ -4544,7 +4727,9 @@
       ],
       "count": 3,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=102"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=102",
+      "meaning": "Eigenname — möglicherweise 'der Friedliche / Mann des Friedens'",
+      "etymology": "Lehnwort aus dem Hebräischen (שְׁלֹמֹה, Šəlōmōh), zu שׁ-ל-ם (šālōm, 'Frieden'). Die arabische Form mit -ān-Endung zeigt Adaptierung an arabische Namensmorphologie."
     },
     {
       "name": "ٱلنَّصَٰرَىٰ",
@@ -4557,7 +4742,9 @@
       ],
       "count": 3,
       "diptote": false,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=113"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=113",
+      "meaning": "die Nazarener / die Helfer",
+      "etymology": "Möglicherweise zu Wurzel ن-ص-ر (helfen) als 'Helfer', oder Herkunftsbezeichnung von نَاصِرَة (Nazareth). Vermutlich beides parallel wirksam."
     },
     {
       "name": "وَنُوحًا",
@@ -4570,7 +4757,9 @@
       ],
       "count": 3,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=33"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=33",
+      "meaning": "Eigenname — möglicherweise 'der Klagende' (Akkusativform)",
+      "etymology": "Möglicherweise Wurzel ن-و-ح (klagen, wehklagen). Siehe نوح."
     },
     {
       "name": "عِمْرَٰنَ",
@@ -4583,7 +4772,9 @@
       ],
       "count": 3,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=33"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=33",
+      "meaning": "Eigenname — 'Gedeihen / Bewohntheit'",
+      "etymology": "Wurzel ع-م-ر (bewohnen, beleben, lang leben). عِمْرَان ist ein Verbalsubstantiv: 'Aufbau, Besiedelung, Gedeihen'."
     },
     {
       "name": "زَكَرِيَّا",
@@ -4596,7 +4787,9 @@
       ],
       "count": 3,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=37"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=37",
+      "meaning": "Eigenname — 'Gott erinnert sich'",
+      "etymology": "Lehnwort aus dem Hebräischen (זְכַרְיָה, Zəḵaryāh), zu ז-כ-ר (zāḵar, 'erinnern, gedenken') + יָה (Yāh, Kurzform des Gottesnamens)."
     },
     {
       "name": "عِيسَىٰ",
@@ -4609,7 +4802,9 @@
       ],
       "count": 3,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=52"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=52",
+      "meaning": "Eigenname — etymologisch unsicher",
+      "etymology": "Lehnwort, wahrscheinlich aus dem Syrischen/Aramäischen (ܝܫܘܥ, Yešūʿ), letztlich hebräisch יֵשׁוּעַ (Yēšūaʿ, 'er rettet'). Die arabische Form zeigt syrische Lautvermittlung."
     },
     {
       "name": "ٱلتَّوْرَىٰةُ",
@@ -4622,7 +4817,9 @@
       ],
       "count": 3,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=65"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=65",
+      "meaning": "die Weisung / die Unterweisung",
+      "etymology": "Lehnwort aus dem Hebräischen (תּוֹרָה, Tōrāh), zu י-ר-ה (yārāh, 'unterweisen, lehren'): 'Unterweisung, Weisung'."
     },
     {
       "name": "وَأَيُّوبَ",
@@ -4635,7 +4832,9 @@
       ],
       "count": 3,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=163"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=163",
+      "meaning": "Eigenname — 'der Angefeindete / der Reuige'",
+      "etymology": "Lehnwort aus dem Hebräischen (אִיּוֹב, ʔIyyōḇ). Möglicherweise zu א-י-ב (ʔāyaḇ, 'anfeinden') oder 'Wo ist der Vater?'. Keine arabische Wurzel."
     },
     {
       "name": "ٱلْجَٰهِلِيَّةِ",
@@ -4648,7 +4847,9 @@
       ],
       "count": 3,
       "diptote": false,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=5&verse=50"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=5&verse=50",
+      "meaning": "die [Zeit der] Unwissenheit",
+      "etymology": "Wurzel ج-ه-ل (nicht wissen, unwissend sein). جَاهِلِيَّة = abstraktes Nomen: 'Zustand der Unwissenheit'."
     },
     {
       "name": "يَٰعِيسَى",
@@ -4661,7 +4862,9 @@
       ],
       "count": 3,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=5&verse=110"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=5&verse=110",
+      "meaning": "Eigenname — etymologisch unsicher",
+      "etymology": "Lehnwort, wahrscheinlich aus dem Syrischen/Aramäischen (ܝܫܘܥ, Yešūʿ), letztlich hebräisch יֵשׁוּעַ (Yēšūaʿ, 'er rettet'). Die arabische Form zeigt syrische Lautvermittlung."
     },
     {
       "name": "يَٰشُعَيْبُ",
@@ -4674,7 +4877,9 @@
       ],
       "count": 3,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=7&verse=88"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=7&verse=88",
+      "meaning": "Eigenname — Diminutivform",
+      "etymology": "Möglicherweise Diminutiv von شَعْب (šaʿb, 'Volk/Stamm'), Wurzel ش-ع-ب ('sich verzweigen'). Alternativ Lehnwort."
     },
     {
       "name": "لِجَهَنَّمَ",
@@ -4687,7 +4892,9 @@
       ],
       "count": 3,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=7&verse=179"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=7&verse=179",
+      "meaning": "Ortsbezeichnung für die Feuerstätte",
+      "etymology": "Lehnwort aus dem Hebräischen (גֵּי הִנֹּם, Gēy Hinnōm, 'Tal des Hinnom'), ein Tal bei Jerusalem. Über griechisch γέεννα (géenna) semitisch vermittelt."
     },
     {
       "name": "وَعَادٍ",
@@ -4700,7 +4907,9 @@
       ],
       "count": 3,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=9&verse=70"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=9&verse=70",
+      "meaning": "Stammesname — möglicherweise 'die Alten / die Zurückkehrenden'",
+      "etymology": "Möglicherweise Wurzel ع-و-د (zurückkehren). Vorarabischer Stammesname des südarabischen Raums. Etymologie nicht gesichert."
     },
     {
       "name": "لِيُوسُفَ",
@@ -4713,7 +4922,9 @@
       ],
       "count": 3,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=12&verse=21"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=12&verse=21",
+      "meaning": "Eigenname — 'er möge hinzufügen'",
+      "etymology": "Lehnwort aus dem Hebräischen (יוֹסֵף, Yōsēf), zu י-ס-ף (yasaf, 'hinzufügen'): 'Möge [Gott] hinzufügen'. Keine arabische Wurzel."
     },
     {
       "name": "إِسْمَٰعِيلَ",
@@ -4726,7 +4937,9 @@
       ],
       "count": 3,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=14&verse=39"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=14&verse=39",
+      "meaning": "Eigenname — 'Gott hört'",
+      "etymology": "Lehnwort aus dem Hebräischen (יִשְׁמָעֵאל, Yišmāʿēl), zu שׁ-מ-ע (šāmaʿ, 'hören') + אֵל (ʔēl, 'Gott')."
     },
     {
       "name": "وَعَادٌ",
@@ -4739,7 +4952,9 @@
       ],
       "count": 3,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=22&verse=42"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=22&verse=42",
+      "meaning": "Stammesname — möglicherweise 'die Alten / die Zurückkehrenden'",
+      "etymology": "Möglicherweise Wurzel ع-و-د (zurückkehren). Vorarabischer Stammesname des südarabischen Raums. Etymologie nicht gesichert."
     },
     {
       "name": "وَثَمُودُ",
@@ -4752,7 +4967,9 @@
       ],
       "count": 3,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=22&verse=42"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=22&verse=42",
+      "meaning": "Stammesname — möglicherweise 'die wenig Wasser Habenden'",
+      "etymology": "Möglicherweise zu Wurzel ث-م-د (wenig Wasser). ثَمُود als Stammesname der nabatäischen Region. Historisch in assyrischen Quellen als Thamudeni belegt."
     },
     {
       "name": "وَثَمُودَا",
@@ -4765,7 +4982,9 @@
       ],
       "count": 3,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=25&verse=38"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=25&verse=38",
+      "meaning": "Stammesname — möglicherweise 'die wenig Wasser Habenden'",
+      "etymology": "Möglicherweise zu Wurzel ث-م-د (wenig Wasser). ثَمُود als Stammesname der nabatäischen Region. Historisch in assyrischen Quellen als Thamudeni belegt."
     },
     {
       "name": "وَفِرْعَوْنَ",
@@ -4778,7 +4997,9 @@
       ],
       "count": 3,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=28&verse=3"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=28&verse=3",
+      "meaning": "Pharao — Herrschertitel",
+      "etymology": "Lehnwort aus dem Ägyptischen (pr-ʿꜣ = 'Großes Haus', Bezeichnung des Königspalasts, dann des Herrschers). Über griechisch Φαραώ und/oder direkt semitisch vermittelt."
     },
     {
       "name": "سَقَرَ",
@@ -4791,7 +5012,9 @@
       ],
       "count": 3,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=54&verse=48"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=54&verse=48",
+      "meaning": "Bezeichnung für extreme Hitze",
+      "etymology": "Möglicherweise Wurzel س-ق-ر (versengen durch Hitze). Alternativ Lehnwort. Bezeichnung einer Feuerstätte."
     },
     {
       "name": "ءَادَمُ",
@@ -4803,7 +5026,9 @@
       ],
       "count": 2,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=37"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=37",
+      "meaning": "der Erdige / der Dunkelhäutige",
+      "etymology": "Möglicherweise Wurzel أ-د-م (Oberfläche, Haut; cf. أَدِيم = Haut/Erdoberfläche, أُدْمَة = dunkle Hautfarbe). Auch Verbindung zu أَدِيم الأَرْض (Erdoberfläche) vorgeschlagen. Parallele zu hebr. אָדָם (ādām) und אֲדָמָה (adāmāh, 'Erde')."
     },
     {
       "name": "وَٱلصَّٰبِـِِينَ",
@@ -4815,7 +5040,9 @@
       ],
       "count": 2,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=62"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=62",
+      "meaning": "die Sabier / die [aus einer Religion] Herausgetretenen",
+      "etymology": "Möglicherweise Wurzel ص-ب-أ (heraustreten, sich abwenden von einer Religion). Alternativ mandäisch/aramäischen Ursprungs (ṣ-b-ʿ, 'taufen')."
     },
     {
       "name": "دَاوُ,دُ",
@@ -4827,7 +5054,9 @@
       ],
       "count": 2,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=251"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=251",
+      "meaning": "Eigenname — möglicherweise 'Geliebter'",
+      "etymology": "Lehnwort aus dem Hebräischen (דָּוִד, Dāwīd). Möglicherweise zu דּ-ו-ד ('lieben') oder als Lallwort. Arabisch ohne etymologische Transparenz."
     },
     {
       "name": "وَٱلتَّوْرَىٰةَ",
@@ -4839,7 +5068,9 @@
       ],
       "count": 2,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=48"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=48",
+      "meaning": "die Weisung / die Unterweisung",
+      "etymology": "Lehnwort aus dem Hebräischen (תּוֹרָה, Tōrāh), zu י-ר-ה (yārāh, 'unterweisen, lehren'): 'Unterweisung, Weisung'."
     },
     {
       "name": "ٱلْإِسْلَٰمِ",
@@ -4851,7 +5082,9 @@
       ],
       "count": 2,
       "diptote": false,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=85"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=85",
+      "meaning": "die Ergebung / die Unterwerfung",
+      "etymology": "Wurzel س-ل-م (heil sein, sich ergeben). إِسْلَام = Verbalsubstantiv IV: 'die Hin-/Untergabe, Ergebung'."
     },
     {
       "name": "مُحَمَّدٌ",
@@ -4863,7 +5096,9 @@
       ],
       "count": 2,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=144"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=144",
+      "meaning": "der Vielgepriesene / der wiederholt Gelobte",
+      "etymology": "Wurzel ح-م-د (loben, preisen). Passivpartizip im Intensivstamm (فُعَّل → مُفَعَّل): 'derjenige, der vielfach gepriesen wird'."
     },
     {
       "name": "بِجَهَنَّمَ",
@@ -4875,7 +5110,9 @@
       ],
       "count": 2,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=55"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=55",
+      "meaning": "Ortsbezeichnung für die Feuerstätte",
+      "etymology": "Lehnwort aus dem Hebräischen (גֵּי הִנֹּם, Gēy Hinnōm, 'Tal des Hinnom'), ein Tal bei Jerusalem. Über griechisch γέεννα (géenna) semitisch vermittelt."
     },
     {
       "name": "ٱلْمَسِيحَ",
@@ -4887,7 +5124,9 @@
       ],
       "count": 2,
       "diptote": false,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=157"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=157",
+      "meaning": "der Gesalbte / der Bestrichene",
+      "etymology": "Wurzel م-س-ح (streichen, wischen, salben). فَعِيل-Form im Sinne des Passivs: 'der Gesalbte'. Parallele zu hebr. מָשִׁיחַ (māšīaḥ) und aram. mšīḥā."
     },
     {
       "name": "وَيُونُسَ",
@@ -4899,7 +5138,9 @@
       ],
       "count": 2,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=163"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=163",
+      "meaning": "Eigenname — 'Taube'",
+      "etymology": "Lehnwort aus dem Hebräischen (יוֹנָה, Yōnāh, 'Taube'). Die arabische Form zeigt Adaptierung mit -s-Endung."
     },
     {
       "name": "زَبُورًا",
@@ -4911,7 +5152,9 @@
       ],
       "count": 2,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=163"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=163",
+      "meaning": "Schrift / Psalmen (Akkusativform)",
+      "etymology": "Wurzel ز-ب-ر. Siehe الزبور."
     },
     {
       "name": "بِعِيسَى",
@@ -4923,7 +5166,9 @@
       ],
       "count": 2,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=5&verse=46"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=5&verse=46",
+      "meaning": "Eigenname — etymologisch unsicher",
+      "etymology": "Lehnwort, wahrscheinlich aus dem Syrischen/Aramäischen (ܝܫܘܥ, Yešūʿ), letztlich hebräisch יֵשׁוּעַ (Yēšūaʿ, 'er rettet'). Die arabische Form zeigt syrische Lautvermittlung."
     },
     {
       "name": "ٱلْإِنجِيلَ",
@@ -4935,7 +5180,9 @@
       ],
       "count": 2,
       "diptote": false,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=5&verse=46"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=5&verse=46",
+      "meaning": "die frohe Botschaft",
+      "etymology": "Lehnwort aus dem Griechischen (εὐαγγέλιον, euangélion, 'gute Botschaft'). Über syrisch-aramäische Vermittlung (ܐܶܘܰܢܓܶܠܝܳܘܢ)."
     },
     {
       "name": "ٱلْإِنجِيلِ",
@@ -4947,7 +5194,9 @@
       ],
       "count": 2,
       "diptote": false,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=5&verse=47"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=5&verse=47",
+      "meaning": "die frohe Botschaft",
+      "etymology": "Lehnwort aus dem Griechischen (εὐαγγέλιον, euangélion, 'gute Botschaft'). Über syrisch-aramäische Vermittlung (ܐܶܘܰܢܓܶܠܝܳܘܢ)."
     },
     {
       "name": "ٱلْيَهُودَ",
@@ -4959,7 +5208,9 @@
       ],
       "count": 2,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=5&verse=51"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=5&verse=51",
+      "meaning": "die Juden / die sich Bekehrenden",
+      "etymology": "Wurzel ه-و-د (umkehren, sich bekehren). يَهُود = 'die sich [zu Gott] Bekehrenden'. Parallele zu hebr. יְהוּדָה (Yəhūḏāh, 'Juda')."
     },
     {
       "name": "وَعِيسَى",
@@ -4971,7 +5222,9 @@
       ],
       "count": 2,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=5&verse=78"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=5&verse=78",
+      "meaning": "Eigenname — etymologisch unsicher",
+      "etymology": "Lehnwort, wahrscheinlich aus dem Syrischen/Aramäischen (ܝܫܘܥ, Yešūʿ), letztlich hebräisch יֵשׁוּעַ (Yēšūaʿ, 'er rettet'). Die arabische Form zeigt syrische Lautvermittlung."
     },
     {
       "name": "وَٱلْيَسَعَ",
@@ -4983,7 +5236,9 @@
       ],
       "count": 2,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=6&verse=86"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=6&verse=86",
+      "meaning": "Eigenname — etymologisch unsicher",
+      "etymology": "Lehnwort aus dem Hebräischen (אֱלִישָׁע, Ělīšāʿ, 'mein Gott ist Rettung'), zu אֵל (ʔēl, 'Gott') + י-ש-ע (yāšaʿ, 'retten')."
     },
     {
       "name": "لِلْإِسْلَٰمِ",
@@ -4995,7 +5250,9 @@
       ],
       "count": 2,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=6&verse=125"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=6&verse=125",
+      "meaning": "die Ergebung / die Unterwerfung (mit Präposition)",
+      "etymology": "Wurzel س-ل-م. Siehe الإسلام."
     },
     {
       "name": "يَٰصَٰلِحُ",
@@ -5007,7 +5264,9 @@
       ],
       "count": 2,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=7&verse=77"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=7&verse=77",
+      "meaning": "der Rechtschaffene / der Taugliche",
+      "etymology": "Wurzel ص-ل-ح (tauglich sein, in Ordnung sein, recht sein). Partizip فَاعِل: 'der Taugliche/Rechtschaffene'."
     },
     {
       "name": "يَٰفِرْعَوْنُ",
@@ -5019,7 +5278,9 @@
       ],
       "count": 2,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=7&verse=104"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=7&verse=104",
+      "meaning": "Pharao — Herrschertitel",
+      "etymology": "Lehnwort aus dem Ägyptischen (pr-ʿꜣ = 'Großes Haus', Bezeichnung des Königspalasts, dann des Herrschers). Über griechisch Φαραώ und/oder direkt semitisch vermittelt."
     },
     {
       "name": "يَٰمُوسَى",
@@ -5031,7 +5292,9 @@
       ],
       "count": 2,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=7&verse=134"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=7&verse=134",
+      "meaning": "Eigenname — etymologisch unsicher",
+      "etymology": "Lehnwort, wahrscheinlich ägyptischen Ursprungs (ägyptisch ms/msy = 'geboren/gezeugt'). Vgl. koptisch Μωυσῆς. Kein arabischer Wurzelbezug."
     },
     {
       "name": "وَٱلْإِنجِيلِ",
@@ -5043,7 +5306,9 @@
       ],
       "count": 2,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=7&verse=157"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=7&verse=157",
+      "meaning": "die frohe Botschaft",
+      "etymology": "Lehnwort aus dem Griechischen (εὐαγγέλιον, euangélion, 'gute Botschaft'). Über syrisch-aramäische Vermittlung (ܐܶܘܰܢܓܶܠܝܳܘܢ)."
     },
     {
       "name": "ءَإللَّهُ",
@@ -5055,7 +5320,9 @@
       ],
       "count": 2,
       "diptote": false,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=10&verse=59"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=10&verse=59",
+      "meaning": "Gottheit (Eigenname) — Frageform",
+      "etymology": "Wurzel ا-ل-ه mit interrogativem Hamza-Präfix."
     },
     {
       "name": "مُّوسَىٰٕ",
@@ -5067,7 +5334,9 @@
       ],
       "count": 2,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=10&verse=80"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=10&verse=80",
+      "meaning": "Eigenname — etymologisch unsicher",
+      "etymology": "Lehnwort, wahrscheinlich ägyptischen Ursprungs (ägyptisch ms/msy = 'geboren/gezeugt'). Vgl. koptisch Μωυσῆς. Kein arabischer Wurzelbezug."
     },
     {
       "name": "يُونُسَ",
@@ -5079,7 +5348,9 @@
       ],
       "count": 2,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=10&verse=98"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=10&verse=98",
+      "meaning": "Eigenname — 'Taube'",
+      "etymology": "Lehnwort aus dem Hebräischen (יוֹנָה, Yōnāh, 'Taube'). Die arabische Form zeigt Adaptierung mit -s-Endung."
     },
     {
       "name": "عَادًا",
@@ -5091,7 +5362,9 @@
       ],
       "count": 2,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=11&verse=60"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=11&verse=60",
+      "meaning": "Stammesname (Akkusativform)",
+      "etymology": "Möglicherweise Wurzel ع-و-د. Siehe عاد."
     },
     {
       "name": "هُودٍ",
@@ -5103,7 +5376,9 @@
       ],
       "count": 2,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=11&verse=60"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=11&verse=60",
+      "meaning": "Eigenname — möglicherweise 'der Sanfte / der zum Judentum sich Bekennende'",
+      "etymology": "Möglicherweise Wurzel ه-و-د. Die Grundbedeutung der Wurzel ist 'sanft sein, sich bekehren, umkehren'. Zuordnung unsicher."
     },
     {
       "name": "بِإِسْحَٰقَ",
@@ -5115,7 +5390,9 @@
       ],
       "count": 2,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=11&verse=71"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=11&verse=71",
+      "meaning": "Eigenname — 'er lacht'",
+      "etymology": "Lehnwort aus dem Hebräischen (יִצְחָק, Yiṣḥāq), zu צ-ח-ק (ṣāḥaq, 'lachen')."
     },
     {
       "name": "يَٰلُوطُ",
@@ -5127,7 +5404,9 @@
       ],
       "count": 2,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=11&verse=81"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=11&verse=81",
+      "meaning": "Eigenname — etymologisch unsicher",
+      "etymology": "Lehnwort aus dem Hebräischen (לוֹט, Lōṭ). Möglicherweise zu ל-ו-ט ('verhüllen, verbergen'). Im Arabischen ohne Wurzelbezug."
     },
     {
       "name": "قُرْءَٰنًا",
@@ -5139,7 +5418,9 @@
       ],
       "count": 2,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=12&verse=2"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=12&verse=2",
+      "meaning": "Vortrag / Rezitation (Akkusativform)",
+      "etymology": "Wurzel ق-ر-أ. Siehe القرآن."
     },
     {
       "name": "مِصْرَ",
@@ -5151,7 +5432,9 @@
       ],
       "count": 2,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=12&verse=99"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=12&verse=99",
+      "meaning": "Ägypten / befestigte Stadt",
+      "etymology": "Wurzel م-ص-ر (Grenze, befestigter Ort). مِصْر kann sowohl 'befestigte Stadt' als auch den Eigennamen Ägypten bezeichnen. Vgl. akkadisch miṣru ('Grenze')."
     },
     {
       "name": "يَٰٕإِبْلِيسُ",
@@ -5163,7 +5446,9 @@
       ],
       "count": 2,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=15&verse=32"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=15&verse=32",
+      "meaning": "Eigenname des Widersachers — möglicherweise 'der Hoffnungslose'",
+      "etymology": "Umstritten: entweder Lehnwort aus griechisch διάβολος (diábolos, 'Verleumder') über syrische Vermittlung, oder arabisch zu Wurzel ب-ل-س (ablasa, 'verzweifeln, hoffnungslos werden')."
     },
     {
       "name": "لِلْمُسْلِمِينَ",
@@ -5175,7 +5460,9 @@
       ],
       "count": 2,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=16&verse=89"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=16&verse=89",
+      "meaning": "die sich Ergebenden (mit Präposition)",
+      "etymology": "Wurzel س-ل-م. Siehe المسلمين."
     },
     {
       "name": "يَحْيَىٰ",
@@ -5187,7 +5474,9 @@
       ],
       "count": 2,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=19&verse=7"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=19&verse=7",
+      "meaning": "Eigenname — 'er lebt'",
+      "etymology": "Möglicherweise arabisch zu Wurzel ح-ي-ي (leben): 'er lebt / er wird leben'. Alternativ Lehnwort aus hebr. יוֹחָנָן (Yōḥānān, 'Gott ist gnädig')."
     },
     {
       "name": "وَٱلشَّيَٰطِينَ",
@@ -5199,7 +5488,9 @@
       ],
       "count": 2,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=19&verse=68"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=19&verse=68",
+      "meaning": "die Widersacher / die Entfernten (Plural)",
+      "etymology": "Plural von شَيْطَان. Wurzel ش-ط-ن. Siehe الشيطان."
     },
     {
       "name": "ٱلسَّامِرِىُّ",
@@ -5211,7 +5502,9 @@
       ],
       "count": 2,
       "diptote": false,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=20&verse=85"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=20&verse=85",
+      "meaning": "der Samariter / der aus Samaria Stammende",
+      "etymology": "Herkunftsbezeichnung (Nisba) von سَامِرَة (Samaria/Šomrōn). Wurzel س-م-ر im Arabischen sekundär."
     },
     {
       "name": "هَٰرُونُ",
@@ -5223,7 +5516,9 @@
       ],
       "count": 2,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=20&verse=90"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=20&verse=90",
+      "meaning": "Eigenname — etymologisch unsicher",
+      "etymology": "Lehnwort aus dem Hebräischen (אַהֲרֹן, Ahărōn). Etymologie unklar, möglicherweise ägyptischen Ursprungs."
     },
     {
       "name": "بِٱلْقُرْءَانِ",
@@ -5235,7 +5530,9 @@
       ],
       "count": 2,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=20&verse=114"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=20&verse=114",
+      "meaning": "das Vorgetragene / die Rezitation",
+      "etymology": "Wurzel ق-ر-أ (lesen, vortragen, rezitieren). قُرْآن ist ein Verbalsubstantiv (فُعْلَان): 'das Vorgetragene/Gelesene'."
     },
     {
       "name": "وَلِسُلَيْمَٰنَ",
@@ -5247,7 +5544,9 @@
       ],
       "count": 2,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=21&verse=81"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=21&verse=81",
+      "meaning": "Eigenname — möglicherweise 'der Friedliche / Mann des Friedens'",
+      "etymology": "Lehnwort aus dem Hebräischen (שְׁלֹמֹה, Šəlōmōh), zu שׁ-ל-ם (šālōm, 'Frieden'). Die arabische Form mit -ān-Endung zeigt Adaptierung an arabische Namensmorphologie."
     },
     {
       "name": "وَعَادًا",
@@ -5259,7 +5558,9 @@
       ],
       "count": 2,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=25&verse=38"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=25&verse=38",
+      "meaning": "Stammesname (Akkusativform)",
+      "etymology": "Möglicherweise Wurzel ع-و-د. Siehe عاد."
     },
     {
       "name": "لِفِرْعَوْنَ",
@@ -5271,7 +5572,9 @@
       ],
       "count": 2,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=26&verse=41"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=26&verse=41",
+      "meaning": "Pharao — Herrschertitel",
+      "etymology": "Lehnwort aus dem Ägyptischen (pr-ʿꜣ = 'Großes Haus', Bezeichnung des Königspalasts, dann des Herrschers). Über griechisch Φαραώ und/oder direkt semitisch vermittelt."
     },
     {
       "name": "لُوطٌ",
@@ -5283,7 +5586,9 @@
       ],
       "count": 2,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=26&verse=161"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=26&verse=161",
+      "meaning": "Eigenname — etymologisch unsicher",
+      "etymology": "Lehnwort aus dem Hebräischen (לוֹט, Lōṭ). Möglicherweise zu ל-ו-ט ('verhüllen, verbergen'). Im Arabischen ohne Wurzelbezug."
     },
     {
       "name": "يَٰهَٰمَٰنُ",
@@ -5295,7 +5600,9 @@
       ],
       "count": 2,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=28&verse=38"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=28&verse=38",
+      "meaning": "Eigenname — etymologisch unsicher",
+      "etymology": "Fremdwort. Möglicherweise ägyptisch (Titel/Name am Pharaonenhof) oder persisch. Vgl. auch hebr. הָמָן (Hāmān) im Buch Esther (dort persischer Kontext)."
     },
     {
       "name": "وَقَٰرُونَ",
@@ -5307,7 +5614,9 @@
       ],
       "count": 2,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=29&verse=39"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=29&verse=39",
+      "meaning": "Eigenname — etymologisch unsicher",
+      "etymology": "Lehnwort, wahrscheinlich aus dem Hebräischen (קֹרַח, Qōraḥ). Die arabische Form mit -ūn-Endung zeigt Adaptierung. Keine sichere arabische Etymologie."
     },
     {
       "name": "ٱلزَّقُّومِ",
@@ -5319,7 +5628,9 @@
       ],
       "count": 2,
       "diptote": false,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=37&verse=62"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=37&verse=62",
+      "meaning": "Pflanzenname — bittere/gierig verschlungene Nahrung",
+      "etymology": "Wurzel ز-ق-م (gierig schlucken/verschlingen). زَقُّوم = 'etwas Unangenehmes, das man hinunterwürgt'. Intensivform."
     },
     {
       "name": "وَفِرْعَوْنُ",
@@ -5331,7 +5642,9 @@
       ],
       "count": 2,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=38&verse=12"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=38&verse=12",
+      "meaning": "Pharao — Herrschertitel",
+      "etymology": "Lehnwort aus dem Ägyptischen (pr-ʿꜣ = 'Großes Haus', Bezeichnung des Königspalasts, dann des Herrschers). Über griechisch Φαραώ und/oder direkt semitisch vermittelt."
     },
     {
       "name": "تُبَّعٍ",
@@ -5343,7 +5656,9 @@
       ],
       "count": 2,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=44&verse=37"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=44&verse=37",
+      "meaning": "Herrschertitel — 'der Gefolgte'",
+      "etymology": "Wurzel ت-ب-ع (folgen). تُبَّع als Titel der himyaritischen Könige Südarabiens: 'der, dem gefolgt wird'."
     },
     {
       "name": "لِّجِبْرِيلَ",
@@ -5354,7 +5669,9 @@
       ],
       "count": 1,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=97"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=97",
+      "meaning": "Eigenname — 'Kraft Gottes' oder 'Mann Gottes'",
+      "etymology": "Lehnwort aus dem Hebräischen (גַּבְרִיאֵל, Gaḇrīʔēl), zu גֶּבֶר (geḇer, 'Mann/Held') + אֵל (ʔēl, 'Gott')."
     },
     {
       "name": "وَجِبْرِيلَ",
@@ -5365,7 +5682,9 @@
       ],
       "count": 1,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=98"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=98",
+      "meaning": "Eigenname — 'Kraft Gottes' oder 'Mann Gottes'",
+      "etymology": "Lehnwort aus dem Hebräischen (גַּבְרִיאֵל, Gaḇrīʔēl), zu גֶּבֶר (geḇer, 'Mann/Held') + אֵל (ʔēl, 'Gott')."
     },
     {
       "name": "وَمِيكَىٰلَ",
@@ -5376,7 +5695,9 @@
       ],
       "count": 1,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=98"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=98",
+      "meaning": "Eigenname — 'Wer ist wie Gott?'",
+      "etymology": "Lehnwort aus dem Hebräischen (מִיכָאֵל, Mīḵāʔēl), zu מִי (mī, 'wer?') + כְּ (kə, 'wie') + אֵל (ʔēl, 'Gott')."
     },
     {
       "name": "بِبَابِلَ",
@@ -5387,7 +5708,9 @@
       ],
       "count": 1,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=102"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=102",
+      "meaning": "Babylon — Stadtname",
+      "etymology": "Lehnwort aus dem Akkadischen (Bāb-ilim, 'Tor Gottes'). Über aramäische Vermittlung ins Arabische gelangt."
     },
     {
       "name": "هَٰرُوتَ",
@@ -5398,7 +5721,9 @@
       ],
       "count": 1,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=102"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=102",
+      "meaning": "Eigenname — etymologisch unsicher",
+      "etymology": "Fremdwort, möglicherweise aus dem Avestischen/Altpersischen. Verglichen mit Haurvatāt (Vollkommenheit), einer zoroastrischen Wesenheit."
     },
     {
       "name": "وَمَٰرُوتَ",
@@ -5409,7 +5734,9 @@
       ],
       "count": 1,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=102"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=102",
+      "meaning": "Eigenname — etymologisch unsicher",
+      "etymology": "Fremdwort, möglicherweise aus dem Avestischen/Altpersischen. Verglichen mit Amərətāt (Unsterblichkeit), einer zoroastrischen Wesenheit."
     },
     {
       "name": "وَإِسْمَٰعِيلُ",
@@ -5420,7 +5747,9 @@
       ],
       "count": 1,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=127"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=127",
+      "meaning": "Eigenname — 'Gott hört'",
+      "etymology": "Lehnwort aus dem Hebräischen (יִשְׁמָעֵאל, Yišmāʿēl), zu שׁ-מ-ע (šāmaʿ, 'hören') + אֵל (ʔēl, 'Gott')."
     },
     {
       "name": "وَيَعْقُوبُ",
@@ -5431,7 +5760,9 @@
       ],
       "count": 1,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=132"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=132",
+      "meaning": "Eigenname — 'der Fersenhalter / er folgt nach'",
+      "etymology": "Lehnwort aus dem Hebräischen (יַעֲקֹב, Yaʿăqōḇ), zu ע-ק-ב (ʿāqaḇ, 'an der Ferse fassen, nachfolgen')."
     },
     {
       "name": "ٱلصَّفَا",
@@ -5442,7 +5773,9 @@
       ],
       "count": 1,
       "diptote": false,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=158"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=158",
+      "meaning": "der glatte Fels / der Felshügel",
+      "etymology": "Wurzel ص-ف-و/ا (rein sein, glatt sein). صَفَا = 'glatter Fels'. Hügel in Mekka."
     },
     {
       "name": "وَٱلْمَرْوَةَ",
@@ -5453,7 +5786,9 @@
       ],
       "count": 1,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=158"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=158",
+      "meaning": "der weiße glänzende Stein",
+      "etymology": "Wurzel م-ر-و (weißer Feuerstein). مَرْوَة = 'glänzender Stein, Flintstein'. Hügel in Mekka."
     },
     {
       "name": "رَمَضَانَ",
@@ -5464,7 +5799,9 @@
       ],
       "count": 1,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=185"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=185",
+      "meaning": "Monatsname — 'die brennende Hitze'",
+      "etymology": "Wurzel ر-م-ض (heiß/brennend sein). رَمَضَان = 'Monat der brennenden Hitze'. Benennung nach Witterung des vorislamischen Kalenders."
     },
     {
       "name": "عَرَفَٰتٍ",
@@ -5475,7 +5812,9 @@
       ],
       "count": 1,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=198"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=198",
+      "meaning": "Ortsname — 'die Erkennungen / die Höhen'",
+      "etymology": "Möglicherweise Wurzel ع-ر-ف (erkennen, wissen). عَرَفَات als Plural: 'Stätten des Erkennens'. Alternativ zu عُرْف ('Erhöhung, Kamm'). Ebene bei Mekka."
     },
     {
       "name": "ٱلسِّلْمِ",
@@ -5486,7 +5825,9 @@
       ],
       "count": 1,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=208"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=208",
+      "meaning": "Frieden / Heil / Ergebung",
+      "etymology": "Wurzel س-ل-م (heil sein, unversehrt sein). سِلْم/سَلْم = 'Frieden, Sicherheit'."
     },
     {
       "name": "طَالُوتَ",
@@ -5497,7 +5838,9 @@
       ],
       "count": 1,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=247"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=247",
+      "meaning": "Eigenname — 'der Hochgewachsene'",
+      "etymology": "Möglicherweise arabisch zu Wurzel ط-و-ل (lang/groß sein) mit فَاعُوت-Muster. Identifiziert mit hebr. שָׁאוּל (Šāʔūl, Saul)."
     },
     {
       "name": "طَالُوتُ",
@@ -5508,7 +5851,9 @@
       ],
       "count": 1,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=249"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=249",
+      "meaning": "Eigenname — 'der Hochgewachsene'",
+      "etymology": "Möglicherweise arabisch zu Wurzel ط-و-ل (lang/groß sein) mit فَاعُوت-Muster. Identifiziert mit hebr. שָׁאוּל (Šāʔūl, Saul)."
     },
     {
       "name": "بِجَالُوتَ",
@@ -5519,7 +5864,9 @@
       ],
       "count": 1,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=249"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=249",
+      "meaning": "Eigenname — Goliath",
+      "etymology": "Lehnwort aus dem Hebräischen (גָּלְיָת, Golyāṯ). Die arabische Form mit -ūt-Endung zeigt Anpassung an das طالوت-Muster."
     },
     {
       "name": "لِجَالُوتَ",
@@ -5530,7 +5877,9 @@
       ],
       "count": 1,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=250"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=250",
+      "meaning": "Eigenname — Goliath",
+      "etymology": "Lehnwort aus dem Hebräischen (גָּלְיָת, Golyāṯ). Die arabische Form mit -ūt-Endung zeigt Anpassung an das طالوت-Muster."
     },
     {
       "name": "جَالُوتَ",
@@ -5541,7 +5890,9 @@
       ],
       "count": 1,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=251"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=251",
+      "meaning": "Eigenname — Goliath",
+      "etymology": "Lehnwort aus dem Hebräischen (גָּלְיָת, Golyāṯ). Die arabische Form mit -ūt-Endung zeigt Anpassung an das طالوت-Muster."
     },
     {
       "name": "ٱلْإِسْلَٰمُ",
@@ -5552,7 +5903,9 @@
       ],
       "count": 1,
       "diptote": false,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=19"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=19",
+      "meaning": "die Ergebung / die Unterwerfung",
+      "etymology": "Wurzel س-ل-م (heil sein, sich ergeben). إِسْلَام = Verbalsubstantiv IV: 'die Hin-/Untergabe, Ergebung'."
     },
     {
       "name": "بِيَحْيَىٰ",
@@ -5563,7 +5916,9 @@
       ],
       "count": 1,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=39"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=39",
+      "meaning": "Eigenname — 'er lebt'",
+      "etymology": "Möglicherweise arabisch zu Wurzel ح-ي-ي (leben): 'er lebt / er wird leben'. Alternativ Lehnwort aus hebr. יוֹחָנָן (Yōḥānān, 'Gott ist gnädig')."
     },
     {
       "name": "يَٰعِيسَىٰٕ",
@@ -5574,7 +5929,9 @@
       ],
       "count": 1,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=55"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=55",
+      "meaning": "Eigenname — etymologisch unsicher",
+      "etymology": "Lehnwort, wahrscheinlich aus dem Syrischen/Aramäischen (ܝܫܘܥ, Yešūʿ), letztlich hebräisch יֵשׁוּעַ (Yēšūaʿ, 'er rettet'). Die arabische Form zeigt syrische Lautvermittlung."
     },
     {
       "name": "وَٱلْإِنجِيلُ",
@@ -5585,7 +5942,9 @@
       ],
       "count": 1,
       "diptote": false,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=65"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=65",
+      "meaning": "die Weisung / die Unterweisung",
+      "etymology": "Lehnwort aus dem Hebräischen (תּוֹרָה, Tōrāh), zu י-ר-ה (yārāh, 'unterweisen, lehren'): 'Unterweisung, Weisung'."
     },
     {
       "name": "يَهُودِيًّا",
@@ -5596,7 +5955,9 @@
       ],
       "count": 1,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=67"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=67",
+      "meaning": "jüdisch / zum Judentum gehörig",
+      "etymology": "Nisba-Adjektiv zu يَهُود. Wurzel ه-و-د."
     },
     {
       "name": "نَصْرَانِيًّا",
@@ -5607,7 +5968,9 @@
       ],
       "count": 1,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=67"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=67",
+      "meaning": "nazarenisch / christlich (Adjektiv)",
+      "etymology": "Nisba-Adjektiv zu نَصَارَى. Wurzel ن-ص-ر oder Herkunftsbezeichnung."
     },
     {
       "name": "بِإِبْرَٰهِيمَ",
@@ -5618,7 +5981,9 @@
       ],
       "count": 1,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=68"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=68",
+      "meaning": "Eigenname — etymologisch unsicher",
+      "etymology": "Lehnwort, wahrscheinlich aus dem Akkadischen/Aramäischen. Möglicherweise verwandt mit abr-hām ('Vater der Menge') oder ab-rām ('erhabener Vater'). Keine arabische Wurzel."
     },
     {
       "name": "إِسْرَٰٕءِيلُ",
@@ -5629,7 +5994,9 @@
       ],
       "count": 1,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=93"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=93",
+      "meaning": "Eigenname — 'der mit Gott Streitende' oder 'Gott herrscht'",
+      "etymology": "Lehnwort aus dem Hebräischen (יִשְׂרָאֵל, Yiśrāʔēl). Volksetymologisch: śārāh ('streiten/ringen') + ʔēl ('Gott'). Alternativ: yśr ('herrschen') + ʔēl."
     },
     {
       "name": "بِٱلتَّوْرَىٰةِ",
@@ -5640,7 +6007,9 @@
       ],
       "count": 1,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=93"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=93",
+      "meaning": "die Weisung / die Unterweisung",
+      "etymology": "Lehnwort aus dem Hebräischen (תּוֹרָה, Tōrāh), zu י-ר-ה (yārāh, 'unterweisen, lehren'): 'Unterweisung, Weisung'."
     },
     {
       "name": "بِبَكَّةَ",
@@ -5651,7 +6020,9 @@
       ],
       "count": 1,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=96"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=96",
+      "meaning": "Ortsname — Variante von مكة",
+      "etymology": "Etymologisch unsicher. Möglicherweise Wurzel ب-ك-ك (sich drängen, eng sein): 'Ort des Gedränges'. Alternativ dialektale Variante von مكة."
     },
     {
       "name": "بِبَدْرٍ",
@@ -5662,7 +6033,9 @@
       ],
       "count": 1,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=123"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=123",
+      "meaning": "Ortsname — 'Vollmond'",
+      "etymology": "Wurzel ب-د-ر (voll sein, zuvorkommen). بَدْر = 'Vollmond'. Als Ortsname: Brunnenort zwischen Mekka und Medina."
     },
     {
       "name": "ٱلْإِسْلَٰمَ",
@@ -5673,7 +6046,9 @@
       ],
       "count": 1,
       "diptote": false,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=5&verse=3"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=5&verse=3",
+      "meaning": "die Ergebung / die Unterwerfung",
+      "etymology": "Wurzel س-ل-م (heil sein, sich ergeben). إِسْلَام = Verbalsubstantiv IV: 'die Hin-/Untergabe, Ergebung'."
     },
     {
       "name": "نَصَٰرَىٰٕ",
@@ -5684,7 +6059,9 @@
       ],
       "count": 1,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=5&verse=14"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=5&verse=14",
+      "meaning": "Nazarener / Helfer (ohne Artikel)",
+      "etymology": "Siehe النصارى."
     },
     {
       "name": "وَٱلنَّصَٰرَىٰٕ",
@@ -5695,7 +6072,9 @@
       ],
       "count": 1,
       "diptote": false,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=5&verse=51"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=5&verse=51",
+      "meaning": "die Juden / die sich Bekehrenden",
+      "etymology": "Wurzel ه-و-د (umkehren, sich bekehren). يَهُود = 'die sich [zu Gott] Bekehrenden'. Parallele zu hebr. יְהוּדָה (Yəhūḏāh, 'Juda')."
     },
     {
       "name": "وَٱلصَّٰبِـُِونَ",
@@ -5706,7 +6085,9 @@
       ],
       "count": 1,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=5&verse=69"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=5&verse=69",
+      "meaning": "die Sabier / die [aus einer Religion] Herausgetretenen (Nominativ)",
+      "etymology": "Siehe الصابئين."
     },
     {
       "name": "ٱلْكَعْبَةِ",
@@ -5717,7 +6098,9 @@
       ],
       "count": 1,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=5&verse=95"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=5&verse=95",
+      "meaning": "das würfelförmige [Gebäude]",
+      "etymology": "Wurzel ك-ع-ب (anschwellen, kubisch sein). كَعْبَة = 'Würfel, kubische Form'. Bezeichnung des Kultgebäudes in Mekka."
     },
     {
       "name": "ٱلْكَعْبَةَ",
@@ -5728,7 +6111,9 @@
       ],
       "count": 1,
       "diptote": false,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=5&verse=97"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=5&verse=97",
+      "meaning": "das würfelförmige [Gebäude]",
+      "etymology": "Wurzel ك-ع-ب (anschwellen, kubisch sein). كَعْبَة = 'Würfel, kubische Form'. Bezeichnung des Kultgebäudes in Mekka."
     },
     {
       "name": "وَٱللَّهِ",
@@ -5739,7 +6124,9 @@
       ],
       "count": 1,
       "diptote": false,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=6&verse=23"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=6&verse=23",
+      "meaning": "Gottheit (Eigenname) — der Angebetete/Verehrte",
+      "etymology": "Wurzel ا-ل-ه (Gottheit, Verehrung). Wahrscheinlich Kontraktion von الإِلٰه (al-ilāh, 'die Gottheit'). Verwandt mit semitischem *ʔilāh-."
     },
     {
       "name": "ءَازَرَ",
@@ -5750,7 +6137,9 @@
       ],
       "count": 1,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=6&verse=74"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=6&verse=74",
+      "meaning": "Eigenname — etymologisch unsicher",
+      "etymology": "Fremdwort. Möglicherweise Adaptierung des akkadischen/babylonischen Namens (vgl. Eliezer oder Atar/Athar). Keine arabische Etymologie."
     },
     {
       "name": "وَيُوسُفَ",
@@ -5761,7 +6150,9 @@
       ],
       "count": 1,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=6&verse=84"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=6&verse=84",
+      "meaning": "Eigenname — 'er möge hinzufügen'",
+      "etymology": "Lehnwort aus dem Hebräischen (יוֹסֵף, Yōsēf), zu י-ס-ף (yasaf, 'hinzufügen'): 'Möge [Gott] hinzufügen'. Keine arabische Wurzel."
     },
     {
       "name": "وَزَكَرِيَّا",
@@ -5772,7 +6163,9 @@
       ],
       "count": 1,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=6&verse=85"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=6&verse=85",
+      "meaning": "Eigenname — 'Gott erinnert sich'",
+      "etymology": "Lehnwort aus dem Hebräischen (זְכַרְיָה, Zəḵaryāh), zu ז-כ-ר (zāḵar, 'erinnern, gedenken') + יָה (Yāh, Kurzform des Gottesnamens)."
     },
     {
       "name": "وَيَحْيَىٰ",
@@ -5783,7 +6176,9 @@
       ],
       "count": 1,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=6&verse=85"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=6&verse=85",
+      "meaning": "Eigenname — 'er lebt'",
+      "etymology": "Möglicherweise arabisch zu Wurzel ح-ي-ي (leben): 'er lebt / er wird leben'. Alternativ Lehnwort aus hebr. יוֹחָנָן (Yōḥānān, 'Gott ist gnädig')."
     },
     {
       "name": "وَإِلْيَاسَ",
@@ -5794,7 +6189,9 @@
       ],
       "count": 1,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=6&verse=85"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=6&verse=85",
+      "meaning": "Eigenname — 'mein Gott ist Gott'",
+      "etymology": "Lehnwort aus dem Hebräischen (אֵלִיָּהוּ, Ēliyyāhū), zu אֵל (ʔēl, 'Gott') + יָהוּ (Yāhū, Gottesname): 'Mein Gott ist YHWH'."
     },
     {
       "name": "وَيَٰٕـَِادَمُ",
@@ -5805,7 +6202,9 @@
       ],
       "count": 1,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=7&verse=19"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=7&verse=19",
+      "meaning": "der Erdige / der Dunkelhäutige",
+      "etymology": "Möglicherweise Wurzel أ-د-م (Oberfläche, Haut; cf. أَدِيم = Haut/Erdoberfläche, أُدْمَة = dunkle Hautfarbe). Auch Verbindung zu أَدِيم الأَرْض (Erdoberfläche) vorgeschlagen. Parallele zu hebr. אָדָם (ādām) und אֲדָמָה (adāmāh, 'Erde')."
     },
     {
       "name": "بِمُوسَىٰ",
@@ -5816,7 +6215,9 @@
       ],
       "count": 1,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=7&verse=131"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=7&verse=131",
+      "meaning": "Eigenname — etymologisch unsicher",
+      "etymology": "Lehnwort, wahrscheinlich ägyptischen Ursprungs (ägyptisch ms/msy = 'geboren/gezeugt'). Vgl. koptisch Μωυσῆς. Kein arabischer Wurzelbezug."
     },
     {
       "name": "مُّوسَى",
@@ -5827,7 +6228,9 @@
       ],
       "count": 1,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=7&verse=154"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=7&verse=154",
+      "meaning": "Eigenname — etymologisch unsicher",
+      "etymology": "Lehnwort, wahrscheinlich ägyptischen Ursprungs (ägyptisch ms/msy = 'geboren/gezeugt'). Vgl. koptisch Μωυσῆς. Kein arabischer Wurzelbezug."
     },
     {
       "name": "حُنَيْنٍ",
@@ -5838,7 +6241,9 @@
       ],
       "count": 1,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=9&verse=25"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=9&verse=25",
+      "meaning": "Ortsname — 'Sehnsucht'",
+      "etymology": "Wurzel ح-ن-ن (sich sehnen, sich erbarmen). حُنَيْن als Ortsname (Tal bei Mekka). Diminutiv-Form."
     },
     {
       "name": "عُزَيْرٌ",
@@ -5849,7 +6254,9 @@
       ],
       "count": 1,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=9&verse=30"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=9&verse=30",
+      "meaning": "Eigenname — Diminutivform von 'Hilfe/Stärke'",
+      "etymology": "Lehnwort aus dem Hebräischen (עֶזְרָא, ʿEzrāʔ, 'Hilfe'). Die arabische Form عُزَيْر zeigt Diminutiv-Muster (فُعَيْل)."
     },
     {
       "name": "ٱلنَّصَٰرَى",
@@ -5860,7 +6267,9 @@
       ],
       "count": 1,
       "diptote": false,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=9&verse=30"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=9&verse=30",
+      "meaning": "die Nazarener / die Helfer",
+      "etymology": "Möglicherweise zu Wurzel ن-ص-ر (helfen) als 'Helfer', oder Herkunftsbezeichnung von نَاصِرَة (Nazareth). Vermutlich beides parallel wirksam."
     },
     {
       "name": "وَٱلْمَسِيحَ",
@@ -5871,7 +6280,9 @@
       ],
       "count": 1,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=9&verse=31"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=9&verse=31",
+      "meaning": "der Gesalbte / der Bestrichene",
+      "etymology": "Wurzel م-س-ح (streichen, wischen, salben). فَعِيل-Form im Sinne des Passivs: 'der Gesalbte'. Parallele zu hebr. מָשִׁיחַ (māšīaḥ) und aram. mšīḥā."
     },
     {
       "name": "أَبِٱللَّهِ",
@@ -5882,7 +6293,9 @@
       ],
       "count": 1,
       "diptote": false,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=9&verse=65"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=9&verse=65",
+      "meaning": "Gottheit (Eigenname) — mit interrogativem Hamza und Präposition",
+      "etymology": "Wurzel ا-ل-ه. Fragepartikel أ + Präposition ب + الله."
     },
     {
       "name": "بِقُرْءَانٍ",
@@ -5893,7 +6306,9 @@
       ],
       "count": 1,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=10&verse=15"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=10&verse=15",
+      "meaning": "Vortrag / Rezitation",
+      "etymology": "Wurzel ق-ر-أ (vortragen, rezitieren). Siehe القرآن."
     },
     {
       "name": "قُرْءَانٍ",
@@ -5904,7 +6319,9 @@
       ],
       "count": 1,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=10&verse=61"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=10&verse=61",
+      "meaning": "Vortrag / Rezitation",
+      "etymology": "Wurzel ق-ر-أ (vortragen, rezitieren). Siehe القرآن."
     },
     {
       "name": "لِمُوسَىٰٕ",
@@ -5915,7 +6332,9 @@
       ],
       "count": 1,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=10&verse=83"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=10&verse=83",
+      "meaning": "Eigenname — etymologisch unsicher",
+      "etymology": "Lehnwort, wahrscheinlich ägyptischen Ursprungs (ägyptisch ms/msy = 'geboren/gezeugt'). Vgl. koptisch Μωυσῆς. Kein arabischer Wurzelbezug."
     },
     {
       "name": "بِمِصْرَ",
@@ -5926,7 +6345,9 @@
       ],
       "count": 1,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=10&verse=87"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=10&verse=87",
+      "meaning": "Ägypten / befestigte Stadt",
+      "etymology": "Wurzel م-ص-ر (Grenze, befestigter Ort). مِصْر kann sowohl 'befestigte Stadt' als auch den Eigennamen Ägypten bezeichnen. Vgl. akkadisch miṣru ('Grenze')."
     },
     {
       "name": "ٱلْجُودِىِّ",
@@ -5937,7 +6358,9 @@
       ],
       "count": 1,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=11&verse=44"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=11&verse=44",
+      "meaning": "Bergname — etymologisch unsicher",
+      "etymology": "Möglicherweise Wurzel ج-و-د (großzügig sein, Regen spenden). Alternativ vorarabischer Bergname (in Nordmesopotamien/Südostanatolien)."
     },
     {
       "name": "يَٰهُودُ",
@@ -5948,7 +6371,9 @@
       ],
       "count": 1,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=11&verse=53"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=11&verse=53",
+      "meaning": "Eigenname — möglicherweise 'der Sanfte / der zum Judentum sich Bekennende'",
+      "etymology": "Möglicherweise Wurzel ه-و-د. Die Grundbedeutung der Wurzel ist 'sanft sein, sich bekehren, umkehren'. Zuordnung unsicher."
     },
     {
       "name": "لِّعَادٍ",
@@ -5959,7 +6384,9 @@
       ],
       "count": 1,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=11&verse=60"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=11&verse=60",
+      "meaning": "Stammesname — möglicherweise 'die Alten / die Zurückkehrenden'",
+      "etymology": "Möglicherweise Wurzel ع-و-د (zurückkehren). Vorarabischer Stammesname des südarabischen Raums. Etymologie nicht gesichert."
     },
     {
       "name": "ثَمُودَا",
@@ -5970,7 +6397,9 @@
       ],
       "count": 1,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=11&verse=68"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=11&verse=68",
+      "meaning": "Stammesname — möglicherweise 'die wenig Wasser Habenden'",
+      "etymology": "Möglicherweise zu Wurzel ث-م-د (wenig Wasser). ثَمُود als Stammesname der nabatäischen Region. Historisch in assyrischen Quellen als Thamudeni belegt."
     },
     {
       "name": "لِّثَمُودَ",
@@ -5981,7 +6410,9 @@
       ],
       "count": 1,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=11&verse=68"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=11&verse=68",
+      "meaning": "Stammesname — möglicherweise 'die wenig Wasser Habenden'",
+      "etymology": "Möglicherweise zu Wurzel ث-م-د (wenig Wasser). ثَمُود als Stammesname der nabatäischen Region. Historisch in assyrischen Quellen als Thamudeni belegt."
     },
     {
       "name": "صَٰلِحٍ",
@@ -5992,7 +6423,9 @@
       ],
       "count": 1,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=11&verse=89"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=11&verse=89",
+      "meaning": "der Rechtschaffene / der Taugliche",
+      "etymology": "Wurzel ص-ل-ح (tauglich sein, in Ordnung sein, recht sein). Partizip فَاعِل: 'der Taugliche/Rechtschaffene'."
     },
     {
       "name": "لِّمَدْيَنَ",
@@ -6003,7 +6436,9 @@
       ],
       "count": 1,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=11&verse=95"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=11&verse=95",
+      "meaning": "Ortsname — Siedlungsgebiet",
+      "etymology": "Lehnwort, wahrscheinlich vorarabisch. Möglicherweise Bezug zu Wurzel م-د-ن (sich niederlassen), aber eher Eigenname ohne transparente Etymologie."
     },
     {
       "name": "لَيُوسُفُ",
@@ -6014,7 +6449,9 @@
       ],
       "count": 1,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=12&verse=8"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=12&verse=8",
+      "meaning": "Eigenname — 'er möge hinzufügen'",
+      "etymology": "Lehnwort aus dem Hebräischen (יוֹסֵף, Yōsēf), zu י-ס-ף (yasaf, 'hinzufügen'): 'Möge [Gott] hinzufügen'. Keine arabische Wurzel."
     },
     {
       "name": "مِّصْرَ",
@@ -6025,7 +6462,9 @@
       ],
       "count": 1,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=12&verse=21"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=12&verse=21",
+      "meaning": "Ägypten / befestigte Stadt",
+      "etymology": "Wurzel م-ص-ر (Grenze, befestigter Ort). مِصْر kann sowohl 'befestigte Stadt' als auch den Eigennamen Ägypten bezeichnen. Vgl. akkadisch miṣru ('Grenze')."
     },
     {
       "name": "بِيُوسُفَ",
@@ -6036,7 +6475,9 @@
       ],
       "count": 1,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=12&verse=89"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=12&verse=89",
+      "meaning": "Eigenname — 'er möge hinzufügen'",
+      "etymology": "Lehnwort aus dem Hebräischen (יוֹסֵף, Yōsēf), zu י-ס-ף (yasaf, 'hinzufügen'): 'Möge [Gott] hinzufügen'. Keine arabische Wurzel."
     },
     {
       "name": "وَقُرْءَانٍ",
@@ -6047,7 +6488,9 @@
       ],
       "count": 1,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=15&verse=1"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=15&verse=1",
+      "meaning": "Vortrag / Rezitation",
+      "etymology": "Wurzel ق-ر-أ (vortragen, rezitieren). Siehe القرآن."
     },
     {
       "name": "وَٱلْقُرْءَانَ",
@@ -6058,7 +6501,9 @@
       ],
       "count": 1,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=15&verse=87"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=15&verse=87",
+      "meaning": "das Vorgetragene / die Rezitation",
+      "etymology": "Wurzel ق-ر-أ (lesen, vortragen, rezitieren). قُرْآن ist ein Verbalsubstantiv (فُعْلَان): 'das Vorgetragene/Gelesene'."
     },
     {
       "name": "وَقُرْءَانَ",
@@ -6069,7 +6514,9 @@
       ],
       "count": 1,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=17&verse=78"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=17&verse=78",
+      "meaning": "Vortrag / Rezitation",
+      "etymology": "Wurzel ق-ر-أ (vortragen, rezitieren). Siehe القرآن."
     },
     {
       "name": "قُرْءَانَ",
@@ -6080,7 +6527,9 @@
       ],
       "count": 1,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=17&verse=78"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=17&verse=78",
+      "meaning": "Vortrag / Rezitation",
+      "etymology": "Wurzel ق-ر-أ (vortragen, rezitieren). Siehe القرآن."
     },
     {
       "name": "وَقُرْءَانًا",
@@ -6091,7 +6540,9 @@
       ],
       "count": 1,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=17&verse=106"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=17&verse=106",
+      "meaning": "Vortrag / Rezitation (Akkusativform)",
+      "etymology": "Wurzel ق-ر-أ. Siehe القرآن."
     },
     {
       "name": "يَأْجُوجَ",
@@ -6102,7 +6553,9 @@
       ],
       "count": 1,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=18&verse=94"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=18&verse=94",
+      "meaning": "Eigenname — etymologisch unsicher",
+      "etymology": "Lehnwort. Möglicherweise verwandt mit hebr. גּוֹג (Gōg) und griechisch Γώγ/Μαγώγ. Keine gesicherte semitische Etymologie."
     },
     {
       "name": "وَمَأْجُوجَ",
@@ -6113,7 +6566,9 @@
       ],
       "count": 1,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=18&verse=94"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=18&verse=94",
+      "meaning": "Eigenname — etymologisch unsicher",
+      "etymology": "Lehnwort. Möglicherweise verwandt mit hebr. גּוֹג (Gōg) und griechisch Γώγ/Μαγώγ. Keine gesicherte semitische Etymologie."
     },
     {
       "name": "ٱلْفِرْدَوْسِ",
@@ -6124,7 +6579,9 @@
       ],
       "count": 1,
       "diptote": false,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=18&verse=107"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=18&verse=107",
+      "meaning": "der Paradiesgarten",
+      "etymology": "Lehnwort aus dem Altpersischen (pairidaēza, 'umzäunte Einfriedung/Park'). Über griechisch παράδεισος (parádeisos) ins Semitische gelangt."
     },
     {
       "name": "زَكَرِيَّإ",
@@ -6135,7 +6592,9 @@
       ],
       "count": 1,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=19&verse=2"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=19&verse=2",
+      "meaning": "Eigenname — 'Gott erinnert sich'",
+      "etymology": "Lehnwort aus dem Hebräischen (זְכַרְיָה, Zəḵaryāh), zu ז-כ-ר (zāḵar, 'erinnern, gedenken') + יָה (Yāh, Kurzform des Gottesnamens)."
     },
     {
       "name": "يَٰزَكَرِيَّإ",
@@ -6146,7 +6605,9 @@
       ],
       "count": 1,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=19&verse=7"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=19&verse=7",
+      "meaning": "Eigenname — 'Gott erinnert sich'",
+      "etymology": "Lehnwort aus dem Hebräischen (זְכַרְיָה, Zəḵaryāh), zu ז-כ-ר (zāḵar, 'erinnern, gedenken') + יָה (Yāh, Kurzform des Gottesnamens)."
     },
     {
       "name": "يَٰيَحْيَىٰ",
@@ -6157,7 +6618,9 @@
       ],
       "count": 1,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=19&verse=12"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=19&verse=12",
+      "meaning": "Eigenname — 'er lebt'",
+      "etymology": "Möglicherweise arabisch zu Wurzel ح-ي-ي (leben): 'er lebt / er wird leben'. Alternativ Lehnwort aus hebr. יוֹחָנָן (Yōḥānān, 'Gott ist gnädig')."
     },
     {
       "name": "لِلشَّيْطَٰنِ",
@@ -6168,7 +6631,9 @@
       ],
       "count": 1,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=19&verse=45"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=19&verse=45",
+      "meaning": "der Widersacher / der Entfernte",
+      "etymology": "Wurzel ش-ط-ن (entfernt sein, sich entfernen, widerspenstig sein). فَيْعَال-Muster: 'der sich weit [von der Wahrheit] Entfernende'. Alternativ Lehnwort aus hebr. שָׂטָן (śāṭān, 'Widersacher')."
     },
     {
       "name": "إِدْرِيسَ",
@@ -6179,7 +6644,9 @@
       ],
       "count": 1,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=19&verse=56"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=19&verse=56",
+      "meaning": "Eigenname — etymologisch unsicher",
+      "etymology": "Umstritten: möglicherweise arabisch zu Wurzel د-ر-س (studieren, lernen) mit إفعيل-Muster. Alternativ Lehnwort, identifiziert mit griechisch Ἑρμῆς (Hermes) oder hebr. Henoch."
     },
     {
       "name": "وَإِسْرَٰٕءِيلَ",
@@ -6190,7 +6657,9 @@
       ],
       "count": 1,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=19&verse=58"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=19&verse=58",
+      "meaning": "Eigenname — 'der mit Gott Streitende' oder 'Gott herrscht'",
+      "etymology": "Lehnwort aus dem Hebräischen (יִשְׂרָאֵל, Yiśrāʔēl). Volksetymologisch: śārāh ('streiten/ringen') + ʔēl ('Gott'). Alternativ: yśr ('herrschen') + ʔēl."
     },
     {
       "name": "يَٰهَٰرُونُ",
@@ -6201,7 +6670,9 @@
       ],
       "count": 1,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=20&verse=92"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=20&verse=92",
+      "meaning": "Eigenname — etymologisch unsicher",
+      "etymology": "Lehnwort aus dem Hebräischen (אַהֲרֹן, Ahărōn). Etymologie unklar, möglicherweise ägyptischen Ursprungs."
     },
     {
       "name": "يَٰسَٰمِرِىُّ",
@@ -6212,7 +6683,9 @@
       ],
       "count": 1,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=20&verse=95"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=20&verse=95",
+      "meaning": "samaritisch / aus Samaria",
+      "etymology": "Siehe السامري."
     },
     {
       "name": "وَتَٱللَّهِ",
@@ -6223,7 +6696,9 @@
       ],
       "count": 1,
       "diptote": false,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=21&verse=57"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=21&verse=57",
+      "meaning": "Gottheit (Eigenname) — mit Schwurpartikel",
+      "etymology": "Wurzel ا-ل-ه. Schwurpartikel تَ + الله."
     },
     {
       "name": "وَدَاوُ,دَ",
@@ -6234,7 +6709,9 @@
       ],
       "count": 1,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=21&verse=78"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=21&verse=78",
+      "meaning": "Eigenname — möglicherweise 'Geliebter'",
+      "etymology": "Lehnwort aus dem Hebräischen (דָּוִד, Dāwīd). Möglicherweise zu דּ-ו-ד ('lieben') oder als Lallwort. Arabisch ohne etymologische Transparenz."
     },
     {
       "name": "وَإِدْرِيسَ",
@@ -6245,7 +6722,9 @@
       ],
       "count": 1,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=21&verse=85"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=21&verse=85",
+      "meaning": "Eigenname — etymologisch unsicher",
+      "etymology": "Umstritten: möglicherweise arabisch zu Wurzel د-ر-س (studieren, lernen) mit إفعيل-Muster. Alternativ Lehnwort, identifiziert mit griechisch Ἑρμῆς (Hermes) oder hebr. Henoch."
     },
     {
       "name": "وَزَكَرِيَّإ",
@@ -6256,7 +6735,9 @@
       ],
       "count": 1,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=21&verse=89"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=21&verse=89",
+      "meaning": "Eigenname — 'Gott erinnert sich'",
+      "etymology": "Lehnwort aus dem Hebräischen (זְכַרְיָה, Zəḵaryāh), zu ז-כ-ר (zāḵar, 'erinnern, gedenken') + יָה (Yāh, Kurzform des Gottesnamens)."
     },
     {
       "name": "يَأْجُوجُ",
@@ -6267,7 +6748,9 @@
       ],
       "count": 1,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=21&verse=96"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=21&verse=96",
+      "meaning": "Eigenname — etymologisch unsicher",
+      "etymology": "Lehnwort. Möglicherweise verwandt mit hebr. גּוֹג (Gōg) und griechisch Γώγ/Μαγώγ. Keine gesicherte semitische Etymologie."
     },
     {
       "name": "وَمَأْجُوجُ",
@@ -6278,7 +6761,9 @@
       ],
       "count": 1,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=21&verse=96"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=21&verse=96",
+      "meaning": "Eigenname — etymologisch unsicher",
+      "etymology": "Lehnwort. Gegenstück zu يأجوج. Vgl. hebr. מָגוֹג (Māgōg). Keine gesicherte Etymologie."
     },
     {
       "name": "ٱلزَّبُورِ",
@@ -6289,7 +6774,9 @@
       ],
       "count": 1,
       "diptote": false,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=21&verse=105"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=21&verse=105",
+      "meaning": "die Schrift / die Psalmen",
+      "etymology": "Wurzel ز-ب-ر (schreiben, einritzen). زَبُور = 'Geschriebenes, Psalm'. Verwandt mit der Bedeutung 'in Stein einritzen'. Parallele zu hebr. מִזְמוֹר (mizmōr, 'Psalm')."
     },
     {
       "name": "وَٱلْمَجُوسَ",
@@ -6300,7 +6787,9 @@
       ],
       "count": 1,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=22&verse=17"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=22&verse=17",
+      "meaning": "die Magier / Zoroastrier",
+      "etymology": "Lehnwort aus dem Altpersischen (maguš, 'Priester/Magier'). Über griechisch μάγος (mágos). Wurzel م-ج-س im Arabischen sekundär."
     },
     {
       "name": "لِإِبْرَٰهِيمَ",
@@ -6311,7 +6800,9 @@
       ],
       "count": 1,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=22&verse=26"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=22&verse=26",
+      "meaning": "Eigenname — etymologisch unsicher",
+      "etymology": "Lehnwort, wahrscheinlich aus dem Akkadischen/Aramäischen. Möglicherweise verwandt mit abr-hām ('Vater der Menge') oder ab-rām ('erhabener Vater'). Keine arabische Wurzel."
     },
     {
       "name": "ٱلْفِرْدَوْسَ",
@@ -6322,7 +6813,9 @@
       ],
       "count": 1,
       "diptote": false,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=23&verse=11"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=23&verse=11",
+      "meaning": "der Paradiesgarten",
+      "etymology": "Lehnwort aus dem Altpersischen (pairidaēza, 'umzäunte Einfriedung/Park'). Über griechisch παράδεισος (parádeisos) ins Semitische gelangt."
     },
     {
       "name": "سَيْنَإءَ",
@@ -6333,7 +6826,9 @@
       ],
       "count": 1,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=23&verse=20"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=23&verse=20",
+      "meaning": "Ortsname — Sinai",
+      "etymology": "Lehnwort, Herkunft unsicher. Möglicherweise zu semitischem *sīn ('Zahn, Fels') oder ägyptischem Bezug. Auch سِينِين als Variante."
     },
     {
       "name": "هُودٌ",
@@ -6344,7 +6839,9 @@
       ],
       "count": 1,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=26&verse=124"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=26&verse=124",
+      "meaning": "Eigenname — möglicherweise 'der Sanfte / der zum Judentum sich Bekennende'",
+      "etymology": "Möglicherweise Wurzel ه-و-د. Die Grundbedeutung der Wurzel ist 'sanft sein, sich bekehren, umkehren'. Zuordnung unsicher."
     },
     {
       "name": "صَٰلِحٌ",
@@ -6355,7 +6852,9 @@
       ],
       "count": 1,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=26&verse=142"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=26&verse=142",
+      "meaning": "der Rechtschaffene / der Taugliche",
+      "etymology": "Wurzel ص-ل-ح (tauglich sein, in Ordnung sein, recht sein). Partizip فَاعِل: 'der Taugliche/Rechtschaffene'."
     },
     {
       "name": "شُعَيْبٌ",
@@ -6366,7 +6865,9 @@
       ],
       "count": 1,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=26&verse=177"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=26&verse=177",
+      "meaning": "Eigenname — Diminutivform",
+      "etymology": "Möglicherweise Diminutiv von شَعْب (šaʿb, 'Volk/Stamm'), Wurzel ش-ع-ب ('sich verzweigen'). Alternativ Lehnwort."
     },
     {
       "name": "لِسُلَيْمَٰنَ",
@@ -6377,7 +6878,9 @@
       ],
       "count": 1,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=27&verse=17"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=27&verse=17",
+      "meaning": "Eigenname — möglicherweise 'der Friedliche / Mann des Friedens'",
+      "etymology": "Lehnwort aus dem Hebräischen (שְׁלֹמֹה, Šəlōmōh), zu שׁ-ל-ם (šālōm, 'Frieden'). Die arabische Form mit -ān-Endung zeigt Adaptierung an arabische Namensmorphologie."
     },
     {
       "name": "سَبَإٍ",
@@ -6388,7 +6891,9 @@
       ],
       "count": 1,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=27&verse=22"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=27&verse=22",
+      "meaning": "Ortsname/Stammesname — Saba",
+      "etymology": "Vorarabischer Name des südarabischen Königreichs. Etymologie unsicher. Möglicherweise zu Wurzel س-ب-ا oder altsüdarabischen Ursprungs."
     },
     {
       "name": "قَٰرُونَ",
@@ -6399,7 +6904,9 @@
       ],
       "count": 1,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=28&verse=76"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=28&verse=76",
+      "meaning": "Eigenname — etymologisch unsicher",
+      "etymology": "Lehnwort, wahrscheinlich aus dem Hebräischen (קֹרַח, Qōraḥ). Die arabische Form mit -ūn-Endung zeigt Adaptierung. Keine sichere arabische Etymologie."
     },
     {
       "name": "قَٰرُونُ",
@@ -6410,7 +6917,9 @@
       ],
       "count": 1,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=28&verse=79"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=28&verse=79",
+      "meaning": "Eigenname — etymologisch unsicher",
+      "etymology": "Lehnwort, wahrscheinlich aus dem Hebräischen (קֹרַח, Qōraḥ). Die arabische Form mit -ūn-Endung zeigt Adaptierung. Keine sichere arabische Etymologie."
     },
     {
       "name": "ٱلرُّومُ",
@@ -6421,7 +6930,9 @@
       ],
       "count": 1,
       "diptote": false,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=30&verse=2"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=30&verse=2",
+      "meaning": "die Römer / Byzantiner",
+      "etymology": "Lehnwort aus dem Griechischen (Ῥωμαῖοι, Rhōmaîoi) über aramäische Vermittlung. Bezeichnung für das Oströmische/Byzantinische Reich."
     },
     {
       "name": "لُقْمَٰنَ",
@@ -6432,7 +6943,9 @@
       ],
       "count": 1,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=31&verse=12"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=31&verse=12",
+      "meaning": "Eigenname — 'der Verschlinger / der viel Schluckende'",
+      "etymology": "Möglicherweise Wurzel ل-ق-م (verschlingen, schlucken). فُعْلَان-Muster als Intensivform: 'der viel Verschlingende'. Alternativ vorarabisch."
     },
     {
       "name": "لُقْمَٰنُ",
@@ -6443,7 +6956,9 @@
       ],
       "count": 1,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=31&verse=13"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=31&verse=13",
+      "meaning": "Eigenname — 'der Verschlinger / der viel Schluckende'",
+      "etymology": "Möglicherweise Wurzel ل-ق-م (verschlingen, schlucken). فُعْلَان-Muster als Intensivform: 'der viel Verschlingende'. Alternativ vorarabisch."
     },
     {
       "name": "نُّوحٍ",
@@ -6454,7 +6969,9 @@
       ],
       "count": 1,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=33&verse=7"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=33&verse=7",
+      "meaning": "Eigenname — möglicherweise 'der Klagende'",
+      "etymology": "Möglicherweise Wurzel ن-و-ح (klagen, wehklagen; نَوْح = Wehklage). Parallele zu hebr. נֹחַ (Nōaḥ), dort zu נ-ו-ח ('ruhen') gestellt. Lehnwort-Charakter wahrscheinlich."
     },
     {
       "name": "يَثْرِبَ",
@@ -6465,7 +6982,9 @@
       ],
       "count": 1,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=33&verse=13"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=33&verse=13",
+      "meaning": "Ortsname — etymologisch unsicher",
+      "etymology": "Vorarabischer Ortsname. Möglicherweise zu Wurzel ث-ر-ب (tadeln, vorwerfen). Etymologie nicht gesichert."
     },
     {
       "name": "زَيْدٌ",
@@ -6476,7 +6995,9 @@
       ],
       "count": 1,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=33&verse=37"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=33&verse=37",
+      "meaning": "der Zunehmende / Mehrung",
+      "etymology": "Wurzel ز-ي-د (zunehmen, mehr werden). Arabischer Name: 'Zuwachs, Vermehrung'."
     },
     {
       "name": "لِسَبَإٍ",
@@ -6487,7 +7008,9 @@
       ],
       "count": 1,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=34&verse=15"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=34&verse=15",
+      "meaning": "Ortsname/Stammesname — Saba",
+      "etymology": "Vorarabischer Name des südarabischen Königreichs. Etymologie unsicher. Möglicherweise zu Wurzel س-ب-ا oder altsüdarabischen Ursprungs."
     },
     {
       "name": "إِبْلِيسُ",
@@ -6498,7 +7021,9 @@
       ],
       "count": 1,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=34&verse=20"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=34&verse=20",
+      "meaning": "Eigenname des Widersachers — möglicherweise 'der Hoffnungslose'",
+      "etymology": "Umstritten: entweder Lehnwort aus griechisch διάβολος (diábolos, 'Verleumder') über syrische Vermittlung, oder arabisch zu Wurzel ب-ل-س (ablasa, 'verzweifeln, hoffnungslos werden')."
     },
     {
       "name": "وَقُرْءَانٌ",
@@ -6509,7 +7034,9 @@
       ],
       "count": 1,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=36&verse=69"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=36&verse=69",
+      "meaning": "Vortrag / Rezitation",
+      "etymology": "Wurzel ق-ر-أ (vortragen, rezitieren). Siehe القرآن."
     },
     {
       "name": "لَإِبْرَٰهِيمَ",
@@ -6520,7 +7047,9 @@
       ],
       "count": 1,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=37&verse=83"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=37&verse=83",
+      "meaning": "Eigenname — etymologisch unsicher",
+      "etymology": "Lehnwort, wahrscheinlich aus dem Akkadischen/Aramäischen. Möglicherweise verwandt mit abr-hām ('Vater der Menge') oder ab-rām ('erhabener Vater'). Keine arabische Wurzel."
     },
     {
       "name": "إِلْيَاسَ",
@@ -6531,7 +7060,9 @@
       ],
       "count": 1,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=37&verse=123"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=37&verse=123",
+      "meaning": "Eigenname — 'mein Gott ist Gott'",
+      "etymology": "Lehnwort aus dem Hebräischen (אֵלִיָּהוּ, Ēliyyāhū), zu אֵל (ʔēl, 'Gott') + יָהוּ (Yāhū, Gottesname): 'Mein Gott ist YHWH'."
     },
     {
       "name": "بَعْلًا",
@@ -6542,7 +7073,9 @@
       ],
       "count": 1,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=37&verse=125"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=37&verse=125",
+      "meaning": "Herr / Ehemann / Besitzer (hier: Gottheit)",
+      "etymology": "Wurzel ب-ع-ل (Herr sein, besitzen). بَعْل = 'Herr, Ehemann, Besitzer'. Als Gottesbezeichnung semitisch weit verbreitet (vgl. phönizisch Baʿal)."
     },
     {
       "name": "إِلْ يَاسِينَ",
@@ -6553,7 +7086,9 @@
       ],
       "count": 1,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=37&verse=130"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=37&verse=130",
+      "meaning": "Variante von إلياس",
+      "etymology": "Lehnwort. Variante Schreibung/Lesung von إلياس mit arabischer Pluralendung -īn."
     },
     {
       "name": "يَٰدَاوُ,دُ",
@@ -6564,7 +7099,9 @@
       ],
       "count": 1,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=38&verse=26"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=38&verse=26",
+      "meaning": "Eigenname — möglicherweise 'Geliebter'",
+      "etymology": "Lehnwort aus dem Hebräischen (דָּוִד, Dāwīd). Variante Schreibung von داوود."
     },
     {
       "name": "لِدَاوُ,دَ",
@@ -6575,7 +7112,9 @@
       ],
       "count": 1,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=38&verse=30"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=38&verse=30",
+      "meaning": "Eigenname — möglicherweise 'Geliebter'",
+      "etymology": "Lehnwort aus dem Hebräischen (דָּוִד, Dāwīd). Möglicherweise zu דּ-ו-ד ('lieben') oder als Lallwort. Arabisch ohne etymologische Transparenz."
     },
     {
       "name": "أَيُّوبَ",
@@ -6586,7 +7125,9 @@
       ],
       "count": 1,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=38&verse=41"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=38&verse=41",
+      "meaning": "Eigenname — 'der Angefeindete / der Reuige'",
+      "etymology": "Lehnwort aus dem Hebräischen (אִיּוֹב, ʔIyyōḇ). Möglicherweise zu א-י-ב (ʔāyaḇ, 'anfeinden') oder 'Wo ist der Vater?'. Keine arabische Wurzel."
     },
     {
       "name": "بِٱلْجَنَّةِ",
@@ -6597,7 +7138,9 @@
       ],
       "count": 1,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=41&verse=30"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=41&verse=30",
+      "meaning": "der Garten / der umzäunte Ort",
+      "etymology": "Wurzel ج-ن-ن (verbergen, bedecken). جَنَّة = 'umzäunter Garten' (das Verborgene/Bedeckte durch Vegetation)."
     },
     {
       "name": "وَعِيسَىٰٕ",
@@ -6608,7 +7151,9 @@
       ],
       "count": 1,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=42&verse=13"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=42&verse=13",
+      "meaning": "Eigenname — etymologisch unsicher",
+      "etymology": "Lehnwort, wahrscheinlich aus dem Syrischen/Aramäischen (ܝܫܘܥ, Yešūʿ), letztlich hebräisch יֵשׁוּעַ (Yēšūaʿ, 'er rettet'). Die arabische Form zeigt syrische Lautvermittlung."
     },
     {
       "name": "يَٰمَٰلِكُ",
@@ -6619,7 +7164,9 @@
       ],
       "count": 1,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=43&verse=77"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=43&verse=77",
+      "meaning": "Besitzer / Herrscher",
+      "etymology": "Wurzel م-ل-ك (besitzen, herrschen). Partizip فَاعِل: 'Besitzer, Herrscher'. Hier als Eigenname des Höllenwächters."
     },
     {
       "name": "بِٱلْأَحْقَافِ",
@@ -6630,7 +7177,9 @@
       ],
       "count": 1,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=46&verse=21"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=46&verse=21",
+      "meaning": "die Sanddünen / Sandhügel",
+      "etymology": "Wurzel ح-ق-ف (sich krümmen, Sanddüne). أَحْقَاف = Plural von حِقْف ('Sandhügel/Düne'). Bezirk im südlichen Arabien."
     },
     {
       "name": "مُحَمَّدٍ",
@@ -6641,7 +7190,9 @@
       ],
       "count": 1,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=47&verse=2"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=47&verse=2",
+      "meaning": "der Vielgepriesene / der wiederholt Gelobte",
+      "etymology": "Wurzel ح-م-د (loben, preisen). Passivpartizip im Intensivstamm (فُعَّل → مُفَعَّل): 'derjenige, der vielfach gepriesen wird'."
     },
     {
       "name": "مَكَّةَ",
@@ -6652,7 +7203,9 @@
       ],
       "count": 1,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=48&verse=24"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=48&verse=24",
+      "meaning": "Ortsname — etymologisch umstritten",
+      "etymology": "Etymologisch unsicher. Möglicherweise Wurzel م-ك-ك ('Mark aussaugen/zerstören') oder Lehnwort. Ptolemäus erwähnt Μακοράβα (Makoraba)."
     },
     {
       "name": "مُّحَمَّدٌ",
@@ -6663,7 +7216,9 @@
       ],
       "count": 1,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=48&verse=29"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=48&verse=29",
+      "meaning": "der Vielgepriesene / der wiederholt Gelobte",
+      "etymology": "Wurzel ح-م-د (loben, preisen). Passivpartizip im Intensivstamm (فُعَّل → مُفَعَّل): 'derjenige, der vielfach gepriesen wird'."
     },
     {
       "name": "ٱللَّٰتَ",
@@ -6674,7 +7229,9 @@
       ],
       "count": 1,
       "diptote": false,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=53&verse=19"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=53&verse=19",
+      "meaning": "vorislamische Gottheit — 'die Göttin'",
+      "etymology": "Wahrscheinlich feminines Gegenstück zu الله (al-Lāh). Zu Wurzel ا-ل-ه. Möglicherweise auch zu ل-و-ي ('drehen, umkreisen') oder ل-ت-ت ('kneten, mischen')."
     },
     {
       "name": "وَٱلْعُزَّىٰ",
@@ -6685,7 +7242,9 @@
       ],
       "count": 1,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=53&verse=19"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=53&verse=19",
+      "meaning": "vorislamische Gottheit — 'die Mächtigste'",
+      "etymology": "Wurzel ع-ز-ز (mächtig sein, stark sein). الْعُزَّى = feminine Elativform: 'die Mächtigste/Stärkste'."
     },
     {
       "name": "وَمَنَوٰةَ",
@@ -6696,7 +7255,9 @@
       ],
       "count": 1,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=53&verse=20"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=53&verse=20",
+      "meaning": "vorislamische Gottheit — 'das Schicksal'",
+      "etymology": "Möglicherweise Wurzel م-ن-ي (bestimmen, zuteilen) oder م-ن-ا. مَنَاة = 'Schicksal, Los'. Verwandt mit arabisch مَنِيَّة ('Tod, Geschick')."
     },
     {
       "name": "ٱلشِّعْرَىٰ",
@@ -6707,7 +7268,9 @@
       ],
       "count": 1,
       "diptote": false,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=53&verse=49"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=53&verse=49",
+      "meaning": "der Sirius-Stern",
+      "etymology": "Wurzel ش-ع-ر (wahrnehmen, empfinden). الشِّعْرَى = Name des Sirius (hellster Stern). Möglicherweise weil sein Aufgang die Hitzeperiode 'ankündigt'."
     },
     {
       "name": "لُوطٍ",
@@ -6718,7 +7281,9 @@
       ],
       "count": 1,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=54&verse=33"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=54&verse=33",
+      "meaning": "Eigenname — etymologisch unsicher",
+      "etymology": "Lehnwort aus dem Hebräischen (לוֹט, Lōṭ). Möglicherweise zu ל-ו-ט ('verhüllen, verbergen'). Im Arabischen ohne Wurzelbezug."
     },
     {
       "name": "زَقُّومٍ",
@@ -6729,7 +7294,9 @@
       ],
       "count": 1,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=56&verse=52"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=56&verse=52",
+      "meaning": "Pflanzenname — bittere/gierig verschlungene Nahrung",
+      "etymology": "Wurzel ز-ق-م (gierig schlucken/verschlingen). Siehe الزقوم."
     },
     {
       "name": "لَقُرْءَانٌ",
@@ -6740,7 +7307,9 @@
       ],
       "count": 1,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=56&verse=77"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=56&verse=77",
+      "meaning": "Vortrag / Rezitation",
+      "etymology": "Wurzel ق-ر-أ (vortragen, rezitieren). Siehe القرآن."
     },
     {
       "name": "أَحْمَدُ",
@@ -6751,7 +7320,9 @@
       ],
       "count": 1,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=61&verse=6"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=61&verse=6",
+      "meaning": "der Preiswürdigste / Lobenswerteste",
+      "etymology": "Wurzel ح-م-د (loben, preisen). Elativ أَفْعَل: 'der am meisten Gepriesene' oder 'der am meisten Preisende'."
     },
     {
       "name": "ٱلْجُمُعَةِ",
@@ -6762,7 +7333,9 @@
       ],
       "count": 1,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=62&verse=9"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=62&verse=9",
+      "meaning": "Versammlung / Versammlungstag",
+      "etymology": "Wurzel ج-م-ع. Siehe الجمعة."
     },
     {
       "name": "وَجِبْرِيلُ",
@@ -6773,7 +7346,9 @@
       ],
       "count": 1,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=66&verse=4"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=66&verse=4",
+      "meaning": "Eigenname — 'Kraft Gottes' oder 'Mann Gottes'",
+      "etymology": "Lehnwort aus dem Hebräischen (גַּבְרִיאֵל, Gaḇrīʔēl), zu גֶּבֶר (geḇer, 'Mann/Held') + אֵל (ʔēl, 'Gott')."
     },
     {
       "name": "وَمَرْيَمَ",
@@ -6784,7 +7359,9 @@
       ],
       "count": 1,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=66&verse=12"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=66&verse=12",
+      "meaning": "Eigenname — etymologisch unsicher",
+      "etymology": "Lehnwort, wahrscheinlich aus dem Hebräischen/Aramäischen (מִרְיָם, Miryām). Etymologie umstritten: möglicherweise ägyptisch mry ('geliebt') oder hebr. מָרָה (mārāh, 'widerspenstig') oder מָרוֹם (mārōm, 'Höhe')."
     },
     {
       "name": "لِّلشَّيَٰطِينِ",
@@ -6795,7 +7372,9 @@
       ],
       "count": 1,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=67&verse=5"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=67&verse=5",
+      "meaning": "die Widersacher (Plural, mit Präposition)",
+      "etymology": "Wurzel ش-ط-ن. Siehe الشياطين."
     },
     {
       "name": "وَعَادٌ",
@@ -6806,7 +7385,9 @@
       ],
       "count": 1,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=69&verse=4"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=69&verse=4",
+      "meaning": "Stammesname — möglicherweise 'die Alten / die Zurückkehrenden'",
+      "etymology": "Möglicherweise Wurzel ع-و-د (zurückkehren). Vorarabischer Stammesname des südarabischen Raums. Etymologie nicht gesichert."
     },
     {
       "name": "لَظَىٰ",
@@ -6817,7 +7398,9 @@
       ],
       "count": 1,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=70&verse=15"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=70&verse=15",
+      "meaning": "die Flamme / die lodernde Glut",
+      "etymology": "Wurzel ل-ظ-ي (lodern, flammen). لَظَى = 'Flamme, loderndes Feuer'. Bezeichnung einer Feuerstätte."
     },
     {
       "name": "وَدًّا",
@@ -6828,7 +7411,9 @@
       ],
       "count": 1,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=71&verse=23"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=71&verse=23",
+      "meaning": "vorislamische Gottheit — 'Zuneigung/Liebe'",
+      "etymology": "Wurzel و-د-د (lieben, zugeneigt sein). وَدّ = 'Liebe, Zuneigung'. Als Gottesname."
     },
     {
       "name": "سُوَاعًا",
@@ -6839,7 +7424,9 @@
       ],
       "count": 1,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=71&verse=23"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=71&verse=23",
+      "meaning": "vorislamische Gottheit — etymologisch unsicher",
+      "etymology": "Möglicherweise Wurzel س-و-ع (verbreiten, sich ausbreiten). Oder Lehnwort. Etymologie nicht gesichert."
     },
     {
       "name": "يَغُوثَ",
@@ -6850,7 +7437,9 @@
       ],
       "count": 1,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=71&verse=23"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=71&verse=23",
+      "meaning": "vorislamische Gottheit — 'er hilft/rettet'",
+      "etymology": "Wurzel غ-و-ث (helfen, beistehen; Hilfe rufen). يَغُوث = 'er rettet/hilft'. Verbform als Eigenname."
     },
     {
       "name": "وَيَعُوقَ",
@@ -6861,7 +7450,9 @@
       ],
       "count": 1,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=71&verse=23"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=71&verse=23",
+      "meaning": "vorislamische Gottheit — 'er hindert/schützt'",
+      "etymology": "Wurzel ع-و-ق (hindern, aufhalten). يَعُوق = 'er hindert/hält zurück'. Alternativ Schutzfunktion. Verbform als Eigenname."
     },
     {
       "name": "وَنَسْرًا",
@@ -6872,7 +7463,9 @@
       ],
       "count": 1,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=71&verse=23"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=71&verse=23",
+      "meaning": "vorislamische Gottheit — 'Adler'",
+      "etymology": "Wurzel ن-س-ر (Adler; reißen, zerreißen). نَسْر = 'Adler, Geier'. Als Gottesname: Adlergottheit."
     },
     {
       "name": "ٱلْمُسْلِمُونَ",
@@ -6883,7 +7476,9 @@
       ],
       "count": 1,
       "diptote": false,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=72&verse=14"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=72&verse=14",
+      "meaning": "die sich Ergebenden / die sich Unterwerfenden (Nominativ)",
+      "etymology": "Wurzel س-ل-م. Siehe المسلمين."
     },
     {
       "name": "سَقَرُ",
@@ -6894,7 +7489,9 @@
       ],
       "count": 1,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=74&verse=27"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=74&verse=27",
+      "meaning": "Bezeichnung für extreme Hitze",
+      "etymology": "Möglicherweise Wurzel س-ق-ر (versengen durch Hitze). Alternativ Lehnwort. Bezeichnung einer Feuerstätte."
     },
     {
       "name": "سَلْسَبِيلًا",
@@ -6905,7 +7502,9 @@
       ],
       "count": 1,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=76&verse=18"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=76&verse=18",
+      "meaning": "Quellenname — 'fließend/angenehm im Schlund' (Akkusativform)",
+      "etymology": "Siehe سلسبيل."
     },
     {
       "name": "قُرْءَانٌ",
@@ -6916,7 +7515,9 @@
       ],
       "count": 1,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=85&verse=21"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=85&verse=21",
+      "meaning": "Vortrag / Rezitation",
+      "etymology": "Wurzel ق-ر-أ (vortragen, rezitieren). Siehe القرآن."
     },
     {
       "name": "بِعَادٍ",
@@ -6927,7 +7528,9 @@
       ],
       "count": 1,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=89&verse=6"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=89&verse=6",
+      "meaning": "Stammesname — möglicherweise 'die Alten / die Zurückkehrenden'",
+      "etymology": "Möglicherweise Wurzel ع-و-د (zurückkehren). Vorarabischer Stammesname des südarabischen Raums. Etymologie nicht gesichert."
     },
     {
       "name": "إِرَمَ",
@@ -6938,7 +7541,9 @@
       ],
       "count": 1,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=89&verse=7"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=89&verse=7",
+      "meaning": "Ortsname/Stammesname — etymologisch unsicher",
+      "etymology": "Lehnwort, möglicherweise verwandt mit hebr. אֲרָם (Aram). Bezeichnet einen antiken Stamm oder Ort. Etymologie umstritten."
     },
     {
       "name": "سِينِينَ",
@@ -6949,7 +7554,9 @@
       ],
       "count": 1,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=95&verse=2"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=95&verse=2",
+      "meaning": "Ortsname — Variante von سيناء (Sinai)",
+      "etymology": "Lehnwort. Variante Form von سيناء. Siehe dort."
     },
     {
       "name": "قُرَيْشٍ",
@@ -6960,7 +7567,9 @@
       ],
       "count": 1,
       "diptote": true,
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=106&verse=1"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=106&verse=1",
+      "meaning": "Stammesname — möglicherweise 'die sich Versammelnden'",
+      "etymology": "Möglicherweise Wurzel ق-ر-ش (sich versammeln, zusammentragen) oder Diminutiv von قِرْش ('Hai/großer Fisch'). Etymologie des Stammesnamens umstritten."
     }
   ]
 }

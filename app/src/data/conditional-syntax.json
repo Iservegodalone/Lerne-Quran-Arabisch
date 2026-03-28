@@ -77,17 +77,20 @@
         {
           "type": "identification",
           "prompt": "Lies 60:12. Identifiziere die Protasis und die Apodosis. Welche Konditionalpartikel wird hier verwendet? Wird فَ in der Apodosis verwendet — und wenn ja, warum?",
-          "hint": "إِذَا جَاءَكَ ist die Protasis. Beachte: 60:12 verwendet إِذَا (nicht إِنْ). Achte darauf, ob die Apodosis ein Jussiv-Verb oder einen anderen Satztyp enthält."
+          "hint": "إِذَا جَاءَكَ ist die Protasis. Beachte: 60:12 verwendet إِذَا (nicht إِنْ). Achte darauf, ob die Apodosis ein Jussiv-Verb oder einen anderen Satztyp enthält.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=60&verse=12"
         },
         {
           "type": "analysis",
           "prompt": "Vergleiche 47:7 (إِن تَنصُرُوا اللَّهَ يَنصُرْكُمْ) mit 49:6 (إِن جَاءَكُمْ فَاسِقٌ بِنَبَإٍ فَتَبَيَّنُوا). Warum hat 47:7 kein فَ in der Apodosis, 49:6 aber schon?",
-          "hint": "Die Apodosis in 47:7 ist ein Jussiv-Verb. Die Apodosis in 49:6 ist ein Imperativ."
+          "hint": "Die Apodosis in 47:7 ist ein Jussiv-Verb. Die Apodosis in 49:6 ist ein Imperativ.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=47&verse=7"
         },
         {
           "type": "morphology",
           "prompt": "In 47:7 steht يَنصُرْكُمْ. Wie lautet die Grundform (Imperfekt Indikativ) dieses Verbs? Welches Merkmal zeigt den Jussiv an?",
-          "hint": "Indikativ: يَنصُرُكُمْ mit Damma. Jussiv: يَنصُرْكُمْ mit Sukun."
+          "hint": "Indikativ: يَنصُرُكُمْ mit Damma. Jussiv: يَنصُرْكُمْ mit Sukun.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=47&verse=7"
         }
       ],
       "testContent": {
@@ -123,7 +126,8 @@
               "Prädikat"
             ],
             "correct": 0,
-            "explanation": "أَحَدٌ ist das Subjekt (فاعل) der Protasis. Es steht zwischen إِنْ und dem Verb اسْتَجَارَكَ. Diese Wortstellung mit vorangestelltem Subjekt nach إِنْ ist im Quran belegt."
+            "explanation": "أَحَدٌ ist das Subjekt (فاعل) der Protasis. Es steht zwischen إِنْ und dem Verb اسْتَجَارَكَ. Diese Wortstellung mit vorangestelltem Subjekt nach إِنْ ist im Quran belegt.",
+            "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=9&verse=6"
           },
           {
             "question": "In 3:139 steht die Protasis (إِن كُنتُم مُّؤْمِنِينَ) NACH der Apodosis. Was bedeutet das syntaktisch?",
@@ -134,7 +138,8 @@
               "Es handelt sich um eine rhetorische Frage"
             ],
             "correct": 1,
-            "explanation": "Die Apodosis kann im Arabischen der Protasis vorangestellt werden. Die Protasis wird dann nachgeliefert und schränkt die Aussage ein. Dies ist im Quran häufig."
+            "explanation": "Die Apodosis kann im Arabischen der Protasis vorangestellt werden. Die Protasis wird dann nachgeliefert und schränkt die Aussage ein. Dies ist im Quran häufig.",
+            "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=139"
           }
         ]
       }
@@ -161,12 +166,14 @@
               {
                 "ref": "81:1-6",
                 "arabic": "إِذَا الشَّمْسُ كُوِّرَتْ ○ وَإِذَا النُّجُومُ انكَدَرَتْ ○ وَإِذَا الْجِبَالُ سُيِّرَتْ ○ وَإِذَا الْعِشَارُ عُطِّلَتْ ○ وَإِذَا الْوُحُوشُ حُشِرَتْ ○ وَإِذَا الْبِحَارُ سُجِّرَتْ",
-                "explanation": "Kette von إِذَا-Protasen ohne sofortige Apodosis. Jede Protasis: إِذَا + Nomen + Perfekt (Passiv). Die Apodosis folgt erst in 81:14 (عَلِمَتْ نَفْسٌ مَّا أَحْضَرَتْ). Die Kette baut Spannung auf — die Erwartung der Apodosis wird verzoegert."
+                "explanation": "Kette von إِذَا-Protasen ohne sofortige Apodosis. Jede Protasis: إِذَا + Nomen + Perfekt (Passiv). Die Apodosis folgt erst in 81:14 (عَلِمَتْ نَفْسٌ مَّا أَحْضَرَتْ). Die Kette baut Spannung auf — die Erwartung der Apodosis wird verzoegert.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=81&verse=1"
               },
               {
                 "ref": "84:1-5",
                 "arabic": "إِذَا السَّمَاءُ انشَقَّتْ ○ وَأَذِنَتْ لِرَبِّهَا وَحُقَّتْ ○ وَإِذَا الْأَرْضُ مُدَّتْ ○ وَأَلْقَتْ مَا فِيهَا وَتَخَلَّتْ ○ وَأَذِنَتْ لِرَبِّهَا وَحُقَّتْ",
-                "explanation": "Dieselbe Struktur: إِذَا + Nomen + Perfekt. Die Apodosis ist implizit oder folgt in den nächsten Versen. Wieder eschatologischer Kontext mit إِذَا — das Ereignis wird als sicher dargestellt."
+                "explanation": "Dieselbe Struktur: إِذَا + Nomen + Perfekt. Die Apodosis ist implizit oder folgt in den nächsten Versen. Wieder eschatologischer Kontext mit إِذَا — das Ereignis wird als sicher dargestellt.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=84&verse=1"
               },
               {
                 "ref": "2:282",
@@ -199,7 +206,8 @@
         {
           "type": "analysis",
           "prompt": "In 63:4 stehen إِذَا und إِنْ im selben Vers. Erkläre den syntaktischen Unterschied: Welchen Modus hat das Verb nach إِذَا, welchen nach إِنْ? Was signalisiert die Partikelwahl über die Erwartung des Sprechers?",
-          "hint": "Nach إِذَا steht Perfekt (رَأَيْتَهُمْ), nach إِنْ Jussiv (يَقُولُوا). إِذَا = erwartet, إِنْ = offen."
+          "hint": "Nach إِذَا steht Perfekt (رَأَيْتَهُمْ), nach إِنْ Jussiv (يَقُولُوا). إِذَا = erwartet, إِنْ = offen.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=63&verse=4"
         },
         {
           "type": "analysis",
@@ -240,7 +248,8 @@
               "Die Apodosis steht vor dem ersten إِذَا"
             ],
             "correct": 2,
-            "explanation": "Die Apodosis (عَلِمَتْ نَفْسٌ مَّا أَحْضَرَتْ) erscheint erst in 81:14, nach einer Kette von إِذَا-Protasen. Die Verzoegerung ist ein textstrukturelles Mittel."
+            "explanation": "Die Apodosis (عَلِمَتْ نَفْسٌ مَّا أَحْضَرَتْ) erscheint erst in 81:14, nach einer Kette von إِذَا-Protasen. Die Verzoegerung ist ein textstrukturelles Mittel.",
+            "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=81&verse=14"
           }
         ]
       }
@@ -308,17 +317,20 @@
         {
           "type": "identification",
           "prompt": "Lies 5:66 (وَلَوْ أَنَّهُمْ أَقَامُوا التَّوْرَاةَ وَالْإِنجِيلَ...). Identifiziere Protasis und Apodosis. Welche Apodosis-Partikel wird verwendet?",
-          "hint": "Die Protasis beginnt mit لَوْ أَنَّهُمْ. Suche die Apodosis-Partikel لَ."
+          "hint": "Die Protasis beginnt mit لَوْ أَنَّهُمْ. Suche die Apodosis-Partikel لَ.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=5&verse=66"
         },
         {
           "type": "analysis",
           "prompt": "Vergleiche 2:253 (لَوْ شَاءَ اللَّهُ مَا اقْتَتَلَ) mit 10:99 (لَوْ شَاءَ رَبُّكَ لَآمَنَ). Beide haben dieselbe Protasis-Struktur. Wie unterscheiden sich die Apodosen?",
-          "hint": "2:253 hat eine negierte Apodosis mit مَا. 10:99 hat eine affirmative Apodosis mit لَ."
+          "hint": "2:253 hat eine negierte Apodosis mit مَا. 10:99 hat eine affirmative Apodosis mit لَ.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=253"
         },
         {
           "type": "analysis",
           "prompt": "In 6:27 und 6:93 steht وَلَوْ تَرَى ohne explizite Apodosis. Was ist die syntaktische Analyse dieser Ellipse? Was muss der Hörer ergänzen?",
-          "hint": "Die Apodosis ist syntaktisch nicht vorhanden. Die Ellipse lässt den Inhalt offen — der Text sagt nicht, was geschehen würde."
+          "hint": "Die Apodosis ist syntaktisch nicht vorhanden. Die Ellipse lässt den Inhalt offen — der Text sagt nicht, was geschehen würde.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=6&verse=27"
         }
       ],
       "testContent": {
@@ -354,7 +366,8 @@
               "فَقَالُوا ist die Apodosis"
             ],
             "correct": 2,
-            "explanation": "Nach لَوْ تَرَى wird die Apodosis ausgelassen. Der Hörer soll die Konsequenz selbst erschließen. Dies ist ein wiederkehrendes quranisches Muster."
+            "explanation": "Nach لَوْ تَرَى wird die Apodosis ausgelassen. Der Hörer soll die Konsequenz selbst erschließen. Dies ist ein wiederkehrendes quranisches Muster.",
+            "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=6&verse=27"
           }
         ]
       }
@@ -416,17 +429,20 @@
         {
           "type": "analysis",
           "prompt": "Erkläre den Unterschied in der Partikelwahl: إِن يَمْسَسْكُمْ قَرْحٌ (3:140) vs. وَإِذَا مَسَّهُ الشَّرُّ فَذُو دُعَاءٍ عَرِيضٍ (41:51). Beide Verse behandeln das Erleiden von Schaden. Warum إِنْ in 3:140 und إِذَا in 41:51?",
-          "hint": "3:140 stellt die Verletzung als offene Möglichkeit dar (im Kontext einer Schlacht). 41:51 beschreibt ein typisches, erwartetes Verhaltensmuster des Menschen."
+          "hint": "3:140 stellt die Verletzung als offene Möglichkeit dar (im Kontext einer Schlacht). 41:51 beschreibt ein typisches, erwartetes Verhaltensmuster des Menschen.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=140"
         },
         {
           "type": "transformation",
           "prompt": "Der Satz لَوْ شَاءَ اللَّهُ مَا اقْتَتَلُوا (2:253) ist irreal. Formuliere denselben Inhalt als reale Bedingung mit إِنْ. Was ändert sich syntaktisch und semantisch?",
-          "hint": "إِنْ يَشَأِ اللَّهُ لَا يَقْتَتِلُوا — Beide Verben im Jussiv. Semantisch: Die Bedingung würde als offene Möglichkeit dargestellt, nicht als kontrafaktisch."
+          "hint": "إِنْ يَشَأِ اللَّهُ لَا يَقْتَتِلُوا — Beide Verben im Jussiv. Semantisch: Die Bedingung würde als offene Möglichkeit dargestellt, nicht als kontrafaktisch.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=253"
         },
         {
           "type": "identification",
           "prompt": "Lies 4:66-68. Identifiziere alle Konditionalpartikeln in diesen drei Versen. Bestimme für jede: Partikel, Modus des Protasis-Verbs, Art der Apodosis.",
-          "hint": "Achte auf لَوْ und أَنَّ-Konstruktionen. Bestimme bei jeder Stelle die syntaktische Struktur."
+          "hint": "Achte auf لَوْ und أَنَّ-Konstruktionen. Bestimme bei jeder Stelle die syntaktische Struktur.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=66"
         }
       ],
       "testContent": {
@@ -440,7 +456,8 @@
               "إِذَا für irreale, إِنْ für reale Bedingung"
             ],
             "correct": 1,
-            "explanation": "Der Wechsel ist semantisch motiviert: إِذَا stellt das Sehen als erwartetes Ereignis dar, إِنْ das Sprechen als offene Möglichkeit."
+            "explanation": "Der Wechsel ist semantisch motiviert: إِذَا stellt das Sehen als erwartetes Ereignis dar, إِنْ das Sprechen als offene Möglichkeit.",
+            "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=63&verse=4"
           },
           {
             "question": "Welche Partikel ist ein Jazm-Partikel (erzwingt den Jussiv)?",
@@ -588,17 +605,20 @@
         {
           "type": "identification",
           "prompt": "Lies 2:251 und identifiziere die لَوْلَا-Struktur. Was steht direkt nach لَوْلَا — ein Verb oder ein Nomen? Was folgt daraus für die Funktion (kontrafaktisch oder vorwurfsvoll)?",
-          "hint": "Nach لَوْلَا steht das Nomen دَفْعُ — also kontrafaktische Funktion ('gaebe es X nicht...'). Vorwurfsvolles لَوْلَا nimmt ein Verb."
+          "hint": "Nach لَوْلَا steht das Nomen دَفْعُ — also kontrafaktische Funktion ('gaebe es X nicht...'). Vorwurfsvolles لَوْلَا nimmt ein Verb.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=251"
         },
         {
           "type": "analysis",
           "prompt": "Vergleiche مَا تُنفِقُوا (2:272) mit كُلَّمَا أَوْقَدُوا (5:64). Beide leiten eine generalisierte Bedingung ein. Was ist der syntaktische Unterschied? Welche regiert den Jussiv?",
-          "hint": "مَا regiert den Jussiv (تُنفِقُوا — Wegfall des Nun). كُلَّمَا nimmt das Perfekt (أَوْقَدُوا). مَا ist ein Jazm-Wort, كُلَّمَا nicht."
+          "hint": "مَا regiert den Jussiv (تُنفِقُوا — Wegfall des Nun). كُلَّمَا nimmt das Perfekt (أَوْقَدُوا). مَا ist ein Jazm-Wort, كُلَّمَا nicht.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=272"
         },
         {
           "type": "morphology",
           "prompt": "In 2:148 steht يَأْتِ (ohne Alif am Ende). Die Grundform ist يَأْتِي. Erkläre, warum das ي fehlt. Welcher Modus liegt vor und welche Partikel verursacht ihn?",
-          "hint": "يَأْتِي → يَأْتِ: Wegfall des End-ي ist das Jussiv-Zeichen bei Verben mit schwachem drittem Radikal (ناقص). أَيْنَمَا als Konditionalpartikel regiert den Jussiv."
+          "hint": "يَأْتِي → يَأْتِ: Wegfall des End-ي ist das Jussiv-Zeichen bei Verben mit schwachem drittem Radikal (ناقص). أَيْنَمَا als Konditionalpartikel regiert den Jussiv.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=148"
         }
       ],
       "testContent": {
@@ -612,7 +632,8 @@
               "Reale Bedingung ('falls')"
             ],
             "correct": 1,
-            "explanation": "لَوْلَا + Nomen (دَفْعُ) = kontrafaktisch: 'Gaebe es nicht Gottes Zurückdraengen, wäre die Erde verdorben.' Die Apodosis mit لَ + Perfekt bestätigt die kontrafaktische Funktion."
+            "explanation": "لَوْلَا + Nomen (دَفْعُ) = kontrafaktisch: 'Gaebe es nicht Gottes Zurückdraengen, wäre die Erde verdorben.' Die Apodosis mit لَ + Perfekt bestätigt die kontrafaktische Funktion.",
+            "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=251"
           },
           {
             "question": "مَنْ يَفْعَلْ ذَٰلِكَ — welche Art von Bedingung liegt vor?",
@@ -645,7 +666,8 @@
               "Reale Bedingung"
             ],
             "correct": 1,
-            "explanation": "وَلَوْ nach einem Bedingungssatz hat konzessive Funktion: 'selbst wenn ihr in hohen Tuermen wäret.' Es verstärkt die Aussage der Hauptbedingung."
+            "explanation": "وَلَوْ nach einem Bedingungssatz hat konzessive Funktion: 'selbst wenn ihr in hohen Tuermen wäret.' Es verstärkt die Aussage der Hauptbedingung.",
+            "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=78"
           }
         ]
       }

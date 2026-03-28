@@ -13,17 +13,20 @@
             {
               "arabic": "فَتَقَبَّلَهَا رَبُّهَا قَبُولًا حَسَنًا",
               "transliteration": "fa-taqabbalahā rabbuhā qabūlan ḥasanan",
-              "meaning": "Ihr Herr nahm sie an mit schönem Annehmen (3:37)"
+              "meaning": "Ihr Herr nahm sie an mit schönem Annehmen (3:37)",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=37"
             },
             {
               "arabic": "كَلَّمَ اللَّهُ مُوسَى تَكْلِيمًا",
               "transliteration": "kallama llāhu mūsā taklīman",
-              "meaning": "Gott sprach zu Musa mit wirklichem Sprechen (4:164)"
+              "meaning": "Gott sprach zu Musa mit wirklichem Sprechen (4:164)",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=164"
             },
             {
               "arabic": "وَكَلَّمَهُ تَكْلِيمًا",
               "transliteration": "wa-kallamahu taklīman",
-              "meaning": "und Er sprach zu ihm mit wirklichem Sprechen (4:164)"
+              "meaning": "und Er sprach zu ihm mit wirklichem Sprechen (4:164)",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=164"
             }
           ]
         },
@@ -138,13 +141,15 @@
             "Es ist ein Adverb der Zeit"
           ],
           "answer": "Es verstärkt die Realität der Handlung als absoluter Akkusativ",
-          "explanation": "تَكْلِيمًا ist das Masdar (Verbal-Nomen) von كَلَّمَ und steht im Akkusativ als absoluter Akkusativ (Mafʿūl Muṭlaq). Der Maf'ul Mutlaq تَكْلِيمًا verstärkt die Verbalhandlung كَلَّمَ grammatisch."
+          "explanation": "تَكْلِيمًا ist das Masdar (Verbal-Nomen) von كَلَّمَ und steht im Akkusativ als absoluter Akkusativ (Mafʿūl Muṭlaq). Der Maf'ul Mutlaq تَكْلِيمًا verstärkt die Verbalhandlung كَلَّمَ grammatisch.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=164"
         },
         {
           "type": "identification",
           "prompt": "Identifiziere den absoluten Akkusativ im folgenden Vers: فَتَقَبَّلَهَا رَبُّهَا قَبُولًا حَسَنًا (3:37)",
           "answer": "قَبُولًا حَسَنًا",
-          "explanation": "قَبُولًا ist das Masdar von قَبِلَ (Form I) im Akkusativ, nicht von تَقَبَّلَ (Form V, deren Masdar تَقَبُّل wäre). Beim Maf'ul Mutlaq kann der Masdar von einer verwandten, aber nicht identischen Verbform derselben Wurzel (ق-ب-ل) stammen. حَسَنًا ist das Adjektiv, das die Art des Annehmens beschreibt. Zusammen bilden sie einen artbestimmenden absoluten Akkusativ."
+          "explanation": "قَبُولًا ist das Masdar von قَبِلَ (Form I) im Akkusativ, nicht von تَقَبَّلَ (Form V, deren Masdar تَقَبُّل wäre). Beim Maf'ul Mutlaq kann der Masdar von einer verwandten, aber nicht identischen Verbform derselben Wurzel (ق-ب-ل) stammen. حَسَنًا ist das Adjektiv, das die Art des Annehmens beschreibt. Zusammen bilden sie einen artbestimmenden absoluten Akkusativ.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=37"
         },
         {
           "type": "multiple_choice",
@@ -171,7 +176,8 @@
           "type": "sentence_analysis",
           "prompt": "Analysiere: فَقَدَّرَهُ تَقْدِيرًا (25:2) — Bestimme das Verb, das Objekt und den absoluten Akkusativ.",
           "answer": "فَقَدَّرَهُ: Verb قَدَّرَ (Form II, Perfekt) + Pronominalsuffix هُ als direktes Objekt. تَقْدِيرًا: Masdar von قَدَّرَ im Akkusativ = absoluter Akkusativ (verstärkend).",
-          "explanation": "Das Verb قَدَّرَ (er bestimmte) wird durch sein eigenes Masdar تَقْدِيرًا verstärkt. Die Aussage wird dadurch nachdrücklich: Er hat es mit absoluter Bestimmung bestimmt."
+          "explanation": "Das Verb قَدَّرَ (er bestimmte) wird durch sein eigenes Masdar تَقْدِيرًا verstärkt. Die Aussage wird dadurch nachdrücklich: Er hat es mit absoluter Bestimmung bestimmt.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=25&verse=2"
         },
         {
           "type": "multiple_choice",
@@ -207,12 +213,14 @@
             {
               "arabic": "يَجْعَلُونَ أَصَابِعَهُمْ فِي آذَانِهِمْ ... حَذَرَ الْمَوْتِ",
               "transliteration": "yajʿalūna aṣābiʿahum fī āḏānihim ... ḥaḏara l-mawti",
-              "meaning": "Sie stecken ihre Finger in ihre Ohren ... aus Angst vor dem Tod (2:19)"
+              "meaning": "Sie stecken ihre Finger in ihre Ohren ... aus Angst vor dem Tod (2:19)",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=19"
             },
             {
               "arabic": "وَلَا تَقْتُلُوا أَوْلَادَكُمْ خَشْيَةَ إِمْلَاقٍ",
               "transliteration": "wa-lā taqtulū awlādakum ḫašyata imlāqin",
-              "meaning": "Und tötet nicht eure Kinder aus Angst vor Armut (17:31)"
+              "meaning": "Und tötet nicht eure Kinder aus Angst vor Armut (17:31)",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=17&verse=31"
             }
           ]
         },
@@ -250,7 +258,8 @@
               "arabic": "خَشْيَةَ إِمْلَاقٍ",
               "transliteration": "ḫašyata imlāqin",
               "meaning": "aus Angst vor Armut (17:31)",
-              "note": "Akkusativ des Grundes in Iḍāfa-Verbindung — häufiges Quran-Muster"
+              "note": "Akkusativ des Grundes in Iḍāfa-Verbindung — häufiges Quran-Muster",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=17&verse=31"
             },
             {
               "arabic": "مِنْ خَشْيَةِ اللَّهِ",
@@ -279,7 +288,7 @@
             {
               "location": "2:264",
               "word": "رِئَاءَ النَّاسِ",
-              "analysis": "Akkusativ des Grundes: 'um von den Menschen gesehen zu werden'. رِئَاء ist Masdar von رَاءَى (Form III). Beschreibt das verwerfliche Motiv des Spendens.",
+              "analysis": "Akkusativ des Grundes (مَفْعُول لِأَجْلِهِ): 'um von den Menschen gesehen zu werden'. رِئَاء ist Masdar von رَاءَى (Form III). Gibt den Grund der Handlung an.",
               "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=264"
             },
             {
@@ -321,13 +330,15 @@
             "Das direkte Objekt"
           ],
           "answer": "Den Grund der Handlung",
-          "explanation": "حَذَرَ الْمَوْتِ ist ein Akkusativ des Grundes. Er beantwortet die Frage WARUM sie ihre Finger in die Ohren stecken: aus Angst (حَذَر) vor dem Tod (الْمَوْت)."
+          "explanation": "حَذَرَ الْمَوْتِ ist ein Akkusativ des Grundes. Er beantwortet die Frage WARUM sie ihre Finger in die Ohren stecken: aus Angst (حَذَر) vor dem Tod (الْمَوْت).",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=19"
         },
         {
           "type": "identification",
           "prompt": "Identifiziere den Akkusativ des Grundes: وَلَا تَقْتُلُوا أَوْلَادَكُمْ خَشْيَةَ إِمْلَاقٍ (17:31)",
           "answer": "خَشْيَةَ إِمْلَاقٍ",
-          "explanation": "خَشْيَةَ (Angst) ist ein Masdar im Akkusativ, in Iḍāfa mit إِمْلَاقٍ (Armut). Es gibt den Grund an: 'aus Angst vor Armut'. Gott verbietet hier das Töten der Kinder wegen dieses (falschen) Grundes."
+          "explanation": "خَشْيَةَ (Angst) ist ein Masdar im Akkusativ, in Iḍāfa mit إِمْلَاقٍ (Armut). Es gibt den Grund an: 'aus Angst vor Armut'. Gott verbietet hier das Töten der Kinder wegen dieses (falschen) Grundes.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=17&verse=31"
         },
         {
           "type": "multiple_choice",
@@ -378,12 +389,14 @@
             {
               "arabic": "اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ · صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ",
               "transliteration": "ihdinā ṣ-ṣirāṭa l-mustaqīma · ṣirāṭa llaḏīna anʿamta ʿalayhim",
-              "meaning": "Führe uns den geraden Weg, den Weg derer, denen Du Gunst erwiesen hast (1:6-7)"
+              "meaning": "Führe uns den geraden Weg, den Weg derer, denen Du Gunst erwiesen hast (1:6-7)",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=6"
             },
             {
               "arabic": "لِلَّهِ عَلَى النَّاسِ حِجُّ الْبَيْتِ مَنِ اسْتَطَاعَ إِلَيْهِ سَبِيلًا",
               "transliteration": "li-llāhi ʿala n-nāsi ḥijju l-bayti mani staṭāʿa ilayhi sabīlan",
-              "meaning": "Gott gegenüber ist es Pflicht der Menschen — wer einen Weg dorthin finden kann — die Pilgerfahrt zum Haus (3:97)"
+              "meaning": "Gott gegenüber ist es Pflicht der Menschen — wer einen Weg dorthin finden kann — die Pilgerfahrt zum Haus (3:97)",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=97"
             }
           ]
         },
@@ -410,25 +423,29 @@
               "arabic": "صِرَاطَ الَّذِينَ أَنْعَمْتَ",
               "transliteration": "ṣirāṭa llaḏīna anʿamta",
               "meaning": "den Weg derer, denen Du Gunst erwiesen hast (1:7)",
-              "note": "Badal Kull min Kull — die Apposition ist mit dem Bezugswort identisch"
+              "note": "Badal Kull min Kull — die Apposition ist mit dem Bezugswort identisch",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=7"
             },
             {
               "arabic": "مَنِ اسْتَطَاعَ",
               "transliteration": "mani staṭāʿa",
               "meaning": "wer (dazu) fähig ist (3:97)",
-              "note": "Badal Baʿḍ min Kull — ein Teil (die Fähigen) des Ganzen (die Menschen)"
+              "note": "Badal Baʿḍ min Kull — ein Teil (die Fähigen) des Ganzen (die Menschen)",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=97"
             },
             {
               "arabic": "قُتِلَ أَصْحَابُ الْأُخْدُودِ · النَّارِ",
               "transliteration": "qutila aṣḥābu l-uḫdūdi · an-nāri",
               "meaning": "Verderben über die Graben-Leute, des Feuers (85:4-5) — قُتِلَ hier als Verwünschungsformel",
-              "note": "Badal Ištimāl — das Feuer ist ein Aspekt/Inhalt der Gräben"
+              "note": "Badal Ištimāl — das Feuer ist ein Aspekt/Inhalt der Gräben",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=85&verse=4"
             },
             {
               "arabic": "يَسْأَلُونَكَ عَنِ الشَّهْرِ الْحَرَامِ قِتَالٍ فِيهِ",
               "transliteration": "yasʾalūnaka ʿani š-šahri l-ḥarāmi qitālin fīhi",
               "meaning": "Sie fragen dich nach dem eingeschränkten Monat (الشَّهْرُ الْحَرَامُ: حَرَام = verboten/eingeschränkt) — Kampf darin (2:217)",
-              "note": "Badal Ištimāl — der Kampf ist ein Aspekt des eingeschränkten Monat (الشَّهْرُ الْحَرَامُ: حَرَام = verboten/eingeschränkt)s"
+              "note": "Badal Ištimāl — der Kampf ist ein Aspekt des eingeschränkten Monat (الشَّهْرُ الْحَرَامُ: حَرَام = verboten/eingeschränkt)s",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=217"
             }
           ]
         },
@@ -439,7 +456,8 @@
             {
               "location": "1:6-7",
               "word": "صِرَاطَ الَّذِينَ",
-              "analysis": "Badal Kull min Kull zu الصِّرَاطَ الْمُسْتَقِيمَ. Beide stehen im Akkusativ. Die Apposition definiert den geraden Weg als den Weg der Begünstigten."
+              "analysis": "Badal Kull min Kull zu الصِّرَاطَ الْمُسْتَقِيمَ. Beide stehen im Akkusativ. Die Apposition definiert den geraden Weg als den Weg der Begünstigten.",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=6"
             },
             {
               "location": "3:97",
@@ -492,19 +510,22 @@
             "Badal Ġalaṭ (Korrekturapposition)"
           ],
           "answer": "Badal Kull min Kull (Totalapposition)",
-          "explanation": "Der 'Weg derer, denen Du Gunst erwiesen hast' ist identisch mit dem 'geraden Weg'. Die Apposition ersetzt das Bezugswort vollständig und präzisiert es. Das ist Badal Kull min Kull."
+          "explanation": "Der 'Weg derer, denen Du Gunst erwiesen hast' ist identisch mit dem 'geraden Weg'. Die Apposition ersetzt das Bezugswort vollständig und präzisiert es. Das ist Badal Kull min Kull.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=7"
         },
         {
           "type": "case_determination",
           "prompt": "Warum steht صِرَاطَ in Vers 1:7 im Akkusativ?",
           "answer": "Weil es Apposition (Badal) zu الصِّرَاطَ ist, das im Akkusativ steht. Die Apposition übernimmt immer den Kasus des Bezugsworts.",
-          "explanation": "الصِّرَاطَ ist das direkte Objekt von اهْدِنَا und steht daher im Akkusativ. صِرَاطَ als Apposition muss denselben Kasus tragen — also ebenfalls Akkusativ."
+          "explanation": "الصِّرَاطَ ist das direkte Objekt von اهْدِنَا und steht daher im Akkusativ. صِرَاطَ als Apposition muss denselben Kasus tragen — also ebenfalls Akkusativ.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=7"
         },
         {
           "type": "identification",
           "prompt": "Identifiziere die Apposition und ihren Typ: لِلَّهِ عَلَى النَّاسِ حِجُّ الْبَيْتِ مَنِ اسْتَطَاعَ إِلَيْهِ سَبِيلًا (3:97)",
           "answer": "مَنِ اسْتَطَاعَ ist Apposition (Badal Baʿḍ min Kull) zu النَّاسِ — ein Teil (die Fähigen) des Ganzen (die Menschen).",
-          "explanation": "Nicht alle Menschen sind zur Pilgerfahrt verpflichtet, sondern nur diejenigen, die dazu in der Lage sind. مَنِ steht als Teilapposition im Genitiv wie النَّاسِ."
+          "explanation": "Nicht alle Menschen sind zur Pilgerfahrt verpflichtet, sondern nur diejenigen, die dazu in der Lage sind. مَنِ steht als Teilapposition im Genitiv wie النَّاسِ.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=97"
         },
         {
           "type": "multiple_choice",
@@ -534,7 +555,8 @@
           "type": "sentence_analysis",
           "prompt": "Analysiere den Appositionstyp: يَسْأَلُونَكَ عَنِ الشَّهْرِ الْحَرَامِ قِتَالٍ فِيهِ (2:217)",
           "answer": "قِتَالٍ فِيهِ ist Badal Ištimāl (Einschlussapposition) zu الشَّهْرِ الْحَرَامِ. Der Kampf ist ein Aspekt/Thema bezüglich des eingeschränkten Monat (الشَّهْرُ الْحَرَامُ: حَرَام = verboten/eingeschränkt)s. Beide stehen im Genitiv.",
-          "explanation": "Die Frage betrifft nicht den eingeschränkten Monat (الشَّهْرُ الْحَرَامُ: حَرَام = verboten/eingeschränkt) an sich, sondern den Kampf in ihm. Der Kampf ist ein Aspekt, der im eingeschränkten Monat (الشَّهْرُ الْحَرَامُ: حَرَام = verboten/eingeschränkt) enthalten/eingeschlossen ist. قِتَالٍ steht im Genitiv wie الشَّهْرِ — Kasusübernahme bestätigt die Apposition."
+          "explanation": "Die Frage betrifft nicht den eingeschränkten Monat (الشَّهْرُ الْحَرَامُ: حَرَام = verboten/eingeschränkt) an sich, sondern den Kampf in ihm. Der Kampf ist ein Aspekt, der im eingeschränkten Monat (الشَّهْرُ الْحَرَامُ: حَرَام = verboten/eingeschränkt) enthalten/eingeschlossen ist. قِتَالٍ steht im Genitiv wie الشَّهْرِ — Kasusübernahme bestätigt die Apposition.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=217"
         }
       ]
     },
@@ -564,7 +586,8 @@
             {
               "arabic": "فَشَرِبُوا مِنْهُ إِلَّا قَلِيلًا مِنْهُمْ",
               "transliteration": "fa-šaribū minhu illā qalīlan minhum",
-              "meaning": "Sie tranken davon, außer wenige von ihnen (2:249)"
+              "meaning": "Sie tranken davon, außer wenige von ihnen (2:249)",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=249"
             }
           ]
         },
@@ -656,12 +679,14 @@
             {
               "arabic": "لَوْ كَانَ فِيهِمَا آلِهَةٌ إِلَّا اللَّهُ لَفَسَدَتَا",
               "transliteration": "law kāna fīhimā ālihatun illā llāhu la-fasadatā",
-              "meaning": "Gäbe es in ihnen (Himmel und Erde) Götter außer Gott, wären sie verdorben (21:22)"
+              "meaning": "Gäbe es in ihnen (Himmel und Erde) Götter außer Gott, wären sie verdorben (21:22)",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=21&verse=22"
             },
             {
               "arabic": "هَلْ مِنْ خَالِقٍ غَيْرُ اللَّهِ",
               "transliteration": "hal min ḫāliqin ġayru llāhi",
-              "meaning": "Gibt es einen Schöpfer außer Gott? (35:3)"
+              "meaning": "Gibt es einen Schöpfer außer Gott? (35:3)",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=35&verse=3"
             }
           ]
         }
@@ -685,7 +710,8 @@
           "type": "case_determination",
           "prompt": "In welchem Kasus steht قَلِيلًا in فَشَرِبُوا مِنْهُ إِلَّا قَلِيلًا مِنْهُمْ (2:249) und warum?",
           "answer": "Akkusativ (قَلِيلًا mit Fatḥa-Tanwīn). Weil der Satz bejaht und vollständig ist — in diesem Fall steht das Ausgenommene IMMER im Akkusativ.",
-          "explanation": "فَشَرِبُوا ist ein bejahter Satz mit explizitem Subjekt (implizit im Verb). Bei bejahten, vollständigen Sätzen steht das Ausgenommene nach إِلَّا obligatorisch im Akkusativ."
+          "explanation": "فَشَرِبُوا ist ein bejahter Satz mit explizitem Subjekt (implizit im Verb). Bei bejahten, vollständigen Sätzen steht das Ausgenommene nach إِلَّا obligatorisch im Akkusativ.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=249"
         },
         {
           "type": "multiple_choice",
@@ -711,7 +737,8 @@
           "type": "sentence_analysis",
           "prompt": "Analysiere die Ausnahme-Konstruktion: وَمَنْ يَغْفِرُ الذُّنُوبَ إِلَّا اللَّهُ (3:135)",
           "answer": "Rhetorische Frage (= Verneinung). Kein Bezugswort explizit genannt (unvollständig). اللَّهُ steht im Nominativ nach Satzfunktion (Subjekt von يَغْفِرُ). Bedeutung: 'Niemand vergibt die Verfehlungen außer Gott.'",
-          "explanation": "Die rhetorische Frage مَنْ يَغْفِرُ hat die Kraft einer Verneinung: 'Niemand vergibt...' Da kein Bezugswort vor إِلَّا steht, ist der Satz unvollständig. اللَّهُ folgt der Satzfunktion als Subjekt von يَغْفِرُ und steht daher im Nominativ."
+          "explanation": "Die rhetorische Frage مَنْ يَغْفِرُ hat die Kraft einer Verneinung: 'Niemand vergibt...' Da kein Bezugswort vor إِلَّا steht, ist der Satz unvollständig. اللَّهُ folgt der Satzfunktion als Subjekt von يَغْفِرُ und steht daher im Nominativ.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=135"
         },
         {
           "type": "multiple_choice",
@@ -830,7 +857,8 @@
             {
               "location": "89:27-28",
               "word": "يَا أَيَّتُهَا النَّفْسُ الْمُطْمَئِنَّةُ ارْجِعِي",
-              "analysis": "Feminine Form أَيَّتُهَا für das feminine Nomen النَّفْسُ. الْمُطْمَئِنَّةُ ist Adjektiv (Naʿt) im Nominativ."
+              "analysis": "Feminine Form أَيَّتُهَا für das feminine Nomen النَّفْسُ. الْمُطْمَئِنَّةُ ist Adjektiv (Naʿt) im Nominativ.",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=89&verse=27"
             },
             {
               "location": "36:20",
@@ -864,7 +892,8 @@
             {
               "arabic": "يَا لَيْتَنِي كُنْتُ مَعَهُمْ",
               "transliteration": "yā laytanī kuntu maʿahum",
-              "meaning": "O hätte ich doch mit ihnen sein können! (4:73) — يَا leitet hier einen Wunsch ein"
+              "meaning": "O hätte ich doch mit ihnen sein können! (4:73) — يَا leitet hier einen Wunsch ein",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=73"
             }
           ]
         }
@@ -894,7 +923,8 @@
           "type": "identification",
           "prompt": "Identifiziere die Vokativ-Konstruktion und bestimme den Kasus des Angerufenen: يَا عِبَادِيَ الَّذِينَ أَسْرَفُوا (39:53)",
           "answer": "يَا — Vokativpartikel. عِبَادِيَ — Angerufenes (Munādā), Iḍāfa-Verbindung (عِبَاد + ي = meine Diener). Steht im Akkusativ (die Fatḥa auf dem ياء zeigt dies). الَّذِينَ أَسْرَفُوا — Relativsatz als Beschreibung.",
-          "explanation": "عِبَادِيَ ist eine Iḍāfa-Verbindung (مُضَاف + مُضَاف إِلَيْه). Da das Angerufene in einer Iḍāfa steht, muss es im Akkusativ stehen — nicht 'auf Ḍamma gebaut'."
+          "explanation": "عِبَادِيَ ist eine Iḍāfa-Verbindung (مُضَاف + مُضَاف إِلَيْه). Da das Angerufene in einer Iḍāfa steht, muss es im Akkusativ stehen — nicht 'auf Ḍamma gebaut'.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=39&verse=53"
         },
         {
           "type": "multiple_choice",
@@ -924,7 +954,8 @@
           "type": "sentence_analysis",
           "prompt": "Analysiere: يَا أَيَّتُهَا النَّفْسُ الْمُطْمَئِنَّةُ ارْجِعِي إِلَى رَبِّكِ (89:27-28)",
           "answer": "يَا — Vokativpartikel. أَيَّتُهَا — femininer Vermittler (أَيَّةُ + هَا), auf Ḍamma gebaut. النَّفْسُ — das Angerufene, steht als Naʿt/Badal im Nominativ. الْمُطْمَئِنَّةُ — Adjektiv (Naʿt) im Nominativ. ارْجِعِي — Imperativ (2. Sg. fem.): 'kehre zurück'. إِلَى رَبِّكِ — Präpositionalphrase: 'zu deinem Herrn'.",
-          "explanation": "Die feminine Form أَيَّتُهَا wird verwendet, weil النَّفْسُ (das Selbst) grammatisch feminin ist. Die gesamte Konstruktion ist ein Beispiel für den Quran-Vokativ: Der Textsprecher spricht das ruhige, zufriedene Selbst direkt an."
+          "explanation": "Die feminine Form أَيَّتُهَا wird verwendet, weil النَّفْسُ (das Selbst) grammatisch feminin ist. Die gesamte Konstruktion ist ein Beispiel für den Quran-Vokativ: Der Textsprecher spricht das ruhige, zufriedene Selbst direkt an.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=89&verse=27"
         }
       ]
     },
@@ -945,17 +976,20 @@
             {
               "arabic": "لَيْسَ كَمِثْلِهِ شَيْءٌ",
               "transliteration": "laysa ka-miṯlihi šayʾun",
-              "meaning": "Es gibt nichts, was Ihm gleicht (42:11)"
+              "meaning": "Es gibt nichts, was Ihm gleicht (42:11)",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=42&verse=11"
             },
             {
               "arabic": "لَسْتُمْ عَلَى شَيْءٍ",
               "transliteration": "lastum ʿalā šayʾin",
-              "meaning": "Ihr steht auf nichts / seid auf nichts gegründet (5:68)"
+              "meaning": "Ihr steht auf nichts / seid auf nichts gegründet (5:68)",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=5&verse=68"
             },
             {
               "arabic": "أَلَيْسَ اللَّهُ بِكَافٍ عَبْدَهُ",
               "transliteration": "a-laysa llāhu bi-kāfin ʿabdahu",
-              "meaning": "Ist Gott nicht Seinem Diener genügend? (39:36)"
+              "meaning": "Ist Gott nicht Seinem Diener genügend? (39:36)",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=39&verse=36"
             }
           ]
         },
@@ -967,7 +1001,8 @@
             {
               "arabic": "لَا رَيْبَ فِيهِ",
               "transliteration": "lā rayba fīhi",
-              "meaning": "Kein Zweifel ist darin (2:2)"
+              "meaning": "Kein Zweifel ist darin (2:2)",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=2"
             },
             {
               "arabic": "لَا إِلَهَ إِلَّا هُوَ",
@@ -989,17 +1024,20 @@
             {
               "arabic": "لَمْ يَلِدْ وَلَمْ يُولَدْ",
               "transliteration": "lam yalid wa-lam yūlad",
-              "meaning": "Er hat nicht gezeugt und wurde nicht gezeugt (112:3)"
+              "meaning": "Er hat nicht gezeugt und wurde nicht gezeugt (112:3)",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=112&verse=3"
             },
             {
               "arabic": "لَمْ يَكُن شَيْئًا مَّذْكُورًا",
               "transliteration": "lam yakun shayʾan madhkūran",
-              "meaning": "Er war nichts Erwähnenswertes (76:1)"
+              "meaning": "Er war nichts Erwähnenswertes (76:1)",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=76&verse=1"
             },
             {
               "arabic": "وَلَمْ يَكُن لَّهُ كُفُوًا أَحَدٌ",
               "transliteration": "wa-lam yakun lahu kufuwan aḥadun",
-              "meaning": "Und keiner ist Ihm ebenbürtig (112:4)"
+              "meaning": "Und keiner ist Ihm ebenbürtig (112:4)",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=112&verse=4"
             }
           ]
         },
@@ -1011,17 +1049,20 @@
             {
               "arabic": "لَنْ تَرَانِي",
               "transliteration": "lan tarānī",
-              "meaning": "Du wirst Mich nicht sehen (7:143)"
+              "meaning": "Du wirst Mich nicht sehen (7:143)",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=7&verse=143"
             },
             {
               "arabic": "لَنْ تَنَالُوا الْبِرَّ حَتَّىٰ تُنفِقُوا",
               "transliteration": "lan tanālū l-birra ḥattā tunfiqū",
-              "meaning": "Ihr werdet die Güte nicht erlangen, bis ihr ausgebt (3:92)"
+              "meaning": "Ihr werdet die Güte nicht erlangen, bis ihr ausgebt (3:92)",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=92"
             },
             {
               "arabic": "لَنْ يَخْلُقُوا ذُبَابًا",
               "transliteration": "lan yakhluqū dhubāban",
-              "meaning": "Sie werden niemals eine Fliege erschaffen (22:73)"
+              "meaning": "Sie werden niemals eine Fliege erschaffen (22:73)",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=22&verse=73"
             }
           ]
         },
@@ -1033,12 +1074,14 @@
             {
               "arabic": "إِنْ هُوَ إِلَّا وَحْيٌ يُوحَىٰ",
               "transliteration": "in huwa illā waḥyun yūḥā",
-              "meaning": "Es ist nichts anderes als eine Offenbarung, die offenbart wird (53:4)"
+              "meaning": "Es ist nichts anderes als eine Offenbarung, die offenbart wird (53:4)",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=53&verse=4"
             },
             {
               "arabic": "إِنْ هِيَ إِلَّا أَسْمَاءٌ سَمَّيْتُمُوهَا",
               "transliteration": "in hiya illā asmāʾun sammaytumūhā",
-              "meaning": "Es sind nur Namen, die ihr (ihnen) gegeben habt (53:23)"
+              "meaning": "Es sind nur Namen, die ihr (ihnen) gegeben habt (53:23)",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=53&verse=23"
             },
             {
               "arabic": "لَا إِلَٰهَ إِلَّا اللَّهُ",
@@ -1048,7 +1091,8 @@
             {
               "arabic": "لَا غَالِبَ لَكُمُ الْيَوْمَ إِلَّا مَنْ رَّحِمَ",
               "transliteration": "lā ghāliba lakumu l-yawma illā man raḥima",
-              "meaning": "Kein Besieger gegen euch heute, außer wem Er gnädig ist (vgl. 8:48, Kontext)"
+              "meaning": "Kein Besieger gegen euch heute, außer wem Er gnädig ist (vgl. 8:48, Kontext)",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=8&verse=48"
             }
           ]
         },
@@ -1075,25 +1119,29 @@
               "arabic": "لَيْسَ كَمِثْلِهِ شَيْءٌ",
               "transliteration": "laysa ka-miṯlihi šayʾun",
               "meaning": "Nichts ist Ihm gleich (42:11)",
-              "note": "لَيْسَ — verneint Nominalsatz. Subjekt شَيْءٌ (Nominativ), Prädikat كَمِثْلِهِ (Präp.phrase)"
+              "note": "لَيْسَ — verneint Nominalsatz. Subjekt شَيْءٌ (Nominativ), Prädikat كَمِثْلِهِ (Präp.phrase)",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=42&verse=11"
             },
             {
               "arabic": "لَا رَيْبَ فِيهِ",
               "transliteration": "lā rayba fīhi",
               "meaning": "Kein Zweifel darin (2:2)",
-              "note": "لَا النَّافِيَة لِلْجِنْسِ — absolute Gattungsverneinung. رَيْبَ auf Fatḥa gebaut"
+              "note": "لَا النَّافِيَة لِلْجِنْسِ — absolute Gattungsverneinung. رَيْبَ auf Fatḥa gebaut",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=2"
             },
             {
               "arabic": "مَا هَذَا بَشَرًا",
               "transliteration": "mā hāḏā bašaran",
               "meaning": "Dieser ist kein Mensch (12:31)",
-              "note": "مَا — verneint Nominalsatz (wie لَيْسَ in Ḥijāz-Dialekt). Prädikat im Akkusativ"
+              "note": "مَا — verneint Nominalsatz (wie لَيْسَ in Ḥijāz-Dialekt). Prädikat im Akkusativ",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=12&verse=31"
             },
             {
               "arabic": "لَا يُحِبُّ اللَّهُ الْجَهْرَ بِالسُّوءِ",
               "transliteration": "lā yuḥibbu llāhu l-jahra bi-s-sūʾi",
               "meaning": "Gott liebt nicht das laute Reden über Schlechtes (4:148)",
-              "note": "لَا + Imperfekt — einfache Verneinung eines Verbalsatzes"
+              "note": "لَا + Imperfekt — einfache Verneinung eines Verbalsatzes",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=148"
             }
           ]
         },
@@ -1153,7 +1201,8 @@
           "type": "identification",
           "prompt": "Warum steht رَيْبَ in لَا رَيْبَ فِيهِ (2:2) auf Fatḥa ohne Tanwīn?",
           "answer": "Weil es اسم لَا (Nomen der Gattungsverneinung) ist und auf Fatḥa GEBAUT wird (مَبْنِيّ عَلَى الْفَتْحِ), nicht im regulären Akkusativ steht.",
-          "explanation": "Bei der Gattungsverneinung (لَا النَّافِيَة لِلْجِنْسِ) wird das direkt folgende indefinite Einzelnomen auf Fatḥa gebaut — das heißt, die Fatḥa ist keine Kasusendung, sondern eine Bau-Endung (wie bei Indeklinabilia). Deshalb fehlt das Tanwīn."
+          "explanation": "Bei der Gattungsverneinung (لَا النَّافِيَة لِلْجِنْسِ) wird das direkt folgende indefinite Einzelnomen auf Fatḥa gebaut — das heißt, die Fatḥa ist keine Kasusendung, sondern eine Bau-Endung (wie bei Indeklinabilia). Deshalb fehlt das Tanwīn.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=2"
         },
         {
           "type": "multiple_choice",
@@ -1171,7 +1220,8 @@
           "type": "case_determination",
           "prompt": "Bestimme den Kasus von شَيْءٌ in لَيْسَ كَمِثْلِهِ شَيْءٌ (42:11) und seine syntaktische Funktion.",
           "answer": "شَيْءٌ steht im Nominativ (Ḍamma + Tanwīn). Es ist das اسم لَيْسَ (Subjekt von لَيْسَ).",
-          "explanation": "In diesem Vers ist die Wortstellung invertiert: Das Prädikat (كَمِثْلِهِ) steht VOR dem Subjekt (شَيْءٌ). Das Subjekt von لَيْسَ steht trotzdem im Nominativ. Übersetzung: 'Nichts ist Ihm gleich.'"
+          "explanation": "In diesem Vers ist die Wortstellung invertiert: Das Prädikat (كَمِثْلِهِ) steht VOR dem Subjekt (شَيْءٌ). Das Subjekt von لَيْسَ steht trotzdem im Nominativ. Übersetzung: 'Nichts ist Ihm gleich.'",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=42&verse=11"
         },
         {
           "type": "multiple_choice",
@@ -1183,13 +1233,15 @@
             "مَا macht das Prädikat immer definit"
           ],
           "answer": "Im Ḥijāz-Dialekt (und im Quran) kann مَا wie لَيْسَ wirken: Prädikat im Akkusativ",
-          "explanation": "Im Ḥijāz-Dialekt (der Dialekt des Quran) kann مَا einen Nominalsatz verneinen und das Prädikat in den Akkusativ setzen: مَا هَذَا بَشَرًا (12:31) — 'Dieser ist kein Mensch.' Dies gilt als مَا الْحِجَازِيَّة."
+          "explanation": "Im Ḥijāz-Dialekt (der Dialekt des Quran) kann مَا einen Nominalsatz verneinen und das Prädikat in den Akkusativ setzen: مَا هَذَا بَشَرًا (12:31) — 'Dieser ist kein Mensch.' Dies gilt als مَا الْحِجَازِيَّة.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=12&verse=31"
         },
         {
           "type": "sentence_analysis",
           "prompt": "Analysiere: لَا إِكْرَاهَ فِي الدِّينِ (2:256)",
           "answer": "لَا — Verneinungspartikel (Gattungsverneinung). إِكْرَاهَ — اسم لَا, auf Fatḥa gebaut, ohne Tanwīn: 'Zwang'. فِي الدِّينِ — Präpositionalphrase als خبر لَا: 'in der Religion'. Gesamtbedeutung: 'Es gibt keinerlei Zwang in der Religion.'",
-          "explanation": "إِكْرَاهَ ist ein Masdar (Verbal-Nomen von أَكْرَهَ, Form IV) und steht als اسم لَا auf Fatḥa gebaut. Die Gattungsverneinung verneint JEDE Form von Zwang absolut. Dies ist einer der berühmtesten Verse des Quran zur Religionsfreiheit."
+          "explanation": "إِكْرَاهَ ist ein Masdar (Verbal-Nomen von أَكْرَهَ, Form IV) und steht als اسم لَا auf Fatḥa gebaut. Die Gattungsverneinung verneint JEDE Form von Zwang absolut. Dies ist einer der berühmtesten Verse des Quran zur Religionsfreiheit.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=256"
         }
       ]
     },
@@ -1215,17 +1267,20 @@
             {
               "arabic": "قَدْ أَفْلَحَ الْمُؤْمِنُونَ",
               "transliteration": "qad aflaḥa l-muʾminūna",
-              "meaning": "Wahrhaftig erfolgreich sind die Vertrauenden (23:1)"
+              "meaning": "Wahrhaftig erfolgreich sind die Vertrauenden (23:1)",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=23&verse=1"
             },
             {
               "arabic": "لَقَدْ خَلَقْنَا الْإِنْسَانَ",
               "transliteration": "la-qad ḫalaqnā l-insāna",
-              "meaning": "Wahrlich, Wir haben den Menschen erschaffen (95:4)"
+              "meaning": "Wahrlich, Wir haben den Menschen erschaffen (95:4)",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=95&verse=4"
             },
             {
               "arabic": "قَدْ نَرَى تَقَلُّبَ وَجْهِكَ",
               "transliteration": "qad narā taqalluba wajhika",
-              "meaning": "Wir sehen wohl das Wenden deines Gesichts (2:144)"
+              "meaning": "Wir sehen wohl das Wenden deines Gesichts (2:144)",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=144"
             }
           ]
         },
@@ -1242,12 +1297,14 @@
             {
               "arabic": "إِنَّ الصَّلَاةَ كَانَتْ عَلَى الْمُؤْمِنِينَ كِتَابًا مَوْقُوتًا",
               "transliteration": "inna ṣ-ṣalāta kānat ʿalā l-muʾminīna kitāban mawqūtan",
-              "meaning": "Wahrlich, die Zuwendung (صَلَاة) ist den Vertrauenden zu festgesetzten Zeiten vorgeschrieben (4:103)"
+              "meaning": "Wahrlich, die Zuwendung (صَلَاة) ist den Vertrauenden zu festgesetzten Zeiten vorgeschrieben (4:103)",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=103"
             },
             {
               "arabic": "إِنَّ رَبَّكَ لَسَرِيعُ الْعِقَابِ",
               "transliteration": "inna rabbaka la-sarīʿu l-ʿiqābi",
-              "meaning": "Wahrlich, dein Herr ist schnell im Bestrafen (7:167)"
+              "meaning": "Wahrlich, dein Herr ist schnell im Bestrafen (7:167)",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=7&verse=167"
             }
           ]
         },
@@ -1315,12 +1372,14 @@
             {
               "arabic": "وَلَيَنْصُرَنَّ اللَّهُ مَنْ يَنْصُرُهُ",
               "transliteration": "wa-la-yanṣuranna llāhu man yanṣuruhu",
-              "meaning": "Und Gott wird gewiss dem helfen, der Ihm hilft (22:40)"
+              "meaning": "Und Gott wird gewiss dem helfen, der Ihm hilft (22:40)",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=22&verse=40"
             },
             {
               "arabic": "لَتُبْلَوُنَّ فِي أَمْوَالِكُمْ",
               "transliteration": "la-tublawunna fī amwālikum",
-              "meaning": "Ihr werdet gewiss in eurem Besitz geprüft werden (3:186)"
+              "meaning": "Ihr werdet gewiss in eurem Besitz geprüft werden (3:186)",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=186"
             }
           ]
         }
@@ -1356,7 +1415,8 @@
           "type": "identification",
           "prompt": "Identifiziere alle Bekräftigungselemente in: لَقَدْ خَلَقْنَا الْإِنْسَانَ فِي أَحْسَنِ تَقْوِيمٍ (95:4)",
           "answer": "Zwei Bekräftigungselemente: (1) لَ — Bekräftigungspräfix (لام التوكيد). (2) قَدْ — Bekräftigungspartikel vor Perfekt. Zusammen bilden sie die doppelte Bekräftigung لَقَدْ.",
-          "explanation": "لَقَدْ kombiniert zwei Bekräftigungswerkzeuge. Das لَ ist die لام القسم (Schwur-Lām) oder لام التوكيد, und قَدْ bestätigt die Gewissheit der Handlung. Diese Kombination ist im Quran das stärkste Mittel zur Bekräftigung von Fakten."
+          "explanation": "لَقَدْ kombiniert zwei Bekräftigungswerkzeuge. Das لَ ist die لام القسم (Schwur-Lām) oder لام التوكيد, und قَدْ bestätigt die Gewissheit der Handlung. Diese Kombination ist im Quran das stärkste Mittel zur Bekräftigung von Fakten.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=95&verse=4"
         },
         {
           "type": "multiple_choice",
@@ -1380,7 +1440,8 @@
           "type": "sentence_analysis",
           "prompt": "Analysiere alle Bekräftigungselemente in: وَلَيَنْصُرَنَّ اللَّهُ مَنْ يَنْصُرُهُ (22:40)",
           "answer": "Drei Bekräftigungselemente: (1) وَ — möglicherweise Schwur-Wāw. (2) لَ — Bekräftigungspräfix. (3) ـَنَّ — schwere Betonungsnūn am Verb يَنْصُرَنَّ. Das Verb verliert seine normale Endung und ist auf Fatḥa gebaut. Dreifache Bekräftigung: Gott WIRD gewiss helfen.",
-          "explanation": "Dies ist ein Beispiel für maximale Bekräftigung: لَ + Imperfekt + schwere Nūn. Das Verb يَنْصُرُ wird zu يَنْصُرَنَّ — die reguläre Ḍamma-Endung wird durch Fatḥa + Nūn ersetzt. Die dreifache Bekräftigung (لَ + Imperfekt + Nun at-Tawkid) verstärkt die Aussage maximal."
+          "explanation": "Dies ist ein Beispiel für maximale Bekräftigung: لَ + Imperfekt + schwere Nūn. Das Verb يَنْصُرُ wird zu يَنْصُرَنَّ — die reguläre Ḍamma-Endung wird durch Fatḥa + Nūn ersetzt. Die dreifache Bekräftigung (لَ + Imperfekt + Nun at-Tawkid) verstärkt die Aussage maximal.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=22&verse=40"
         }
       ]
     },
@@ -1514,7 +1575,8 @@
             {
               "location": "2:1-2",
               "word": "الْكِتَابُ لَا رَيْبَ فِيهِ",
-              "analysis": "الْكِتَابُ (definit) + Prädikativaussage: 'das Buch — kein Zweifel darin'. Kein Attribut, sondern Aussagesatz."
+              "analysis": "الْكِتَابُ (definit) + Prädikativaussage: 'das Buch — kein Zweifel darin'. Kein Attribut, sondern Aussagesatz.",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=1"
             },
             {
               "location": "59:23",
@@ -1591,7 +1653,8 @@
           "type": "sentence_analysis",
           "prompt": "Analysiere die Adjektiv-Kongruenz in: الْمَلِكُ الْقُدُّوسُ السَّلَامُ (59:23)",
           "answer": "Alle drei Wörter sind definit (الـ) und stehen im Nominativ. الْقُدُّوسُ und السَّلَامُ sind attributive Adjektive zu الْمَلِكُ (bzw. zum impliziten Subjekt اللَّهُ/هُوَ). Kongruenz: definit, maskulin, Singular, Nominativ — volle Übereinstimmung.",
-          "explanation": "In der Aufzählung attributiver Adjektive in Sure 59:23 sind alle Adjektive attributiv: definit wie das Bezugswort, maskulin, Singular und im Nominativ. Sie bilden eine Kette von Beschreibungen des Bezugsnomens."
+          "explanation": "In der Aufzählung attributiver Adjektive in Sure 59:23 sind alle Adjektive attributiv: definit wie das Bezugswort, maskulin, Singular und im Nominativ. Sie bilden eine Kette von Beschreibungen des Bezugsnomens.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=59&verse=23"
         }
       ]
     },
@@ -1617,17 +1680,20 @@
             {
               "arabic": "وَجَعَلْنَا اللَّيْلَ لِبَاسًا",
               "transliteration": "wa-jaʿalnā l-layla libāsan",
-              "meaning": "Und Wir machten die Nacht zu einer Hülle (78:10)"
+              "meaning": "Und Wir machten die Nacht zu einer Hülle (78:10)",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=78&verse=10"
             },
             {
               "arabic": "اتَّخَذُوا أَحْبَارَهُمْ وَرُهْبَانَهُمْ أَرْبَابًا",
               "transliteration": "ittaḫaḏū aḥbārahum wa-ruhbānahum arbāban",
-              "meaning": "Sie nahmen ihre Gelehrten und Mönche als Herren (9:31)"
+              "meaning": "Sie nahmen ihre Gelehrten und Mönche als Herren (9:31)",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=9&verse=31"
             },
             {
               "arabic": "وَجَعَلُوا الْمَلَائِكَةَ الَّذِينَ هُمْ عِبَادُ الرَّحْمَنِ إِنَاثًا",
               "transliteration": "wa-jaʿalū l-malāʾikata llaḏīna hum ʿibādu r-raḥmāni ināṯan",
-              "meaning": "Und sie machten die Engel zu Weiblichen (43:19)"
+              "meaning": "Und sie machten die Engel zu Weiblichen (43:19)",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=43&verse=19"
             }
           ]
         },
@@ -1639,17 +1705,20 @@
             {
               "arabic": "أَحَسِبَ النَّاسُ أَنْ يُتْرَكُوا",
               "transliteration": "a-ḥasiba n-nāsu an yutrakū",
-              "meaning": "Meinen die Menschen, dass sie in Ruhe gelassen werden? (29:2)"
+              "meaning": "Meinen die Menschen, dass sie in Ruhe gelassen werden? (29:2)",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=29&verse=2"
             },
             {
               "arabic": "يَحْسَبُهُمُ الْجَاهِلُ أَغْنِيَاءَ",
               "transliteration": "yaḥsabuhumu l-jāhilu aġniyāʾa",
-              "meaning": "Der Unwissende hält sie für reich (2:273)"
+              "meaning": "Der Unwissende hält sie für reich (2:273)",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=273"
             },
             {
               "arabic": "أَمْ حَسِبْتُمْ أَنْ تَدْخُلُوا الْجَنَّةَ",
               "transliteration": "am ḥasibtum an tadḫulū l-jannata",
-              "meaning": "Oder meint ihr, dass ihr den Garten betretet? (2:214)"
+              "meaning": "Oder meint ihr, dass ihr den Garten betretet? (2:214)",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=214"
             }
           ]
         },
@@ -1754,7 +1823,8 @@
           "type": "identification",
           "prompt": "Identifiziere die beiden Objekte in: وَجَعَلْنَا اللَّيْلَ لِبَاسًا (78:10)",
           "answer": "1. Objekt: اللَّيْلَ (die Nacht, Akkusativ). 2. Objekt: لِبَاسًا (eine Hülle, Akkusativ).",
-          "explanation": "جَعَلَ regiert zwei Akkusative: Das erste Objekt (اللَّيْلَ) ist das, was verwandelt wird. Das zweite Objekt (لِبَاسًا) ist das, wozu es verwandelt wird. Beide stehen im Akkusativ."
+          "explanation": "جَعَلَ regiert zwei Akkusative: Das erste Objekt (اللَّيْلَ) ist das, was verwandelt wird. Das zweite Objekt (لِبَاسًا) ist das, wozu es verwandelt wird. Beide stehen im Akkusativ.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=78&verse=10"
         },
         {
           "type": "multiple_choice",
@@ -1772,7 +1842,8 @@
           "type": "sentence_analysis",
           "prompt": "Analysiere: يَحْسَبُهُمُ الْجَاهِلُ أَغْنِيَاءَ (2:273)",
           "answer": "يَحْسَبُ — Verb (Imperfekt): 'er hält für'. هُمُ — 1. Objekt (Pronominalsuffix, Akkusativ): 'sie'. الْجَاهِلُ — Subjekt (Fāʿil, Nominativ): 'der Unwissende'. أَغْنِيَاءَ — 2. Objekt (Akkusativ, diptotisch ohne Tanwīn): 'für reich'.",
-          "explanation": "حَسِبَ ist ein Verb des Meinens (فعل القلوب). Es nimmt zwei Akkusative: هُمْ (sie = die Bedürftigen) und أَغْنِيَاءَ (reich). Der Unwissende hält sie fälschlicherweise für reich, weil sie nicht betteln."
+          "explanation": "حَسِبَ ist ein Verb des Meinens (فعل القلوب). Es nimmt zwei Akkusative: هُمْ (sie = die Bedürftigen) und أَغْنِيَاءَ (reich). Der Unwissende hält sie fälschlicherweise für reich, weil sie nicht betteln.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=273"
         },
         {
           "type": "multiple_choice",
@@ -1784,7 +1855,8 @@
             "أَعْطَيْ"
           ],
           "answer": "الْكَوْثَرَ",
-          "explanation": "أَعْطَى nimmt zwei Objekte: كَ (dich, 1. Objekt = der Empfänger) und الْكَوْثَرَ (al-Kauthar, 2. Objekt = das Gegebene). Beide stehen im Akkusativ."
+          "explanation": "أَعْطَى nimmt zwei Objekte: كَ (dich, 1. Objekt = der Empfänger) und الْكَوْثَرَ (al-Kauthar, 2. Objekt = das Gegebene). Beide stehen im Akkusativ.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=108&verse=1"
         },
         {
           "type": "fill_in",
@@ -1813,17 +1885,20 @@
             {
               "arabic": "يَكَادُ الْبَرْقُ يَخْطَفُ أَبْصَارَهُمْ",
               "transliteration": "yakādu l-barqu yaḫṭafu abṣārahum",
-              "meaning": "Der Blitz reißt beinahe ihre Blicke weg (2:20)"
+              "meaning": "Der Blitz reißt beinahe ihre Blicke weg (2:20)",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=20"
             },
             {
               "arabic": "عَسَى اللَّهُ أَنْ يَأْتِيَ بِالْفَتْحِ",
               "transliteration": "ʿasa llāhu an yaʾtiya bi-l-fatḥi",
-              "meaning": "Möge Gott den Sieg bringen / vielleicht bringt Gott den Sieg (5:52)"
+              "meaning": "Möge Gott den Sieg bringen / vielleicht bringt Gott den Sieg (5:52)",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=5&verse=52"
             },
             {
               "arabic": "عَسَى أَنْ تَكْرَهُوا شَيْئًا",
               "transliteration": "ʿasā an takrahū šayʾan",
-              "meaning": "Vielleicht verabscheut ihr etwas (2:216)"
+              "meaning": "Vielleicht verabscheut ihr etwas (2:216)",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=216"
             }
           ]
         },
@@ -1850,13 +1925,15 @@
               "arabic": "يَكَادُ زَيْتُهَا يُضِيءُ",
               "transliteration": "yakādu zaytuhā yuḍīʾu",
               "meaning": "Ihr Öl leuchtet beinahe (24:35)",
-              "note": "كَادَ — Annäherung: fast, beinahe. Prädikat OHNE أَنْ."
+              "note": "كَادَ — Annäherung: fast, beinahe. Prädikat OHNE أَنْ.",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=24&verse=35"
             },
             {
               "arabic": "عَسَى رَبُّكُمْ أَنْ يَرْحَمَكُمْ",
               "transliteration": "ʿasā rabbukum an yarḥamakum",
               "meaning": "Vielleicht erbarmt sich euer Herr eurer (17:8)",
-              "note": "عَسَى — Hoffnung/Erwartung. Prädikat MIT أَنْ. Grammatisch eine Möglichkeitspartikel, unabhängig vom Subjekt."
+              "note": "عَسَى — Hoffnung/Erwartung. Prädikat MIT أَنْ. Grammatisch eine Möglichkeitspartikel, unabhängig vom Subjekt.",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=17&verse=8"
             },
             {
               "arabic": "أَوْشَكَ أَنْ يَقَعَ",
@@ -1916,14 +1993,17 @@
             {
               "arabic": "فَذَبَحُوهَا وَمَا كَادُوا يَفْعَلُونَ",
               "transliteration": "fa-ḏabaḥūhā wa-mā kādū yafʿalūna",
-              "meaning": "Sie schlachteten sie, obwohl sie es fast nicht taten (2:71)"
+              "meaning": "Sie schlachteten sie, obwohl sie es fast nicht taten (2:71)",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=71"
             },
             {
               "arabic": "إِذَا أَخْرَجَ يَدَهُ لَمْ يَكَدْ يَرَاهَا",
               "transliteration": "iḏā aḫraja yadahu lam yakad yarāhā",
-              "meaning": "Wenn er seine Hand ausstreckt, kann er sie kaum sehen (24:40)"
+              "meaning": "Wenn er seine Hand ausstreckt, kann er sie kaum sehen (24:40)",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=24&verse=40"
             }
-          ]
+          ],
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=24&verse=40"
         }
       ]
     },
@@ -1939,7 +2019,8 @@
             "يَكَادُ"
           ],
           "answer": "يَخْطَفُ",
-          "explanation": "كَادَ funktioniert wie كَانَ: الْبَرْقُ ist das Subjekt (اسم, Nominativ), يَخْطَفُ ist das Prädikat (خبر). Der Unterschied zu كَانَ: Das Prädikat ist ein Imperfekt-Verb, kein Nomen oder Adjektiv."
+          "explanation": "كَادَ funktioniert wie كَانَ: الْبَرْقُ ist das Subjekt (اسم, Nominativ), يَخْطَفُ ist das Prädikat (خبر). Der Unterschied zu كَانَ: Das Prädikat ist ein Imperfekt-Verb, kein Nomen oder Adjektiv.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=20"
         },
         {
           "type": "multiple_choice",
@@ -1957,7 +2038,8 @@
           "type": "identification",
           "prompt": "Bestimme Subjekt und Prädikat von كَادَ: يَكَادُ زَيْتُهَا يُضِيءُ (24:35)",
           "answer": "Subjekt (اسم كَادَ): زَيْتُهَا (ihr Öl, Nominativ). Prädikat (خبر كَادَ): يُضِيءُ (leuchtet, Imperfekt-Verb ohne أَنْ).",
-          "explanation": "زَيْتُهَا steht im Nominativ als Subjekt von كَادَ. يُضِيءُ ist das Imperfekt-Verb, das als Prädikat fungiert. Bedeutung: Ihr Öl leuchtet beinahe (von selbst, auch ohne Feuer)."
+          "explanation": "زَيْتُهَا steht im Nominativ als Subjekt von كَادَ. يُضِيءُ ist das Imperfekt-Verb, das als Prädikat fungiert. Bedeutung: Ihr Öl leuchtet beinahe (von selbst, auch ohne Feuer).",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=24&verse=35"
         },
         {
           "type": "multiple_choice",
@@ -1975,7 +2057,8 @@
           "type": "sentence_analysis",
           "prompt": "Analysiere: فَذَبَحُوهَا وَمَا كَادُوا يَفْعَلُونَ (2:71)",
           "answer": "فَذَبَحُوهَا — 'Sie schlachteten sie.' وَ — Konjunktion. مَا — Verneinungspartikel. كَادُوا — كَادَ (Perfekt, 3. Pl. mask.) + Subjekt im Pronomen: 'sie waren beinahe nicht'. يَفْعَلُونَ — Prädikat von كَادَ: 'es zu tun'. Gesamtbedeutung: Sie schlachteten sie, obwohl sie es fast nicht taten / sie taten es nur widerwillig.",
-          "explanation": "Die Verneinung von كَادَ ist tückisch: مَا كَادُوا يَفْعَلُونَ bedeutet NICHT 'sie taten es nicht', sondern 'sie taten es beinahe nicht' = sie taten es schließlich doch, aber nur mit größter Mühe und Widerwillen. Die Kuh wurde geschlachtet, aber die Leute haben sich extrem dagegen gesträubt."
+          "explanation": "Die Verneinung von كَادَ ist tückisch: مَا كَادُوا يَفْعَلُونَ bedeutet NICHT 'sie taten es nicht', sondern 'sie taten es beinahe nicht' = sie taten es schließlich doch, aber nur mit größter Mühe und Widerwillen. Die Kuh wurde geschlachtet, aber die Leute haben sich extrem dagegen gesträubt.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=71"
         },
         {
           "type": "multiple_choice",

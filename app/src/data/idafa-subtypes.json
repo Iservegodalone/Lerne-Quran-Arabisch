@@ -3,8 +3,14 @@
     "title": "Idafa-Subtypen",
     "description": "Die drei semantischen Typen der Idafa-Konstruktion und ihre syntaktischen Eigenschaften.",
     "sources": [
-      {"label": "Wright's Grammar Vol II — Annexion (Idafa)", "url": "https://archive.org/details/WrightsArabicGrammar2Of2"},
-      {"label": "Quranic Arabic Corpus", "url": "https://corpus.quran.com"}
+      {
+        "label": "Wright's Grammar Vol II — Annexion (Idafa)",
+        "url": "https://archive.org/details/WrightsArabicGrammar2Of2"
+      },
+      {
+        "label": "Quranic Arabic Corpus",
+        "url": "https://corpus.quran.com"
+      }
     ]
   },
   "subtypes": [
@@ -19,14 +25,16 @@
           "transliteration": "kitābu llāhi",
           "meaning": "das Buch Gottes (= Gottes Buch)",
           "quranRef": "2:101",
-          "analysis": "كِتَاب (Mudaf, Nominativ) + اللَّه (Mudaf ilayh, Genitiv). Besitzverhältnis."
+          "analysis": "كِتَاب (Mudaf, Nominativ) + اللَّه (Mudaf ilayh, Genitiv). Besitzverhältnis.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=101"
         },
         {
           "arabic": "بَيْتُ اللَّهِ",
           "transliteration": "baytu llāhi",
           "meaning": "das Haus Gottes",
           "quranRef": "2:125 (vgl. بَيْتِيَ)",
-          "analysis": "بَيْت (Mudaf) + اللَّه (Mudaf ilayh). Das Haus gehört Gott. Die Verbindung بَيْتُ اللَّهِ ist keine wörtliche Quranstelle; in 2:125 steht بَيْتِيَ (mein Haus) als direkte Rede."
+          "analysis": "بَيْت (Mudaf) + اللَّه (Mudaf ilayh). Das Haus gehört Gott. Die Verbindung بَيْتُ اللَّهِ ist keine wörtliche Quranstelle; in 2:125 steht بَيْتِيَ (mein Haus) als direkte Rede.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=125"
         }
       ]
     },
@@ -41,14 +49,16 @@
           "transliteration": "jannātu ʿadnin",
           "meaning": "Gärten der Ewigkeit (= Gärten die aus ewigem Verweilen bestehen)",
           "quranRef": "9:72",
-          "analysis": "جَنَّات (Mudaf) + عَدْن (Mudaf ilayh). Die Gärten BESTEHEN AUS ewigem Verweilen."
+          "analysis": "جَنَّات (Mudaf) + عَدْن (Mudaf ilayh). Die Gärten BESTEHEN AUS ewigem Verweilen.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=9&verse=72"
         },
         {
           "arabic": "حَبْلِ الْوَرِيدِ",
           "transliteration": "ḥabli l-warīdi",
           "meaning": "die Halsschlagader (wörtlich: das Seil der Halsader)",
           "quranRef": "50:16",
-          "analysis": "حَبْل (Mudaf) + الْوَرِيد (Mudaf ilayh). حَبْل erklärt die ART: es ist die Ader."
+          "analysis": "حَبْل (Mudaf) + الْوَرِيد (Mudaf ilayh). حَبْل erklärt die ART: es ist die Ader.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=50&verse=16"
         }
       ]
     },
@@ -63,14 +73,16 @@
           "transliteration": "sarīʿu l-ḥisābi",
           "meaning": "schnell im Abrechnen",
           "quranRef": "2:202",
-          "analysis": "سَرِيع (Adjektiv, Mudaf) + الْحِسَاب (Mudaf ilayh). Das Adjektiv wird durch das Mudaf ilayh spezifiziert."
+          "analysis": "سَرِيع (Adjektiv, Mudaf) + الْحِسَاب (Mudaf ilayh). Das Adjektiv wird durch das Mudaf ilayh spezifiziert.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=202"
         },
         {
           "arabic": "شَدِيدُ الْعِقَابِ",
           "transliteration": "shadīdu l-ʿiqābi",
           "meaning": "streng in der Bestrafung",
           "quranRef": "2:196",
-          "analysis": "شَدِيد (Adjektiv, Mudaf) + الْعِقَاب (Mudaf ilayh). ACHTUNG: شَدِيد bleibt hier INDEFINIT trotz der Idafa."
+          "analysis": "شَدِيد (Adjektiv, Mudaf) + الْعِقَاب (Mudaf ilayh). ACHTUNG: شَدِيد bleibt hier INDEFINIT trotz der Idafa.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=196"
         }
       ]
     },
@@ -85,21 +97,24 @@
           "transliteration": "yawma l-qiyāmati",
           "meaning": "Tag der Auferstehung (= am Tag der Auferstehung)",
           "quranRef": "2:85",
-          "analysis": "يَوْم (Mudaf, Zarf Zaman — Zeitangabe) + الْقِيَامَة (Mudaf ilayh, Genitiv). Der Tag wird durch das Ereignis spezifiziert. Die Idafa trägt adverbiale Funktion: 'am Tag der Auferstehung'."
+          "analysis": "يَوْم (Mudaf, Zarf Zaman — Zeitangabe) + الْقِيَامَة (Mudaf ilayh, Genitiv). Der Tag wird durch das Ereignis spezifiziert. Die Idafa trägt adverbiale Funktion: 'am Tag der Auferstehung'.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=85"
         },
         {
           "arabic": "مَكْرَ اللَّيْلِ",
           "transliteration": "makra l-layli",
           "meaning": "List der Nacht / naechtliche List",
           "quranRef": "34:33",
-          "analysis": "مَكْر (Mudaf) + اللَّيْل (Mudaf ilayh, Genitiv). Hier fungiert اللَّيْل als zeitliche Spezifikation: die List, die IN der Nacht geschieht. Zarf Zaman."
+          "analysis": "مَكْر (Mudaf) + اللَّيْل (Mudaf ilayh, Genitiv). Hier fungiert اللَّيْل als zeitliche Spezifikation: die List, die IN der Nacht geschieht. Zarf Zaman.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=34&verse=33"
         },
         {
           "arabic": "عِنْدَ اللَّهِ",
           "transliteration": "ʿinda llāhi",
           "meaning": "bei Gott",
           "quranRef": "3:14",
-          "analysis": "عِنْدَ (Mudaf, Zarf Makan — Ortsangabe) + اللَّه (Mudaf ilayh, Genitiv). عِنْدَ ist ein nicht-flektierbarer Zarf, der stets als Mudaf steht. Zarf Makan."
+          "analysis": "عِنْدَ (Mudaf, Zarf Makan — Ortsangabe) + اللَّه (Mudaf ilayh, Genitiv). عِنْدَ ist ein nicht-flektierbarer Zarf, der stets als Mudaf steht. Zarf Makan.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=14"
         }
       ]
     }

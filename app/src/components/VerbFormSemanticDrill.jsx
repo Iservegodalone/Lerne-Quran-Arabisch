@@ -79,12 +79,12 @@ export default function VerbFormSemanticDrill() {
           <div key={i} style={{ ...cardStyle, borderLeft: f.form === 'I' ? '3px solid var(--accent-teal)' : '3px solid var(--border)' }}>
             <div style={{ display: 'flex', gap: 12, alignItems: 'baseline', marginBottom: 6 }}>
               <span style={{ fontWeight: 600, color: 'var(--accent-teal)', fontSize: '0.85rem', minWidth: 40 }}>Form {f.form}</span>
-              <span dir="rtl" style={{ ...arabicStyle, color: 'var(--text)' }}>{f.pattern}</span>
+              <span dir="rtl" style={{ ...arabicStyle, color: 'var(--text)' }}>{f.arabic}</span>
               <span style={{ color: 'var(--text)', fontSize: '0.9rem' }}>&mdash; {f.meaning}</span>
             </div>
-            {f.arabic && f.arabic !== '—' && (
+            {f.example && f.example !== '—' && (
               <div dir="rtl" style={{ ...arabicStyle, fontSize: '1.15rem', color: 'var(--text-secondary)', marginBottom: 4, lineHeight: 1.9, background: 'rgba(0,0,0,0.1)', padding: '6px 10px', borderRadius: 6 }}>
-                {f.arabic}
+                {f.example}
               </div>
             )}
             {f.ref && f.ref !== '—' && (
@@ -152,7 +152,7 @@ export default function VerbFormSemanticDrill() {
 
         <div style={{ marginBottom: 12, padding: 12, background: 'rgba(0,0,0,0.15)', borderRadius: 8 }}>
           <span style={{ fontWeight: 600, color: 'var(--accent-teal)' }}>Form {form.form}</span>
-          <span dir="rtl" style={{ ...arabicStyle, color: 'var(--text)', marginLeft: 12 }}>{form.pattern}</span>
+          <span dir="rtl" style={{ ...arabicStyle, color: 'var(--text)', marginLeft: 12 }}>{form.arabic}</span>
         </div>
 
         <p style={{ fontSize: '0.9rem', color: 'var(--text)', marginBottom: 8 }}>
@@ -185,10 +185,10 @@ export default function VerbFormSemanticDrill() {
               {form.note && (
                 <div style={{ fontSize: '0.82rem', color: 'var(--text-secondary)', fontStyle: 'italic', marginTop: 6 }}>{form.note}</div>
               )}
-              {form.arabic && form.arabic !== '—' && (
+              {form.example && form.example !== '—' && (
                 <div style={{ marginTop: 8 }}>
                   <div style={{ fontSize: '0.75rem', color: 'var(--text-secondary)' }}>{form.ref}</div>
-                  <div dir="rtl" style={{ ...arabicStyle, fontSize: '1.15rem', color: 'var(--text)', lineHeight: 1.9 }}>{form.arabic}</div>
+                  <div dir="rtl" style={{ ...arabicStyle, fontSize: '1.15rem', color: 'var(--text)', lineHeight: 1.9 }}>{form.example}</div>
                 </div>
               )}
             </div>

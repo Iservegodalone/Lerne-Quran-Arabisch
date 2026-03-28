@@ -28,7 +28,8 @@
           {
             "type": "explanation",
             "title": "Sätze في محل رفع (Nominativ-Position)",
-            "content": "Ein Satz nimmt eine Nominativ-Position ein, wenn er an der Stelle eines Subjekts oder Prädikats steht.\n\nALS MUBTADA': أَنْ تَصُومُوا خَيْرٌ لَّكُمْ (2:184)\nDer Masdar-Satz أَنْ تَصُومُوا steht في محل رفع مبتدأ. خَيْرٌ ist Khabar.\n\nALS KHABAR: هُوَ يَقُولُ الْحَقَّ\nDer Verbalsatz يَقُولُ الْحَقَّ steht في محل رفع خبر (Khabar des Nominalsatzes). هُوَ ist Mubtada.\n\nALS KHABAR NACH INNA: إِنَّ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ سَيَجْعَلُ لَهُمُ الرَّحْمَٰنُ وُدًّا\nDer Hauptsatz سَيَجْعَلُ... steht في محل رفع خبر inna. Khabar inna steht im Nominativ (nicht Akkusativ), weil إِنَّ nur das Ism (Subjekt) in den Akkusativ setzt, das Khabar (Prädikat) aber im Nominativ belaesst.\n\nALS FA'IL-ERSATZ (nach dem Passiv): قِيلَ ادْخُلُوا الْجَنَّةَ\nDer Imperativsatz ادْخُلُوا الْجَنَّةَ steht في محل رفع فاعل (oder نائب الفاعل nach قِيلَ)."
+            "content": "Ein Satz nimmt eine Nominativ-Position ein, wenn er an der Stelle eines Subjekts oder Prädikats steht.\n\nALS MUBTADA': أَنْ تَصُومُوا خَيْرٌ لَّكُمْ (2:184)\nDer Masdar-Satz أَنْ تَصُومُوا steht في محل رفع مبتدأ. خَيْرٌ ist Khabar.\n\nALS KHABAR: هُوَ يَقُولُ الْحَقَّ\nDer Verbalsatz يَقُولُ الْحَقَّ steht في محل رفع خبر (Khabar des Nominalsatzes). هُوَ ist Mubtada.\n\nALS KHABAR NACH INNA: إِنَّ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ سَيَجْعَلُ لَهُمُ الرَّحْمَٰنُ وُدًّا\nDer Hauptsatz سَيَجْعَلُ... steht في محل رفع خبر inna. Khabar inna steht im Nominativ (nicht Akkusativ), weil إِنَّ nur das Ism (Subjekt) in den Akkusativ setzt, das Khabar (Prädikat) aber im Nominativ belaesst.\n\nALS FA'IL-ERSATZ (nach dem Passiv): قِيلَ ادْخُلُوا الْجَنَّةَ\nDer Imperativsatz ادْخُلُوا الْجَنَّةَ steht في محل رفع فاعل (oder نائب الفاعل nach قِيلَ).",
+            "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=184"
           },
           {
             "type": "explanation",
@@ -71,7 +72,8 @@
         {
           "type": "analysis",
           "question": "قَالَ إِنِّي عَبْدُ اللَّهِ (19:30) — In welcher Position steht إِنِّي عَبْدُ اللَّهِ?",
-          "answer": "في محل نصب مفعول به (Objekt von قَالَ). Der ganze إِنَّ-Satz ist das Zitat, das 'Isa sagte — er nimmt Akkusativ-Position als indirektes Objekt ein. Intern: عَبْدُ اللَّهِ ist Khabar (Nominativ), den der Ism-inna (erwartet im Akkusativ) begleitet: إِنِّي = إِنَّ + Pronomen (Akkusativ = ي)."
+          "answer": "في محل نصب مفعول به (Objekt von قَالَ). Der ganze إِنَّ-Satz ist das Zitat, das 'Isa sagte — er nimmt Akkusativ-Position als indirektes Objekt ein. Intern: عَبْدُ اللَّهِ ist Khabar (Nominativ), den der Ism-inna (erwartet im Akkusativ) begleitet: إِنِّي = إِنَّ + Pronomen (Akkusativ = ي).",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=19&verse=30"
         }
       ],
       "testContent": {

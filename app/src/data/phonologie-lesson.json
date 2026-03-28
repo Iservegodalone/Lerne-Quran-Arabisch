@@ -79,12 +79,14 @@
               {
                 "arabic": "بَيْت",
                 "transliteration": "bayt",
-                "meaning": "/ay/ — Fatha + Ya mit Sukun: Haus (بَيْت, z.B. 2:125)"
+                "meaning": "/ay/ — Fatha + Ya mit Sukun: Haus (بَيْت, z.B. 2:125)",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=125"
               },
               {
                 "arabic": "قَوْم",
                 "transliteration": "qawm",
-                "meaning": "/aw/ — Fatha + Waw mit Sukun: Volk (2:54)"
+                "meaning": "/aw/ — Fatha + Waw mit Sukun: Volk (2:54)",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=54"
               }
             ]
           },
@@ -148,7 +150,8 @@
               {
                 "arabic": "نَصَرَ vs. نَاصِر",
                 "transliteration": "naṣara vs. naaṣir",
-                "meaning": "er half vs. Helfender (12:64, 3:150)"
+                "meaning": "er half vs. Helfender (12:64, 3:150)",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=12&verse=64"
               },
               {
                 "arabic": "عَلِمَ vs. عَالِم vs. عَلِيم",
@@ -372,8 +375,8 @@
                 "س /s/",
                 "ش /ʃ/",
                 "",
-                "",
                 "خ /x/",
+                "",
                 "ح /ħ/",
                 "ه /h/"
               ],
@@ -385,8 +388,8 @@
                 "ز /z/",
                 "",
                 "",
-                "",
                 "غ /ɣ/",
+                "",
                 "ع /ʕ/",
                 ""
               ],
@@ -548,7 +551,7 @@
               "ك /k/"
             ],
             "correct": 1,
-            "explanation": "ح /ħ/ ist ein stimmloser pharyngaler Frikativ. خ ist uvular, ه ist glottal, ك ist velar."
+            "explanation": "ح /ħ/ ist ein stimmloser pharyngaler Frikativ. خ ist velar (konventionell; phonetisch leicht weiter hinten), ه ist glottal, ك ist velar."
           },
           {
             "question": "Was unterscheidet ط von ت artikulatorisch?",
@@ -1124,17 +1127,20 @@
               {
                 "arabic": "مِنْ نَّعِيم",
                 "transliteration": "min naʿiim → min-naʿiim",
-                "meaning": "Nun + Nun: identische Konsonanten verschmelzen zu geminiertem /nn/. (102:8)"
+                "meaning": "Nun + Nun: identische Konsonanten verschmelzen zu geminiertem /nn/. (102:8)",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=102&verse=8"
               },
               {
                 "arabic": "قَدْ دَّخَلُوا",
                 "transliteration": "qad dakhaluu → qad-dakhaluu",
-                "meaning": "Dal + Dal: identische Konsonanten verschmelzen. (5:61)"
+                "meaning": "Dal + Dal: identische Konsonanten verschmelzen. (5:61)",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=5&verse=61"
               },
               {
                 "arabic": "مِنْ رَّبِّهِمْ",
                 "transliteration": "min rabbihim → mir-rabbihim",
-                "meaning": "Nun assimiliert sich vollständig an das folgende Ra. (2:5)"
+                "meaning": "Nun assimiliert sich vollständig an das folgende Ra. (2:5)",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=5"
               }
             ]
           },
@@ -1156,7 +1162,8 @@
               {
                 "arabic": "النَّاسِ",
                 "transliteration": "an-naasi (nicht: al-naasi)",
-                "meaning": "Lam assimiliert sich an Nun: /l/ → /n/. (114:1)"
+                "meaning": "Lam assimiliert sich an Nun: /l/ → /n/. (114:1)",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=114&verse=1"
               }
             ]
           },
@@ -1168,22 +1175,26 @@
               {
                 "arabic": "مِنْ لَّدُنْهُ",
                 "transliteration": "mil-ladunhu",
-                "meaning": "Nun assimiliert sich vollständig an Lam: /n/ → /l/. (18:2)"
+                "meaning": "Nun assimiliert sich vollständig an Lam: /n/ → /l/. (18:2)",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=18&verse=2"
               },
               {
                 "arabic": "مِنْ مَّاءٍ",
                 "transliteration": "mim-maaʔin",
-                "meaning": "Nun assimiliert sich vollständig an Mim: /n/ → /m/. (21:30)"
+                "meaning": "Nun assimiliert sich vollständig an Mim: /n/ → /m/. (21:30)",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=21&verse=30"
               },
               {
                 "arabic": "مَنْ يَعْمَلْ",
                 "transliteration": "may-yaʿmal",
-                "meaning": "Nun assimiliert sich partiell an Ya (mit Nasalierung). (4:123)"
+                "meaning": "Nun assimiliert sich partiell an Ya (mit Nasalierung). (4:123)",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=123"
               },
               {
                 "arabic": "مِنْ أَحَدٍ",
                 "transliteration": "min ʔaḥadin",
-                "meaning": "Vor Hamza bleibt Nun unverändert — keine Assimilation. (3:153)"
+                "meaning": "Vor Hamza bleibt Nun unverändert — keine Assimilation. (3:153)",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=153"
               }
             ]
           },
@@ -1272,7 +1283,8 @@
             "answer": [
               "Es assimiliert sich vollständig an das Ra"
             ],
-            "explanation": "Vor Ra assimiliert sich Nun vollständig: مِنْ رَبِّهِمْ wird zu mir-rabbihim. Das Ra trägt die Schadda als Zeichen der Gemination."
+            "explanation": "Vor Ra assimiliert sich Nun vollständig: مِنْ رَبِّهِمْ wird zu mir-rabbihim. Das Ra trägt die Schadda als Zeichen der Gemination.",
+            "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=5"
           },
           {
             "type": "multiple_choice",
@@ -1334,7 +1346,8 @@
               {
                 "arabic": "وَاسْتَغْفِرْ",
                 "transliteration": "was-tagh-fir",
-                "meaning": "Nach وَ fällt das Hamzat al-Wasl von اِسْتَغْفِرْ weg. (110:3)"
+                "meaning": "Nach وَ fällt das Hamzat al-Wasl von اِسْتَغْفِرْ weg. (110:3)",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=110&verse=3"
               }
             ]
           },
@@ -1351,7 +1364,8 @@
               {
                 "arabic": "نِعْمَةَ اللَّهِ",
                 "transliteration": "niʿmatal-laahi",
-                "meaning": "Ta Marbuta wird zu /t/ in verbundener Rede und leitet die nächste Silbe ein. (16:72)"
+                "meaning": "Ta Marbuta wird zu /t/ in verbundener Rede und leitet die nächste Silbe ein. (16:72)",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=16&verse=72"
               },
               {
                 "arabic": "سُورَةٌ",
@@ -1400,7 +1414,8 @@
               {
                 "arabic": "عَلَى اللَّهِ",
                 "transliteration": "ʿalal-laahi",
-                "meaning": "Das /aa/ von عَلَى verkürzt sich vor dem Hamzat al-Wasl, das dann fällt. (3:122)"
+                "meaning": "Das /aa/ von عَلَى verkürzt sich vor dem Hamzat al-Wasl, das dann fällt. (3:122)",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=122"
               }
             ]
           },

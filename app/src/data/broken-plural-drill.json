@@ -845,15 +845,18 @@
       "examples": [
         {
           "singular": "نَفْس → أَنْفُس",
-          "note": "أَفْعُل für Paukal (2:48)"
+          "note": "أَفْعُل für Paukal (2:48)",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=48"
         },
         {
           "singular": "قَلْب → قُلُوب",
-          "note": "فُعُول für Vielzahl (2:7)"
+          "note": "فُعُول für Vielzahl (2:7)",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=7"
         },
         {
           "singular": "يَوْم → أَيَّام",
-          "note": "أَفْعَال mit Assimilation (2:184)"
+          "note": "أَفْعَال mit Assimilation (2:184)",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=184"
         }
       ],
       "heuristic": "Einsilbige maskuline Nomen auf فَعْل nehmen meist أَفْعُل (Paukalplural) oder فُعُول (Vielzahlplural)."
@@ -868,15 +871,18 @@
       "examples": [
         {
           "singular": "كِتَاب → كُتُب",
-          "note": "فُعُل (2:213)"
+          "note": "فُعُل (2:213)",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=213"
         },
         {
           "singular": "رَسُول → رُسُل",
-          "note": "فُعُل (2:253)"
+          "note": "فُعُل (2:253)",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=253"
         },
         {
           "singular": "شَرِيك → شُرَكَاء",
-          "note": "فُعَلَاء bei Personen (6:22)"
+          "note": "فُعَلَاء bei Personen (6:22)",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=6&verse=22"
         }
       ],
       "heuristic": "Zweisilbige Nomen mit Langvokal nehmen häufig فُعُل. Personenbezeichnungen auf فَعِيل nehmen فُعَلَاء."
@@ -891,15 +897,18 @@
       "examples": [
         {
           "singular": "كَافِر → كُفَّار",
-          "note": "فُعَّال (3:131)"
+          "note": "فُعَّال (3:131)",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=131"
         },
         {
           "singular": "عَالِم → عُلَمَاء",
-          "note": "فُعَلَاء Sonderform (35:28)"
+          "note": "فُعَلَاء Sonderform (35:28)",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=35&verse=28"
         },
         {
           "singular": "فَاحِشَة → فَوَاحِش",
-          "note": "فَوَاعِل (6:151)"
+          "note": "فَوَاعِل (6:151)",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=6&verse=151"
         }
       ],
       "heuristic": "Maskuline Partizipien auf فَاعِل nehmen فُعَّال oder أَفْعَال. Feminine auf فَاعِلَة nehmen فَوَاعِل."
@@ -913,15 +922,18 @@
       "examples": [
         {
           "singular": "غُرْفَة → غُرَف",
-          "note": "Regelmäßig (34:37)"
+          "note": "Regelmäßig (34:37)",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=34&verse=37"
         },
         {
           "singular": "ظُلْمَة → ظُلَم",
-          "note": "Regelmäßig (2:257)"
+          "note": "Regelmäßig (2:257)",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=257"
         },
         {
           "singular": "حُجَّة → حُجَج",
-          "note": "Regelmäßig (2:150)"
+          "note": "Regelmäßig (2:150)",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=150"
         }
       ],
       "heuristic": "Feminine Nomen auf فُعْلَة nehmen fast immer فُعَل. Sehr regelmäßig."
@@ -935,11 +947,13 @@
       "examples": [
         {
           "singular": "قَبِيلَة → قَبَائِل",
-          "note": "Regelmäßig (49:13)"
+          "note": "Regelmäßig (49:13)",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=49&verse=13"
         },
         {
           "singular": "رِسَالَة → رَسَائِل",
-          "note": "Regelmäßig (7:79)"
+          "note": "Regelmäßig (7:79)",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=7&verse=79"
         },
         {
           "singular": "فَضِيلَة → فَضَائِل",
@@ -961,7 +975,8 @@
         },
         {
           "singular": "أَعْمَى / عَمْيَاء → عُمْي",
-          "note": "فُعْل (2:18)"
+          "note": "فُعْل (2:18)",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=18"
         }
       ],
       "heuristic": "Farb-/Defektadjektive auf أَفْعَل/فَعْلَاء nehmen فُعْل."
@@ -976,11 +991,13 @@
       "examples": [
         {
           "singular": "مَسْجِد → مَسَاجِد",
-          "note": "مَفَاعِل (2:114)"
+          "note": "مَفَاعِل (2:114)",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=114"
         },
         {
           "singular": "مَفْتَاح → مَفَاتِيح",
-          "note": "مَفَاعِيل (6:59)"
+          "note": "مَفَاعِيل (6:59)",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=6&verse=59"
         },
         {
           "singular": "مَدْرَسَة → مَدَارِس",
@@ -999,7 +1016,8 @@
       "examples": [
         {
           "singular": "سَكْرَان → سَكَارَى",
-          "note": "فَعَالَى (22:2)"
+          "note": "فَعَالَى (22:2)",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=22&verse=2"
         },
         {
           "singular": "كَسْلَان → كُسَالَى",
@@ -1018,11 +1036,13 @@
       "examples": [
         {
           "singular": "حِزْب → أَحْزَاب",
-          "note": "أَفْعَال (33:20)"
+          "note": "أَفْعَال (33:20)",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=33&verse=20"
         },
         {
           "singular": "جُنْد → جُنُود",
-          "note": "فُعُول (36:75)"
+          "note": "فُعُول (36:75)",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=36&verse=75"
         },
         {
           "singular": "عِلْم → عُلُوم",
@@ -1041,15 +1061,18 @@
       "examples": [
         {
           "singular": "جَبَل → جِبَال",
-          "note": "فِعَال (7:74)"
+          "note": "فِعَال (7:74)",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=7&verse=74"
         },
         {
           "singular": "ثَمَر → ثِمَار",
-          "note": "فِعَال (2:22)"
+          "note": "فِعَال (2:22)",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=22"
         },
         {
           "singular": "سَبَب → أَسْبَاب",
-          "note": "أَفْعَال (38:10)"
+          "note": "أَفْعَال (38:10)",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=38&verse=10"
         }
       ],
       "heuristic": "Nomen auf فَعَل nehmen häufig فِعَال oder أَفْعَال."
@@ -1066,7 +1089,8 @@
         "أَنْهَار (أَفْعَال)"
       ],
       "correct": 3,
-      "explanation": "نَهْر → أَنْهَار (أَفْعَال). Einsilbige Nomen auf فَعْل nehmen häufig أَفْعَال. Quranbeleg: 2:25."
+      "explanation": "نَهْر → أَنْهَار (أَفْعَال). Einsilbige Nomen auf فَعْل nehmen häufig أَفْعَال. Quranbeleg: 2:25.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=25"
     },
     {
       "type": "predict_plural_pattern",
@@ -1078,7 +1102,8 @@
         "صُحُب (فُعُل)"
       ],
       "correct": 1,
-      "explanation": "صَاحِب → أَصْحَاب (أَفْعَال, Sonderform). Quranbeleg: 18:9."
+      "explanation": "صَاحِب → أَصْحَاب (أَفْعَال, Sonderform). Quranbeleg: 18:9.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=18&verse=9"
     },
     {
       "type": "predict_plural_pattern",
@@ -1090,7 +1115,8 @@
         "مُلَّاك (فُعَّال)"
       ],
       "correct": 0,
-      "explanation": "مَلِك → مُلُوك (فُعُول). Quranbeleg: 54:37."
+      "explanation": "مَلِك → مُلُوك (فُعُول). Quranbeleg: 54:37.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=54&verse=37"
     },
     {
       "type": "predict_plural_pattern",
@@ -1102,7 +1128,8 @@
         "أَشْيَاط (أَفْعَال)"
       ],
       "correct": 0,
-      "explanation": "شَيْطَان → شَيَاطِين (فَعَالِيل). Nomen auf فَعْلَان nehmen فَعَالِيل. Quranbeleg: 2:14."
+      "explanation": "شَيْطَان → شَيَاطِين (فَعَالِيل). Nomen auf فَعْلَان nehmen فَعَالِيل. Quranbeleg: 2:14.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=14"
     },
     {
       "type": "predict_plural_pattern",
@@ -1114,7 +1141,8 @@
         "حَدِيقَات (gesund)"
       ],
       "correct": 0,
-      "explanation": "حَدِيقَة → حَدَائِق (فَعَائِل). Feminine Nomen auf فَعِيلَة nehmen fast immer فَعَائِل. Quranbeleg: 80:30."
+      "explanation": "حَدِيقَة → حَدَائِق (فَعَائِل). Feminine Nomen auf فَعِيلَة nehmen fast immer فَعَائِل. Quranbeleg: 80:30.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=80&verse=30"
     },
     {
       "type": "predict_plural_pattern",
@@ -1126,7 +1154,8 @@
         "نُزُل (فُعُل)"
       ],
       "correct": 0,
-      "explanation": "مَنْزِل → مَنَازِل (مَفَاعِل). Nomen mit مَـ-Präfix nehmen fast immer مَفَاعِل. Quranbeleg: 10:5."
+      "explanation": "مَنْزِل → مَنَازِل (مَفَاعِل). Nomen mit مَـ-Präfix nehmen fast immer مَفَاعِل. Quranbeleg: 10:5.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=10&verse=5"
     },
     {
       "type": "predict_plural_pattern",
@@ -1138,7 +1167,8 @@
         "عَظَائِم (فَعَائِل)"
       ],
       "correct": 0,
-      "explanation": "عَظِيم → عِظَام (فِعَال). Adjektive auf فَعِيل nehmen häufig فِعَال. Quranbeleg: 3:4."
+      "explanation": "عَظِيم → عِظَام (فِعَال). Adjektive auf فَعِيل nehmen häufig فِعَال. Quranbeleg: 3:4.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=4"
     },
     {
       "type": "predict_plural_pattern",
@@ -1150,7 +1180,8 @@
         "خِلَاف (فِعَال)"
       ],
       "correct": 2,
-      "explanation": "خَلِيفَة hat ZWEI quranische Plurale: خَلَائِف (35:39) nach Regel فَعِيلَة→فَعَائِل, UND خُلَفَاء (7:69) als Personenbezeichnung. Beide sind korrekt."
+      "explanation": "خَلِيفَة hat ZWEI quranische Plurale: خَلَائِف (35:39) nach Regel فَعِيلَة→فَعَائِل, UND خُلَفَاء (7:69) als Personenbezeichnung. Beide sind korrekt.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=35&verse=39"
     }
   ],
   "drillExercises": [

@@ -21,7 +21,8 @@
       "description": "Der Quran ist in 30 gleich grosse Abschnitte (Ajza') eingeteilt. Jeder Juz' umfasst ungefaehr 20 Seiten. Die Einteilung ist rein quantitativ, nicht thematisch.",
       "symbol": "جزء",
       "total": 30,
-      "note": "Juz' 1 beginnt bei 1:1 (al-Fatiha), Juz' 30 endet bei 114:6 (an-Nas). Juz' 30 wird auch عَمَّ (Amma) genannt, nach dem ersten Wort von Sure 78."
+      "note": "Juz' 1 beginnt bei 1:1 (al-Fatiha), Juz' 30 endet bei 114:6 (an-Nas). Juz' 30 wird auch عَمَّ (Amma) genannt, nach dem ersten Wort von Sure 78.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=1"
     },
     {
       "id": "hizb",
@@ -55,7 +56,8 @@
       "name": "Basmala (بسملة)",
       "symbol": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
       "description": "Steht vor jeder Sure AUSSER Sure 9 (at-Tawba). In Sure 1 (al-Fatiha) ist sie nach der gängigsten Zählkonvention (kufisch) der erste Vers. Andere Zählsysteme (basrisch) zählen sie nicht als eigenen Vers. In allen anderen Suren steht sie VOR dem ersten Vers und wird nicht als Vers gezählt.",
-      "note": "Sure 27:30 enthält eine Basmala INNERHALB des Verstextes (im Brief Salomos) — dort ist sie Teil des Verses selbst. Die Frage, ob die Basmala als eigener Vers zählt, betrifft nur die Basmala am Anfang der Suren (d.h. die formelhafte Einleitung vor dem ersten Vers)."
+      "note": "Sure 27:30 enthält eine Basmala INNERHALB des Verstextes (im Brief Salomos) — dort ist sie Teil des Verses selbst. Die Frage, ob die Basmala als eigener Vers zählt, betrifft nur die Basmala am Anfang der Suren (d.h. die formelhafte Einleitung vor dem ersten Vers).",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=27&verse=30"
     },
     {
       "id": "surah_header",

@@ -70,7 +70,7 @@ const meanings = {
   "ث م ن": "Preis, acht",
   "غ ر ب": "Westen, untergehen",
   "ب ل د": "Land, Stadt, Ortschaft",
-  "ر ش د": "rechtgeleitet sein, Besonnenheit",
+  "ر ش د": "den rechten Weg finden, Besonnenheit",
   "ص و ر": "Gestalt, Bild, Horn",
   "ط ل ع": "aufgehen, aufsteigen, Bluetenstand",
   "س ع ر": "entfachen, Flamme, Hoellenfeuer",

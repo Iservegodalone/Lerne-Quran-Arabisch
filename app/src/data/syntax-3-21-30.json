@@ -74,7 +74,8 @@
             {
               "arabic": "جَعَلَ الظُّلُمَاتِ وَالنُّورَ",
               "transliteration": "jaʿala ẓ-ẓulumāti wa-n-nūra",
-              "meaning": "Er machte die Finsternisse und das Licht (6:1) — gewöhnliches Verb"
+              "meaning": "Er machte die Finsternisse und das Licht (6:1) — gewöhnliches Verb",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=6&verse=1"
             }
           ]
         },
@@ -362,7 +363,8 @@
           "type": "sentence_analysis",
           "prompt": "Analysiere die Funktion von يَوْمَئِذٍ in: يَوْمَئِذٍ يَصْدُرُ النَّاسُ أَشْتَاتًا (99:6)",
           "answer": "يَوْمَئِذٍ ist ظرف زمان im Akkusativ. Es ist eine Zusammensetzung aus يَوْمَ (Tag) + إِذٍ (damals/dann). Bedeutung: An jenem Tag werden die Menschen in Gruppen hervorkommen.",
-          "explanation": "يَوْمَئِذٍ ist ein zusammengesetztes Zeitadverb. يَوْمَ ist مُضَاف und إِذٍ ist مُضَاف إِلَيْهِ im Genitiv. Das gesamte Wort steht als Zarf im Akkusativ."
+          "explanation": "يَوْمَئِذٍ ist ein zusammengesetztes Zeitadverb. يَوْمَ ist مُضَاف und إِذٍ ist مُضَاف إِلَيْهِ im Genitiv. Das gesamte Wort steht als Zarf im Akkusativ.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=99&verse=6"
         },
         {
           "type": "multiple_choice",
@@ -550,7 +552,8 @@
           "type": "sentence_analysis",
           "prompt": "Analysiere: وَاللَّهُ عِنْدَهُ حُسْنُ الثَّوَابِ (3:195)",
           "answer": "Subjekt (مُبْتَدَأ): اللَّهُ. Prädikat (خَبَر): عِنْدَهُ حُسْنُ الثَّوَابِ — ein vollständiger Nominalsatz. عِنْدَهُ ist Zarf (خَبَر مُقَدَّم), حُسْنُ الثَّوَابِ ist مُبْتَدَأ مُؤَخَّر. Typ: خَبَر جُمْلَة اِسْمِيَّة.",
-          "explanation": "Das Prädikat des äußeren Satzes ist selbst ein Nominalsatz. Das Pronomen هُ in عِنْدَهُ verweist auf اللَّهُ zurück — dies ist der رَابِط (Rückverweis)."
+          "explanation": "Das Prädikat des äußeren Satzes ist selbst ein Nominalsatz. Das Pronomen هُ in عِنْدَهُ verweist auf اللَّهُ zurück — dies ist der رَابِط (Rückverweis).",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=195"
         }
       ]
     },
@@ -718,7 +721,8 @@
             {
               "arabic": "نِعْمَ الْعَبْدُ",
               "transliteration": "niʿma l-ʿabdu",
-              "meaning": "vortrefflich ist der Diener (38:30)"
+              "meaning": "vortrefflich ist der Diener (38:30)",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=38&verse=30"
             },
             {
               "arabic": "بِئْسَ الْمَصِيرُ",
@@ -728,7 +732,8 @@
             {
               "arabic": "نِعْمَ الْمَوْلَى وَنِعْمَ النَّصِيرُ",
               "transliteration": "niʿma l-mawlā wa-niʿma n-naṣīru",
-              "meaning": "vortrefflich ist der Schutzherr und vortrefflich ist der Helfer (8:40)"
+              "meaning": "vortrefflich ist der Schutzherr und vortrefflich ist der Helfer (8:40)",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=8&verse=40"
             }
           ]
         },
@@ -745,12 +750,14 @@
             {
               "arabic": "بِئْسَمَا اشْتَرَوْا بِهِ أَنْفُسَهُمْ",
               "transliteration": "biʾsamā shtaraw bihi anfusahum",
-              "meaning": "schlecht ist das, womit sie sich selbst erkauft haben (2:90)"
+              "meaning": "schlecht ist das, womit sie sich selbst erkauft haben (2:90)",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=90"
             },
             {
               "arabic": "نِعِمَّا يَعِظُكُمْ بِهِ",
               "transliteration": "niʿimmā yaʿiẓukum bihi",
-              "meaning": "vortrefflich ist das, womit Er euch ermahnt (4:58)"
+              "meaning": "vortrefflich ist das, womit Er euch ermahnt (4:58)",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=58"
             }
           ]
         },
@@ -774,7 +781,8 @@
             {
               "arabic": "بِئْسَمَا اشْتَرَوْا",
               "transliteration": "biʾsamā shtaraw",
-              "meaning": "schlecht ist das, was sie erkauft haben (2:90)"
+              "meaning": "schlecht ist das, was sie erkauft haben (2:90)",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=90"
             },
             {
               "arabic": "فَبِئْسَ مَا يَشْتَرُونَ",
@@ -863,7 +871,8 @@
           "type": "sentence_analysis",
           "prompt": "Analysiere: بِئْسَمَا اشْتَرَوْا بِهِ أَنْفُسَهُمْ (2:90)",
           "answer": "بِئْسَ = Verb des Tadels. مَا = Subjekt (فَاعِل), fungiert als اسم موصول (das, was). اشْتَرَوْا بِهِ أَنْفُسَهُمْ = Relativsatz (صِلَة الْمَوْصُول): 'womit sie sich selbst erkauft haben'. Gesamtbedeutung: Schlecht ist das, womit sie sich selbst erkauft haben.",
-          "explanation": "مَا nach بِئْسَ fungiert als Relativpronomen und bildet das Subjekt. Der folgende Verbalsatz ist der Relativsatz. Die Konstruktion tadelt das Handeln der Angesprochenen."
+          "explanation": "مَا nach بِئْسَ fungiert als Relativpronomen und bildet das Subjekt. Der folgende Verbalsatz ist der Relativsatz. Die Konstruktion tadelt das Handeln der Angesprochenen.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=90"
         },
         {
           "type": "multiple_choice",
@@ -906,7 +915,8 @@
             {
               "arabic": "أَسْمِعْ بِهِمْ وَأَبْصِرْ",
               "transliteration": "asmiʿ bihim wa-abṣir",
-              "meaning": "wie hörend und sehend sind sie! (19:38)"
+              "meaning": "wie hörend und sehend sind sie! (19:38)",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=19&verse=38"
             }
           ]
         },
@@ -918,12 +928,14 @@
             {
               "arabic": "فَمَا أَصْبَرَهُمْ عَلَى النَّارِ",
               "transliteration": "fa-mā aṣbarahum ʿalā n-nāri",
-              "meaning": "wie geduldig sie mit dem Feuer sind! (2:175)"
+              "meaning": "wie geduldig sie mit dem Feuer sind! (2:175)",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=175"
             },
             {
               "arabic": "مَا أَغْنَى عَنْهُ مَالُهُ",
               "transliteration": "mā aghnā ʿanhu māluhu",
-              "meaning": "Kann auch Negation sein: Sein Vermögen nützte ihm nichts (111:2) — Kontext entscheidet!"
+              "meaning": "Kann auch Negation sein: Sein Vermögen nützte ihm nichts (111:2) — Kontext entscheidet!",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=111&verse=2"
             }
           ]
         },
@@ -935,7 +947,8 @@
             {
               "arabic": "أَسْمِعْ بِهِمْ وَأَبْصِرْ",
               "transliteration": "asmiʿ bihim wa-abṣir",
-              "meaning": "wie hörend und sehend sind sie! (19:38)"
+              "meaning": "wie hörend und sehend sind sie! (19:38)",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=19&verse=38"
             },
             {
               "arabic": "أَكْرِمْ بِزَيْدٍ",
@@ -1007,7 +1020,8 @@
           "type": "identification",
           "prompt": "Welche der beiden Exklamativ-Konstruktionen liegt in أَسْمِعْ بِهِمْ وَأَبْصِرْ (19:38) vor?",
           "answer": "Konstruktion 2: أَفْعِلْ بِهِ — Imperativform mit بِ als Exklamativ",
-          "explanation": "أَسْمِعْ بِهِمْ folgt dem Muster أَفْعِلْ بِهِ. Trotz der Imperativform ist es kein Befehl, sondern ein Ausruf: 'Wie hörend sind sie!'"
+          "explanation": "أَسْمِعْ بِهِمْ folgt dem Muster أَفْعِلْ بِهِ. Trotz der Imperativform ist es kein Befehl, sondern ein Ausruf: 'Wie hörend sind sie!'",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=19&verse=38"
         },
         {
           "type": "multiple_choice",
@@ -1031,7 +1045,8 @@
           "type": "sentence_analysis",
           "prompt": "Analysiere: قُتِلَ الْإِنْسَانُ مَا أَكْفَرَهُ (80:17)",
           "answer": "قُتِلَ الْإِنْسَانُ = Verflucht sei der Mensch (Passiv als Fluch). مَا = exklamatives مَا. أَكْفَرَ = Verb auf dem Muster أَفْعَلَ von ك-ف-ر (undankbar/ungläubig sein). هُ = Objekt (ihn). Gesamtbedeutung: Verflucht sei der Mensch — wie undankbar er ist!",
-          "explanation": "مَا أَكْفَرَهُ ist ein Exklamativsatz nach dem Muster مَا أَفْعَلَهُ. مَا ist nicht Negation, sondern Ausruf des Staunens über die Undankbarkeit des Menschen."
+          "explanation": "مَا أَكْفَرَهُ ist ein Exklamativsatz nach dem Muster مَا أَفْعَلَهُ. مَا ist nicht Negation, sondern Ausruf des Staunens über die Undankbarkeit des Menschen.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=80&verse=17"
         },
         {
           "type": "multiple_choice",
@@ -1209,7 +1224,8 @@
           "type": "sentence_analysis",
           "prompt": "Analysiere: وَهُمْ رُقُودٌ aus وَتَحْسَبُهُمْ أَيْقَاظًا وَهُمْ رُقُودٌ (18:18)",
           "answer": "وَ = واو الحالية. هُمْ = مُبْتَدَأ (Subjekt). رُقُودٌ = خَبَر (Prädikat, Plural von رَاقِد = schlafend). Der gesamte Satz ist جُمْلَة حَالِيَّة: 'während sie schliefen'. Kontrast zu تَحْسَبُهُمْ أَيْقَاظًا: 'du hältst sie für wach'.",
-          "explanation": "Der Zustandssatz وَهُمْ رُقُودٌ kontrastiert mit dem Hauptsatz: Man hält sie für wach (أَيْقَاظ), aber der wahre Zustand ist: sie schlafen (رُقُود). Die واو الحالية markiert diesen Kontrast."
+          "explanation": "Der Zustandssatz وَهُمْ رُقُودٌ kontrastiert mit dem Hauptsatz: Man hält sie für wach (أَيْقَاظ), aber der wahre Zustand ist: sie schlafen (رُقُود). Die واو الحالية markiert diesen Kontrast.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=18&verse=18"
         }
       ]
     },
@@ -1234,7 +1250,8 @@
             {
               "arabic": "لَوْلَا تَسْتَغْفِرُونَ اللَّهَ",
               "transliteration": "lawlā tastaghfirūna llāha",
-              "meaning": "warum sucht ihr nicht Vergebung bei Gott? (27:46) — Vorwurf"
+              "meaning": "warum sucht ihr nicht Vergebung bei Gott? (27:46) — Vorwurf",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=27&verse=46"
             },
             {
               "arabic": "لَوْلَا اللَّهُ لَهَلَكْنَا",
@@ -1251,12 +1268,14 @@
             {
               "arabic": "لَوْلَا تَسْتَغْفِرُونَ",
               "transliteration": "lawlā tastaghfirūna",
-              "meaning": "warum sucht ihr nicht Vergebung? (27:46)"
+              "meaning": "warum sucht ihr nicht Vergebung? (27:46)",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=27&verse=46"
             },
             {
               "arabic": "لَوْلَا جَاءُوا عَلَيْهِ بِأَرْبَعَةِ شُهَدَاءَ",
               "transliteration": "lawlā jāʾū ʿalayhi bi-arbaʿati shuhadāʾa",
-              "meaning": "warum brachten sie nicht vier Zeugen dafür? (24:13)"
+              "meaning": "warum brachten sie nicht vier Zeugen dafür? (24:13)",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=24&verse=13"
             },
             {
               "arabic": "هَلَّا فَعَلْتَ",
@@ -1286,12 +1305,14 @@
             {
               "arabic": "لَوْلَا أَنْتُمْ لَكُنَّا مُؤْمِنِينَ",
               "transliteration": "lawlā antum la-kunnā muʾminīna",
-              "meaning": "wenn ihr nicht gewesen wärt, wären wir Vertrauende geworden (34:31) — KONDITIONAL"
+              "meaning": "wenn ihr nicht gewesen wärt, wären wir Vertrauende geworden (34:31) — KONDITIONAL",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=34&verse=31"
             },
             {
               "arabic": "لَوْلَا أُنْزِلَ عَلَيْهِ مَلَكٌ",
               "transliteration": "lawlā unzila ʿalayhi malakun",
-              "meaning": "warum wurde kein Engel zu ihm herabgesandt? (6:8) — VORWURF"
+              "meaning": "warum wurde kein Engel zu ihm herabgesandt? (6:8) — VORWURF",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=6&verse=8"
             }
           ]
         },
@@ -1345,7 +1366,8 @@
           "type": "identification",
           "prompt": "Bestimme ob لَوْلَا konditional oder als Vorwurf verwendet wird: لَوْلَا أَنْتُمْ لَكُنَّا مُؤْمِنِينَ (34:31)",
           "answer": "Konditional (لَوْلَا الاِمْتِنَاعِيَّة). Nach لَوْلَا folgt ein Nomen (أَنْتُمْ), nicht ein Verb.",
-          "explanation": "Regel: Nomen nach لَوْلَا → konditional. Verb nach لَوْلَا → Vorwurf. Hier: أَنْتُمْ (Pronomen = Nomen) → 'wenn ihr nicht gewesen wärt'."
+          "explanation": "Regel: Nomen nach لَوْلَا → konditional. Verb nach لَوْلَا → Vorwurf. Hier: أَنْتُمْ (Pronomen = Nomen) → 'wenn ihr nicht gewesen wärt'.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=34&verse=31"
         },
         {
           "type": "matching",
@@ -1379,7 +1401,8 @@
           "type": "sentence_analysis",
           "prompt": "Analysiere: لَوْلَا أُنْزِلَ عَلَيْهِ مَلَكٌ (6:8)",
           "answer": "لَوْلَا = Vorwurfs-/Forderungspartikel (تحضيض), da ein Verb folgt. أُنْزِلَ = Perfekt Passiv (herabgesandt wurde). عَلَيْهِ = Präpositionalphrase (auf ihn). مَلَكٌ = Subjekt des Passivs (Stellvertreter-Subjekt, نائب فاعل) im Nominativ. Bedeutung: Warum wurde nicht ein Engel auf ihn herabgesandt?",
-          "explanation": "Die Leugnenden fordern mit لَوْلَا ein Zeichen. لَوْلَا + Verb = Vorwurf/Forderung. Das Verb ist Passiv, مَلَكٌ ist der نائب فاعل."
+          "explanation": "Die Leugnenden fordern mit لَوْلَا ein Zeichen. لَوْلَا + Verb = Vorwurf/Forderung. Das Verb ist Passiv, مَلَكٌ ist der نائب فاعل.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=6&verse=8"
         },
         {
           "type": "multiple_choice",
@@ -1412,12 +1435,14 @@
             {
               "arabic": "وَاسْأَلِ الْقَرْيَةَ",
               "transliteration": "wa-sʾali l-qaryata",
-              "meaning": "وَاسْأَلِ الْقَرْيَةَ — frag die Ortschaft (12:82). Der Text formuliert die Aufforderung so; die Grammatiktradition ergänzt أَهْلَ, doch syntaktisch ist der Satz vollständig."
+              "meaning": "وَاسْأَلِ الْقَرْيَةَ — frag die Ortschaft (12:82). Der Text formuliert die Aufforderung so; die Grammatiktradition ergänzt أَهْلَ, doch syntaktisch ist der Satz vollständig.",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=12&verse=82"
             },
             {
               "arabic": "حُرِّمَتْ عَلَيْكُمُ الْمَيْتَةُ",
               "transliteration": "ḥurrimat ʿalaykumu l-maytatu",
-              "meaning": "verboten wurde euch das Verendete (5:3). Der Text formuliert das Verbot so; die Grammatiktradition ergänzt أَكْلَ, doch syntaktisch ist der Satz vollständig."
+              "meaning": "verboten wurde euch das Verendete (5:3). Der Text formuliert das Verbot so; die Grammatiktradition ergänzt أَكْلَ, doch syntaktisch ist der Satz vollständig.",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=5&verse=3"
             }
           ]
         },
@@ -1459,12 +1484,14 @@
             {
               "arabic": "وَجَاءَ رَبُّكَ",
               "transliteration": "wa-jāʾa rabbuka",
-              "meaning": "und dein Herr kam (89:22) — impliziert: der Befehl/die Macht deines Herrn kam"
+              "meaning": "und dein Herr kam (89:22) — impliziert: der Befehl/die Macht deines Herrn kam",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=89&verse=22"
             },
             {
               "arabic": "يُرِيدُ أَنْ يَنْقَضَّ",
               "transliteration": "yurīdu an yanqaḍḍa",
-              "meaning": "sie (die Mauer) will einstürzen (18:77) — 'wollen' für eine Mauer? Metapher/Taqdīr"
+              "meaning": "sie (die Mauer) will einstürzen (18:77) — 'wollen' für eine Mauer? Metapher/Taqdīr",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=18&verse=77"
             }
           ]
         },
@@ -1512,13 +1539,15 @@
             "الَّذِينَ (diejenigen die)"
           ],
           "answer": "أَهْلَ (Bewohner)",
-          "explanation": "Das implizierte مُضَاف ist أَهْلَ: 'Frag die BEWOHNER des Dorfes.' Man kann ein Dorf nicht fragen — nur seine Bewohner."
+          "explanation": "Das implizierte مُضَاف ist أَهْلَ: 'Frag die BEWOHNER des Dorfes.' Man kann ein Dorf nicht fragen — nur seine Bewohner.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=12&verse=82"
         },
         {
           "type": "identification",
           "prompt": "Welches implizierte Element fehlt in حُرِّمَتْ عَلَيْكُمُ الْمَيْتَةُ (5:3)?",
           "answer": "أَكْلُ (das Essen) ist impliziert. Vollständig: حُرِّمَ عَلَيْكُمْ أَكْلُ الْمَيْتَةِ — verboten wurde euch das Essen des Verendeten.",
-          "explanation": "Nicht das tote Tier an sich ist verboten, sondern sein Verzehr. Das مُضَاف أَكْل wird impliziert."
+          "explanation": "Nicht das tote Tier an sich ist verboten, sondern sein Verzehr. Das مُضَاف أَكْل wird impliziert.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=5&verse=3"
         },
         {
           "type": "multiple_choice",
@@ -1542,7 +1571,8 @@
           "type": "sentence_analysis",
           "prompt": "Analysiere den Satz: وَجَاءَ رَبُّكَ (89:22) — und dein Herr kam. Ist dieser Satz grammatisch vollständig?",
           "answer": "Ja. وَجَاءَ (Verb, Perfekt) + رَبُّكَ (Subjekt, Nominativ + Possessivsuffix). Der Satz ist ein vollständiger Verbalsatz: Verb + Fa'il. Es gibt keinen syntaktischen Grund ein Wort zu ergänzen.",
-          "explanation": "Der Text sagt was er sagt. وَجَاءَ رَبُّكَ ist grammatisch: Verb + Subjekt. Die Ergänzung implizierter Wörter (Taqdir) ist nur dann grammatisch begründet wenn der Satz ohne sie syntaktisch unvollständig wäre — das ist hier nicht der Fall."
+          "explanation": "Der Text sagt was er sagt. وَجَاءَ رَبُّكَ ist grammatisch: Verb + Subjekt. Die Ergänzung implizierter Wörter (Taqdir) ist nur dann grammatisch begründet wenn der Satz ohne sie syntaktisch unvollständig wäre — das ist hier nicht der Fall.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=89&verse=22"
         },
         {
           "type": "multiple_choice",
@@ -1575,12 +1605,14 @@
             {
               "arabic": "وَإِذْ يَرْفَعُ إِبْرَاهِيمُ الْقَوَاعِدَ",
               "transliteration": "wa-idh yarfaʿu ibrāhīmu l-qawāʿida",
-              "meaning": "und als Ibrahim die Grundmauern ERHOB (2:127) — Imperfekt, obwohl Vergangenheit!"
+              "meaning": "und als Ibrahim die Grundmauern ERHOB (2:127) — Imperfekt, obwohl Vergangenheit!",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=127"
             },
             {
               "arabic": "إِذْ يَقُولُ لِصَاحِبِهِ",
               "transliteration": "idh yaqūlu li-ṣāḥibihi",
-              "meaning": "als er zu seinem Gefährten SAGTE (9:40) — Imperfekt für Vergangenheit"
+              "meaning": "als er zu seinem Gefährten SAGTE (9:40) — Imperfekt für Vergangenheit",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=9&verse=40"
             }
           ]
         },
@@ -1623,7 +1655,8 @@
             {
               "arabic": "وَإِذْ يَمْكُرُ بِكَ الَّذِينَ كَفَرُوا",
               "transliteration": "wa-idh yamkuru bika lladhīna kafarū",
-              "meaning": "und als diejenigen die ungläubig waren gegen dich PLANEN (8:30) — Imperfekt vergegenwärtigt die Bedrohung"
+              "meaning": "und als diejenigen die ungläubig waren gegen dich PLANEN (8:30) — Imperfekt vergegenwärtigt die Bedrohung",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=8&verse=30"
             }
           ]
         },
@@ -1683,7 +1716,8 @@
           "type": "identification",
           "prompt": "Identifiziere das historische Präsens in: وَإِذْ يَرْفَعُ إِبْرَاهِيمُ الْقَوَاعِدَ مِنَ الْبَيْتِ (2:127)",
           "answer": "يَرْفَعُ ist das historische Präsens. Es steht im Imperfekt, obwohl die Handlung (Ibrahim baut die Kaaba) in der fernen Vergangenheit liegt. إِذْ markiert die Vergangenheit.",
-          "explanation": "Gewöhnlich wäre hier das Perfekt رَفَعَ zu erwarten. Der Quran verwendet das Imperfekt يَرْفَعُ, um den Leser als Augenzeugen in die Szene zu versetzen."
+          "explanation": "Gewöhnlich wäre hier das Perfekt رَفَعَ zu erwarten. Der Quran verwendet das Imperfekt يَرْفَعُ, um den Leser als Augenzeugen in die Szene zu versetzen.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=127"
         },
         {
           "type": "multiple_choice",
@@ -1707,7 +1741,8 @@
           "type": "sentence_analysis",
           "prompt": "Analysiere den Tempuswechsel in: إِذْ يَقُولُ لِصَاحِبِهِ لَا تَحْزَنْ إِنَّ اللَّهَ مَعَنَا (9:40)",
           "answer": "إِذْ = Zeitadverb der Vergangenheit ('als'). يَقُولُ = Imperfekt ('er sagt') — historisches Präsens statt des erwarteten قَالَ (er sagte). لِصَاحِبِهِ = zu seinem Gefährten. لَا تَحْزَنْ = sei nicht traurig (Imperativ). إِنَّ اللَّهَ مَعَنَا = wahrlich, Gott ist mit uns. Rhetorische Wirkung: Der Leser hört die Worte als gegenwärtig — die Szene wird vergegenwärtigt.",
-          "explanation": "Der Quran hätte إِذْ قَالَ (als er sagte) verwenden können, wählt aber إِذْ يَقُولُ. Dies versetzt den Leser in die Szene und lässt ihn die Worte als gegenwärtig erleben."
+          "explanation": "Der Quran hätte إِذْ قَالَ (als er sagte) verwenden können, wählt aber إِذْ يَقُولُ. Dies versetzt den Leser in die Szene und lässt ihn die Worte als gegenwärtig erleben.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=9&verse=40"
         },
         {
           "type": "matching",

@@ -84,12 +84,14 @@
         {
           "type": "identification",
           "prompt": "Bestimme in den folgenden Versen die Satzart (Verbal- oder Nominalsatz) und prüfe, ob Default-Wortstellung vorliegt:\n1) كَتَبَ رَبُّكُمْ عَلَىٰ نَفْسِهِ الرَّحْمَةَ (6:54)\n2) اللَّهُ لَطِيفٌ بِعِبَادِهِ (42:19)",
-          "hint": "Prüfe: Steht das Verb vor dem Subjekt? Steht Mubtada vor Khabar? Wenn ja, ist es Default-Stellung."
+          "hint": "Prüfe: Steht das Verb vor dem Subjekt? Steht Mubtada vor Khabar? Wenn ja, ist es Default-Stellung.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=6&verse=54"
         },
         {
           "type": "analysis",
           "prompt": "Lies 2:255 (2:255). Identifiziere alle Sätze. Welche folgen der Default-Abfolge (VSO bzw. Mubtada-Khabar) und welche weichen davon ab?",
-          "hint": "اللَّهُ لَا إِلَٰهَ إِلَّا هُوَ beginnt mit Mubtada — aber was folgt? لَا تَأْخُذُهُ سِنَةٌ beginnt mit Negation + Verb — wo steht das Subjekt?"
+          "hint": "اللَّهُ لَا إِلَٰهَ إِلَّا هُوَ beginnt mit Mubtada — aber was folgt? لَا تَأْخُذُهُ سِنَةٌ beginnt mit Negation + Verb — wo steht das Subjekt?",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=255"
         }
       ]
     },
@@ -107,7 +109,8 @@
           {
             "type": "explanation",
             "title": "Hasr durch Voranstellung — das Muster",
-            "content": "Vergleich:\n\n• الْحَمْدُ لِلَّهِ — 'Das Lob gehört Gott' (Default: Mubtada-Khabar, neutrale Aussage)\n• لِلَّهِ الْحَمْدُ — 'Gott gehört das Lob' (Khabar vorangestellt: Restriktion/Hasr)\n\nBei vorangestelltem Khabar wird das Mubtada auf den genannten Khabar eingeschränkt. Die Voranstellung erzeugt syntaktisch eine Hasr-Struktur (Restriktion/Einschränkung).\n\nWichtig: Die Form الْحَمْدُ لِلَّهِ in 1:2 ist Default-Abfolge (Mubtada-Khabar). Ob hier ebenfalls Hasr vorliegt, ist syntaktisch aus der Wortstellung allein nicht ableitbar — dafuer wäre eine Voranstellung des Khabar nötig."
+            "content": "Vergleich:\n\n• الْحَمْدُ لِلَّهِ — 'Das Lob gehört Gott' (Default: Mubtada-Khabar, neutrale Aussage)\n• لِلَّهِ الْحَمْدُ — 'Gott gehört das Lob' (Khabar vorangestellt: Restriktion/Hasr)\n\nBei vorangestelltem Khabar wird das Mubtada auf den genannten Khabar eingeschränkt. Die Voranstellung erzeugt syntaktisch eine Hasr-Struktur (Restriktion/Einschränkung).\n\nWichtig: Die Form الْحَمْدُ لِلَّهِ in 1:2 ist Default-Abfolge (Mubtada-Khabar). Ob hier ebenfalls Hasr vorliegt, ist syntaktisch aus der Wortstellung allein nicht ableitbar — dafuer wäre eine Voranstellung des Khabar nötig.",
+            "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=2"
           },
           {
             "type": "quranExamples",
@@ -164,7 +167,8 @@
               {
                 "ref": "88:25-26",
                 "arabic": "إِنَّ إِلَيْنَا إِيَابَهُمْ ○ ثُمَّ إِنَّ عَلَيْنَا حِسَابَهُمْ",
-                "explanation": "Innerhalb des إِنَّ-Satzes: Khabar (إِلَيْنَا / عَلَيْنَا) vorangestellt vor das Ism von إِنَّ (إِيَابَهُمْ / حِسَابَهُمْ). Ihre Rückkehr ist zu uns — und nur zu uns. Ihre Abrechnung obliegt uns — und nur uns."
+                "explanation": "Innerhalb des إِنَّ-Satzes: Khabar (إِلَيْنَا / عَلَيْنَا) vorangestellt vor das Ism von إِنَّ (إِيَابَهُمْ / حِسَابَهُمْ). Ihre Rückkehr ist zu uns — und nur zu uns. Ihre Abrechnung obliegt uns — und nur uns.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=88&verse=25"
               }
             ]
           }
@@ -174,12 +178,14 @@
         {
           "type": "identification",
           "prompt": "Prüfe in den folgenden Versen: Liegt Default-Abfolge (Mubtada-Khabar) oder Voranstellung des Khabar vor?\n1) الْحَمْدُ لِلَّهِ (1:2)\n2) لِلَّهِ مُلْكُ السَّمَاوَاتِ (42:49)\n3) اللَّهُ نُورُ السَّمَاوَاتِ وَالْأَرْضِ (24:35)\n4) وَلِلَّهِ الْعِزَّةُ وَلِرَسُولِهِ (63:8)",
-          "hint": "Identifiziere zuerst Mubtada und Khabar. Mubtada ist typischerweise definit (mit ال oder Pronomen). Khabar ist die Prädikation. Steht Khabar vor Mubtada?"
+          "hint": "Identifiziere zuerst Mubtada und Khabar. Mubtada ist typischerweise definit (mit ال oder Pronomen). Khabar ist die Prädikation. Steht Khabar vor Mubtada?",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=2"
         },
         {
           "type": "analysis",
           "prompt": "In 63:8 steht وَلِلَّهِ الْعِزَّةُ وَلِرَسُولِهِ وَلِلْمُؤْمِنِينَ. Analysiere die Wortstellung: Ist Khabar vorangestellt? Wenn ja, was ist der strukturelle Effekt? Und: Liegt hier eine Reihung von drei Khabar-Voranstellungen vor?",
-          "hint": "لِلَّهِ ist Khabar, الْعِزَّةُ ist Mubtada. Die Struktur wiederholt sich mit وَلِرَسُولِهِ und وَلِلْمُؤْمِنِينَ — aber sind die letzten beiden eigenständige Sätze oder Konjunktionen zum Khabar?"
+          "hint": "لِلَّهِ ist Khabar, الْعِزَّةُ ist Mubtada. Die Struktur wiederholt sich mit وَلِرَسُولِهِ und وَلِلْمُؤْمِنِينَ — aber sind die letzten beiden eigenständige Sätze oder Konjunktionen zum Khabar?",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=63&verse=8"
         }
       ]
     },
@@ -247,12 +253,14 @@
         {
           "type": "comparison",
           "prompt": "Vergleiche:\n• نَعْبُدُكَ (hypothetisch, Default)\n• إِيَّاكَ نَعْبُدُ (1:5, tatsächlich)\n\nBeschreibe den strukturellen Unterschied. Welches Satzglied steht an welcher Position? Welcher syntaktische Effekt entsteht durch die Umstellung?",
-          "hint": "In der Default-Form ist das Pronomen suffigiert und unselbstständig. In der vorangestellten Form ist es getrennt (munfasil) und trägt den Informationsschwerpunkt."
+          "hint": "In der Default-Form ist das Pronomen suffigiert und unselbstständig. In der vorangestellten Form ist es getrennt (munfasil) und trägt den Informationsschwerpunkt.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=5"
         },
         {
           "type": "identification",
           "prompt": "Identifiziere in 36:12 (وَكُلَّ شَيْءٍ أَحْصَيْنَاهُ فِي إِمَامٍ مُّبِينٍ) das vorangestellte Satzglied und das resumptive Pronomen. Warum steht ـهُ am Verb, obwohl كُلَّ شَيْءٍ schon das Objekt ist?",
-          "hint": "Das Pronomen am Verb nimmt das vorangestellte Objekt wieder auf. Dies ist ein syntaktisches Signal: Das Element vor dem Verb ist aus seiner Default-Position herausbewegt."
+          "hint": "Das Pronomen am Verb nimmt das vorangestellte Objekt wieder auf. Dies ist ein syntaktisches Signal: Das Element vor dem Verb ist aus seiner Default-Position herausbewegt.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=36&verse=12"
         }
       ]
     },
@@ -274,7 +282,8 @@
               {
                 "ref": "1:6-7",
                 "arabic": "صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ",
-                "explanation": "Hier steht عَلَيْهِمْ NACH dem Verb أَنْعَمْتَ — Default-Abfolge. Verb (أَنْعَمْتَ) vor Präpositionalphrase (عَلَيْهِمْ). Unmarkiert."
+                "explanation": "Hier steht عَلَيْهِمْ NACH dem Verb أَنْعَمْتَ — Default-Abfolge. Verb (أَنْعَمْتَ) vor Präpositionalphrase (عَلَيْهِمْ). Unmarkiert.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=6"
               },
               {
                 "ref": "1:7",
@@ -291,7 +300,8 @@
               {
                 "ref": "96:1-2",
                 "arabic": "اقْرَأْ بِاسْمِ رَبِّكَ الَّذِي خَلَقَ ○ خَلَقَ الْإِنسَانَ مِنْ عَلَقٍ",
-                "explanation": "Default: Verb (خَلَقَ) — Objekt (الْإِنسَانَ) — PP (مِنْ عَلَقٍ). Unmarkierte Abfolge als Kontrastbasis."
+                "explanation": "Default: Verb (خَلَقَ) — Objekt (الْإِنسَانَ) — PP (مِنْ عَلَقٍ). Unmarkierte Abfolge als Kontrastbasis.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=96&verse=1"
               },
               {
                 "ref": "2:22",
@@ -325,12 +335,14 @@
         {
           "type": "comparison",
           "prompt": "Vergleiche diese zwei Strukturen:\n• الْخَيْرُ بِيَدِكَ (hypothetisch, Default)\n• بِيَدِكَ الْخَيْرُ (3:26, tatsächlich)\n\nBeschreibe: Was ist Mubtada, was ist Khabar? In welcher Variante liegt Voranstellung vor?",
-          "hint": "بِيَدِكَ ist eine Präpositionalphrase und fungiert als Khabar. الْخَيْرُ ist definit und Mubtada. In 3:26 steht Khabar vor Mubtada."
+          "hint": "بِيَدِكَ ist eine Präpositionalphrase und fungiert als Khabar. الْخَيْرُ ist definit und Mubtada. In 3:26 steht Khabar vor Mubtada.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=26"
         },
         {
           "type": "identification",
           "prompt": "Lies 2:255 (2:255). Finde alle Präpositionalphrasen. Welche stehen in Default-Position (nach dem Verb/Prädikat) und welche sind vorangestellt?",
-          "hint": "مَن ذَا الَّذِي يَشْفَعُ عِندَهُ — عِندَهُ steht nach dem Verb. Aber لَّهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ — لَهُ steht vor dem Mubtada."
+          "hint": "مَن ذَا الَّذِي يَشْفَعُ عِندَهُ — عِندَهُ steht nach dem Verb. Aber لَّهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ — لَهُ steht vor dem Mubtada.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=255"
         }
       ]
     },
@@ -398,12 +410,14 @@
         {
           "type": "classification",
           "prompt": "Klassifiziere die folgenden Voranstellungen als 'Fokus' oder 'Restriktion' und begründe deine Einschaetzung:\n1) إِيَّاكَ نَعْبُدُ (1:5)\n2) فِي الْأَرْضِ خَلِيفَةً (2:30)\n3) لِلَّهِ الْمَشْرِقُ وَالْمَغْرِبُ (2:115)\n4) بِيَدِكَ الْخَيْرُ (3:26)",
-          "hint": "Prüfe: Ist eine Zugehörigkeits-PP (لِ) vorangestellt? Ist es ein Pronomen? Gibt es im Kontext einen expliziten Kontrast? Diese Faktoren sprechen für Restriktion."
+          "hint": "Prüfe: Ist eine Zugehörigkeits-PP (لِ) vorangestellt? Ist es ein Pronomen? Gibt es im Kontext einen expliziten Kontrast? Diese Faktoren sprechen für Restriktion.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=5"
         },
         {
           "type": "analysis",
           "prompt": "Lies 2:284-286. Identifiziere alle Voranstellungen. Welche erzeugen eher Fokus und welche eher Restriktion? Begründe anhand der beobachtbaren Kriterien aus der Lektion.",
-          "hint": "Achte auf لِلَّهِ مَا فِي السَّمَاوَاتِ — das ist das bekannte Muster. Und auf Präpositionalphrasen innerhalb der إِنَّ-Sätze."
+          "hint": "Achte auf لِلَّهِ مَا فِي السَّمَاوَاتِ — das ist das bekannte Muster. Und auf Präpositionalphrasen innerhalb der إِنَّ-Sätze.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=284"
         }
       ]
     },
@@ -482,12 +496,14 @@
         {
           "type": "classification",
           "prompt": "Klassifiziere die Restriktionsstrategie in jedem Vers:\n1) إِيَّاكَ نَعْبُدُ (1:5)\n2) إِنَّمَا الْمُؤْمِنُونَ إِخْوَةٌ (49:10)\n3) لَا إِلَٰهَ إِلَّا اللَّهُ (37:35)\n4) لِلَّهِ مُلْكُ السَّمَاوَاتِ (42:49)\n5) إِنَّمَا يَخْشَى اللَّهَ مِنْ عِبَادِهِ الْعُلَمَاءُ (35:28)",
-          "hint": "Drei Kategorien: (A) Voranstellung ohne Partikel, (B) إِنَّمَا mit Default-Wortstellung, (C) إِلَّا-Konstruktion."
+          "hint": "Drei Kategorien: (A) Voranstellung ohne Partikel, (B) إِنَّمَا mit Default-Wortstellung, (C) إِلَّا-Konstruktion.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=5"
         },
         {
           "type": "analysis",
           "prompt": "In 35:28 (إِنَّمَا يَخْشَى اللَّهَ مِنْ عِبَادِهِ الْعُلَمَاءُ) steht das Subjekt الْعُلَمَاءُ am Satzende. Ist das Default-Position für das Subjekt in einem VSO-Satz? Welches Element wird durch إِنَّمَا eingeschränkt? Begründe anhand der Satzgliedpositionen.",
-          "hint": "In VSO steht das Subjekt normalerweise direkt nach dem Verb. Hier steht es ganz am Ende — nach Objekt und PP. Diese Endposition ist die Fokusposition. إِنَّمَا restringiert das Element in der Fokusposition."
+          "hint": "In VSO steht das Subjekt normalerweise direkt nach dem Verb. Hier steht es ganz am Ende — nach Objekt und PP. Diese Endposition ist die Fokusposition. إِنَّمَا restringiert das Element in der Fokusposition.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=35&verse=28"
         }
       ]
     },
@@ -527,7 +543,8 @@
               {
                 "ref": "20:1-2",
                 "arabic": "طه ○ مَا أَنزَلْنَا عَلَيْكَ الْقُرْآنَ لِتَشْقَىٰ",
-                "explanation": "Default-Abfolge: Negation + Verb (أَنزَلْنَا) + PP (عَلَيْكَ) + Objekt (الْقُرْآنَ). Hier steht die PP عَلَيْكَ zwischen Verb und Objekt — partielle Voranstellung der PP vor das Objekt, Fokus auf den Adressaten."
+                "explanation": "Default-Abfolge: Negation + Verb (أَنزَلْنَا) + PP (عَلَيْكَ) + Objekt (الْقُرْآنَ). Hier steht die PP عَلَيْكَ zwischen Verb und Objekt — partielle Voranstellung der PP vor das Objekt, Fokus auf den Adressaten.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=20&verse=1"
               },
               {
                 "ref": "76:1",
@@ -538,14 +555,16 @@
               {
                 "ref": "55:26-27",
                 "arabic": "كُلُّ مَنْ عَلَيْهَا فَانٍ ○ وَيَبْقَىٰ وَجْهُ رَبِّكَ ذُو الْجَلَالِ وَالْإِكْرَامِ",
-                "explanation": "Erster Satz: Nominalsatz in Default-Abfolge (Mubtada كُلُّ مَنْ عَلَيْهَا — Khabar فَانٍ). Zweiter Satz: Default VSO (وَيَبْقَىٰ — وَجْهُ رَبِّكَ). Keine Umstellung — die strukturelle Neutralität kontrastiert mit dem semantischen Gewicht."
+                "explanation": "Erster Satz: Nominalsatz in Default-Abfolge (Mubtada كُلُّ مَنْ عَلَيْهَا — Khabar فَانٍ). Zweiter Satz: Default VSO (وَيَبْقَىٰ — وَجْهُ رَبِّكَ). Keine Umstellung — die strukturelle Neutralität kontrastiert mit dem semantischen Gewicht.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=55&verse=26"
               }
             ]
           },
           {
             "type": "explanation",
             "title": "Systematische Zusammenfassung der Taqdim-Muster",
-            "content": "Alle beobachtbaren Wortstellungsvarianten im Überblick:\n\n1. KHABAR VOR MUBTADA (Nominalsatz)\n   Muster: PP/Adverb + definites Nomen\n   Beispiel: لِلَّهِ الْمُلْكُ\n   Effekt: Restriktion (Hasr)\n\n2. MAF'UL VOR FI'L (Verbalsatz)\n   Muster: Objekt(pronomen) + Verb\n   Beispiel: إِيَّاكَ نَعْبُدُ\n   Effekt: Restriktion\n\n3. JARR WA-MAJRUR VOR VERB (Verbalsatz)\n   Muster: PP + Verb + Subjekt\n   Beispiel: عَلَيْهِمْ أَنْعَمْتَ (hypothetisch) vs. أَنْعَمْتَ عَلَيْهِمْ (1:7, Default)\n   Effekt: Fokus oder Restriktion (kontextabhängig)\n\n4. SUBJEKT VOR VERB (SVO statt VSO)\n   Muster: Nomen + Verb\n   Beispiel: اللَّهُ يَعْلَمُ statt يَعْلَمُ اللَّهُ\n   Effekt: Thematisierung des Subjekts — es wird zum Topik\n\n5. إِنَّمَا + DEFAULT-STELLUNG\n   Muster: Partikel + normaler Satz\n   Beispiel: إِنَّمَا الْمُؤْمِنُونَ إِخْوَةٌ\n   Effekt: Restriktion durch Partikel, nicht durch Wortstellung"
+            "content": "Alle beobachtbaren Wortstellungsvarianten im Überblick:\n\n1. KHABAR VOR MUBTADA (Nominalsatz)\n   Muster: PP/Adverb + definites Nomen\n   Beispiel: لِلَّهِ الْمُلْكُ\n   Effekt: Restriktion (Hasr)\n\n2. MAF'UL VOR FI'L (Verbalsatz)\n   Muster: Objekt(pronomen) + Verb\n   Beispiel: إِيَّاكَ نَعْبُدُ\n   Effekt: Restriktion\n\n3. JARR WA-MAJRUR VOR VERB (Verbalsatz)\n   Muster: PP + Verb + Subjekt\n   Beispiel: عَلَيْهِمْ أَنْعَمْتَ (hypothetisch) vs. أَنْعَمْتَ عَلَيْهِمْ (1:7, Default)\n   Effekt: Fokus oder Restriktion (kontextabhängig)\n\n4. SUBJEKT VOR VERB (SVO statt VSO)\n   Muster: Nomen + Verb\n   Beispiel: اللَّهُ يَعْلَمُ statt يَعْلَمُ اللَّهُ\n   Effekt: Thematisierung des Subjekts — es wird zum Topik\n\n5. إِنَّمَا + DEFAULT-STELLUNG\n   Muster: Partikel + normaler Satz\n   Beispiel: إِنَّمَا الْمُؤْمِنُونَ إِخْوَةٌ\n   Effekt: Restriktion durch Partikel, nicht durch Wortstellung",
+            "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=7"
           }
         ]
       },
@@ -553,12 +572,14 @@
         {
           "type": "fullAnalysis",
           "prompt": "Analysiere die Wortstellung in der gesamten Fatiha (1:1-7). Gehe Vers für Vers vor:\n1) Bestimme den Satztyp (Nominal/Verbal)\n2) Identifiziere die Satzglieder\n3) Prüfe: Default oder abweichend?\n4) Wenn abweichend: Welcher Typ von Taqdim liegt vor?",
-          "hint": "Besonders relevant: 1:2 (الْحَمْدُ لِلَّهِ — Default oder Taqdim?), 1:5 (إِيَّاكَ نَعْبُدُ — Objekt vor Verb), 1:7 (أَنْعَمْتَ عَلَيْهِمْ — Default VSO)."
+          "hint": "Besonders relevant: 1:2 (الْحَمْدُ لِلَّهِ — Default oder Taqdim?), 1:5 (إِيَّاكَ نَعْبُدُ — Objekt vor Verb), 1:7 (أَنْعَمْتَ عَلَيْهِمْ — Default VSO).",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=1"
         },
         {
           "type": "fullAnalysis",
           "prompt": "Analysiere die Wortstellung in 112:1-4 (Surat al-Ikhlas):\nقُلْ هُوَ اللَّهُ أَحَدٌ ○ اللَّهُ الصَّمَدُ ○ لَمْ يَلِدْ وَلَمْ يُولَدْ ○ وَلَمْ يَكُن لَّهُ كُفُوًا أَحَدٌ\n\nIdentifiziere alle Satztypen und prüfe die Wortstellung. Besondere Aufmerksamkeit auf Vers 4: Wo steht das Subjekt أَحَدٌ? Wo steht die PP لَّهُ? Wo steht das Prädikatsnomen كُفُوًا?",
-          "hint": "Vers 4: كَانَ-Satz. Default wäre: لَمْ يَكُن أَحَدٌ كُفُوًا لَّهُ. Tatsaechlich: لَمْ يَكُن لَّهُ كُفُوًا أَحَدٌ — PP vorangestellt, Prädikatsnomen vor Subjekt, Subjekt am Satzende. Dreifache Abweichung."
+          "hint": "Vers 4: كَانَ-Satz. Default wäre: لَمْ يَكُن أَحَدٌ كُفُوًا لَّهُ. Tatsaechlich: لَمْ يَكُن لَّهُ كُفُوًا أَحَدٌ — PP vorangestellt, Prädikatsnomen vor Subjekt, Subjekt am Satzende. Dreifache Abweichung.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=112&verse=1"
         }
       ]
     }

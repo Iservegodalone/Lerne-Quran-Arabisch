@@ -59,12 +59,14 @@
         {
           "type": "identification",
           "prompt": "Lies 2:249 (فَشَرِبُوا مِنْهُ إِلَّا قَلِيلًا مِّنْهُمْ). Benenne die drei Elemente der Ausnahmekonstruktion: mustathna minhu, adaat al-istithna', mustathna.",
-          "hint": "Das mustathna minhu ist die implizite Gesamtheit (die Kämpfer, Subjekt von شَرِبُوا). Die adaat ist إِلَّا. Das mustathna ist قَلِيلًا."
+          "hint": "Das mustathna minhu ist die implizite Gesamtheit (die Kämpfer, Subjekt von شَرِبُوا). Die adaat ist إِلَّا. Das mustathna ist قَلِيلًا.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=249"
         },
         {
           "type": "caseAnalysis",
           "prompt": "Warum steht فَرِيقًا in 34:20 im Akkusativ? Welche Bedingungen müssen erfüllt sein, damit إِلَّا den Akkusativ erzwingt?",
-          "hint": "Zwei Bedingungen: (1) Der Satz ist bejaht (positiv, keine Negation). (2) Das mustathna minhu ist vorhanden (تَامّ). Beide sind in 34:20 erfüllt."
+          "hint": "Zwei Bedingungen: (1) Der Satz ist bejaht (positiv, keine Negation). (2) Das mustathna minhu ist vorhanden (تَامّ). Beide sind in 34:20 erfüllt.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=34&verse=20"
         }
       ]
     },
@@ -125,12 +127,14 @@
         {
           "type": "caseAnalysis",
           "prompt": "Vergleiche 4:66 (مَّا فَعَلُوهُ إِلَّا قَلِيلٌ) mit 17:62 (لَأَحْتَنِكَنَّ ذُرِّيَّتَهُ إِلَّا قَلِيلًا). Warum steht قليل einmal im Nominativ und einmal im Akkusativ?",
-          "hint": "4:66 ist negiert (مَا) → badal vom Subjekt (Nominativ). 17:62 ist bejaht (positiv) → Akkusativ als Standardkasus nach إِلَّا im bejahten Satz."
+          "hint": "4:66 ist negiert (مَا) → badal vom Subjekt (Nominativ). 17:62 ist bejaht (positiv) → Akkusativ als Standardkasus nach إِلَّا im bejahten Satz.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=66"
         },
         {
           "type": "identification",
           "prompt": "In 4:155 (فَلَا يُؤْمِنُونَ إِلَّا قَلِيلًا): Handelt es sich um eine Personenausnahme oder eine Massangabe? Wie wirkt sich das auf die syntaktische Analyse aus?",
-          "hint": "Es ist eine Massangabe: 'sie glauben nur wenig'. قَلِيلًا ist adverbial (Angabe des Masses), nicht Ausnahme von Personen. Es funktioniert wie ein mafʿul mutlaq oder eine haal-Bestimmung."
+          "hint": "Es ist eine Massangabe: 'sie glauben nur wenig'. قَلِيلًا ist adverbial (Angabe des Masses), nicht Ausnahme von Personen. Es funktioniert wie ein mafʿul mutlaq oder eine haal-Bestimmung.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=155"
         }
       ]
     },
@@ -191,17 +195,20 @@
         {
           "type": "identification",
           "prompt": "Analysiere 36:15 (إِنْ أَنتُمْ إِلَّا بَشَرٌ مِّثْلُنَا). Welche Satzfunktion hat بَشَرٌ? Warum steht es im Nominativ?",
-          "hint": "إِنْ = مَا (Negation). Der Satz ist ein Nominalsatz: أَنتُمْ (mubtada') + بَشَرٌ (khabar). بَشَرٌ ist Prädikat und steht daher im Nominativ. Mufrag: Ohne إِلَّا بَشَرٌ fehlt das Prädikat."
+          "hint": "إِنْ = مَا (Negation). Der Satz ist ein Nominalsatz: أَنتُمْ (mubtada') + بَشَرٌ (khabar). بَشَرٌ ist Prädikat und steht daher im Nominativ. Mufrag: Ohne إِلَّا بَشَرٌ fehlt das Prädikat.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=36&verse=15"
         },
         {
           "type": "caseAnalysis",
           "prompt": "In 2:163 (لَا إِلَٰهَ إِلَّا هُوَ): Welche Art von لَا liegt hier vor? Warum steht إِلَٰهَ ohne Tanwin? Welche Funktion hat هُوَ?",
-          "hint": "لَا لِنَفْيِ الجِنْس (Gattungsnegation). إِلَٰهَ ist ism von لَا, im Akkusativ, ohne Tanwin weil es als مبني auf fatha steht. هُوَ nach إِلَّا fungiert in der mufrag-Analyse als Prädikat oder als badal."
+          "hint": "لَا لِنَفْيِ الجِنْس (Gattungsnegation). إِلَٰهَ ist ism von لَا, im Akkusativ, ohne Tanwin weil es als مبني auf fatha steht. هُوَ nach إِلَّا fungiert in der mufrag-Analyse als Prädikat oder als badal.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=163"
         },
         {
           "type": "identification",
           "prompt": "Lies 21:25. Wie viele Ausnahmekonstruktionen enthält dieser Vers? Bestimme für jede, ob sie تَامّ oder مُفَرَّغ ist.",
-          "hint": "Zwei Konstruktionen: (1) مَا أَرْسَلْنَا ... إِلَّا نُوحِي — mufrag (ohne mustathna minhu als Person, der Satz wäre ohne das mustathna unvollständig). (2) لَا إِلَٰهَ إِلَّا أَنَا — mufrag (klassische Formel)."
+          "hint": "Zwei Konstruktionen: (1) مَا أَرْسَلْنَا ... إِلَّا نُوحِي — mufrag (ohne mustathna minhu als Person, der Satz wäre ohne das mustathna unvollständig). (2) لَا إِلَٰهَ إِلَّا أَنَا — mufrag (klassische Formel).",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=21&verse=25"
         }
       ]
     },
@@ -262,12 +269,14 @@
         {
           "type": "caseAnalysis",
           "prompt": "In 1:7 steht غَيْرِ الْمَغْضُوبِ. Erkläre für jedes der beiden Wörter, warum es im Genitiv steht. Sind die Gründe identisch?",
-          "hint": "Nein. غَيْرِ steht im Genitiv wegen seiner syntaktischen Position (badal/Attribut zu الَّذِينَ im Genitiv). الْمَغْضُوبِ steht im Genitiv als مُضَاف إِلَيْهِ (Idafa-Komplement von غَيْر). Verschiedene Gründe, gleicher Kasus."
+          "hint": "Nein. غَيْرِ steht im Genitiv wegen seiner syntaktischen Position (badal/Attribut zu الَّذِينَ im Genitiv). الْمَغْضُوبِ steht im Genitiv als مُضَاف إِلَيْهِ (Idafa-Komplement von غَيْر). Verschiedene Gründe, gleicher Kasus.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=7"
         },
         {
           "type": "caseAnalysis",
           "prompt": "Vergleiche غَيْرَ in 2:173 (غَيْرَ بَاغٍ) mit غَيْرِ in 47:15 (غَيْرِ آسِنٍ). Warum unterscheidet sich der Kasus von غَيْر, obwohl das Idafa-Komplement in beiden Fällen im Genitiv steht?",
-          "hint": "In 2:173 ist غَيْرَ eine haal (Akkusativ). In 47:15 ist غَيْرِ ein Attribut zu مَاءٍ (Genitiv). Der Kasus von غَيْر richtet sich nach der Satzfunktion, der Kasus des Idafa-Komplements ist immer Genitiv."
+          "hint": "In 2:173 ist غَيْرَ eine haal (Akkusativ). In 47:15 ist غَيْرِ ein Attribut zu مَاءٍ (Genitiv). Der Kasus von غَيْر richtet sich nach der Satzfunktion, der Kasus des Idafa-Komplements ist immer Genitiv.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=173"
         }
       ]
     },
@@ -279,7 +288,8 @@
           {
             "type": "explanation",
             "title": "Hinweis zur quranischen Beleglage",
-            "content": "Hinweis: سِوَى als Ausnahmepartikel (im Sinne von 'ausser') ist im Quran nicht belegt. Die einzige Stelle (20:58) verwendet سُوًى in der Bedeutung 'gleich/gerecht', nicht als Ausnahmewort. Die hier beschriebene Funktion gehört zum allgemeinen klassischen Arabisch."
+            "content": "Hinweis: سِوَى als Ausnahmepartikel (im Sinne von 'ausser') ist im Quran nicht belegt. Die einzige Stelle (20:58) verwendet سُوًى in der Bedeutung 'gleich/gerecht', nicht als Ausnahmewort. Die hier beschriebene Funktion gehört zum allgemeinen klassischen Arabisch.",
+            "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=20&verse=58"
           },
           {
             "type": "explanation",
@@ -364,12 +374,14 @@
         {
           "type": "identification",
           "prompt": "Analysiere 17:44 (وَإِن مِّن شَيْءٍ إِلَّا يُسَبِّحُ بِحَمْدِهِ). Identifiziere: (a) Die Negationspartikel, (b) die Funktion von مِن, (c) die Satzfunktion von يُسَبِّحُ, (d) den Typ der Ausnahmekonstruktion.",
-          "hint": "(a) إِنْ = مَا. (b) مِن ist zaaidah (expletiv, verstärkt die Negation). (c) يُسَبِّحُ ist ein Verbalsatz als Prädikat (خبر). (d) مُفَرَّغ — ohne mustathna minhu, da شَيْءٍ das mubtada' ist und der Verbalsatz nach إِلَّا das khabar."
+          "hint": "(a) إِنْ = مَا. (b) مِن ist zaaidah (expletiv, verstärkt die Negation). (c) يُسَبِّحُ ist ein Verbalsatz als Prädikat (خبر). (d) مُفَرَّغ — ohne mustathna minhu, da شَيْءٍ das mubtada' ist und der Verbalsatz nach إِلَّا das khabar.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=17&verse=44"
         },
         {
           "type": "caseAnalysis",
           "prompt": "In 12:31 stehen zwei Sätze: مَا هَٰذَا بَشَرًا und إِنْ هَٰذَا إِلَّا مَلَكٌ كَرِيمٌ. Warum steht بَشَرًا im Akkusativ aber مَلَكٌ im Nominativ, obwohl beide auf هَٰذَا folgen?",
-          "hint": "بَشَرًا ist Prädikat (خبر) von مَا الحِجَازِيَّة — مَا im Hijaz-Dialekt funktioniert wie لَيْسَ und setzt das Prädikat in den Akkusativ. مَلَكٌ ist Prädikat in einem Nominalsatz mit إِنْ (= مَا) in der mufrag-Konstruktion — hier bleibt das Prädikat im Nominativ, weil إِنْ nicht wie لَيْسَ wirkt."
+          "hint": "بَشَرًا ist Prädikat (خبر) von مَا الحِجَازِيَّة — مَا im Hijaz-Dialekt funktioniert wie لَيْسَ und setzt das Prädikat in den Akkusativ. مَلَكٌ ist Prädikat in einem Nominalsatz mit إِنْ (= مَا) in der mufrag-Konstruktion — hier bleibt das Prädikat im Nominativ, weil إِنْ nicht wie لَيْسَ wirkt.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=12&verse=31"
         }
       ]
     }

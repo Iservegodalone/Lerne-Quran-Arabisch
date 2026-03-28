@@ -88,17 +88,20 @@
         {
           "type": "analysis",
           "prompt": "Warum kann in 2:6 (أَأَنذَرْتَهُمْ أَمْ لَمْ تُنذِرْهُمْ) nicht هَلْ statt أَ stehen? Nenne zwei syntaktische Gründe.",
-          "hint": "1. Es liegt eine أَمْ-Alternative vor — هَلْ kann keine Alternative einleiten. 2. أَ steht hier vor einem Verb, was auch mit هَلْ ginge, aber die Alternative schließt هَلْ aus."
+          "hint": "1. Es liegt eine أَمْ-Alternative vor — هَلْ kann keine Alternative einleiten. 2. أَ steht hier vor einem Verb, was auch mit هَلْ ginge, aber die Alternative schließt هَلْ aus.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=6"
         },
         {
           "type": "identification",
           "prompt": "Lies 21:30. Steht dort أَ oder هَلْ? Vor welchem Wort steht das Fragepartikel? Könnte die andere Partikel an dieser Stelle stehen?",
-          "hint": "Achte auf أَوَلَمْ — das ist أَ + وَ + لَمْ. هَلْ könnte nicht vor Negation stehen."
+          "hint": "Achte auf أَوَلَمْ — das ist أَ + وَ + لَمْ. هَلْ könnte nicht vor Negation stehen.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=21&verse=30"
         },
         {
           "type": "analysis",
           "prompt": "Vergleiche 88:1 (هَلْ أَتَاكَ حَدِيثُ الْغَاشِيَةِ) mit 2:6 (أَأَنذَرْتَهُمْ أَمْ لَمْ تُنذِرْهُمْ). Was ist der strukturelle Unterschied der Frage?",
-          "hint": "88:1 ist eine einfache Ja/Nein-Frage (هَلْ, ohne Alternative). 2:6 ist eine Alternative (أَ ... أَمْ: 'ob X oder Y')."
+          "hint": "88:1 ist eine einfache Ja/Nein-Frage (هَلْ, ohne Alternative). 2:6 ist eine Alternative (أَ ... أَمْ: 'ob X oder Y').",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=88&verse=1"
         }
       ],
       "testContent": {
@@ -134,7 +137,8 @@
               "Ausruf"
             ],
             "correct": 2,
-            "explanation": "أَمْ leitet die zweite Alternative in einer أَ ... أَمْ-Konstruktion ein: 'ob du sie warnst ODER nicht warnst.' Nur أَ (nicht هَلْ) kann mit أَمْ kombiniert werden."
+            "explanation": "أَمْ leitet die zweite Alternative in einer أَ ... أَمْ-Konstruktion ein: 'ob du sie warnst ODER nicht warnst.' Nur أَ (nicht هَلْ) kann mit أَمْ kombiniert werden.",
+            "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=6"
           },
           {
             "question": "In أَأَنتُمْ أَعْلَمُ أَمِ اللَّهُ (2:140) — warum steht أَ und nicht هَلْ?",
@@ -145,7 +149,8 @@
               "Weil هَلْ nur in Prosa vorkommt"
             ],
             "correct": 1,
-            "explanation": "Zwei Gründe: (1) أَ steht vor dem Pronomen أَنتُمْ (Nomen) — هَلْ könnte nicht vor einem Nomen stehen. (2) Es folgt eine أَمْ-Alternative — هَلْ erlaubt kein أَمْ."
+            "explanation": "Zwei Gründe: (1) أَ steht vor dem Pronomen أَنتُمْ (Nomen) — هَلْ könnte nicht vor einem Nomen stehen. (2) Es folgt eine أَمْ-Alternative — هَلْ erlaubt kein أَمْ.",
+            "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=140"
           }
         ]
       }
@@ -213,17 +218,20 @@
         {
           "type": "identification",
           "prompt": "Lies 2:28. Dort steht كَيْفَ تَكْفُرُونَ بِاللَّهِ — kein مَنْ oder مَا. Lies dann 36:78 (مَن يُحْيِي الْعِظَامَ وَهِيَ رَمِيمٌ). Was ist die syntaktische Funktion von مَنْ in 36:78?",
-          "hint": "مَنْ ist Subjekt (فاعل) des Verbs يُحْيِي. 'Wer belebt die Knochen?' — مَنْ fragt nach dem Agens."
+          "hint": "مَنْ ist Subjekt (فاعل) des Verbs يُحْيِي. 'Wer belebt die Knochen?' — مَنْ fragt nach dem Agens.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=28"
         },
         {
           "type": "analysis",
           "prompt": "In 78:1 steht عَمَّ (= عَنْ + مَا). Erkläre die phonologische Veränderung: Warum verschwindet das Alif von مَا nach der Präposition?",
-          "hint": "Nach Präpositionen fällt das End-Alif von مَا regelmäßig weg: عَنْ مَا → عَمَّا → عَمَّ. Ebenso: فِي مَا → فِيمَ, لِ مَا → لِمَ."
+          "hint": "Nach Präpositionen fällt das End-Alif von مَا regelmäßig weg: عَنْ مَا → عَمَّا → عَمَّ. Ebenso: فِي مَا → فِيمَ, لِ مَا → لِمَ.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=78&verse=1"
         },
         {
           "type": "analysis",
           "prompt": "Vergleiche 26:23 (مَا رَبُّ الْعَالَمِينَ) mit 26:28 (رَبُّ الْمَشْرِقِ وَالْمَغْرِبِ). Die Frage mit مَا fragt nach dem Wesen. Die Antwort definiert durch Attribute. Welche syntaktische Rolle hat مَا in der Frage?",
-          "hint": "مَا ist das Prädikat (خبر) des Nominalsatzes. رَبُّ الْعَالَمِينَ ist das Subjekt (مبتدأ). Die Frage lautet woeortlich: 'Was [ist] der Herr der Welten?'"
+          "hint": "مَا ist das Prädikat (خبر) des Nominalsatzes. رَبُّ الْعَالَمِينَ ist das Subjekt (مبتدأ). Die Frage lautet woeortlich: 'Was [ist] der Herr der Welten?'",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=26&verse=23"
         }
       ],
       "testContent": {
@@ -237,7 +245,8 @@
               "Prädikat (خبر)"
             ],
             "correct": 1,
-            "explanation": "مَنْ ist das Subjekt (فاعل) des Verbs فَعَلَ. Es fragt nach dem Agens: 'Wer hat das getan?'"
+            "explanation": "مَنْ ist das Subjekt (فاعل) des Verbs فَعَلَ. Es fragt nach dem Agens: 'Wer hat das getan?'",
+            "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=21&verse=59"
           },
           {
             "question": "عَمَّ يَتَسَاءَلُونَ (78:1) — aus welchen Teilen besteht عَمَّ?",
@@ -248,7 +257,8 @@
               "عَمَّ ist ein eigenständiges Wort"
             ],
             "correct": 2,
-            "explanation": "عَمَّ = عَنْ + مَا. Das End-Alif von مَا fällt nach Präpositionen regelmäßig weg, und نْ assimiliert zu مّ."
+            "explanation": "عَمَّ = عَنْ + مَا. Das End-Alif von مَا fällt nach Präpositionen regelmäßig weg, und نْ assimiliert zu مّ.",
+            "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=78&verse=1"
           },
           {
             "question": "Was unterscheidet مَنْ von مَا in ihrer Referenz?",
@@ -338,17 +348,20 @@
         {
           "type": "analysis",
           "prompt": "Vergleiche 3:37 (أَنَّىٰ لَكِ هَٰذَا) mit 3:40 (أَنَّىٰ يَكُونُ لِي غُلَامٌ). Dasselbe Wort أَنَّى hat verschiedene Bedeutungen. Wie entscheidest du zwischen 'woher' und 'wie'?",
-          "hint": "In 3:37 geht es um den Ursprung einer Sache (لَكِ = 'bei dir'/'für dich') → 'woher'. In 3:40 geht es um die Möglichkeit eines Ereignisses (يَكُونُ = 'es wird sein') → 'wie'."
+          "hint": "In 3:37 geht es um den Ursprung einer Sache (لَكِ = 'bei dir'/'für dich') → 'woher'. In 3:40 geht es um die Möglichkeit eines Ereignisses (يَكُونُ = 'es wird sein') → 'wie'.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=37"
         },
         {
           "type": "identification",
           "prompt": "Lies 67:30 (قُلْ أَرَأَيْتُمْ إِنْ أَصْبَحَ مَاؤُكُمْ غَوْرًا فَمَن يَأْتِيكُم بِمَاءٍ مَّعِينٍ). Welches Fragewort steht hier? Welche Funktion hat es?",
-          "hint": "مَنْ يَأْتِيكُمْ — مَنْ als Subjekt. Die Frage ist rhetorisch: 'Wer bringt euch...' = Niemand (ausser Gott)."
+          "hint": "مَنْ يَأْتِيكُمْ — مَنْ als Subjekt. Die Frage ist rhetorisch: 'Wer bringt euch...' = Niemand (ausser Gott).",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=67&verse=30"
         },
         {
           "type": "identification",
           "prompt": "In 36:48 und 67:25 steht مَتَى هَٰذَا الْوَعْدُ. Welcher Satztyp liegt vor (Verbal- oder Nominalsatz)? Was ist die Funktion von مَتَى?",
-          "hint": "Nominalsatz: مَتَى ist das Prädikat (Zeitangabe), هَٰذَا الْوَعْدُ das Subjekt. 'Wann [ist/kommt] dieses Versprechen?'"
+          "hint": "Nominalsatz: مَتَى ist das Prädikat (Zeitangabe), هَٰذَا الْوَعْدُ das Subjekt. 'Wann [ist/kommt] dieses Versprechen?'",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=36&verse=48"
         }
       ],
       "testContent": {
@@ -362,7 +375,8 @@
               "Wo"
             ],
             "correct": 1,
-            "explanation": "Im Kontext (Frage nach dem Ursprung der Versorgung: 'Woher hast du das?') hat أَنَّى die Bedeutung 'woher' (= مِنْ أَيْنَ)."
+            "explanation": "Im Kontext (Frage nach dem Ursprung der Versorgung: 'Woher hast du das?') hat أَنَّى die Bedeutung 'woher' (= مِنْ أَيْنَ).",
+            "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=37"
           },
           {
             "question": "كَيْفَ تَكْفُرُونَ (2:28) — ist das eine echte Informationsfrage?",
@@ -373,7 +387,8 @@
               "Nein — es ist ein Befehl"
             ],
             "correct": 1,
-            "explanation": "كَيْفَ تَكْفُرُونَ ist rhetorisch: 'Wie KOENNT ihr leugnen?' drückt Verwunderung und Tadel aus. Der Sprecher sucht keine Information, sondern stellt die Handlung als unverstaendlich dar."
+            "explanation": "كَيْفَ تَكْفُرُونَ ist rhetorisch: 'Wie KOENNT ihr leugnen?' drückt Verwunderung und Tadel aus. Der Sprecher sucht keine Information, sondern stellt die Handlung als unverstaendlich dar.",
+            "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=28"
           },
           {
             "question": "Was unterscheidet أَنَّى von كَيْفَ?",
@@ -395,7 +410,8 @@
               "Apposition"
             ],
             "correct": 2,
-            "explanation": "مَتَى ist ein Adverb / Prädikat im Nominalsatz. Es fragt nach dem Zeitpunkt: 'Wann [ist/kommt] Gottes Hilfe?' نَصْرُ اللَّهِ ist das Subjekt."
+            "explanation": "مَتَى ist ein Adverb / Prädikat im Nominalsatz. Es fragt nach dem Zeitpunkt: 'Wann [ist/kommt] Gottes Hilfe?' نَصْرُ اللَّهِ ist das Subjekt.",
+            "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=214"
           }
         ]
       }
@@ -463,17 +479,20 @@
         {
           "type": "identification",
           "prompt": "Lies 23:112-113. Dort steht كَمْ لَبِثْتُمْ. Ist dieses كَمْ interrogativ oder berichtend? Begründe mit der syntaktischen Umgebung.",
-          "hint": "Es ist interrogativ — eine echte Frage, die beantwortet wird (لَبِثْنَا يَوْمًا أَوْ بَعْضَ يَوْمٍ). Berichtendes كَمْ würde keine Antwort erwarten."
+          "hint": "Es ist interrogativ — eine echte Frage, die beantwortet wird (لَبِثْنَا يَوْمًا أَوْ بَعْضَ يَوْمٍ). Berichtendes كَمْ würde keine Antwort erwarten.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=23&verse=112"
         },
         {
           "type": "analysis",
           "prompt": "Vergleiche 2:259 (كَمْ لَبِثْتَ — interrogativ) mit 36:31 (كَمْ أَهْلَكْنَا — berichtend). Welche syntaktischen und kontextuellen Merkmale unterscheiden die beiden Typen?",
-          "hint": "Interrogativ: echte Frage, wird beantwortet, oft im Dialog. Berichtend: rhetorische Feststellung einer grossen Menge, wird nicht beantwortet, oft mit مِنْ + Genitiv."
+          "hint": "Interrogativ: echte Frage, wird beantwortet, oft im Dialog. Berichtend: rhetorische Feststellung einer grossen Menge, wird nicht beantwortet, oft mit مِنْ + Genitiv.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=259"
         },
         {
           "type": "morphology",
           "prompt": "In 19:73 steht أَيُّ الْفَرِيقَيْنِ. Bestimme den Kasus von أَيّ und von الْفَرِيقَيْنِ. Erkläre die Idafa-Konstruktion.",
-          "hint": "أَيُّ = Nominativ (Damma) — Subjekt des Nominalsatzes. الْفَرِيقَيْنِ = Genitiv (Dual-Endung يْنِ) — zweites Glied der Idafa."
+          "hint": "أَيُّ = Nominativ (Damma) — Subjekt des Nominalsatzes. الْفَرِيقَيْنِ = Genitiv (Dual-Endung يْنِ) — zweites Glied der Idafa.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=19&verse=73"
         }
       ],
       "testContent": {
@@ -498,7 +517,8 @@
               "Zustandssatz"
             ],
             "correct": 1,
-            "explanation": "أَيّ + الْفَرِيقَيْنِ ist eine Idafa: أَيّ ist das erste Glied (مضاف), الْفَرِيقَيْنِ das zweite im Genitiv (مضاف إليه)."
+            "explanation": "أَيّ + الْفَرِيقَيْنِ ist eine Idafa: أَيّ ist das erste Glied (مضاف), الْفَرِيقَيْنِ das zweite im Genitiv (مضاف إليه).",
+            "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=19&verse=73"
           },
           {
             "question": "In كَمْ لَبِثْتَ (2:259) — welche syntaktische Funktion hat كَمْ?",
@@ -509,7 +529,8 @@
               "Präpositional-Ergänzung"
             ],
             "correct": 2,
-            "explanation": "كَمْ fragt hier nach der Zeitdauer ('wie lange?'). Es fungiert als adverbialer Akkusativ (ظرف زمان), nicht als Subjekt oder Objekt."
+            "explanation": "كَمْ fragt hier nach der Zeitdauer ('wie lange?'). Es fungiert als adverbialer Akkusativ (ظرف زمان), nicht als Subjekt oder Objekt.",
+            "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=259"
           },
           {
             "question": "Was unterscheidet أَيّ von مَنْ und مَا morphologisch?",
@@ -588,7 +609,8 @@
         {
           "type": "identification",
           "prompt": "Lies 67:16-17. Identifiziere die rhetorischen Fragen. Welche Funktion haben sie — Verneinung, Verwunderung, Tadel oder Bekräftigung?",
-          "hint": "Achte auf أَأَمِنتُم und die Folgeverse. Die Fragen drücken Warnung aus — 'seid ihr denn sicher, dass...?'"
+          "hint": "Achte auf أَأَمِنتُم und die Folgeverse. Die Fragen drücken Warnung aus — 'seid ihr denn sicher, dass...?'",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=67&verse=16"
         },
         {
           "type": "analysis",
@@ -598,12 +620,14 @@
         {
           "type": "identification",
           "prompt": "Lies 56:58-59. Dort steht أَفَرَأَيْتُم und dann أَأَنتُمْ تَخْلُقُونَهُ أَمْ نَحْنُ الْخَالِقُونَ. Identifiziere die rhetorische Struktur. Welche Antwort wird erwartet?",
-          "hint": "أَ ... أَمْ-Alternative: 'Erschafft IHR es oder sind WIR die Schöpfer?' Erwartete Antwort: die zweite Option (Gott ist der Schöpfer)."
+          "hint": "أَ ... أَمْ-Alternative: 'Erschafft IHR es oder sind WIR die Schöpfer?' Erwartete Antwort: die zweite Option (Gott ist der Schöpfer).",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=56&verse=58"
         },
         {
           "type": "analysis",
           "prompt": "Vergleiche das rhetorische هَلْ in 11:24 (هَلْ يَسْتَوِيَانِ) mit dem nicht-rhetorischen هَلْ in 88:1 (هَلْ أَتَاكَ). Woran erkennst du im Kontext, ob هَلْ rhetorisch ist oder nicht?",
-          "hint": "In 11:24 ist die Antwort offensichtlich (Blinde und Sehende sind nicht gleich — gerade definiert). In 88:1 leitet هَلْ eine Erzählung ein — es lenkt die Aufmerksamkeit."
+          "hint": "In 11:24 ist die Antwort offensichtlich (Blinde und Sehende sind nicht gleich — gerade definiert). In 88:1 leitet هَلْ eine Erzählung ein — es lenkt die Aufmerksamkeit.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=11&verse=24"
         }
       ],
       "testContent": {
@@ -617,7 +641,8 @@
               "Wunsch: 'Hätten wir doch geweitet!'"
             ],
             "correct": 1,
-            "explanation": "أَلَمْ ist eine rhetorische Frage mit erwarteter Bejahung. 'Haben wir nicht...?' = 'Doch, wir haben!' Die Frage bekräftigt die positive Aussage."
+            "explanation": "أَلَمْ ist eine rhetorische Frage mit erwarteter Bejahung. 'Haben wir nicht...?' = 'Doch, wir haben!' Die Frage bekräftigt die positive Aussage.",
+            "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=94&verse=1"
           },
           {
             "question": "Welche Kombination signalisiert im Quran typisch Tadel?",
@@ -639,7 +664,8 @@
               "Beide Optionen sind gleichwertig"
             ],
             "correct": 1,
-            "explanation": "Die rhetorische Alternative (أَ ... أَمْ) lenkt auf die zweite Option: Die Adressaten erfinden etwas gegen Gott, ohne Erlaubnis. Der Kontext macht klar, dass die erste Option (Gottes Erlaubnis) nicht zutrifft."
+            "explanation": "Die rhetorische Alternative (أَ ... أَمْ) lenkt auf die zweite Option: Die Adressaten erfinden etwas gegen Gott, ohne Erlaubnis. Der Kontext macht klar, dass die erste Option (Gottes Erlaubnis) nicht zutrifft.",
+            "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=10&verse=59"
           },
           {
             "question": "Warum erzeugt أَ + Negation (wie أَلَمْ, أَلَيْسَ) eine Bekräftigung?",

@@ -236,7 +236,8 @@
               "Zwei: anna.hum"
             ],
             "correct": 1,
-            "explanation": "أَنَّهُمْ = /an.na.hum/ — drei Silben. Das geminierte ن erzeugt die Grenze zwischen Silbe 1 (/an/) und Silbe 2 (/na/)."
+            "explanation": "أَنَّهُمْ = /an.na.hum/ — drei Silben. Das geminierte ن erzeugt die Grenze zwischen Silbe 1 (/an/) und Silbe 2 (/na/).",
+            "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=8"
           },
           {
             "id": "SH1-T4",
@@ -306,7 +307,8 @@
                 "transliteration": "kabbara",
                 "meaning": "für gross erklären, vergrößern",
                 "ref": "17:111 (كَبِّرْهُ — Imperativ)",
-                "analysis": "Form II von ك-ب-ر. Shadda auf ب. Deklarativ: für gross erklären → Gottes Größe proklamieren."
+                "analysis": "Form II von ك-ب-ر. Shadda auf ب. Deklarativ: für gross erklären → Gottes Größe proklamieren.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=17&verse=111"
               }
             ]
           },
@@ -406,7 +408,8 @@
           "instruction": "Welche Verbform liegt vor und wie verhält sie sich zu Form II?",
           "word": "تَفَكَّرَ",
           "ref": "allgemeinarabisch (يَتَفَكَّرُونَ: 2:219)",
-          "correctAnswer": "Form V von ف-ك-ر. Form II wäre فَكَّرَ (nachdenken machen). Form V تَفَكَّرَ (bei sich nachdenken — reflexiv). Präfix تَ + Shadda auf ك."
+          "correctAnswer": "Form V von ف-ك-ر. Form II wäre فَكَّرَ (nachdenken machen). Form V تَفَكَّرَ (bei sich nachdenken — reflexiv). Präfix تَ + Shadda auf ك.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=219"
         },
         {
           "id": "SH2-E3",
@@ -472,7 +475,8 @@
               "Es ist ein Fehler in der Vokalisierung"
             ],
             "correct": 1,
-            "explanation": "ضَلَّ hat Wurzel ض-ل-ل (Verbum mediae geminatae). Der zweite und dritte Radikal (beide ل) verschmelzen, wenn kein Vokal dazwischen steht: *ضَلَلَ → ضَلَّ."
+            "explanation": "ضَلَّ hat Wurzel ض-ل-ل (Verbum mediae geminatae). Der zweite und dritte Radikal (beide ل) verschmelzen, wenn kein Vokal dazwischen steht: *ضَلَلَ → ضَلَّ.",
+            "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=7"
           },
           {
             "id": "SH2-T3",
@@ -498,7 +502,8 @@
               "Form VIII (اِفْتَعَلَ)"
             ],
             "correct": 2,
-            "explanation": "تَوَكَّلَ hat das Präfix تَ UND die Gemination des mittleren Radikals ك. Das ist das Muster تَفَعَّلَ = Form V."
+            "explanation": "تَوَكَّلَ hat das Präfix تَ UND die Gemination des mittleren Radikals ك. Das ist das Muster تَفَعَّلَ = Form V.",
+            "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=122"
           }
         ]
       }
@@ -811,7 +816,8 @@
                 "transliteration": "yadullu",
                 "meaning": "er zeigt, weist hin",
                 "ref": "20:120 (Stamm)",
-                "analysis": "Wurzel د-ل-ل. Imperfekt mit Gemination des 2./3. Radikals."
+                "analysis": "Wurzel د-ل-ل. Imperfekt mit Gemination des 2./3. Radikals.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=20&verse=120"
               },
               {
                 "arabic": "حَقًّا",
@@ -986,7 +992,8 @@
               "Keine"
             ],
             "correct": 1,
-            "explanation": "Zwei: (1) ض — Sonnenbuchstaben-Assimilation des Artikel-Lam. (2) ل — Wurzel ض-ل-ل mit identischem 2. und 3. Radikal, die zu einem geminierten ل verschmelzen."
+            "explanation": "Zwei: (1) ض — Sonnenbuchstaben-Assimilation des Artikel-Lam. (2) ل — Wurzel ض-ل-ل mit identischem 2. und 3. Radikal, die zu einem geminierten ل verschmelzen.",
+            "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=7"
           }
         ]
       }

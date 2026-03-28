@@ -72,7 +72,8 @@
       "exercises": [
         {
           "type": "identification",
-          "prompt": "Lies 56:1-4. Identifiziere die Wiederholungsstruktur und ihre Funktion."
+          "prompt": "Lies 56:1-4. Identifiziere die Wiederholungsstruktur und ihre Funktion.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=56&verse=1"
         },
         {
           "type": "multiple_choice",
@@ -84,7 +85,8 @@
             "Badal (Apposition)"
           ],
           "correct": 1,
-          "explanation": "Das zweite دَكًّا ist Tawkid lafzi — es wiederholt das erste zur Bekräftigung. Beide stehen im gleichen Kasus (Akkusativ)."
+          "explanation": "Das zweite دَكًّا ist Tawkid lafzi — es wiederholt das erste zur Bekräftigung. Beide stehen im gleichen Kasus (Akkusativ).",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=89&verse=21"
         }
       ],
       "testContent": {
@@ -131,7 +133,8 @@
           {
             "type": "explanation",
             "title": "Hinweis zu نَفْس und عَيْن im Quran",
-            "content": "Die Tawkid-Wörter نَفْس und عَيْن sind in der arabischen Grammatik standard, kommen im Quran jedoch nicht eindeutig als Tawkid ma'nawi vor. Das Wort نَفْس erscheint im Quran häufig, aber stets in anderen Funktionen: als eigenständiges Nomen ('Seele / Selbst', z.B. كُلُّ نَفْسٍ in 3:185), als reflexives Objekt (يَخْدَعُونَ أَنفُسَهُمْ in 2:9, أَنفُسَهُمْ يَظْلِمُونَ in 2:57) oder in Idafa-Konstruktionen — nie in der syntaktischen Position eines Tawkid (d.h. einem Bezugsnomen nachgestellt mit rückbezüglichem Pronomen zur reinen Identitätsbekräftigung). Ebenso fehlt عَيْن in Tawkid-Funktion im Quran. Die Quranbeispiele für Tawkid ma'nawi konzentrieren sich daher auf كُلّ, جَمِيع und كِلَا/كِلْتَا."
+            "content": "Die Tawkid-Wörter نَفْس und عَيْن sind in der arabischen Grammatik standard, kommen im Quran jedoch nicht eindeutig als Tawkid ma'nawi vor. Das Wort نَفْس erscheint im Quran häufig, aber stets in anderen Funktionen: als eigenständiges Nomen ('Seele / Selbst', z.B. كُلُّ نَفْسٍ in 3:185), als reflexives Objekt (يَخْدَعُونَ أَنفُسَهُمْ in 2:9, أَنفُسَهُمْ يَظْلِمُونَ in 2:57) oder in Idafa-Konstruktionen — nie in der syntaktischen Position eines Tawkid (d.h. einem Bezugsnomen nachgestellt mit rückbezüglichem Pronomen zur reinen Identitätsbekräftigung). Ebenso fehlt عَيْن in Tawkid-Funktion im Quran. Die Quranbeispiele für Tawkid ma'nawi konzentrieren sich daher auf كُلّ, جَمِيع und كِلَا/كِلْتَا.",
+            "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=185"
           },
           {
             "type": "quranExamples",
@@ -206,7 +209,8 @@
             "Weil es Hal ist"
           ],
           "correct": 1,
-          "explanation": "Tawkid folgt dem Kasus seines Bezugswortes. الأسماء ist Maf'ul bihi (Akkusativ), also steht كُلَّ auch im Akkusativ."
+          "explanation": "Tawkid folgt dem Kasus seines Bezugswortes. الأسماء ist Maf'ul bihi (Akkusativ), also steht كُلَّ auch im Akkusativ.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=31"
         },
         {
           "type": "multiple_choice",
@@ -218,7 +222,8 @@
             "Atf (Koordination)"
           ],
           "correct": 0,
-          "explanation": "أَجْمَعُونَ ist ein zweites Tawkid zu الملائكة — doppelte Bekräftigung. Nominativ weil الملائكة Fa'il ist."
+          "explanation": "أَجْمَعُونَ ist ein zweites Tawkid zu الملائكة — doppelte Bekräftigung. Nominativ weil الملائكة Fa'il ist.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=15&verse=30"
         }
       ],
       "testContent": {
@@ -251,7 +256,8 @@
               "Weil es ein Plural ist",
               "Es gibt keinen Unterschied"
             ],
-            "correct": 1
+            "correct": 1,
+            "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=18&verse=33"
           },
           {
             "question": "In welchem Vers steht ein doppeltes Tawkid (كُلّ + أَجْمَع)?",

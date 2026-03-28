@@ -66,7 +66,8 @@
         {
           "type": "identification",
           "question": "In خَشْيَةَ إِمْلَاقٍ (17:31) — was ist خَشْيَةَ grammatisch?",
-          "answer": "Maf'ul li-Ajlihi (wenn im Kontext ein Verb des Handelns steht). خَشْيَةَ = Masdar von خَشِيَ (fürchten), Akkusativ. الْإِمْلَاقِ = Genitiv (Verarmung). 'Aus Furcht vor Verarmung.' Der Kausalakkusativ gibt den Grund an: warum töten manche ihre Kinder? Aus Armutsfurcht."
+          "answer": "Maf'ul li-Ajlihi (wenn im Kontext ein Verb des Handelns steht). خَشْيَةَ = Masdar von خَشِيَ (fürchten), Akkusativ. الْإِمْلَاقِ = Genitiv (Verarmung). 'Aus Furcht vor Verarmung.' Der Kausalakkusativ gibt den Grund an: warum töten manche ihre Kinder? Aus Armutsfurcht.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=17&verse=31"
         }
       ],
       "testContent": {
@@ -131,12 +132,14 @@
         {
           "type": "identification",
           "question": "In 2:265 — warum stehen ابْتِغَاءَ und تَثْبِيتًا beide im Akkusativ?",
-          "answer": "Beide sind Maf'ul li-Ajlihi: sie geben den Grund des Spendens an. ابْتِغَاءَ steht als Idafa-Erstglied im Akkusativ, تَثْبِيتًا mit Tanwin al-Fath. Beide beantworten die Frage 'warum spenden sie?'"
+          "answer": "Beide sind Maf'ul li-Ajlihi: sie geben den Grund des Spendens an. ابْتِغَاءَ steht als Idafa-Erstglied im Akkusativ, تَثْبِيتًا mit Tanwin al-Fath. Beide beantworten die Frage 'warum spenden sie?'",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=265"
         },
         {
           "type": "distinction",
           "question": "Unterscheide: رِئَاءَ النَّاسِ (2:264) vs. عَلَىٰ حُبِّهِ (2:177) — welche Konstruktion liegt jeweils vor?",
-          "answer": "رِئَاءَ النَّاسِ = Maf'ul li-Ajlihi (Masdar im Akkusativ, ohne Präposition). عَلَىٰ حُبِّهِ = Jarr wa-Majrur (Präposition + Genitiv). Beide drücken eine Nebenumstand aus, aber syntaktisch verschieden."
+          "answer": "رِئَاءَ النَّاسِ = Maf'ul li-Ajlihi (Masdar im Akkusativ, ohne Präposition). عَلَىٰ حُبِّهِ = Jarr wa-Majrur (Präposition + Genitiv). Beide drücken eine Nebenumstand aus, aber syntaktisch verschieden.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=264"
         },
         {
           "type": "analysis",
@@ -155,7 +158,8 @@
               "Tamyiz (Spezifikation)"
             ],
             "correct": 2,
-            "explanation": "ابْتِغَاءَ ist ein Masdar (Form VIII von ب-غ-ي) im Akkusativ. Es beantwortet 'warum?' — warum tut jemand dies? Aus dem Anstreben des Wohlgefallens. Das ist die Definition des Maf'ul li-Ajlihi."
+            "explanation": "ابْتِغَاءَ ist ein Masdar (Form VIII von ب-غ-ي) im Akkusativ. Es beantwortet 'warum?' — warum tut jemand dies? Aus dem Anstreben des Wohlgefallens. Das ist die Definition des Maf'ul li-Ajlihi.",
+            "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=114"
           },
           {
             "question": "Wie unterscheidet man Maf'ul li-Ajlihi von Ḥāl?",
@@ -177,7 +181,8 @@
               "Nur in Nominalsätzen"
             ],
             "correct": 1,
-            "explanation": "2:265 zeigt zwei Maf'ul li-Ajlihi koordiniert mit وَ: ابْتِغَاءَ und تَثْبِيتًا — beide Masdare im Akkusativ, beide geben den Grund an."
+            "explanation": "2:265 zeigt zwei Maf'ul li-Ajlihi koordiniert mit وَ: ابْتِغَاءَ und تَثْبِيتًا — beide Masdare im Akkusativ, beide geben den Grund an.",
+            "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=265"
           }
         ]
       },

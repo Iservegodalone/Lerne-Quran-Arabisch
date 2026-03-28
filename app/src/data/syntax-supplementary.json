@@ -72,47 +72,49 @@
     "testContent": {
       "exercises": [
         {
-          "question": "Was drückt كَادَ يَفْعَلُ aus?",
+          "prompt": "Was drückt كَادَ يَفْعَلُ aus?",
           "options": [
             "Er tat es",
             "Er hätte es beinahe getan (die Handlung trat fast, aber nicht notwendigerweise ein)",
             "Er wird es tun",
             "Er wollte es tun"
           ],
-          "correct": 1,
+          "answer": "Er hätte es beinahe getan (die Handlung trat fast, aber nicht notwendigerweise ein)",
           "explanation": "Positives كَادَ drückt aus, dass eine Handlung nahe daran war einzutreten — beinahe, fast. Die Handlung selbst trat nicht notwendigerweise ein."
         },
         {
-          "question": "Was bedeutet وَمَا كَادُوا يَفْعَلُونَ (2:71)?",
+          "prompt": "Was bedeutet وَمَا كَادُوا يَفْعَلُونَ (2:71)?",
           "options": [
             "Sie taten es nicht",
             "Sie taten es beinahe",
             "Sie taten es, aber nur mit größter Muehe / kaum",
             "Sie wollten es tun"
           ],
-          "correct": 2,
-          "explanation": "Negiertes كَادَ (مَا كَادَ) bedeutet, dass die Handlung schließlich doch eintrat, aber nur knapp — 'sie taten es kaum'. Die Negation kehrt die Bedeutung um."
+          "answer": "Sie taten es, aber nur mit größter Muehe / kaum",
+          "explanation": "Negiertes كَادَ (مَا كَادَ) bedeutet, dass die Handlung schließlich doch eintrat, aber nur knapp — 'sie taten es kaum'. Die Negation kehrt die Bedeutung um.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=71"
         },
         {
-          "question": "Welcher Modus steht nach عَسَى أَنْ?",
+          "prompt": "Welcher Modus steht nach عَسَى أَنْ?",
           "options": [
             "Perfekt",
             "Imperfekt Indikativ",
             "Imperfekt Subjunktiv",
             "Imperativ"
           ],
-          "correct": 2,
-          "explanation": "Nach أَنْ steht der Subjunktiv. Deshalb: عَسَى أَنْ تَكْرَهُوا (2:216) — تَكْرَهُوا ohne Nun, weil Subjunktiv."
+          "answer": "Imperfekt Subjunktiv",
+          "explanation": "Nach أَنْ steht der Subjunktiv. Deshalb: عَسَى أَنْ تَكْرَهُوا (2:216) — تَكْرَهُوا ohne Nun, weil Subjunktiv.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=216"
         },
         {
-          "question": "Was ist der syntaktische Unterschied zwischen كَادَ und عَسَى?",
+          "prompt": "Was ist der syntaktische Unterschied zwischen كَادَ und عَسَى?",
           "options": [
             "كَادَ steht mit Perfekt, عَسَى mit Imperfekt",
             "كَادَ wird typisch OHNE أَنْ verwendet (Imperfekt Indikativ), عَسَى typisch MIT أَنْ (Imperfekt Subjunktiv)",
             "Kein Unterschied — beide sind austauschbar",
             "كَادَ ist ein Nomen, عَسَى ein Verb"
           ],
-          "correct": 1,
+          "answer": "كَادَ wird typisch OHNE أَنْ verwendet (Imperfekt Indikativ), عَسَى typisch MIT أَنْ (Imperfekt Subjunktiv)",
           "explanation": "Bei كَادَ fehlt أَنْ meistens, und das Imperfekt steht im Indikativ. Bei عَسَى steht أَنْ typischerweise, und das Imperfekt folgt im Subjunktiv."
         }
       ]
@@ -186,48 +188,50 @@
     "testContent": {
       "exercises": [
         {
-          "question": "Was sind أَفْعَال الْقُلُوب?",
+          "prompt": "Was sind أَفْعَال الْقُلُوب?",
           "options": [
             "Verben die den Herzschlag beschreiben",
             "Verben des Meinens, Wissens und Machens, die zwei Akkusative regieren",
             "Verben die nur im Perfekt konjugiert werden",
             "Verben die nur Gott als Subjekt haben"
           ],
-          "correct": 1,
+          "answer": "Verben des Meinens, Wissens und Machens, die zwei Akkusative regieren",
           "explanation": "Afʿal al-qulub (Herzensverben) sind Verben wie ظَنَّ, حَسِبَ, عَلِمَ, جَعَلَ, اتَّخَذَ, die zwei Akkusative regieren — das Bezugsobjekt und ein praedikatives Komplement."
         },
         {
-          "question": "In وَجَدَكَ ضَالًّا (93:7) — warum steht ضَالًّا im Akkusativ?",
+          "prompt": "In وَجَدَكَ ضَالًّا (93:7) — warum steht ضَالًّا im Akkusativ?",
           "options": [
             "Weil es ein Adverb ist",
             "Weil es nach einer Präposition steht",
             "Weil es der 2. Akkusativ von وَجَدَ ist — das praedikative Komplement zum 1. Akkusativ (كَ)",
             "Weil es ein Hal (Zustandsakkusativ) ist"
           ],
-          "correct": 2,
-          "explanation": "وَجَدَ regiert hier zwei Akkusative: كَ (dich) als 1. Akkusativ und ضَالًّا (irrend) als 2. Akkusativ. Ohne das Verb wäre es: أَنْتَ ضَالٌّ (du bist irrend)."
+          "answer": "Weil es der 2. Akkusativ von وَجَدَ ist — das praedikative Komplement zum 1. Akkusativ (كَ)",
+          "explanation": "وَجَدَ regiert hier zwei Akkusative: كَ (dich) als 1. Akkusativ und ضَالًّا (irrend) als 2. Akkusativ. Ohne das Verb wäre es: أَنْتَ ضَالٌّ (du bist irrend).",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=93&verse=7"
         },
         {
-          "question": "Was ist der Unterschied zwischen ظَنَنْتُ زَيْدًا صَادِقًا und ظَنَنْتُ أَنَّ زَيْدًا صَادِقٌ?",
+          "prompt": "Was ist der Unterschied zwischen ظَنَنْتُ زَيْدًا صَادِقًا und ظَنَنْتُ أَنَّ زَيْدًا صَادِقٌ?",
           "options": [
             "Verschiedene Bedeutungen",
             "Dieselbe Bedeutung — im ersten Fall zwei Akkusative, im zweiten ein أَنَّ-Satz. Im أَنَّ-Satz bleibt das Khabar (صَادِقٌ) im Nominativ",
             "Der erste Satz ist falsch",
             "Der zweite Satz ist falsch"
           ],
-          "correct": 1,
+          "answer": "Dieselbe Bedeutung — im ersten Fall zwei Akkusative, im zweiten ein أَنَّ-Satz. Im أَنَّ-Satz bleibt das Khabar (صَادِقٌ) im Nominativ",
           "explanation": "Beide Sätze bedeuten dasselbe: 'ich hielt Zayd für wahrhaftig'. Im ersten Fall regiert ظَنَّ zwei Akkusative. Im zweiten regiert es einen أَنَّ-Satz, in dem das Khabar (صَادِقٌ) im Nominativ bleibt."
         },
         {
-          "question": "Welches Verb hat in 43:19 (وَجَعَلُوا الْمَلَائِكَةَ ... إِنَاثًا) zwei Akkusative?",
+          "prompt": "Welches Verb hat in 43:19 (وَجَعَلُوا الْمَلَائِكَةَ ... إِنَاثًا) zwei Akkusative?",
           "options": [
             "عَبَدَ",
             "جَعَلَ — mit 1. Akk. الْمَلَائِكَةَ und 2. Akk. إِنَاثًا",
             "كَانَ",
             "إِنَّ"
           ],
-          "correct": 1,
-          "explanation": "جَعَلَ (machen zu) regiert hier الْمَلَائِكَةَ als 1. Akkusativ (die Engel) und إِنَاثًا als 2. Akkusativ (weiblich). Sie machten die Engel zu Weiblichen."
+          "answer": "جَعَلَ — mit 1. Akk. الْمَلَائِكَةَ und 2. Akk. إِنَاثًا",
+          "explanation": "جَعَلَ (machen zu) regiert hier الْمَلَائِكَةَ als 1. Akkusativ (die Engel) und إِنَاثًا als 2. Akkusativ (weiblich). Sie machten die Engel zu Weiblichen.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=43&verse=19"
         }
       ]
     }
@@ -311,47 +315,48 @@
     "testContent": {
       "exercises": [
         {
-          "question": "Was sind die Fünf Verben (الأَفْعَال الْخَمْسَة)?",
+          "prompt": "Was sind die Fünf Verben (الأَفْعَال الْخَمْسَة)?",
           "options": [
             "Die fünf häufigsten Verben im Quran",
             "Die fünf Imperfektformen, die im Indikativ auf Nun enden: يَفْعَلَانِ, تَفْعَلَانِ, يَفْعَلُونَ, تَفْعَلُونَ, تَفْعَلِينَ",
             "Die fünf Verbformen (I-V)",
             "Fünf unregelmäßige Verben"
           ],
-          "correct": 1,
+          "answer": "Die fünf Imperfektformen, die im Indikativ auf Nun enden: يَفْعَلَانِ, تَفْعَلَانِ, يَفْعَلُونَ, تَفْعَلُونَ, تَفْعَلِينَ",
           "explanation": "Die Fünf Verben sind die fünf Imperfektkonjugationen mit End-Nun im Indikativ: 3md, 3fd/2d, 3mp, 2mp, 2fs."
         },
         {
-          "question": "Was geschieht mit dem Nun der Fünf Verben im Subjunktiv und Jussiv?",
+          "prompt": "Was geschieht mit dem Nun der Fünf Verben im Subjunktiv und Jussiv?",
           "options": [
             "Es bleibt erhalten",
             "Es wird verdoppelt",
             "Es fällt weg",
             "Es wird zu Tanwin"
           ],
-          "correct": 2,
+          "answer": "Es fällt weg",
           "explanation": "Im Subjunktiv und Jussiv fällt das End-Nun weg: يَفْعَلُونَ → يَفْعَلُوا. Das Fehlen des Nun ist der Modusanzeiger."
         },
         {
-          "question": "In لَمْ تَعْلَمُوهُمْ (48:25) — warum fehlt das Nun?",
+          "prompt": "In لَمْ تَعْلَمُوهُمْ (48:25) — warum fehlt das Nun?",
           "options": [
             "Weil es ein Fehler ist",
             "Weil لَمْ den Jussiv auslöst, und im Jussiv der Fünf Verben fällt das Nun weg",
             "Weil es eine andere Wurzel ist",
             "Weil ein Pronominalsuffix folgt"
           ],
-          "correct": 1,
-          "explanation": "لَمْ ist eine Jussiv-Partikel. Bei den Fünf Verben wird der Jussiv durch den Wegfall des Nun angezeigt: تَعْلَمُونَ (Indikativ) → لَمْ تَعْلَمُوا (Jussiv) + Suffix هُمْ."
+          "answer": "Weil لَمْ den Jussiv auslöst, und im Jussiv der Fünf Verben fällt das Nun weg",
+          "explanation": "لَمْ ist eine Jussiv-Partikel. Bei den Fünf Verben wird der Jussiv durch den Wegfall des Nun angezeigt: تَعْلَمُونَ (Indikativ) → لَمْ تَعْلَمُوا (Jussiv) + Suffix هُمْ.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=48&verse=25"
         },
         {
-          "question": "Wie unterscheidet man Subjunktiv und Jussiv bei den Fünf Verben?",
+          "prompt": "Wie unterscheidet man Subjunktiv und Jussiv bei den Fünf Verben?",
           "options": [
             "Subjunktiv hat Fatha, Jussiv hat Sukun",
             "Subjunktiv hat Nun, Jussiv nicht",
             "Man kann sie NICHT an der Verbform unterscheiden — beide verlieren das Nun. Nur die regierende Partikel zeigt den Modus an",
             "Man unterscheidet sie am Kontext des Satzes"
           ],
-          "correct": 2,
+          "answer": "Man kann sie NICHT an der Verbform unterscheiden — beide verlieren das Nun. Nur die regierende Partikel zeigt den Modus an",
           "explanation": "Bei den Fünf Verben sehen Subjunktiv und Jussiv identisch aus (beide ohne Nun). Nur die Partikel entscheidet: لَنْ = Subjunktiv, لَمْ = Jussiv, لَا (Prohibitiv) = Jussiv."
         }
       ]

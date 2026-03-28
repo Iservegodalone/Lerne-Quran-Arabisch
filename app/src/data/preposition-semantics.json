@@ -168,10 +168,10 @@
                 "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=217"
               },
               {
-                "ref": "9:19",
-                "arabic": "أَعْظَمُ عِندَ اللَّهِ مِنَ الَّذِينَ آمَنُوا",
-                "explanation": "أَعْظَمُ ... مِنَ — komparativ: 'gewaltiger bei Gott ALS diejenigen, die glaubten'.",
-                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=9&verse=19"
+                "ref": "9:20",
+                "arabic": "أَعْظَمُ دَرَجَةً عِندَ اللَّهِ",
+                "explanation": "أَعْظَمُ دَرَجَةً عِندَ اللَّهِ — Elativ mit implizitem Vergleich (مِن aus 9:19 fortgesetzt): 'gewaltiger an Rang bei Gott'. Die Vergleichspartikel مِن ist aus dem vorherigen Vers kontextuell zu ergänzen.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=9&verse=20"
               }
             ]
           },
@@ -193,17 +193,20 @@
         {
           "type": "identification",
           "prompt": "Lies 2:164: أَنزَلَ مِنَ السَّمَاءِ مِن مَّاءٍ. Welche Funktion hat jede der beiden مِن?",
-          "hint": "Die erste مِن (مِنَ السَّمَاءِ) ist ablativ: Ausgangspunkt. Die zweite (مِن مَّاءٍ) ist explikativ oder partitiv."
+          "hint": "Die erste مِن (مِنَ السَّمَاءِ) ist ablativ: Ausgangspunkt. Die zweite (مِن مَّاءٍ) ist explikativ oder partitiv.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=164"
         },
         {
           "type": "analysis",
           "prompt": "In 5:19 steht مَا جَاءَنَا مِن بَشِيرٍ. Wie würde der Satz OHNE die expletive مِن lauten? Welcher Kasus ändert sich?",
-          "hint": "Ohne مِن: مَا جَاءَنَا بَشِيرٌ — das Subjekt steht im Nominativ statt Genitiv. Die مِن ist syntaktisch nicht notwendig, verstärkt aber die Negation."
+          "hint": "Ohne مِن: مَا جَاءَنَا بَشِيرٌ — das Subjekt steht im Nominativ statt Genitiv. Die مِن ist syntaktisch nicht notwendig, verstärkt aber die Negation.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=5&verse=19"
         },
         {
           "type": "comparison",
           "prompt": "Vergleiche die مِن in 2:217 (أَكْبَرُ مِنَ الْقَتْلِ) mit 2:60 (كُلُوا وَاشْرَبُوا مِن رِّزْقِ اللَّهِ). Welche Funktionen liegen vor?",
-          "hint": "2:217: komparativ (als, nach Elativ). 2:60: partitiv (einen Teil von)."
+          "hint": "2:217: komparativ (als, nach Elativ). 2:60: partitiv (einen Teil von).",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=217"
         }
       ],
       "testContent": {
@@ -217,7 +220,8 @@
               "Komparativ (als)"
             ],
             "correct": 2,
-            "explanation": "مِمَّا خَطِيئَاتِهِمْ — kausal: WEGEN ihrer Verfehlungen wurden sie ertrankt."
+            "explanation": "مِمَّا خَطِيئَاتِهِمْ — kausal: WEGEN ihrer Verfehlungen wurden sie ertrankt.",
+            "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=71&verse=25"
           },
           {
             "question": "Welche Funktion hat مِن in: فَمَا لَهُم مِّن نَّاصِرِينَ (35:44)?",
@@ -228,7 +232,8 @@
               "Ablativ"
             ],
             "correct": 1,
-            "explanation": "مِن nach Negation (مَا) ist expletiv — verstärkt die Verneinung: 'KEINERLEI Helfer'."
+            "explanation": "مِن nach Negation (مَا) ist expletiv — verstärkt die Verneinung: 'KEINERLEI Helfer'.",
+            "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=35&verse=44"
           },
           {
             "question": "Welche Funktion hat مِن in: فَاجْتَنِبُوا الرِّجْسَ مِنَ الْأَوْثَانِ (22:30)?",
@@ -239,7 +244,8 @@
               "Substitutiv"
             ],
             "correct": 2,
-            "explanation": "Explikativ: 'den Schmutz, NAEMLICH die Götzenbilder'. Die مِن erklärt den vorhergehenden Begriff."
+            "explanation": "Explikativ: 'den Schmutz, NAEMLICH die Götzenbilder'. Die مِن erklärt den vorhergehenden Begriff.",
+            "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=22&verse=30"
           },
           {
             "question": "Woran erkennt man die komparative مِن?",
@@ -261,7 +267,8 @@
               "Kausal"
             ],
             "correct": 1,
-            "explanation": "Substitutiv: 'an eurer Stelle Engel'. Nicht partitiv — Engel sind keine Teilmenge der Angesprochenen."
+            "explanation": "Substitutiv: 'an eurer Stelle Engel'. Nicht partitiv — Engel sind keine Teilmenge der Angesprochenen.",
+            "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=43&verse=60"
           }
         ]
       }
@@ -421,12 +428,14 @@
         {
           "type": "identification",
           "prompt": "Lies 1:1: بِسْمِ اللَّهِ. Welche Funktion hat die بِ? Vergleiche mit 90:1: لَا أُقْسِمُ بِهَٰذَا الْبَلَدِ.",
-          "hint": "1:1: instrumental (mit dem Namen). 90:1: Schwur (bei dieser Stadt)."
+          "hint": "1:1: instrumental (mit dem Namen). 90:1: Schwur (bei dieser Stadt).",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=1"
         },
         {
           "type": "analysis",
           "prompt": "In 2:17 steht ذَهَبَ اللَّهُ بِنُورِهِمْ. Was bedeutet ذَهَبَ ohne بِ? Was bewirkt die بِ hier?",
-          "hint": "ذَهَبَ = gehen (intransitiv). ذَهَبَ بِـ = wegnehmen (transitiv). Die بِ transitiviert das Verb."
+          "hint": "ذَهَبَ = gehen (intransitiv). ذَهَبَ بِـ = wegnehmen (transitiv). Die بِ transitiviert das Verb.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=17"
         }
       ],
       "testContent": {
@@ -440,7 +449,8 @@
               "Begleitung"
             ],
             "correct": 1,
-            "explanation": "Instrumental: 'der MIT dem Schreibrohr gelehrt hat'. Das Schreibrohr ist das Mittel/Instrument."
+            "explanation": "Instrumental: 'der MIT dem Schreibrohr gelehrt hat'. Das Schreibrohr ist das Mittel/Instrument.",
+            "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=96&verse=4"
           },
           {
             "question": "Welche Funktion hat بِ in: ذَٰلِكَ بِأَنَّهُمْ كَانُوا يَكْفُرُونَ (2:61)?",
@@ -451,7 +461,8 @@
               "Lokal"
             ],
             "correct": 1,
-            "explanation": "Kausal: 'dies WEIL sie leugneten'. Die Konstruktion ذَلِكَ بِأَنَّ ist ein fester Kausalmarker."
+            "explanation": "Kausal: 'dies WEIL sie leugneten'. Die Konstruktion ذَلِكَ بِأَنَّ ist ein fester Kausalmarker.",
+            "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=61"
           },
           {
             "question": "Welche Funktion hat بِ in: أَسْرَىٰ بِعَبْدِهِ (17:1)?",
@@ -462,7 +473,8 @@
               "Instrument"
             ],
             "correct": 2,
-            "explanation": "Transitivierend: أَسْرَى ist intransitiv (= reiste nachts). Die بِ macht es transitiv: 'liess seinen Diener reisen'."
+            "explanation": "Transitivierend: أَسْرَى ist intransitiv (= reiste nachts). Die بِ macht es transitiv: 'liess seinen Diener reisen'.",
+            "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=17&verse=1"
           }
         ]
       }
@@ -526,7 +538,8 @@
         {
           "type": "identification",
           "prompt": "Lies 20:71: فِي جُذُوعِ النَّخْلِ. Welche Funktion hat فِي hier? Ist es 'in' oder 'auf/an'?",
-          "hint": "Man wird nicht INNERHALB von Baumstämmen gekreuzigt, sondern AN ihnen. فِي = عَلَى hier."
+          "hint": "Man wird nicht INNERHALB von Baumstämmen gekreuzigt, sondern AN ihnen. فِي = عَلَى hier.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=20&verse=71"
         }
       ],
       "testContent": {
@@ -540,7 +553,8 @@
               "Auf (= عَلَى)"
             ],
             "correct": 1,
-            "explanation": "Temporal: 'innerhalb einiger Jahre'. فِي markiert den Zeitraum."
+            "explanation": "Temporal: 'innerhalb einiger Jahre'. فِي markiert den Zeitraum.",
+            "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=30&verse=4"
           },
           {
             "question": "Welche Funktion hat فِي in: فِي جُذُوعِ النَّخْلِ (20:71)?",
@@ -551,7 +565,8 @@
               "Kausal"
             ],
             "correct": 2,
-            "explanation": "فِي im Sinne von عَلَى: 'an den Stämmen'. Kreuzigung geschieht nicht innerhalb von Stämmen."
+            "explanation": "فِي im Sinne von عَلَى: 'an den Stämmen'. Kreuzigung geschieht nicht innerhalb von Stämmen.",
+            "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=20&verse=71"
           }
         ]
       }
@@ -604,7 +619,7 @@
               {
                 "ref": "2:185",
                 "arabic": "وَلِتُكَبِّرُوا اللَّهَ عَلَىٰ مَا هَدَاكُمْ",
-                "explanation": "عَلَىٰ مَا هَدَاكُمْ — kausal: 'DAFUER DASS er euch rechtgeleitet hat'. عَلَى leitet den Grund ein.",
+                "explanation": "عَلَىٰ مَا هَدَاكُمْ — kausal: 'DAFUER DASS er euch geleitet hat'. عَلَى leitet den Grund ein.",
                 "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=185"
               },
               {
@@ -621,7 +636,8 @@
         {
           "type": "identification",
           "prompt": "Lies 2:233 und 3:97. Welche Funktion hat عَلَى in beiden Versen? Was haben sie gemeinsam?",
-          "hint": "Beide Male: Verpflichtung. عَلَى markiert die Person, der etwas obliegt."
+          "hint": "Beide Male: Verpflichtung. عَلَى markiert die Person, der etwas obliegt.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=233"
         }
       ],
       "testContent": {
@@ -635,7 +651,8 @@
               "Trotzdem"
             ],
             "correct": 1,
-            "explanation": "Verpflichtung: 'dem Vater OBLIEGT ihre Versorgung'. عَلَى + Person = Pflicht."
+            "explanation": "Verpflichtung: 'dem Vater OBLIEGT ihre Versorgung'. عَلَى + Person = Pflicht.",
+            "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=233"
           },
           {
             "question": "Welche Funktion hat عَلَى in: فَضَّلْنَا بَعْضَهُمْ عَلَىٰ بَعْضٍ (2:253)?",
@@ -646,7 +663,8 @@
               "Kausal"
             ],
             "correct": 1,
-            "explanation": "Metaphorisch oben: eine Rangordnung — 'über einige andere (erhoben)'. Keine physische Position."
+            "explanation": "Metaphorisch oben: eine Rangordnung — 'über einige andere (erhoben)'. Keine physische Position.",
+            "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=253"
           }
         ]
       }
@@ -722,7 +740,8 @@
         {
           "type": "analysis",
           "prompt": "In 28:8 steht لِيَكُونَ لَهُمْ عَدُوًّا. Ist die لِ hier final (damit) oder konsekutiv (so dass als Resultat)? Was ist der Unterschied?",
-          "hint": "Die Familie Pharaos nahm Musa nicht auf, DAMIT er ihr Feind werde. Es war die unbeabsichtigte Konsequenz. Daher: لام الصيرورة / لام العاقبة (Resultat-Lam)."
+          "hint": "Die Familie Pharaos nahm Musa nicht auf, DAMIT er ihr Feind werde. Es war die unbeabsichtigte Konsequenz. Daher: لام الصيرورة / لام العاقبة (Resultat-Lam).",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=28&verse=8"
         }
       ],
       "testContent": {
@@ -736,7 +755,8 @@
               "Resultat"
             ],
             "correct": 1,
-            "explanation": "Besitz: 'das Lob GEHOERT Gott'. لِ markiert den Eigentuemer."
+            "explanation": "Besitz: 'das Lob GEHOERT Gott'. لِ markiert den Eigentuemer.",
+            "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=2"
           },
           {
             "question": "Welche Funktion hat لِ in: لِيَكُونَ لَهُمْ عَدُوًّا (28:8)?",
@@ -747,7 +767,8 @@
               "Transitivierung"
             ],
             "correct": 1,
-            "explanation": "Resultat/Konsequenz (لام الصيرورة): Sie nahmen ihn NICHT auf, damit er ihr Feind würde — es war das unbeabsichtigte Ergebnis."
+            "explanation": "Resultat/Konsequenz (لام الصيرورة): Sie nahmen ihn NICHT auf, damit er ihr Feind würde — es war das unbeabsichtigte Ergebnis.",
+            "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=28&verse=8"
           }
         ]
       }
@@ -817,7 +838,8 @@
         {
           "type": "identification",
           "prompt": "Lies 53:3: وَمَا يَنطِقُ عَنِ الْهَوَىٰ. Welche Funktion hat عَنْ? Ist es Separation oder etwas anderes?",
-          "hint": "عَنِ الْهَوَىٰ = aus/aufgrund von Begehren. عَنْ markiert die (abgelehnte) Quelle — kausal/quellenbezogen."
+          "hint": "عَنِ الْهَوَىٰ = aus/aufgrund von Begehren. عَنْ markiert die (abgelehnte) Quelle — kausal/quellenbezogen.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=53&verse=3"
         }
       ],
       "testContent": {
@@ -831,7 +853,8 @@
               "Substitutiv"
             ],
             "correct": 1,
-            "explanation": "Separation: 'wovon ihr abgehalten werdet' — عَنْ markiert das, wovon man sich entfernen soll."
+            "explanation": "Separation: 'wovon ihr abgehalten werdet' — عَنْ markiert das, wovon man sich entfernen soll.",
+            "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=31"
           },
           {
             "question": "Welche Funktion hat عَنْ in: وَمَا يَنطِقُ عَنِ الْهَوَىٰ (53:3)?",
@@ -842,7 +865,8 @@
               "Auf (= عَلَى)"
             ],
             "correct": 1,
-            "explanation": "Kausal/quellenbezogen: 'er spricht nicht AUS eigenem Begehren'. عَنْ markiert die Quelle der Rede."
+            "explanation": "Kausal/quellenbezogen: 'er spricht nicht AUS eigenem Begehren'. عَنْ markiert die Quelle der Rede.",
+            "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=53&verse=3"
           }
         ]
       }
@@ -894,7 +918,8 @@
         {
           "type": "identification",
           "prompt": "Vergleiche إِلَى in 2:187 (إِلَى اللَّيْلِ) mit 4:2 (إِلَى أَمْوَالِكُمْ). Welche Funktion hat إِلَى jeweils?",
-          "hint": "2:187: zeitliches Ziel (bis zur Nacht). 4:2: Begleitung (zusammen mit eurem Vermögen)."
+          "hint": "2:187: zeitliches Ziel (bis zur Nacht). 4:2: Begleitung (zusammen mit eurem Vermögen).",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=187"
         }
       ],
       "testContent": {
@@ -908,7 +933,8 @@
               "Bei (= عِنْدَ)"
             ],
             "correct": 1,
-            "explanation": "Zeitliches Ziel: 'vollendet das Fasten BIS zur Nacht'. إِلَى markiert den zeitlichen Endpunkt."
+            "explanation": "Zeitliches Ziel: 'vollendet das Fasten BIS zur Nacht'. إِلَى markiert den zeitlichen Endpunkt.",
+            "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=187"
           },
           {
             "question": "Welche Funktion hat إِلَى in: لَا تَأْكُلُوا أَمْوَالَهُمْ إِلَىٰ أَمْوَالِكُمْ (4:2)?",
@@ -919,7 +945,8 @@
               "Kausal"
             ],
             "correct": 2,
-            "explanation": "Begleitung (= مَعَ): 'esst nicht ihr Vermögen zusammen mit eurem'. إِلَى funktioniert hier wie مَعَ."
+            "explanation": "Begleitung (= مَعَ): 'esst nicht ihr Vermögen zusammen mit eurem'. إِلَى funktioniert hier wie مَعَ.",
+            "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=2"
           }
         ]
       }
@@ -988,7 +1015,8 @@
         {
           "type": "identification",
           "prompt": "Lies 2:187. Der Vers enthält sowohl إِلَى اللَّيْلِ als auch حَتَّىٰ يَتَبَيَّنَ. Vergleiche die Funktion beider. Welcher Modus folgt auf حَتَّى?",
-          "hint": "Beide markieren einen Endpunkt. إِلَى + Genitiv (Nomen). حَتَّى + Subjunktiv (Verb — يَتَبَيَّنَ hat Fatha statt Damma)."
+          "hint": "Beide markieren einen Endpunkt. إِلَى + Genitiv (Nomen). حَتَّى + Subjunktiv (Verb — يَتَبَيَّنَ hat Fatha statt Damma).",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=187"
         }
       ],
       "testContent": {
@@ -1013,7 +1041,8 @@
               "Temporal"
             ],
             "correct": 1,
-            "explanation": "Vergleich: 'nichts ist WIE sein Gleichnis'. كَ ist die Vergleichspartikel."
+            "explanation": "Vergleich: 'nichts ist WIE sein Gleichnis'. كَ ist die Vergleichspartikel.",
+            "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=42&verse=11"
           }
         ]
       }

@@ -37,7 +37,8 @@
           {
             "type": "explanation",
             "title": "تَ — Ta al-Qasam",
-            "content": "تَ ist die seltenste und am stärksten eingeschränkte Schwurpartikel. Im Quran ausschließlich in der Formel تَاللَّهِ belegt. Sie kommt nur dreimal vor (12:73, 12:91, 21:57) — immer in direkter Rede.\n\nGrammatisch regiert تَ wie بِ den Genitiv (اللَّهِ). Die Distribution ist aber völlig anders: Während وَ und بِ mit verschiedenen Schwurobjekten kombinierbar sind, ist تَ auf اللَّه fixiert."
+            "content": "تَ ist die seltenste und am stärksten eingeschränkte Schwurpartikel. Im Quran ausschließlich in der Formel تَاللَّهِ belegt. Sie kommt nur dreimal vor (12:73, 12:91, 21:57) — immer in direkter Rede.\n\nGrammatisch regiert تَ wie بِ den Genitiv (اللَّهِ). Die Distribution ist aber völlig anders: Während وَ und بِ mit verschiedenen Schwurobjekten kombinierbar sind, ist تَ auf اللَّه fixiert.",
+            "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=12&verse=73"
           },
           {
             "type": "quranExamples",
@@ -64,7 +65,8 @@
               {
                 "ref": "56:75-76",
                 "arabic": "فَلَا أُقْسِمُ بِمَوَاقِعِ النُّجُومِ ۝ وَإِنَّهُ لَقَسَمٌ لَّوْ تَعْلَمُونَ عَظِيمٌ",
-                "explanation": "أُقْسِمُ بِمَوَاقِعِ النُّجُومِ — Ba al-Qasam nach dem Verb أُقْسِمُ. Schwurobjekt: 'die Untergangsorte der Sterne'. Das فَلَا vor أُقْسِمُ ist ein bekanntes Muster (s. Lektion QAS5). Der anschliessende Metakommentar (وَإِنَّهُ لَقَسَمٌ ... عَظِيمٌ) hebt die Bedeutung des Schwurs hervor."
+                "explanation": "أُقْسِمُ بِمَوَاقِعِ النُّجُومِ — Ba al-Qasam nach dem Verb أُقْسِمُ. Schwurobjekt: 'die Untergangsorte der Sterne'. Das فَلَا vor أُقْسِمُ ist ein bekanntes Muster (s. Lektion QAS5). Der anschliessende Metakommentar (وَإِنَّهُ لَقَسَمٌ ... عَظِيمٌ) hebt die Bedeutung des Schwurs hervor.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=56&verse=75"
               },
               {
                 "ref": "16:38",
@@ -80,12 +82,14 @@
         {
           "type": "identification",
           "prompt": "Lies 21:57 (وَتَاللَّهِ لَأَكِيدَنَّ أَصْنَامَكُم بَعْدَ أَن تُوَلُّوا مُدْبِرِينَ). Welche Schwurpartikel liegt vor? Identifiziere das Schwurobjekt und die Schwurantwort.",
-          "hint": "Die Schwurpartikel ist تَ. Das Schwurobjekt ist اللَّه. Die Schwurantwort ist لَأَكِيدَنَّ — eingeleitet durch لَ mit Energetikus-Nun (نون التوكيد)."
+          "hint": "Die Schwurpartikel ist تَ. Das Schwurobjekt ist اللَّه. Die Schwurantwort ist لَأَكِيدَنَّ — eingeleitet durch لَ mit Energetikus-Nun (نون التوكيد).",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=21&verse=57"
         },
         {
           "type": "identification",
           "prompt": "In 6:23 steht: وَاللَّهِ رَبِّنَا مَا كُنَّا مُشْرِكِينَ. Welche Schwurpartikel wird verwendet? Was ist das Schwurobjekt, und wie ist die Schwurantwort syntaktisch aufgebaut?",
-          "hint": "وَ ist die Schwurpartikel, اللَّهِ رَبِّنَا ist das Schwurobjekt (mit Apposition رَبِّنَا). Die Schwurantwort ist ein negierter Nominalsatz: مَا كُنَّا مُشْرِكِينَ."
+          "hint": "وَ ist die Schwurpartikel, اللَّهِ رَبِّنَا ist das Schwurobjekt (mit Apposition رَبِّنَا). Die Schwurantwort ist ein negierter Nominalsatz: مَا كُنَّا مُشْرِكِينَ.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=6&verse=23"
         }
       ]
     },
@@ -102,7 +106,8 @@
           {
             "type": "explanation",
             "title": "Marker der Schwurantwort (Jawab-Partikeln)",
-            "content": "Die wichtigsten Marker im Quran:\n\n1. لَ (Lam al-Qasam) — steht vor Nominalsätzen und vor dem Energetikus:\n   - لَ + Nominalsatz: وَالْعَصْرِ ۝ إِنَّ الْإِنسَانَ لَفِي خُسْرٍ (103:1-2)\n   - لَ + Energetikus-Verb: لَأَكِيدَنَّ (21:57)\n\n2. إِنَّ — Verstärkungspartikel, häufig in Kombination mit لَ:\n   - إِنَّ allein: وَالْعَصْرِ ۝ إِنَّ الْإِنسَانَ (103:1-2)\n   - إِنَّ ... لَ (sog. لَ المُزَحْلَقَة): إِنَّ الْإِنسَانَ لَفِي خُسْرٍ — das لَ wird auf das Prädikat 'verschoben'\n\n3. قَدْ — Verifikationspartikel ('tatsächlich, bereits'):\n   - Nach لَ: لَقَدْ — die stärkste und häufigste Kombination\n\n4. لَقَدْ — Kombination aus Schwur-Lam und قَدْ. Leitet typischerweise einen Perfekt-Satz ein:\n   - تَاللَّهِ لَقَدْ آثَرَكَ اللَّهُ (12:91)\n\n5. مَا / لَا — negierte Schwurantwort:\n   - وَالضُّحَىٰ ... مَا وَدَّعَكَ رَبُّكَ وَمَا قَلَىٰ (93:1-3)\n\n6. لَ + Energetikus (لَ + Imperfekt + نَّ / نْ):\n   - لَأَكِيدَنَّ, لَتُسْأَلُنَّ — der Energetikus verstärkt die Aussage über die Zukunft."
+            "content": "Die wichtigsten Marker im Quran:\n\n1. لَ (Lam al-Qasam) — steht vor Nominalsätzen und vor dem Energetikus:\n   - لَ + Nominalsatz: وَالْعَصْرِ ۝ إِنَّ الْإِنسَانَ لَفِي خُسْرٍ (103:1-2)\n   - لَ + Energetikus-Verb: لَأَكِيدَنَّ (21:57)\n\n2. إِنَّ — Verstärkungspartikel, häufig in Kombination mit لَ:\n   - إِنَّ allein: وَالْعَصْرِ ۝ إِنَّ الْإِنسَانَ (103:1-2)\n   - إِنَّ ... لَ (sog. لَ المُزَحْلَقَة): إِنَّ الْإِنسَانَ لَفِي خُسْرٍ — das لَ wird auf das Prädikat 'verschoben'\n\n3. قَدْ — Verifikationspartikel ('tatsächlich, bereits'):\n   - Nach لَ: لَقَدْ — die stärkste und häufigste Kombination\n\n4. لَقَدْ — Kombination aus Schwur-Lam und قَدْ. Leitet typischerweise einen Perfekt-Satz ein:\n   - تَاللَّهِ لَقَدْ آثَرَكَ اللَّهُ (12:91)\n\n5. مَا / لَا — negierte Schwurantwort:\n   - وَالضُّحَىٰ ... مَا وَدَّعَكَ رَبُّكَ وَمَا قَلَىٰ (93:1-3)\n\n6. لَ + Energetikus (لَ + Imperfekt + نَّ / نْ):\n   - لَأَكِيدَنَّ, لَتُسْأَلُنَّ — der Energetikus verstärkt die Aussage über die Zukunft.",
+            "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=103&verse=1"
           },
           {
             "type": "explanation",
@@ -116,17 +121,20 @@
               {
                 "ref": "103:1-2",
                 "arabic": "وَالْعَصْرِ ۝ إِنَّ الْإِنسَانَ لَفِي خُسْرٍ",
-                "explanation": "إِنَّ ... لَ — Schwurantwort auf وَالْعَصْرِ. إِنَّ leitet den Nominalsatz ein, لَ steht auf dem Prädikat (لَفِي خُسْرٍ). Das لَ ist hier die sog. Lam al-Muzahlaqah — es wird von der Anfangsposition auf das Prädikat verschoben, weil إِنَّ die erste Position besetzt."
+                "explanation": "إِنَّ ... لَ — Schwurantwort auf وَالْعَصْرِ. إِنَّ leitet den Nominalsatz ein, لَ steht auf dem Prädikat (لَفِي خُسْرٍ). Das لَ ist hier die sog. Lam al-Muzahlaqah — es wird von der Anfangsposition auf das Prädikat verschoben, weil إِنَّ die erste Position besetzt.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=103&verse=1"
               },
               {
                 "ref": "100:6-8",
                 "arabic": "إِنَّ الْإِنسَانَ لِرَبِّهِ لَكَنُودٌ ۝ وَإِنَّهُ عَلَىٰ ذَٰلِكَ لَشَهِيدٌ ۝ وَإِنَّهُ لِحُبِّ الْخَيْرِ لَشَدِيدٌ",
-                "explanation": "Dreifache إِنَّ ... لَ Struktur als Schwurantwort auf die vorangehende Schwurkette (100:1-5). Jeder Satz hat dasselbe Muster: إِنَّ + Subjekt + Präpositionalphrase + لَ + Prädikat."
+                "explanation": "Dreifache إِنَّ ... لَ Struktur als Schwurantwort auf die vorangehende Schwurkette (100:1-5). Jeder Satz hat dasselbe Muster: إِنَّ + Subjekt + Präpositionalphrase + لَ + Prädikat.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=100&verse=6"
               },
               {
                 "ref": "93:1-3",
                 "arabic": "وَالضُّحَىٰ ۝ وَاللَّيْلِ إِذَا سَجَىٰ ۝ مَا وَدَّعَكَ رَبُّكَ وَمَا قَلَىٰ",
-                "explanation": "مَا + Perfekt — negierte Schwurantwort. Zwei Schwüre (وَالضُّحَىٰ, وَاللَّيْلِ) gefolgt von negierter Antwort: 'Dein Herr hat dich nicht verlassen und nicht gehasst.' مَا negiert hier das Perfekt."
+                "explanation": "مَا + Perfekt — negierte Schwurantwort. Zwei Schwüre (وَالضُّحَىٰ, وَاللَّيْلِ) gefolgt von negierter Antwort: 'Dein Herr hat dich nicht verlassen und nicht gehasst.' مَا negiert hier das Perfekt.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=93&verse=1"
               },
               {
                 "ref": "21:57",
@@ -137,12 +145,14 @@
               {
                 "ref": "15:92-93",
                 "arabic": "فَوَرَبِّكَ لَنَسْأَلَنَّهُمْ أَجْمَعِينَ ۝ عَمَّا كَانُوا يَعْمَلُونَ",
-                "explanation": "فَوَرَبِّكَ لَنَسْأَلَنَّهُمْ — Schwur mit وَ + رَبِّكَ, Antwort mit لَ + Energetikus. 'Bei deinem Herrn, wir werden sie alle befragen.' Das فَ am Anfang ist konnektiv, nicht Teil des Schwurs."
+                "explanation": "فَوَرَبِّكَ لَنَسْأَلَنَّهُمْ — Schwur mit وَ + رَبِّكَ, Antwort mit لَ + Energetikus. 'Bei deinem Herrn, wir werden sie alle befragen.' Das فَ am Anfang ist konnektiv, nicht Teil des Schwurs.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=15&verse=92"
               },
               {
                 "ref": "36:1-3",
                 "arabic": "يس ۝ وَالْقُرْآنِ الْحَكِيمِ ۝ إِنَّكَ لَمِنَ الْمُرْسَلِينَ",
-                "explanation": "وَالْقُرْآنِ — Schwur beim Quran selbst. Schwurantwort: إِنَّكَ لَمِنَ الْمُرْسَلِينَ (إِنَّ + لَ Muster). 'Beim weisen Quran — du gehörst zu den Gesandten.'"
+                "explanation": "وَالْقُرْآنِ — Schwur beim Quran selbst. Schwurantwort: إِنَّكَ لَمِنَ الْمُرْسَلِينَ (إِنَّ + لَ Muster). 'Beim weisen Quran — du gehörst zu den Gesandten.'",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=36&verse=1"
               }
             ]
           }
@@ -152,12 +162,14 @@
         {
           "type": "identification",
           "prompt": "Lies 95:1-4 (وَالتِّينِ وَالزَّيْتُونِ ۝ وَطُورِ سِينِينَ ۝ وَهَٰذَا الْبَلَدِ الْأَمِينِ ۝ لَقَدْ خَلَقْنَا الْإِنسَانَ فِي أَحْسَنِ تَقْوِيمٍ). Identifiziere: (a) Schwurpartikeln und Schwurobjekte, (b) Jawab-Marker, (c) die eigentliche beschworene Aussage.",
-          "hint": "Vier Schwüre mit وَ: التِّين, الزَّيْتُون, طُور سِينِين, هَٰذَا الْبَلَد الْأَمِين. Jawab-Marker: لَقَدْ. Beschworene Aussage: خَلَقْنَا الْإِنسَانَ فِي أَحْسَنِ تَقْوِيمٍ."
+          "hint": "Vier Schwüre mit وَ: التِّين, الزَّيْتُون, طُور سِينِين, هَٰذَا الْبَلَد الْأَمِين. Jawab-Marker: لَقَدْ. Beschworene Aussage: خَلَقْنَا الْإِنسَانَ فِي أَحْسَنِ تَقْوِيمٍ.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=95&verse=1"
         },
         {
           "type": "analysis",
           "prompt": "Vergleiche die Schwurantwort in 103:1-2 (إِنَّ الْإِنسَانَ لَفِي خُسْرٍ) mit der in 95:4 (لَقَدْ خَلَقْنَا الْإِنسَانَ). Warum unterscheiden sich die Jawab-Marker?",
-          "hint": "103:2 ist ein Nominalsatz — daher إِنَّ ... لَ. 95:4 ist ein Verbalsatz im Perfekt — daher لَقَدْ. Der Satztyp der Schwurantwort bestimmt den Marker."
+          "hint": "103:2 ist ein Nominalsatz — daher إِنَّ ... لَ. 95:4 ist ein Verbalsatz im Perfekt — daher لَقَدْ. Der Satztyp der Schwurantwort bestimmt den Marker.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=103&verse=1"
         }
       ]
     },
@@ -183,12 +195,14 @@
               {
                 "ref": "89:1-5",
                 "arabic": "وَالْفَجْرِ ۝ وَلَيَالٍ عَشْرٍ ۝ وَالشَّفْعِ وَالْوَتْرِ ۝ وَاللَّيْلِ إِذَا يَسْرِ ۝ هَلْ فِي ذَٰلِكَ قَسَمٌ لِّذِي حِجْرٍ",
-                "explanation": "Vier Schwüre (الْفَجْر, لَيَالٍ عَشْر, الشَّفْع وَالْوَتْر, اللَّيْل), gefolgt von einer rhetorischen Frage (هَلْ فِي ذَٰلِكَ قَسَمٌ) statt eines Jawab. Vers 5 ist ein Metakommentar über den Schwur selbst. Der eigentliche Jawab ist syntaktisch nicht durch Standard-Marker eingeleitet — ob Vers 6 ff. als Jawab zu werten sind, hängt von der Analyse ab."
+                "explanation": "Vier Schwüre (الْفَجْر, لَيَالٍ عَشْر, الشَّفْع وَالْوَتْر, اللَّيْل), gefolgt von einer rhetorischen Frage (هَلْ فِي ذَٰلِكَ قَسَمٌ) statt eines Jawab. Vers 5 ist ein Metakommentar über den Schwur selbst. Der eigentliche Jawab ist syntaktisch nicht durch Standard-Marker eingeleitet — ob Vers 6 ff. als Jawab zu werten sind, hängt von der Analyse ab.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=89&verse=1"
               },
               {
                 "ref": "85:1-4",
                 "arabic": "وَالسَّمَاءِ ذَاتِ الْبُرُوجِ ۝ وَالْيَوْمِ الْمَوْعُودِ ۝ وَشَاهِدٍ وَمَشْهُودٍ ۝ قُتِلَ أَصْحَابُ الْأُخْدُودِ",
-                "explanation": "Drei Schwüre (السَّمَاء, الْيَوْم الْمَوْعُود, شَاهِد وَمَشْهُود). Vers 4 (قُتِلَ أَصْحَابُ الْأُخْدُودِ) hat keinen expliziten Jawab-Marker. Syntaktisch ist nicht eindeutig, ob dieser Satz der Jawab ist oder ob der Jawab unterdrueckt wurde und Vers 4 eine neue Aussage beginnt."
+                "explanation": "Drei Schwüre (السَّمَاء, الْيَوْم الْمَوْعُود, شَاهِد وَمَشْهُود). Vers 4 (قُتِلَ أَصْحَابُ الْأُخْدُودِ) hat keinen expliziten Jawab-Marker. Syntaktisch ist nicht eindeutig, ob dieser Satz der Jawab ist oder ob der Jawab unterdrueckt wurde und Vers 4 eine neue Aussage beginnt.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=85&verse=1"
               },
               {
                 "ref": "38:1",
@@ -204,12 +218,14 @@
         {
           "type": "analysis",
           "prompt": "Lies 89:1-14. Identifiziere alle Schwüre in den Versen 1-4. Gibt es in den Versen 5-14 einen klar markierten Jawab al-Qasam (mit إِنَّ, لَقَدْ, لَ + Energetikus)? Wenn nicht — was folgt stattdessen?",
-          "hint": "Es gibt keinen durch Standard-Jawab-Marker eingeleiteten Satz. Vers 5 ist ein Metakommentar (هَلْ فِي ذَٰلِكَ قَسَمٌ). Ab Vers 6 folgen narrative Sätze ohne Schwurmarkierung. Der Jawab ist unterdrueckt oder strittig."
+          "hint": "Es gibt keinen durch Standard-Jawab-Marker eingeleiteten Satz. Vers 5 ist ein Metakommentar (هَلْ فِي ذَٰلِكَ قَسَمٌ). Ab Vers 6 folgen narrative Sätze ohne Schwurmarkierung. Der Jawab ist unterdrueckt oder strittig.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=89&verse=1"
         },
         {
           "type": "identification",
           "prompt": "Vergleiche 85:1-4 mit 95:1-4. Beide haben eine Kette von Schwüren. In welchem Fall ist der Jawab klar markiert, und in welchem nicht?",
-          "hint": "95:4 hat لَقَدْ — klarer Jawab-Marker. 85:4 hat قُتِلَ ohne Jawab-Marker — der Jawab ist syntaktisch nicht eindeutig markiert."
+          "hint": "95:4 hat لَقَدْ — klarer Jawab-Marker. 85:4 hat قُتِلَ ohne Jawab-Marker — der Jawab ist syntaktisch nicht eindeutig markiert.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=85&verse=1"
         }
       ]
     },
@@ -241,17 +257,20 @@
               {
                 "ref": "92:1-3",
                 "arabic": "وَاللَّيْلِ إِذَا يَغْشَىٰ ۝ وَالنَّهَارِ إِذَا تَجَلَّىٰ ۝ وَمَا خَلَقَ الذَّكَرَ وَالْأُنثَىٰ",
-                "explanation": "Drei Schwüre: Nacht (اللَّيْل) und Tag (النَّهَار) als kosmisches Paar, dann ein Ma-Satz (وَمَا خَلَقَ — 'und was männlich und weiblich erschuf'). مَا ist hier ein Relativpronomen als Schwurobjekt."
+                "explanation": "Drei Schwüre: Nacht (اللَّيْل) und Tag (النَّهَار) als kosmisches Paar, dann ein Ma-Satz (وَمَا خَلَقَ — 'und was männlich und weiblich erschuf'). مَا ist hier ein Relativpronomen als Schwurobjekt.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=92&verse=1"
               },
               {
                 "ref": "90:1-2",
                 "arabic": "لَا أُقْسِمُ بِهَٰذَا الْبَلَدِ ۝ وَأَنتَ حِلٌّ بِهَٰذَا الْبَلَدِ",
-                "explanation": "Ort: هَٰذَا الْبَلَد ('diese Stadt') — Schwur bei einem Ort. بِ als Schwurpartikel nach أُقْسِمُ. Die Wiederholung بِهَٰذَا الْبَلَدِ in Vers 2 ist ein Zustandssatz, kein zweiter Schwur."
+                "explanation": "Ort: هَٰذَا الْبَلَد ('diese Stadt') — Schwur bei einem Ort. بِ als Schwurpartikel nach أُقْسِمُ. Die Wiederholung بِهَٰذَا الْبَلَدِ in Vers 2 ist ein Zustandssatz, kein zweiter Schwur.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=90&verse=1"
               },
               {
                 "ref": "44:1-2",
                 "arabic": "حم ۝ وَالْكِتَابِ الْمُبِينِ",
-                "explanation": "Text: الْكِتَاب الْمُبِين ('das deutliche Buch') — Schwur beim Buch/der Schrift selbst. Genitiv-Attribut الْمُبِين kongruent im Genitiv."
+                "explanation": "Text: الْكِتَاب الْمُبِين ('das deutliche Buch') — Schwur beim Buch/der Schrift selbst. Genitiv-Attribut الْمُبِين kongruent im Genitiv.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=44&verse=1"
               },
               {
                 "ref": "91:7",
@@ -273,12 +292,14 @@
         {
           "type": "identification",
           "prompt": "Lies Surah 81:15-18 (فَلَا أُقْسِمُ بِالْخُنَّسِ ۝ الْجَوَارِ الْكُنَّسِ ۝ وَاللَّيْلِ إِذَا عَسْعَسَ ۝ وَالصُّبْحِ إِذَا تَنَفَّسَ). Kategorisiere die Schwurobjekte. Welche gehören zu kosmischen Phänomenen, welche zu Tageszeiten?",
-          "hint": "الْخُنَّس / الْجَوَارِ الْكُنَّس sind kosmische Phänomene (Himmelsobjekte, die sich zurückziehen/verbergen). اللَّيْل und الصُّبْح sind Tageszeiten mit temporalen Erweiterungen (إِذَا عَسْعَسَ, إِذَا تَنَفَّسَ)."
+          "hint": "الْخُنَّس / الْجَوَارِ الْكُنَّس sind kosmische Phänomene (Himmelsobjekte, die sich zurückziehen/verbergen). اللَّيْل und الصُّبْح sind Tageszeiten mit temporalen Erweiterungen (إِذَا عَسْعَسَ, إِذَا تَنَفَّسَ).",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=81&verse=15"
         },
         {
           "type": "analysis",
           "prompt": "In 91:7 steht وَنَفْسٍ (indefinit), in 75:2 steht وَلَا أُقْسِمُ بِالنَّفْسِ اللَّوَّامَةِ (definit mit Attribut). Was ist der syntaktische Unterschied zwischen dem indefiniten und dem definiten Schwurobjekt?",
-          "hint": "Indefinites نَفْسٍ (Tanwin) bezeichnet 'ein Selbst / Selbst im Allgemeinen'. Definites النَّفْس اللَّوَّامَة hat den Artikel und ein Attribut — es referiert auf eine spezifische Art von Selbst ('das sich selbst tadelnde Selbst')."
+          "hint": "Indefinites نَفْسٍ (Tanwin) bezeichnet 'ein Selbst / Selbst im Allgemeinen'. Definites النَّفْس اللَّوَّامَة hat den Artikel und ein Attribut — es referiert auf eine spezifische Art von Selbst ('das sich selbst tadelnde Selbst').",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=91&verse=7"
         }
       ]
     },
@@ -290,17 +311,20 @@
           {
             "type": "explanation",
             "title": "Struktur der Schwurkette",
-            "content": "Eine Schwurkette (Mehrfachschwur) besteht aus mehreren aufeinanderfolgenden Schwüren, die alle denselben Jawab teilen. Struktur:\n\nوَ + Objekt₁ ۝ وَ + Objekt₂ ۝ ... وَ + Objektₙ ۝ Jawab\n\nDer Jawab steht erst am Ende der Kette. Alle Schwüre sind syntaktisch koordiniert und führen gemeinsam auf eine einzige beschworene Aussage hin.\n\nDie Kettenlänge variiert im Quran erheblich:\n- 2 Schwüre: وَالضُّحَىٰ ۝ وَاللَّيْلِ (93:1-2)\n- 3 Schwüre: وَالتِّينِ وَالزَّيْتُونِ ۝ وَطُورِ سِينِينَ ۝ وَهَٰذَا الْبَلَدِ (95:1-3)\n- 5 Schwüre: وَالذَّارِيَاتِ ... (51:1-4) + Jawab in 51:5\n- 7 Schwüre: وَالشَّمْسِ ... (91:1-7) + Jawab in 91:7 oder später\n\nJe länger die Kette, desto stärker die rhetorische Spannung vor dem Jawab."
+            "content": "Eine Schwurkette (Mehrfachschwur) besteht aus mehreren aufeinanderfolgenden Schwüren, die alle denselben Jawab teilen. Struktur:\n\nوَ + Objekt₁ ۝ وَ + Objekt₂ ۝ ... وَ + Objektₙ ۝ Jawab\n\nDer Jawab steht erst am Ende der Kette. Alle Schwüre sind syntaktisch koordiniert und führen gemeinsam auf eine einzige beschworene Aussage hin.\n\nDie Kettenlänge variiert im Quran erheblich:\n- 2 Schwüre: وَالضُّحَىٰ ۝ وَاللَّيْلِ (93:1-2)\n- 3 Schwüre: وَالتِّينِ وَالزَّيْتُونِ ۝ وَطُورِ سِينِينَ ۝ وَهَٰذَا الْبَلَدِ (95:1-3)\n- 5 Schwüre: وَالذَّارِيَاتِ ... (51:1-4) + Jawab in 51:5\n- 7 Schwüre: وَالشَّمْسِ ... (91:1-7) + Jawab in 91:7 oder später\n\nJe länger die Kette, desto stärker die rhetorische Spannung vor dem Jawab.",
+            "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=93&verse=1"
           },
           {
             "type": "explanation",
             "title": "Surah 91 — Die längste Schwurkette",
-            "content": "Surah asch-Schams (91) enthält die längste zusammenhängende Schwurkette im Quran. Sieben (bzw. elf, je nach Analyse) Schwüre stehen vor der Schwurantwort:\n\n1. وَالشَّمْسِ وَضُحَاهَا — die Sonne und ihr Morgenglanz\n2. وَالْقَمَرِ إِذَا تَلَاهَا — der Mond, wenn er ihr folgt\n3. وَالنَّهَارِ إِذَا جَلَّاهَا — der Tag, wenn er sie (die Erde) sichtbar macht\n4. وَاللَّيْلِ إِذَا يَغْشَاهَا — die Nacht, wenn sie sie bedeckt\n5. وَالسَّمَاءِ وَمَا بَنَاهَا — der Himmel und was ihn gebaut hat\n6. وَالْأَرْضِ وَمَا طَحَاهَا — die Erde und was sie ausgebreitet hat\n7. وَنَفْسٍ وَمَا سَوَّاهَا — ein Selbst und was es geformt hat\n\nDie Schwurobjekte sind paarweise organisiert: Sonne/Mond, Tag/Nacht, Himmel/Erde, dann das Selbst als Abschluss. Diese Paarstruktur ist ein wichtiges Ordnungsprinzip.\n\nDer Jawab wird unterschiedlich bestimmt — ob قَدْ أَفْلَحَ (91:9) als Jawab fungiert, ist syntaktisch diskutabel, da قَدْ ohne vorausgehendes لَ steht."
+            "content": "Surah asch-Schams (91) enthält die längste zusammenhängende Schwurkette im Quran. Sieben (bzw. elf, je nach Analyse) Schwüre stehen vor der Schwurantwort:\n\n1. وَالشَّمْسِ وَضُحَاهَا — die Sonne und ihr Morgenglanz\n2. وَالْقَمَرِ إِذَا تَلَاهَا — der Mond, wenn er ihr folgt\n3. وَالنَّهَارِ إِذَا جَلَّاهَا — der Tag, wenn er sie (die Erde) sichtbar macht\n4. وَاللَّيْلِ إِذَا يَغْشَاهَا — die Nacht, wenn sie sie bedeckt\n5. وَالسَّمَاءِ وَمَا بَنَاهَا — der Himmel und was ihn gebaut hat\n6. وَالْأَرْضِ وَمَا طَحَاهَا — die Erde und was sie ausgebreitet hat\n7. وَنَفْسٍ وَمَا سَوَّاهَا — ein Selbst und was es geformt hat\n\nDie Schwurobjekte sind paarweise organisiert: Sonne/Mond, Tag/Nacht, Himmel/Erde, dann das Selbst als Abschluss. Diese Paarstruktur ist ein wichtiges Ordnungsprinzip.\n\nDer Jawab wird unterschiedlich bestimmt — ob قَدْ أَفْلَحَ (91:9) als Jawab fungiert, ist syntaktisch diskutabel, da قَدْ ohne vorausgehendes لَ steht.",
+            "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=91&verse=9"
           },
           {
             "type": "explanation",
             "title": "Das Muster فَلَا أُقْسِمُ / لَا أُقْسِمُ",
-            "content": "Ein besonderes Schwurmuster im Quran ist die Wendung لَا أُقْسِمُ بِ bzw. فَلَا أُقْسِمُ بِ ('Ich schwöre nicht bei...'). Sie kommt in mehreren Suren vor (56:75, 69:38, 70:40, 75:1, 81:15, 84:16, 90:1).\n\nSyntaktisch gibt es zwei Analysen:\n1. لَا ist eine Negation — 'Ich schwöre NICHT bei X' (seltene Interpretation)\n2. لَا ist eine expletive (ueberschuessige) Partikel ohne Negationskraft — der Satz bedeutet trotzdem 'Ich schwöre bei X'\n\nDie zweite Analyse wird durch den Kontext gestützt: Nach لَا أُقْسِمُ folgt regelmäßig ein Jawab al-Qasam mit den ueblichen Markern, was zeigt, dass die Struktur funktional ein Schwur ist.\n\nSyntaktisch bemerkenswert: Nach لَا أُقْسِمُ steht بِ (nicht وَ) als Schwurpartikel, weil das Verb أَقْسَمَ die Präposition بِ regiert."
+            "content": "Ein besonderes Schwurmuster im Quran ist die Wendung لَا أُقْسِمُ بِ bzw. فَلَا أُقْسِمُ بِ ('Ich schwöre nicht bei...'). Sie kommt in mehreren Suren vor (56:75, 69:38, 70:40, 75:1, 81:15, 84:16, 90:1).\n\nSyntaktisch gibt es zwei Analysen:\n1. لَا ist eine Negation — 'Ich schwöre NICHT bei X' (seltene Interpretation)\n2. لَا ist eine expletive (ueberschuessige) Partikel ohne Negationskraft — der Satz bedeutet trotzdem 'Ich schwöre bei X'\n\nDie zweite Analyse wird durch den Kontext gestützt: Nach لَا أُقْسِمُ folgt regelmäßig ein Jawab al-Qasam mit den ueblichen Markern, was zeigt, dass die Struktur funktional ein Schwur ist.\n\nSyntaktisch bemerkenswert: Nach لَا أُقْسِمُ steht بِ (nicht وَ) als Schwurpartikel, weil das Verb أَقْسَمَ die Präposition بِ regiert.",
+            "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=56&verse=75"
           },
           {
             "type": "quranExamples",
@@ -309,27 +333,32 @@
               {
                 "ref": "91:1-7",
                 "arabic": "وَالشَّمْسِ وَضُحَاهَا ۝ وَالْقَمَرِ إِذَا تَلَاهَا ۝ وَالنَّهَارِ إِذَا جَلَّاهَا ۝ وَاللَّيْلِ إِذَا يَغْشَاهَا ۝ وَالسَّمَاءِ وَمَا بَنَاهَا ۝ وَالْأَرْضِ وَمَا طَحَاهَا ۝ وَنَفْسٍ وَمَا سَوَّاهَا",
-                "explanation": "Sieben Schwüre in Paarstruktur. Alle Schwurobjekte im Genitiv. Die temporalen Erweiterungen (إِذَا + Verb) und die مَا-Relativsätze (وَمَا بَنَاهَا etc.) spezifizieren die Schwurobjekte. Die Kette baut Spannung auf — der Jawab folgt erst danach."
+                "explanation": "Sieben Schwüre in Paarstruktur. Alle Schwurobjekte im Genitiv. Die temporalen Erweiterungen (إِذَا + Verb) und die مَا-Relativsätze (وَمَا بَنَاهَا etc.) spezifizieren die Schwurobjekte. Die Kette baut Spannung auf — der Jawab folgt erst danach.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=91&verse=1"
               },
               {
                 "ref": "51:1-6",
                 "arabic": "وَالذَّارِيَاتِ ذَرْوًا ۝ فَالْحَامِلَاتِ وِقْرًا ۝ فَالْجَارِيَاتِ يُسْرًا ۝ فَالْمُقَسِّمَاتِ أَمْرًا ۝ إِنَّمَا تُوعَدُونَ لَصَادِقٌ ۝ وَإِنَّ الدِّينَ لَوَاقِعٌ",
-                "explanation": "Vier Schwüre mit فَ-Anreihung (فَالْحَامِلَاتِ, فَالْجَارِيَاتِ, فَالْمُقَسِّمَاتِ). Bemerkenswert: فَ statt وَ bei den folgenden Gliedern — dies zeigt eine Steigerung oder Abfolge. Jawab in Vers 5: إِنَّمَا تُوعَدُونَ لَصَادِقٌ mit إِنَّ ... لَ Muster."
+                "explanation": "Vier Schwüre mit فَ-Anreihung (فَالْحَامِلَاتِ, فَالْجَارِيَاتِ, فَالْمُقَسِّمَاتِ). Bemerkenswert: فَ statt وَ bei den folgenden Gliedern — dies zeigt eine Steigerung oder Abfolge. Jawab in Vers 5: إِنَّمَا تُوعَدُونَ لَصَادِقٌ mit إِنَّ ... لَ Muster.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=51&verse=1"
               },
               {
                 "ref": "77:1-7",
                 "arabic": "وَالْمُرْسَلَاتِ عُرْفًا ۝ فَالْعَاصِفَاتِ عَصْفًا ۝ وَالنَّاشِرَاتِ نَشْرًا ۝ فَالْفَارِقَاتِ فَرْقًا ۝ فَالْمُلْقِيَاتِ ذِكْرًا ۝ عُذْرًا أَوْ نُذْرًا ۝ إِنَّمَا تُوعَدُونَ لَوَاقِعٌ",
-                "explanation": "Fünf Schwüre mit Wechsel von وَ und فَ (وَ-فَ-وَ-فَ-فَ). Jedes Schwurobjekt hat ein Mafʿul-mutlaq (ذَرْوًا, عَصْفًا etc.). Jawab in Vers 7: إِنَّمَا تُوعَدُونَ لَوَاقِعٌ — fast identisch mit 51:5-6."
+                "explanation": "Fünf Schwüre mit Wechsel von وَ und فَ (وَ-فَ-وَ-فَ-فَ). Jedes Schwurobjekt hat ein Mafʿul-mutlaq (ذَرْوًا, عَصْفًا etc.). Jawab in Vers 7: إِنَّمَا تُوعَدُونَ لَوَاقِعٌ — fast identisch mit 51:5-6.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=77&verse=1"
               },
               {
                 "ref": "75:1-2",
                 "arabic": "لَا أُقْسِمُ بِيَوْمِ الْقِيَامَةِ ۝ وَلَا أُقْسِمُ بِالنَّفْسِ اللَّوَّامَةِ",
-                "explanation": "لَا أُقْسِمُ — zweimal. Schwurobjekte: يَوْم الْقِيَامَة ('Tag der Auferstehung') und النَّفْس اللَّوَّامَة ('das sich tadelnde Selbst'). Beide mit بِ. Der Jawab ist syntaktisch nicht durch Standard-Marker eingeleitet."
+                "explanation": "لَا أُقْسِمُ — zweimal. Schwurobjekte: يَوْم الْقِيَامَة ('Tag der Auferstehung') und النَّفْس اللَّوَّامَة ('das sich tadelnde Selbst'). Beide mit بِ. Der Jawab ist syntaktisch nicht durch Standard-Marker eingeleitet.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=75&verse=1"
               },
               {
                 "ref": "84:16-19",
                 "arabic": "فَلَا أُقْسِمُ بِالشَّفَقِ ۝ وَاللَّيْلِ وَمَا وَسَقَ ۝ وَالْقَمَرِ إِذَا اتَّسَقَ ۝ لَتَرْكَبُنَّ طَبَقًا عَن طَبَقٍ",
-                "explanation": "فَلَا أُقْسِمُ بِالشَّفَقِ — Schwurkette mit drei Objekten (الشَّفَق, اللَّيْل, الْقَمَر). Jawab in Vers 19: لَتَرْكَبُنَّ — Lam al-Qasam + Energetikus. Klarer, vollständiger Schwursatz mit explizitem Jawab."
+                "explanation": "فَلَا أُقْسِمُ بِالشَّفَقِ — Schwurkette mit drei Objekten (الشَّفَق, اللَّيْل, الْقَمَر). Jawab in Vers 19: لَتَرْكَبُنَّ — Lam al-Qasam + Energetikus. Klarer, vollständiger Schwursatz mit explizitem Jawab.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=84&verse=16"
               }
             ]
           }
@@ -339,12 +368,14 @@
         {
           "type": "identification",
           "prompt": "Lies 79:1-5 (وَالنَّازِعَاتِ غَرْقًا ۝ وَالنَّاشِطَاتِ نَشْطًا ۝ وَالسَّابِحَاتِ سَبْحًا ۝ فَالسَّابِقَاتِ سَبْقًا ۝ فَالْمُدَبِّرَاتِ أَمْرًا). Zähle die Schwüre. Wo wechselt die Anreihungspartikel von وَ zu فَ, und was könnte das signalisieren?",
-          "hint": "Fünf Schwüre. Die ersten drei mit وَ, dann zwei mit فَ. Der Wechsel zu فَ signalisiert eine Abfolge oder Steigerung — ähnlich wie in 51:1-4 und 77:1-5."
+          "hint": "Fünf Schwüre. Die ersten drei mit وَ, dann zwei mit فَ. Der Wechsel zu فَ signalisiert eine Abfolge oder Steigerung — ähnlich wie in 51:1-4 und 77:1-5.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=79&verse=1"
         },
         {
           "type": "analysis",
           "prompt": "Vergleiche die Jawab-Struktur von 51:5-6 (إِنَّمَا تُوعَدُونَ لَصَادِقٌ ۝ وَإِنَّ الدِّينَ لَوَاقِعٌ) mit 84:19 (لَتَرْكَبُنَّ طَبَقًا عَن طَبَقٍ). Welche Jawab-Marker werden jeweils verwendet, und warum?",
-          "hint": "51:5-6 hat إِنَّ ... لَ — nominale Schwurantwort. 84:19 hat لَ + Energetikus (لَتَرْكَبُنَّ) — verbale Schwurantwort im Imperfekt. Der Satztyp bestimmt den Marker."
+          "hint": "51:5-6 hat إِنَّ ... لَ — nominale Schwurantwort. 84:19 hat لَ + Energetikus (لَتَرْكَبُنَّ) — verbale Schwurantwort im Imperfekt. Der Satztyp bestimmt den Marker.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=51&verse=5"
         }
       ]
     },
@@ -370,17 +401,20 @@
               {
                 "ref": "93:1-3",
                 "arabic": "وَالضُّحَىٰ ۝ وَاللَّيْلِ إِذَا سَجَىٰ ۝ مَا وَدَّعَكَ رَبُّكَ وَمَا قَلَىٰ",
-                "explanation": "Analyse: (1) Partikel: وَ (zweimal). (2) Schwurobjekte: الضُّحَىٰ, اللَّيْل mit Erweiterung إِذَا سَجَىٰ. (3) Kette: 2 Schwüre. (4) Jawab-Marker: مَا (Negation). (5) Jawab: مَا وَدَّعَكَ رَبُّكَ وَمَا قَلَىٰ — negierter Verbalsatz im Perfekt. (6) Kein Sonderfall."
+                "explanation": "Analyse: (1) Partikel: وَ (zweimal). (2) Schwurobjekte: الضُّحَىٰ, اللَّيْل mit Erweiterung إِذَا سَجَىٰ. (3) Kette: 2 Schwüre. (4) Jawab-Marker: مَا (Negation). (5) Jawab: مَا وَدَّعَكَ رَبُّكَ وَمَا قَلَىٰ — negierter Verbalsatz im Perfekt. (6) Kein Sonderfall.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=93&verse=1"
               },
               {
                 "ref": "36:1-4",
                 "arabic": "يس ۝ وَالْقُرْآنِ الْحَكِيمِ ۝ إِنَّكَ لَمِنَ الْمُرْسَلِينَ ۝ عَلَىٰ صِرَاطٍ مُّسْتَقِيمٍ",
-                "explanation": "Analyse: (1) Partikel: وَ. (2) Schwurobjekt: الْقُرْآن الْحَكِيم (definit mit Genitiv-Attribut). (3) Kette: 1 Schwur. (4) Jawab-Marker: إِنَّ ... لَ. (5) Jawab: إِنَّكَ لَمِنَ الْمُرْسَلِينَ — Nominalsatz. (6) يس davor sind Buchstabennamen (حروف مقطّعة), kein Teil des Schwurs."
+                "explanation": "Analyse: (1) Partikel: وَ. (2) Schwurobjekt: الْقُرْآن الْحَكِيم (definit mit Genitiv-Attribut). (3) Kette: 1 Schwur. (4) Jawab-Marker: إِنَّ ... لَ. (5) Jawab: إِنَّكَ لَمِنَ الْمُرْسَلِينَ — Nominalsatz. (6) يس davor sind Buchstabennamen (حروف مقطّعة), kein Teil des Schwurs.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=36&verse=1"
               },
               {
                 "ref": "69:38-39",
                 "arabic": "فَلَا أُقْسِمُ بِمَا تُبْصِرُونَ ۝ وَمَا لَا تُبْصِرُونَ",
-                "explanation": "Analyse: (1) Partikel: بِ (nach أُقْسِمُ) + وَ. (2) Schwurobjekte: مَا تُبْصِرُونَ ('was ihr seht') und مَا لَا تُبْصِرُونَ ('was ihr nicht seht'). (3) Kette: 2 Objekte. (4) Jawab-Marker: إِنَّ ... لَ in Vers 40 (إِنَّهُ لَقَوْلُ رَسُولٍ كَرِيمٍ). (5) Jawab: Nominalsatz. (6) Sonderfall: لَا أُقْسِمُ Muster."
+                "explanation": "Analyse: (1) Partikel: بِ (nach أُقْسِمُ) + وَ. (2) Schwurobjekte: مَا تُبْصِرُونَ ('was ihr seht') und مَا لَا تُبْصِرُونَ ('was ihr nicht seht'). (3) Kette: 2 Objekte. (4) Jawab-Marker: إِنَّ ... لَ in Vers 40 (إِنَّهُ لَقَوْلُ رَسُولٍ كَرِيمٍ). (5) Jawab: Nominalsatz. (6) Sonderfall: لَا أُقْسِمُ Muster.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=69&verse=38"
               }
             ]
           }
@@ -390,12 +424,14 @@
         {
           "type": "analysis",
           "prompt": "Analysiere 100:1-8 vollständig. Zerlege den Text in: Schwurpartikeln, Schwurobjekte (mit Erweiterungen), Kettenlänge, Jawab-Marker, und Jawab-Inhalt.",
-          "hint": "Fünf Schwüre: وَالْعَادِيَاتِ ضَبْحًا, فَالْمُورِيَاتِ قَدْحًا, فَالْمُغِيرَاتِ صُبْحًا, فَأَثَرْنَ بِهِ نَقْعًا, فَوَسَطْنَ بِهِ جَمْعًا. Jawab ab Vers 6: إِنَّ الْإِنسَانَ لِرَبِّهِ لَكَنُودٌ — Marker إِنَّ ... لَ, nominale Schwurantwort."
+          "hint": "Fünf Schwüre: وَالْعَادِيَاتِ ضَبْحًا, فَالْمُورِيَاتِ قَدْحًا, فَالْمُغِيرَاتِ صُبْحًا, فَأَثَرْنَ بِهِ نَقْعًا, فَوَسَطْنَ بِهِ جَمْعًا. Jawab ab Vers 6: إِنَّ الْإِنسَانَ لِرَبِّهِ لَكَنُودٌ — Marker إِنَّ ... لَ, nominale Schwurantwort.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=100&verse=1"
         },
         {
           "type": "identification",
           "prompt": "Lies 86:1-4 (وَالسَّمَاءِ وَالطَّارِقِ ۝ وَمَا أَدْرَاكَ مَا الطَّارِقُ ۝ النَّجْمُ الثَّاقِبُ ۝ إِن كُلُّ نَفْسٍ لَّمَّا عَلَيْهَا حَافِظٌ). Identifiziere die Schwurobjekte. Was ist die Funktion von Vers 2-3? Wo beginnt der Jawab?",
-          "hint": "Schwurobjekte: السَّمَاء und الطَّارِق. Vers 2-3 sind ein erklärend eingeschobener Satz (وَمَا أَدْرَاكَ مَا الطَّارِقُ — 'Was lässt dich wissen, was der Nachtbesucher ist? — Der durchbohrende Stern.'). Jawab in Vers 4: إِن كُلُّ نَفْسٍ لَّمَّا عَلَيْهَا حَافِظٌ — mit إِنْ (hier im Sinne von مَا ... إِلَّا, d.h. Restriktion) + لَمَّا."
+          "hint": "Schwurobjekte: السَّمَاء und الطَّارِق. Vers 2-3 sind ein erklärend eingeschobener Satz (وَمَا أَدْرَاكَ مَا الطَّارِقُ — 'Was lässt dich wissen, was der Nachtbesucher ist? — Der durchbohrende Stern.'). Jawab in Vers 4: إِن كُلُّ نَفْسٍ لَّمَّا عَلَيْهَا حَافِظٌ — mit إِنْ (hier im Sinne von مَا ... إِلَّا, d.h. Restriktion) + لَمَّا.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=86&verse=1"
         },
         {
           "type": "analysis",

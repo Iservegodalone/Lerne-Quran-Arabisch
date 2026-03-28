@@ -2,8 +2,14 @@
   "meta": {
     "description": "Vollständige Pronomentabellen für Quranisches Arabisch",
     "sources": [
-      {"label": "Wright's Grammar Vol I — Pronouns", "url": "https://archive.org/details/WrightsArabicGrammar1Of2"},
-      {"label": "Quranic Arabic Corpus", "url": "https://corpus.quran.com"}
+      {
+        "label": "Wright's Grammar Vol I — Pronouns",
+        "url": "https://archive.org/details/WrightsArabicGrammar1Of2"
+      },
+      {
+        "label": "Quranic Arabic Corpus",
+        "url": "https://corpus.quran.com"
+      }
     ],
     "personLabels": {
       "1": "Erste Person",
@@ -527,7 +533,8 @@
           "quranExample": {
             "surah": 3,
             "ayah": 51,
-            "snippet": "هَذَا صِرَاطٌ مُّسْتَقِيمٌ"
+            "snippet": "هَذَا صِرَاطٌ مُّسْتَقِيمٌ",
+            "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=51"
           }
         },
         {
@@ -540,7 +547,8 @@
           "quranExample": {
             "surah": 2,
             "ayah": 35,
-            "snippet": "هَذِهِ الشَّجَرَةَ"
+            "snippet": "هَذِهِ الشَّجَرَةَ",
+            "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=35"
           }
         },
         {
@@ -591,7 +599,8 @@
           "quranExample": {
             "surah": 2,
             "ayah": 31,
-            "snippet": "أَنْبِئُونِي بِأَسْمَاءِ هَؤُلَاءِ"
+            "snippet": "أَنْبِئُونِي بِأَسْمَاءِ هَؤُلَاءِ",
+            "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=31"
           }
         }
       ]
@@ -609,7 +618,8 @@
           "quranExample": {
             "surah": 2,
             "ayah": 2,
-            "snippet": "ذَلِكَ الْكِتَابُ"
+            "snippet": "ذَلِكَ الْكِتَابُ",
+            "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=2"
           }
         },
         {
@@ -622,7 +632,8 @@
           "quranExample": {
             "surah": 2,
             "ayah": 111,
-            "snippet": "تِلْكَ أَمَانِيُّهُمْ"
+            "snippet": "تِلْكَ أَمَانِيُّهُمْ",
+            "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=111"
           }
         },
         {
@@ -653,7 +664,8 @@
           "quranExample": {
             "surah": 2,
             "ayah": 5,
-            "snippet": "أُولَئِكَ عَلَى هُدًى"
+            "snippet": "أُولَئِكَ عَلَى هُدًى",
+            "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=5"
           }
         }
       ]
@@ -677,7 +689,8 @@
         "quranExample": {
           "surah": 2,
           "ayah": 2,
-          "snippet": "الَّذِي لَا رَيْبَ"
+          "snippet": "الَّذِي لَا رَيْبَ",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=2"
         }
       },
       {
@@ -690,7 +703,8 @@
         "quranExample": {
           "surah": 2,
           "ayah": 24,
-          "snippet": "النَّارَ الَّتِي وَقُودُهَا"
+          "snippet": "النَّارَ الَّتِي وَقُودُهَا",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=24"
         }
       },
       {
@@ -739,7 +753,8 @@
         "quranExample": {
           "surah": 2,
           "ayah": 3,
-          "snippet": "الَّذِينَ يُؤْمِنُونَ"
+          "snippet": "الَّذِينَ يُؤْمِنُونَ",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=3"
         }
       },
       {
@@ -756,7 +771,8 @@
         "quranExample": {
           "surah": 4,
           "ayah": 15,
-          "snippet": "وَاللَّاتِي يَأْتِينَ"
+          "snippet": "وَاللَّاتِي يَأْتِينَ",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=15"
         }
       },
       {
@@ -770,7 +786,8 @@
         "quranExample": {
           "surah": 2,
           "ayah": 4,
-          "snippet": "بِمَا أُنْزِلَ إِلَيْكَ"
+          "snippet": "بِمَا أُنْزِلَ إِلَيْكَ",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=4"
         }
       },
       {
@@ -784,7 +801,8 @@
         "quranExample": {
           "surah": 2,
           "ayah": 8,
-          "snippet": "وَمِنَ النَّاسِ مَنْ يَقُولُ"
+          "snippet": "وَمِنَ النَّاسِ مَنْ يَقُولُ",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=8"
         }
       }
     ],
@@ -804,7 +822,8 @@
         "grammaticalRole": "Fragt nach Personen. Steht als Mubtada oder Maf'ul bihi.",
         "example": {
           "ref": "2:245",
-          "text": "مَنْ ذَا الَّذِي يُقْرِضُ اللَّهَ"
+          "text": "مَنْ ذَا الَّذِي يُقْرِضُ اللَّهَ",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=245"
         }
       },
       {
@@ -814,7 +833,8 @@
         "grammaticalRole": "Fragt nach Sachen/Sachverhalten. Steht als Mubtada oder Maf'ul bihi.",
         "example": {
           "ref": "20:17",
-          "text": "مَا تِلْكَ بِيَمِينِكَ يَا مُوسَى"
+          "text": "مَا تِلْكَ بِيَمِينِكَ يَا مُوسَى",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=20&verse=17"
         }
       },
       {
@@ -824,7 +844,8 @@
         "grammaticalRole": "Kombination aus ما + ذا. Fragt nach Sachen.",
         "example": {
           "ref": "2:219",
-          "text": "يَسْأَلُونَكَ مَاذَا يُنْفِقُونَ"
+          "text": "يَسْأَلُونَكَ مَاذَا يُنْفِقُونَ",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=219"
         }
       },
       {
@@ -834,7 +855,8 @@
         "grammaticalRole": "Fragt nach Auswahl aus einer Gruppe. Flektiert nach Kasus. Immer in Idafa.",
         "example": {
           "ref": "19:69",
-          "text": "أَيُّهُمْ أَشَدُّ عَلَى الرَّحْمَنِ عِتِيًّا"
+          "text": "أَيُّهُمْ أَشَدُّ عَلَى الرَّحْمَنِ عِتِيًّا",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=19&verse=69"
         }
       },
       {
@@ -844,7 +866,8 @@
         "grammaticalRole": "Fragt nach Anzahl. Tamyiz steht im Akkusativ Singular.",
         "example": {
           "ref": "2:211",
-          "text": "كَمْ آتَيْنَاهُمْ مِنْ آيَةٍ بَيِّنَةٍ"
+          "text": "كَمْ آتَيْنَاهُمْ مِنْ آيَةٍ بَيِّنَةٍ",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=211"
         }
       },
       {
@@ -854,7 +877,8 @@
         "grammaticalRole": "Fragt nach Art und Weise. Unveränderlich.",
         "example": {
           "ref": "2:28",
-          "text": "كَيْفَ تَكْفُرُونَ بِاللَّهِ"
+          "text": "كَيْفَ تَكْفُرُونَ بِاللَّهِ",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=28"
         }
       },
       {
@@ -864,7 +888,8 @@
         "grammaticalRole": "Fragt nach Ort. Unveränderlich.",
         "example": {
           "ref": "16:27",
-          "text": "أَيْنَ شُرَكَائِيَ"
+          "text": "أَيْنَ شُرَكَائِيَ",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=16&verse=27"
         }
       },
       {
@@ -874,7 +899,8 @@
         "grammaticalRole": "Fragt nach Zeit. Unveränderlich.",
         "example": {
           "ref": "2:214",
-          "text": "مَتَى نَصْرُ اللَّهِ"
+          "text": "مَتَى نَصْرُ اللَّهِ",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=214"
         }
       },
       {
@@ -884,7 +910,8 @@
         "grammaticalRole": "Fragt nach Ursprung oder Art. Unveränderlich.",
         "example": {
           "ref": "3:37",
-          "text": "أَنَّى لَكِ هَذَا"
+          "text": "أَنَّى لَكِ هَذَا",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=37"
         }
       }
     ]

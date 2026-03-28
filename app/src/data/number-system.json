@@ -3,6 +3,7 @@
     "title": "Das Zahlwortsystem im Quranischen Arabisch",
     "description": "Kardinal- und Ordinalzahlen, Tamyiz-Regeln, Geschlechtskongruenz. Rein sprachwissenschaftlich.",
     "note": "Das arabische Zahlwortsystem hat komplexe Kongruenzregeln die sich von anderen Nominalkategorien unterscheiden. Die Regeln sind morphologisch bedingt und folgen keiner logischen Systematik — sie müssen als Konvention gelernt werden.",
+    "lessonCount": 5,
     "sources": [
       {
         "label": "Wright's Grammar Vol II — Numerals",
@@ -172,7 +173,8 @@
             "سَبْع سَمَاءً"
           ],
           "correct": 1,
-          "explanation": "سَبْع (OHNE Ta Marbuta weil سماوات feminin ist) + سَمَاوَاتٍ (Plural Genitiv). Vgl. 2:29."
+          "explanation": "سَبْع (OHNE Ta Marbuta weil سماوات feminin ist) + سَمَاوَاتٍ (Plural Genitiv). Vgl. 2:29.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=29"
         },
         {
           "type": "multiple_choice",
@@ -184,7 +186,8 @@
             "Weil es eine Idafa ist"
           ],
           "correct": 1,
-          "explanation": "Geschlechtsumkehrung: يوم ist maskulin → die Zahl nimmt die feminine Form (mit Ta Marbuta)."
+          "explanation": "Geschlechtsumkehrung: يوم ist maskulin → die Zahl nimmt die feminine Form (mit Ta Marbuta).",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=196"
         },
         {
           "type": "multiple_choice",
@@ -229,7 +232,8 @@
               "Es ist ein Fehler",
               "Weil es nach einer Präposition steht"
             ],
-            "correct": 1
+            "correct": 1,
+            "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=9&verse=36"
           },
           {
             "question": "Wie heißt 'dreihundert' im Quran (18:25)?",
@@ -239,7 +243,8 @@
               "ثَلَاث مِائَات",
               "ثَلَاثَمِائَة"
             ],
-            "correct": 0
+            "correct": 0,
+            "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=18&verse=25"
           }
         ]
       }
@@ -351,7 +356,8 @@
               "كوكب hat keinen Plural",
               "Es ist eine poetische Freiheit"
             ],
-            "correct": 1
+            "correct": 1,
+            "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=12&verse=4"
           },
           {
             "question": "Was ist die korrekte Form für 'zwanzig Naechte' (ليلة ist feminin)?",
@@ -371,7 +377,8 @@
               "Weil es nach einer Präposition steht",
               "Weil das Verb es verlangt"
             ],
-            "correct": 1
+            "correct": 1,
+            "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=29&verse=14"
           }
         ]
       }
@@ -431,7 +438,8 @@
               "Weil die Zahl fünf maskulin ist",
               "Weil das Suffix هُمْ maskulin ist"
             ],
-            "correct": 0
+            "correct": 0,
+            "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=18&verse=22"
           },
           {
             "question": "Was ist der Hauptunterschied zwischen Kardinal- und Ordinalzahlen bei der Geschlechtskongruenz?",
@@ -474,6 +482,286 @@
                 "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=35&verse=1"
               }
             ]
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "multiple_choice",
+          "prompt": "Was bedeutet مَثْنَىٰ وَثُلَاثَ وَرُبَاعَ?",
+          "options": [
+            "Zwei, drei, vier",
+            "Je zwei, je drei, je vier",
+            "Zweiter, dritter, vierter",
+            "Halb, Drittel, Viertel"
+          ],
+          "correct": 1,
+          "explanation": "Distributivzahlen drücken Verteilung aus: مَثْنَىٰ (je zwei), ثُلَاثَ (je drei), رُبَاعَ (je vier)."
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Warum tragen مَثْنَىٰ, ثُلَاثَ und رُبَاعَ kein Tanwin?",
+          "options": [
+            "Weil sie bestimmt (definit) sind",
+            "Weil sie diptotisch (ممنوع من الصرف) sind",
+            "Weil sie im Akkusativ stehen",
+            "Weil sie Eigennamen sind"
+          ],
+          "correct": 1,
+          "explanation": "Diese Formen folgen besonderen Wortmustern (مَفْعَل / فُعَال) und sind daher diptotisch — kein Tanwin, im Genitiv Fatha statt Kasra."
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "In welchen beiden Quran-Stellen kommt die Reihe مَثْنَىٰ وَثُلَاثَ وَرُبَاعَ vor?",
+          "options": [
+            "2:196 und 7:54",
+            "4:3 und 35:1",
+            "18:22 und 18:25",
+            "12:4 und 9:36"
+          ],
+          "correct": 1,
+          "explanation": "Die Reihe مَثْنَىٰ وَثُلَاثَ وَرُبَاعَ erscheint in 4:3 und 35:1.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=3"
+        }
+      ],
+      "testContent": {
+        "exercises": [
+          {
+            "question": "Was ist das morphologische Muster von مَثْنَىٰ?",
+            "options": [
+              "فَاعِل",
+              "مَفْعَل",
+              "فُعُل",
+              "فَعِيل"
+            ],
+            "correct": 1
+          },
+          {
+            "question": "Welche Kasusendung nehmen Distributivzahlen im Genitiv an?",
+            "options": [
+              "Kasra wie reguläre Nomina",
+              "Fatha weil sie diptotisch sind",
+              "Damma wie im Nominativ",
+              "Sukun weil sie indeklinabel sind"
+            ],
+            "correct": 1
+          },
+          {
+            "question": "Was unterscheidet ثَلَاثَة (Kardinalzahl) von ثُلَاثَ (Distributivzahl) semantisch?",
+            "options": [
+              "Kein Unterschied",
+              "ثَلَاثَة = drei (Gesamtzahl), ثُلَاثَ = je drei (Verteilung)",
+              "ثَلَاثَة ist maskulin, ثُلَاثَ ist feminin",
+              "ثَلَاثَة ist bestimmt, ثُلَاثَ ist unbestimmt"
+            ],
+            "correct": 1
+          }
+        ]
+      },
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=3"
+    },
+    {
+      "id": "N5",
+      "title": "Bruchzahlen",
+      "description": "Bruchzahlen (Fractions) im Quranischen Arabisch: نِصْف, ثُلُث, رُبُع usw. Morphologische Muster und ihre Verwendung.",
+      "learnContent": {
+        "sections": [
+          {
+            "type": "explanation",
+            "title": "Die Wortmuster für Bruchzahlen",
+            "content": "Arabische Bruchzahlen folgen zwei morphologischen Mustern:\n\n1. فُعْل (fu'l) — mit Sukun auf dem mittleren Radikal:\n   • نِصْف (nisf) — Hälfte (1/2). Abweichend: Muster فِعْل statt فُعْل.\n\n2. فُعُل (fu'ul) — mit Damma auf dem mittleren Radikal:\n   • ثُلُث (thuluth) — Drittel (1/3)\n   • رُبُع (rubu') — Viertel (1/4)\n   • خُمُس (khumus) — Fünftel (1/5)\n   • سُدُس (sudus) — Sechstel (1/6)\n   • سُبُع (subu') — Siebtel (1/7)\n   • ثُمُن (thumun) — Achtel (1/8)\n   • تُسُع (tusu') — Neuntel (1/9)\n   • عُشْر ('ushr) — Zehntel (1/10). Abweichend: Muster فُعْل mit Sukun.\n\nDie Pluralbildung folgt dem Muster أَفْعَال: أَثْلَاث (Drittel-Pl.), أَرْبَاع (Viertel-Pl.) usw.\n\nSyntaktisch verhalten sich Bruchzahlen wie reguläre Nomina — sie stehen in Idafa mit dem Bezugsnomen: ثُلُثُ المَالِ (ein Drittel des Vermögens)."
+          },
+          {
+            "type": "example",
+            "title": "Die quranisch belegten Bruchzahlen",
+            "examples": [
+              {
+                "arabic": "نِصْف",
+                "transliteration": "nisf",
+                "meaning": "Hälfte (1/2) — Muster فِعْل. Plural: أَنْصَاف"
+              },
+              {
+                "arabic": "ثُلُث",
+                "transliteration": "thuluth",
+                "meaning": "Drittel (1/3) — Muster فُعُل. Plural: أَثْلَاث"
+              },
+              {
+                "arabic": "رُبُع",
+                "transliteration": "rubu'",
+                "meaning": "Viertel (1/4) — Muster فُعُل. Plural: أَرْبَاع"
+              },
+              {
+                "arabic": "خُمُس",
+                "transliteration": "khumus",
+                "meaning": "Fünftel (1/5) — Muster فُعُل. Plural: أَخْمَاس"
+              },
+              {
+                "arabic": "سُدُس",
+                "transliteration": "sudus",
+                "meaning": "Sechstel (1/6) — Muster فُعُل. Plural: أَسْدَاس"
+              },
+              {
+                "arabic": "ثُمُن",
+                "transliteration": "thumun",
+                "meaning": "Achtel (1/8) — Muster فُعُل. Plural: أَثْمَان"
+              },
+              {
+                "arabic": "عُشْر",
+                "transliteration": "'ushr",
+                "meaning": "Zehntel (1/10) — Muster فُعْل. Plural: أَعْشَار. Nicht im Quran als Bruchzahl belegt, aber das Ordinalzahlmuster عِشْرُونَ (zwanzig) zeigt dieselbe Wurzel ع-ش-ر."
+              }
+            ]
+          },
+          {
+            "type": "quranExamples",
+            "title": "Quran-Beispiele: Bruchzahlen",
+            "examples": [
+              {
+                "ref": "73:20",
+                "arabic": "إِنَّ رَبَّكَ يَعْلَمُ أَنَّكَ تَقُومُ أَدْنَىٰ مِنْ ثُلُثَيِ اللَّيْلِ وَنِصْفَهُ وَثُلُثَهُ",
+                "explanation": "Weniger als zwei Drittel der Nacht und seine Hälfte und sein Drittel: ثُلُثَيِ (Dual Genitiv) + نِصْفَهُ (Akkusativ, 'atf auf أَدْنَىٰ) + ثُلُثَهُ (Akkusativ). Drei Bruchzahlen in einem Vers.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=73&verse=20"
+              },
+              {
+                "ref": "73:3",
+                "arabic": "نِصْفَهُ أَوِ انْقُصْ مِنْهُ قَلِيلًا",
+                "explanation": "Seine Hälfte oder etwas weniger: نِصْفَهُ (Akkusativ als Badal von اللَّيْل in 73:2). Die Bruchzahl steht in Idafa mit dem Pronominalsuffix.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=73&verse=3"
+              },
+              {
+                "ref": "2:187",
+                "arabic": "ثُمَّ أَتِمُّوا الصِّيَامَ إِلَى اللَّيْلِ",
+                "explanation": "Kontext für Bruchzahlen im Quran: Die Zeiteinteilung (Nacht/Tag) ist der häufigste Kontext in dem نِصْف erscheint.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=187"
+              },
+              {
+                "ref": "4:11",
+                "arabic": "فَإِنْ كُنَّ نِسَاءً فَوْقَ اثْنَتَيْنِ فَلَهُنَّ ثُلُثَا مَا تَرَكَ وَإِنْ كَانَتْ وَاحِدَةً فَلَهَا النِّصْفُ وَلِأَبَوَيْهِ لِكُلِّ وَاحِدٍ مِنْهُمَا السُّدُسُ",
+                "explanation": "Drei Bruchzahlen: ثُلُثَا (Dual Nominativ — zwei Drittel), النِّصْفُ (die Hälfte, mit Artikel — bestimmt), السُّدُسُ (das Sechstel, mit Artikel). Alle syntaktisch als Prädikate (Khabar) im Nominativ.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=11"
+              },
+              {
+                "ref": "4:12",
+                "arabic": "وَلَكُمْ نِصْفُ مَا تَرَكَ أَزْوَاجُكُمْ ... فَإِنْ كَانَ لَهُنَّ وَلَدٌ فَلَكُمُ الرُّبُعُ ... وَلَهُنَّ الرُّبُعُ مِمَّا تَرَكْتُمْ ... فَلَهُنَّ الثُّمُنُ",
+                "explanation": "Vier Bruchzahlen: نِصْفُ (Hälfte, Idafa mit مَا تَرَكَ), الرُّبُعُ (das Viertel, zweimal), الثُّمُنُ (das Achtel). Alle mit Artikel oder in Idafa.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=12"
+              },
+              {
+                "ref": "4:25",
+                "arabic": "فَعَلَيْهِنَّ نِصْفُ مَا عَلَى الْمُحْصَنَاتِ مِنَ الْعَذَابِ",
+                "explanation": "Die Hälfte dessen: نِصْفُ in Idafa mit مَا (Relativpronomen). Nominativ als Mubtada.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=25"
+              },
+              {
+                "ref": "8:41",
+                "arabic": "وَاعْلَمُوا أَنَّمَا غَنِمْتُمْ مِنْ شَيْءٍ فَأَنَّ لِلَّهِ خُمُسَهُ",
+                "explanation": "Sein Fünftel: خُمُسَهُ (Akkusativ als Ism Anna, mit Pronominalsuffix). Die einzige Quran-Stelle mit خُمُس.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=8&verse=41"
+              }
+            ]
+          },
+          {
+            "type": "explanation",
+            "title": "Syntaktische Eigenschaften",
+            "content": "Bruchzahlen verhalten sich syntaktisch wie reguläre Nomina:\n\n1. Idafa: نِصْفُ اللَّيْلِ (die Hälfte der Nacht) — Bruchzahl als Mudaf\n2. Mit Artikel: النِّصْفُ, الثُّلُثُ, الرُّبُعُ — bestimmte Bruchzahl\n3. Mit Pronominalsuffix: نِصْفَهُ (seine Hälfte), خُمُسَهُ (sein Fünftel)\n4. Dual: ثُلُثَا / ثُلُثَيْ (zwei Drittel — Nom/Akk-Gen)\n\nDie Kasusflexion ist regulär (triptotisch): Damma/Fatha/Kasra mit Tanwin im unbestimmten Zustand."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "multiple_choice",
+          "prompt": "Welches morphologische Muster haben die meisten arabischen Bruchzahlen (ثُلُث, رُبُع, خُمُس, سُدُس)?",
+          "options": [
+            "فَاعِل",
+            "فُعُل",
+            "فَعِيل",
+            "مَفْعَل"
+          ],
+          "correct": 1,
+          "explanation": "Die Bruchzahlen von 1/3 bis 1/9 folgen dem Muster فُعُل (fu'ul) mit Damma auf dem ersten und zweiten Radikal."
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "In 73:20 steht ثُلُثَيِ اللَّيْلِ. Was ist die grammatische Form von ثُلُثَيِ?",
+          "options": [
+            "Plural Genitiv",
+            "Singular Akkusativ",
+            "Dual Genitiv",
+            "Singular Genitiv"
+          ],
+          "correct": 2,
+          "explanation": "ثُلُثَيِ ist der Dual Genitiv (nach مِنْ) von ثُلُث — also 'zwei Drittel'.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=73&verse=20"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Welche drei Bruchzahlen erscheinen in 4:11?",
+          "options": [
+            "نِصْف, ثُلُث, رُبُع",
+            "ثُلُثَا, النِّصْف, السُّدُس",
+            "رُبُع, سُدُس, ثُمُن",
+            "نِصْف, رُبُع, ثُمُن"
+          ],
+          "correct": 1,
+          "explanation": "In 4:11 stehen: ثُلُثَا (zwei Drittel), النِّصْفُ (die Hälfte) und السُّدُسُ (das Sechstel).",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=11"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Wie wird 'die Hälfte der Nacht' (نِصْف + اللَّيْل) syntaktisch konstruiert?",
+          "options": [
+            "Als Tamyiz: نِصْفٌ اللَّيْلَ",
+            "Als Idafa: نِصْفُ اللَّيْلِ",
+            "Mit Präposition: نِصْفٌ مِنَ اللَّيْلِ",
+            "Als Sifa: اللَّيْلُ النِّصْفُ"
+          ],
+          "correct": 1,
+          "explanation": "Bruchzahlen bilden eine Idafa-Konstruktion mit dem Bezugsnomen: نِصْفُ اللَّيْلِ (die Hälfte der Nacht)."
+        }
+      ],
+      "testContent": {
+        "exercises": [
+          {
+            "question": "Welche Bruchzahl folgt dem Muster فِعْل statt فُعُل?",
+            "options": [
+              "ثُلُث",
+              "نِصْف",
+              "رُبُع",
+              "خُمُس"
+            ],
+            "correct": 1
+          },
+          {
+            "question": "In 4:12 steht الرُّبُعُ und الثُّمُنُ. In welchem Kasus stehen beide?",
+            "options": [
+              "Akkusativ als Maf'ul bih",
+              "Genitiv nach Präposition",
+              "Nominativ als Khabar (Prädikat)",
+              "Genitiv als Mudaf ilayh"
+            ],
+            "correct": 2,
+            "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=12"
+          },
+          {
+            "question": "Was bedeutet خُمُسَهُ in 8:41?",
+            "options": [
+              "Sein Fünfter",
+              "Fünf davon",
+              "Sein Fünftel",
+              "Je fünf"
+            ],
+            "correct": 2,
+            "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=8&verse=41"
+          },
+          {
+            "question": "Wie lautet der Plural von ثُلُث?",
+            "options": [
+              "ثُلُثُون",
+              "أَثْلَاث",
+              "ثَلَاثَات",
+              "ثَوَالِث"
+            ],
+            "correct": 1
           }
         ]
       }

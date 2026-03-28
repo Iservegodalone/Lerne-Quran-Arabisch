@@ -37,12 +37,14 @@
               {
                 "ref": "1:6-7",
                 "arabic": "اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ — صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ",
-                "explanation": "صِرَاطَ in V7 ist Badal kull min kull von الصِّرَاطَ in V6. Gleicher Kasus (Akkusativ nach اهْدِنَا). Das 'gerade Weg' wird präzisiert als 'der Weg derer, denen du Gunst erwiesen hast.' Die Präzisierung erfolgt über eine Versgrenze hinweg."
+                "explanation": "صِرَاطَ in V7 ist Badal kull min kull von الصِّرَاطَ in V6. Gleicher Kasus (Akkusativ nach اهْدِنَا). Das 'gerade Weg' wird präzisiert als 'der Weg derer, denen du Gunst erwiesen hast.' Die Präzisierung erfolgt über eine Versgrenze hinweg.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=6"
               },
               {
                 "ref": "96:15-16",
                 "arabic": "لَنَسْفَعًا بِالنَّاصِيَةِ — نَاصِيَةٍ كَاذِبَةٍ خَاطِئَةٍ",
-                "explanation": "نَاصِيَةٍ in V16 ist Badal von النَّاصِيَةِ in V15. Gleicher Kasus (Genitiv nach بِ). Interessant: das Mubdal minh النَّاصِيَةِ ist definit (mit Artikel), der Badal نَاصِيَةٍ ist indefinit (Tanwin). Dies ist beim Badal erlaubt — beim Attribut nicht. Dann folgen كَاذِبَةٍ خَاطِئَةٍ als Sifa-Attribute zum Badal."
+                "explanation": "نَاصِيَةٍ in V16 ist Badal von النَّاصِيَةِ in V15. Gleicher Kasus (Genitiv nach بِ). Interessant: das Mubdal minh النَّاصِيَةِ ist definit (mit Artikel), der Badal نَاصِيَةٍ ist indefinit (Tanwin). Dies ist beim Badal erlaubt — beim Attribut nicht. Dann folgen كَاذِبَةٍ خَاطِئَةٍ als Sifa-Attribute zum Badal.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=96&verse=15"
               },
               {
                 "ref": "3:97",
@@ -58,7 +60,8 @@
         {
           "type": "identification",
           "question": "سَبِّحِ اسْمَ رَبِّكَ الْأَعْلَى (87:1) — Ist الْأَعْلَى Sifa oder Badal?",
-          "answer": "Sifa (Attribut). الْأَعْلَى ist Sifa (Adjektiv/Attribut) zu رَبِّكَ, im Genitiv weil es einem Genitiv-Nomen als Attribut folgt — nicht weil es Idafa-Glied von اسْمَ wäre. Definit durch الـ. 'Preis den Namen deines erhabensten Herrn.' Es beschreibt eine Eigenschaft, kein neues Nomen."
+          "answer": "Sifa (Attribut). الْأَعْلَى ist Sifa (Adjektiv/Attribut) zu رَبِّكَ, im Genitiv weil es einem Genitiv-Nomen als Attribut folgt — nicht weil es Idafa-Glied von اسْمَ wäre. Definit durch الـ. 'Preis den Namen deines erhabensten Herrn.' Es beschreibt eine Eigenschaft, kein neues Nomen.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=87&verse=1"
         }
       ],
       "testContent": {
@@ -112,7 +115,8 @@
         {
           "type": "analysis",
           "question": "يَسْأَلُونَكَ عَنِ الشَّهْرِ الْحَرَامِ قِتَالٍ فِيهِ (2:217) — Was zeigt an, dass قِتَالٍ فِيهِ ein Badal al-Ishtimal ist?",
-          "answer": "Erstens: gleicher Kasus (Genitiv nach عَنِ). Zweitens: das Pronomen هِ in فِيهِ verweist auf الشَّهْرَ الْحَرَامَ (das ist das Erkennungsmerkmal des Ishtimal-Badal). Drittens: قِتَالٍ ist kein anderer Name für 'den geheiligten/unverletzlichen Monat (حَرَام: heilig/unantastbar)', sondern ein Aspekt davon."
+          "answer": "Erstens: gleicher Kasus (Genitiv nach عَنِ). Zweitens: das Pronomen هِ in فِيهِ verweist auf الشَّهْرَ الْحَرَامَ (das ist das Erkennungsmerkmal des Ishtimal-Badal). Drittens: قِتَالٍ ist kein anderer Name für 'den geheiligten/unverletzlichen Monat (حَرَام: heilig/unantastbar)', sondern ein Aspekt davon.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=217"
         }
       ],
       "testContent": {

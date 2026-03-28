@@ -232,7 +232,7 @@
       "ref": "2:200",
       "arabic": "فَمِنَ النَّاسِ مَنْ يَقُولُ رَبَّنَا آتِنَا فِي الدُّنْيَا",
       "ellipsisType": "missing_object",
-      "analysis": "آتِنَا (gib uns) — das Objekt fehlt: 'Gib uns [Gutes / was wir wollen] im Diesseits'. Was erbeten wird, bleibt unbestimmt.",
+      "analysis": "آتِنَا (gib uns) — das Objekt ist im Text nicht spezifiziert. Was erbeten wird, bleibt unbestimmt.",
       "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=200"
     },
     {
@@ -266,8 +266,8 @@
     {
       "ref": "100:1",
       "arabic": "وَالْعَادِيَاتِ ضَبْحًا",
-      "ellipsisType": "missing_mawsuf",
-      "analysis": "الْعَادِيَاتِ — Partizip ohne explizites Mawsuf: 'die Rennenden'. Was rennt (Pferde? Kamele?) ist elidiert und muss aus dem Kontext erschlossen werden.",
+      "ellipsisType": "kein_ellipsis",
+      "analysis": "الْعَادِيَاتِ ist ein substantiviertes Partizip: 'die Rennenden'. Es funktioniert syntaktisch selbststaendig und erfordert kein elidiertes Bezugswort.",
       "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=100&verse=1"
     }
   ]
