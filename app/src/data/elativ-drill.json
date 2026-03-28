@@ -3,9 +3,18 @@
     "title": "Elativ-Drill (أَفْعَل التَّفْضِيل)",
     "description": "Komparativ und Superlativ im quranischen Arabisch — das Muster أَفْعَل für Maskulin und فُعْلَى für Feminin. Alle Beispiele aus dem Quran.",
     "sources": [
-      { "name": "Wright's Grammar Vol I", "url": "https://archive.org/details/grammarofthearab01telerich" },
-      { "name": "Quranic Arabic Corpus", "url": "https://corpus.quran.com/" },
-      { "name": "Lane's Lexicon", "url": "https://ejtaal.net/aa/" }
+      {
+        "name": "Wright's Grammar Vol I",
+        "url": "https://archive.org/details/WrightsArabicGrammar1Of2"
+      },
+      {
+        "name": "Quranic Arabic Corpus",
+        "url": "https://corpus.quran.com/"
+      },
+      {
+        "name": "Lane's Lexicon",
+        "url": "https://ejtaal.net/aa/"
+      }
     ]
   },
   "learnContent": {
@@ -32,7 +41,8 @@
       "feminine": "كُبْرَى",
       "quranicLocation": "29:45",
       "quranicText": "وَلَذِكْرُ اللَّهِ أَكْبَرُ",
-      "usage": "Komparativ und Superlativ: Gott ist größer (اللَّهُ أَكْبَرُ)"
+      "usage": "Komparativ und Superlativ: Gott ist größer (اللَّهُ أَكْبَرُ)",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=29&verse=45"
     },
     {
       "id": "E2",
@@ -43,7 +53,8 @@
       "feminine": "—",
       "quranicLocation": "6:124",
       "quranicText": "اللَّهُ أَعْلَمُ حَيْثُ يَجْعَلُ رِسَالَتَهُ",
-      "usage": "Superlativ ohne Artikel: Gott weiss am besten, wo er seine Botschaft platziert"
+      "usage": "Superlativ ohne Artikel: Gott weiss am besten, wo er seine Botschaft platziert",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=6&verse=124"
     },
     {
       "id": "E3",
@@ -54,7 +65,8 @@
       "feminine": "حُسْنَى",
       "quranicLocation": "95:4",
       "quranicText": "لَقَدْ خَلَقْنَا الْإِنسَانَ فِي أَحْسَنِ تَقْوِيمٍ",
-      "usage": "Superlativ als Idafa: in der besten Gestaltung. أَحْسَنِ im Genitiv (Kasra wegen Idafa, die die Diptosie aufhebt)"
+      "usage": "Superlativ als Idafa: in der besten Gestaltung. أَحْسَنِ im Genitiv (Kasra wegen Idafa, die die Diptosie aufhebt)",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=95&verse=4"
     },
     {
       "id": "E4",
@@ -65,7 +77,8 @@
       "feminine": "—",
       "quranicLocation": "4:11",
       "quranicText": "آبَاؤُكُمْ وَأَبْنَاؤُكُمْ لَا تَدْرُونَ أَيُّهُمْ أَقْرَبُ لَكُمْ نَفْعًا",
-      "usage": "Komparativ: wer von ihnen euch näher ist an Nutzen"
+      "usage": "Komparativ: wer von ihnen euch näher ist an Nutzen",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=11"
     },
     {
       "id": "E5",
@@ -76,7 +89,8 @@
       "feminine": "—",
       "quranicLocation": "12:21",
       "quranicText": "وَلَٰكِنَّ أَكْثَرَ النَّاسِ لَا يَعْلَمُونَ",
-      "usage": "Superlativ als Idafa: die meisten der Menschen wissen nicht"
+      "usage": "Superlativ als Idafa: die meisten der Menschen wissen nicht",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=12&verse=21"
     },
     {
       "id": "E6",
@@ -87,7 +101,8 @@
       "feminine": "دُنْيَا",
       "quranicLocation": "2:61",
       "quranicText": "أَتَسْتَبْدِلُونَ الَّذِي هُوَ أَدْنَىٰ بِالَّذِي هُوَ خَيْرٌ",
-      "usage": "Komparativ: tauscht ihr das Geringere gegen das Bessere ein? أَدْنَى kann je nach Kontext 'näher' oder 'geringer' bedeuten — hier 'geringer'. Defektive Wurzel (Waw als 3. Radikal → Alif Maqsura im Elativ)."
+      "usage": "Komparativ: tauscht ihr das Geringere gegen das Bessere ein? أَدْنَى kann je nach Kontext 'näher' oder 'geringer' bedeuten — hier 'geringer'. Defektive Wurzel (Waw als 3. Radikal → Alif Maqsura im Elativ).",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=61"
     },
     {
       "id": "E7",
@@ -98,7 +113,8 @@
       "feminine": "—",
       "quranicLocation": "63:8",
       "quranicText": "وَلِلَّهِ الْعِزَّةُ وَلِرَسُولِهِ وَلِلْمُؤْمِنِينَ",
-      "usage": "Kontext: يَقُولُونَ لَئِن رَّجَعْنَا إِلَى الْمَدِينَةِ لَيُخْرِجَنَّ الْأَعَزُّ مِنْهَا الْأَذَلَّ — der Mächtigere wird den Geringeren vertreiben"
+      "usage": "Kontext: يَقُولُونَ لَئِن رَّجَعْنَا إِلَى الْمَدِينَةِ لَيُخْرِجَنَّ الْأَعَزُّ مِنْهَا الْأَذَلَّ — der Mächtigere wird den Geringeren vertreiben",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=63&verse=8"
     },
     {
       "id": "E8",
@@ -109,7 +125,8 @@
       "feminine": "—",
       "quranicLocation": "2:54",
       "quranicText": "ذَٰلِكُمْ خَيْرٌ لَّكُمْ عِندَ بَارِئِكُمْ",
-      "usage": "Unregelmäßiger Elativ: خَيْر folgt NICHT dem أَفْعَل-Muster. Es hat Tanwin (خَيْرٌ) — es ist KEIN Diptot. Das ist besser für euch bei eurem Schöpfer."
+      "usage": "Unregelmäßiger Elativ: خَيْر folgt NICHT dem أَفْعَل-Muster. Es hat Tanwin (خَيْرٌ) — es ist KEIN Diptot. Das ist besser für euch bei eurem Schöpfer.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=54"
     },
     {
       "id": "E9",
@@ -120,7 +137,8 @@
       "feminine": "—",
       "quranicLocation": "98:6",
       "quranicText": "أُولَٰئِكَ هُمْ شَرُّ الْبَرِيَّةِ",
-      "usage": "Unregelmäßiger Elativ als Idafa: die schlimmsten der Geschöpfe. شَرُّ hat hier keinen Artikel — Superlativ durch Idafa."
+      "usage": "Unregelmäßiger Elativ als Idafa: die schlimmsten der Geschöpfe. شَرُّ hat hier keinen Artikel — Superlativ durch Idafa.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=98&verse=6"
     },
     {
       "id": "E10",
@@ -131,7 +149,8 @@
       "feminine": "—",
       "quranicLocation": "6:21",
       "quranicText": "وَمَنْ أَظْلَمُ مِمَّنِ افْتَرَىٰ عَلَى اللَّهِ كَذِبًا",
-      "usage": "Rhetorische Frage mit Elativ: Wer ist ungerechter als der, der über Gott eine Lüge erfindet? مِنْ zeigt den Komparativ an."
+      "usage": "Rhetorische Frage mit Elativ: Wer ist ungerechter als der, der über Gott eine Lüge erfindet? مِنْ zeigt den Komparativ an.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=6&verse=21"
     },
     {
       "id": "E11",
@@ -142,7 +161,8 @@
       "feminine": "—",
       "quranicLocation": "2:74",
       "quranicText": "فَهِيَ كَالْحِجَارَةِ أَوْ أَشَدُّ قَسْوَةً",
-      "usage": "Komparativ: oder härter an Härte. قَسْوَةً ist Tamyiz (Spezifikationsakkusativ) — in welcher Hinsicht härter?"
+      "usage": "Komparativ: oder härter an Härte. قَسْوَةً ist Tamyiz (Spezifikationsakkusativ) — in welcher Hinsicht härter?",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=74"
     },
     {
       "id": "E12",
@@ -153,7 +173,8 @@
       "feminine": "عُلْيَا",
       "quranicLocation": "20:68",
       "quranicText": "إِنَّكَ أَنتَ الْأَعْلَىٰ",
-      "usage": "Superlativ mit Artikel: du bist der Höchste. Von defektiver Wurzel ع-ل-و."
+      "usage": "Superlativ mit Artikel: du bist der Höchste. Von defektiver Wurzel ع-ل-و.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=20&verse=68"
     },
     {
       "id": "E13",
@@ -164,7 +185,8 @@
       "feminine": "سُفْلَى",
       "quranicLocation": "4:145",
       "quranicText": "إِنَّ الْمُنَافِقِينَ فِي الدَّرْكِ الْأَسْفَلِ مِنَ النَّارِ",
-      "usage": "Superlativ mit Artikel im Genitiv: in der untersten Stufe des Feuers. الْأَسْفَلِ kongruiert mit الدَّرْكِ."
+      "usage": "Superlativ mit Artikel im Genitiv: in der untersten Stufe des Feuers. الْأَسْفَلِ kongruiert mit الدَّرْكِ.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=145"
     },
     {
       "id": "E14",
@@ -176,7 +198,8 @@
       "quranicLocation": "6:14",
       "quranicText": "وَأُمِرْتُ أَنْ أَكُونَ أَوَّلَ مَنْ أَسْلَمَ",
       "usage": "Superlativ als Idafa: der Erste derer, die sich ergeben. أَوَّلَ im Akkusativ als Khabar von أَكُونَ.",
-      "note": "Wurzel umstritten: أ-و-ل (Mehrheitsmeinung: Wright, Brockelmann) vs. و-أ-ل (Minderheitsmeinung)."
+      "note": "Wurzel umstritten: أ-و-ل (Mehrheitsmeinung: Wright, Brockelmann) vs. و-أ-ل (Minderheitsmeinung).",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=6&verse=14"
     },
     {
       "id": "E15",
@@ -187,9 +210,9 @@
       "feminine": "صُغْرَى",
       "quranicLocation": "10:61",
       "quranicText": "وَلَا أَصْغَرَ مِن ذَٰلِكَ وَلَا أَكْبَرَ",
-      "usage": "Komparativ: weder Kleineres noch Größeres. أَصْغَرَ im Akkusativ (nach لَا). Paarung mit dem Gegenteil أَكْبَر."
+      "usage": "Komparativ: weder Kleineres noch Größeres. أَصْغَرَ im Akkusativ (nach لَا). Paarung mit dem Gegenteil أَكْبَر.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=10&verse=61"
     },
-
     {
       "id": "E16",
       "word": "أَعْظَم",
@@ -199,7 +222,8 @@
       "feminine": "عُظْمَى",
       "quranicLocation": "9:19",
       "quranicText": "أَعْظَمُ دَرَجَةً عِندَ اللَّهِ",
-      "usage": "Komparativ: gewaltiger an Rang bei Gott. دَرَجَةً ist Tamyiz (Spezifikation)."
+      "usage": "Komparativ: gewaltiger an Rang bei Gott. دَرَجَةً ist Tamyiz (Spezifikation).",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=9&verse=19"
     },
     {
       "id": "E17",
@@ -210,7 +234,8 @@
       "feminine": "—",
       "quranicLocation": "30:9",
       "quranicText": "كَانُوا أَشَدَّ مِنْهُمْ قُوَّةً",
-      "usage": "Verwandtes Konzept: Stärke wird im Quran oft durch أَشَدّ + قُوَّةً (Tamyiz) ausgedrueckt statt durch أَقْوَى direkt."
+      "usage": "Verwandtes Konzept: Stärke wird im Quran oft durch أَشَدّ + قُوَّةً (Tamyiz) ausgedrueckt statt durch أَقْوَى direkt.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=30&verse=9"
     },
     {
       "id": "E18",
@@ -221,7 +246,8 @@
       "feminine": "أُخْرَى",
       "quranicLocation": "2:282",
       "quranicText": "فَإِن كَانَ الَّذِي عَلَيْهِ الْحَقُّ سَفِيهًا أَوْ ضَعِيفًا أَوْ لَا يَسْتَطِيعُ أَن يُمِلَّ هُوَ فَلْيُمْلِلْ وَلِيُّهُ بِالْعَدْلِ",
-      "usage": "آخَر (mask.) und أُخْرَى (fem.) folgen dem Elativ-Muster أَفْعَل/فُعْلَى. Diptotisch: Genitiv auf Fatha."
+      "usage": "آخَر (mask.) und أُخْرَى (fem.) folgen dem Elativ-Muster أَفْعَل/فُعْلَى. Diptotisch: Genitiv auf Fatha.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=282"
     },
     {
       "id": "E19",
@@ -232,7 +258,8 @@
       "feminine": "—",
       "quranicLocation": "41:44",
       "quranicText": "أُولَٰئِكَ يُنَادَوْنَ مِن مَكَانٍ بَعِيدٍ",
-      "usage": "Im Quran erscheint die Grundform بَعِيد häufiger als der Elativ. Das Konzept 'fern' ist im Quran zentral."
+      "usage": "Im Quran erscheint die Grundform بَعِيد häufiger als der Elativ. Das Konzept 'fern' ist im Quran zentral.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=41&verse=44"
     },
     {
       "id": "E20",
@@ -243,7 +270,8 @@
       "feminine": "—",
       "quranicLocation": "11:78",
       "quranicText": "هَٰؤُلَاءِ بَنَاتِي هُنَّ أَطْهَرُ لَكُمْ",
-      "usage": "Komparativ ohne مِنْ: sie sind reiner für euch. أَطْهَرُ im Nominativ als Khabar."
+      "usage": "Komparativ ohne مِنْ: sie sind reiner für euch. أَطْهَرُ im Nominativ als Khabar.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=11&verse=78"
     },
     {
       "id": "E21",
@@ -254,7 +282,8 @@
       "feminine": "—",
       "quranicLocation": "53:48",
       "quranicText": "وَأَنَّهُ هُوَ أَغْنَىٰ وَأَقْنَىٰ",
-      "usage": "Elativ von defektiver Wurzel: أَغْنَى (Alif Maqsura). Er ist es, der reich macht und genügen lässt."
+      "usage": "Elativ von defektiver Wurzel: أَغْنَى (Alif Maqsura). Er ist es, der reich macht und genügen lässt.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=53&verse=48"
     },
     {
       "id": "E22",
@@ -265,7 +294,8 @@
       "feminine": "—",
       "quranicLocation": "17:84",
       "quranicText": "فَرَبُّكُمْ أَعْلَمُ بِمَنْ هُوَ أَهْدَىٰ سَبِيلًا",
-      "usage": "Komparativ: wer besser geleitet ist an Weg. سَبِيلًا ist Tamyiz. Defektive Wurzel → Alif Maqsura."
+      "usage": "Komparativ: wer besser geleitet ist an Weg. سَبِيلًا ist Tamyiz. Defektive Wurzel → Alif Maqsura.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=17&verse=84"
     },
     {
       "id": "E23",
@@ -276,7 +306,8 @@
       "feminine": "—",
       "quranicLocation": "25:44",
       "quranicText": "أَمْ تَحْسَبُ أَنَّ أَكْثَرَهُمْ يَسْمَعُونَ أَوْ يَعْقِلُونَ إِنْ هُمْ إِلَّا كَالْأَنْعَامِ بَلْ هُمْ أَضَلُّ سَبِيلًا",
-      "usage": "Komparativ: sie sind irrender an Weg (als Vieh). سَبِيلًا ist Tamyiz. Von verdoppelter Wurzel ض-ل-ل."
+      "usage": "Komparativ: sie sind irrender an Weg (als Vieh). سَبِيلًا ist Tamyiz. Von verdoppelter Wurzel ض-ل-ل.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=25&verse=44"
     },
     {
       "id": "E24",
@@ -287,7 +318,8 @@
       "feminine": "—",
       "quranicLocation": "9:13",
       "quranicText": "أَفَلَا تَخْشَوْنَهُ فَاللَّهُ أَحَقُّ أَن تَخْشَوْهُ",
-      "usage": "Komparativ: Gott ist würdiger, dass ihr ihn fürchtet. أَحَقُّ im Nominativ als Mubtada'."
+      "usage": "Komparativ: Gott ist würdiger, dass ihr ihn fürchtet. أَحَقُّ im Nominativ als Mubtada'.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=9&verse=13"
     },
     {
       "id": "E25",
@@ -298,7 +330,8 @@
       "feminine": "—",
       "quranicLocation": "17:9",
       "quranicText": "إِنَّ هَٰذَا الْقُرْآنَ يَهْدِي لِلَّتِي هِيَ أَقْوَمُ",
-      "usage": "Superlativ: zum Geradesten/Aufrechtersten. أَقْوَمُ als Khabar von هِيَ. Von hohler Wurzel ق-و-م."
+      "usage": "Superlativ: zum Geradesten/Aufrechtersten. أَقْوَمُ als Khabar von هِيَ. Von hohler Wurzel ق-و-م.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=17&verse=9"
     },
     {
       "id": "E26",
@@ -309,7 +342,8 @@
       "feminine": "—",
       "quranicLocation": "49:13",
       "quranicText": "إِنَّ أَكْرَمَكُمْ عِندَ اللَّهِ أَتْقَاكُمْ",
-      "usage": "Superlativ als Idafa: der Achtsamste unter euch. أَتْقَاكُمْ = أَتْقَى + Suffix -كُمْ."
+      "usage": "Superlativ als Idafa: der Achtsamste unter euch. أَتْقَاكُمْ = أَتْقَى + Suffix -كُمْ.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=49&verse=13"
     },
     {
       "id": "E27",
@@ -320,7 +354,8 @@
       "feminine": "—",
       "quranicLocation": "49:13",
       "quranicText": "إِنَّ أَكْرَمَكُمْ عِندَ اللَّهِ أَتْقَاكُمْ",
-      "usage": "Superlativ als Idafa: der Edelste unter euch. Ism von إِنَّ im Akkusativ: أَكْرَمَكُمْ."
+      "usage": "Superlativ als Idafa: der Edelste unter euch. Ism von إِنَّ im Akkusativ: أَكْرَمَكُمْ.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=49&verse=13"
     },
     {
       "id": "E28",
@@ -331,7 +366,8 @@
       "feminine": "—",
       "quranicLocation": "18:34",
       "quranicText": "أَنَا أَكْثَرُ مِنكَ مَالًا وَأَعَزُّ نَفَرًا",
-      "usage": "Kontext: Der Gegenbegriff أَقَلّ erscheint implizit. In 72:24 steht: أَضْعَفُ نَاصِرًا وَأَقَلُّ عَدَدًا — weniger an Zahl."
+      "usage": "Kontext: Der Gegenbegriff أَقَلّ erscheint implizit. In 72:24 steht: أَضْعَفُ نَاصِرًا وَأَقَلُّ عَدَدًا — weniger an Zahl.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=18&verse=34"
     },
     {
       "id": "E29",
@@ -342,7 +378,8 @@
       "feminine": "وُسْطَى",
       "quranicLocation": "2:238",
       "quranicText": "حَافِظُوا عَلَى الصَّلَوَاتِ وَالصَّلَاةِ الْوُسْطَىٰ",
-      "usage": "Superlativ mit Artikel, feminine Form: الْوُسْطَى (die mittlere). Kongruiert mit الصَّلَاة (feminin)."
+      "usage": "Superlativ mit Artikel, feminine Form: الْوُسْطَى (die mittlere). Kongruiert mit الصَّلَاة (feminin).",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=238"
     },
     {
       "id": "E30",
@@ -353,9 +390,9 @@
       "feminine": "—",
       "quranicLocation": "74:33",
       "quranicText": "وَاللَّيْلِ إِذْ أَدْبَرَ",
-      "usage": "Achtung: أَدْبَرَ hier ist KEIN Elativ, sondern Verb Form IV (er wandte sich ab / wich zurück). Nicht jedes أَفْعَل-Muster ist ein Elativ."
+      "usage": "Achtung: أَدْبَرَ hier ist KEIN Elativ, sondern Verb Form IV (er wandte sich ab / wich zurück). Nicht jedes أَفْعَل-Muster ist ein Elativ.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=74&verse=33"
     },
-
     {
       "id": "E31",
       "word": "أَشَدّ (mit مِنْ)",
@@ -365,7 +402,8 @@
       "feminine": "—",
       "quranicLocation": "2:191",
       "quranicText": "وَالْفِتْنَةُ أَشَدُّ مِنَ الْقَتْلِ",
-      "usage": "Komparativ mit مِنْ: die Versuchung ist härter als das Töten. مِنَ الْقَتْلِ — das Verglichene steht nach مِنْ im Genitiv."
+      "usage": "Komparativ mit مِنْ: die Versuchung ist härter als das Töten. مِنَ الْقَتْلِ — das Verglichene steht nach مِنْ im Genitiv.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=191"
     },
     {
       "id": "E32",
@@ -376,7 +414,8 @@
       "feminine": "—",
       "quranicLocation": "6:53",
       "quranicText": "أَلَيْسَ اللَّهُ بِأَعْلَمَ بِالشَّاكِرِينَ",
-      "usage": "Komparativ mit بِ statt مِنْ: Gott weiss besser über die Dankbaren Bescheid. Besonderheit: بِ leitet den Gegenstand des Wissens ein."
+      "usage": "Komparativ mit بِ statt مِنْ: Gott weiss besser über die Dankbaren Bescheid. Besonderheit: بِ leitet den Gegenstand des Wissens ein.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=6&verse=53"
     },
     {
       "id": "E33",
@@ -387,7 +426,8 @@
       "feminine": "كُبْرَى",
       "quranicLocation": "29:45",
       "quranicText": "وَلَذِكْرُ اللَّهِ أَكْبَرُ",
-      "usage": "Komparativ (implizites مِنْ): das Gedenken Gottes ist größer (als alles andere). أَكْبَرُ im Nominativ als Khabar."
+      "usage": "Komparativ (implizites مِنْ): das Gedenken Gottes ist größer (als alles andere). أَكْبَرُ im Nominativ als Khabar.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=29&verse=45"
     },
     {
       "id": "E34",
@@ -398,7 +438,8 @@
       "feminine": "—",
       "quranicLocation": "56:85",
       "quranicText": "وَنَحْنُ أَقْرَبُ إِلَيْهِ مِنكُمْ وَلَٰكِن لَا تُبْصِرُونَ",
-      "usage": "Komparativ mit مِنْ: wir sind näher zu ihm als ihr. مِنكُمْ ist das Verglichene im Genitiv."
+      "usage": "Komparativ mit مِنْ: wir sind näher zu ihm als ihr. مِنكُمْ ist das Verglichene im Genitiv.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=56&verse=85"
     },
     {
       "id": "E35",
@@ -409,7 +450,8 @@
       "feminine": "—",
       "quranicLocation": "12:8",
       "quranicText": "لَيُوسُفُ وَأَخُوهُ أَحَبُّ إِلَىٰ أَبِينَا مِنَّا",
-      "usage": "Komparativ mit إِلَى (für denjenigen, der liebt) und مِنْ (als wer): Yusuf ist dem Vater lieber als wir."
+      "usage": "Komparativ mit إِلَى (für denjenigen, der liebt) und مِنْ (als wer): Yusuf ist dem Vater lieber als wir.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=12&verse=8"
     },
     {
       "id": "E36",
@@ -420,7 +462,8 @@
       "feminine": "—",
       "quranicLocation": "33:6",
       "quranicText": "النَّبِيُّ أَوْلَىٰ بِالْمُؤْمِنِينَ مِنْ أَنفُسِهِمْ",
-      "usage": "Verwandter Elativ أَوْلَى (näherstehend/berechtigter) mit بِ + مِنْ. Der Nabi steht den Vertrauenden näher als sie sich selbst."
+      "usage": "Verwandter Elativ أَوْلَى (näherstehend/berechtigter) mit بِ + مِنْ. Der Nabi steht den Vertrauenden näher als sie sich selbst.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=33&verse=6"
     },
     {
       "id": "E37",
@@ -431,7 +474,8 @@
       "feminine": "دُنْيَا",
       "quranicLocation": "33:59",
       "quranicText": "ذَٰلِكَ أَدْنَىٰ أَن يُعْرَفْنَ فَلَا يُؤْذَيْنَ",
-      "usage": "Komparativ: das ist näher daran (wahrscheinlicher), dass sie erkannt werden. أَدْنَى von defektiver Wurzel."
+      "usage": "Komparativ: das ist näher daran (wahrscheinlicher), dass sie erkannt werden. أَدْنَى von defektiver Wurzel.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=33&verse=59"
     },
     {
       "id": "E38",
@@ -442,7 +486,8 @@
       "feminine": "—",
       "quranicLocation": "18:103",
       "quranicText": "قُلْ هَلْ نُنَبِّئُكُم بِالْأَخْسَرِينَ أَعْمَالًا",
-      "usage": "Superlativ mit Artikel im Plural: الْأَخْسَرِينَ (die Verlustreichsten). Gesunder mask. Plural des Elativs. أَعْمَالًا ist Tamyiz."
+      "usage": "Superlativ mit Artikel im Plural: الْأَخْسَرِينَ (die Verlustreichsten). Gesunder mask. Plural des Elativs. أَعْمَالًا ist Tamyiz.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=18&verse=103"
     },
     {
       "id": "E39",
@@ -453,7 +498,8 @@
       "feminine": "قُصْوَى",
       "quranicLocation": "17:1",
       "quranicText": "سُبْحَانَ الَّذِي أَسْرَىٰ بِعَبْدِهِ لَيْلًا مِنَ الْمَسْجِدِ الْحَرَامِ إِلَى الْمَسْجِدِ الْأَقْصَى",
-      "usage": "Superlativ mit Artikel: الْأَقْصَى (der fernste/äußerste). Kongruiert mit الْمَسْجِدِ (mask., Genitiv). Von defektiver Wurzel."
+      "usage": "Superlativ mit Artikel: الْأَقْصَى (der fernste/äußerste). Kongruiert mit الْمَسْجِدِ (mask., Genitiv). Von defektiver Wurzel.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=17&verse=1"
     },
     {
       "id": "E40",
@@ -464,7 +510,8 @@
       "feminine": "الْعُلْيَا",
       "quranicLocation": "87:1",
       "quranicText": "سَبِّحِ اسْمَ رَبِّكَ الْأَعْلَى",
-      "usage": "Superlativ mit Artikel: الْأَعْلَى (der Höchste). Kongruiert mit رَبّ (mask.). Sifat im Genitiv nach Idafa."
+      "usage": "Superlativ mit Artikel: الْأَعْلَى (der Höchste). Kongruiert mit رَبّ (mask.). Sifat im Genitiv nach Idafa.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=87&verse=1"
     },
     {
       "id": "E41",
@@ -475,7 +522,8 @@
       "feminine": "السُّفْلَى",
       "quranicLocation": "95:5",
       "quranicText": "ثُمَّ رَدَدْنَاهُ أَسْفَلَ سَافِلِينَ",
-      "usage": "Elativ als Idafa: den niedrigsten der Niedrigen. أَسْفَلَ im Akkusativ. سَافِلِينَ (gesunder mask. Plural) ist Mudaf ilayhi im Genitiv."
+      "usage": "Elativ als Idafa: den niedrigsten der Niedrigen. أَسْفَلَ im Akkusativ. سَافِلِينَ (gesunder mask. Plural) ist Mudaf ilayhi im Genitiv.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=95&verse=5"
     },
     {
       "id": "E42",
@@ -486,7 +534,8 @@
       "feminine": "—",
       "quranicLocation": "26:8",
       "quranicText": "وَمَا كَانَ أَكْثَرُهُم مُؤْمِنِينَ",
-      "usage": "Superlativ als Idafa: die meisten von ihnen. أَكْثَرُهُمْ ist Ism von كَانَ im Nominativ."
+      "usage": "Superlativ als Idafa: die meisten von ihnen. أَكْثَرُهُمْ ist Ism von كَانَ im Nominativ.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=26&verse=8"
     },
     {
       "id": "E43",
@@ -497,7 +546,8 @@
       "feminine": "الْحُسْنَى",
       "quranicLocation": "41:34",
       "quranicText": "ادْفَعْ بِالَّتِي هِيَ أَحْسَنُ",
-      "usage": "Superlativ ohne Artikel in Relativsatz: الَّتِي هِيَ أَحْسَنُ (die welche am besten ist). أَحْسَنُ als Khabar."
+      "usage": "Superlativ ohne Artikel in Relativsatz: الَّتِي هِيَ أَحْسَنُ (die welche am besten ist). أَحْسَنُ als Khabar.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=41&verse=34"
     },
     {
       "id": "E44",
@@ -508,7 +558,8 @@
       "feminine": "الْحُسْنَى (selbst die fem. Form)",
       "quranicLocation": "92:6",
       "quranicText": "وَصَدَّقَ بِالْحُسْنَىٰ",
-      "usage": "Feminine Elativform فُعْلَى mit Artikel: الْحُسْنَى (das Beste). Eigenständig als Nomen verwendbar."
+      "usage": "Feminine Elativform فُعْلَى mit Artikel: الْحُسْنَى (das Beste). Eigenständig als Nomen verwendbar.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=92&verse=6"
     },
     {
       "id": "E45",
@@ -519,7 +570,8 @@
       "feminine": "الْكُبْرَى (selbst die fem. Form)",
       "quranicLocation": "79:20",
       "quranicText": "فَأَرَاهُ الْآيَةَ الْكُبْرَىٰ",
-      "usage": "Feminine Elativform فُعْلَى mit Artikel: الْكُبْرَى (die größte). Kongruiert mit الْآيَة (feminin, Akkusativ, definit)."
+      "usage": "Feminine Elativform فُعْلَى mit Artikel: الْكُبْرَى (die größte). Kongruiert mit الْآيَة (feminin, Akkusativ, definit).",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=79&verse=20"
     },
     {
       "id": "E46",
@@ -530,7 +582,8 @@
       "feminine": "الدُّنْيَا (selbst die fem. Form)",
       "quranicLocation": "2:85",
       "quranicText": "خِزْيٌ فِي الْحَيَاةِ الدُّنْيَا",
-      "usage": "Feminine Elativform فُعْلَى: الدُّنْيَا (die nähere/niedrigere). Kongruiert mit الْحَيَاة (feminin). Wird als Eigenname für 'das diesseitige Leben' verwendet."
+      "usage": "Feminine Elativform فُعْلَى: الدُّنْيَا (die nähere/niedrigere). Kongruiert mit الْحَيَاة (feminin). Wird als Eigenname für 'das diesseitige Leben' verwendet.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=85"
     },
     {
       "id": "E47",
@@ -541,7 +594,8 @@
       "feminine": "الْعُلْيَا (selbst die fem. Form)",
       "quranicLocation": "9:40",
       "quranicText": "وَكَلِمَةُ اللَّهِ هِيَ الْعُلْيَا",
-      "usage": "Feminine Elativform فُعْلَى mit Artikel: الْعُلْيَا (die höchste). Khabar von كَلِمَةُ اللَّهِ."
+      "usage": "Feminine Elativform فُعْلَى mit Artikel: الْعُلْيَا (die höchste). Khabar von كَلِمَةُ اللَّهِ.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=9&verse=40"
     },
     {
       "id": "E48",
@@ -553,7 +607,8 @@
       "quranicLocation": "53:25",
       "quranicText": "فَلِلَّهِ الْآخِرَةُ وَالْأُولَىٰ",
       "usage": "Feminine Elativform zu أَوَّل: الْأُولَى. Parallel zu الْآخِرَة. Das Spätere und das Nahe gehören Gott.",
-      "note": "Wurzel umstritten: أ-و-ل (Mehrheitsmeinung: Wright, Brockelmann) vs. و-أ-ل (Minderheitsmeinung)."
+      "note": "Wurzel umstritten: أ-و-ل (Mehrheitsmeinung: Wright, Brockelmann) vs. و-أ-ل (Minderheitsmeinung).",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=53&verse=25"
     },
     {
       "id": "E49",
@@ -564,7 +619,8 @@
       "feminine": "—",
       "quranicLocation": "2:114",
       "quranicText": "وَمَنْ أَظْلَمُ مِمَّن مَنَعَ مَسَاجِدَ اللَّهِ أَن يُذْكَرَ فِيهَا اسْمُهُ",
-      "usage": "Rhetorische Frage mit Komparativ: Wer ist ungerechter als wer die Moscheen Gottes verwehrt? مِمَّن = مِنْ + مَنْ."
+      "usage": "Rhetorische Frage mit Komparativ: Wer ist ungerechter als wer die Moscheen Gottes verwehrt? مِمَّن = مِنْ + مَنْ.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=114"
     },
     {
       "id": "E50",
@@ -575,7 +631,8 @@
       "feminine": "—",
       "quranicLocation": "4:3",
       "quranicText": "مَا طَابَ لَكُم مِنَ النِّسَاءِ",
-      "usage": "Im Quran erscheint die Grundform طَيِّب und das Verb طَابَ häufig. Der Elativ أَطْيَب folgt dem regulären Muster أَفْعَل."
+      "usage": "Im Quran erscheint die Grundform طَيِّب und das Verb طَابَ häufig. Der Elativ أَطْيَب folgt dem regulären Muster أَفْعَل.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=3"
     }
   ],
   "testContent": {
@@ -583,21 +640,36 @@
       {
         "type": "multiple_choice",
         "question": "Nach welchem Muster wird der reguläre Elativ gebildet?",
-        "options": ["فَعِيل", "أَفْعَل (maskulin) / فُعْلَى (feminin)", "مَفْعُول", "فَاعِل"],
+        "options": [
+          "فَعِيل",
+          "أَفْعَل (maskulin) / فُعْلَى (feminin)",
+          "مَفْعُول",
+          "فَاعِل"
+        ],
         "correct": 1,
         "explanation": "Der reguläre Elativ folgt dem Muster أَفْعَل für Maskulin und فُعْلَى für Feminin. Beispiel: كَبِير → أَكْبَر / كُبْرَى."
       },
       {
         "type": "multiple_choice",
         "question": "Welche zwei Elative sind unregelmäßig (folgen NICHT dem أَفْعَل-Muster)?",
-        "options": ["أَكْبَر und أَصْغَر", "خَيْر und شَرّ", "أَعْلَى und أَدْنَى", "أَوَّل und آخَر"],
+        "options": [
+          "أَكْبَر und أَصْغَر",
+          "خَيْر und شَرّ",
+          "أَعْلَى und أَدْنَى",
+          "أَوَّل und آخَر"
+        ],
         "correct": 1,
         "explanation": "خَيْر (besser) und شَرّ (schlimmer) sind unregelmäßig. Sie folgen nicht dem أَفْعَل-Muster und haben abweichende Flexion (خَيْر hat Tanwin, ist nicht diptot)."
       },
       {
         "type": "multiple_choice",
         "question": "Was bedeutet أَكْثَرَ النَّاسِ (12:21)?",
-        "options": ["Viele Menschen", "Die meisten der Menschen (Superlativ als Idafa)", "Der größte Mensch", "Mehr als die Menschen"],
+        "options": [
+          "Viele Menschen",
+          "Die meisten der Menschen (Superlativ als Idafa)",
+          "Der größte Mensch",
+          "Mehr als die Menschen"
+        ],
         "correct": 1,
         "explanation": "أَكْثَرَ النَّاسِ ist ein Superlativ in Idafa-Konstruktion: das Meiste / die Meisten der Menschen. النَّاسِ steht im Genitiv als Mudaf ilayhi."
       },
@@ -616,7 +688,12 @@
       {
         "type": "multiple_choice",
         "question": "In أَوْ أَشَدُّ قَسْوَةً (2:74) — was ist قَسْوَةً grammatisch?",
-        "options": ["Direktes Objekt", "Tamyiz (Spezifikationsakkusativ) — in welcher Hinsicht härter", "Hal (Zustandsakkusativ)", "Khabar"],
+        "options": [
+          "Direktes Objekt",
+          "Tamyiz (Spezifikationsakkusativ) — in welcher Hinsicht härter",
+          "Hal (Zustandsakkusativ)",
+          "Khabar"
+        ],
         "correct": 1,
         "explanation": "قَسْوَةً ist ein Tamyiz — es spezifiziert, in welcher Hinsicht der Vergleich gilt: härter an HAERTE. Der Tamyiz steht im Akkusativ und ist indefinit."
       }

@@ -45,7 +45,7 @@ const WRIGHT_REFS = {
 };
 
 const WRIGHT_URL_VOL2 = "https://archive.org/details/grammarofthearab02telerich";
-const WRIGHT_URL_VOL1 = "https://archive.org/details/grammarofthearab01telerich";
+const WRIGHT_URL_VOL1 = "https://archive.org/details/WrightsArabicGrammar1Of2";
 
 const CROSS_REFS = {
   "3.1": ["2.17", "3.3", "3.5", "3.4"],

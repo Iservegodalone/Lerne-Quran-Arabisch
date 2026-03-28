@@ -3,8 +3,14 @@
     "title": "Tawkid — Bekräftigung und Bestätigung",
     "description": "Systematische Behandlung der beiden Tawkid-Typen: wortwoertliche Wiederholung (tawkid lafzi) und semantische Bekräftigung (tawkid ma'nawi). Rein sprachwissenschaftlich.",
     "sources": [
-      { "name": "Wright's Grammar Vol II", "url": "https://archive.org/details/grammarofthearab02telerich" },
-      { "name": "Quranic Arabic Corpus", "url": "https://corpus.quran.com/" }
+      {
+        "name": "Wright's Grammar Vol II",
+        "url": "https://archive.org/details/grammarofthearab02telerich"
+      },
+      {
+        "name": "Quranic Arabic Corpus",
+        "url": "https://corpus.quran.com/"
+      }
     ]
   },
   "lessons": [
@@ -26,32 +32,38 @@
               {
                 "ref": "94:5-6",
                 "arabic": "فَإِنَّ مَعَ الْعُسْرِ يُسْرًا ﴿٥﴾ إِنَّ مَعَ الْعُسْرِ يُسْرًا ﴿٦﴾",
-                "explanation": "Der gesamte Satz wird wiederholt: إِنَّ مَعَ الْعُسْرِ يُسْرًا — wörtliche Satzwiederholung als Bekräftigung."
+                "explanation": "Der gesamte Satz wird wiederholt: إِنَّ مَعَ الْعُسْرِ يُسْرًا — wörtliche Satzwiederholung als Bekräftigung.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=94&verse=5"
               },
               {
                 "ref": "55:13",
                 "arabic": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
-                "explanation": "Dieser Vers wird 31 Mal in der Sure wiederholt — Refrain als strukturelle Bekräftigung."
+                "explanation": "Dieser Vers wird 31 Mal in der Sure wiederholt — Refrain als strukturelle Bekräftigung.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=55&verse=13"
               },
               {
                 "ref": "82:17-18",
                 "arabic": "وَمَا أَدْرَاكَ مَا يَوْمُ الدِّينِ ﴿١٧﴾ ثُمَّ مَا أَدْرَاكَ مَا يَوْمُ الدِّينِ ﴿١٨﴾",
-                "explanation": "Die rhetorische Frage وَمَا أَدْرَاكَ wird wiederholt, beim zweiten Mal mit ثُمَّ eingeleitet."
+                "explanation": "Die rhetorische Frage وَمَا أَدْرَاكَ wird wiederholt, beim zweiten Mal mit ثُمَّ eingeleitet.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=82&verse=17"
               },
               {
                 "ref": "69:1-2",
                 "arabic": "الْحَاقَّةُ ﴿١﴾ مَا الْحَاقَّةُ ﴿٢﴾",
-                "explanation": "Das Wort الْحَاقَّة wird sofort aufgegriffen — erst als Thema, dann in einer rhetorischen Frage."
+                "explanation": "Das Wort الْحَاقَّة wird sofort aufgegriffen — erst als Thema, dann in einer rhetorischen Frage.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=69&verse=1"
               },
               {
                 "ref": "101:1-2",
                 "arabic": "الْقَارِعَةُ ﴿١﴾ مَا الْقَارِعَةُ ﴿٢﴾",
-                "explanation": "Identisches Muster: Wort + sofortige Frage nach dem Wort."
+                "explanation": "Identisches Muster: Wort + sofortige Frage nach dem Wort.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=101&verse=1"
               },
               {
                 "ref": "89:21-22",
                 "arabic": "كَلَّا إِذَا دُكَّتِ الْأَرْضُ دَكًّا دَكًّا ﴿٢١﴾ وَجَاءَ رَبُّكَ وَالْمَلَكُ صَفًّا صَفًّا ﴿٢٢﴾",
-                "explanation": "دَكًّا دَكًّا und صَفًّا صَفًّا: Wiederholung des Masdar als Bekräftigung — 'Zerschmetterung auf Zerschmetterung', 'Reihe auf Reihe'."
+                "explanation": "دَكًّا دَكًّا und صَفًّا صَفًّا: Wiederholung des Masdar als Bekräftigung — 'Zerschmetterung auf Zerschmetterung', 'Reihe auf Reihe'.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=89&verse=21"
               }
             ]
           }
@@ -128,32 +140,38 @@
               {
                 "ref": "2:29",
                 "arabic": "هُوَ الَّذِي خَلَقَ لَكُمْ مَا فِي الْأَرْضِ جَمِيعًا",
-                "explanation": "جَمِيعًا (Akkusativ als Hal): 'insgesamt / alle zusammen' — bekräftigt die Gesamtheit dessen was auf der Erde ist."
+                "explanation": "جَمِيعًا (Akkusativ als Hal): 'insgesamt / alle zusammen' — bekräftigt die Gesamtheit dessen was auf der Erde ist.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=29"
               },
               {
                 "ref": "2:31",
                 "arabic": "وَعَلَّمَ آدَمَ الْأَسْمَاءَ كُلَّهَا",
-                "explanation": "كُلَّهَا: Tawkid Ma'nawi zu الْأَسْمَاءَ — 'die Namen, ALLE von ihnen'. Akkusativ (wie الاسماء). Das Suffix هَا verweist auf الاسماء (gebrochener Plural → feminin Singular Pronomen)."
+                "explanation": "كُلَّهَا: Tawkid Ma'nawi zu الْأَسْمَاءَ — 'die Namen, ALLE von ihnen'. Akkusativ (wie الاسماء). Das Suffix هَا verweist auf الاسماء (gebrochener Plural → feminin Singular Pronomen).",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=31"
               },
               {
                 "ref": "2:148",
                 "arabic": "وَلِكُلٍّ وِجْهَةٌ هُوَ مُوَلِّيهَا فَاسْتَبِقُوا الْخَيْرَاتِ",
-                "explanation": "لِكُلٍّ: لِ + كُلٍّ = Jarr wa-Majrur, fungiert als vorangestelltes Khabar. وِجْهَةٌ = Mubtada (Nominativ). كُلّ hier nicht als Tawkid, sondern als Teil einer Präpositionalphrase."
+                "explanation": "لِكُلٍّ: لِ + كُلٍّ = Jarr wa-Majrur, fungiert als vorangestelltes Khabar. وِجْهَةٌ = Mubtada (Nominativ). كُلّ hier nicht als Tawkid, sondern als Teil einer Präpositionalphrase.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=148"
               },
               {
                 "ref": "15:30",
                 "arabic": "فَسَجَدَ الْمَلَائِكَةُ كُلُّهُمْ أَجْمَعُونَ",
-                "explanation": "Doppeltes Tawkid: كُلُّهُمْ (alle von ihnen) + أَجْمَعُونَ (insgesamt) — beide Nominativ, weil الملائكة Fa'il (Nominativ) ist. Seltene doppelte Bekräftigung der Gesamtheit."
+                "explanation": "Doppeltes Tawkid: كُلُّهُمْ (alle von ihnen) + أَجْمَعُونَ (insgesamt) — beide Nominativ, weil الملائكة Fa'il (Nominativ) ist. Seltene doppelte Bekräftigung der Gesamtheit.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=15&verse=30"
               },
               {
                 "ref": "26:95",
                 "arabic": "وَجُنُودُ إِبْلِيسَ أَجْمَعُونَ",
-                "explanation": "أَجْمَعُونَ: Tawkid zu جُنُودُ, Nominativ (maskuliner gesunder Plural auf -ون)."
+                "explanation": "أَجْمَعُونَ: Tawkid zu جُنُودُ, Nominativ (maskuliner gesunder Plural auf -ون).",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=26&verse=95"
               },
               {
                 "ref": "2:36",
                 "arabic": "اهْبِطُوا بَعْضُكُمْ لِبَعْضٍ عَدُوٌّ",
-                "explanation": "بَعْضُكُمْ: Obwohl kein klassisches Tawkid, zeigt بعض (Teil) den Kontrast zu كُلّ (ganz). بعض verteilt, كُلّ vereint."
+                "explanation": "بَعْضُكُمْ: Obwohl kein klassisches Tawkid, zeigt بعض (Teil) den Kontrast zu كُلّ (ganz). بعض verteilt, كُلّ vereint.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=36"
               }
             ]
           },
@@ -164,12 +182,14 @@
               {
                 "ref": "18:33",
                 "arabic": "كِلْتَا الْجَنَّتَيْنِ آتَتْ أُكُلَهَا",
-                "explanation": "كِلْتَا (feminin, weil الجنتين feminin ist): 'Beide Gärten brachten ihren Ertrag.' كِلْتَا ist hier Mubtada (Nominativ) in Idafa mit الجنتين."
+                "explanation": "كِلْتَا (feminin, weil الجنتين feminin ist): 'Beide Gärten brachten ihren Ertrag.' كِلْتَا ist hier Mubtada (Nominativ) in Idafa mit الجنتين.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=18&verse=33"
               },
               {
                 "ref": "17:23",
                 "arabic": "إِمَّا يَبْلُغَنَّ عِنْدَكَ الْكِبَرَ أَحَدُهُمَا أَوْ كِلَاهُمَا",
-                "explanation": "كِلَاهُمَا: 'oder beide von ihnen' — Nominativ (Fa'il). كِلَا für maskulin Dual."
+                "explanation": "كِلَاهُمَا: 'oder beide von ihnen' — Nominativ (Fa'il). كِلَا für maskulin Dual.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=17&verse=23"
               }
             ]
           }
@@ -205,7 +225,12 @@
         "exercises": [
           {
             "question": "Welches Wort wird für Tawkid Ma'nawi bei Dualformen verwendet?",
-            "options": ["نَفْس", "كُلّ", "كِلَا / كِلْتَا", "جَمِيع"],
+            "options": [
+              "نَفْس",
+              "كُلّ",
+              "كِلَا / كِلْتَا",
+              "جَمِيع"
+            ],
             "correct": 2
           },
           {
@@ -230,7 +255,12 @@
           },
           {
             "question": "In welchem Vers steht ein doppeltes Tawkid (كُلّ + أَجْمَع)?",
-            "options": ["2:31", "15:30", "18:33", "2:29"],
+            "options": [
+              "2:31",
+              "15:30",
+              "18:33",
+              "2:29"
+            ],
             "correct": 1
           }
         ]

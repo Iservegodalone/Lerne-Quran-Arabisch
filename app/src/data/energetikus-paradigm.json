@@ -3,11 +3,34 @@
     "title": "Energetikus-Paradigma (نون التوكيد)",
     "description": "Vollständiges Konjugationsparadigma des Energetikus (Modus der Bekräftigung) mit schwerer und leichter Nun-Form. Der Energetikus wird im Quran nach Schwurpartikeln, in Prohibitivkonstruktionen und in bestimmten Bedingungskontexten verwendet.",
     "rootExample": "ف-ع-ل (fa-'a-la) als Musterwurzel",
-    "personOrder": ["3ms", "3fs", "3md", "3fd", "3mp", "3fp", "2ms", "2fs", "2md", "2mp", "2fp", "1s", "1p"],
+    "personOrder": [
+      "3ms",
+      "3fs",
+      "3md",
+      "3fd",
+      "3mp",
+      "3fp",
+      "2ms",
+      "2fs",
+      "2md",
+      "2mp",
+      "2fp",
+      "1s",
+      "1p"
+    ],
     "sources": [
-      { "name": "Wright's Grammar Vol I", "url": "https://archive.org/details/grammarofthearab01telerich" },
-      { "name": "Wright's Grammar Vol II", "url": "https://archive.org/details/grammarofthearab02telerich" },
-      { "name": "Quranic Arabic Corpus", "url": "https://corpus.quran.com/" }
+      {
+        "name": "Wright's Grammar Vol I",
+        "url": "https://archive.org/details/WrightsArabicGrammar1Of2"
+      },
+      {
+        "name": "Wright's Grammar Vol II",
+        "url": "https://archive.org/details/grammarofthearab02telerich"
+      },
+      {
+        "name": "Quranic Arabic Corpus",
+        "url": "https://corpus.quran.com/"
+      }
     ]
   },
   "heavyForm": {
@@ -159,7 +182,8 @@
       "person": "3ms",
       "formType": "heavy",
       "rootVerb": "سجن",
-      "explanation": "Schwurkontext mit لَ + Energetikus: 'er wird ganz gewiss eingekerkert werden'"
+      "explanation": "Schwurkontext mit لَ + Energetikus: 'er wird ganz gewiss eingekerkert werden'",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=12&verse=32"
     },
     {
       "ref": "21:57",
@@ -167,7 +191,8 @@
       "person": "1s",
       "formType": "heavy",
       "rootVerb": "كيد",
-      "explanation": "Schwur mit تَاللَّهِ + لَ + Energetikus: 'ich werde ganz gewiss euren Götzen zusetzen'"
+      "explanation": "Schwur mit تَاللَّهِ + لَ + Energetikus: 'ich werde ganz gewiss euren Götzen zusetzen'",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=21&verse=57"
     },
     {
       "ref": "14:7",
@@ -175,7 +200,8 @@
       "person": "1s",
       "formType": "heavy",
       "rootVerb": "زيد",
-      "explanation": "Bedingung + Schwur-Lam + Energetikus: 'ich werde euch ganz gewiss vermehren'"
+      "explanation": "Bedingung + Schwur-Lam + Energetikus: 'ich werde euch ganz gewiss vermehren'",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=14&verse=7"
     },
     {
       "ref": "7:17",
@@ -183,7 +209,8 @@
       "person": "—",
       "formType": "—",
       "rootVerb": "—",
-      "explanation": "Kontextvers (kein Energetikus) — Vergleich: normaler Indikativ"
+      "explanation": "Kontextvers (kein Energetikus) — Vergleich: normaler Indikativ",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=7&verse=17"
     },
     {
       "ref": "7:16",
@@ -191,7 +218,8 @@
       "person": "1s",
       "formType": "heavy",
       "rootVerb": "أتي",
-      "explanation": "Schwurkontext: 'dann werde ich ganz gewiss zu ihnen kommen'"
+      "explanation": "Schwurkontext: 'dann werde ich ganz gewiss zu ihnen kommen'",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=7&verse=16"
     },
     {
       "ref": "7:18",
@@ -199,7 +227,8 @@
       "person": "1s",
       "formType": "heavy",
       "rootVerb": "ملأ",
-      "explanation": "Schwurkontext: 'ich werde ganz gewiss Dschahannam mit euch allen füllen'"
+      "explanation": "Schwurkontext: 'ich werde ganz gewiss Dschahannam mit euch allen füllen'",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=7&verse=18"
     },
     {
       "ref": "27:21",
@@ -207,7 +236,8 @@
       "person": "1s",
       "formType": "heavy",
       "rootVerb": "عذب",
-      "explanation": "II. Stamm + Energetikus: 'ich werde ihn ganz gewiss hart bestrafen'"
+      "explanation": "II. Stamm + Energetikus: 'ich werde ihn ganz gewiss hart bestrafen'",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=27&verse=21"
     },
     {
       "ref": "38:82",
@@ -215,7 +245,8 @@
       "person": "1s",
       "formType": "heavy",
       "rootVerb": "غوي",
-      "explanation": "IV. Stamm + Energetikus: 'ich werde sie ganz gewiss alle verfuehren'"
+      "explanation": "IV. Stamm + Energetikus: 'ich werde sie ganz gewiss alle verfuehren'",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=38&verse=82"
     },
     {
       "ref": "15:39",
@@ -223,7 +254,8 @@
       "person": "1s",
       "formType": "heavy",
       "rootVerb": "زين",
-      "explanation": "II. Stamm + Energetikus: 'ich werde ihnen auf der Erde ganz gewiss ausschmuecken'"
+      "explanation": "II. Stamm + Energetikus: 'ich werde ihnen auf der Erde ganz gewiss ausschmuecken'",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=15&verse=39"
     },
     {
       "ref": "4:119",
@@ -231,7 +263,8 @@
       "person": "1s",
       "formType": "heavy",
       "rootVerb": "ضلل / مني",
-      "explanation": "Zwei Energetikus-Formen mit Schwur-Lam: 'ich werde sie irrefuehren und Wünsche in ihnen wecken'"
+      "explanation": "Zwei Energetikus-Formen mit Schwur-Lam: 'ich werde sie irrefuehren und Wünsche in ihnen wecken'",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=119"
     },
     {
       "ref": "37:68",
@@ -239,7 +272,8 @@
       "person": "—",
       "formType": "—",
       "rootVerb": "—",
-      "explanation": "Kontextvers (kein Energetikus) — لَ hier als Verstärkungs-Lam bei إِنَّ, nicht Schwur-Lam"
+      "explanation": "Kontextvers (kein Energetikus) — لَ hier als Verstärkungs-Lam bei إِنَّ, nicht Schwur-Lam",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=37&verse=68"
     },
     {
       "ref": "12:73",
@@ -247,7 +281,8 @@
       "person": "—",
       "formType": "—",
       "rootVerb": "—",
-      "explanation": "Protasis einer Schwur-Bedingung — Energetikus folgt in der Apodosis"
+      "explanation": "Protasis einer Schwur-Bedingung — Energetikus folgt in der Apodosis",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=12&verse=73"
     },
     {
       "ref": "3:158",
@@ -255,7 +290,8 @@
       "person": "2mp",
       "formType": "—",
       "rootVerb": "حشر",
-      "explanation": "Schwur-Bedingung: Apodosis ohne Energetikus — zeigt, dass Energetikus nicht obligatorisch ist"
+      "explanation": "Schwur-Bedingung: Apodosis ohne Energetikus — zeigt, dass Energetikus nicht obligatorisch ist",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=158"
     },
     {
       "ref": "36:60",
@@ -263,7 +299,8 @@
       "person": "2mp",
       "formType": "—",
       "rootVerb": "عبد",
-      "explanation": "Prohibitiv mit لَا + Apokopat — ohne Energetikus; Kontrast zu Prohibitiv-Energetikus"
+      "explanation": "Prohibitiv mit لَا + Apokopat — ohne Energetikus; Kontrast zu Prohibitiv-Energetikus",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=36&verse=60"
     },
     {
       "ref": "96:15",
@@ -271,7 +308,8 @@
       "person": "1p",
       "formType": "light",
       "rootVerb": "سفع",
-      "explanation": "Leichter Energetikus (mit Alif statt Nun in der Schrift, Tanwin-Markierung): 'wir werden ihn ganz gewiss an der Stirnlocke packen'"
+      "explanation": "Leichter Energetikus (mit Alif statt Nun in der Schrift, Tanwin-Markierung): 'wir werden ihn ganz gewiss an der Stirnlocke packen'",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=96&verse=15"
     },
     {
       "ref": "2:147",
@@ -279,7 +317,8 @@
       "person": "2ms",
       "formType": "heavy",
       "rootVerb": "كون",
-      "explanation": "Prohibitiv mit لَا + Energetikus: 'sei ganz gewiss nicht unter den Zweiflern'"
+      "explanation": "Prohibitiv mit لَا + Energetikus: 'sei ganz gewiss nicht unter den Zweiflern'",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=147"
     },
     {
       "ref": "11:109",
@@ -287,7 +326,8 @@
       "person": "2ms",
       "formType": "—",
       "rootVerb": "كون",
-      "explanation": "Kurzform von تَكُنْ ohne Energetikus — Vergleich zur Energetikus-Form in 2:147"
+      "explanation": "Kurzform von تَكُنْ ohne Energetikus — Vergleich zur Energetikus-Form in 2:147",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=11&verse=109"
     },
     {
       "ref": "6:135",
@@ -295,7 +335,8 @@
       "person": "2mp",
       "formType": "—",
       "rootVerb": "علم",
-      "explanation": "سَوْفَ mit Indikativ ohne Energetikus — zeigt, dass Drohkontext nicht zwingend Energetikus erfordert"
+      "explanation": "سَوْفَ mit Indikativ ohne Energetikus — zeigt, dass Drohkontext nicht zwingend Energetikus erfordert",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=6&verse=135"
     },
     {
       "ref": "26:49",
@@ -303,7 +344,8 @@
       "person": "1s",
       "formType": "heavy",
       "rootVerb": "قطع / صلب",
-      "explanation": "Doppelter Energetikus im Drohschwur: II. Stamm-Formen mit -anna"
+      "explanation": "Doppelter Energetikus im Drohschwur: II. Stamm-Formen mit -anna",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=26&verse=49"
     },
     {
       "ref": "105:4",
@@ -311,7 +353,8 @@
       "person": "3fs",
       "formType": "—",
       "rootVerb": "رمي",
-      "explanation": "Normaler Indikativ — Kontrastbeispiel ohne Energetikus"
+      "explanation": "Normaler Indikativ — Kontrastbeispiel ohne Energetikus",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=105&verse=4"
     }
   ],
   "syntacticContexts": [

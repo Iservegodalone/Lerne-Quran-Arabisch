@@ -4,8 +4,14 @@
     "description": "Quranverse mit Luecken: Der Lernende fuellt fehlende Wörter ein. Trainiert aktives Erinnern und Sprachproduktion.",
     "totalExercises": 200,
     "sources": [
-      {"title": "Quranic Arabic Corpus", "url": "https://corpus.quran.com/"},
-      {"title": "Lane's Lexicon", "url": "https://ejtaal.net/aa/"}
+      {
+        "title": "Quranic Arabic Corpus",
+        "url": "https://corpus.quran.com/"
+      },
+      {
+        "title": "Lane's Lexicon",
+        "url": "https://ejtaal.net/aa/"
+      }
     ]
   },
   "exercises": [
@@ -17,7 +23,8 @@
       "missingWord": "لِلَّهِ",
       "hint": "Präposition لِ + Eigenname (Genitiv/Jarr)",
       "difficulty": 1,
-      "category": "preposition"
+      "category": "preposition",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=2"
     },
     {
       "id": "C2",
@@ -27,7 +34,8 @@
       "missingWord": "بِسْمِ",
       "hint": "Präposition بِ + Nomen im Genitiv: 'im Namen'",
       "difficulty": 1,
-      "category": "preposition"
+      "category": "preposition",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=1"
     },
     {
       "id": "C3",
@@ -37,7 +45,8 @@
       "missingWord": "نَعْبُدُ",
       "hint": "Verb Form I, 1. Person Plural, Imperfekt",
       "difficulty": 1,
-      "category": "verb"
+      "category": "verb",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=5"
     },
     {
       "id": "C4",
@@ -47,7 +56,8 @@
       "missingWord": "نَسْتَعِينُ",
       "hint": "Form X, 1. Person Plural, Imperfekt — Wurzel ع و ن",
       "difficulty": 2,
-      "category": "root_form"
+      "category": "root_form",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=5"
     },
     {
       "id": "C5",
@@ -57,7 +67,8 @@
       "missingWord": "الصِّرَاطَ",
       "hint": "Akkusativ-Objekt (maf'ul bihi), maskulin bestimmt",
       "difficulty": 1,
-      "category": "object"
+      "category": "object",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=6"
     },
     {
       "id": "C6",
@@ -67,7 +78,8 @@
       "missingWord": "الْمُسْتَقِيمَ",
       "hint": "Adjektiv (sifa) im Akkusativ, Partizip Aktiv Form X",
       "difficulty": 2,
-      "category": "adjective"
+      "category": "adjective",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=6"
     },
     {
       "id": "C7",
@@ -77,7 +89,8 @@
       "missingWord": "الرَّحِيمِ",
       "hint": "Adjektiv auf Muster فَعِيل, Genitiv",
       "difficulty": 1,
-      "category": "adjective"
+      "category": "adjective",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=3"
     },
     {
       "id": "C8",
@@ -87,7 +100,8 @@
       "missingWord": "مَالِكِ",
       "hint": "Partizip Aktiv Form I, Genitiv (Apposition)",
       "difficulty": 2,
-      "category": "subject"
+      "category": "subject",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=4"
     },
     {
       "id": "C9",
@@ -97,7 +111,8 @@
       "missingWord": "قُلْ",
       "hint": "Imperativ, 2. Person maskulin Singular, Form I — Wurzel ق و ل",
       "difficulty": 1,
-      "category": "verb"
+      "category": "verb",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=112&verse=1"
     },
     {
       "id": "C10",
@@ -107,7 +122,8 @@
       "missingWord": "هُوَ",
       "hint": "Selbständiges Personalpronomen, 3. Person maskulin Singular",
       "difficulty": 1,
-      "category": "pronoun"
+      "category": "pronoun",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=112&verse=1"
     },
     {
       "id": "C11",
@@ -117,7 +133,8 @@
       "missingWord": "الصَّمَدُ",
       "hint": "Chabar (Prädikat) im Nominativ, Muster فَعَل",
       "difficulty": 2,
-      "category": "predicate"
+      "category": "predicate",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=112&verse=2"
     },
     {
       "id": "C12",
@@ -127,7 +144,8 @@
       "missingWord": "يَلِدْ",
       "hint": "Mudari' majzum Form I, 3. Person maskulin Singular — Wurzel و ل د",
       "difficulty": 2,
-      "category": "verb"
+      "category": "verb",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=112&verse=3"
     },
     {
       "id": "C13",
@@ -137,7 +155,8 @@
       "missingWord": "لَمْ",
       "hint": "Negationspartikel für Vergangenheit mit Jazm des Mudari'",
       "difficulty": 1,
-      "category": "particle"
+      "category": "particle",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=112&verse=3"
     },
     {
       "id": "C14",
@@ -147,7 +166,8 @@
       "missingWord": "يَكُنْ",
       "hint": "كان majzum, 3. Person maskulin Singular",
       "difficulty": 2,
-      "category": "verb"
+      "category": "verb",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=112&verse=4"
     },
     {
       "id": "C15",
@@ -157,7 +177,8 @@
       "missingWord": "أَعُوذُ",
       "hint": "Form I, 1. Person Singular, Imperfekt — Wurzel ع و ذ",
       "difficulty": 1,
-      "category": "verb"
+      "category": "verb",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=113&verse=1"
     },
     {
       "id": "C16",
@@ -167,7 +188,8 @@
       "missingWord": "بِرَبِّ",
       "hint": "Präposition بِ + Nomen im Genitiv (Idafa-Erstglied)",
       "difficulty": 1,
-      "category": "preposition"
+      "category": "preposition",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=113&verse=1"
     },
     {
       "id": "C17",
@@ -177,7 +199,8 @@
       "missingWord": "مِنْ",
       "hint": "Präposition: 'von/vor'",
       "difficulty": 1,
-      "category": "preposition"
+      "category": "preposition",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=113&verse=2"
     },
     {
       "id": "C18",
@@ -187,7 +210,8 @@
       "missingWord": "خَلَقَ",
       "hint": "Perfekt Form I, 3. Person maskulin Singular — Wurzel خ ل ق",
       "difficulty": 1,
-      "category": "verb"
+      "category": "verb",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=113&verse=2"
     },
     {
       "id": "C19",
@@ -197,7 +221,8 @@
       "missingWord": "غَاسِقٍ",
       "hint": "Partizip Aktiv Form I, unbestimmt Genitiv — Wurzel غ س ق",
       "difficulty": 3,
-      "category": "subject"
+      "category": "subject",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=113&verse=3"
     },
     {
       "id": "C20",
@@ -207,7 +232,8 @@
       "missingWord": "فِي",
       "hint": "Präposition: 'in'",
       "difficulty": 1,
-      "category": "preposition"
+      "category": "preposition",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=113&verse=4"
     },
     {
       "id": "C21",
@@ -217,7 +243,8 @@
       "missingWord": "النَّاسِ",
       "hint": "Idafa-Zweitglied, bestimmt, Genitiv",
       "difficulty": 1,
-      "category": "noun"
+      "category": "noun",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=114&verse=1"
     },
     {
       "id": "C22",
@@ -227,7 +254,8 @@
       "missingWord": "مَلِكِ",
       "hint": "Nomen auf Muster فَعِل, Genitiv — Apposition",
       "difficulty": 2,
-      "category": "subject"
+      "category": "subject",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=114&verse=2"
     },
     {
       "id": "C23",
@@ -237,7 +265,8 @@
       "missingWord": "الْخَنَّاسِ",
       "hint": "Adjektiv (sifa) im Genitiv, Muster فَعَّال — Intensivform",
       "difficulty": 2,
-      "category": "adjective"
+      "category": "adjective",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=114&verse=4"
     },
     {
       "id": "C24",
@@ -247,7 +276,8 @@
       "missingWord": "يُوَسْوِسُ",
       "hint": "Quadriliteraler Stamm, 3. Person maskulin Singular, Imperfekt",
       "difficulty": 3,
-      "category": "root_form"
+      "category": "root_form",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=114&verse=5"
     },
     {
       "id": "C25",
@@ -257,7 +287,8 @@
       "missingWord": "الم",
       "hint": "Einzelbuchstaben (huruf muqatta'a) am Surenanfang",
       "difficulty": 1,
-      "category": "particle"
+      "category": "particle",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=1"
     },
     {
       "id": "C26",
@@ -267,7 +298,8 @@
       "missingWord": "ذَلِكَ",
       "hint": "Demonstrativpronomen für Fernes, maskulin Singular",
       "difficulty": 1,
-      "category": "pronoun"
+      "category": "pronoun",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=2"
     },
     {
       "id": "C27",
@@ -277,7 +309,8 @@
       "missingWord": "لَا",
       "hint": "Negationspartikel für Gattungsnegation (laa li-nafy al-jins)",
       "difficulty": 2,
-      "category": "particle"
+      "category": "particle",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=2"
     },
     {
       "id": "C28",
@@ -287,7 +320,8 @@
       "missingWord": "فِيهِ",
       "hint": "Präposition فِي + angehängtes Pronomen 3. Person maskulin Singular",
       "difficulty": 1,
-      "category": "pronoun"
+      "category": "pronoun",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=2"
     },
     {
       "id": "C29",
@@ -297,7 +331,8 @@
       "missingWord": "يُؤْمِنُونَ",
       "hint": "Form IV, 3. Person maskulin Plural, Imperfekt — Wurzel أ م ن",
       "difficulty": 2,
-      "category": "root_form"
+      "category": "root_form",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=3"
     },
     {
       "id": "C30",
@@ -307,7 +342,8 @@
       "missingWord": "الصَّلَاةَ",
       "hint": "Akkusativ-Objekt, feminin bestimmt",
       "difficulty": 1,
-      "category": "object"
+      "category": "object",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=3"
     },
     {
       "id": "C31",
@@ -317,7 +353,8 @@
       "missingWord": "وَيُقِيمُونَ",
       "hint": "Konjunktion وَ + Form IV, 3. Person maskulin Plural, Imperfekt — Wurzel ق و م",
       "difficulty": 2,
-      "category": "root_form"
+      "category": "root_form",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=3"
     },
     {
       "id": "C32",
@@ -327,7 +364,8 @@
       "missingWord": "عَلَى",
       "hint": "Präposition: 'auf/über'",
       "difficulty": 1,
-      "category": "preposition"
+      "category": "preposition",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=5"
     },
     {
       "id": "C33",
@@ -337,7 +375,8 @@
       "missingWord": "الْمُفْلِحُونَ",
       "hint": "Partizip Aktiv Form IV, maskulin Plural Nominativ — Wurzel ف ل ح",
       "difficulty": 2,
-      "category": "root_form"
+      "category": "root_form",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=5"
     },
     {
       "id": "C34",
@@ -347,7 +386,8 @@
       "missingWord": "إِنَّ",
       "hint": "Bekräftigungspartikel, setzt Akkusativ für ihr Nomen",
       "difficulty": 2,
-      "category": "particle"
+      "category": "particle",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=6"
     },
     {
       "id": "C35",
@@ -357,7 +397,8 @@
       "missingWord": "كَفَرُوا",
       "hint": "Perfekt Form I, 3. Person maskulin Plural — Wurzel ك ف ر",
       "difficulty": 2,
-      "category": "verb"
+      "category": "verb",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=6"
     },
     {
       "id": "C36",
@@ -367,7 +408,8 @@
       "missingWord": "خَتَمَ",
       "hint": "Perfekt Form I, 3. Person maskulin Singular — Wurzel خ ت م",
       "difficulty": 2,
-      "category": "verb"
+      "category": "verb",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=7"
     },
     {
       "id": "C37",
@@ -377,7 +419,8 @@
       "missingWord": "عَظِيمٌ",
       "hint": "Adjektiv (sifa) im Nominativ, Muster فَعِيل",
       "difficulty": 1,
-      "category": "adjective"
+      "category": "adjective",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=7"
     },
     {
       "id": "C38",
@@ -387,7 +430,8 @@
       "missingWord": "مَرَضٌ",
       "hint": "Mubtada' muachchar (nachgestelltes Subjekt), unbestimmt Nominativ",
       "difficulty": 2,
-      "category": "subject"
+      "category": "subject",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=10"
     },
     {
       "id": "C39",
@@ -397,7 +441,8 @@
       "missingWord": "الضَّلَالَةَ",
       "hint": "Akkusativ-Objekt, feminin bestimmt",
       "difficulty": 2,
-      "category": "object"
+      "category": "object",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=16"
     },
     {
       "id": "C40",
@@ -407,7 +452,8 @@
       "missingWord": "مُهْتَدِينَ",
       "hint": "Partizip Aktiv Form VIII, maskulin Plural Akkusativ (Chabar kaana) — Wurzel ه د ي",
       "difficulty": 3,
-      "category": "root_form"
+      "category": "root_form",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=16"
     },
     {
       "id": "C41",
@@ -417,7 +463,8 @@
       "missingWord": "اعْبُدُوا",
       "hint": "Imperativ, 2. Person maskulin Plural, Form I — Wurzel ع ب د",
       "difficulty": 2,
-      "category": "verb"
+      "category": "verb",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=21"
     },
     {
       "id": "C42",
@@ -427,7 +474,8 @@
       "missingWord": "رَبَّكُمُ",
       "hint": "Akkusativ-Objekt + angehängtes Pronomen 2. Person maskulin Plural",
       "difficulty": 2,
-      "category": "pronoun"
+      "category": "pronoun",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=21"
     },
     {
       "id": "C43",
@@ -437,7 +485,8 @@
       "missingWord": "لَعَلَّكُمْ",
       "hint": "Partikel لَعَلَّ (vielleicht/damit) + angehängtes Pronomen 2. Person maskulin Plural",
       "difficulty": 2,
-      "category": "particle"
+      "category": "particle",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=21"
     },
     {
       "id": "C44",
@@ -447,7 +496,8 @@
       "missingWord": "جَعَلَ",
       "hint": "Perfekt Form I, 3. Person maskulin Singular — Wurzel ج ع ل",
       "difficulty": 1,
-      "category": "verb"
+      "category": "verb",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=22"
     },
     {
       "id": "C45",
@@ -457,7 +507,8 @@
       "missingWord": "أَنْزَلَ",
       "hint": "Perfekt Form IV, 3. Person maskulin Singular — Wurzel ن ز ل",
       "difficulty": 2,
-      "category": "root_form"
+      "category": "root_form",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=22"
     },
     {
       "id": "C46",
@@ -467,7 +518,8 @@
       "missingWord": "إِلَهَ",
       "hint": "Nomen nach لَا li-nafy al-jins, unflektiert auf Fatha",
       "difficulty": 2,
-      "category": "subject"
+      "category": "subject",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=255"
     },
     {
       "id": "C47",
@@ -477,7 +529,8 @@
       "missingWord": "الْحَيُّ",
       "hint": "Adjektiv/Attribut im Nominativ, Muster فَعْل mit Schadda",
       "difficulty": 2,
-      "category": "adjective"
+      "category": "adjective",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=255"
     },
     {
       "id": "C48",
@@ -487,7 +540,8 @@
       "missingWord": "تَأْخُذُهُ",
       "hint": "Form I, 3. Person feminin Singular, Imperfekt + Objektpronomen — Wurzel أ خ ذ",
       "difficulty": 3,
-      "category": "verb"
+      "category": "verb",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=255"
     },
     {
       "id": "C49",
@@ -497,7 +551,8 @@
       "missingWord": "لَهُ",
       "hint": "Präposition لِ + angehängtes Pronomen 3. Person maskulin Singular",
       "difficulty": 1,
-      "category": "pronoun"
+      "category": "pronoun",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=255"
     },
     {
       "id": "C50",
@@ -507,7 +562,8 @@
       "missingWord": "وَسِعَ",
       "hint": "Perfekt Form I, 3. Person maskulin Singular — Wurzel و س ع",
       "difficulty": 2,
-      "category": "verb"
+      "category": "verb",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=255"
     },
     {
       "id": "C51",
@@ -517,7 +573,8 @@
       "missingWord": "كُرْسِيُّهُ",
       "hint": "Subjekt (fa'il) im Nominativ + angehängtes Pronomen 3. Person maskulin Singular",
       "difficulty": 2,
-      "category": "subject"
+      "category": "subject",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=255"
     },
     {
       "id": "C52",
@@ -527,7 +584,8 @@
       "missingWord": "الْعَظِيمُ",
       "hint": "Adjektiv (sifa) im Nominativ, Muster فَعِيل",
       "difficulty": 1,
-      "category": "adjective"
+      "category": "adjective",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=255"
     },
     {
       "id": "C53",
@@ -537,7 +595,8 @@
       "missingWord": "يَشْفَعُ",
       "hint": "Form I, 3. Person maskulin Singular, Imperfekt — Wurzel ش ف ع",
       "difficulty": 3,
-      "category": "verb"
+      "category": "verb",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=255"
     },
     {
       "id": "C54",
@@ -547,7 +606,8 @@
       "missingWord": "يَعْلَمُ",
       "hint": "Form I, 3. Person maskulin Singular, Imperfekt — Wurzel ع ل م",
       "difficulty": 1,
-      "category": "verb"
+      "category": "verb",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=255"
     },
     {
       "id": "C55",
@@ -557,7 +617,8 @@
       "missingWord": "يُحِيطُونَ",
       "hint": "Form IV, 3. Person maskulin Plural, Imperfekt — Wurzel ح و ط",
       "difficulty": 3,
-      "category": "root_form"
+      "category": "root_form",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=255"
     },
     {
       "id": "C56",
@@ -567,7 +628,8 @@
       "missingWord": "يُكَلِّفُ",
       "hint": "Form II, 3. Person maskulin Singular, Imperfekt — Wurzel ك ل ف",
       "difficulty": 2,
-      "category": "root_form"
+      "category": "root_form",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=286"
     },
     {
       "id": "C57",
@@ -577,7 +639,8 @@
       "missingWord": "نَفْسًا",
       "hint": "Akkusativ-Objekt, unbestimmt feminin",
       "difficulty": 1,
-      "category": "object"
+      "category": "object",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=286"
     },
     {
       "id": "C58",
@@ -587,7 +650,8 @@
       "missingWord": "اكْتَسَبَتْ",
       "hint": "Perfekt Form VIII, 3. Person feminin Singular — Wurzel ك س ب",
       "difficulty": 3,
-      "category": "root_form"
+      "category": "root_form",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=286"
     },
     {
       "id": "C59",
@@ -597,7 +661,8 @@
       "missingWord": "تُؤَاخِذْنَا",
       "hint": "Form III, 2. Person maskulin Singular, Mudari' majzum + Objektpronomen — Wurzel أ خ ذ",
       "difficulty": 3,
-      "category": "root_form"
+      "category": "root_form",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=286"
     },
     {
       "id": "C60",
@@ -607,7 +672,8 @@
       "missingWord": "رَبَّنَا",
       "hint": "Vokativ (munada), Akkusativ + angehängtes Pronomen 1. Person Plural",
       "difficulty": 1,
-      "category": "pronoun"
+      "category": "pronoun",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=286"
     },
     {
       "id": "C61",
@@ -617,7 +683,8 @@
       "missingWord": "إِنْ",
       "hint": "Konditionalpartikel: 'wenn/falls'",
       "difficulty": 1,
-      "category": "particle"
+      "category": "particle",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=286"
     },
     {
       "id": "C62",
@@ -627,7 +694,8 @@
       "missingWord": "تَقَبَّلْ",
       "hint": "Imperativ Form V, 2. Person maskulin Singular — Wurzel ق ب ل",
       "difficulty": 2,
-      "category": "root_form"
+      "category": "root_form",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=127"
     },
     {
       "id": "C63",
@@ -637,7 +705,8 @@
       "missingWord": "السَّمِيعُ",
       "hint": "Chabar (Prädikat), Muster فَعِيل, bestimmt Nominativ",
       "difficulty": 1,
-      "category": "adjective"
+      "category": "adjective",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=127"
     },
     {
       "id": "C64",
@@ -647,7 +716,8 @@
       "missingWord": "مِنَّا",
       "hint": "Präposition مِنْ + angehängtes Pronomen 1. Person Plural",
       "difficulty": 1,
-      "category": "pronoun"
+      "category": "pronoun",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=127"
     },
     {
       "id": "C65",
@@ -657,7 +727,8 @@
       "missingWord": "فَاذْكُرُونِي",
       "hint": "فَ + Imperativ Form I, 2. Person maskulin Plural + Objektpronomen 1. Person Singular — Wurzel ذ ك ر",
       "difficulty": 3,
-      "category": "verb"
+      "category": "verb",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=152"
     },
     {
       "id": "C66",
@@ -667,7 +738,8 @@
       "missingWord": "لِي",
       "hint": "Präposition لِ + angehängtes Pronomen 1. Person Singular",
       "difficulty": 1,
-      "category": "pronoun"
+      "category": "pronoun",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=152"
     },
     {
       "id": "C67",
@@ -677,7 +749,8 @@
       "missingWord": "إِنَّا",
       "hint": "إِنَّ + angehängtes Pronomen 1. Person Plural (verkürzt)",
       "difficulty": 2,
-      "category": "particle"
+      "category": "particle",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=156"
     },
     {
       "id": "C68",
@@ -687,7 +760,8 @@
       "missingWord": "رَاجِعُونَ",
       "hint": "Partizip Aktiv Form I, maskulin Plural Nominativ (Chabar inna) — Wurzel ر ج ع",
       "difficulty": 2,
-      "category": "predicate"
+      "category": "predicate",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=156"
     },
     {
       "id": "C69",
@@ -697,7 +771,8 @@
       "missingWord": "أُنْزِلَ",
       "hint": "Passiv Form IV, 3. Person maskulin Singular, Perfekt — Wurzel ن ز ل",
       "difficulty": 3,
-      "category": "root_form"
+      "category": "root_form",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=185"
     },
     {
       "id": "C70",
@@ -707,7 +782,8 @@
       "missingWord": "الْقُرْآنُ",
       "hint": "Stellvertreter des Subjekts (na'ib al-fa'il) im Nominativ",
       "difficulty": 2,
-      "category": "subject"
+      "category": "subject",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=185"
     },
     {
       "id": "C71",
@@ -717,7 +793,8 @@
       "missingWord": "تُؤْتِي",
       "hint": "Form IV, 2. Person maskulin Singular, Imperfekt — Wurzel أ ت ي",
       "difficulty": 3,
-      "category": "root_form"
+      "category": "root_form",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=26"
     },
     {
       "id": "C72",
@@ -727,7 +804,8 @@
       "missingWord": "الْمُلْكَ",
       "hint": "Akkusativ-Objekt (erstes maf'ul bihi), bestimmt maskulin",
       "difficulty": 1,
-      "category": "object"
+      "category": "object",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=26"
     },
     {
       "id": "C73",
@@ -737,7 +815,8 @@
       "missingWord": "كُنْ",
       "hint": "Imperativ كان, 2. Person maskulin Singular — 'sei!'",
       "difficulty": 1,
-      "category": "verb"
+      "category": "verb",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=36&verse=82"
     },
     {
       "id": "C74",
@@ -747,7 +826,8 @@
       "missingWord": "إِنَّمَا",
       "hint": "Beschraenkungspartikel: إِنَّ + مَا (kaff) — 'lediglich/nur'",
       "difficulty": 2,
-      "category": "particle"
+      "category": "particle",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=36&verse=82"
     },
     {
       "id": "C75",
@@ -757,7 +837,8 @@
       "missingWord": "أَرَادَ",
       "hint": "Perfekt Form IV, 3. Person maskulin Singular — Wurzel ر و د",
       "difficulty": 2,
-      "category": "root_form"
+      "category": "root_form",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=36&verse=82"
     },
     {
       "id": "C76",
@@ -767,7 +848,8 @@
       "missingWord": "تُكَذِّبَانِ",
       "hint": "Form II, 2. Person Dual, Imperfekt — Wurzel ك ذ ب",
       "difficulty": 3,
-      "category": "root_form"
+      "category": "root_form",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=55&verse=13"
     },
     {
       "id": "C77",
@@ -777,7 +859,8 @@
       "missingWord": "آلَاءِ",
       "hint": "Gebrochener Plural von إِلًى, Genitiv (Idafa-Erstglied)",
       "difficulty": 3,
-      "category": "object"
+      "category": "object",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=55&verse=13"
     },
     {
       "id": "C78",
@@ -787,7 +870,8 @@
       "missingWord": "نُورُ",
       "hint": "Chabar (Prädikat), Nominativ, Idafa-Erstglied",
       "difficulty": 1,
-      "category": "predicate"
+      "category": "predicate",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=24&verse=35"
     },
     {
       "id": "C79",
@@ -797,7 +881,8 @@
       "missingWord": "عَالِمُ",
       "hint": "Partizip Aktiv Form I, Nominativ, Idafa-Erstglied — Wurzel ع ل م",
       "difficulty": 2,
-      "category": "subject"
+      "category": "subject",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=59&verse=22"
     },
     {
       "id": "C80",
@@ -807,7 +892,8 @@
       "missingWord": "السَّلَامُ",
       "hint": "Attribut im Nominativ, bestimmt — Masdar als Eigenschaftsbezeichnung",
       "difficulty": 2,
-      "category": "adjective"
+      "category": "adjective",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=59&verse=23"
     },
     {
       "id": "C81",
@@ -817,7 +903,8 @@
       "missingWord": "الْمُصَوِّرُ",
       "hint": "Partizip Aktiv Form II, bestimmt Nominativ — Wurzel ص و ر",
       "difficulty": 3,
-      "category": "adjective"
+      "category": "adjective",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=59&verse=24"
     },
     {
       "id": "C82",
@@ -827,7 +914,8 @@
       "missingWord": "وَاحِدٌ",
       "hint": "Adjektiv (sifa) im Nominativ, unbestimmt — Zahlwort 'eins'",
       "difficulty": 1,
-      "category": "adjective"
+      "category": "adjective",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=163"
     },
     {
       "id": "C83",
@@ -837,7 +925,8 @@
       "missingWord": "إِلَهُكُمْ",
       "hint": "Mubtada', Nominativ + angehängtes Pronomen 2. Person maskulin Plural",
       "difficulty": 2,
-      "category": "pronoun"
+      "category": "pronoun",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=163"
     },
     {
       "id": "C84",
@@ -847,7 +936,8 @@
       "missingWord": "جَاءَ",
       "hint": "Perfekt Form I, 3. Person maskulin Singular — Wurzel ج ي أ",
       "difficulty": 1,
-      "category": "verb"
+      "category": "verb",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=110&verse=1"
     },
     {
       "id": "C85",
@@ -857,7 +947,8 @@
       "missingWord": "إِذَا",
       "hint": "Temporalpartikel: 'wenn/als' (für Zukunft/Gewohnheit)",
       "difficulty": 1,
-      "category": "particle"
+      "category": "particle",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=110&verse=1"
     },
     {
       "id": "C86",
@@ -867,7 +958,8 @@
       "missingWord": "يَدْخُلُونَ",
       "hint": "Form I, 3. Person maskulin Plural, Imperfekt — Wurzel د خ ل",
       "difficulty": 2,
-      "category": "verb"
+      "category": "verb",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=110&verse=2"
     },
     {
       "id": "C87",
@@ -877,7 +969,8 @@
       "missingWord": "اسْتَغْفِرْهُ",
       "hint": "Imperativ Form X, 2. Person maskulin Singular + Objektpronomen — Wurzel غ ف ر",
       "difficulty": 3,
-      "category": "root_form"
+      "category": "root_form",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=110&verse=3"
     },
     {
       "id": "C88",
@@ -887,7 +980,8 @@
       "missingWord": "كَانَ",
       "hint": "Hilfsverb كان, Perfekt, 3. Person maskulin Singular",
       "difficulty": 1,
-      "category": "verb"
+      "category": "verb",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=110&verse=3"
     },
     {
       "id": "C89",
@@ -897,7 +991,8 @@
       "missingWord": "سَبِّحْ",
       "hint": "Imperativ Form II, 2. Person maskulin Singular — Wurzel س ب ح",
       "difficulty": 2,
-      "category": "root_form"
+      "category": "root_form",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=110&verse=3"
     },
     {
       "id": "C90",
@@ -907,7 +1002,8 @@
       "missingWord": "أَنْعَمْتَ",
       "hint": "Perfekt Form IV, 2. Person maskulin Singular — Wurzel ن ع م",
       "difficulty": 2,
-      "category": "root_form"
+      "category": "root_form",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=7"
     },
     {
       "id": "C91",
@@ -917,7 +1013,8 @@
       "missingWord": "الْمَغْضُوبِ",
       "hint": "Partizip Passiv Form I, Genitiv — Wurzel غ ض ب",
       "difficulty": 3,
-      "category": "adjective"
+      "category": "adjective",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=7"
     },
     {
       "id": "C92",
@@ -927,7 +1024,8 @@
       "missingWord": "يَئُودُهُ",
       "hint": "Form I, 3. Person maskulin Singular, Imperfekt + Objektpronomen — Wurzel أ و د",
       "difficulty": 3,
-      "category": "verb"
+      "category": "verb",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=255"
     },
     {
       "id": "C93",
@@ -937,7 +1035,8 @@
       "missingWord": "عِنْدَهُ",
       "hint": "Lokale Präposition عِنْدَ + angehängtes Pronomen 3. Person maskulin Singular",
       "difficulty": 2,
-      "category": "preposition"
+      "category": "preposition",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=255"
     },
     {
       "id": "C94",
@@ -947,7 +1046,8 @@
       "missingWord": "إِلَّا",
       "hint": "Ausnahmepartikel: 'ausser/nur'",
       "difficulty": 1,
-      "category": "particle"
+      "category": "particle",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=255"
     },
     {
       "id": "C95",
@@ -957,7 +1057,8 @@
       "missingWord": "عَلَيْنَا",
       "hint": "Präposition عَلَى + angehängtes Pronomen 1. Person Plural",
       "difficulty": 1,
-      "category": "pronoun"
+      "category": "pronoun",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=286"
     },
     {
       "id": "C96",
@@ -967,7 +1068,8 @@
       "missingWord": "تُحَمِّلْنَا",
       "hint": "Form II, 2. Person maskulin Singular, Mudari' majzum + Objektpronomen — Wurzel ح م ل",
       "difficulty": 3,
-      "category": "root_form"
+      "category": "root_form",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=286"
     },
     {
       "id": "C97",
@@ -977,7 +1079,8 @@
       "missingWord": "مَوْلَانَا",
       "hint": "Nomen auf Muster مَفْعَل, Nominativ + angehängtes Pronomen 1. Person Plural",
       "difficulty": 2,
-      "category": "pronoun"
+      "category": "pronoun",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=286"
     },
     {
       "id": "C98",
@@ -987,7 +1090,8 @@
       "missingWord": "عَنَّا",
       "hint": "Präposition عَنْ + angehängtes Pronomen 1. Person Plural (mit Assimilation)",
       "difficulty": 2,
-      "category": "preposition"
+      "category": "preposition",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=286"
     },
     {
       "id": "C99",
@@ -997,7 +1101,8 @@
       "missingWord": "الْكَافِرِينَ",
       "hint": "Partizip Aktiv Form I, maskulin Plural Genitiv (sifa) — Wurzel ك ف ر",
       "difficulty": 2,
-      "category": "adjective"
+      "category": "adjective",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=286"
     },
     {
       "id": "C100",
@@ -1007,7 +1112,8 @@
       "missingWord": "حَاسِدٍ",
       "hint": "Partizip Aktiv Form I, unbestimmt Genitiv — Wurzel ح س د",
       "difficulty": 2,
-      "category": "subject"
+      "category": "subject",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=113&verse=5"
     },
     {
       "id": "C101",
@@ -1017,7 +1123,8 @@
       "missingWord": "مِنَ",
       "hint": "Präposition: 'von/aus' (mit Fatha vor Artikel)",
       "difficulty": 1,
-      "category": "preposition"
+      "category": "preposition",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=114&verse=6"
     },
     {
       "id": "C102",
@@ -1027,7 +1134,8 @@
       "missingWord": "إِلَيْكَ",
       "hint": "Präposition إِلَى + angehängtes Pronomen 2. Person maskulin Singular",
       "difficulty": 1,
-      "category": "preposition"
+      "category": "preposition",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=4"
     },
     {
       "id": "C103",
@@ -1037,7 +1145,8 @@
       "missingWord": "هُمْ",
       "hint": "Selbständiges Personalpronomen, 3. Person maskulin Plural (Hervorhebung/Trennung)",
       "difficulty": 1,
-      "category": "pronoun"
+      "category": "pronoun",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=4"
     },
     {
       "id": "C104",
@@ -1047,7 +1156,8 @@
       "missingWord": "يُوقِنُونَ",
       "hint": "Form IV, 3. Person maskulin Plural, Imperfekt — Wurzel ي ق ن",
       "difficulty": 3,
-      "category": "root_form"
+      "category": "root_form",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=4"
     },
     {
       "id": "C106",
@@ -1057,7 +1167,8 @@
       "missingWord": "نَوْمٌ",
       "hint": "Nomen: 'Schlaf' — Subjekt im Nominativ",
       "difficulty": 1,
-      "category": "noun"
+      "category": "noun",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=255"
     },
     {
       "id": "C108",
@@ -1067,7 +1178,8 @@
       "missingWord": "خَلْفَهُمْ",
       "hint": "Präposition/Adverb: 'hinter ihnen'",
       "difficulty": 2,
-      "category": "preposition"
+      "category": "preposition",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=255"
     },
     {
       "id": "C111",
@@ -1077,7 +1189,8 @@
       "missingWord": "فِي",
       "hint": "Präposition: 'in'",
       "difficulty": 1,
-      "category": "preposition"
+      "category": "preposition",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=256"
     },
     {
       "id": "C112",
@@ -1087,7 +1200,8 @@
       "missingWord": "يُخْرِجُهُمْ",
       "hint": "Form IV, 3. Person maskulin Singular + Pronominalsuffix — Wurzel خ ر ج",
       "difficulty": 3,
-      "category": "verbform"
+      "category": "verbform",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=257"
     },
     {
       "id": "C113",
@@ -1097,7 +1211,8 @@
       "missingWord": "النُّورِ",
       "hint": "Nomen im Genitiv: 'das Licht'",
       "difficulty": 1,
-      "category": "noun"
+      "category": "noun",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=257"
     },
     {
       "id": "C114",
@@ -1107,7 +1222,8 @@
       "missingWord": "يُنْفِقُونَ",
       "hint": "Form IV, 3. Person maskulin Plural, Imperfekt — Wurzel ن ف ق",
       "difficulty": 3,
-      "category": "verbform"
+      "category": "verbform",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=261"
     },
     {
       "id": "C115",
@@ -1117,7 +1233,8 @@
       "missingWord": "طَيِّبَاتِ",
       "hint": "Nomen (Plural feminin): 'gute Dinge'",
       "difficulty": 2,
-      "category": "noun"
+      "category": "noun",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=267"
     },
     {
       "id": "C116",
@@ -1127,7 +1244,8 @@
       "missingWord": "وَيُعَلِّمُكُمُ",
       "hint": "Form II, 3. Person maskulin Singular + Pronominalsuffix — Wurzel ع ل م",
       "difficulty": 3,
-      "category": "verbform"
+      "category": "verbform",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=282"
     },
     {
       "id": "C117",
@@ -1137,7 +1255,8 @@
       "missingWord": "يُحَاسِبْكُمْ",
       "hint": "Form III, 3. Person maskulin Singular, Apokopat (Bedingungssatz) — Wurzel ح س ب",
       "difficulty": 3,
-      "category": "verbform"
+      "category": "verbform",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=284"
     },
     {
       "id": "C118",
@@ -1147,7 +1266,8 @@
       "missingWord": "مُحْكَمَاتٌ",
       "hint": "Partizip Passiv Form IV, feminin Plural: 'eindeutig gemachte'",
       "difficulty": 3,
-      "category": "adjective"
+      "category": "adjective",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=7"
     },
     {
       "id": "C119",
@@ -1157,7 +1277,8 @@
       "missingWord": "شَهِدَ",
       "hint": "Verb Form I, 3. Person maskulin Singular, Perfekt — Wurzel ش ه د",
       "difficulty": 1,
-      "category": "verb"
+      "category": "verb",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=18"
     },
     {
       "id": "C120",
@@ -1167,7 +1288,8 @@
       "missingWord": "عِنْدَ",
       "hint": "Präposition: 'bei'",
       "difficulty": 1,
-      "category": "preposition"
+      "category": "preposition",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=19"
     },
     {
       "id": "C121",
@@ -1177,7 +1299,8 @@
       "missingWord": "تُؤْتِي",
       "hint": "Form IV, 2. Person maskulin Singular (Anrede an Gott), Imperfekt — Wurzel أ ت ي",
       "difficulty": 3,
-      "category": "verbform"
+      "category": "verbform",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=26"
     },
     {
       "id": "C122",
@@ -1187,7 +1310,8 @@
       "missingWord": "وَتَنْزِعُ",
       "hint": "Verb Form I, 2. Person maskulin Singular, Imperfekt — Wurzel ن ز ع",
       "difficulty": 2,
-      "category": "verb"
+      "category": "verb",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=26"
     },
     {
       "id": "C123",
@@ -1197,7 +1321,8 @@
       "missingWord": "إِنْ",
       "hint": "Bedingungspartikel: 'wenn/falls'",
       "difficulty": 1,
-      "category": "particle"
+      "category": "particle",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=31"
     },
     {
       "id": "C124",
@@ -1207,7 +1332,8 @@
       "missingWord": "حَسَنٍ",
       "hint": "Adjektiv im Genitiv: 'gut/schön'",
       "difficulty": 1,
-      "category": "adjective"
+      "category": "adjective",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=37"
     },
     {
       "id": "C125",
@@ -1217,7 +1343,8 @@
       "missingWord": "وَمَكَرَ",
       "hint": "Verb Form I, 3. Person maskulin Singular, Perfekt — Wurzel م ك ر",
       "difficulty": 2,
-      "category": "verb"
+      "category": "verb",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=54"
     },
     {
       "id": "C126",
@@ -1227,7 +1354,8 @@
       "missingWord": "عَلَى",
       "hint": "Präposition: 'auf/über' — hier im Sinne von 'obliegt'",
       "difficulty": 1,
-      "category": "preposition"
+      "category": "preposition",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=97"
     },
     {
       "id": "C127",
@@ -1237,7 +1365,8 @@
       "missingWord": "تَفَرَّقُوا",
       "hint": "Form V, 2. Person maskulin Plural, Apokopat (nach لَا) — Wurzel ف ر ق",
       "difficulty": 3,
-      "category": "verbform"
+      "category": "verbform",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=103"
     },
     {
       "id": "C128",
@@ -1247,7 +1376,8 @@
       "missingWord": "أُمَّةٍ",
       "hint": "Nomen im Genitiv (Idafa): 'Gemeinschaft'",
       "difficulty": 1,
-      "category": "noun"
+      "category": "noun",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=110"
     },
     {
       "id": "C129",
@@ -1257,7 +1387,8 @@
       "missingWord": "عَنِ",
       "hint": "Präposition: 'von/weg von'",
       "difficulty": 1,
-      "category": "preposition"
+      "category": "preposition",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=110"
     },
     {
       "id": "C130",
@@ -1267,7 +1398,8 @@
       "missingWord": "وَأَنْتُمُ",
       "hint": "Pronomen 2. Person maskulin Plural: 'und ihr'",
       "difficulty": 1,
-      "category": "pronoun"
+      "category": "pronoun",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=139"
     },
     {
       "id": "C131",
@@ -1277,7 +1409,8 @@
       "missingWord": "رَحْمَةٍ",
       "hint": "Nomen im Genitiv: 'Barmherzigkeit'",
       "difficulty": 2,
-      "category": "noun"
+      "category": "noun",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=159"
     },
     {
       "id": "C132",
@@ -1287,7 +1420,8 @@
       "missingWord": "وَاسْتَغْفِرْ",
       "hint": "Form X, Imperativ, 2. Person maskulin Singular — Wurzel غ ف ر",
       "difficulty": 3,
-      "category": "verbform"
+      "category": "verbform",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=159"
     },
     {
       "id": "C133",
@@ -1297,7 +1431,8 @@
       "missingWord": "وَاحِدَةٍ",
       "hint": "Adjektiv feminin im Genitiv: 'einer einzigen'",
       "difficulty": 1,
-      "category": "adjective"
+      "category": "adjective",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=1"
     },
     {
       "id": "C134",
@@ -1307,7 +1442,8 @@
       "missingWord": "يُوصِيكُمُ",
       "hint": "Form IV, 3. Person maskulin Singular + Suffix — Wurzel و ص ي",
       "difficulty": 3,
-      "category": "verbform"
+      "category": "verbform",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=11"
     },
     {
       "id": "C135",
@@ -1317,7 +1453,8 @@
       "missingWord": "ضَعِيفًا",
       "hint": "Adjektiv im Akkusativ (Hal): 'schwach'",
       "difficulty": 1,
-      "category": "adjective"
+      "category": "adjective",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=28"
     },
     {
       "id": "C136",
@@ -1327,7 +1464,8 @@
       "missingWord": "بِهِ",
       "hint": "Präposition بِ + Pronomen 3. Person maskulin Singular: 'mit ihm'",
       "difficulty": 1,
-      "category": "pronoun"
+      "category": "pronoun",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=36"
     },
     {
       "id": "C137",
@@ -1337,7 +1475,8 @@
       "missingWord": "دُونَ",
       "hint": "Präposition: 'ausser/unterhalb von'",
       "difficulty": 2,
-      "category": "preposition"
+      "category": "preposition",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=48"
     },
     {
       "id": "C138",
@@ -1347,7 +1486,8 @@
       "missingWord": "الْأَمَانَاتِ",
       "hint": "Nomen feminin Plural im Akkusativ: 'die anvertrauten Güter'",
       "difficulty": 2,
-      "category": "noun"
+      "category": "noun",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=58"
     },
     {
       "id": "C139",
@@ -1357,7 +1497,8 @@
       "missingWord": "نَفْسِكَ",
       "hint": "Nomen + Pronominalsuffix 2ms: 'deiner selbst'",
       "difficulty": 2,
-      "category": "pronoun"
+      "category": "pronoun",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=79"
     },
     {
       "id": "C140",
@@ -1367,7 +1508,8 @@
       "missingWord": "بِالْقِسْطِ",
       "hint": "Präposition بِ + Nomen: 'mit der Gerechtigkeit'",
       "difficulty": 2,
-      "category": "preposition"
+      "category": "preposition",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=135"
     },
     {
       "id": "C141",
@@ -1377,7 +1519,8 @@
       "missingWord": "أَكْمَلْتُ",
       "hint": "Form IV, 1. Person Singular, Perfekt — Wurzel ك م ل",
       "difficulty": 2,
-      "category": "verbform"
+      "category": "verbform",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=5&verse=3"
     },
     {
       "id": "C142",
@@ -1387,7 +1530,8 @@
       "missingWord": "حَرَجٍ",
       "hint": "Nomen im Genitiv (nach مِنْ): 'Beengung/Erschwernis'",
       "difficulty": 2,
-      "category": "noun"
+      "category": "noun",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=5&verse=6"
     },
     {
       "id": "C143",
@@ -1397,7 +1541,8 @@
       "missingWord": "قَتَلَ",
       "hint": "Verb Form I, 3. Person maskulin Singular, Perfekt — Wurzel ق ت ل",
       "difficulty": 1,
-      "category": "verb"
+      "category": "verb",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=5&verse=32"
     },
     {
       "id": "C144",
@@ -1407,7 +1552,8 @@
       "missingWord": "وَابْتَغُوا",
       "hint": "Form VIII, Imperativ, 2. Person maskulin Plural — Wurzel ب غ ي",
       "difficulty": 3,
-      "category": "verbform"
+      "category": "verbform",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=5&verse=35"
     },
     {
       "id": "C145",
@@ -1417,7 +1563,8 @@
       "missingWord": "إِنَّا",
       "hint": "Verstärkungspartikel إِنَّ + Pronomen 1. Person Plural: 'wahrlich, wir'",
       "difficulty": 2,
-      "category": "particle"
+      "category": "particle",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=5&verse=44"
     },
     {
       "id": "C146",
@@ -1427,7 +1574,8 @@
       "missingWord": "فَسَوْفَ",
       "hint": "Konjunktion فَ + Zukunftspartikel: 'so wird (bald)'",
       "difficulty": 2,
-      "category": "particle"
+      "category": "particle",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=5&verse=54"
     },
     {
       "id": "C147",
@@ -1437,7 +1585,8 @@
       "missingWord": "لِمَنْ",
       "hint": "Präposition لِ + Fragepronomen: 'wem gehört'",
       "difficulty": 2,
-      "category": "preposition"
+      "category": "preposition",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=6&verse=12"
     },
     {
       "id": "C148",
@@ -1447,7 +1596,8 @@
       "missingWord": "الدُّنْيَا",
       "hint": "Adjektiv feminin (Elativ): 'das diesseitige/niedere (Leben)'",
       "difficulty": 1,
-      "category": "adjective"
+      "category": "adjective",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=6&verse=32"
     },
     {
       "id": "C149",
@@ -1457,7 +1607,8 @@
       "missingWord": "هُوَ",
       "hint": "Personalpronomen 3. Person maskulin Singular: 'er'",
       "difficulty": 1,
-      "category": "pronoun"
+      "category": "pronoun",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=6&verse=59"
     },
     {
       "id": "C150",
@@ -1467,7 +1618,8 @@
       "missingWord": "الْحَبِّ",
       "hint": "Nomen im Genitiv (Idafa): 'das Korn/Samen'",
       "difficulty": 2,
-      "category": "noun"
+      "category": "noun",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=6&verse=95"
     },
     {
       "id": "C151",
@@ -1477,7 +1629,8 @@
       "missingWord": "تُدْرِكُهُ",
       "hint": "Form IV, 3. Person feminin Singular + Suffix — Wurzel د ر ك",
       "difficulty": 3,
-      "category": "verbform"
+      "category": "verbform",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=6&verse=103"
     },
     {
       "id": "C152",
@@ -1487,7 +1640,8 @@
       "missingWord": "لِلَّهِ",
       "hint": "Präposition لِ + Eigenname: 'für Gott'",
       "difficulty": 1,
-      "category": "preposition"
+      "category": "preposition",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=6&verse=162"
     },
     {
       "id": "C153",
@@ -1497,7 +1651,8 @@
       "missingWord": "ظَلَمْنَا",
       "hint": "Verb Form I, 1. Person Plural, Perfekt — Wurzel ظ ل م",
       "difficulty": 2,
-      "category": "verb"
+      "category": "verb",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=7&verse=23"
     },
     {
       "id": "C154",
@@ -1507,7 +1662,8 @@
       "missingWord": "خَلَقَ",
       "hint": "Verb Form I, 3. Person maskulin Singular, Perfekt — Wurzel خ ل ق",
       "difficulty": 1,
-      "category": "verb"
+      "category": "verb",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=7&verse=54"
     },
     {
       "id": "C155",
@@ -1517,7 +1673,8 @@
       "missingWord": "تُفْسِدُوا",
       "hint": "Form IV, 2. Person maskulin Plural, Apokopat (nach لَا) — Wurzel ف س د",
       "difficulty": 3,
-      "category": "verbform"
+      "category": "verbform",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=7&verse=56"
     },
     {
       "id": "C156",
@@ -1527,7 +1684,8 @@
       "missingWord": "قَرِيبٌ",
       "hint": "Adjektiv im Nominativ: 'nahe'",
       "difficulty": 1,
-      "category": "adjective"
+      "category": "adjective",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=7&verse=56"
     },
     {
       "id": "C157",
@@ -1537,7 +1695,8 @@
       "missingWord": "أَنْظُرْ",
       "hint": "Verb Form I, 1. Person Singular, Apokopat — Wurzel ن ظ ر",
       "difficulty": 2,
-      "category": "verb"
+      "category": "verb",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=7&verse=143"
     },
     {
       "id": "C158",
@@ -1547,7 +1706,8 @@
       "missingWord": "وَرَحْمَتِي",
       "hint": "Nomen + Pronominalsuffix 1s: 'und meine Barmherzigkeit'",
       "difficulty": 2,
-      "category": "noun"
+      "category": "noun",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=7&verse=156"
     },
     {
       "id": "C159",
@@ -1557,7 +1717,8 @@
       "missingWord": "فَقَدْ",
       "hint": "Konjunktion فَ + Bekräftigungspartikel قَدْ: 'so hat bereits'",
       "difficulty": 2,
-      "category": "particle"
+      "category": "particle",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=9&verse=40"
     },
     {
       "id": "C160",
@@ -1567,7 +1728,8 @@
       "missingWord": "لَنْ",
       "hint": "Negationspartikel für die Zukunft + Subjunktiv: 'niemals wird'",
       "difficulty": 1,
-      "category": "particle"
+      "category": "particle",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=9&verse=51"
     },
     {
       "id": "C161",
@@ -1577,7 +1739,8 @@
       "missingWord": "عَمَلَكُمْ",
       "hint": "Nomen + Pronominalsuffix 2mp: 'euer Werk'",
       "difficulty": 2,
-      "category": "noun"
+      "category": "noun",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=9&verse=105"
     },
     {
       "id": "C162",
@@ -1587,7 +1750,8 @@
       "missingWord": "سُبْحَانَكَ",
       "hint": "Nomen im Akkusativ (Masdar) + Suffix 2ms: 'Preis sei dir'",
       "difficulty": 2,
-      "category": "noun"
+      "category": "noun",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=10&verse=10"
     },
     {
       "id": "C163",
@@ -1597,7 +1761,8 @@
       "missingWord": "هُمْ",
       "hint": "Personalpronomen 3. Person maskulin Plural: 'sie'",
       "difficulty": 1,
-      "category": "pronoun"
+      "category": "pronoun",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=10&verse=62"
     },
     {
       "id": "C164",
@@ -1607,7 +1772,8 @@
       "missingWord": "رِزْقُهَا",
       "hint": "Nomen + Pronominalsuffix 3fs: 'ihre Versorgung'",
       "difficulty": 2,
-      "category": "noun"
+      "category": "noun",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=11&verse=6"
     },
     {
       "id": "C165",
@@ -1617,7 +1783,8 @@
       "missingWord": "تَوَكَّلْتُ",
       "hint": "Form V, 1. Person Singular, Perfekt — Wurzel و ك ل",
       "difficulty": 3,
-      "category": "verbform"
+      "category": "verbform",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=11&verse=56"
     },
     {
       "id": "C166",
@@ -1627,7 +1794,8 @@
       "missingWord": "لَعَلَّكُمْ",
       "hint": "Partikel لَعَلَّ + Suffix 2mp: 'damit ihr vielleicht'",
       "difficulty": 2,
-      "category": "particle"
+      "category": "particle",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=12&verse=2"
     },
     {
       "id": "C167",
@@ -1637,7 +1805,8 @@
       "missingWord": "نَحْنُ",
       "hint": "Personalpronomen 1. Person Plural: 'wir'",
       "difficulty": 1,
-      "category": "pronoun"
+      "category": "pronoun",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=12&verse=3"
     },
     {
       "id": "C168",
@@ -1647,7 +1816,8 @@
       "missingWord": "جَمِيلٌ",
       "hint": "Adjektiv im Nominativ: 'schön/angemessen'",
       "difficulty": 1,
-      "category": "adjective"
+      "category": "adjective",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=12&verse=18"
     },
     {
       "id": "C169",
@@ -1657,7 +1827,8 @@
       "missingWord": "النَّفْسَ",
       "hint": "Nomen im Akkusativ (Ism inna): 'das Selbst'",
       "difficulty": 1,
-      "category": "noun"
+      "category": "noun",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=12&verse=53"
     },
     {
       "id": "C170",
@@ -1667,7 +1838,8 @@
       "missingWord": "إِنَّمَا",
       "hint": "Einschränkungspartikel: 'nur/lediglich'",
       "difficulty": 2,
-      "category": "particle"
+      "category": "particle",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=12&verse=86"
     },
     {
       "id": "C171",
@@ -1677,7 +1849,8 @@
       "missingWord": "يُغَيِّرُ",
       "hint": "Form II, 3. Person maskulin Singular, Imperfekt — Wurzel غ ي ر",
       "difficulty": 2,
-      "category": "verbform"
+      "category": "verbform",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=13&verse=11"
     },
     {
       "id": "C172",
@@ -1687,7 +1860,8 @@
       "missingWord": "تَطْمَئِنُّ",
       "hint": "Verb Form I (vierradikalig), 3. Person feminin Singular, Imperfekt — Wurzel ط م أ ن",
       "difficulty": 3,
-      "category": "verb"
+      "category": "verb",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=13&verse=28"
     },
     {
       "id": "C173",
@@ -1697,7 +1871,8 @@
       "missingWord": "لَشَدِيدٌ",
       "hint": "Verstärkungs-Lam + Adjektiv: 'ganz gewiss streng'",
       "difficulty": 2,
-      "category": "adjective"
+      "category": "adjective",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=14&verse=7"
     },
     {
       "id": "C174",
@@ -1707,7 +1882,8 @@
       "missingWord": "تُحْصُوهَا",
       "hint": "Form IV, 2. Person maskulin Plural + Suffix 3fs, Apokopat — Wurzel ح ص ي",
       "difficulty": 3,
-      "category": "verbform"
+      "category": "verbform",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=14&verse=34"
     },
     {
       "id": "C175",
@@ -1717,7 +1893,8 @@
       "missingWord": "رَحِيمٌ",
       "hint": "Adjektiv im Nominativ: 'barmherzig'",
       "difficulty": 1,
-      "category": "adjective"
+      "category": "adjective",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=16&verse=18"
     },
     {
       "id": "C176",
@@ -1727,7 +1904,8 @@
       "missingWord": "يَأْمُرُ",
       "hint": "Verb Form I, 3. Person maskulin Singular, Imperfekt — Wurzel أ م ر",
       "difficulty": 1,
-      "category": "verb"
+      "category": "verb",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=16&verse=90"
     },
     {
       "id": "C177",
@@ -1737,7 +1915,8 @@
       "missingWord": "بِعَبْدِهِ",
       "hint": "Präposition بِ + Nomen + Suffix 3ms: 'mit seinem Diener'",
       "difficulty": 2,
-      "category": "preposition"
+      "category": "preposition",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=17&verse=1"
     },
     {
       "id": "C178",
@@ -1747,7 +1926,8 @@
       "missingWord": "إِيَّاهُ",
       "hint": "Separates Objektpronomen 3. Person maskulin Singular: 'nur ihn'",
       "difficulty": 2,
-      "category": "pronoun"
+      "category": "pronoun",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=17&verse=23"
     },
     {
       "id": "C179",
@@ -1757,7 +1937,8 @@
       "missingWord": "لَيْسَ",
       "hint": "Negationsverb: 'nicht ist/nicht vorhanden'",
       "difficulty": 2,
-      "category": "verb"
+      "category": "verb",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=17&verse=36"
     },
     {
       "id": "C180",
@@ -1767,7 +1948,8 @@
       "missingWord": "تُسَبِّحُ",
       "hint": "Form II, 3. Person feminin Singular, Imperfekt — Wurzel س ب ح",
       "difficulty": 2,
-      "category": "verbform"
+      "category": "verbform",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=17&verse=44"
     },
     {
       "id": "C181",
@@ -1777,7 +1959,8 @@
       "missingWord": "وَلَقَدْ",
       "hint": "Schwur-Lam + Bekräftigungspartikel قَدْ: 'und ganz gewiss haben wir bereits'",
       "difficulty": 2,
-      "category": "particle"
+      "category": "particle",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=17&verse=70"
     },
     {
       "id": "C182",
@@ -1787,7 +1970,8 @@
       "missingWord": "لَدُنْكَ",
       "hint": "Präposition/Nomen: 'bei dir/von dir aus' + Suffix 2ms",
       "difficulty": 2,
-      "category": "preposition"
+      "category": "preposition",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=18&verse=10"
     },
     {
       "id": "C183",
@@ -1797,7 +1981,8 @@
       "missingWord": "الْحَقُّ",
       "hint": "Nomen im Nominativ: 'die Wahrheit'",
       "difficulty": 1,
-      "category": "noun"
+      "category": "noun",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=18&verse=29"
     },
     {
       "id": "C184",
@@ -1807,7 +1992,8 @@
       "missingWord": "زِينَةُ",
       "hint": "Nomen im Nominativ (Prädikat): 'Schmuck/Zierde'",
       "difficulty": 2,
-      "category": "noun"
+      "category": "noun",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=18&verse=46"
     },
     {
       "id": "C185",
@@ -1817,7 +2003,8 @@
       "missingWord": "لَوْ",
       "hint": "Irreale Bedingungspartikel: 'wenn (hypothetisch)'",
       "difficulty": 2,
-      "category": "particle"
+      "category": "particle",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=18&verse=109"
     },
     {
       "id": "C186",
@@ -1827,7 +2014,8 @@
       "missingWord": "إِنِّي",
       "hint": "Verstärkungspartikel إِنَّ + Suffix 1s: 'wahrlich, ich bin'",
       "difficulty": 2,
-      "category": "particle"
+      "category": "particle",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=19&verse=30"
     },
     {
       "id": "C187",
@@ -1837,7 +2025,8 @@
       "missingWord": "وَاصْطَبِرْ",
       "hint": "Form VIII, Imperativ, 2. Person maskulin Singular — Wurzel ص ب ر",
       "difficulty": 3,
-      "category": "verbform"
+      "category": "verbform",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=19&verse=65"
     },
     {
       "id": "C188",
@@ -1847,7 +2036,8 @@
       "missingWord": "زِدْنِي",
       "hint": "Verb Form I, Imperativ + Suffix 1s — Wurzel ز ي د: 'vermehre mir'",
       "difficulty": 2,
-      "category": "verb"
+      "category": "verb",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=20&verse=114"
     },
     {
       "id": "C189",
@@ -1857,7 +2047,8 @@
       "missingWord": "كَفَرُوا",
       "hint": "Verb Form I, 3. Person maskulin Plural, Perfekt — Wurzel ك ف ر",
       "difficulty": 1,
-      "category": "verb"
+      "category": "verb",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=21&verse=30"
     },
     {
       "id": "C190",
@@ -1867,7 +2058,8 @@
       "missingWord": "أَنْتَ",
       "hint": "Personalpronomen 2. Person maskulin Singular: 'du'",
       "difficulty": 1,
-      "category": "pronoun"
+      "category": "pronoun",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=21&verse=87"
     },
     {
       "id": "C191",
@@ -1877,7 +2069,8 @@
       "missingWord": "رَحْمَةً",
       "hint": "Nomen im Akkusativ (Hal/Maf'ul li-ajlih): 'als Barmherzigkeit'",
       "difficulty": 1,
-      "category": "noun"
+      "category": "noun",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=21&verse=107"
     },
     {
       "id": "C192",
@@ -1887,7 +2080,8 @@
       "missingWord": "يُذْكَرُ",
       "hint": "Verb Form I Passiv, 3. Person maskulin Singular, Imperfekt — Wurzel ذ ك ر",
       "difficulty": 3,
-      "category": "verb"
+      "category": "verb",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=22&verse=40"
     },
     {
       "id": "C193",
@@ -1897,7 +2091,8 @@
       "missingWord": "قَدْ",
       "hint": "Partikel der Bekräftigung/Vergangenheit: 'bereits/gewiss'",
       "difficulty": 1,
-      "category": "particle"
+      "category": "particle",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=23&verse=1"
     },
     {
       "id": "C194",
@@ -1907,7 +2102,8 @@
       "missingWord": "عَبَثًا",
       "hint": "Nomen im Akkusativ (Hal): 'sinnlos/vergeblich'",
       "difficulty": 2,
-      "category": "noun"
+      "category": "noun",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=23&verse=115"
     },
     {
       "id": "C195",
@@ -1917,7 +2113,8 @@
       "missingWord": "نُورُ",
       "hint": "Nomen im Nominativ (Prädikat/Idafa): 'Licht'",
       "difficulty": 1,
-      "category": "noun"
+      "category": "noun",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=24&verse=35"
     },
     {
       "id": "C196",
@@ -1927,7 +2124,8 @@
       "missingWord": "نَزَّلَ",
       "hint": "Form II, 3. Person maskulin Singular, Perfekt — Wurzel ن ز ل",
       "difficulty": 2,
-      "category": "verbform"
+      "category": "verbform",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=25&verse=1"
     },
     {
       "id": "C197",
@@ -1937,7 +2135,8 @@
       "missingWord": "الْحَيِّ",
       "hint": "Adjektiv/Nomen im Genitiv: 'der Lebendige'",
       "difficulty": 1,
-      "category": "adjective"
+      "category": "adjective",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=25&verse=58"
     },
     {
       "id": "C198",
@@ -1947,7 +2146,8 @@
       "missingWord": "هَالِكٌ",
       "hint": "Partizip Aktiv Form I: 'vergehend/zugrunde gehend'",
       "difficulty": 2,
-      "category": "adjective"
+      "category": "adjective",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=28&verse=88"
     },
     {
       "id": "C199",
@@ -1957,7 +2157,8 @@
       "missingWord": "بِوَالِدَيْهِ",
       "hint": "Präposition بِ + Nomen Dual Genitiv + Suffix: 'bezueglich seiner Eltern'",
       "difficulty": 2,
-      "category": "preposition"
+      "category": "preposition",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=31&verse=14"
     },
     {
       "id": "C200",
@@ -1967,7 +2168,8 @@
       "missingWord": "حَسَنَةٌ",
       "hint": "Adjektiv feminin im Nominativ: 'gutes/schönes (Vorbild)'",
       "difficulty": 1,
-      "category": "adjective"
+      "category": "adjective",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=33&verse=21"
     },
     {
       "id": "C201",
@@ -1977,7 +2179,8 @@
       "missingWord": "أَرَادَ",
       "hint": "Form IV, 3. Person maskulin Singular, Perfekt — Wurzel ر و د",
       "difficulty": 2,
-      "category": "verb"
+      "category": "verb",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=36&verse=82"
     },
     {
       "id": "C202",
@@ -1987,7 +2190,8 @@
       "missingWord": "أَنْفُسِهِمْ",
       "hint": "Nomen Plural + Pronominalsuffix 3mp: 'sich selbst/ihre Selbste'",
       "difficulty": 2,
-      "category": "pronoun"
+      "category": "pronoun",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=39&verse=53"
     },
     {
       "id": "C203",
@@ -1997,7 +2201,8 @@
       "missingWord": "رَبِّكُمَا",
       "hint": "Nomen + Pronominalsuffix Dual: 'eures beider Herrn'",
       "difficulty": 2,
-      "category": "pronoun"
+      "category": "pronoun",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=55&verse=13"
     },
     {
       "id": "C204",
@@ -2007,7 +2212,8 @@
       "missingWord": "هُوَ",
       "hint": "Personalpronomen 3. Person maskulin Singular: 'er'",
       "difficulty": 1,
-      "category": "pronoun"
+      "category": "pronoun",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=112&verse=1"
     }
   ]
 }

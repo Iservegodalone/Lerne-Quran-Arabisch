@@ -3,8 +3,14 @@
     "title": "Fragepartikel-System",
     "description": "Systematische Behandlung der Interrogativpartikeln und ihrer syntaktischen Funktionen im Quranischen Arabisch. Kontrastive Analyse der einzelnen Partikeln mit authentischen Quran-Belegen.",
     "sources": [
-      { "name": "Wright's Arabic Grammar Vol II", "url": "https://archive.org/details/grammarofthearab02telerich" },
-      { "name": "Quranic Arabic Corpus", "url": "https://corpus.quran.com/" }
+      {
+        "name": "Wright's Arabic Grammar Vol II",
+        "url": "https://archive.org/details/grammarofthearab02telerich"
+      },
+      {
+        "name": "Quranic Arabic Corpus",
+        "url": "https://corpus.quran.com/"
+      }
     ]
   },
   "lessons": [
@@ -35,37 +41,44 @@
               {
                 "ref": "2:6",
                 "arabic": "سَوَاءٌ عَلَيْهِمْ أَأَنذَرْتَهُمْ أَمْ لَمْ تُنذِرْهُمْ لَا يُؤْمِنُونَ",
-                "explanation": "أَ ... أَمْ — Alternative: 'ob du sie warnst oder nicht warnst'. Nur أَ kann mit أَمْ eine Alternative bilden. هَلْ wäre hier unmöglich."
+                "explanation": "أَ ... أَمْ — Alternative: 'ob du sie warnst oder nicht warnst'. Nur أَ kann mit أَمْ eine Alternative bilden. هَلْ wäre hier unmöglich.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=6"
               },
               {
                 "ref": "2:140",
                 "arabic": "أَمْ تَقُولُونَ إِنَّ إِبْرَاهِيمَ وَإِسْمَاعِيلَ وَإِسْحَاقَ وَيَعْقُوبَ وَالْأَسْبَاطَ كَانُوا هُودًا أَوْ نَصَارَىٰ ۗ قُلْ أَأَنتُمْ أَعْلَمُ أَمِ اللَّهُ",
-                "explanation": "أَأَنتُمْ أَعْلَمُ أَمِ اللَّهُ — أَ vor Nomen (أَنتُمْ) mit Alternative أَمْ. 'Seid IHR wissender oder Gott?' Beides nur mit أَ möglich."
+                "explanation": "أَأَنتُمْ أَعْلَمُ أَمِ اللَّهُ — أَ vor Nomen (أَنتُمْ) mit Alternative أَمْ. 'Seid IHR wissender oder Gott?' Beides nur mit أَ möglich.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=140"
               },
               {
                 "ref": "7:65",
                 "arabic": "أَوَلَمْ يَتَفَكَّرُوا",
-                "explanation": "أَ + وَ + لَمْ — Hamza al-Istifham vor der Konjunktion وَ und der Negationspartikel لَمْ. Drei Partikeln gestapelt. هَلْ könnte hier nicht stehen (nicht vor Negation)."
+                "explanation": "أَ + وَ + لَمْ — Hamza al-Istifham vor der Konjunktion وَ und der Negationspartikel لَمْ. Drei Partikeln gestapelt. هَلْ könnte hier nicht stehen (nicht vor Negation).",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=7&verse=65"
               },
               {
                 "ref": "36:60",
                 "arabic": "أَلَمْ أَعْهَدْ إِلَيْكُمْ يَا بَنِي آدَمَ أَن لَّا تَعْبُدُوا الشَّيْطَانَ",
-                "explanation": "أَلَمْ أَعْهَدْ — أَ + لَمْ + Jussiv. 'Habe ich euch nicht aufgetragen...?' Die Kombination أَ + Negation ergibt eine erwartete Bejahung (rhetorische Frage)."
+                "explanation": "أَلَمْ أَعْهَدْ — أَ + لَمْ + Jussiv. 'Habe ich euch nicht aufgetragen...?' Die Kombination أَ + Negation ergibt eine erwartete Bejahung (rhetorische Frage).",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=36&verse=60"
               },
               {
                 "ref": "76:1",
                 "arabic": "هَلْ أَتَىٰ عَلَى الْإِنسَانِ حِينٌ مِّنَ الدَّهْرِ لَمْ يَكُن شَيْئًا مَّذْكُورًا",
-                "explanation": "هَلْ أَتَى — هَلْ vor Verb (أَتَى). Einfache Ja/Nein-Frage ohne Alternative. Keine Negation direkt nach هَلْ."
+                "explanation": "هَلْ أَتَى — هَلْ vor Verb (أَتَى). Einfache Ja/Nein-Frage ohne Alternative. Keine Negation direkt nach هَلْ.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=76&verse=1"
               },
               {
                 "ref": "88:1",
                 "arabic": "هَلْ أَتَاكَ حَدِيثُ الْغَاشِيَةِ",
-                "explanation": "هَلْ أَتَاكَ — 'Ist zu dir die Kunde des Überwaeltigenden gekommen?' هَلْ vor Verb. Einfache Frage, die Aufmerksamkeit lenkt."
+                "explanation": "هَلْ أَتَاكَ — 'Ist zu dir die Kunde des Überwaeltigenden gekommen?' هَلْ vor Verb. Einfache Frage, die Aufmerksamkeit lenkt.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=88&verse=1"
               },
               {
                 "ref": "67:3",
                 "arabic": "هَلْ تَرَىٰ مِن فُطُورٍ",
-                "explanation": "هَلْ تَرَى — 'Siehst du einen Riss?' هَلْ vor Imperfektverb. Reine Ja/Nein-Frage."
+                "explanation": "هَلْ تَرَى — 'Siehst du einen Riss?' هَلْ vor Imperfektverb. Reine Ja/Nein-Frage.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=67&verse=3"
               }
             ]
           }
@@ -159,32 +172,38 @@
               {
                 "ref": "21:59",
                 "arabic": "قَالُوا مَن فَعَلَ هَٰذَا بِآلِهَتِنَا",
-                "explanation": "مَنْ فَعَلَ — مَنْ als Subjekt: 'Wer hat das unseren Goettern angetan?' مَنْ hat die Funktion des Faa'il (Subjekt/Agens)."
+                "explanation": "مَنْ فَعَلَ — مَنْ als Subjekt: 'Wer hat das unseren Goettern angetan?' مَنْ hat die Funktion des Faa'il (Subjekt/Agens).",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=21&verse=59"
               },
               {
                 "ref": "26:23",
                 "arabic": "قَالَ فِرْعَوْنُ وَمَا رَبُّ الْعَالَمِينَ",
-                "explanation": "مَا رَبُّ الْعَالَمِينَ — 'Was ist der Herr der Welten?' مَا als Prädikat-Frage (fragt nach dem Wesen/der Identität). مَا ist hier das Prädikat (خبر) eines Nominalsatzes."
+                "explanation": "مَا رَبُّ الْعَالَمِينَ — 'Was ist der Herr der Welten?' مَا als Prädikat-Frage (fragt nach dem Wesen/der Identität). مَا ist hier das Prädikat (خبر) eines Nominalsatzes.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=26&verse=23"
               },
               {
                 "ref": "2:17",
                 "arabic": "مَثَلُهُمْ كَمَثَلِ الَّذِي اسْتَوْقَدَ نَارًا",
-                "explanation": "Kein Fragewort — zum Vergleich: Nicht jedes مَا oder مَنْ ist interrogativ. Hier ist الَّذِي ein Relativpronomen. Im Kontext entscheidet die Syntax über die Funktion."
+                "explanation": "Kein Fragewort — zum Vergleich: Nicht jedes مَا oder مَنْ ist interrogativ. Hier ist الَّذِي ein Relativpronomen. Im Kontext entscheidet die Syntax über die Funktion.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=17"
               },
               {
                 "ref": "2:108",
                 "arabic": "أَمْ تُرِيدُونَ أَن تَسْأَلُوا رَسُولَكُمْ كَمَا سُئِلَ مُوسَىٰ مِن قَبْلُ",
-                "explanation": "كَمَا سُئِلَ — hier ist مَا relativisch ('wie das, was'). Kontextabhängige Unterscheidung zwischen interrogativem und relativischem مَا."
+                "explanation": "كَمَا سُئِلَ — hier ist مَا relativisch ('wie das, was'). Kontextabhängige Unterscheidung zwischen interrogativem und relativischem مَا.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=108"
               },
               {
                 "ref": "2:215",
                 "arabic": "يَسْأَلُونَكَ مَاذَا يُنفِقُونَ",
-                "explanation": "مَاذَا يُنفِقُونَ — 'Was sollen sie ausgeben?' مَاذَا als interrogatives Objekt. Das Verb steht im Indikativ (keine Jussiv-Rektion durch مَاذَا in Fragen)."
+                "explanation": "مَاذَا يُنفِقُونَ — 'Was sollen sie ausgeben?' مَاذَا als interrogatives Objekt. Das Verb steht im Indikativ (keine Jussiv-Rektion durch مَاذَا in Fragen).",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=215"
               },
               {
                 "ref": "78:1",
                 "arabic": "عَمَّ يَتَسَاءَلُونَ",
-                "explanation": "عَمَّ = عَنْ + مَا — 'Worueber befragen sie sich?' Präposition عَنْ + مَا mit Assimilation und Wegfall des Alif. Typisches Muster für مَا nach Präposition."
+                "explanation": "عَمَّ = عَنْ + مَا — 'Worueber befragen sie sich?' Präposition عَنْ + مَا mit Assimilation und Wegfall des Alif. Typisches Muster für مَا nach Präposition.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=78&verse=1"
               }
             ]
           }
@@ -272,37 +291,44 @@
               {
                 "ref": "2:28",
                 "arabic": "كَيْفَ تَكْفُرُونَ بِاللَّهِ وَكُنتُمْ أَمْوَاتًا فَأَحْيَاكُمْ",
-                "explanation": "كَيْفَ تَكْفُرُونَ — 'Wie könnt ihr leugnen?' Rhetorische Frage: drückt Verwunderung und Tadel aus, keine Informationssuche. كَيْفَ als Zustandsadverb."
+                "explanation": "كَيْفَ تَكْفُرُونَ — 'Wie könnt ihr leugnen?' Rhetorische Frage: drückt Verwunderung und Tadel aus, keine Informationssuche. كَيْفَ als Zustandsadverb.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=28"
               },
               {
                 "ref": "3:101",
                 "arabic": "وَكَيْفَ تَكْفُرُونَ وَأَنتُمْ تُتْلَىٰ عَلَيْكُمْ آيَاتُ اللَّهِ وَفِيكُمْ رَسُولُهُ",
-                "explanation": "وَكَيْفَ تَكْفُرُونَ — Dieselbe Struktur wie 2:28. Hier mit Zustandssatz (وَأَنتُمْ تُتْلَى): 'Wie könnt ihr leugnen, WAEHREND euch die Zeichen vorgetragen werden?'"
+                "explanation": "وَكَيْفَ تَكْفُرُونَ — Dieselbe Struktur wie 2:28. Hier mit Zustandssatz (وَأَنتُمْ تُتْلَى): 'Wie könnt ihr leugnen, WAEHREND euch die Zeichen vorgetragen werden?'",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=101"
               },
               {
                 "ref": "81:26",
                 "arabic": "فَأَيْنَ تَذْهَبُونَ",
-                "explanation": "أَيْنَ تَذْهَبُونَ — 'Wohin geht ihr?' Rhetorische Frage am Ende der Sure — Verwunderung über die Abkehr."
+                "explanation": "أَيْنَ تَذْهَبُونَ — 'Wohin geht ihr?' Rhetorische Frage am Ende der Sure — Verwunderung über die Abkehr.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=81&verse=26"
               },
               {
                 "ref": "2:214",
                 "arabic": "مَتَىٰ نَصْرُ اللَّهِ ۗ أَلَا إِنَّ نَصْرَ اللَّهِ قَرِيبٌ",
-                "explanation": "مَتَى نَصْرُ اللَّهِ — 'Wann [kommt] Gottes Hilfe?' Echte Informationsfrage (nicht rhetorisch). Nominalsatz: مَتَى ist Prädikat, نَصْرُ اللَّهِ Subjekt."
+                "explanation": "مَتَى نَصْرُ اللَّهِ — 'Wann [kommt] Gottes Hilfe?' Echte Informationsfrage (nicht rhetorisch). Nominalsatz: مَتَى ist Prädikat, نَصْرُ اللَّهِ Subjekt.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=214"
               },
               {
                 "ref": "3:37",
                 "arabic": "قَالَ يَا مَرْيَمُ أَنَّىٰ لَكِ هَٰذَا ۖ قَالَتْ هُوَ مِنْ عِندِ اللَّهِ",
-                "explanation": "أَنَّى لَكِ هَذَا — 'Woher hast du das?' أَنَّى in der Bedeutung 'woher' (مِنْ أَيْنَ). Echte Frage nach dem Ursprung der Versorgung."
+                "explanation": "أَنَّى لَكِ هَذَا — 'Woher hast du das?' أَنَّى in der Bedeutung 'woher' (مِنْ أَيْنَ). Echte Frage nach dem Ursprung der Versorgung.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=37"
               },
               {
                 "ref": "3:40",
                 "arabic": "قَالَ رَبِّ أَنَّىٰ يَكُونُ لِي غُلَامٌ وَقَدْ بَلَغَنِيَ الْكِبَرُ",
-                "explanation": "أَنَّى يَكُونُ لِي — 'Wie soll mir ein Junge sein?' أَنَّى in der Bedeutung 'wie' (كَيْفَ). Verwunderung über die Möglichkeit."
+                "explanation": "أَنَّى يَكُونُ لِي — 'Wie soll mir ein Junge sein?' أَنَّى in der Bedeutung 'wie' (كَيْفَ). Verwunderung über die Möglichkeit.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=40"
               },
               {
                 "ref": "2:259",
                 "arabic": "قَالَ أَنَّىٰ يُحْيِي هَٰذِهِ اللَّهُ بَعْدَ مَوْتِهَا",
-                "explanation": "أَنَّى يُحْيِي — 'Wie soll Gott dies nach seinem Tod beleben?' أَنَّى als 'wie' — Frage nach der Art und Weise der Wiederbelebung."
+                "explanation": "أَنَّى يُحْيِي — 'Wie soll Gott dies nach seinem Tod beleben?' أَنَّى als 'wie' — Frage nach der Art und Weise der Wiederbelebung.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=259"
               }
             ]
           }
@@ -396,32 +422,38 @@
               {
                 "ref": "2:211",
                 "arabic": "سَلْ بَنِي إِسْرَائِيلَ كَمْ آتَيْنَاهُم مِّنْ آيَةٍ بَيِّنَةٍ",
-                "explanation": "كَمْ آتَيْنَاهُم — hier ist كَمْ interrogativ: 'Wie viele klare Zeichen haben wir ihnen gegeben?' كَمْ fungiert als Objekt des Verbs آتَيْنَا. مِنْ آيَةٍ ist die Tamyiz-Spezifizierung."
+                "explanation": "كَمْ آتَيْنَاهُم — hier ist كَمْ interrogativ: 'Wie viele klare Zeichen haben wir ihnen gegeben?' كَمْ fungiert als Objekt des Verbs آتَيْنَا. مِنْ آيَةٍ ist die Tamyiz-Spezifizierung.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=211"
               },
               {
                 "ref": "2:259",
                 "arabic": "قَالَ كَمْ لَبِثْتَ ۖ قَالَ لَبِثْتُ يَوْمًا أَوْ بَعْضَ يَوْمٍ",
-                "explanation": "كَمْ لَبِثْتَ — 'Wie lange bist du geblieben?' كَمْ fragt nach einer Zeitdauer. Es fungiert als adverbialer Akkusativ (ظرف)."
+                "explanation": "كَمْ لَبِثْتَ — 'Wie lange bist du geblieben?' كَمْ fragt nach einer Zeitdauer. Es fungiert als adverbialer Akkusativ (ظرف).",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=259"
               },
               {
                 "ref": "36:31",
                 "arabic": "أَلَمْ يَرَوْا كَمْ أَهْلَكْنَا قَبْلَهُم مِّنَ الْقُرُونِ",
-                "explanation": "كَمْ أَهْلَكْنَا — berichtendes كَمْ: 'Wie viele Generationen wir vor ihnen vernichtet haben!' Funktion: Ausruf über die grosse Menge, nicht echte Frage. مِنَ الْقُرُونِ als Genitiv-Spezifizierung."
+                "explanation": "كَمْ أَهْلَكْنَا — berichtendes كَمْ: 'Wie viele Generationen wir vor ihnen vernichtet haben!' Funktion: Ausruf über die grosse Menge, nicht echte Frage. مِنَ الْقُرُونِ als Genitiv-Spezifizierung.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=36&verse=31"
               },
               {
                 "ref": "19:73",
                 "arabic": "أَيُّ الْفَرِيقَيْنِ خَيْرٌ مَّقَامًا وَأَحْسَنُ نَدِيًّا",
-                "explanation": "أَيُّ الْفَرِيقَيْنِ — 'Welche der beiden Gruppen ist besser?' أَيّ in Idafa mit dem Dual الْفَرِيقَيْنِ (Genitiv). أَيُّ ist Subjekt (Nominativ)."
+                "explanation": "أَيُّ الْفَرِيقَيْنِ — 'Welche der beiden Gruppen ist besser?' أَيّ in Idafa mit dem Dual الْفَرِيقَيْنِ (Genitiv). أَيُّ ist Subjekt (Nominativ).",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=19&verse=73"
               },
               {
                 "ref": "17:110",
                 "arabic": "أَيًّا مَّا تَدْعُوا فَلَهُ الْأَسْمَاءُ الْحُسْنَىٰ",
-                "explanation": "أَيًّا مَّا تَدْعُوا — 'Welchen auch immer ihr anruft...' Hier ist أَيّ konditional-generalisiert (wie مَنْ/مَا). أَيًّا im Akkusativ (Objekt von تَدْعُوا). مَا ist verstärkend."
+                "explanation": "أَيًّا مَّا تَدْعُوا — 'Welchen auch immer ihr anruft...' Hier ist أَيّ konditional-generalisiert (wie مَنْ/مَا). أَيًّا im Akkusativ (Objekt von تَدْعُوا). مَا ist verstärkend.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=17&verse=110"
               },
               {
                 "ref": "28:61",
                 "arabic": "أَفَمَن وَعَدْنَاهُ وَعْدًا حَسَنًا فَهُوَ لَاقِيهِ كَمَن مَّتَّعْنَاهُ مَتَاعَ الْحَيَاةِ الدُّنْيَا",
-                "explanation": "Zum Kontrast: Hier steht مَنْ (nicht أَيّ), weil nicht aus einer definierten Menge ausgewählt wird, sondern eine Person generisch beschrieben wird."
+                "explanation": "Zum Kontrast: Hier steht مَنْ (nicht أَيّ), weil nicht aus einer definierten Menge ausgewählt wird, sondern eine Person generisch beschrieben wird.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=28&verse=61"
               }
             ]
           }
@@ -515,32 +547,38 @@
               {
                 "ref": "94:1",
                 "arabic": "أَلَمْ نَشْرَحْ لَكَ صَدْرَكَ",
-                "explanation": "أَلَمْ نَشْرَحْ — 'Haben wir nicht geweitet?' Die erwartete Antwort: 'Doch, ihr habt.' Funktion: Bekräftigung einer vergangenen Handlung. أَ + لَمْ + Jussiv."
+                "explanation": "أَلَمْ نَشْرَحْ — 'Haben wir nicht geweitet?' Die erwartete Antwort: 'Doch, ihr habt.' Funktion: Bekräftigung einer vergangenen Handlung. أَ + لَمْ + Jussiv.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=94&verse=1"
               },
               {
                 "ref": "105:1",
                 "arabic": "أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَابِ الْفِيلِ",
-                "explanation": "أَلَمْ تَرَ — 'Hast du nicht gesehen?' Rhetorisch: 'Du hast doch gesehen!' / 'Bedenke doch!' Lenkung der Aufmerksamkeit, nicht Informationssuche."
+                "explanation": "أَلَمْ تَرَ — 'Hast du nicht gesehen?' Rhetorisch: 'Du hast doch gesehen!' / 'Bedenke doch!' Lenkung der Aufmerksamkeit, nicht Informationssuche.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=105&verse=1"
               },
               {
                 "ref": "2:44",
                 "arabic": "أَتَأْمُرُونَ النَّاسَ بِالْبِرِّ وَتَنسَوْنَ أَنفُسَكُمْ وَأَنتُمْ تَتْلُونَ الْكِتَابَ ۚ أَفَلَا تَعْقِلُونَ",
-                "explanation": "Zwei rhetorische Fragen: (1) أَتَأْمُرُونَ — 'Befehlt ihr den Leuten Gutes und vergesst euch selbst?' = Tadel. (2) أَفَلَا تَعْقِلُونَ — 'Denkt ihr denn nicht nach?' = Ihr solltet nachdenken! أَ + فَ + لَا."
+                "explanation": "Zwei rhetorische Fragen: (1) أَتَأْمُرُونَ — 'Befehlt ihr den Leuten Gutes und vergesst euch selbst?' = Tadel. (2) أَفَلَا تَعْقِلُونَ — 'Denkt ihr denn nicht nach?' = Ihr solltet nachdenken! أَ + فَ + لَا.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=44"
               },
               {
                 "ref": "39:36",
                 "arabic": "أَلَيْسَ اللَّهُ بِكَافٍ عَبْدَهُ",
-                "explanation": "أَلَيْسَ — 'Ist Gott nicht genügend?' Erwartete Antwort: 'Doch!' أَ + لَيْسَ = Frage + Negation = Bekräftigung der positiven Aussage."
+                "explanation": "أَلَيْسَ — 'Ist Gott nicht genügend?' Erwartete Antwort: 'Doch!' أَ + لَيْسَ = Frage + Negation = Bekräftigung der positiven Aussage.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=39&verse=36"
               },
               {
                 "ref": "10:59",
                 "arabic": "قُلْ أَرَأَيْتُم مَّا أَنزَلَ اللَّهُ لَكُم مِّن رِّزْقٍ فَجَعَلْتُم مِّنْهُ حَرَامًا وَحَلَالًا قُلْ آللَّهُ أَذِنَ لَكُمْ أَمْ عَلَى اللَّهِ تَفْتَرُونَ",
-                "explanation": "آللَّهُ أَذِنَ لَكُمْ أَمْ ... تَفْتَرُونَ — Rhetorische Alternative: 'Hat Gott euch erlaubt, oder erfindet ihr gegen Gott?' Die erwartete Antwort ist die zweite Option. أَ ... أَمْ mit rhetorischer Funktion."
+                "explanation": "آللَّهُ أَذِنَ لَكُمْ أَمْ ... تَفْتَرُونَ — Rhetorische Alternative: 'Hat Gott euch erlaubt, oder erfindet ihr gegen Gott?' Die erwartete Antwort ist die zweite Option. أَ ... أَمْ mit rhetorischer Funktion.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=10&verse=59"
               },
               {
                 "ref": "11:24",
                 "arabic": "مَثَلُ الْفَرِيقَيْنِ كَالْأَعْمَىٰ وَالْأَصَمِّ وَالْبَصِيرِ وَالسَّمِيعِ ۚ هَلْ يَسْتَوِيَانِ مَثَلًا ۚ أَفَلَا تَذَكَّرُونَ",
-                "explanation": "هَلْ يَسْتَوِيَانِ — 'Sind die beiden gleich?' Rhetorisch: 'Nein, sie sind nicht gleich.' Gefolgt von أَفَلَا تَذَكَّرُونَ — doppelte rhetorische Frage als Mittel des Tadels."
+                "explanation": "هَلْ يَسْتَوِيَانِ — 'Sind die beiden gleich?' Rhetorisch: 'Nein, sie sind nicht gleich.' Gefolgt von أَفَلَا تَذَكَّرُونَ — doppelte rhetorische Frage als Mittel des Tadels.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=11&verse=24"
               }
             ]
           }

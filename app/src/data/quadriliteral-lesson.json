@@ -3,9 +3,18 @@
     "title": "Vierradikalige Verben (الأَفْعَال الرُّبَاعِيَّة)",
     "description": "Verben mit vier Wurzelkonsonanten — im Quran selten, aber belegt. Grundmuster, Konjugation und alle quranischen Belege.",
     "sources": [
-      { "name": "Wright's Grammar Vol I", "url": "https://archive.org/details/grammarofthearab01telerich" },
-      { "name": "Quranic Arabic Corpus", "url": "https://corpus.quran.com/" },
-      { "name": "Lane's Lexicon", "url": "https://ejtaal.net/aa/" }
+      {
+        "name": "Wright's Grammar Vol I",
+        "url": "https://archive.org/details/WrightsArabicGrammar1Of2"
+      },
+      {
+        "name": "Quranic Arabic Corpus",
+        "url": "https://corpus.quran.com/"
+      },
+      {
+        "name": "Lane's Lexicon",
+        "url": "https://ejtaal.net/aa/"
+      }
     ]
   },
   "learnContent": {
@@ -37,32 +46,38 @@
           {
             "ref": "99:1",
             "arabic": "إِذَا زُلْزِلَتِ الْأَرْضُ زِلْزَالَهَا",
-            "explanation": "زُلْزِلَتِ = sie wurde erschuettert (Passiv Perfekt von زَلْزَلَ). Die Erde wurde erschuettert. زِلْزَالَهَا = ihre Erschuetterung (Masdar als Maf'ul mutlaq — absoluter Akkusativ zur Verstärkung). Wurzel: ز-ل-ز-ل."
+            "explanation": "زُلْزِلَتِ = sie wurde erschuettert (Passiv Perfekt von زَلْزَلَ). Die Erde wurde erschuettert. زِلْزَالَهَا = ihre Erschuetterung (Masdar als Maf'ul mutlaq — absoluter Akkusativ zur Verstärkung). Wurzel: ز-ل-ز-ل.",
+            "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=99&verse=1"
           },
           {
             "ref": "7:20",
             "arabic": "فَوَسْوَسَ لَهُمَا الشَّيْطَانُ",
-            "explanation": "وَسْوَسَ = er fluesterte ein (Aktiv Perfekt). Wurzel: و-س-و-س. Der Satan fluesterte ihnen beiden ein. Reduplikation von و-س drückt das wiederholte, leise Einfluestern aus."
+            "explanation": "وَسْوَسَ = er fluesterte ein (Aktiv Perfekt). Wurzel: و-س-و-س. Der Satan fluesterte ihnen beiden ein. Reduplikation von و-س drückt das wiederholte, leise Einfluestern aus.",
+            "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=7&verse=20"
           },
           {
             "ref": "100:9",
             "arabic": "أَفَلَا يَعْلَمُ إِذَا بُعْثِرَ مَا فِي الْقُبُورِ",
-            "explanation": "بُعْثِرَ = es wurde aufgewuehlt/herausgeholt (Passiv Perfekt von بَعْثَرَ). Wurzel: ب-ع-ث-ر. Was in den Graebern ist, wird aufgewuehlt. Verwandt mit der dreiradikaligen Wurzel ب-ع-ث (auferwecken), aber durch den vierten Radikal (ر) erweitert."
+            "explanation": "بُعْثِرَ = es wurde aufgewuehlt/herausgeholt (Passiv Perfekt von بَعْثَرَ). Wurzel: ب-ع-ث-ر. Was in den Graebern ist, wird aufgewuehlt. Verwandt mit der dreiradikaligen Wurzel ب-ع-ث (auferwecken), aber durch den vierten Radikal (ر) erweitert.",
+            "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=100&verse=9"
           },
           {
             "ref": "91:14",
             "arabic": "فَدَمْدَمَ عَلَيْهِمْ رَبُّهُم بِذَنبِهِمْ فَسَوَّاهَا",
-            "explanation": "دَمْدَمَ = er zerstörte / vernichtete (Aktiv Perfekt). Wurzel: د-م-د-م. Ihr Herr zerstörte sie wegen ihrer Verfehlung. Reduplikation von د-م drückt totale, vollständige Vernichtung aus."
+            "explanation": "دَمْدَمَ = er zerstörte / vernichtete (Aktiv Perfekt). Wurzel: د-م-د-م. Ihr Herr zerstörte sie wegen ihrer Verfehlung. Reduplikation von د-م drückt totale, vollständige Vernichtung aus.",
+            "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=91&verse=14"
           },
           {
             "ref": "12:51",
             "arabic": "الْآنَ حَصْحَصَ الْحَقُّ",
-            "explanation": "حَصْحَصَ = es wurde deutlich/klar (Aktiv Perfekt). Wurzel: ح-ص-ح-ص. Jetzt ist die Wahrheit deutlich geworden. Reduplikation von ح-ص verstärkt die Bedeutung des Deutlichwerdens."
+            "explanation": "حَصْحَصَ = es wurde deutlich/klar (Aktiv Perfekt). Wurzel: ح-ص-ح-ص. Jetzt ist die Wahrheit deutlich geworden. Reduplikation von ح-ص verstärkt die Bedeutung des Deutlichwerdens.",
+            "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=12&verse=51"
           },
           {
             "ref": "13:28",
             "arabic": "أَلَا بِذِكْرِ اللَّهِ تَطْمَئِنُّ الْقُلُوبُ",
-            "explanation": "تَطْمَئِنُّ = sie finden Ruhe (Imperfekt von اِطْمَأَنَّ). Dies ist die erweiterte Form eines Quadriliterals: ط-م-أ-ن. Die Form اِفْعَلَلَّ (mit Verdoppelung des letzten Radikals) ist eine Sonderform. Durch Gottes Gedenken finden die Herzen Ruhe."
+            "explanation": "تَطْمَئِنُّ = sie finden Ruhe (Imperfekt von اِطْمَأَنَّ). Dies ist die erweiterte Form eines Quadriliterals: ط-م-أ-ن. Die Form اِفْعَلَلَّ (mit Verdoppelung des letzten Radikals) ist eine Sonderform. Durch Gottes Gedenken finden die Herzen Ruhe.",
+            "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=13&verse=28"
           }
         ]
       }
@@ -73,7 +88,12 @@
       {
         "type": "multiple_choice",
         "question": "Was ist das Grundmuster (Wazn) eines vierradikaligen Verbs?",
-        "options": ["فَعَلَ", "فَعَّلَ", "فَعْلَلَ", "أَفْعَلَ"],
+        "options": [
+          "فَعَلَ",
+          "فَعَّلَ",
+          "فَعْلَلَ",
+          "أَفْعَلَ"
+        ],
         "correct": 2,
         "explanation": "Das Grundmuster quadriliteraler Verben ist فَعْلَلَ (fa'lala) — vier Konsonanten verteilt auf das Musterwort. Beispiel: زَلْزَلَ, وَسْوَسَ, دَمْدَمَ."
       },
@@ -92,7 +112,12 @@
       {
         "type": "multiple_choice",
         "question": "Welches Präfix hat das Imperfekt quadriliteraler Verben?",
-        "options": ["يَ- (mit Fatha)", "يُ- (mit Damma)", "يِ- (mit Kasra)", "Kein Präfix"],
+        "options": [
+          "يَ- (mit Fatha)",
+          "يُ- (mit Damma)",
+          "يِ- (mit Kasra)",
+          "Kein Präfix"
+        ],
         "correct": 1,
         "explanation": "Quadriliterale haben im Imperfekt das Präfix يُ- mit Damma: يُفَعْلِلُ. Das unterscheidet sie von dreiradikaligen Form-I-Verben, die يَ- mit Fatha haben."
       },

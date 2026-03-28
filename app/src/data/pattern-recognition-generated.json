@@ -5,10 +5,22 @@
     "generated": "2026-03-23",
     "count": 95,
     "sources": [
-      { "name": "Wright's Grammar Vol I", "url": "https://archive.org/details/grammarofthearab01telerich" },
-      { "name": "Wright's Grammar Vol II", "url": "https://archive.org/details/grammarofthearab02telerich" },
-      { "name": "Quranic Arabic Corpus", "url": "https://corpus.quran.com/" },
-      { "name": "Lane's Lexicon", "url": "https://ejtaal.net/aa/" }
+      {
+        "name": "Wright's Grammar Vol I",
+        "url": "https://archive.org/details/WrightsArabicGrammar1Of2"
+      },
+      {
+        "name": "Wright's Grammar Vol II",
+        "url": "https://archive.org/details/grammarofthearab02telerich"
+      },
+      {
+        "name": "Quranic Arabic Corpus",
+        "url": "https://corpus.quran.com/"
+      },
+      {
+        "name": "Lane's Lexicon",
+        "url": "https://ejtaal.net/aa/"
+      }
     ]
   },
   "exercises": [
@@ -23,7 +35,8 @@
       "patternName": "Perfekt Form II",
       "description": "Perfekt der Form II von Wurzel ع-ر-ف. Muster فَعَّلَ — Verdopplung (Schadda) des mittleren Radikals. Bedeutung: Intensivierung, Kausativ oder Denominativ.",
       "morphology": "PERF|(II)|3MS",
-      "pos": "V"
+      "pos": "V",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=47&verse=6"
     },
     {
       "id": "pr002",
@@ -36,7 +49,8 @@
       "patternName": "Imperfekt Form I",
       "description": "Imperfekt der Grundform von Wurzel غ-ش-و. 3. Person maskulin Singular. Das Personenpraefix zeigt Person und Numerus an, der Stammvokal variiert je nach Verb.",
       "morphology": "IMPF|3MS",
-      "pos": "V"
+      "pos": "V",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=29&verse=55"
     },
     {
       "id": "pr003",
@@ -49,7 +63,8 @@
       "patternName": "Perfekt Form I (Passiv)",
       "description": "Perfekt der Grundform im Passiv von Wurzel د-ك-ك. Muster فُعِلَ: Damma auf dem ersten, Kasra auf dem zweiten Radikal kennzeichnet das Passiv.",
       "morphology": "PERF|PASS|3FD",
-      "pos": "V"
+      "pos": "V",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=69&verse=14"
     },
     {
       "id": "pr004",
@@ -62,7 +77,8 @@
       "patternName": "Aktivpartizip Form V",
       "description": "Muster مُتَفَعِّل — Aktives Partizip Form V. Präfix مُتَ- und Verdopplung des zweiten Radikals. Reflexiv zu Form II. Von Wurzel ط-و-ع.",
       "morphology": "ACT|PCPL|(V)|MP|ACC",
-      "pos": "N"
+      "pos": "N",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=9&verse=79"
     },
     {
       "id": "pr005",
@@ -75,7 +91,8 @@
       "patternName": "Aktivpartizip Form X",
       "description": "Muster مُسْتَفْعِل — Aktives Partizip Form X. Präfix مُسْتَ- kennzeichnet die Verlangen/Erachten-Form. Von Wurzel ق-و-م.",
       "morphology": "ACT|PCPL|(X)|M|INDEF|NOM",
-      "pos": "N"
+      "pos": "N",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=15&verse=41"
     },
     {
       "id": "pr006",
@@ -88,7 +105,8 @@
       "patternName": "Aktivpartizip Form X",
       "description": "Muster مُسْتَفْعِل — Aktives Partizip Form X. Präfix مُسْتَ- kennzeichnet die Verlangen/Erachten-Form. Von Wurzel س-ل-م.",
       "morphology": "ACT|PCPL|(X)|MP|NOM",
-      "pos": "N"
+      "pos": "N",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=37&verse=26"
     },
     {
       "id": "pr007",
@@ -101,7 +119,8 @@
       "patternName": "Passivpartizip Form I",
       "description": "Muster مَفْعُول — Passives Partizip der Grundform. Beschreibt das von der Handlung Betroffene. Von Wurzel ع-ر-ف.",
       "morphology": "PASS|PCPL|M|INDEF|ACC",
-      "pos": "N"
+      "pos": "N",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=235"
     },
     {
       "id": "pr008",
@@ -114,7 +133,8 @@
       "patternName": "Aktivpartizip Form X",
       "description": "Muster مُسْتَفْعِل — Aktives Partizip Form X. Präfix مُسْتَ- kennzeichnet die Verlangen/Erachten-Form. Von Wurzel ط-ي-ر.",
       "morphology": "ACT|PCPL|(X)|M|INDEF|ACC",
-      "pos": "N"
+      "pos": "N",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=76&verse=7"
     },
     {
       "id": "pr009",
@@ -127,7 +147,8 @@
       "patternName": "Passivpartizip Form I",
       "description": "Muster مَفْعُول — Passives Partizip der Grundform. Beschreibt das von der Handlung Betroffene. Von Wurzel ج-ن-ن.",
       "morphology": "PASS|PCPL|M|INDEF|NOM",
-      "pos": "N"
+      "pos": "N",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=44&verse=14"
     },
     {
       "id": "pr010",
@@ -140,7 +161,8 @@
       "patternName": "Masdar Form IV",
       "description": "Muster إِفْعَال — Masdar der Form IV von Wurzel ص-ل-ح. Regelhaft mit Hamza-Präfix und langem Alif vor dem letzten Radikal.",
       "morphology": "VN|(IV)|M|INDEF|GEN",
-      "pos": "N"
+      "pos": "N",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=114"
     },
     {
       "id": "pr011",
@@ -153,7 +175,8 @@
       "patternName": "Aktivpartizip Form I",
       "description": "Muster فَاعِل — Aktives Partizip der Grundform. Beschreibt den Handelnden oder einen Zustand. Von Wurzel د-ف-ع.",
       "morphology": "ACT|PCPL|M|INDEF|NOM",
-      "pos": "N"
+      "pos": "N",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=70&verse=2"
     },
     {
       "id": "pr012",
@@ -166,7 +189,8 @@
       "patternName": "Aktivpartizip Form IV",
       "description": "Muster مُفْعِل — Aktives Partizip Form IV. Präfix مُ- mit Sukun auf dem ersten Radikal kennzeichnet Form IV. Von Wurzel ح-ي-ي.",
       "morphology": "ACT|PCPL|(IV)|M|GEN",
-      "pos": "N"
+      "pos": "N",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=30&verse=50"
     },
     {
       "id": "pr013",
@@ -179,7 +203,8 @@
       "patternName": "Verbalsubstantiv Form I",
       "description": "Masdar (Verbalsubstantiv) der Grundform von Wurzel ق-و-ل. Das Muster des Masdar der Form I ist nicht vorhersagbar und muss für jedes Verb gelernt werden (فَعْل, فِعْل, فُعُول u.a.).",
       "morphology": "VN|M|INDEF|ACC",
-      "pos": "N"
+      "pos": "N",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=63"
     },
     {
       "id": "pr014",
@@ -192,7 +217,8 @@
       "patternName": "Aktivpartizip Form V",
       "description": "Muster مُتَفَعِّل — Aktives Partizip Form V. Präfix مُتَ- und Verdopplung des zweiten Radikals. Reflexiv zu Form II. Von Wurzel و-س-م.",
       "morphology": "ACT|PCPL|(V)|MP|GEN",
-      "pos": "N"
+      "pos": "N",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=15&verse=75"
     },
     {
       "id": "pr015",
@@ -205,7 +231,8 @@
       "patternName": "Imperfekt Form I (Passiv)",
       "description": "Imperfekt der Grundform im Passiv von Wurzel ج-ز-ي. 3. Person feminin Singular. Damma auf dem Präfix und Fatha auf dem vorletzten Radikal kennzeichnen das Passiv.",
       "morphology": "IMPF|PASS|3FS",
-      "pos": "V"
+      "pos": "V",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=92&verse=19"
     },
     {
       "id": "pr016",
@@ -218,7 +245,8 @@
       "patternName": "Masdar Form III",
       "description": "Masdar der Form III von Wurzel ر-ا-ي. Zwei häufige Muster: مُفَاعَلَة oder فِعَال.",
       "morphology": "VN|(III)|M|ACC",
-      "pos": "N"
+      "pos": "N",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=264"
     },
     {
       "id": "pr017",
@@ -231,7 +259,8 @@
       "patternName": "Passivform",
       "description": "Passiv von Wurzel ط-ب-ع. Im Perfekt: Damma auf dem ersten, Kasra auf dem vorletzten Radikal (innerer Vokalwechsel).",
       "morphology": "PERF|PASS|3MS",
-      "pos": "V"
+      "pos": "V",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=9&verse=87"
     },
     {
       "id": "pr018",
@@ -244,7 +273,8 @@
       "patternName": "Aktivpartizip Form VIII",
       "description": "Muster مُفْتَعِل — Aktives Partizip Form VIII. Einschub von ت nach dem ersten Radikal ist typisch für Form VIII. Von Wurzel ق-ح-م.",
       "morphology": "ACT|PCPL|(VIII)|M|INDEF|NOM",
-      "pos": "N"
+      "pos": "N",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=38&verse=59"
     },
     {
       "id": "pr019",
@@ -257,7 +287,8 @@
       "patternName": "Aktivpartizip Form I",
       "description": "Muster فَاعِل — Aktives Partizip der Grundform. Beschreibt den Handelnden oder einen Zustand. Von Wurzel ش-خ-ص.",
       "morphology": "ACT|PCPL|F|INDEF|NOM",
-      "pos": "N"
+      "pos": "N",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=21&verse=97"
     },
     {
       "id": "pr020",
@@ -270,7 +301,8 @@
       "patternName": "Masdar Form IV",
       "description": "Muster إِفْعَال — Masdar der Form IV von Wurzel ا-م-ن. Regelhaft mit Hamza-Präfix und langem Alif vor dem letzten Radikal.",
       "morphology": "VN|(IV)|M|INDEF|GEN",
-      "pos": "N"
+      "pos": "N",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=52&verse=21"
     },
     {
       "id": "pr021",
@@ -283,7 +315,8 @@
       "patternName": "Passivform",
       "description": "Passiv von Wurzel و-ق-ف. Im Perfekt: Damma auf dem ersten, Kasra auf dem vorletzten Radikal (innerer Vokalwechsel).",
       "morphology": "PERF|PASS|3MP",
-      "pos": "V"
+      "pos": "V",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=6&verse=27"
     },
     {
       "id": "pr022",
@@ -296,7 +329,8 @@
       "patternName": "Aktivpartizip Form II",
       "description": "Muster مُفَعِّل — Aktives Partizip Form II. Präfix مُ- und Verdopplung des zweiten Radikals kennzeichnen Form II. Von Wurzel ع-ذ-ر.",
       "morphology": "ACT|PCPL|(II)|MP|NOM",
-      "pos": "N"
+      "pos": "N",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=9&verse=90"
     },
     {
       "id": "pr023",
@@ -309,7 +343,8 @@
       "patternName": "Perfekt Form I",
       "description": "Perfekt der Grundform (Form I) von Wurzel ا-خ-ذ. Muster فَعَلَ — die einfachste Verbform, Basis aller Ableitungen.",
       "morphology": "PERF|2MP",
-      "pos": "V"
+      "pos": "V",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=81"
     },
     {
       "id": "pr024",
@@ -322,7 +357,8 @@
       "patternName": "Imperfekt Form I",
       "description": "Imperfekt der Grundform von Wurzel ق-ن-ت. 3. Person maskulin Singular. Das Personenpraefix zeigt Person und Numerus an, der Stammvokal variiert je nach Verb. Jussiv: Endung Sukun (Apocopatus).",
       "morphology": "IMPF|3MS|MOOD:JUS",
-      "pos": "V"
+      "pos": "V",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=33&verse=31"
     },
     {
       "id": "pr025",
@@ -335,7 +371,8 @@
       "patternName": "Verbalsubstantiv Form I",
       "description": "Masdar (Verbalsubstantiv) der Grundform von Wurzel ا-ك-ل. Das Muster des Masdar der Form I ist nicht vorhersagbar und muss für jedes Verb gelernt werden (فَعْل, فِعْل, فُعُول u.a.).",
       "morphology": "VN|M|GEN",
-      "pos": "N"
+      "pos": "N",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=161"
     },
     {
       "id": "pr026",
@@ -348,7 +385,8 @@
       "patternName": "Perfekt Form IV",
       "description": "Perfekt der Form IV von Wurzel ا-ت-ي. Muster أَفْعَلَ — Hamza-Präfix als Kausativzeichen. Sukun auf dem ersten Radikal.",
       "morphology": "PERF|(IV)|3MS",
-      "pos": "V"
+      "pos": "V",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=19&verse=30"
     },
     {
       "id": "pr027",
@@ -361,7 +399,8 @@
       "patternName": "Verbalsubstantiv Form I",
       "description": "Masdar (Verbalsubstantiv) der Grundform von Wurzel ا-خ-ذ. Das Muster des Masdar der Form I ist nicht vorhersagbar und muss für jedes Verb gelernt werden (فَعْل, فِعْل, فُعُول u.a.).",
       "morphology": "VN|M|NOM",
-      "pos": "N"
+      "pos": "N",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=11&verse=102"
     },
     {
       "id": "pr028",
@@ -374,7 +413,8 @@
       "patternName": "Passivpartizip Form II",
       "description": "Muster مُفَعَّل — Passives Partizip Form II. Fatha statt Kasra auf dem vorletzten Radikal unterscheidet es vom Aktivpartizip. Von Wurzel ب-ر-ا.",
       "morphology": "PASS|PCPL|(II)|MP|NOM",
-      "pos": "N"
+      "pos": "N",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=24&verse=26"
     },
     {
       "id": "pr029",
@@ -387,7 +427,8 @@
       "patternName": "Passivform",
       "description": "Passiv von Wurzel ا-م-ر. Im Imperfekt: Damma auf dem Präfix, Fatha auf dem vorletzten Radikal.",
       "morphology": "IMPF|PASS|2MS",
-      "pos": "V"
+      "pos": "V",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=15&verse=94"
     },
     {
       "id": "pr030",
@@ -400,7 +441,8 @@
       "patternName": "Masdar Form II",
       "description": "Muster تَفْعِيل — Masdar der Form II von Wurzel ك-ذ-ب. Regelhaft gebildet durch Präfix تَ- und Suffix -ِيل.",
       "morphology": "VN|(II)|M|INDEF|GEN",
-      "pos": "N"
+      "pos": "N",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=85&verse=19"
     },
     {
       "id": "pr031",
@@ -413,7 +455,8 @@
       "patternName": "Passivpartizip Form II",
       "description": "Muster مُفَعَّل — Passives Partizip Form II. Fatha statt Kasra auf dem vorletzten Radikal unterscheidet es vom Aktivpartizip. Von Wurzel ع-ل-ق.",
       "morphology": "PASS|PCPL|(II)|F|GEN",
-      "pos": "N"
+      "pos": "N",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=129"
     },
     {
       "id": "pr032",
@@ -426,7 +469,8 @@
       "patternName": "Imperfekt Form I",
       "description": "Imperfekt der Grundform von Wurzel غ-ر-ر. 3. Person feminin Singular. Das Personenpraefix zeigt Person und Numerus an, der Stammvokal variiert je nach Verb. Jussiv: Endung Sukun (Apocopatus).",
       "morphology": "IMPF|3FS|MOOD:JUS",
-      "pos": "V"
+      "pos": "V",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=31&verse=33"
     },
     {
       "id": "pr033",
@@ -439,7 +483,8 @@
       "patternName": "Masdar Form III",
       "description": "Masdar der Form III von Wurzel ح-س-ب. Zwei häufige Muster: مُفَاعَلَة oder فِعَال.",
       "morphology": "VN|(III)|M|NOM",
-      "pos": "N"
+      "pos": "N",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=21&verse=1"
     },
     {
       "id": "pr034",
@@ -452,7 +497,8 @@
       "patternName": "Aktivpartizip Form VIII",
       "description": "Muster مُفْتَعِل — Aktives Partizip Form VIII. Einschub von ت nach dem ersten Radikal ist typisch für Form VIII. Von Wurzel خ-ل-ف.",
       "morphology": "ACT|PCPL|(VIII)|MP|ACC",
-      "pos": "N"
+      "pos": "N",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=11&verse=118"
     },
     {
       "id": "pr035",
@@ -465,7 +511,8 @@
       "patternName": "Aktivpartizip Form II",
       "description": "Muster مُفَعِّل — Aktives Partizip Form II. Präfix مُ- und Verdopplung des zweiten Radikals kennzeichnen Form II. Von Wurzel ع-ذ-ب.",
       "morphology": "ACT|PCPL|(II)|MP|NOM",
-      "pos": "N"
+      "pos": "N",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=17&verse=58"
     },
     {
       "id": "pr036",
@@ -478,7 +525,8 @@
       "patternName": "Masdar Form III",
       "description": "Masdar der Form III von Wurzel و-ف-ق. Zwei häufige Muster: مُفَاعَلَة oder فِعَال.",
       "morphology": "VN|(III)|M|INDEF|ACC",
-      "pos": "N"
+      "pos": "N",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=78&verse=26"
     },
     {
       "id": "pr037",
@@ -491,7 +539,8 @@
       "patternName": "Perfekt Form II (Passiv)",
       "description": "Perfekt der Form II im Passiv von Wurzel ش-ب-ه. Muster فُعِّلَ — Damma auf dem ersten, Kasra unter dem verdoppelten zweiten Radikal kennzeichnet das Passiv der Form II.",
       "morphology": "PERF|PASS|(II)|3MS",
-      "pos": "V"
+      "pos": "V",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=157"
     },
     {
       "id": "pr038",
@@ -504,7 +553,8 @@
       "patternName": "Passivpartizip Form IV",
       "description": "Muster مُفْعَل — Passives Partizip Form IV. Wie Aktivpartizip, aber Fatha statt Kasra auf dem zweiten Radikal. Von Wurzel ن-ز-ل.",
       "morphology": "PASS|PCPL|(IV)|MP|ACC",
-      "pos": "N"
+      "pos": "N",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=124"
     },
     {
       "id": "pr039",
@@ -517,7 +567,8 @@
       "patternName": "Aktivpartizip Form III",
       "description": "Muster مُفَاعِل — Aktives Partizip Form III. Alif zwischen erstem und zweitem Radikal ist typisch für Form III. Von Wurzel ه-ج-ر.",
       "morphology": "ACT|PCPL|(III)|M|INDEF|ACC",
-      "pos": "N"
+      "pos": "N",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=100"
     },
     {
       "id": "pr040",
@@ -530,7 +581,8 @@
       "patternName": "Perfekt Form II",
       "description": "Perfekt der Form II von Wurzel ك-ذ-ب. Muster فَعَّلَ — Verdopplung (Schadda) des mittleren Radikals. Bedeutung: Intensivierung, Kausativ oder Denominativ.",
       "morphology": "PERF|(II)|2MS",
-      "pos": "V"
+      "pos": "V",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=39&verse=59"
     },
     {
       "id": "pr041",
@@ -543,7 +595,8 @@
       "patternName": "Perfekt Form I",
       "description": "Perfekt der Grundform (Form I) von Wurzel ن-ف-ر. Muster فَعَلَ — die einfachste Verbform, Basis aller Ableitungen.",
       "morphology": "PERF|3MS",
-      "pos": "V"
+      "pos": "V",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=9&verse=122"
     },
     {
       "id": "pr042",
@@ -556,7 +609,8 @@
       "patternName": "Aktivpartizip Form IV",
       "description": "Muster مُفْعِل — Aktives Partizip Form IV. Präfix مُ- mit Sukun auf dem ersten Radikal kennzeichnet Form IV. Von Wurzel ش-ر-ك.",
       "morphology": "ACT|PCPL|(IV)|FP|ACC",
-      "pos": "N"
+      "pos": "N",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=221"
     },
     {
       "id": "pr043",
@@ -569,7 +623,8 @@
       "patternName": "Aktivpartizip Form I",
       "description": "Muster فَاعِل — Aktives Partizip der Grundform. Beschreibt den Handelnden oder einen Zustand. Von Wurzel د-ا-ب.",
       "morphology": "ACT|PCPL|MD|NOM",
-      "pos": "N"
+      "pos": "N",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=14&verse=33"
     },
     {
       "id": "pr044",
@@ -582,7 +637,8 @@
       "patternName": "Aktivpartizip Form I",
       "description": "Muster فَاعِل — Aktives Partizip der Grundform. Beschreibt den Handelnden oder einen Zustand. Von Wurzel ر-ب-و.",
       "morphology": "ACT|PCPL|M|INDEF|ACC",
-      "pos": "N"
+      "pos": "N",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=13&verse=17"
     },
     {
       "id": "pr045",
@@ -595,7 +651,8 @@
       "patternName": "Aktivpartizip Form X",
       "description": "Muster مُسْتَفْعِل — Aktives Partizip Form X. Präfix مُسْتَ- kennzeichnet die Verlangen/Erachten-Form. Von Wurzel ه-ز-ا.",
       "morphology": "ACT|PCPL|(X)|MP|ACC",
-      "pos": "N"
+      "pos": "N",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=15&verse=95"
     },
     {
       "id": "pr046",
@@ -608,7 +665,8 @@
       "patternName": "Passivform",
       "description": "Passiv der Form IV von Wurzel ح-ص-ر. Im Perfekt: Damma auf dem ersten, Kasra auf dem vorletzten Radikal (innerer Vokalwechsel).",
       "morphology": "PERF|PASS|(IV)|3MP",
-      "pos": "V"
+      "pos": "V",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=273"
     },
     {
       "id": "pr047",
@@ -621,7 +679,8 @@
       "patternName": "Aktivpartizip Form IV",
       "description": "Muster مُفْعِل — Aktives Partizip Form IV. Präfix مُ- mit Sukun auf dem ersten Radikal kennzeichnet Form IV. Von Wurzel ا-م-ن.",
       "morphology": "ACT|PCPL|(IV)|FP|INDEF|ACC",
-      "pos": "N"
+      "pos": "N",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=66&verse=5"
     },
     {
       "id": "pr048",
@@ -634,7 +693,8 @@
       "patternName": "Perfekt Form IV",
       "description": "Perfekt der Form IV von Wurzel و-ج-س. Muster أَفْعَلَ — Hamza-Präfix als Kausativzeichen. Sukun auf dem ersten Radikal.",
       "morphology": "PERF|(IV)|3MS",
-      "pos": "V"
+      "pos": "V",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=20&verse=67"
     },
     {
       "id": "pr049",
@@ -647,7 +707,8 @@
       "patternName": "Passivpartizip Form IV",
       "description": "Muster مُفْعَل — Passives Partizip Form IV. Wie Aktivpartizip, aber Fatha statt Kasra auf dem zweiten Radikal. Von Wurzel خ-ر-ج.",
       "morphology": "PASS|PCPL|(IV)|MP|GEN",
-      "pos": "N"
+      "pos": "N",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=15&verse=48"
     },
     {
       "id": "pr050",
@@ -660,7 +721,8 @@
       "patternName": "Passivpartizip Form II",
       "description": "Muster مُفَعَّل — Passives Partizip Form II. Fatha statt Kasra auf dem vorletzten Radikal unterscheidet es vom Aktivpartizip. Von Wurzel ع-م-ر.",
       "morphology": "PASS|PCPL|(II)|M|INDEF|GEN",
-      "pos": "N"
+      "pos": "N",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=35&verse=11"
     },
     {
       "id": "pr051",
@@ -673,7 +735,8 @@
       "patternName": "Aktivpartizip Form I",
       "description": "Muster فَاعِل — Aktives Partizip der Grundform. Beschreibt den Handelnden oder einen Zustand. Von Wurzel ل-ق-ي.",
       "morphology": "ACT|PCPL|(III)|M|NOM",
-      "pos": "N"
+      "pos": "N",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=28&verse=61"
     },
     {
       "id": "pr052",
@@ -686,7 +749,8 @@
       "patternName": "Passivpartizip Form I",
       "description": "Muster مَفْعُول — Passives Partizip der Grundform. Beschreibt das von der Handlung Betroffene. Von Wurzel ك-ن-ن.",
       "morphology": "PASS|PCPL|M|INDEF|GEN",
-      "pos": "N"
+      "pos": "N",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=56&verse=78"
     },
     {
       "id": "pr053",
@@ -699,7 +763,8 @@
       "patternName": "Passivpartizip Form II",
       "description": "Muster مُفَعَّل — Passives Partizip Form II. Fatha statt Kasra auf dem vorletzten Radikal unterscheidet es vom Aktivpartizip. Von Wurzel ط-ه-ر.",
       "morphology": "PASS|PCPL|(II)|FP|INDEF|GEN",
-      "pos": "N"
+      "pos": "N",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=80&verse=14"
     },
     {
       "id": "pr054",
@@ -712,7 +777,8 @@
       "patternName": "Aktivpartizip Form X",
       "description": "Muster مُسْتَفْعِل — Aktives Partizip Form X. Präfix مُسْتَ- kennzeichnet die Verlangen/Erachten-Form. Von Wurzel ك-ب-ر.",
       "morphology": "ACT|PCPL|(X)|M|INDEF|ACC",
-      "pos": "N"
+      "pos": "N",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=31&verse=7"
     },
     {
       "id": "pr055",
@@ -725,7 +791,8 @@
       "patternName": "Passivpartizip Form I",
       "description": "Muster مَفْعُول — Passives Partizip der Grundform. Beschreibt das von der Handlung Betroffene. Von Wurzel ن-ض-د.",
       "morphology": "PASS|PCPL|M|INDEF|GEN",
-      "pos": "N"
+      "pos": "N",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=11&verse=82"
     },
     {
       "id": "pr056",
@@ -738,7 +805,8 @@
       "patternName": "Imperfekt Form I",
       "description": "Imperfekt der Grundform von Wurzel ك-ت-م. 2. Person maskulin Plural. Das Personenpraefix zeigt Person und Numerus an, der Stammvokal variiert je nach Verb.",
       "morphology": "IMPF|2MP",
-      "pos": "V"
+      "pos": "V",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=33"
     },
     {
       "id": "pr057",
@@ -751,7 +819,8 @@
       "patternName": "Aktivpartizip Form II",
       "description": "Muster مُفَعِّل — Aktives Partizip Form II. Präfix مُ- und Verdopplung des zweiten Radikals kennzeichnen Form II. Von Wurzel ب-ش-ر.",
       "morphology": "ACT|PCPL|(II)|M|INDEF|ACC",
-      "pos": "N"
+      "pos": "N",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=17&verse=105"
     },
     {
       "id": "pr058",
@@ -764,7 +833,8 @@
       "patternName": "Verbalsubstantiv Form I",
       "description": "Masdar (Verbalsubstantiv) der Grundform von Wurzel ق-و-ل. Das Muster des Masdar der Form I ist nicht vorhersagbar und muss für jedes Verb gelernt werden (فَعْل, فِعْل, فُعُول u.a.).",
       "morphology": "VN|M|INDEF|GEN",
-      "pos": "N"
+      "pos": "N",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=50&verse=18"
     },
     {
       "id": "pr059",
@@ -777,7 +847,8 @@
       "patternName": "Verbalsubstantiv Form I",
       "description": "Masdar (Verbalsubstantiv) der Grundform von Wurzel ق-و-ل. Das Muster des Masdar der Form I ist nicht vorhersagbar und muss für jedes Verb gelernt werden (فَعْل, فِعْل, فُعُول u.a.).",
       "morphology": "VN|M|ACC",
-      "pos": "N"
+      "pos": "N",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=181"
     },
     {
       "id": "pr060",
@@ -790,7 +861,8 @@
       "patternName": "Aktivpartizip Form V",
       "description": "Muster مُتَفَعِّل — Aktives Partizip Form V. Präfix مُتَ- und Verdopplung des zweiten Radikals. Reflexiv zu Form II. Von Wurzel ر-ب-ص.",
       "morphology": "ACT|PCPL|(V)|M|INDEF|NOM",
-      "pos": "N"
+      "pos": "N",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=20&verse=135"
     },
     {
       "id": "pr061",
@@ -803,7 +875,8 @@
       "patternName": "Aktivpartizip Form III",
       "description": "Muster مُفَاعِل — Aktives Partizip Form III. Alif zwischen erstem und zweitem Radikal ist typisch für Form III. Von Wurzel ل-ق-ي.",
       "morphology": "ACT|PCPL|(III)|MP|NOM",
-      "pos": "N"
+      "pos": "N",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=223"
     },
     {
       "id": "pr062",
@@ -816,7 +889,8 @@
       "patternName": "Perfekt Form II",
       "description": "Perfekt der Form II von Wurzel ع-ز-ر. Muster فَعَّلَ — Verdopplung (Schadda) des mittleren Radikals. Bedeutung: Intensivierung, Kausativ oder Denominativ.",
       "morphology": "PERF|(II)|3MP",
-      "pos": "V"
+      "pos": "V",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=7&verse=157"
     },
     {
       "id": "pr063",
@@ -829,7 +903,8 @@
       "patternName": "Masdar Form IV",
       "description": "Muster إِفْعَال — Masdar der Form IV von Wurzel ا-م-ن. Regelhaft mit Hamza-Präfix und langem Alif vor dem letzten Radikal.",
       "morphology": "VN|(IV)|M|NOM",
-      "pos": "N"
+      "pos": "N",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=10&verse=98"
     },
     {
       "id": "pr064",
@@ -842,7 +917,8 @@
       "patternName": "Masdar Form II",
       "description": "Muster تَفْعِيل — Masdar der Form II von Wurzel ا-و-ل. Regelhaft gebildet durch Präfix تَ- und Suffix -ِيل.",
       "morphology": "VN|(II)|M|GEN",
-      "pos": "N"
+      "pos": "N",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=12&verse=37"
     },
     {
       "id": "pr065",
@@ -855,7 +931,8 @@
       "patternName": "Aktivpartizip Form II",
       "description": "Muster مُفَعِّل — Aktives Partizip Form II. Präfix مُ- und Verdopplung des zweiten Radikals kennzeichnen Form II. Von Wurzel ط-ه-ر.",
       "morphology": "ACT|PCPL|(II)|M|NOM",
-      "pos": "N"
+      "pos": "N",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=55"
     },
     {
       "id": "pr066",
@@ -868,7 +945,8 @@
       "patternName": "Aktivpartizip Form III",
       "description": "Muster مُفَاعِل — Aktives Partizip Form III. Alif zwischen erstem und zweitem Radikal ist typisch für Form III. Von Wurzel ع-ج-ز.",
       "morphology": "ACT|PCPL|(III)|MP|ACC",
-      "pos": "N"
+      "pos": "N",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=22&verse=51"
     },
     {
       "id": "pr067",
@@ -881,7 +959,8 @@
       "patternName": "Passivpartizip Form IV",
       "description": "Muster مُفْعَل — Passives Partizip Form IV. Wie Aktivpartizip, aber Fatha statt Kasra auf dem zweiten Radikal. Von Wurzel ر-س-ل.",
       "morphology": "PASS|PCPL|(IV)|MP|NOM",
-      "pos": "N"
+      "pos": "N",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=36&verse=16"
     },
     {
       "id": "pr068",
@@ -894,7 +973,8 @@
       "patternName": "Perfekt Form IV",
       "description": "Perfekt der Form IV von Wurzel ر-و-د. Muster أَفْعَلَ — Hamza-Präfix als Kausativzeichen. Sukun auf dem ersten Radikal.",
       "morphology": "PERF|(IV)|2MP",
-      "pos": "V"
+      "pos": "V",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=20"
     },
     {
       "id": "pr069",
@@ -907,7 +987,8 @@
       "patternName": "Aktivpartizip Form II",
       "description": "Muster مُفَعِّل — Aktives Partizip Form II. Präfix مُ- und Verdopplung des zweiten Radikals kennzeichnen Form II. Von Wurzel ب-ذ-ر.",
       "morphology": "ACT|PCPL|(II)|MP|ACC",
-      "pos": "N"
+      "pos": "N",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=17&verse=27"
     },
     {
       "id": "pr070",
@@ -920,7 +1001,8 @@
       "patternName": "Passivpartizip Form I",
       "description": "Muster مَفْعُول — Passives Partizip der Grundform. Beschreibt das von der Handlung Betroffene. Von Wurzel و-ف-ر.",
       "morphology": "PASS|PCPL|M|INDEF|ACC",
-      "pos": "N"
+      "pos": "N",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=17&verse=63"
     },
     {
       "id": "pr071",
@@ -933,7 +1015,8 @@
       "patternName": "Perfekt Form I",
       "description": "Perfekt der Grundform (Form I) von Wurzel ف-و-ر. Muster فَعَلَ — die einfachste Verbform, Basis aller Ableitungen.",
       "morphology": "PERF|3MS",
-      "pos": "V"
+      "pos": "V",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=11&verse=40"
     },
     {
       "id": "pr072",
@@ -946,7 +1029,8 @@
       "patternName": "Passivpartizip Form II",
       "description": "Muster مُفَعَّل — Passives Partizip Form II. Fatha statt Kasra auf dem vorletzten Radikal unterscheidet es vom Aktivpartizip. Von Wurzel س-خ-ر.",
       "morphology": "PASS|PCPL|(II)|FP|INDEF|NOM",
-      "pos": "N"
+      "pos": "N",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=16&verse=12"
     },
     {
       "id": "pr073",
@@ -959,7 +1043,8 @@
       "patternName": "Aktivpartizip Form V",
       "description": "Muster مُتَفَعِّل — Aktives Partizip Form V. Präfix مُتَ- und Verdopplung des zweiten Radikals. Reflexiv zu Form II. Von Wurzel ح-و-ز.",
       "morphology": "ACT|PCPL|(V)|M|INDEF|ACC",
-      "pos": "N"
+      "pos": "N",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=8&verse=16"
     },
     {
       "id": "pr074",
@@ -972,7 +1057,8 @@
       "patternName": "Aktivpartizip Form IV",
       "description": "Muster مُفْعِل — Aktives Partizip Form IV. Präfix مُ- mit Sukun auf dem ersten Radikal kennzeichnet Form IV. Von Wurzel ص-و-ب.",
       "morphology": "ACT|PCPL|(IV)|F|INDEF|NOM",
-      "pos": "N"
+      "pos": "N",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=9&verse=50"
     },
     {
       "id": "pr075",
@@ -985,7 +1071,8 @@
       "patternName": "Passivpartizip Form IV",
       "description": "Muster مُفْعَل — Passives Partizip Form IV. Wie Aktivpartizip, aber Fatha statt Kasra auf dem zweiten Radikal. Von Wurzel خ-ر-ج.",
       "morphology": "PASS|PCPL|(IV)|MP|GEN",
-      "pos": "N"
+      "pos": "N",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=26&verse=167"
     },
     {
       "id": "pr076",
@@ -998,7 +1085,8 @@
       "patternName": "Passivpartizip Form IV",
       "description": "Muster مُفْعَل — Passives Partizip Form IV. Wie Aktivpartizip, aber Fatha statt Kasra auf dem zweiten Radikal. Von Wurzel غ-ر-م.",
       "morphology": "PASS|PCPL|(IV)|MP|NOM",
-      "pos": "N"
+      "pos": "N",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=56&verse=66"
     },
     {
       "id": "pr077",
@@ -1011,7 +1099,8 @@
       "patternName": "Masdar Form IV",
       "description": "Muster إِفْعَال — Masdar der Form IV von Wurzel ا-م-ن. Regelhaft mit Hamza-Präfix und langem Alif vor dem letzten Radikal.",
       "morphology": "VN|(IV)|M|NOM",
-      "pos": "N"
+      "pos": "N",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=42&verse=52"
     },
     {
       "id": "pr078",
@@ -1024,7 +1113,8 @@
       "patternName": "Perfekt Form IV",
       "description": "Perfekt der Form IV von Wurzel خ-ل-ص. Muster أَفْعَلَ — Hamza-Präfix als Kausativzeichen. Sukun auf dem ersten Radikal.",
       "morphology": "PERF|(IV)|1P",
-      "pos": "V"
+      "pos": "V",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=38&verse=46"
     },
     {
       "id": "pr079",
@@ -1037,7 +1127,8 @@
       "patternName": "Passivform",
       "description": "Passiv der Form VIII von Wurzel ض-ر-ر. Im Perfekt: Damma auf dem ersten, Kasra auf dem vorletzten Radikal (innerer Vokalwechsel).",
       "morphology": "PERF|PASS|(VIII)|3MS",
-      "pos": "V"
+      "pos": "V",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=173"
     },
     {
       "id": "pr080",
@@ -1050,7 +1141,8 @@
       "patternName": "Aktivpartizip Form VIII",
       "description": "Muster مُفْتَعِل — Aktives Partizip Form VIII. Einschub von ت nach dem ersten Radikal ist typisch für Form VIII. Von Wurzel ق-س-م.",
       "morphology": "ACT|PCPL|(VIII)|MP|GEN",
-      "pos": "N"
+      "pos": "N",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=15&verse=90"
     },
     {
       "id": "pr081",
@@ -1063,7 +1155,8 @@
       "patternName": "Passivform",
       "description": "Passiv der Form IV von Wurzel ع-ط-و. Im Perfekt: Damma auf dem ersten, Kasra auf dem vorletzten Radikal (innerer Vokalwechsel).",
       "morphology": "PERF|PASS|(IV)|3MP",
-      "pos": "V"
+      "pos": "V",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=9&verse=58"
     },
     {
       "id": "pr082",
@@ -1076,7 +1169,8 @@
       "patternName": "Perfekt Form I",
       "description": "Perfekt der Grundform (Form I) von Wurzel ر-ا-ي. Muster فَعَلَ — die einfachste Verbform, Basis aller Ableitungen.",
       "morphology": "PERF|3MS",
-      "pos": "V"
+      "pos": "V",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=53&verse=18"
     },
     {
       "id": "pr083",
@@ -1089,7 +1183,8 @@
       "patternName": "Masdar Form III",
       "description": "Masdar der Form III von Wurzel ل-ق-ي. Zwei häufige Muster: مُفَاعَلَة oder فِعَال.",
       "morphology": "VN|(III)|M|GEN",
-      "pos": "N"
+      "pos": "N",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=30&verse=8"
     },
     {
       "id": "pr084",
@@ -1102,7 +1197,8 @@
       "patternName": "Masdar Form III",
       "description": "Masdar der Form III von Wurzel ل-ق-ي. Zwei häufige Muster: مُفَاعَلَة oder فِعَال.",
       "morphology": "VN|(III)|M|GEN",
-      "pos": "N"
+      "pos": "N",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=32&verse=23"
     },
     {
       "id": "pr085",
@@ -1115,7 +1211,8 @@
       "patternName": "Aktivpartizip Form I",
       "description": "Muster فَاعِل — Aktives Partizip der Grundform. Beschreibt den Handelnden oder einen Zustand. Von Wurzel ا-م-ن.",
       "morphology": "ACT|PCPL|MP|GEN",
-      "pos": "N"
+      "pos": "N",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=28&verse=31"
     },
     {
       "id": "pr086",
@@ -1128,7 +1225,8 @@
       "patternName": "Aktivpartizip Form III",
       "description": "Muster مُفَاعِل — Aktives Partizip Form III. Alif zwischen erstem und zweitem Radikal ist typisch für Form III. Von Wurzel س-ف-ح.",
       "morphology": "ACT|PCPL|(III)|MP|GEN",
-      "pos": "N"
+      "pos": "N",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=24"
     },
     {
       "id": "pr087",
@@ -1141,7 +1239,8 @@
       "patternName": "Aktivpartizip Form IV",
       "description": "Muster مُفْعِل — Aktives Partizip Form IV. Präfix مُ- mit Sukun auf dem ersten Radikal kennzeichnet Form IV. Von Wurzel ن-ك-ر.",
       "morphology": "ACT|PCPL|(IV)|F|INDEF|NOM",
-      "pos": "N"
+      "pos": "N",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=16&verse=22"
     },
     {
       "id": "pr088",
@@ -1154,7 +1253,8 @@
       "patternName": "Aktivpartizip Form V",
       "description": "Muster مُتَفَعِّل — Aktives Partizip Form V. Präfix مُتَ- und Verdopplung des zweiten Radikals. Reflexiv zu Form II. Von Wurzel ك-ب-ر.",
       "morphology": "ACT|PCPL|(V)|MP|GEN",
-      "pos": "N"
+      "pos": "N",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=16&verse=29"
     },
     {
       "id": "pr089",
@@ -1167,7 +1267,8 @@
       "patternName": "Aktivpartizip Form VIII",
       "description": "Muster مُفْتَعِل — Aktives Partizip Form VIII. Einschub von ت nach dem ersten Radikal ist typisch für Form VIII. Von Wurzel ذ-ك-ر.",
       "morphology": "ACT|PCPL|(VIII)|M|INDEF|GEN",
-      "pos": "N"
+      "pos": "N",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=54&verse=15"
     },
     {
       "id": "pr090",
@@ -1180,7 +1281,8 @@
       "patternName": "Perfekt Form II",
       "description": "Perfekt der Form II von Wurzel و-ل-ي. Muster فَعَّلَ — Verdopplung (Schadda) des mittleren Radikals. Bedeutung: Intensivierung, Kausativ oder Denominativ.",
       "morphology": "PERF|(II)|3MP",
-      "pos": "V"
+      "pos": "V",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=17&verse=46"
     },
     {
       "id": "pr091",
@@ -1193,7 +1295,8 @@
       "patternName": "Masdar Form II",
       "description": "Muster تَفْعِيل — Masdar der Form II von Wurzel س-ب-ح. Regelhaft gebildet durch Präfix تَ- und Suffix -ِيل.",
       "morphology": "VN|(II)|M|ACC",
-      "pos": "N"
+      "pos": "N",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=24&verse=41"
     },
     {
       "id": "pr092",
@@ -1206,7 +1309,8 @@
       "patternName": "Aktivpartizip Form VIII",
       "description": "Muster مُفْتَعِل — Aktives Partizip Form VIII. Einschub von ت nach dem ersten Radikal ist typisch für Form VIII. Von Wurzel ف-ر-ي.",
       "morphology": "ACT|PCPL|(VIII)|MP|ACC",
-      "pos": "N"
+      "pos": "N",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=7&verse=152"
     },
     {
       "id": "pr093",
@@ -1219,7 +1323,8 @@
       "patternName": "Masdar Form II",
       "description": "Muster تَفْعِيل — Masdar der Form II von Wurzel ح-ر-ر. Regelhaft gebildet durch Präfix تَ- und Suffix -ِيل.",
       "morphology": "VN|(II)|M|NOM",
-      "pos": "N"
+      "pos": "N",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=5&verse=89"
     },
     {
       "id": "pr094",
@@ -1232,7 +1337,8 @@
       "patternName": "Masdar Form II",
       "description": "Muster تَفْعِيل — Masdar der Form II von Wurzel ث-ر-ب. Regelhaft gebildet durch Präfix تَ- und Suffix -ِيل.",
       "morphology": "VN|(II)|M|ACC",
-      "pos": "N"
+      "pos": "N",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=12&verse=92"
     },
     {
       "id": "pr095",
@@ -1245,7 +1351,8 @@
       "patternName": "Masdar Form IV",
       "description": "Muster إِفْعَال — Masdar der Form IV von Wurzel ن-ف-ق. Regelhaft mit Hamza-Präfix und langem Alif vor dem letzten Radikal.",
       "morphology": "VN|(IV)|M|GEN",
-      "pos": "N"
+      "pos": "N",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=17&verse=100"
     }
   ]
 }

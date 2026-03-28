@@ -5,7 +5,7 @@
     "sources": [
       {
         "name": "Wright's Arabic Grammar (3rd ed.)",
-        "url": "https://archive.org/details/grammarofarabicl01telerich"
+        "url": "https://archive.org/details/WrightsArabicGrammar1Of2"
       },
       {
         "name": "Quranic Arabic Corpus",
@@ -46,17 +46,20 @@
               {
                 "ref": "91:1",
                 "arabic": "وَالشَّمْسِ وَضُحَاهَا",
-                "explanation": "وَ + الشَّمْسِ — Waw al-Qasam vor 'die Sonne'. Das Schwurobjekt steht im Genitiv (Kasra auf der Ta-Marbuta von ضُحَاهَا ist hier durch das Pronominalsuffix verdeckt). Erster Schwur einer langen Kette."
+                "explanation": "وَ + الشَّمْسِ — Waw al-Qasam vor 'die Sonne'. Das Schwurobjekt steht im Genitiv (Kasra auf der Ta-Marbuta von ضُحَاهَا ist hier durch das Pronominalsuffix verdeckt). Erster Schwur einer langen Kette.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=91&verse=1"
               },
               {
                 "ref": "12:91",
                 "arabic": "قَالُوا تَاللَّهِ لَقَدْ آثَرَكَ اللَّهُ عَلَيْنَا",
-                "explanation": "تَاللَّهِ — Ta al-Qasam. Direkte Rede: 'Bei Gott, Gott hat dich über uns bevorzugt.' Die Schwurantwort folgt sofort mit لَقَدْ (Kombination aus Schwur-Lam und Verifikationspartikel قَدْ)."
+                "explanation": "تَاللَّهِ — Ta al-Qasam. Direkte Rede: 'Bei Gott, Gott hat dich über uns bevorzugt.' Die Schwurantwort folgt sofort mit لَقَدْ (Kombination aus Schwur-Lam und Verifikationspartikel قَدْ).",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=12&verse=91"
               },
               {
                 "ref": "12:73",
                 "arabic": "قَالُوا تَاللَّهِ لَقَدْ عَلِمْتُم مَّا جِئْنَا لِنُفْسِدَ فِي الْأَرْضِ وَمَا كُنَّا سَارِقِينَ",
-                "explanation": "تَاللَّهِ لَقَدْ عَلِمْتُم — Wieder Ta al-Qasam in direkter Rede mit لَقَدْ als Jawab-Marker. 'Bei Gott, ihr wisst doch, dass wir nicht gekommen sind, um Unheil zu stiften.'"
+                "explanation": "تَاللَّهِ لَقَدْ عَلِمْتُم — Wieder Ta al-Qasam in direkter Rede mit لَقَدْ als Jawab-Marker. 'Bei Gott, ihr wisst doch, dass wir nicht gekommen sind, um Unheil zu stiften.'",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=12&verse=73"
               },
               {
                 "ref": "56:75-76",
@@ -66,7 +69,8 @@
               {
                 "ref": "16:38",
                 "arabic": "وَأَقْسَمُوا بِاللَّهِ جَهْدَ أَيْمَانِهِمْ",
-                "explanation": "أَقْسَمُوا بِاللَّهِ — Explizites Schwurverb mit بِ + اللَّه. جَهْدَ أَيْمَانِهِمْ ('mit der ganzen Kraft ihrer Eide') ist ein Mafʿul-mutlaq-artiger Akkusativ, der die Intensität des Schwurs betont."
+                "explanation": "أَقْسَمُوا بِاللَّهِ — Explizites Schwurverb mit بِ + اللَّه. جَهْدَ أَيْمَانِهِمْ ('mit der ganzen Kraft ihrer Eide') ist ein Mafʿul-mutlaq-artiger Akkusativ, der die Intensität des Schwurs betont.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=16&verse=38"
               }
             ]
           }
@@ -127,7 +131,8 @@
               {
                 "ref": "21:57",
                 "arabic": "وَتَاللَّهِ لَأَكِيدَنَّ أَصْنَامَكُم بَعْدَ أَن تُوَلُّوا مُدْبِرِينَ",
-                "explanation": "لَ + Energetikus (لَأَكِيدَنَّ) — Schwur-Lam mit Imperfekt und Nun at-Tawkid (نون التوكيد الثقيلة). 'Bei Gott, ich werde euren Götzen gewiss zusetzen.' Die Kombination لَ + Energetikus signalisiert eine nachdrückliche Zukunftsaussage."
+                "explanation": "لَ + Energetikus (لَأَكِيدَنَّ) — Schwur-Lam mit Imperfekt und Nun at-Tawkid (نون التوكيد الثقيلة). 'Bei Gott, ich werde euren Götzen gewiss zusetzen.' Die Kombination لَ + Energetikus signalisiert eine nachdrückliche Zukunftsaussage.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=21&verse=57"
               },
               {
                 "ref": "15:92-93",
@@ -188,7 +193,8 @@
               {
                 "ref": "38:1",
                 "arabic": "ص ۚ وَالْقُرْآنِ ذِي الذِّكْرِ",
-                "explanation": "وَالْقُرْآنِ ذِي الذِّكْرِ — Schwur beim Quran mit Attribut ('der die Erinnerung enthält'). Was danach folgt (بَلِ الَّذِينَ كَفَرُوا فِي عِزَّةٍ وَشِقَاقٍ), ist kein durch Standard-Marker eingeleiteter Jawab. بَلِ leitet einen Korrektivsatz ein — ob dieser als Jawab dient, ist syntaktisch nicht sicher bestimmbar."
+                "explanation": "وَالْقُرْآنِ ذِي الذِّكْرِ — Schwur beim Quran mit Attribut ('der die Erinnerung enthält'). Was danach folgt (بَلِ الَّذِينَ كَفَرُوا فِي عِزَّةٍ وَشِقَاقٍ), ist kein durch Standard-Marker eingeleiteter Jawab. بَلِ leitet einen Korrektivsatz ein — ob dieser als Jawab dient, ist syntaktisch nicht sicher bestimmbar.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=38&verse=1"
               }
             ]
           }
@@ -229,7 +235,8 @@
               {
                 "ref": "53:1",
                 "arabic": "وَالنَّجْمِ إِذَا هَوَىٰ",
-                "explanation": "Kosmisch: النَّجْم ('der Stern') mit temporaler Erweiterung إِذَا هَوَىٰ ('wenn er fällt/untergeht'). Genitiv erkennbar am Kasra auf dem Mim."
+                "explanation": "Kosmisch: النَّجْم ('der Stern') mit temporaler Erweiterung إِذَا هَوَىٰ ('wenn er fällt/untergeht'). Genitiv erkennbar am Kasra auf dem Mim.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=53&verse=1"
               },
               {
                 "ref": "92:1-3",
@@ -249,12 +256,14 @@
               {
                 "ref": "91:7",
                 "arabic": "وَنَفْسٍ وَمَا سَوَّاهَا",
-                "explanation": "Menschliche Eigenschaft: نَفْس ('Selbst') — indefinit im Genitiv (Tanwin Kasra: نَفْسٍ). Die Erweiterung وَمَا سَوَّاهَا ('und was sie geformt hat') ist ein Relativsatz."
+                "explanation": "Menschliche Eigenschaft: نَفْس ('Selbst') — indefinit im Genitiv (Tanwin Kasra: نَفْسٍ). Die Erweiterung وَمَا سَوَّاهَا ('und was sie geformt hat') ist ein Relativsatz.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=91&verse=7"
               },
               {
                 "ref": "68:1",
                 "arabic": "ن ۚ وَالْقَلَمِ وَمَا يَسْطُرُونَ",
-                "explanation": "Abstraktum/Instrument: الْقَلَم ('der Schreibstift') und وَمَا يَسْطُرُونَ ('und was sie niederschreiben'). Schwur bei Schrift und Schreibwerkzeug."
+                "explanation": "Abstraktum/Instrument: الْقَلَم ('der Schreibstift') und وَمَا يَسْطُرُونَ ('und was sie niederschreiben'). Schwur bei Schrift und Schreibwerkzeug.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=68&verse=1"
               }
             ]
           }

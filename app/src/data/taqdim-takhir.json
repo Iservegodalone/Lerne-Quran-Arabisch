@@ -6,7 +6,7 @@
     "sources": [
       {
         "name": "Wright's Arabic Grammar (3rd ed.)",
-        "url": "https://archive.org/details/grammarofarabicl01telerich"
+        "url": "https://archive.org/details/WrightsArabicGrammar1Of2"
       },
       {
         "name": "Quranic Arabic Corpus",
@@ -38,17 +38,20 @@
               {
                 "ref": "1:4",
                 "arabic": "مَالِكِ يَوْمِ الدِّينِ",
-                "explanation": "Nominale Apposition in Default-Stellung, kein Verbalsatz. Vergleichsbasis für spätere Umstellungen innerhalb derselben Sure."
+                "explanation": "Nominale Apposition in Default-Stellung, kein Verbalsatz. Vergleichsbasis für spätere Umstellungen innerhalb derselben Sure.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=4"
               },
               {
                 "ref": "2:7",
                 "arabic": "خَتَمَ اللَّهُ عَلَىٰ قُلُوبِهِمْ",
-                "explanation": "Default VSO: Verb (خَتَمَ) — Subjekt (اللَّهُ) — Präpositionalphrase (عَلَىٰ قُلُوبِهِمْ). Keine Voranstellung, keine strukturelle Markierung."
+                "explanation": "Default VSO: Verb (خَتَمَ) — Subjekt (اللَّهُ) — Präpositionalphrase (عَلَىٰ قُلُوبِهِمْ). Keine Voranstellung, keine strukturelle Markierung.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=7"
               },
               {
                 "ref": "2:21",
                 "arabic": "اعْبُدُوا رَبَّكُمُ الَّذِي خَلَقَكُمْ",
-                "explanation": "Imperativ + Objekt + Relativsatz. Die Default-Abfolge: Verb (اعْبُدُوا) vor Objekt (رَبَّكُمُ). Unmarkierte Stellung."
+                "explanation": "Imperativ + Objekt + Relativsatz. Die Default-Abfolge: Verb (اعْبُدُوا) vor Objekt (رَبَّكُمُ). Unmarkierte Stellung.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=21"
               }
             ]
           },
@@ -64,12 +67,14 @@
               {
                 "ref": "2:2",
                 "arabic": "ذَٰلِكَ الْكِتَابُ لَا رَيْبَ فِيهِ",
-                "explanation": "Mubtada (ذَٰلِكَ) — Khabar (الْكِتَابُ). Default-Abfolge: Demonstrativpronomen als Thema, dann die Prädikation."
+                "explanation": "Mubtada (ذَٰلِكَ) — Khabar (الْكِتَابُ). Default-Abfolge: Demonstrativpronomen als Thema, dann die Prädikation.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=2"
               },
               {
                 "ref": "2:5",
                 "arabic": "أُولَٰئِكَ عَلَىٰ هُدًى مِّن رَّبِّهِمْ",
-                "explanation": "Mubtada (أُولَٰئِكَ) — Khabar (عَلَىٰ هُدًى مِّن رَّبِّهِمْ). Default-Abfolge: Definites Demonstrativum, dann Präpositionalphrase als Prädikat."
+                "explanation": "Mubtada (أُولَٰئِكَ) — Khabar (عَلَىٰ هُدًى مِّن رَّبِّهِمْ). Default-Abfolge: Definites Demonstrativum, dann Präpositionalphrase als Prädikat.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=5"
               }
             ]
           }
@@ -111,42 +116,50 @@
               {
                 "ref": "1:2",
                 "arabic": "الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ",
-                "explanation": "Default-Abfolge: Mubtada (الْحَمْدُ) — Khabar (لِلَّهِ). Keine Voranstellung. Dies ist die Referenz für den Vergleich."
+                "explanation": "Default-Abfolge: Mubtada (الْحَمْدُ) — Khabar (لِلَّهِ). Keine Voranstellung. Dies ist die Referenz für den Vergleich.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=2"
               },
               {
                 "ref": "27:93",
                 "arabic": "وَقُلِ الْحَمْدُ لِلَّهِ",
-                "explanation": "Ebenfalls Default-Abfolge: Mubtada (الْحَمْدُ) — Khabar (لِلَّهِ), eingebettet in einen Imperativsatz."
+                "explanation": "Ebenfalls Default-Abfolge: Mubtada (الْحَمْدُ) — Khabar (لِلَّهِ), eingebettet in einen Imperativsatz.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=27&verse=93"
               },
               {
                 "ref": "10:10",
                 "arabic": "وَآخِرُ دَعْوَاهُمْ أَنِ الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ",
-                "explanation": "Wieder Default: الْحَمْدُ (Mubtada) vor لِلَّهِ (Khabar)."
+                "explanation": "Wieder Default: الْحَمْدُ (Mubtada) vor لِلَّهِ (Khabar).",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=10&verse=10"
               },
               {
                 "ref": "14:2",
                 "arabic": "اللَّهِ الَّذِي لَهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ",
-                "explanation": "Innerhalb des Relativsatzes: لَهُ (Khabar, vorangestellt) — مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ (Mubtada). Voranstellung des Khabar: Was in den Himmeln und auf der Erde ist, gehört ihm — und nur ihm."
+                "explanation": "Innerhalb des Relativsatzes: لَهُ (Khabar, vorangestellt) — مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ (Mubtada). Voranstellung des Khabar: Was in den Himmeln und auf der Erde ist, gehört ihm — und nur ihm.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=14&verse=2"
               },
               {
                 "ref": "2:115",
                 "arabic": "وَلِلَّهِ الْمَشْرِقُ وَالْمَغْرِبُ",
-                "explanation": "Khabar (لِلَّهِ) vor Mubtada (الْمَشْرِقُ وَالْمَغْرِبُ). Voranstellung: Hasr-Struktur. Osten und Westen gehören Gott."
+                "explanation": "Khabar (لِلَّهِ) vor Mubtada (الْمَشْرِقُ وَالْمَغْرِبُ). Voranstellung: Hasr-Struktur. Osten und Westen gehören Gott.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=115"
               },
               {
                 "ref": "3:109",
                 "arabic": "وَلِلَّهِ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ",
-                "explanation": "Khabar (لِلَّهِ) vor Mubtada (مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ). Dasselbe Muster wie 14:2: Voranstellung erzeugt Hasr-Struktur — alles in Himmeln und Erde gehört Gott."
+                "explanation": "Khabar (لِلَّهِ) vor Mubtada (مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ). Dasselbe Muster wie 14:2: Voranstellung erzeugt Hasr-Struktur — alles in Himmeln und Erde gehört Gott.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=109"
               },
               {
                 "ref": "42:49",
                 "arabic": "لِلَّهِ مُلْكُ السَّمَاوَاتِ وَالْأَرْضِ",
-                "explanation": "Khabar (لِلَّهِ) vor Mubtada (مُلْكُ السَّمَاوَاتِ وَالْأَرْضِ). Die Herrschaft über Himmel und Erde gehört Gott. Hasr-Struktur durch vorangestelltes Khabar."
+                "explanation": "Khabar (لِلَّهِ) vor Mubtada (مُلْكُ السَّمَاوَاتِ وَالْأَرْضِ). Die Herrschaft über Himmel und Erde gehört Gott. Hasr-Struktur durch vorangestelltes Khabar.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=42&verse=49"
               },
               {
                 "ref": "24:42",
                 "arabic": "وَلِلَّهِ مُلْكُ السَّمَاوَاتِ وَالْأَرْضِ",
-                "explanation": "Identisches Muster wie 42:49. Die wiederholte Voranstellung von لِلَّهِ vor مُلْكُ ist ein durchgängiges strukturelles Muster im Text."
+                "explanation": "Identisches Muster wie 42:49. Die wiederholte Voranstellung von لِلَّهِ vor مُلْكُ ist ein durchgängiges strukturelles Muster im Text.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=24&verse=42"
               },
               {
                 "ref": "88:25-26",
@@ -193,32 +206,38 @@
               {
                 "ref": "1:5",
                 "arabic": "إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ",
-                "explanation": "Zweimal vorangestelltes Objekt (إِيَّاكَ) vor dem Verb (نَعْبُدُ / نَسْتَعِينُ). Default wäre نَعْبُدُكَ وَنَسْتَعِينُكَ. Die Voranstellung (Taqdīm) fokussiert auf das Objekt."
+                "explanation": "Zweimal vorangestelltes Objekt (إِيَّاكَ) vor dem Verb (نَعْبُدُ / نَسْتَعِينُ). Default wäre نَعْبُدُكَ وَنَسْتَعِينُكَ. Die Voranstellung (Taqdīm) fokussiert auf das Objekt.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=5"
               },
               {
                 "ref": "36:12",
                 "arabic": "وَكُلَّ شَيْءٍ أَحْصَيْنَاهُ فِي إِمَامٍ مُّبِينٍ",
-                "explanation": "Maf'ul (كُلَّ شَيْءٍ) vor Verb (أَحْصَيْنَاهُ). Default wäre أَحْصَيْنَا كُلَّ شَيْءٍ. Beachte: Das Objekt steht vorangestellt UND wird durch das suffigierte Pronomen ـهُ am Verb wieder aufgenommen. Dieses Muster (Voranstellung + resumptives Pronomen) ist typisch für fokussierte Objekte."
+                "explanation": "Maf'ul (كُلَّ شَيْءٍ) vor Verb (أَحْصَيْنَاهُ). Default wäre أَحْصَيْنَا كُلَّ شَيْءٍ. Beachte: Das Objekt steht vorangestellt UND wird durch das suffigierte Pronomen ـهُ am Verb wieder aufgenommen. Dieses Muster (Voranstellung + resumptives Pronomen) ist typisch für fokussierte Objekte.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=36&verse=12"
               },
               {
                 "ref": "17:23",
                 "arabic": "وَقَضَىٰ رَبُّكَ أَلَّا تَعْبُدُوا إِلَّا إِيَّاهُ",
-                "explanation": "إِلَّا إِيَّاهُ — das getrennte Objekt-Pronomen in einer Ausnahmekonstruktion. Die Restriktion wird hier doppelt markiert: durch إِلَّا (Ausnahme) und durch die getrennte Pronomenform إِيَّاهُ."
+                "explanation": "إِلَّا إِيَّاهُ — das getrennte Objekt-Pronomen in einer Ausnahmekonstruktion. Die Restriktion wird hier doppelt markiert: durch إِلَّا (Ausnahme) und durch die getrennte Pronomenform إِيَّاهُ.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=17&verse=23"
               },
               {
                 "ref": "26:22",
                 "arabic": "وَتِلْكَ نِعْمَةٌ تَمُنُّهَا عَلَيَّ أَنْ عَبَّدتَّ بَنِي إِسْرَائِيلَ",
-                "explanation": "Vergleichsfall: أَنْ عَبَّدتَّ بَنِي إِسْرَائِيلَ — Default-Abfolge (Verb vor Objekt). Kein Taqdim, keine Restriktion. Kontrastiert mit إِيَّاكَ نَعْبُدُ."
+                "explanation": "Vergleichsfall: أَنْ عَبَّدتَّ بَنِي إِسْرَائِيلَ — Default-Abfolge (Verb vor Objekt). Kein Taqdim, keine Restriktion. Kontrastiert mit إِيَّاكَ نَعْبُدُ.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=26&verse=22"
               },
               {
                 "ref": "109:2",
                 "arabic": "لَا أَعْبُدُ مَا تَعْبُدُونَ",
-                "explanation": "Default-Abfolge: Negation + Verb (أَعْبُدُ) + Objekt (مَا تَعْبُدُونَ). Keine Voranstellung. Dies ist die neutrale Negation ohne Restriktionseffekt."
+                "explanation": "Default-Abfolge: Negation + Verb (أَعْبُدُ) + Objekt (مَا تَعْبُدُونَ). Keine Voranstellung. Dies ist die neutrale Negation ohne Restriktionseffekt.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=109&verse=2"
               },
               {
                 "ref": "6:162",
                 "arabic": "قُلْ إِنَّ صَلَاتِي وَنُسُكِي وَمَحْيَايَ وَمَمَاتِي لِلَّهِ رَبِّ الْعَالَمِينَ",
-                "explanation": "Das Ism von إِنَّ (صَلَاتِي وَنُسُكِي ...) steht in Default-Position. Khabar (لِلَّهِ) steht nach dem Ism — aber die Aufzählung von vier Elementen vor dem Khabar erzeugt einen Spannungsbogen."
+                "explanation": "Das Ism von إِنَّ (صَلَاتِي وَنُسُكِي ...) steht in Default-Position. Khabar (لِلَّهِ) steht nach dem Ism — aber die Aufzählung von vier Elementen vor dem Khabar erzeugt einen Spannungsbogen.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=6&verse=162"
               }
             ]
           }
@@ -260,12 +279,14 @@
               {
                 "ref": "1:7",
                 "arabic": "غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ",
-                "explanation": "Vergleichsfall: Passivpartizip + Präpositionalphrase in Default-Stellung."
+                "explanation": "Vergleichsfall: Passivpartizip + Präpositionalphrase in Default-Stellung.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=7"
               },
               {
                 "ref": "2:5",
                 "arabic": "أُولَٰئِكَ عَلَىٰ هُدًى مِّن رَّبِّهِمْ وَأُولَٰئِكَ هُمُ الْمُفْلِحُونَ",
-                "explanation": "Nominalsatz: Mubtada (أُولَٰئِكَ) — Khabar als Präpositionalphrase (عَلَىٰ هُدًى). Default-Nominalsatz mit PP als Khabar."
+                "explanation": "Nominalsatz: Mubtada (أُولَٰئِكَ) — Khabar als Präpositionalphrase (عَلَىٰ هُدًى). Default-Nominalsatz mit PP als Khabar.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=5"
               },
               {
                 "ref": "96:1-2",
@@ -275,22 +296,26 @@
               {
                 "ref": "2:22",
                 "arabic": "فَلَا تَجْعَلُوا لِلَّهِ أَندَادًا",
-                "explanation": "Vorangestellte PP: لِلَّهِ (Jarr wa-Majrur) steht vor dem Objekt أَندَادًا. Die PP ist zwischen Verb und Objekt gerückt — eine partielle Voranstellung. Gott ist der Referenzpunkt: Setzt Gott keine Gleichgestellten bei."
+                "explanation": "Vorangestellte PP: لِلَّهِ (Jarr wa-Majrur) steht vor dem Objekt أَندَادًا. Die PP ist zwischen Verb und Objekt gerückt — eine partielle Voranstellung. Gott ist der Referenzpunkt: Setzt Gott keine Gleichgestellten bei.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=22"
               },
               {
                 "ref": "2:126",
                 "arabic": "رَبِّ اجْعَلْ هَٰذَا بَلَدًا آمِنًا وَارْزُقْ أَهْلَهُ مِنَ الثَّمَرَاتِ مَنْ آمَنَ مِنْهُم بِاللَّهِ",
-                "explanation": "مِنَ الثَّمَرَاتِ steht zwischen Verb und zweitem Objekt. Die PP ist vorangestellt vor مَنْ آمَنَ — partielle Umstellung innerhalb der Verbalphrase."
+                "explanation": "مِنَ الثَّمَرَاتِ steht zwischen Verb und zweitem Objekt. Die PP ist vorangestellt vor مَنْ آمَنَ — partielle Umstellung innerhalb der Verbalphrase.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=126"
               },
               {
                 "ref": "3:26",
                 "arabic": "قُلِ اللَّهُمَّ مَالِكَ الْمُلْكِ تُؤْتِي الْمُلْكَ مَن تَشَاءُ وَتَنزِعُ الْمُلْكَ مِمَّن تَشَاءُ وَتُعِزُّ مَن تَشَاءُ وَتُذِلُّ مَن تَشَاءُ ۖ بِيَدِكَ الْخَيْرُ",
-                "explanation": "Am Satzende: بِيَدِكَ الْخَيْرُ — Khabar (بِيَدِكَ) vor Mubtada (الْخَيْرُ). Das Gute ist in deiner Hand — und nur in deiner Hand. Voranstellung des Khabar (PP) erzeugt Restriktion."
+                "explanation": "Am Satzende: بِيَدِكَ الْخَيْرُ — Khabar (بِيَدِكَ) vor Mubtada (الْخَيْرُ). Das Gute ist in deiner Hand — und nur in deiner Hand. Voranstellung des Khabar (PP) erzeugt Restriktion.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=26"
               },
               {
                 "ref": "2:143",
                 "arabic": "وَمَا كَانَ اللَّهُ لِيُضِيعَ إِيمَانَكُمْ",
-                "explanation": "Vergleichsfall: Default-Abfolge innerhalb der كَانَ-Konstruktion."
+                "explanation": "Vergleichsfall: Default-Abfolge innerhalb der كَانَ-Konstruktion.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=143"
               }
             ]
           }
@@ -332,32 +357,38 @@
               {
                 "ref": "1:5",
                 "arabic": "إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ",
-                "explanation": "RESTRIKTION (Hasr): Vorangestelltes Objekt-Pronomen (إِيَّاكَ). Die Struktur ist maximal markiert — Objekt in Anfangsposition. Die Dopplung verstärkt den Taqdīm-Effekt."
+                "explanation": "RESTRIKTION (Hasr): Vorangestelltes Objekt-Pronomen (إِيَّاكَ). Die Struktur ist maximal markiert — Objekt in Anfangsposition. Die Dopplung verstärkt den Taqdīm-Effekt.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=5"
               },
               {
                 "ref": "42:49",
                 "arabic": "لِلَّهِ مُلْكُ السَّمَاوَاتِ وَالْأَرْضِ ۚ يَخْلُقُ مَا يَشَاءُ",
-                "explanation": "RESTRIKTION (Hasr): Vorangestellte Zugehörigkeits-PP (لِلَّهِ) vor definitem Mubtada. Gott gehört die Herrschaft. Der Folgesatz (er erschafft was er will) schließt sich an."
+                "explanation": "RESTRIKTION (Hasr): Vorangestellte Zugehörigkeits-PP (لِلَّهِ) vor definitem Mubtada. Gott gehört die Herrschaft. Der Folgesatz (er erschafft was er will) schließt sich an.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=42&verse=49"
               },
               {
                 "ref": "18:26",
                 "arabic": "لَهُ غَيْبُ السَّمَاوَاتِ وَالْأَرْضِ ۖ أَبْصِرْ بِهِ وَأَسْمِعْ",
-                "explanation": "RESTRIKTION (Hasr): لَهُ (Khabar) vor غَيْبُ السَّمَاوَاتِ (Mubtada). Ihm gehört das Verborgene."
+                "explanation": "RESTRIKTION (Hasr): لَهُ (Khabar) vor غَيْبُ السَّمَاوَاتِ (Mubtada). Ihm gehört das Verborgene.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=18&verse=26"
               },
               {
                 "ref": "6:12",
                 "arabic": "قُل لِّمَن مَّا فِي السَّمَاوَاتِ وَالْأَرْضِ ۖ قُل لِّلَّهِ",
-                "explanation": "Frage-Antwort-Struktur: لِمَن (wem?) — لِلَّهِ (Gott!). Die Antwort stellt die Zugehörigkeits-PP voran. Die Fragestruktur selbst erzwingt Fokus auf die Antwort; die Voranstellung markiert Restriktion."
+                "explanation": "Frage-Antwort-Struktur: لِمَن (wem?) — لِلَّهِ (Gott!). Die Antwort stellt die Zugehörigkeits-PP voran. Die Fragestruktur selbst erzwingt Fokus auf die Antwort; die Voranstellung markiert Restriktion.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=6&verse=12"
               },
               {
                 "ref": "2:30",
                 "arabic": "إِنِّي جَاعِلٌ فِي الْأَرْضِ خَلِيفَةً",
-                "explanation": "FOKUS ohne klare Restriktion: فِي الْأَرْضِ steht zwischen جَاعِلٌ und خَلِيفَةً. Die PP ist aus der Endposition herausbewegt und fokussiert den Ort (auf der Erde), aber ohne Exklusivitaetseffekt."
+                "explanation": "FOKUS ohne klare Restriktion: فِي الْأَرْضِ steht zwischen جَاعِلٌ und خَلِيفَةً. Die PP ist aus der Endposition herausbewegt und fokussiert den Ort (auf der Erde), aber ohne Exklusivitaetseffekt.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=30"
               },
               {
                 "ref": "67:1",
                 "arabic": "تَبَارَكَ الَّذِي بِيَدِهِ الْمُلْكُ",
-                "explanation": "RESTRIKTION im Relativsatz: بِيَدِهِ (Khabar) vor الْمُلْكُ (Mubtada). Die Herrschaft ist in seiner Hand — und keines anderen."
+                "explanation": "RESTRIKTION im Relativsatz: بِيَدِهِ (Khabar) vor الْمُلْكُ (Mubtada). Die Herrschaft ist in seiner Hand — und keines anderen.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=67&verse=1"
               }
             ]
           }
@@ -399,37 +430,44 @@
               {
                 "ref": "35:28",
                 "arabic": "إِنَّمَا يَخْشَى اللَّهَ مِنْ عِبَادِهِ الْعُلَمَاءُ",
-                "explanation": "إِنَّمَا + Verbalsatz. Verb (يَخْشَى) — Objekt (اللَّهَ) — PP (مِنْ عِبَادِهِ) — Subjekt (الْعُلَمَاءُ). Das Subjekt steht am Satzende — in der Fokusposition. Die Restriktion durch إِنَّمَا fokussiert auf das Subjekt: Es sind nur die Wissenden die fürchten."
+                "explanation": "إِنَّمَا + Verbalsatz. Verb (يَخْشَى) — Objekt (اللَّهَ) — PP (مِنْ عِبَادِهِ) — Subjekt (الْعُلَمَاءُ). Das Subjekt steht am Satzende — in der Fokusposition. Die Restriktion durch إِنَّمَا fokussiert auf das Subjekt: Es sind nur die Wissenden die fürchten.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=35&verse=28"
               },
               {
                 "ref": "2:11",
                 "arabic": "قَالُوا إِنَّمَا نَحْنُ مُصْلِحُونَ",
-                "explanation": "إِنَّمَا + Nominalsatz: Mubtada (نَحْنُ) — Khabar (مُصْلِحُونَ). Default-Abfolge. Die Restriktion fokussiert auf den Khabar: Wir sind NUR Verbesserer (und nichts anderes)."
+                "explanation": "إِنَّمَا + Nominalsatz: Mubtada (نَحْنُ) — Khabar (مُصْلِحُونَ). Default-Abfolge. Die Restriktion fokussiert auf den Khabar: Wir sind NUR Verbesserer (und nichts anderes).",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=11"
               },
               {
                 "ref": "2:13",
                 "arabic": "قَالُوا إِنَّمَا نَحْنُ مُسْتَهْزِئُونَ... أَلَا إِنَّهُمْ هُمُ الْمُفْسِدُونَ",
-                "explanation": "Kontext zeigt den Kontrast: Sie sagen 'wir spotten nur'. Die Antwort (ohne إِنَّمَا) verwendet ein Pronomen der Trennung (هُمُ) zwischen Mubtada und Khabar für Identifikation."
+                "explanation": "Kontext zeigt den Kontrast: Sie sagen 'wir spotten nur'. Die Antwort (ohne إِنَّمَا) verwendet ein Pronomen der Trennung (هُمُ) zwischen Mubtada und Khabar für Identifikation.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=13"
               },
               {
                 "ref": "3:135",
                 "arabic": "وَمَن يَغْفِرُ الذُّنُوبَ إِلَّا اللَّهُ",
-                "explanation": "Restriktion OHNE إِنَّمَا, stattdessen durch rhetorische Frage + إِلَّا: 'Und wer vergibt die Verfehlungen ausser Gott?' Anderes syntaktisches Mittel, gleicher Restriktionseffekt."
+                "explanation": "Restriktion OHNE إِنَّمَا, stattdessen durch rhetorische Frage + إِلَّا: 'Und wer vergibt die Verfehlungen ausser Gott?' Anderes syntaktisches Mittel, gleicher Restriktionseffekt.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=135"
               },
               {
                 "ref": "9:18",
                 "arabic": "إِنَّمَا يَعْمُرُ مَسَاجِدَ اللَّهِ مَنْ آمَنَ بِاللَّهِ",
-                "explanation": "إِنَّمَا + Verbalsatz: Verb (يَعْمُرُ) — Objekt (مَسَاجِدَ اللَّهِ) — Subjekt (مَنْ آمَنَ). Subjekt am Ende — Restriktion auf das Subjekt: Nur diejenigen die glauben beleben die Moscheen."
+                "explanation": "إِنَّمَا + Verbalsatz: Verb (يَعْمُرُ) — Objekt (مَسَاجِدَ اللَّهِ) — Subjekt (مَنْ آمَنَ). Subjekt am Ende — Restriktion auf das Subjekt: Nur diejenigen die glauben beleben die Moscheen.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=9&verse=18"
               },
               {
                 "ref": "49:10",
                 "arabic": "إِنَّمَا الْمُؤْمِنُونَ إِخْوَةٌ",
-                "explanation": "إِنَّمَا + Nominalsatz: Mubtada (الْمُؤْمِنُونَ) — Khabar (إِخْوَةٌ). Restriktion auf den Khabar: Die Vertrauenden sind nur Geschwister (ihre Beziehung ist ausschließlich Brüderlichkeit)."
+                "explanation": "إِنَّمَا + Nominalsatz: Mubtada (الْمُؤْمِنُونَ) — Khabar (إِخْوَةٌ). Restriktion auf den Khabar: Die Vertrauenden sind nur Geschwister (ihre Beziehung ist ausschließlich Brüderlichkeit).",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=49&verse=10"
               },
               {
                 "ref": "8:28",
                 "arabic": "إِنَّمَا أَمْوَالُكُمْ وَأَوْلَادُكُمْ فِتْنَةٌ",
-                "explanation": "إِنَّمَا + Nominalsatz: Mubtada (أَمْوَالُكُمْ وَأَوْلَادُكُمْ) — Khabar (فِتْنَةٌ). Restriktion auf den Khabar: Eure Güter und Kinder sind nur eine Prüfung (und nichts anderes)."
+                "explanation": "إِنَّمَا + Nominalsatz: Mubtada (أَمْوَالُكُمْ وَأَوْلَادُكُمْ) — Khabar (فِتْنَةٌ). Restriktion auf den Khabar: Eure Güter und Kinder sind nur eine Prüfung (und nichts anderes).",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=8&verse=28"
               }
             ]
           },
@@ -471,17 +509,20 @@
               {
                 "ref": "2:255",
                 "arabic": "لَّهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ",
-                "explanation": "Vorangestelltes Khabar (لَّهُ) vor Mubtada (مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ). Restriktion (Hasr): Ihm gehört alles in Himmeln und Erde."
+                "explanation": "Vorangestelltes Khabar (لَّهُ) vor Mubtada (مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ). Restriktion (Hasr): Ihm gehört alles in Himmeln und Erde.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=255"
               },
               {
                 "ref": "2:255",
                 "arabic": "وَلَا يُحِيطُونَ بِشَيْءٍ مِّنْ عِلْمِهِ إِلَّا بِمَا شَاءَ",
-                "explanation": "Default-Abfolge im Verbalsatz (Negation + Verb + PP), dann Ausnahme mit إِلَّا. Die Restriktion kommt hier von der إِلَّا-Konstruktion, nicht von Wortstellungsaenderung."
+                "explanation": "Default-Abfolge im Verbalsatz (Negation + Verb + PP), dann Ausnahme mit إِلَّا. Die Restriktion kommt hier von der إِلَّا-Konstruktion, nicht von Wortstellungsaenderung.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=255"
               },
               {
                 "ref": "2:255",
                 "arabic": "وَسِعَ كُرْسِيُّهُ السَّمَاوَاتِ وَالْأَرْضَ وَلَا يَئُودُهُ حِفْظُهُمَا",
-                "explanation": "Default VSO: وَسِعَ (V) — كُرْسِيُّهُ (S) — السَّمَاوَاتِ وَالْأَرْضَ (O). Dann: وَلَا يَئُودُهُ (V+O-Suffix) — حِفْظُهُمَا (S). Das Subjekt حِفْظُهُمَا steht am Satzende — verschobene Position, Fokus auf 'ihre Bewahrung'."
+                "explanation": "Default VSO: وَسِعَ (V) — كُرْسِيُّهُ (S) — السَّمَاوَاتِ وَالْأَرْضَ (O). Dann: وَلَا يَئُودُهُ (V+O-Suffix) — حِفْظُهُمَا (S). Das Subjekt حِفْظُهُمَا steht am Satzende — verschobene Position, Fokus auf 'ihre Bewahrung'.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=255"
               },
               {
                 "ref": "20:1-2",
@@ -491,7 +532,8 @@
               {
                 "ref": "76:1",
                 "arabic": "هَلْ أَتَىٰ عَلَى الْإِنسَانِ حِينٌ مِّنَ الدَّهْرِ لَمْ يَكُن شَيْئًا مَّذْكُورًا",
-                "explanation": "Default VSO nach Fragepartikel: أَتَىٰ (V) — حِينٌ (S, nachgestellt nach PP). Die PP عَلَى الْإِنسَانِ steht zwischen Verb und Subjekt. Fokus auf 'den Menschen' — er ist das Thema, das eingeführt wird."
+                "explanation": "Default VSO nach Fragepartikel: أَتَىٰ (V) — حِينٌ (S, nachgestellt nach PP). Die PP عَلَى الْإِنسَانِ steht zwischen Verb und Subjekt. Fokus auf 'den Menschen' — er ist das Thema, das eingeführt wird.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=76&verse=1"
               },
               {
                 "ref": "55:26-27",

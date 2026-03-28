@@ -5,7 +5,7 @@
     "sources": [
       {
         "name": "Wright's Arabic Grammar (3rd ed.)",
-        "url": "https://archive.org/details/grammarofarabicl01telerich"
+        "url": "https://archive.org/details/WrightsArabicGrammar1Of2"
       },
       {
         "name": "Quranic Arabic Corpus",
@@ -25,26 +25,30 @@
           "singular": "نَفْس",
           "plural": "أَنْفُس",
           "meaning": "Selbst / Selbste",
-          "quranicLocation": "2:48"
+          "quranicLocation": "2:48",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=48"
         },
         {
           "singular": "بَطْن",
           "plural": "بُطُون",
           "meaning": "Bauch / Bäuche",
           "quranicLocation": "37:66",
-          "note": "Der Quran verwendet an dieser Stelle بُطُون (Muster فُعُول), nicht أَبْطُن (Paukal)"
+          "note": "بُطُون folgt dem Muster فُعُول, nicht أَفْعُل. Hier unter أَفْعُل gelistet wegen des Singularmusters فَعْل, aber der tatsaechliche Plural ist فُعُول.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=37&verse=66"
         },
         {
           "singular": "وَجْه",
           "plural": "أَوْجُه",
           "meaning": "Gesicht / Gesichter",
-          "quranicLocation": "3:106"
+          "quranicLocation": "3:106",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=106"
         },
         {
           "singular": "عَيْن",
           "plural": "أَعْيُن",
           "meaning": "Auge / Augen",
-          "quranicLocation": "5:45"
+          "quranicLocation": "5:45",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=5&verse=45"
         }
       ]
     },
@@ -59,25 +63,29 @@
           "singular": "قَلْب",
           "plural": "قُلُوب",
           "meaning": "Herz / Herzen",
-          "quranicLocation": "2:7"
+          "quranicLocation": "2:7",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=7"
         },
         {
           "singular": "بَيْت",
           "plural": "بُيُوت",
           "meaning": "Haus / Häuser",
-          "quranicLocation": "2:189"
+          "quranicLocation": "2:189",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=189"
         },
         {
           "singular": "ذَنْب",
           "plural": "ذُنُوب",
           "meaning": "Verfehlung / Verfehlungen (ذَنْب — wörtl. Verfehlung/Vergehen, konventionell 'Sünde')",
-          "quranicLocation": "3:16"
+          "quranicLocation": "3:16",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=16"
         },
         {
           "singular": "حَرْب",
           "plural": "حُرُوب",
           "meaning": "Krieg / Kriege",
-          "quranicLocation": "5:64"
+          "quranicLocation": "5:64",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=5&verse=64"
         }
       ]
     },
@@ -92,25 +100,29 @@
           "singular": "غُرْفَة",
           "plural": "غُرَف",
           "meaning": "Raum / Raeume",
-          "quranicLocation": "34:37"
+          "quranicLocation": "34:37",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=34&verse=37"
         },
         {
           "singular": "ظُلْمَة",
           "plural": "ظُلَم",
           "meaning": "Finsternis / Finsternisse",
-          "quranicLocation": "2:257"
+          "quranicLocation": "2:257",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=257"
         },
         {
           "singular": "حُجَّة",
           "plural": "حُجَج",
           "meaning": "Argument / Argumente",
-          "quranicLocation": "2:150"
+          "quranicLocation": "2:150",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=150"
         },
         {
           "singular": "سُوَرة",
           "plural": "سُوَر",
           "meaning": "Sura / Suren",
-          "quranicLocation": "2:23"
+          "quranicLocation": "2:23",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=23"
         }
       ]
     },
@@ -125,19 +137,22 @@
           "singular": "كِتَاب",
           "plural": "كُتُب",
           "meaning": "Buch / Bücher",
-          "quranicLocation": "2:213"
+          "quranicLocation": "2:213",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=213"
         },
         {
           "singular": "رَسُول",
           "plural": "رُسُل",
           "meaning": "Gesandter / Gesandte",
-          "quranicLocation": "2:253"
+          "quranicLocation": "2:253",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=253"
         },
         {
           "singular": "سَبِيل",
           "plural": "سُبُل",
           "meaning": "Weg / Wege",
-          "quranicLocation": "6:153"
+          "quranicLocation": "6:153",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=6&verse=153"
         }
       ]
     },
@@ -152,25 +167,29 @@
           "singular": "جَبَل",
           "plural": "جِبَال",
           "meaning": "Berg / Berge",
-          "quranicLocation": "78:7"
+          "quranicLocation": "78:7",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=78&verse=7"
         },
         {
           "singular": "رَجُل",
           "plural": "رِجَال",
           "meaning": "Mann / Männer",
-          "quranicLocation": "4:34"
+          "quranicLocation": "4:34",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=34"
         },
         {
           "singular": "جَمَل",
           "plural": "جِمَال",
           "meaning": "Kamel / Kamele",
-          "quranicLocation": "7:40"
+          "quranicLocation": "7:40",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=7&verse=40"
         },
         {
           "singular": "ثَمَر",
           "plural": "ثِمَار",
           "meaning": "Frucht / Früchte",
-          "quranicLocation": "2:22"
+          "quranicLocation": "2:22",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=22"
         }
       ]
     },
@@ -185,19 +204,22 @@
           "singular": "عَمَل",
           "plural": "أَعْمَال",
           "meaning": "Tat / Taten",
-          "quranicLocation": "2:139"
+          "quranicLocation": "2:139",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=139"
         },
         {
           "singular": "فِعْل",
           "plural": "أَفْعَال",
           "meaning": "Handlung / Handlungen",
-          "quranicLocation": "21:73"
+          "quranicLocation": "21:73",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=21&verse=73"
         },
         {
           "singular": "مَال",
           "plural": "أَمْوَال",
           "meaning": "Vermögen / Vermögen (Pl.)",
-          "quranicLocation": "2:188"
+          "quranicLocation": "2:188",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=188"
         },
         {
           "singular": "حَال",
@@ -218,7 +240,8 @@
           "singular": "كَافِر",
           "plural": "كُفَّار",
           "meaning": "Ablehnender / Ablehnende",
-          "quranicLocation": "2:19"
+          "quranicLocation": "2:19",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=19"
         },
         {
           "singular": "تَاجِر",
@@ -230,13 +253,15 @@
           "singular": "سَاحِر",
           "plural": "سُحَّار",
           "meaning": "Zauberer / Zauberer (Pl.)",
-          "quranicLocation": "26:38"
+          "quranicLocation": "26:38",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=26&verse=38"
         },
         {
           "singular": "حَاجّ",
           "plural": "حُجَّاج",
           "meaning": "Pilger / Pilger (Pl.)",
-          "quranicLocation": "9:19"
+          "quranicLocation": "9:19",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=9&verse=19"
         }
       ]
     },
@@ -251,13 +276,15 @@
           "singular": "عَلِيم",
           "plural": "عُلَمَاء",
           "meaning": "wissend / Wissende",
-          "quranicLocation": "35:28"
+          "quranicLocation": "35:28",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=35&verse=28"
         },
         {
           "singular": "شَرِيك",
           "plural": "شُرَكَاء",
           "meaning": "Partner / Partner (Pl.)",
-          "quranicLocation": "6:22"
+          "quranicLocation": "6:22",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=6&verse=22"
         },
         {
           "singular": "أَمِير",
@@ -284,19 +311,22 @@
           "singular": "شَاهِد",
           "plural": "شُهَدَاء",
           "meaning": "Zeuge / Zeugen",
-          "quranicLocation": "2:23"
+          "quranicLocation": "2:23",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=23"
         },
         {
           "singular": "ضَعِيف",
           "plural": "ضُعَفَاء",
           "meaning": "schwach / Schwache",
-          "quranicLocation": "14:21"
+          "quranicLocation": "14:21",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=14&verse=21"
         },
         {
           "singular": "بَخِيل",
           "plural": "بُخَلَاء",
           "meaning": "geizig / Geizige",
-          "quranicLocation": "57:24"
+          "quranicLocation": "57:24",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=57&verse=24"
         }
       ]
     },
@@ -311,20 +341,23 @@
           "singular": "غُلَام",
           "plural": "غِلْمَان",
           "meaning": "Junge / Jungen",
-          "quranicLocation": "52:24"
+          "quranicLocation": "52:24",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=52&verse=24"
         },
         {
           "singular": "جَار",
           "plural": "جِيرَان",
           "meaning": "Nachbar / Nachbarn",
-          "quranicLocation": "4:36"
+          "quranicLocation": "4:36",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=36"
         },
         {
           "singular": "فَتًى",
           "plural": "فِتْيَة",
           "meaning": "junger Mann / junge Männer",
           "quranicLocation": "18:13",
-          "note": "Sonderfall: فِتْيَة ist kein regulärer فِعْلَان-Plural, sondern eine irreguläre Bildung"
+          "note": "Sonderfall: فِتْيَة ist kein regulärer فِعْلَان-Plural, sondern eine irreguläre Bildung",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=18&verse=13"
         }
       ]
     },
@@ -339,25 +372,29 @@
           "singular": "مَسْجِد",
           "plural": "مَسَاجِد",
           "meaning": "Ort der Niederwerfung / Orte der Niederwerfung",
-          "quranicLocation": "2:187"
+          "quranicLocation": "2:187",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=187"
         },
         {
           "singular": "مَدِينَة",
           "plural": "مَدَائِن",
           "meaning": "Stadt / Städte",
-          "quranicLocation": "7:111"
+          "quranicLocation": "7:111",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=7&verse=111"
         },
         {
           "singular": "مِفْتَاح",
           "plural": "مَفَاتِيح",
           "meaning": "Schlüssel / Schlüssel (Pl.)",
-          "quranicLocation": "6:59"
+          "quranicLocation": "6:59",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=6&verse=59"
         },
         {
           "singular": "مَلَك",
           "plural": "مَلَائِكَة",
           "meaning": "Engel / Engel (Pl.)",
-          "quranicLocation": "2:30"
+          "quranicLocation": "2:30",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=30"
         }
       ]
     },
@@ -372,13 +409,15 @@
           "singular": "قَبِيلَة",
           "plural": "قَبَائِل",
           "meaning": "Stamm / Stämme",
-          "quranicLocation": "49:13"
+          "quranicLocation": "49:13",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=49&verse=13"
         },
         {
           "singular": "رِسَالَة",
           "plural": "رَسَائِل",
           "meaning": "Botschaft / Botschaften",
-          "quranicLocation": "7:79"
+          "quranicLocation": "7:79",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=7&verse=79"
         },
         {
           "singular": "فَضِيلَة",
@@ -391,7 +430,8 @@
           "plural": "صُحُف",
           "meaning": "Blatt / Blätter",
           "quranicLocation": "87:19",
-          "note": "Anerkannte Ausnahme: Der Plural صُحُف folgt dem Muster فُعُل statt dem erwarteten فَعَائِل (صَحَائِف). Beide Pluralformen sind belegt, der Quran verwendet ausschließlich صُحُف."
+          "note": "Anerkannte Ausnahme: Der Plural صُحُف folgt dem Muster فُعُل statt dem erwarteten فَعَائِل (صَحَائِف). Beide Pluralformen sind belegt, der Quran verwendet ausschließlich صُحُف.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=87&verse=19"
         }
       ]
     },
@@ -406,19 +446,22 @@
           "singular": "قِطْعَة",
           "plural": "قِطَع",
           "meaning": "Stück / Stücke",
-          "quranicLocation": "13:4"
+          "quranicLocation": "13:4",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=13&verse=4"
         },
         {
           "singular": "حِيلَة",
           "plural": "حِيَل",
           "meaning": "List / Listen",
-          "quranicLocation": "4:98"
+          "quranicLocation": "4:98",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=98"
         },
         {
           "singular": "نِعْمَة",
           "plural": "نِعَم",
           "meaning": "Gabe / Gaben",
-          "quranicLocation": "16:18"
+          "quranicLocation": "16:18",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=16&verse=18"
         }
       ]
     },
@@ -433,7 +476,8 @@
           "singular": "كَاتِب",
           "plural": "كَتَبَة",
           "meaning": "Schreiber / Schreiber (Pl.)",
-          "quranicLocation": "80:15"
+          "quranicLocation": "80:15",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=80&verse=15"
         },
         {
           "singular": "كَاذِب",
@@ -445,7 +489,8 @@
           "singular": "سَاحِر",
           "plural": "سَحَرَة",
           "meaning": "Zauberer / Zauberer (Pl.)",
-          "quranicLocation": "7:113"
+          "quranicLocation": "7:113",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=7&verse=113"
         },
         {
           "singular": "قَاضٍ",
@@ -472,13 +517,15 @@
           "singular": "غَنِيّ",
           "plural": "أَغْنِيَاء",
           "meaning": "reich / Reiche",
-          "quranicLocation": "4:135"
+          "quranicLocation": "4:135",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=135"
         },
         {
           "singular": "نَبِيّ",
           "plural": "أَنْبِيَاء",
           "meaning": "Nabi / Anbiya' (Verkünder)",
-          "quranicLocation": "2:61"
+          "quranicLocation": "2:61",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=61"
         }
       ]
     },
@@ -493,7 +540,8 @@
           "singular": "لِسَان",
           "plural": "أَلْسِنَة",
           "meaning": "Zunge / Zungen",
-          "quranicLocation": "16:116"
+          "quranicLocation": "16:116",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=16&verse=116"
         },
         {
           "singular": "طَعَام",
@@ -517,19 +565,20 @@
     },
     {
       "id": "fu3aal",
-      "singularPattern": "فَعِيل / فَعْل",
-      "pluralPattern": "فُعَال",
+      "singularPattern": "أَفْعَل (Elativ)",
+      "pluralPattern": "فُعَل",
       "frequency": "niedrig",
-      "description": "Selteneres Muster, kommt aber bei bestimmten koranischen Wörtern vor.",
+      "description": "Pluralmuster für feminine Elativformen (فُعْلَى). كُبْرَى und عُظْمَى sind feminine Formen des Elativs (أَكْبَر / أَعْظَم), deren Plural فُعَل lautet.",
       "examples": [
         {
-          "singular": "كُبْرَى",
+          "singular": "كُبْرَى (f. von أَكْبَر)",
           "plural": "كُبَر",
           "meaning": "größte / größte (Pl.)",
-          "quranicLocation": "74:35"
+          "quranicLocation": "74:35",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=74&verse=35"
         },
         {
-          "singular": "عُظْمَى",
+          "singular": "عُظْمَى (f. von أَعْظَم)",
           "plural": "عُظَم",
           "meaning": "größte (f.) / größte (Pl.)",
           "quranicLocation": "—"
@@ -547,19 +596,22 @@
           "singular": "شَهِيد",
           "plural": "شُهُود",
           "meaning": "Zeuge / Zeugen",
-          "quranicLocation": "85:7"
+          "quranicLocation": "85:7",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=85&verse=7"
         },
         {
           "singular": "عَدُوّ",
           "plural": "عُدُوّ",
           "meaning": "Feind / Feinde (Kollektiv)",
-          "quranicLocation": "2:36"
+          "quranicLocation": "2:36",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=36"
         },
         {
           "singular": "جُنْد",
           "plural": "جُنُود",
           "meaning": "Heer / Heere",
-          "quranicLocation": "36:75"
+          "quranicLocation": "36:75",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=36&verse=75"
         }
       ]
     },
@@ -580,7 +632,8 @@
           "singular": "فَاحِشَة",
           "plural": "فَوَاحِش",
           "meaning": "Abscheulichkeit / Abscheulichkeiten",
-          "quranicLocation": "4:15"
+          "quranicLocation": "4:15",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=15"
         },
         {
           "singular": "كَارِثَة",
@@ -592,7 +645,8 @@
           "singular": "قَارِعَة",
           "plural": "قَوَارِع",
           "meaning": "Katastrophe / Katastrophen",
-          "quranicLocation": "101:1"
+          "quranicLocation": "101:1",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=101&verse=1"
         }
       ]
     },
@@ -613,7 +667,8 @@
           "singular": "مِسْكِين",
           "plural": "مَسَاكِين",
           "meaning": "Armer / Arme",
-          "quranicLocation": "2:83"
+          "quranicLocation": "2:83",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=83"
         },
         {
           "singular": "سُلْطَان",
@@ -625,7 +680,8 @@
           "singular": "شَيْطَان",
           "plural": "شَيَاطِين",
           "meaning": "Teufel / Teufel (Pl.)",
-          "quranicLocation": "2:14"
+          "quranicLocation": "2:14",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=14"
         }
       ]
     },
@@ -640,13 +696,15 @@
           "singular": "مِفْتَاح",
           "plural": "مَفَاتِيح",
           "meaning": "Schlüssel / Schlüssel (Pl.)",
-          "quranicLocation": "6:59"
+          "quranicLocation": "6:59",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=6&verse=59"
         },
         {
           "singular": "مِصْبَاح",
           "plural": "مَصَابِيح",
           "meaning": "Lampe / Lampen",
-          "quranicLocation": "41:12"
+          "quranicLocation": "41:12",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=41&verse=12"
         },
         {
           "singular": "مَنْدِيل",
@@ -667,19 +725,22 @@
           "singular": "لِسَان",
           "plural": "أَلْسِنَة",
           "meaning": "Zunge / Zungen",
-          "quranicLocation": "30:22"
+          "quranicLocation": "30:22",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=30&verse=22"
         },
         {
           "singular": "إِلَه",
           "plural": "آلِهَة",
           "meaning": "Gottheit / Gottheiten",
-          "quranicLocation": "21:22"
+          "quranicLocation": "21:22",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=21&verse=22"
         },
         {
           "singular": "إِمَام",
           "plural": "أَئِمَّة",
           "meaning": "Führer / Führer (Pl.)",
-          "quranicLocation": "9:12"
+          "quranicLocation": "9:12",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=9&verse=12"
         }
       ]
     },
@@ -694,13 +755,15 @@
           "singular": "رَاكِع",
           "plural": "رُكَّع",
           "meaning": "Verneigender / Verneigende",
-          "quranicLocation": "2:125"
+          "quranicLocation": "2:125",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=125"
         },
         {
           "singular": "سَاجِد",
           "plural": "سُجَّد",
           "meaning": "Niederwerfender / Niederwerfende",
-          "quranicLocation": "48:29"
+          "quranicLocation": "48:29",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=48&verse=29"
         },
         {
           "singular": "شَاهِد",
@@ -721,19 +784,22 @@
           "singular": "مَرِيض",
           "plural": "مَرْضَى",
           "meaning": "Kranker / Kranke",
-          "quranicLocation": "4:43"
+          "quranicLocation": "4:43",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=43"
         },
         {
           "singular": "قَتِيل",
           "plural": "قَتْلَى",
           "meaning": "Getoeteter / Getoetete",
-          "quranicLocation": "3:169"
+          "quranicLocation": "3:169",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=169"
         },
         {
           "singular": "أَسِير",
           "plural": "أَسْرَى",
           "meaning": "Gefangener / Gefangene",
-          "quranicLocation": "8:67"
+          "quranicLocation": "8:67",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=8&verse=67"
         },
         {
           "singular": "جَرِيح",
@@ -754,13 +820,15 @@
           "singular": "غُلَام",
           "plural": "غِلْمَان",
           "meaning": "Junge / Jungen",
-          "quranicLocation": "52:24"
+          "quranicLocation": "52:24",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=52&verse=24"
         },
         {
           "singular": "جَار",
           "plural": "جِيرَان",
           "meaning": "Nachbar / Nachbarn",
-          "quranicLocation": "4:36"
+          "quranicLocation": "4:36",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=36"
         }
       ]
     }

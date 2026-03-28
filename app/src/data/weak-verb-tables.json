@@ -3,9 +3,18 @@
     "title": "Schwache Verben — Vollständige Konjugationstabellen",
     "description": "Systematische Konjugationstabellen aller schwachen Verbtypen des klassischen Arabisch mit koranischen Belegformen. Rein sprachwissenschaftlich.",
     "sources": [
-      { "name": "Wright's Grammar Vol I", "url": "https://archive.org/details/grammarofthearab01telerich" },
-      { "name": "Wright's Grammar Vol II", "url": "https://archive.org/details/grammarofthearab02telerich" },
-      { "name": "Quranic Arabic Corpus", "url": "https://corpus.quran.com/" }
+      {
+        "name": "Wright's Grammar Vol I",
+        "url": "https://archive.org/details/WrightsArabicGrammar1Of2"
+      },
+      {
+        "name": "Wright's Grammar Vol II",
+        "url": "https://archive.org/details/grammarofthearab02telerich"
+      },
+      {
+        "name": "Quranic Arabic Corpus",
+        "url": "https://corpus.quran.com/"
+      }
     ]
   },
   "categories": [
@@ -60,10 +69,30 @@
           "passiveParticiple": "مَقُول",
           "masdar": "قَوْل",
           "quranicExamples": [
-            { "word": "قَالَ", "location": "2:30", "meaning": "er sagte" },
-            { "word": "يَقُولُونَ", "location": "2:8", "meaning": "sie sagen" },
-            { "word": "قُلْ", "location": "112:1", "meaning": "sag!" },
-            { "word": "قَالُوا", "location": "2:11", "meaning": "sie sagten" }
+            {
+              "word": "قَالَ",
+              "location": "2:30",
+              "meaning": "er sagte",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=30"
+            },
+            {
+              "word": "يَقُولُونَ",
+              "location": "2:8",
+              "meaning": "sie sagen",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=8"
+            },
+            {
+              "word": "قُلْ",
+              "location": "112:1",
+              "meaning": "sag!",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=112&verse=1"
+            },
+            {
+              "word": "قَالُوا",
+              "location": "2:11",
+              "meaning": "sie sagten",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=11"
+            }
           ]
         },
         {
@@ -112,8 +141,18 @@
           "passiveParticiple": "مَزُور",
           "masdar": "زِيَارَة",
           "quranicExamples": [
-            { "word": "زُرْتُمْ", "location": "102:2", "meaning": "ihr habt besucht (Graeber)" },
-            { "word": "تَزَاوَرُ", "location": "18:17", "meaning": "sich abwenden/neigen (Form VI von ز-و-ر)" }
+            {
+              "word": "زُرْتُمْ",
+              "location": "102:2",
+              "meaning": "ihr habt besucht (Graeber)",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=102&verse=2"
+            },
+            {
+              "word": "تَزَاوَرُ",
+              "location": "18:17",
+              "meaning": "sich abwenden/neigen (Form VI von ز-و-ر)",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=18&verse=17"
+            }
           ]
         },
         {
@@ -162,9 +201,24 @@
           "passiveParticiple": "مَسِير",
           "masdar": "سَيْر",
           "quranicExamples": [
-            { "word": "سِيرُوا", "location": "3:137", "meaning": "wandert!" },
-            { "word": "يَسِيرُوا", "location": "12:109", "meaning": "sie wandern" },
-            { "word": "سَيْر", "location": "34:12", "meaning": "Gang, Reise" }
+            {
+              "word": "سِيرُوا",
+              "location": "3:137",
+              "meaning": "wandert!",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=137"
+            },
+            {
+              "word": "يَسِيرُوا",
+              "location": "12:109",
+              "meaning": "sie wandern",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=12&verse=109"
+            },
+            {
+              "word": "سَيْر",
+              "location": "34:12",
+              "meaning": "Gang, Reise",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=34&verse=12"
+            }
           ]
         },
         {
@@ -213,8 +267,18 @@
           "passiveParticiple": "مَبِيع",
           "masdar": "بَيْع",
           "quranicExamples": [
-            { "word": "بَيْع", "location": "2:254", "meaning": "Handel, Verkauf" },
-            { "word": "بَايَعُوكَ", "location": "48:10", "meaning": "sie gaben dir den Treuehandschlag (III. Stamm)" }
+            {
+              "word": "بَيْع",
+              "location": "2:254",
+              "meaning": "Handel, Verkauf",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=254"
+            },
+            {
+              "word": "بَايَعُوكَ",
+              "location": "48:10",
+              "meaning": "sie gaben dir den Treuehandschlag (III. Stamm)",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=48&verse=10"
+            }
           ]
         }
       ]
@@ -270,10 +334,30 @@
           "passiveParticiple": "مَدْعُوّ",
           "masdar": "دُعَاء",
           "quranicExamples": [
-            { "word": "دَعَا", "location": "2:186", "meaning": "er rief" },
-            { "word": "يَدْعُو", "location": "2:221", "meaning": "er ruft" },
-            { "word": "ادْعُوا", "location": "2:23", "meaning": "ruft!" },
-            { "word": "دُعَاء", "location": "2:171", "meaning": "Ruf" }
+            {
+              "word": "دَعَا",
+              "location": "2:186",
+              "meaning": "er rief",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=186"
+            },
+            {
+              "word": "يَدْعُو",
+              "location": "2:221",
+              "meaning": "er ruft",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=221"
+            },
+            {
+              "word": "ادْعُوا",
+              "location": "2:23",
+              "meaning": "ruft!",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=23"
+            },
+            {
+              "word": "دُعَاء",
+              "location": "2:171",
+              "meaning": "Ruf",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=171"
+            }
           ]
         },
         {
@@ -322,10 +406,30 @@
           "passiveParticiple": "مَهْدِيّ",
           "masdar": "هِدَايَة / هُدًى",
           "quranicExamples": [
-            { "word": "اهْدِنَا", "location": "1:6", "meaning": "leite uns" },
-            { "word": "يَهْدِي", "location": "2:26", "meaning": "er leitet" },
-            { "word": "هُدًى", "location": "2:2", "meaning": "Führung" },
-            { "word": "هَدَيْنَا", "location": "6:84", "meaning": "wir leiteten" }
+            {
+              "word": "اهْدِنَا",
+              "location": "1:6",
+              "meaning": "leite uns",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=6"
+            },
+            {
+              "word": "يَهْدِي",
+              "location": "2:26",
+              "meaning": "er leitet",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=26"
+            },
+            {
+              "word": "هُدًى",
+              "location": "2:2",
+              "meaning": "Führung",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=2"
+            },
+            {
+              "word": "هَدَيْنَا",
+              "location": "6:84",
+              "meaning": "wir leiteten",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=6&verse=84"
+            }
           ]
         },
         {
@@ -374,8 +478,18 @@
           "passiveParticiple": "مَرْمِيّ",
           "masdar": "رَمْي",
           "quranicExamples": [
-            { "word": "رَمَيْتَ", "location": "8:17", "meaning": "du warfst" },
-            { "word": "يَرْمُونَ", "location": "24:4", "meaning": "sie werfen (Anschuldigung)" }
+            {
+              "word": "رَمَيْتَ",
+              "location": "8:17",
+              "meaning": "du warfst",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=8&verse=17"
+            },
+            {
+              "word": "يَرْمُونَ",
+              "location": "24:4",
+              "meaning": "sie werfen (Anschuldigung)",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=24&verse=4"
+            }
           ]
         },
         {
@@ -424,9 +538,24 @@
           "passiveParticiple": "مَرْضِيّ",
           "masdar": "رِضًا / رِضْوَان",
           "quranicExamples": [
-            { "word": "رَضِيَ", "location": "5:3", "meaning": "er war zufrieden" },
-            { "word": "تَرْضَى", "location": "2:120", "meaning": "du bist zufrieden / es gefaellt dir" },
-            { "word": "رِضْوَان", "location": "3:15", "meaning": "Wohlgefallen" }
+            {
+              "word": "رَضِيَ",
+              "location": "5:3",
+              "meaning": "er war zufrieden",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=5&verse=3"
+            },
+            {
+              "word": "تَرْضَى",
+              "location": "2:120",
+              "meaning": "du bist zufrieden / es gefaellt dir",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=120"
+            },
+            {
+              "word": "رِضْوَان",
+              "location": "3:15",
+              "meaning": "Wohlgefallen",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=15"
+            }
           ]
         }
       ]
@@ -482,9 +611,24 @@
           "passiveParticiple": "مَوْجُود",
           "masdar": "وُجُود / وِجْدَان",
           "quranicExamples": [
-            { "word": "وَجَدَ", "location": "93:7", "meaning": "er fand" },
-            { "word": "يَجِدُوا", "location": "4:65", "meaning": "sie finden" },
-            { "word": "وَجَدْنَا", "location": "7:28", "meaning": "wir fanden" }
+            {
+              "word": "وَجَدَ",
+              "location": "93:7",
+              "meaning": "er fand",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=93&verse=7"
+            },
+            {
+              "word": "يَجِدُوا",
+              "location": "4:65",
+              "meaning": "sie finden",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=65"
+            },
+            {
+              "word": "وَجَدْنَا",
+              "location": "7:28",
+              "meaning": "wir fanden",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=7&verse=28"
+            }
           ]
         },
         {
@@ -534,12 +678,42 @@
           "masdar": "وَعْد",
           "note": "Bei Verben mit و als erstem Radikal und Imperfekt-Stammvokal Kasra (يَفْعِلُ-Klasse) fällt das Waw im Imperfekt und Imperativ weg.",
           "quranicExamples": [
-            { "word": "وَعَدَ", "location": "4:122", "meaning": "er versprach" },
-            { "word": "وَعَدَ", "location": "4:95", "meaning": "er versprach" },
-            { "word": "يَعِدُهُمْ", "location": "4:120", "meaning": "er verspricht ihnen" },
-            { "word": "يَعِدُهُمْ", "location": "17:64", "meaning": "er verspricht ihnen" },
-            { "word": "وَعْد", "location": "2:80", "meaning": "Versprechen" },
-            { "word": "مَوْعُود", "location": "11:65", "meaning": "versprochen (Termin)" }
+            {
+              "word": "وَعَدَ",
+              "location": "4:122",
+              "meaning": "er versprach",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=122"
+            },
+            {
+              "word": "وَعَدَ",
+              "location": "4:95",
+              "meaning": "er versprach",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=95"
+            },
+            {
+              "word": "يَعِدُهُمْ",
+              "location": "4:120",
+              "meaning": "er verspricht ihnen",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=120"
+            },
+            {
+              "word": "يَعِدُهُمْ",
+              "location": "17:64",
+              "meaning": "er verspricht ihnen",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=17&verse=64"
+            },
+            {
+              "word": "وَعْد",
+              "location": "2:80",
+              "meaning": "Versprechen",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=80"
+            },
+            {
+              "word": "مَوْعُود",
+              "location": "11:65",
+              "meaning": "versprochen (Termin)",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=11&verse=65"
+            }
           ]
         },
         {
@@ -588,9 +762,24 @@
           "passiveParticiple": "مَيْسُور",
           "masdar": "يُسْر",
           "quranicExamples": [
-            { "word": "يُسْر", "location": "94:5", "meaning": "Leichtigkeit, Erleichterung" },
-            { "word": "مَيْسُور", "location": "17:28", "meaning": "leicht, milde" },
-            { "word": "يَسَّرْنَا", "location": "54:17", "meaning": "wir machten leicht (II. Stamm)" }
+            {
+              "word": "يُسْر",
+              "location": "94:5",
+              "meaning": "Leichtigkeit, Erleichterung",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=94&verse=5"
+            },
+            {
+              "word": "مَيْسُور",
+              "location": "17:28",
+              "meaning": "leicht, milde",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=17&verse=28"
+            },
+            {
+              "word": "يَسَّرْنَا",
+              "location": "54:17",
+              "meaning": "wir machten leicht (II. Stamm)",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=54&verse=17"
+            }
           ]
         }
       ]
@@ -646,9 +835,24 @@
           "passiveParticiple": "مَمْدُود",
           "masdar": "مَدّ",
           "quranicExamples": [
-            { "word": "مَدَّ", "location": "13:3", "meaning": "er streckte aus" },
-            { "word": "يَمُدُّهُمْ", "location": "2:15", "meaning": "er lässt sie andauern" },
-            { "word": "مَمْدُود", "location": "56:30", "meaning": "ausgestreckt, ausgedehnt" }
+            {
+              "word": "مَدَّ",
+              "location": "13:3",
+              "meaning": "er streckte aus",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=13&verse=3"
+            },
+            {
+              "word": "يَمُدُّهُمْ",
+              "location": "2:15",
+              "meaning": "er lässt sie andauern",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=15"
+            },
+            {
+              "word": "مَمْدُود",
+              "location": "56:30",
+              "meaning": "ausgestreckt, ausgedehnt",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=56&verse=30"
+            }
           ]
         },
         {
@@ -697,9 +901,24 @@
           "passiveParticiple": "مَرْدُود",
           "masdar": "رَدّ",
           "quranicExamples": [
-            { "word": "رَدَّ", "location": "28:13", "meaning": "er gab zurück" },
-            { "word": "يَرُدُّوكُمْ", "location": "2:109", "meaning": "sie weisen euch zurück" },
-            { "word": "رُدُّوهَا", "location": "4:86", "meaning": "gebt sie zurück!" }
+            {
+              "word": "رَدَّ",
+              "location": "28:13",
+              "meaning": "er gab zurück",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=28&verse=13"
+            },
+            {
+              "word": "يَرُدُّوكُمْ",
+              "location": "2:109",
+              "meaning": "sie weisen euch zurück",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=109"
+            },
+            {
+              "word": "رُدُّوهَا",
+              "location": "4:86",
+              "meaning": "gebt sie zurück!",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=86"
+            }
           ]
         },
         {
@@ -748,9 +967,24 @@
           "passiveParticiple": "مَظْنُون",
           "masdar": "ظَنّ",
           "quranicExamples": [
-            { "word": "ظَنَّ", "location": "2:249", "meaning": "er meinte" },
-            { "word": "يَظُنُّونَ", "location": "2:46", "meaning": "sie meinen, sie vermuten" },
-            { "word": "ظَنَنْتُمْ", "location": "41:22", "meaning": "ihr vermutetet" }
+            {
+              "word": "ظَنَّ",
+              "location": "2:249",
+              "meaning": "er meinte",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=249"
+            },
+            {
+              "word": "يَظُنُّونَ",
+              "location": "2:46",
+              "meaning": "sie meinen, sie vermuten",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=46"
+            },
+            {
+              "word": "ظَنَنْتُمْ",
+              "location": "41:22",
+              "meaning": "ihr vermutetet",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=41&verse=22"
+            }
           ]
         }
       ]
@@ -807,10 +1041,30 @@
           "masdar": "أَخْذ",
           "note": "Der Imperativ verliert das Anfangs-Hamza (unregelmäßig): خُذْ statt اُؤْخُذْ",
           "quranicExamples": [
-            { "word": "أَخَذَ", "location": "2:63", "meaning": "er nahm" },
-            { "word": "يَأْخُذُ", "location": "2:229", "meaning": "er nimmt" },
-            { "word": "خُذُوا", "location": "2:63", "meaning": "nehmt!" },
-            { "word": "أَخَذْنَا", "location": "7:94", "meaning": "wir nahmen" }
+            {
+              "word": "أَخَذَ",
+              "location": "2:63",
+              "meaning": "er nahm",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=63"
+            },
+            {
+              "word": "يَأْخُذُ",
+              "location": "2:229",
+              "meaning": "er nimmt",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=229"
+            },
+            {
+              "word": "خُذُوا",
+              "location": "2:63",
+              "meaning": "nehmt!",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=63"
+            },
+            {
+              "word": "أَخَذْنَا",
+              "location": "7:94",
+              "meaning": "wir nahmen",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=7&verse=94"
+            }
           ]
         },
         {
@@ -860,9 +1114,24 @@
           "masdar": "أَكْل",
           "note": "Imperativ wie bei أَخَذَ unregelmäßig: كُلْ statt اُؤْكُلْ",
           "quranicExamples": [
-            { "word": "كُلُوا", "location": "2:35", "meaning": "esst!" },
-            { "word": "يَأْكُلُونَ", "location": "2:174", "meaning": "sie essen" },
-            { "word": "أَكَلَ", "location": "12:14", "meaning": "er ass" }
+            {
+              "word": "كُلُوا",
+              "location": "2:35",
+              "meaning": "esst!",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=35"
+            },
+            {
+              "word": "يَأْكُلُونَ",
+              "location": "2:174",
+              "meaning": "sie essen",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=174"
+            },
+            {
+              "word": "أَكَلَ",
+              "location": "12:14",
+              "meaning": "er ass",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=12&verse=14"
+            }
           ]
         },
         {
@@ -911,10 +1180,30 @@
           "passiveParticiple": "مَسْؤُول",
           "masdar": "سُؤَال",
           "quranicExamples": [
-            { "word": "يَسْأَلُونَكَ", "location": "2:189", "meaning": "sie fragen dich" },
-            { "word": "سَأَلَ", "location": "70:1", "meaning": "er fragte" },
-            { "word": "اسْأَلُوا", "location": "16:43", "meaning": "fragt!" },
-            { "word": "مَسْؤُولًا", "location": "17:36", "meaning": "befragt, verantwortlich" }
+            {
+              "word": "يَسْأَلُونَكَ",
+              "location": "2:189",
+              "meaning": "sie fragen dich",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=189"
+            },
+            {
+              "word": "سَأَلَ",
+              "location": "70:1",
+              "meaning": "er fragte",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=70&verse=1"
+            },
+            {
+              "word": "اسْأَلُوا",
+              "location": "16:43",
+              "meaning": "fragt!",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=16&verse=43"
+            },
+            {
+              "word": "مَسْؤُولًا",
+              "location": "17:36",
+              "meaning": "befragt, verantwortlich",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=17&verse=36"
+            }
           ]
         },
         {
@@ -963,10 +1252,30 @@
           "passiveParticiple": "مَقْرُوء",
           "masdar": "قِرَاءَة",
           "quranicExamples": [
-            { "word": "اقْرَأْ", "location": "96:1", "meaning": "lies vor! trag vor!" },
-            { "word": "قَرَأْنَاهُ", "location": "17:106", "meaning": "wir trugen es vor" },
-            { "word": "يَقْرَؤُونَ", "location": "17:71", "meaning": "sie lesen" },
-            { "word": "قُرْآن", "location": "2:185", "meaning": "Lesung, Vortrag (Masdar-Form)" }
+            {
+              "word": "اقْرَأْ",
+              "location": "96:1",
+              "meaning": "lies vor! trag vor!",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=96&verse=1"
+            },
+            {
+              "word": "قَرَأْنَاهُ",
+              "location": "17:106",
+              "meaning": "wir trugen es vor",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=17&verse=106"
+            },
+            {
+              "word": "يَقْرَؤُونَ",
+              "location": "17:71",
+              "meaning": "sie lesen",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=17&verse=71"
+            },
+            {
+              "word": "قُرْآن",
+              "location": "2:185",
+              "meaning": "Lesung, Vortrag (Masdar-Form)",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=185"
+            }
           ]
         }
       ]
@@ -1023,10 +1332,30 @@
           "masdar": "رُؤْيَة / رَأْي",
           "note": "Hamza fällt im Imperfekt aus. Doppelte Schwäche: Hamza als 2. Radikal und Ya als 3. Radikal.",
           "quranicExamples": [
-            { "word": "رَأَى", "location": "53:13", "meaning": "er sah" },
-            { "word": "تَرَى", "location": "2:165", "meaning": "du siehst" },
-            { "word": "رَأَيْتَ", "location": "18:18", "meaning": "du sahst" },
-            { "word": "يَرَوْنَ", "location": "7:198", "meaning": "sie sehen" }
+            {
+              "word": "رَأَى",
+              "location": "53:13",
+              "meaning": "er sah",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=53&verse=13"
+            },
+            {
+              "word": "تَرَى",
+              "location": "2:165",
+              "meaning": "du siehst",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=165"
+            },
+            {
+              "word": "رَأَيْتَ",
+              "location": "18:18",
+              "meaning": "du sahst",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=18&verse=18"
+            },
+            {
+              "word": "يَرَوْنَ",
+              "location": "7:198",
+              "meaning": "sie sehen",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=7&verse=198"
+            }
           ]
         },
         {
@@ -1076,10 +1405,30 @@
           "masdar": "مَجِيء / جَيْئَة",
           "note": "Kombination: Hohler Stamm (Ya als 2. Radikal) und Hamza als 3. Radikal.",
           "quranicExamples": [
-            { "word": "جَاءَ", "location": "110:1", "meaning": "er kam" },
-            { "word": "جَاؤُوا", "location": "4:62", "meaning": "sie kamen" },
-            { "word": "جِئْتُمْ", "location": "17:104", "meaning": "ihr kamt" },
-            { "word": "يَجِيءُ", "location": "3:25", "meaning": "er kommt" }
+            {
+              "word": "جَاءَ",
+              "location": "110:1",
+              "meaning": "er kam",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=110&verse=1"
+            },
+            {
+              "word": "جَاؤُوا",
+              "location": "4:62",
+              "meaning": "sie kamen",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=62"
+            },
+            {
+              "word": "جِئْتُمْ",
+              "location": "17:104",
+              "meaning": "ihr kamt",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=17&verse=104"
+            },
+            {
+              "word": "يَجِيءُ",
+              "location": "3:25",
+              "meaning": "er kommt",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=25"
+            }
           ]
         },
         {
@@ -1129,10 +1478,30 @@
           "masdar": "وِقَايَة",
           "note": "Doppelt schwach: Waw als 1. Radikal (fällt im Imperfekt aus) und Ya als 3. Radikal (Schluss-schwach). Ergibt extrem kurze Formen wie قِ (schütze!).",
           "quranicExamples": [
-            { "word": "وَقَاهُمْ", "location": "76:11", "meaning": "er schützte sie" },
-            { "word": "قُوا", "location": "66:6", "meaning": "schützt! bewahrt!" },
-            { "word": "يُوقَ", "location": "3:185", "meaning": "er wird bewahrt (Passiv)" },
-            { "word": "اتَّقُوا", "location": "2:41", "meaning": "seid achtsam! (VIII. Stamm)" }
+            {
+              "word": "وَقَاهُمْ",
+              "location": "76:11",
+              "meaning": "er schützte sie",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=76&verse=11"
+            },
+            {
+              "word": "قُوا",
+              "location": "66:6",
+              "meaning": "schützt! bewahrt!",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=66&verse=6"
+            },
+            {
+              "word": "يُوقَ",
+              "location": "3:185",
+              "meaning": "er wird bewahrt (Passiv)",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=185"
+            },
+            {
+              "word": "اتَّقُوا",
+              "location": "2:41",
+              "meaning": "seid achtsam! (VIII. Stamm)",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=41"
+            }
           ]
         }
       ]
@@ -1145,8 +1514,16 @@
       "verb": "قِيلَ / يُقَالُ",
       "root": "ق-و-ل",
       "note": "Im Passiv Perfekt wird der mittlere Radikal zu langem i (قِيلَ statt قُوِلَ, Vermeidung der schweren Vokalfolge). Im Imperfekt erscheint langer a-Vokal.",
-      "perfect": {"3ms": "قِيلَ", "3fs": "قِيلَتْ", "3mp": "قِيلُوا"},
-      "imperfect": {"3ms": "يُقَالُ", "3fs": "تُقَالُ", "3mp": "يُقَالُونَ"}
+      "perfect": {
+        "3ms": "قِيلَ",
+        "3fs": "قِيلَتْ",
+        "3mp": "قِيلُوا"
+      },
+      "imperfect": {
+        "3ms": "يُقَالُ",
+        "3fs": "تُقَالُ",
+        "3mp": "يُقَالُونَ"
+      }
     },
     {
       "type": "defective_waw_passive",
@@ -1154,8 +1531,16 @@
       "verb": "دُعِيَ / يُدْعَى",
       "root": "د-ع-و",
       "note": "Im Passiv Perfekt erscheint Ya statt Waw (دُعِيَ). Im Imperfekt Passiv erscheint Alif Maqsura (يُدْعَى).",
-      "perfect": {"3ms": "دُعِيَ", "3fs": "دُعِيَتْ", "3mp": "دُعُوا"},
-      "imperfect": {"3ms": "يُدْعَى", "3fs": "تُدْعَى", "3mp": "يُدْعَوْنَ"}
+      "perfect": {
+        "3ms": "دُعِيَ",
+        "3fs": "دُعِيَتْ",
+        "3mp": "دُعُوا"
+      },
+      "imperfect": {
+        "3ms": "يُدْعَى",
+        "3fs": "تُدْعَى",
+        "3mp": "يُدْعَوْنَ"
+      }
     }
   ],
   "derivedForms": [
@@ -1164,8 +1549,20 @@
       "title": "Form II — hohle Wurzel",
       "note": "In Form II (فَعَّلَ) bleibt der schwache Radikal stabil, da die Verdopplung des 2. Radikals die Struktur stützt.",
       "verbs": [
-        {"verb": "قَوَّمَ / يُقَوِّمُ", "root": "ق-و-م", "meaning": "gerade richten, aufstellen", "masdar": "تَقْوِيم", "quranRef": "95:4"},
-        {"verb": "صَوَّرَ / يُصَوِّرُ", "root": "ص-و-ر", "meaning": "formen, gestalten", "masdar": "تَصْوِير", "quranRef": "3:6"}
+        {
+          "verb": "قَوَّمَ / يُقَوِّمُ",
+          "root": "ق-و-م",
+          "meaning": "gerade richten, aufstellen",
+          "masdar": "تَقْوِيم",
+          "quranRef": "95:4"
+        },
+        {
+          "verb": "صَوَّرَ / يُصَوِّرُ",
+          "root": "ص-و-ر",
+          "meaning": "formen, gestalten",
+          "masdar": "تَصْوِير",
+          "quranRef": "3:6"
+        }
       ]
     }
   ],
@@ -1175,8 +1572,20 @@
       "title": "Doppelt-schwache Verben",
       "note": "Verben mit zwei schwachen Radikalen. Die Regeln beider Schwächen wirken gleichzeitig.",
       "verbs": [
-        {"verb": "رَأَى / يَرَى", "root": "ر-أ-ي", "types": "hamziert (2.) + defektiv (3.)", "irregularForms": "يَرَى (Hamza fällt, Ya-Endung als Alif Maqsura), رَأَيْتُ (Hamza erhalten vor Konsonant-Suffix)", "quranRef": "53:13"},
-        {"verb": "وَقَى / يَقِي", "root": "و-ق-ي", "types": "assimiliert (1.) + defektiv (3.)", "irregularForms": "Form VIII: اِتَّقَى (Waw → Ta-Assimilation + defektive Endung)", "quranRef": "76:11"}
+        {
+          "verb": "رَأَى / يَرَى",
+          "root": "ر-أ-ي",
+          "types": "hamziert (2.) + defektiv (3.)",
+          "irregularForms": "يَرَى (Hamza fällt, Ya-Endung als Alif Maqsura), رَأَيْتُ (Hamza erhalten vor Konsonant-Suffix)",
+          "quranRef": "53:13"
+        },
+        {
+          "verb": "وَقَى / يَقِي",
+          "root": "و-ق-ي",
+          "types": "assimiliert (1.) + defektiv (3.)",
+          "irregularForms": "Form VIII: اِتَّقَى (Waw → Ta-Assimilation + defektive Endung)",
+          "quranRef": "76:11"
+        }
       ]
     }
   ]

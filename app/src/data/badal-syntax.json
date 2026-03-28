@@ -5,7 +5,7 @@
     "sources": [
       {
         "name": "Wright's Arabic Grammar (3rd ed.)",
-        "url": "https://archive.org/details/grammarofarabicl01telerich"
+        "url": "https://archive.org/details/WrightsArabicGrammar1Of2"
       },
       {
         "name": "Quranic Arabic Corpus",
@@ -47,7 +47,8 @@
               {
                 "ref": "3:97",
                 "arabic": "وَلِلَّهِ عَلَى النَّاسِ حِجُّ الْبَيْتِ مَنِ اسْتَطَاعَ إِلَيْهِ سَبِيلًا",
-                "explanation": "مَنِ اسْتَطَاعَ = Badal ba'd min kull von النَّاسِ. Der Teil-vom-Ganzen-Badal: 'die Menschen' → präzisiert als 'diejenigen unter ihnen, die den Weg finden können.' النَّاسِ steht im Genitiv nach der Präposition عَلَى. مَنِ = Badal im Genitiv, weil es dem Kasus seines Mubdal minh (النَّاسِ) folgt. Der Badal uebernimmt stets den Kasus des Mubdal minh."
+                "explanation": "مَنِ اسْتَطَاعَ = Badal ba'd min kull von النَّاسِ. Der Teil-vom-Ganzen-Badal: 'die Menschen' → präzisiert als 'diejenigen unter ihnen, die den Weg finden können.' النَّاسِ steht im Genitiv nach der Präposition عَلَى. مَنِ = Badal im Genitiv, weil es dem Kasus seines Mubdal minh (النَّاسِ) folgt. Der Badal uebernimmt stets den Kasus des Mubdal minh.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=97"
               }
             ]
           }
@@ -94,12 +95,14 @@
               {
                 "ref": "2:217",
                 "arabic": "يَسْأَلُونَكَ عَنِ الشَّهْرِ الْحَرَامِ قِتَالٍ فِيهِ",
-                "explanation": "قِتَالٍ فِيهِ = Badal al-Ishtimal von الشَّهْرِ الْحَرَامِ. Kasus: Genitiv (nach عَنِ). Das Pronomen هِ in فِيهِ verweist auf الشَّهْرَ الْحَرَامَ. 'Sie fragen dich über den geheiligten/unverletzlichen Monat (حَرَام: heilig/unantastbar) — über den Kampf in ihm.' Der Aspekt 'Kampf darin' wird als präzisierender Badal eingeführt."
+                "explanation": "قِتَالٍ فِيهِ = Badal al-Ishtimal von الشَّهْرِ الْحَرَامِ. Kasus: Genitiv (nach عَنِ). Das Pronomen هِ in فِيهِ verweist auf الشَّهْرَ الْحَرَامَ. 'Sie fragen dich über den geheiligten/unverletzlichen Monat (حَرَام: heilig/unantastbar) — über den Kampf in ihm.' Der Aspekt 'Kampf darin' wird als präzisierender Badal eingeführt.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=217"
               },
               {
                 "ref": "20:94",
                 "arabic": "قَالَ يَا ابْنَ أُمَّ لَا تَأْخُذْ بِلِحْيَتِي وَلَا بِرَأْسِي",
-                "explanation": "لِحْيَتِي und رَأْسِي sind Maf'ul bihi nach تَأْخُذْ + بِ (ergreifen). Kein Badal hier — Vergleichsbeispiel. Das بِ ist der sogenannte باء التعدية (durchgreifendes بِ nach bestimmten Verben)."
+                "explanation": "لِحْيَتِي und رَأْسِي sind Maf'ul bihi nach تَأْخُذْ + بِ (ergreifen). Kein Badal hier — Vergleichsbeispiel. Das بِ ist der sogenannte باء التعدية (durchgreifendes بِ nach bestimmten Verben).",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=20&verse=94"
               }
             ]
           }

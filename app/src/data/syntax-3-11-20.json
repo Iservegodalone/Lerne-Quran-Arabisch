@@ -78,44 +78,49 @@
             {
               "location": "3:37",
               "word": "قَبُولًا حَسَنًا",
-              "analysis": "Absoluter Akkusativ mit Adjektiv. Masdar قَبُول von تَقَبَّلَ, spezifiziert die ART der Annahme: 'schön'. Artbestimmender Typ."
+              "analysis": "Absoluter Akkusativ mit Adjektiv. قَبُولًا ist das Masdar von قَبِلَ (Form I), nicht von تَقَبَّلَ (Form V, deren Masdar تَقَبُّل wäre). Es steht hier als Maf'ul Mutlaq — beim Maf'ul Mutlaq kann der Masdar von einer verwandten, aber nicht identischen Verbform stammen. حَسَنًا spezifiziert die ART der Annahme. Artbestimmender Typ.",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=37"
             },
             {
               "location": "4:164",
               "word": "تَكْلِيمًا",
-              "analysis": "Verstärkender absoluter Akkusativ. Masdar von كَلَّمَ (Form II). تَكْلِيمًا bekräftigt die Aussage كَلَّمَ — der Text sagt: Gott sprach zu Musa, und verstärkt dies durch den Maf'ul Mutlaq."
+              "analysis": "Verstärkender absoluter Akkusativ. Masdar von كَلَّمَ (Form II). تَكْلِيمًا bekräftigt die Aussage كَلَّمَ — der Text sagt: Gott sprach zu Musa, und verstärkt dies durch den Maf'ul Mutlaq.",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=164"
             },
             {
               "location": "33:56",
               "word": "صَلُّوا عَلَيْهِ وَسَلِّمُوا تَسْلِيمًا",
-              "analysis": "تَسْلِيمًا ist absoluter Akkusativ von سَلَّمَ. Verstärkt den Befehl: 'Grüßt ihn mit wirklichem Friedensgruß.'"
+              "analysis": "تَسْلِيمًا ist absoluter Akkusativ von سَلَّمَ. Verstärkt den Befehl: 'Grüßt ihn mit wirklichem Friedensgruß.'",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=33&verse=56"
             },
             {
               "location": "76:26",
               "word": "وَسَبِّحْهُ لَيْلًا طَوِيلًا",
-              "analysis": "لَيْلًا ist streng genommen ein Zarf (Zeitadverbial im Akkusativ), kein Maf'ul Mutlaq. طَوِيلًا zeigt jedoch ein ähnliches Muster der Artbestimmung im Akkusativ."
+              "analysis": "لَيْلًا ist streng genommen ein Zarf (Zeitadverbial im Akkusativ), kein Maf'ul Mutlaq. طَوِيلًا zeigt jedoch ein ähnliches Muster der Artbestimmung im Akkusativ.",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=76&verse=26"
             },
             {
               "location": "25:2",
               "word": "فَقَدَّرَهُ تَقْدِيرًا",
-              "analysis": "تَقْدِيرًا ist absoluter Akkusativ von قَدَّرَ (Form II). Verstärkt: Er hat alles genau und wirklich bestimmt."
+              "analysis": "تَقْدِيرًا ist absoluter Akkusativ von قَدَّرَ (Form II). Verstärkt: Er hat alles genau und wirklich bestimmt.",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=25&verse=2"
             }
           ]
         },
         {
           "type": "explanation",
           "title": "Erkennungsmerkmale und Sonderfälle",
-          "content": "So erkennst du den absoluten Akkusativ: (1) Er ist ein Masdar (Verbal-Nomen). (2) Er steht im Akkusativ (Endung -an / Fatḥa). (3) Er stammt von derselben Wurzel wie das Verb im Satz ODER von einer bedeutungsverwandten Wurzel. Sonderfälle: Manchmal wird das Verb weggelassen und nur das Masdar steht allein, z.B. صَبْرًا جَمِيلًا (schöne Geduld!) — hier ist das implizite Verb اِصْبِرْ (sei geduldig!) weggelassen. Das Masdar übernimmt dann die Funktion eines Befehls oder Ausrufs. Außerdem kann ein bedeutungsverwandtes Wort statt des exakten Masdars stehen: قَعَدَ جُلُوسًا — 'er setzte sich ein Sitzen' (جُلُوسًا ist Masdar von جَلَسَ, nicht von قَعَدَ, aber beide bedeuten 'sitzen').",
+          "content": "So erkennst du den absoluten Akkusativ: (1) Er ist ein Masdar (Verbal-Nomen). (2) Er steht im Akkusativ (Endung -an / Fatḥa). (3) Er stammt von derselben Wurzel wie das Verb im Satz ODER von einer bedeutungsverwandten Wurzel. Sonderfälle: Manchmal wird das Verb weggelassen und nur das Masdar steht allein, z.B. صَبْرًا جَمِيلًا (schöne Geduld!) — das Masdar übernimmt hier autonom die Funktion eines Befehls oder Ausrufs (Verb-Ersatz-Funktion des Masdar). Außerdem kann ein bedeutungsverwandtes Wort statt des exakten Masdars stehen: قَعَدَ جُلُوسًا — 'er setzte sich ein Sitzen' (جُلُوسًا ist Masdar von جَلَسَ, nicht von قَعَدَ, aber beide bedeuten 'sitzen').",
           "arabicExamples": [
             {
               "arabic": "صَبْرًا جَمِيلًا",
               "transliteration": "ṣabran jamīlan",
-              "meaning": "Schöne Geduld! (implizites Verb: sei geduldig!)"
+              "meaning": "Schöne Geduld! (Masdar mit imperativischer Verb-Ersatz-Funktion)"
             },
             {
               "arabic": "سُبْحَانَ اللَّهِ",
               "transliteration": "subḥāna llāhi",
-              "meaning": "Preis sei Gott! (absoluter Akkusativ — das Fehlen eines regierenden Verbs wird grammatisch durch ein implizites Verb, z.B. أُسَبِّحُ, erklärt)"
+              "meaning": "Preis sei Gott! (Masdar im absoluten Akkusativ mit exklamatorischer Verb-Ersatz-Funktion)"
             }
           ]
         }
@@ -139,7 +144,7 @@
           "type": "identification",
           "prompt": "Identifiziere den absoluten Akkusativ im folgenden Vers: فَتَقَبَّلَهَا رَبُّهَا قَبُولًا حَسَنًا (3:37)",
           "answer": "قَبُولًا حَسَنًا",
-          "explanation": "قَبُولًا ist das Masdar im Akkusativ, abgeleitet von derselben Wurzel wie تَقَبَّلَ (ق-ب-ل). حَسَنًا ist das Adjektiv, das die Art des Annehmens beschreibt. Zusammen bilden sie einen artbestimmenden absoluten Akkusativ."
+          "explanation": "قَبُولًا ist das Masdar von قَبِلَ (Form I) im Akkusativ, nicht von تَقَبَّلَ (Form V, deren Masdar تَقَبُّل wäre). Beim Maf'ul Mutlaq kann der Masdar von einer verwandten, aber nicht identischen Verbform derselben Wurzel (ق-ب-ل) stammen. حَسَنًا ist das Adjektiv, das die Art des Annehmens beschreibt. Zusammen bilden sie einen artbestimmenden absoluten Akkusativ."
         },
         {
           "type": "multiple_choice",
@@ -173,12 +178,12 @@
           "prompt": "Warum steht سُبْحَانَ in سُبْحَانَ اللَّهِ im Akkusativ?",
           "options": [
             "Es ist ein direktes Objekt",
-            "Es ist ein absoluter Akkusativ mit weggelassenem Verb (أُسَبِّحُ)",
+            "Es ist ein Masdar im absoluten Akkusativ mit exklamatorischer Funktion (Verb-Ersatz)",
             "Es ist ein Prädikat von كَانَ",
             "Es ist eine Iḍāfa-Konstruktion"
           ],
-          "answer": "Es ist ein absoluter Akkusativ mit weggelassenem Verb (أُسَبِّحُ)",
-          "explanation": "سُبْحَانَ ist ein Masdar im Akkusativ. Das Fehlen eines regierenden Verbs wird grammatisch durch ein implizites Verb (z.B. أُسَبِّحُ — ich preise) erklärt. Die rekonstruierte Form wäre: أُسَبِّحُ اللَّهَ سُبْحَانَهُ. Solche elliptischen Formen sind im Quran häufig."
+          "answer": "Es ist ein Masdar im absoluten Akkusativ mit exklamatorischer Funktion (Verb-Ersatz)",
+          "explanation": "سُبْحَانَ ist ein Masdar im absoluten Akkusativ mit exklamatorischer Funktion (Verb-Ersatz). Es ist kein Verb noetig — der Masdar selbst hat Verb-Ersatz-Funktion."
         }
       ]
     },
@@ -262,22 +267,26 @@
             {
               "location": "2:19",
               "word": "حَذَرَ الْمَوْتِ",
-              "analysis": "Akkusativ des Grundes: 'aus Angst vor dem Tod'. Masdar حَذَر im Akkusativ, in Iḍāfa mit الْمَوْت. Gibt den Grund an, warum sie die Finger in die Ohren stecken."
+              "analysis": "Akkusativ des Grundes: 'aus Angst vor dem Tod'. Masdar حَذَر im Akkusativ, in Iḍāfa mit الْمَوْت. Gibt den Grund an, warum sie die Finger in die Ohren stecken.",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=19"
             },
             {
               "location": "17:31",
               "word": "خَشْيَةَ إِمْلَاقٍ",
-              "analysis": "Akkusativ des Grundes: 'aus Angst vor Armut'. خَشْيَة ist Masdar von خَشِيَ. Gibt den (verbotenen) Grund für das Töten der Kinder an."
+              "analysis": "Akkusativ des Grundes: 'aus Angst vor Armut'. خَشْيَة ist Masdar von خَشِيَ. Gibt den (verbotenen) Grund für das Töten der Kinder an.",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=17&verse=31"
             },
             {
               "location": "2:264",
               "word": "رِئَاءَ النَّاسِ",
-              "analysis": "Akkusativ des Grundes: 'um von den Menschen gesehen zu werden'. رِئَاء ist Masdar von رَاءَى (Form III). Beschreibt das verwerfliche Motiv des Spendens."
+              "analysis": "Akkusativ des Grundes: 'um von den Menschen gesehen zu werden'. رِئَاء ist Masdar von رَاءَى (Form III). Beschreibt das verwerfliche Motiv des Spendens.",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=264"
             },
             {
               "location": "28:8",
               "word": "لِيَكُونَ لَهُمْ عَدُوًّا وَحَزَنًا",
-              "analysis": "Hier wird stattdessen die Präposition لِ + Konjunktiv verwendet, um den Zweck auszudrücken — eine Alternative zum reinen Akkusativ des Grundes."
+              "analysis": "Hier wird stattdessen die Präposition لِ + Konjunktiv verwendet, um den Zweck auszudrücken — eine Alternative zum reinen Akkusativ des Grundes.",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=28&verse=8"
             }
           ]
         },
@@ -435,17 +444,20 @@
             {
               "location": "3:97",
               "word": "مَنِ اسْتَطَاعَ",
-              "analysis": "Badal Baʿḍ min Kull zu النَّاسِ. Nicht ALLE Menschen, sondern nur die dazu fähigen. Steht im Genitiv wie النَّاسِ."
+              "analysis": "Badal Baʿḍ min Kull zu النَّاسِ. Nicht ALLE Menschen, sondern nur die dazu fähigen. Steht im Genitiv wie النَّاسِ.",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=97"
             },
             {
               "location": "2:217",
               "word": "قِتَالٍ فِيهِ",
-              "analysis": "Badal Ištimāl zu الشَّهْرِ الْحَرَامِ. Der Kampf ist ein Aspekt der Frage nach dem eingeschränkten Monat (الشَّهْرُ الْحَرَامُ: حَرَام = verboten/eingeschränkt). Steht im Genitiv wie الشَّهْرِ."
+              "analysis": "Badal Ištimāl zu الشَّهْرِ الْحَرَامِ. Der Kampf ist ein Aspekt der Frage nach dem eingeschränkten Monat (الشَّهْرُ الْحَرَامُ: حَرَام = verboten/eingeschränkt). Steht im Genitiv wie الشَّهْرِ.",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=217"
             },
             {
               "location": "14:35",
               "word": "اجْنُبْنِي وَبَنِيَّ أَنْ نَعْبُدَ الْأَصْنَامَ",
-              "analysis": "أَنْ نَعْبُدَ الْأَصْنَامَ kann als Badal Ištimāl zu dem durch das Verb impliziertem Unheil verstanden werden."
+              "analysis": "أَنْ نَعْبُدَ الْأَصْنَامَ kann als Badal Ištimāl zu dem durch das Verb impliziertem Unheil verstanden werden.",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=14&verse=35"
             }
           ]
         },
@@ -566,8 +578,7 @@
             "إِلَّا — Ausnahmepartikel: 'außer'",
             "اللَّهُ — das Ausgenommene. Steht im NOMINATIV (Ḍamma).",
             "Warum Nominativ? Weil der Satz verneint und unvollständig ist (das Prädikat von لَا ist weggelassen). In diesem Fall folgt das Ausgenommene dem Kasus, den es im Satz haben würde, wenn إِلَّا nicht da wäre.",
-            "Rekonstruktion: لَا إِلَهَ [مَوْجُودٌ / حَقٌّ] إِلَّا اللَّهُ — Kein Gott [ist existent / ist wahr] außer Gott. Ein mögliches implizites Prädikat wäre z.B. مَوْجُودٌ oder حَقٌّ. اللَّهُ wäre das Subjekt des impliziten Prädikats, daher Nominativ.",
-            "Alternative Analyse: اللَّهُ ist Badal (Apposition) zu dem impliziten Pronomen in der verneinten Aussage und folgt daher dem Nominativ.",
+            "Die Struktur لَا + Ism + إِلَّا ist syntaktisch vollstaendig als Genus-Negation mit Ausnahme. Ein explizites Khabar ist syntaktisch nicht zwingend erforderlich. اللَّهُ steht im Nominativ, weil es als Badal (Apposition) zum Ism von لَا fungiert — oder weil es in einem verneinten, unvollstaendigen Satz dem Kasus nach Satzfunktion folgt.",
             "Einer der häufig zitierten Sätze des Qurans — ein kanonisches Beispiel für die lā-nafiya-li-l-jins-Konstruktion."
           ]
         },
@@ -608,27 +619,32 @@
             {
               "location": "2:249",
               "word": "إِلَّا قَلِيلًا مِنْهُمْ",
-              "analysis": "Bejahter, vollständiger Satz. قَلِيلًا steht im Akkusativ (Pflicht bei bejahtem Satz). 'Sie tranken davon, außer wenige von ihnen.'"
+              "analysis": "Bejahter, vollständiger Satz. قَلِيلًا steht im Akkusativ (Pflicht bei bejahtem Satz). 'Sie tranken davon, außer wenige von ihnen.'",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=249"
             },
             {
               "location": "2:255",
               "word": "مَنْ ذَا الَّذِي يَشْفَعُ عِنْدَهُ إِلَّا بِإِذْنِهِ",
-              "analysis": "Ausnahme mit Präpositionalphrase: 'Wer ist es, der bei Ihm Fürsprache einlegt außer mit Seiner Erlaubnis?' Hier wird nicht ein Nomen, sondern eine Umstandsangabe ausgenommen."
+              "analysis": "Ausnahme mit Präpositionalphrase: 'Wer ist es, der bei Ihm Fürsprache einlegt außer mit Seiner Erlaubnis?' Hier wird nicht ein Nomen, sondern eine Umstandsangabe ausgenommen.",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=255"
             },
             {
               "location": "3:135",
               "word": "وَمَنْ يَغْفِرُ الذُّنُوبَ إِلَّا اللَّهُ",
-              "analysis": "Verneinter (rhetorische Frage = Verneinung), unvollständiger Satz. اللَّهُ steht im Nominativ als Subjekt: 'Wer vergibt die Verfehlungen außer Gott?'"
+              "analysis": "Verneinter (rhetorische Frage = Verneinung), unvollständiger Satz. اللَّهُ steht im Nominativ als Subjekt: 'Wer vergibt die Verfehlungen außer Gott?'",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=135"
             },
             {
               "location": "17:42",
               "word": "لَوْ كَانَ مَعَهُ آلِهَةٌ... إِلَّا إِلَهًا وَاحِدًا",
-              "analysis": "إِلَهًا im Akkusativ als Ausgenommenes. Betont die Einzigkeit Gottes."
+              "analysis": "إِلَهًا im Akkusativ als Ausgenommenes. Betont die Einzigkeit Gottes.",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=17&verse=42"
             },
             {
               "location": "4:66",
               "word": "وَمَا فَعَلُوهُ إِلَّا قَلِيلٌ مِنْهُمْ",
-              "analysis": "Verneinter, vollständiger Satz. قَلِيلٌ steht im Nominativ (Badal/Apposition zum impliziten Subjekt)."
+              "analysis": "Verneinter, vollständiger Satz. قَلِيلٌ steht im Nominativ (Badal/Apposition zum impliziten Subjekt).",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=66"
             }
           ]
         },
@@ -663,7 +679,7 @@
             "Weil es ein Eigenname ist"
           ],
           "answer": "Weil es der Kasus nach Satzfunktion in einem verneinten, unvollständigen Satz ist",
-          "explanation": "In einem verneinten Satz ohne explizites Bezugswort (unvollständig/nāqiṣ) folgt das Ausgenommene dem Kasus, den es nach seiner Satzfunktion haben würde. اللَّهُ wäre Subjekt eines weggelassenen Prädikats (z.B. مَوْجُودٌ oder حَقٌّ), daher Nominativ."
+          "explanation": "Die Struktur لَا + Ism + إِلَّا ist syntaktisch vollstaendig als Genus-Negation mit Ausnahme. اللَّهُ steht im Nominativ als Badal (Apposition) zum Ism von لَا oder weil es in einem verneinten Satz dem Kasus nach Satzfunktion folgt. Ein explizites Khabar ist syntaktisch nicht zwingend erforderlich."
         },
         {
           "type": "case_determination",
@@ -802,12 +818,14 @@
             {
               "location": "2:21",
               "word": "يَا أَيُّهَا النَّاسُ اعْبُدُوا",
-              "analysis": "Häufigste Vokativform im Quran. أَيُّهَا vermittelt zwischen يَا und dem bestimmten Nomen النَّاسُ. Gefolgt von Imperativ."
+              "analysis": "Häufigste Vokativform im Quran. أَيُّهَا vermittelt zwischen يَا und dem bestimmten Nomen النَّاسُ. Gefolgt von Imperativ.",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=21"
             },
             {
               "location": "7:19",
               "word": "يَا آدَمُ اسْكُنْ",
-              "analysis": "Eigenname im Vokativ. آدَمُ steht auf Ḍamma (gebaut), kein Tanwīn, obwohl es diptotisch ist. Direkte Anrede des Textsprechers an eine Einzelperson."
+              "analysis": "Eigenname im Vokativ. آدَمُ steht auf Ḍamma (gebaut), kein Tanwīn, obwohl es diptotisch ist. Direkte Anrede des Textsprechers an eine Einzelperson.",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=7&verse=19"
             },
             {
               "location": "89:27-28",
@@ -817,12 +835,14 @@
             {
               "location": "36:20",
               "word": "يَا قَوْمِ اتَّبِعُوا",
-              "analysis": "يَا قَوْمِ — Kurzform von يَا قَوْمِي (O mein Volk!). Das ياء des Possessivs ist weggelassen, die Kasra auf مِ zeigt es an."
+              "analysis": "يَا قَوْمِ — Kurzform von يَا قَوْمِي (O mein Volk!). Das ياء des Possessivs ist weggelassen, die Kasra auf مِ zeigt es an.",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=36&verse=20"
             },
             {
               "location": "3:26",
               "word": "قُلِ اللَّهُمَّ مَالِكَ الْمُلْكِ",
-              "analysis": "اللَّهُمَّ ist eine spezielle Vokativform. Das angehängte مَّ ersetzt يَا. Nur bei dem Wort اللَّهُ möglich."
+              "analysis": "اللَّهُمَّ ist eine spezielle Vokativform. Das angehängte مَّ ersetzt يَا. Nur bei dem Wort اللَّهُ möglich.",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=26"
             }
           ]
         },
@@ -1084,27 +1104,32 @@
             {
               "location": "42:11",
               "word": "لَيْسَ كَمِثْلِهِ شَيْءٌ",
-              "analysis": "لَيْسَ verneint den Nominalsatz. شَيْءٌ ist اسم لَيْسَ (Nominativ). كَمِثْلِهِ ist خبر لَيْسَ (Präpositionalphrase). Die Verneinung ist absolut: Nichts gleicht Ihm."
+              "analysis": "لَيْسَ verneint den Nominalsatz. شَيْءٌ ist اسم لَيْسَ (Nominativ). كَمِثْلِهِ ist خبر لَيْسَ (Präpositionalphrase). Die Verneinung ist absolut: Nichts gleicht Ihm.",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=42&verse=11"
             },
             {
               "location": "2:2",
               "word": "لَا رَيْبَ فِيهِ",
-              "analysis": "لَا für Gattungsverneinung. رَيْبَ ist auf Fatḥa gebaut (kein Tanwīn). فِيهِ ist das Prädikat. Absolute Verneinung jedes Zweifels am Quran."
+              "analysis": "لَا für Gattungsverneinung. رَيْبَ ist auf Fatḥa gebaut (kein Tanwīn). فِيهِ ist das Prädikat. Absolute Verneinung jedes Zweifels am Quran.",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=2"
             },
             {
               "location": "2:256",
               "word": "لَا إِكْرَاهَ فِي الدِّينِ",
-              "analysis": "Gattungsverneinung: 'Es gibt keinerlei Zwang in der Religion.' إِكْرَاهَ auf Fatḥa gebaut, فِي الدِّينِ als Prädikat."
+              "analysis": "Gattungsverneinung: 'Es gibt keinerlei Zwang in der Religion.' إِكْرَاهَ auf Fatḥa gebaut, فِي الدِّينِ als Prädikat.",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=256"
             },
             {
               "location": "12:31",
               "word": "مَا هَذَا بَشَرًا",
-              "analysis": "مَا verneint den Nominalsatz (Ḥijāz-Dialekt, wie لَيْسَ). هَذَا = Subjekt, بَشَرًا = Prädikat im Akkusativ. 'Dieser ist kein Mensch!'"
+              "analysis": "مَا verneint den Nominalsatz (Ḥijāz-Dialekt, wie لَيْسَ). هَذَا = Subjekt, بَشَرًا = Prädikat im Akkusativ. 'Dieser ist kein Mensch!'",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=12&verse=31"
             },
             {
               "location": "39:36",
               "word": "أَلَيْسَ اللَّهُ بِكَافٍ عَبْدَهُ",
-              "analysis": "Rhetorische Frage mit أَ + لَيْسَ (erwartet Ja-Antwort). اللَّهُ = Subjekt (Nominativ). بِكَافٍ = Prädikat mit verstärkendem بِ. Die بِ nach لَيْسَ ist ein Zeichen der Verstärkung."
+              "analysis": "Rhetorische Frage mit أَ + لَيْسَ (erwartet Ja-Antwort). اللَّهُ = Subjekt (Nominativ). بِكَافٍ = Prädikat mit verstärkendem بِ. Die بِ nach لَيْسَ ist ein Zeichen der Verstärkung.",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=39&verse=36"
             }
           ]
         }
@@ -1477,12 +1502,14 @@
             {
               "location": "2:185",
               "word": "أَيَّامٍ أُخَرَ",
-              "analysis": "Gebrochener Plural أَيَّام (Nicht-Person) + Adjektiv أُخَرَ (femininer Plural, diptotisch). Zeigt die Sonderregel für Nicht-Personen-Plurale."
+              "analysis": "Gebrochener Plural أَيَّام (Nicht-Person) + Adjektiv أُخَرَ (femininer Plural, diptotisch). Zeigt die Sonderregel für Nicht-Personen-Plurale.",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=185"
             },
             {
               "location": "2:2",
               "word": "ذَلِكَ الْكِتَابُ",
-              "analysis": "ذَلِكَ (jenes) fungiert als Demonstrativpronomen. الْكِتَابُ kann als Naʿt (Apposition) oder Ḫabar verstanden werden."
+              "analysis": "ذَلِكَ (jenes) fungiert als Demonstrativpronomen. الْكِتَابُ kann als Naʿt (Apposition) oder Ḫabar verstanden werden.",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=2"
             },
             {
               "location": "2:1-2",
@@ -1492,12 +1519,14 @@
             {
               "location": "59:23",
               "word": "الْمَلِكُ الْقُدُّوسُ السَّلَامُ الْمُؤْمِنُ الْمُهَيْمِنُ الْعَزِيزُ الْجَبَّارُ الْمُتَكَبِّرُ",
-              "analysis": "Kette attributiver Adjektive. Alle definit wie اللَّهُ, alle im Nominativ. Jedes beschreibt einen Aspekt des Bezugsnomens."
+              "analysis": "Kette attributiver Adjektive. Alle definit wie اللَّهُ, alle im Nominativ. Jedes beschreibt einen Aspekt des Bezugsnomens.",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=59&verse=23"
             },
             {
               "location": "2:228",
               "word": "ثَلَاثَةَ قُرُوءٍ",
-              "analysis": "قُرُوء (gebrochener Plural von قَرْء) ohne Adjektiv, aber das Zahlwort ثَلَاثَة zeigt eine andere Kongruenzregel: Zahlen 3-10 stehen im Gegengeschlecht zum Gezählten."
+              "analysis": "قُرُوء (gebrochener Plural von قَرْء) ohne Adjektiv, aber das Zahlwort ثَلَاثَة zeigt eine andere Kongruenzregel: Zahlen 3-10 stehen im Gegengeschlecht zum Gezählten.",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=228"
             }
           ]
         }
@@ -1676,27 +1705,32 @@
             {
               "location": "78:10",
               "word": "وَجَعَلْنَا اللَّيْلَ لِبَاسًا",
-              "analysis": "جَعَلَ + doppelter Akkusativ. 1. Obj.: اللَّيْلَ (die Nacht). 2. Obj.: لِبَاسًا (eine Hülle). Typ: Machen/Verwandeln."
+              "analysis": "جَعَلَ + doppelter Akkusativ. 1. Obj.: اللَّيْلَ (die Nacht). 2. Obj.: لِبَاسًا (eine Hülle). Typ: Machen/Verwandeln.",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=78&verse=10"
             },
             {
               "location": "9:31",
               "word": "اتَّخَذُوا أَحْبَارَهُمْ... أَرْبَابًا",
-              "analysis": "اِتَّخَذَ + doppelter Akkusativ. 1. Obj.: أَحْبَارَهُمْ (ihre Gelehrten). 2. Obj.: أَرْبَابًا (als Herren). Typ: Nehmen als."
+              "analysis": "اِتَّخَذَ + doppelter Akkusativ. 1. Obj.: أَحْبَارَهُمْ (ihre Gelehrten). 2. Obj.: أَرْبَابًا (als Herren). Typ: Nehmen als.",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=9&verse=31"
             },
             {
               "location": "2:273",
               "word": "يَحْسَبُهُمُ الْجَاهِلُ أَغْنِيَاءَ",
-              "analysis": "حَسِبَ + doppelter Akkusativ. 1. Obj.: Suffix هُمْ (sie). 2. Obj.: أَغْنِيَاءَ (für reich). Typ: Meinen/Denken."
+              "analysis": "حَسِبَ + doppelter Akkusativ. 1. Obj.: Suffix هُمْ (sie). 2. Obj.: أَغْنِيَاءَ (für reich). Typ: Meinen/Denken.",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=273"
             },
             {
               "location": "29:2",
               "word": "أَحَسِبَ النَّاسُ أَنْ يُتْرَكُوا",
-              "analysis": "حَسِبَ mit أَنْ-Satz statt doppeltem Akkusativ. النَّاسُ = Subjekt, أَنْ يُتْرَكُوا = Objektsatz. Alternative Konstruktion."
+              "analysis": "حَسِبَ mit أَنْ-Satz statt doppeltem Akkusativ. النَّاسُ = Subjekt, أَنْ يُتْرَكُوا = Objektsatz. Alternative Konstruktion.",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=29&verse=2"
             },
             {
               "location": "108:1",
               "word": "إِنَّا أَعْطَيْنَاكَ الْكَوْثَرَ",
-              "analysis": "أَعْطَى + doppelter Akkusativ. 1. Obj.: Suffix كَ (dich). 2. Obj.: الْكَوْثَرَ (al-Kauthar). Typ: Geben."
+              "analysis": "أَعْطَى + doppelter Akkusativ. 1. Obj.: Suffix كَ (dich). 2. Obj.: الْكَوْثَرَ (al-Kauthar). Typ: Geben.",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=108&verse=1"
             }
           ]
         }
@@ -1845,27 +1879,32 @@
             {
               "location": "2:20",
               "word": "يَكَادُ الْبَرْقُ يَخْطَفُ أَبْصَارَهُمْ",
-              "analysis": "كَادَ im Imperfekt. الْبَرْقُ = Subjekt (Nominativ). يَخْطَفُ = Prädikat (Imperfekt ohne أَنْ). Beschreibt die fast blendende Intensität des Blitzes."
+              "analysis": "كَادَ im Imperfekt. الْبَرْقُ = Subjekt (Nominativ). يَخْطَفُ = Prädikat (Imperfekt ohne أَنْ). Beschreibt die fast blendende Intensität des Blitzes.",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=20"
             },
             {
               "location": "24:35",
               "word": "يَكَادُ زَيْتُهَا يُضِيءُ وَلَوْ لَمْ تَمْسَسْهُ نَارٌ",
-              "analysis": "كَادَ: Das Öl leuchtet beinahe, AUCH WENN es kein Feuer berührt. Bild für die Klarheit des Lichts. يُضِيءُ ohne أَنْ."
+              "analysis": "كَادَ: Das Öl leuchtet beinahe, AUCH WENN es kein Feuer berührt. Bild für die Klarheit des Lichts. يُضِيءُ ohne أَنْ.",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=24&verse=35"
             },
             {
               "location": "2:216",
               "word": "عَسَى أَنْ تَكْرَهُوا شَيْئًا وَهُوَ خَيْرٌ لَكُمْ",
-              "analysis": "عَسَى ohne explizites Subjekt. أَنْ تَكْرَهُوا = Prädikat (Konjunktiv nach أَنْ). 'Vielleicht verabscheut ihr etwas, das gut für euch ist.'"
+              "analysis": "عَسَى ohne explizites Subjekt. أَنْ تَكْرَهُوا = Prädikat (Konjunktiv nach أَنْ). 'Vielleicht verabscheut ihr etwas, das gut für euch ist.'",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=216"
             },
             {
               "location": "5:52",
               "word": "فَعَسَى اللَّهُ أَنْ يَأْتِيَ بِالْفَتْحِ",
-              "analysis": "عَسَى + اللَّهُ als Subjekt + أَنْ يَأْتِيَ als Prädikat. عَسَى ist grammatisch eine Modalpartikel die Möglichkeit ausdrückt: 'Vielleicht wird Gott den Sieg bringen.'"
+              "analysis": "عَسَى + اللَّهُ als Subjekt + أَنْ يَأْتِيَ als Prädikat. عَسَى ist grammatisch eine Modalpartikel die Möglichkeit ausdrückt: 'Vielleicht wird Gott den Sieg bringen.'",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=5&verse=52"
             },
             {
               "location": "17:51",
               "word": "عَسَى أَنْ يَكُونَ قَرِيبًا",
-              "analysis": "عَسَى + أَنْ يَكُونَ: 'Vielleicht ist es nahe.' Das Prädikat von كَانَ (قَرِيبًا) steht im Akkusativ — verschachtelte Struktur."
+              "analysis": "عَسَى + أَنْ يَكُونَ: 'Vielleicht ist es nahe.' Das Prädikat von كَانَ (قَرِيبًا) steht im Akkusativ — verschachtelte Struktur.",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=17&verse=51"
             }
           ]
         },

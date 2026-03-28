@@ -5,8 +5,14 @@
     "totalFields": 25,
     "totalRoots": 1714,
     "sources": [
-      { "name": "Quranic Arabic Corpus", "url": "https://corpus.quran.com/" },
-      { "name": "Lane's Arabic-English Lexicon", "url": "https://ejtaal.net/aa/" }
+      {
+        "name": "Quranic Arabic Corpus",
+        "url": "https://corpus.quran.com/"
+      },
+      {
+        "name": "Lane's Arabic-English Lexicon",
+        "url": "https://ejtaal.net/aa/"
+      }
     ]
   },
   "fields": [

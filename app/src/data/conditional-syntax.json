@@ -3,8 +3,14 @@
     "title": "Konditionalsätze — Real vs. Irreal",
     "description": "Systematische Behandlung der Bedingungssätze im Quranischen Arabisch. Analyse der Konditionalpartikeln, ihrer syntaktischen Konsequenzen und ihrer Verteilung im Text.",
     "sources": [
-      {"label": "Wright's Grammar Vol II — Conditional Sentences", "url": "https://archive.org/details/WrightsArabicGrammar2Of2"},
-      {"label": "Quranic Arabic Corpus", "url": "https://corpus.quran.com"}
+      {
+        "label": "Wright's Grammar Vol II — Conditional Sentences",
+        "url": "https://archive.org/details/WrightsArabicGrammar2Of2"
+      },
+      {
+        "label": "Quranic Arabic Corpus",
+        "url": "https://corpus.quran.com"
+      }
     ]
   },
   "lessons": [
@@ -30,32 +36,38 @@
               {
                 "ref": "3:139",
                 "arabic": "وَلَا تَهِنُوا وَلَا تَحْزَنُوا وَأَنتُمُ الْأَعْلَوْنَ إِن كُنتُم مُّؤْمِنِينَ",
-                "explanation": "إِنْ كُنتُم — Protasis mit كان im Jussiv (كُنتُم). Die Apodosis steht hier VOR der Protasis (وَلَا تَهِنُوا). Vorangestellte Apodosis ist im Quran häufig."
+                "explanation": "إِنْ كُنتُم — Protasis mit كان im Jussiv (كُنتُم). Die Apodosis steht hier VOR der Protasis (وَلَا تَهِنُوا). Vorangestellte Apodosis ist im Quran häufig.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=139"
               },
               {
                 "ref": "2:229",
                 "arabic": "فَإِنْ خِفْتُمْ أَلَّا يُقِيمَا حُدُودَ اللَّهِ فَلَا جُنَاحَ عَلَيْهِمَا فِيمَا افْتَدَتْ بِهِ",
-                "explanation": "إِنْ خِفْتُمْ — Nach إِنْ steht das Perfekt mit konditionaler Bedeutung (Zukunftsbezug). Die Form ist morphologisch Perfekt, nicht Jussiv — der Jussiv erscheint nur bei Imperfekt-Formen. Die Apodosis ist ein Nominalsatz (فَلَا جُنَاحَ), daher mit فَ eingeleitet."
+                "explanation": "إِنْ خِفْتُمْ — Nach إِنْ steht das Perfekt mit konditionaler Bedeutung (Zukunftsbezug). Die Form ist morphologisch Perfekt, nicht Jussiv — der Jussiv erscheint nur bei Imperfekt-Formen. Die Apodosis ist ein Nominalsatz (فَلَا جُنَاحَ), daher mit فَ eingeleitet.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=229"
               },
               {
                 "ref": "4:128",
                 "arabic": "وَإِنِ امْرَأَةٌ خَافَتْ مِن بَعْلِهَا نُشُوزًا أَوْ إِعْرَاضًا فَلَا جُنَاحَ عَلَيْهِمَا أَن يُصْلِحَا بَيْنَهُمَا صُلْحًا",
-                "explanation": "إِنِ امْرَأَةٌ خَافَتْ — Bemerkenswert: Nach إِنْ steht hier ein Nomen (امْرَأَةٌ) vor dem Verb. Die Apodosis ist ein Nominalsatz mit فَ."
+                "explanation": "إِنِ امْرَأَةٌ خَافَتْ — Bemerkenswert: Nach إِنْ steht hier ein Nomen (امْرَأَةٌ) vor dem Verb. Die Apodosis ist ein Nominalsatz mit فَ.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=128"
               },
               {
                 "ref": "49:6",
                 "arabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا إِن جَاءَكُمْ فَاسِقٌ بِنَبَإٍ فَتَبَيَّنُوا",
-                "explanation": "إِنْ جَاءَكُمْ — Protasis im Jussiv. Die Apodosis ist ein Imperativ (فَتَبَيَّنُوا), daher mit فَ eingeleitet. Typisches Muster: إِنْ + Jussiv ... فَ + Imperativ."
+                "explanation": "إِنْ جَاءَكُمْ — Protasis im Jussiv. Die Apodosis ist ein Imperativ (فَتَبَيَّنُوا), daher mit فَ eingeleitet. Typisches Muster: إِنْ + Jussiv ... فَ + Imperativ.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=49&verse=6"
               },
               {
                 "ref": "9:6",
                 "arabic": "وَإِنْ أَحَدٌ مِّنَ الْمُشْرِكِينَ اسْتَجَارَكَ فَأَجِرْهُ حَتَّىٰ يَسْمَعَ كَلَامَ اللَّهِ",
-                "explanation": "إِنْ أَحَدٌ ... اسْتَجَارَكَ — Nomen zwischen إِنْ und Verb. Apodosis als Imperativ mit فَ (فَأَجِرْهُ). Dieselbe Struktur wie 49:6."
+                "explanation": "إِنْ أَحَدٌ ... اسْتَجَارَكَ — Nomen zwischen إِنْ und Verb. Apodosis als Imperativ mit فَ (فَأَجِرْهُ). Dieselbe Struktur wie 49:6.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=9&verse=6"
               },
               {
                 "ref": "47:7",
                 "arabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا إِن تَنصُرُوا اللَّهَ يَنصُرْكُمْ وَيُثَبِّتْ أَقْدَامَكُمْ",
-                "explanation": "إِنْ تَنصُرُوا ... يَنصُرْكُمْ — Beide Verben im Jussiv: تَنصُرُوا (Wegfall des Nun) und يَنصُرْكُمْ (Sukun). Klassische Doppel-Jussiv-Struktur."
+                "explanation": "إِنْ تَنصُرُوا ... يَنصُرْكُمْ — Beide Verben im Jussiv: تَنصُرُوا (Wegfall des Nun) und يَنصُرْكُمْ (Sukun). Klassische Doppel-Jussiv-Struktur.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=47&verse=7"
               }
             ]
           }
@@ -159,17 +171,20 @@
               {
                 "ref": "2:282",
                 "arabic": "وَإِذَا تَدَايَنتُم بِدَيْنٍ إِلَىٰ أَجَلٍ مُّسَمًّى فَاكْتُبُوهُ",
-                "explanation": "إِذَا + Perfekt (تَدَايَنتُم). Die Apodosis ist ein Imperativ mit فَ (فَاكْتُبُوهُ). Nicht-eschatologischer Kontext: Die Situation (gegenseitiges Leihen) wird als erwartbar und wiederkehrend dargestellt."
+                "explanation": "إِذَا + Perfekt (تَدَايَنتُم). Die Apodosis ist ein Imperativ mit فَ (فَاكْتُبُوهُ). Nicht-eschatologischer Kontext: Die Situation (gegenseitiges Leihen) wird als erwartbar und wiederkehrend dargestellt.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=282"
               },
               {
                 "ref": "62:11",
                 "arabic": "وَإِذَا رَأَوْا تِجَارَةً أَوْ لَهْوًا انفَضُّوا إِلَيْهَا",
-                "explanation": "إِذَا رَأَوْا — erwartete, wiederkehrende Situation. Die Apodosis (انفَضُّوا) steht im Perfekt. Beschreibung eines wiederkehrenden Verhaltens."
+                "explanation": "إِذَا رَأَوْا — erwartete, wiederkehrende Situation. Die Apodosis (انفَضُّوا) steht im Perfekt. Beschreibung eines wiederkehrenden Verhaltens.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=62&verse=11"
               },
               {
                 "ref": "63:4",
                 "arabic": "وَإِذَا رَأَيْتَهُمْ تُعْجِبُكَ أَجْسَامُهُمْ ۖ وَإِن يَقُولُوا تَسْمَعْ لِقَوْلِهِمْ",
-                "explanation": "Instruktiver Kontrast in EINEM Vers: إِذَا رَأَيْتَهُمْ (erwartete Situation, Perfekt) vs. إِنْ يَقُولُوا (offene Möglichkeit, Jussiv). Derselbe Vers zeigt den syntaktischen und semantischen Unterschied."
+                "explanation": "Instruktiver Kontrast in EINEM Vers: إِذَا رَأَيْتَهُمْ (erwartete Situation, Perfekt) vs. إِنْ يَقُولُوا (offene Möglichkeit, Jussiv). Derselbe Vers zeigt den syntaktischen und semantischen Unterschied.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=63&verse=4"
               }
             ]
           }
@@ -252,32 +267,38 @@
               {
                 "ref": "2:102",
                 "arabic": "وَلَوْ أَنَّهُمْ آمَنُوا وَاتَّقَوْا لَمَثُوبَةٌ مِّنْ عِندِ اللَّهِ خَيْرٌ",
-                "explanation": "لَوْ أَنَّهُمْ آمَنُوا — Protasis: 'Wenn sie geglaubt hätten (aber sie haben nicht)'. Apodosis mit لَ: لَمَثُوبَةٌ — 'dann wäre eine Belohnung besser'. Klassische لَوْ ... لَ-Struktur."
+                "explanation": "لَوْ أَنَّهُمْ آمَنُوا — Protasis: 'Wenn sie geglaubt hätten (aber sie haben nicht)'. Apodosis mit لَ: لَمَثُوبَةٌ — 'dann wäre eine Belohnung besser'. Klassische لَوْ ... لَ-Struktur.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=102"
               },
               {
                 "ref": "10:99",
                 "arabic": "وَلَوْ شَاءَ رَبُّكَ لَآمَنَ مَن فِي الْأَرْضِ كُلُّهُمْ جَمِيعًا",
-                "explanation": "لَوْ شَاءَ رَبُّكَ — 'Wenn dein Herr gewollt hätte'. لَآمَنَ — 'dann hätten alle geglaubt'. Irreal: Er hat nicht (in dieser Weise) gewollt, also haben nicht alle geglaubt."
+                "explanation": "لَوْ شَاءَ رَبُّكَ — 'Wenn dein Herr gewollt hätte'. لَآمَنَ — 'dann hätten alle geglaubt'. Irreal: Er hat nicht (in dieser Weise) gewollt, also haben nicht alle geglaubt.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=10&verse=99"
               },
               {
                 "ref": "4:66",
                 "arabic": "وَلَوْ أَنَّهُمْ فَعَلُوا مَا يُوعَظُونَ بِهِ لَكَانَ خَيْرًا لَّهُمْ",
-                "explanation": "لَوْ أَنَّهُمْ فَعَلُوا — 'Hätten sie getan, wozu sie ermahnt werden'. لَكَانَ خَيْرًا — 'es wäre besser für sie gewesen'. Apodosis mit لَ + كَانَ."
+                "explanation": "لَوْ أَنَّهُمْ فَعَلُوا — 'Hätten sie getan, wozu sie ermahnt werden'. لَكَانَ خَيْرًا — 'es wäre besser für sie gewesen'. Apodosis mit لَ + كَانَ.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=66"
               },
               {
                 "ref": "2:253",
                 "arabic": "وَلَوْ شَاءَ اللَّهُ مَا اقْتَتَلَ الَّذِينَ مِن بَعْدِهِم",
-                "explanation": "لَوْ شَاءَ اللَّهُ — Protasis. مَا اقْتَتَلَ — Negierte Apodosis mit مَا (statt لَ): 'Hätte Gott gewollt, hätten sie NICHT gegeneinander gekaempft.'"
+                "explanation": "لَوْ شَاءَ اللَّهُ — Protasis. مَا اقْتَتَلَ — Negierte Apodosis mit مَا (statt لَ): 'Hätte Gott gewollt, hätten sie NICHT gegeneinander gekaempft.'",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=253"
               },
               {
                 "ref": "6:27",
                 "arabic": "وَلَوْ تَرَىٰ إِذْ وُقِفُوا عَلَى النَّارِ فَقَالُوا يَا لَيْتَنَا نُرَدُّ",
-                "explanation": "لَوْ تَرَى — 'Wenn du saehest...' — die Apodosis fehlt. Der Hörer soll die Konsequenz selbst erschließen. Diese Ellipse nach لَوْ تَرَى ist ein wiederkehrendes Muster im Quran."
+                "explanation": "لَوْ تَرَى — 'Wenn du saehest...' — die Apodosis fehlt. Der Hörer soll die Konsequenz selbst erschließen. Diese Ellipse nach لَوْ تَرَى ist ein wiederkehrendes Muster im Quran.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=6&verse=27"
               },
               {
                 "ref": "39:58",
                 "arabic": "لَوْ أَنَّ لِي كَرَّةً فَأَكُونَ مِنَ الْمُحْسِنِينَ",
-                "explanation": "لَوْ أَنَّ لِي كَرَّةً — 'Wenn ich doch eine Rückkehr hätte...' — Wunsch-لَوْ. Hier drückt لَوْ keinen kontrafaktischen Bedingungssatz, sondern einen unerfüllbaren Wunsch aus. فَأَكُونَ steht im Subjunktiv (nach فَ als Folge)."
+                "explanation": "لَوْ أَنَّ لِي كَرَّةً — 'Wenn ich doch eine Rückkehr hätte...' — Wunsch-لَوْ. Hier drückt لَوْ keinen kontrafaktischen Bedingungssatz, sondern einen unerfüllbaren Wunsch aus. فَأَكُونَ steht im Subjunktiv (nach فَ als Folge).",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=39&verse=58"
               }
             ]
           }
@@ -360,27 +381,32 @@
               {
                 "ref": "63:4",
                 "arabic": "وَإِذَا رَأَيْتَهُمْ تُعْجِبُكَ أَجْسَامُهُمْ ۖ وَإِن يَقُولُوا تَسْمَعْ لِقَوْلِهِمْ",
-                "explanation": "DERSELBE VERS, zwei Partikeln: إِذَا رَأَيْتَهُمْ (du wirst sie sehen — erwartet, Perfekt) vs. إِنْ يَقُولُوا (falls sie sprechen — offen, Jussiv). Die Partikelwahl zeigt: Das Sehen ist sicher, das Sprechen unsicher."
+                "explanation": "DERSELBE VERS, zwei Partikeln: إِذَا رَأَيْتَهُمْ (du wirst sie sehen — erwartet, Perfekt) vs. إِنْ يَقُولُوا (falls sie sprechen — offen, Jussiv). Die Partikelwahl zeigt: Das Sehen ist sicher, das Sprechen unsicher.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=63&verse=4"
               },
               {
                 "ref": "2:284",
                 "arabic": "وَإِن تُبْدُوا مَا فِي أَنفُسِكُمْ أَوْ تُخْفُوهُ يُحَاسِبْكُم بِهِ اللَّهُ",
-                "explanation": "إِنْ تُبْدُوا — 'Falls ihr offenlegt' (offen, neutral, Jussiv). Die Alternative (أَوْ تُخْفُوهُ) zeigt die Neutralität: Der Sprecher praesupponiert nicht, welche Option eintritt."
+                "explanation": "إِنْ تُبْدُوا — 'Falls ihr offenlegt' (offen, neutral, Jussiv). Die Alternative (أَوْ تُخْفُوهُ) zeigt die Neutralität: Der Sprecher praesupponiert nicht, welche Option eintritt.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=284"
               },
               {
                 "ref": "24:28",
                 "arabic": "وَإِن لَّمْ تَجِدُوا فِيهَا أَحَدًا فَلَا تَدْخُلُوهَا",
-                "explanation": "إِنْ لَمْ تَجِدُوا — negierte Protasis mit إِنْ + لَمْ + Jussiv. Die Möglichkeit ist offen dargestellt."
+                "explanation": "إِنْ لَمْ تَجِدُوا — negierte Protasis mit إِنْ + لَمْ + Jussiv. Die Möglichkeit ist offen dargestellt.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=24&verse=28"
               },
               {
                 "ref": "3:159",
                 "arabic": "فَإِذَا عَزَمْتَ فَتَوَكَّلْ عَلَى اللَّهِ",
-                "explanation": "إِذَا عَزَمْتَ — 'Wenn du dich entschliesst' (erwartet — der Entschluss wird als sicher behandelt). فَتَوَكَّلْ — Imperativische Apodosis mit فَ."
+                "explanation": "إِذَا عَزَمْتَ — 'Wenn du dich entschliesst' (erwartet — der Entschluss wird als sicher behandelt). فَتَوَكَّلْ — Imperativische Apodosis mit فَ.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=159"
               },
               {
                 "ref": "10:99",
                 "arabic": "وَلَوْ شَاءَ رَبُّكَ لَآمَنَ مَن فِي الْأَرْضِ كُلُّهُمْ جَمِيعًا",
-                "explanation": "لَوْ شَاءَ — 'Hätte dein Herr gewollt (aber er hat nicht in dieser Weise gewollt)'. Irreal. Vergleiche mit dem theoretischen إِنْ يَشَأْ — das wäre eine offene Möglichkeit."
+                "explanation": "لَوْ شَاءَ — 'Hätte dein Herr gewollt (aber er hat nicht in dieser Weise gewollt)'. Irreal. Vergleiche mit dem theoretischen إِنْ يَشَأْ — das wäre eine offene Möglichkeit.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=10&verse=99"
               }
             ]
           }
@@ -469,17 +495,20 @@
               {
                 "ref": "2:251",
                 "arabic": "وَلَوْلَا دَفْعُ اللَّهِ النَّاسَ بَعْضَهُم بِبَعْضٍ لَّفَسَدَتِ الْأَرْضُ",
-                "explanation": "لَوْلَا + Nomen (دَفْعُ) — kontrafaktisch: 'Gaebe es nicht Gottes Zurückdraengen der Menschen, wäre die Erde verdorben.' Apodosis mit لَ + Perfekt."
+                "explanation": "لَوْلَا + Nomen (دَفْعُ) — kontrafaktisch: 'Gaebe es nicht Gottes Zurückdraengen der Menschen, wäre die Erde verdorben.' Apodosis mit لَ + Perfekt.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=251"
               },
               {
                 "ref": "12:24",
                 "arabic": "وَلَقَدْ هَمَّتْ بِهِ ۖ وَهَمَّ بِهَا لَوْلَا أَن رَّأَىٰ بُرْهَانَ رَبِّهِ",
-                "explanation": "لَوْلَا أَنْ رَأَى — 'Hätte er nicht das Zeichen seines Herrn gesehen...' Kontrafaktisch mit أَنْ + Perfekt."
+                "explanation": "لَوْلَا أَنْ رَأَى — 'Hätte er nicht das Zeichen seines Herrn gesehen...' Kontrafaktisch mit أَنْ + Perfekt.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=12&verse=24"
               },
               {
                 "ref": "4:72",
                 "arabic": "لَوْلَا أَنَّ اللَّهَ أَنْعَمَ عَلَيَّ",
-                "explanation": "لَوْلَا أَنَّ — 'Wäre es nicht, dass Gott mir Gunst erwiesen hat...' Kontrafaktische Bedingung mit أَنَّ-Satz."
+                "explanation": "لَوْلَا أَنَّ — 'Wäre es nicht, dass Gott mir Gunst erwiesen hat...' Kontrafaktische Bedingung mit أَنَّ-Satz.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=72"
               }
             ]
           },
@@ -495,22 +524,26 @@
               {
                 "ref": "2:272",
                 "arabic": "وَمَا تُنفِقُوا مِنْ خَيْرٍ فَلِأَنفُسِكُمْ",
-                "explanation": "مَا تُنفِقُوا — 'Was auch immer ihr ausgebt' (تُنفِقُوا im Jussiv: Wegfall des Nun). Apodosis als Nominalsatz mit فَ: فَلِأَنفُسِكُمْ."
+                "explanation": "مَا تُنفِقُوا — 'Was auch immer ihr ausgebt' (تُنفِقُوا im Jussiv: Wegfall des Nun). Apodosis als Nominalsatz mit فَ: فَلِأَنفُسِكُمْ.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=272"
               },
               {
                 "ref": "2:110",
                 "arabic": "وَمَا تُقَدِّمُوا لِأَنفُسِكُم مِّنْ خَيْرٍ تَجِدُوهُ عِندَ اللَّهِ",
-                "explanation": "مَا تُقَدِّمُوا ... تَجِدُوهُ — Beide Verben im Jussiv. Generalisiert: 'Was auch immer ihr vorausschickt, ihr werdet es bei Gott finden.'"
+                "explanation": "مَا تُقَدِّمُوا ... تَجِدُوهُ — Beide Verben im Jussiv. Generalisiert: 'Was auch immer ihr vorausschickt, ihr werdet es bei Gott finden.'",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=110"
               },
               {
                 "ref": "3:28",
                 "arabic": "وَمَن يَفْعَلْ ذَٰلِكَ فَلَيْسَ مِنَ اللَّهِ فِي شَيْءٍ",
-                "explanation": "مَنْ يَفْعَلْ — 'Wer auch immer das tut' (يَفْعَلْ im Jussiv). Apodosis mit فَ + لَيْسَ."
+                "explanation": "مَنْ يَفْعَلْ — 'Wer auch immer das tut' (يَفْعَلْ im Jussiv). Apodosis mit فَ + لَيْسَ.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=28"
               },
               {
                 "ref": "7:132",
                 "arabic": "مَهْمَا تَأْتِنَا بِهِ مِنْ آيَةٍ لِّتَسْحَرَنَا بِهَا فَمَا نَحْنُ لَكَ بِمُؤْمِنِينَ",
-                "explanation": "مَهْمَا تَأْتِنَا — 'Was auch immer du uns bringst' (تَأْتِنَا im Jussiv). Apodosis als negierter Nominalsatz mit فَ."
+                "explanation": "مَهْمَا تَأْتِنَا — 'Was auch immer du uns bringst' (تَأْتِنَا im Jussiv). Apodosis als negierter Nominalsatz mit فَ.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=7&verse=132"
               }
             ]
           },
@@ -526,22 +559,26 @@
               {
                 "ref": "2:148",
                 "arabic": "أَيْنَ مَا تَكُونُوا يَأْتِ بِكُمُ اللَّهُ جَمِيعًا",
-                "explanation": "أَيْنَمَا تَكُونُوا — 'Wo auch immer ihr seid' (تَكُونُوا im Jussiv: Wegfall des Nun). يَأْتِ im Jussiv (Wegfall der Alif). Lokale, generalisierte Bedingung."
+                "explanation": "أَيْنَمَا تَكُونُوا — 'Wo auch immer ihr seid' (تَكُونُوا im Jussiv: Wegfall des Nun). يَأْتِ im Jussiv (Wegfall der Alif). Lokale, generalisierte Bedingung.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=148"
               },
               {
                 "ref": "4:78",
                 "arabic": "أَيْنَمَا تَكُونُوا يُدْرِككُّمُ الْمَوْتُ وَلَوْ كُنتُمْ فِي بُرُوجٍ مُّشَيَّدَةٍ",
-                "explanation": "أَيْنَمَا تَكُونُوا يُدْرِككُّمُ الْمَوْتُ — 'Wo auch immer ihr seid, der Tod erreicht euch.' Beachte den Nachsatz mit وَلَوْ ('selbst wenn') — eine zusätzliche konzessive Bedingung."
+                "explanation": "أَيْنَمَا تَكُونُوا يُدْرِككُّمُ الْمَوْتُ — 'Wo auch immer ihr seid, der Tod erreicht euch.' Beachte den Nachsatz mit وَلَوْ ('selbst wenn') — eine zusätzliche konzessive Bedingung.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=78"
               },
               {
                 "ref": "2:87",
                 "arabic": "أَفَكُلَّمَا جَاءَكُمْ رَسُولٌ بِمَا لَا تَهْوَىٰ أَنفُسُكُمُ اسْتَكْبَرْتُمْ",
-                "explanation": "كُلَّمَا جَاءَكُمْ — 'Jedes Mal wenn ein Gesandter zu euch kam'. Perfekt in Protasis (جَاءَكُمْ) und Apodosis (اسْتَكْبَرْتُمْ). Iterativ: wiederholtes Muster."
+                "explanation": "كُلَّمَا جَاءَكُمْ — 'Jedes Mal wenn ein Gesandter zu euch kam'. Perfekt in Protasis (جَاءَكُمْ) und Apodosis (اسْتَكْبَرْتُمْ). Iterativ: wiederholtes Muster.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=87"
               },
               {
                 "ref": "5:64",
                 "arabic": "كُلَّمَا أَوْقَدُوا نَارًا لِّلْحَرْبِ أَطْفَأَهَا اللَّهُ",
-                "explanation": "كُلَّمَا أَوْقَدُوا ... أَطْفَأَهَا — 'Jedes Mal wenn sie ein Kriegsfeuer entzuendeten, loeschte Gott es.' Perfekt + Perfekt. Iterative Wiederholung."
+                "explanation": "كُلَّمَا أَوْقَدُوا ... أَطْفَأَهَا — 'Jedes Mal wenn sie ein Kriegsfeuer entzuendeten, loeschte Gott es.' Perfekt + Perfekt. Iterative Wiederholung.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=5&verse=64"
               }
             ]
           }

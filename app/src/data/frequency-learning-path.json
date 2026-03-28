@@ -5,8 +5,14 @@
     "totalRoots": 1642,
     "tierCount": 4,
     "sources": [
-      { "name": "Quranic Arabic Corpus", "url": "https://corpus.quran.com/" },
-      { "name": "Lane's Lexicon", "url": "https://ejtaal.net/aa/" }
+      {
+        "name": "Quranic Arabic Corpus",
+        "url": "https://corpus.quran.com/"
+      },
+      {
+        "name": "Lane's Lexicon",
+        "url": "https://ejtaal.net/aa/"
+      }
     ]
   },
   "tiers": [
@@ -90,11 +96,11 @@
         },
         {
           "rank": 11,
-          "root": "ش ي أ",
-          "rootArabic": "شيأ",
+          "root": "ش ي ا",
+          "rootArabic": "شيا",
           "count": 519,
           "meaning": "Ding/Sache",
-          "note": "Dritter Radikal ist Hamza (أ), nicht Alif — Wurzel ش-ي-أ"
+          "note": "Dritter Radikal ist Hamza (ء). Hier mit Alif (ا) notiert fuer Konsistenz mit der Morphologie-Datenbank."
         },
         {
           "rank": 12,
@@ -287,10 +293,11 @@
         },
         {
           "rank": 39,
-          "root": "ا ن س",
-          "rootArabic": "انس",
+          "root": "ن و س",
+          "rootArabic": "نوس",
           "count": 241,
-          "meaning": "Menschen"
+          "meaning": "Menschen",
+          "note": "Die Zuordnung zu ن-و-س folgt der Morphologie-Datenbank. In den meisten Lexika (u.a. Lane's) wird الناس unter أ-ن-س gefuehrt."
         },
         {
           "rank": 40,

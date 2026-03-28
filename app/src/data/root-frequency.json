@@ -1,13 +1,15 @@
 {
   "meta": {
     "description": "Frequenzsortierte Wurzelliste des quranischen Korpus (77429 Wörter)",
-    "totalRoots": 1642,
+    "totalQuranRoots": 1642,
+    "entriesInFile": 300,
     "totalWords": 77429,
     "top50coverage": 22812,
     "top100coverage": 30227,
     "top300coverage": 41704,
     "note": "Top 300 Wurzeln mit Kurzangaben — für praezise Semantik Lanes Lexicon konsultieren.",
     "rootNotation": "Hamza-finale Wurzeln werden in diesem Datensatz mit Alif (ا) statt Hamza (ء) notiert. Dies ist eine Vereinfachung für Konsistenz mit der Quran-Morphologie-Datenbank. Beispiel: ش-ي-ا steht für ش-ي-ء.",
+    "wordCountNote": "totalWords (77429) basiert auf der Wurzel-Zuordnung des Quranic Arabic Corpus. Die Summe der Wort-Zaehlungen in sura-index.json (77800) weicht ab, da unterschiedliche Zaehlmethoden bestehen: ob die Basmala pro Sure mitgezaehlt wird, wie zusammengesetzte Partikeln (z.B. بسم) gezaehlt werden, und ob Funktionswoerter ohne Wurzelzuordnung einbezogen sind.",
     "sources": [
       {"label": "Quranic Arabic Corpus — Corpus Statistics", "url": "https://corpus.quran.com/qurandictionary.jsp"},
       {"label": "Lane's Lexicon (Root Semantics)", "url": "https://ejtaal.net/aa/"}

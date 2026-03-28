@@ -5,7 +5,7 @@
     "sources": [
       {
         "name": "Wright's Arabic Grammar (3rd ed.)",
-        "url": "https://archive.org/details/grammarofarabicl01telerich"
+        "url": "https://archive.org/details/WrightsArabicGrammar1Of2"
       },
       {
         "name": "Quranic Arabic Corpus",
@@ -42,22 +42,26 @@
               {
                 "ref": "2:184",
                 "arabic": "وَأَن تَصُومُوا خَيْرٌ لَّكُمْ",
-                "explanation": "أَنْ تَصُومُوا = في محل رفع مبتدأ. Der Masdar-Satz ('dass ihr fastet') nimmt Subjektposition ein. خَيْرٌ = Khabar (Nominativ, stimmt mit dem virtuellen Nominativ des Mubtada überein)."
+                "explanation": "أَنْ تَصُومُوا = في محل رفع مبتدأ. Der Masdar-Satz ('dass ihr fastet') nimmt Subjektposition ein. خَيْرٌ = Khabar (Nominativ, stimmt mit dem virtuellen Nominativ des Mubtada überein).",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=184"
               },
               {
                 "ref": "2:77",
                 "arabic": "أَوَلَا يَعْلَمُونَ أَنَّ اللَّهَ يَعْلَمُ",
-                "explanation": "أَنَّ اللَّهَ يَعْلَمُ = في محل نصب مفعول به. Der أَنَّ-Satz steht als direktes Objekt von يَعْلَمُونَ. Er nimmt virtuell Akkusativ-Position ein, obwohl اللَّهَ darin Ism anna (Akkusativ) und يَعْلَمُ Khabar ist."
+                "explanation": "أَنَّ اللَّهَ يَعْلَمُ = في محل نصب مفعول به. Der أَنَّ-Satz steht als direktes Objekt von يَعْلَمُونَ. Er nimmt virtuell Akkusativ-Position ein, obwohl اللَّهَ darin Ism anna (Akkusativ) und يَعْلَمُ Khabar ist.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=77"
               },
               {
                 "ref": "3:39",
                 "arabic": "فَنَادَتْهُ الْمَلَائِكَةُ وَهُوَ قَائِمٌ يُصَلِّي فِي الْمِحْرَابِ",
-                "explanation": "وَهُوَ قَائِمٌ يُصَلِّي = في محل نصب حال. Der ganze Nominalsatz nimmt Hal-Akkusativ-Position ein. Intern: هُوَ = Mubtada (Nominativ), قَائِمٌ = Khabar (Nominativ). Aber extern: die Phrase ist 'in Akkusativ-Position'."
+                "explanation": "وَهُوَ قَائِمٌ يُصَلِّي = في محل نصب حال. Der ganze Nominalsatz nimmt Hal-Akkusativ-Position ein. Intern: هُوَ = Mubtada (Nominativ), قَائِمٌ = Khabar (Nominativ). Aber extern: die Phrase ist 'in Akkusativ-Position'.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=39"
               },
               {
                 "ref": "2:2",
                 "arabic": "ذَٰلِكَ الْكِتَابُ لَا رَيْبَ فِيهِ هُدًى لِّلْمُتَّقِينَ",
-                "explanation": "لَا رَيْبَ فِيهِ = in mahall raf' (Khabar oder attributiver Satz nach ذَٰلِكَ الْكِتَابُ). Der Negativsatz nimmt Prädikatposition ein. هُدًى = zusätzlicher Khabar oder Hal (umstritten). Zeigt: auch einfache Verneinungssaetze können Prädikatfunktion haben."
+                "explanation": "لَا رَيْبَ فِيهِ = in mahall raf' (Khabar oder attributiver Satz nach ذَٰلِكَ الْكِتَابُ). Der Negativsatz nimmt Prädikatposition ein. هُدًى = zusätzlicher Khabar oder Hal (umstritten). Zeigt: auch einfache Verneinungssaetze können Prädikatfunktion haben.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=2"
               }
             ]
           }
@@ -104,17 +108,20 @@
               {
                 "ref": "1:7",
                 "arabic": "صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ",
-                "explanation": "الَّذِينَ = Relativpronomen (في محل جر — Idafa-Genitiv nach صِرَاطَ). Der Relativsatz أَنْعَمْتَ عَلَيْهِمْ hat لا محل له — er ist die Silah des Relativpronomens. Die Kasusposition trägt الَّذِينَ, nicht der Satz selbst."
+                "explanation": "الَّذِينَ = Relativpronomen (في محل جر — Idafa-Genitiv nach صِرَاطَ). Der Relativsatz أَنْعَمْتَ عَلَيْهِمْ hat لا محل له — er ist die Silah des Relativpronomens. Die Kasusposition trägt الَّذِينَ, nicht der Satz selbst.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=7"
               },
               {
                 "ref": "2:3",
                 "arabic": "الَّذِينَ يُؤْمِنُونَ بِالْغَيْبِ وَيُقِيمُونَ الصَّلَاةَ",
-                "explanation": "الَّذِينَ = Relativpronomen في محل رفع مبتدأ (oder andere Position je nach Analyse). يُؤْمِنُونَ = Silah-Satz (لا محل له). Die gesamte Phrase الَّذِينَ يُؤْمِنُونَ nimmt Mubtada-Position ein; der Relativsatz selbst hat kein eigenes محل."
+                "explanation": "الَّذِينَ = Relativpronomen في محل رفع مبتدأ (oder andere Position je nach Analyse). يُؤْمِنُونَ = Silah-Satz (لا محل له). Die gesamte Phrase الَّذِينَ يُؤْمِنُونَ nimmt Mubtada-Position ein; der Relativsatz selbst hat kein eigenes محل.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=3"
               },
               {
                 "ref": "2:285",
                 "arabic": "آمَنَ الرَّسُولُ بِمَا أُنزِلَ إِلَيْهِ مِن رَّبِّهِ",
-                "explanation": "بِمَا أُنزِلَ = بِ + مَا (Relativpronomen) + Relativsatz أُنزِلَ. مَا steht في محل جر (nach بِ). Der Relativsatz أُنزِلَ إِلَيْهِ لا محل له — er ist Silah des مَا."
+                "explanation": "بِمَا أُنزِلَ = بِ + مَا (Relativpronomen) + Relativsatz أُنزِلَ. مَا steht في محل جر (nach بِ). Der Relativsatz أُنزِلَ إِلَيْهِ لا محل له — er ist Silah des مَا.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=285"
               }
             ]
           }

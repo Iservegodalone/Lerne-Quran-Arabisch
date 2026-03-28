@@ -3,8 +3,14 @@
     "title": "Maf'ul Ma'ahu — Begleitobjekt (المفعول معه)",
     "description": "Das Begleitobjekt steht nach dem Waw al-Ma'iyya (واو المعية) im Akkusativ und drückt aus, dass jemand oder etwas gleichzeitig mit der Handlung praesent ist — ohne aktiv an ihr teilzunehmen. Im Quran ist kein eindeutiger, unumstrittener Beleg für den Maf'ul Ma'ahu vorhanden. Die Konstruktion ist primär aus der klassischen Grammatiktradition bekannt. Die folgenden Beispiele zeigen Grenzfälle und Kontrastbeispiele.",
     "sources": [
-      { "name": "Wright's Arabic Grammar Vol II", "url": "https://archive.org/details/grammarofthearab02telerich" },
-      { "name": "Quranic Arabic Corpus", "url": "https://corpus.quran.com/" }
+      {
+        "name": "Wright's Arabic Grammar Vol II",
+        "url": "https://archive.org/details/grammarofthearab02telerich"
+      },
+      {
+        "name": "Quranic Arabic Corpus",
+        "url": "https://corpus.quran.com/"
+      }
     ]
   },
   "lessons": [
@@ -36,7 +42,8 @@
               {
                 "ref": "20:18",
                 "arabic": "قَالَ هِيَ عَصَايَ أَتَوَكَّأُ عَلَيْهَا وَأَهُشُّ بِهَا عَلَى غَنَمِي وَلِيَ فِيهَا مَأْرَبُ أُخْرَىٰ",
-                "explanation": "Die Verbindungen hier sind alle WAW AL-'ATF (Koordination von Sätzen). Kein Maf'ul Ma'ahu. Vergleichsbeispiel."
+                "explanation": "Die Verbindungen hier sind alle WAW AL-'ATF (Koordination von Sätzen). Kein Maf'ul Ma'ahu. Vergleichsbeispiel.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=20&verse=18"
               },
               {
                 "ref": "Allgemein",
@@ -46,7 +53,8 @@
               {
                 "ref": "2:148",
                 "arabic": "فَاسْتَبِقُوا الْخَيْرَاتِ",
-                "explanation": "Kein Maf'ul Ma'ahu. فَاسْتَبِقُوا = Imperativ. الْخَيْرَاتِ = Maf'ul bihi (direktes Objekt). Gezeigt als Kontrast."
+                "explanation": "Kein Maf'ul Ma'ahu. فَاسْتَبِقُوا = Imperativ. الْخَيْرَاتِ = Maf'ul bihi (direktes Objekt). Gezeigt als Kontrast.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=148"
               }
             ]
           },

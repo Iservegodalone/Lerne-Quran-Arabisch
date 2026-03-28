@@ -3,8 +3,14 @@
     "title": "Tamyiz — Spezifikationsakkusativ (التمييز)",
     "description": "Der Tamyiz präzisiert eine semantische Mehrdeutigkeit: er gibt an, in Bezug worauf eine Zahl, ein Adjektiv, ein Elativ oder ein Verb gilt. Er steht immer im Akkusativ und ist im Quran vor allem nach Zahlen und Elativ-Adjektiven zu finden.",
     "sources": [
-      {"label": "Wright's Grammar Vol II — Tamyiz (Specification)", "url": "https://archive.org/details/WrightsArabicGrammar2Of2"},
-      {"label": "Quranic Arabic Corpus", "url": "https://corpus.quran.com"}
+      {
+        "label": "Wright's Grammar Vol II — Tamyiz (Specification)",
+        "url": "https://archive.org/details/WrightsArabicGrammar2Of2"
+      },
+      {
+        "label": "Quranic Arabic Corpus",
+        "url": "https://corpus.quran.com"
+      }
     ]
   },
   "lessons": [
@@ -31,17 +37,20 @@
               {
                 "ref": "70:4",
                 "arabic": "فِي يَوْمٍ كَانَ مِقْدَارُهُ خَمْسِينَ أَلْفَ سَنَةٍ",
-                "explanation": "خَمْسِينَ = Zahl (50). أَلْفَ = Tamyiz zu خَمْسِينَ (Akkusativ Singular von أَلْف: 'tausend'). سَنَةٍ = Idafa-Genitiv zu أَلْفَ. Gesamtstruktur: '50 [tausend] — tausend wovon? — Jahren.' Beachte: 50.000 wird im Arabischen als 'fünfzig Tausend' konstruiert, wobei 'Tausend' den Tamyiz von 'fünfzig' bildet."
+                "explanation": "خَمْسِينَ = Zahl (50). أَلْفَ = Tamyiz zu خَمْسِينَ (Akkusativ Singular von أَلْف: 'tausend'). سَنَةٍ = Idafa-Genitiv zu أَلْفَ. Gesamtstruktur: '50 [tausend] — tausend wovon? — Jahren.' Beachte: 50.000 wird im Arabischen als 'fünfzig Tausend' konstruiert, wobei 'Tausend' den Tamyiz von 'fünfzig' bildet.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=70&verse=4"
               },
               {
                 "ref": "2:261",
                 "arabic": "كَمَثَلِ حَبَّةٍ أَنبَتَتْ سَبْعَ سَنَابِلَ فِي كُلِّ سُنبُلَةٍ مِّائَةُ حَبَّةٍ",
-                "explanation": "سَبْعَ = Zahl 7. سَنَابِلَ = Mudaf ilayhi (Genitiv Plural in Idafa-Konstruktion mit سَبْعَ, da die Zahlen 3-10 mit dem Gezählten eine Idafa bilden — hier: سَنَابِلَ ist ein diptotisches Nomen, daher Genitiv auf Fatha statt Kasra). مِائَةُ حَبَّةٍ = 'hundert Koerner' — حَبَّةٍ ist Idafa-Genitiv nach مِائَة. Im Genitiv, weil 100 Genitiv Singular nimmt. Beachte: Tamyiz im Akkusativ Singular gilt nur für die Zahlen 11-99."
+                "explanation": "سَبْعَ = Zahl 7. سَنَابِلَ = Mudaf ilayhi (Genitiv Plural in Idafa-Konstruktion mit سَبْعَ, da die Zahlen 3-10 mit dem Gezählten eine Idafa bilden — hier: سَنَابِلَ ist ein diptotisches Nomen, daher Genitiv auf Fatha statt Kasra). مِائَةُ حَبَّةٍ = 'hundert Koerner' — حَبَّةٍ ist Idafa-Genitiv nach مِائَة. Im Genitiv, weil 100 Genitiv Singular nimmt. Beachte: Tamyiz im Akkusativ Singular gilt nur für die Zahlen 11-99.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=261"
               },
               {
                 "ref": "12:43",
                 "arabic": "إِنِّي أَرَىٰ سَبْعَ بَقَرَاتٍ سِمَانٍ يَأْكُلُهُنَّ سَبْعٌ عِجَافٌ وَسَبْعَ سُنبُلَاتٍ خُضْرٍ",
-                "explanation": "سَبْعَ بَقَرَاتٍ = Zahl + Tamyiz (Genitiv Plural nach 3-10). سِمَانٍ = Attribut (Genitiv, kongruiert mit بَقَرَاتٍ). سَبْعٌ عِجَافٌ = 'sieben magere' — hier ist die Zahl Subjekt (سَبْعٌ im Nominativ), عِجَافٌ ist Attribut. Verschiedene Positionen der Zahl im selben Vers."
+                "explanation": "سَبْعَ بَقَرَاتٍ = Zahl + Tamyiz (Genitiv Plural nach 3-10). سِمَانٍ = Attribut (Genitiv, kongruiert mit بَقَرَاتٍ). سَبْعٌ عِجَافٌ = 'sieben magere' — hier ist die Zahl Subjekt (سَبْعٌ im Nominativ), عِجَافٌ ist Attribut. Verschiedene Positionen der Zahl im selben Vers.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=12&verse=43"
               }
             ]
           }
@@ -93,22 +102,26 @@
               {
                 "ref": "18:34",
                 "arabic": "أَنَا أَكْثَرُ مِنكَ مَالًا وَأَعَزُّ نَفَرًا",
-                "explanation": "مَالًا = Tamyiz nach Elativ أَكْثَرُ. 'Ich habe mehr als du — in Bezug auf Vermögen.' Akkusativ Singular. نَفَرًا = Tamyiz nach Elativ أَعَزُّ. 'Ich bin mächtiger in Bezug auf Gefolgschaft.' Beide Tamyize präzisieren, in welcher Hinsicht die Überlegenheit gilt."
+                "explanation": "مَالًا = Tamyiz nach Elativ أَكْثَرُ. 'Ich habe mehr als du — in Bezug auf Vermögen.' Akkusativ Singular. نَفَرًا = Tamyiz nach Elativ أَعَزُّ. 'Ich bin mächtiger in Bezug auf Gefolgschaft.' Beide Tamyize präzisieren, in welcher Hinsicht die Überlegenheit gilt.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=18&verse=34"
               },
               {
                 "ref": "25:24",
                 "arabic": "أَصْحَابُ الْجَنَّةِ يَوْمَئِذٍ خَيْرٌ مُّسْتَقَرًّا وَأَحْسَنُ مَقِيلًا",
-                "explanation": "مُّسْتَقَرًّا = Tamyiz nach Elativ خَيْرٌ. Akkusativ Singular. 'Besser an Aufenthaltsort.' مَقِيلًا = Tamyiz nach Elativ أَحْسَنُ. 'Schönerer Ruheplatz.' Beide sind indefinite Akkusative, die die Vergleichsdimension angeben."
+                "explanation": "مُّسْتَقَرًّا = Tamyiz nach Elativ خَيْرٌ. Akkusativ Singular. 'Besser an Aufenthaltsort.' مَقِيلًا = Tamyiz nach Elativ أَحْسَنُ. 'Schönerer Ruheplatz.' Beide sind indefinite Akkusative, die die Vergleichsdimension angeben.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=25&verse=24"
               },
               {
                 "ref": "12:65",
                 "arabic": "وَنَزْدَادُ كَيْلَ بَعِيرٍ",
-                "explanation": "كَيْلَ بَعِيرٍ = 'das Mass eines Kamels'. كَيْلَ ist Tamyiz zu der impliziten Menge in وَنَزْدَادُ ('wir werden mehr bekommen — woran? an Kamelsladung'). Akkusativ mit Idafa-Genitiv. Zeigt, dass Tamyiz auch als Idafa-Konstruktion erscheinen kann."
+                "explanation": "كَيْلَ بَعِيرٍ = 'das Mass eines Kamels'. كَيْلَ ist Tamyiz zu der impliziten Menge in وَنَزْدَادُ ('wir werden mehr bekommen — woran? an Kamelsladung'). Akkusativ mit Idafa-Genitiv. Zeigt, dass Tamyiz auch als Idafa-Konstruktion erscheinen kann.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=12&verse=65"
               },
               {
                 "ref": "19:74",
                 "arabic": "وَكَمْ أَهْلَكْنَا قَبْلَهُم مِّن قَرْنٍ هُمْ أَحْسَنُ أَثَاثًا وَرِئْيًا",
-                "explanation": "أَثَاثًا = Tamyiz nach Elativ أَحْسَنُ (Hausrat). رِئْيًا = Tamyiz nach Elativ أَحْسَنُ (Anblick/Erscheinungsbild). Beide Akkusative präzisieren den Vergleich."
+                "explanation": "أَثَاثًا = Tamyiz nach Elativ أَحْسَنُ (Hausrat). رِئْيًا = Tamyiz nach Elativ أَحْسَنُ (Anblick/Erscheinungsbild). Beide Akkusative präzisieren den Vergleich.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=19&verse=74"
               }
             ]
           }
@@ -155,17 +168,20 @@
               {
                 "ref": "2:196",
                 "arabic": "فَصِيَامُ ثَلَاثَةِ أَيَّامٍ فِي الْحَجِّ وَسَبْعَةٍ إِذَا رَجَعْتُمْ",
-                "explanation": "ثَلَاثَةِ أَيَّامٍ = Zahl 3 + Gezähltes im Genitiv Plural (Idafa). سَبْعَةٍ = Zahl 7, das Gezaehlte (أَيَّامٍ) ist hier elliptisch zu ergänzen aus dem Kontext. Beide folgen der Regel: Zahlen 3-10 regieren Genitiv Plural."
+                "explanation": "ثَلَاثَةِ أَيَّامٍ = Zahl 3 + Gezähltes im Genitiv Plural (Idafa). سَبْعَةٍ = Zahl 7, das Gezaehlte (أَيَّامٍ) ist hier elliptisch zu ergänzen aus dem Kontext. Beide folgen der Regel: Zahlen 3-10 regieren Genitiv Plural.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=196"
               },
               {
                 "ref": "18:22",
                 "arabic": "سَيَقُولُونَ ثَلَاثَةٌ رَّابِعُهُمْ كَلْبُهُمْ وَيَقُولُونَ خَمْسَةٌ سَادِسُهُمْ كَلْبُهُمْ",
-                "explanation": "ثَلَاثَةٌ und خَمْسَةٌ stehen hier als Khabar (Praedikat) im Nominativ OHNE Tamyiz — das Gezaehlte wird nicht explizit genannt, sondern aus dem Kontext erschlossen. رَّابِعُهُمْ كَلْبُهُمْ ist ein eigenständiger Nominalsatz ('ihr Vierter ist ihr Hund'). Beachte: Keine Idafa, kein Tamyiz — die Zahl steht prädikativ allein."
+                "explanation": "ثَلَاثَةٌ und خَمْسَةٌ stehen hier als Khabar (Praedikat) im Nominativ OHNE Tamyiz — das Gezaehlte wird nicht explizit genannt, sondern aus dem Kontext erschlossen. رَّابِعُهُمْ كَلْبُهُمْ ist ein eigenständiger Nominalsatz ('ihr Vierter ist ihr Hund'). Beachte: Keine Idafa, kein Tamyiz — die Zahl steht prädikativ allein.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=18&verse=22"
               },
               {
                 "ref": "12:4",
                 "arabic": "إِنِّي رَأَيْتُ أَحَدَ عَشَرَ كَوْكَبًا",
-                "explanation": "أَحَدَ عَشَرَ = Zusammengesetzte Zahl 11. كَوْكَبًا = Tamyiz im Akkusativ Singular — Regel für 11-99. Das Nomen ist indefinit und steht im Singular trotz der Pluralbedeutung."
+                "explanation": "أَحَدَ عَشَرَ = Zusammengesetzte Zahl 11. كَوْكَبًا = Tamyiz im Akkusativ Singular — Regel für 11-99. Das Nomen ist indefinit und steht im Singular trotz der Pluralbedeutung.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=12&verse=4"
               }
             ]
           },
@@ -176,17 +192,20 @@
               {
                 "ref": "7:142",
                 "arabic": "وَوَاعَدْنَا مُوسَىٰ ثَلَاثِينَ لَيْلَةً وَأَتْمَمْنَاهَا بِعَشْرٍ",
-                "explanation": "ثَلَاثِينَ = Zahl 30 (Akkusativ als Maf'ul bihi zweites Objekt von واعد). لَيْلَةً = Tamyiz im Akkusativ Singular. Regel 11-99: Singular, nicht Plural."
+                "explanation": "ثَلَاثِينَ = Zahl 30 (Akkusativ als Maf'ul bihi zweites Objekt von واعد). لَيْلَةً = Tamyiz im Akkusativ Singular. Regel 11-99: Singular, nicht Plural.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=7&verse=142"
               },
               {
                 "ref": "29:14",
                 "arabic": "فَلَبِثَ فِيهِمْ أَلْفَ سَنَةٍ إِلَّا خَمْسِينَ عَامًا",
-                "explanation": "أَلْفَ سَنَةٍ = 1000 + Genitiv Singular (Idafa, Regel für 100/1000). خَمْسِينَ عَامًا = 50 + Akkusativ Singular (Tamyiz, Regel für 11-99). Beide Regeln in einem Vers sichtbar."
+                "explanation": "أَلْفَ سَنَةٍ = 1000 + Genitiv Singular (Idafa, Regel für 100/1000). خَمْسِينَ عَامًا = 50 + Akkusativ Singular (Tamyiz, Regel für 11-99). Beide Regeln in einem Vers sichtbar.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=29&verse=14"
               },
               {
                 "ref": "9:36",
                 "arabic": "إِنَّ عِدَّةَ الشُّهُورِ عِندَ اللَّهِ اثْنَا عَشَرَ شَهْرًا",
-                "explanation": "اثْنَا عَشَرَ = 12 (Nominativ als Khabar von إِنَّ nach عِدَّة). شَهْرًا = Tamyiz im Akkusativ Singular. Beachte: Die Zahl 12 kongruiert im Genus mit dem Gezaehlten (عَشَرَ ohne Ta-Marbuta, da شَهْر maskulin)."
+                "explanation": "اثْنَا عَشَرَ = 12 (Nominativ als Khabar von إِنَّ nach عِدَّة). شَهْرًا = Tamyiz im Akkusativ Singular. Beachte: Die Zahl 12 kongruiert im Genus mit dem Gezaehlten (عَشَرَ ohne Ta-Marbuta, da شَهْر maskulin).",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=9&verse=36"
               }
             ]
           },

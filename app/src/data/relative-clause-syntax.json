@@ -3,8 +3,14 @@
     "title": "Relativsätze — الجملة الصلة",
     "description": "Systematische Behandlung der Relativsätze im Quranischen Arabisch. Analyse der Relativpronomen (Ism Mawsul), der Struktur der Sila (Relativsatz), des Resumptivpronomens (A'id) und der asyndetischen Relativsätze nach indefiniten Nomen.",
     "sources": [
-      {"label": "Wright's Grammar Vol II — Relative Pronouns & Relative Clauses", "url": "https://archive.org/details/WrightsArabicGrammar2Of2"},
-      {"label": "Quranic Arabic Corpus", "url": "https://corpus.quran.com"}
+      {
+        "label": "Wright's Grammar Vol II — Relative Pronouns & Relative Clauses",
+        "url": "https://archive.org/details/WrightsArabicGrammar2Of2"
+      },
+      {
+        "label": "Quranic Arabic Corpus",
+        "url": "https://corpus.quran.com"
+      }
     ]
   },
   "lessons": [
@@ -30,27 +36,32 @@
               {
                 "ref": "2:2",
                 "arabic": "ذَٰلِكَ الْكِتَابُ لَا رَيْبَ فِيهِ هُدًى لِّلْمُتَّقِينَ ○ الَّذِينَ يُؤْمِنُونَ بِالْغَيْبِ",
-                "explanation": "الَّذِينَ — Maskulin Plural, bezieht sich auf الْمُتَّقِينَ. Der Relativsatz (Sila) ist يُؤْمِنُونَ بِالْغَيْبِ. Der A'id ist das im Verb enthaltene Subjektpronomen (sie)."
+                "explanation": "الَّذِينَ — Maskulin Plural, bezieht sich auf الْمُتَّقِينَ. Der Relativsatz (Sila) ist يُؤْمِنُونَ بِالْغَيْبِ. Der A'id ist das im Verb enthaltene Subjektpronomen (sie).",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=2"
               },
               {
                 "ref": "1:7",
                 "arabic": "صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ",
-                "explanation": "الَّذِينَ — steht im Genitiv als Muḍaf ilayhi nach صِرَاطَ, aber die Form ändert sich nicht (indeklinabel). Der A'id ist das Suffix ـهِمْ in عَلَيْهِمْ."
+                "explanation": "الَّذِينَ — steht im Genitiv als Muḍaf ilayhi nach صِرَاطَ, aber die Form ändert sich nicht (indeklinabel). Der A'id ist das Suffix ـهِمْ in عَلَيْهِمْ.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=7"
               },
               {
                 "ref": "2:17",
                 "arabic": "مَثَلُهُمْ كَمَثَلِ الَّذِي اسْتَوْقَدَ نَارًا",
-                "explanation": "الَّذِي — Maskulin Singular. Bezugswort ist implizit (jemand/derjenige). Sila: اسْتَوْقَدَ نَارًا. Der A'id ist das verborgene Subjektpronomen (er) im Verb."
+                "explanation": "الَّذِي — Maskulin Singular. Bezugswort ist implizit (jemand/derjenige). Sila: اسْتَوْقَدَ نَارًا. Der A'id ist das verborgene Subjektpronomen (er) im Verb.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=17"
               },
               {
                 "ref": "66:11",
                 "arabic": "وَضَرَبَ اللَّهُ مَثَلًا لِّلَّذِينَ آمَنُوا امْرَأَتَ فِرْعَوْنَ إِذْ قَالَتِ رَبِّ ابْنِ لِي عِندَكَ بَيْتًا فِي الْجَنَّةِ",
-                "explanation": "لِّلَّذِينَ — الَّذِينَ mit Präposition لِ. Der Kasus (Genitiv) wird durch die Präposition regiert, aber die Form bleibt الَّذِينَ."
+                "explanation": "لِّلَّذِينَ — الَّذِينَ mit Präposition لِ. Der Kasus (Genitiv) wird durch die Präposition regiert, aber die Form bleibt الَّذِينَ.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=66&verse=11"
               },
               {
                 "ref": "4:34",
                 "arabic": "وَاللَّاتِي تَخَافُونَ نُشُوزَهُنَّ",
-                "explanation": "اللَّاتِي — Feminin Plural. Sila: تَخَافُونَ نُشُوزَهُنَّ. Der A'id ist das Suffix ـهُنَّ in نُشُوزَهُنَّ, das auf die Frauen zurückverweist."
+                "explanation": "اللَّاتِي — Feminin Plural. Sila: تَخَافُونَ نُشُوزَهُنَّ. Der A'id ist das Suffix ـهُنَّ in نُشُوزَهُنَّ, das auf die Frauen zurückverweist.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=34"
               }
             ]
           }
@@ -128,32 +139,38 @@
               {
                 "ref": "6:92",
                 "arabic": "وَهَٰذَا كِتَابٌ أَنزَلْنَاهُ مُبَارَكٌ",
-                "explanation": "A'id als Suffixpronomen (Objekt): ـهُ in أَنزَلْنَاهُ verweist zurück auf كِتَابٌ. Beachte: Da كِتَابٌ indefinit ist, steht hier KEIN Relativpronomen — der Relativsatz ist asyndetisch (dazu mehr in REL4). Der A'id-Mechanismus funktioniert dennoch gleich."
+                "explanation": "A'id als Suffixpronomen (Objekt): ـهُ in أَنزَلْنَاهُ verweist zurück auf كِتَابٌ. Beachte: Da كِتَابٌ indefinit ist, steht hier KEIN Relativpronomen — der Relativsatz ist asyndetisch (dazu mehr in REL4). Der A'id-Mechanismus funktioniert dennoch gleich.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=6&verse=92"
               },
               {
                 "ref": "96:1",
                 "arabic": "اقْرَأْ بِاسْمِ رَبِّكَ الَّذِي خَلَقَ",
-                "explanation": "A'id als verborgenes Subjektpronomen: الَّذِي خَلَقَ — 'der erschuf'. Das implizite Subjekt 'er' im Verb خَلَقَ ist der A'id. Es verweist auf رَبِّكَ."
+                "explanation": "A'id als verborgenes Subjektpronomen: الَّذِي خَلَقَ — 'der erschuf'. Das implizite Subjekt 'er' im Verb خَلَقَ ist der A'id. Es verweist auf رَبِّكَ.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=96&verse=1"
               },
               {
                 "ref": "2:4",
                 "arabic": "وَالَّذِينَ يُؤْمِنُونَ بِمَا أُنزِلَ إِلَيْكَ وَمَا أُنزِلَ مِن قَبْلِكَ",
-                "explanation": "A'id als verborgenes Subjektpronomen in يُؤْمِنُونَ — das im Verb enthaltene 'sie' ist der A'id. Zusaetzlich enthält der Vers مَا أُنزِلَ (Relativpronomen مَا mit verborgenem A'id im Passiv — das implizite Subjekt/Nomen, auf das sich مَا bezieht)."
+                "explanation": "A'id als verborgenes Subjektpronomen in يُؤْمِنُونَ — das im Verb enthaltene 'sie' ist der A'id. Zusaetzlich enthält der Vers مَا أُنزِلَ (Relativpronomen مَا mit verborgenem A'id im Passiv — das implizite Subjekt/Nomen, auf das sich مَا bezieht).",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=4"
               },
               {
                 "ref": "14:1",
                 "arabic": "كِتَابٌ أَنزَلْنَاهُ إِلَيْكَ لِتُخْرِجَ النَّاسَ مِنَ الظُّلُمَاتِ إِلَى النُّورِ",
-                "explanation": "A'id als Suffixpronomen: ـهُ in أَنزَلْنَاهُ. Asyndetischer Relativsatz (kein الَّذِي), weil كِتَابٌ indefinit ist. Der A'id ـهُ stellt die Verbindung zum Bezugswort her."
+                "explanation": "A'id als Suffixpronomen: ـهُ in أَنزَلْنَاهُ. Asyndetischer Relativsatz (kein الَّذِي), weil كِتَابٌ indefinit ist. Der A'id ـهُ stellt die Verbindung zum Bezugswort her.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=14&verse=1"
               },
               {
                 "ref": "2:213",
                 "arabic": "وَأَنزَلَ مَعَهُمُ الْكِتَابَ بِالْحَقِّ لِيَحْكُمَ بَيْنَ النَّاسِ فِيمَا اخْتَلَفُوا فِيهِ",
-                "explanation": "A'id in Präpositionalphrase: فِيمَا اخْتَلَفُوا فِيهِ — 'worueber sie uneinig waren'. مَا ist Relativpronomen, der A'id ist ـهِ in فِيهِ (= in ihm/darin). Die Präposition فِي erscheint zweimal: einmal vor مَا und einmal mit dem A'id."
+                "explanation": "A'id in Präpositionalphrase: فِيمَا اخْتَلَفُوا فِيهِ — 'worueber sie uneinig waren'. مَا ist Relativpronomen, der A'id ist ـهِ in فِيهِ (= in ihm/darin). Die Präposition فِي erscheint zweimal: einmal vor مَا und einmal mit dem A'id.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=213"
               },
               {
                 "ref": "2:41",
                 "arabic": "وَآمِنُوا بِمَا أَنزَلْتُ مُصَدِّقًا لِّمَا مَعَكُمْ",
-                "explanation": "بِمَا أَنزَلْتُ — 'an das, was ich herabgesandt habe'. Hier ist der A'id als Objekt WEGGELASSEN: vollständig wäre بِمَا أَنزَلْتُهُ. Die Ellipse des A'id als direktes Objekt ist im Quran regulär."
+                "explanation": "بِمَا أَنزَلْتُ — 'an das, was ich herabgesandt habe'. Hier ist der A'id als Objekt WEGGELASSEN: vollständig wäre بِمَا أَنزَلْتُهُ. Die Ellipse des A'id als direktes Objekt ist im Quran regulär.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=41"
               }
             ]
           }
@@ -236,32 +253,38 @@
               {
                 "ref": "2:272",
                 "arabic": "لَّيْسَ عَلَيْكَ هُدَاهُمْ وَلَٰكِنَّ اللَّهَ يَهْدِي مَن يَشَاءُ",
-                "explanation": "مَن يَشَاءُ — 'wen er will'. مَن ist hier Objekt von يَهْدِي (er leitet ... recht). Die Sila ist يَشَاءُ mit verborgenem A'id (er will [ihn]). Formale Singular-Kongruenz."
+                "explanation": "مَن يَشَاءُ — 'wen er will'. مَن ist hier Objekt von يَهْدِي (er leitet ... recht). Die Sila ist يَشَاءُ mit verborgenem A'id (er will [ihn]). Formale Singular-Kongruenz.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=272"
               },
               {
                 "ref": "2:142",
                 "arabic": "يَهْدِي مَن يَشَاءُ إِلَىٰ صِرَاطٍ مُّسْتَقِيمٍ",
-                "explanation": "Dieselbe Konstruktion: مَن يَشَاءُ — sehr häufige Quran-Wendung. مَن als Objekt des übergeeordneten Verbs, gleichzeitig implizites Objekt in der Sila."
+                "explanation": "Dieselbe Konstruktion: مَن يَشَاءُ — sehr häufige Quran-Wendung. مَن als Objekt des übergeeordneten Verbs, gleichzeitig implizites Objekt in der Sila.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=142"
               },
               {
                 "ref": "24:43",
                 "arabic": "يُصِيبُ بِهِ مَن يَشَاءُ وَيَصْرِفُهُ عَن مَّن يَشَاءُ",
-                "explanation": "Doppeltes مَن يَشَاءُ: Einmal als Objekt von يُصِيبُ ('er trifft damit wen er will') und einmal als Objekt der Präposition عَن ('und wendet es ab von wem er will'). Zeigt die syntaktische Flexibilität von مَن."
+                "explanation": "Doppeltes مَن يَشَاءُ: Einmal als Objekt von يُصِيبُ ('er trifft damit wen er will') und einmal als Objekt der Präposition عَن ('und wendet es ab von wem er will'). Zeigt die syntaktische Flexibilität von مَن.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=24&verse=43"
               },
               {
                 "ref": "3:13",
                 "arabic": "وَاللَّهُ يُؤَيِّدُ بِنَصْرِهِ مَن يَشَاءُ",
-                "explanation": "مَن يَشَاءُ als Objekt von يُؤَيِّدُ. Der A'id in der Sila (يَشَاءُ) ist elidiert: vollständig wäre مَن يَشَاءُهُ."
+                "explanation": "مَن يَشَاءُ als Objekt von يُؤَيِّدُ. Der A'id in der Sila (يَشَاءُ) ist elidiert: vollständig wäre مَن يَشَاءُهُ.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=13"
               },
               {
                 "ref": "42:13",
                 "arabic": "اللَّهُ يَجْتَبِي إِلَيْهِ مَن يُنِيبُ",
-                "explanation": "مَن يُنِيبُ — 'denjenigen, der sich zuwendet'. Hier ist مَن Subjekt des Verbs in der Sila (يُنِيبُ — er wendet sich zu). Der A'id ist das verborgene Subjektpronomen."
+                "explanation": "مَن يُنِيبُ — 'denjenigen, der sich zuwendet'. Hier ist مَن Subjekt des Verbs in der Sila (يُنِيبُ — er wendet sich zu). Der A'id ist das verborgene Subjektpronomen.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=42&verse=13"
               },
               {
                 "ref": "4:123",
                 "arabic": "مَن يَعْمَلْ سُوءًا يُجْزَ بِهِ",
-                "explanation": "مَن يَعْمَلْ سُوءًا يُجْزَ بِهِ — 'wer Böses tut, wird dafuer bestraft'. Hier fungiert مَن konditional: beide Verben stehen im Jussiv (يَعْمَلْ, يُجْزَ). مَن erfüllt eine Doppelfunktion: es ist zugleich Antezedens ('derjenige/wer') und Relativpronomen. Der A'id ist das Suffix ـهِ in بِهِ."
+                "explanation": "مَن يَعْمَلْ سُوءًا يُجْزَ بِهِ — 'wer Böses tut, wird dafuer bestraft'. Hier fungiert مَن konditional: beide Verben stehen im Jussiv (يَعْمَلْ, يُجْزَ). مَن erfüllt eine Doppelfunktion: es ist zugleich Antezedens ('derjenige/wer') und Relativpronomen. Der A'id ist das Suffix ـهِ in بِهِ.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=123"
               }
             ]
           },
@@ -272,37 +295,44 @@
               {
                 "ref": "2:284",
                 "arabic": "لِلَّهِ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ",
-                "explanation": "مَا فِي السَّمَاوَاتِ — 'was in den Himmeln ist'. مَا als Relativpronomen, die Sila ist der Präpositionalausdruck فِي السَّمَاوَاتِ. Kein overts Verb in der Sila — es handelt sich um einen Nominalsatz (das Prädikat ist die PP)."
+                "explanation": "مَا فِي السَّمَاوَاتِ — 'was in den Himmeln ist'. مَا als Relativpronomen, die Sila ist der Präpositionalausdruck فِي السَّمَاوَاتِ. Kein overts Verb in der Sila — es handelt sich um einen Nominalsatz (das Prädikat ist die PP).",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=284"
               },
               {
                 "ref": "2:255",
                 "arabic": "يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ",
-                "explanation": "مَا بَيْنَ أَيْدِيهِمْ — 'was vor ihnen (liegt)'. مَا als Objekt von يَعْلَمُ. Die Sila ist ein Nominalsatz mit Adverbialausdruck (بَيْنَ أَيْدِيهِمْ)."
+                "explanation": "مَا بَيْنَ أَيْدِيهِمْ — 'was vor ihnen (liegt)'. مَا als Objekt von يَعْلَمُ. Die Sila ist ein Nominalsatz mit Adverbialausdruck (بَيْنَ أَيْدِيهِمْ).",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=255"
               },
               {
                 "ref": "2:22",
                 "arabic": "فَلَا تَجْعَلُوا لِلَّهِ أَندَادًا وَأَنتُمْ تَعْلَمُونَ",
-                "explanation": "Kontext 2:22: فَأَخْرَجَ بِهِ مِنَ الثَّمَرَاتِ رِزْقًا لَّكُمْ — Aber für مَا vergleiche 13:17: فَأَمَّا مَا يَنفَعُ النَّاسَ فَيَمْكُثُ فِي الْأَرْضِ — 'Was den Menschen nuetzt, das bleibt in der Erde'. مَا als Subjekt des übergeeordneten Satzes."
+                "explanation": "Kontext 2:22: فَأَخْرَجَ بِهِ مِنَ الثَّمَرَاتِ رِزْقًا لَّكُمْ — Aber für مَا vergleiche 13:17: فَأَمَّا مَا يَنفَعُ النَّاسَ فَيَمْكُثُ فِي الْأَرْضِ — 'Was den Menschen nuetzt, das bleibt in der Erde'. مَا als Subjekt des übergeeordneten Satzes.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=22"
               },
               {
                 "ref": "13:17",
                 "arabic": "فَأَمَّا مَا يَنفَعُ النَّاسَ فَيَمْكُثُ فِي الْأَرْضِ",
-                "explanation": "مَا يَنفَعُ النَّاسَ — 'was den Menschen nuetzt'. مَا ist Subjekt des Gesamtsatzes, die Sila ist يَنفَعُ النَّاسَ. Der A'id ist das verborgene Subjektpronomen in يَنفَعُ."
+                "explanation": "مَا يَنفَعُ النَّاسَ — 'was den Menschen nuetzt'. مَا ist Subjekt des Gesamtsatzes, die Sila ist يَنفَعُ النَّاسَ. Der A'id ist das verborgene Subjektpronomen in يَنفَعُ.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=13&verse=17"
               },
               {
                 "ref": "2:174",
                 "arabic": "أُولَٰئِكَ مَا يَأْكُلُونَ فِي بُطُونِهِمْ إِلَّا النَّارَ",
-                "explanation": "Hier ist مَا NEGATION, nicht Relativpronomen — مَا يَأْكُلُونَ = 'sie essen nicht'. Dieser Kontrast zeigt, warum die syntaktische Umgebung entscheidend ist: مَا + Verb kann Relativpronomen oder Negation sein."
+                "explanation": "Hier ist مَا NEGATION, nicht Relativpronomen — مَا يَأْكُلُونَ = 'sie essen nicht'. Dieser Kontrast zeigt, warum die syntaktische Umgebung entscheidend ist: مَا + Verb kann Relativpronomen oder Negation sein.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=174"
               },
               {
                 "ref": "2:102",
                 "arabic": "وَمَا أُنزِلَ عَلَى الْمَلَكَيْنِ",
-                "explanation": "مَا أُنزِلَ — 'was herabgesandt wurde'. مَا als Relativpronomen, die Sila ist أُنزِلَ عَلَى الْمَلَكَيْنِ (Passiv). Der A'id ist das implizite Subjekt des Passivverbs."
+                "explanation": "مَا أُنزِلَ — 'was herabgesandt wurde'. مَا als Relativpronomen, die Sila ist أُنزِلَ عَلَى الْمَلَكَيْنِ (Passiv). Der A'id ist das implizite Subjekt des Passivverbs.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=102"
               },
               {
                 "ref": "28:60",
                 "arabic": "وَمَا عِندَ اللَّهِ خَيْرٌ وَأَبْقَىٰ",
-                "explanation": "مَا عِندَ اللَّهِ خَيْرٌ — 'was bei Gott ist, ist besser und dauerhafter'. مَا erfüllt eine Doppelfunktion: es ist zugleich Antezedens und Relativpronomen ('das, was'). Die Sila ist عِندَ اللَّهِ (Nominalsatz mit Zarf). خَيْرٌ ist das Prädikat des übergeeordneten Satzes, nicht Teil der Sila."
+                "explanation": "مَا عِندَ اللَّهِ خَيْرٌ — 'was bei Gott ist, ist besser und dauerhafter'. مَا erfüllt eine Doppelfunktion: es ist zugleich Antezedens und Relativpronomen ('das, was'). Die Sila ist عِندَ اللَّهِ (Nominalsatz mit Zarf). خَيْرٌ ist das Prädikat des übergeeordneten Satzes, nicht Teil der Sila.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=28&verse=60"
               }
             ]
           }
@@ -380,32 +410,38 @@
               {
                 "ref": "21:50",
                 "arabic": "وَهَٰذَا ذِكْرٌ مُّبَارَكٌ أَنزَلْنَاهُ",
-                "explanation": "ذِكْرٌ (indefinit) + أَنزَلْنَاهُ (Relativsatz). Kein الَّذِي, weil ذِكْرٌ indefinit ist. Der A'id ـهُ in أَنزَلْنَاهُ stellt die Verbindung her. Übersetzung: 'eine gesegnete Ermahnung, die wir herabgesandt haben'."
+                "explanation": "ذِكْرٌ (indefinit) + أَنزَلْنَاهُ (Relativsatz). Kein الَّذِي, weil ذِكْرٌ indefinit ist. Der A'id ـهُ in أَنزَلْنَاهُ stellt die Verbindung her. Übersetzung: 'eine gesegnete Ermahnung, die wir herabgesandt haben'.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=21&verse=50"
               },
               {
                 "ref": "14:1",
                 "arabic": "كِتَابٌ أَنزَلْنَاهُ إِلَيْكَ لِتُخْرِجَ النَّاسَ مِنَ الظُّلُمَاتِ إِلَى النُّورِ",
-                "explanation": "كِتَابٌ (indefinit) + أَنزَلْنَاهُ (Relativsatz mit A'id ـهُ). Dieselbe Konstruktion wie 21:50. 'Ein Buch, das wir zu dir herabgesandt haben'."
+                "explanation": "كِتَابٌ (indefinit) + أَنزَلْنَاهُ (Relativsatz mit A'id ـهُ). Dieselbe Konstruktion wie 21:50. 'Ein Buch, das wir zu dir herabgesandt haben'.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=14&verse=1"
               },
               {
                 "ref": "23:29",
                 "arabic": "رَبِّ أَنزِلْنِي مُنزَلًا مُّبَارَكًا وَأَنتَ خَيْرُ الْمُنزِلِينَ",
-                "explanation": "مُنزَلًا مُّبَارَكًا — hier folgt KEIN Relativsatz, sondern ein Adjektiv. Nicht jede Bestimmung nach einem indefiniten Nomen ist ein Relativsatz — nur wenn ein ganzer Satz mit A'id folgt."
+                "explanation": "مُنزَلًا مُّبَارَكًا — hier folgt KEIN Relativsatz, sondern ein Adjektiv. Nicht jede Bestimmung nach einem indefiniten Nomen ist ein Relativsatz — nur wenn ein ganzer Satz mit A'id folgt.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=23&verse=29"
               },
               {
                 "ref": "36:41",
                 "arabic": "وَآيَةٌ لَّهُمْ أَنَّا حَمَلْنَا ذُرِّيَّتَهُمْ فِي الْفُلْكِ الْمَشْحُونِ",
-                "explanation": "آيَةٌ (indefinit) + لَّهُمْ — hier ist لَّهُمْ ein Präpositionalausdruck, der als Relativsatz fungiert: 'ein Zeichen [das/welches] für sie [ist]'. Der Nominalsatz لَّهُمْ modifiziert آيَةٌ. Dies zeigt, dass asyndetische Relativsätze auch Nominalsätze sein können."
+                "explanation": "آيَةٌ (indefinit) + لَّهُمْ — hier ist لَّهُمْ ein Präpositionalausdruck, der als Relativsatz fungiert: 'ein Zeichen [das/welches] für sie [ist]'. Der Nominalsatz لَّهُمْ modifiziert آيَةٌ. Dies zeigt, dass asyndetische Relativsätze auch Nominalsätze sein können.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=36&verse=41"
               },
               {
                 "ref": "12:2",
                 "arabic": "إِنَّا أَنزَلْنَاهُ قُرْآنًا عَرَبِيًّا لَّعَلَّكُمْ تَعْقِلُونَ",
-                "explanation": "قُرْآنًا عَرَبِيًّا — hier ist عَرَبِيًّا ein Adjektiv (Sifa), kein Relativsatz. Vergleich zur Verdeutlichung: Adjektive kongruieren in Kasus, Genus und Definitheit (عَرَبِيًّا ist indefinit Akkusativ wie قُرْآنًا). Relativsätze dagegen sind ganze Sätze."
+                "explanation": "قُرْآنًا عَرَبِيًّا — hier ist عَرَبِيًّا ein Adjektiv (Sifa), kein Relativsatz. Vergleich zur Verdeutlichung: Adjektive kongruieren in Kasus, Genus und Definitheit (عَرَبِيًّا ist indefinit Akkusativ wie قُرْآنًا). Relativsätze dagegen sind ganze Sätze.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=12&verse=2"
               },
               {
                 "ref": "65:11",
                 "arabic": "رَّسُولًا يَتْلُو عَلَيْكُمْ آيَاتِ اللَّهِ مُبَيِّنَاتٍ",
-                "explanation": "رَّسُولًا (indefinit) + يَتْلُو عَلَيْكُمْ (Relativsatz). 'Einen Gesandten, der euch die Zeichen Gottes vortraegt'. Der A'id ist das verborgene Subjektpronomen 'er' in يَتْلُو. Kein Relativpronomen, weil رَّسُولًا indefinit ist."
+                "explanation": "رَّسُولًا (indefinit) + يَتْلُو عَلَيْكُمْ (Relativsatz). 'Einen Gesandten, der euch die Zeichen Gottes vortraegt'. Der A'id ist das verborgene Subjektpronomen 'er' in يَتْلُو. Kein Relativpronomen, weil رَّسُولًا indefinit ist.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=65&verse=11"
               }
             ]
           }
@@ -488,17 +524,20 @@
               {
                 "ref": "2:257",
                 "arabic": "اللَّهُ وَلِيُّ الَّذِينَ آمَنُوا يُخْرِجُهُم مِّنَ الظُّلُمَاتِ إِلَى النُّورِ وَالَّذِينَ كَفَرُوا أَوْلِيَاؤُهُمُ الطَّاغُوتُ يُخْرِجُونَهُم مِّنَ النُّورِ إِلَى الظُّلُمَاتِ",
-                "explanation": "Zwei parallele Strukturen: (1) اللَّهُ وَلِيُّ الَّذِينَ آمَنُوا — الَّذِينَ als freies Relativpronomen im Genitiv (Muḍaf ilayhi). (2) وَالَّذِينَ كَفَرُوا أَوْلِيَاؤُهُمُ الطَّاغُوتُ — الَّذِينَ als Mubtada' (Subjekt eines Nominalsatzes). Die Sila يُخْرِجُهُم/يُخْرِجُونَهُم enthält jeweils einen A'id (ـهُم)."
+                "explanation": "Zwei parallele Strukturen: (1) اللَّهُ وَلِيُّ الَّذِينَ آمَنُوا — الَّذِينَ als freies Relativpronomen im Genitiv (Muḍaf ilayhi). (2) وَالَّذِينَ كَفَرُوا أَوْلِيَاؤُهُمُ الطَّاغُوتُ — الَّذِينَ als Mubtada' (Subjekt eines Nominalsatzes). Die Sila يُخْرِجُهُم/يُخْرِجُونَهُم enthält jeweils einen A'id (ـهُم).",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=257"
               },
               {
                 "ref": "14:2",
                 "arabic": "اللَّهِ الَّذِي لَهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ",
-                "explanation": "Verschachtelung: اللَّهِ ist Bezugswort, الَّذِي leitet den Relativsatz ein. Innerhalb der Sila steht مَا فِي السَّمَاوَاتِ — ein weiterer Relativsatz (مَا als Relativpronomen). Zwei Ebenen: الَّذِي → [لَهُ [مَا فِي السَّمَاوَاتِ]]."
+                "explanation": "Verschachtelung: اللَّهِ ist Bezugswort, الَّذِي leitet den Relativsatz ein. Innerhalb der Sila steht مَا فِي السَّمَاوَاتِ — ein weiterer Relativsatz (مَا als Relativpronomen). Zwei Ebenen: الَّذِي → [لَهُ [مَا فِي السَّمَاوَاتِ]].",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=14&verse=2"
               },
               {
                 "ref": "40:3",
                 "arabic": "غَافِرِ الذَّنبِ وَقَابِلِ التَّوْبِ شَدِيدِ الْعِقَابِ ذِي الطَّوْلِ لَا إِلَٰهَ إِلَّا هُوَ إِلَيْهِ الْمَصِيرُ",
-                "explanation": "Kein Relativpronomen hier — stattdessen Partizipien in Idafa-Konstruktion (غَافِرِ الذَّنبِ = 'Vergebender der Verfehlung'). Kontrast zu Relativsätzen: Partizipien komprimieren Relativsätze. الَّذِي يَغْفِرُ الذَّنبَ = غَافِرِ الذَّنبِ."
+                "explanation": "Kein Relativpronomen hier — stattdessen Partizipien in Idafa-Konstruktion (غَافِرِ الذَّنبِ = 'Vergebender der Verfehlung'). Kontrast zu Relativsätzen: Partizipien komprimieren Relativsätze. الَّذِي يَغْفِرُ الذَّنبَ = غَافِرِ الذَّنبِ.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=40&verse=3"
               },
               {
                 "ref": "59:22-24",
@@ -508,7 +547,8 @@
               {
                 "ref": "2:22",
                 "arabic": "الَّذِي جَعَلَ لَكُمُ الْأَرْضَ فِرَاشًا وَالسَّمَاءَ بِنَاءً وَأَنزَلَ مِنَ السَّمَاءِ مَاءً فَأَخْرَجَ بِهِ مِنَ الثَّمَرَاتِ رِزْقًا لَّكُمْ",
-                "explanation": "الَّذِي als freies Relativpronomen (Bezugswort رَبَّكُمُ steht in 2:21). Eine einzige Sila enthält mehrere koordinierte Verben: جَعَلَ ... وَأَنزَلَ ... فَأَخْرَجَ. Der A'id ist jeweils das verborgene Subjektpronomen (er). Alle Verben gehören zur selben Sila."
+                "explanation": "الَّذِي als freies Relativpronomen (Bezugswort رَبَّكُمُ steht in 2:21). Eine einzige Sila enthält mehrere koordinierte Verben: جَعَلَ ... وَأَنزَلَ ... فَأَخْرَجَ. Der A'id ist jeweils das verborgene Subjektpronomen (er). Alle Verben gehören zur selben Sila.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=22"
               }
             ]
           }

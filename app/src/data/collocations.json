@@ -5,7 +5,10 @@
     "totalBigrams": 200,
     "note": "rootCollocations: Wurzelpaare die in 5+ Versen gemeinsam auftreten. wordBigrams: Aufeinanderfolgende Wortpaare die 3+ Mal vorkommen.",
     "sources": [
-      { "name": "Quranic Arabic Corpus", "url": "https://corpus.quran.com/" }
+      {
+        "name": "Quranic Arabic Corpus",
+        "url": "https://corpus.quran.com/"
+      }
     ]
   },
   "rootCollocations": [

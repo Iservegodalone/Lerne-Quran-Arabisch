@@ -5,7 +5,7 @@
     "totalCategories": 9,
     "note": "Jedes Muster (وَزْن) wird mit der فعل-Schablone dargestellt: ف = 1. Radikal, ع = 2. Radikal, ل = 3. Radikal. Die Vokale und Zusatzbuchstaben des Musters zeigen die Bildungsregel.",
     "sources": [
-      { "name": "Wright's Grammar Vol I", "url": "https://archive.org/details/grammarofthearab01telerich" },
+      { "name": "Wright's Grammar Vol I", "url": "https://archive.org/details/WrightsArabicGrammar1Of2" },
       { "name": "Quranic Arabic Corpus", "url": "https://corpus.quran.com/" },
       { "name": "Lane's Lexicon", "url": "https://ejtaal.net/aa/" }
     ]
@@ -74,7 +74,7 @@
           "function": "Einmalhandlung (Ism al-Marra) oder feminines Nomen. Ta Marbuta am Ende.",
           "examples": [
             {"vocalized": "رَحْمَة", "root": "ر-ح-م", "meaning": "Barmherzigkeit", "ref": "2:157"},
-            {"vocalized": "حَسَنَة", "root": "ح-س-ن", "meaning": "gute Tat", "ref": "2:201", "note": "Eigentliches Muster ist فَعَلَة (zwei Fathas), nicht فَعْلَة"},
+            {"vocalized": "حَسَنَة", "root": "ح-س-ن", "meaning": "gute Tat", "ref": "2:201", "note": "Eigentliches Muster: فَعَلَة (mit zwei Fathas). Steht hier unter فَعْلَة nur der Uebersicht halber, da beide Muster Ta Marbuta tragen."},
             {"vocalized": "سَيِّئَة", "root": "س-و-ا", "meaning": "schlechte Tat", "ref": "2:81", "note": "Eigentliches Muster ist فَيْعِلَة (aus hohler Wurzel س-و-أ, das Waw wird zu Ya und verdoppelt sich)"},
             {"vocalized": "شَجَرَة", "root": "ش-ج-ر", "meaning": "Baum", "ref": "2:35"}
           ],
@@ -100,10 +100,10 @@
           "function": "Feminines Nomen mit Damma, oft für Gruppen oder abstrakte Konzepte.",
           "examples": [
             {"vocalized": "غُرْفَة", "root": "غ-ر-ف", "meaning": "Gemach, Obergeschoss", "ref": "25:75"},
-            {"vocalized": "أُمَّة", "root": "ء-م-م", "meaning": "Gemeinschaft, Volk", "ref": "2:128", "note": "Technisch Muster فُعَّة (mit Schadda auf dem verdoppelten 2. Radikal), hier unter فُعْلَة eingeordnet"},
-            {"vocalized": "حُجَّة", "root": "ح-ج-ج", "meaning": "Beweis, Argument", "ref": "2:150", "note": "Technisch Muster فُعَّة"},
-            {"vocalized": "سُنَّة", "root": "س-ن-ن", "meaning": "Verfahrensweise, Brauch", "ref": "3:137", "note": "Technisch Muster فُعَّة"},
-            {"vocalized": "قُوَّة", "root": "ق-و-ي", "meaning": "Kraft, Stärke", "ref": "2:165", "note": "Technisch Muster فُعَّة"}
+            {"vocalized": "أُمَّة", "root": "ء-م-م", "meaning": "Gemeinschaft, Volk", "ref": "2:128", "note": "Eigentliches Muster: فُعَّة (mit Shadda auf dem mittleren Radikal). Der 2. und 3. Radikal sind identisch (م-م), daher Idgham. Hier unter فُعْلَة nur der Uebersicht halber."},
+            {"vocalized": "حُجَّة", "root": "ح-ج-ج", "meaning": "Beweis, Argument", "ref": "2:150", "note": "Eigentliches Muster: فُعَّة (mit Shadda auf dem mittleren Radikal). Identischer 2. und 3. Radikal (ج-ج)."},
+            {"vocalized": "سُنَّة", "root": "س-ن-ن", "meaning": "Verfahrensweise, Brauch", "ref": "3:137", "note": "Eigentliches Muster: فُعَّة (mit Shadda auf dem mittleren Radikal). Identischer 2. und 3. Radikal (ن-ن)."},
+            {"vocalized": "قُوَّة", "root": "ق-و-ي", "meaning": "Kraft, Stärke", "ref": "2:165", "note": "Eigentliches Muster: فُعَّة (mit Shadda auf dem mittleren Radikal). Hohle Wurzel ق-و-ي mit Idgham."}
           ],
           "frequencyNote": "Häufig"
         },
@@ -300,7 +300,7 @@
           "formation": "مُـ + تَ + C1 + C2 (mit Shadda) + Kasra + C3",
           "examples": [
             {"vocalized": "مُتَوَكِّل", "root": "و-ك-ل", "meaning": "Sich-Anvertrauender", "ref": "3:159"},
-            {"vocalized": "مُتَّقٍ", "root": "و-ق-ي", "meaning": "sich Hütender", "ref": "2:2", "note": "Gehört zu Form VIII (اتَّقَى, Muster مُفْتَعِل), nicht Form V. Hier aufgefuehrt wegen der äußeren Ähnlichkeit mit مُتَفَعِّل."},
+            {"vocalized": "مُتَّقٍ", "root": "و-ق-ي", "meaning": "sich Hütender", "ref": "2:2", "note": "Gehoert zu Form VIII (اتَّقَى, Muster مُفْتَعِل), nicht Form V. Hier nur als Querverweis wegen der aeusseren Aehnlichkeit mit مُتَفَعِّل — die korrekte Einordnung steht unter مُفْتَعِل (Form VIII)."},
             {"vocalized": "مُتَكَبِّر", "root": "ك-ب-ر", "meaning": "Hochmütiger / der Erhabene", "ref": "59:23"}
           ],
           "frequencyNote": "Mittel"

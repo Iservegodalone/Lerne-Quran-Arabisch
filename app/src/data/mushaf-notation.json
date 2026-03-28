@@ -3,8 +3,14 @@
     "title": "Mushaf-Notation und Gliederungszeichen",
     "description": "Referenz für die Zeichen und Markierungen die in gedruckten Mushaf-Ausgaben erscheinen.",
     "sources": [
-      {"name": "Wright's Arabic Grammar Vol I", "url": "https://archive.org/details/WrightsArabicGrammarVol1"},
-      {"name": "Quranic Arabic Corpus", "url": "https://corpus.quran.com"}
+      {
+        "name": "Wright's Arabic Grammar Vol I",
+        "url": "https://archive.org/details/WrightsArabicGrammar1Of2"
+      },
+      {
+        "name": "Quranic Arabic Corpus",
+        "url": "https://corpus.quran.com"
+      }
     ]
   },
   "divisions": [
@@ -61,7 +67,7 @@
       "id": "sajda",
       "name": "Sajda-Zeichen",
       "nameArabic": "سجدة",
-      "description": "Markiert 15 Sajda-Positionen nach gängiger Zählung, an denen eine Niederwerfung vorgesehen ist.",
+      "description": "Markiert Sajda-Positionen (15 nach gaengiger Zaehlung, wobei die Anzahl je nach Ueberlieferungstradition variiert), die in der Textueberlieferung mit einem Niederwerfungszeichen versehen wurden.",
       "note": "Rein redaktionelle Markierung, nicht Teil des Korantextes."
     }
   ]

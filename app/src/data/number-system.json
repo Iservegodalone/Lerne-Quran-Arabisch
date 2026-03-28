@@ -4,8 +4,14 @@
     "description": "Kardinal- und Ordinalzahlen, Tamyiz-Regeln, Geschlechtskongruenz. Rein sprachwissenschaftlich.",
     "note": "Das arabische Zahlwortsystem hat komplexe Kongruenzregeln die sich von anderen Nominalkategorien unterscheiden. Die Regeln sind morphologisch bedingt und folgen keiner logischen Systematik — sie müssen als Konvention gelernt werden.",
     "sources": [
-      {"label": "Wright's Grammar Vol II — Numerals", "url": "https://archive.org/details/WrightsArabicGrammar2Of2"},
-      {"label": "Quranic Arabic Corpus", "url": "https://corpus.quran.com"}
+      {
+        "label": "Wright's Grammar Vol II — Numerals",
+        "url": "https://archive.org/details/WrightsArabicGrammar2Of2"
+      },
+      {
+        "label": "Quranic Arabic Corpus",
+        "url": "https://corpus.quran.com"
+      }
     ]
   },
   "lessons": [
@@ -24,16 +30,56 @@
             "type": "example",
             "title": "Zahlwoerter 1–10 mit beiden Geschlechtern",
             "examples": [
-              {"arabic": "وَاحِد / وَاحِدَة", "transliteration": "waahid / waahidah", "meaning": "1 (m/f) — kongruiert normal"},
-              {"arabic": "اثْنَانِ / اثْنَتَانِ", "transliteration": "ithnaani / ithnataan", "meaning": "2 (m/f) — kongruiert normal, Dual"},
-              {"arabic": "ثَلَاثَة / ثَلَاث", "transliteration": "thalaathah / thalaath", "meaning": "3 — MIT Ta Marbuta für maskulin, OHNE für feminin"},
-              {"arabic": "أَرْبَعَة / أَرْبَع", "transliteration": "arba'ah / arba'", "meaning": "4"},
-              {"arabic": "خَمْسَة / خَمْس", "transliteration": "khamsah / khams", "meaning": "5"},
-              {"arabic": "سِتَّة / سِتّ", "transliteration": "sittah / sitt", "meaning": "6"},
-              {"arabic": "سَبْعَة / سَبْع", "transliteration": "sab'ah / sab'", "meaning": "7"},
-              {"arabic": "ثَمَانِيَة / ثَمَانِ", "transliteration": "thamaaniyah / thamaani", "meaning": "8"},
-              {"arabic": "تِسْعَة / تِسْع", "transliteration": "tis'ah / tis'", "meaning": "9"},
-              {"arabic": "عَشَرَة / عَشْر", "transliteration": "'asharah / 'ashr", "meaning": "10"}
+              {
+                "arabic": "وَاحِد / وَاحِدَة",
+                "transliteration": "waahid / waahidah",
+                "meaning": "1 (m/f) — kongruiert normal"
+              },
+              {
+                "arabic": "اثْنَانِ / اثْنَتَانِ",
+                "transliteration": "ithnaani / ithnataan",
+                "meaning": "2 (m/f) — kongruiert normal, Dual"
+              },
+              {
+                "arabic": "ثَلَاثَة / ثَلَاث",
+                "transliteration": "thalaathah / thalaath",
+                "meaning": "3 — MIT Ta Marbuta für maskulin, OHNE für feminin"
+              },
+              {
+                "arabic": "أَرْبَعَة / أَرْبَع",
+                "transliteration": "arba'ah / arba'",
+                "meaning": "4"
+              },
+              {
+                "arabic": "خَمْسَة / خَمْس",
+                "transliteration": "khamsah / khams",
+                "meaning": "5"
+              },
+              {
+                "arabic": "سِتَّة / سِتّ",
+                "transliteration": "sittah / sitt",
+                "meaning": "6"
+              },
+              {
+                "arabic": "سَبْعَة / سَبْع",
+                "transliteration": "sab'ah / sab'",
+                "meaning": "7"
+              },
+              {
+                "arabic": "ثَمَانِيَة / ثَمَانِ",
+                "transliteration": "thamaaniyah / thamaani",
+                "meaning": "8"
+              },
+              {
+                "arabic": "تِسْعَة / تِسْع",
+                "transliteration": "tis'ah / tis'",
+                "meaning": "9"
+              },
+              {
+                "arabic": "عَشَرَة / عَشْر",
+                "transliteration": "'asharah / 'ashr",
+                "meaning": "10"
+              }
             ]
           },
           {
@@ -48,57 +94,68 @@
               {
                 "ref": "2:196",
                 "arabic": "فَصِيَامُ ثَلَاثَةِ أَيَّامٍ",
-                "explanation": "Drei Tage: ثَلَاثَة (mit Ta Marbuta weil أَيَّام maskulin ist) + أَيَّامٍ (Plural Genitiv als Tamyiz)."
+                "explanation": "Drei Tage: ثَلَاثَة (mit Ta Marbuta weil أَيَّام maskulin ist) + أَيَّامٍ (Plural Genitiv als Tamyiz).",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=196"
               },
               {
                 "ref": "7:54",
                 "arabic": "خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ فِي سِتَّةِ أَيَّامٍ",
-                "explanation": "Sechs Tage: سِتَّة (mit Ta Marbuta → Gezähltes maskulin) + أَيَّامٍ (Plural Genitiv)."
+                "explanation": "Sechs Tage: سِتَّة (mit Ta Marbuta → Gezähltes maskulin) + أَيَّامٍ (Plural Genitiv).",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=7&verse=54"
               },
               {
                 "ref": "18:22",
                 "arabic": "سَيَقُولُونَ ثَلَاثَةٌ رَابِعُهُمْ كَلْبُهُمْ",
-                "explanation": "Drei (Personen): ثَلَاثَةٌ steht allein als Mubtada (Nominativ mit Tanwin)."
+                "explanation": "Drei (Personen): ثَلَاثَةٌ steht allein als Mubtada (Nominativ mit Tanwin).",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=18&verse=22"
               },
               {
                 "ref": "58:7",
                 "arabic": "مَا يَكُونُ مِنْ نَجْوَىٰ ثَلَاثَةٍ إِلَّا هُوَ رَابِعُهُمْ",
-                "explanation": "Drei (Personen): ثَلَاثَةٍ im Genitiv nach Präposition مِنْ."
+                "explanation": "Drei (Personen): ثَلَاثَةٍ im Genitiv nach Präposition مِنْ.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=58&verse=7"
               },
               {
                 "ref": "2:234",
                 "arabic": "يَتَرَبَّصْنَ بِأَنْفُسِهِنَّ أَرْبَعَةَ أَشْهُرٍ وَعَشْرًا",
-                "explanation": "Vier Monate und zehn: أَرْبَعَة (maskulin → mit Ta Marbuta) + أَشْهُرٍ (Plural Genitiv). عَشْرًا ohne Ta Marbuta — die Grammatiktradition ergänzt hier ليال (Naechte) als getilgtes Tamyiz. Dies ist eine grammatische Rekonstruktion (Taqdir) — der Text selbst nennt nur عَشْرًا."
+                "explanation": "Vier Monate und zehn: أَرْبَعَة (maskulin → mit Ta Marbuta) + أَشْهُرٍ (Plural Genitiv). عَشْرًا ohne Ta Marbuta — die Grammatiktradition ergänzt hier ليال (Naechte) als getilgtes Tamyiz. Dies ist eine grammatische Rekonstruktion (Taqdir) — der Text selbst nennt nur عَشْرًا.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=234"
               },
               {
                 "ref": "12:4",
                 "arabic": "إِنِّي رَأَيْتُ أَحَدَ عَشَرَ كَوْكَبًا",
-                "explanation": "Elf Sterne: أَحَدَ عَشَرَ (zusammengesetzte Zahl 11) + كَوْكَبًا (Singular Akkusativ als Tamyiz)."
+                "explanation": "Elf Sterne: أَحَدَ عَشَرَ (zusammengesetzte Zahl 11) + كَوْكَبًا (Singular Akkusativ als Tamyiz).",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=12&verse=4"
               },
               {
                 "ref": "9:36",
                 "arabic": "إِنَّ عِدَّةَ الشُّهُورِ عِنْدَ اللَّهِ اثْنَا عَشَرَ شَهْرًا",
-                "explanation": "Zwoelf Monate: اثْنَا عَشَرَ + شَهْرًا (Singular Akkusativ als Tamyiz)."
+                "explanation": "Zwoelf Monate: اثْنَا عَشَرَ + شَهْرًا (Singular Akkusativ als Tamyiz).",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=9&verse=36"
               },
               {
                 "ref": "2:60",
                 "arabic": "فَانْفَجَرَتْ مِنْهُ اثْنَتَا عَشْرَةَ عَيْنًا",
-                "explanation": "Zwoelf Quellen: اثْنَتَا عَشْرَةَ (feminin weil عَيْن feminin ist) + عَيْنًا (Singular Akkusativ)."
+                "explanation": "Zwoelf Quellen: اثْنَتَا عَشْرَةَ (feminin weil عَيْن feminin ist) + عَيْنًا (Singular Akkusativ).",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=60"
               },
               {
                 "ref": "7:160",
                 "arabic": "وَقَطَّعْنَاهُمُ اثْنَتَيْ عَشْرَةَ أَسْبَاطًا أُمَمًا",
-                "explanation": "Zwoelf Stämme: اثْنَتَيْ (Dual Akkusativ/Genitiv feminin) عَشْرَةَ. Dies ist eine in der arabischen Grammatik diskutierte Stelle. Die Genuswahl (feminin) könnte sich auf أُمَّة (fem.) statt سِبْط (mask.) beziehen — eine grammatische Diskussion, nicht eine eindeutige Regel."
+                "explanation": "Zwoelf Stämme: اثْنَتَيْ (Dual Akkusativ/Genitiv feminin) عَشْرَةَ. Dies ist eine in der arabischen Grammatik diskutierte Stelle. Die Genuswahl (feminin) könnte sich auf أُمَّة (fem.) statt سِبْط (mask.) beziehen — eine grammatische Diskussion, nicht eine eindeutige Regel.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=7&verse=160"
               },
               {
                 "ref": "18:25",
                 "arabic": "وَلَبِثُوا فِي كَهْفِهِمْ ثَلَاثَ مِائَةٍ سِنِينَ وَازْدَادُوا تِسْعًا",
-                "explanation": "Dreihundert Jahre und dazu neun: ثَلَاثَ (ohne Ta → سِنِينَ ist feminin) مِائَةٍ."
+                "explanation": "Dreihundert Jahre und dazu neun: ثَلَاثَ (ohne Ta → سِنِينَ ist feminin) مِائَةٍ.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=18&verse=25"
               },
               {
                 "ref": "39:6",
                 "arabic": "يَخْلُقُكُمْ فِي بُطُونِ أُمَّهَاتِكُمْ خَلْقًا مِنْ بَعْدِ خَلْقٍ فِي ظُلُمَاتٍ ثَلَاثٍ",
-                "explanation": "In drei Dunkelheiten: ثَلَاث (OHNE Ta Marbuta → ظُلُمَات ist feminin). Kardinalzahl als Sifa (nachgestelltes Attribut)."
+                "explanation": "In drei Dunkelheiten: ثَلَاث (OHNE Ta Marbuta → ظُلُمَات ist feminin). Kardinalzahl als Sifa (nachgestelltes Attribut).",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=39&verse=6"
               }
             ]
           }
@@ -108,7 +165,12 @@
         {
           "type": "multiple_choice",
           "prompt": "Wie lautet 'sieben Himmel' auf Arabisch? (سماوات ist femininer Plural)",
-          "options": ["سَبْعَة سَمَاوَاتٍ", "سَبْع سَمَاوَاتٍ", "سَبْعَة سَمَاءٍ", "سَبْع سَمَاءً"],
+          "options": [
+            "سَبْعَة سَمَاوَاتٍ",
+            "سَبْع سَمَاوَاتٍ",
+            "سَبْعَة سَمَاءٍ",
+            "سَبْع سَمَاءً"
+          ],
           "correct": 1,
           "explanation": "سَبْع (OHNE Ta Marbuta weil سماوات feminin ist) + سَمَاوَاتٍ (Plural Genitiv). Vgl. 2:29."
         },
@@ -127,7 +189,12 @@
         {
           "type": "multiple_choice",
           "prompt": "In welchem Kasus steht das Tamyiz bei den Zahlen 3–10?",
-          "options": ["Singular Akkusativ", "Plural Nominativ", "Plural Genitiv", "Singular Genitiv"],
+          "options": [
+            "Singular Akkusativ",
+            "Plural Nominativ",
+            "Plural Genitiv",
+            "Singular Genitiv"
+          ],
           "correct": 2,
           "explanation": "Bei 3–10: Tamyiz = Plural Genitiv (جمع مجرور)."
         }
@@ -136,12 +203,22 @@
         "exercises": [
           {
             "question": "Was ist die korrekte Form für 'fünf Männer' (رجل ist maskulin)?",
-            "options": ["خَمْسَة رِجَالٍ", "خَمْس رِجَالٍ", "خَمْسَة رَجُلًا", "خَمْس رَجُلٍ"],
+            "options": [
+              "خَمْسَة رِجَالٍ",
+              "خَمْس رِجَالٍ",
+              "خَمْسَة رَجُلًا",
+              "خَمْس رَجُلٍ"
+            ],
             "correct": 0
           },
           {
             "question": "Was ist die korrekte Form für 'vier Frauen' (امرأة ist feminin)?",
-            "options": ["أَرْبَعَة نِسَاءٍ", "أَرْبَع نِسَاءٍ", "أَرْبَعَة نِسْوَةٍ", "أَرْبَع نِسْوَةٍ"],
+            "options": [
+              "أَرْبَعَة نِسَاءٍ",
+              "أَرْبَع نِسَاءٍ",
+              "أَرْبَعَة نِسْوَةٍ",
+              "أَرْبَع نِسْوَةٍ"
+            ],
             "correct": 3
           },
           {
@@ -156,7 +233,12 @@
           },
           {
             "question": "Wie heißt 'dreihundert' im Quran (18:25)?",
-            "options": ["ثَلَاثَ مِائَةٍ", "ثَلَاثَة مِائَة", "ثَلَاث مِائَات", "ثَلَاثَمِائَة"],
+            "options": [
+              "ثَلَاثَ مِائَةٍ",
+              "ثَلَاثَة مِائَة",
+              "ثَلَاث مِائَات",
+              "ثَلَاثَمِائَة"
+            ],
             "correct": 0
           }
         ]
@@ -190,37 +272,44 @@
               {
                 "ref": "12:4",
                 "arabic": "إِنِّي رَأَيْتُ أَحَدَ عَشَرَ كَوْكَبًا",
-                "explanation": "11 Sterne: أَحَدَ عَشَرَ (maskulin, beide Teile maskulin) + كَوْكَبًا (Singular Akkusativ)."
+                "explanation": "11 Sterne: أَحَدَ عَشَرَ (maskulin, beide Teile maskulin) + كَوْكَبًا (Singular Akkusativ).",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=12&verse=4"
               },
               {
                 "ref": "5:12",
                 "arabic": "وَبَعَثْنَا مِنْهُمُ اثْنَيْ عَشَرَ نَقِيبًا",
-                "explanation": "12 Anführer: اثْنَيْ (Akk/Gen-Form des maskulinen Dual) عَشَرَ + نَقِيبًا (Singular Akkusativ)."
+                "explanation": "12 Anführer: اثْنَيْ (Akk/Gen-Form des maskulinen Dual) عَشَرَ + نَقِيبًا (Singular Akkusativ).",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=5&verse=12"
               },
               {
                 "ref": "7:160",
                 "arabic": "وَقَطَّعْنَاهُمُ اثْنَتَيْ عَشْرَةَ أَسْبَاطًا",
-                "explanation": "12 Stämme: اثْنَتَيْ عَشْرَةَ (feminine Form). Dies ist eine in der arabischen Grammatik diskutierte Stelle. Die Genuswahl (feminin) könnte sich auf أُمَّة (fem.) statt سِبْط (mask.) beziehen — eine grammatische Diskussion, nicht eine eindeutige Regel."
+                "explanation": "12 Stämme: اثْنَتَيْ عَشْرَةَ (feminine Form). Dies ist eine in der arabischen Grammatik diskutierte Stelle. Die Genuswahl (feminin) könnte sich auf أُمَّة (fem.) statt سِبْط (mask.) beziehen — eine grammatische Diskussion, nicht eine eindeutige Regel.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=7&verse=160"
               },
               {
                 "ref": "29:14",
                 "arabic": "فَلَبِثَ فِيهِمْ أَلْفَ سَنَةٍ إِلَّا خَمْسِينَ عَامًا",
-                "explanation": "Tausend Jahre minus fünfzig Jahre: أَلْفَ سَنَةٍ (Tamyiz Singular Genitiv nach 100/1000) — خَمْسِينَ عَامًا (Tamyiz Singular Akkusativ nach 11–99)."
+                "explanation": "Tausend Jahre minus fünfzig Jahre: أَلْفَ سَنَةٍ (Tamyiz Singular Genitiv nach 100/1000) — خَمْسِينَ عَامًا (Tamyiz Singular Akkusativ nach 11–99).",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=29&verse=14"
               },
               {
                 "ref": "2:259",
                 "arabic": "قَالَ لَبِثْتُ يَوْمًا أَوْ بَعْضَ يَوْمٍ قَالَ بَلْ لَبِثْتَ مِائَةَ عَامٍ",
-                "explanation": "Hundert Jahre: مِائَةَ عَامٍ — Tamyiz im Singular Genitiv (Idafa-Konstruktion)."
+                "explanation": "Hundert Jahre: مِائَةَ عَامٍ — Tamyiz im Singular Genitiv (Idafa-Konstruktion).",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=259"
               },
               {
                 "ref": "8:65",
                 "arabic": "إِنْ يَكُنْ مِنْكُمْ عِشْرُونَ صَابِرُونَ يَغْلِبُوا مِائَتَيْنِ",
-                "explanation": "Zwanzig Geduldige besiegen zweihundert: عِشْرُونَ (Nominativ weil Ism Kana) + صَابِرُونَ (Sifa, kongruiert). مِائَتَيْنِ (Dual Akkusativ)."
+                "explanation": "Zwanzig Geduldige besiegen zweihundert: عِشْرُونَ (Nominativ weil Ism Kana) + صَابِرُونَ (Sifa, kongruiert). مِائَتَيْنِ (Dual Akkusativ).",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=8&verse=65"
               },
               {
                 "ref": "3:124",
                 "arabic": "أَلَنْ يَكْفِيَكُمْ أَنْ يُمِدَّكُمْ رَبُّكُمْ بِثَلَاثَةِ آلَافٍ مِنَ الْمَلَائِكَةِ",
-                "explanation": "Dreitausend (Engel): ثَلَاثَةِ (mit Ta Marbuta → Gezähltes maskulin, Genitiv nach Präposition) + آلَافٍ (Plural Genitiv — bei 3–10 gilt die Normalregel für أَلْف)."
+                "explanation": "Dreitausend (Engel): ثَلَاثَةِ (mit Ta Marbuta → Gezähltes maskulin, Genitiv nach Präposition) + آلَافٍ (Plural Genitiv — bei 3–10 gilt die Normalregel für أَلْف).",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=124"
               }
             ]
           }
@@ -230,14 +319,24 @@
         {
           "type": "multiple_choice",
           "prompt": "In welchem Kasus und Numerus steht das Tamyiz bei der Zahl 20?",
-          "options": ["Plural Genitiv", "Singular Akkusativ", "Singular Genitiv", "Plural Akkusativ"],
+          "options": [
+            "Plural Genitiv",
+            "Singular Akkusativ",
+            "Singular Genitiv",
+            "Plural Akkusativ"
+          ],
           "correct": 1,
           "explanation": "Bei 11–99: Tamyiz = Singular Akkusativ (مفرد منصوب)."
         },
         {
           "type": "multiple_choice",
           "prompt": "In welchem Kasus steht das Tamyiz nach مِائَة (hundert)?",
-          "options": ["Singular Akkusativ", "Plural Genitiv", "Singular Genitiv", "Plural Akkusativ"],
+          "options": [
+            "Singular Akkusativ",
+            "Plural Genitiv",
+            "Singular Genitiv",
+            "Plural Akkusativ"
+          ],
           "correct": 2,
           "explanation": "Nach 100 und 1000: Tamyiz = Singular Genitiv (Idafa)."
         }
@@ -256,7 +355,12 @@
           },
           {
             "question": "Was ist die korrekte Form für 'zwanzig Naechte' (ليلة ist feminin)?",
-            "options": ["عِشْرُونَ لَيْلَةً", "عِشْرُونَ لَيَالٍ", "عِشْرِينَ لَيْلَةً", "عِشْرَة لَيَالٍ"],
+            "options": [
+              "عِشْرُونَ لَيْلَةً",
+              "عِشْرُونَ لَيَالٍ",
+              "عِشْرِينَ لَيْلَةً",
+              "عِشْرَة لَيَالٍ"
+            ],
             "correct": 0
           },
           {
@@ -290,12 +394,14 @@
               {
                 "ref": "18:22",
                 "arabic": "ثَلَاثَةٌ رَابِعُهُمْ كَلْبُهُمْ ... خَمْسَةٌ سَادِسُهُمْ كَلْبُهُمْ ... سَبْعَةٌ وَثَامِنُهُمْ كَلْبُهُمْ",
-                "explanation": "Drei — ihr vierter ist ihr Hund ... fünf — ihr sechster ist ihr Hund ... sieben — und ihr achter ist ihr Hund. Ordinalzahlen als Prädikat."
+                "explanation": "Drei — ihr vierter ist ihr Hund ... fünf — ihr sechster ist ihr Hund ... sieben — und ihr achter ist ihr Hund. Ordinalzahlen als Prädikat.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=18&verse=22"
               },
-{
+              {
                 "ref": "2:228",
                 "arabic": "ثَلَاثَةَ قُرُوءٍ",
-                "explanation": "Drei Reinigungsperioden: ثَلَاثَة (mit Ta Marbuta → قُرْء ist maskulin) + قُرُوءٍ (Plural Genitiv)."
+                "explanation": "Drei Reinigungsperioden: ثَلَاثَة (mit Ta Marbuta → قُرْء ist maskulin) + قُرُوءٍ (Plural Genitiv).",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=228"
               }
             ]
           }
@@ -358,12 +464,14 @@
               {
                 "ref": "4:3",
                 "arabic": "فَانكِحُوا مَا طَابَ لَكُم مِّنَ النِّسَاءِ مَثْنَىٰ وَثُلَاثَ وَرُبَاعَ",
-                "explanation": "Je zwei, je drei, je vier: Drei Distributivzahlen in Reihe. Alle diptotisch — kein Tanwin trotz unbestimmter Bedeutung."
+                "explanation": "Je zwei, je drei, je vier: Drei Distributivzahlen in Reihe. Alle diptotisch — kein Tanwin trotz unbestimmter Bedeutung.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=3"
               },
               {
                 "ref": "35:1",
                 "arabic": "جَاعِلِ الْمَلَائِكَةِ رُسُلًا أُولِي أَجْنِحَةٍ مَّثْنَىٰ وَثُلَاثَ وَرُبَاعَ",
-                "explanation": "Mit Flügeln — je zwei, je drei, je vier: Dieselbe Distributivzahl-Reihe wie in 4:3, hier für die Anzahl der Flügel."
+                "explanation": "Mit Flügeln — je zwei, je drei, je vier: Dieselbe Distributivzahl-Reihe wie in 4:3, hier für die Anzahl der Flügel.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=35&verse=1"
               }
             ]
           }
@@ -374,14 +482,62 @@
   "summaryTable": {
     "title": "Übersicht: Tamyiz-Regeln nach Zahlbereich",
     "rows": [
-      {"range": "1–2", "tamyiz": "Kongruenz normal, Singular, gleicher Kasus", "gender": "Normal", "quranExample": "إِلَٰهٌ وَاحِدٌ (2:163)"},
-      {"range": "3–10", "tamyiz": "Plural Genitiv (جمع مجرور)", "gender": "Umgekehrt", "quranExample": "سَبْعَ سَمَاوَاتٍ (2:29)"},
-      {"range": "11–12", "tamyiz": "Singular Akkusativ (مفرد منصوب)", "gender": "Beide Teile kongruieren normal", "quranExample": "اثْنَيْ عَشَرَ نَقِيبًا (5:12)"},
-      {"range": "13–19", "tamyiz": "Singular Akkusativ", "gender": "Einerzahl umgekehrt, Zehnerstelle normal", "quranExample": "تِسْعَةَ عَشَرَ (74:30)"},
-      {"range": "20–99", "tamyiz": "Singular Akkusativ", "gender": "Zehnerzahlen unveränderlich", "quranExample": "عِشْرُونَ صَابِرُونَ (8:65)"},
-      {"range": "100", "tamyiz": "Singular Genitiv (Idafa)", "gender": "—", "quranExample": "مِائَةَ عَامٍ (2:259)"},
-      {"range": "1000", "tamyiz": "Singular Genitiv (Idafa)", "gender": "—", "quranExample": "أَلْفَ سَنَةٍ (29:14)"},
-      {"range": "3000–10000", "tamyiz": "آلَاف im Plural Genitiv", "gender": "Umgekehrt (wie 3–10)", "quranExample": "ثَلَاثَةِ آلَافٍ (3:124)"}
+      {
+        "range": "1–2",
+        "tamyiz": "Kongruenz normal, Singular, gleicher Kasus",
+        "gender": "Normal",
+        "quranExample": "إِلَٰهٌ وَاحِدٌ (2:163)",
+        "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=163"
+      },
+      {
+        "range": "3–10",
+        "tamyiz": "Plural Genitiv (جمع مجرور)",
+        "gender": "Umgekehrt",
+        "quranExample": "سَبْعَ سَمَاوَاتٍ (2:29)",
+        "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=29"
+      },
+      {
+        "range": "11–12",
+        "tamyiz": "Singular Akkusativ (مفرد منصوب)",
+        "gender": "Beide Teile kongruieren normal",
+        "quranExample": "اثْنَيْ عَشَرَ نَقِيبًا (5:12)",
+        "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=5&verse=12"
+      },
+      {
+        "range": "13–19",
+        "tamyiz": "Singular Akkusativ",
+        "gender": "Einerzahl umgekehrt, Zehnerstelle normal",
+        "quranExample": "تِسْعَةَ عَشَرَ (74:30)",
+        "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=74&verse=30"
+      },
+      {
+        "range": "20–99",
+        "tamyiz": "Singular Akkusativ",
+        "gender": "Zehnerzahlen unveränderlich",
+        "quranExample": "عِشْرُونَ صَابِرُونَ (8:65)",
+        "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=8&verse=65"
+      },
+      {
+        "range": "100",
+        "tamyiz": "Singular Genitiv (Idafa)",
+        "gender": "—",
+        "quranExample": "مِائَةَ عَامٍ (2:259)",
+        "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=259"
+      },
+      {
+        "range": "1000",
+        "tamyiz": "Singular Genitiv (Idafa)",
+        "gender": "—",
+        "quranExample": "أَلْفَ سَنَةٍ (29:14)",
+        "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=29&verse=14"
+      },
+      {
+        "range": "3000–10000",
+        "tamyiz": "آلَاف im Plural Genitiv",
+        "gender": "Umgekehrt (wie 3–10)",
+        "quranExample": "ثَلَاثَةِ آلَافٍ (3:124)",
+        "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=124"
+      }
     ]
   }
 }

@@ -5,7 +5,7 @@
     "sources": [
       {
         "name": "Wright's Arabic Grammar (3rd ed.)",
-        "url": "https://archive.org/details/grammarofarabicl01telerich"
+        "url": "https://archive.org/details/WrightsArabicGrammar1Of2"
       },
       {
         "name": "Quranic Arabic Corpus",
@@ -37,22 +37,26 @@
               {
                 "ref": "3:106",
                 "arabic": "يَوْمَ تَبْيَضُّ وُجُوهٌ وَتَسْوَدُّ وُجُوهٌ",
-                "explanation": "يَوْمَ = Zarf Zaman (Akkusativ). تَبْيَضُّ وُجُوهٌ = Folgesatz im Genitiv (Idafa). يَوْمَ bezieht sich auf den eschatologischen Tag. 'Am Tag, da Gesichter weiss werden und Gesichter schwarz werden.'"
+                "explanation": "يَوْمَ = Zarf Zaman (Akkusativ). تَبْيَضُّ وُجُوهٌ = Folgesatz im Genitiv (Idafa). يَوْمَ bezieht sich auf den eschatologischen Tag. 'Am Tag, da Gesichter weiss werden und Gesichter schwarz werden.'",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=106"
               },
               {
                 "ref": "39:9",
                 "arabic": "أَمَّنْ هُوَ قَانِتٌ آنَاءَ اللَّيْلِ سَاجِدًا وَقَائِمًا",
-                "explanation": "آنَاءَ اللَّيْلِ = Zarf Zaman. آنَاءَ ist Akkusativ-Plural von إِنْي / أَنَى (Zeitabschnitt, Periode). Zarf-Akkusativ für 'während der Nachtstunden'. اللَّيْلِ = Genitiv (Idafa). Beachte: آنَاءَ steht im Akkusativ und ist ein echter Zarf (keine Präposition). سَاجِدًا وَقَائِمًا = Hals."
+                "explanation": "آنَاءَ اللَّيْلِ = Zarf Zaman. آنَاءَ ist Akkusativ-Plural von إِنْي / أَنَى (Zeitabschnitt, Periode). Zarf-Akkusativ für 'während der Nachtstunden'. اللَّيْلِ = Genitiv (Idafa). Beachte: آنَاءَ steht im Akkusativ und ist ein echter Zarf (keine Präposition). سَاجِدًا وَقَائِمًا = Hals.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=39&verse=9"
               },
               {
                 "ref": "19:11",
                 "arabic": "فَأَوْحَىٰ إِلَيْهِمْ أَن سَبِّحُوا بُكْرَةً وَعَشِيًّا",
-                "explanation": "بُكْرَةً وَعَشِيًّا = zwei Zarfs Zaman (Akkusativ). بُكْرَةً = 'morgens', عَشِيًّا = 'abends'. Verbunden durch وَ (waw al-'atf — echte Konjunktion zwischen zwei gleichartigen Zarfs). 'Preiset [Gott] morgens und abends.'"
+                "explanation": "بُكْرَةً وَعَشِيًّا = zwei Zarfs Zaman (Akkusativ). بُكْرَةً = 'morgens', عَشِيًّا = 'abends'. Verbunden durch وَ (waw al-'atf — echte Konjunktion zwischen zwei gleichartigen Zarfs). 'Preiset [Gott] morgens und abends.'",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=19&verse=11"
               },
               {
                 "ref": "17:78",
                 "arabic": "أَقِمِ الصَّلَاةَ لِدُلُوكِ الشَّمْسِ إِلَىٰ غَسَقِ اللَّيْلِ وَقُرْآنَ الْفَجْرِ",
-                "explanation": "لِدُلُوكِ = Präposition + Genitiv (kein Zarf). قُرْآنَ الْفَجْرِ = Objekt (Akkusativ als Maf'ul bihi), kein echter Zarf. Vergleichsbeispiel: Zeitangaben mit Präposition sind Jarr wa-Majrur, nicht Zarf."
+                "explanation": "لِدُلُوكِ = Präposition + Genitiv (kein Zarf). قُرْآنَ الْفَجْرِ = Objekt (Akkusativ als Maf'ul bihi), kein echter Zarf. Vergleichsbeispiel: Zeitangaben mit Präposition sind Jarr wa-Majrur, nicht Zarf.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=17&verse=78"
               }
             ]
           }
@@ -99,17 +103,20 @@
               {
                 "ref": "2:19",
                 "arabic": "يَجْعَلُونَ أَصَابِعَهُمْ فِي آذَانِهِم مِّنَ الصَّوَاعِقِ حَذَرَ الْمَوْتِ",
-                "explanation": "حَذَرَ الْمَوْتِ — hier ist حَذَرَ kein Zarf, sondern Maf'ul li-Ajlihi (Zweckakkusativ: 'aus Angst vor dem Tod'). Zeigt: Akkusative haben verschiedene Funktionen."
+                "explanation": "حَذَرَ الْمَوْتِ — hier ist حَذَرَ kein Zarf, sondern Maf'ul li-Ajlihi (Zweckakkusativ: 'aus Angst vor dem Tod'). Zeigt: Akkusative haben verschiedene Funktionen.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=19"
               },
               {
                 "ref": "18:17",
                 "arabic": "وَتَرَى الشَّمْسَ إِذَا طَلَعَت تَّزَاوَرُ عَن كَهْفِهِمْ ذَاتَ الْيَمِينِ",
-                "explanation": "ذَاتَ الْيَمِينِ = Zarf Makan (Akkusativ). ذَاتَ ist ein lexikalisierter Zarf (Akkusativ-Form von ذُو). 'Nach rechts hin' (wortl.: 'die Seite der Rechten'). Idafa: ذَاتَ (Mudaf) + الْيَمِينِ (Mudaf ilayh, Genitiv)."
+                "explanation": "ذَاتَ الْيَمِينِ = Zarf Makan (Akkusativ). ذَاتَ ist ein lexikalisierter Zarf (Akkusativ-Form von ذُو). 'Nach rechts hin' (wortl.: 'die Seite der Rechten'). Idafa: ذَاتَ (Mudaf) + الْيَمِينِ (Mudaf ilayh, Genitiv).",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=18&verse=17"
               },
               {
                 "ref": "2:255",
                 "arabic": "لَهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ",
-                "explanation": "فِي السَّمَاوَاتِ und فِي الْأَرْضِ = Jarr wa-Majrur (Präposition + Genitiv), KEINE Zarfs. Vergleichsbeispiel: Ortsangaben mit فِي sind Präpositionalphrasen."
+                "explanation": "فِي السَّمَاوَاتِ und فِي الْأَرْضِ = Jarr wa-Majrur (Präposition + Genitiv), KEINE Zarfs. Vergleichsbeispiel: Ortsangaben mit فِي sind Präpositionalphrasen.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=255"
               }
             ]
           }
@@ -166,17 +173,20 @@
               {
                 "ref": "3:14",
                 "arabic": "قُلْ أَؤُنَبِّئُكُم بِخَيْرٍ مِّن ذَٰلِكُمْ لِلَّذِينَ اتَّقَوْا عِندَ رَبِّهِمْ جَنَّاتٌ",
-                "explanation": "عِنْدَ رَبِّهِمْ = Zarf Makan. عِنْدَ = 'bei', رَبِّهِمْ = Genitiv (Idafa). 'Bei ihrem Herrn sind Gärten.' Das Zarf fungiert hier als vorangestelltes Khabar."
+                "explanation": "عِنْدَ رَبِّهِمْ = Zarf Makan. عِنْدَ = 'bei', رَبِّهِمْ = Genitiv (Idafa). 'Bei ihrem Herrn sind Gärten.' Das Zarf fungiert hier als vorangestelltes Khabar.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=14"
               },
               {
                 "ref": "50:22",
                 "arabic": "لَّقَدْ كُنتَ فِي غَفْلَةٍ مِّنْ هَٰذَا فَكَشَفْنَا عَنكَ غِطَاءَكَ فَبَصَرُكَ الْيَوْمَ حَدِيدٌ",
-                "explanation": "Kontext für لَدَيْنَا: In 50:18 steht مَّا يَلْفِظُ مِن قَوْلٍ إِلَّا لَدَيْهِ رَقِيبٌ عَتِيدٌ — لَدَيْهِ = Zarf Makan ('bei ihm'). رَقِيبٌ عَتِيدٌ = Mubtada + Sifa. Das Zarf ist vorangestelltes Khabar: 'Bei ihm ist ein bereiter Wächter.'"
+                "explanation": "Kontext für لَدَيْنَا: In 50:18 steht مَّا يَلْفِظُ مِن قَوْلٍ إِلَّا لَدَيْهِ رَقِيبٌ عَتِيدٌ — لَدَيْهِ = Zarf Makan ('bei ihm'). رَقِيبٌ عَتِيدٌ = Mubtada + Sifa. Das Zarf ist vorangestelltes Khabar: 'Bei ihm ist ein bereiter Wächter.'",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=50&verse=22"
               },
               {
                 "ref": "2:150",
                 "arabic": "وَحَيْثُ مَا كُنتُمْ فَوَلُّوا وُجُوهَكُمْ شَطْرَهُ",
-                "explanation": "حَيْثُ مَا كُنتُمْ = Zarf Makan mit konditionaler Nuance. حَيْثُ = 'wo', مَا = verstärkend, كُنتُمْ = Verbalsatz. 'Und wo immer ihr seid, wendet eure Gesichter in seine Richtung.' حَيْثُ + Satz steht als Ganzes im Akkusativ (Zarf-Position)."
+                "explanation": "حَيْثُ مَا كُنتُمْ = Zarf Makan mit konditionaler Nuance. حَيْثُ = 'wo', مَا = verstärkend, كُنتُمْ = Verbalsatz. 'Und wo immer ihr seid, wendet eure Gesichter in seine Richtung.' حَيْثُ + Satz steht als Ganzes im Akkusativ (Zarf-Position).",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=150"
               }
             ]
           }

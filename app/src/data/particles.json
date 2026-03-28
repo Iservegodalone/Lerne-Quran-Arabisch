@@ -4,9 +4,18 @@
     "note": "Partikeln sind unveränderliche Wörter, die keine Konjugation oder Deklination aufweisen.",
     "totalCount": 73,
     "sources": [
-      {"label": "Wright's Grammar Vol II — Particles (Huruf)", "url": "https://archive.org/details/WrightsArabicGrammar2Of2"},
-      {"label": "Lane's Lexicon (Particle Semantics)", "url": "https://ejtaal.net/aa/"},
-      {"label": "Quranic Arabic Corpus", "url": "https://corpus.quran.com"}
+      {
+        "label": "Wright's Grammar Vol II — Particles (Huruf)",
+        "url": "https://archive.org/details/WrightsArabicGrammar2Of2"
+      },
+      {
+        "label": "Lane's Lexicon (Particle Semantics)",
+        "url": "https://ejtaal.net/aa/"
+      },
+      {
+        "label": "Quranic Arabic Corpus",
+        "url": "https://corpus.quran.com"
+      }
     ],
     "categories": [
       "conjunction",
@@ -42,8 +51,10 @@
       "quranExample": {
         "surah": 1,
         "ayah": 7,
-        "snippet": "وَلَا الضَّالِّينَ"
-      }
+        "snippet": "وَلَا الضَّالِّينَ",
+        "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=7"
+      },
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=7"
     },
     {
       "id": "fa",
@@ -58,8 +69,10 @@
       "quranExample": {
         "surah": 2,
         "ayah": 37,
-        "snippet": "فَتَابَ عَلَيْهِ"
-      }
+        "snippet": "فَتَابَ عَلَيْهِ",
+        "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=37"
+      },
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=37"
     },
     {
       "id": "thumma",
@@ -73,8 +86,10 @@
       "quranExample": {
         "surah": 2,
         "ayah": 28,
-        "snippet": "ثُمَّ يُحْيِيكُمْ"
-      }
+        "snippet": "ثُمَّ يُحْيِيكُمْ",
+        "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=28"
+      },
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=28"
     },
     {
       "id": "aw",
@@ -88,8 +103,10 @@
       "quranExample": {
         "surah": 2,
         "ayah": 19,
-        "snippet": "أَوْ كَصَيِّبٍ"
-      }
+        "snippet": "أَوْ كَصَيِّبٍ",
+        "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=19"
+      },
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=19"
     },
     {
       "id": "bal",
@@ -103,8 +120,10 @@
       "quranExample": {
         "surah": 2,
         "ayah": 88,
-        "snippet": "بَلْ لَعَنَهُمُ اللَّهُ"
-      }
+        "snippet": "بَلْ لَعَنَهُمُ اللَّهُ",
+        "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=88"
+      },
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=88"
     },
     {
       "id": "lakin",
@@ -118,8 +137,10 @@
       "quranExample": {
         "surah": 2,
         "ayah": 12,
-        "snippet": "وَلَكِنْ لَا يَشْعُرُونَ"
-      }
+        "snippet": "وَلَكِنْ لَا يَشْعُرُونَ",
+        "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=12"
+      },
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=12"
     },
     {
       "id": "lakinna",
@@ -133,8 +154,10 @@
       "quranExample": {
         "surah": 2,
         "ayah": 13,
-        "snippet": "وَلَكِنَّهُمْ لَا يَعْلَمُونَ"
-      }
+        "snippet": "وَلَكِنَّهُمْ لَا يَعْلَمُونَ",
+        "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=13"
+      },
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=13"
     },
     {
       "id": "min",
@@ -148,8 +171,10 @@
       "quranExample": {
         "surah": 2,
         "ayah": 89,
-        "snippet": "مِنْ عِندِ اللَّهِ"
-      }
+        "snippet": "مِنْ عِندِ اللَّهِ",
+        "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=89"
+      },
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=89"
     },
     {
       "id": "fi",
@@ -163,8 +188,10 @@
       "quranExample": {
         "surah": 2,
         "ayah": 10,
-        "snippet": "فِي قُلُوبِهِمْ"
-      }
+        "snippet": "فِي قُلُوبِهِمْ",
+        "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=10"
+      },
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=10"
     },
     {
       "id": "ala",
@@ -178,8 +205,10 @@
       "quranExample": {
         "surah": 2,
         "ayah": 5,
-        "snippet": "عَلَى هُدًى"
-      }
+        "snippet": "عَلَى هُدًى",
+        "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=5"
+      },
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=5"
     },
     {
       "id": "ila",
@@ -193,8 +222,10 @@
       "quranExample": {
         "surah": 2,
         "ayah": 28,
-        "snippet": "ثُمَّ إِلَيْهِ تُرْجَعُونَ"
-      }
+        "snippet": "ثُمَّ إِلَيْهِ تُرْجَعُونَ",
+        "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=28"
+      },
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=28"
     },
     {
       "id": "an",
@@ -208,8 +239,10 @@
       "quranExample": {
         "surah": 2,
         "ayah": 48,
-        "snippet": "عَنْ نَفْسٍ"
-      }
+        "snippet": "عَنْ نَفْسٍ",
+        "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=48"
+      },
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=48"
     },
     {
       "id": "ba_prep",
@@ -223,8 +256,10 @@
       "quranExample": {
         "surah": 1,
         "ayah": 1,
-        "snippet": "بِسْمِ اللَّهِ"
-      }
+        "snippet": "بِسْمِ اللَّهِ",
+        "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=1"
+      },
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=1"
     },
     {
       "id": "la_prep",
@@ -238,8 +273,10 @@
       "quranExample": {
         "surah": 1,
         "ayah": 2,
-        "snippet": "الْحَمْدُ لِلَّهِ"
-      }
+        "snippet": "الْحَمْدُ لِلَّهِ",
+        "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=2"
+      },
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=2"
     },
     {
       "id": "ka_prep",
@@ -253,8 +290,10 @@
       "quranExample": {
         "surah": 2,
         "ayah": 74,
-        "snippet": "كَالْحِجَارَةِ"
-      }
+        "snippet": "كَالْحِجَارَةِ",
+        "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=74"
+      },
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=74"
     },
     {
       "id": "inda",
@@ -268,8 +307,10 @@
       "quranExample": {
         "surah": 2,
         "ayah": 54,
-        "snippet": "عِنْدَ رَبِّكُمْ"
-      }
+        "snippet": "عِنْدَ رَبِّكُمْ",
+        "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=54"
+      },
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=54"
     },
     {
       "id": "bayna",
@@ -283,8 +324,10 @@
       "quranExample": {
         "surah": 2,
         "ayah": 66,
-        "snippet": "لِمَا بَيْنَ يَدَيْهَا"
-      }
+        "snippet": "لِمَا بَيْنَ يَدَيْهَا",
+        "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=66"
+      },
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=66"
     },
     {
       "id": "fawqa",
@@ -298,8 +341,10 @@
       "quranExample": {
         "surah": 2,
         "ayah": 26,
-        "snippet": "فَوْقَهَا"
-      }
+        "snippet": "فَوْقَهَا",
+        "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=26"
+      },
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=26"
     },
     {
       "id": "tahta",
@@ -313,8 +358,10 @@
       "quranExample": {
         "surah": 2,
         "ayah": 25,
-        "snippet": "تَحْتِهَا الْأَنْهَارُ"
-      }
+        "snippet": "تَحْتِهَا الْأَنْهَارُ",
+        "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=25"
+      },
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=25"
     },
     {
       "id": "ma_a",
@@ -328,8 +375,10 @@
       "quranExample": {
         "surah": 2,
         "ayah": 43,
-        "snippet": "مَعَ الرَّاكِعِينَ"
-      }
+        "snippet": "مَعَ الرَّاكِعِينَ",
+        "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=43"
+      },
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=43"
     },
     {
       "id": "mundhu",
@@ -356,8 +405,10 @@
       "quranExample": {
         "surah": 2,
         "ayah": 255,
-        "snippet": "يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ"
-      }
+        "snippet": "يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ",
+        "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=255"
+      },
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=255"
     },
     {
       "id": "qabla",
@@ -371,8 +422,10 @@
       "quranExample": {
         "surah": 2,
         "ayah": 25,
-        "snippet": "مِنْ قَبْلُ"
-      }
+        "snippet": "مِنْ قَبْلُ",
+        "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=25"
+      },
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=25"
     },
     {
       "id": "ba_da",
@@ -386,8 +439,10 @@
       "quranExample": {
         "surah": 2,
         "ayah": 27,
-        "snippet": "مِنْ بَعْدِ مِيثَاقِهِ"
-      }
+        "snippet": "مِنْ بَعْدِ مِيثَاقِهِ",
+        "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=27"
+      },
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=27"
     },
     {
       "id": "duna",
@@ -401,8 +456,10 @@
       "quranExample": {
         "surah": 2,
         "ayah": 23,
-        "snippet": "مِنْ دُونِ اللَّهِ"
-      }
+        "snippet": "مِنْ دُونِ اللَّهِ",
+        "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=23"
+      },
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=23"
     },
     {
       "id": "hawla",
@@ -416,8 +473,10 @@
       "quranExample": {
         "surah": 2,
         "ayah": 17,
-        "snippet": "حَوْلَهُمْ"
-      }
+        "snippet": "حَوْلَهُمْ",
+        "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=17"
+      },
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=17"
     },
     {
       "id": "hatta",
@@ -431,8 +490,10 @@
       "quranExample": {
         "surah": 2,
         "ayah": 55,
-        "snippet": "حَتَّى نَرَى اللَّهَ"
-      }
+        "snippet": "حَتَّى نَرَى اللَّهَ",
+        "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=55"
+      },
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=55"
     },
     {
       "id": "la_neg",
@@ -447,8 +508,10 @@
       "quranExample": {
         "surah": 2,
         "ayah": 2,
-        "snippet": "لَا رَيْبَ فِيهِ"
-      }
+        "snippet": "لَا رَيْبَ فِيهِ",
+        "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=2"
+      },
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=2"
     },
     {
       "id": "ma_neg",
@@ -464,8 +527,10 @@
       "quranExample": {
         "surah": 2,
         "ayah": 17,
-        "snippet": "مَا كَانُوا يُبْصِرُونَ"
-      }
+        "snippet": "مَا كَانُوا يُبْصِرُونَ",
+        "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=17"
+      },
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=17"
     },
     {
       "id": "lam",
@@ -479,8 +544,10 @@
       "quranExample": {
         "surah": 112,
         "ayah": 3,
-        "snippet": "لَمْ يَلِدْ وَلَمْ يُولَدْ"
-      }
+        "snippet": "لَمْ يَلِدْ وَلَمْ يُولَدْ",
+        "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=112&verse=3"
+      },
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=112&verse=3"
     },
     {
       "id": "lamma",
@@ -488,14 +555,17 @@
       "consonantal": "لما",
       "transliteration": "lammā",
       "german": "noch nicht; als",
-      "function": "Negiert die Vergangenheit bis jetzt (noch nicht); auch temporal (als)",
-      "category": "jussive",
-      "grammaticalEffect": "jussive",
+      "function": "Zwei distinkte Funktionen: (1) Negationspartikel mit Jazm (noch nicht) — negiert eine Handlung, die bis zum Sprechzeitpunkt nicht eingetreten ist, regiert Muḍāriʿ im Majzūm; (2) Temporalpartikel (als/nachdem) — leitet einen Temporalsatz ein, gefolgt von Perfekt (Māḍī), KEIN Jazm.",
+      "category": "jussive_and_temporal",
+      "grammaticalEffect": "jussive_or_none",
+      "note": "Als Negationspartikel (لَمَّا يَذُوقُوا — noch nicht gekostet) regiert لَمَّا den Jazm. Als Temporalpartikel (فَلَمَّا جَاءَهُمْ — als er zu ihnen kam) hat sie keinen syntaktischen Effekt auf den Modus.",
       "quranExample": {
         "surah": 38,
         "ayah": 8,
-        "snippet": "بَلْ لَمَّا يَذُوقُوا"
-      }
+        "snippet": "بَلْ لَمَّا يَذُوقُوا",
+        "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=38&verse=8"
+      },
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=38&verse=8"
     },
     {
       "id": "lan",
@@ -509,8 +579,10 @@
       "quranExample": {
         "surah": 2,
         "ayah": 55,
-        "snippet": "لَنْ نُؤْمِنَ"
-      }
+        "snippet": "لَنْ نُؤْمِنَ",
+        "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=55"
+      },
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=55"
     },
     {
       "id": "qad",
@@ -525,8 +597,10 @@
       "quranExample": {
         "surah": 2,
         "ayah": 60,
-        "snippet": "قَدْ عَلِمَ"
-      }
+        "snippet": "قَدْ عَلِمَ",
+        "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=60"
+      },
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=60"
     },
     {
       "id": "sawfa",
@@ -540,8 +614,10 @@
       "quranExample": {
         "surah": 93,
         "ayah": 5,
-        "snippet": "وَلَسَوْفَ يُعْطِيكَ"
-      }
+        "snippet": "وَلَسَوْفَ يُعْطِيكَ",
+        "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=93&verse=5"
+      },
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=93&verse=5"
     },
     {
       "id": "sa",
@@ -555,8 +631,10 @@
       "quranExample": {
         "surah": 2,
         "ayah": 137,
-        "snippet": "فَسَيَكْفِيكَهُمُ"
-      }
+        "snippet": "فَسَيَكْفِيكَهُمُ",
+        "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=137"
+      },
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=137"
     },
     {
       "id": "inna",
@@ -570,8 +648,10 @@
       "quranExample": {
         "surah": 2,
         "ayah": 6,
-        "snippet": "إِنَّ الَّذِينَ كَفَرُوا"
-      }
+        "snippet": "إِنَّ الَّذِينَ كَفَرُوا",
+        "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=6"
+      },
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=6"
     },
     {
       "id": "anna",
@@ -585,8 +665,10 @@
       "quranExample": {
         "surah": 2,
         "ayah": 26,
-        "snippet": "أَنَّهُ الْحَقُّ"
-      }
+        "snippet": "أَنَّهُ الْحَقُّ",
+        "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=26"
+      },
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=26"
     },
     {
       "id": "an_subjunctive",
@@ -600,8 +682,10 @@
       "quranExample": {
         "surah": 2,
         "ayah": 26,
-        "snippet": "أَنْ يَضْرِبَ"
-      }
+        "snippet": "أَنْ يَضْرِبَ",
+        "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=26"
+      },
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=26"
     },
     {
       "id": "in_conditional",
@@ -615,8 +699,10 @@
       "quranExample": {
         "surah": 3,
         "ayah": 139,
-        "snippet": "إِنْ كُنْتُمْ مُؤْمِنِينَ"
-      }
+        "snippet": "إِنْ كُنْتُمْ مُؤْمِنِينَ",
+        "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=139"
+      },
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=139"
     },
     {
       "id": "kay",
@@ -630,8 +716,10 @@
       "quranExample": {
         "surah": 3,
         "ayah": 153,
-        "snippet": "لِكَيْلَا تَحْزَنُوا"
-      }
+        "snippet": "لِكَيْلَا تَحْزَنُوا",
+        "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=153"
+      },
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=153"
     },
     {
       "id": "kalla",
@@ -645,8 +733,10 @@
       "quranExample": {
         "surah": 102,
         "ayah": 3,
-        "snippet": "كَلَّا سَوْفَ تَعْلَمُونَ"
-      }
+        "snippet": "كَلَّا سَوْفَ تَعْلَمُونَ",
+        "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=102&verse=3"
+      },
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=102&verse=3"
     },
     {
       "id": "ala_attention",
@@ -660,8 +750,10 @@
       "quranExample": {
         "surah": 2,
         "ayah": 12,
-        "snippet": "أَلَا إِنَّهُمْ هُمُ الْمُفْسِدُونَ"
-      }
+        "snippet": "أَلَا إِنَّهُمْ هُمُ الْمُفْسِدُونَ",
+        "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=12"
+      },
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=12"
     },
     {
       "id": "idh",
@@ -675,8 +767,10 @@
       "quranExample": {
         "surah": 2,
         "ayah": 30,
-        "snippet": "وَإِذْ قَالَ رَبُّكَ"
-      }
+        "snippet": "وَإِذْ قَالَ رَبُّكَ",
+        "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=30"
+      },
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=30"
     },
     {
       "id": "idha",
@@ -691,8 +785,10 @@
       "quranExample": {
         "surah": 99,
         "ayah": 1,
-        "snippet": "إِذَا زُلْزِلَتِ الْأَرْضُ"
-      }
+        "snippet": "إِذَا زُلْزِلَتِ الْأَرْضُ",
+        "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=99&verse=1"
+      },
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=99&verse=1"
     },
     {
       "id": "innama",
@@ -706,8 +802,10 @@
       "quranExample": {
         "surah": 2,
         "ayah": 11,
-        "snippet": "إِنَّمَا نَحْنُ مُصْلِحُونَ"
-      }
+        "snippet": "إِنَّمَا نَحْنُ مُصْلِحُونَ",
+        "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=11"
+      },
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=11"
     },
     {
       "id": "la_alla",
@@ -721,8 +819,10 @@
       "quranExample": {
         "surah": 2,
         "ayah": 21,
-        "snippet": "لَعَلَّكُمْ تَتَّقُونَ"
-      }
+        "snippet": "لَعَلَّكُمْ تَتَّقُونَ",
+        "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=21"
+      },
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=21"
     },
     {
       "id": "layta",
@@ -736,8 +836,10 @@
       "quranExample": {
         "surah": 4,
         "ayah": 73,
-        "snippet": "يَا لَيْتَنِي كُنْتُ مَعَهُمْ"
-      }
+        "snippet": "يَا لَيْتَنِي كُنْتُ مَعَهُمْ",
+        "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=73"
+      },
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=73"
     },
     {
       "id": "ka_anna",
@@ -751,8 +853,10 @@
       "quranExample": {
         "surah": 27,
         "ayah": 44,
-        "snippet": "كَأَنَّهُ لُجَّةٌ"
-      }
+        "snippet": "كَأَنَّهُ لُجَّةٌ",
+        "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=27&verse=44"
+      },
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=27&verse=44"
     },
     {
       "id": "hal",
@@ -766,8 +870,10 @@
       "quranExample": {
         "surah": 2,
         "ayah": 210,
-        "snippet": "هَلْ يَنْظُرُونَ"
-      }
+        "snippet": "هَلْ يَنْظُرُونَ",
+        "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=210"
+      },
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=210"
     },
     {
       "id": "hamza_interrogative",
@@ -781,8 +887,10 @@
       "quranExample": {
         "surah": 2,
         "ayah": 6,
-        "snippet": "أَأَنْذَرْتَهُمْ"
-      }
+        "snippet": "أَأَنْذَرْتَهُمْ",
+        "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=6"
+      },
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=6"
     },
     {
       "id": "ya",
@@ -796,8 +904,10 @@
       "quranExample": {
         "surah": 2,
         "ayah": 21,
-        "snippet": "يَا أَيُّهَا النَّاسُ"
-      }
+        "snippet": "يَا أَيُّهَا النَّاسُ",
+        "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=21"
+      },
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=21"
     },
     {
       "id": "amma",
@@ -812,8 +922,10 @@
       "quranExample": {
         "surah": 93,
         "ayah": 9,
-        "snippet": "فَأَمَّا الْيَتِيمَ فَلَا تَقْهَرْ"
-      }
+        "snippet": "فَأَمَّا الْيَتِيمَ فَلَا تَقْهَرْ",
+        "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=93&verse=9"
+      },
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=93&verse=9"
     },
     {
       "id": "rubba",
@@ -828,8 +940,10 @@
       "quranExample": {
         "surah": 15,
         "ayah": 2,
-        "snippet": "رُبَمَا يَوَدُّ الَّذِينَ كَفَرُوا — (رُبَّ + مَا: Das مَا hebt den Genitiveffekt auf; رُبَّ allein ist im Quran nicht belegt)"
-      }
+        "snippet": "رُبَمَا يَوَدُّ الَّذِينَ كَفَرُوا — (رُبَّ + مَا: Das مَا hebt den Genitiveffekt auf; رُبَّ allein ist im Quran nicht belegt)",
+        "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=15&verse=2"
+      },
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=15&verse=2"
     },
     {
       "id": "imma",
@@ -843,8 +957,10 @@
       "quranExample": {
         "surah": 76,
         "ayah": 3,
-        "snippet": "إِمَّا شَاكِرًا وَإِمَّا كَفُورًا"
-      }
+        "snippet": "إِمَّا شَاكِرًا وَإِمَّا كَفُورًا",
+        "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=76&verse=3"
+      },
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=76&verse=3"
     },
     {
       "id": "ghayra",
@@ -858,8 +974,10 @@
       "quranExample": {
         "surah": 1,
         "ayah": 7,
-        "snippet": "غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ"
-      }
+        "snippet": "غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ",
+        "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=7"
+      },
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=7"
     },
     {
       "id": "illa",
@@ -873,8 +991,10 @@
       "quranExample": {
         "surah": 2,
         "ayah": 34,
-        "snippet": "إِلَّا إِبْلِيسَ"
-      }
+        "snippet": "إِلَّا إِبْلِيسَ",
+        "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=34"
+      },
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=34"
     },
     {
       "id": "mahmaa",
@@ -888,8 +1008,10 @@
       "quranExample": {
         "surah": 7,
         "ayah": 132,
-        "snippet": "مَهْمَا تَأْتِنَا بِهِ"
-      }
+        "snippet": "مَهْمَا تَأْتِنَا بِهِ",
+        "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=7&verse=132"
+      },
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=7&verse=132"
     },
     {
       "id": "aynamaa",
@@ -903,8 +1025,10 @@
       "quranExample": {
         "surah": 2,
         "ayah": 148,
-        "snippet": "أَيْنَمَا تَكُونُوا"
-      }
+        "snippet": "أَيْنَمَا تَكُونُوا",
+        "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=148"
+      },
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=148"
     },
     {
       "id": "haythumaa",
@@ -919,8 +1043,10 @@
       "quranExample": {
         "surah": 2,
         "ayah": 144,
-        "snippet": "وَحَيْثُ مَا كُنتُمْ فَوَلُّوا وُجُوهَكُمْ شَطْرَهُ"
-      }
+        "snippet": "وَحَيْثُ مَا كُنتُمْ فَوَلُّوا وُجُوهَكُمْ شَطْرَهُ",
+        "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=144"
+      },
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=144"
     },
     {
       "id": "kayfamaa",
@@ -935,8 +1061,10 @@
       "quranExample": {
         "surah": 2,
         "ayah": 28,
-        "snippet": "كَيْفَ تَكْفُرُونَ بِاللَّهِ — (Beispiel zeigt كَيْفَ, die Basisform; كَيْفَمَا selbst ist im Quran nicht belegt)"
-      }
+        "snippet": "كَيْفَ تَكْفُرُونَ بِاللَّهِ — (Beispiel zeigt كَيْفَ, die Basisform; كَيْفَمَا selbst ist im Quran nicht belegt)",
+        "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=28"
+      },
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=28"
     },
     {
       "id": "halla",
@@ -950,9 +1078,11 @@
       "quranExample": {
         "surah": 24,
         "ayah": 12,
-        "snippet": "لَوْلَا إِذْ سَمِعْتُمُوهُ — (Beispiel zeigt لَوْلَا im Tahḍīḍ-Gebrauch; هَلَّا selbst ist im Quran nicht belegt)"
+        "snippet": "لَوْلَا إِذْ سَمِعْتُمُوهُ — (Beispiel zeigt لَوْلَا im Tahḍīḍ-Gebrauch; هَلَّا selbst ist im Quran nicht belegt)",
+        "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=24&verse=12"
       },
-      "notes": "هَلَّا ist im Quran nicht belegt. Im Quran übernimmt لَوْلَا (lawlā) die Tahḍīḍ-Funktion (z.B. 24:12)."
+      "notes": "هَلَّا ist im Quran nicht belegt. Im Quran übernimmt لَوْلَا (lawlā) die Tahḍīḍ-Funktion (z.B. 24:12).",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=24&verse=12"
     },
     {
       "id": "am",
@@ -966,8 +1096,10 @@
       "quranExample": {
         "surah": 2,
         "ayah": 6,
-        "snippet": "أَأَنْذَرْتَهُمْ أَمْ لَمْ تُنْذِرْهُمْ"
-      }
+        "snippet": "أَأَنْذَرْتَهُمْ أَمْ لَمْ تُنْذِرْهُمْ",
+        "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=6"
+      },
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=6"
     },
     {
       "id": "ayyu",
@@ -981,8 +1113,10 @@
       "quranExample": {
         "surah": 19,
         "ayah": 69,
-        "snippet": "أَيُّهُمْ أَشَدُّ"
-      }
+        "snippet": "أَيُّهُمْ أَشَدُّ",
+        "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=19&verse=69"
+      },
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=19&verse=69"
     },
     {
       "id": "kam",
@@ -996,8 +1130,10 @@
       "quranExample": {
         "surah": 2,
         "ayah": 211,
-        "snippet": "كَمْ آتَيْنَاهُمْ"
-      }
+        "snippet": "كَمْ آتَيْنَاهُمْ",
+        "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=211"
+      },
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=211"
     },
     {
       "id": "kayfa",
@@ -1011,8 +1147,10 @@
       "quranExample": {
         "surah": 2,
         "ayah": 28,
-        "snippet": "كَيْفَ تَكْفُرُونَ"
-      }
+        "snippet": "كَيْفَ تَكْفُرُونَ",
+        "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=28"
+      },
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=28"
     },
     {
       "id": "ayna",
@@ -1026,8 +1164,10 @@
       "quranExample": {
         "surah": 81,
         "ayah": 26,
-        "snippet": "فَأَيْنَ تَذْهَبُونَ"
-      }
+        "snippet": "فَأَيْنَ تَذْهَبُونَ",
+        "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=81&verse=26"
+      },
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=81&verse=26"
     },
     {
       "id": "mataa",
@@ -1041,8 +1181,10 @@
       "quranExample": {
         "surah": 2,
         "ayah": 214,
-        "snippet": "مَتَى نَصْرُ اللَّهِ"
-      }
+        "snippet": "مَتَى نَصْرُ اللَّهِ",
+        "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=214"
+      },
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=214"
     },
     {
       "id": "anna_interrogative",
@@ -1056,8 +1198,10 @@
       "quranExample": {
         "surah": 3,
         "ayah": 37,
-        "snippet": "أَنَّى لَكِ هَذَا"
-      }
+        "snippet": "أَنَّى لَكِ هَذَا",
+        "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=37"
+      },
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=37"
     },
     {
       "id": "maadha",
@@ -1071,8 +1215,10 @@
       "quranExample": {
         "surah": 2,
         "ayah": 26,
-        "snippet": "مَاذَا أَرَادَ اللَّهُ"
-      }
+        "snippet": "مَاذَا أَرَادَ اللَّهُ",
+        "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=26"
+      },
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=26"
     },
     {
       "id": "qul",
@@ -1087,8 +1233,10 @@
       "quranExample": {
         "surah": 112,
         "ayah": 1,
-        "snippet": "قُلْ هُوَ اللَّهُ أَحَدٌ"
-      }
+        "snippet": "قُلْ هُوَ اللَّهُ أَحَدٌ",
+        "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=112&verse=1"
+      },
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=112&verse=1"
     },
     {
       "id": "lawla",
@@ -1103,8 +1251,10 @@
       "quranExample": {
         "surah": 2,
         "ayah": 64,
-        "snippet": "فَلَوْلَا فَضْلُ اللَّهِ"
-      }
+        "snippet": "فَلَوْلَا فَضْلُ اللَّهِ",
+        "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=64"
+      },
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=64"
     },
     {
       "id": "law",
@@ -1119,8 +1269,10 @@
       "quranExample": {
         "surah": 2,
         "ayah": 20,
-        "snippet": "وَلَوْ شَاءَ اللَّهُ"
-      }
+        "snippet": "وَلَوْ شَاءَ اللَّهُ",
+        "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=20"
+      },
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=20"
     },
     {
       "id": "laysa",
@@ -1136,8 +1288,10 @@
       "quranExample": {
         "surah": 2,
         "ayah": 177,
-        "snippet": "لَّيْسَ الْبِرَّ أَن تُوَلُّوا"
-      }
+        "snippet": "لَّيْسَ الْبِرَّ أَن تُوَلُّوا",
+        "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=177"
+      },
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=177"
     }
   ]
 }

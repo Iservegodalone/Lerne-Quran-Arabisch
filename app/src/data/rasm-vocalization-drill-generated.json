@@ -5,8 +5,14 @@
     "generated": "2026-03-23",
     "count": 200,
     "sources": [
-      { "name": "Wright's Grammar Vol I", "url": "https://archive.org/details/grammarofthearab01telerich" },
-      { "name": "Quranic Arabic Corpus", "url": "https://corpus.quran.com/" }
+      {
+        "name": "Wright's Grammar Vol I",
+        "url": "https://archive.org/details/WrightsArabicGrammar1Of2"
+      },
+      {
+        "name": "Quranic Arabic Corpus",
+        "url": "https://corpus.quran.com/"
+      }
     ]
   },
   "exercises": [
@@ -21,7 +27,8 @@
         "syntacticRole": "Fa'il/Mubtada (Nominativ)",
         "vocalization": "ٱلْبَرْقُ"
       },
-      "explanation": "ال (Definitartikel) + Nomen von Wurzel ب-ر-ق. maskulin. Nominativ → Damma auf ق."
+      "explanation": "ال (Definitartikel) + Nomen von Wurzel ب-ر-ق. maskulin. Nominativ → Damma auf ق.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=20"
     },
     {
       "id": "rvg002",
@@ -34,7 +41,8 @@
         "syntacticRole": "—",
         "vocalization": "أَنزَلْتُ"
       },
-      "explanation": "Form IV (أَفْعَلَ) — Kausativ von ن-ز-ل. Perfekt, 1. Person Singular."
+      "explanation": "Form IV (أَفْعَلَ) — Kausativ von ن-ز-ل. Perfekt, 1. Person Singular.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=41"
     },
     {
       "id": "rvg003",
@@ -47,7 +55,8 @@
         "syntacticRole": "—",
         "vocalization": "نَجَّيْنَٰكُم"
       },
-      "explanation": "Form II (فَعَّلَ) — Intensivierung/Kausativ von ن-ج-و. Perfekt, 1. Person Plural."
+      "explanation": "Form II (فَعَّلَ) — Intensivierung/Kausativ von ن-ج-و. Perfekt, 1. Person Plural.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=49"
     },
     {
       "id": "rvg004",
@@ -60,7 +69,8 @@
         "syntacticRole": "Majrur (Genitiv)",
         "vocalization": "بِسْمِ"
       },
-      "explanation": "Nomen von Wurzel س-م-و. maskulin. Genitiv → Kasra auf م."
+      "explanation": "Nomen von Wurzel س-م-و. maskulin. Genitiv → Kasra auf م.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=1"
     },
     {
       "id": "rvg005",
@@ -73,7 +83,8 @@
         "syntacticRole": "Majrur (Genitiv)",
         "vocalization": "ٱلسَّمَٰوَٰتِ"
       },
-      "explanation": "Nomen von Wurzel س-م-و. feminin, Plural. Genitiv → Kasra auf ت."
+      "explanation": "Nomen von Wurzel س-م-و. feminin, Plural. Genitiv → Kasra auf ت.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=33"
     },
     {
       "id": "rvg006",
@@ -86,7 +97,8 @@
         "syntacticRole": "Majrur (Genitiv)",
         "vocalization": "بِمُؤْمِنِينَ"
       },
-      "explanation": "Aktivpartizip Form IV von ا-م-ن. maskulin, Plural. Genitiv → Kasra auf ن."
+      "explanation": "Aktivpartizip Form IV von ا-م-ن. maskulin, Plural. Genitiv → Kasra auf ن.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=8"
     },
     {
       "id": "rvg007",
@@ -99,7 +111,8 @@
         "syntacticRole": "Majrur (Genitiv)",
         "vocalization": "بِعَهْدِى"
       },
-      "explanation": "Nomen von Wurzel ع-ه-د. maskulin. Genitiv → Kasra auf د."
+      "explanation": "Nomen von Wurzel ع-ه-د. maskulin. Genitiv → Kasra auf د.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=40"
     },
     {
       "id": "rvg008",
@@ -112,7 +125,8 @@
         "syntacticRole": "Majrur (Genitiv)",
         "vocalization": "ٱلنَّاسِ"
       },
-      "explanation": "ال (Definitartikel) + Nomen von Wurzel ن-و-س. maskulin, Plural. Genitiv → Kasra auf س."
+      "explanation": "ال (Definitartikel) + Nomen von Wurzel ن-و-س. maskulin, Plural. Genitiv → Kasra auf س.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=8"
     },
     {
       "id": "rvg009",
@@ -125,7 +139,8 @@
         "syntacticRole": "Majrur (Genitiv)",
         "vocalization": "مِيثَٰقِهِۦ"
       },
-      "explanation": "Nomen von Wurzel و-ث-ق. maskulin. Genitiv → Kasra auf ق."
+      "explanation": "Nomen von Wurzel و-ث-ق. maskulin. Genitiv → Kasra auf ق.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=27"
     },
     {
       "id": "rvg010",
@@ -138,7 +153,8 @@
         "syntacticRole": "Maf'ul bihi (Akkusativ)",
         "vocalization": "مَثَلًا"
       },
-      "explanation": "Nomen von Wurzel م-ث-ل. maskulin. Akkusativ → Fatha auf ل."
+      "explanation": "Nomen von Wurzel م-ث-ل. maskulin. Akkusativ → Fatha auf ل.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=26"
     },
     {
       "id": "rvg011",
@@ -151,7 +167,8 @@
         "syntacticRole": "—",
         "vocalization": "حَيْثُ"
       },
-      "explanation": "Ortsadverb (Partikel). Indeklinabel mit Damma."
+      "explanation": "Ortsadverb (Partikel). Indeklinabel mit Damma.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=35"
     },
     {
       "id": "rvg012",
@@ -164,7 +181,8 @@
         "syntacticRole": "—",
         "vocalization": "ٱسْتَوَىٰ"
       },
-      "explanation": "Form X (اِسْتَفْعَلَ) — Verlangen/Erachten von س-و-ي. Perfekt, 3. Person maskulin Singular."
+      "explanation": "Form X (اِسْتَفْعَلَ) — Verlangen/Erachten von س-و-ي. Perfekt, 3. Person maskulin Singular.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=29"
     },
     {
       "id": "rvg013",
@@ -177,7 +195,8 @@
         "syntacticRole": "—",
         "vocalization": "وَأَنزَلَ"
       },
-      "explanation": "Form IV (أَفْعَلَ) — Kausativ von ن-ز-ل. Perfekt, 3. Person maskulin Singular."
+      "explanation": "Form IV (أَفْعَلَ) — Kausativ von ن-ز-ل. Perfekt, 3. Person maskulin Singular.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=22"
     },
     {
       "id": "rvg014",
@@ -190,7 +209,8 @@
         "syntacticRole": "—",
         "vocalization": "وَيَسْتَحْيُونَ"
       },
-      "explanation": "Form X (اِسْتَفْعَلَ) — Verlangen/Erachten von ح-ي-ي. Imperfekt, 3. Person maskulin Plural."
+      "explanation": "Form X (اِسْتَفْعَلَ) — Verlangen/Erachten von ح-ي-ي. Imperfekt, 3. Person maskulin Plural.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=49"
     },
     {
       "id": "rvg015",
@@ -203,7 +223,8 @@
         "syntacticRole": "—",
         "vocalization": "ٱشْتَرَوُا"
       },
-      "explanation": "Form VIII (اِفْتَعَلَ) — reflexiv/medio von ش-ر-ي. Perfekt, 3. Person maskulin Plural."
+      "explanation": "Form VIII (اِفْتَعَلَ) — reflexiv/medio von ش-ر-ي. Perfekt, 3. Person maskulin Plural.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=16"
     },
     {
       "id": "rvg016",
@@ -216,7 +237,8 @@
         "syntacticRole": "Maf'ul bihi (Akkusativ)",
         "vocalization": "أَنفُسَهُمْ"
       },
-      "explanation": "Nomen von Wurzel ن-ف-س. feminin, Plural. Akkusativ → Fatha auf م."
+      "explanation": "Nomen von Wurzel ن-ف-س. feminin, Plural. Akkusativ → Fatha auf م.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=9"
     },
     {
       "id": "rvg017",
@@ -229,7 +251,8 @@
         "syntacticRole": "Fa'il/Mubtada (Nominativ)",
         "vocalization": "مَّرَضٌ"
       },
-      "explanation": "Nomen von Wurzel م-ر-ض. maskulin. Nominativ → Damma auf ض."
+      "explanation": "Nomen von Wurzel م-ر-ض. maskulin. Nominativ → Damma auf ض.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=10"
     },
     {
       "id": "rvg018",
@@ -242,7 +265,8 @@
         "syntacticRole": "Majrur (Genitiv)",
         "vocalization": "ٱلْكَٰفِرِينَ"
       },
-      "explanation": "ال (Definitartikel) + Aktivpartizip Form I (Muster فَاعِل) von ك-ف-ر. maskulin, Plural. Genitiv → Kasra auf ن."
+      "explanation": "ال (Definitartikel) + Aktivpartizip Form I (Muster فَاعِل) von ك-ف-ر. maskulin, Plural. Genitiv → Kasra auf ن.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=34"
     },
     {
       "id": "rvg019",
@@ -255,7 +279,8 @@
         "syntacticRole": "Maf'ul bihi (Akkusativ)",
         "vocalization": "سُبْحَٰنَكَ"
       },
-      "explanation": "Nomen von Wurzel س-ب-ح. maskulin. Akkusativ → Fatha auf ك."
+      "explanation": "Nomen von Wurzel س-ب-ح. maskulin. Akkusativ → Fatha auf ك.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=32"
     },
     {
       "id": "rvg020",
@@ -268,7 +293,8 @@
         "syntacticRole": "—",
         "vocalization": "أَوْفُوا"
       },
-      "explanation": "Form IV (أَفْعَلَ) — Kausativ von و-ف-ي. Imperativ, 2. Person maskulin Plural."
+      "explanation": "Form IV (أَفْعَلَ) — Kausativ von و-ف-ي. Imperativ, 2. Person maskulin Plural.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=40"
     },
     {
       "id": "rvg021",
@@ -281,7 +307,8 @@
         "syntacticRole": "Maf'ul bihi (Akkusativ)",
         "vocalization": "أَمْوَٰتًا"
       },
-      "explanation": "Nomen von Wurzel م-و-ت. maskulin, Plural. Akkusativ → Fatha auf ا."
+      "explanation": "Nomen von Wurzel م-و-ت. maskulin, Plural. Akkusativ → Fatha auf ا.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=28"
     },
     {
       "id": "rvg022",
@@ -294,7 +321,8 @@
         "syntacticRole": "—",
         "vocalization": "يَضْرِبَ"
       },
-      "explanation": "Verb der Grundform (Form I) von ض-ر-ب. Imperfekt, 3. Person maskulin Singular. Subjunktiv -a (Fatha)."
+      "explanation": "Verb der Grundform (Form I) von ض-ر-ب. Imperfekt, 3. Person maskulin Singular. Subjunktiv -a (Fatha).",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=26"
     },
     {
       "id": "rvg023",
@@ -307,7 +335,8 @@
         "syntacticRole": "Majrur (Genitiv)",
         "vocalization": "طُغْيَٰنِهِمْ"
       },
-      "explanation": "Masdar (Verbalsubstantiv) der Grundform von ط-غ-ي. maskulin. Genitiv → Kasra auf م."
+      "explanation": "Masdar (Verbalsubstantiv) der Grundform von ط-غ-ي. maskulin. Genitiv → Kasra auf م.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=15"
     },
     {
       "id": "rvg024",
@@ -320,7 +349,8 @@
         "syntacticRole": "—",
         "vocalization": "وَٱدْعُوا"
       },
-      "explanation": "Verb der Grundform (Form I) von د-ع-و. Imperativ, 2. Person maskulin Plural."
+      "explanation": "Verb der Grundform (Form I) von د-ع-و. Imperativ, 2. Person maskulin Plural.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=23"
     },
     {
       "id": "rvg025",
@@ -333,7 +363,8 @@
         "syntacticRole": "—",
         "vocalization": "أَمَرَ"
       },
-      "explanation": "Verb der Grundform (Form I) von ا-م-ر. Perfekt, 3. Person maskulin Singular."
+      "explanation": "Verb der Grundform (Form I) von ا-م-ر. Perfekt, 3. Person maskulin Singular.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=27"
     },
     {
       "id": "rvg026",
@@ -346,7 +377,8 @@
         "syntacticRole": "—",
         "vocalization": "تَجْزِى"
       },
-      "explanation": "Verb der Grundform (Form I) von ج-ز-ي. Imperfekt, 3. Person feminin Singular."
+      "explanation": "Verb der Grundform (Form I) von ج-ز-ي. Imperfekt, 3. Person feminin Singular.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=48"
     },
     {
       "id": "rvg027",
@@ -359,7 +391,8 @@
         "syntacticRole": "Maf'ul bihi (Akkusativ)",
         "vocalization": "مَرَضًا"
       },
-      "explanation": "Nomen von Wurzel م-ر-ض. maskulin. Akkusativ → Fatha auf ا."
+      "explanation": "Nomen von Wurzel م-ر-ض. maskulin. Akkusativ → Fatha auf ا.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=10"
     },
     {
       "id": "rvg028",
@@ -372,7 +405,8 @@
         "syntacticRole": "Fa'il/Mubtada (Nominativ)",
         "vocalization": "خَٰلِدُونَ"
       },
-      "explanation": "Aktivpartizip Form I (Muster فَاعِل) von خ-ل-د. maskulin, Plural. Nominativ → Damma auf ن."
+      "explanation": "Aktivpartizip Form I (Muster فَاعِل) von خ-ل-د. maskulin, Plural. Nominativ → Damma auf ن.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=25"
     },
     {
       "id": "rvg029",
@@ -385,7 +419,8 @@
         "syntacticRole": "—",
         "vocalization": "لَذَهَبَ"
       },
-      "explanation": "Verb der Grundform (Form I) von ذ-ه-ب. Perfekt, 3. Person maskulin Singular."
+      "explanation": "Verb der Grundform (Form I) von ذ-ه-ب. Perfekt, 3. Person maskulin Singular.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=20"
     },
     {
       "id": "rvg030",
@@ -398,7 +433,8 @@
         "syntacticRole": "—",
         "vocalization": "ٱذْكُرُوا"
       },
-      "explanation": "Verb der Grundform (Form I) von ذ-ك-ر. Imperativ, 2. Person maskulin Plural."
+      "explanation": "Verb der Grundform (Form I) von ذ-ك-ر. Imperativ, 2. Person maskulin Plural.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=40"
     },
     {
       "id": "rvg031",
@@ -411,7 +447,8 @@
         "syntacticRole": "Majrur (Genitiv)",
         "vocalization": "شَيَٰطِينِهِمْ"
       },
-      "explanation": "Nomen von Wurzel ش-ط-ن. maskulin, Plural. Genitiv → Kasra auf م."
+      "explanation": "Nomen von Wurzel ش-ط-ن. maskulin, Plural. Genitiv → Kasra auf م.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=14"
     },
     {
       "id": "rvg032",
@@ -424,7 +461,8 @@
         "syntacticRole": "Majrur (Genitiv)",
         "vocalization": "بِأَسْمَاءِ"
       },
-      "explanation": "Nomen von Wurzel س-م-و. maskulin, Plural. Genitiv → Kasra auf ء."
+      "explanation": "Nomen von Wurzel س-م-و. maskulin, Plural. Genitiv → Kasra auf ء.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=31"
     },
     {
       "id": "rvg033",
@@ -437,7 +475,8 @@
         "syntacticRole": "—",
         "vocalization": "تَشْتَرُوا"
       },
-      "explanation": "Form VIII (اِفْتَعَلَ) — reflexiv/medio von ش-ر-ي. Imperfekt, 2. Person maskulin Plural. Jussiv Sukun (Apocopatus)."
+      "explanation": "Form VIII (اِفْتَعَلَ) — reflexiv/medio von ش-ر-ي. Imperfekt, 2. Person maskulin Plural. Jussiv Sukun (Apocopatus).",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=41"
     },
     {
       "id": "rvg034",
@@ -450,7 +489,8 @@
         "syntacticRole": "—",
         "vocalization": "يَخْطَفُ"
       },
-      "explanation": "Verb der Grundform (Form I) von خ-ط-ف. Imperfekt, 3. Person maskulin Singular."
+      "explanation": "Verb der Grundform (Form I) von خ-ط-ف. Imperfekt, 3. Person maskulin Singular.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=20"
     },
     {
       "id": "rvg035",
@@ -463,7 +503,8 @@
         "syntacticRole": "—",
         "vocalization": "فَأَخْرَجَهُمَا"
       },
-      "explanation": "Form IV (أَفْعَلَ) — Kausativ von خ-ر-ج. Perfekt, 3. Person maskulin Singular."
+      "explanation": "Form IV (أَفْعَلَ) — Kausativ von خ-ر-ج. Perfekt, 3. Person maskulin Singular.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=36"
     },
     {
       "id": "rvg036",
@@ -476,7 +517,8 @@
         "syntacticRole": "—",
         "vocalization": "وَأُتُوا"
       },
-      "explanation": "Verb der Grundform (Form I) von ا-ت-ي. Perfekt, 3. Person maskulin Plural. Passiv (innerer Vokalwechsel: u-i im Perfekt, u-a im Imperfekt)."
+      "explanation": "Verb der Grundform (Form I) von ا-ت-ي. Perfekt, 3. Person maskulin Plural. Passiv (innerer Vokalwechsel: u-i im Perfekt, u-a im Imperfekt).",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=25"
     },
     {
       "id": "rvg037",
@@ -489,7 +531,8 @@
         "syntacticRole": "Majrur (Genitiv)",
         "vocalization": "ٱلْعَٰلَمِينَ"
       },
-      "explanation": "ال (Definitartikel) + Nomen von Wurzel ع-ل-م. maskulin, Plural. Genitiv → Kasra auf ن."
+      "explanation": "ال (Definitartikel) + Nomen von Wurzel ع-ل-م. maskulin, Plural. Genitiv → Kasra auf ن.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=2"
     },
     {
       "id": "rvg038",
@@ -502,7 +545,8 @@
         "syntacticRole": "—",
         "vocalization": "أَقُل"
       },
-      "explanation": "Verb der Grundform (Form I) von ق-و-ل. Imperfekt, 1. Person Singular. Jussiv Sukun (Apocopatus)."
+      "explanation": "Verb der Grundform (Form I) von ق-و-ل. Imperfekt, 1. Person Singular. Jussiv Sukun (Apocopatus).",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=33"
     },
     {
       "id": "rvg039",
@@ -515,7 +559,8 @@
         "syntacticRole": "—",
         "vocalization": "فَقَالَ"
       },
-      "explanation": "Verb der Grundform (Form I) von ق-و-ل. Perfekt, 3. Person maskulin Singular."
+      "explanation": "Verb der Grundform (Form I) von ق-و-ل. Perfekt, 3. Person maskulin Singular.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=31"
     },
     {
       "id": "rvg040",
@@ -528,7 +573,8 @@
         "syntacticRole": "—",
         "vocalization": "يَعْلَمُونَ"
       },
-      "explanation": "Verb der Grundform (Form I) von ع-ل-م. Imperfekt, 3. Person maskulin Plural."
+      "explanation": "Verb der Grundform (Form I) von ع-ل-م. Imperfekt, 3. Person maskulin Plural.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=13"
     },
     {
       "id": "rvg041",
@@ -541,7 +587,8 @@
         "syntacticRole": "—",
         "vocalization": "أَسْرَفَ"
       },
-      "explanation": "Form IV (أَفْعَلَ) — Kausativ von س-ر-ف. Perfekt, 3. Person maskulin Singular."
+      "explanation": "Form IV (أَفْعَلَ) — Kausativ von س-ر-ف. Perfekt, 3. Person maskulin Singular.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=20&verse=127"
     },
     {
       "id": "rvg042",
@@ -554,7 +601,8 @@
         "syntacticRole": "—",
         "vocalization": "يَغُوصُونَ"
       },
-      "explanation": "Verb der Grundform (Form I) von غ-و-ص. Imperfekt, 3. Person maskulin Plural."
+      "explanation": "Verb der Grundform (Form I) von غ-و-ص. Imperfekt, 3. Person maskulin Plural.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=21&verse=82"
     },
     {
       "id": "rvg043",
@@ -567,7 +615,8 @@
         "syntacticRole": "Fa'il/Mubtada (Nominativ)",
         "vocalization": "وَٱلطَّيِّبُونَ"
       },
-      "explanation": "Nomen von Wurzel ط-ي-ب. maskulin, Plural. Nominativ → Damma auf ن."
+      "explanation": "Nomen von Wurzel ط-ي-ب. maskulin, Plural. Nominativ → Damma auf ن.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=24&verse=26"
     },
     {
       "id": "rvg044",
@@ -580,7 +629,8 @@
         "syntacticRole": "—",
         "vocalization": "يَسْرِقْ"
       },
-      "explanation": "Verb der Grundform (Form I) von س-ر-ق. Imperfekt, 3. Person maskulin Singular. Jussiv Sukun (Apocopatus)."
+      "explanation": "Verb der Grundform (Form I) von س-ر-ق. Imperfekt, 3. Person maskulin Singular. Jussiv Sukun (Apocopatus).",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=12&verse=77"
     },
     {
       "id": "rvg045",
@@ -593,7 +643,8 @@
         "syntacticRole": "—",
         "vocalization": "أَنسَىٰنِيهُ"
       },
-      "explanation": "Form IV (أَفْعَلَ) — Kausativ von ن-س-ي. Perfekt, 3. Person maskulin Singular."
+      "explanation": "Form IV (أَفْعَلَ) — Kausativ von ن-س-ي. Perfekt, 3. Person maskulin Singular.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=18&verse=63"
     },
     {
       "id": "rvg046",
@@ -606,7 +657,8 @@
         "syntacticRole": "—",
         "vocalization": "وَقَصَّ"
       },
-      "explanation": "Verb der Grundform (Form I) von ق-ص-ص. Perfekt, 3. Person maskulin Singular."
+      "explanation": "Verb der Grundform (Form I) von ق-ص-ص. Perfekt, 3. Person maskulin Singular.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=28&verse=25"
     },
     {
       "id": "rvg047",
@@ -619,7 +671,8 @@
         "syntacticRole": "Majrur (Genitiv)",
         "vocalization": "لِّلْعَبِيدِ"
       },
-      "explanation": "Nomen von Wurzel ع-ب-د. maskulin, Plural. Genitiv → Kasra auf د."
+      "explanation": "Nomen von Wurzel ع-ب-د. maskulin, Plural. Genitiv → Kasra auf د.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=22&verse=10"
     },
     {
       "id": "rvg048",
@@ -632,7 +685,8 @@
         "syntacticRole": "Fa'il/Mubtada (Nominativ)",
         "vocalization": "مُفْتَرُونَ"
       },
-      "explanation": "Aktivpartizip Form VIII von ف-ر-ي. maskulin, Plural. Nominativ → Damma auf ن."
+      "explanation": "Aktivpartizip Form VIII von ف-ر-ي. maskulin, Plural. Nominativ → Damma auf ن.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=11&verse=50"
     },
     {
       "id": "rvg049",
@@ -645,7 +699,8 @@
         "syntacticRole": "Fa'il/Mubtada (Nominativ)",
         "vocalization": "فَنَاظِرَةٌ"
       },
-      "explanation": "Aktivpartizip Form I (Muster فَاعِل) von ن-ظ-ر. feminin. Nominativ → Damma auf ة"
+      "explanation": "Aktivpartizip Form I (Muster فَاعِل) von ن-ظ-ر. feminin. Nominativ → Damma auf ة",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=27&verse=35"
     },
     {
       "id": "rvg050",
@@ -658,7 +713,8 @@
         "syntacticRole": "Fa'il/Mubtada (Nominativ)",
         "vocalization": "ٱمْرَأَتُ"
       },
-      "explanation": "Nomen von Wurzel م-ر-ا. feminin. Nominativ → Damma auf ت."
+      "explanation": "Nomen von Wurzel م-ر-ا. feminin. Nominativ → Damma auf ت.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=12&verse=30"
     },
     {
       "id": "rvg051",
@@ -671,7 +727,8 @@
         "syntacticRole": "—",
         "vocalization": "فَصَدَّهُمْ"
       },
-      "explanation": "Verb der Grundform (Form I) von ص-د-د. Perfekt, 3. Person maskulin Singular."
+      "explanation": "Verb der Grundform (Form I) von ص-د-د. Perfekt, 3. Person maskulin Singular.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=27&verse=24"
     },
     {
       "id": "rvg052",
@@ -684,7 +741,8 @@
         "syntacticRole": "—",
         "vocalization": "يُصْهَرُ"
       },
-      "explanation": "Verb der Grundform (Form I) von ص-ه-ر. Imperfekt, 3. Person maskulin Singular. Passiv (innerer Vokalwechsel: u-i im Perfekt, u-a im Imperfekt)."
+      "explanation": "Verb der Grundform (Form I) von ص-ه-ر. Imperfekt, 3. Person maskulin Singular. Passiv (innerer Vokalwechsel: u-i im Perfekt, u-a im Imperfekt).",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=22&verse=20"
     },
     {
       "id": "rvg053",
@@ -697,7 +755,8 @@
         "syntacticRole": "—",
         "vocalization": "أَلْقَى"
       },
-      "explanation": "Form IV (أَفْعَلَ) — Kausativ von ل-ق-ي. Perfekt, 3. Person maskulin Singular."
+      "explanation": "Form IV (أَفْعَلَ) — Kausativ von ل-ق-ي. Perfekt, 3. Person maskulin Singular.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=20&verse=87"
     },
     {
       "id": "rvg054",
@@ -710,7 +769,8 @@
         "syntacticRole": "Fa'il/Mubtada (Nominativ)",
         "vocalization": "بَنُونَ"
       },
-      "explanation": "Nomen von Wurzel ب-ن-ي. maskulin, Plural. Nominativ → Damma auf ن."
+      "explanation": "Nomen von Wurzel ب-ن-ي. maskulin, Plural. Nominativ → Damma auf ن.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=26&verse=88"
     },
     {
       "id": "rvg055",
@@ -723,7 +783,8 @@
         "syntacticRole": "Fa'il/Mubtada (Nominativ)",
         "vocalization": "أَرْبَعُ"
       },
-      "explanation": "Nomen von Wurzel ر-ب-ع. maskulin. Nominativ → Damma auf ع."
+      "explanation": "Nomen von Wurzel ر-ب-ع. maskulin. Nominativ → Damma auf ع.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=24&verse=6"
     },
     {
       "id": "rvg056",
@@ -736,7 +797,8 @@
         "syntacticRole": "—",
         "vocalization": "فَتَبَسَّمَ"
       },
-      "explanation": "Form V (تَفَعَّلَ) — reflexiv zu II von ب-س-م. Perfekt, 3. Person maskulin Singular."
+      "explanation": "Form V (تَفَعَّلَ) — reflexiv zu II von ب-س-م. Perfekt, 3. Person maskulin Singular.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=27&verse=19"
     },
     {
       "id": "rvg057",
@@ -749,7 +811,8 @@
         "syntacticRole": "Majrur (Genitiv)",
         "vocalization": "يَمِينٍ"
       },
-      "explanation": "Nomen von Wurzel ي-م-ن. maskulin. Genitiv → Kasra auf ن."
+      "explanation": "Nomen von Wurzel ي-م-ن. maskulin. Genitiv → Kasra auf ن.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=34&verse=15"
     },
     {
       "id": "rvg058",
@@ -762,7 +825,8 @@
         "syntacticRole": "Maf'ul bihi (Akkusativ)",
         "vocalization": "شَطَطًا"
       },
-      "explanation": "Nomen von Wurzel ش-ط-ط. maskulin. Akkusativ → Fatha auf ا."
+      "explanation": "Nomen von Wurzel ش-ط-ط. maskulin. Akkusativ → Fatha auf ا.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=18&verse=14"
     },
     {
       "id": "rvg059",
@@ -775,7 +839,8 @@
         "syntacticRole": "—",
         "vocalization": "سَخَّرْنَٰهَا"
       },
-      "explanation": "Form II (فَعَّلَ) — Intensivierung/Kausativ von س-خ-ر. Perfekt, 1. Person Plural."
+      "explanation": "Form II (فَعَّلَ) — Intensivierung/Kausativ von س-خ-ر. Perfekt, 1. Person Plural.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=22&verse=36"
     },
     {
       "id": "rvg060",
@@ -788,7 +853,8 @@
         "syntacticRole": "Maf'ul bihi (Akkusativ)",
         "vocalization": "سَيْلَ"
       },
-      "explanation": "Nomen von Wurzel س-ي-ل. maskulin. Akkusativ → Fatha auf ل."
+      "explanation": "Nomen von Wurzel س-ي-ل. maskulin. Akkusativ → Fatha auf ل.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=34&verse=16"
     },
     {
       "id": "rvg061",
@@ -801,7 +867,8 @@
         "syntacticRole": "—",
         "vocalization": "لِتُنذِرَ"
       },
-      "explanation": "Form IV (أَفْعَلَ) — Kausativ von ن-ذ-ر. Imperfekt, 2. Person maskulin Singular. Subjunktiv -a (Fatha)."
+      "explanation": "Form IV (أَفْعَلَ) — Kausativ von ن-ذ-ر. Imperfekt, 2. Person maskulin Singular. Subjunktiv -a (Fatha).",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=28&verse=46"
     },
     {
       "id": "rvg062",
@@ -814,7 +881,8 @@
         "syntacticRole": "—",
         "vocalization": "ظَلَمَ"
       },
-      "explanation": "Verb der Grundform (Form I) von ظ-ل-م. Perfekt, 3. Person maskulin Singular."
+      "explanation": "Verb der Grundform (Form I) von ظ-ل-م. Perfekt, 3. Person maskulin Singular.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=18&verse=87"
     },
     {
       "id": "rvg063",
@@ -827,7 +895,8 @@
         "syntacticRole": "Majrur (Genitiv)",
         "vocalization": "بِصَاحِبِكُم"
       },
-      "explanation": "Nomen von Wurzel ص-ح-ب. Genitiv → Kasra auf م."
+      "explanation": "Nomen von Wurzel ص-ح-ب. Genitiv → Kasra auf م.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=34&verse=46"
     },
     {
       "id": "rvg064",
@@ -840,7 +909,8 @@
         "syntacticRole": "—",
         "vocalization": "أُرْسِلَ"
       },
-      "explanation": "Form IV (أَفْعَلَ) — Kausativ von ر-س-ل. Perfekt, 3. Person maskulin Singular. Passiv (innerer Vokalwechsel: u-i im Perfekt, u-a im Imperfekt)."
+      "explanation": "Form IV (أَفْعَلَ) — Kausativ von ر-س-ل. Perfekt, 3. Person maskulin Singular. Passiv (innerer Vokalwechsel: u-i im Perfekt, u-a im Imperfekt).",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=21&verse=5"
     },
     {
       "id": "rvg065",
@@ -853,7 +923,8 @@
         "syntacticRole": "—",
         "vocalization": "كِدْنَا"
       },
-      "explanation": "Verb der Grundform (Form I) von ك-ي-د. Perfekt, 1. Person Plural."
+      "explanation": "Verb der Grundform (Form I) von ك-ي-د. Perfekt, 1. Person Plural.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=12&verse=76"
     },
     {
       "id": "rvg066",
@@ -866,7 +937,8 @@
         "syntacticRole": "—",
         "vocalization": "أَوْرَثْنَا"
       },
-      "explanation": "Form IV (أَفْعَلَ) — Kausativ von و-ر-ث. Perfekt, 1. Person Plural."
+      "explanation": "Form IV (أَفْعَلَ) — Kausativ von و-ر-ث. Perfekt, 1. Person Plural.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=35&verse=32"
     },
     {
       "id": "rvg067",
@@ -879,7 +951,8 @@
         "syntacticRole": "Fa'il/Mubtada (Nominativ)",
         "vocalization": "فَقِيرٌ"
       },
-      "explanation": "Adjektiv von Wurzel ف-ق-ر. maskulin, Singular. Kongruiert mit Bezugswort im Nominativ (Damma)."
+      "explanation": "Adjektiv von Wurzel ف-ق-ر. maskulin, Singular. Kongruiert mit Bezugswort im Nominativ (Damma).",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=28&verse=24"
     },
     {
       "id": "rvg068",
@@ -892,7 +965,8 @@
         "syntacticRole": "Majrur (Genitiv)",
         "vocalization": "إِنَىٰهُ"
       },
-      "explanation": "Nomen von Wurzel ا-ن-ي. maskulin. Genitiv → Kasra auf ه."
+      "explanation": "Nomen von Wurzel ا-ن-ي. maskulin. Genitiv → Kasra auf ه.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=33&verse=53"
     },
     {
       "id": "rvg069",
@@ -905,7 +979,8 @@
         "syntacticRole": "Majrur (Genitiv)",
         "vocalization": "لِلْمُسْرِفِينَ"
       },
-      "explanation": "Aktivpartizip Form IV von س-ر-ف. maskulin, Plural. Genitiv → Kasra auf ن."
+      "explanation": "Aktivpartizip Form IV von س-ر-ف. maskulin, Plural. Genitiv → Kasra auf ن.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=10&verse=12"
     },
     {
       "id": "rvg070",
@@ -918,7 +993,8 @@
         "syntacticRole": "Majrur (Genitiv)",
         "vocalization": "ٱلدُّنْيَا"
       },
-      "explanation": "ال (Definitartikel) + Adjektiv von Wurzel د-ن-و. feminin, Singular. Kongruiert mit Bezugswort im Genitiv (Kasra)."
+      "explanation": "ال (Definitartikel) + Adjektiv von Wurzel د-ن-و. feminin, Singular. Kongruiert mit Bezugswort im Genitiv (Kasra).",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=10&verse=7"
     },
     {
       "id": "rvg071",
@@ -931,7 +1007,8 @@
         "syntacticRole": "Maf'ul bihi (Akkusativ)",
         "vocalization": "شَقِيًّا"
       },
-      "explanation": "Nomen von Wurzel ش-ق-و. maskulin, Singular. Akkusativ → Fatha auf ا."
+      "explanation": "Nomen von Wurzel ش-ق-و. maskulin, Singular. Akkusativ → Fatha auf ا.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=19&verse=4"
     },
     {
       "id": "rvg072",
@@ -944,7 +1021,8 @@
         "syntacticRole": "Fa'il/Mubtada (Nominativ)",
         "vocalization": "طَعَامٌ"
       },
-      "explanation": "Nomen von Wurzel ط-ع-م. maskulin. Nominativ → Damma auf م."
+      "explanation": "Nomen von Wurzel ط-ع-م. maskulin. Nominativ → Damma auf م.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=12&verse=37"
     },
     {
       "id": "rvg073",
@@ -957,7 +1035,8 @@
         "syntacticRole": "Majrur (Genitiv)",
         "vocalization": "كَثِيرٍ"
       },
-      "explanation": "Nomen von Wurzel ك-ث-ر. maskulin, Singular. Genitiv → Kasra auf ر."
+      "explanation": "Nomen von Wurzel ك-ث-ر. maskulin, Singular. Genitiv → Kasra auf ر.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=17&verse=70"
     },
     {
       "id": "rvg074",
@@ -970,7 +1049,8 @@
         "syntacticRole": "Maf'ul bihi (Akkusativ)",
         "vocalization": "مِعْشَارَ"
       },
-      "explanation": "Nomen von Wurzel ع-ش-ر. maskulin. Akkusativ → Fatha auf ر."
+      "explanation": "Nomen von Wurzel ع-ش-ر. maskulin. Akkusativ → Fatha auf ر.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=34&verse=45"
     },
     {
       "id": "rvg075",
@@ -983,7 +1063,8 @@
         "syntacticRole": "—",
         "vocalization": "يَزْنُونَ"
       },
-      "explanation": "Verb der Grundform (Form I) von ز-ن-ي. Imperfekt, 3. Person maskulin Plural."
+      "explanation": "Verb der Grundform (Form I) von ز-ن-ي. Imperfekt, 3. Person maskulin Plural.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=25&verse=68"
     },
     {
       "id": "rvg076",
@@ -996,7 +1077,8 @@
         "syntacticRole": "Maf'ul bihi (Akkusativ)",
         "vocalization": "ءَامِنِينَ"
       },
-      "explanation": "Aktivpartizip Form I (Muster فَاعِل) von ا-م-ن. maskulin, Plural. Akkusativ → Fatha auf ن."
+      "explanation": "Aktivpartizip Form I (Muster فَاعِل) von ا-م-ن. maskulin, Plural. Akkusativ → Fatha auf ن.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=12&verse=99"
     },
     {
       "id": "rvg077",
@@ -1009,7 +1091,8 @@
         "syntacticRole": "Maf'ul bihi (Akkusativ)",
         "vocalization": "ٱلزِّنَىٰ"
       },
-      "explanation": "ال (Definitartikel) + Masdar (Verbalsubstantiv) der Grundform von ز-ن-ي. maskulin. Akkusativ → Fatha auf ة"
+      "explanation": "ال (Definitartikel) + Masdar (Verbalsubstantiv) der Grundform von ز-ن-ي. maskulin. Akkusativ → Fatha auf ة",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=17&verse=32"
     },
     {
       "id": "rvg078",
@@ -1022,7 +1105,8 @@
         "syntacticRole": "Maf'ul bihi (Akkusativ)",
         "vocalization": "حَيَوٰةً"
       },
-      "explanation": "Nomen von Wurzel ح-ي-ي. feminin. Akkusativ → Fatha auf ة."
+      "explanation": "Nomen von Wurzel ح-ي-ي. feminin. Akkusativ → Fatha auf ة.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=16&verse=97"
     },
     {
       "id": "rvg079",
@@ -1035,7 +1119,8 @@
         "syntacticRole": "Maf'ul bihi (Akkusativ)",
         "vocalization": "وَمِثْلَهُم"
       },
-      "explanation": "Nomen von Wurzel م-ث-ل. maskulin. Akkusativ → Fatha auf م."
+      "explanation": "Nomen von Wurzel م-ث-ل. maskulin. Akkusativ → Fatha auf م.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=21&verse=84"
     },
     {
       "id": "rvg080",
@@ -1048,7 +1133,8 @@
         "syntacticRole": "—",
         "vocalization": "تَغْنَ"
       },
-      "explanation": "Verb der Grundform (Form I) von غ-ن-ي. Imperfekt, 3. Person feminin Singular. Jussiv Sukun (Apocopatus)."
+      "explanation": "Verb der Grundform (Form I) von غ-ن-ي. Imperfekt, 3. Person feminin Singular. Jussiv Sukun (Apocopatus).",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=10&verse=24"
     },
     {
       "id": "rvg081",
@@ -1061,7 +1147,8 @@
         "syntacticRole": "Maf'ul bihi (Akkusativ)",
         "vocalization": "حَٰفِظِينَ"
       },
-      "explanation": "Aktivpartizip Form I (Muster فَاعِل) von ح-ف-ظ. maskulin, Plural. Akkusativ → Fatha auf ن."
+      "explanation": "Aktivpartizip Form I (Muster فَاعِل) von ح-ف-ظ. maskulin, Plural. Akkusativ → Fatha auf ن.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=83&verse=33"
     },
     {
       "id": "rvg082",
@@ -1074,7 +1161,8 @@
         "syntacticRole": "Majrur (Genitiv)",
         "vocalization": "ٱلْأَمِينِ"
       },
-      "explanation": "ال (Definitartikel) + Adjektiv von Wurzel ا-م-ن. maskulin, Singular. Kongruiert mit Bezugswort im Genitiv (Kasra)."
+      "explanation": "ال (Definitartikel) + Adjektiv von Wurzel ا-م-ن. maskulin, Singular. Kongruiert mit Bezugswort im Genitiv (Kasra).",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=95&verse=3"
     },
     {
       "id": "rvg083",
@@ -1087,7 +1175,8 @@
         "syntacticRole": "—",
         "vocalization": "يَخْرُجُ"
       },
-      "explanation": "Verb der Grundform (Form I) von خ-ر-ج. Imperfekt, 3. Person maskulin Singular."
+      "explanation": "Verb der Grundform (Form I) von خ-ر-ج. Imperfekt, 3. Person maskulin Singular.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=86&verse=7"
     },
     {
       "id": "rvg084",
@@ -1100,7 +1189,8 @@
         "syntacticRole": "Fa'il/Mubtada (Nominativ)",
         "vocalization": "مَّرْقُومٌ"
       },
-      "explanation": "Adjektiv (Passivpartizip) von ر-ق-م. maskulin. Kongruiert mit Bezugswort im Nominativ (Damma)."
+      "explanation": "Adjektiv (Passivpartizip) von ر-ق-م. maskulin. Kongruiert mit Bezugswort im Nominativ (Damma).",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=83&verse=9"
     },
     {
       "id": "rvg085",
@@ -1113,7 +1203,8 @@
         "syntacticRole": "—",
         "vocalization": "يَتْلُوا"
       },
-      "explanation": "Verb der Grundform (Form I) von ت-ل-و. Imperfekt, 3. Person maskulin Singular."
+      "explanation": "Verb der Grundform (Form I) von ت-ل-و. Imperfekt, 3. Person maskulin Singular.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=98&verse=2"
     },
     {
       "id": "rvg086",
@@ -1126,7 +1217,8 @@
         "syntacticRole": "Majrur (Genitiv)",
         "vocalization": "خَاطِئَةٍ"
       },
-      "explanation": "Adjektiv (Aktivpartizip) von خ-ط-ا. feminin. Kongruiert mit Bezugswort im Genitiv (Kasra)."
+      "explanation": "Adjektiv (Aktivpartizip) von خ-ط-ا. feminin. Kongruiert mit Bezugswort im Genitiv (Kasra).",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=96&verse=16"
     },
     {
       "id": "rvg087",
@@ -1139,7 +1231,8 @@
         "syntacticRole": "Majrur (Genitiv)",
         "vocalization": "خُسْرٍ"
       },
-      "explanation": "Nomen von Wurzel خ-س-ر. maskulin. Genitiv → Kasra auf ر."
+      "explanation": "Nomen von Wurzel خ-س-ر. maskulin. Genitiv → Kasra auf ر.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=103&verse=2"
     },
     {
       "id": "rvg088",
@@ -1152,7 +1245,8 @@
         "syntacticRole": "—",
         "vocalization": "نَجْعَل"
       },
-      "explanation": "Verb der Grundform (Form I) von ج-ع-ل. Imperfekt, 1. Person Plural. Jussiv Sukun (Apocopatus)."
+      "explanation": "Verb der Grundform (Form I) von ج-ع-ل. Imperfekt, 1. Person Plural. Jussiv Sukun (Apocopatus).",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=90&verse=8"
     },
     {
       "id": "rvg089",
@@ -1165,7 +1259,8 @@
         "syntacticRole": "Majrur (Genitiv)",
         "vocalization": "طَبَقٍ"
       },
-      "explanation": "Nomen von Wurzel ط-ب-ق. maskulin. Genitiv → Kasra auf ق."
+      "explanation": "Nomen von Wurzel ط-ب-ق. maskulin. Genitiv → Kasra auf ق.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=84&verse=19"
     },
     {
       "id": "rvg090",
@@ -1178,7 +1273,8 @@
         "syntacticRole": "—",
         "vocalization": "رَءَاهُ"
       },
-      "explanation": "Verb der Grundform (Form I) von ر-ا-ي. Perfekt, 3. Person maskulin Singular."
+      "explanation": "Verb der Grundform (Form I) von ر-ا-ي. Perfekt, 3. Person maskulin Singular.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=81&verse=23"
     },
     {
       "id": "rvg091",
@@ -1191,7 +1287,8 @@
         "syntacticRole": "Maf'ul bihi (Akkusativ)",
         "vocalization": "تَوَّابًا"
       },
-      "explanation": "Aktivpartizip Form I (Muster فَاعِل) von ت-و-ب. maskulin, Singular. Akkusativ → Fatha auf ا."
+      "explanation": "Aktivpartizip Form I (Muster فَاعِل) von ت-و-ب. maskulin, Singular. Akkusativ → Fatha auf ا.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=110&verse=3"
     },
     {
       "id": "rvg092",
@@ -1204,7 +1301,8 @@
         "syntacticRole": "Fa'il/Mubtada (Nominativ)",
         "vocalization": "لَشَدِيدٌ"
       },
-      "explanation": "Nomen von Wurzel ش-د-د. maskulin, Singular. Nominativ → Damma auf د."
+      "explanation": "Nomen von Wurzel ش-د-د. maskulin, Singular. Nominativ → Damma auf د.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=85&verse=12"
     },
     {
       "id": "rvg093",
@@ -1217,7 +1315,8 @@
         "syntacticRole": "Maf'ul bihi (Akkusativ)",
         "vocalization": "صَفًّا"
       },
-      "explanation": "Masdar (Verbalsubstantiv) der Grundform von ص-ف-ف. maskulin. Akkusativ → Fatha auf ا."
+      "explanation": "Masdar (Verbalsubstantiv) der Grundform von ص-ف-ف. maskulin. Akkusativ → Fatha auf ا.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=89&verse=22"
     },
     {
       "id": "rvg094",
@@ -1230,7 +1329,8 @@
         "syntacticRole": "Majrur (Genitiv)",
         "vocalization": "بِٱلشَّفَقِ"
       },
-      "explanation": "Nomen von Wurzel ش-ف-ق. maskulin. Genitiv → Kasra auf ق."
+      "explanation": "Nomen von Wurzel ش-ف-ق. maskulin. Genitiv → Kasra auf ق.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=84&verse=16"
     },
     {
       "id": "rvg095",
@@ -1243,7 +1343,8 @@
         "syntacticRole": "—",
         "vocalization": "أَجْرَمُوا"
       },
-      "explanation": "Form IV (أَفْعَلَ) — Kausativ von ج-ر-م. Perfekt, 3. Person maskulin Plural."
+      "explanation": "Form IV (أَفْعَلَ) — Kausativ von ج-ر-م. Perfekt, 3. Person maskulin Plural.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=83&verse=29"
     },
     {
       "id": "rvg096",
@@ -1256,7 +1357,8 @@
         "syntacticRole": "—",
         "vocalization": "سُيِّرَتْ"
       },
-      "explanation": "Form II (فَعَّلَ) — Intensivierung/Kausativ von س-ي-ر. Perfekt, 3. Person feminin Singular. Passiv (innerer Vokalwechsel: u-i im Perfekt, u-a im Imperfekt)."
+      "explanation": "Form II (فَعَّلَ) — Intensivierung/Kausativ von س-ي-ر. Perfekt, 3. Person feminin Singular. Passiv (innerer Vokalwechsel: u-i im Perfekt, u-a im Imperfekt).",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=81&verse=3"
     },
     {
       "id": "rvg097",
@@ -1269,7 +1371,8 @@
         "syntacticRole": "Fa'il/Mubtada (Nominativ)",
         "vocalization": "ٱلسَّمَاءُ"
       },
-      "explanation": "ال (Definitartikel) + Nomen von Wurzel س-م-و. feminin. Nominativ → Damma auf ء."
+      "explanation": "ال (Definitartikel) + Nomen von Wurzel س-م-و. feminin. Nominativ → Damma auf ء.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=81&verse=11"
     },
     {
       "id": "rvg098",
@@ -1282,7 +1385,8 @@
         "syntacticRole": "Fa'il/Mubtada (Nominativ)",
         "vocalization": "كُتُبٌ"
       },
-      "explanation": "Nomen von Wurzel ك-ت-ب. maskulin, Plural. Nominativ → Damma auf ب."
+      "explanation": "Nomen von Wurzel ك-ت-ب. maskulin, Plural. Nominativ → Damma auf ب.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=98&verse=3"
     },
     {
       "id": "rvg099",
@@ -1295,7 +1399,8 @@
         "syntacticRole": "—",
         "vocalization": "فَسَوَّىٰكَ"
       },
-      "explanation": "Form II (فَعَّلَ) — Intensivierung/Kausativ von س-و-ي. Perfekt, 3. Person maskulin Singular."
+      "explanation": "Form II (فَعَّلَ) — Intensivierung/Kausativ von س-و-ي. Perfekt, 3. Person maskulin Singular.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=82&verse=7"
     },
     {
       "id": "rvg100",
@@ -1308,7 +1413,8 @@
         "syntacticRole": "Fa'il/Mubtada (Nominativ)",
         "vocalization": "ٱلذِّكْرَىٰ"
       },
-      "explanation": "ال (Definitartikel) + Nomen von Wurzel ذ-ك-ر. feminin. Nominativ → Damma auf ة"
+      "explanation": "ال (Definitartikel) + Nomen von Wurzel ذ-ك-ر. feminin. Nominativ → Damma auf ة",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=80&verse=4"
     },
     {
       "id": "rvg101",
@@ -1321,7 +1427,8 @@
         "syntacticRole": "Majrur (Genitiv)",
         "vocalization": "سِجِّينٍ"
       },
-      "explanation": "Nomen von Wurzel س-ج-ن. maskulin. Genitiv → Kasra auf ن."
+      "explanation": "Nomen von Wurzel س-ج-ن. maskulin. Genitiv → Kasra auf ن.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=83&verse=7"
     },
     {
       "id": "rvg102",
@@ -1334,7 +1441,8 @@
         "syntacticRole": "Fa'il/Mubtada (Nominativ)",
         "vocalization": "ٱلْقُبُورُ"
       },
-      "explanation": "ال (Definitartikel) + Nomen von Wurzel ق-ب-ر. maskulin, Plural. Nominativ → Damma auf ر."
+      "explanation": "ال (Definitartikel) + Nomen von Wurzel ق-ب-ر. maskulin, Plural. Nominativ → Damma auf ر.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=82&verse=4"
     },
     {
       "id": "rvg103",
@@ -1347,7 +1455,8 @@
         "syntacticRole": "Fa'il/Mubtada (Nominativ)",
         "vocalization": "مَّجِيدٌ"
       },
-      "explanation": "Adjektiv von Wurzel م-ج-د. maskulin, Singular. Kongruiert mit Bezugswort im Nominativ (Damma)."
+      "explanation": "Adjektiv von Wurzel م-ج-د. maskulin, Singular. Kongruiert mit Bezugswort im Nominativ (Damma).",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=85&verse=21"
     },
     {
       "id": "rvg104",
@@ -1360,7 +1469,8 @@
         "syntacticRole": "Maf'ul bihi (Akkusativ)",
         "vocalization": "رَبَّهُ"
       },
-      "explanation": "Nomen von Wurzel ر-ب-ب. maskulin. Akkusativ → Fatha auf ه"
+      "explanation": "Nomen von Wurzel ر-ب-ب. maskulin. Akkusativ → Fatha auf ه",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=84&verse=15"
     },
     {
       "id": "rvg105",
@@ -1373,7 +1483,8 @@
         "syntacticRole": "Maf'ul bihi (Akkusativ)",
         "vocalization": "وَقَضْبًا"
       },
-      "explanation": "Nomen von Wurzel ق-ض-ب. maskulin. Akkusativ → Fatha auf ا."
+      "explanation": "Nomen von Wurzel ق-ض-ب. maskulin. Akkusativ → Fatha auf ا.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=80&verse=28"
     },
     {
       "id": "rvg106",
@@ -1386,7 +1497,8 @@
         "syntacticRole": "Majrur (Genitiv)",
         "vocalization": "وَوَالِدٍ"
       },
-      "explanation": "Nomen von Wurzel و-ل-د. Genitiv → Kasra auf د."
+      "explanation": "Nomen von Wurzel و-ل-د. Genitiv → Kasra auf د.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=90&verse=3"
     },
     {
       "id": "rvg107",
@@ -1399,7 +1511,8 @@
         "syntacticRole": "Majrur (Genitiv)",
         "vocalization": "ٱلْيَقِينِ"
       },
-      "explanation": "ال (Definitartikel) + Nomen von Wurzel ي-ق-ن. maskulin, Singular. Genitiv → Kasra auf ن."
+      "explanation": "ال (Definitartikel) + Nomen von Wurzel ي-ق-ن. maskulin, Singular. Genitiv → Kasra auf ن.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=102&verse=5"
     },
     {
       "id": "rvg108",
@@ -1412,7 +1525,8 @@
         "syntacticRole": "Majrur (Genitiv)",
         "vocalization": "صُحُفٍ"
       },
-      "explanation": "Nomen von Wurzel ص-ح-ف. feminin, Plural. Genitiv → Kasra auf ف."
+      "explanation": "Nomen von Wurzel ص-ح-ف. feminin, Plural. Genitiv → Kasra auf ف.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=80&verse=13"
     },
     {
       "id": "rvg109",
@@ -1425,7 +1539,8 @@
         "syntacticRole": "—",
         "vocalization": "يُخْسِرُونَ"
       },
-      "explanation": "Form IV (أَفْعَلَ) — Kausativ von خ-س-ر. Imperfekt, 3. Person maskulin Plural."
+      "explanation": "Form IV (أَفْعَلَ) — Kausativ von خ-س-ر. Imperfekt, 3. Person maskulin Plural.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=83&verse=3"
     },
     {
       "id": "rvg110",
@@ -1438,7 +1553,8 @@
         "syntacticRole": "Majrur (Genitiv)",
         "vocalization": "لُّمَزَةٍ"
       },
-      "explanation": "Nomen von Wurzel ل-م-ز. feminin. Genitiv → Kasra auf ة."
+      "explanation": "Nomen von Wurzel ل-م-ز. feminin. Genitiv → Kasra auf ة.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=104&verse=1"
     },
     {
       "id": "rvg111",
@@ -1451,7 +1567,8 @@
         "syntacticRole": "—",
         "vocalization": "سَيَصْلَىٰ"
       },
-      "explanation": "Verb der Grundform (Form I) von ص-ل-ي. Imperfekt, 3. Person maskulin Singular."
+      "explanation": "Verb der Grundform (Form I) von ص-ل-ي. Imperfekt, 3. Person maskulin Singular.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=111&verse=3"
     },
     {
       "id": "rvg112",
@@ -1464,7 +1581,8 @@
         "syntacticRole": "—",
         "vocalization": "رَكَّبَكَ"
       },
-      "explanation": "Form II (فَعَّلَ) — Intensivierung/Kausativ von ر-ك-ب. Perfekt, 3. Person maskulin Singular."
+      "explanation": "Form II (فَعَّلَ) — Intensivierung/Kausativ von ر-ك-ب. Perfekt, 3. Person maskulin Singular.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=82&verse=8"
     },
     {
       "id": "rvg113",
@@ -1477,7 +1595,8 @@
         "syntacticRole": "Fa'il/Mubtada (Nominativ)",
         "vocalization": "ٱلْجَحِيمُ"
       },
-      "explanation": "ال (Definitartikel) + Nomen von Wurzel ج-ح-م. feminin. Nominativ → Damma auf م."
+      "explanation": "ال (Definitartikel) + Nomen von Wurzel ج-ح-م. feminin. Nominativ → Damma auf م.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=81&verse=12"
     },
     {
       "id": "rvg114",
@@ -1490,7 +1609,8 @@
         "syntacticRole": "Maf'ul bihi (Akkusativ)",
         "vocalization": "أَخْبَارَهَا"
       },
-      "explanation": "Nomen von Wurzel خ-ب-ر. maskulin, Plural. Akkusativ → Fatha auf ا."
+      "explanation": "Nomen von Wurzel خ-ب-ر. maskulin, Plural. Akkusativ → Fatha auf ا.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=99&verse=4"
     },
     {
       "id": "rvg115",
@@ -1503,7 +1623,8 @@
         "syntacticRole": "—",
         "vocalization": "جَابُوا"
       },
-      "explanation": "Verb der Grundform (Form I) von ج-و-ب. Perfekt, 3. Person maskulin Plural."
+      "explanation": "Verb der Grundform (Form I) von ج-و-ب. Perfekt, 3. Person maskulin Plural.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=89&verse=9"
     },
     {
       "id": "rvg116",
@@ -1516,7 +1637,8 @@
         "syntacticRole": "Maf'ul bihi (Akkusativ)",
         "vocalization": "وَٱلْمُؤْمِنَٰتِ"
       },
-      "explanation": "Aktivpartizip Form IV von ا-م-ن. feminin, Plural. Akkusativ → Fatha auf ت."
+      "explanation": "Aktivpartizip Form IV von ا-م-ن. feminin, Plural. Akkusativ → Fatha auf ت.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=85&verse=10"
     },
     {
       "id": "rvg117",
@@ -1529,7 +1651,8 @@
         "syntacticRole": "Fa'il/Mubtada (Nominativ)",
         "vocalization": "قُرْءَانٌ"
       },
-      "explanation": "Eigenname von ق-ر-ا. maskulin. Nominativ → Damma auf ن."
+      "explanation": "Eigenname von ق-ر-ا. maskulin. Nominativ → Damma auf ن.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=85&verse=21"
     },
     {
       "id": "rvg118",
@@ -1542,7 +1665,8 @@
         "syntacticRole": "Maf'ul bihi (Akkusativ)",
         "vocalization": "ضَالًّا"
       },
-      "explanation": "Aktivpartizip Form I (Muster فَاعِل) von ض-ل-ل. maskulin. Akkusativ → Fatha auf ا."
+      "explanation": "Aktivpartizip Form I (Muster فَاعِل) von ض-ل-ل. maskulin. Akkusativ → Fatha auf ا.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=93&verse=7"
     },
     {
       "id": "rvg119",
@@ -1555,7 +1679,8 @@
         "syntacticRole": "Fa'il/Mubtada (Nominativ)",
         "vocalization": "مَصْفُوفَةٌ"
       },
-      "explanation": "Adjektiv (Passivpartizip) von ص-ف-ف. feminin. Kongruiert mit Bezugswort im Nominativ (Damma)."
+      "explanation": "Adjektiv (Passivpartizip) von ص-ف-ف. feminin. Kongruiert mit Bezugswort im Nominativ (Damma).",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=88&verse=15"
     },
     {
       "id": "rvg120",
@@ -1568,7 +1693,8 @@
         "syntacticRole": "Maf'ul bihi (Akkusativ)",
         "vocalization": "أَبَدًا"
       },
-      "explanation": "Partikel von Wurzel ا-ب-د."
+      "explanation": "Partikel von Wurzel ا-ب-د.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=98&verse=8"
     },
     {
       "id": "rvg121",
@@ -1581,7 +1707,8 @@
         "syntacticRole": "—",
         "vocalization": "يَأْخُذُونَهَا"
       },
-      "explanation": "Verb der Grundform (Form I) von ا-خ-ذ. Imperfekt, 3. Person maskulin Plural."
+      "explanation": "Verb der Grundform (Form I) von ا-خ-ذ. Imperfekt, 3. Person maskulin Plural.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=48&verse=19"
     },
     {
       "id": "rvg122",
@@ -1594,7 +1721,8 @@
         "syntacticRole": "—",
         "vocalization": "لَأَظُنُّهُ"
       },
-      "explanation": "Verb der Grundform (Form I) von ظ-ن-ن. Imperfekt, 1. Person Singular."
+      "explanation": "Verb der Grundform (Form I) von ظ-ن-ن. Imperfekt, 1. Person Singular.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=40&verse=37"
     },
     {
       "id": "rvg123",
@@ -1607,7 +1735,8 @@
         "syntacticRole": "—",
         "vocalization": "قِيلَ"
       },
-      "explanation": "Verb der Grundform (Form I) von ق-و-ل. Perfekt, 3. Person maskulin Singular. Passiv (innerer Vokalwechsel: u-i im Perfekt, u-a im Imperfekt)."
+      "explanation": "Verb der Grundform (Form I) von ق-و-ل. Perfekt, 3. Person maskulin Singular. Passiv (innerer Vokalwechsel: u-i im Perfekt, u-a im Imperfekt).",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=11"
     },
     {
       "id": "rvg124",
@@ -1620,7 +1749,8 @@
         "syntacticRole": "—",
         "vocalization": "وَتَخْشَى"
       },
-      "explanation": "Verb der Grundform (Form I) von خ-ش-ي. Imperfekt, 3. Person feminin Singular."
+      "explanation": "Verb der Grundform (Form I) von خ-ش-ي. Imperfekt, 3. Person feminin Singular.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=33&verse=37"
     },
     {
       "id": "rvg125",
@@ -1633,7 +1763,8 @@
         "syntacticRole": "—",
         "vocalization": "صَدَّقْتَ"
       },
-      "explanation": "Form II (فَعَّلَ) — Intensivierung/Kausativ von ص-د-ق. Perfekt, 2. Person maskulin Singular."
+      "explanation": "Form II (فَعَّلَ) — Intensivierung/Kausativ von ص-د-ق. Perfekt, 2. Person maskulin Singular.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=37&verse=105"
     },
     {
       "id": "rvg126",
@@ -1646,7 +1777,8 @@
         "syntacticRole": "—",
         "vocalization": "يُقَتِّلُونَ"
       },
-      "explanation": "Form II (فَعَّلَ) — Intensivierung/Kausativ von ق-ت-ل. Imperfekt, 3. Person maskulin Plural."
+      "explanation": "Form II (فَعَّلَ) — Intensivierung/Kausativ von ق-ت-ل. Imperfekt, 3. Person maskulin Plural.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=7&verse=141"
     },
     {
       "id": "rvg127",
@@ -1659,7 +1791,8 @@
         "syntacticRole": "—",
         "vocalization": "فَبَشِّرْ"
       },
-      "explanation": "Form II (فَعَّلَ) — Intensivierung/Kausativ von ب-ش-ر. Imperativ, 2. Person maskulin Singular."
+      "explanation": "Form II (فَعَّلَ) — Intensivierung/Kausativ von ب-ش-ر. Imperativ, 2. Person maskulin Singular.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=39&verse=17"
     },
     {
       "id": "rvg128",
@@ -1672,7 +1805,8 @@
         "syntacticRole": "—",
         "vocalization": "وَكَبِّرْهُ"
       },
-      "explanation": "Form II (فَعَّلَ) — Intensivierung/Kausativ von ك-ب-ر. Imperativ, 2. Person maskulin Singular."
+      "explanation": "Form II (فَعَّلَ) — Intensivierung/Kausativ von ك-ب-ر. Imperativ, 2. Person maskulin Singular.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=17&verse=111"
     },
     {
       "id": "rvg129",
@@ -1685,7 +1819,8 @@
         "syntacticRole": "—",
         "vocalization": "وَشَاقُّوا"
       },
-      "explanation": "Form III (فَاعَلَ) — Reziprok/Versuch von ش-ق-ق. Perfekt, 3. Person maskulin Plural."
+      "explanation": "Form III (فَاعَلَ) — Reziprok/Versuch von ش-ق-ق. Perfekt, 3. Person maskulin Plural.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=47&verse=32"
     },
     {
       "id": "rvg130",
@@ -1698,7 +1833,8 @@
         "syntacticRole": "—",
         "vocalization": "تُبَٰشِرُوهُنَّ"
       },
-      "explanation": "Form III (فَاعَلَ) — Reziprok/Versuch von ب-ش-ر. Imperfekt, 2. Person maskulin Plural. Jussiv Sukun (Apocopatus)."
+      "explanation": "Form III (فَاعَلَ) — Reziprok/Versuch von ب-ش-ر. Imperfekt, 2. Person maskulin Plural. Jussiv Sukun (Apocopatus).",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=187"
     },
     {
       "id": "rvg131",
@@ -1711,7 +1847,8 @@
         "syntacticRole": "—",
         "vocalization": "يُجَاوِرُونَكَ"
       },
-      "explanation": "Form III (فَاعَلَ) — Reziprok/Versuch von ج-و-ر. Imperfekt, 3. Person maskulin Plural."
+      "explanation": "Form III (فَاعَلَ) — Reziprok/Versuch von ج-و-ر. Imperfekt, 3. Person maskulin Plural.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=33&verse=60"
     },
     {
       "id": "rvg132",
@@ -1724,7 +1861,8 @@
         "syntacticRole": "—",
         "vocalization": "وَقَٰتِلُوا"
       },
-      "explanation": "Form III (فَاعَلَ) — Reziprok/Versuch von ق-ت-ل. Imperativ, 2. Person maskulin Plural."
+      "explanation": "Form III (فَاعَلَ) — Reziprok/Versuch von ق-ت-ل. Imperativ, 2. Person maskulin Plural.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=190"
     },
     {
       "id": "rvg133",
@@ -1737,7 +1875,8 @@
         "syntacticRole": "—",
         "vocalization": "أَفْضَىٰ"
       },
-      "explanation": "Form IV (أَفْعَلَ) — Kausativ von ف-ض-و. Perfekt, 3. Person maskulin Singular."
+      "explanation": "Form IV (أَفْعَلَ) — Kausativ von ف-ض-و. Perfekt, 3. Person maskulin Singular.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=21"
     },
     {
       "id": "rvg134",
@@ -1750,7 +1889,8 @@
         "syntacticRole": "—",
         "vocalization": "وَأَطْعِمُوا"
       },
-      "explanation": "Form IV (أَفْعَلَ) — Kausativ von ط-ع-م. Imperativ, 2. Person maskulin Plural."
+      "explanation": "Form IV (أَفْعَلَ) — Kausativ von ط-ع-م. Imperativ, 2. Person maskulin Plural.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=22&verse=28"
     },
     {
       "id": "rvg135",
@@ -1763,7 +1903,8 @@
         "syntacticRole": "—",
         "vocalization": "أُحِيطَ"
       },
-      "explanation": "Form IV (أَفْعَلَ) — Kausativ von ح-و-ط. Perfekt, 3. Person maskulin Singular. Passiv (innerer Vokalwechsel: u-i im Perfekt, u-a im Imperfekt)."
+      "explanation": "Form IV (أَفْعَلَ) — Kausativ von ح-و-ط. Perfekt, 3. Person maskulin Singular. Passiv (innerer Vokalwechsel: u-i im Perfekt, u-a im Imperfekt).",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=10&verse=22"
     },
     {
       "id": "rvg136",
@@ -1776,7 +1917,8 @@
         "syntacticRole": "—",
         "vocalization": "وَأَوْرَثْنَٰهَا"
       },
-      "explanation": "Form IV (أَفْعَلَ) — Kausativ von و-ر-ث. Perfekt, 1. Person Plural."
+      "explanation": "Form IV (أَفْعَلَ) — Kausativ von و-ر-ث. Perfekt, 1. Person Plural.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=26&verse=59"
     },
     {
       "id": "rvg137",
@@ -1789,7 +1931,8 @@
         "syntacticRole": "—",
         "vocalization": "تَفَسَّحُوا"
       },
-      "explanation": "Form V (تَفَعَّلَ) — reflexiv zu II von ف-س-ح. Imperativ, 2. Person maskulin Plural."
+      "explanation": "Form V (تَفَعَّلَ) — reflexiv zu II von ف-س-ح. Imperativ, 2. Person maskulin Plural.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=58&verse=11"
     },
     {
       "id": "rvg138",
@@ -1802,7 +1945,8 @@
         "syntacticRole": "—",
         "vocalization": "يَتَأَخَّرَ"
       },
-      "explanation": "Form V (تَفَعَّلَ) — reflexiv zu II von ا-خ-ر. Imperfekt, 3. Person maskulin Singular. Subjunktiv -a (Fatha)."
+      "explanation": "Form V (تَفَعَّلَ) — reflexiv zu II von ا-خ-ر. Imperfekt, 3. Person maskulin Singular. Subjunktiv -a (Fatha).",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=74&verse=37"
     },
     {
       "id": "rvg139",
@@ -1815,7 +1959,8 @@
         "syntacticRole": "—",
         "vocalization": "وَتَبَتَّلْ"
       },
-      "explanation": "Form V (تَفَعَّلَ) — reflexiv zu II von ب-ت-ل. Imperativ, 2. Person maskulin Singular."
+      "explanation": "Form V (تَفَعَّلَ) — reflexiv zu II von ب-ت-ل. Imperativ, 2. Person maskulin Singular.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=73&verse=8"
     },
     {
       "id": "rvg140",
@@ -1828,7 +1973,8 @@
         "syntacticRole": "—",
         "vocalization": "يَتَوَلَّوْنَهُ"
       },
-      "explanation": "Form V (تَفَعَّلَ) — reflexiv zu II von و-ل-ي. Imperfekt, 3. Person maskulin Plural."
+      "explanation": "Form V (تَفَعَّلَ) — reflexiv zu II von و-ل-ي. Imperfekt, 3. Person maskulin Plural.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=16&verse=100"
     },
     {
       "id": "rvg141",
@@ -1841,7 +1987,8 @@
         "syntacticRole": "—",
         "vocalization": "وَيَتَنَٰجَوْنَ"
       },
-      "explanation": "Form VI (تَفَاعَلَ) — reziprok zu III von ن-ج-و. Imperfekt, 3. Person maskulin Plural."
+      "explanation": "Form VI (تَفَاعَلَ) — reziprok zu III von ن-ج-و. Imperfekt, 3. Person maskulin Plural.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=58&verse=8"
     },
     {
       "id": "rvg142",
@@ -1854,7 +2001,8 @@
         "syntacticRole": "—",
         "vocalization": "يَتَنَٰزَعُونَ"
       },
-      "explanation": "Form VI (تَفَاعَلَ) — reziprok zu III von ن-ز-ع. Imperfekt, 3. Person maskulin Plural."
+      "explanation": "Form VI (تَفَاعَلَ) — reziprok zu III von ن-ز-ع. Imperfekt, 3. Person maskulin Plural.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=18&verse=21"
     },
     {
       "id": "rvg143",
@@ -1867,7 +2015,8 @@
         "syntacticRole": "—",
         "vocalization": "فَلْيَتَنَافَسِ"
       },
-      "explanation": "Form VI (تَفَاعَلَ) — reziprok zu III von ن-ف-س. Imperfekt, 3. Person maskulin Singular. Jussiv Sukun (Apocopatus)."
+      "explanation": "Form VI (تَفَاعَلَ) — reziprok zu III von ن-ف-س. Imperfekt, 3. Person maskulin Singular. Jussiv Sukun (Apocopatus).",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=83&verse=26"
     },
     {
       "id": "rvg144",
@@ -1880,7 +2029,8 @@
         "syntacticRole": "—",
         "vocalization": "وَتَنَٰزَعْتُمْ"
       },
-      "explanation": "Form VI (تَفَاعَلَ) — reziprok zu III von ن-ز-ع. Perfekt, 2. Person maskulin Plural."
+      "explanation": "Form VI (تَفَاعَلَ) — reziprok zu III von ن-ز-ع. Perfekt, 2. Person maskulin Plural.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=152"
     },
     {
       "id": "rvg145",
@@ -1893,7 +2043,8 @@
         "syntacticRole": "—",
         "vocalization": "فَٱنطَلَقُوا"
       },
-      "explanation": "Form VII (اِنْفَعَلَ) — Medio-Passiv von ط-ل-ق. Perfekt, 3. Person maskulin Plural."
+      "explanation": "Form VII (اِنْفَعَلَ) — Medio-Passiv von ط-ل-ق. Perfekt, 3. Person maskulin Plural.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=68&verse=23"
     },
     {
       "id": "rvg146",
@@ -1906,7 +2057,8 @@
         "syntacticRole": "—",
         "vocalization": "ٱنبَعَثَ"
       },
-      "explanation": "Form VII (اِنْفَعَلَ) — Medio-Passiv von ب-ع-ث. Perfekt, 3. Person maskulin Singular."
+      "explanation": "Form VII (اِنْفَعَلَ) — Medio-Passiv von ب-ع-ث. Perfekt, 3. Person maskulin Singular.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=91&verse=12"
     },
     {
       "id": "rvg147",
@@ -1919,7 +2071,8 @@
         "syntacticRole": "—",
         "vocalization": "وَٱنقَلَبُوا"
       },
-      "explanation": "Form VII (اِنْفَعَلَ) — Medio-Passiv von ق-ل-ب. Perfekt, 3. Person maskulin Plural."
+      "explanation": "Form VII (اِنْفَعَلَ) — Medio-Passiv von ق-ل-ب. Perfekt, 3. Person maskulin Plural.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=7&verse=119"
     },
     {
       "id": "rvg148",
@@ -1932,7 +2085,8 @@
         "syntacticRole": "—",
         "vocalization": "ٱنفَطَرَتْ"
       },
-      "explanation": "Form VII (اِنْفَعَلَ) — Medio-Passiv von ف-ط-ر. Perfekt, 3. Person feminin Singular."
+      "explanation": "Form VII (اِنْفَعَلَ) — Medio-Passiv von ف-ط-ر. Perfekt, 3. Person feminin Singular.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=82&verse=1"
     },
     {
       "id": "rvg149",
@@ -1945,7 +2099,8 @@
         "syntacticRole": "—",
         "vocalization": "يَجْتَبِيكَ"
       },
-      "explanation": "Form VIII (اِفْتَعَلَ) — reflexiv/medio von ج-ب-ي. Imperfekt, 3. Person maskulin Singular."
+      "explanation": "Form VIII (اِفْتَعَلَ) — reflexiv/medio von ج-ب-ي. Imperfekt, 3. Person maskulin Singular.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=12&verse=6"
     },
     {
       "id": "rvg150",
@@ -1958,7 +2113,8 @@
         "syntacticRole": "—",
         "vocalization": "فَٱعْتَدُوا"
       },
-      "explanation": "Form VIII (اِفْتَعَلَ) — reflexiv/medio von ع-د-و. Imperativ, 2. Person maskulin Plural."
+      "explanation": "Form VIII (اِفْتَعَلَ) — reflexiv/medio von ع-د-و. Imperativ, 2. Person maskulin Plural.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=194"
     },
     {
       "id": "rvg151",
@@ -1971,7 +2127,8 @@
         "syntacticRole": "—",
         "vocalization": "ٱقْتَرَبَتِ"
       },
-      "explanation": "Form VIII (اِفْتَعَلَ) — reflexiv/medio von ق-ر-ب. Perfekt, 3. Person feminin Singular."
+      "explanation": "Form VIII (اِفْتَعَلَ) — reflexiv/medio von ق-ر-ب. Perfekt, 3. Person feminin Singular.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=54&verse=1"
     },
     {
       "id": "rvg152",
@@ -1984,7 +2141,8 @@
         "syntacticRole": "—",
         "vocalization": "تَتَّبِعُوا"
       },
-      "explanation": "Form VIII (اِفْتَعَلَ) — reflexiv/medio von ت-ب-ع. Imperfekt, 2. Person maskulin Plural. Jussiv Sukun (Apocopatus)."
+      "explanation": "Form VIII (اِفْتَعَلَ) — reflexiv/medio von ت-ب-ع. Imperfekt, 2. Person maskulin Plural. Jussiv Sukun (Apocopatus).",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=6&verse=142"
     },
     {
       "id": "rvg153",
@@ -1997,7 +2155,8 @@
         "syntacticRole": "—",
         "vocalization": "ٱسْوَدَّتْ"
       },
-      "explanation": "Form IX (اِفْعَلَّ) — Farben/Eigenschaften von س-و-د. Perfekt, 3. Person feminin Singular."
+      "explanation": "Form IX (اِفْعَلَّ) — Farben/Eigenschaften von س-و-د. Perfekt, 3. Person feminin Singular.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=106"
     },
     {
       "id": "rvg154",
@@ -2010,7 +2169,8 @@
         "syntacticRole": "—",
         "vocalization": "ٱبْيَضَّتْ"
       },
-      "explanation": "Form IX (اِفْعَلَّ) — Farben/Eigenschaften von ب-ي-ض. Perfekt, 3. Person feminin Singular."
+      "explanation": "Form IX (اِفْعَلَّ) — Farben/Eigenschaften von ب-ي-ض. Perfekt, 3. Person feminin Singular.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=107"
     },
     {
       "id": "rvg155",
@@ -2023,7 +2183,8 @@
         "syntacticRole": "—",
         "vocalization": "تَبْيَضُّ"
       },
-      "explanation": "Form IX (اِفْعَلَّ) — Farben/Eigenschaften von ب-ي-ض. Imperfekt, 3. Person feminin Singular."
+      "explanation": "Form IX (اِفْعَلَّ) — Farben/Eigenschaften von ب-ي-ض. Imperfekt, 3. Person feminin Singular.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=106"
     },
     {
       "id": "rvg156",
@@ -2036,7 +2197,8 @@
         "syntacticRole": "—",
         "vocalization": "وَٱبْيَضَّتْ"
       },
-      "explanation": "Form IX (اِفْعَلَّ) — Farben/Eigenschaften von ب-ي-ض. Perfekt, 3. Person feminin Singular."
+      "explanation": "Form IX (اِفْعَلَّ) — Farben/Eigenschaften von ب-ي-ض. Perfekt, 3. Person feminin Singular.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=12&verse=84"
     },
     {
       "id": "rvg157",
@@ -2049,7 +2211,8 @@
         "syntacticRole": "—",
         "vocalization": "يَسْتَعْجِلُ"
       },
-      "explanation": "Form X (اِسْتَفْعَلَ) — Verlangen/Erachten von ع-ج-ل. Imperfekt, 3. Person maskulin Singular."
+      "explanation": "Form X (اِسْتَفْعَلَ) — Verlangen/Erachten von ع-ج-ل. Imperfekt, 3. Person maskulin Singular.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=10&verse=50"
     },
     {
       "id": "rvg158",
@@ -2062,7 +2225,8 @@
         "syntacticRole": "—",
         "vocalization": "تَسْتَطِيعُوا"
       },
-      "explanation": "Form X (اِسْتَفْعَلَ) — Verlangen/Erachten von ط-و-ع. Imperfekt, 2. Person maskulin Plural. Subjunktiv -a (Fatha)."
+      "explanation": "Form X (اِسْتَفْعَلَ) — Verlangen/Erachten von ط-و-ع. Imperfekt, 2. Person maskulin Plural. Subjunktiv -a (Fatha).",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=129"
     },
     {
       "id": "rvg159",
@@ -2075,7 +2239,8 @@
         "syntacticRole": "—",
         "vocalization": "يَسْتَطِعْ"
       },
-      "explanation": "Form X (اِسْتَفْعَلَ) — Verlangen/Erachten von ط-و-ع. Imperfekt, 3. Person maskulin Singular. Jussiv Sukun (Apocopatus)."
+      "explanation": "Form X (اِسْتَفْعَلَ) — Verlangen/Erachten von ط-و-ع. Imperfekt, 3. Person maskulin Singular. Jussiv Sukun (Apocopatus).",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=25"
     },
     {
       "id": "rvg160",
@@ -2088,7 +2253,8 @@
         "syntacticRole": "—",
         "vocalization": "يَسْتَطِيعُ"
       },
-      "explanation": "Form X (اِسْتَفْعَلَ) — Verlangen/Erachten von ط-و-ع. Imperfekt, 3. Person maskulin Singular."
+      "explanation": "Form X (اِسْتَفْعَلَ) — Verlangen/Erachten von ط-و-ع. Imperfekt, 3. Person maskulin Singular.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=282"
     },
     {
       "id": "rvg161",
@@ -2101,7 +2267,8 @@
         "syntacticRole": "Maf'ul bihi (Akkusativ)",
         "vocalization": "إِمْرًا"
       },
-      "explanation": "Adjektiv von Wurzel ا-م-ر. maskulin, Singular. Kongruiert mit Bezugswort im Akkusativ (Fatha)."
+      "explanation": "Adjektiv von Wurzel ا-م-ر. maskulin, Singular. Kongruiert mit Bezugswort im Akkusativ (Fatha).",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=18&verse=71"
     },
     {
       "id": "rvg162",
@@ -2114,7 +2281,8 @@
         "syntacticRole": "Majrur (Genitiv)",
         "vocalization": "بَئِيسٍ"
       },
-      "explanation": "Adjektiv von Wurzel ب-ا-س. maskulin, Singular. Kongruiert mit Bezugswort im Genitiv (Kasra)."
+      "explanation": "Adjektiv von Wurzel ب-ا-س. maskulin, Singular. Kongruiert mit Bezugswort im Genitiv (Kasra).",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=7&verse=165"
     },
     {
       "id": "rvg163",
@@ -2127,7 +2295,8 @@
         "syntacticRole": "Maf'ul bihi (Akkusativ)",
         "vocalization": "حَامِيَةً"
       },
-      "explanation": "Adjektiv (Aktivpartizip) von ح-م-ي. feminin. Kongruiert mit Bezugswort im Akkusativ (Fatha)."
+      "explanation": "Adjektiv (Aktivpartizip) von ح-م-ي. feminin. Kongruiert mit Bezugswort im Akkusativ (Fatha).",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=88&verse=4"
     },
     {
       "id": "rvg164",
@@ -2140,7 +2309,8 @@
         "syntacticRole": "Maf'ul bihi (Akkusativ)",
         "vocalization": "أَكْثَرَ"
       },
-      "explanation": "Adjektiv von Wurzel ك-ث-ر. maskulin, Singular. Kongruiert mit Bezugswort im Akkusativ (Fatha)."
+      "explanation": "Adjektiv von Wurzel ك-ث-ر. maskulin, Singular. Kongruiert mit Bezugswort im Akkusativ (Fatha).",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=18&verse=54"
     },
     {
       "id": "rvg165",
@@ -2153,7 +2323,8 @@
         "syntacticRole": "Fa'il/Mubtada (Nominativ)",
         "vocalization": "مُّحْكَمَٰتٌ"
       },
-      "explanation": "Adjektiv (Passivpartizip) von ح-ك-م. feminin, Plural. Kongruiert mit Bezugswort im Nominativ (Damma)."
+      "explanation": "Adjektiv (Passivpartizip) von ح-ك-م. feminin, Plural. Kongruiert mit Bezugswort im Nominativ (Damma).",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=7"
     },
     {
       "id": "rvg166",
@@ -2166,7 +2337,8 @@
         "syntacticRole": "Maf'ul bihi (Akkusativ)",
         "vocalization": "حُسُومًا"
       },
-      "explanation": "Adjektiv von Wurzel ح-س-م. feminin. Kongruiert mit Bezugswort im Akkusativ (Fatha)."
+      "explanation": "Adjektiv von Wurzel ح-س-م. feminin. Kongruiert mit Bezugswort im Akkusativ (Fatha).",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=69&verse=7"
     },
     {
       "id": "rvg167",
@@ -2179,7 +2351,8 @@
         "syntacticRole": "Maf'ul bihi (Akkusativ)",
         "vocalization": "ٱلظَّانِّينَ"
       },
-      "explanation": "ال (Definitartikel) + Adjektiv (Aktivpartizip) von ظ-ن-ن. maskulin, Plural. Kongruiert mit Bezugswort im Akkusativ (Fatha)."
+      "explanation": "ال (Definitartikel) + Adjektiv (Aktivpartizip) von ظ-ن-ن. maskulin, Plural. Kongruiert mit Bezugswort im Akkusativ (Fatha).",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=48&verse=6"
     },
     {
       "id": "rvg168",
@@ -2192,7 +2365,8 @@
         "syntacticRole": "Fa'il/Mubtada (Nominativ)",
         "vocalization": "ٱلْبَارِئُ"
       },
-      "explanation": "ال (Definitartikel) + Adjektiv (Aktivpartizip) von ب-ر-ا. maskulin. Kongruiert mit Bezugswort im Nominativ (Damma)."
+      "explanation": "ال (Definitartikel) + Adjektiv (Aktivpartizip) von ب-ر-ا. maskulin. Kongruiert mit Bezugswort im Nominativ (Damma).",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=59&verse=24"
     },
     {
       "id": "rvg169",
@@ -2205,7 +2379,8 @@
         "syntacticRole": "Majrur (Genitiv)",
         "vocalization": "ٱلْأَوَّلِ"
       },
-      "explanation": "ال (Definitartikel) + Adjektiv von Wurzel ا-و-ل. maskulin, Singular. Kongruiert mit Bezugswort im Genitiv (Kasra)."
+      "explanation": "ال (Definitartikel) + Adjektiv von Wurzel ا-و-ل. maskulin, Singular. Kongruiert mit Bezugswort im Genitiv (Kasra).",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=50&verse=15"
     },
     {
       "id": "rvg170",
@@ -2218,7 +2393,8 @@
         "syntacticRole": "Majrur (Genitiv)",
         "vocalization": "خَتَّارٍ"
       },
-      "explanation": "Adjektiv von Wurzel خ-ت-ر. maskulin, Singular. Kongruiert mit Bezugswort im Genitiv (Kasra)."
+      "explanation": "Adjektiv von Wurzel خ-ت-ر. maskulin, Singular. Kongruiert mit Bezugswort im Genitiv (Kasra).",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=31&verse=32"
     },
     {
       "id": "rvg171",
@@ -2231,7 +2407,8 @@
         "syntacticRole": "Majrur (Genitiv)",
         "vocalization": "خَفِىٍّ"
       },
-      "explanation": "Adjektiv von Wurzel خ-ف-ي. maskulin, Singular. Kongruiert mit Bezugswort im Genitiv (Kasra)."
+      "explanation": "Adjektiv von Wurzel خ-ف-ي. maskulin, Singular. Kongruiert mit Bezugswort im Genitiv (Kasra).",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=42&verse=45"
     },
     {
       "id": "rvg172",
@@ -2244,7 +2421,8 @@
         "syntacticRole": "Fa'il/Mubtada (Nominativ)",
         "vocalization": "أَلِيمٌ"
       },
-      "explanation": "Adjektiv von Wurzel ا-ل-م. maskulin, Singular. Kongruiert mit Bezugswort im Nominativ (Damma)."
+      "explanation": "Adjektiv von Wurzel ا-ل-م. maskulin, Singular. Kongruiert mit Bezugswort im Nominativ (Damma).",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=10"
     },
     {
       "id": "rvg173",
@@ -2257,7 +2435,8 @@
         "syntacticRole": "Fa'il/Mubtada (Nominativ)",
         "vocalization": "مُّنتَشِرٌ"
       },
-      "explanation": "Adjektiv (Aktivpartizip) von ن-ش-ر. maskulin. Kongruiert mit Bezugswort im Nominativ (Damma)."
+      "explanation": "Adjektiv (Aktivpartizip) von ن-ش-ر. maskulin. Kongruiert mit Bezugswort im Nominativ (Damma).",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=54&verse=7"
     },
     {
       "id": "rvg174",
@@ -2270,7 +2449,8 @@
         "syntacticRole": "Fa'il/Mubtada (Nominativ)",
         "vocalization": "ٱلْجِيَادُ"
       },
-      "explanation": "ال (Definitartikel) + Adjektiv von Wurzel ج-و-د. maskulin, Plural. Kongruiert mit Bezugswort im Nominativ (Damma)."
+      "explanation": "ال (Definitartikel) + Adjektiv von Wurzel ج-و-د. maskulin, Plural. Kongruiert mit Bezugswort im Nominativ (Damma).",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=38&verse=31"
     },
     {
       "id": "rvg175",
@@ -2283,7 +2463,8 @@
         "syntacticRole": "Maf'ul bihi (Akkusativ)",
         "vocalization": "يَسِيرًا"
       },
-      "explanation": "Adjektiv von Wurzel ي-س-ر. maskulin, Singular. Kongruiert mit Bezugswort im Akkusativ (Fatha)."
+      "explanation": "Adjektiv von Wurzel ي-س-ر. maskulin, Singular. Kongruiert mit Bezugswort im Akkusativ (Fatha).",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=25&verse=46"
     },
     {
       "id": "rvg176",
@@ -2296,7 +2477,8 @@
         "syntacticRole": "Maf'ul bihi (Akkusativ)",
         "vocalization": "ظَهِيرًا"
       },
-      "explanation": "Adjektiv von Wurzel ظ-ه-ر. maskulin, Singular. Kongruiert mit Bezugswort im Akkusativ (Fatha)."
+      "explanation": "Adjektiv von Wurzel ظ-ه-ر. maskulin, Singular. Kongruiert mit Bezugswort im Akkusativ (Fatha).",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=17&verse=88"
     },
     {
       "id": "rvg177",
@@ -2309,7 +2491,8 @@
         "syntacticRole": "Maf'ul bihi (Akkusativ)",
         "vocalization": "ضَنكًا"
       },
-      "explanation": "Adjektiv von Wurzel ض-ن-ك. maskulin. Kongruiert mit Bezugswort im Akkusativ (Fatha)."
+      "explanation": "Adjektiv von Wurzel ض-ن-ك. maskulin. Kongruiert mit Bezugswort im Akkusativ (Fatha).",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=20&verse=124"
     },
     {
       "id": "rvg178",
@@ -2322,7 +2505,8 @@
         "syntacticRole": "Maf'ul bihi (Akkusativ)",
         "vocalization": "مُّؤْمِنَٰتٍ"
       },
-      "explanation": "Adjektiv (Aktivpartizip) von ا-م-ن. feminin, Plural. Kongruiert mit Bezugswort im Akkusativ (Fatha)."
+      "explanation": "Adjektiv (Aktivpartizip) von ا-م-ن. feminin, Plural. Kongruiert mit Bezugswort im Akkusativ (Fatha).",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=66&verse=5"
     },
     {
       "id": "rvg179",
@@ -2335,7 +2519,8 @@
         "syntacticRole": "Maf'ul bihi (Akkusativ)",
         "vocalization": "إِدًّا"
       },
-      "explanation": "Adjektiv von Wurzel ا-د-د. maskulin, Singular. Kongruiert mit Bezugswort im Akkusativ (Fatha)."
+      "explanation": "Adjektiv von Wurzel ا-د-د. maskulin, Singular. Kongruiert mit Bezugswort im Akkusativ (Fatha).",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=19&verse=89"
     },
     {
       "id": "rvg180",
@@ -2348,7 +2533,8 @@
         "syntacticRole": "Fa'il/Mubtada (Nominativ)",
         "vocalization": "ذَلُولٌ"
       },
-      "explanation": "Adjektiv von Wurzel ذ-ل-ل. maskulin, Singular. Kongruiert mit Bezugswort im Nominativ (Damma)."
+      "explanation": "Adjektiv von Wurzel ذ-ل-ل. maskulin, Singular. Kongruiert mit Bezugswort im Nominativ (Damma).",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=71"
     },
     {
       "id": "rvg181",
@@ -2361,7 +2547,8 @@
         "syntacticRole": "Maf'ul bihi (Akkusativ)",
         "vocalization": "سَوِيًّا"
       },
-      "explanation": "Adjektiv von Wurzel س-و-ي. maskulin, Singular. Kongruiert mit Bezugswort im Akkusativ (Fatha)."
+      "explanation": "Adjektiv von Wurzel س-و-ي. maskulin, Singular. Kongruiert mit Bezugswort im Akkusativ (Fatha).",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=19&verse=43"
     },
     {
       "id": "rvg182",
@@ -2374,7 +2561,8 @@
         "syntacticRole": "Majrur (Genitiv)",
         "vocalization": "أَمْشَاجٍ"
       },
-      "explanation": "Adjektiv von Wurzel م-ش-ج. feminin, Plural. Kongruiert mit Bezugswort im Genitiv (Kasra)."
+      "explanation": "Adjektiv von Wurzel م-ش-ج. feminin, Plural. Kongruiert mit Bezugswort im Genitiv (Kasra).",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=76&verse=2"
     },
     {
       "id": "rvg183",
@@ -2387,7 +2575,8 @@
         "syntacticRole": "Fa'il/Mubtada (Nominativ)",
         "vocalization": "ٱلْجَبَّارُ"
       },
-      "explanation": "ال (Definitartikel) + Adjektiv von Wurzel ج-ب-ر. maskulin, Singular. Kongruiert mit Bezugswort im Nominativ (Damma)."
+      "explanation": "ال (Definitartikel) + Adjektiv von Wurzel ج-ب-ر. maskulin, Singular. Kongruiert mit Bezugswort im Nominativ (Damma).",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=59&verse=23"
     },
     {
       "id": "rvg184",
@@ -2400,7 +2589,8 @@
         "syntacticRole": "Maf'ul bihi (Akkusativ)",
         "vocalization": "زَكِيًّا"
       },
-      "explanation": "Adjektiv von Wurzel ز-ك-و. maskulin, Singular. Kongruiert mit Bezugswort im Akkusativ (Fatha)."
+      "explanation": "Adjektiv von Wurzel ز-ك-و. maskulin, Singular. Kongruiert mit Bezugswort im Akkusativ (Fatha).",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=19&verse=19"
     },
     {
       "id": "rvg185",
@@ -2413,7 +2603,8 @@
         "syntacticRole": "Majrur (Genitiv)",
         "vocalization": "ٱلْحَرَامِ"
       },
-      "explanation": "ال (Definitartikel) + Adjektiv von Wurzel ح-ر-م. maskulin. Kongruiert mit Bezugswort im Genitiv (Kasra)."
+      "explanation": "ال (Definitartikel) + Adjektiv von Wurzel ح-ر-م. maskulin. Kongruiert mit Bezugswort im Genitiv (Kasra).",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=144"
     },
     {
       "id": "rvg186",
@@ -2426,7 +2617,8 @@
         "syntacticRole": "Fa'il/Mubtada (Nominativ)",
         "vocalization": "عِجَافٌ"
       },
-      "explanation": "Adjektiv von Wurzel ع-ج-ف. maskulin, Plural. Kongruiert mit Bezugswort im Nominativ (Damma)."
+      "explanation": "Adjektiv von Wurzel ع-ج-ف. maskulin, Plural. Kongruiert mit Bezugswort im Nominativ (Damma).",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=12&verse=43"
     },
     {
       "id": "rvg187",
@@ -2439,7 +2631,8 @@
         "syntacticRole": "Fa'il/Mubtada (Nominativ)",
         "vocalization": "خَبِيرٌ"
       },
-      "explanation": "Adjektiv von Wurzel خ-ب-ر. maskulin, Singular. Kongruiert mit Bezugswort im Nominativ (Damma)."
+      "explanation": "Adjektiv von Wurzel خ-ب-ر. maskulin, Singular. Kongruiert mit Bezugswort im Nominativ (Damma).",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=9&verse=16"
     },
     {
       "id": "rvg188",
@@ -2452,7 +2645,8 @@
         "syntacticRole": "Maf'ul bihi (Akkusativ)",
         "vocalization": "ثِقَالًا"
       },
-      "explanation": "Adjektiv von Wurzel ث-ق-ل. maskulin, Plural. Kongruiert mit Bezugswort im Akkusativ (Fatha)."
+      "explanation": "Adjektiv von Wurzel ث-ق-ل. maskulin, Plural. Kongruiert mit Bezugswort im Akkusativ (Fatha).",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=7&verse=57"
     },
     {
       "id": "rvg189",
@@ -2465,7 +2659,8 @@
         "syntacticRole": "Fa'il/Mubtada (Nominativ)",
         "vocalization": "حُرُمٌ"
       },
-      "explanation": "Adjektiv von Wurzel ح-ر-م. maskulin, Plural. Kongruiert mit Bezugswort im Nominativ (Damma)."
+      "explanation": "Adjektiv von Wurzel ح-ر-م. maskulin, Plural. Kongruiert mit Bezugswort im Nominativ (Damma).",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=9&verse=36"
     },
     {
       "id": "rvg190",
@@ -2478,7 +2673,8 @@
         "syntacticRole": "Fa'il/Mubtada (Nominativ)",
         "vocalization": "كَذَّابٌ"
       },
-      "explanation": "Adjektiv von Wurzel ك-ذ-ب. maskulin, Singular. Kongruiert mit Bezugswort im Nominativ (Damma)."
+      "explanation": "Adjektiv von Wurzel ك-ذ-ب. maskulin, Singular. Kongruiert mit Bezugswort im Nominativ (Damma).",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=38&verse=4"
     },
     {
       "id": "rvg191",
@@ -2491,7 +2687,8 @@
         "syntacticRole": "Maf'ul bihi (Akkusativ)",
         "vocalization": "خَيْرًا"
       },
-      "explanation": "Adjektiv von Wurzel خ-ي-ر. maskulin, Singular. Kongruiert mit Bezugswort im Akkusativ (Fatha)."
+      "explanation": "Adjektiv von Wurzel خ-ي-ر. maskulin, Singular. Kongruiert mit Bezugswort im Akkusativ (Fatha).",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=170"
     },
     {
       "id": "rvg192",
@@ -2504,7 +2701,8 @@
         "syntacticRole": "Fa'il/Mubtada (Nominativ)",
         "vocalization": "ٱلْأَوَّلُونَ"
       },
-      "explanation": "ال (Definitartikel) + Adjektiv von Wurzel ا-و-ل. maskulin, Plural. Kongruiert mit Bezugswort im Nominativ (Damma)."
+      "explanation": "ال (Definitartikel) + Adjektiv von Wurzel ا-و-ل. maskulin, Plural. Kongruiert mit Bezugswort im Nominativ (Damma).",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=9&verse=100"
     },
     {
       "id": "rvg193",
@@ -2517,7 +2715,8 @@
         "syntacticRole": "Majrur (Genitiv)",
         "vocalization": "ٱلْجُرُزِ"
       },
-      "explanation": "ال (Definitartikel) + Adjektiv von Wurzel ج-ر-ز. maskulin, Singular. Kongruiert mit Bezugswort im Genitiv (Kasra)."
+      "explanation": "ال (Definitartikel) + Adjektiv von Wurzel ج-ر-ز. maskulin, Singular. Kongruiert mit Bezugswort im Genitiv (Kasra).",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=32&verse=27"
     },
     {
       "id": "rvg194",
@@ -2530,7 +2729,8 @@
         "syntacticRole": "Majrur (Genitiv)",
         "vocalization": "عَالِيَةٍ"
       },
-      "explanation": "Adjektiv (Aktivpartizip) von ع-ل-و. feminin. Kongruiert mit Bezugswort im Genitiv (Kasra)."
+      "explanation": "Adjektiv (Aktivpartizip) von ع-ل-و. feminin. Kongruiert mit Bezugswort im Genitiv (Kasra).",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=69&verse=22"
     },
     {
       "id": "rvg195",
@@ -2543,7 +2743,8 @@
         "syntacticRole": "Majrur (Genitiv)",
         "vocalization": "عَٰبِدِينَ"
       },
-      "explanation": "Adjektiv (Aktivpartizip) von ع-ب-د. maskulin, Plural. Kongruiert mit Bezugswort im Genitiv (Kasra)."
+      "explanation": "Adjektiv (Aktivpartizip) von ع-ب-د. maskulin, Plural. Kongruiert mit Bezugswort im Genitiv (Kasra).",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=21&verse=106"
     },
     {
       "id": "rvg196",
@@ -2556,7 +2757,8 @@
         "syntacticRole": "Majrur (Genitiv)",
         "vocalization": "حَىٍّ"
       },
-      "explanation": "Adjektiv von Wurzel ح-ي-ي. maskulin, Singular. Kongruiert mit Bezugswort im Genitiv (Kasra)."
+      "explanation": "Adjektiv von Wurzel ح-ي-ي. maskulin, Singular. Kongruiert mit Bezugswort im Genitiv (Kasra).",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=21&verse=30"
     },
     {
       "id": "rvg197",
@@ -2569,7 +2771,8 @@
         "syntacticRole": "Majrur (Genitiv)",
         "vocalization": "أَثِيمٍ"
       },
-      "explanation": "Adjektiv von Wurzel ا-ث-م. maskulin, Singular. Kongruiert mit Bezugswort im Genitiv (Kasra)."
+      "explanation": "Adjektiv von Wurzel ا-ث-م. maskulin, Singular. Kongruiert mit Bezugswort im Genitiv (Kasra).",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=276"
     },
     {
       "id": "rvg198",
@@ -2582,7 +2785,8 @@
         "syntacticRole": "Majrur (Genitiv)",
         "vocalization": "شَكُورٍ"
       },
-      "explanation": "Adjektiv von Wurzel ش-ك-ر. maskulin, Singular. Kongruiert mit Bezugswort im Genitiv (Kasra)."
+      "explanation": "Adjektiv von Wurzel ش-ك-ر. maskulin, Singular. Kongruiert mit Bezugswort im Genitiv (Kasra).",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=14&verse=5"
     },
     {
       "id": "rvg199",
@@ -2595,7 +2799,8 @@
         "syntacticRole": "Maf'ul bihi (Akkusativ)",
         "vocalization": "مَّذْكُورًا"
       },
-      "explanation": "Adjektiv (Passivpartizip) von ذ-ك-ر. maskulin. Kongruiert mit Bezugswort im Akkusativ (Fatha)."
+      "explanation": "Adjektiv (Passivpartizip) von ذ-ك-ر. maskulin. Kongruiert mit Bezugswort im Akkusativ (Fatha).",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=76&verse=1"
     },
     {
       "id": "rvg200",
@@ -2608,7 +2813,8 @@
         "syntacticRole": "Fa'il/Mubtada (Nominativ)",
         "vocalization": "مُّخَلَّدُونَ"
       },
-      "explanation": "Adjektiv (Passivpartizip) von خ-ل-د. maskulin, Plural. Kongruiert mit Bezugswort im Nominativ (Damma)."
+      "explanation": "Adjektiv (Passivpartizip) von خ-ل-د. maskulin, Plural. Kongruiert mit Bezugswort im Nominativ (Damma).",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=76&verse=19"
     }
   ]
 }

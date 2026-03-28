@@ -5,8 +5,14 @@
     "description": "Zwei Lektionen zum diakritischen Punktesystem der arabischen Schrift — vom punktlosen Rasm zur eindeutigen Lesung.",
     "passingScore": 80,
     "sources": [
-      {"name": "Wright's Arabic Grammar Vol I", "url": "https://archive.org/details/WrightsArabicGrammarVol1"},
-      {"name": "Quranic Arabic Corpus", "url": "https://corpus.quran.com"}
+      {
+        "name": "Wright's Arabic Grammar Vol I",
+        "url": "https://archive.org/details/WrightsArabicGrammar1Of2"
+      },
+      {
+        "name": "Quranic Arabic Corpus",
+        "url": "https://corpus.quran.com"
+      }
     ]
   },
   "lessons": [
@@ -38,83 +44,194 @@
             "title": "Die Skelettgruppen — 22 Buchstaben in 9 Skelettgruppen",
             "content": "22 Buchstaben teilen sich 9 Grundskelette. Von diesen 22 tragen 15 tatsächlich Punkte (die sog. manqūṭa-Buchstaben: ب ت ث ج خ ذ ز ش ض ظ غ ف ق ن ي). 7 weitere (ح د ر س ص ط ع) haben keine Punkte, sind aber durch die Abwesenheit von Punkten von ihren Skelettpartnern zu unterscheiden. Die uebrigen 6 Buchstaben (ا ك ل م ه و) haben ein einzigartiges Skelett und sind ohne Kontext eindeutig. Die folgende Tabelle zeigt alle Gruppen systematisch.",
             "table": {
-              "headers": ["Skelettgruppe", "Buchstaben", "Punktierung", "Beispielwoerter"],
+              "headers": [
+                "Skelettgruppe",
+                "Buchstaben",
+                "Punktierung",
+                "Beispielwoerter"
+              ],
               "rows": [
                 {
                   "skeleton": "Zahngruppe (mediale Form identisch)",
                   "letters": [
-                    {"letter": "ب", "name": "bāʾ", "dots": "1 Punkt unten"},
-                    {"letter": "ت", "name": "tāʾ", "dots": "2 Punkte oben"},
-                    {"letter": "ث", "name": "ṯāʾ", "dots": "3 Punkte oben"},
-                    {"letter": "ن", "name": "nūn", "dots": "1 Punkt oben"},
-                    {"letter": "ي", "name": "yāʾ", "dots": "2 Punkte unten"}
+                    {
+                      "letter": "ب",
+                      "name": "bāʾ",
+                      "dots": "1 Punkt unten"
+                    },
+                    {
+                      "letter": "ت",
+                      "name": "tāʾ",
+                      "dots": "2 Punkte oben"
+                    },
+                    {
+                      "letter": "ث",
+                      "name": "ṯāʾ",
+                      "dots": "3 Punkte oben"
+                    },
+                    {
+                      "letter": "ن",
+                      "name": "nūn",
+                      "dots": "1 Punkt oben"
+                    },
+                    {
+                      "letter": "ي",
+                      "name": "yāʾ",
+                      "dots": "2 Punkte unten"
+                    }
                   ],
-                  "examples": ["بنت / تبن / ثبت / نبي — selbes Skelett, verschiedene Punkte"]
+                  "examples": [
+                    "بنت / تبن / ثبت / نبي — selbes Skelett, verschiedene Punkte"
+                  ]
                 },
                 {
                   "skeleton": "Hakengruppe",
                   "letters": [
-                    {"letter": "ج", "name": "jīm", "dots": "1 Punkt unten"},
-                    {"letter": "ح", "name": "ḥāʾ", "dots": "kein Punkt"},
-                    {"letter": "خ", "name": "ḫāʾ", "dots": "1 Punkt oben"}
+                    {
+                      "letter": "ج",
+                      "name": "jīm",
+                      "dots": "1 Punkt unten"
+                    },
+                    {
+                      "letter": "ح",
+                      "name": "ḥāʾ",
+                      "dots": "kein Punkt"
+                    },
+                    {
+                      "letter": "خ",
+                      "name": "ḫāʾ",
+                      "dots": "1 Punkt oben"
+                    }
                   ],
-                  "examples": ["حج / خج — Punkt oben vs. kein Punkt"]
+                  "examples": [
+                    "حج / خج — Punkt oben vs. kein Punkt"
+                  ]
                 },
                 {
                   "skeleton": "Strichgruppe kurz",
                   "letters": [
-                    {"letter": "د", "name": "dāl", "dots": "kein Punkt"},
-                    {"letter": "ذ", "name": "ḏāl", "dots": "1 Punkt oben"}
+                    {
+                      "letter": "د",
+                      "name": "dāl",
+                      "dots": "kein Punkt"
+                    },
+                    {
+                      "letter": "ذ",
+                      "name": "ḏāl",
+                      "dots": "1 Punkt oben"
+                    }
                   ],
-                  "examples": ["دل / ذل — mit und ohne Punkt"]
+                  "examples": [
+                    "دل / ذل — mit und ohne Punkt"
+                  ]
                 },
                 {
                   "skeleton": "Bogengruppe",
                   "letters": [
-                    {"letter": "ر", "name": "rāʾ", "dots": "kein Punkt"},
-                    {"letter": "ز", "name": "zāy", "dots": "1 Punkt oben"}
+                    {
+                      "letter": "ر",
+                      "name": "rāʾ",
+                      "dots": "kein Punkt"
+                    },
+                    {
+                      "letter": "ز",
+                      "name": "zāy",
+                      "dots": "1 Punkt oben"
+                    }
                   ],
-                  "examples": ["رمز / زمر — r vs. z"]
+                  "examples": [
+                    "رمز / زمر — r vs. z"
+                  ]
                 },
                 {
                   "skeleton": "Kammgruppe",
                   "letters": [
-                    {"letter": "س", "name": "sīn", "dots": "kein Punkt"},
-                    {"letter": "ش", "name": "šīn", "dots": "3 Punkte oben"}
+                    {
+                      "letter": "س",
+                      "name": "sīn",
+                      "dots": "kein Punkt"
+                    },
+                    {
+                      "letter": "ش",
+                      "name": "šīn",
+                      "dots": "3 Punkte oben"
+                    }
                   ],
-                  "examples": ["سمس / شمس — ohne vs. mit drei Punkten"]
+                  "examples": [
+                    "سمس / شمس — ohne vs. mit drei Punkten"
+                  ]
                 },
                 {
                   "skeleton": "Osagruppe",
                   "letters": [
-                    {"letter": "ص", "name": "ṣād", "dots": "kein Punkt"},
-                    {"letter": "ض", "name": "ḍād", "dots": "1 Punkt oben"}
+                    {
+                      "letter": "ص",
+                      "name": "ṣād",
+                      "dots": "kein Punkt"
+                    },
+                    {
+                      "letter": "ض",
+                      "name": "ḍād",
+                      "dots": "1 Punkt oben"
+                    }
                   ],
-                  "examples": ["صرب / ضرب — Schlagen entsteht erst durch den Punkt"]
+                  "examples": [
+                    "صرب / ضرب — Schlagen entsteht erst durch den Punkt"
+                  ]
                 },
                 {
                   "skeleton": "Schlaufengruppe",
                   "letters": [
-                    {"letter": "ط", "name": "ṭāʾ", "dots": "kein Punkt"},
-                    {"letter": "ظ", "name": "ẓāʾ", "dots": "1 Punkt oben"}
+                    {
+                      "letter": "ط",
+                      "name": "ṭāʾ",
+                      "dots": "kein Punkt"
+                    },
+                    {
+                      "letter": "ظ",
+                      "name": "ẓāʾ",
+                      "dots": "1 Punkt oben"
+                    }
                   ],
-                  "examples": ["طلم / ظلم — Unrecht tun entsteht durch den Punkt"]
+                  "examples": [
+                    "طلم / ظلم — Unrecht tun entsteht durch den Punkt"
+                  ]
                 },
                 {
                   "skeleton": "Augengruppe",
                   "letters": [
-                    {"letter": "ع", "name": "ʿayn", "dots": "kein Punkt"},
-                    {"letter": "غ", "name": "ġayn", "dots": "1 Punkt oben"}
+                    {
+                      "letter": "ع",
+                      "name": "ʿayn",
+                      "dots": "kein Punkt"
+                    },
+                    {
+                      "letter": "غ",
+                      "name": "ġayn",
+                      "dots": "1 Punkt oben"
+                    }
                   ],
-                  "examples": ["علم / غلم — ʿ vs. ġ"]
+                  "examples": [
+                    "علم / غلم — ʿ vs. ġ"
+                  ]
                 },
                 {
                   "skeleton": "Ringgruppe",
                   "letters": [
-                    {"letter": "ف", "name": "fāʾ", "dots": "1 Punkt oben (fruehhijazisch: 1 Punkt unten)"},
-                    {"letter": "ق", "name": "qāf", "dots": "2 Punkte oben (fruehhijazisch: 1 Punkt oben)"}
+                    {
+                      "letter": "ف",
+                      "name": "fāʾ",
+                      "dots": "1 Punkt oben (fruehhijazisch: 1 Punkt unten)"
+                    },
+                    {
+                      "letter": "ق",
+                      "name": "qāf",
+                      "dots": "2 Punkte oben (fruehhijazisch: 1 Punkt oben)"
+                    }
                   ],
-                  "examples": ["فلب / قلب — Herz entsteht durch die richtige Punktierung"],
+                  "examples": [
+                    "فلب / قلب — Herz entsteht durch die richtige Punktierung"
+                  ],
                   "note": "In fruehen hijazischen Handschriften war die Konvention umgekehrt: fāʾ hatte einen Punkt unten, qāf einen Punkt oben. Die heutige Konvention (fāʾ oben, qāf zwei oben) setzte sich später durch."
                 }
               ]
@@ -125,12 +242,36 @@
             "title": "6 Buchstaben mit einzigartigem punktlosen Skelett",
             "content": "Diese sechs Buchstaben des arabischen Alphabets haben ein einzigartiges Grundskelett und benötigen keine Punkte zur Unterscheidung. Sie sind in jedem Rasm sofort erkennbar.",
             "arabicExamples": [
-              {"arabic": "ا", "transliteration": "alif", "meaning": "Senkrechter Strich — einzigartig"},
-              {"arabic": "و", "transliteration": "wāw", "meaning": "Hakenform — einzigartig"},
-              {"arabic": "ل", "transliteration": "lām", "meaning": "Vertikaler Bogen — einzigartig"},
-              {"arabic": "م", "transliteration": "mīm", "meaning": "Geschlossener Kreis — einzigartig"},
-              {"arabic": "ه", "transliteration": "hāʾ", "meaning": "Verschiedene Positionalformen, alle einzigartig"},
-              {"arabic": "ك", "transliteration": "kāf", "meaning": "Einzigartiges Skelett mit Innenstrich"}
+              {
+                "arabic": "ا",
+                "transliteration": "alif",
+                "meaning": "Senkrechter Strich — einzigartig"
+              },
+              {
+                "arabic": "و",
+                "transliteration": "wāw",
+                "meaning": "Hakenform — einzigartig"
+              },
+              {
+                "arabic": "ل",
+                "transliteration": "lām",
+                "meaning": "Vertikaler Bogen — einzigartig"
+              },
+              {
+                "arabic": "م",
+                "transliteration": "mīm",
+                "meaning": "Geschlossener Kreis — einzigartig"
+              },
+              {
+                "arabic": "ه",
+                "transliteration": "hāʾ",
+                "meaning": "Verschiedene Positionalformen, alle einzigartig"
+              },
+              {
+                "arabic": "ك",
+                "transliteration": "kāf",
+                "meaning": "Einzigartiges Skelett mit Innenstrich"
+              }
             ]
           },
           {
@@ -138,10 +279,26 @@
             "title": "Sonderzeichen und Varianten ohne I'jam-Punkte",
             "content": "Neben den sechs Kernbuchstaben gibt es weitere Zeichen, die keine I'jam-Punkte im eigentlichen Sinne tragen, aber keine eigenständigen Alphabetbuchstaben sind.",
             "arabicExamples": [
-              {"arabic": "ة", "transliteration": "tāʾ marbūṭa", "meaning": "Variante von ت am Wortende. Trägt zwei Punkte — ist also streng genommen nicht punktlos, sondern eine Positionsvariante von tāʾ."},
-              {"arabic": "ء", "transliteration": "hamza", "meaning": "Eigenständiges Zeichen für den Glottalverschluss. Kein Alphabetbuchstabe im engeren Sinne, sondern ein diakritisches Zeichen, das auf verschiedenen Trägern (alif, wāw, yāʾ) oder alleinstehend erscheint."},
-              {"arabic": "ى", "transliteration": "alif maqṣūra", "meaning": "Schreibvariante des Alif am Wortende (yāʾ-Skelett ohne Punkte). Kein eigenständiger Buchstabe, sondern eine orthographische Variante von Alif."},
-              {"arabic": "ٱ", "transliteration": "alif al-waṣl", "meaning": "Verbindungs-Alif mit waṣla-Zeichen (ٱ). Kein eigenständiger Buchstabe, sondern eine funktionale Variante des Alif."}
+              {
+                "arabic": "ة",
+                "transliteration": "tāʾ marbūṭa",
+                "meaning": "Variante von ت am Wortende. Trägt zwei Punkte — ist also streng genommen nicht punktlos, sondern eine Positionsvariante von tāʾ."
+              },
+              {
+                "arabic": "ء",
+                "transliteration": "hamza",
+                "meaning": "Eigenständiges Zeichen für den Glottalverschluss. Kein Alphabetbuchstabe im engeren Sinne, sondern ein diakritisches Zeichen, das auf verschiedenen Trägern (alif, wāw, yāʾ) oder alleinstehend erscheint."
+              },
+              {
+                "arabic": "ى",
+                "transliteration": "alif maqṣūra",
+                "meaning": "Schreibvariante des Alif am Wortende (yāʾ-Skelett ohne Punkte). Kein eigenständiger Buchstabe, sondern eine orthographische Variante von Alif."
+              },
+              {
+                "arabic": "ٱ",
+                "transliteration": "alif al-waṣl",
+                "meaning": "Verbindungs-Alif mit waṣla-Zeichen (ٱ). Kein eigenständiger Buchstabe, sondern eine funktionale Variante des Alif."
+              }
             ]
           },
           {
@@ -164,27 +321,32 @@
               {
                 "location": "2:10",
                 "word": "يَكْذِبُونَ",
-                "analysis": "Wurzel ك-ذ-ب. Ohne Punkt auf ذ wäre es دال (d), und das Wort wäre *يَكْدِبُون — das existiert nicht. Die Punkte auf ذ sind hier entscheidend."
+                "analysis": "Wurzel ك-ذ-ب. Ohne Punkt auf ذ wäre es دال (d), und das Wort wäre *يَكْدِبُون — das existiert nicht. Die Punkte auf ذ sind hier entscheidend.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=10"
               },
               {
                 "location": "2:26",
                 "word": "بَعُوضَة",
-                "analysis": "Eine Muecke. Ohne Punkt auf ض wäre es صاد: *بَعُوصَة — ein anderes (nicht gängiges) Wort. Der Punkt auf ض unterscheidet die Bedeutung."
+                "analysis": "Eine Muecke. Ohne Punkt auf ض wäre es صاد: *بَعُوصَة — ein anderes (nicht gängiges) Wort. Der Punkt auf ض unterscheidet die Bedeutung.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=26"
               },
               {
                 "location": "112:1",
                 "word": "أَحَد",
-                "analysis": "Einer / einzig. Ohne Punkt auf dem ح: أجد (ajad) — ein anderer Stamm (finden). Im Rasm identisch — nur der Punkt unterscheidet ح von ج."
+                "analysis": "Einer / einzig. Ohne Punkt auf dem ح: أجد (ajad) — ein anderer Stamm (finden). Im Rasm identisch — nur der Punkt unterscheidet ح von ج.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=112&verse=1"
               },
               {
                 "location": "1:6",
                 "word": "صِرَاطَ",
-                "analysis": "Weg. Ohne Punkt auf ض/ص: ضِرَاطَ wäre ein völlig anderes Wort. Die Unterscheidung ص vs. ض ist rein durch den Punkt möglich."
+                "analysis": "Weg. Ohne Punkt auf ض/ص: ضِرَاطَ wäre ein völlig anderes Wort. Die Unterscheidung ص vs. ض ist rein durch den Punkt möglich.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=6"
               },
               {
                 "location": "2:102",
                 "word": "يُعَلِّمُونَ",
-                "analysis": "Sie lehren (Wurzel ع-ل-م). Ohne Punkt auf ع wäre es غ: يُغَلِّمُون — das existiert nicht. Aber: ع vs. غ ist im Rasm identisch."
+                "analysis": "Sie lehren (Wurzel ع-ل-م). Ohne Punkt auf ع wäre es غ: يُغَلِّمُون — das existiert nicht. Aber: ع vs. غ ist im Rasm identisch.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=102"
               }
             ]
           },
@@ -213,7 +375,9 @@
               "15",
               "22"
             ],
-            "answer": ["15"],
+            "answer": [
+              "15"
+            ],
             "explanation": "15 der 28 Buchstaben tragen Punkte (manqūṭa: ب ت ث ج خ ذ ز ش ض ظ غ ف ق ن ي). 7 weitere sind in Skelettgruppen, werden aber durch die Abwesenheit von Punkten unterschieden. 6 Buchstaben haben ein einzigartiges Skelett."
           },
           {
@@ -225,7 +389,9 @@
               "ر، ز، س",
               "ع، ف، ق"
             ],
-            "answer": ["ب، ت، ث، ن، ي"],
+            "answer": [
+              "ب، ت، ث، ن، ي"
+            ],
             "explanation": "Diese fünf Buchstaben teilen in medialer Position dasselbe Grundskelett (Zahnform). Sie werden nur durch die Punkte unterschieden."
           },
           {
@@ -237,7 +403,9 @@
               "Sie haben verschiedene Grundskelette",
               "ض hat zwei Punkte oben"
             ],
-            "answer": ["ض hat einen Punkt oben, ص hat keinen"],
+            "answer": [
+              "ض hat einen Punkt oben, ص hat keinen"
+            ],
             "explanation": "ص und ض teilen dasselbe Skelett. ض hat einen einzelnen Punkt oben, ص ist punktlos."
           },
           {
@@ -249,7 +417,9 @@
               "Beide hatten keine Punkte",
               "ف hatte zwei Punkte, ق einen Punkt"
             ],
-            "answer": ["Umgekehrt: ف ein Punkt unten, ق ein Punkt oben"],
+            "answer": [
+              "Umgekehrt: ف ein Punkt unten, ق ein Punkt oben"
+            ],
             "explanation": "In fruehen hijazischen Handschriften hatte ف einen Punkt unten und ق einen Punkt oben. Die heutige Konvention (ف oben, ق zwei oben) ist später entstanden."
           },
           {
@@ -261,7 +431,9 @@
               "يَحْر und بَحْر",
               "نَحْر und يَحْر"
             ],
-            "answer": ["بَحْر (Meer) und نَحْر (Schlachten)"],
+            "answer": [
+              "بَحْر (Meer) und نَحْر (Schlachten)"
+            ],
             "explanation": "Von den 5 theoretischen Möglichkeiten (ب/ت/ث/ن/ي + حر) ergeben nur بَحْر und نَحْر existierende arabische Wörter."
           },
           {
@@ -273,7 +445,9 @@
               "ن",
               "ث"
             ],
-            "answer": ["م"],
+            "answer": [
+              "م"
+            ],
             "explanation": "م (mīm) hat ein einzigartiges Skelett (geschlossener Kreis) und braucht keine Punkte. ب، ن، ث gehören alle zur Zahngruppe und brauchen Punkte."
           },
           {
@@ -285,18 +459,35 @@
               "قلب hat drei Buchstaben, فلب hat vier",
               "Der mittlere Buchstabe ist verschieden"
             ],
-            "answer": ["Nichts — sie haben dasselbe Skelett, nur die Punkte auf dem ersten Buchstaben unterscheiden sich"],
+            "answer": [
+              "Nichts — sie haben dasselbe Skelett, nur die Punkte auf dem ersten Buchstaben unterscheiden sich"
+            ],
             "explanation": "ف und ق teilen dasselbe Grundskelett (Ringgruppe). Ohne Punkte sind قلب und فلب im Rasm identisch."
           },
           {
             "type": "matching",
             "prompt": "Ordne jeden Buchstaben seiner Punktierung zu:",
             "pairs": [
-              {"letter": "ث", "dots": "3 Punkte oben"},
-              {"letter": "ج", "dots": "1 Punkt unten"},
-              {"letter": "ذ", "dots": "1 Punkt oben"},
-              {"letter": "ش", "dots": "3 Punkte oben"},
-              {"letter": "ي", "dots": "2 Punkte unten"}
+              {
+                "letter": "ث",
+                "dots": "3 Punkte oben"
+              },
+              {
+                "letter": "ج",
+                "dots": "1 Punkt unten"
+              },
+              {
+                "letter": "ذ",
+                "dots": "1 Punkt oben"
+              },
+              {
+                "letter": "ش",
+                "dots": "3 Punkte oben"
+              },
+              {
+                "letter": "ي",
+                "dots": "2 Punkte unten"
+              }
             ]
           }
         ]
@@ -376,22 +567,26 @@
               {
                 "location": "1:1",
                 "word": "بِسْمِ",
-                "analysis": "Rasm: ٮسم. Theoretische Lesungen des ersten Buchstabens: ب/ت/ث/ن/ي. 'ٮسم' könnte theoretisch بسم، تسم، ثسم، نسم، يسم sein. Morphologischer Filter: بِسْمِ (bi-smi, 'im Namen') ist eine Präposition + Nomen-Konstruktion. تسم، ثسم ergeben keine existierenden Wörter. نسم (nasam = Hauch) passt nicht syntaktisch (es fehlt die Kasusmarkierung). يسم könnte ein Verb sein, aber die Position am Satzanfang vor einem Eigennamen spricht für die Präposition. Ergebnis: بِسْمِ."
+                "analysis": "Rasm: ٮسم. Theoretische Lesungen des ersten Buchstabens: ب/ت/ث/ن/ي. 'ٮسم' könnte theoretisch بسم، تسم، ثسم، نسم، يسم sein. Morphologischer Filter: بِسْمِ (bi-smi, 'im Namen') ist eine Präposition + Nomen-Konstruktion. تسم، ثسم ergeben keine existierenden Wörter. نسم (nasam = Hauch) passt nicht syntaktisch (es fehlt die Kasusmarkierung). يسم könnte ein Verb sein, aber die Position am Satzanfang vor einem Eigennamen spricht für die Präposition. Ergebnis: بِسْمِ.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=1"
               },
               {
                 "location": "2:3",
                 "word": "يُؤْمِنُونَ",
-                "analysis": "Rasm: ٮومٮون. Der letzte Teil -ون ist ein Pluralsuffix — das schränkt auf eine Verbform 3. Person Plural ein. Das Präfix ٮ könnte ي/ت/ن/ب/ث sein. Syntaktischer Constraint: Das Subjekt الَّذِينَ (die, welche) ist 3. Person Plural maskulin — das erzwingt das Präfix يـ. Die Wurzel ء-م-ن auf Form IV (يُفْعِلُونَ) ergibt يُؤْمِنُونَ. Andere Wurzeln mit diesem Skelett existieren nicht in dieser Form."
+                "analysis": "Rasm: ٮومٮون. Der letzte Teil -ون ist ein Pluralsuffix — das schränkt auf eine Verbform 3. Person Plural ein. Das Präfix ٮ könnte ي/ت/ن/ب/ث sein. Syntaktischer Constraint: Das Subjekt الَّذِينَ (die, welche) ist 3. Person Plural maskulin — das erzwingt das Präfix يـ. Die Wurzel ء-م-ن auf Form IV (يُفْعِلُونَ) ergibt يُؤْمِنُونَ. Andere Wurzeln mit diesem Skelett existieren nicht in dieser Form.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=3"
               },
               {
                 "location": "36:1",
                 "word": "يس",
-                "analysis": "Rasm: ٮس. Dieser Fall ist besonders: Die isolierten Buchstaben (ḥurūf muqaṭṭaʿa) am Beginn einiger Suren sind nicht als Wörter zu lesen. يس wird als Buchstabenfolge yāʾ-sīn gelesen, nicht als Wort. Hier greift kein morphologischer oder syntaktischer Filter — die Lesung ist konventionell."
+                "analysis": "Rasm: ٮس. Dieser Fall ist besonders: Die isolierten Buchstaben (ḥurūf muqaṭṭaʿa) am Beginn einiger Suren sind nicht als Wörter zu lesen. يس wird als Buchstabenfolge yāʾ-sīn gelesen, nicht als Wort. Hier greift kein morphologischer oder syntaktischer Filter — die Lesung ist konventionell.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=36&verse=1"
               },
               {
                 "location": "3:7",
                 "word": "يَعْلَمُ",
-                "analysis": "Rasm: ٮعلم. Der erste Buchstabe könnte ي/ت/ن/ب/ث sein. Syntaktisch: Das Subjekt ist implizit 3. Person Singular maskulin (bezogen auf الله im vorherigen Kontext) — das erzwingt يـ. Morphologisch: يَعْلَمُ (yaʿlamu) ist die Imperfektform von عَلِمَ (wissen). Die Punktierung von ع (vs. غ) wird durch die Wurzel ع-ل-م bestimmt — غلم ergibt keine bekannte Wurzel."
+                "analysis": "Rasm: ٮعلم. Der erste Buchstabe könnte ي/ت/ن/ب/ث sein. Syntaktisch: Das Subjekt ist implizit 3. Person Singular maskulin (bezogen auf الله im vorherigen Kontext) — das erzwingt يـ. Morphologisch: يَعْلَمُ (yaʿlamu) ist die Imperfektform von عَلِمَ (wissen). Die Punktierung von ع (vs. غ) wird durch die Wurzel ع-ل-م bestimmt — غلم ergibt keine bekannte Wurzel.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=7"
               }
             ]
           },
@@ -413,7 +608,9 @@
               "Etymologie, Phonetik, Syntax, Stilistik",
               "Orthographie, Morphologie, Semantik, Rhetorik"
             ],
-            "answer": ["Morphologie, Syntax, Semantik, Frequenz"],
+            "answer": [
+              "Morphologie, Syntax, Semantik, Frequenz"
+            ],
             "explanation": "Die vier Ebenen der kontextuellen Disambiguation sind: morphologische Constraints (Wortmuster), syntaktische Constraints (Grammatik), semantische Constraints (Bedeutungskontext) und Frequenz (Gebrauchshaeufigkeit)."
           },
           {
@@ -425,7 +622,9 @@
               "Weil der Kontext beliebig ist",
               "Weil alle 25 Kombinationen existierende Wörter sind"
             ],
-            "answer": ["Weil es das einzige Wort ist, das morphologisch auf dem Muster فِعَال mit Wurzel ك + zwei mehrdeutigen Radikalen existiert"],
+            "answer": [
+              "Weil es das einzige Wort ist, das morphologisch auf dem Muster فِعَال mit Wurzel ك + zwei mehrdeutigen Radikalen existiert"
+            ],
             "explanation": "Von 25 theoretischen Punktkombinationen ergibt nur كِتَاب (Wurzel ك-ت-ب) ein existierendes Wort auf dem Muster فِعَال."
           },
           {
@@ -437,7 +636,9 @@
               "نـ (nūn)",
               "بـ (bāʾ)"
             ],
-            "answer": ["يـ (yāʾ)"],
+            "answer": [
+              "يـ (yāʾ)"
+            ],
             "explanation": "3. Person Plural maskulin verlangt im Imperfekt das Präfix يـ. تـ wäre 2. Person oder 3. Person feminin, نـ wäre 1. Person Plural."
           },
           {
@@ -449,7 +650,9 @@
               "Das Wort muss einen bestimmten Vokal haben",
               "Das Wort muss in einem Wörterbuch verzeichnet sein"
             ],
-            "answer": ["Die Konsonanten müssen eine existierende Wurzel bilden und das Wort muss einem gueltigen Wortmuster (wazn) folgen"],
+            "answer": [
+              "Die Konsonanten müssen eine existierende Wurzel bilden und das Wort muss einem gueltigen Wortmuster (wazn) folgen"
+            ],
             "explanation": "Morphologische Constraints bedeuten: Nicht jede Konsonantenkombination ergibt eine existierende Wurzel, und nicht jede Wurzel kommt in jedem Muster vor."
           },
           {
@@ -461,7 +664,9 @@
               "تسم — keine existierende Form",
               "يسم — Verb 'er markiert', syntaktisch möglich"
             ],
-            "answer": ["بِسْمِ — Präposition bi + ism (Name), syntaktisch passend vor Eigennamen"],
+            "answer": [
+              "بِسْمِ — Präposition bi + ism (Name), syntaktisch passend vor Eigennamen"
+            ],
             "explanation": "بِسْمِ (bi-smi) ist die Präposition بِ + das Nomen اسْم im Genitiv. Die Position vor einem Eigennamen und die fehlende Verbstruktur schließen die anderen Lesungen aus."
           },
           {
@@ -473,7 +678,9 @@
               "Weil sie nur in medialer Form vorkommen",
               "Weil sie keine Punkte haben"
             ],
-            "answer": ["Weil sie nicht als Wörter gelesen werden und daher keine morphologischen oder syntaktischen Filter greifen"],
+            "answer": [
+              "Weil sie nicht als Wörter gelesen werden und daher keine morphologischen oder syntaktischen Filter greifen"
+            ],
             "explanation": "Die isolierten Buchstaben werden als Einzelbuchstaben gelesen, nicht als Wörter. Morphologie und Syntax können hier nicht zur Disambiguation beitragen."
           },
           {
@@ -485,7 +692,9 @@
               "Der semantische Filter — nur eine Bedeutung passt",
               "Die Frequenz — das häufigste Wort wird gewählt"
             ],
-            "answer": ["Der morphologische Filter — nur wenige Kombinationen ergeben existierende Wurzeln"],
+            "answer": [
+              "Der morphologische Filter — nur wenige Kombinationen ergeben existierende Wurzeln"
+            ],
             "explanation": "Der morphologische Filter ist der stärkste: Er eliminiert alle Konsonantenkombinationen, die keine existierende Wurzel bilden. Von 5 theoretischen Lesungen (حسب، حست، حسث، حسن، حسي) existieren nur حَسْب (genügend) und حُسْن (Schönheit, wobei hier ٮ = ن)."
           }
         ]

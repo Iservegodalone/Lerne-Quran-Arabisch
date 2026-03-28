@@ -5,10 +5,22 @@
     "description": "Acht fortgeschrittene Stufen: von semantischen Feldern bis zum direkten Verstehen ohne innere Übersetzung.",
     "prerequisite": "Stufen 1–4 (Alphabet, Morphologie, Syntax, Vokabular) abgeschlossen",
     "sources": [
-      { "name": "Wright's Grammar Vol I", "url": "https://archive.org/details/grammarofthearab01telerich" },
-      { "name": "Wright's Grammar Vol II", "url": "https://archive.org/details/grammarofthearab02telerich" },
-      { "name": "Quranic Arabic Corpus", "url": "https://corpus.quran.com/" },
-      { "name": "Lane's Lexicon", "url": "https://ejtaal.net/aa/" }
+      {
+        "name": "Wright's Grammar Vol I",
+        "url": "https://archive.org/details/WrightsArabicGrammar1Of2"
+      },
+      {
+        "name": "Wright's Grammar Vol II",
+        "url": "https://archive.org/details/grammarofthearab02telerich"
+      },
+      {
+        "name": "Quranic Arabic Corpus",
+        "url": "https://corpus.quran.com/"
+      },
+      {
+        "name": "Lane's Lexicon",
+        "url": "https://ejtaal.net/aa/"
+      }
     ]
   },
   "stages": [
@@ -38,8 +50,16 @@
                 "lanesSummary": "كُفْر von der Wurzel ك-ف-ر: bedecken, verbergen. Die Grundbedeutung ist das Bedecken oder Verbergen — vgl. كَافِر im vorislamischen Arabisch auch für den Bauern (der den Samen mit Erde bedeckt).",
                 "quranOccurrences": "Über 500 Vorkommen in verschiedenen Formen",
                 "keyVerses": [
-                  {"ref": "57:20", "note": "كَمَثَلِ غَيْثٍ أَعْجَبَ الْكُفَّارَ نَبَاتُهُ — Hier sind كُفَّار die Bauern, die den Samen bedecken"},
-                  {"ref": "2:6-7", "note": "إِنَّ الَّذِينَ كَفَرُوا — Die, die verdeckten/leugneten"}
+                  {
+                    "ref": "57:20",
+                    "note": "كَمَثَلِ غَيْثٍ أَعْجَبَ الْكُفَّارَ نَبَاتُهُ — Hier sind كُفَّار die Bauern, die den Samen bedecken",
+                    "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=57&verse=20"
+                  },
+                  {
+                    "ref": "2:6-7",
+                    "note": "إِنَّ الَّذِينَ كَفَرُوا — Die, die verdeckten/leugneten",
+                    "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=6"
+                  }
                 ]
               },
               {
@@ -48,8 +68,16 @@
                 "lanesSummary": "Grundbedeutung: unversehrt sein, heil sein, frei von Makel. Sich übergeben, sich hingeben. سَلَام = Frieden/Unversehrtheit. إِسْلَام = die Übergabe. مُسْلِم = einer, der sich übergibt. Lane verzeichnet das Bedeutungsfeld: Unversehrtheit, Friede, Hingabe, Übergabe.",
                 "quranOccurrences": "Über 140 Vorkommen",
                 "keyVerses": [
-                  {"ref": "2:112", "note": "بَلَىٰ مَنْ أَسْلَمَ وَجْهَهُ لِلَّهِ — Wer sein Gesicht Gott übergibt"},
-                  {"ref": "6:54", "note": "سَلَامٌ عَلَيْكُمْ — Unversehrtheit/Frieden über euch"}
+                  {
+                    "ref": "2:112",
+                    "note": "بَلَىٰ مَنْ أَسْلَمَ وَجْهَهُ لِلَّهِ — Wer sein Gesicht Gott übergibt",
+                    "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=112"
+                  },
+                  {
+                    "ref": "6:54",
+                    "note": "سَلَامٌ عَلَيْكُمْ — Unversehrtheit/Frieden über euch",
+                    "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=6&verse=54"
+                  }
                 ]
               },
               {
@@ -58,8 +86,16 @@
                 "lanesSummary": "Grundbedeutung: loslassen, freilassen, freigeben. طَلَاق (Scheidung) ist wörtlich: das Freilassen. Die Wurzel trägt die Bedeutung des Loslassens in Freiheit, nicht der Trennung oder des Bruchs.",
                 "quranOccurrences": "Ca. 20 Vorkommen, hauptsächlich in Sure 2 und 65",
                 "keyVerses": [
-                  {"ref": "2:229", "note": "الطَّلَاقُ مَرَّتَانِ — Das Freilassen/Loslassen ist zweimal"},
-                  {"ref": "65:1", "note": "إِذَا طَلَّقْتُمُ النِّسَاءَ — Wenn ihr die Frauen freigebt"}
+                  {
+                    "ref": "2:229",
+                    "note": "الطَّلَاقُ مَرَّتَانِ — Das Freilassen/Loslassen ist zweimal",
+                    "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=229"
+                  },
+                  {
+                    "ref": "65:1",
+                    "note": "إِذَا طَلَّقْتُمُ النِّسَاءَ — Wenn ihr die Frauen freigebt",
+                    "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=65&verse=1"
+                  }
                 ]
               }
             ]
@@ -215,11 +251,36 @@
                 "transliteration": "h-d-y",
                 "analysis": "Über 300 Vorkommen. Der Quran zeigt: هُدًى ist nicht nur 'Wegweisung', sondern: 1) Eine Eigenschaft des Qurans selbst (2:2: ذَٰلِكَ الْكِتَابُ لَا رَيْبَ فِيهِ هُدًى لِلْمُتَّقِينَ). 2) Eine Handlung Gottes (6:71: قُلْ إِنَّ هُدَى اللَّهِ هُوَ الْهُدَىٰ). 3) Etwas, das der Mensch annehmen oder ablehnen kann (2:38: فَمَن تَبِعَ هُدَايَ). 4) Im physischen Sinn: ein Opfertier zur Kaaba führen (هَدْي — 5:95).",
                 "keyVerses": [
-                  {"ref": "2:2", "text": "هُدًى لِلْمُتَّقِينَ", "note": "Führung für die sich Hütenden — هُدًى als Eigenschaft des Buches"},
-                  {"ref": "6:71", "text": "قُلْ إِنَّ هُدَى اللَّهِ هُوَ الْهُدَىٰ", "note": "Gottes Führung IST die Führung — absolute Definition"},
-                  {"ref": "2:38", "text": "فَمَن تَبِعَ هُدَايَ فَلَا خَوْفٌ عَلَيْهِمْ", "note": "Wer meiner Führung folgt — هُدًى als etwas, dem man folgen kann"},
-                  {"ref": "20:123", "text": "فَإِمَّا يَأْتِيَنَّكُم مِّنِّي هُدًى", "note": "Wenn von mir Führung zu euch kommt — هُدًى als etwas, das 'von mir' (مِنِّي) kommt"},
-                  {"ref": "5:95", "text": "هَدْيًا بَالِغَ الْكَعْبَةِ", "note": "Ein Opfertier, das die Kaaba erreicht — physisches 'Hinführen'"}
+                  {
+                    "ref": "2:2",
+                    "text": "هُدًى لِلْمُتَّقِينَ",
+                    "note": "Führung für die sich Hütenden — هُدًى als Eigenschaft des Buches",
+                    "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=2"
+                  },
+                  {
+                    "ref": "6:71",
+                    "text": "قُلْ إِنَّ هُدَى اللَّهِ هُوَ الْهُدَىٰ",
+                    "note": "Gottes Führung IST die Führung — absolute Definition",
+                    "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=6&verse=71"
+                  },
+                  {
+                    "ref": "2:38",
+                    "text": "فَمَن تَبِعَ هُدَايَ فَلَا خَوْفٌ عَلَيْهِمْ",
+                    "note": "Wer meiner Führung folgt — هُدًى als etwas, dem man folgen kann",
+                    "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=38"
+                  },
+                  {
+                    "ref": "20:123",
+                    "text": "فَإِمَّا يَأْتِيَنَّكُم مِّنِّي هُدًى",
+                    "note": "Wenn von mir Führung zu euch kommt — هُدًى als etwas, das 'von mir' (مِنِّي) kommt",
+                    "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=20&verse=123"
+                  },
+                  {
+                    "ref": "5:95",
+                    "text": "هَدْيًا بَالِغَ الْكَعْبَةِ",
+                    "note": "Ein Opfertier, das die Kaaba erreicht — physisches 'Hinführen'",
+                    "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=5&verse=95"
+                  }
                 ]
               }
             ]
@@ -233,10 +294,26 @@
                 "transliteration": "q-l-b",
                 "analysis": "Grundbedeutung der Wurzel: umdrehen, wenden, umkehren. Das Herz (قَلْب) heißt so, weil es sich wendet — es ist das Organ des ständigen Wandels. Der Quran unterscheidet: 1) Herzen, die verstehen (7:179: لَهُمْ قُلُوبٌ لَّا يَفْقَهُونَ بِهَا). 2) Herzen, die versiegelt sind (2:7: خَتَمَ اللَّهُ عَلَىٰ قُلُوبِهِمْ). 3) Herzen, die krank sind (2:10: فِي قُلُوبِهِم مَّرَضٌ). 4) Herzen, die Ruhe finden (13:28: أَلَا بِذِكْرِ اللَّهِ تَطْمَئِنُّ الْقُلُوبُ). Intertextuell ergibt sich: قَلْب ist im Quran das Organ des Verstehens, nicht nur des Fühlens.",
                 "keyVerses": [
-                  {"ref": "7:179", "note": "Herzen, mit denen sie nicht verstehen — Herz als Verstandesorgan"},
-                  {"ref": "2:7", "note": "Gott hat ihre Herzen versiegelt — Unfähigkeit zu verstehen"},
-                  {"ref": "13:28", "note": "Durch Gottes Gedenken finden die Herzen Ruhe"},
-                  {"ref": "22:46", "note": "Herzen in der Brust, mit denen sie begreifen"}
+                  {
+                    "ref": "7:179",
+                    "note": "Herzen, mit denen sie nicht verstehen — Herz als Verstandesorgan",
+                    "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=7&verse=179"
+                  },
+                  {
+                    "ref": "2:7",
+                    "note": "Gott hat ihre Herzen versiegelt — Unfähigkeit zu verstehen",
+                    "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=7"
+                  },
+                  {
+                    "ref": "13:28",
+                    "note": "Durch Gottes Gedenken finden die Herzen Ruhe",
+                    "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=13&verse=28"
+                  },
+                  {
+                    "ref": "22:46",
+                    "note": "Herzen in der Brust, mit denen sie begreifen",
+                    "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=22&verse=46"
+                  }
                 ]
               }
             ]
@@ -382,7 +459,8 @@
                 "transliteration": "iyyāka naʿbudu wa-iyyāka nastaʿīn",
                 "ref": "1:5",
                 "meaning": "Dich dienen wir, und Dich bitten wir um Hilfe.",
-                "analysis": "إِيَّاكَ (das Objekt 'Dich') steht VOR dem Verb نَعْبُدُ ('wir dienen'). Normal wäre: نَعْبُدُكَ. Die Voranstellung (Taqdīm) fokussiert das Objekt."
+                "analysis": "إِيَّاكَ (das Objekt 'Dich') steht VOR dem Verb نَعْبُدُ ('wir dienen'). Normal wäre: نَعْبُدُكَ. Die Voranstellung (Taqdīm) fokussiert das Objekt.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=5"
               }
             ]
           },
@@ -402,7 +480,8 @@
                 "transliteration": "wa-Allāhu ʿalīmun ḥakīm",
                 "ref": "4:26",
                 "meaning": "Und Gott ist allwissend, allweise",
-                "analysis": "Reiner Nominalsatz: Der Satz beschreibt einen Zustand ohne Zeitmarkierung (tempusneutral)."
+                "analysis": "Reiner Nominalsatz: Der Satz beschreibt einen Zustand ohne Zeitmarkierung (tempusneutral).",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=26"
               }
             ]
           },
@@ -416,14 +495,16 @@
                 "transliteration": "khutima ʿalā qulūbihim",
                 "ref": "2:7",
                 "meaning": "Es wurde versiegelt über ihren Herzen",
-                "analysis": "Wer versiegelt? Das Passiv lässt den Akteur offen — der Fokus liegt auf dem Ergebnis: Die Herzen sind versiegelt. Wer der Akteur ist, muss aus dem Kontext erschlossen werden."
+                "analysis": "Wer versiegelt? Das Passiv lässt den Akteur offen — der Fokus liegt auf dem Ergebnis: Die Herzen sind versiegelt. Wer der Akteur ist, muss aus dem Kontext erschlossen werden.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=7"
               },
               {
                 "arabic": "وَقِيلَ يَا أَرْضُ ابْلَعِي مَاءَكِ",
                 "transliteration": "wa-qīla yā arḍu iblaʿī māʾaki",
                 "ref": "11:44",
                 "meaning": "Und es wurde gesagt: O Erde, verschlinge dein Wasser!",
-                "analysis": "قِيلَ (es wurde gesagt) — das Passiv erzeugt Erhabenheit: Der Befehl kommt von einer Macht, die so groß ist, dass sie nicht benannt werden muss."
+                "analysis": "قِيلَ (es wurde gesagt) — das Passiv erzeugt Erhabenheit: Der Befehl kommt von einer Macht, die so groß ist, dass sie nicht benannt werden muss.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=11&verse=44"
               }
             ]
           },
@@ -437,14 +518,16 @@
                 "transliteration": "wa-l-fajr · wa-layālin ʿashr",
                 "ref": "89:1–2",
                 "meaning": "Beim Morgengrauen! Und bei zehn Nächten!",
-                "analysis": "Was wird geschworen? Die Antwort auf den Schwur (جَوَاب القَسَم) wird ausgelassen. Der Zuhörer muss selbst herausfinden, worauf der Schwur abzielt — das erzeugt Spannung und tiefes Nachdenken."
+                "analysis": "Was wird geschworen? Die Antwort auf den Schwur (جَوَاب القَسَم) wird ausgelassen. Der Zuhörer muss selbst herausfinden, worauf der Schwur abzielt — das erzeugt Spannung und tiefes Nachdenken.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=89&verse=1"
               },
               {
                 "arabic": "فَأَمَّا الَّذِينَ اسْوَدَّتْ وُجُوهُهُمْ أَكَفَرْتُم",
                 "transliteration": "fa-ammā lladhīna swaddat wujūhuhum a-kafartum",
                 "ref": "3:106",
                 "meaning": "Was diejenigen angeht, deren Gesichter schwarz wurden: 'Habt ihr geleugnet?'",
-                "analysis": "Zwischen der Nennung der Gruppe und der Frage fehlt: 'so wird zu ihnen gesagt'. Diese Auslassung beschleunigt den Rhythmus — als wäre die Frage so dringend, dass sie ohne Einleitung gestellt wird."
+                "analysis": "Zwischen der Nennung der Gruppe und der Frage fehlt: 'so wird zu ihnen gesagt'. Diese Auslassung beschleunigt den Rhythmus — als wäre die Frage so dringend, dass sie ohne Einleitung gestellt wird.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=106"
               }
             ]
           },
@@ -458,7 +541,8 @@
                 "transliteration": "al-ḥamdu li-llāhi rabbi l-ʿālamīn … iyyāka naʿbudu",
                 "ref": "1:2–5",
                 "meaning": "Lob sei Gott (3. Person) … Dir dienen wir (2. Person)",
-                "analysis": "In den Versen 2–4 wird ÜBER Gott gesprochen (3. Person: Er ist der Herr der Welten). In Vers 5 wechselt es plötzlich ZU Gott (2. Person: Dir dienen wir). Der Iltifāt markiert den Übergang vom Loben zum direkten Gegenüberstehen — vom Reden über Gott zum Reden mit Gott."
+                "analysis": "In den Versen 2–4 wird ÜBER Gott gesprochen (3. Person: Er ist der Herr der Welten). In Vers 5 wechselt es plötzlich ZU Gott (2. Person: Dir dienen wir). Der Iltifāt markiert den Übergang vom Loben zum direkten Gegenüberstehen — vom Reden über Gott zum Reden mit Gott.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=2"
               }
             ]
           },
@@ -472,14 +556,16 @@
                 "transliteration": "a-lam nashraḥ laka ṣadraka",
                 "ref": "94:1",
                 "meaning": "Haben Wir dir nicht deine Brust geweitet?",
-                "analysis": "Die Frage erwartet die Antwort 'doch, natürlich'. Sie ist wirksamer als die Aussage 'Wir haben deine Brust geweitet', weil sie den Angesprochenen dazu bringt, selbst zu bestätigen."
+                "analysis": "Die Frage erwartet die Antwort 'doch, natürlich'. Sie ist wirksamer als die Aussage 'Wir haben deine Brust geweitet', weil sie den Angesprochenen dazu bringt, selbst zu bestätigen.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=94&verse=1"
               },
               {
                 "arabic": "هَلْ جَزَاءُ الْإِحْسَانِ إِلَّا الْإِحْسَانُ",
                 "transliteration": "hal jazāʾu l-iḥsāni illā l-iḥsān",
                 "ref": "55:60",
                 "meaning": "Ist der Lohn der Güte etwas anderes als Güte?",
-                "analysis": "Die rhetorische Frage drückt eine universelle Wahrheit aus: Natürlich nicht. Sie ist stärker als die Aussage, weil sie den Zuhörer zum Zustimmen bewegt."
+                "analysis": "Die rhetorische Frage drückt eine universelle Wahrheit aus: Natürlich nicht. Sie ist stärker als die Aussage, weil sie den Zuhörer zum Zustimmen bewegt.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=55&verse=60"
               }
             ]
           },
@@ -493,7 +579,8 @@
                 "transliteration": "mathaluhum ka-mathali lladhī stawqada nāran fa-lammā aḍāʾat mā ḥawlahū dhahaba Allāhu bi-nūrihim",
                 "ref": "2:17",
                 "meaning": "Ihr Gleichnis ist wie das desjenigen, der ein Feuer entzündete — und als es ringsum erleuchtete, nahm Gott ihr Licht weg.",
-                "analysis": "Das Feuer erleuchtet kurz die Umgebung, dann wird das Licht genommen. Beachte die Unterscheidung: das Feuer (نَار) bleibt, aber das Licht (نُور) geht. Der Text unterscheidet zwischen der Lichtquelle und dem Licht selbst."
+                "analysis": "Das Feuer erleuchtet kurz die Umgebung, dann wird das Licht genommen. Beachte die Unterscheidung: das Feuer (نَار) bleibt, aber das Licht (نُور) geht. Der Text unterscheidet zwischen der Lichtquelle und dem Licht selbst.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=17"
               }
             ]
           },
@@ -509,7 +596,8 @@
               {
                 "arabic": "يُخْرِجُ الْحَيَّ مِنَ الْمَيِّتِ وَيُخْرِجُ الْمَيِّتَ مِنَ الْحَيِّ",
                 "ref": "30:19",
-                "analysis": "Chiasmus innerhalb eines Verses: Er bringt das Lebendige aus dem Toten hervor (A-B) und bringt das Tote aus dem Lebendigen hervor (B'-A'). Die Struktur ist Lebendig–Tot–Tot–Lebendig. Die Begriffe spiegeln sich um die Versmitte — ein Chiasmus auf Wortebene. Dieses Muster zeigt, dass Ringkomposition nicht nur auf Suren-Ebene existiert, sondern bis in einzelne Verse hineinreicht."
+                "analysis": "Chiasmus innerhalb eines Verses: Er bringt das Lebendige aus dem Toten hervor (A-B) und bringt das Tote aus dem Lebendigen hervor (B'-A'). Die Struktur ist Lebendig–Tot–Tot–Lebendig. Die Begriffe spiegeln sich um die Versmitte — ein Chiasmus auf Wortebene. Dieses Muster zeigt, dass Ringkomposition nicht nur auf Suren-Ebene existiert, sondern bis in einzelne Verse hineinreicht.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=30&verse=19"
               }
             ]
           }
@@ -980,7 +1068,8 @@
               {
                 "arabic": "د-م-م (d-m-m)",
                 "meaning": "zusammenpressen, zusammendrücken, einebnen. دَمْدَمَ (91:14) = Er ebnete sie ein (zerstörte durch Zusammenpressen). Die Wiederholung des م verstärkt die Intensität.",
-                "ref": "91:14"
+                "ref": "91:14",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=91&verse=14"
               },
               {
                 "arabic": "د-ك-ك (d-k-k)",
@@ -1149,7 +1238,8 @@
                 "arabic": "الرَّحْمَٰنُ ∙ عَلَّمَ الْقُرْآنَ ∙ خَلَقَ الْإِنسَانَ ∙ عَلَّمَهُ الْبَيَانَ ∙ الشَّمْسُ وَالْقَمَرُ بِحُسْبَانٍ",
                 "transliteration": "ar-Raḥmān · ʿallama l-Qurʾān · khalaqa l-insān · ʿallamahu l-bayān · ash-shamsu wa-l-qamaru bi-ḥusbān",
                 "ref": "55:1–5",
-                "analysis": "Jeder Vers endet auf -ān: الرَّحْمَٰنُ, الْقُرْآنَ, الْإِنسَانَ, الْبَيَانَ, حُسْبَانٍ. Dieser durchgängige -ān-Reim erzeugt einen Rhythmus, der die gesamte Sure durchzieht. Die Sure hat 78 Verse — fast alle enden auf -ān. Dazwischen der Refrain: فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ (ebenfalls -ān). Der Reim verbindet alle Themen der Sure zu einer klanglichen Einheit."
+                "analysis": "Jeder Vers endet auf -ān: الرَّحْمَٰنُ, الْقُرْآنَ, الْإِنسَانَ, الْبَيَانَ, حُسْبَانٍ. Dieser durchgängige -ān-Reim erzeugt einen Rhythmus, der die gesamte Sure durchzieht. Die Sure hat 78 Verse — fast alle enden auf -ān. Dazwischen der Refrain: فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ (ebenfalls -ān). Der Reim verbindet alle Themen der Sure zu einer klanglichen Einheit.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=55&verse=1"
               }
             ]
           },
@@ -1161,7 +1251,8 @@
                 "arabic": "قُلْ هُوَ اللَّهُ أَحَدٌ ∙ اللَّهُ الصَّمَدُ ∙ لَمْ يَلِدْ وَلَمْ يُولَدْ ∙ وَلَمْ يَكُن لَّهُ كُفُوًا أَحَدٌ",
                 "transliteration": "qul huwa Allāhu aḥad · Allāhu ṣ-ṣamad · lam yalid wa-lam yūlad · wa-lam yakun lahū kufuwan aḥad",
                 "ref": "112:1–4",
-                "analysis": "Die Fāṣila ist -d (أَحَدٌ, الصَّمَدُ, يُولَدْ, أَحَدٌ). Der Laut د (d) ist ein harter, abschließender Konsonant — er 'schließt ab', wie ein Punkt. Jeder Vers ist eine definitive Aussage über Gottes Einheit. Der d-Laut unterstreicht diese Endgültigkeit. Beachte: Die Sure beginnt und endet mit أَحَدٌ — eine klangliche Ringkomposition."
+                "analysis": "Die Fāṣila ist -d (أَحَدٌ, الصَّمَدُ, يُولَدْ, أَحَدٌ). Der Laut د (d) ist ein harter, abschließender Konsonant — er 'schließt ab', wie ein Punkt. Jeder Vers ist eine definitive Aussage über Gottes Einheit. Der d-Laut unterstreicht diese Endgültigkeit. Beachte: Die Sure beginnt und endet mit أَحَدٌ — eine klangliche Ringkomposition.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=112&verse=1"
               }
             ]
           },
@@ -1326,7 +1417,8 @@
                 "arabic": "اللَّهُ لَا إِلَٰهَ إِلَّا هُوَ الْحَيُّ الْقَيُّومُ",
                 "transliteration": "Allāhu lā ilāha illā huwa l-ḥayyu l-qayyūm",
                 "ref": "2:255",
-                "analysis": "Sprechakt: Information/Feststellung. Der Vers STELLT FEST, dass Gott der Einzige ist. Er informiert, deklariert, setzt eine Realität."
+                "analysis": "Sprechakt: Information/Feststellung. Der Vers STELLT FEST, dass Gott der Einzige ist. Er informiert, deklariert, setzt eine Realität.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=255"
               }
             ]
           },
@@ -1339,7 +1431,8 @@
                 "arabic": "أَقِيمُوا الصَّلَاةَ وَآتُوا الزَّكَاةَ",
                 "transliteration": "aqīmū ṣ-ṣalāta wa-ātū z-zakāta",
                 "ref": "2:43",
-                "analysis": "Sprechakt: Befehl/Aufforderung. Der Vers FORDERT eine Handlung: Richtet die Zuwendung (صَلَاة — wörtl. Zuwendung/Hinwendung, konventionell 'Gebet') ein und gebt die Abgabe. Der Imperativ (أَقِيمُوا, آتُوا) zeigt den Befehlscharakter."
+                "analysis": "Sprechakt: Befehl/Aufforderung. Der Vers FORDERT eine Handlung: Richtet die Zuwendung (صَلَاة — wörtl. Zuwendung/Hinwendung, konventionell 'Gebet') ein und gebt die Abgabe. Der Imperativ (أَقِيمُوا, آتُوا) zeigt den Befehlscharakter.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=43"
               }
             ]
           },
@@ -1352,7 +1445,8 @@
                 "arabic": "أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَابِ الْفِيلِ",
                 "transliteration": "a-lam tara kayfa faʿala rabbuka bi-aṣḥābi l-fīl",
                 "ref": "105:1",
-                "analysis": "Sprechakt: Rhetorische Frage. Der Vers FRAGT, aber erwartet keine Antwort — er lenkt Aufmerksamkeit und erzeugt Nachdenken. Die Frage TUT: Sie aktiviert die Erinnerung des Zuhörers."
+                "analysis": "Sprechakt: Rhetorische Frage. Der Vers FRAGT, aber erwartet keine Antwort — er lenkt Aufmerksamkeit und erzeugt Nachdenken. Die Frage TUT: Sie aktiviert die Erinnerung des Zuhörers.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=105&verse=1"
               }
             ]
           },
@@ -1365,7 +1459,8 @@
                 "arabic": "يَا أَيُّهَا النَّاسُ اتَّقُوا رَبَّكُمْ إِنَّ زَلْزَلَةَ السَّاعَةِ شَيْءٌ عَظِيمٌ",
                 "transliteration": "yā ayyuhā n-nāsu ttaqū rabbakum inna zalzalata s-sāʿati shayʾun ʿaẓīm",
                 "ref": "22:1",
-                "analysis": "Sprechakt: Warnung. Der Vers WARNT: Er beschreibt eine Gefahr (das Erdbeben der Stunde) und fordert Schutzverhalten (اتَّقُوا). Der Vers tut zweierlei gleichzeitig: warnen UND befehlen."
+                "analysis": "Sprechakt: Warnung. Der Vers WARNT: Er beschreibt eine Gefahr (das Erdbeben der Stunde) und fordert Schutzverhalten (اتَّقُوا). Der Vers tut zweierlei gleichzeitig: warnen UND befehlen.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=22&verse=1"
               }
             ]
           },
@@ -1378,7 +1473,8 @@
                 "arabic": "وَعَدَ اللَّهُ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ لَهُم مَّغْفِرَةٌ وَأَجْرٌ عَظِيمٌ",
                 "transliteration": "waʿada Allāhu lladhīna āmanū wa-ʿamilū ṣ-ṣāliḥāti lahum maghfiratun wa-ajrun ʿaẓīm",
                 "ref": "5:9",
-                "analysis": "Sprechakt: Versprechen. Der Vers VERSPRICHT: Vergebung und großer Lohn für die, die glauben und Gutes tun. Das Versprechen schafft Hoffnung und Motivation."
+                "analysis": "Sprechakt: Versprechen. Der Vers VERSPRICHT: Vergebung und großer Lohn für die, die glauben und Gutes tun. Das Versprechen schafft Hoffnung und Motivation.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=5&verse=9"
               }
             ]
           },
@@ -1391,7 +1487,8 @@
                 "arabic": "أَمْ خُلِقُوا مِنْ غَيْرِ شَيْءٍ أَمْ هُمُ الْخَالِقُونَ ∙ أَمْ خَلَقُوا السَّمَاوَاتِ وَالْأَرْضَ بَل لَّا يُوقِنُونَ",
                 "transliteration": "am khuliqū min ghayri shayʾin am humu l-khāliqūn · am khalaqū s-samāwāti wa-l-arḍa bal lā yūqinūn",
                 "ref": "52:35–36",
-                "analysis": "Sprechakt: Argumentation. Der Vers ARGUMENTIERT durch eine Kette rhetorischer Fragen: Wurden sie aus dem Nichts geschaffen? Oder sind sie selbst die Schöpfer? Jede Frage schließt eine Möglichkeit aus — bis nur eine übrig bleibt: Gott hat sie geschaffen."
+                "analysis": "Sprechakt: Argumentation. Der Vers ARGUMENTIERT durch eine Kette rhetorischer Fragen: Wurden sie aus dem Nichts geschaffen? Oder sind sie selbst die Schöpfer? Jede Frage schließt eine Möglichkeit aus — bis nur eine übrig bleibt: Gott hat sie geschaffen.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=52&verse=35"
               }
             ]
           },
@@ -1404,7 +1501,8 @@
                 "arabic": "وَإِذْ قَالَ رَبُّكَ لِلْمَلَائِكَةِ إِنِّي جَاعِلٌ فِي الْأَرْضِ خَلِيفَةً",
                 "transliteration": "wa-idh qāla rabbuka li-l-malāʾikati innī jāʿilun fī l-arḍi khalīfa",
                 "ref": "2:30",
-                "analysis": "Sprechakt: Erzählung. Der Vers ERZÄHLT ein Ereignis (Gottes Ankündigung an die Engel). Aber die Erzählung ist nicht bloßer Bericht — sie dient einem Zweck: den Zuhörer über die Bestimmung des Menschen zu belehren."
+                "analysis": "Sprechakt: Erzählung. Der Vers ERZÄHLT ein Ereignis (Gottes Ankündigung an die Engel). Aber die Erzählung ist nicht bloßer Bericht — sie dient einem Zweck: den Zuhörer über die Bestimmung des Menschen zu belehren.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=30"
               }
             ]
           },
@@ -1652,17 +1750,20 @@
               {
                 "ref": "1:1–4",
                 "arabic": "بسم الله الرحمن الرحيم الحمد لله رب العالمين الرحمن الرحيم مالك يوم الدين",
-                "explanation": "Die Eröffnung des Qurans. Wer direkt versteht, hört nicht vier getrennte Sätze, sondern eine Einheit: Benennung (بسم الله), Lobpreis (الحمد لله), Beschreibung (رب العالمين / الرحمن الرحيم), und Herrschaft (مالك يوم الدين). Die Wurzel ر-ح-م erscheint dreifach (الرحمن / الرحيم in 1:1, الرحيم in 1:3) — bei direktem Verstehen erfasst du diese dreifache Wiederholung unmittelbar, ohne das Wort im Kopf zu formulieren."
+                "explanation": "Die Eröffnung des Qurans. Wer direkt versteht, hört nicht vier getrennte Sätze, sondern eine Einheit: Benennung (بسم الله), Lobpreis (الحمد لله), Beschreibung (رب العالمين / الرحمن الرحيم), und Herrschaft (مالك يوم الدين). Die Wurzel ر-ح-م erscheint dreifach (الرحمن / الرحيم in 1:1, الرحيم in 1:3) — bei direktem Verstehen erfasst du diese dreifache Wiederholung unmittelbar, ohne das Wort im Kopf zu formulieren.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=1"
               },
               {
                 "ref": "2:255",
                 "arabic": "الله لا اله الا هو الحي القيوم لا تاخذه سنه ولا نوم",
-                "explanation": "Direktes Verstehen von 2:255: Du liest الحي القيوم und erfasst sofort das Konzept — der Lebende (الحيّ), der alles Bestehende trägt (القيوم). Die Nominalsätze sind tempusneutral — sie machen keine Zeitaussage, sondern beschreiben einen Zustand. Die doppelte Negation (لا تاخذه سنه ولا نوم) verstärkt die Verneinung durch Parallelismus. All das nimmst du beim direkten Verstehen gleichzeitig wahr: Semantik, Syntax, Klang, Sprechakt — ohne den Umweg über eine Übersetzung."
+                "explanation": "Direktes Verstehen von 2:255: Du liest الحي القيوم und erfasst sofort das Konzept — der Lebende (الحيّ), der alles Bestehende trägt (القيوم). Die Nominalsätze sind tempusneutral — sie machen keine Zeitaussage, sondern beschreiben einen Zustand. Die doppelte Negation (لا تاخذه سنه ولا نوم) verstärkt die Verneinung durch Parallelismus. All das nimmst du beim direkten Verstehen gleichzeitig wahr: Semantik, Syntax, Klang, Sprechakt — ohne den Umweg über eine Übersetzung.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=255"
               },
               {
                 "ref": "55:1–4",
                 "arabic": "الرحمن علم القران خلق الانسن علمه البين",
-                "explanation": "Der Beginn von Sure ar-Raḥmān. Vier kurze Sätze, jeder ein Verbalsatz mit Gott als Subjekt. Direktes Verstehen erfasst die Klimax: الرحمن (Wer?) → علم القران (Was tat Er zuerst? Lehrte den Quran!) → خلق الانسن (Dann erst: erschuf den Menschen) → علمه البين (Und lehrte ihn den Ausdruck). Die Reihenfolge ist auffällig: Das Lehren des Qurans kommt VOR der Erschaffung des Menschen. Das kann keine Übersetzung transportieren — man muss es direkt im Arabischen sehen."
+                "explanation": "Der Beginn von Sure ar-Raḥmān. Vier kurze Sätze, jeder ein Verbalsatz mit Gott als Subjekt. Direktes Verstehen erfasst die Klimax: الرحمن (Wer?) → علم القران (Was tat Er zuerst? Lehrte den Quran!) → خلق الانسن (Dann erst: erschuf den Menschen) → علمه البين (Und lehrte ihn den Ausdruck). Die Reihenfolge ist auffällig: Das Lehren des Qurans kommt VOR der Erschaffung des Menschen. Das kann keine Übersetzung transportieren — man muss es direkt im Arabischen sehen.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=55&verse=1"
               }
             ]
           },
@@ -1673,17 +1774,20 @@
               {
                 "ref": "12:4",
                 "arabic": "اذ قال يوسف لابيه يابت انى رايت احد عشر كوكبا والشمس والقمر رايتهم لى سجدين",
-                "explanation": "Yūsuf erzählt seinen Traum. Das Wort سجدين (sich niederwerfend) steht im Maskulin Plural — die Form für vernunftbegabte Wesen. Aber Sterne, Sonne und Mond sind keine Personen. Der Quran behandelt sie hier grammatisch als Personen, weil sie sich im Traum wie Personen verhalten. Diese Nuance — grammatisches Geschlecht als Bedeutungsträger — geht in jeder Übersetzung verloren. Direktes Verstehen erfasst sie sofort."
+                "explanation": "Yūsuf erzählt seinen Traum. Das Wort سجدين (sich niederwerfend) steht im Maskulin Plural — die Form für vernunftbegabte Wesen. Aber Sterne, Sonne und Mond sind keine Personen. Der Quran behandelt sie hier grammatisch als Personen, weil sie sich im Traum wie Personen verhalten. Diese Nuance — grammatisches Geschlecht als Bedeutungsträger — geht in jeder Übersetzung verloren. Direktes Verstehen erfasst sie sofort.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=12&verse=4"
               },
               {
                 "ref": "19:4",
                 "arabic": "قال رب انى وهن العظم منى واشتعل الراس شيبا",
-                "explanation": "Zakariyyās Bittgebet. Er sagt: اشتعل الراس شيبا — wörtlich: 'entflammt ist der Kopf an Grauheit'. Das Bild ist: Das weiße Haar breitet sich aus wie Feuer. Die Metapher verbindet Alter mit Feuer — beides unaufhaltsam, beides transformierend. Bei direktem Verstehen siehst du das Bild sofort, ohne den Umweg über 'mein Kopf ist grau geworden'. Du SIEHST die Flamme im weißen Haar."
+                "explanation": "Zakariyyās Bittgebet. Er sagt: اشتعل الراس شيبا — wörtlich: 'entflammt ist der Kopf an Grauheit'. Das Bild ist: Das weiße Haar breitet sich aus wie Feuer. Die Metapher verbindet Alter mit Feuer — beides unaufhaltsam, beides transformierend. Bei direktem Verstehen siehst du das Bild sofort, ohne den Umweg über 'mein Kopf ist grau geworden'. Du SIEHST die Flamme im weißen Haar.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=19&verse=4"
               },
               {
                 "ref": "101:5",
                 "arabic": "وتكون الجبال كالعهن المنفوش",
-                "explanation": "Die Berge werden wie gezupfte Wolle. Das Wort المنفوش (gezupft, aufgelockert) enthält lautlich seine eigene Bedeutung — das ف und ش erzeugen ein Geräusch des Auseinanderfallens (Phonosemantik, Stufe 9). Wer direkt versteht, hört das Zerfasern im Klang, sieht das Bild der aufgelösten Wolle und erfasst die kosmische Dimension — alles gleichzeitig, ohne innere Übersetzung."
+                "explanation": "Die Berge werden wie gezupfte Wolle. Das Wort المنفوش (gezupft, aufgelockert) enthält lautlich seine eigene Bedeutung — das ف und ش erzeugen ein Geräusch des Auseinanderfallens (Phonosemantik, Stufe 9). Wer direkt versteht, hört das Zerfasern im Klang, sieht das Bild der aufgelösten Wolle und erfasst die kosmische Dimension — alles gleichzeitig, ohne innere Übersetzung.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=101&verse=5"
               }
             ]
           },
@@ -1694,22 +1798,26 @@
               {
                 "ref": "36:82",
                 "arabic": "انما امره اذا اراد شيا ان يقول له كن فيكون",
-                "explanation": "Einer der mächtigsten Verse des Qurans. Direktes Verstehen erfasst hier alle Ebenen gleichzeitig: (1) Morphologie: كن ist Imperativ von كان — zwei Buchstaben, die das Sein befehlen. (2) Syntax: Die إنما-Konstruktion beschränkt — Sein Befehl ist NUR dies. (3) Rhetorik: Die Kürze von كن steht im Kontrast zur Unendlichkeit dessen, was entsteht (فيكون). (4) Phonosemantik: Der Klang كن ist abrupt, sofortig — wie die Schöpfung selbst. (5) Sprechakt: Der Vers DEMONSTRIERT Gottes Macht, indem er sie auf ihre einfachste Form reduziert."
+                "explanation": "Einer der mächtigsten Verse des Qurans. Direktes Verstehen erfasst hier alle Ebenen gleichzeitig: (1) Morphologie: كن ist Imperativ von كان — zwei Buchstaben, die das Sein befehlen. (2) Syntax: Die إنما-Konstruktion beschränkt — Sein Befehl ist NUR dies. (3) Rhetorik: Die Kürze von كن steht im Kontrast zur Unendlichkeit dessen, was entsteht (فيكون). (4) Phonosemantik: Der Klang كن ist abrupt, sofortig — wie die Schöpfung selbst. (5) Sprechakt: Der Vers DEMONSTRIERT Gottes Macht, indem er sie auf ihre einfachste Form reduziert.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=36&verse=82"
               },
               {
                 "ref": "2:286",
                 "arabic": "لا يكلف الله نفسا الا وسعها لها ما كسبت وعليها ما اكتسبت",
-                "explanation": "Das Ende von Sure 2. Direktes Verstehen bemerkt den Unterschied zwischen كسبت und اكتسبت: Beides kommt von der Wurzel ك-س-ب (erwerben), aber اكتسبت (Form VIII) drückt Anstrengung und Eigeninitiative aus. Für das Gute (لها ما كسبت) reicht einfaches Erwerben — für das Schlechte (وعليها ما اكتسبت) muss man sich aktiv bemühen. Diese Nuance — ein einziger zusätzlicher Buchstabe (ت der Form VIII) — verändert die Bedeutung des Satzes. Keine Übersetzung gibt das wieder."
+                "explanation": "Das Ende von Sure 2. Direktes Verstehen bemerkt den Unterschied zwischen كسبت und اكتسبت: Beides kommt von der Wurzel ك-س-ب (erwerben), aber اكتسبت (Form VIII) drückt Anstrengung und Eigeninitiative aus. Für das Gute (لها ما كسبت) reicht einfaches Erwerben — für das Schlechte (وعليها ما اكتسبت) muss man sich aktiv bemühen. Diese Nuance — ein einziger zusätzlicher Buchstabe (ت der Form VIII) — verändert die Bedeutung des Satzes. Keine Übersetzung gibt das wieder.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=286"
               },
               {
                 "ref": "93:1–5",
                 "arabic": "والضحى والليل اذا سجى ما ودعك ربك وما قلى ولللاخره خير لك من الاولى ولسوف يعطيك ربك فترضى",
-                "explanation": "Sure aḍ-Ḍuḥā. Direktes Verstehen erfasst die emotionale Architektur: (1) Der Schwur beim Morgenlicht und der stillen Nacht — Gegensätze, die Geborgenheit erzeugen. (2) Die Verneinung ما ودعك (Er hat dich nicht verlassen) — der Trost kommt als Negation der Angst. (3) Die Steigerung: Nicht-Verlassen → das Spätere (الْآخِرَة — wörtl. das Spätere/Letzte, konventionell 'Jenseits') ist besser → Er wird dir geben, bis du zufrieden bist (فترضى). (4) Der Rhythmus: Kurze Verse, Reimendung auf ā — wie ein beruhigender Atem. All diese Ebenen gleichzeitig wahrzunehmen, ohne eine davon ins Deutsche übersetzen zu müssen — das ist direktes Verstehen."
+                "explanation": "Sure aḍ-Ḍuḥā. Direktes Verstehen erfasst die emotionale Architektur: (1) Der Schwur beim Morgenlicht und der stillen Nacht — Gegensätze, die Geborgenheit erzeugen. (2) Die Verneinung ما ودعك (Er hat dich nicht verlassen) — der Trost kommt als Negation der Angst. (3) Die Steigerung: Nicht-Verlassen → das Spätere (الْآخِرَة — wörtl. das Spätere/Letzte, konventionell 'Jenseits') ist besser → Er wird dir geben, bis du zufrieden bist (فترضى). (4) Der Rhythmus: Kurze Verse, Reimendung auf ā — wie ein beruhigender Atem. All diese Ebenen gleichzeitig wahrzunehmen, ohne eine davon ins Deutsche übersetzen zu müssen — das ist direktes Verstehen.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=93&verse=1"
               },
               {
                 "ref": "24:35",
                 "arabic": "الله نور السموت والارض مثل نوره كمشكوه فيها مصباح المصباح فى زجاجه الزجاجه كانها كوكب درى",
-                "explanation": "Der Lichtvers. Direktes Verstehen bedeutet hier: Du folgst dem Bild Schicht für Schicht — Nische (مشكوه), darin eine Lampe (مصباح), die Lampe in Glas (زجاجه), das Glas wie ein leuchtender Stern (كوكب درى) — und erlebst, wie jede Schicht die vorherige umhüllt und intensiviert. Die Wiederholung (المصباح... الزجاجه... الزجاجه) erzeugt einen Zoom-Effekt. Du siehst das Licht heller werden, ohne ein deutsches Wort zu denken. Das ist die höchste Stufe des Texterlebens."
+                "explanation": "Der Lichtvers. Direktes Verstehen bedeutet hier: Du folgst dem Bild Schicht für Schicht — Nische (مشكوه), darin eine Lampe (مصباح), die Lampe in Glas (زجاجه), das Glas wie ein leuchtender Stern (كوكب درى) — und erlebst, wie jede Schicht die vorherige umhüllt und intensiviert. Die Wiederholung (المصباح... الزجاجه... الزجاجه) erzeugt einen Zoom-Effekt. Du siehst das Licht heller werden, ohne ein deutsches Wort zu denken. Das ist die höchste Stufe des Texterlebens.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=24&verse=35"
               }
             ]
           }

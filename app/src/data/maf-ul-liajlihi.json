@@ -3,8 +3,14 @@
     "title": "Maf'ul li-Ajlihi — Kausaler Akkusativ (المفعول لأجله)",
     "description": "Das Zweck- oder Grundsobjekt benennt den Grund oder Zweck einer Handlung. Es ist ein Masdar im Akkusativ und beantwortet die Frage 'warum?' oder 'wozu?'. Im Quran erscheint er häufig bei Verben des Handelns und Gebens.",
     "sources": [
-      { "name": "Wright's Arabic Grammar Vol II", "url": "https://archive.org/details/grammarofthearab02telerich" },
-      { "name": "Quranic Arabic Corpus", "url": "https://corpus.quran.com/" }
+      {
+        "name": "Wright's Arabic Grammar Vol II",
+        "url": "https://archive.org/details/grammarofthearab02telerich"
+      },
+      {
+        "name": "Quranic Arabic Corpus",
+        "url": "https://corpus.quran.com/"
+      }
     ]
   },
   "lessons": [
@@ -31,22 +37,26 @@
               {
                 "ref": "2:207",
                 "arabic": "وَمِنَ النَّاسِ مَن يَشْرِي نَفْسَهُ ابْتِغَاءَ مَرْضَاتِ اللَّهِ",
-                "explanation": "ابْتِغَاءَ مَرْضَاتِ اللَّهِ = Maf'ul li-Ajlihi. ابْتِغَاءَ = Masdar Form VIII von ب-غ-ي (Suchen/Anstreben), Akkusativ. مَرْضَاتِ اللَّهِ = Genitiv-Idafa (das Wohlgefallen Gottes). 'Es gibt Menschen, die ihr Leben hingeben — aus dem Anstreben des Wohlgefallens Gottes.' Die Motivation (ابتغاء) ist der Maf'ul li-Ajlihi."
+                "explanation": "ابْتِغَاءَ مَرْضَاتِ اللَّهِ = Maf'ul li-Ajlihi. ابْتِغَاءَ = Masdar Form VIII von ب-غ-ي (Suchen/Anstreben), Akkusativ. مَرْضَاتِ اللَّهِ = Genitiv-Idafa (das Wohlgefallen Gottes). 'Es gibt Menschen, die ihr Leben hingeben — aus dem Anstreben des Wohlgefallens Gottes.' Die Motivation (ابتغاء) ist der Maf'ul li-Ajlihi.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=207"
               },
               {
                 "ref": "2:264",
                 "arabic": "كَالَّذِي يُنفِقُ مَالَهُ رِئَاءَ النَّاسِ",
-                "explanation": "رِئَاءَ النَّاسِ = Maf'ul li-Ajlihi. رِئَاءَ = Masdar von رَأَى / رَاءَى (Form III: zur Schau stellen), Akkusativ. النَّاسِ = Genitiv. 'Wie jemand, der sein Vermögen ausgibt — um von den Menschen gesehen zu werden.' Der Grund des Spendens ist Prahlerei."
+                "explanation": "رِئَاءَ النَّاسِ = Maf'ul li-Ajlihi. رِئَاءَ = Masdar von رَأَى / رَاءَى (Form III: zur Schau stellen), Akkusativ. النَّاسِ = Genitiv. 'Wie jemand, der sein Vermögen ausgibt — um von den Menschen gesehen zu werden.' Der Grund des Spendens ist Prahlerei.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=264"
               },
               {
                 "ref": "9:120",
                 "arabic": "ذَٰلِكَ بِأَنَّهُمْ لَا يُصِيبُهُمْ ظَمَأٌ وَلَا نَصَبٌ وَلَا مَخْمَصَةٌ فِي سَبِيلِ اللَّهِ",
-                "explanation": "فِي سَبِيلِ اللَّهِ = Jarr wa-Majrur als adverbiale Angabe ('auf dem Weg Gottes'). Kein Maf'ul li-Ajlihi — Vergleichsbeispiel. Wenn die Kausalangabe mit Präposition steht, ist es Jarr wa-Majrur."
+                "explanation": "فِي سَبِيلِ اللَّهِ = Jarr wa-Majrur als adverbiale Angabe ('auf dem Weg Gottes'). Kein Maf'ul li-Ajlihi — Vergleichsbeispiel. Wenn die Kausalangabe mit Präposition steht, ist es Jarr wa-Majrur.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=9&verse=120"
               },
               {
                 "ref": "4:160",
                 "arabic": "فَبِظُلْمٍ مِّنَ الَّذِينَ هَادُوا حَرَّمْنَا عَلَيْهِمْ طَيِّبَاتٍ",
-                "explanation": "فَبِظُلْمٍ = Präposition بِ + Genitiv (Kausalangabe). Kein Maf'ul li-Ajlihi — weil Präposition vorhanden. 'Wegen des Unrechts derer, die juedschen Glauben hatten, haben wir ihnen Gutes verboten.' Zeigt: mit Präposition ist es Jarr wa-Majrur."
+                "explanation": "فَبِظُلْمٍ = Präposition بِ + Genitiv (Kausalangabe). Kein Maf'ul li-Ajlihi — weil Präposition vorhanden. 'Wegen des Unrechts derer, die zum Judentum gehoerten, haben wir ihnen Gutes verboten.' Zeigt: mit Präposition ist es Jarr wa-Majrur.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=160"
               }
             ]
           }
@@ -98,17 +108,20 @@
               {
                 "ref": "4:114",
                 "arabic": "لَّا خَيْرَ فِي كَثِيرٍ مِّن نَّجْوَاهُمْ إِلَّا مَنْ أَمَرَ بِصَدَقَةٍ أَوْ مَعْرُوفٍ أَوْ إِصْلَاحٍ بَيْنَ النَّاسِ ۚ وَمَن يَفْعَلْ ذَٰلِكَ ابْتِغَاءَ مَرْضَاتِ اللَّهِ",
-                "explanation": "ابْتِغَاءَ مَرْضَاتِ اللَّهِ = Maf'ul li-Ajlihi. ابْتِغَاءَ (Masdar Form VIII von ب-غ-ي) steht im Akkusativ als Idafa-Erstglied. 'Wer dies tut — aus dem Anstreben des Wohlgefallens Gottes.' Derselbe Ausdruck wie in 2:207."
+                "explanation": "ابْتِغَاءَ مَرْضَاتِ اللَّهِ = Maf'ul li-Ajlihi. ابْتِغَاءَ (Masdar Form VIII von ب-غ-ي) steht im Akkusativ als Idafa-Erstglied. 'Wer dies tut — aus dem Anstreben des Wohlgefallens Gottes.' Derselbe Ausdruck wie in 2:207.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=114"
               },
               {
                 "ref": "2:265",
                 "arabic": "وَمَثَلُ الَّذِينَ يُنفِقُونَ أَمْوَالَهُمُ ابْتِغَاءَ مَرْضَاتِ اللَّهِ وَتَثْبِيتًا مِّنْ أَنفُسِهِمْ",
-                "explanation": "Zwei Maf'ul li-Ajlihi nebeneinander: (1) ابْتِغَاءَ مَرْضَاتِ اللَّهِ — 'aus dem Anstreben des Wohlgefallens Gottes' und (2) تَثْبِيتًا مِّنْ أَنفُسِهِمْ — 'und zur Festigung ihrer selbst'. Beide im Akkusativ, beide geben den Grund des Spendens an."
+                "explanation": "Zwei Maf'ul li-Ajlihi nebeneinander: (1) ابْتِغَاءَ مَرْضَاتِ اللَّهِ — 'aus dem Anstreben des Wohlgefallens Gottes' und (2) تَثْبِيتًا مِّنْ أَنفُسِهِمْ — 'und zur Festigung ihrer selbst'. Beide im Akkusativ, beide geben den Grund des Spendens an.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=265"
               },
               {
                 "ref": "2:177",
                 "arabic": "وَآتَى الْمَالَ عَلَىٰ حُبِّهِ",
-                "explanation": "عَلَىٰ حُبِّهِ = Präposition + Genitiv. Kein Maf'ul li-Ajlihi, sondern Jarr wa-Majrur. 'Er gab das Vermögen trotz seiner Liebe dazu.' Vergleichsbeispiel: Die Kausalangabe steht hier mit Präposition."
+                "explanation": "عَلَىٰ حُبِّهِ = Präposition + Genitiv. Kein Maf'ul li-Ajlihi, sondern Jarr wa-Majrur. 'Er gab das Vermögen trotz seiner Liebe dazu.' Vergleichsbeispiel: Die Kausalangabe steht hier mit Präposition.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=177"
               }
             ]
           }

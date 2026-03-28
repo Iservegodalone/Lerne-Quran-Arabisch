@@ -3,9 +3,18 @@
     "title": "Die Entwicklung des arabischen Schriftsystems",
     "description": "Vom reinen Konsonantenskelett zum voll vokalisierten Text — eine sprachwissenschaftliche Chronologie.",
     "sources": [
-      {"label": "Deroche, Qur'ans of the Umayyads", "url": "https://archive.org/search?query=deroche+qurans+umayyads"},
-      {"label": "Quranic Arabic Corpus", "url": "https://corpus.quran.com"},
-      {"label": "Tanzil.net — Quran Text Variants", "url": "https://tanzil.net"}
+      {
+        "label": "Deroche, Qur'ans of the Umayyads",
+        "url": "https://archive.org/search?query=deroche+qurans+umayyads"
+      },
+      {
+        "label": "Quranic Arabic Corpus",
+        "url": "https://corpus.quran.com"
+      },
+      {
+        "label": "Tanzil.net — Quran Text Variants",
+        "url": "https://tanzil.net"
+      }
     ]
   },
   "sections": [
@@ -49,13 +58,23 @@
     "exercises": [
       {
         "question": "Welche Buchstaben teilen im punktlosen Rasm dieselbe Grundform?",
-        "options": ["ب und ح", "ب und ت und ث und ن", "س und ص", "ق und ك"],
+        "options": [
+          "ب und ح",
+          "ب und ت und ث und ن",
+          "س und ص",
+          "ق und ك"
+        ],
         "correct": 1,
         "explanation": "ب, ت, ث und ن (sowie ى am Wortende) haben dieselbe Grundform im punktlosen Rasm. Erst die diakritischen Punkte unterscheiden sie."
       },
       {
         "question": "Welche Schicht des arabischen Schriftsystems wurde zuerst hinzugefuegt?",
-        "options": ["Tashkil (Vokalzeichen)", "I'jam (Konsonantenpunkte)", "Schadda (Verdopplungszeichen)", "Tanwin (Nunation)"],
+        "options": [
+          "Tashkil (Vokalzeichen)",
+          "I'jam (Konsonantenpunkte)",
+          "Schadda (Verdopplungszeichen)",
+          "Tanwin (Nunation)"
+        ],
         "correct": 1,
         "explanation": "Die diakritischen Punkte (I'jam) zur Unterscheidung der Konsonanten wurden vor dem vollständigen Vokalisierungssystem (Tashkil) systematisch eingeführt. Hinweis: Die relative Chronologie ist in der Forschung nicht eindeutig geklärt. Vereinzelte Konsonantenpunkte erscheinen bereits in vorqurannischen Texten, während fruehe Vokalisierungspunkte ebenfalls schon im 1. Jh. H. belegt sind."
       },
@@ -94,13 +113,23 @@
       },
       {
         "question": "Aus wie vielen Informationsschichten besteht ein voll vokalisierter arabischer Text?",
-        "options": ["Zwei: Buchstaben und Vokale", "Drei: Rasm, I'jam und Tashkil", "Vier: Rasm, I'jam, Tashkil und Hamza", "Eine einzige homogene Schicht"],
+        "options": [
+          "Zwei: Buchstaben und Vokale",
+          "Drei: Rasm, I'jam und Tashkil",
+          "Vier: Rasm, I'jam, Tashkil und Hamza",
+          "Eine einzige homogene Schicht"
+        ],
         "correct": 1,
         "explanation": "Drei Schichten: (1) Rasm — das Konsonantenskelett, (2) I'jam — die diakritischen Punkte zur Konsonantenunterscheidung, (3) Tashkil — die Vokalzeichen. Jede Schicht wurde historisch separat entwickelt und hinzugefuegt."
       },
       {
         "question": "Wie viele unterscheidbare Grundformen hat der punktlose Rasm ungefaehr?",
-        "options": ["28", "22", "15-18", "10"],
+        "options": [
+          "28",
+          "22",
+          "15-18",
+          "10"
+        ],
         "correct": 2,
         "explanation": "Die 28 Konsonantenphoneme des Arabischen werden im punktlosen Rasm auf nur ca. 15-18 unterscheidbare Grundformen abgebildet. Die Mehrdeutigkeit wird erst durch die diakritischen Punkte aufgelöst."
       }

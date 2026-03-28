@@ -3,7 +3,10 @@
     "title": "Leseprogression — Vom Buchstaben zum Vers",
     "description": "Stufenweiser Aufbau der Lesefaehigkeit: Silbe → Wort → Phrase → Vers. Alle Eintraege verwenden ausschließlich authentischen qur'anischen Text.",
     "sources": [
-      { "name": "Quranic Arabic Corpus", "url": "https://corpus.quran.com/" }
+      {
+        "name": "Quranic Arabic Corpus",
+        "url": "https://corpus.quran.com/"
+      }
     ]
   },
   "stages": [
@@ -17,80 +20,180 @@
           "transliteration": "bsm",
           "meaning": "Name (Konstruktstatus)",
           "ref": "1:1",
-          "parts": ["ب", "س", "م"],
-          "partLabels": ["Ba (verbindet rechts+links)", "Sin (verbindet rechts+links)", "Mim (verbindet rechts, endet)"],
+          "parts": [
+            "ب",
+            "س",
+            "م"
+          ],
+          "partLabels": [
+            "Ba (verbindet rechts+links)",
+            "Sin (verbindet rechts+links)",
+            "Mim (verbindet rechts, endet)"
+          ],
           "difficulty": 1,
-          "parsingNote": "Alle drei Buchstaben verbinden sich. Ba beginnt → Anfangsform. Sin in der Mitte → Mittelform. Mim am Ende → Endform."
+          "parsingNote": "Alle drei Buchstaben verbinden sich. Ba beginnt → Anfangsform. Sin in der Mitte → Mittelform. Mim am Ende → Endform.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=1"
         },
         {
           "arabic": "الله",
           "transliteration": "allah",
           "meaning": "Gott",
           "ref": "1:1",
-          "parts": ["ا", "ل", "ل", "ه"],
-          "partLabels": ["Alif (verbindet NICHT links)", "Lam (verbindet rechts+links)", "Lam (verbindet rechts+links)", "Ha (endet)"],
+          "parts": [
+            "ا",
+            "ل",
+            "ل",
+            "ه"
+          ],
+          "partLabels": [
+            "Alif (verbindet NICHT links)",
+            "Lam (verbindet rechts+links)",
+            "Lam (verbindet rechts+links)",
+            "Ha (endet)"
+          ],
           "difficulty": 1,
-          "parsingNote": "Alif verbindet sich nicht nach links → der nächste Buchstabe (Lam) beginnt eine neue Verbindungsgruppe. Alif bricht die Kette."
+          "parsingNote": "Alif verbindet sich nicht nach links → der nächste Buchstabe (Lam) beginnt eine neue Verbindungsgruppe. Alif bricht die Kette.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=1"
         },
         {
           "arabic": "رب",
           "transliteration": "rb",
           "meaning": "Herr",
           "ref": "1:2",
-          "parts": ["ر", "ب"],
-          "partLabels": ["Ra (verbindet NICHT links)", "Ba (Endform)"],
+          "parts": [
+            "ر",
+            "ب"
+          ],
+          "partLabels": [
+            "Ra (verbindet NICHT links)",
+            "Ba (Endform)"
+          ],
           "difficulty": 1,
-          "parsingNote": "Ra ist ein Nicht-Verbinder (wie و, ز, د, ذ) → es verbindet sich nicht mit dem folgenden Buchstaben. Ba steht daher in isolierter oder Anfangsform."
+          "parsingNote": "Ra ist ein Nicht-Verbinder (wie و, ز, د, ذ) → es verbindet sich nicht mit dem folgenden Buchstaben. Ba steht daher in isolierter oder Anfangsform.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=2"
         },
         {
           "arabic": "العالمين",
           "transliteration": "al-'aalamiin",
           "meaning": "die Welten",
           "ref": "1:2",
-          "parts": ["ا", "ل", "ع", "ا", "ل", "م", "ي", "ن"],
-          "partLabels": ["Alif (Nicht-Verbinder)", "Lam (Verbinder)", "'Ayn (Verbinder)", "Alif (Nicht-Verbinder → bricht Kette)", "Lam (Verbinder, neue Kette)", "Mim (Verbinder)", "Ya (Verbinder)", "Nun (endet)"],
+          "parts": [
+            "ا",
+            "ل",
+            "ع",
+            "ا",
+            "ل",
+            "م",
+            "ي",
+            "ن"
+          ],
+          "partLabels": [
+            "Alif (Nicht-Verbinder)",
+            "Lam (Verbinder)",
+            "'Ayn (Verbinder)",
+            "Alif (Nicht-Verbinder → bricht Kette)",
+            "Lam (Verbinder, neue Kette)",
+            "Mim (Verbinder)",
+            "Ya (Verbinder)",
+            "Nun (endet)"
+          ],
           "difficulty": 2,
-          "parsingNote": "Zwei Verbindungsbrueche: nach dem ersten Alif und nach dem zweiten Alif. Das Wort hat drei Verbindungsgruppen: ال + عا + لمين."
+          "parsingNote": "Zwei Verbindungsbrueche: nach dem ersten Alif und nach dem zweiten Alif. Das Wort hat drei Verbindungsgruppen: ال + عا + لمين.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=2"
         },
         {
           "arabic": "الرحمن",
           "transliteration": "ar-rahmaan",
           "meaning": "der intensiv-Barmherzige",
           "ref": "1:3",
-          "parts": ["ا", "ل", "ر", "ح", "م", "ن"],
-          "partLabels": ["Alif (Nicht-Verbinder)", "Lam (Verbinder)", "Ra (Nicht-Verbinder → bricht)", "Ha (neue Kette, Verbinder)", "Mim (Verbinder)", "Nun (endet)"],
+          "parts": [
+            "ا",
+            "ل",
+            "ر",
+            "ح",
+            "م",
+            "ن"
+          ],
+          "partLabels": [
+            "Alif (Nicht-Verbinder)",
+            "Lam (Verbinder)",
+            "Ra (Nicht-Verbinder → bricht)",
+            "Ha (neue Kette, Verbinder)",
+            "Mim (Verbinder)",
+            "Nun (endet)"
+          ],
           "difficulty": 2,
-          "parsingNote": "Drei Verbindungsgruppen: ال + ر + حمن. Ra bricht die Kette weil es ein Nicht-Verbinder ist."
+          "parsingNote": "Drei Verbindungsgruppen: ال + ر + حمن. Ra bricht die Kette weil es ein Nicht-Verbinder ist.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=3"
         },
         {
           "arabic": "الدين",
           "transliteration": "ad-diin",
           "meaning": "die Lebensweise / die Vergeltung",
           "ref": "1:4",
-          "parts": ["ا", "ل", "د", "ي", "ن"],
-          "partLabels": ["Alif (Nicht-Verbinder)", "Lam (Verbinder)", "Dal (Nicht-Verbinder → bricht)", "Ya (neue Kette)", "Nun (endet)"],
+          "parts": [
+            "ا",
+            "ل",
+            "د",
+            "ي",
+            "ن"
+          ],
+          "partLabels": [
+            "Alif (Nicht-Verbinder)",
+            "Lam (Verbinder)",
+            "Dal (Nicht-Verbinder → bricht)",
+            "Ya (neue Kette)",
+            "Nun (endet)"
+          ],
           "difficulty": 2,
-          "parsingNote": "Drei Gruppen: ال + د + ين. Dal bricht die Verbindung wie alle ا د ذ ر ز و Buchstaben."
+          "parsingNote": "Drei Gruppen: ال + د + ين. Dal bricht die Verbindung wie alle ا د ذ ر ز و Buchstaben.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=4"
         },
         {
           "arabic": "نستعين",
           "transliteration": "nasta'iin",
           "meaning": "wir erbitten Hilfe",
           "ref": "1:5",
-          "parts": ["ن", "س", "ت", "ع", "ي", "ن"],
-          "partLabels": ["Nun (Verbinder)", "Sin (Verbinder)", "Ta (Verbinder)", "'Ayn (Verbinder)", "Ya (Verbinder)", "Nun (endet)"],
+          "parts": [
+            "ن",
+            "س",
+            "ت",
+            "ع",
+            "ي",
+            "ن"
+          ],
+          "partLabels": [
+            "Nun (Verbinder)",
+            "Sin (Verbinder)",
+            "Ta (Verbinder)",
+            "'Ayn (Verbinder)",
+            "Ya (Verbinder)",
+            "Nun (endet)"
+          ],
           "difficulty": 1,
-          "parsingNote": "Alle sechs Buchstaben verbinden sich — eine einzige ununterbrochene Kette. Kein Nicht-Verbinder vorhanden."
+          "parsingNote": "Alle sechs Buchstaben verbinden sich — eine einzige ununterbrochene Kette. Kein Nicht-Verbinder vorhanden.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=5"
         },
         {
           "arabic": "صراط",
           "transliteration": "siraat",
           "meaning": "Weg",
           "ref": "1:6",
-          "parts": ["ص", "ر", "ا", "ط"],
-          "partLabels": ["Sad (Verbinder)", "Ra (Nicht-Verbinder → bricht)", "Alif (Nicht-Verbinder → bricht)", "Ta (isoliert/Endform)"],
+          "parts": [
+            "ص",
+            "ر",
+            "ا",
+            "ط"
+          ],
+          "partLabels": [
+            "Sad (Verbinder)",
+            "Ra (Nicht-Verbinder → bricht)",
+            "Alif (Nicht-Verbinder → bricht)",
+            "Ta (isoliert/Endform)"
+          ],
           "difficulty": 2,
-          "parsingNote": "Drei Brueche: nach Sad-Ra (Ra bricht), nach Ra (Alif bricht), Alif-Ta nicht verbunden. Vier separate Gruppen: صـ + ر + ا + ط."
+          "parsingNote": "Drei Brueche: nach Sad-Ra (Ra bricht), nach Ra (Alif bricht), Alif-Ta nicht verbunden. Vier separate Gruppen: صـ + ر + ا + ط.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=6"
         }
       ]
     },
@@ -107,7 +210,8 @@
           "syllables": [
             "رَبّ"
           ],
-          "difficulty": 1
+          "difficulty": 1,
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=2"
         },
         {
           "arabic": "قُلْ",
@@ -117,7 +221,8 @@
           "syllables": [
             "قُلْ"
           ],
-          "difficulty": 1
+          "difficulty": 1,
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=112&verse=1"
         },
         {
           "arabic": "مِنْ",
@@ -127,7 +232,8 @@
           "syllables": [
             "مِنْ"
           ],
-          "difficulty": 1
+          "difficulty": 1,
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=4"
         },
         {
           "arabic": "لَمْ",
@@ -137,7 +243,8 @@
           "syllables": [
             "لَمْ"
           ],
-          "difficulty": 1
+          "difficulty": 1,
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=112&verse=3"
         },
         {
           "arabic": "كُلّ",
@@ -147,7 +254,8 @@
           "syllables": [
             "كُلّ"
           ],
-          "difficulty": 1
+          "difficulty": 1,
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=21&verse=33"
         },
         {
           "arabic": "هُوَ",
@@ -158,7 +266,8 @@
             "هُ",
             "وَ"
           ],
-          "difficulty": 1
+          "difficulty": 1,
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=112&verse=1"
         },
         {
           "arabic": "مَا",
@@ -168,7 +277,8 @@
           "syllables": [
             "مَا"
           ],
-          "difficulty": 1
+          "difficulty": 1,
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=109&verse=4"
         },
         {
           "arabic": "لَا",
@@ -178,7 +288,8 @@
           "syllables": [
             "لَا"
           ],
-          "difficulty": 1
+          "difficulty": 1,
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=109&verse=2"
         },
         {
           "arabic": "بَلْ",
@@ -188,7 +299,8 @@
           "syllables": [
             "بَلْ"
           ],
-          "difficulty": 1
+          "difficulty": 1,
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=85&verse=21"
         },
         {
           "arabic": "أَمْ",
@@ -198,7 +310,8 @@
           "syllables": [
             "أَمْ"
           ],
-          "difficulty": 1
+          "difficulty": 1,
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=52&verse=35"
         },
         {
           "arabic": "شَرّ",
@@ -208,7 +321,8 @@
           "syllables": [
             "شَرّ"
           ],
-          "difficulty": 1
+          "difficulty": 1,
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=113&verse=2"
         },
         {
           "arabic": "خَلَقَ",
@@ -220,7 +334,8 @@
             "لَ",
             "قَ"
           ],
-          "difficulty": 1
+          "difficulty": 1,
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=113&verse=2"
         },
         {
           "arabic": "فَلَقْ",
@@ -231,7 +346,8 @@
             "فَ",
             "لَقْ"
           ],
-          "difficulty": 1
+          "difficulty": 1,
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=113&verse=1"
         },
         {
           "arabic": "نَارْ",
@@ -242,7 +358,8 @@
             "نَارْ"
           ],
           "difficulty": 1,
-          "note": "Pausalform; in Verbindung نَارٌ/نَارٍ/نَارًا"
+          "note": "Pausalform; in Verbindung نَارٌ/نَارٍ/نَارًا",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=111&verse=3"
         },
         {
           "arabic": "أَحَدٌ",
@@ -253,7 +370,8 @@
             "أَ",
             "حَدٌ"
           ],
-          "difficulty": 1
+          "difficulty": 1,
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=112&verse=1"
         },
         {
           "arabic": "صَمَدٌ",
@@ -264,7 +382,8 @@
             "صَ",
             "مَدٌ"
           ],
-          "difficulty": 1
+          "difficulty": 1,
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=112&verse=2"
         },
         {
           "arabic": "يَلِدْ",
@@ -275,7 +394,8 @@
             "يَ",
             "لِدْ"
           ],
-          "difficulty": 1
+          "difficulty": 1,
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=112&verse=3"
         },
         {
           "arabic": "يُولَدْ",
@@ -286,7 +406,8 @@
             "يُو",
             "لَدْ"
           ],
-          "difficulty": 1
+          "difficulty": 1,
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=112&verse=3"
         },
         {
           "arabic": "كُفُوًا",
@@ -298,7 +419,8 @@
             "فُ",
             "وًا"
           ],
-          "difficulty": 1
+          "difficulty": 1,
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=112&verse=4"
         },
         {
           "arabic": "يَكُنْ",
@@ -309,7 +431,8 @@
             "يَ",
             "كُنْ"
           ],
-          "difficulty": 1
+          "difficulty": 1,
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=112&verse=4"
         },
         {
           "arabic": "عَصْرِ",
@@ -320,7 +443,8 @@
             "عَصْ",
             "رِ"
           ],
-          "difficulty": 1
+          "difficulty": 1,
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=103&verse=1"
         },
         {
           "arabic": "خُسْرٍ",
@@ -331,7 +455,8 @@
             "خُسْ",
             "رٍ"
           ],
-          "difficulty": 1
+          "difficulty": 1,
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=103&verse=2"
         },
         {
           "arabic": "حَقّ",
@@ -341,7 +466,8 @@
           "syllables": [
             "حَقّ"
           ],
-          "difficulty": 1
+          "difficulty": 1,
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=103&verse=3"
         },
         {
           "arabic": "صَبْرِ",
@@ -352,7 +478,8 @@
             "صَبْ",
             "رِ"
           ],
-          "difficulty": 1
+          "difficulty": 1,
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=103&verse=3"
         },
         {
           "arabic": "نَاسِ",
@@ -363,7 +490,8 @@
             "نَا",
             "سِ"
           ],
-          "difficulty": 1
+          "difficulty": 1,
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=114&verse=1"
         },
         {
           "arabic": "مَلِكِ",
@@ -375,7 +503,8 @@
             "لِ",
             "كِ"
           ],
-          "difficulty": 1
+          "difficulty": 1,
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=114&verse=2"
         },
         {
           "arabic": "يَوْمِ",
@@ -386,7 +515,8 @@
             "يَوْ",
             "مِ"
           ],
-          "difficulty": 1
+          "difficulty": 1,
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=4"
         },
         {
           "arabic": "دِينِ",
@@ -397,7 +527,8 @@
             "دِي",
             "نِ"
           ],
-          "difficulty": 1
+          "difficulty": 1,
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=4"
         },
         {
           "arabic": "حَسَدَ",
@@ -409,7 +540,8 @@
             "سَ",
             "دَ"
           ],
-          "difficulty": 1
+          "difficulty": 1,
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=113&verse=5"
         },
         {
           "arabic": "عُقَدِ",
@@ -421,7 +553,8 @@
             "قَ",
             "دِ"
           ],
-          "difficulty": 1
+          "difficulty": 1,
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=113&verse=4"
         },
         {
           "arabic": "تَبَّ",
@@ -431,7 +564,8 @@
           "syllables": [
             "تَبَّ"
           ],
-          "difficulty": 1
+          "difficulty": 1,
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=111&verse=1"
         },
         {
           "arabic": "كَسَبَ",
@@ -443,7 +577,8 @@
             "سَ",
             "بَ"
           ],
-          "difficulty": 1
+          "difficulty": 1,
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=111&verse=2"
         }
       ]
     },
@@ -467,7 +602,8 @@
             "Stamm",
             "Nominativ"
           ],
-          "difficulty": 2
+          "difficulty": 2,
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=2"
         },
         {
           "arabic": "الرَّحْمَنِ",
@@ -484,7 +620,8 @@
             "Stamm",
             "Genitiv"
           ],
-          "difficulty": 2
+          "difficulty": 2,
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=1"
         },
         {
           "arabic": "الرَّحِيمِ",
@@ -501,7 +638,8 @@
             "Stamm",
             "Genitiv"
           ],
-          "difficulty": 2
+          "difficulty": 2,
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=1"
         },
         {
           "arabic": "الْحَمْدُ",
@@ -518,7 +656,8 @@
             "Stamm",
             "Nominativ"
           ],
-          "difficulty": 2
+          "difficulty": 2,
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=2"
         },
         {
           "arabic": "الْعَالَمِينَ",
@@ -535,7 +674,8 @@
             "Stamm",
             "Genitiv-Plural"
           ],
-          "difficulty": 2
+          "difficulty": 2,
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=2"
         },
         {
           "arabic": "نَعْبُدُ",
@@ -552,7 +692,8 @@
             "Stamm",
             "Indikativ"
           ],
-          "difficulty": 2
+          "difficulty": 2,
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=5"
         },
         {
           "arabic": "نَسْتَعِينُ",
@@ -569,7 +710,8 @@
             "Stamm (X)",
             "Indikativ"
           ],
-          "difficulty": 2
+          "difficulty": 2,
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=5"
         },
         {
           "arabic": "اهْدِنَا",
@@ -586,7 +728,8 @@
             "Stamm",
             "1.Pl-Suffix"
           ],
-          "difficulty": 2
+          "difficulty": 2,
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=6"
         },
         {
           "arabic": "الصِّرَاطَ",
@@ -603,7 +746,8 @@
             "Stamm",
             "Akkusativ"
           ],
-          "difficulty": 2
+          "difficulty": 2,
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=6"
         },
         {
           "arabic": "الْمُسْتَقِيمَ",
@@ -620,7 +764,8 @@
             "Stamm (X-Partizip)",
             "Akkusativ"
           ],
-          "difficulty": 2
+          "difficulty": 2,
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=6"
         },
         {
           "arabic": "أَنْعَمْتَ",
@@ -635,7 +780,8 @@
             "Stamm (IV-Perfekt)",
             "2.Sg.m-Suffix"
           ],
-          "difficulty": 2
+          "difficulty": 2,
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=7"
         },
         {
           "arabic": "عَلَيْهِمْ",
@@ -650,7 +796,8 @@
             "Präposition",
             "3.Pl.m-Suffix"
           ],
-          "difficulty": 2
+          "difficulty": 2,
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=7"
         },
         {
           "arabic": "الْمَغْضُوبِ",
@@ -667,7 +814,8 @@
             "Stamm (Passiv-Partizip)",
             "Genitiv"
           ],
-          "difficulty": 2
+          "difficulty": 2,
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=7"
         },
         {
           "arabic": "الضَّالِّينَ",
@@ -684,7 +832,8 @@
             "Stamm (Partizip)",
             "Genitiv-Plural"
           ],
-          "difficulty": 2
+          "difficulty": 2,
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=7"
         },
         {
           "arabic": "بِسْمِ",
@@ -701,7 +850,8 @@
             "Stamm",
             "Genitiv"
           ],
-          "difficulty": 2
+          "difficulty": 2,
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=1"
         },
         {
           "arabic": "لِلَّهِ",
@@ -718,7 +868,8 @@
             "Stamm",
             "Genitiv"
           ],
-          "difficulty": 2
+          "difficulty": 2,
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=2"
         },
         {
           "arabic": "إِيَّاكَ",
@@ -733,7 +884,8 @@
             "Partikel (Hervorhebung)",
             "2.Sg.m-Suffix"
           ],
-          "difficulty": 2
+          "difficulty": 2,
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=5"
         },
         {
           "arabic": "الْوَسْوَاسِ",
@@ -750,7 +902,8 @@
             "Stamm",
             "Genitiv"
           ],
-          "difficulty": 2
+          "difficulty": 2,
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=114&verse=4"
         },
         {
           "arabic": "الْخَنَّاسِ",
@@ -767,7 +920,8 @@
             "Stamm (Intensivform)",
             "Genitiv"
           ],
-          "difficulty": 2
+          "difficulty": 2,
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=114&verse=4"
         },
         {
           "arabic": "صُدُورِ",
@@ -782,7 +936,8 @@
             "Stamm (Plural)",
             "Genitiv"
           ],
-          "difficulty": 2
+          "difficulty": 2,
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=114&verse=5"
         },
         {
           "arabic": "الْكَوْثَرَ",
@@ -799,7 +954,8 @@
             "Stamm",
             "Akkusativ"
           ],
-          "difficulty": 2
+          "difficulty": 2,
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=108&verse=1"
         },
         {
           "arabic": "أَعْطَيْنَاكَ",
@@ -816,7 +972,8 @@
             "1.Pl-Suffix",
             "2.Sg.m-Objekt"
           ],
-          "difficulty": 2
+          "difficulty": 2,
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=108&verse=1"
         },
         {
           "arabic": "فَصَلِّ",
@@ -831,7 +988,8 @@
             "Konjunktion",
             "Imperativ (II)"
           ],
-          "difficulty": 2
+          "difficulty": 2,
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=108&verse=2"
         },
         {
           "arabic": "وَانْحَرْ",
@@ -846,7 +1004,8 @@
             "Konjunktion",
             "Imperativ"
           ],
-          "difficulty": 2
+          "difficulty": 2,
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=108&verse=2"
         },
         {
           "arabic": "شَانِئَكَ",
@@ -863,7 +1022,8 @@
             "Akkusativ",
             "2.Sg.m-Suffix"
           ],
-          "difficulty": 2
+          "difficulty": 2,
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=108&verse=3"
         },
         {
           "arabic": "الْأَبْتَرُ",
@@ -880,7 +1040,8 @@
             "Stamm (Elativ)",
             "Nominativ"
           ],
-          "difficulty": 2
+          "difficulty": 2,
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=108&verse=3"
         },
         {
           "arabic": "وَتَوَاصَوْا",
@@ -897,7 +1058,8 @@
             "Stamm (VI-Perfekt)",
             "3.Pl.m-Suffix"
           ],
-          "difficulty": 2
+          "difficulty": 2,
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=103&verse=3"
         }
       ]
     },
@@ -919,7 +1081,8 @@
             "im Namen",
             "Gottes"
           ],
-          "difficulty": 3
+          "difficulty": 3,
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=1"
         },
         {
           "arabic": "الرَّحْمَنِ الرَّحِيمِ",
@@ -934,7 +1097,8 @@
             "des Erbarmers",
             "des Barmherzigen"
           ],
-          "difficulty": 3
+          "difficulty": 3,
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=1"
         },
         {
           "arabic": "رَبِّ الْعَالَمِينَ",
@@ -949,7 +1113,8 @@
             "Herr",
             "der Welten"
           ],
-          "difficulty": 3
+          "difficulty": 3,
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=2"
         },
         {
           "arabic": "مَالِكِ يَوْمِ",
@@ -964,7 +1129,8 @@
             "Herrscher",
             "des Tages"
           ],
-          "difficulty": 3
+          "difficulty": 3,
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=4"
         },
         {
           "arabic": "يَوْمِ الدِّينِ",
@@ -979,7 +1145,8 @@
             "Tag",
             "des Urteils"
           ],
-          "difficulty": 3
+          "difficulty": 3,
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=4"
         },
         {
           "arabic": "إِيَّاكَ نَعْبُدُ",
@@ -994,7 +1161,8 @@
             "dir",
             "wir dienen"
           ],
-          "difficulty": 3
+          "difficulty": 3,
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=5"
         },
         {
           "arabic": "إِيَّاكَ نَسْتَعِينُ",
@@ -1009,7 +1177,8 @@
             "dich",
             "wir bitten um Hilfe"
           ],
-          "difficulty": 3
+          "difficulty": 3,
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=5"
         },
         {
           "arabic": "الصِّرَاطَ الْمُسْتَقِيمَ",
@@ -1024,7 +1193,8 @@
             "den Weg",
             "den geraden"
           ],
-          "difficulty": 3
+          "difficulty": 3,
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=6"
         },
         {
           "arabic": "غَيْرِ الْمَغْضُوبِ",
@@ -1039,7 +1209,8 @@
             "nicht / anders als",
             "der Bezornten"
           ],
-          "difficulty": 3
+          "difficulty": 3,
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=7"
         },
         {
           "arabic": "وَلَا الضَّالِّينَ",
@@ -1054,7 +1225,8 @@
             "und nicht",
             "der Irrenden"
           ],
-          "difficulty": 3
+          "difficulty": 3,
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=7"
         },
         {
           "arabic": "اللَّهُ أَحَدٌ",
@@ -1069,7 +1241,8 @@
             "Gott",
             "einer"
           ],
-          "difficulty": 3
+          "difficulty": 3,
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=112&verse=1"
         },
         {
           "arabic": "اللَّهُ الصَّمَدُ",
@@ -1084,7 +1257,8 @@
             "Gott",
             "der Beständige"
           ],
-          "difficulty": 3
+          "difficulty": 3,
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=112&verse=2"
         },
         {
           "arabic": "لَمْ يَلِدْ",
@@ -1099,7 +1273,8 @@
             "nicht (Verg.)",
             "er zeugt"
           ],
-          "difficulty": 3
+          "difficulty": 3,
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=112&verse=3"
         },
         {
           "arabic": "وَلَمْ يُولَدْ",
@@ -1114,7 +1289,8 @@
             "und nicht",
             "er wird gezeugt"
           ],
-          "difficulty": 3
+          "difficulty": 3,
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=112&verse=3"
         },
         {
           "arabic": "رَبِّ الْفَلَقِ",
@@ -1129,7 +1305,8 @@
             "Herr",
             "des Tagesanbruchs"
           ],
-          "difficulty": 3
+          "difficulty": 3,
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=113&verse=1"
         },
         {
           "arabic": "شَرِّ مَا خَلَقَ",
@@ -1146,7 +1323,8 @@
             "dessen was",
             "er erschuf"
           ],
-          "difficulty": 3
+          "difficulty": 3,
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=113&verse=2"
         },
         {
           "arabic": "غَاسِقٍ إِذَا وَقَبَ",
@@ -1163,7 +1341,8 @@
             "wenn",
             "es eintritt"
           ],
-          "difficulty": 3
+          "difficulty": 3,
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=113&verse=3"
         },
         {
           "arabic": "رَبِّ النَّاسِ",
@@ -1178,7 +1357,8 @@
             "Herr",
             "der Menschen"
           ],
-          "difficulty": 3
+          "difficulty": 3,
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=114&verse=1"
         },
         {
           "arabic": "مَلِكِ النَّاسِ",
@@ -1193,7 +1373,8 @@
             "König",
             "der Menschen"
           ],
-          "difficulty": 3
+          "difficulty": 3,
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=114&verse=2"
         },
         {
           "arabic": "إِلَهِ النَّاسِ",
@@ -1208,7 +1389,8 @@
             "Gott",
             "der Menschen"
           ],
-          "difficulty": 3
+          "difficulty": 3,
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=114&verse=3"
         },
         {
           "arabic": "فِي صُدُورِ النَّاسِ",
@@ -1225,7 +1407,8 @@
             "Bruesten",
             "der Menschen"
           ],
-          "difficulty": 3
+          "difficulty": 3,
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=114&verse=5"
         },
         {
           "arabic": "الْإِنْسَانَ لَفِي خُسْرٍ",
@@ -1242,7 +1425,8 @@
             "wahrlich in",
             "Verlust"
           ],
-          "difficulty": 3
+          "difficulty": 3,
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=103&verse=2"
         }
       ]
     },
@@ -1268,7 +1452,8 @@
             "Gott",
             "einer"
           ],
-          "difficulty": 4
+          "difficulty": 4,
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=112&verse=1"
         },
         {
           "arabic": "اللَّهُ الصَّمَدُ",
@@ -1283,7 +1468,8 @@
             "Gott",
             "der Beständige"
           ],
-          "difficulty": 4
+          "difficulty": 4,
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=112&verse=2"
         },
         {
           "arabic": "لَمْ يَلِدْ وَلَمْ يُولَدْ",
@@ -1302,7 +1488,8 @@
             "und nicht",
             "er wird gezeugt"
           ],
-          "difficulty": 4
+          "difficulty": 4,
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=112&verse=3"
         },
         {
           "arabic": "وَلَمْ يَكُنْ لَهُ كُفُوًا أَحَدٌ",
@@ -1323,7 +1510,8 @@
             "ebenbuertig",
             "einer"
           ],
-          "difficulty": 4
+          "difficulty": 4,
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=112&verse=4"
         },
         {
           "arabic": "قُلْ أَعُوذُ بِرَبِّ الْفَلَقِ",
@@ -1342,7 +1530,8 @@
             "beim Herrn",
             "des Tagesanbruchs"
           ],
-          "difficulty": 4
+          "difficulty": 4,
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=113&verse=1"
         },
         {
           "arabic": "مِنْ شَرِّ مَا خَلَقَ",
@@ -1361,7 +1550,8 @@
             "dessen was",
             "er erschuf"
           ],
-          "difficulty": 4
+          "difficulty": 4,
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=113&verse=2"
         },
         {
           "arabic": "وَمِنْ شَرِّ غَاسِقٍ إِذَا وَقَبَ",
@@ -1382,7 +1572,8 @@
             "wenn",
             "es eintritt"
           ],
-          "difficulty": 4
+          "difficulty": 4,
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=113&verse=3"
         },
         {
           "arabic": "وَمِنْ شَرِّ حَاسِدٍ إِذَا حَسَدَ",
@@ -1403,7 +1594,8 @@
             "wenn",
             "er neidet"
           ],
-          "difficulty": 4
+          "difficulty": 4,
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=113&verse=5"
         },
         {
           "arabic": "قُلْ أَعُوذُ بِرَبِّ النَّاسِ",
@@ -1422,7 +1614,8 @@
             "beim Herrn",
             "der Menschen"
           ],
-          "difficulty": 4
+          "difficulty": 4,
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=114&verse=1"
         },
         {
           "arabic": "مَلِكِ النَّاسِ",
@@ -1437,7 +1630,8 @@
             "König",
             "der Menschen"
           ],
-          "difficulty": 4
+          "difficulty": 4,
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=114&verse=2"
         },
         {
           "arabic": "إِلَهِ النَّاسِ",
@@ -1452,7 +1646,8 @@
             "Gott",
             "der Menschen"
           ],
-          "difficulty": 4
+          "difficulty": 4,
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=114&verse=3"
         },
         {
           "arabic": "إِنَّا أَعْطَيْنَاكَ الْكَوْثَرَ",
@@ -1469,7 +1664,8 @@
             "wir haben dir gegeben",
             "die Fülle"
           ],
-          "difficulty": 4
+          "difficulty": 4,
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=108&verse=1"
         },
         {
           "arabic": "فَصَلِّ لِرَبِّكَ وَانْحَرْ",
@@ -1486,7 +1682,8 @@
             "zu deinem Herrn",
             "und opfere"
           ],
-          "difficulty": 4
+          "difficulty": 4,
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=108&verse=2"
         },
         {
           "arabic": "إِنَّ شَانِئَكَ هُوَ الْأَبْتَرُ",
@@ -1505,7 +1702,8 @@
             "er",
             "der Abgeschnittene"
           ],
-          "difficulty": 4
+          "difficulty": 4,
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=108&verse=3"
         },
         {
           "arabic": "وَالْعَصْرِ",
@@ -1520,7 +1718,8 @@
             "bei",
             "der Zeit"
           ],
-          "difficulty": 4
+          "difficulty": 4,
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=103&verse=1"
         },
         {
           "arabic": "إِنَّ الْإِنْسَانَ لَفِي خُسْرٍ",
@@ -1539,7 +1738,8 @@
             "wahrlich in",
             "Verlust"
           ],
-          "difficulty": 4
+          "difficulty": 4,
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=103&verse=2"
         },
         {
           "arabic": "تَبَّتْ يَدَا أَبِي لَهَبٍ وَتَبَّ",
@@ -1560,7 +1760,8 @@
             "der Flamme",
             "und er geht zugrunde"
           ],
-          "difficulty": 4
+          "difficulty": 4,
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=111&verse=1"
         }
       ]
     },
@@ -1586,7 +1787,8 @@
             "des Erbarmers",
             "des Barmherzigen"
           ],
-          "difficulty": 5
+          "difficulty": 5,
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=1"
         },
         {
           "arabic": "الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ",
@@ -1605,7 +1807,8 @@
             "Herr",
             "der Welten"
           ],
-          "difficulty": 5
+          "difficulty": 5,
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=2"
         },
         {
           "arabic": "الرَّحْمَنِ الرَّحِيمِ",
@@ -1620,7 +1823,8 @@
             "des Erbarmers",
             "des Barmherzigen"
           ],
-          "difficulty": 5
+          "difficulty": 5,
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=3"
         },
         {
           "arabic": "مَالِكِ يَوْمِ الدِّينِ",
@@ -1637,7 +1841,8 @@
             "des Tages",
             "des Urteils"
           ],
-          "difficulty": 5
+          "difficulty": 5,
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=4"
         },
         {
           "arabic": "إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ",
@@ -1656,7 +1861,8 @@
             "und dich",
             "wir bitten um Hilfe"
           ],
-          "difficulty": 5
+          "difficulty": 5,
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=5"
         },
         {
           "arabic": "اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ",
@@ -1673,7 +1879,8 @@
             "den Weg",
             "den geraden"
           ],
-          "difficulty": 5
+          "difficulty": 5,
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=6"
         },
         {
           "arabic": "صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ",
@@ -1702,7 +1909,8 @@
             "und nicht",
             "der Irrenden"
           ],
-          "difficulty": 5
+          "difficulty": 5,
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=7"
         },
         {
           "arabic": "مِنْ شَرِّ الْوَسْوَاسِ الْخَنَّاسِ",
@@ -1721,7 +1929,8 @@
             "des Einfluesterers",
             "des Zurückweichenden"
           ],
-          "difficulty": 5
+          "difficulty": 5,
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=114&verse=4"
         },
         {
           "arabic": "الَّذِي يُوَسْوِسُ فِي صُدُورِ النَّاسِ",
@@ -1742,7 +1951,8 @@
             "Brueste",
             "der Menschen"
           ],
-          "difficulty": 5
+          "difficulty": 5,
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=114&verse=5"
         },
         {
           "arabic": "مِنَ الْجِنَّةِ وَالنَّاسِ",
@@ -1759,7 +1969,8 @@
             "den Dschinn",
             "und den Menschen"
           ],
-          "difficulty": 5
+          "difficulty": 5,
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=114&verse=6"
         },
         {
           "arabic": "وَمِنْ شَرِّ النَّفَّاثَاتِ فِي الْعُقَدِ",
@@ -1780,7 +1991,8 @@
             "in",
             "die Knoten"
           ],
-          "difficulty": 5
+          "difficulty": 5,
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=113&verse=4"
         },
         {
           "arabic": "إِلَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ وَتَوَاصَوْا بِالْحَقِّ وَتَوَاصَوْا بِالصَّبْرِ",
@@ -1809,7 +2021,8 @@
             "und ermahnten einander",
             "zur Geduld"
           ],
-          "difficulty": 5
+          "difficulty": 5,
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=103&verse=3"
         },
         {
           "arabic": "مَا أَغْنَى عَنْهُ مَالُهُ وَمَا كَسَبَ",
@@ -1832,7 +2045,8 @@
             "und nicht",
             "was er erwarb"
           ],
-          "difficulty": 5
+          "difficulty": 5,
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=111&verse=2"
         },
         {
           "arabic": "سَيَصْلَى نَارًا ذَاتَ لَهَبٍ",
@@ -1851,7 +2065,8 @@
             "mit",
             "Flammen"
           ],
-          "difficulty": 5
+          "difficulty": 5,
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=111&verse=3"
         },
         {
           "arabic": "وَامْرَأَتُهُ حَمَّالَةَ الْحَطَبِ",
@@ -1868,7 +2083,8 @@
             "Trägerin",
             "des Brennholzes"
           ],
-          "difficulty": 5
+          "difficulty": 5,
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=111&verse=4"
         },
         {
           "arabic": "فِي جِيدِهَا حَبْلٌ مِنْ مَسَدٍ",
@@ -1889,7 +2105,8 @@
             "aus",
             "Palmfasern"
           ],
-          "difficulty": 5
+          "difficulty": 5,
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=111&verse=5"
         }
       ]
     }

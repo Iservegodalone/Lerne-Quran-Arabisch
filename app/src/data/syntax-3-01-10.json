@@ -87,22 +87,26 @@
             {
               "location": "1:2",
               "word": "الْحَمْدُ لِلَّهِ",
-              "analysis": "الْحَمْدُ steht im Nominativ (Ḍamma) — es ist das Mubtadaʼ (Subjekt) des Nominalsatzes. لِلَّهِ steht im Genitiv (Kasra) — nach der Präposition لِ."
+              "analysis": "الْحَمْدُ steht im Nominativ (Ḍamma) — es ist das Mubtadaʼ (Subjekt) des Nominalsatzes. لِلَّهِ steht im Genitiv (Kasra) — nach der Präposition لِ.",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=2"
             },
             {
               "location": "2:255",
               "word": "اللَّهُ لَا إِلَٰهَ إِلَّا هُوَ",
-              "analysis": "اللَّهُ steht im Nominativ als Mubtadaʼ. إِلَٰهَ steht im Akkusativ als Prädikatsname von لَا (Negationspartikel لَا النافية للجنس)."
+              "analysis": "اللَّهُ steht im Nominativ als Mubtadaʼ. إِلَٰهَ steht im Akkusativ als Prädikatsname von لَا (Negationspartikel لَا النافية للجنس).",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=255"
             },
             {
               "location": "4:11",
               "word": "يُوصِيكُمُ اللَّهُ",
-              "analysis": "اللَّهُ ist Subjekt (Fāʿil) im Nominativ. كُمْ (euch) ist Objektpronomen im Akkusativ."
+              "analysis": "اللَّهُ ist Subjekt (Fāʿil) im Nominativ. كُمْ (euch) ist Objektpronomen im Akkusativ.",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=11"
             },
             {
               "location": "112:1",
               "word": "قُلْ هُوَ اللَّهُ أَحَدٌ",
-              "analysis": "Analyse 1: هُوَ ist ضمير الشأن (Pronomen der Angelegenheit). Der Satz اللَّهُ أَحَدٌ ist als Ganzes sein Khabar. Analyse 2: هُوَ = Mubtadaʾ, اللَّهُ = Badal, أَحَدٌ = Khabar."
+              "analysis": "Analyse 1 (Standard): هُوَ ist ضمير الشأن (Pronomen der Angelegenheit). Der Satz اللَّهُ أَحَدٌ ist als Ganzes sein Khabar. Analyse 2 (in der Forschung umstritten): هُوَ = Mubtadaʾ, اللَّهُ = Badal zu هُوَ, أَحَدٌ = Khabar. Diese Analyse ist problematisch, da Badal zu einem Damir normalerweise eine Apposition zum Referenten erfordert, der hier im unmittelbaren Kontext fehlt.",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=112&verse=1"
             }
           ]
         }
@@ -292,22 +296,26 @@
             {
               "location": "2:2",
               "word": "ذَٰلِكَ الْكِتَابُ لَا رَيْبَ فِيهِ",
-              "analysis": "Nominalsatz: ذَٰلِكَ = Mubtadaʼ (Demonstrativpronomen), الْكِتَابُ = Khabar oder Badal. لَا رَيْبَ فِيهِ = zweiter Nominalsatz (kein Zweifel darin)."
+              "analysis": "Nominalsatz: ذَٰلِكَ = Mubtadaʼ (Demonstrativpronomen), الْكِتَابُ = Khabar oder Badal. لَا رَيْبَ فِيهِ = zweiter Nominalsatz (kein Zweifel darin).",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=2"
             },
             {
               "location": "1:2",
               "word": "الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ",
-              "analysis": "Nominalsatz: الْحَمْدُ = Mubtadaʼ (Nom.), لِلَّهِ = Khabar (Präpositionalausdruck). رَبِّ الْعَالَمِينَ = Attribut im Genitiv."
+              "analysis": "Nominalsatz: الْحَمْدُ = Mubtadaʼ (Nom.), لِلَّهِ = Khabar (Präpositionalausdruck). رَبِّ الْعَالَمِينَ = Attribut im Genitiv.",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=2"
             },
             {
               "location": "36:82",
               "word": "إِنَّمَا أَمْرُهُ إِذَا أَرَادَ شَيْئًا أَن يَقُولَ لَهُ كُن فَيَكُونُ",
-              "analysis": "Nominalsatz mit إِنَّمَا: أَمْرُهُ = Mubtadaʼ. أَن يَقُولَ = Khabar. Verbalsätze als eingebettete Nebensätze."
+              "analysis": "Nominalsatz mit إِنَّمَا: أَمْرُهُ = Mubtadaʼ. أَن يَقُولَ = Khabar. Verbalsätze als eingebettete Nebensätze.",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=36&verse=82"
             },
             {
               "location": "7:54",
               "word": "خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ فِي سِتَّةِ أَيَّامٍ",
-              "analysis": "Verbalsatz: خَلَقَ = Verb (Perfekt), Subjekt verborgen (هُوَ = Er/Gott), السَّمَاوَاتِ = Objekt (Akk.), فِي سِتَّةِ أَيَّامٍ = Präpositionalausdruck."
+              "analysis": "Verbalsatz: خَلَقَ = Verb (Perfekt), Subjekt verborgen (هُوَ = Er/Gott), السَّمَاوَاتِ = Objekt (Akk.), فِي سِتَّةِ أَيَّامٍ = Präpositionalausdruck.",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=7&verse=54"
             }
           ]
         }
@@ -496,27 +504,32 @@
             {
               "location": "1:2",
               "word": "رَبِّ الْعَالَمِينَ",
-              "analysis": "Iḍāfa: رَبّ (Herr) + الْعَالَمِين (die Welten). Genitiv, da Attribut zu اللَّهِ. Bedeutung: Herr der Welten."
+              "analysis": "Iḍāfa: رَبّ (Herr) + الْعَالَمِين (die Welten). Genitiv, da Attribut zu اللَّهِ. Bedeutung: Herr der Welten.",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=2"
             },
             {
               "location": "1:4",
               "word": "يَوْمِ الدِّينِ",
-              "analysis": "Iḍāfa: يَوْم (Tag) + الدِّين (das Gericht/die Religion). Im Genitiv wegen مَالِكِ davor. Bedeutung: Tag des Gerichts."
+              "analysis": "Iḍāfa: يَوْم (Tag) + الدِّين (das Gericht/die Religion). Im Genitiv wegen مَالِكِ davor. Bedeutung: Tag des Gerichts.",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=4"
             },
             {
               "location": "2:127",
               "word": "قَوَاعِدَ الْبَيْتِ",
-              "analysis": "Iḍāfa: قَوَاعِد (Grundmauern) + الْبَيْت (das Haus). Im Akkusativ als Objekt von يَرْفَعُ. Bedeutung: Die Grundmauern des Hauses."
+              "analysis": "Iḍāfa: قَوَاعِد (Grundmauern) + الْبَيْت (das Haus). Im Akkusativ als Objekt von يَرْفَعُ. Bedeutung: Die Grundmauern des Hauses.",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=127"
             },
             {
               "location": "9:36",
               "word": "كِتَابِ اللَّهِ",
-              "analysis": "Iḍāfa: كِتَاب (Buch) + اللَّه (Gott). Im Genitiv nach der Präposition فِي. Bedeutung: Im Buch Gottes."
+              "analysis": "Iḍāfa: كِتَاب (Buch) + اللَّه (Gott). Im Genitiv nach der Präposition فِي. Bedeutung: Im Buch Gottes.",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=9&verse=36"
             },
             {
               "location": "25:63",
               "word": "عِبَادُ الرَّحْمَنِ",
-              "analysis": "Iḍāfa: عِبَاد (Diener) + الرَّحْمَن (der Barmherzige). Im Nominativ als Mubtadaʼ. Bedeutung: Die Diener des Barmherzigen."
+              "analysis": "Iḍāfa: عِبَاد (Diener) + الرَّحْمَن (der Barmherzige). Im Nominativ als Mubtadaʼ. Bedeutung: Die Diener des Barmherzigen.",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=25&verse=63"
             }
           ]
         }
@@ -612,7 +625,7 @@
         {
           "type": "explanation",
           "title": "Wie كَانَ den Nominalsatz verändert",
-          "content": "Im einfachen Nominalsatz stehen Mubtadaʼ und Khabar beide im Nominativ:\nاللَّهُ عَلِيمٌ — Gott ist allwissend.\n\nWenn كَانَ (oder eine ihrer 'Schwestern') eintritt, passiert Folgendes:\n- Das Mubtadaʼ wird zum 'Ism von kāna' (اسم كان) und bleibt im Nominativ.\n- Das Khabar wird zum 'Khabar von kāna' (خبر كان) und wechselt in den Akkusativ.\n\nكَانَ اللَّهُ عَلِيمًا — Gott war/ist allwissend.\n\nWichtig: كَانَ bedeutet im Quran oft NICHT 'er war' im Sinne von Vergangenheit, sondern drückt einen dauerhaften, nicht vergangenen Zustand aus. وَكَانَ اللَّهُ عَلِيمًا حَكِيمًا bedeutet: 'Und Gott ist allwissend, allweise.'",
+          "content": "Im einfachen Nominalsatz stehen Mubtadaʼ und Khabar beide im Nominativ:\nاللَّهُ عَلِيمٌ — Gott ist allwissend.\n\nWenn كَانَ (oder eine ihrer 'Schwestern') eintritt, passiert Folgendes:\n- Das Mubtadaʼ wird zum 'Ism von kāna' (اسم كان) und bleibt im Nominativ.\n- Das Khabar wird zum 'Khabar von kāna' (خبر كان) und wechselt in den Akkusativ.\n\nكَانَ اللَّهُ عَلِيمًا — Gott war/ist allwissend.\n\nWichtig: كَانَ ist grammatisch ein Verb im Perfekt. Ob der perfektive Aspekt Vergangenheit, Zustandsbeschreibung oder zeitlose Gueltigkeit ausdrueckt, ergibt sich aus dem jeweiligen syntaktischen Kontext — nicht aus einer Sonderbedeutung des Verbs. وَكَانَ اللَّهُ عَلِيمًا حَكِيمًا kann daher je nach Kontext 'Und Gott war/ist allwissend, allweise' bedeuten.",
           "arabicExamples": [
             {
               "arabic": "كَانَ اللَّهُ عَلِيمًا",
@@ -713,22 +726,26 @@
             {
               "location": "4:170",
               "word": "وَكَانَ اللَّهُ عَلِيمًا حَكِيمًا",
-              "analysis": "كَانَ + Ism اللَّهُ (Nom.) + Khabar عَلِيمًا حَكِيمًا (Akk.). Andauernder Zustand, nicht abgeschlossene Vergangenheit."
+              "analysis": "كَانَ + Ism اللَّهُ (Nom.) + Khabar عَلِيمًا حَكِيمًا (Akk.). Andauernder Zustand, nicht abgeschlossene Vergangenheit.",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=170"
             },
             {
               "location": "42:11",
               "word": "لَيْسَ كَمِثْلِهِ شَيْءٌ",
-              "analysis": "لَيْسَ negiert: شَيْءٌ (Ism, Nom.) + كَمِثْلِهِ (Khabar, mit Präposition). Bedeutung: Nichts ist Ihm gleich."
+              "analysis": "لَيْسَ negiert: شَيْءٌ (Ism, Nom.) + كَمِثْلِهِ (Khabar, mit Präposition). Bedeutung: Nichts ist Ihm gleich.",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=42&verse=11"
             },
             {
               "location": "28:10",
               "word": "أَصْبَحَ فُؤَادُ أُمِّ مُوسَىٰ فَارِغًا",
-              "analysis": "أَصْبَحَ + Ism فُؤَادُ أُمِّ مُوسَىٰ (Nom.) + Khabar فَارِغًا (Akk.). Bedeutung: Das Herz der Mutter Musas wurde leer."
+              "analysis": "أَصْبَحَ + Ism فُؤَادُ أُمِّ مُوسَىٰ (Nom.) + Khabar فَارِغًا (Akk.). Bedeutung: Das Herz der Mutter Musas wurde leer.",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=28&verse=10"
             },
             {
               "location": "3:110",
               "word": "كُنتُمْ خَيْرَ أُمَّةٍ",
-              "analysis": "كُنتُمْ = كَانَ + Pronomen 'ihr' als Ism. خَيْرَ أُمَّةٍ = Khabar im Akkusativ (Iḍāfa). Bedeutung: Ihr seid die beste Gemeinschaft."
+              "analysis": "كُنتُمْ = كَانَ + Pronomen 'ihr' als Ism. خَيْرَ أُمَّةٍ = Khabar im Akkusativ (Iḍāfa). Bedeutung: Ihr seid die beste Gemeinschaft.",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=110"
             }
           ]
         }
@@ -940,17 +957,20 @@
             {
               "location": "2:37",
               "word": "إِنَّهُ هُوَ التَّوَّابُ الرَّحِيمُ",
-              "analysis": "إِنَّ + Pronomen هُ als Ism (Akk.). هُوَ ضمير فصل (Trennpronomen). التَّوَّابُ الرَّحِيمُ = Khabar (Nom.). Bedeutung: Wahrlich, Er ist der Reueannehmer, der Barmherzige."
+              "analysis": "إِنَّ + Pronomen هُ als Ism (Akk.). هُوَ ضمير فصل (Trennpronomen). التَّوَّابُ الرَّحِيمُ = Khabar (Nom.). Bedeutung: Wahrlich, Er ist der Reueannehmer, der Barmherzige.",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=37"
             },
             {
               "location": "2:156",
               "word": "إِنَّا لِلَّهِ وَإِنَّا إِلَيْهِ رَاجِعُونَ",
-              "analysis": "إِنَّا = إِنَّ + نَا (wir, Ism im Akk.). لِلَّهِ = Khabar (Präpositionalausdruck). رَاجِعُونَ = Khabar des zweiten إِنَّ (Nom.). Bedeutung: Wahrlich, wir gehören Gott, und zu Ihm kehren wir zurück."
+              "analysis": "إِنَّا = إِنَّ + نَا (wir, Ism im Akk.). لِلَّهِ = Khabar (Präpositionalausdruck). رَاجِعُونَ = Khabar des zweiten إِنَّ (Nom.). Bedeutung: Wahrlich, wir gehören Gott, und zu Ihm kehren wir zurück.",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=156"
             },
             {
               "location": "49:13",
               "word": "إِنَّ أَكْرَمَكُمْ عِندَ اللَّهِ أَتْقَاكُمْ",
-              "analysis": "إِنَّ + أَكْرَمَكُمْ = Ism (Akk., Elativ + Pronomen). عِندَ اللَّهِ = Adverb. أَتْقَاكُمْ = Khabar (Nom.). Bedeutung: Wahrlich, der Edelste von euch bei Gott ist der Achtsamste."
+              "analysis": "إِنَّ + أَكْرَمَكُمْ = Ism (Akk., Elativ + Pronomen). عِندَ اللَّهِ = Adverb. أَتْقَاكُمْ = Khabar (Nom.). Bedeutung: Wahrlich, der Edelste von euch bei Gott ist der Achtsamste.",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=49&verse=13"
             },
             {
               "location": "74:50-51",
@@ -1168,37 +1188,44 @@
             {
               "location": "8:29",
               "word": "إِن تَتَّقُوا اللَّهَ يَجْعَل لَّكُمْ فُرْقَانًا",
-              "analysis": "إِنْ + Jussiv تَتَّقُوا (Bedingung) + Jussiv يَجْعَلْ (Antwort). Ungewisse Bedingung. Bedeutung: Wenn ihr Gott fürchtet, gibt Er euch Unterscheidungskraft."
+              "analysis": "إِنْ + Jussiv تَتَّقُوا (Bedingung) + Jussiv يَجْعَلْ (Antwort). Ungewisse Bedingung. Bedeutung: Wenn ihr Gott fürchtet, gibt Er euch Unterscheidungskraft.",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=8&verse=29"
             },
             {
               "location": "110:1",
               "word": "إِذَا جَاءَ نَصْرُ اللَّهِ وَالْفَتْحُ",
-              "analysis": "إِذَا + Perfekt جَاءَ. Gewisse Bedingung — Gottes Hilfe wird kommen. Antwort in V.2: فَسَبِّحْ."
+              "analysis": "إِذَا + Perfekt جَاءَ. Gewisse Bedingung — Gottes Hilfe wird kommen. Antwort in V.2: فَسَبِّحْ.",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=110&verse=1"
             },
             {
               "location": "59:21",
               "word": "لَوْ أَنزَلْنَا هَٰذَا الْقُرْآنَ عَلَىٰ جَبَلٍ",
-              "analysis": "لَوْ + Perfekt أَنزَلْنَا. Irreale Bedingung — es geschah nicht. Antwort: لَّرَأَيْتَهُ خَاشِعًا (du hättest ihn demütig gesehen)."
+              "analysis": "لَوْ + Perfekt أَنزَلْنَا. Irreale Bedingung — es geschah nicht. Antwort: لَّرَأَيْتَهُ خَاشِعًا (du hättest ihn demütig gesehen).",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=59&verse=21"
             },
             {
               "location": "2:253",
               "word": "وَلَوْ شَاءَ اللَّهُ مَا اقْتَتَلُوا",
-              "analysis": "لَوْ + Perfekt شَاءَ. Antwort: مَا اقْتَتَلُوا (negiertes Perfekt). Bedeutung: Hätte Gott gewollt, hätten sie nicht gekämpft."
+              "analysis": "لَوْ + Perfekt شَاءَ. Antwort: مَا اقْتَتَلُوا (negiertes Perfekt). Bedeutung: Hätte Gott gewollt, hätten sie nicht gekämpft.",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=253"
             },
             {
               "location": "4:123",
               "word": "مَنْ يَعْمَلْ سُوءًا يُجْزَ بِهِ",
-              "analysis": "مَنْ als konditionales Relativpronomen + Jussiv يَعْمَلْ (Bedingung) + Jussiv يُجْزَ (Antwort). Allgemeingültige Bedingung: Wer auch immer Böses tut, wird dafür bestraft."
+              "analysis": "مَنْ als konditionales Relativpronomen + Jussiv يَعْمَلْ (Bedingung) + Jussiv يُجْزَ (Antwort). Allgemeingültige Bedingung: Wer auch immer Böses tut, wird dafür bestraft.",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=123"
             },
             {
               "location": "35:2",
               "word": "مَا يَفْتَحِ اللَّهُ لِلنَّاسِ مِن رَّحْمَةٍ فَلَا مُمْسِكَ لَهَا",
-              "analysis": "مَا als konditionales Pronomen. Bedingung: 'Was auch immer Gott den Menschen an Barmherzigkeit öffnet'. Antwort mit فَ: 'es gibt keinen, der es zurückhält'. Der Konditionalsatz beschreibt eine Handlung ohne einschränkende Bedingung."
+              "analysis": "مَا als konditionales Pronomen. Bedingung: 'Was auch immer Gott den Menschen an Barmherzigkeit öffnet'. Antwort mit فَ: 'es gibt keinen, der es zurückhält'. Der Konditionalsatz beschreibt eine Handlung ohne einschränkende Bedingung.",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=35&verse=2"
             },
             {
               "location": "5:64",
               "word": "كُلَّمَا أَوْقَدُوا نَارًا لِلْحَرْبِ أَطْفَأَهَا اللَّهُ",
-              "analysis": "كُلَّمَا + Perfekt أَوْقَدُوا (wiederholte Bedingung) + Perfekt أَطْفَأَهَا (wiederholte Antwort). Bedeutung: Jedes Mal wenn sie ein Kriegsfeuer entfachten, löschte Gott es."
+              "analysis": "كُلَّمَا + Perfekt أَوْقَدُوا (wiederholte Bedingung) + Perfekt أَطْفَأَهَا (wiederholte Antwort). Bedeutung: Jedes Mal wenn sie ein Kriegsfeuer entfachten, löschte Gott es.",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=5&verse=64"
             }
           ]
         }
@@ -1381,17 +1408,20 @@
             {
               "location": "2:3",
               "word": "الَّذِينَ يُؤْمِنُونَ بِالْغَيْبِ",
-              "analysis": "Relativsatz mit Pronomen (الَّذِينَ). Bezugswort ist bestimmt (الْمُتَّقِينَ in 2:2). Bedeutung: diejenigen, die an das Verborgene glauben."
+              "analysis": "Relativsatz mit Pronomen (الَّذِينَ). Bezugswort ist bestimmt (الْمُتَّقِينَ in 2:2). Bedeutung: diejenigen, die an das Verborgene glauben.",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=3"
             },
             {
               "location": "14:1",
               "word": "كِتَابٌ أَنزَلْنَاهُ إِلَيْكَ",
-              "analysis": "Relativsatz OHNE Pronomen. كِتَابٌ ist unbestimmt (Tanwīn). أَنزَلْنَاهُ enthält das Rückbezugspronomen هُ. Bedeutung: Ein Buch, das Wir dir herabsandten."
+              "analysis": "Relativsatz OHNE Pronomen. كِتَابٌ ist unbestimmt (Tanwīn). أَنزَلْنَاهُ enthält das Rückbezugspronomen هُ. Bedeutung: Ein Buch, das Wir dir herabsandten.",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=14&verse=1"
             },
             {
               "location": "2:257",
               "word": "اللَّهُ وَلِيُّ الَّذِينَ آمَنُوا",
-              "analysis": "Relativpronomen الَّذِينَ als Muḍāf ilayhi in der Iḍāfa. Bedeutung: Gott ist der Schutzherr derer, die geglaubt haben."
+              "analysis": "Relativpronomen الَّذِينَ als Muḍāf ilayhi in der Iḍāfa. Bedeutung: Gott ist der Schutzherr derer, die geglaubt haben.",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=257"
             },
             {
               "location": "65:2-3",
@@ -1776,22 +1806,26 @@
             {
               "location": "4:28",
               "word": "خُلِقَ الْإِنسَانُ ضَعِيفًا",
-              "analysis": "ضَعِيفًا = Ḥāl (Akk., unbestimmt). Bezugswort: الْإِنسَانُ. Bedeutung: Der Mensch wurde schwach(-seiend) erschaffen."
+              "analysis": "ضَعِيفًا = Ḥāl (Akk., unbestimmt). Bezugswort: الْإِنسَانُ. Bedeutung: Der Mensch wurde schwach(-seiend) erschaffen.",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=28"
             },
             {
               "location": "28:21",
               "word": "فَخَرَجَ مِنْهَا خَائِفًا يَتَرَقَّبُ",
-              "analysis": "Zwei Ḥāl-Angaben: خَائِفًا (fürchtend, einzelnes Wort) und يَتَرَقَّبُ (sich umschauend, Ḥāl-Satz). Bezugswort: verborgenes Pronomen 'er' (Musa)."
+              "analysis": "Zwei Ḥāl-Angaben: خَائِفًا (fürchtend, einzelnes Wort) und يَتَرَقَّبُ (sich umschauend, Ḥāl-Satz). Bezugswort: verborgenes Pronomen 'er' (Musa).",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=28&verse=21"
             },
             {
               "location": "4:102",
               "word": "وَلْيَأْخُذُوا أَسْلِحَتَهُمْ فَإِذَا سَجَدُوا فَلْيَكُونُوا مِن وَرَائِكُمْ وَلْتَأْتِ طَائِفَةٌ أُخْرَىٰ لَمْ يُصَلُّوا فَلْيُصَلُّوا مَعَكَ وَلْيَأْخُذُوا حِذْرَهُمْ وَأَسْلِحَتَهُمْ",
-              "analysis": "Komplexer Vers mit mehreren Ḥāl-Konstruktionen und Zustandsbeschreibungen im militärischen Kontext."
+              "analysis": "Komplexer Vers mit mehreren Ḥāl-Konstruktionen und Zustandsbeschreibungen im militärischen Kontext.",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=102"
             },
             {
               "location": "12:16",
               "word": "وَجَاءُوا أَبَاهُمْ عِشَاءً يَبْكُونَ",
-              "analysis": "يَبْكُونَ = Ḥāl-Satz (Verbalsatz als Zustandsangabe). عِشَاءً = Zeitangabe im Akkusativ. Bedeutung: Sie kamen zu ihrem Vater am Abend, weinend."
+              "analysis": "يَبْكُونَ = Ḥāl-Satz (Verbalsatz als Zustandsangabe). عِشَاءً = Zeitangabe im Akkusativ. Bedeutung: Sie kamen zu ihrem Vater am Abend, weinend.",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=12&verse=16"
             }
           ]
         }
@@ -1969,27 +2003,32 @@
             {
               "location": "54:12",
               "word": "وَفَجَّرْنَا الْأَرْضَ عُيُونًا",
-              "analysis": "عُيُونًا = Tamyīz (Akk., unbestimmt). Spezifiziert die Art der Spaltung. Bedeutung: Wir ließen die Erde in Form von Quellen aufbrechen."
+              "analysis": "عُيُونًا = Tamyīz (Akk., unbestimmt). Spezifiziert die Art der Spaltung. Bedeutung: Wir ließen die Erde in Form von Quellen aufbrechen.",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=54&verse=12"
             },
             {
               "location": "19:4",
               "word": "وَاشْتَعَلَ الرَّأْسُ شَيْبًا",
-              "analysis": "شَيْبًا = Tamyīz. Das Haupt 'entflammte' — aber in welcher Hinsicht? An grauem Haar. Bildhafte Sprache: Das Weiß der Haare breitet sich wie Feuer aus."
+              "analysis": "شَيْبًا = Tamyīz. Das Haupt 'entflammte' — aber in welcher Hinsicht? An grauem Haar. Bildhafte Sprache: Das Weiß der Haare breitet sich wie Feuer aus.",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=19&verse=4"
             },
             {
               "location": "12:4",
               "word": "إِنِّي رَأَيْتُ أَحَدَ عَشَرَ كَوْكَبًا",
-              "analysis": "كَوْكَبًا = Tamyīz nach Zahlwort (11). Im Arabischen steht der Tamyīz nach Zahlen 11-99 im Singular Akkusativ. Bedeutung: Ich sah elf Sterne."
+              "analysis": "كَوْكَبًا = Tamyīz nach Zahlwort (11). Im Arabischen steht der Tamyīz nach Zahlen 11-99 im Singular Akkusativ. Bedeutung: Ich sah elf Sterne.",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=12&verse=4"
             },
             {
               "location": "18:34",
               "word": "أَنَا أَكْثَرُ مِنكَ مَالًا وَأَعَزُّ نَفَرًا",
-              "analysis": "Zwei Tamyīz-Angaben nach Elativen: مَالًا (an Besitz) nach أَكْثَرُ (mehr), نَفَرًا (an Gefolge) nach أَعَزُّ (mächtiger). Bedeutung: Ich bin reicher als du an Besitz und mächtiger an Gefolge."
+              "analysis": "Zwei Tamyīz-Angaben nach Elativen: مَالًا (an Besitz) nach أَكْثَرُ (mehr), نَفَرًا (an Gefolge) nach أَعَزُّ (mächtiger). Bedeutung: Ich bin reicher als du an Besitz und mächtiger an Gefolge.",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=18&verse=34"
             },
             {
               "location": "9:25",
               "word": "إِذْ أَعْجَبَتْكُمْ كَثْرَتُكُمْ",
-              "analysis": "Kein Tamyīz hier, aber verwandtes Konzept: كَثْرَة (Vielzahl) als Nomen. Zum Vergleich: ازْدَادُوا إِيمَانًا hätte إِيمَانًا als Tamyīz (sie nahmen zu [an] Glauben)."
+              "analysis": "Kein Tamyīz hier, aber verwandtes Konzept: كَثْرَة (Vielzahl) als Nomen. Zum Vergleich: ازْدَادُوا إِيمَانًا hätte إِيمَانًا als Tamyīz (sie nahmen zu [an] Glauben).",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=9&verse=25"
             }
           ]
         }

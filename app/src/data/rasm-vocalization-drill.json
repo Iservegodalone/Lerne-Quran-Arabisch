@@ -3,8 +3,14 @@
     "title": "Rasm-zu-Vokalisation Drill",
     "description": "Interaktive Übung: Vom reinen Konsonantentext zur grammatisch begründeten Vokalisation in 5 Schritten.",
     "sources": [
-      { "name": "Wright's Grammar Vol I", "url": "https://archive.org/details/grammarofthearab01telerich" },
-      { "name": "Quranic Arabic Corpus", "url": "https://corpus.quran.com/" }
+      {
+        "name": "Wright's Grammar Vol I",
+        "url": "https://archive.org/details/WrightsArabicGrammar1Of2"
+      },
+      {
+        "name": "Quranic Arabic Corpus",
+        "url": "https://corpus.quran.com/"
+      }
     ]
   },
   "exercises": [
@@ -19,7 +25,8 @@
         "syntacticRole": "Jarr/Majrur (nach der Präposition بِ)",
         "vocalization": "بِسْمِ"
       },
-      "explanation": "بِ (Präposition, Genitiv) + اسم (Nomen, Muster اِفْعِل von س-م-و). Das Hamza von اسم fällt nach Präposition weg (Wasla). Genitiv wegen بِ → Kasra auf Mim."
+      "explanation": "بِ (Präposition, Genitiv) + اسم (Nomen, Muster اِفْعِل von س-م-و). Das Hamza von اسم fällt nach Präposition weg (Wasla). Genitiv wegen بِ → Kasra auf Mim.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=1"
     },
     {
       "id": "rv02",
@@ -32,7 +39,8 @@
         "syntacticRole": "Mubtada (Thema des Nominalsatzes, Nominativ)",
         "vocalization": "الْحَمْدُ"
       },
-      "explanation": "ال (Definitartikel) + حَمْد (Masdar von ح-م-د, Muster فَعْل). Mubtada → Nominativ → Damma auf Dal."
+      "explanation": "ال (Definitartikel) + حَمْد (Masdar von ح-م-د, Muster فَعْل). Mubtada → Nominativ → Damma auf Dal.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=2"
     },
     {
       "id": "rv03",
@@ -45,7 +53,8 @@
         "syntacticRole": "Badal/Sifa zu الله (Genitiv wegen لِ)",
         "vocalization": "رَبِّ"
       },
-      "explanation": "ر-ب-ب → رَبّ (Herr). Genitiv wegen لِلَّهِ → Kasra. Shadda weil 2. und 3. Radikal identisch."
+      "explanation": "ر-ب-ب → رَبّ (Herr). Genitiv wegen لِلَّهِ → Kasra. Shadda weil 2. und 3. Radikal identisch.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=2"
     },
     {
       "id": "rv04",
@@ -58,7 +67,8 @@
         "syntacticRole": "Badal/Sifa zu الله (Genitiv)",
         "vocalization": "مَلِكِ oder مَالِكِ"
       },
-      "explanation": "Ambiguität: Der Konsonantentext ملك lässt mehrere Lesungen zu — مَلِك (König) und مَالِك (Besitzer/Herrscher). Beide sind grammatisch korrekt. Genitiv in jedem Fall (Kasra) wegen Idafa mit يوم."
+      "explanation": "Ambiguität: Der Konsonantentext ملك lässt mehrere Lesungen zu — مَلِك (König) und مَالِك (Besitzer/Herrscher). Beide sind grammatisch korrekt. Genitiv in jedem Fall (Kasra) wegen Idafa mit يوم.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=4"
     },
     {
       "id": "rv05",
@@ -71,7 +81,8 @@
         "syntacticRole": "Mudaf ilayh (Idafa-Genitiv nach ملك)",
         "vocalization": "يَوْمِ"
       },
-      "explanation": "يَوْم (Tag) als Mudaf ilayh → Genitiv → Kasra auf Mim. Der Diphthong aw (Fatha+Waw+Sukun)."
+      "explanation": "يَوْم (Tag) als Mudaf ilayh → Genitiv → Kasra auf Mim. Der Diphthong aw (Fatha+Waw+Sukun).",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=4"
     },
     {
       "id": "rv06",
@@ -84,7 +95,8 @@
         "syntacticRole": "Fi'l (Verb, Prädikat)",
         "vocalization": "نَعْبُدُ"
       },
-      "explanation": "نَـ (Imperfekt-Präfix 1.Pl.) + ع-ب-د (Form I). Vokalklasse a–u → Imperfekt mit Damma auf dem 2. Radikal. Indikativ → Damma-Endung."
+      "explanation": "نَـ (Imperfekt-Präfix 1.Pl.) + ع-ب-د (Form I). Vokalklasse a–u → Imperfekt mit Damma auf dem 2. Radikal. Indikativ → Damma-Endung.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=5"
     },
     {
       "id": "rv07",
@@ -97,7 +109,8 @@
         "syntacticRole": "Maf'ul bihi (Akkusativ, direktes Objekt von اهدنا)",
         "vocalization": "الصِّرَاطَ"
       },
-      "explanation": "ال + صِرَاط (Weg/Pfad). Akkusativ als direktes Objekt → Fatha auf Ta. Die Shadda auf Sad entsteht durch Sun-Letter-Assimilation (ال + ص)."
+      "explanation": "ال + صِرَاط (Weg/Pfad). Akkusativ als direktes Objekt → Fatha auf Ta. Die Shadda auf Sad entsteht durch Sun-Letter-Assimilation (ال + ص).",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=6"
     },
     {
       "id": "rv08",
@@ -110,7 +123,8 @@
         "syntacticRole": "Khabar einer implizierten Struktur / Mubtada (Nominativ)",
         "vocalization": "الْكِتَابُ"
       },
-      "explanation": "ال + كِتَاب (Schrift/Buch, Muster فِعَال von ك-ت-ب). Nominativ → Damma."
+      "explanation": "ال + كِتَاب (Schrift/Buch, Muster فِعَال von ك-ت-ب). Nominativ → Damma.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=2"
     },
     {
       "id": "rv09",
@@ -123,7 +137,8 @@
         "syntacticRole": "Khabar/Prädikat (Nominativ) oder Hal (Akkusativ)",
         "vocalization": "هُدًى"
       },
-      "explanation": "هُدًى (Führung) von ه-د-ي. Die Alif Maqsura zeigt den schwachen letzten Radikal. Tanwin Fatha zeigt Indefinitheit + Akkusativ/Nominativ (bei Diptoten und defektiven Nomen unsichtbar)."
+      "explanation": "هُدًى (Führung) von ه-د-ي. Die Alif Maqsura zeigt den schwachen letzten Radikal. Tanwin Fatha zeigt Indefinitheit + Akkusativ/Nominativ (bei Diptoten und defektiven Nomen unsichtbar).",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=2"
     },
     {
       "id": "rv10",
@@ -136,7 +151,8 @@
         "syntacticRole": "Fi'l (Verb)",
         "vocalization": "خَلَقَ"
       },
-      "explanation": "خَلَقَ (er schuf). Form I Perfekt, Vokalklasse a-u. Perfekt 3ms: Fatha-Fatha-Fatha auf den drei Radikalen."
+      "explanation": "خَلَقَ (er schuf). Form I Perfekt, Vokalklasse a-u. Perfekt 3ms: Fatha-Fatha-Fatha auf den drei Radikalen.",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=96&verse=1"
     }
   ]
 }

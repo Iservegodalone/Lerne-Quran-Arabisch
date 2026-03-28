@@ -8,11 +8,12 @@
     "sources": [
       {
         "label": "Wright's Grammar Vol I (Verb Forms & Morphology)",
-        "url": "https://archive.org/details/AGrammarOfTheArabicLanguageV1"
+        "url": "https://archive.org/details/WrightsArabicGrammar1Of2"
       },
       {
         "label": "Quranic Arabic Corpus — Morphology Search",
-        "url": "https://corpus.quran.com/wordmorphology.jsp"
+        "url": "https://corpus.quran.com/wordmorphology.jsp",
+        "verifyUrl": "https://corpus.quran.com/wordbyword.jsp"
       },
       {
         "label": "Lane's Lexicon (Root Semantics)",
@@ -326,7 +327,7 @@
         ]
       },
       "wrightReference": "Wright I §178-180",
-      "wrightUrl": "https://archive.org/details/grammarofthearab01telerich"
+      "wrightUrl": "https://archive.org/details/WrightsArabicGrammar1Of2"
     },
     {
       "id": "2.2",
@@ -468,7 +469,7 @@
               {
                 "form": "IV",
                 "arabic": "أَسْلَمَ",
-                "meaning": "er übergab sich (Gott) — Islām"
+                "meaning": "er ergab sich / er unterwarf sich — Islām"
               },
               {
                 "form": "V",
@@ -765,7 +766,7 @@
         ]
       },
       "wrightReference": "Wright I §181-225",
-      "wrightUrl": "https://archive.org/details/grammarofthearab01telerich"
+      "wrightUrl": "https://archive.org/details/WrightsArabicGrammar1Of2"
     },
     {
       "id": "2.3",
@@ -1054,7 +1055,7 @@
         ]
       },
       "wrightReference": "Wright I §72-81",
-      "wrightUrl": "https://archive.org/details/grammarofthearab01telerich"
+      "wrightUrl": "https://archive.org/details/WrightsArabicGrammar1Of2"
     },
     {
       "id": "2.4",
@@ -1346,7 +1347,7 @@
         ]
       },
       "wrightReference": "Wright I §82-94",
-      "wrightUrl": "https://archive.org/details/grammarofthearab01telerich"
+      "wrightUrl": "https://archive.org/details/WrightsArabicGrammar1Of2"
     },
     {
       "id": "2.5",
@@ -1558,7 +1559,7 @@
         ]
       },
       "wrightReference": "Wright I §95-97",
-      "wrightUrl": "https://archive.org/details/grammarofthearab01telerich"
+      "wrightUrl": "https://archive.org/details/WrightsArabicGrammar1Of2"
     },
     {
       "id": "2.6",
@@ -1785,7 +1786,7 @@
         ]
       },
       "wrightReference": "Wright I §98-105, II §1-31",
-      "wrightUrl": "https://archive.org/details/grammarofthearab01telerich"
+      "wrightUrl": "https://archive.org/details/WrightsArabicGrammar1Of2"
     },
     {
       "id": "2.7",
@@ -1972,7 +1973,7 @@
         ]
       },
       "wrightReference": "Wright I §106-111",
-      "wrightUrl": "https://archive.org/details/grammarofthearab01telerich",
+      "wrightUrl": "https://archive.org/details/WrightsArabicGrammar1Of2",
       "crossReferences": [
         "2.26",
         "3.2"
@@ -2153,7 +2154,7 @@
         ]
       },
       "wrightReference": "Wright I §112-114",
-      "wrightUrl": "https://archive.org/details/grammarofthearab01telerich",
+      "wrightUrl": "https://archive.org/details/WrightsArabicGrammar1Of2",
       "crossReferences": [
         "2.6"
       ]
@@ -2707,7 +2708,7 @@
         ]
       },
       "wrightReference": "Wright I §115-177",
-      "wrightUrl": "https://archive.org/details/grammarofthearab01telerich"
+      "wrightUrl": "https://archive.org/details/WrightsArabicGrammar1Of2"
     },
     {
       "id": "2.11",
@@ -3409,7 +3410,7 @@
         ]
       },
       "wrightReference": "Wright I §231-275",
-      "wrightUrl": "https://archive.org/details/grammarofthearab01telerich",
+      "wrightUrl": "https://archive.org/details/WrightsArabicGrammar1Of2",
       "crossReferences": [
         "2.29",
         "2.30",
@@ -3591,7 +3592,7 @@
         ]
       },
       "wrightReference": "Wright I §289-294",
-      "wrightUrl": "https://archive.org/details/grammarofthearab01telerich",
+      "wrightUrl": "https://archive.org/details/WrightsArabicGrammar1Of2",
       "crossReferences": [
         "3.10"
       ]
@@ -3891,7 +3892,7 @@
         ]
       },
       "wrightReference": "Wright I §295-334",
-      "wrightUrl": "https://archive.org/details/grammarofthearab01telerich",
+      "wrightUrl": "https://archive.org/details/WrightsArabicGrammar1Of2",
       "crossReferences": [
         "2.15",
         "3.18"
@@ -4052,7 +4053,7 @@
         ]
       },
       "wrightReference": "Wright I §335-340",
-      "wrightUrl": "https://archive.org/details/grammarofthearab01telerich"
+      "wrightUrl": "https://archive.org/details/WrightsArabicGrammar1Of2"
     },
     {
       "id": "2.15",
@@ -4330,7 +4331,7 @@
         ]
       },
       "wrightReference": "Wright I §280-288, II §147-154",
-      "wrightUrl": "https://archive.org/details/grammarofthearab01telerich",
+      "wrightUrl": "https://archive.org/details/WrightsArabicGrammar1Of2",
       "crossReferences": [
         "2.13",
         "3.18",
@@ -4429,7 +4430,7 @@
         ]
       },
       "wrightReference": "Wright I §276-279",
-      "wrightUrl": "https://archive.org/details/grammarofthearab01telerich"
+      "wrightUrl": "https://archive.org/details/WrightsArabicGrammar1Of2"
     },
     {
       "id": "2.17",
@@ -4610,7 +4611,7 @@
         ]
       },
       "wrightReference": "Wright I §341-365",
-      "wrightUrl": "https://archive.org/details/grammarofthearab01telerich",
+      "wrightUrl": "https://archive.org/details/WrightsArabicGrammar1Of2",
       "crossReferences": [
         "3.1"
       ]
@@ -5472,7 +5473,7 @@
         ]
       },
       "wrightReference": "Wright I §366-388, II §55-80",
-      "wrightUrl": "https://archive.org/details/grammarofthearab01telerich",
+      "wrightUrl": "https://archive.org/details/WrightsArabicGrammar1Of2",
       "crossReferences": [
         "3.7",
         "3.40"
@@ -5717,7 +5718,7 @@
         ]
       },
       "wrightReference": "Wright I §389-393",
-      "wrightUrl": "https://archive.org/details/grammarofthearab01telerich"
+      "wrightUrl": "https://archive.org/details/WrightsArabicGrammar1Of2"
     },
     {
       "id": "2.21",
@@ -5984,7 +5985,7 @@
         ]
       },
       "wrightReference": "Wright I §231-275",
-      "wrightUrl": "https://archive.org/details/grammarofthearab01telerich"
+      "wrightUrl": "https://archive.org/details/WrightsArabicGrammar1Of2"
     },
     {
       "id": "2.22",
@@ -6136,7 +6137,7 @@
         ]
       },
       "wrightReference": "Wright I §225-230",
-      "wrightUrl": "https://archive.org/details/grammarofthearab01telerich"
+      "wrightUrl": "https://archive.org/details/WrightsArabicGrammar1Of2"
     },
     {
       "id": "2.23",
@@ -6294,7 +6295,7 @@
         ]
       },
       "wrightReference": "Wright I §394-399",
-      "wrightUrl": "https://archive.org/details/grammarofthearab01telerich"
+      "wrightUrl": "https://archive.org/details/WrightsArabicGrammar1Of2"
     },
     {
       "id": "2.24",
@@ -6558,7 +6559,7 @@
         ]
       },
       "wrightReference": "Wright I §1-20",
-      "wrightUrl": "https://archive.org/details/grammarofthearab01telerich"
+      "wrightUrl": "https://archive.org/details/WrightsArabicGrammar1Of2"
     },
     {
       "id": "2.25",
@@ -6721,7 +6722,7 @@
         ]
       },
       "wrightReference": "Wright I §100-105",
-      "wrightUrl": "https://archive.org/details/grammarofthearab01telerich",
+      "wrightUrl": "https://archive.org/details/WrightsArabicGrammar1Of2",
       "crossReferences": [
         "3.8",
         "3.17"
@@ -6916,7 +6917,7 @@
         ]
       },
       "wrightReference": "Wright I §106-111",
-      "wrightUrl": "https://archive.org/details/grammarofthearab01telerich"
+      "wrightUrl": "https://archive.org/details/WrightsArabicGrammar1Of2"
     },
     {
       "id": "2.27",
@@ -7146,7 +7147,7 @@
         ]
       },
       "wrightReference": "Wright I §269-275, II §81-90",
-      "wrightUrl": "https://archive.org/details/grammarofthearab01telerich",
+      "wrightUrl": "https://archive.org/details/WrightsArabicGrammar1Of2",
       "crossReferences": [
         "3.3",
         "3.9",
@@ -7320,7 +7321,7 @@
         ]
       },
       "wrightReference": "Wright I §275a-275d",
-      "wrightUrl": "https://archive.org/details/grammarofthearab01telerich"
+      "wrightUrl": "https://archive.org/details/WrightsArabicGrammar1Of2"
     },
     {
       "id": "2.29",
@@ -7648,7 +7649,7 @@
         ]
       },
       "wrightReference": "Wright I §231-245",
-      "wrightUrl": "https://archive.org/details/grammarofthearab01telerich"
+      "wrightUrl": "https://archive.org/details/WrightsArabicGrammar1Of2"
     },
     {
       "id": "2.30",
@@ -7876,7 +7877,7 @@
         ]
       },
       "wrightReference": "Wright I §246-260",
-      "wrightUrl": "https://archive.org/details/grammarofthearab01telerich"
+      "wrightUrl": "https://archive.org/details/WrightsArabicGrammar1Of2"
     },
     {
       "id": "2.31",
@@ -8070,7 +8071,7 @@
         ]
       },
       "wrightReference": "Wright I §261-265",
-      "wrightUrl": "https://archive.org/details/grammarofthearab01telerich"
+      "wrightUrl": "https://archive.org/details/WrightsArabicGrammar1Of2"
     },
     {
       "id": "2.32",
@@ -8169,7 +8170,7 @@
         ]
       },
       "wrightReference": "Wright I §266-268",
-      "wrightUrl": "https://archive.org/details/grammarofthearab01telerich"
+      "wrightUrl": "https://archive.org/details/WrightsArabicGrammar1Of2"
     },
     {
       "id": "2.33",
@@ -8247,7 +8248,7 @@
         ]
       },
       "wrightReference": "Wright I §269-273",
-      "wrightUrl": "https://archive.org/details/grammarofthearab01telerich"
+      "wrightUrl": "https://archive.org/details/WrightsArabicGrammar1Of2"
     },
     {
       "id": "2.34",
@@ -8439,7 +8440,7 @@
         ]
       },
       "wrightReference": "Wright I §72-78",
-      "wrightUrl": "https://archive.org/details/grammarofthearab01telerich"
+      "wrightUrl": "https://archive.org/details/WrightsArabicGrammar1Of2"
     },
     {
       "id": "2.35",
@@ -8613,7 +8614,7 @@
         ]
       },
       "wrightReference": "Wright I §170-177",
-      "wrightUrl": "https://archive.org/details/grammarofthearab01telerich"
+      "wrightUrl": "https://archive.org/details/WrightsArabicGrammar1Of2"
     },
     {
       "id": "2.36",
@@ -8726,7 +8727,7 @@
         ]
       },
       "wrightReference": "Wright I §142-155",
-      "wrightUrl": "https://archive.org/details/grammarofthearab01telerich"
+      "wrightUrl": "https://archive.org/details/WrightsArabicGrammar1Of2"
     },
     {
       "id": "2.37",
@@ -8844,7 +8845,7 @@
         ]
       },
       "wrightReference": "Wright I §156-169",
-      "wrightUrl": "https://archive.org/details/grammarofthearab01telerich"
+      "wrightUrl": "https://archive.org/details/WrightsArabicGrammar1Of2"
     },
     {
       "id": "2.38",
@@ -8968,7 +8969,7 @@
         ]
       },
       "wrightReference": "Wright I §115-120",
-      "wrightUrl": "https://archive.org/details/grammarofthearab01telerich"
+      "wrightUrl": "https://archive.org/details/WrightsArabicGrammar1Of2"
     }
   ]
 }

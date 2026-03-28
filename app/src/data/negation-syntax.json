@@ -4,8 +4,14 @@
     "description": "Systematische Behandlung aller Negationsmittel im Quranischen Arabisch. Analyse der Negationspartikeln und des Negationsverbs ليس: syntaktische Rektion, Modus- und Kasuseffekte, Verteilung im Text.",
     "totalLessons": 10,
     "sources": [
-      { "name": "Wright's Arabic Grammar Vol II", "url": "https://archive.org/details/grammarofthearab02telerich" },
-      { "name": "Quranic Arabic Corpus", "url": "https://corpus.quran.com/" }
+      {
+        "name": "Wright's Arabic Grammar Vol II",
+        "url": "https://archive.org/details/grammarofthearab02telerich"
+      },
+      {
+        "name": "Quranic Arabic Corpus",
+        "url": "https://corpus.quran.com/"
+      }
     ]
   },
   "lessons": [
@@ -31,17 +37,20 @@
               {
                 "ref": "2:2",
                 "arabic": "ذَٰلِكَ الْكِتَابُ لَا رَيْبَ فِيهِ",
-                "explanation": "لَا رَيْبَ — اسم لَا: رَيْبَ, festgesetzt auf Fatha (مَبْنِيّ عَلَى الفَتْح), Einzelwort ohne Idafa. خبر لَا: فِيهِ (Praepositionalausdruck). Gattungsnegation: Kein Zweifel irgendwelcher Art."
+                "explanation": "لَا رَيْبَ — اسم لَا: رَيْبَ, festgesetzt auf Fatha (مَبْنِيّ عَلَى الفَتْح), Einzelwort ohne Idafa. خبر لَا: فِيهِ (Praepositionalausdruck). Gattungsnegation: Kein Zweifel irgendwelcher Art.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=2"
               },
               {
                 "ref": "2:255",
                 "arabic": "اللَّهُ لَا إِلَٰهَ إِلَّا هُوَ",
-                "explanation": "لَا إِلَٰهَ — اسم لَا: إِلَٰهَ, festgesetzt auf Fatha. Das خبر ist getilgt (implizit: مَوْجُودٌ oder ثَابِتٌ). إِلَّا هُوَ ist eine مُفَرَّغ-Ausnahme (siehe Istithna'-Lektion). Die gesamte Gattung 'Gottheit' wird negiert, dann eine Ausnahme gesetzt."
+                "explanation": "لَا إِلَٰهَ — اسم لَا: إِلَٰهَ, festgesetzt auf Fatha. Das خبر ist getilgt (implizit: مَوْجُودٌ oder ثَابِتٌ). إِلَّا هُوَ ist eine مُفَرَّغ-Ausnahme (siehe Istithna'-Lektion). Die gesamte Gattung 'Gottheit' wird negiert, dann eine Ausnahme gesetzt.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=255"
               },
               {
                 "ref": "2:256",
                 "arabic": "لَا إِكْرَاهَ فِي الدِّينِ",
-                "explanation": "لَا إِكْرَاهَ — اسم لَا: إِكْرَاهَ, festgesetzt auf Fatha. خبر لَا: فِي الدِّينِ (Praepositionalausdruck). Gattungsnegation der gesamten Kategorie 'Zwang'."
+                "explanation": "لَا إِكْرَاهَ — اسم لَا: إِكْرَاهَ, festgesetzt auf Fatha. خبر لَا: فِي الدِّينِ (Praepositionalausdruck). Gattungsnegation der gesamten Kategorie 'Zwang'.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=256"
               }
             ]
           }
@@ -108,17 +117,20 @@
               {
                 "ref": "2:13",
                 "arabic": "أَلَا إِنَّهُمْ هُمُ السُّفَهَاءُ وَلَٰكِن لَّا يَعْلَمُونَ",
-                "explanation": "لَا يَعْلَمُونَ — Imperfekt im Indikativ: يَعْلَمُونَ traegt das Nun (Zeichen des Indikativs bei الأَفْعَال الخَمْسَة). لَا verneint, aendert aber den Modus nicht. Gegenwartsbezug: 'sie wissen nicht'."
+                "explanation": "لَا يَعْلَمُونَ — Imperfekt im Indikativ: يَعْلَمُونَ traegt das Nun (Zeichen des Indikativs bei الأَفْعَال الخَمْسَة). لَا verneint, aendert aber den Modus nicht. Gegenwartsbezug: 'sie wissen nicht'.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=13"
               },
               {
                 "ref": "2:170",
                 "arabic": "قَالُوا بَلْ نَتَّبِعُ مَا أَلْفَيْنَا عَلَيْهِ آبَاءَنَا أَوَلَوْ كَانَ آبَاؤُهُمْ لَا يَعْقِلُونَ شَيْئًا وَلَا يَهْتَدُونَ",
-                "explanation": "لَا يَعْقِلُونَ ... وَلَا يَهْتَدُونَ — Beide Verben im Indikativ (Nun erhalten). لَا verneint beide parallel. Hier in einem Konditionalsatz als Zustandsbeschreibung."
+                "explanation": "لَا يَعْقِلُونَ ... وَلَا يَهْتَدُونَ — Beide Verben im Indikativ (Nun erhalten). لَا verneint beide parallel. Hier in einem Konditionalsatz als Zustandsbeschreibung.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=170"
               },
               {
                 "ref": "36:7",
                 "arabic": "لَقَدْ حَقَّ الْقَوْلُ عَلَىٰ أَكْثَرِهِمْ فَهُمْ لَا يُؤْمِنُونَ",
-                "explanation": "لَا يُؤْمِنُونَ — Imperfekt im Indikativ. Nominalsatz-Struktur: هُمْ (mubtada') + لَا يُؤْمِنُونَ (khabar als Verbalsatz). Die Verneinung ist eingebettet in einen Nominalsatz."
+                "explanation": "لَا يُؤْمِنُونَ — Imperfekt im Indikativ. Nominalsatz-Struktur: هُمْ (mubtada') + لَا يُؤْمِنُونَ (khabar als Verbalsatz). Die Verneinung ist eingebettet in einen Nominalsatz.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=36&verse=7"
               }
             ]
           }
@@ -185,17 +197,20 @@
               {
                 "ref": "112:3",
                 "arabic": "لَمْ يَلِدْ وَلَمْ يُولَدْ",
-                "explanation": "لَمْ يَلِدْ — Jussiv: Sukun auf dem letzten Radikal (يَلِدْ statt يَلِدُ). لَمْ يُولَدْ — Passiv im Jussiv, ebenfalls Sukun. Negation vergangener Handlungen: 'Er hat nicht gezeugt und ist nicht gezeugt worden.'"
+                "explanation": "لَمْ يَلِدْ — Jussiv: Sukun auf dem letzten Radikal (يَلِدْ statt يَلِدُ). لَمْ يُولَدْ — Passiv im Jussiv, ebenfalls Sukun. Negation vergangener Handlungen: 'Er hat nicht gezeugt und ist nicht gezeugt worden.'",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=112&verse=3"
               },
               {
                 "ref": "112:4",
                 "arabic": "وَلَمْ يَكُن لَّهُ كُفُوًا أَحَدٌ",
-                "explanation": "لَمْ يَكُنْ — Jussiv von يَكُونُ: Der schwache Endradikal (و) faellt weg, es bleibt يَكُنْ mit Sukun. كان-Konstruktion: كُفُوًا ist خبر كان im Akkusativ. أَحَدٌ ist اسم كان im Nominativ (nachgestellt)."
+                "explanation": "لَمْ يَكُنْ — Jussiv von يَكُونُ: Der schwache Endradikal (و) faellt weg, es bleibt يَكُنْ mit Sukun. كان-Konstruktion: كُفُوًا ist خبر كان im Akkusativ. أَحَدٌ ist اسم كان im Nominativ (nachgestellt).",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=112&verse=4"
               },
               {
                 "ref": "19:7",
                 "arabic": "وَلَمْ نَجْعَل لَّهُ مِن قَبْلُ سَمِيًّا",
-                "explanation": "لَمْ نَجْعَلْ — Jussiv: Sukun auf dem letzten Radikal (نَجْعَلْ statt نَجْعَلُ). Vergangenheitsnegation: 'Wir haben ihm zuvor keinen Namensvetter gegeben.'"
+                "explanation": "لَمْ نَجْعَلْ — Jussiv: Sukun auf dem letzten Radikal (نَجْعَلْ statt نَجْعَلُ). Vergangenheitsnegation: 'Wir haben ihm zuvor keinen Namensvetter gegeben.'",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=19&verse=7"
               }
             ]
           }
@@ -262,17 +277,20 @@
               {
                 "ref": "7:143",
                 "arabic": "قَالَ لَن تَرَانِي وَلَٰكِنِ انظُرْ إِلَى الْجَبَلِ",
-                "explanation": "لَنْ تَرَانِي — Subjunktiv: تَرَى mit Fatha (hier unsichtbar, da ناقص-Verb). Emphatische Zukunftsnegation: 'Du wirst mich keinesfalls sehen.' Das وَلَٰكِنِ leitet eine Alternative ein."
+                "explanation": "لَنْ تَرَانِي — Subjunktiv: تَرَى mit Fatha (hier unsichtbar, da ناقص-Verb). Emphatische Zukunftsnegation: 'Du wirst mich keinesfalls sehen.' Das وَلَٰكِنِ leitet eine Alternative ein.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=7&verse=143"
               },
               {
                 "ref": "2:55",
                 "arabic": "لَن نُّؤْمِنَ لَكَ حَتَّىٰ نَرَى اللَّهَ جَهْرَةً",
-                "explanation": "لَنْ نُؤْمِنَ — Subjunktiv: نُؤْمِنَ mit Fatha auf dem letzten Radikal (statt Damma im Indikativ). Emphatische Verneinung: 'Wir werden dir keinesfalls glauben, bis...'"
+                "explanation": "لَنْ نُؤْمِنَ — Subjunktiv: نُؤْمِنَ mit Fatha auf dem letzten Radikal (statt Damma im Indikativ). Emphatische Verneinung: 'Wir werden dir keinesfalls glauben, bis...'",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=55"
               },
               {
                 "ref": "3:92",
                 "arabic": "لَن تَنَالُوا الْبِرَّ حَتَّىٰ تُنفِقُوا مِمَّا تُحِبُّونَ",
-                "explanation": "لَنْ تَنَالُوا — Subjunktiv der fuenf Formen: Wegfall des Nun (تَنَالُوا statt تَنَالُونَ). Emphatische Zukunftsnegation: 'Ihr werdet die Guete keinesfalls erlangen, bis...'"
+                "explanation": "لَنْ تَنَالُوا — Subjunktiv der fuenf Formen: Wegfall des Nun (تَنَالُوا statt تَنَالُونَ). Emphatische Zukunftsnegation: 'Ihr werdet die Guete keinesfalls erlangen, bis...'",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=92"
               }
             ]
           }
@@ -339,17 +357,20 @@
               {
                 "ref": "49:14",
                 "arabic": "قَالَتِ الْأَعْرَابُ آمَنَّا قُل لَّمْ تُؤْمِنُوا وَلَٰكِن قُولُوا أَسْلَمْنَا وَلَمَّا يَدْخُلِ الْإِيمَانُ فِي قُلُوبِكُمْ",
-                "explanation": "وَلَمَّا يَدْخُلِ — Jussiv: يَدْخُلْ (Sukun, hier mit Kasra wegen Treffens zweier Sukun: يَدْخُلِ). 'Noch nicht'-Negation: Der Glaube ist noch nicht in ihre Herzen eingetreten — die Moeglichkeit besteht aber. Kontrast zu لَمْ تُؤْمِنُوا im selben Vers: Dort einfache Vergangenheitsnegation."
+                "explanation": "وَلَمَّا يَدْخُلِ — Jussiv: يَدْخُلْ (Sukun, hier mit Kasra wegen Treffens zweier Sukun: يَدْخُلِ). 'Noch nicht'-Negation: Der Glaube ist noch nicht in ihre Herzen eingetreten — die Moeglichkeit besteht aber. Kontrast zu لَمْ تُؤْمِنُوا im selben Vers: Dort einfache Vergangenheitsnegation.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=49&verse=14"
               },
               {
                 "ref": "38:8",
                 "arabic": "بَلْ لَّمَّا يَذُوقُوا عَذَابِ",
-                "explanation": "لَمَّا يَذُوقُوا — Jussiv der fuenf Formen: Wegfall des Nun (يَذُوقُوا statt يَذُوقُونَ). 'Sie haben meine Strafe noch nicht gekostet.' Die Implikation: Das Kosten steht noch bevor."
+                "explanation": "لَمَّا يَذُوقُوا — Jussiv der fuenf Formen: Wegfall des Nun (يَذُوقُوا statt يَذُوقُونَ). 'Sie haben meine Strafe noch nicht gekostet.' Die Implikation: Das Kosten steht noch bevor.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=38&verse=8"
               },
               {
                 "ref": "3:142",
                 "arabic": "أَمْ حَسِبْتُمْ أَن تَدْخُلُوا الْجَنَّةَ وَلَمَّا يَعْلَمِ اللَّهُ الَّذِينَ جَاهَدُوا مِنكُمْ وَيَعْلَمَ الصَّابِرِينَ",
-                "explanation": "وَلَمَّا يَعْلَمِ — Jussiv (Kasra wegen Treffens zweier Sukun). 'Noch nicht'-Negation: Die Pruefung steht noch aus. يَعْلَمَ danach steht im Subjunktiv (Fatha), koordiniert durch وَ nach einem majzum-Verb — eine alternative syntaktische Analyse."
+                "explanation": "وَلَمَّا يَعْلَمِ — Jussiv (Kasra wegen Treffens zweier Sukun). 'Noch nicht'-Negation: Die Pruefung steht noch aus. يَعْلَمَ danach steht im Subjunktiv (Fatha), koordiniert durch وَ nach einem majzum-Verb — eine alternative syntaktische Analyse.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=142"
               }
             ]
           }
@@ -405,17 +426,20 @@
               {
                 "ref": "9:113",
                 "arabic": "مَا كَانَ لِلنَّبِيِّ وَالَّذِينَ آمَنُوا أَن يَسْتَغْفِرُوا لِلْمُشْرِكِينَ",
-                "explanation": "مَا كَانَ — مَا + Perfekt: Negation in der Vergangenheit. كَانَ bleibt morphologisch unveraendert. مَا hat hier keine Kasusrektion — die كان-Konstruktion regiert selbst."
+                "explanation": "مَا كَانَ — مَا + Perfekt: Negation in der Vergangenheit. كَانَ bleibt morphologisch unveraendert. مَا hat hier keine Kasusrektion — die كان-Konstruktion regiert selbst.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=9&verse=113"
               },
               {
                 "ref": "12:31",
                 "arabic": "مَا هَٰذَا بَشَرًا إِنْ هَٰذَا إِلَّا مَلَكٌ كَرِيمٌ",
-                "explanation": "مَا هَٰذَا بَشَرًا — مَا الحِجَازِيَّة: هَٰذَا ist اسم مَا (Subjekt, im Nominativ). بَشَرًا ist خبر مَا im Akkusativ (wie bei لَيْسَ). Kontrast im selben Vers: إِنْ هَٰذَا إِلَّا مَلَكٌ — hier steht مَلَكٌ im Nominativ, weil إِنْ (= مَا) bei مُفَرَّغ-Konstruktion mit إِلَّا keine Kasusrektion ausueben kann."
+                "explanation": "مَا هَٰذَا بَشَرًا — مَا الحِجَازِيَّة: هَٰذَا ist اسم مَا (Subjekt, im Nominativ). بَشَرًا ist خبر مَا im Akkusativ (wie bei لَيْسَ). Kontrast im selben Vers: إِنْ هَٰذَا إِلَّا مَلَكٌ — hier steht مَلَكٌ im Nominativ, weil إِنْ (= مَا) bei مُفَرَّغ-Konstruktion mit إِلَّا keine Kasusrektion ausueben kann.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=12&verse=31"
               },
               {
                 "ref": "3:144",
                 "arabic": "وَمَا مُحَمَّدٌ إِلَّا رَسُولٌ قَدْ خَلَتْ مِن قَبْلِهِ الرُّسُلُ",
-                "explanation": "مَا مُحَمَّدٌ إِلَّا رَسُولٌ — مُفَرَّغ-Konstruktion: مَا negiert, إِلَّا رَسُولٌ ist das Praedikat. رَسُولٌ steht im Nominativ — weil إِلَّا folgt, verliert مَا die Rektion (مَا الحِجَازِيَّة wirkt nicht bei Ausnahmekonstruktionen)."
+                "explanation": "مَا مُحَمَّدٌ إِلَّا رَسُولٌ — مُفَرَّغ-Konstruktion: مَا negiert, إِلَّا رَسُولٌ ist das Praedikat. رَسُولٌ steht im Nominativ — weil إِلَّا folgt, verliert مَا die Rektion (مَا الحِجَازِيَّة wirkt nicht bei Ausnahmekonstruktionen).",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=144"
               }
             ]
           }
@@ -482,17 +506,20 @@
               {
                 "ref": "42:11",
                 "arabic": "لَيْسَ كَمِثْلِهِ شَيْءٌ وَهُوَ السَّمِيعُ الْبَصِيرُ",
-                "explanation": "لَيْسَ كَمِثْلِهِ شَيْءٌ — اسم لَيْسَ: شَيْءٌ (Nominativ, nachgestellt). خبر لَيْسَ: كَمِثْلِهِ (vorangestellt). Die Praeposition كَ ('wie') leitet das خبر ein. مِثْلِهِ steht im Genitiv nach كَ."
+                "explanation": "لَيْسَ كَمِثْلِهِ شَيْءٌ — اسم لَيْسَ: شَيْءٌ (Nominativ, nachgestellt). خبر لَيْسَ: كَمِثْلِهِ (vorangestellt). Die Praeposition كَ ('wie') leitet das خبر ein. مِثْلِهِ steht im Genitiv nach كَ.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=42&verse=11"
               },
               {
                 "ref": "2:177",
                 "arabic": "لَّيْسَ الْبِرَّ أَن تُوَلُّوا وُجُوهَكُمْ قِبَلَ الْمَشْرِقِ وَالْمَغْرِبِ",
-                "explanation": "لَيْسَ الْبِرَّ أَنْ تُوَلُّوا — الْبِرَّ steht im Akkusativ: Es ist خبر لَيْسَ (vorangestellt). أَنْ تُوَلُّوا ist اسم لَيْسَ (Nominativ, als مَصْدَر مُؤَوَّل). Beachte: Das خبر kann dem اسم vorangestellt werden."
+                "explanation": "لَيْسَ الْبِرَّ أَنْ تُوَلُّوا — الْبِرَّ steht im Akkusativ: Es ist خبر لَيْسَ (vorangestellt). أَنْ تُوَلُّوا ist اسم لَيْسَ (Nominativ, als مَصْدَر مُؤَوَّل). Beachte: Das خبر kann dem اسم vorangestellt werden.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=177"
               },
               {
                 "ref": "3:182",
                 "arabic": "وَأَنَّ اللَّهَ لَيْسَ بِظَلَّامٍ لِّلْعَبِيدِ",
-                "explanation": "لَيْسَ بِظَلَّامٍ — بِ ist zaaidah (expletiv). ظَلَّامٍ steht im Genitiv wegen بِ, ist aber syntaktisch خبر لَيْسَ. اسم لَيْسَ ist das implizite Pronomen (هُوَ), das auf اللَّه zurueckverweist."
+                "explanation": "لَيْسَ بِظَلَّامٍ — بِ ist zaaidah (expletiv). ظَلَّامٍ steht im Genitiv wegen بِ, ist aber syntaktisch خبر لَيْسَ. اسم لَيْسَ ist das implizite Pronomen (هُوَ), das auf اللَّه zurueckverweist.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=182"
               }
             ]
           }
@@ -559,17 +586,20 @@
               {
                 "ref": "12:31",
                 "arabic": "إِنْ هَٰذَا إِلَّا مَلَكٌ كَرِيمٌ",
-                "explanation": "إِنْ = مَا (Negation). هَٰذَا: mubtada' (Subjekt). إِلَّا مَلَكٌ كَرِيمٌ: khabar (Praedikat) im Nominativ. مُفَرَّغ-Konstruktion: 'Dies ist nur ein edler Engel.'"
+                "explanation": "إِنْ = مَا (Negation). هَٰذَا: mubtada' (Subjekt). إِلَّا مَلَكٌ كَرِيمٌ: khabar (Praedikat) im Nominativ. مُفَرَّغ-Konstruktion: 'Dies ist nur ein edler Engel.'",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=12&verse=31"
               },
               {
                 "ref": "36:15",
                 "arabic": "إِنْ أَنتُمْ إِلَّا بَشَرٌ مِّثْلُنَا",
-                "explanation": "إِنْ = مَا. أَنتُمْ: mubtada'. إِلَّا بَشَرٌ: khabar im Nominativ. مِثْلُنَا: Attribut (نعت) zu بَشَرٌ, ebenfalls Nominativ. 'Ihr seid nur Menschen wie wir.'"
+                "explanation": "إِنْ = مَا. أَنتُمْ: mubtada'. إِلَّا بَشَرٌ: khabar im Nominativ. مِثْلُنَا: Attribut (نعت) zu بَشَرٌ, ebenfalls Nominativ. 'Ihr seid nur Menschen wie wir.'",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=36&verse=15"
               },
               {
                 "ref": "53:23",
                 "arabic": "إِنْ هِيَ إِلَّا أَسْمَاءٌ سَمَّيْتُمُوهَا",
-                "explanation": "إِنْ = مَا. هِيَ: mubtada'. إِلَّا أَسْمَاءٌ: khabar im Nominativ. سَمَّيْتُمُوهَا: Relativsatz (صِلَة) als Attribut. 'Sie sind nur Namen, die ihr (ihnen) gegeben habt.'"
+                "explanation": "إِنْ = مَا. هِيَ: mubtada'. إِلَّا أَسْمَاءٌ: khabar im Nominativ. سَمَّيْتُمُوهَا: Relativsatz (صِلَة) als Attribut. 'Sie sind nur Namen, die ihr (ihnen) gegeben habt.'",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=53&verse=23"
               }
             ]
           }
@@ -625,7 +655,8 @@
               {
                 "ref": "38:3",
                 "arabic": "كَمْ أَهْلَكْنَا مِن قَبْلِهِم مِّن قَرْنٍ فَنَادَوا وَّلَاتَ حِينَ مَنَاصٍ",
-                "explanation": "وَلَاتَ حِينَ مَنَاصٍ — لَاتَ negiert temporal: 'und es war nicht die Zeit der Rettung'. حِينَ: Akkusativ (خبر لَاتَ oder اسم لَاتَ — je nach Analyse). مَنَاصٍ: Genitiv als مُضَاف إِلَيْهِ in der Idafa حِينَ مَنَاصٍ. Das getilgte Glied ist implizit."
+                "explanation": "وَلَاتَ حِينَ مَنَاصٍ — لَاتَ negiert temporal: 'und es war nicht die Zeit der Rettung'. حِينَ: Akkusativ (خبر لَاتَ oder اسم لَاتَ — je nach Analyse). مَنَاصٍ: Genitiv als مُضَاف إِلَيْهِ in der Idafa حِينَ مَنَاصٍ. Das getilgte Glied ist implizit.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=38&verse=3"
               }
             ]
           }
@@ -681,17 +712,20 @@
               {
                 "ref": "1:7",
                 "arabic": "صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ",
-                "explanation": "غَيْرِ — Genitiv: Attribut (نعت) oder badal zu الَّذِينَ, das im Genitiv steht (Idafa-Komplement von صِرَاطَ). الْمَغْضُوبِ — Genitiv als مُضَاف إِلَيْهِ von غَيْر. Zwei verschiedene Gruende fuer denselben Kasus."
+                "explanation": "غَيْرِ — Genitiv: Attribut (نعت) oder badal zu الَّذِينَ, das im Genitiv steht (Idafa-Komplement von صِرَاطَ). الْمَغْضُوبِ — Genitiv als مُضَاف إِلَيْهِ von غَيْر. Zwei verschiedene Gruende fuer denselben Kasus.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=7"
               },
               {
                 "ref": "2:173",
                 "arabic": "فَمَنِ اضْطُرَّ غَيْرَ بَاغٍ وَلَا عَادٍ فَلَا إِثْمَ عَلَيْهِ",
-                "explanation": "غَيْرَ — Akkusativ: Zustandsangabe (حال) zum Subjekt von اضْطُرَّ. بَاغٍ — Genitiv als Idafa-Komplement. 'Wer gezwungen ist, ohne begehrend (zu sein)...'"
+                "explanation": "غَيْرَ — Akkusativ: Zustandsangabe (حال) zum Subjekt von اضْطُرَّ. بَاغٍ — Genitiv als Idafa-Komplement. 'Wer gezwungen ist, ohne begehrend (zu sein)...'",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=173"
               },
               {
                 "ref": "10:15",
                 "arabic": "قُلْ مَا يَكُونُ لِي أَنْ أُبَدِّلَهُ مِن تِلْقَاءِ نَفْسِي إِنْ أَتَّبِعُ إِلَّا مَا يُوحَىٰ إِلَيَّ",
-                "explanation": "Dieser Vers zeigt zum Vergleich إِلَّا statt غَيْر in einer Negationskonstruktion: إِنْ أَتَّبِعُ إِلَّا مَا يُوحَىٰ — مُفَرَّغ-Konstruktion mit إِنْ النَّافِيَة. Kontrast: غَيْر ist nominal und bildet Idafa, إِلَّا ist Partikel und regiert keinen Kasus."
+                "explanation": "Dieser Vers zeigt zum Vergleich إِلَّا statt غَيْر in einer Negationskonstruktion: إِنْ أَتَّبِعُ إِلَّا مَا يُوحَىٰ — مُفَرَّغ-Konstruktion mit إِنْ النَّافِيَة. Kontrast: غَيْر ist nominal und bildet Idafa, إِلَّا ist Partikel und regiert keinen Kasus.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=10&verse=15"
               }
             ]
           }
