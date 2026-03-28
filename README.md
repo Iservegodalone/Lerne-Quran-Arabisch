@@ -56,4 +56,4 @@ npm run test:e2e    # E2E Tests
 
 ## Lizenz
 
-MIT License — siehe [LICENSE](LICENSE).
+[CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) — frei nutzbar, nicht kommerziell.
