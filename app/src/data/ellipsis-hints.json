@@ -1,0 +1,191 @@
+{
+  "meta": {
+    "title": "Ellipsen-Hinweise",
+    "description": "Daten fuer optionale Hinweise wenn eine grammatisch erwartete Stelle unbesetzt bleibt."
+  },
+  "transitiveVerbs": [
+    "كتب", "ضرب", "جعل", "علم", "خلق", "فتح", "رزق", "ارسل", "انزل", "اتى",
+    "اخذ", "قتل", "سال", "رحم", "هدى", "وجد", "شهد", "امر", "كسب", "عمل",
+    "بلغ", "حمل", "طلب", "بنى", "سمع", "بصر", "نصر", "حفظ", "غفر", "سبح",
+    "ذكر", "ترك", "وعد", "ملك", "نسي", "ظلم", "حرم", "زاد", "شكر", "صدق",
+    "كذب", "دخل", "وهب", "سمى", "بدل", "اراد", "حسب", "ظن", "اكل", "شرب"
+  ],
+  "hints": {
+    "missing_object": "Dieses Verb ist transitiv, aber kein direktes Objekt (Maf'ul bihi) ist sichtbar. Moegliche Erklaerungen: (1) Das Objekt ist aus dem Kontext impliziert (Ellipse). (2) Das Verb wird hier intransitiv gebraucht. (3) Das Objekt folgt in einem spaeterem Vers.",
+    "missing_khabar": "Ein Mubtada' wurde identifiziert, aber kein Khabar ist sichtbar. Das Praedikat koennte: (1) in einem Nebensatz stehen, (2) durch einen Praepositionalsatz ersetzt sein (jarr wa-majrur als Khabar), (3) aus dem vorherigen Kontext impliziert sein.",
+    "missing_fa3il": "Ein Verb wurde identifiziert, aber kein explizites Subjekt (Fa'il) ist sichtbar. Im Arabischen kann das Subjekt im Verb selbst enthalten sein (Personalendung) — aber pruefen ob ein separates Subjekt erwartet wird.",
+    "missing_verb": "Ein Satz oder eine Konstruktion deutet auf ein elidiertes Verb hin. Typisch bei: (1) Schwursaetzen — der Schwurinhalt (jawab al-qasam) hat ein implizites Verb. (2) Konditionalsaetzen — das Verb der Protasis oder Apodosis fehlt. (3) Existenz-/Praesentivsaetzen, wo 'kana' oder ein Bewegungsverb impliziert ist.",
+    "missing_mawsuf": "Ein Adjektiv oder eine Beschreibung steht ohne sichtbares beschriebenes Nomen (Mawsuf). Das Adjektiv wird substantivisch gebraucht, wobei das beschriebene Nomen aus dem Kontext erschliessbar ist. Typisch bei Zahlwoertern, Farbbezeichnungen und partizipialen Konstruktionen.",
+    "missing_condition_answer": "Ein Konditionalsatz (in/idha/law + Bedingung) ist sichtbar, aber die Antwort (Jawab al-Shart) fehlt oder ist nur impliziert. Moegliche Erklaerungen: (1) Die Antwort ist identisch mit dem vorhergehenden Hauptsatz. (2) Die Antwort wird durch den Kontext als selbstverstaendlich vorausgesetzt. (3) Die Ellipse dient der rhetorischen Wirkung (Auslassung des Schrecklichen/Gewaltigen)."
+  },
+  "concreteExamples": [
+    {
+      "ref": "2:62",
+      "arabic": "مَنْ آمَنَ بِاللَّهِ وَالْيَوْمِ الْآخِرِ وَعَمِلَ صَالِحًا",
+      "ellipsisType": "missing_object",
+      "analysis": "عَمِلَ ist transitiv. Das Objekt صَالِحًا steht als Adjektiv, das implizite Mawsuf (عَمَلًا) ist elidiert: 'wer Rechtschaffenes tut' — d.h. 'wer eine rechtschaffene Tat tut'."
+    },
+    {
+      "ref": "12:82",
+      "arabic": "وَاسْأَلِ الْقَرْيَةَ الَّتِي كُنَّا فِيهَا",
+      "ellipsisType": "missing_mawsuf",
+      "analysis": "وَاسْأَلِ الْقَرْيَةَ — frag die Ortschaft. Der Ausdruck funktioniert ueber Metonymie: die Ortschaft steht fuer das, was mit ihr assoziiert ist. Kein fehlendes Wort muss ergaenzt werden."
+    },
+    {
+      "ref": "38:32",
+      "arabic": "رُدُّوهَا عَلَيَّ",
+      "ellipsisType": "missing_object",
+      "analysis": "Das Pronomen -ها referiert auf etwas im vorherigen Kontext (die Pferde), das nicht im selben Satz explizit genannt wird. Der Bezug muss aus dem Erzaehlkontext erschlossen werden."
+    },
+    {
+      "ref": "2:184",
+      "arabic": "فَمَنْ كَانَ مِنْكُمْ مَرِيضًا أَوْ عَلَىٰ سَفَرٍ فَعِدَّةٌ مِنْ أَيَّامٍ أُخَرَ",
+      "ellipsisType": "missing_khabar",
+      "analysis": "فَعِدَّةٌ ist Mubtada'. Das Khabar ist elidiert. Die syntaktische Struktur: فَ (Apodosis-Partikel) + عِدَّةٌ (Mubtada', Nominativ) + مِنْ أَيَّامٍ أُخَرَ (Sifa/Jarr wa-Majrur). Das fehlende Praedikat muss aus dem Kontext erschlossen werden."
+    },
+    {
+      "ref": "2:233",
+      "arabic": "وَالْوَالِدَاتُ يُرْضِعْنَ أَوْلَادَهُنَّ حَوْلَيْنِ كَامِلَيْنِ",
+      "ellipsisType": "missing_verb",
+      "analysis": "يُرْضِعْنَ steht im Indikativ (مُضَارِع مَرْفُوع). Es gibt kein sichtbares Modalverb — der deontische Charakter des Satzes entsteht durch den Kontext, nicht durch ein elidiertes Element. Der Satz ist syntaktisch vollstaendig: Mubtada' (الْوَالِدَاتُ) + Khabar (Verbalsatz يُرْضِعْنَ أَوْلَادَهُنَّ)."
+    },
+    {
+      "ref": "39:73",
+      "arabic": "حَتَّىٰ إِذَا جَاءُوهَا وَفُتِحَتْ أَبْوَابُهَا وَقَالَ لَهُمْ خَزَنَتُهَا سَلَامٌ عَلَيْكُمْ",
+      "ellipsisType": "missing_condition_answer",
+      "analysis": "حَتَّىٰ إِذَا leitet eine Bedingung ein, aber der Jawab al-Shart fehlt formal. Das Waw vor فُتِحَتْ ist umstritten: Ist es Teil der Shart oder Beginn des Jawab? Die Ellipse bewirkt, dass der Leser die Szene als simultanes Geschehen erlebt."
+    },
+    {
+      "ref": "13:31",
+      "arabic": "وَلَوْ أَنَّ قُرْآنًا سُيِّرَتْ بِهِ الْجِبَالُ أَوْ قُطِّعَتْ بِهِ الْأَرْضُ أَوْ كُلِّمَ بِهِ الْمَوْتَىٰ",
+      "ellipsisType": "missing_condition_answer",
+      "analysis": "Die Apodosis (Nachsatz) des Konditionalsatzes fehlt. Der Text laesst den Nachsatz bewusst offen — ein rhetorisches Mittel (Hazf al-Jawab), das die Wirkung dem Leser ueberlaesst."
+    },
+    {
+      "ref": "2:48",
+      "arabic": "وَاتَّقُوا يَوْمًا لَا تَجْزِي نَفْسٌ عَنْ نَفْسٍ شَيْئًا",
+      "ellipsisType": "missing_mawsuf",
+      "analysis": "يَوْمًا ist temporal, aber das Relativpronomen fehlt: 'Fuerchtet einen Tag, [an dem] keine Seele fuer eine andere Seele etwas vergelten kann'. Der Relativsatz qualifiziert يَوْمًا direkt ohne الَّذِي."
+    },
+    {
+      "ref": "2:124",
+      "arabic": "قَالَ إِنِّي جَاعِلُكَ لِلنَّاسِ إِمَامًا قَالَ وَمِنْ ذُرِّيَّتِي",
+      "ellipsisType": "missing_verb",
+      "analysis": "وَمِنْ ذُرِّيَّتِي — das Verb/Praedikat fehlt: '[setze auch aus] meiner Nachkommenschaft [Führende/Vorbilder ein]'. Das Verb جَاعِل aus dem vorherigen Satz wird impliziert. إِمَام = Vorangehender, Führer, Vorbild (nicht auf den institutionellen Religionsbegriff einzuschränken)."
+    },
+    {
+      "ref": "56:63",
+      "arabic": "أَفَرَأَيْتُمْ مَا تَحْرُثُونَ",
+      "ellipsisType": "missing_object",
+      "analysis": "رَأَيْتُمْ nimmt hier zwei Objekte: das erste ist مَا تَحْرُثُونَ, das zweite (Jawab) folgt in V.64. Das zweite Objekt ist syntaktisch getrennt durch den Fragesatz."
+    },
+    {
+      "ref": "3:7",
+      "arabic": "هُوَ الَّذِي أَنْزَلَ عَلَيْكَ الْكِتَابَ مِنْهُ آيَاتٌ مُحْكَمَاتٌ",
+      "ellipsisType": "apparent_ellipsis",
+      "analysis": "مِنْهُ آيَاتٌ — der Praepositionalausdruck مِنْهُ fungiert als vorgestelltes Khabar fuer das Mubtada' آيَاتٌ. Dies ist KEINE Ellipse: Das Khabar ist vollständig vorhanden, realisiert als Jarr-wa-Majrur. Dieses Beispiel zeigt den Unterschied zwischen echter Ellipse (fehlendes Element) und einer ungewöhnlichen Khabar-Realisierung."
+    },
+    {
+      "ref": "6:95",
+      "arabic": "فَالِقُ الْحَبِّ وَالنَّوَىٰ يُخْرِجُ الْحَيَّ مِنَ الْمَيِّتِ",
+      "ellipsisType": "missing_fa3il",
+      "analysis": "يُخْرِجُ — das Subjekt ist im Verb impliziert (3ms) und referiert auf الله aus dem Kontext. Kein separates Fa'il im Satz."
+    },
+    {
+      "ref": "75:1",
+      "arabic": "لَا أُقْسِمُ بِيَوْمِ الْقِيَامَةِ",
+      "ellipsisType": "missing_condition_answer",
+      "analysis": "Der Schwur (لَا أُقْسِمُ, wohl: 'Ich schwöre') hat keinen unmittelbaren Jawab al-Qasam. Der Inhalt des Schwurs wird erst spaeter im Kontext deutlich. Typische Schwur-Ellipse."
+    },
+    {
+      "ref": "36:13",
+      "arabic": "وَاضْرِبْ لَهُمْ مَثَلًا أَصْحَابَ الْقَرْيَةِ",
+      "ellipsisType": "missing_verb",
+      "analysis": "أَصْحَابَ الْقَرْيَةِ steht als Badal (Apposition) zu مَثَلًا im Akkusativ. Der Satz ist syntaktisch vollstaendig — kein elidiertes Element muss angenommen werden. Die Struktur: اضْرِبْ (Verb) + لَهُمْ (indirektes Objekt) + مَثَلًا (direktes Objekt) + أَصْحَابَ الْقَرْيَةِ (Badal zu مَثَلًا)."
+    },
+    {
+      "ref": "2:196",
+      "arabic": "فَمَنْ لَمْ يَجِدْ فَصِيَامُ ثَلَاثَةِ أَيَّامٍ",
+      "ellipsisType": "missing_khabar",
+      "analysis": "فَصِيَامُ ist Mubtada'. Das Khabar ist elidiert. Die syntaktische Struktur: فَ (Apodosis-Partikel) + صِيَامُ (Mubtada', Nominativ) + ثَلَاثَةِ أَيَّامٍ (Idafa, Genitiv). Das fehlende Praedikat muss aus dem Kontext erschlossen werden."
+    },
+    {
+      "ref": "4:3",
+      "arabic": "وَإِنْ خِفْتُمْ أَلَّا تُقْسِطُوا فِي الْيَتَامَىٰ فَانْكِحُوا",
+      "ellipsisType": "missing_mawsuf",
+      "analysis": "الْيَتَامَى — die Waisen. Der Text spezifiziert kein Geschlecht. Das Wort ist grammatisch ein generischer Plural."
+    },
+    {
+      "ref": "11:44",
+      "arabic": "يَا أَرْضُ ابْلَعِي مَاءَكِ وَيَا سَمَاءُ أَقْلِعِي",
+      "ellipsisType": "missing_object",
+      "analysis": "أَقْلِعِي (hoer auf) — das Objekt fehlt: 'Hoer auf [zu regnen]'. Das Verb wird absolut gebraucht, wobei das elidierte Objekt aus dem Kontext (Sintflut) erschliessbar ist."
+    },
+    {
+      "ref": "20:40",
+      "arabic": "إِذْ تَمْشِي أُخْتُكَ فَتَقُولُ هَلْ أَدُلُّكُمْ عَلَىٰ مَنْ يَكْفُلُهُ",
+      "ellipsisType": "missing_object",
+      "analysis": "أَدُلُّكُمْ — das Verb 'hinweisen' nimmt normalerweise ein weiteres Praepositional-Objekt. Hier: 'Soll ich euch hinweisen auf jemanden, der ihn aufzieht?' — das Ziel der Hinweisung (die Mutter) bleibt implizit."
+    },
+    {
+      "ref": "18:79",
+      "arabic": "أَمَّا السَّفِينَةُ فَكَانَتْ لِمَسَاكِينَ يَعْمَلُونَ فِي الْبَحْرِ",
+      "ellipsisType": "missing_object",
+      "analysis": "يَعْمَلُونَ (sie arbeiten) — das direkte Objekt fehlt. 'Sie arbeiteten [mit ihr / als Fischer]' — die Art der Arbeit ist elidiert."
+    },
+    {
+      "ref": "27:44",
+      "arabic": "قِيلَ لَهَا ادْخُلِي الصَّرْحَ فَلَمَّا رَأَتْهُ حَسِبَتْهُ لُجَّةً",
+      "ellipsisType": "missing_fa3il",
+      "analysis": "قِيلَ — Passivform ohne erkennbares Agens: 'Es wurde ihr gesagt'. Das Passiv laesst den Akteur bewusst offen."
+    },
+    {
+      "ref": "56:22",
+      "arabic": "وَحُورٌ عِينٌ",
+      "ellipsisType": "missing_khabar",
+      "analysis": "حُورٌ عِينٌ steht als Mubtada'. Das Khabar fehlt: '[Es gibt fuer sie / Ihnen sind bestimmt] Grossaeugige'. Das Praedikat muss aus dem Paradies-Kontext erschlossen werden."
+    },
+    {
+      "ref": "89:1",
+      "arabic": "وَالْفَجْرِ وَلَيَالٍ عَشْرٍ",
+      "ellipsisType": "missing_condition_answer",
+      "analysis": "Der Schwur (wa-l-fajr) erstreckt sich ueber mehrere Verse, aber der Jawab al-Qasam (der Inhalt, auf den geschworen wird) ist nicht eindeutig markiert. Manche sehen ihn in V.14, andere halten ihn fuer elidiert."
+    },
+    {
+      "ref": "2:200",
+      "arabic": "فَمِنَ النَّاسِ مَنْ يَقُولُ رَبَّنَا آتِنَا فِي الدُّنْيَا",
+      "ellipsisType": "missing_object",
+      "analysis": "آتِنَا (gib uns) — das Objekt fehlt: 'Gib uns [Gutes / was wir wollen] im Diesseits'. Was erbeten wird, bleibt unbestimmt."
+    },
+    {
+      "ref": "7:150",
+      "arabic": "وَلَمَّا رَجَعَ مُوسَىٰ إِلَىٰ قَوْمِهِ غَضْبَانَ أَسِفًا قَالَ بِئْسَمَا خَلَفْتُمُونِي مِنْ بَعْدِي",
+      "ellipsisType": "missing_mawsuf",
+      "analysis": "بِئْسَمَا — das Mawsuf zum Tadel fehlt: 'Schlimm [ist das], was ihr nach mir als Nachfolge betrieben habt'. Das Nomen, das بِئْسَ qualifiziert, ist durch ما ersetzt."
+    },
+    {
+      "ref": "47:15",
+      "arabic": "مَثَلُ الْجَنَّةِ الَّتِي وُعِدَ الْمُتَّقُونَ فِيهَا أَنْهَارٌ مِنْ مَاءٍ غَيْرِ آسِنٍ",
+      "ellipsisType": "missing_khabar",
+      "analysis": "مَثَلُ الْجَنَّةِ ist Mubtada'. Das Khabar ist umstritten — manche sehen فِيهَا أَنْهَارٌ als Khabar-Satz, andere halten das eigentliche Khabar fuer elidiert: 'Die Beschreibung des Gartens [ist wie folgt]:...'."
+    },
+    {
+      "ref": "6:136",
+      "arabic": "وَجَعَلُوا لِلَّهِ مِمَّا ذَرَأَ مِنَ الْحَرْثِ وَالْأَنْعَامِ نَصِيبًا",
+      "ellipsisType": "missing_object",
+      "analysis": "ذَرَأَ (erschaffen) — transitives Verb. Das direkte Objekt fehlt: 'aus dem, was Er [an Feldfrueuchten und Vieh] erschaffen hat'. Das Objekt ist durch die Praepositionalphrase مِنَ الْحَرْثِ ersetzt."
+    },
+    {
+      "ref": "42:5",
+      "arabic": "تَكَادُ السَّمَاوَاتُ يَتَفَطَّرْنَ مِنْ فَوْقِهِنَّ",
+      "ellipsisType": "missing_fa3il",
+      "analysis": "يَتَفَطَّرْنَ — das Verb bezieht sich auf السَّمَاوَاتُ. Die Richtungsangabe مِنْ فَوْقِهِنَّ (von oben herab) ist angegeben; die Ursache des Berstens bleibt im Text nicht explizit benannt."
+    },
+    {
+      "ref": "100:1",
+      "arabic": "وَالْعَادِيَاتِ ضَبْحًا",
+      "ellipsisType": "missing_mawsuf",
+      "analysis": "الْعَادِيَاتِ — Partizip ohne explizites Mawsuf: 'die Rennenden'. Was rennt (Pferde? Kamele?) ist elidiert und muss aus dem Kontext erschlossen werden."
+    }
+  ]
+}

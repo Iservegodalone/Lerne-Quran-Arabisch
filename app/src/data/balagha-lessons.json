@@ -1,0 +1,1132 @@
+{
+  "meta": {
+    "title": "Balagha — Rhetorische Analyse des quranischen Textes",
+    "description": "Sprachwissenschaftliche Analyse rhetorischer Strukturen im Quran. Keine normative Rhetorik-Tradition, sondern empirische Beobachtung sprachlicher Muster.",
+    "approach": "Jede rhetorische Figur wird als beobachtbares sprachliches Phaenomen definiert, mit Quran-Beispielen belegt und hinsichtlich ihrer Funktion im Text analysiert.",
+    "sources": [
+      {
+        "name": "Quranic Arabic Corpus",
+        "url": "https://corpus.quran.com/"
+      }
+    ]
+  },
+  "lessons": [
+    {
+      "id": "B1",
+      "title": "Tashbih — Vergleich und Gleichnis",
+      "description": "Explizite Vergleiche mit Vergleichspartikeln (ka-, mithl, ka-anna).",
+      "learnContent": {
+        "sections": [
+          {
+            "type": "explanation",
+            "title": "Was ist Tashbih?",
+            "content": "Ein Tashbih (Vergleich) stellt eine Beziehung zwischen zwei Dingen her, indem eine Vergleichspartikel verwendet wird. Im Quran treten verschiedene Vergleichsstrukturen auf:\n\n1. Vollstaendiger Vergleich (tashbih tamm): Verglichenes + Vergleichsobjekt + Vergleichspartikel + Vergleichspunkt\n2. Verkuerzter Vergleich (tashbih muǧmal): Ohne expliziten Vergleichspunkt — der Leser muss ihn selbst erschliessen\n3. Erweitertes Gleichnis (tashbih tafsili): Ein Bild wird ueber mehrere Verse hinweg entwickelt"
+          },
+          {
+            "type": "quranExamples",
+            "title": "Vergleiche im Quran",
+            "examples": [
+              {
+                "ref": "2:17",
+                "arabic": "مثلهم كمثل الذي استوقد نارا",
+                "explanation": "Erweitertes Gleichnis: 'Ihr Gleichnis ist wie das Gleichnis desjenigen der ein Feuer entzuendete...' — das Bild wird ueber den ganzen Vers entwickelt. Die Vergleichspartikel ist كـ (ka-)."
+              },
+              {
+                "ref": "2:261",
+                "arabic": "مثل الذين ينفقون اموالهم في سبيل الله كمثل حبة انبتت سبع سنابل",
+                "explanation": "Das Gleichnis vom Samenkorn: Ein Korn bringt sieben Aehren hervor, jede mit hundert Koernern. Vergleich von Ausgabe (Spenden) mit Wachstum. Die Struktur: Verglichenes (die Spendenden) + كمثل + Vergleichsobjekt (Samenkorn)."
+              },
+              {
+                "ref": "14:18",
+                "arabic": "مثل الذين كفروا بربهم اعملهم كرماد اشتدت به الريح",
+                "explanation": "'Die Taten derer die ihren Herrn leugnen sind wie Asche, die der Wind an einem stuermischen Tag erfasst.' Vergleichspunkt: Nutzlosigkeit."
+              },
+              {
+                "ref": "29:41",
+                "arabic": "مثل الذين اتخذوا من دون الله اولياء كمثل العنكبوت اتخذت بيتا",
+                "explanation": "Das Spinnengleichnis: Wer sich Schutzherren neben Gott nimmt, ist wie die Spinne die sich ein Haus baut — und das schwachste Haus ist das Haus der Spinne."
+              }
+            ]
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "identification",
+          "prompt": "Lies 2:17-20. Identifiziere: Was ist das Verglichene? Was ist das Vergleichsobjekt? Was ist der Vergleichspunkt? Wo steht die Vergleichspartikel?",
+          "hint": "Die Vergleichspartikel ist كـ in كمثل. Das Verglichene steht vor der Partikel, das Vergleichsobjekt danach."
+        },
+        {
+          "type": "analysis",
+          "prompt": "Vergleiche die Gleichnisse in 2:17 (Feuer) und 2:19 (Gewitter). Beide beschreiben dieselbe Gruppe. Was fuegt das zweite Gleichnis hinzu, das das erste nicht abdeckt?",
+          "hint": "Das Feuer-Gleichnis betont Verlust. Das Gewitter-Gleichnis betont Angst und Orientierungslosigkeit."
+        }
+      ],
+      "testContent": {
+        "exercises": [
+          {
+            "question": "Welche Vergleichspartikel wird in مثلهم كمثل الذي استوقد نارا (2:17) verwendet?",
+            "options": [
+              "مثل allein",
+              "كـ (ka-)",
+              "مثل und كمثل zusammen",
+              "Keine Partikel"
+            ],
+            "correct": 2,
+            "explanation": "Der vollstaendige Ausdruck verwendet مثلهم (ihr Gleichnis) und كمثل (ist wie das Gleichnis) — beides zusammen bildet die Vergleichsstruktur."
+          },
+          {
+            "question": "In 29:41 (Spinnengleichnis) — was ist der Vergleichspunkt?",
+            "options": [
+              "Schoenheit",
+              "Komplexitaet",
+              "Schwaeche / Zerbrechlichkeit",
+              "Groesse"
+            ],
+            "correct": 2,
+            "explanation": "Das schwachste Haus ist das der Spinne — der Vergleichspunkt ist die Schwaeche und Zerbrechlichkeit des Schutzes."
+          }
+        ]
+      }
+    },
+    {
+      "id": "B2",
+      "title": "Majaz — Uebertragener Sprachgebrauch",
+      "description": "Woerter die nicht in ihrer Grundbedeutung verwendet werden, sondern in einer abgeleiteten oder uebertragenen.",
+      "learnContent": {
+        "sections": [
+          {
+            "type": "explanation",
+            "title": "Was ist Majaz?",
+            "content": "Majaz bezeichnet jeden Sprachgebrauch bei dem ein Wort nicht seine Grundbedeutung (haqiqa) traegt, sondern eine uebertragene. Sprachwissenschaftlich ist das Metapher, Metonymie oder synekdochischer Gebrauch.\n\nTypen:\n1. Majaz lughawi: Ein Wort wird in einer Bedeutung verwendet die nicht seine primaere ist, aber durch eine erkennbare Beziehung verbunden\n2. Majaz mursal (Metonymie): Uebertragung durch eine Sachbeziehung (Teil fuer Ganzes, Ursache fuer Wirkung, etc.)\n3. Isti'ara (Metapher): Eine Entlehnung — ein Wort wird aus seinem ueblichen Kontext in einen neuen uebertragen"
+          },
+          {
+            "type": "quranExamples",
+            "title": "Uebertragener Sprachgebrauch im Quran",
+            "examples": [
+              {
+                "ref": "17:24",
+                "arabic": "واخفض لهما جناح الذل من الرحمة",
+                "explanation": "'Und senke fuer sie den Fluegel der Demut aus Barmherzigkeit.' جناح (Fluegel) ist metaphorisch — ein Mensch hat keine Fluegel. Das Bild vermittelt: Schutz geben, sich klein machen, sich herabneigen."
+              },
+              {
+                "ref": "12:82",
+                "arabic": "واسال القرية",
+                "explanation": "'Und frage das Dorf.' Metonymie (Majaz mursal): القرية (das Dorf) steht fuer die Bewohner des Dorfes. Behaelter fuer Inhalt."
+              },
+              {
+                "ref": "36:12",
+                "arabic": "وكل شيء احصيناه في امام مبين",
+                "explanation": "'Und alles haben wir erfasst in einem klaren Imam/Vorbild.' Die Grundbedeutung von امام ist 'der Vorangehende'. Hier metaphorisch fuer 'Aufzeichnung/Buch' — etwas das Orientierung gibt."
+              },
+              {
+                "ref": "19:4",
+                "arabic": "واشتعل الراس شيبا",
+                "explanation": "'Und das Haupt ist in Flammen aufgegangen vor Grauheit.' اشتعل (entflammen) wird metaphorisch fuer das Ergrauen verwendet. Das Bild: Weisses Haar breitet sich aus wie Feuer."
+              }
+            ]
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "identification",
+          "prompt": "In 19:4 — welches Wort wird metaphorisch verwendet? Was ist seine Grundbedeutung und was bedeutet es im Kontext?",
+          "hint": "اشتعل — Grundbedeutung: in Flammen aufgehen. Kontextbedeutung: sich schnell ausbreiten (graues Haar)."
+        }
+      ],
+      "testContent": {
+        "exercises": [
+          {
+            "question": "In 12:82 (واسال القرية) — welche Art von Majaz liegt vor?",
+            "options": [
+              "Metapher (Isti'ara)",
+              "Metonymie (Majaz mursal) — Behaelter fuer Inhalt",
+              "Vergleich (Tashbih)",
+              "Woertliche Bedeutung"
+            ],
+            "correct": 1,
+            "explanation": "القرية (Dorf) steht metonymisch fuer die Bewohner — der Behaelter wird genannt, der Inhalt ist gemeint."
+          }
+        ]
+      }
+    },
+    {
+      "id": "B3",
+      "title": "Iltifat — Perspektivwechsel",
+      "description": "Wechsel der grammatischen Person (1./2./3. Person) oder des Numerus innerhalb eines Abschnitts ohne expliziten Uebergang.",
+      "learnContent": {
+        "sections": [
+          {
+            "type": "explanation",
+            "title": "Was ist Iltifat?",
+            "content": "Iltifat ist ein abrupter Wechsel der grammatischen Person oder des Numerus mitten im Satz oder Abschnitt. In der modernen Linguistik wuerde man das als 'shift in deixis' oder 'discourse shift' beschreiben. Im Quran kommt es systematisch vor und hat erkennbare Funktionen:\n\n1. Wechsel von 3. zu 2. Person: Schafft ploetzliche Naehe und Direktheit\n2. Wechsel von 2. zu 3. Person: Schafft Distanz\n3. Wechsel von Singular zu Plural (oder umgekehrt): Betont verschiedene Aspekte derselben Entitaet"
+          },
+          {
+            "type": "quranExamples",
+            "title": "Iltifat im Quran",
+            "examples": [
+              {
+                "ref": "1:2-5",
+                "arabic": "الحمد لله رب العالمين ... اياك نعبد واياك نستعين",
+                "explanation": "Sure 1 beginnt in der 3. Person: 'Lob gebuehrt Gott' (er wird UEBER Gott gesprochen). In Vers 5 wechselt es abrupt zur 2. Person: 'DIR dienen wir, DICH bitten wir um Hilfe.' Der Effekt: Von Beschreibung zu direkter Anrede. Die Distanz loest sich auf."
+              },
+              {
+                "ref": "10:22",
+                "arabic": "هو الذي يسيركم في البر والبحر ... دعوا الله مخلصين له الدين لَئِنْ انجيتنا",
+                "explanation": "Wechsel von 'Er laesst euch reisen' (3. Person ueber Gott) zu 'sie rufen Gott an' (3. Person ueber die Menschen) zu 'Wenn Du uns rettest' (direkte Anrede an Gott). Dreifacher Perspektivwechsel in einem Vers."
+              },
+              {
+                "ref": "2:23",
+                "arabic": "وان كنتم في ريب مما نزلنا على عبدنا فاتوا بسورة من مثله",
+                "explanation": "'Wenn ihr in Zweifel seid ueber das was WIR herabgesandt haben auf UNSEREN Diener' — Der Textsprecher verwendet die 1. Person Plural (نَحْنُ / نَـ). Dann عبدنا (unser Diener) — 3. Person ueber den Gesandten. 'So bringt eine Sure gleicher Art hervor' — 2. Person Plural Imperativ an die Zweifler."
+              }
+            ]
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "analysis",
+          "prompt": "Lies Sure 1 komplett. Markiere jeden Vers mit der grammatischen Person in der ueber/mit Gott gesprochen wird (3. Person = ueber ihn, 2. Person = zu ihm). Wo genau findet der Wechsel statt?",
+          "hint": "Vers 1-4: 3. Person (Lob gebuehrt Gott, Herr der Welten...). Vers 5: 2. Person (Dir dienen wir). Der Wechsel ist zwischen Vers 4 und 5."
+        }
+      ],
+      "testContent": {
+        "exercises": [
+          {
+            "question": "In Sure 1:5 (اياك نعبد) — welcher Iltifat findet statt?",
+            "options": [
+              "Wechsel von 1. Person Singular zu 1. Person Plural",
+              "Wechsel von 3. Person (ueber Gott) zu 2. Person (direkte Anrede an Gott)",
+              "Wechsel von Vergangenheit zu Gegenwart",
+              "Kein Iltifat"
+            ],
+            "correct": 1,
+            "explanation": "Die vorherigen Verse sprechen UEBER Gott (3. Person: 'Gott, Herr der Welten'). Vers 5 spricht ZU Gott (2. Person: 'Dir dienen wir'). Das ist klassisches Iltifat."
+          }
+        ]
+      }
+    },
+    {
+      "id": "B4",
+      "title": "Satztyp-Wahl — Nominal- vs. Verbalsatz",
+      "description": "Im Arabischen traegt die Wahl zwischen Nominal- und Verbalsatz eine eigene Bedeutungsebene.",
+      "learnContent": {
+        "sections": [
+          {
+            "type": "explanation",
+            "title": "Warum die Satztyp-Wahl wichtig ist",
+            "content": "Im Arabischen gibt es einen systematischen Bedeutungsunterschied zwischen:\n\n1. Verbalsatz (beginnt mit Verb): Betont die HANDLUNG oder das EREIGNIS. Zeitlich begrenzt, dynamisch.\n2. Nominalsatz (beginnt mit Nomen/Pronomen): Betont den ZUSTAND oder die EIGENSCHAFT. Tempusneutral — kein Zeitaspekt durch Verbform markiert.\n\nWenn der Quran fuer denselben Inhalt einmal einen Verbal- und einmal einen Nominalsatz waehlt, ist das keine stilistische Variation sondern ein Bedeutungsunterschied."
+          },
+          {
+            "type": "quranExamples",
+            "title": "Beispiele",
+            "examples": [
+              {
+                "ref": "1:2 vs. 1:5",
+                "arabic": "الحمد لله ... اياك نعبد",
+                "explanation": "1:2 ist ein Nominalsatz: الحمد لله (Das Lob gebuehrt Gott) — tempusneutraler Zustand ohne Zeitmarkierung. 1:5 hat verbale Elemente: نعبد (wir dienen, Imperfekt) — aktive Handlung mit Aspektmarkierung. Der Nominalsatz trägt keinen Zeitaspekt; das Imperfekt (نعبد) ist aspektuell markiert."
+              },
+              {
+                "ref": "2:6",
+                "arabic": "ان الذين كفروا سواء عليهم ءانذرتهم ام لم تنذرهم لا يومنون",
+                "explanation": "Nominalsatz mit ان: 'Die die leugnen — es ist ihnen gleich ob du sie warnst oder nicht — sie werden nicht glauben.' Der Nominalsatz drueckt einen ZUSTAND aus — ihre Leugnung ist ein fester Zustand, nicht ein momentanes Ereignis."
+              },
+              {
+                "ref": "2:8-9",
+                "arabic": "ومن الناس من يقول ... يخدعون الله",
+                "explanation": "Mischung: يقول (Verbalsatz — sie SAGEN, eine Handlung) aber der Inhalt ihrer Aussage ist ein Nominalsatz: آمنا بالله (wir glauben — sie behaupten einen Zustand). Dann يخادعون (sie versuchen zu taeuschen — Handlung). Die Grammatik entlarvt: Der behauptete Zustand (Glaube) wird durch die tatsaechliche Handlung (Taeuschung) widerlegt."
+              }
+            ]
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "analysis",
+          "prompt": "Lies 2:1-5. Klassifiziere jeden Satz als Nominal- oder Verbalsatz. Was faellt auf?",
+          "hint": "2:2: ذلك الكتاب (Nominalsatz — Zustand ohne Zeitmarkierung). 2:3: الذين يومنون (Relativsatz mit Verb — aktive Handlung)."
+        }
+      ],
+      "testContent": {
+        "exercises": [
+          {
+            "question": "Was drueckt ein Nominalsatz im Arabischen im Gegensatz zu einem Verbalsatz aus?",
+            "options": [
+              "Eine vergangene Handlung",
+              "Einen Zustand oder eine tempusneutrale Eigenschaft",
+              "Eine Frage",
+              "Eine zukuenftige Handlung"
+            ],
+            "correct": 1,
+            "explanation": "Der Nominalsatz betont Zustand und Permanenz, der Verbalsatz betont Handlung und Ereignis."
+          }
+        ]
+      }
+    },
+    {
+      "id": "B5",
+      "title": "Chiasmus und Ringstruktur",
+      "description": "Spiegelsymmetrische Textanordnung: A-B-C...C'-B'-A'.",
+      "learnContent": {
+        "sections": [
+          {
+            "type": "explanation",
+            "title": "Was ist ein Chiasmus?",
+            "content": "Ein Chiasmus ist eine spiegelsymmetrische Anordnung von Textelementen: A-B-B'-A' oder A-B-C-B'-A'. Das Element in der Mitte ist oft der Kern der Aussage.\n\nIm Quran treten Chiasmen auf verschiedenen Ebenen auf:\n1. Innerhalb eines Verses (Wortebene)\n2. Ueber mehrere Verse (Versebene)\n3. Ueber eine ganze Sure (Makrostruktur — Ringkomposition)"
+          },
+          {
+            "type": "quranExamples",
+            "title": "Chiastische Strukturen",
+            "examples": [
+              {
+                "ref": "2:257",
+                "arabic": "الله ولي الذين ءامنوا يخرجهم من الظلمت الى النور والذين كفروا اوليآؤهم الطغوت يخرجونهم من النور الى الظلمت",
+                "explanation": "Struktur A-B-B'-A':\nA: Gott ist der Schutzherr der Glaeubigen\nB: Er fuehrt sie aus den Finsternissen zum Licht\nB': Sie (Tyrannen) fuehren sie (die Leugner) vom Licht\nA': in die Finsternisse\n\nPerfekte Spiegelung: Licht↔Finsternis, Gott↔Tyrannen, Glaeubige↔Leugner."
+              },
+              {
+                "ref": "5:3 (Teilstruktur)",
+                "arabic": "حرمت عليكم الميتة والدم ... اليوم اكملت لكم دينكم",
+                "explanation": "Groessere chiastische Struktur: Die Liste der Verbote rahmt eine zentrale Aussage ein. Die Mitte des Verses enthaelt die Kernaussage."
+              }
+            ]
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "analysis",
+          "prompt": "Analysiere 2:257. Zeichne die Spiegelstruktur: Welche Elemente entsprechen einander?",
+          "hint": "Gott ↔ Tagut (Tyrannen). Licht ↔ Finsternisse. Glaeubige ↔ Leugner. Herausfuehren ↔ Herausfuehren."
+        }
+      ],
+      "testContent": {
+        "exercises": [
+          {
+            "question": "In einem Chiasmus A-B-C-B'-A' — wo steht typischerweise die wichtigste Aussage?",
+            "options": [
+              "Am Anfang (A)",
+              "Am Ende (A')",
+              "In der Mitte (C)",
+              "Ueberall gleich"
+            ],
+            "correct": 2,
+            "explanation": "In einem Chiasmus ist das mittlere Element (C) typischerweise der semantische Kern — das Zentrum der Spiegelstruktur."
+          }
+        ]
+      }
+    },
+    {
+      "id": "B6",
+      "title": "Takrir — Wiederholung und ihre Funktion",
+      "description": "Gezielte Wiederholung von Woertern, Phrasen oder Strukturen als rhetorisches Mittel.",
+      "learnContent": {
+        "sections": [
+          {
+            "type": "explanation",
+            "title": "Wiederholung als Struktur",
+            "content": "Wiederholung im Quran ist nie zufaellig. Wenn ein Wort, eine Phrase oder eine Struktur wiederholt wird, hat das eine erkennbare Funktion:\n\n1. Refrain (Kehrreim): Derselbe Vers wird regelmaessig wiederholt — strukturiert den Text und markiert Abschnitte\n2. Wortwiederholung: Dasselbe Wurzelwort erscheint mehrfach in einem Abschnitt — schafft thematische Dichte\n3. Strukturelle Wiederholung: Parallele Saetze mit gleichem Muster — erlaubt Vergleich durch Kontrast"
+          },
+          {
+            "type": "quranExamples",
+            "title": "Beispiele",
+            "examples": [
+              {
+                "ref": "55:13 (und 31 weitere Male)",
+                "arabic": "فباي الاء ربكما تكذبان",
+                "explanation": "Dieser Vers wird 31 Mal in Sure 55 wiederholt. Er strukturiert die gesamte Sure in Abschnitte. Jeder Abschnitt beschreibt eine andere Gabe — der Refrain fragt nach jedem: 'Welche der Gaben eures Herrn leugnet ihr beide?'"
+              },
+              {
+                "ref": "26:8-9 (und viele weitere)",
+                "arabic": "ان في ذلك لاية وما كان اكثرهم مومنين وان ربك لهو العزيز الرحيم",
+                "explanation": "In Sure 26 wird dieses Verspaar nach jeder Prophetengeschichte wiederholt. Es bildet den Rahmen: Geschichte → Lehre → 'Darin ist ein Zeichen, und die meisten glaubten nicht. Und dein Herr ist der Maechtige, der Barmherzige.'"
+              },
+              {
+                "ref": "94:5-6",
+                "arabic": "فان مع العسر يسرا ان مع العسر يسرا",
+                "explanation": "'Mit der Erschwernis ist Erleichterung. Mit der Erschwernis ist Erleichterung.' Identische Aussage, zweimal. Sprachlich interessant: العسر (die Erschwernis) hat den Artikel — es ist DIESELBE Erschwernis. يسرا (Erleichterung) ist indefinit — es koennten VERSCHIEDENE Erleichterungen sein."
+              }
+            ]
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "analysis",
+          "prompt": "Lies Sure 55 und zaehle wie oft der Refrain فباي الاء ربكما تكذبان vorkommt. Nach welchen Versen steht er? Kannst du ein Muster in der Verteilung erkennen?",
+          "hint": "31 Mal. Die Verteilung ist nicht gleichmaessig — die Abstaende zwischen den Refrains variieren und korrelieren mit der Laenge der beschriebenen Gaben."
+        }
+      ],
+      "testContent": {
+        "exercises": [
+          {
+            "question": "In 94:5-6 wird fast derselbe Satz wiederholt. Was ist der grammatische Unterschied zwischen العسر (mit Artikel) und يسرا (ohne Artikel)?",
+            "options": [
+              "Kein Unterschied — rein stilistisch",
+              "العسر ist definit (dieselbe Erschwernis), يسرا ist indefinit (kann verschiedene Erleichterungen meinen)",
+              "العسر ist Vergangenheit, يسرا ist Zukunft",
+              "العسر ist Subjekt, يسرا ist Objekt"
+            ],
+            "correct": 1,
+            "explanation": "Der Artikel bei العسر markiert Definitheit — es ist DIESELBE Erschwernis. يسرا ohne Artikel ist indefinit — bei jeder Wiederholung koennte es eine ANDERE Erleichterung sein. Grammatisch impliziert die Wiederholung: einer Erschwernis stehen mehrere Erleichterungen gegenueber."
+          }
+        ]
+      }
+    },
+    {
+      "id": "B7",
+      "title": "Hazf und Ijar — Auslassung und Kuerzung",
+      "description": "Gezielte Weglassung von Satzelementen die der Kontext erschliessen laesst.",
+      "learnContent": {
+        "sections": [
+          {
+            "type": "explanation",
+            "title": "Bedeutung der Auslassung",
+            "content": "Im Arabischen koennen Satzglieder ausgelassen werden wenn der Kontext sie eindeutig ergaenzt. Im Quran ist das Weglassen oft BEDEUTUNGSTRAGEND:\n\n1. Ausgelassenes Objekt: Wenn ein transitives Verb kein Objekt hat, kann das Allgemeinheit ausdruecken (er gibt — an wen? An alle)\n2. Ausgelassenes Subjekt: Haeufig bei Passivkonstruktionen — der Handelnde wird bewusst nicht genannt\n3. Ausgelassener Nachsatz: Eine Bedingung ohne explizite Folge — zwingt den Leser selbst zu denken"
+          },
+          {
+            "type": "quranExamples",
+            "title": "Beispiele",
+            "examples": [
+              {
+                "ref": "93:5",
+                "arabic": "ولسوف يعطيك ربك فترضى",
+                "explanation": "'Und dein Herr wird dir geben, und du wirst zufrieden sein.' Was gibt Er? Das Objekt fehlt. Das fehlende Objekt laesst die Gabe unbestimmt — sie wird nicht auf etwas Bestimmtes eingeschraenkt."
+              },
+              {
+                "ref": "12:11-12",
+                "arabic": "ارسله معنا غدا يرتع ويلعب",
+                "explanation": "Jakobs Soehne bitten: 'Schick ihn mit uns morgen, er soll sich erfreuen und spielen.' Die Antwort Jakobs in Vers 13 zeigt seine Angst — aber zwischen der Bitte und der Antwort fehlt ein ganzer emotionaler Prozess der ausgelassen wird."
+              },
+              {
+                "ref": "12:110",
+                "arabic": "حتى اذا استياس الرسل وظنوا انهم قد كذبوا جاءهم نصرنا",
+                "explanation": "Bedingungssatz mit حتى اذا (bis wenn): Die Gesandten hatten die Hoffnung verloren... Da kam Unsere Hilfe. Der dramatische Effekt entsteht durch die direkte Gegenuberstellung: Verzweiflung → Rettung, ohne Uebergang."
+              }
+            ]
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "analysis",
+          "prompt": "In 93:5 — warum ist das Objekt von يعطيك ausgelassen? Was waere der Effekt wenn ein bestimmtes Objekt stehen wuerde?",
+          "hint": "Mit Objekt (z.B. 'Er wird dir Reichtum geben') waere die Gabe auf etwas Bestimmtes eingeschraenkt. Ohne Objekt bleibt sie unbestimmt."
+        }
+      ],
+      "testContent": {
+        "exercises": [
+          {
+            "question": "Warum fehlt in ولسوف يعطيك ربك (93:5) das Objekt?",
+            "options": [
+              "Es ist ein Grammatikfehler",
+              "Das Objekt war in einem frueheren Vers erwaehnt",
+              "Die Auslassung drueckt Allgemeinheit und Unbegrenztheit aus",
+              "Es ist eine Abkuerzung"
+            ],
+            "correct": 2,
+            "explanation": "Die Auslassung des Objekts bei einem transitiven Verb erweitert die Bedeutung: Die Gabe ist nicht auf etwas Bestimmtes beschraenkt."
+          }
+        ]
+      }
+    },
+    {
+      "id": "B8",
+      "title": "Taqdim wa Ta'khir — Voranstellung und Nachstellung",
+      "description": "Die bewusste Aenderung der normalen Wortstellung um bestimmte Elemente hervorzuheben.",
+      "learnContent": {
+        "sections": [
+          {
+            "type": "explanation",
+            "title": "Wortstellung als Bedeutungstraeger",
+            "content": "Die Standardwortstellung im Arabischen ist Verb-Subjekt-Objekt (VSO). Wenn ein Element vor das Verb gestellt wird, hat das eine bestimmte Funktion:\n\n1. Vorangestelltes Objekt: Fokus (Taqdīm/Hasr) — 'Dich dienen wir' statt 'Wir dienen dir' (نَعْبُدُكَ)\n2. Vorangestelltes Adverb: Fokus auf Umstand\n3. Nachgestelltes Subjekt: Normalfall im Verbalsatz\n4. Vorangestelltes Subjekt: Nominalsatz — betont den Zustand\n\nIm Quran ist die Wortstellung nie willkuerlich."
+          },
+          {
+            "type": "quranExamples",
+            "title": "Beispiele",
+            "examples": [
+              {
+                "ref": "1:5",
+                "arabic": "اياك نعبد واياك نستعين",
+                "explanation": "اياك (Dir/Dich) ist vorangestellt vor das Verb نعبد (wir dienen). Normalstellung waere: نعبدك (wir dienen dir). Die Voranstellung (Taqdīm) markiert das Objekt als Fokus."
+              },
+              {
+                "ref": "2:5",
+                "arabic": "اولئك على هدى من ربهم واولئك هم المفلحون",
+                "explanation": "اولئك (jene) ist vorangestellt — starke Hervorhebung. 'Jene sind auf Fuehrung, und jene — sie sind die Erfolgreichen.' Doppelte Voranstellung des Subjekts erzeugt Fokus auf dem vorangestellten Element."
+              }
+            ]
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "analysis",
+          "prompt": "Vergleiche: نعبدك (normale Wortstellung) mit اياك نعبد (quranische Wortstellung). Was aendert sich in der Bedeutung?",
+          "hint": "نعبدك = wir dienen dir (Default-Stellung). اياك نعبد = Dich dienen wir (Taqdīm: Objekt in markierter Anfangsposition)."
+        }
+      ],
+      "testContent": {
+        "exercises": [
+          {
+            "question": "Was drueckt die Voranstellung des Objekts in اياك نعبد (1:5) aus?",
+            "options": [
+              "Eine Frage",
+              "Fokus auf dem Objekt durch Voranstellung (Taqdīm)",
+              "Vergangenheit",
+              "Unsicherheit"
+            ],
+            "correct": 1,
+            "explanation": "Die Voranstellung des Objekts (اياك) vor das Verb (نعبد) ist Taqdīm — das Objekt steht in der markierten Anfangsposition, was pragmatischen Fokus erzeugt."
+          }
+        ]
+      }
+    },
+    {
+      "id": "B9",
+      "title": "Tibaq — Antithese und Gegensatzpaar",
+      "description": "Das bewusste Nebeneinanderstellen von Gegenteilen zur Kontrastierung.",
+      "learnContent": {
+        "sections": [
+          {
+            "type": "explanation",
+            "title": "Was ist Tibaq?",
+            "content": "Tibaq (Antithese) ist das Zusammenstellen von zwei gegensaetzlichen Begriffen. Die Bedeutung wird durch den Kontrast verstaerkt.\n\nTypen:\n1. Tibaq Ijabi: Beide Begriffe positiv formuliert\n2. Tibaq Salbi: Gegensatz durch Negation (tun vs. nicht tun)"
+          },
+          {
+            "type": "quranExamples",
+            "title": "Antithesen im Quran",
+            "examples": [
+              {
+                "ref": "3:26",
+                "arabic": "توتي الملك من تشاء وتنزع الملك ممن تشاء وتعز من تشاء وتذل من تشاء",
+                "explanation": "Vierfache Antithese: geben/nehmen, ehren/erniedrigen."
+              },
+              {
+                "ref": "2:258",
+                "arabic": "انا احيي واميت",
+                "explanation": "Leben/Tod als Gegensatzpaar."
+              },
+              {
+                "ref": "2:164",
+                "arabic": "واختلاف الليل والنهار",
+                "explanation": "Nacht und Tag — grundlegendstes Gegensatzpaar."
+              }
+            ]
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "analysis",
+          "prompt": "Lies 3:26 und identifiziere alle vier Gegensatzpaare.",
+          "hint": "geben/nehmen, ehren/erniedrigen."
+        }
+      ],
+      "testContent": {
+        "exercises": [
+          {
+            "question": "Was verstaerkt Tibaq?",
+            "options": [
+              "Aehnlichkeit",
+              "Kontrast und Bedeutungsschaerfe",
+              "Wiederholung",
+              "Rhythmus"
+            ],
+            "correct": 1,
+            "explanation": "Durch den Kontrast werden beide Seiten des Gegensatzes deutlicher."
+          }
+        ]
+      }
+    },
+    {
+      "id": "B10",
+      "title": "Jinas (جِنَاس) — Paronomasie / Wortspiel",
+      "description": "Zwei Woerter teilen dasselbe oder ein aehnliches Konsonantenskelett bzw. dieselbe Wurzel, tragen aber unterschiedliche Bedeutungen. Der Klang verbindet, die Semantik trennt.",
+      "learnContent": {
+        "sections": [
+          {
+            "type": "explanation",
+            "title": "Was ist Jinas?",
+            "content": "Jinas (Paronomasie) liegt vor, wenn zwei Woerter in einem Kontext lautlich gleich oder aehnlich sind, aber semantisch verschiedene Bedeutungen tragen. Der Effekt: Der Hoerer nimmt die klangliche Aehnlichkeit wahr und wird gezwungen, die semantische Differenz aktiv zu verarbeiten.\n\nTypen:\n\n1. Jinas Tamm (جناس تام — vollstaendige Paronomasie): Die zwei Woerter haben identische Lautform, aber verschiedene Bedeutungen. Dasselbe Wort erscheint in zwei verschiedenen semantischen Funktionen.\n   Beispiel: السَّاعَة als 'Stunde/Zeiteinheit' vs. السَّاعَة als 'die Stunde/der Letzte Tag'\n\n2. Jinas Naqis (جناس ناقص — unvollstaendige Paronomasie): Die Woerter stammen von derselben Wurzel oder teilen die meisten Konsonanten, unterscheiden sich aber in Vokalisation, einem Konsonanten oder der morphologischen Form.\n   Beispiel: يَوْمٌ (Tag) vs. يَوْمَئِذٍ (an jenem Tag) — gleiche Wurzel, verschiedene Form\n\nDie linguistische Funktion: Jinas erzeugt ein Spannungsfeld zwischen klanglicher Naehe und semantischer Distanz. Der Hoerer muss die Bedeutungsdifferenz trotz der Klangaehnlichkeit ausfloesen — das erzwingt aktive Textverarbeitung."
+          },
+          {
+            "type": "quranExamples",
+            "title": "Jinas im Quran",
+            "examples": [
+              {
+                "ref": "30:55",
+                "arabic": "وَيَوْمَ تَقُومُ السَّاعَةُ يُقْسِمُ الْمُجْرِمُونَ مَا لَبِثُوا غَيْرَ سَاعَةٍ",
+                "transliteration": "wa-yawma taquumu s-saa'atu yuqsimu l-mujrimuuna maa labithuu ghayra saa'atin",
+                "explanation": "Jinas Tamm: السَّاعَةُ (as-saa'a) erscheint zweimal — einmal als 'die Stunde' (der Letzte Tag, kosmisches Ereignis) und einmal als سَاعَة (saa'a, eine kurze Zeitspanne). Identische Lautform, maximaler Bedeutungskontrast: Ein kosmisches Ereignis wird subjektiv als kurzer Moment empfunden. Die Paronomasie verdichtet diesen Kontrast in einem einzigen Wort."
+              },
+              {
+                "ref": "2:14-15",
+                "arabic": "إِنَّمَا نَحْنُ مُسْتَهْزِئُونَ — اللَّهُ يَسْتَهْزِئُ بِهِمْ",
+                "transliteration": "innamaa nahnu mustahzi'uuna — allaahu yastahzi'u bihim",
+                "explanation": "Jinas Naqis (Wurzelparonomasie): Die Wurzel ه-ز-ء (h-z-') erscheint in zwei Formen — مُسْتَهْزِئُونَ (mustahzi'uun, Partizip aktiv Plural, Form X) und يَسْتَهْزِئُ (yastahzi'u, Imperfekt, Form X). Dieselbe Wurzel, verschiedene morphologische Realisierungen. Die sprachliche Pointe: Die Handlung wird gespiegelt — wer spottet, wird bespottet. Die Wurzelidentitaet macht die Spiegelung hoerbar."
+              },
+              {
+                "ref": "3:54",
+                "arabic": "وَمَكَرُوا وَمَكَرَ اللَّهُ وَاللَّهُ خَيْرُ الْمَاكِرِينَ",
+                "transliteration": "wa-makaruu wa-makara llaahu wa-llaahu khayru l-maakiriina",
+                "explanation": "Dreifacher Jinas auf der Wurzel م-ك-ر (m-k-r): مَكَرُوا (makaruu, 'sie planten/taeuschten', Perfekt 3. Pl.), مَكَرَ (makara, 'er plante', Perfekt 3. Sg.), الْمَاكِرِينَ (al-maakiriina, 'der Planenden', Partizip Plural). Die dreifache Wurzelwiederholung mit morphologischer Variation zeigt: Dieselbe Handlung wird von verschiedenen Akteuren vollzogen, aber mit verschiedenem Ergebnis. Die Paronomasie macht die Konfrontation hoerbar."
+              },
+              {
+                "ref": "11:41",
+                "arabic": "بِسْمِ اللَّهِ مَجْرَاهَا وَمُرْسَاهَا",
+                "transliteration": "bismi llaahi majraahaa wa-mursaahaa",
+                "explanation": "Jinas Naqis: مَجْرَاهَا (majraahaa, 'ihr Lauf/Fahren') und مُرْسَاهَا (mursaahaa, 'ihr Ankern/Anlegen'). Verschiedene Wurzeln (ج-ر-ي und ر-س-و), aber aehnliche morphologische Form (maf'al/muf'al) und identischer Endreim (-aahaa). Die klangliche Parallelitaet kontrastiert die semantische Gegensaetzlichkeit: Fahren vs. Anhalten, Bewegung vs. Stillstand."
+              }
+            ]
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "identification",
+          "prompt": "In 30:55 — identifiziere die beiden Vorkommen von الساعة/ساعة. Was ist jeweils die Bedeutung? Welcher Typ von Jinas liegt vor (Tamm oder Naqis)?",
+          "hint": "Erstes Vorkommen: الساعة = die Stunde/der Letzte Tag (kosmisch). Zweites Vorkommen: ساعة = eine kurze Zeitspanne. Identische Lautform, verschiedene Bedeutung = Jinas Tamm."
+        },
+        {
+          "type": "analysis",
+          "prompt": "In 3:54 erscheint die Wurzel م-ك-ر dreimal (مكروا، مكر الله، الماكرين). Welche morphologischen Formen werden verwendet und was bewirkt die dreifache Wurzelwiederholung im Kontext?",
+          "hint": "Perfekt 3. Pl. (مكروا), Perfekt 3. Sg. (مكر), Partizip Plural (الماكرين). Die Wurzelwiederholung spiegelt die Handlung: Dieselbe Aktion wird von beiden Seiten vollzogen, aber das Ergebnis unterscheidet sich."
+        },
+        {
+          "type": "analysis",
+          "prompt": "Vergleiche 11:41 (مجراها ومرساها). Diese Woerter stammen von VERSCHIEDENEN Wurzeln, klingen aber aehnlich. Warum ist das trotzdem Jinas? Welcher Typ?",
+          "hint": "Jinas Naqis: Verschiedene Wurzeln, aber aehnliche morphologische Form und identischer Endreim. Die klangliche Parallelitaet macht den semantischen Gegensatz (Fahren vs. Ankern) hoerbar."
+        }
+      ],
+      "testContent": {
+        "exercises": [
+          {
+            "question": "In وَيَوْمَ تَقُومُ السَّاعَةُ ... مَا لَبِثُوا غَيْرَ سَاعَةٍ (30:55) — welcher Typ von Jinas liegt vor?",
+            "options": [
+              "Jinas Naqis — aehnliche aber nicht identische Form",
+              "Jinas Tamm — identische Lautform, verschiedene Bedeutung",
+              "Kein Jinas — es ist dasselbe Wort mit derselben Bedeutung",
+              "Tibaq — Antithese"
+            ],
+            "correct": 1,
+            "explanation": "الساعة erscheint mit identischer Lautform aber in zwei verschiedenen Bedeutungen: 'die Stunde/der Letzte Tag' und 'eine kurze Zeitspanne'. Das ist Jinas Tamm — vollstaendige Paronomasie."
+          },
+          {
+            "question": "Was ist die linguistische Funktion von Jinas?",
+            "options": [
+              "Rein aesthetischer Klangschmuck ohne semantische Funktion",
+              "Es erzeugt ein Spannungsfeld zwischen klanglicher Naehe und semantischer Differenz, das aktive Textverarbeitung erzwingt",
+              "Es dient nur der Reimbildung",
+              "Es ist ein Grammatikfehler der durch Kontextanalyse aufgeloest werden muss"
+            ],
+            "correct": 1,
+            "explanation": "Jinas verbindet durch Klang was durch Bedeutung verschieden ist. Der Hoerer muss die Bedeutungsdifferenz trotz der Klangaehnlichkeit aktiv aufloesen — das verdichtet die Textrezeption."
+          },
+          {
+            "question": "In وَمَكَرُوا وَمَكَرَ اللَّهُ (3:54) — was bewirkt die Wurzelwiederholung م-ك-ر?",
+            "options": [
+              "Sie zeigt dass beide Seiten identisch handeln",
+              "Sie spiegelt die Handlung: Dieselbe Aktion wird von verschiedenen Akteuren mit verschiedenem Ergebnis vollzogen",
+              "Sie ist eine Wiederholung ohne Funktion",
+              "Sie drueckt Unsicherheit aus"
+            ],
+            "correct": 1,
+            "explanation": "Die Wurzel م-ك-ر erscheint fuer beide Akteure — die sprachliche Spiegelung macht hoerbar, dass die Handlung zurueckgegeben wird. Die Paronomasie ist die klangliche Realisierung der inhaltlichen Konfrontation."
+          }
+        ]
+      }
+    },
+    {
+      "id": "B11",
+      "title": "Tawriya (تَوْرِيَة) — Semantische Doppeldeutigkeit",
+      "description": "Ein Wort traegt eine naheliegende (offensichtliche) und eine entfernte (intendierte) Bedeutung. Der Hoerer erfasst zuerst die nahe Bedeutung, dann erkennt er die entfernte.",
+      "learnContent": {
+        "sections": [
+          {
+            "type": "explanation",
+            "title": "Was ist Tawriya?",
+            "content": "Tawriya (woertlich: 'Verbergen, Verhuellen') ist ein sprachliches Phaenomen, bei dem ein Wort zwei reale Bedeutungsebenen hat:\n\n1. Die nahe Bedeutung (المعنى القريب / al-ma'na l-qariib): Das was der Hoerer ZUERST versteht — die offensichtliche, kontextuell naheliegende Lesart.\n\n2. Die ferne Bedeutung (المعنى البعيد / al-ma'na l-ba'iid): Das was bei genauerem Hinsehen als die tiefere oder eigentlich intendierte Bedeutung erkennbar wird.\n\nDer Mechanismus: Der Sprecher waehlt ein Wort das BEIDE Bedeutungen lexikalisch traegt. Die nahe Bedeutung dient als Oberflaeche, die ferne als Tiefenebene. Der Rezipient durchlaeuft einen Erkenntnisprozess — von der Oberflaeche zur Tiefe.\n\nUnterschied zu Jinas (B10): Bei Jinas sind ZWEI verschiedene Woerter lautlich aehnlich. Bei Tawriya ist es EIN Wort mit zwei semantischen Ebenen.\n\nUnterschied zu Majaz (B2): Bei Majaz wird die woertliche Bedeutung AUFGEGEBEN. Bei Tawriya bleiben BEIDE Bedeutungen aktiv — die nahe wird nicht aufgegeben, sondern durch die ferne ergaenzt oder ueberlagert."
+          },
+          {
+            "type": "quranExamples",
+            "title": "Tawriya im Quran",
+            "examples": [
+              {
+                "ref": "6:76",
+                "arabic": "فَلَمَّا جَنَّ عَلَيْهِ اللَّيْلُ رَأَى كَوْكَبًا",
+                "transliteration": "fa-lammaa janna 'alayhi l-laylu ra'aa kawkaban",
+                "explanation": "Nahe Bedeutung von جَنَّ (janna): 'es wurde dunkel, die Nacht brach herein' — von der Wurzel ج-ن-ن (verbergen, bedecken). Die Nacht bedeckt ihn.\nFerne Bedeutung: Die Wurzel ج-ن-ن traegt auch die Semantik des Verhuellens und Verbergens allgemein. Die Nacht 'verhuellt' ihn — sie macht unsichtbar, was zuvor sichtbar war. Genau in diesem Zustand des Verhuellt-Seins beginnt Ibrahim die Sterne zu sehen. Das Verhuellen (der Umgebung) wird zur Voraussetzung fuer das Sehen (der Sterne). Beide Ebenen — 'es wurde dunkel' und 'er wurde verhuellt' — sind gleichzeitig aktiv."
+              },
+              {
+                "ref": "2:71",
+                "arabic": "قَالَ إِنَّهُ يَقُولُ إِنَّهَا بَقَرَةٌ لَا ذَلُولٌ تُثِيرُ الْأَرْضَ وَلَا تَسْقِي الْحَرْثَ",
+                "transliteration": "qaala innahu yaquulu innahaa baqaratun laa dhaluulun tuthiiru l-arda wa-laa tasqi l-hartha",
+                "explanation": "Nahe Bedeutung von تُثِيرُ الْأَرْضَ (tuthiiru l-arda): 'sie pfluegt die Erde' — vom Verb أثار (IV), woertlich 'aufwuehlen, umgraben'. Eine Kuh die den Boden pfluegt.\nFerne Bedeutung: Die Wurzel ث-و-ر traegt auch die Bedeutung 'aufwuehlen, aufregen, in Bewegung setzen'. Die Erde wird nicht nur physisch umgegraben, sondern 'aufgeruehrt'. Beide Bedeutungen — physisches Pfluegen und allgemeines Aufwuehlen — sind lexikalisch im Verb angelegt."
+              },
+              {
+                "ref": "21:58",
+                "arabic": "فَجَعَلَهُمْ جُذَاذًا إِلَّا كَبِيرًا لَهُمْ لَعَلَّهُمْ إِلَيْهِ يَرْجِعُونَ",
+                "transliteration": "fa-ja'alahum judhaadhaan illaa kabiiran lahum la'allahum ilayhi yarji'uuna",
+                "explanation": "Nahe Bedeutung von يَرْجِعُونَ (yarji'uuna): 'sie kehren zu ihm zurueck' — physisch, sie kommen zum grossen Goetzen zurueck um zu fragen.\nFerne Bedeutung: يَرْجِعُونَ kann auch 'sie kehren um / sie besinnen sich' bedeuten — kognitiv, sie ueberdenken ihre Position. Ibrahim zerstoert die kleinen Goetzen und laesst den grossen stehen. Die nahe Bedeutung: 'damit sie zu ihm (dem grossen Goetzen) zurueckgehen und ihn befragen'. Die ferne: 'damit sie umkehren / zur Vernunft kommen'. Beide sind im Verb angelegt."
+              },
+              {
+                "ref": "12:70",
+                "arabic": "أَيَّتُهَا الْعِيرُ إِنَّكُمْ لَسَارِقُونَ",
+                "transliteration": "ayyatuhaa l-'iiru innakum la-saariquuna",
+                "explanation": "Nahe Bedeutung von الْعِيرُ (al-'iir): 'die Karawane' — eine Reisegruppe mit Lasttieren.\nFerne Bedeutung: العير kann auch 'die Esel/Lasttiere' selbst bezeichnen. Der Ausruf richtet sich an die Karawane (nahe Bedeutung), koennte aber auch als Anrede an die Lasttiere gelesen werden (ferne Bedeutung). Die Doppeldeutigkeit ist ein textliches Merkmal: Ein Wort aktiviert zwei lexikalisch belegte Bedeutungsebenen gleichzeitig."
+              }
+            ]
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "identification",
+          "prompt": "In 6:76 (فلما جن عليه الليل) — welches Wort traegt die Tawriya? Benenne die nahe und die ferne Bedeutung.",
+          "hint": "جَنَّ — nahe Bedeutung: 'die Nacht brach herein / es wurde dunkel'. Ferne Bedeutung: 'er wurde verhuellt/verborgen' (Wurzel ج-ن-ن = verbergen). Beide Bedeutungen sind gleichzeitig aktiv."
+        },
+        {
+          "type": "analysis",
+          "prompt": "Vergleiche Tawriya mit Majaz (B2): In 19:4 (واشتعل الراس شيبا) wird اشتعل metaphorisch verwendet — die woertliche Bedeutung ('entflammen') wird AUFGEGEBEN. In 21:58 (لعلهم اليه يرجعون) bleibt die woertliche Bedeutung ('zurueckkehren') BESTEHEN. Erklaere den Unterschied.",
+          "hint": "Bei Majaz wird die Grundbedeutung verlassen — ein Kopf entflammt nicht wirklich. Bei Tawriya bleiben beide Bedeutungen moeglich — sie kehren tatsaechlich zurueck (physisch) UND sie ueberdenken ihre Position (kognitiv)."
+        },
+        {
+          "type": "analysis",
+          "prompt": "In 12:70 — wie funktioniert die Doppeldeutigkeit von العير (Karawane / Lasttiere) im narrativen Kontext der Yusuf-Geschichte?",
+          "hint": "Die nahe Bedeutung (Karawane) ist die Anrede an die Reisegruppe. Die ferne Bedeutung (Lasttiere) ist eine zweite lexikalisch belegte Bedeutung desselben Wortes. Die Doppeldeutigkeit ist ein textliches Merkmal — ein Wort aktiviert zwei Bedeutungsebenen gleichzeitig."
+        }
+      ],
+      "testContent": {
+        "exercises": [
+          {
+            "question": "Was unterscheidet Tawriya von Majaz (uebertragener Sprachgebrauch)?",
+            "options": [
+              "Bei Tawriya gibt es nur eine Bedeutung, bei Majaz zwei",
+              "Bei Majaz wird die woertliche Bedeutung aufgegeben, bei Tawriya bleiben BEIDE Bedeutungsebenen (nah und fern) aktiv",
+              "Tawriya ist immer negativ, Majaz immer positiv",
+              "Es gibt keinen Unterschied"
+            ],
+            "correct": 1,
+            "explanation": "Bei Majaz wird die Grundbedeutung verlassen (ein Kopf entflammt nicht). Bei Tawriya bleiben die nahe und die ferne Bedeutung beide lexikalisch moeglich und semantisch aktiv."
+          },
+          {
+            "question": "In 21:58 (لعلهم اليه يرجعون) — was sind die zwei Bedeutungsebenen von يرجعون?",
+            "options": [
+              "Nahe: 'sie sterben'. Fern: 'sie leben.'",
+              "Nahe: 'sie kehren physisch zum grossen Goetzen zurueck'. Fern: 'sie ueberdenken ihre Position / kehren um.'",
+              "Nahe: 'sie laufen'. Fern: 'sie fliegen.'",
+              "Es gibt nur eine Bedeutung: 'zurueckkehren'."
+            ],
+            "correct": 1,
+            "explanation": "يرجعون traegt die nahe Bedeutung 'physisch zurueckkehren' (zum grossen Goetzen) und die ferne 'umkehren, sich besinnen'. Beide Ebenen sind im Verb lexikalisch angelegt."
+          },
+          {
+            "question": "Was unterscheidet Tawriya von Jinas?",
+            "options": [
+              "Bei Jinas sind ZWEI lautlich aehnliche Woerter beteiligt, bei Tawriya traegt EIN Wort zwei Bedeutungsebenen",
+              "Jinas und Tawriya sind identisch",
+              "Tawriya verwendet nur Verben, Jinas nur Nomen",
+              "Jinas hat immer drei Bedeutungen"
+            ],
+            "correct": 0,
+            "explanation": "Bei Jinas stehen zwei verschiedene Woerter mit lautlicher Aehnlichkeit nebeneinander. Bei Tawriya ist es ein einziges Wort das zwei semantische Ebenen gleichzeitig aktiviert."
+          }
+        ]
+      }
+    },
+    {
+      "id": "B12",
+      "title": "Kinaya (كِنَايَة) — Systematische Metonymie",
+      "description": "Ein verwandter Ausdruck wird anstelle des direkten verwendet. Der Text sagt das eine, meint das andere — aber die woertliche Bedeutung bleibt grammatisch und sachlich moeglich.",
+      "learnContent": {
+        "sections": [
+          {
+            "type": "explanation",
+            "title": "Was ist Kinaya?",
+            "content": "Kinaya bezeichnet einen Ausdruck, der nicht in seiner primaeren Bedeutung intendiert ist, sondern auf einen verwandten Begriff verweist — wobei die woertliche Bedeutung weiterhin grammatisch und sachlich moeglich bleibt.\n\nDas unterscheidet Kinaya grundlegend von Majaz (B2):\n- Majaz (Metapher/Metonymie): Die woertliche Bedeutung ist im Kontext UNMOEGLICH ('Das Haupt entflammte' — ein Kopf entflammt nicht wirklich)\n- Kinaya: Die woertliche Bedeutung ist MOEGLICH und WAHR, aber eine verwandte Bedeutung wird durch Assoziation mittransportiert\n\nDie Kinaya funktioniert auf BEIDEN Ebenen gleichzeitig — sowohl woertlich als auch uebertragen. Sie sagt das eine und meint das andere, OHNE das Gesagte als falsch zu markieren.\n\nTypen nach dem was umschrieben wird:\n\n1. Kinaya 'an sifa (كناية عن صفة): Umschreibung einer EIGENSCHAFT. Statt die Eigenschaft direkt zu benennen, wird ein Ausdruck verwendet der sie impliziert.\n   Beispiel: 'Seine Hand ist ausgestreckt' → Eigenschaft: Grosszuegigkeit\n\n2. Kinaya 'an mawsuf (كناية عن موصوف): Umschreibung des TRAEGERS einer Eigenschaft. Statt die Person/Sache zu nennen, wird eine kennzeichnende Eigenschaft genannt.\n   Beispiel: 'Die die das Buch tragen' → Traeger: Gelehrte\n\n3. Kinaya 'an nisba (كناية عن نسبة): Umschreibung einer ZUGEHOERIGKEIT oder BEZIEHUNG. Die Verbindung zwischen einer Eigenschaft und ihrem Traeger wird indirekt hergestellt.\n   Beispiel: 'Der Ruhm ist in seinem Haus' → Zugehoerigkeit: Er ist ruhmreich"
+          },
+          {
+            "type": "quranExamples",
+            "title": "Kinaya im Quran",
+            "examples": [
+              {
+                "ref": "2:187",
+                "arabic": "هُنَّ لِبَاسٌ لَكُمْ وَأَنْتُمْ لِبَاسٌ لَهُنَّ",
+                "transliteration": "hunna libaasun lakum wa-antum libaasun lahunna",
+                "explanation": "Kinaya 'an sifa (Umschreibung einer Eigenschaft): لِبَاس (libaas, Kleidung) als Kinaya fuer Naehe, Schutz und Vertrautheit. Woertliche Ebene: Kleidung liegt direkt am Koerper, beruehrt unmittelbar, schuetzt und verhuellt. Uebertragene Ebene: Die eheliche Beziehung ist wie Kleidung — direkte Naehe, gegenseitiger Schutz, Bedecken der Bloessen. Beide Ebenen sind gleichzeitig wahr: Die woertliche ist physisch vorstellbar, die uebertragene ist kontextuell gemeint."
+              },
+              {
+                "ref": "5:64",
+                "arabic": "وَقَالَتِ الْيَهُودُ يَدُ اللَّهِ مَغْلُولَةٌ غُلَّتْ أَيْدِيهِمْ ... بَلْ يَدَاهُ مَبْسُوطَتَانِ",
+                "transliteration": "wa-qaalati l-yahuudu yadu llaahi maghluu-latun ghullat aydiihim ... bal yadaahu mabsuutataan",
+                "explanation": "Doppelte Kinaya 'an sifa: يَدُ اللَّهِ مَغْلُولَةٌ ('Gottes Hand ist gefesselt') — eine gefesselte Hand kann nicht geben, also Kinaya fuer Geiz/Zurueckhaltung. Die Zurueckweisung: بَلْ يَدَاهُ مَبْسُوطَتَانِ ('Vielmehr sind seine beiden Haende ausgestreckt') — ausgestreckte Haende als Kinaya fuer uneingeschraenkte Grosszuegigkeit. Das Dual يَدَاهُ (seine beiden Haende) verstaerkt: Nicht eine, sondern beide Haende — die Grosszuegigkeit ist nicht einseitig oder begrenzt."
+              },
+              {
+                "ref": "17:29",
+                "arabic": "وَلَا تَجْعَلْ يَدَكَ مَغْلُولَةً إِلَى عُنُقِكَ وَلَا تَبْسُطْهَا كُلَّ الْبَسْطِ",
+                "transliteration": "wa-laa taj'al yadaka maghuulatan ilaa 'unuqika wa-laa tabsut-haa kulla l-basti",
+                "explanation": "Zwei gegensaetzliche Kinayat 'an sifa: (1) يَدَكَ مَغْلُولَةً إِلَى عُنُقِكَ ('deine Hand an deinen Hals gefesselt') — eine an den Hals gebundene Hand kann physisch nichts greifen oder geben: Kinaya fuer Geiz. (2) تَبْسُطْهَا كُلَّ الْبَسْطِ ('sie voellig ausstrecken') — eine voellig geoeffnete Hand laesst alles los: Kinaya fuer Verschwendung. Beide Bilder sind physisch vorstellbar (woertliche Ebene intakt), aber die gemeinten Eigenschaften sind Geiz und Verschwendung."
+              },
+              {
+                "ref": "3:37",
+                "arabic": "كُلَّمَا دَخَلَ عَلَيْهَا زَكَرِيَّا الْمِحْرَابَ وَجَدَ عِنْدَهَا رِزْقًا",
+                "transliteration": "kullamaa dakhala 'alayhaa zakariyyaa l-mihraaba wajada 'indahaa rizqan",
+                "explanation": "Kinaya 'an nisba (Beziehungs-Kinaya): وَجَدَ عِنْدَهَا رِزْقًا ('er fand bei ihr Versorgung'). Woertliche Ebene: Es lag Nahrung bei ihr. Die Kinaya liegt in عِنْدَهَا — 'bei ihr' stellt die raeumliche Naehe zwischen Maryam und der Versorgung her. Die Beziehung (nisba) zwischen Maryam und der Versorgung wird durch die Praeposition hergestellt, ohne direkt zu sagen woher die Versorgung kommt."
+              }
+            ]
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "identification",
+          "prompt": "In 2:187 (هن لباس لكم) — welches Wort ist die Kinaya? Was ist die woertliche Ebene und was ist die uebertragene Ebene? Warum ist das Kinaya und nicht Majaz?",
+          "hint": "لباس (Kleidung) — woertlich: Kleidungsstueck (physisch vorstellbar und wahr). Uebertragen: Naehe, Schutz, Vertrautheit. Es ist Kinaya weil die woertliche Ebene moeglich bleibt — Kleidung IST etwas das schuetzt und am Koerper liegt. Bei Majaz waere die woertliche Ebene unmoeglich."
+        },
+        {
+          "type": "analysis",
+          "prompt": "Vergleiche 5:64 und 17:29. Beide verwenden يد (Hand) als Kinaya. In welchem Vers wird die Kinaya als FREMDE Behauptung zitiert und zurueckgewiesen? In welchem dient sie als Verhaltensanweisung? Was unterscheidet die beiden Funktionen?",
+          "hint": "5:64: Zitat einer Behauptung (Gottes Hand sei gefesselt) + Zurueckweisung (vielmehr ausgestreckt). 17:29: Verhaltensanweisung (weder gefesselt noch voellig ausgestreckt = weder Geiz noch Verschwendung). Gleiche Kinaya, verschiedene Sprechakt-Funktionen."
+        },
+        {
+          "type": "analysis",
+          "prompt": "Bestimme den Typ der Kinaya: Ist 2:187 (لباس) eine Kinaya 'an sifa, 'an mawsuf, oder 'an nisba? Begruende.",
+          "hint": "Kinaya 'an sifa: Eine EIGENSCHAFT (Naehe, Schutz) wird durch ein Bild umschrieben (Kleidung). Es wird nicht eine Person umschrieben (mawsuf) und nicht eine Zugehoerigkeit (nisba), sondern eine Eigenschaft der Beziehung."
+        }
+      ],
+      "testContent": {
+        "exercises": [
+          {
+            "question": "Was unterscheidet Kinaya grundlegend von Majaz (Metapher)?",
+            "options": [
+              "Kinaya verwendet Vergleichspartikeln, Majaz nicht",
+              "Bei Kinaya bleibt die woertliche Bedeutung grammatisch UND sachlich moeglich, bei Majaz ist die woertliche Bedeutung im Kontext unmoeglich",
+              "Kinaya gibt es nur in Poesie",
+              "Es gibt keinen Unterschied"
+            ],
+            "correct": 1,
+            "explanation": "Bei Kinaya funktioniert der Ausdruck auf beiden Ebenen gleichzeitig — woertlich und uebertragen. Bei Majaz muss die woertliche Ebene aufgegeben werden (ein Kopf 'entflammt' nicht wirklich)."
+          },
+          {
+            "question": "In 17:29 — wofuer steht die 'an den Hals gefesselte Hand' und wofuer die 'voellig ausgestreckte Hand'?",
+            "options": [
+              "Gefesselte Hand = Gebet; Ausgestreckte Hand = Fluch",
+              "Gefesselte Hand = Grosszuegigkeit; Ausgestreckte Hand = Geiz",
+              "Gefesselte Hand = Geiz; Ausgestreckte Hand = Verschwendung",
+              "Gefesselte Hand = Trauer; Ausgestreckte Hand = Freude"
+            ],
+            "correct": 2,
+            "explanation": "Die an den Hals gefesselte Hand kann nichts geben (Kinaya fuer Geiz). Die voellig ausgestreckte Hand laesst alles los (Kinaya fuer Verschwendung). Beide Extreme werden abgelehnt."
+          },
+          {
+            "question": "Welcher Typ von Kinaya ist لباس (Kleidung) in 2:187?",
+            "options": [
+              "Kinaya 'an mawsuf — Umschreibung einer Person",
+              "Kinaya 'an nisba — Umschreibung einer Zugehoerigkeit",
+              "Kinaya 'an sifa — Umschreibung einer Eigenschaft (Naehe, Schutz)",
+              "Keine Kinaya sondern Majaz"
+            ],
+            "correct": 2,
+            "explanation": "لباس umschreibt eine EIGENSCHAFT der Beziehung (Naehe, Schutz, Vertrautheit) durch das Bild der Kleidung. Das ist Kinaya 'an sifa."
+          }
+        ]
+      }
+    },
+    {
+      "id": "B13",
+      "title": "Mubalagha (مُبَالَغَة) — Intensivbildung als rhetorisches Mittel",
+      "description": "Arabische Morphologie erzeugt durch bestimmte Nominalformen (Intensivformen) eine verstaerkte Bedeutung. Die Wahl der Form ist selbst ein rhetorisches Mittel.",
+      "learnContent": {
+        "sections": [
+          {
+            "type": "explanation",
+            "title": "Was ist Mubalagha?",
+            "content": "Mubalagha (Intensivierung) ist ein morphologisches Phaenomen: Bestimmte Nominalformen (sighatu l-mubalagha / صيغة المبالغة) druecken eine verstaerkte, intensivierte Version der Grundbedeutung aus. Die Intensivierung ist nicht stilistisch hinzugefuegt, sondern IN DER FORM SELBST KODIERT — die Morphologie traegt die Rhetorik.\n\nDie wichtigsten Intensivmuster:\n\n1. فَعَّال (fa''aal): Haeufigkeit und Wiederholung der Handlung. Wer etwas IMMER WIEDER tut.\n   Beispiel: غَفَّار (ghaffaar) = der immer wieder Vergebende (von غ-ف-ر)\n\n2. فَعُول (fa'uul): Intensitaet und Fuelle der Eigenschaft. Wer etwas in VOLLEM MASSE tut/ist.\n   Beispiel: غَفُور (ghafuur) = der in vollem Mass Vergebende\n\n3. فَعِيل (fa'iil): Bestaendige, dauerhafte Eigenschaft. Wer etwas ALS WESENSEIGENSCHAFT traegt.\n   Beispiel: رَحِيم (rahiim) = der wesenhaft Barmherzige\n\n4. فَعْلَان (fa'laan): Ueberfliessende, momentan ueberwaeltigende Fuelle.\n   Beispiel: رَحْمَان (rahmaan) = der vor Barmherzigkeit Ueberfliessende\n\n5. مِفْعَال (mif'aal): Instrumentale Intensivierung — wer etwas als Mittel/Instrument staendig einsetzt.\n   Beispiel: مِقْدَام (miqdaam) = der staendig Voranschreitende (von ق-د-م)\n\nDer rhetorische Punkt: Wenn der Quran zwischen verschiedenen Intensivformen DERSELBEN WURZEL wechselt, ist das bedeutungstragend. Die Form selbst ist das rhetorische Mittel — nicht ein hinzugefuegtes Wort, sondern die morphologische Struktur."
+          },
+          {
+            "type": "quranExamples",
+            "title": "Mubalagha im Quran",
+            "examples": [
+              {
+                "ref": "1:1",
+                "arabic": "بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ",
+                "transliteration": "bismi llaahi r-rahmaani r-rahiimi",
+                "explanation": "Intensitaetskontrast zweier Formen derselben Wurzel ر-ح-م (r-h-m, Barmherzigkeit):\n- الرَّحْمَن (ar-rahmaan, Muster fa'laan): Ueberfliessende, allumfassende Barmherzigkeit. Die Form fa'laan drueckt momentane Fuelle aus — Barmherzigkeit die ueberfliesst und ALLES umfasst.\n- الرَّحِيم (ar-rahiim, Muster fa'iil): Bestaendige, wesensmaessige Barmherzigkeit. Die Form fa'iil drueckt eine dauerhafte Eigenschaft aus — Barmherzigkeit als Wesenskern.\n\nDie Kombination: Erst die ueberfliessende, dann die bestaendige Form. Die Reihenfolge bildet eine Bewegung von der ueberwaeltigenden Fuelle zur dauerhaften Eigenschaft ab. Zwei morphologische Formen derselben Wurzel erzeugen zwei verschiedene Aspekte derselben Grundbedeutung."
+              },
+              {
+                "ref": "71:10",
+                "arabic": "إِنَّهُ كَانَ غَفَّارًا",
+                "transliteration": "innahu kaana ghaffaaran",
+                "explanation": "غَفَّار (ghaffaar, Muster fa''aal): 'Immer-wieder-Vergebend'. Die Form fa''aal betont die WIEDERHOLUNG — nicht einmalige Vergebung, sondern wiederholtes, habituelles Vergeben. Der Kontext (Nuh fordert sein Volk auf um Vergebung zu bitten) passt zur Form: Jedes Mal wenn ihr bittet, wird vergeben. Die Wiederholung der Bitte korrespondiert mit der Wiederholung des Vergebens — die Morphologie kodiert die Reziprozitaet."
+              },
+              {
+                "ref": "2:235",
+                "arabic": "وَاعْلَمُوا أَنَّ اللَّهَ غَفُورٌ حَلِيمٌ",
+                "transliteration": "wa-'lamuu anna llaaha ghafuurun haliimun",
+                "explanation": "Vergleich zweier Intensivformen: غَفُور (ghafuur, Muster fa'uul) + حَلِيم (haliim, Muster fa'iil). غَفُور betont die FUELLE der Vergebung (fa'uul = in vollem Mass). حَلِيم betont die BESTAENDIGKEIT der Nachsicht (fa'iil = Wesenseigenschaft). Die Paarung: Volle Vergebung + bestaendige Nachsicht. Jede Form traegt ihren eigenen Aspekt der Intensivierung."
+              },
+              {
+                "ref": "14:34",
+                "arabic": "إِنَّ الْإِنْسَانَ لَظَلُومٌ كَفَّارٌ",
+                "transliteration": "inna l-insaana la-zaluumun kaffaarun",
+                "explanation": "Zwei Intensivformen ueber den Menschen: ظَلُوم (zaluum, Muster fa'uul, 'in vollem Mass ungerecht') + كَفَّار (kaffaar, Muster fa''aal, 'immer wieder undankbar'). Die Formwahl differenziert: Die Ungerechtigkeit wird als Fuelle-Eigenschaft dargestellt (fa'uul — er IST voll davon), die Undankbarkeit als wiederholte Handlung (fa''aal — er TUT es immer wieder). Morphologische Differenzierung bei inhaltlicher Paarung."
+              },
+              {
+                "ref": "42:23",
+                "arabic": "إِنَّ اللَّهَ غَفُورٌ شَكُورٌ",
+                "transliteration": "inna llaaha ghafuurun shakuurun",
+                "explanation": "Doppelte fa'uul-Form: غَفُور (ghafuur, 'in vollem Mass vergebend') + شَكُور (shakuur, 'in vollem Mass anerkennend/dankend'). Beide Formen druecken Fuelle aus: volle Vergebung fuer Fehler UND volle Anerkennung fuer Gutes. Die morphologische Symmetrie (beide fa'uul) unterstreicht die inhaltliche Balance."
+              }
+            ]
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "identification",
+          "prompt": "Bestimme die Intensivformen in 1:1 (الرحمن الرحيم): Welches Muster hat jede Form? Was drueckt jedes Muster aus? Warum stehen beide nebeneinander?",
+          "hint": "الرحمن = fa'laan (ueberfliessende Fuelle). الرحيم = fa'iil (bestaendige Wesenseigenschaft). Zusammen: Barmherzigkeit die ueberfliesst UND als Wesenskern dauerhaft ist."
+        },
+        {
+          "type": "analysis",
+          "prompt": "In 14:34 stehen ظَلُوم (fa'uul) und كَفَّار (fa''aal) nebeneinander. Warum hat der Text nicht beide Male dasselbe Muster verwendet? Was drueckt die Formverschiedenheit aus?",
+          "hint": "fa'uul (ظلوم) = er IST voll davon (Zustand). fa''aal (كفار) = er TUT es immer wieder (Handlung). Ungerechtigkeit als Fuelle-Zustand, Undankbarkeit als wiederholte Handlung. Die Morphologie differenziert zwischen Zustand und Handlung."
+        },
+        {
+          "type": "analysis",
+          "prompt": "Vergleiche غَفَّار (71:10, fa''aal) mit غَفُور (2:235, fa'uul). Beide stammen von der Wurzel غ-ف-ر. Was ist der semantische Unterschied zwischen den beiden Intensivformen?",
+          "hint": "غَفَّار (fa''aal) = wiederholtes Vergeben (Haeufigkeit, jedes Mal aufs Neue). غَفُور (fa'uul) = Vergebung in vollem Mass (Intensitaet, vollstaendig). Gleiche Wurzel, verschiedene Aspekte der Intensivierung."
+        }
+      ],
+      "testContent": {
+        "exercises": [
+          {
+            "question": "Was drueckt das Muster fa''aal (فَعَّال) aus?",
+            "options": [
+              "Eine einmalige Handlung",
+              "Haeufigkeit und Wiederholung — wer etwas immer wieder tut",
+              "Eine schwache Eigenschaft",
+              "Einen Befehl"
+            ],
+            "correct": 1,
+            "explanation": "Das Muster fa''aal kodiert habituelle Wiederholung: غَفَّار = der immer wieder Vergebende, كَفَّار = der immer wieder Undankbare."
+          },
+          {
+            "question": "In الرَّحْمَنِ الرَّحِيمِ (1:1) — warum stehen zwei verschiedene Intensivformen derselben Wurzel nebeneinander?",
+            "options": [
+              "Es ist eine Wiederholung ohne Bedeutungsunterschied",
+              "الرحمن (fa'laan) drueckt ueberfliessende Fuelle aus, الرحيم (fa'iil) drueckt bestaendige Wesenseigenschaft aus — zwei verschiedene Aspekte der Barmherzigkeit",
+              "الرحمن ist fuer Menschen, الرحيم ist fuer Tiere",
+              "Es ist ein Grammatikfehler"
+            ],
+            "correct": 1,
+            "explanation": "Zwei morphologische Muster derselben Wurzel ر-ح-م: fa'laan = ueberwaeltigende, ueberfliessende Fuelle. fa'iil = bestaendige, wesenhafte Eigenschaft. Die Kombination erzeugt zwei Aspekte: Barmherzigkeit die ueberfliesst UND die als Wesenskern bestaendig ist."
+          },
+          {
+            "question": "In 14:34 (ظَلُومٌ كَفَّارٌ) — warum verwenden die beiden Woerter verschiedene Intensivmuster?",
+            "options": [
+              "Rein klanglich, ohne semantischen Unterschied",
+              "ظَلُوم (fa'uul) drueckt Fuelle/Zustand aus, كَفَّار (fa''aal) drueckt Wiederholung/Handlung aus — Morphologie differenziert zwischen Zustand und Handlung",
+              "Beide druecken dasselbe aus",
+              "Es gibt keinen Unterschied zwischen fa'uul und fa''aal"
+            ],
+            "correct": 1,
+            "explanation": "Die Morphologie traegt die Differenzierung: fa'uul (ظلوم) = er IST voll von Ungerechtigkeit (Zustandsbeschreibung). fa''aal (كفار) = er IST immer wieder undankbar (Handlungswiederholung). Verschiedene Muster, verschiedene Aspekte."
+          }
+        ]
+      }
+    },
+    {
+      "id": "B14",
+      "title": "Ihtibak (اِحْتِبَاك) — Kreuzweise Auslassung",
+      "description": "In parallelen Satzteilen laesst jeder Teil ein Element aus, das aus dem jeweils anderen rekonstruiert werden muss. Klausel A nennt X aber laesst Y weg; Klausel B nennt Y aber laesst X weg.",
+      "learnContent": {
+        "sections": [
+          {
+            "type": "explanation",
+            "title": "Was ist Ihtibak?",
+            "content": "Ihtibak (kreuzweise Auslassung) ist ein sprachliches Muster, bei dem zwei parallele Satzteile jeweils ein Element auslassen, das nur aus dem anderen Satzteil erschlossen werden kann.\n\nDas Schema:\n- Klausel A enthaelt Element X, laesst aber Element Y aus\n- Klausel B enthaelt Element Y, laesst aber Element X aus\n- Der Leser muss kreuzweise rekonstruieren: A braucht Y (aus B), B braucht X (aus A)\n\nFormalisiert:\n  A: [X ... _Y_ ...]\n  B: [_X_ ... Y ...]\n  Vollstaendig: A hat X+Y, B hat X+Y\n\nDie linguistische Funktion:\n1. Verdichtung: Die Auslassung erzwingt Kuerze — der Text sagt in zwei Klauseln was eigentlich vier Informationseinheiten enthaelt\n2. Aktive Rezeption: Der Leser muss das Fehlende aus dem Kontext ergaenzen — er wird zum aktiven Mitdenker\n3. Symmetrie-Markierung: Die kreuzweise Auslassung signalisiert, dass die beiden Klauseln als Einheit gelesen werden muessen\n\nUnterschied zu Hazf (B7): Bei Hazf (einfache Auslassung) fehlt ein Element und der Kontext ergaenzt es. Bei Ihtibak fehlen in BEIDEN Klauseln jeweils verschiedene Elemente, die sich GEGENSEITIG ergaenzen."
+          },
+          {
+            "type": "quranExamples",
+            "title": "Ihtibak im Quran",
+            "examples": [
+              {
+                "ref": "2:274",
+                "arabic": "الَّذِينَ يُنْفِقُونَ أَمْوَالَهُمْ بِاللَّيْلِ وَالنَّهَارِ سِرًّا وَعَلَانِيَةً",
+                "transliteration": "alladhiina yunfiquuna amwaalahum bi-l-layli wa-n-nahaari sirran wa-'alaaniyatan",
+                "explanation": "Ihtibak zwischen zeitlicher und modusbezogener Dimension:\n- Klausel A nennt: بِاللَّيْلِ (nachts) — die Nacht impliziert typischerweise Verborgenheit (sirran)\n- Klausel B nennt: وَالنَّهَارِ (tags) — der Tag impliziert typischerweise Oeffentlichkeit ('alaaniya)\n- Dann explizit: سِرًّا وَعَلَانِيَةً (verborgen und oeffentlich)\n\nDie kreuzweise Rekonstruktion: Nachts + verborgen UND nachts + oeffentlich. Tags + verborgen UND tags + oeffentlich. Die vier Kombinationen werden aus zwei Paaren rekonstruiert: JEDE Zeitebene wird mit JEDEM Modus kombiniert — die Auslassung erzeugt Totalitaet: zu JEDER Zeit auf JEDE Weise."
+              },
+              {
+                "ref": "36:39-40",
+                "arabic": "وَالْقَمَرَ قَدَّرْنَاهُ مَنَازِلَ حَتَّى عَادَ كَالْعُرْجُونِ الْقَدِيمِ — لَا الشَّمْسُ يَنْبَغِي لَهَا أَنْ تُدْرِكَ الْقَمَرَ وَلَا اللَّيْلُ سَابِقُ النَّهَارِ",
+                "transliteration": "wa-l-qamara qaddarnaaahu manaazila hattaa 'aada ka-l-'urjuuni l-qadiim — laa sh-shamsu yanbaghii lahaa an tudrika l-qamara wa-laa l-laylu sabiqu n-nahaari",
+                "explanation": "Ihtibak:\n- Klausel A: 'Die Sonne kann den Mond nicht einholen' — genannt: Sonne und Mond. Ausgelassen: Der Mond kann die Sonne nicht einholen (das Umgekehrte).\n- Klausel B: 'Die Nacht ueberholt den Tag nicht' — genannt: Nacht ueberholt Tag nicht. Ausgelassen: Der Tag ueberholt die Nacht nicht.\n\nKreuzweise Rekonstruktion: Keines ueberholt das andere — weder Sonne den Mond noch Mond die Sonne, weder Nacht den Tag noch Tag die Nacht. Jede Klausel nennt nur eine Richtung, aber durch die Parallelitaet wird die Gegenseitigkeit mitgeliefert."
+              },
+              {
+                "ref": "87:1-3",
+                "arabic": "سَبِّحِ اسْمَ رَبِّكَ الْأَعْلَى — الَّذِي خَلَقَ فَسَوَّى — وَالَّذِي قَدَّرَ فَهَدَى",
+                "transliteration": "sabbih isma rabbika l-a'laa — alladhii khalaqa fa-sawwaa — wa-lladhii qaddara fa-hadaa",
+                "explanation": "Ihtibak zwischen Erschaffung und Fuehrung:\n- Klausel A: خَلَقَ فَسَوَّى ('erschuf und ebnete') — die Erschaffung und physische Gestaltung wird genannt. Was ausgelassen ist: das Ziel der Gestaltung.\n- Klausel B: قَدَّرَ فَهَدَى ('bestimmte und leitete recht') — die Bestimmung und Fuehrung wird genannt. Was ausgelassen ist: worauf die Bestimmung sich bezieht (das Erschaffene).\n\nKreuzweise Rekonstruktion: Er erschuf das Geschoepf und ebnete es → fuer ein Ziel. Er bestimmte dem Geschoepf → die Fuehrung. Die Erschaffung (A) braucht das Ziel (aus B), die Bestimmung (B) braucht das Objekt (aus A)."
+              }
+            ]
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "identification",
+          "prompt": "In 2:274 — identifiziere die beiden Dimensionen (Zeit und Modus). Welche vier Kombinationen ergeben sich durch kreuzweise Rekonstruktion?",
+          "hint": "Zeit: Nacht / Tag. Modus: verborgen / oeffentlich. Die vier Kombinationen: (1) Nacht + verborgen, (2) Nacht + oeffentlich, (3) Tag + verborgen, (4) Tag + oeffentlich. Die Totalitaet: zu JEDER Zeit auf JEDE Weise."
+        },
+        {
+          "type": "analysis",
+          "prompt": "In 36:39-40 — warum sagt der Text nicht einfach 'Keines ueberholt das andere'? Was bewirkt die kreuzweise Auslassung gegenueber einer direkten Totalaussage?",
+          "hint": "Die direkte Aussage waere abstrakt. Die kreuzweise Nennung (Sonne → Mond, Nacht → Tag) erzwingt, dass der Leser die Gegenrichtung selbst hinzudenkt. Das macht die Aussage nicht nur verstanden, sondern aktiv nachvollzogen."
+        },
+        {
+          "type": "analysis",
+          "prompt": "Erklaere den Unterschied zwischen Hazf (B7, einfache Auslassung) und Ihtibak (kreuzweise Auslassung) anhand eines Beispiels.",
+          "hint": "Hazf: In 93:5 fehlt das Objekt von يُعْطِيكَ — die Gabe bleibt unbestimmt. Ihtibak: In 36:39-40 fehlt in JEDER Klausel die Gegenrichtung — die Klauseln ergaenzen sich GEGENSEITIG. Bei Hazf fehlt etwas, bei Ihtibak ergaenzen sich die Teile kreuzweise."
+        }
+      ],
+      "testContent": {
+        "exercises": [
+          {
+            "question": "Was ist das Grundprinzip von Ihtibak?",
+            "options": [
+              "Ein Element wird einfach ausgelassen",
+              "Zwei parallele Klauseln lassen jeweils verschiedene Elemente aus, die sich gegenseitig ergaenzen",
+              "Alle Elemente werden genannt",
+              "Ein Wort wird wiederholt"
+            ],
+            "correct": 1,
+            "explanation": "Ihtibak ist kreuzweise Auslassung: Klausel A laesst Y weg (rekonstruierbar aus B), Klausel B laesst X weg (rekonstruierbar aus A). Die Klauseln ergaenzen sich gegenseitig."
+          },
+          {
+            "question": "In 2:274 (بالليل والنهار سرا وعلانية) — was erzeugt die kreuzweise Zuordnung?",
+            "options": [
+              "Nur zwei Kombinationen: nachts-verborgen und tags-oeffentlich",
+              "Totalitaet: alle vier Kombinationen (nachts-verborgen, nachts-oeffentlich, tags-verborgen, tags-oeffentlich)",
+              "Nur eine Kombination: immer verborgen",
+              "Keine bestimmte Zuordnung"
+            ],
+            "correct": 1,
+            "explanation": "Die kreuzweise Zuordnung erzeugt Totalitaet: JEDE Zeitebene wird mit JEDEM Modus kombiniert. Die Auslassung zwingt zur Rekonstruktion aller vier Moeglichkeiten."
+          },
+          {
+            "question": "Was unterscheidet Ihtibak von einfacher Auslassung (Hazf)?",
+            "options": [
+              "Es gibt keinen Unterschied",
+              "Bei Hazf fehlt ein Element in einem Satz; bei Ihtibak fehlen in ZWEI parallelen Saetzen jeweils verschiedene Elemente die sich GEGENSEITIG ergaenzen",
+              "Hazf ist schwieriger als Ihtibak",
+              "Ihtibak kommt nur in Poesie vor"
+            ],
+            "correct": 1,
+            "explanation": "Hazf ist einseitige Auslassung (ein Element fehlt, Kontext ergaenzt). Ihtibak ist gegenseitige Auslassung (zwei Klauseln ergaenzen sich kreuzweise — jede liefert was der anderen fehlt)."
+          }
+        ]
+      }
+    },
+    {
+      "id": "B15",
+      "title": "Laf wa-Nashr (لَفّ وَنَشْر) — Zusammenfassung und Aufschluesselung",
+      "description": "Mehrere Begriffe werden zuerst gebuendelt genannt (Laf / Zusammenwickeln), dann einzeln aufgeschluesselt (Nashr / Ausbreiten). Der Leser muss die Zuordnung zwischen den gebuendelten und den aufgeschluesselten Elementen herstellen.",
+      "learnContent": {
+        "sections": [
+          {
+            "type": "explanation",
+            "title": "Was ist Laf wa-Nashr?",
+            "content": "Laf wa-Nashr (woertlich: 'Zusammenwickeln und Ausbreiten') ist ein Textaufbau-Muster mit zwei Teilen:\n\n1. Laf (لَفّ — Zusammenfassung/Buendelung): Mehrere Begriffe oder Elemente werden zusammen genannt, ohne sofortige Detaillierung.\n2. Nashr (نَشْر — Aufschluesselung/Ausbreitung): Die genannten Elemente werden anschliessend einzeln aufgeschluesselt, erklaert oder mit Details versehen.\n\nDie Zuordnung zwischen Laf-Elementen und Nashr-Elementen kann in zwei Formen geschehen:\n\n1. Murattab (مُرَتَّب — geordnet): Die Aufschluesselung folgt derselben Reihenfolge wie die Buendelung.\n   Laf: A, B, C → Nashr: A-Detail, B-Detail, C-Detail\n\n2. Ghayr Murattab (غير مرتّب — nicht geordnet): Die Aufschluesselung folgt einer ANDEREN Reihenfolge als die Buendelung.\n   Laf: A, B, C → Nashr: C-Detail, A-Detail, B-Detail\n   Der Leser muss die Zuordnung selbst herstellen — das erzwingt aktive Textverarbeitung.\n\nDie linguistische Funktion:\n- Verdichtung: Der Laf-Teil gibt den Ueberblick. Der Nashr-Teil gibt die Details. Beides zusammen schafft eine strukturierte Informationsvermittlung.\n- Spannung: Zwischen Laf und Nashr entsteht eine Erwartung — die gebuendelten Begriffe warten auf ihre Aufschluesselung.\n- Kohaerenzzwang: Der Leser muss die gebuendelten Elemente den aufgeschluesselten aktiv zuordnen."
+          },
+          {
+            "type": "quranExamples",
+            "title": "Laf wa-Nashr im Quran",
+            "examples": [
+              {
+                "ref": "14:3",
+                "arabic": "الَّذِينَ يَسْتَحِبُّونَ الْحَيَاةَ الدُّنْيَا عَلَى الْآخِرَةِ وَيَصُدُّونَ عَنْ سَبِيلِ اللَّهِ وَيَبْغُونَهَا عِوَجًا",
+                "transliteration": "alladhiina yastahib-buuna l-hayaata d-dunyaa 'alaa l-aakhirati wa-yasudduuna 'an sabiili llaahi wa-yabghuu-nahaa 'iwajan",
+                "explanation": "Laf wa-Nashr Murattab (geordnet):\n\nVorbereitendes Laf (implizit): Es geht um zwei Orientierungen — Diesseits vs. Jenseits.\n\nNashr (Aufschluesselung):\n1. يَسْتَحِبُّونَ الْحَيَاةَ الدُّنْيَا عَلَى الْآخِرَةِ — 'sie ziehen das diesseitige Leben dem Jenseits vor' (Zuordnung zur inneren Haltung)\n2. يَصُدُّونَ عَنْ سَبِيلِ اللَّهِ — 'sie halten ab vom Weg Gottes' (Zuordnung zur aeusseren Handlung)\n3. يَبْغُونَهَا عِوَجًا — 'sie wollen ihn krumm' (Zuordnung zur aktiven Verdrehung)\n\nDie drei Verben entfalten aufsteigend: innere Praeferenz → aeussere Blockade → aktive Verdrehung."
+              },
+              {
+                "ref": "76:2-3",
+                "arabic": "إِنَّا خَلَقْنَا الْإِنْسَانَ مِنْ نُطْفَةٍ أَمْشَاجٍ نَبْتَلِيهِ فَجَعَلْنَاهُ سَمِيعًا بَصِيرًا — إِنَّا هَدَيْنَاهُ السَّبِيلَ إِمَّا شَاكِرًا وَإِمَّا كَفُورًا",
+                "transliteration": "innaa khalaqnaa l-insaana min nutfatin amshaajin nabtalihi fa-ja'alnaahu samii'an basiiran — innaa hadaynaahu s-sabiila immaa shaakiran wa-immaa kafuuran",
+                "explanation": "Laf wa-Nashr Murattab:\n\nLaf (Buendelung): Zwei Faehigkeiten werden gebuendelt genannt — سَمِيعًا بَصِيرًا (hoerend, sehend). Der Mensch erhaelt Gehoer und Sicht.\n\nNashr (Aufschluesselung): إِنَّا هَدَيْنَاهُ السَّبِيلَ ('Wir leiteten ihn zum Weg') — die Faehigkeiten (Hoeren und Sehen) werden zum ZIEL hin aufgeschluesselt: Der Weg wird erkennbar DURCH Hoeren und Sehen.\n\nDann die Konsequenz: إِمَّا شَاكِرًا وَإِمَّا كَفُورًا ('entweder dankbar oder undankbar'). Die gebuendelten Faehigkeiten fuehren zu einer Entscheidung — die Aufschluesselung muendet in eine Alternative."
+              },
+              {
+                "ref": "17:12",
+                "arabic": "وَجَعَلْنَا اللَّيْلَ وَالنَّهَارَ آيَتَيْنِ فَمَحَوْنَا آيَةَ اللَّيْلِ وَجَعَلْنَا آيَةَ النَّهَارِ مُبْصِرَةً",
+                "transliteration": "wa-ja'alnaa l-layla wa-n-nahaara aayatayni fa-mahawnaa aayata l-layli wa-ja'alnaa aayata n-nahaari mubsiratan",
+                "explanation": "Laf wa-Nashr Murattab (geordnet, Reihenfolge beibehalten):\n\nLaf: وَجَعَلْنَا اللَّيْلَ وَالنَّهَارَ آيَتَيْنِ — 'Wir machten die Nacht und den Tag zu zwei Zeichen.' Buendelung: Nacht und Tag werden zusammen als 'zwei Zeichen' eingefuehrt.\n\nNashr: Die Aufschluesselung folgt derselben Reihenfolge:\n1. Nacht → فَمَحَوْنَا آيَةَ اللَّيْلِ ('Wir loeschten das Zeichen der Nacht aus') — die Nacht ist das geloeschte/dunkle Zeichen.\n2. Tag → وَجَعَلْنَا آيَةَ النَّهَارِ مُبْصِرَةً ('Wir machten das Zeichen des Tages sehend-machend') — der Tag ist das sichtbar-machende Zeichen.\n\nReihenfolge: Nacht → Tag im Laf, Nacht → Tag im Nashr = Murattab. Die Aufschluesselung kontrastiert: Loeschung (Nacht) vs. Sichtbarmachung (Tag)."
+              },
+              {
+                "ref": "11:5",
+                "arabic": "أَلَا إِنَّهُمْ يَثْنُونَ صُدُورَهُمْ لِيَسْتَخْفُوا مِنْهُ أَلَا حِينَ يَسْتَغْشُونَ ثِيَابَهُمْ يَعْلَمُ مَا يُسِرُّونَ وَمَا يُعْلِنُونَ",
+                "transliteration": "alaa innahum yathnuuna suduurahum li-yastakhfuu minhu alaa hiina yastaghshuuna thiyaabahum ya'lamu maa yusirruuna wa-maa yu'linuun",
+                "explanation": "Laf wa-Nashr Ghayr Murattab (ungeordnet):\n\nLaf (Buendelung): Zwei Verbergungsakte werden zusammen genannt — يَثْنُونَ صُدُورَهُمْ ('sie kruemmen ihre Brueste/Inneres') und يَسْتَغْشُونَ ثِيَابَهُمْ ('sie verhuellen sich mit ihren Kleidern'). Inneres Verbergen + Aeusseres Verbergen.\n\nNashr (Aufschluesselung, UMGEKEHRTE Reihenfolge): مَا يُسِرُّونَ وَمَا يُعْلِنُونَ — 'was sie verbergen und was sie offenbaren'.\n- يُسِرُّونَ (verbergen) korrespondiert mit يَثْنُونَ صُدُورَهُمْ (Kruemmen des Inneren) — das innere Verbergen.\n- يُعْلِنُونَ (offenbaren) korrespondiert mit يَسْتَغْشُونَ ثِيَابَهُمْ (sich verhuellen) — das aeussere Verhalten.\n\nDie Zuordnung ist kreuzweise: Der Leser muss die Nashr-Elemente den Laf-Elementen selbst zuordnen."
+              }
+            ]
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "identification",
+          "prompt": "In 17:12 — identifiziere den Laf-Teil (wo werden Nacht und Tag gebuendelt?) und den Nashr-Teil (wo werden sie einzeln aufgeschluesselt?). Ist die Reihenfolge Murattab oder Ghayr Murattab?",
+          "hint": "Laf: وجعلنا الليل والنهار آيتين (Nacht und Tag zusammen als 'zwei Zeichen'). Nashr: Erst Nacht (آية الليل → geloescht), dann Tag (آية النهار → sichtbar-machend). Reihenfolge: Nacht-Tag → Nacht-Tag = Murattab."
+        },
+        {
+          "type": "analysis",
+          "prompt": "In 11:5 — warum ist die Zuordnung Ghayr Murattab (ungeordnet)? Was bewirkt die umgekehrte Reihenfolge gegenueber einer geordneten?",
+          "hint": "Die Laf-Reihenfolge: (1) inneres Verbergen (Kruemmen der Brueste), (2) aeusseres Verhuellen (Kleidung). Die Nashr-Reihenfolge: (1) was sie verbergen, (2) was sie offenbaren. Die umgekehrte Zuordnung erzwingt aktives Mitdenken — der Leser muss die Elemente selbst richtig zuordnen."
+        },
+        {
+          "type": "analysis",
+          "prompt": "Vergleiche Laf wa-Nashr mit Ihtibak (B14): Beide arbeiten mit Elementen die zugeordnet werden muessen. Was ist der strukturelle Unterschied?",
+          "hint": "Ihtibak: Kreuzweise AUSLASSUNG — jede Klausel laesst etwas weg. Laf wa-Nashr: Erst BUENDELUNG, dann AUFSCHLUESSELUNG — nichts wird ausgelassen, aber die Zuordnung muss hergestellt werden. Ihtibak subtrahiert, Laf wa-Nashr entfaltet."
+        }
+      ],
+      "testContent": {
+        "exercises": [
+          {
+            "question": "Was ist Laf wa-Nashr?",
+            "options": [
+              "Ein Wort mit zwei Bedeutungen",
+              "Erst werden Begriffe gebuendelt genannt (Laf), dann werden sie einzeln aufgeschluesselt (Nashr)",
+              "Zwei Woerter die gleich klingen",
+              "Auslassung eines Satzglieds"
+            ],
+            "correct": 1,
+            "explanation": "Laf wa-Nashr ist ein zweiteiliges Muster: Erst Buendelung (Laf — mehrere Elemente zusammen nennen), dann Aufschluesselung (Nashr — die Elemente einzeln entfalten)."
+          },
+          {
+            "question": "In 17:12 werden Nacht und Tag zuerst als 'zwei Zeichen' gebuendelt, dann einzeln aufgeschluesselt (Nacht = geloescht, Tag = sichtbar-machend). Welcher Typ liegt vor?",
+            "options": [
+              "Ghayr Murattab — die Reihenfolge ist umgekehrt",
+              "Murattab — die Reihenfolge im Nashr entspricht der im Laf (Nacht → Tag, Nacht → Tag)",
+              "Weder noch — es ist kein Laf wa-Nashr",
+              "Beide Typen gleichzeitig"
+            ],
+            "correct": 1,
+            "explanation": "Laf: Nacht, Tag. Nashr: Nacht (geloescht), Tag (sichtbar-machend). Dieselbe Reihenfolge = Murattab (geordnet)."
+          },
+          {
+            "question": "Was unterscheidet Laf wa-Nashr von Ihtibak?",
+            "options": [
+              "Es gibt keinen Unterschied",
+              "Ihtibak laesst Elemente kreuzweise AUS, Laf wa-Nashr buendelt Elemente und schlueesselt sie anschliessend AUF — Ihtibak subtrahiert, Laf wa-Nashr entfaltet",
+              "Laf wa-Nashr ist immer geordnet, Ihtibak nie",
+              "Ihtibak ist nur in Poesie moeglich"
+            ],
+            "correct": 1,
+            "explanation": "Bei Ihtibak fehlen Elemente die kreuzweise ergaenzt werden muessen (Subtraktion). Bei Laf wa-Nashr werden Elemente erst gebuendelt, dann entfaltet (Addition/Entfaltung). Verschiedene Mechanismen, aehnlicher Effekt: Der Leser muss aktiv zuordnen."
+          }
+        ]
+      }
+    }
+  ]
+}

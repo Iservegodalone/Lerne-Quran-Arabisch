@@ -1,0 +1,1893 @@
+{
+  "meta": {
+    "title": "Leseprogression — Vom Buchstaben zum Vers",
+    "description": "Stufenweiser Aufbau der Lesefaehigkeit: Silbe → Wort → Phrase → Vers. Alle Eintraege verwenden ausschliesslich authentischen qur'anischen Text."
+  },
+  "stages": [
+    {
+      "id": "R0",
+      "title": "Verbundene Schrift lesen — Wort-Parsing",
+      "description": "Wie man ein verbundenes arabisches Wort visuell in Einzelbuchstaben zerlegt.",
+      "exercises": [
+        {
+          "arabic": "بسم",
+          "transliteration": "bsm",
+          "meaning": "Name (Konstruktstatus)",
+          "ref": "1:1",
+          "parts": ["ب", "س", "م"],
+          "partLabels": ["Ba (verbindet rechts+links)", "Sin (verbindet rechts+links)", "Mim (verbindet rechts, endet)"],
+          "difficulty": 1,
+          "parsingNote": "Alle drei Buchstaben verbinden sich. Ba beginnt → Anfangsform. Sin in der Mitte → Mittelform. Mim am Ende → Endform."
+        },
+        {
+          "arabic": "الله",
+          "transliteration": "allah",
+          "meaning": "Gott",
+          "ref": "1:1",
+          "parts": ["ا", "ل", "ل", "ه"],
+          "partLabels": ["Alif (verbindet NICHT links)", "Lam (verbindet rechts+links)", "Lam (verbindet rechts+links)", "Ha (endet)"],
+          "difficulty": 1,
+          "parsingNote": "Alif verbindet sich nicht nach links → der naechste Buchstabe (Lam) beginnt eine neue Verbindungsgruppe. Alif bricht die Kette."
+        },
+        {
+          "arabic": "رب",
+          "transliteration": "rb",
+          "meaning": "Herr",
+          "ref": "1:2",
+          "parts": ["ر", "ب"],
+          "partLabels": ["Ra (verbindet NICHT links)", "Ba (Endform)"],
+          "difficulty": 1,
+          "parsingNote": "Ra ist ein Nicht-Verbinder (wie و, ز, د, ذ) → es verbindet sich nicht mit dem folgenden Buchstaben. Ba steht daher in isolierter oder Anfangsform."
+        },
+        {
+          "arabic": "العالمين",
+          "transliteration": "al-'aalamiin",
+          "meaning": "die Welten",
+          "ref": "1:2",
+          "parts": ["ا", "ل", "ع", "ا", "ل", "م", "ي", "ن"],
+          "partLabels": ["Alif (Nicht-Verbinder)", "Lam (Verbinder)", "'Ayn (Verbinder)", "Alif (Nicht-Verbinder → bricht Kette)", "Lam (Verbinder, neue Kette)", "Mim (Verbinder)", "Ya (Verbinder)", "Nun (endet)"],
+          "difficulty": 2,
+          "parsingNote": "Zwei Verbindungsbrueche: nach dem ersten Alif und nach dem zweiten Alif. Das Wort hat drei Verbindungsgruppen: ال + عا + لمين."
+        },
+        {
+          "arabic": "الرحمن",
+          "transliteration": "ar-rahmaan",
+          "meaning": "der intensiv-Barmherzige",
+          "ref": "1:3",
+          "parts": ["ا", "ل", "ر", "ح", "م", "ن"],
+          "partLabels": ["Alif (Nicht-Verbinder)", "Lam (Verbinder)", "Ra (Nicht-Verbinder → bricht)", "Ha (neue Kette, Verbinder)", "Mim (Verbinder)", "Nun (endet)"],
+          "difficulty": 2,
+          "parsingNote": "Drei Verbindungsgruppen: ال + ر + حمن. Ra bricht die Kette weil es ein Nicht-Verbinder ist."
+        },
+        {
+          "arabic": "الدين",
+          "transliteration": "ad-diin",
+          "meaning": "die Lebensweise / der Tag",
+          "ref": "1:4",
+          "parts": ["ا", "ل", "د", "ي", "ن"],
+          "partLabels": ["Alif (Nicht-Verbinder)", "Lam (Verbinder)", "Dal (Nicht-Verbinder → bricht)", "Ya (neue Kette)", "Nun (endet)"],
+          "difficulty": 2,
+          "parsingNote": "Drei Gruppen: ال + د + ين. Dal bricht die Verbindung wie alle ا د ذ ر ز و Buchstaben."
+        },
+        {
+          "arabic": "نستعين",
+          "transliteration": "nasta'iin",
+          "meaning": "wir erbitten Hilfe",
+          "ref": "1:5",
+          "parts": ["ن", "س", "ت", "ع", "ي", "ن"],
+          "partLabels": ["Nun (Verbinder)", "Sin (Verbinder)", "Ta (Verbinder)", "'Ayn (Verbinder)", "Ya (Verbinder)", "Nun (endet)"],
+          "difficulty": 1,
+          "parsingNote": "Alle sechs Buchstaben verbinden sich — eine einzige ununterbrochene Kette. Kein Nicht-Verbinder vorhanden."
+        },
+        {
+          "arabic": "صراط",
+          "transliteration": "siraat",
+          "meaning": "Weg",
+          "ref": "1:6",
+          "parts": ["ص", "ر", "ا", "ط"],
+          "partLabels": ["Sad (Verbinder)", "Ra (Nicht-Verbinder → bricht)", "Alif (Nicht-Verbinder → bricht)", "Ta (isoliert/Endform)"],
+          "difficulty": 2,
+          "parsingNote": "Drei Brueche: nach Sad-Ra (Ra bricht), nach Ra (Alif bricht), Alif-Ta nicht verbunden. Vier separate Gruppen: صـ + ر + ا + ط."
+        }
+      ]
+    },
+    {
+      "id": "R1",
+      "title": "Silben und einfache Woerter",
+      "description": "2-3 Buchstaben-Woerter aus dem Quran lesen",
+      "exercises": [
+        {
+          "arabic": "رَبّ",
+          "transliteration": "rabb",
+          "meaning": "Herr",
+          "ref": "1:2",
+          "syllables": [
+            "رَبّ"
+          ],
+          "difficulty": 1
+        },
+        {
+          "arabic": "قُلْ",
+          "transliteration": "qul",
+          "meaning": "sag",
+          "ref": "112:1",
+          "syllables": [
+            "قُلْ"
+          ],
+          "difficulty": 1
+        },
+        {
+          "arabic": "مِنْ",
+          "transliteration": "min",
+          "meaning": "von/aus",
+          "ref": "1:1",
+          "syllables": [
+            "مِنْ"
+          ],
+          "difficulty": 1
+        },
+        {
+          "arabic": "لَمْ",
+          "transliteration": "lam",
+          "meaning": "nicht (Vergangenheit)",
+          "ref": "112:3",
+          "syllables": [
+            "لَمْ"
+          ],
+          "difficulty": 1
+        },
+        {
+          "arabic": "كُلّ",
+          "transliteration": "kull",
+          "meaning": "jeder/alle",
+          "ref": "21:33",
+          "syllables": [
+            "كُلّ"
+          ],
+          "difficulty": 1
+        },
+        {
+          "arabic": "هُوَ",
+          "transliteration": "huwa",
+          "meaning": "er",
+          "ref": "112:1",
+          "syllables": [
+            "هُ",
+            "وَ"
+          ],
+          "difficulty": 1
+        },
+        {
+          "arabic": "مَا",
+          "transliteration": "maa",
+          "meaning": "was/nicht",
+          "ref": "109:4",
+          "syllables": [
+            "مَا"
+          ],
+          "difficulty": 1
+        },
+        {
+          "arabic": "لَا",
+          "transliteration": "laa",
+          "meaning": "nein/nicht",
+          "ref": "109:2",
+          "syllables": [
+            "لَا"
+          ],
+          "difficulty": 1
+        },
+        {
+          "arabic": "بَلْ",
+          "transliteration": "bal",
+          "meaning": "sondern/vielmehr",
+          "ref": "85:21",
+          "syllables": [
+            "بَلْ"
+          ],
+          "difficulty": 1
+        },
+        {
+          "arabic": "أَمْ",
+          "transliteration": "am",
+          "meaning": "oder",
+          "ref": "52:35",
+          "syllables": [
+            "أَمْ"
+          ],
+          "difficulty": 1
+        },
+        {
+          "arabic": "شَرّ",
+          "transliteration": "sharr",
+          "meaning": "Uebel",
+          "ref": "113:2",
+          "syllables": [
+            "شَرّ"
+          ],
+          "difficulty": 1
+        },
+        {
+          "arabic": "خَلَقَ",
+          "transliteration": "khalaqa",
+          "meaning": "er erschuf",
+          "ref": "113:2",
+          "syllables": [
+            "خَ",
+            "لَ",
+            "قَ"
+          ],
+          "difficulty": 1
+        },
+        {
+          "arabic": "فَلَقْ",
+          "transliteration": "falaq",
+          "meaning": "Tagesanbruch",
+          "ref": "113:1",
+          "syllables": [
+            "فَ",
+            "لَقْ"
+          ],
+          "difficulty": 1
+        },
+        {
+          "arabic": "نَارْ",
+          "transliteration": "naar",
+          "meaning": "Feuer",
+          "ref": "111:3",
+          "syllables": [
+            "نَارْ"
+          ],
+          "difficulty": 1
+        },
+        {
+          "arabic": "أَحَدٌ",
+          "transliteration": "ahad",
+          "meaning": "einer",
+          "ref": "112:1",
+          "syllables": [
+            "أَ",
+            "حَدٌ"
+          ],
+          "difficulty": 1
+        },
+        {
+          "arabic": "صَمَدٌ",
+          "transliteration": "samad",
+          "meaning": "Bestaendiger",
+          "ref": "112:2",
+          "syllables": [
+            "صَ",
+            "مَدٌ"
+          ],
+          "difficulty": 1
+        },
+        {
+          "arabic": "يَلِدْ",
+          "transliteration": "yalid",
+          "meaning": "er zeugt",
+          "ref": "112:3",
+          "syllables": [
+            "يَ",
+            "لِدْ"
+          ],
+          "difficulty": 1
+        },
+        {
+          "arabic": "يُولَدْ",
+          "transliteration": "yuulad",
+          "meaning": "er wird gezeugt",
+          "ref": "112:3",
+          "syllables": [
+            "يُو",
+            "لَدْ"
+          ],
+          "difficulty": 1
+        },
+        {
+          "arabic": "كُفُوًا",
+          "transliteration": "kufuwan",
+          "meaning": "ebenbuertig",
+          "ref": "112:4",
+          "syllables": [
+            "كُ",
+            "فُ",
+            "وًا"
+          ],
+          "difficulty": 1
+        },
+        {
+          "arabic": "يَكُنْ",
+          "transliteration": "yakun",
+          "meaning": "er ist/war",
+          "ref": "112:4",
+          "syllables": [
+            "يَ",
+            "كُنْ"
+          ],
+          "difficulty": 1
+        },
+        {
+          "arabic": "عَصْرِ",
+          "transliteration": "'asr",
+          "meaning": "Zeit",
+          "ref": "103:1",
+          "syllables": [
+            "عَصْ",
+            "رِ"
+          ],
+          "difficulty": 1
+        },
+        {
+          "arabic": "خُسْرٍ",
+          "transliteration": "khusr",
+          "meaning": "Verlust",
+          "ref": "103:2",
+          "syllables": [
+            "خُسْ",
+            "رٍ"
+          ],
+          "difficulty": 1
+        },
+        {
+          "arabic": "حَقّ",
+          "transliteration": "haqq",
+          "meaning": "Wahrheit",
+          "ref": "103:3",
+          "syllables": [
+            "حَقّ"
+          ],
+          "difficulty": 1
+        },
+        {
+          "arabic": "صَبْرِ",
+          "transliteration": "sabr",
+          "meaning": "Geduld",
+          "ref": "103:3",
+          "syllables": [
+            "صَبْ",
+            "رِ"
+          ],
+          "difficulty": 1
+        },
+        {
+          "arabic": "نَاسِ",
+          "transliteration": "naas",
+          "meaning": "Menschen",
+          "ref": "114:1",
+          "syllables": [
+            "نَا",
+            "سِ"
+          ],
+          "difficulty": 1
+        },
+        {
+          "arabic": "مَلِكِ",
+          "transliteration": "malik",
+          "meaning": "Koenig",
+          "ref": "114:2",
+          "syllables": [
+            "مَ",
+            "لِ",
+            "كِ"
+          ],
+          "difficulty": 1
+        },
+        {
+          "arabic": "يَوْمِ",
+          "transliteration": "yawm",
+          "meaning": "Tag",
+          "ref": "1:4",
+          "syllables": [
+            "يَوْ",
+            "مِ"
+          ],
+          "difficulty": 1
+        },
+        {
+          "arabic": "دِينِ",
+          "transliteration": "diin",
+          "meaning": "Urteil/Lebensweise",
+          "ref": "1:4",
+          "syllables": [
+            "دِي",
+            "نِ"
+          ],
+          "difficulty": 1
+        },
+        {
+          "arabic": "حَسَدَ",
+          "transliteration": "hasad",
+          "meaning": "Neid",
+          "ref": "113:5",
+          "syllables": [
+            "حَ",
+            "سَ",
+            "دَ"
+          ],
+          "difficulty": 1
+        },
+        {
+          "arabic": "عُقَدِ",
+          "transliteration": "'uqad",
+          "meaning": "Knoten",
+          "ref": "113:4",
+          "syllables": [
+            "عُ",
+            "قَ",
+            "دِ"
+          ],
+          "difficulty": 1
+        },
+        {
+          "arabic": "تَبَّ",
+          "transliteration": "tabba",
+          "meaning": "zugrunde gehen",
+          "ref": "111:1",
+          "syllables": [
+            "تَبَّ"
+          ],
+          "difficulty": 1
+        },
+        {
+          "arabic": "كَسَبَ",
+          "transliteration": "kasaba",
+          "meaning": "er erwarb",
+          "ref": "111:2",
+          "syllables": [
+            "كَ",
+            "سَ",
+            "بَ"
+          ],
+          "difficulty": 1
+        }
+      ]
+    },
+    {
+      "id": "R2",
+      "title": "Woerter mit Affixen",
+      "description": "Praefix al-, Pronominalsuffixe, Konjunktionen erkennen",
+      "exercises": [
+        {
+          "arabic": "الْكِتَابُ",
+          "transliteration": "al-kitaabu",
+          "meaning": "das Buch",
+          "ref": "2:2",
+          "parts": [
+            "ال",
+            "كِتَاب",
+            "ُ"
+          ],
+          "partLabels": [
+            "Artikel",
+            "Stamm",
+            "Nominativ"
+          ],
+          "difficulty": 2
+        },
+        {
+          "arabic": "الرَّحْمَنِ",
+          "transliteration": "ar-rahmaani",
+          "meaning": "des Erbarmers",
+          "ref": "1:1",
+          "parts": [
+            "ال",
+            "رَّحْمَن",
+            "ِ"
+          ],
+          "partLabels": [
+            "Artikel",
+            "Stamm",
+            "Genitiv"
+          ],
+          "difficulty": 2
+        },
+        {
+          "arabic": "الرَّحِيمِ",
+          "transliteration": "ar-rahiimi",
+          "meaning": "des Barmherzigen",
+          "ref": "1:1",
+          "parts": [
+            "ال",
+            "رَّحِيم",
+            "ِ"
+          ],
+          "partLabels": [
+            "Artikel",
+            "Stamm",
+            "Genitiv"
+          ],
+          "difficulty": 2
+        },
+        {
+          "arabic": "الْحَمْدُ",
+          "transliteration": "al-hamdu",
+          "meaning": "das Lob",
+          "ref": "1:2",
+          "parts": [
+            "ال",
+            "حَمْد",
+            "ُ"
+          ],
+          "partLabels": [
+            "Artikel",
+            "Stamm",
+            "Nominativ"
+          ],
+          "difficulty": 2
+        },
+        {
+          "arabic": "الْعَالَمِينَ",
+          "transliteration": "al-'aalamiina",
+          "meaning": "der Welten",
+          "ref": "1:2",
+          "parts": [
+            "ال",
+            "عَالَم",
+            "ِينَ"
+          ],
+          "partLabels": [
+            "Artikel",
+            "Stamm",
+            "Genitiv-Plural"
+          ],
+          "difficulty": 2
+        },
+        {
+          "arabic": "نَعْبُدُ",
+          "transliteration": "na'budu",
+          "meaning": "wir dienen",
+          "ref": "1:5",
+          "parts": [
+            "نَ",
+            "عْبُد",
+            "ُ"
+          ],
+          "partLabels": [
+            "1.Pl-Praefix",
+            "Stamm",
+            "Indikativ"
+          ],
+          "difficulty": 2
+        },
+        {
+          "arabic": "نَسْتَعِينُ",
+          "transliteration": "nasta'iinu",
+          "meaning": "wir bitten um Hilfe",
+          "ref": "1:5",
+          "parts": [
+            "نَ",
+            "سْتَعِين",
+            "ُ"
+          ],
+          "partLabels": [
+            "1.Pl-Praefix",
+            "Stamm (X)",
+            "Indikativ"
+          ],
+          "difficulty": 2
+        },
+        {
+          "arabic": "اهْدِنَا",
+          "transliteration": "ihdinaa",
+          "meaning": "leite uns",
+          "ref": "1:6",
+          "parts": [
+            "ا",
+            "هْدِ",
+            "نَا"
+          ],
+          "partLabels": [
+            "Imperativ-Praefix",
+            "Stamm",
+            "1.Pl-Suffix"
+          ],
+          "difficulty": 2
+        },
+        {
+          "arabic": "الصِّرَاطَ",
+          "transliteration": "as-siraata",
+          "meaning": "den Weg",
+          "ref": "1:6",
+          "parts": [
+            "ال",
+            "صِّرَاط",
+            "َ"
+          ],
+          "partLabels": [
+            "Artikel",
+            "Stamm",
+            "Akkusativ"
+          ],
+          "difficulty": 2
+        },
+        {
+          "arabic": "الْمُسْتَقِيمَ",
+          "transliteration": "al-mustaqiima",
+          "meaning": "den geraden",
+          "ref": "1:6",
+          "parts": [
+            "ال",
+            "مُسْتَقِيم",
+            "َ"
+          ],
+          "partLabels": [
+            "Artikel",
+            "Stamm (X-Partizip)",
+            "Akkusativ"
+          ],
+          "difficulty": 2
+        },
+        {
+          "arabic": "أَنْعَمْتَ",
+          "transliteration": "an'amta",
+          "meaning": "du hast Gnade erwiesen",
+          "ref": "1:7",
+          "parts": [
+            "أَنْعَمْ",
+            "تَ"
+          ],
+          "partLabels": [
+            "Stamm (IV-Perfekt)",
+            "2.Sg.m-Suffix"
+          ],
+          "difficulty": 2
+        },
+        {
+          "arabic": "عَلَيْهِمْ",
+          "transliteration": "'alayhim",
+          "meaning": "auf ihnen",
+          "ref": "1:7",
+          "parts": [
+            "عَلَى",
+            "هِمْ"
+          ],
+          "partLabels": [
+            "Praeposition",
+            "3.Pl.m-Suffix"
+          ],
+          "difficulty": 2
+        },
+        {
+          "arabic": "الْمَغْضُوبِ",
+          "transliteration": "al-maghduubi",
+          "meaning": "der Bezornten",
+          "ref": "1:7",
+          "parts": [
+            "ال",
+            "مَغْضُوب",
+            "ِ"
+          ],
+          "partLabels": [
+            "Artikel",
+            "Stamm (Passiv-Partizip)",
+            "Genitiv"
+          ],
+          "difficulty": 2
+        },
+        {
+          "arabic": "الضَّالِّينَ",
+          "transliteration": "ad-daalliina",
+          "meaning": "der Irrenden",
+          "ref": "1:7",
+          "parts": [
+            "ال",
+            "ضَّالّ",
+            "ِينَ"
+          ],
+          "partLabels": [
+            "Artikel",
+            "Stamm (Partizip)",
+            "Genitiv-Plural"
+          ],
+          "difficulty": 2
+        },
+        {
+          "arabic": "بِسْمِ",
+          "transliteration": "bismi",
+          "meaning": "im Namen",
+          "ref": "1:1",
+          "parts": [
+            "بِ",
+            "سْم",
+            "ِ"
+          ],
+          "partLabels": [
+            "Praeposition",
+            "Stamm",
+            "Genitiv"
+          ],
+          "difficulty": 2
+        },
+        {
+          "arabic": "لِلَّهِ",
+          "transliteration": "lillaahi",
+          "meaning": "fuer Gott / Gottes",
+          "ref": "1:2",
+          "parts": [
+            "لِ",
+            "لَّه",
+            "ِ"
+          ],
+          "partLabels": [
+            "Praeposition",
+            "Stamm",
+            "Genitiv"
+          ],
+          "difficulty": 2
+        },
+        {
+          "arabic": "إِيَّاكَ",
+          "transliteration": "iyyaaka",
+          "meaning": "dir",
+          "ref": "1:5",
+          "parts": [
+            "إِيَّا",
+            "كَ"
+          ],
+          "partLabels": [
+            "Partikel (Hervorhebung)",
+            "2.Sg.m-Suffix"
+          ],
+          "difficulty": 2
+        },
+        {
+          "arabic": "الْوَسْوَاسِ",
+          "transliteration": "al-waswaasi",
+          "meaning": "des Einfluesterers",
+          "ref": "114:4",
+          "parts": [
+            "ال",
+            "وَسْوَاس",
+            "ِ"
+          ],
+          "partLabels": [
+            "Artikel",
+            "Stamm",
+            "Genitiv"
+          ],
+          "difficulty": 2
+        },
+        {
+          "arabic": "الْخَنَّاسِ",
+          "transliteration": "al-khannaasi",
+          "meaning": "des Zurueckweichenden",
+          "ref": "114:4",
+          "parts": [
+            "ال",
+            "خَنَّاس",
+            "ِ"
+          ],
+          "partLabels": [
+            "Artikel",
+            "Stamm (Intensivform)",
+            "Genitiv"
+          ],
+          "difficulty": 2
+        },
+        {
+          "arabic": "صُدُورِ",
+          "transliteration": "suduuri",
+          "meaning": "Brueste",
+          "ref": "114:5",
+          "parts": [
+            "صُدُور",
+            "ِ"
+          ],
+          "partLabels": [
+            "Stamm (Plural)",
+            "Genitiv"
+          ],
+          "difficulty": 2
+        },
+        {
+          "arabic": "الْكَوْثَرَ",
+          "transliteration": "al-kawthara",
+          "meaning": "die Fuelle",
+          "ref": "108:1",
+          "parts": [
+            "ال",
+            "كَوْثَر",
+            "َ"
+          ],
+          "partLabels": [
+            "Artikel",
+            "Stamm",
+            "Akkusativ"
+          ],
+          "difficulty": 2
+        },
+        {
+          "arabic": "أَعْطَيْنَاكَ",
+          "transliteration": "a'taynaaka",
+          "meaning": "wir haben dir gegeben",
+          "ref": "108:1",
+          "parts": [
+            "أَعْطَيْ",
+            "نَا",
+            "كَ"
+          ],
+          "partLabels": [
+            "Stamm (IV-Perfekt)",
+            "1.Pl-Suffix",
+            "2.Sg.m-Objekt"
+          ],
+          "difficulty": 2
+        },
+        {
+          "arabic": "فَصَلِّ",
+          "transliteration": "fasalli",
+          "meaning": "so bete",
+          "ref": "108:2",
+          "parts": [
+            "فَ",
+            "صَلِّ"
+          ],
+          "partLabels": [
+            "Konjunktion",
+            "Imperativ (II)"
+          ],
+          "difficulty": 2
+        },
+        {
+          "arabic": "وَانْحَرْ",
+          "transliteration": "wanhar",
+          "meaning": "und opfere",
+          "ref": "108:2",
+          "parts": [
+            "وَ",
+            "انْحَرْ"
+          ],
+          "partLabels": [
+            "Konjunktion",
+            "Imperativ"
+          ],
+          "difficulty": 2
+        },
+        {
+          "arabic": "شَانِئَكَ",
+          "transliteration": "shaani'aka",
+          "meaning": "dein Hasser",
+          "ref": "108:3",
+          "parts": [
+            "شَانِئ",
+            "َ",
+            "كَ"
+          ],
+          "partLabels": [
+            "Stamm (Partizip)",
+            "Akkusativ",
+            "2.Sg.m-Suffix"
+          ],
+          "difficulty": 2
+        },
+        {
+          "arabic": "الْأَبْتَرُ",
+          "transliteration": "al-abtaru",
+          "meaning": "der Abgeschnittene",
+          "ref": "108:3",
+          "parts": [
+            "ال",
+            "أَبْتَر",
+            "ُ"
+          ],
+          "partLabels": [
+            "Artikel",
+            "Stamm (Elativ)",
+            "Nominativ"
+          ],
+          "difficulty": 2
+        },
+        {
+          "arabic": "وَتَوَاصَوْا",
+          "transliteration": "watawaasau",
+          "meaning": "und sie ermahnten einander",
+          "ref": "103:3",
+          "parts": [
+            "وَ",
+            "تَوَاصَ",
+            "وْا"
+          ],
+          "partLabels": [
+            "Konjunktion",
+            "Stamm (VI-Perfekt)",
+            "3.Pl.m-Suffix"
+          ],
+          "difficulty": 2
+        }
+      ]
+    },
+    {
+      "id": "R3",
+      "title": "Kurze Phrasen",
+      "description": "2-3 Wort-Verbindungen lesen und verstehen",
+      "exercises": [
+        {
+          "arabic": "بِسْمِ اللَّهِ",
+          "transliteration": "bismi llaahi",
+          "meaning": "Im Namen Gottes",
+          "ref": "1:1",
+          "words": [
+            "بِسْمِ",
+            "اللَّهِ"
+          ],
+          "wordMeanings": [
+            "im Namen",
+            "Gottes"
+          ],
+          "difficulty": 3
+        },
+        {
+          "arabic": "الرَّحْمَنِ الرَّحِيمِ",
+          "transliteration": "ar-rahmaani r-rahiimi",
+          "meaning": "des Erbarmers, des Barmherzigen",
+          "ref": "1:1",
+          "words": [
+            "الرَّحْمَنِ",
+            "الرَّحِيمِ"
+          ],
+          "wordMeanings": [
+            "des Erbarmers",
+            "des Barmherzigen"
+          ],
+          "difficulty": 3
+        },
+        {
+          "arabic": "رَبِّ الْعَالَمِينَ",
+          "transliteration": "rabbi l-'aalamiina",
+          "meaning": "Herr der Welten",
+          "ref": "1:2",
+          "words": [
+            "رَبِّ",
+            "الْعَالَمِينَ"
+          ],
+          "wordMeanings": [
+            "Herr",
+            "der Welten"
+          ],
+          "difficulty": 3
+        },
+        {
+          "arabic": "مَالِكِ يَوْمِ",
+          "transliteration": "maaliki yawmi",
+          "meaning": "Herrscher des Tages",
+          "ref": "1:4",
+          "words": [
+            "مَالِكِ",
+            "يَوْمِ"
+          ],
+          "wordMeanings": [
+            "Herrscher",
+            "des Tages"
+          ],
+          "difficulty": 3
+        },
+        {
+          "arabic": "يَوْمِ الدِّينِ",
+          "transliteration": "yawmi d-diini",
+          "meaning": "Tag des Urteils",
+          "ref": "1:4",
+          "words": [
+            "يَوْمِ",
+            "الدِّينِ"
+          ],
+          "wordMeanings": [
+            "Tag",
+            "des Urteils"
+          ],
+          "difficulty": 3
+        },
+        {
+          "arabic": "إِيَّاكَ نَعْبُدُ",
+          "transliteration": "iyyaaka na'budu",
+          "meaning": "Dir dienen wir",
+          "ref": "1:5",
+          "words": [
+            "إِيَّاكَ",
+            "نَعْبُدُ"
+          ],
+          "wordMeanings": [
+            "dir",
+            "wir dienen"
+          ],
+          "difficulty": 3
+        },
+        {
+          "arabic": "إِيَّاكَ نَسْتَعِينُ",
+          "transliteration": "iyyaaka nasta'iinu",
+          "meaning": "Dich bitten wir um Hilfe",
+          "ref": "1:5",
+          "words": [
+            "إِيَّاكَ",
+            "نَسْتَعِينُ"
+          ],
+          "wordMeanings": [
+            "dich",
+            "wir bitten um Hilfe"
+          ],
+          "difficulty": 3
+        },
+        {
+          "arabic": "الصِّرَاطَ الْمُسْتَقِيمَ",
+          "transliteration": "as-siraata l-mustaqiima",
+          "meaning": "den geraden Weg",
+          "ref": "1:6",
+          "words": [
+            "الصِّرَاطَ",
+            "الْمُسْتَقِيمَ"
+          ],
+          "wordMeanings": [
+            "den Weg",
+            "den geraden"
+          ],
+          "difficulty": 3
+        },
+        {
+          "arabic": "غَيْرِ الْمَغْضُوبِ",
+          "transliteration": "ghayri l-maghduubi",
+          "meaning": "nicht der Bezornten",
+          "ref": "1:7",
+          "words": [
+            "غَيْرِ",
+            "الْمَغْضُوبِ"
+          ],
+          "wordMeanings": [
+            "nicht / anders als",
+            "der Bezornten"
+          ],
+          "difficulty": 3
+        },
+        {
+          "arabic": "وَلَا الضَّالِّينَ",
+          "transliteration": "wa laa d-daalliina",
+          "meaning": "und nicht der Irrenden",
+          "ref": "1:7",
+          "words": [
+            "وَلَا",
+            "الضَّالِّينَ"
+          ],
+          "wordMeanings": [
+            "und nicht",
+            "der Irrenden"
+          ],
+          "difficulty": 3
+        },
+        {
+          "arabic": "اللَّهُ أَحَدٌ",
+          "transliteration": "allaahu ahad",
+          "meaning": "Gott, einer",
+          "ref": "112:1",
+          "words": [
+            "اللَّهُ",
+            "أَحَدٌ"
+          ],
+          "wordMeanings": [
+            "Gott",
+            "einer"
+          ],
+          "difficulty": 3
+        },
+        {
+          "arabic": "اللَّهُ الصَّمَدُ",
+          "transliteration": "allaahu s-samadu",
+          "meaning": "Gott, der Bestaendige",
+          "ref": "112:2",
+          "words": [
+            "اللَّهُ",
+            "الصَّمَدُ"
+          ],
+          "wordMeanings": [
+            "Gott",
+            "der Bestaendige"
+          ],
+          "difficulty": 3
+        },
+        {
+          "arabic": "لَمْ يَلِدْ",
+          "transliteration": "lam yalid",
+          "meaning": "er hat nicht gezeugt",
+          "ref": "112:3",
+          "words": [
+            "لَمْ",
+            "يَلِدْ"
+          ],
+          "wordMeanings": [
+            "nicht (Verg.)",
+            "er zeugt"
+          ],
+          "difficulty": 3
+        },
+        {
+          "arabic": "وَلَمْ يُولَدْ",
+          "transliteration": "walam yuulad",
+          "meaning": "und er ist nicht gezeugt worden",
+          "ref": "112:3",
+          "words": [
+            "وَلَمْ",
+            "يُولَدْ"
+          ],
+          "wordMeanings": [
+            "und nicht",
+            "er wird gezeugt"
+          ],
+          "difficulty": 3
+        },
+        {
+          "arabic": "رَبِّ الْفَلَقِ",
+          "transliteration": "rabbi l-falaqi",
+          "meaning": "Herr des Tagesanbruchs",
+          "ref": "113:1",
+          "words": [
+            "رَبِّ",
+            "الْفَلَقِ"
+          ],
+          "wordMeanings": [
+            "Herr",
+            "des Tagesanbruchs"
+          ],
+          "difficulty": 3
+        },
+        {
+          "arabic": "شَرِّ مَا خَلَقَ",
+          "transliteration": "sharri maa khalaqa",
+          "meaning": "dem Uebel dessen, was er erschuf",
+          "ref": "113:2",
+          "words": [
+            "شَرِّ",
+            "مَا",
+            "خَلَقَ"
+          ],
+          "wordMeanings": [
+            "Uebel",
+            "dessen was",
+            "er erschuf"
+          ],
+          "difficulty": 3
+        },
+        {
+          "arabic": "غَاسِقٍ إِذَا وَقَبَ",
+          "transliteration": "ghaasiqin idhaa waqab",
+          "meaning": "eines Dunklen, wenn es eintritt",
+          "ref": "113:3",
+          "words": [
+            "غَاسِقٍ",
+            "إِذَا",
+            "وَقَبَ"
+          ],
+          "wordMeanings": [
+            "eines Dunklen",
+            "wenn",
+            "es eintritt"
+          ],
+          "difficulty": 3
+        },
+        {
+          "arabic": "رَبِّ النَّاسِ",
+          "transliteration": "rabbi n-naasi",
+          "meaning": "Herr der Menschen",
+          "ref": "114:1",
+          "words": [
+            "رَبِّ",
+            "النَّاسِ"
+          ],
+          "wordMeanings": [
+            "Herr",
+            "der Menschen"
+          ],
+          "difficulty": 3
+        },
+        {
+          "arabic": "مَلِكِ النَّاسِ",
+          "transliteration": "maliki n-naasi",
+          "meaning": "Koenig der Menschen",
+          "ref": "114:2",
+          "words": [
+            "مَلِكِ",
+            "النَّاسِ"
+          ],
+          "wordMeanings": [
+            "Koenig",
+            "der Menschen"
+          ],
+          "difficulty": 3
+        },
+        {
+          "arabic": "إِلَهِ النَّاسِ",
+          "transliteration": "ilaahi n-naasi",
+          "meaning": "Gott der Menschen",
+          "ref": "114:3",
+          "words": [
+            "إِلَهِ",
+            "النَّاسِ"
+          ],
+          "wordMeanings": [
+            "Gott",
+            "der Menschen"
+          ],
+          "difficulty": 3
+        },
+        {
+          "arabic": "فِي صُدُورِ النَّاسِ",
+          "transliteration": "fii suduuri n-naasi",
+          "meaning": "in den Bruesten der Menschen",
+          "ref": "114:5",
+          "words": [
+            "فِي",
+            "صُدُورِ",
+            "النَّاسِ"
+          ],
+          "wordMeanings": [
+            "in",
+            "Bruesten",
+            "der Menschen"
+          ],
+          "difficulty": 3
+        },
+        {
+          "arabic": "الْإِنْسَانَ لَفِي خُسْرٍ",
+          "transliteration": "al-insaana lafii khusr",
+          "meaning": "der Mensch ist wahrlich in Verlust",
+          "ref": "103:2",
+          "words": [
+            "الْإِنْسَانَ",
+            "لَفِي",
+            "خُسْرٍ"
+          ],
+          "wordMeanings": [
+            "der Mensch",
+            "wahrlich in",
+            "Verlust"
+          ],
+          "difficulty": 3
+        }
+      ]
+    },
+    {
+      "id": "R4",
+      "title": "Kurze Verse",
+      "description": "Vollstaendige kurze Verse aus den letzten Suren lesen",
+      "exercises": [
+        {
+          "arabic": "قُلْ هُوَ اللَّهُ أَحَدٌ",
+          "transliteration": "qul huwa llaahu ahad",
+          "meaning": "Sag: Er ist Gott, einer",
+          "ref": "112:1",
+          "words": [
+            "قُلْ",
+            "هُوَ",
+            "اللَّهُ",
+            "أَحَدٌ"
+          ],
+          "wordMeanings": [
+            "sag",
+            "er",
+            "Gott",
+            "einer"
+          ],
+          "difficulty": 4
+        },
+        {
+          "arabic": "اللَّهُ الصَّمَدُ",
+          "transliteration": "allaahu s-samadu",
+          "meaning": "Gott, der Bestaendige",
+          "ref": "112:2",
+          "words": [
+            "اللَّهُ",
+            "الصَّمَدُ"
+          ],
+          "wordMeanings": [
+            "Gott",
+            "der Bestaendige"
+          ],
+          "difficulty": 4
+        },
+        {
+          "arabic": "لَمْ يَلِدْ وَلَمْ يُولَدْ",
+          "transliteration": "lam yalid walam yuulad",
+          "meaning": "Er hat nicht gezeugt und ist nicht gezeugt worden",
+          "ref": "112:3",
+          "words": [
+            "لَمْ",
+            "يَلِدْ",
+            "وَلَمْ",
+            "يُولَدْ"
+          ],
+          "wordMeanings": [
+            "nicht",
+            "er zeugt",
+            "und nicht",
+            "er wird gezeugt"
+          ],
+          "difficulty": 4
+        },
+        {
+          "arabic": "وَلَمْ يَكُنْ لَهُ كُفُوًا أَحَدٌ",
+          "transliteration": "walam yakun lahu kufuwan ahad",
+          "meaning": "Und nicht ist ihm einer ebenbuertig",
+          "ref": "112:4",
+          "words": [
+            "وَلَمْ",
+            "يَكُنْ",
+            "لَهُ",
+            "كُفُوًا",
+            "أَحَدٌ"
+          ],
+          "wordMeanings": [
+            "und nicht",
+            "ist",
+            "ihm",
+            "ebenbuertig",
+            "einer"
+          ],
+          "difficulty": 4
+        },
+        {
+          "arabic": "قُلْ أَعُوذُ بِرَبِّ الْفَلَقِ",
+          "transliteration": "qul a'uudhu bi-rabbi l-falaqi",
+          "meaning": "Sag: Ich suche Zuflucht beim Herrn des Tagesanbruchs",
+          "ref": "113:1",
+          "words": [
+            "قُلْ",
+            "أَعُوذُ",
+            "بِرَبِّ",
+            "الْفَلَقِ"
+          ],
+          "wordMeanings": [
+            "sag",
+            "ich suche Zuflucht",
+            "beim Herrn",
+            "des Tagesanbruchs"
+          ],
+          "difficulty": 4
+        },
+        {
+          "arabic": "مِنْ شَرِّ مَا خَلَقَ",
+          "transliteration": "min sharri maa khalaqa",
+          "meaning": "Vor dem Uebel dessen, was er erschuf",
+          "ref": "113:2",
+          "words": [
+            "مِنْ",
+            "شَرِّ",
+            "مَا",
+            "خَلَقَ"
+          ],
+          "wordMeanings": [
+            "vor",
+            "dem Uebel",
+            "dessen was",
+            "er erschuf"
+          ],
+          "difficulty": 4
+        },
+        {
+          "arabic": "وَمِنْ شَرِّ غَاسِقٍ إِذَا وَقَبَ",
+          "transliteration": "wamin sharri ghaasiqin idhaa waqab",
+          "meaning": "Und vor dem Uebel eines Dunklen, wenn es eintritt",
+          "ref": "113:3",
+          "words": [
+            "وَمِنْ",
+            "شَرِّ",
+            "غَاسِقٍ",
+            "إِذَا",
+            "وَقَبَ"
+          ],
+          "wordMeanings": [
+            "und vor",
+            "dem Uebel",
+            "eines Dunklen",
+            "wenn",
+            "es eintritt"
+          ],
+          "difficulty": 4
+        },
+        {
+          "arabic": "وَمِنْ شَرِّ حَاسِدٍ إِذَا حَسَدَ",
+          "transliteration": "wamin sharri haasidin idhaa hasad",
+          "meaning": "Und vor dem Uebel eines Neiders, wenn er neidet",
+          "ref": "113:5",
+          "words": [
+            "وَمِنْ",
+            "شَرِّ",
+            "حَاسِدٍ",
+            "إِذَا",
+            "حَسَدَ"
+          ],
+          "wordMeanings": [
+            "und vor",
+            "dem Uebel",
+            "eines Neiders",
+            "wenn",
+            "er neidet"
+          ],
+          "difficulty": 4
+        },
+        {
+          "arabic": "قُلْ أَعُوذُ بِرَبِّ النَّاسِ",
+          "transliteration": "qul a'uudhu bi-rabbi n-naasi",
+          "meaning": "Sag: Ich suche Zuflucht beim Herrn der Menschen",
+          "ref": "114:1",
+          "words": [
+            "قُلْ",
+            "أَعُوذُ",
+            "بِرَبِّ",
+            "النَّاسِ"
+          ],
+          "wordMeanings": [
+            "sag",
+            "ich suche Zuflucht",
+            "beim Herrn",
+            "der Menschen"
+          ],
+          "difficulty": 4
+        },
+        {
+          "arabic": "مَلِكِ النَّاسِ",
+          "transliteration": "maliki n-naasi",
+          "meaning": "Koenig der Menschen",
+          "ref": "114:2",
+          "words": [
+            "مَلِكِ",
+            "النَّاسِ"
+          ],
+          "wordMeanings": [
+            "Koenig",
+            "der Menschen"
+          ],
+          "difficulty": 4
+        },
+        {
+          "arabic": "إِلَهِ النَّاسِ",
+          "transliteration": "ilaahi n-naasi",
+          "meaning": "Gott der Menschen",
+          "ref": "114:3",
+          "words": [
+            "إِلَهِ",
+            "النَّاسِ"
+          ],
+          "wordMeanings": [
+            "Gott",
+            "der Menschen"
+          ],
+          "difficulty": 4
+        },
+        {
+          "arabic": "إِنَّا أَعْطَيْنَاكَ الْكَوْثَرَ",
+          "transliteration": "innaa a'taynaaka l-kawthara",
+          "meaning": "Wir haben dir die Fuelle gegeben",
+          "ref": "108:1",
+          "words": [
+            "إِنَّا",
+            "أَعْطَيْنَاكَ",
+            "الْكَوْثَرَ"
+          ],
+          "wordMeanings": [
+            "wahrlich wir",
+            "wir haben dir gegeben",
+            "die Fuelle"
+          ],
+          "difficulty": 4
+        },
+        {
+          "arabic": "فَصَلِّ لِرَبِّكَ وَانْحَرْ",
+          "transliteration": "fasalli li-rabbika wanhar",
+          "meaning": "So bete zu deinem Herrn und opfere",
+          "ref": "108:2",
+          "words": [
+            "فَصَلِّ",
+            "لِرَبِّكَ",
+            "وَانْحَرْ"
+          ],
+          "wordMeanings": [
+            "so bete",
+            "zu deinem Herrn",
+            "und opfere"
+          ],
+          "difficulty": 4
+        },
+        {
+          "arabic": "إِنَّ شَانِئَكَ هُوَ الْأَبْتَرُ",
+          "transliteration": "inna shaani'aka huwa l-abtaru",
+          "meaning": "Dein Hasser — er ist der Abgeschnittene",
+          "ref": "108:3",
+          "words": [
+            "إِنَّ",
+            "شَانِئَكَ",
+            "هُوَ",
+            "الْأَبْتَرُ"
+          ],
+          "wordMeanings": [
+            "wahrlich",
+            "dein Hasser",
+            "er",
+            "der Abgeschnittene"
+          ],
+          "difficulty": 4
+        },
+        {
+          "arabic": "وَالْعَصْرِ",
+          "transliteration": "wal-'asri",
+          "meaning": "Bei der Zeit",
+          "ref": "103:1",
+          "words": [
+            "وَ",
+            "الْعَصْرِ"
+          ],
+          "wordMeanings": [
+            "bei",
+            "der Zeit"
+          ],
+          "difficulty": 4
+        },
+        {
+          "arabic": "إِنَّ الْإِنْسَانَ لَفِي خُسْرٍ",
+          "transliteration": "inna l-insaana lafii khusr",
+          "meaning": "Der Mensch ist wahrlich in Verlust",
+          "ref": "103:2",
+          "words": [
+            "إِنَّ",
+            "الْإِنْسَانَ",
+            "لَفِي",
+            "خُسْرٍ"
+          ],
+          "wordMeanings": [
+            "wahrlich",
+            "der Mensch",
+            "wahrlich in",
+            "Verlust"
+          ],
+          "difficulty": 4
+        },
+        {
+          "arabic": "تَبَّتْ يَدَا أَبِي لَهَبٍ وَتَبَّ",
+          "transliteration": "tabbat yadaa abii lahabin wa-tabb",
+          "meaning": "Zugrunde gehen die Haende des Vaters der Flamme, und er geht zugrunde",
+          "ref": "111:1",
+          "words": [
+            "تَبَّتْ",
+            "يَدَا",
+            "أَبِي",
+            "لَهَبٍ",
+            "وَتَبَّ"
+          ],
+          "wordMeanings": [
+            "zugrunde gehen",
+            "die beiden Haende",
+            "des Vaters",
+            "der Flamme",
+            "und er geht zugrunde"
+          ],
+          "difficulty": 4
+        }
+      ]
+    },
+    {
+      "id": "R5",
+      "title": "Laengere Verse",
+      "description": "Mittellange Verse mit komplexerer Syntax",
+      "exercises": [
+        {
+          "arabic": "بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ",
+          "transliteration": "bismi llaahi r-rahmaani r-rahiimi",
+          "meaning": "Im Namen Gottes, des Erbarmers, des Barmherzigen",
+          "ref": "1:1",
+          "words": [
+            "بِسْمِ",
+            "اللَّهِ",
+            "الرَّحْمَنِ",
+            "الرَّحِيمِ"
+          ],
+          "wordMeanings": [
+            "im Namen",
+            "Gottes",
+            "des Erbarmers",
+            "des Barmherzigen"
+          ],
+          "difficulty": 5
+        },
+        {
+          "arabic": "الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ",
+          "transliteration": "al-hamdu lillaahi rabbi l-'aalamiina",
+          "meaning": "Das Lob gehoert Gott, dem Herrn der Welten",
+          "ref": "1:2",
+          "words": [
+            "الْحَمْدُ",
+            "لِلَّهِ",
+            "رَبِّ",
+            "الْعَالَمِينَ"
+          ],
+          "wordMeanings": [
+            "das Lob",
+            "Gott",
+            "Herr",
+            "der Welten"
+          ],
+          "difficulty": 5
+        },
+        {
+          "arabic": "الرَّحْمَنِ الرَّحِيمِ",
+          "transliteration": "ar-rahmaani r-rahiimi",
+          "meaning": "Des Erbarmers, des Barmherzigen",
+          "ref": "1:3",
+          "words": [
+            "الرَّحْمَنِ",
+            "الرَّحِيمِ"
+          ],
+          "wordMeanings": [
+            "des Erbarmers",
+            "des Barmherzigen"
+          ],
+          "difficulty": 5
+        },
+        {
+          "arabic": "مَالِكِ يَوْمِ الدِّينِ",
+          "transliteration": "maaliki yawmi d-diini",
+          "meaning": "Herrscher des Tages des Urteils",
+          "ref": "1:4",
+          "words": [
+            "مَالِكِ",
+            "يَوْمِ",
+            "الدِّينِ"
+          ],
+          "wordMeanings": [
+            "Herrscher",
+            "des Tages",
+            "des Urteils"
+          ],
+          "difficulty": 5
+        },
+        {
+          "arabic": "إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ",
+          "transliteration": "iyyaaka na'budu wa-iyyaaka nasta'iinu",
+          "meaning": "Dir dienen wir und dich bitten wir um Hilfe",
+          "ref": "1:5",
+          "words": [
+            "إِيَّاكَ",
+            "نَعْبُدُ",
+            "وَإِيَّاكَ",
+            "نَسْتَعِينُ"
+          ],
+          "wordMeanings": [
+            "dir",
+            "wir dienen",
+            "und dich",
+            "wir bitten um Hilfe"
+          ],
+          "difficulty": 5
+        },
+        {
+          "arabic": "اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ",
+          "transliteration": "ihdinaa s-siraata l-mustaqiima",
+          "meaning": "Leite uns den geraden Weg",
+          "ref": "1:6",
+          "words": [
+            "اهْدِنَا",
+            "الصِّرَاطَ",
+            "الْمُسْتَقِيمَ"
+          ],
+          "wordMeanings": [
+            "leite uns",
+            "den Weg",
+            "den geraden"
+          ],
+          "difficulty": 5
+        },
+        {
+          "arabic": "صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ",
+          "transliteration": "siraata lladhiina an'amta 'alayhim ghayri l-maghduubi 'alayhim wa laa d-daalliina",
+          "meaning": "Den Weg derer, denen du Gnade erwiesen hast, nicht derer, auf die Zorn fiel, und nicht der Irrenden",
+          "ref": "1:7",
+          "words": [
+            "صِرَاطَ",
+            "الَّذِينَ",
+            "أَنْعَمْتَ",
+            "عَلَيْهِمْ",
+            "غَيْرِ",
+            "الْمَغْضُوبِ",
+            "عَلَيْهِمْ",
+            "وَلَا",
+            "الضَّالِّينَ"
+          ],
+          "wordMeanings": [
+            "den Weg",
+            "derer die",
+            "du Gnade erwiesen hast",
+            "auf ihnen",
+            "nicht",
+            "der Bezornten",
+            "auf ihnen",
+            "und nicht",
+            "der Irrenden"
+          ],
+          "difficulty": 5
+        },
+        {
+          "arabic": "مِنْ شَرِّ الْوَسْوَاسِ الْخَنَّاسِ",
+          "transliteration": "min sharri l-waswaasi l-khannaasi",
+          "meaning": "Vor dem Uebel des zurueckweichenden Einfluesterers",
+          "ref": "114:4",
+          "words": [
+            "مِنْ",
+            "شَرِّ",
+            "الْوَسْوَاسِ",
+            "الْخَنَّاسِ"
+          ],
+          "wordMeanings": [
+            "vor",
+            "dem Uebel",
+            "des Einfluesterers",
+            "des Zurueckweichenden"
+          ],
+          "difficulty": 5
+        },
+        {
+          "arabic": "الَّذِي يُوَسْوِسُ فِي صُدُورِ النَّاسِ",
+          "transliteration": "alladhii yuwaswisu fii suduuri n-naasi",
+          "meaning": "Der einfleustert in die Brueste der Menschen",
+          "ref": "114:5",
+          "words": [
+            "الَّذِي",
+            "يُوَسْوِسُ",
+            "فِي",
+            "صُدُورِ",
+            "النَّاسِ"
+          ],
+          "wordMeanings": [
+            "der",
+            "er fleustert ein",
+            "in",
+            "Brueste",
+            "der Menschen"
+          ],
+          "difficulty": 5
+        },
+        {
+          "arabic": "مِنَ الْجِنَّةِ وَالنَّاسِ",
+          "transliteration": "mina l-jinnati wa n-naasi",
+          "meaning": "Von den Dschinn und den Menschen",
+          "ref": "114:6",
+          "words": [
+            "مِنَ",
+            "الْجِنَّةِ",
+            "وَالنَّاسِ"
+          ],
+          "wordMeanings": [
+            "von",
+            "den Dschinn",
+            "und den Menschen"
+          ],
+          "difficulty": 5
+        },
+        {
+          "arabic": "وَمِنْ شَرِّ النَّفَّاثَاتِ فِي الْعُقَدِ",
+          "transliteration": "wamin sharri n-naffaathaati fii l-'uqadi",
+          "meaning": "Und vor dem Uebel der Blaesenden in die Knoten",
+          "ref": "113:4",
+          "words": [
+            "وَمِنْ",
+            "شَرِّ",
+            "النَّفَّاثَاتِ",
+            "فِي",
+            "الْعُقَدِ"
+          ],
+          "wordMeanings": [
+            "und vor",
+            "dem Uebel",
+            "der Blaesenden",
+            "in",
+            "die Knoten"
+          ],
+          "difficulty": 5
+        },
+        {
+          "arabic": "إِلَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ وَتَوَاصَوْا بِالْحَقِّ وَتَوَاصَوْا بِالصَّبْرِ",
+          "transliteration": "illa lladhiina aamanuu wa 'amilu s-saalihaati watawaasau bi-l-haqqi watawaasau bi-s-sabri",
+          "meaning": "Ausser denen, die glaubten und Rechtschaffenes taten und einander zur Wahrheit ermahnten und einander zur Geduld ermahnten",
+          "ref": "103:3",
+          "words": [
+            "إِلَّا",
+            "الَّذِينَ",
+            "آمَنُوا",
+            "وَعَمِلُوا",
+            "الصَّالِحَاتِ",
+            "وَتَوَاصَوْا",
+            "بِالْحَقِّ",
+            "وَتَوَاصَوْا",
+            "بِالصَّبْرِ"
+          ],
+          "wordMeanings": [
+            "ausser",
+            "denen die",
+            "glaubten",
+            "und taten",
+            "das Rechtschaffene",
+            "und ermahnten einander",
+            "zur Wahrheit",
+            "und ermahnten einander",
+            "zur Geduld"
+          ],
+          "difficulty": 5
+        },
+        {
+          "arabic": "مَا أَغْنَى عَنْهُ مَالُهُ وَمَا كَسَبَ",
+          "transliteration": "maa aghnaa 'anhu maaluhu wamaa kasab",
+          "meaning": "Nicht hat ihm genuetzt sein Besitz und nicht was er erwarb",
+          "ref": "111:2",
+          "words": [
+            "مَا",
+            "أَغْنَى",
+            "عَنْهُ",
+            "مَالُهُ",
+            "وَمَا",
+            "كَسَبَ"
+          ],
+          "wordMeanings": [
+            "nicht",
+            "genuetzt",
+            "ihm",
+            "sein Besitz",
+            "und nicht",
+            "was er erwarb"
+          ],
+          "difficulty": 5
+        },
+        {
+          "arabic": "سَيَصْلَى نَارًا ذَاتَ لَهَبٍ",
+          "transliteration": "sayaslaa naaran dhaata lahab",
+          "meaning": "Er wird einem Feuer mit Flammen ausgesetzt",
+          "ref": "111:3",
+          "words": [
+            "سَيَصْلَى",
+            "نَارًا",
+            "ذَاتَ",
+            "لَهَبٍ"
+          ],
+          "wordMeanings": [
+            "er wird ausgesetzt werden",
+            "einem Feuer",
+            "mit",
+            "Flammen"
+          ],
+          "difficulty": 5
+        },
+        {
+          "arabic": "وَامْرَأَتُهُ حَمَّالَةَ الْحَطَبِ",
+          "transliteration": "wamra'atuhu hammaalata l-hatabi",
+          "meaning": "Und seine Frau, Traegerin des Brennholzes",
+          "ref": "111:4",
+          "words": [
+            "وَامْرَأَتُهُ",
+            "حَمَّالَةَ",
+            "الْحَطَبِ"
+          ],
+          "wordMeanings": [
+            "und seine Frau",
+            "Traegerin",
+            "des Brennholzes"
+          ],
+          "difficulty": 5
+        },
+        {
+          "arabic": "فِي جِيدِهَا حَبْلٌ مِنْ مَسَدٍ",
+          "transliteration": "fii jiidihaa hablun min masad",
+          "meaning": "An ihrem Hals ein Strick aus Palmfasern",
+          "ref": "111:5",
+          "words": [
+            "فِي",
+            "جِيدِهَا",
+            "حَبْلٌ",
+            "مِنْ",
+            "مَسَدٍ"
+          ],
+          "wordMeanings": [
+            "an",
+            "ihrem Hals",
+            "ein Strick",
+            "aus",
+            "Palmfasern"
+          ],
+          "difficulty": 5
+        }
+      ]
+    }
+  ]
+}

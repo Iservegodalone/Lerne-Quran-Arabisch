@@ -1,0 +1,125 @@
+{
+  "meta": {
+    "title": "Idafa-Subtypen",
+    "description": "Die drei semantischen Typen der Idafa-Konstruktion und ihre syntaktischen Eigenschaften.",
+    "sources": [
+      {"label": "Wright's Grammar Vol II — Annexion (Idafa)", "url": "https://archive.org/details/WrightsArabicGrammar2Of2"},
+      {"label": "Quranic Arabic Corpus", "url": "https://corpus.quran.com"}
+    ]
+  },
+  "subtypes": [
+    {
+      "id": "tamlik",
+      "name": "Idafa Tamlik (Besitz-Idafa)",
+      "arabic": "إضافة تمليكية",
+      "description": "Drueckt Besitz oder Zugehoerigkeit aus. Das Mudaf gehoert dem Mudaf ilayh.",
+      "examples": [
+        {
+          "arabic": "كِتَابُ اللَّهِ",
+          "transliteration": "kitābu llāhi",
+          "meaning": "das Buch Gottes (= Gottes Buch)",
+          "quranRef": "2:101",
+          "analysis": "كِتَاب (Mudaf, Nominativ) + اللَّه (Mudaf ilayh, Genitiv). Besitzverhaeltnis."
+        },
+        {
+          "arabic": "بَيْتُ اللَّهِ",
+          "transliteration": "baytu llāhi",
+          "meaning": "das Haus Gottes",
+          "quranRef": "implizit",
+          "analysis": "بَيْت (Mudaf) + اللَّه (Mudaf ilayh). Das Haus gehoert Gott."
+        }
+      ]
+    },
+    {
+      "id": "bayan",
+      "name": "Idafa Bayan (Erklaerings-Idafa)",
+      "arabic": "إضافة بيانية",
+      "description": "Das Mudaf ilayh erklaert die Art oder das Material des Mudaf. Aufloesung: 'Mudaf das aus/von Mudaf-ilayh besteht.'",
+      "examples": [
+        {
+          "arabic": "جَنَّاتُ عَدْنٍ",
+          "transliteration": "jannātu ʿadnin",
+          "meaning": "Gaerten der Ewigkeit (= Gaerten die aus ewigem Verweilen bestehen)",
+          "quranRef": "9:72",
+          "analysis": "جَنَّات (Mudaf) + عَدْن (Mudaf ilayh). Die Gaerten BESTEHEN AUS ewigem Verweilen."
+        },
+        {
+          "arabic": "حَبْلِ الْوَرِيدِ",
+          "transliteration": "ḥabli l-warīdi",
+          "meaning": "die Halsschlagader (woertlich: das Seil der Halsader)",
+          "quranRef": "50:16",
+          "analysis": "حَبْل (Mudaf) + الْوَرِيد (Mudaf ilayh). حَبْل erklaert die ART: es ist die Ader."
+        }
+      ]
+    },
+    {
+      "id": "sifa",
+      "name": "Idafa Sifa (Adjektiv-Idafa)",
+      "arabic": "إضافة لفظية / صفة",
+      "description": "Das Mudaf ist ein Adjektiv oder Partizip, das Mudaf ilayh ist sein logisches Objekt oder Spezifikation. BESONDERHEIT: Diese Idafa macht das Mudaf NICHT definit.",
+      "examples": [
+        {
+          "arabic": "سَرِيعُ الْحِسَابِ",
+          "transliteration": "sarīʿu l-ḥisābi",
+          "meaning": "schnell im Abrechnen",
+          "quranRef": "2:202",
+          "analysis": "سَرِيع (Adjektiv, Mudaf) + الْحِسَاب (Mudaf ilayh). Das Adjektiv wird durch das Mudaf ilayh spezifiziert."
+        },
+        {
+          "arabic": "شَدِيدُ الْعِقَابِ",
+          "transliteration": "shadīdu l-ʿiqābi",
+          "meaning": "streng in der Bestrafung",
+          "quranRef": "2:196",
+          "analysis": "شَدِيد (Adjektiv, Mudaf) + الْعِقَاب (Mudaf ilayh). ACHTUNG: شَدِيد bleibt hier INDEFINIT trotz der Idafa."
+        }
+      ]
+    },
+    {
+      "id": "zarfiyya",
+      "name": "Idafa Zarfiyya (zeitlich/oertlich)",
+      "arabic": "إضافة ظرفية",
+      "description": "Das Mudaf ist ein Zarf (Zeit- oder Ortsangabe), das Mudaf ilayh spezifiziert die Zeit oder den Ort. Die zugrundeliegende Bedeutung ist 'in/an [Zeitpunkt/Ort]'. Diese Konstruktion ist im Quran aeusserst haeufig.",
+      "examples": [
+        {
+          "arabic": "يَوْمَ الْقِيَامَةِ",
+          "transliteration": "yawma l-qiyāmati",
+          "meaning": "Tag der Auferstehung (= am Tag der Auferstehung)",
+          "quranRef": "2:85",
+          "analysis": "يَوْم (Mudaf, Zarf Zaman — Zeitangabe) + الْقِيَامَة (Mudaf ilayh, Genitiv). Der Tag wird durch das Ereignis spezifiziert. Die Idafa traegt adverbiale Funktion: 'am Tag der Auferstehung'."
+        },
+        {
+          "arabic": "مَكْرَ اللَّيْلِ",
+          "transliteration": "makra l-layli",
+          "meaning": "List der Nacht / naechtliche List",
+          "quranRef": "34:33",
+          "analysis": "مَكْر (Mudaf) + اللَّيْل (Mudaf ilayh, Genitiv). Hier fungiert اللَّيْل als zeitliche Spezifikation: die List, die IN der Nacht geschieht. Zarf Zaman."
+        },
+        {
+          "arabic": "عِنْدَ اللَّهِ",
+          "transliteration": "ʿinda llāhi",
+          "meaning": "bei Gott",
+          "quranRef": "3:14",
+          "analysis": "عِنْدَ (Mudaf, Zarf Makan — Ortsangabe) + اللَّه (Mudaf ilayh, Genitiv). عِنْدَ ist ein nicht-flektierbarer Zarf, der stets als Mudaf steht. Zarf Makan."
+        }
+      ]
+    }
+  ],
+  "rules": [
+    {
+      "rule": "Definitheit",
+      "explanation": "Bei Tamlik- und Bayan-Idafa wird das Mudaf durch ein definites Mudaf ilayh DEFINIT gemacht — auch ohne Artikel. Bei der Sifa-Idafa wird das Mudaf NICHT definit, weil die Verbindung nur adjektivisch ist."
+    },
+    {
+      "rule": "Tanwin",
+      "explanation": "Das Mudaf verliert in JEDER Idafa seinen Tanwin. Auch wenn es indefinit bleibt (wie bei der Sifa-Idafa), traegt es keinen Tanwin."
+    },
+    {
+      "rule": "Kasus des Mudaf ilayh",
+      "explanation": "Das Mudaf ilayh steht IMMER im Genitiv (Majrur) — unabhaengig vom Idafa-Typ."
+    },
+    {
+      "rule": "Kettenbildung",
+      "explanation": "Idafa-Ketten koennen mehrgliedrig sein: كِتَابُ عِلْمِ اللَّهِ (das Buch des Wissens Gottes). Jedes Glied ausser dem letzten ist Mudaf zum naechsten."
+    }
+  ]
+}

@@ -1,0 +1,242 @@
+{
+  "meta": {
+    "title": "Tawkid — Bekraeftigung und Bestaetigung",
+    "description": "Systematische Behandlung der beiden Tawkid-Typen: wortwoertliche Wiederholung (tawkid lafzi) und semantische Bekraeftigung (tawkid ma'nawi). Rein sprachwissenschaftlich."
+  },
+  "lessons": [
+    {
+      "id": "T1",
+      "title": "Tawkid Lafzi — Woertliche Bekraeftigung durch Wiederholung",
+      "description": "Ein Wort oder Ausdruck wird woertlich wiederholt um ihn zu bekraeftigen.",
+      "learnContent": {
+        "sections": [
+          {
+            "type": "explanation",
+            "title": "Definition",
+            "content": "Tawkid Lafzi (التوكيد اللفظي) ist die Wiederholung eines Wortes, einer Phrase oder eines ganzen Satzes zur Bekraeftigung. Das wiederholte Element folgt dem Erstgenannten ohne Konjunktion.\n\nDas Tawkid steht im selben Kasus wie das Wort das es bekraeftigt (تابع — es folgt seinem Bezugswort)."
+          },
+          {
+            "type": "quranExamples",
+            "title": "Quran-Beispiele",
+            "examples": [
+              {
+                "ref": "94:5-6",
+                "arabic": "فَإِنَّ مَعَ الْعُسْرِ يُسْرًا ﴿٥﴾ إِنَّ مَعَ الْعُسْرِ يُسْرًا ﴿٦﴾",
+                "explanation": "Der gesamte Satz wird wiederholt: إِنَّ مَعَ الْعُسْرِ يُسْرًا — woertliche Satzwiederholung als Bekraeftigung."
+              },
+              {
+                "ref": "55:13",
+                "arabic": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+                "explanation": "Dieser Vers wird 31 Mal in der Sure wiederholt — Refrain als strukturelle Bekraeftigung."
+              },
+              {
+                "ref": "82:17-18",
+                "arabic": "وَمَا أَدْرَاكَ مَا يَوْمُ الدِّينِ ﴿١٧﴾ ثُمَّ مَا أَدْرَاكَ مَا يَوْمُ الدِّينِ ﴿١٨﴾",
+                "explanation": "Die rhetorische Frage وَمَا أَدْرَاكَ wird wiederholt, beim zweiten Mal mit ثُمَّ eingeleitet."
+              },
+              {
+                "ref": "69:1-2",
+                "arabic": "الْحَاقَّةُ ﴿١﴾ مَا الْحَاقَّةُ ﴿٢﴾",
+                "explanation": "Das Wort الْحَاقَّة wird sofort aufgegriffen — erst als Thema, dann in einer rhetorischen Frage."
+              },
+              {
+                "ref": "101:1-2",
+                "arabic": "الْقَارِعَةُ ﴿١﴾ مَا الْقَارِعَةُ ﴿٢﴾",
+                "explanation": "Identisches Muster: Wort + sofortige Frage nach dem Wort."
+              },
+              {
+                "ref": "89:21-22",
+                "arabic": "كَلَّا إِذَا دُكَّتِ الْأَرْضُ دَكًّا دَكًّا ﴿٢١﴾ وَجَاءَ رَبُّكَ وَالْمَلَكُ صَفًّا صَفًّا ﴿٢٢﴾",
+                "explanation": "دَكًّا دَكًّا und صَفًّا صَفًّا: Wiederholung des Masdar als Bekraeftigung — 'Zerschmetterung auf Zerschmetterung', 'Reihe auf Reihe'."
+              }
+            ]
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "identification",
+          "prompt": "Lies 56:1-4. Identifiziere die Wiederholungsstruktur und ihre Funktion."
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "In 89:21 steht دَكًّا دَكًّا. Was ist die grammatische Funktion des zweiten دَكًّا?",
+          "options": [
+            "Maf'ul mutlaq",
+            "Tawkid lafzi (woertliche Bekraeftigung)",
+            "Hal (Zustandsangabe)",
+            "Badal (Apposition)"
+          ],
+          "correct": 1,
+          "explanation": "Das zweite دَكًّا ist Tawkid lafzi — es wiederholt das erste zur Bekraeftigung. Beide stehen im gleichen Kasus (Akkusativ)."
+        }
+      ],
+      "testContent": {
+        "exercises": [
+          {
+            "question": "Was ist Tawkid Lafzi?",
+            "options": [
+              "Bekraeftigung durch ein bedeutungsverstaerkendes Pronomen",
+              "Bekraeftigung durch woertliche Wiederholung eines Wortes oder Satzes",
+              "Bekraeftigung durch ein Schwurpartikel",
+              "Bekraeftigung durch Voranstellung"
+            ],
+            "correct": 1
+          },
+          {
+            "question": "In welchem Kasus steht das Tawkid relativ zu seinem Bezugswort?",
+            "options": [
+              "Immer Akkusativ",
+              "Immer Nominativ",
+              "Im selben Kasus wie das Bezugswort",
+              "Im Genitiv"
+            ],
+            "correct": 2
+          }
+        ]
+      }
+    },
+    {
+      "id": "T2",
+      "title": "Tawkid Ma'nawi — Semantische Bekraeftigung",
+      "description": "Bekraeftigung durch spezielle Woerter die Identitaet, Gesamtheit oder Vollstaendigkeit ausdruecken.",
+      "learnContent": {
+        "sections": [
+          {
+            "type": "explanation",
+            "title": "Die fuenf Tawkid-Woerter",
+            "content": "Tawkid Ma'nawi (التوكيد المعنوي) verwendet spezielle Woerter die dem Bezugsnomen folgen und es semantisch bekraeftigen. Sie muessen ein Pronomen-Suffix tragen das auf das Bezugswort zurueckverweist.\n\n1. نَفْس (nafs) — 'selbst / persoenlich' → bekraeftigt Identitaet\n2. عَيْن ('ayn) — 'genau / selbst' → bekraeftigt Identitaet (intensiver)\n3. كُلّ (kull) — 'ganz / alle / gesamt' → bekraeftigt Gesamtheit\n4. جَمِيع (jami') — 'alle zusammen / insgesamt' → bekraeftigt Gesamtheit\n5. كِلَا / كِلْتَا (kilaa / kiltaa) — 'beide' → bekraeftigt Duale\n\nAlle stehen im selben Kasus wie ihr Bezugswort und tragen ein rueckbezuegliches Pronomen."
+          },
+          {
+            "type": "explanation",
+            "title": "Kasus und Pronomen",
+            "content": "Das Tawkid-Wort folgt dem Kasus seines Bezugswortes:\n\nجَاءَ الْقَوْمُ كُلُّهُمْ — Das Volk kam, alle von ihnen (Nominativ)\nرَأَيْتُ الْقَوْمَ كُلَّهُمْ — Ich sah das Volk, alle von ihnen (Akkusativ)\nمَرَرْتُ بِالْقَوْمِ كُلِّهِمْ — Ich ging am Volk vorbei, allen von ihnen (Genitiv)"
+          },
+          {
+            "type": "quranExamples",
+            "title": "Quran-Beispiele: نَفْس und عَيْن",
+            "examples": [
+              {
+                "ref": "4:113",
+                "arabic": "وَأَنْزَلَ اللَّهُ عَلَيْكَ الْكِتَابَ وَالْحِكْمَةَ وَعَلَّمَكَ مَا لَمْ تَكُنْ تَعْلَمُ",
+                "explanation": "Kontext fuer Tawkid: Die Herabsendung wird Gott selbst zugeschrieben — direkte Zuschreibung ohne Vermittler."
+              }
+            ]
+          },
+          {
+            "type": "quranExamples",
+            "title": "Quran-Beispiele: كُلّ",
+            "examples": [
+              {
+                "ref": "2:29",
+                "arabic": "هُوَ الَّذِي خَلَقَ لَكُمْ مَا فِي الْأَرْضِ جَمِيعًا",
+                "explanation": "جَمِيعًا (Akkusativ als Hal): 'insgesamt / alle zusammen' — bekraeftigt die Gesamtheit dessen was auf der Erde ist."
+              },
+              {
+                "ref": "2:31",
+                "arabic": "وَعَلَّمَ آدَمَ الْأَسْمَاءَ كُلَّهَا",
+                "explanation": "كُلَّهَا: Tawkid Ma'nawi zu الْأَسْمَاءَ — 'die Namen, ALLE von ihnen'. Akkusativ (wie الاسماء). Das Suffix هَا verweist auf الاسماء (gebrochener Plural → feminin Singular Pronomen)."
+              },
+              {
+                "ref": "2:148",
+                "arabic": "وَلِكُلٍّ وِجْهَةٌ هُوَ مُوَلِّيهَا فَاسْتَبِقُوا الْخَيْرَاتِ",
+                "explanation": "لِكُلٍّ: لِ + كُلٍّ = Jarr wa-Majrur, fungiert als vorangestelltes Khabar. وِجْهَةٌ = Mubtada (Nominativ). كُلّ hier nicht als Tawkid, sondern als Teil einer Praepositionalphrase."
+              },
+              {
+                "ref": "15:30",
+                "arabic": "فَسَجَدَ الْمَلَائِكَةُ كُلُّهُمْ أَجْمَعُونَ",
+                "explanation": "Doppeltes Tawkid: كُلُّهُمْ (alle von ihnen) + أَجْمَعُونَ (insgesamt) — beide Nominativ, weil الملائكة Fa'il (Nominativ) ist. Seltene doppelte Bekraeftigung der Gesamtheit."
+              },
+              {
+                "ref": "26:95",
+                "arabic": "وَجُنُودُ إِبْلِيسَ أَجْمَعُونَ",
+                "explanation": "أَجْمَعُونَ: Tawkid zu جُنُودُ, Nominativ (maskuliner gesunder Plural auf -ون)."
+              },
+              {
+                "ref": "2:36",
+                "arabic": "اهْبِطُوا بَعْضُكُمْ لِبَعْضٍ عَدُوٌّ",
+                "explanation": "بَعْضُكُمْ: Obwohl kein klassisches Tawkid, zeigt بعض (Teil) den Kontrast zu كُلّ (ganz). بعض verteilt, كُلّ vereint."
+              }
+            ]
+          },
+          {
+            "type": "quranExamples",
+            "title": "Quran-Beispiele: كِلَا / كِلْتَا",
+            "examples": [
+              {
+                "ref": "18:33",
+                "arabic": "كِلْتَا الْجَنَّتَيْنِ آتَتْ أُكُلَهَا",
+                "explanation": "كِلْتَا (feminin, weil الجنتين feminin ist): 'Beide Gaerten brachten ihren Ertrag.' كِلْتَا ist hier Mubtada (Nominativ) in Idafa mit الجنتين."
+              },
+              {
+                "ref": "17:23",
+                "arabic": "إِمَّا يَبْلُغَنَّ عِنْدَكَ الْكِبَرَ أَحَدُهُمَا أَوْ كِلَاهُمَا",
+                "explanation": "كِلَاهُمَا: 'oder beide von ihnen' — Nominativ (Fa'il). كِلَا fuer maskulin Dual."
+              }
+            ]
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "multiple_choice",
+          "prompt": "In 2:31: وَعَلَّمَ آدَمَ الْأَسْمَاءَ كُلَّهَا — warum steht كُلَّ im Akkusativ?",
+          "options": [
+            "Weil es Maf'ul bihi ist",
+            "Weil es Tawkid zu الأسماء ist und dieses im Akkusativ steht (Maf'ul bihi)",
+            "Weil es nach einem Verb steht",
+            "Weil es Hal ist"
+          ],
+          "correct": 1,
+          "explanation": "Tawkid folgt dem Kasus seines Bezugswortes. الأسماء ist Maf'ul bihi (Akkusativ), also steht كُلَّ auch im Akkusativ."
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "In 15:30 steht فَسَجَدَ الْمَلَائِكَةُ كُلُّهُمْ أَجْمَعُونَ. Was ist أَجْمَعُونَ?",
+          "options": [
+            "Ein zweites Tawkid das die Gesamtheit zusaetzlich bekraeftigt",
+            "Ein Verb im Plural",
+            "Ein Hal (Zustandsangabe)",
+            "Atf (Koordination)"
+          ],
+          "correct": 0,
+          "explanation": "أَجْمَعُونَ ist ein zweites Tawkid zu الملائكة — doppelte Bekraeftigung. Nominativ weil الملائكة Fa'il ist."
+        }
+      ],
+      "testContent": {
+        "exercises": [
+          {
+            "question": "Welches Wort wird fuer Tawkid Ma'nawi bei Dualformen verwendet?",
+            "options": ["نَفْس", "كُلّ", "كِلَا / كِلْتَا", "جَمِيع"],
+            "correct": 2
+          },
+          {
+            "question": "Was muss ein Tawkid-Ma'nawi-Wort immer tragen?",
+            "options": [
+              "Einen Artikel (ال)",
+              "Tanwin",
+              "Ein Pronomen-Suffix das auf das Bezugswort zurueckverweist",
+              "Shadda"
+            ],
+            "correct": 2
+          },
+          {
+            "question": "In 18:33: كِلْتَا الْجَنَّتَيْنِ — warum كِلْتَا und nicht كِلَا?",
+            "options": [
+              "Weil es im Genitiv steht",
+              "Weil الجنتين feminin ist",
+              "Weil es ein Plural ist",
+              "Es gibt keinen Unterschied"
+            ],
+            "correct": 1
+          },
+          {
+            "question": "In welchem Vers steht ein doppeltes Tawkid (كُلّ + أَجْمَع)?",
+            "options": ["2:31", "15:30", "18:33", "2:29"],
+            "correct": 1
+          }
+        ]
+      }
+    }
+  ]
+}

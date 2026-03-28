@@ -1,0 +1,288 @@
+{
+  "meta": {
+    "title": "Vierradikalige Verben (الأَفْعَال الرُّبَاعِيَّة)",
+    "description": "Verben mit vier Wurzelkonsonanten — im Quran selten, aber belegt. Grundmuster, Konjugation und alle quranischen Belege."
+  },
+  "learnContent": {
+    "sections": [
+      {
+        "type": "explanation",
+        "title": "Was sind Quadriliterale?",
+        "content": "Die absolute Mehrheit arabischer Verben hat drei Wurzelkonsonanten (Triliterale). Eine kleine Gruppe hat jedoch VIER Wurzelkonsonanten — diese heissen Quadriliterale (أَفْعَال رُبَاعِيَّة).\n\nIm Quran sind nur wenige Quadriliterale belegt, aber sie kommen an markanten Stellen vor. Das Grundmuster ist فَعْلَلَ (fa'lala) — vier Konsonanten mit den Vokalen a-a-a.\n\nBeispiel: زَلْزَلَ (z-l-z-l) = erschuettern, zum Beben bringen."
+      },
+      {
+        "type": "explanation",
+        "title": "Konjugation der Grundform",
+        "content": "Die Grundform (Form I der Quadriliterale) folgt dem Muster فَعْلَلَ:\n\nPerfekt: فَعْلَلَ (fa'lala) — er tat es\nImperfekt: يُفَعْلِلُ (yufa'lilu) — er tut es (Praefix يُ mit Damma!)\nImperativ: فَعْلِلْ (fa'lil)\n\nPassiv:\nPerfekt Passiv: فُعْلِلَ (fu'lila)\nImperfekt Passiv: يُفَعْلَلُ (yufa'lalu)\n\nPartizipien:\nAktivpartizip: مُفَعْلِل (mufa'lil)\nPassivpartizip: مُفَعْلَل (mufa'lal)\n\nMasdar: فَعْلَلَة (fa'lala) — mit Ta-marbuta\n\nBeachte: Das Imperfekt-Praefix hat DAMMA (يُ-), nicht Fatha. Das unterscheidet Quadriliterale von dreiradikaligen Form-I-Verben (die يَ- haben)."
+      },
+      {
+        "type": "explanation",
+        "title": "Erweiterte Form: تَفَعْلَلَ",
+        "content": "Quadriliterale haben eine erweiterte Form mit تَ-Praefix, analog zu Form V der Triliterale:\n\nتَفَعْلَلَ (tafa'lala) — reflexive/mediale Bedeutung\n\nBeispiel: تَزَلْزَلَ (tazalzala) = erschuettert werden, erbeben\n\nImperfekt: يَتَفَعْلَلُ (yatafa'lalu)\nMasdar: تَفَعْلُل (tafa'lul)\n\nDiese Form ist im Quran nicht direkt belegt, gehoert aber zum morphologischen System."
+      },
+      {
+        "type": "explanation",
+        "title": "Reduplikation",
+        "content": "Viele Quadriliterale entstehen durch Reduplikation — die Wiederholung eines zweikonsonantigen Elements:\n\nز-ل → زَلْزَلَ (z-l-z-l: erschuettern)\nو-س → وَسْوَسَ (w-s-w-s: einfluestern)\nد-م → دَمْدَمَ (d-m-d-m: zerstoeren)\n\nDie Reduplikation traegt oft eine Bedeutung der Wiederholung, Intensitaet oder Unruhe. زَلْزَلَ ist nicht einfach 'bewegen', sondern 'wiederholt heftig bewegen' = erschuettern."
+      },
+      {
+        "type": "quranExamples",
+        "title": "Quranische Quadriliterale",
+        "examples": [
+          {
+            "ref": "99:1",
+            "arabic": "إِذَا زُلْزِلَتِ الْأَرْضُ زِلْزَالَهَا",
+            "explanation": "زُلْزِلَتِ = sie wurde erschuettert (Passiv Perfekt von زَلْزَلَ). Die Erde wurde erschuettert. زِلْزَالَهَا = ihre Erschuetterung (Masdar als Maf'ul mutlaq — absoluter Akkusativ zur Verstaerkung). Wurzel: ز-ل-ز-ل."
+          },
+          {
+            "ref": "7:20",
+            "arabic": "فَوَسْوَسَ لَهُمَا الشَّيْطَانُ",
+            "explanation": "وَسْوَسَ = er fluesterte ein (Aktiv Perfekt). Wurzel: و-س-و-س. Der Satan fluesterte ihnen beiden ein. Reduplikation von و-س drueckt das wiederholte, leise Einfluestern aus."
+          },
+          {
+            "ref": "100:9",
+            "arabic": "أَفَلَا يَعْلَمُ إِذَا بُعْثِرَ مَا فِي الْقُبُورِ",
+            "explanation": "بُعْثِرَ = es wurde aufgewuehlt/herausgeholt (Passiv Perfekt von بَعْثَرَ). Wurzel: ب-ع-ث-ر. Was in den Graebern ist, wird aufgewuehlt. Verwandt mit der dreiradikaligen Wurzel ب-ع-ث (auferwecken), aber durch den vierten Radikal (ر) erweitert."
+          },
+          {
+            "ref": "91:14",
+            "arabic": "فَدَمْدَمَ عَلَيْهِمْ رَبُّهُم بِذَنبِهِمْ فَسَوَّاهَا",
+            "explanation": "دَمْدَمَ = er zerstoerte / vernichtete (Aktiv Perfekt). Wurzel: د-م-د-م. Ihr Herr zerstoerte sie wegen ihrer Verfehlung. Reduplikation von د-م drueckt totale, vollstaendige Vernichtung aus."
+          },
+          {
+            "ref": "12:51",
+            "arabic": "الْآنَ حَصْحَصَ الْحَقُّ",
+            "explanation": "حَصْحَصَ = es wurde deutlich/klar (Aktiv Perfekt). Wurzel: ح-ص-ح-ص. Jetzt ist die Wahrheit deutlich geworden. Reduplikation von ح-ص verstaerkt die Bedeutung des Deutlichwerdens."
+          },
+          {
+            "ref": "13:28",
+            "arabic": "أَلَا بِذِكْرِ اللَّهِ تَطْمَئِنُّ الْقُلُوبُ",
+            "explanation": "تَطْمَئِنُّ = sie finden Ruhe (Imperfekt von اِطْمَأَنَّ). Dies ist die erweiterte Form eines Quadriliterals: ط-م-أ-ن. Die Form اِفْعَلَلَّ (mit Verdoppelung des letzten Radikals) ist eine Sonderform. Durch Gottes Gedenken finden die Herzen Ruhe."
+          }
+        ]
+      }
+    ]
+  },
+  "testContent": {
+    "exercises": [
+      {
+        "type": "multiple_choice",
+        "question": "Was ist das Grundmuster (Wazn) eines vierradikaligen Verbs?",
+        "options": ["فَعَلَ", "فَعَّلَ", "فَعْلَلَ", "أَفْعَلَ"],
+        "correct": 2,
+        "explanation": "Das Grundmuster quadriliteraler Verben ist فَعْلَلَ (fa'lala) — vier Konsonanten verteilt auf das Musterwort. Beispiel: زَلْزَلَ, وَسْوَسَ, دَمْدَمَ."
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Was bedeutet زُلْزِلَتِ in 99:1 (إِذَا زُلْزِلَتِ الْأَرْضُ)?",
+        "options": [
+          "Sie erschuetterte (Aktiv)",
+          "Sie wurde erschuettert (Passiv Perfekt von زَلْزَلَ)",
+          "Sie wird erschuettert werden (Imperfekt)",
+          "Erschuettere sie (Imperativ)"
+        ],
+        "correct": 1,
+        "explanation": "زُلْزِلَتِ ist Passiv Perfekt (Muster فُعْلِلَتْ) von زَلْزَلَ. Die Erde wurde erschuettert. Das Passiv zeigt: الْأَرْضُ ist nicht Handelnde, sondern Betroffene."
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Welches Praefix hat das Imperfekt quadriliteraler Verben?",
+        "options": ["يَ- (mit Fatha)", "يُ- (mit Damma)", "يِ- (mit Kasra)", "Kein Praefix"],
+        "correct": 1,
+        "explanation": "Quadriliterale haben im Imperfekt das Praefix يُ- mit Damma: يُفَعْلِلُ. Das unterscheidet sie von dreiradikaligen Form-I-Verben, die يَ- mit Fatha haben."
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Was haben زَلْزَلَ, وَسْوَسَ und دَمْدَمَ morphologisch gemeinsam?",
+        "options": [
+          "Sie sind alle Form II",
+          "Sie entstehen durch Reduplikation — Wiederholung eines zweikonsonantigen Elements",
+          "Sie haben alle dieselbe Wurzel",
+          "Sie sind alle Passivformen"
+        ],
+        "correct": 1,
+        "explanation": "Alle drei entstehen durch Reduplikation: ز-ل → زَلْزَلَ, و-س → وَسْوَسَ, د-م → دَمْدَمَ. Die Wiederholung traegt oft die Bedeutung von Intensitaet oder wiederholter Handlung."
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Was bedeutet وَسْوَسَ in 7:20 (فَوَسْوَسَ لَهُمَا الشَّيْطَانُ)?",
+        "options": [
+          "Er schrie sie an",
+          "Er fluesterte ihnen beiden ein (wiederholtes, leises Einfluestern)",
+          "Er erschuf sie",
+          "Er vernichtete sie"
+        ],
+        "correct": 1,
+        "explanation": "وَسْوَسَ (Wurzel و-س-و-س) bedeutet 'einfluestern'. Die Reduplikation von و-س drueckt das wiederholte, leise, beharrliche Einfluestern aus. In 7:20 ist der Satan Subjekt."
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Welche quranische Stelle belegt das Verb بَعْثَرَ (aufwuehlen/herausstreuen)?",
+        "options": [
+          "99:1 (إِذَا زُلْزِلَتِ الْأَرْضُ)",
+          "100:9 (أَفَلَا يَعْلَمُ إِذَا بُعْثِرَ مَا فِي الْقُبُورِ)",
+          "91:14 (فَدَمْدَمَ عَلَيْهِمْ رَبُّهُم)",
+          "12:51 (الْآنَ حَصْحَصَ الْحَقُّ)"
+        ],
+        "correct": 1,
+        "explanation": "In 100:9 steht بُعْثِرَ (Passiv Perfekt von بَعْثَرَ): 'wenn aufgewuehlt wird, was in den Graebern ist'. Die Wurzel ب-ع-ث-ر ist verwandt mit der dreiradikaligen Wurzel ب-ع-ث (auferwecken), erweitert durch den vierten Radikal ر."
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Was ist der Masdar (Verbalsubstantiv) von زَلْزَلَ, wie er in 99:1 vorkommt?",
+        "options": [
+          "زِلْزَال (mit Kasra am Anfang)",
+          "زَلْزَلَة (mit Ta-marbuta)",
+          "Beide sind moeglich — زِلْزَال und زَلْزَلَة",
+          "مُزَلْزَل (Passivpartizip)"
+        ],
+        "correct": 2,
+        "explanation": "Quadriliterale haben zwei moegliche Masdar-Formen: فَعْلَلَة (zalzala) und فِعْلَال (zilzaal). In 99:1 erscheint زِلْزَالَهَا mit dem Muster فِعْلَال. Die Form زَلْزَلَة ist ebenfalls korrekt, kommt aber im Quran nicht vor."
+      },
+      {
+        "type": "multiple_choice",
+        "question": "In Sure 114:4-5 kommt وَسْوَسَ in einer anderen Form vor. Welche?",
+        "options": [
+          "وَسْوَسَ (Perfekt wie in 7:20)",
+          "الْوَسْوَاس (Masdar/Nomen als Attribut)",
+          "يُوَسْوِسُ (Imperfekt Aktiv)",
+          "مُوَسْوِس (Aktivpartizip)"
+        ],
+        "correct": 2,
+        "explanation": "In 114:5 steht الَّذِي يُوَسْوِسُ فِي صُدُورِ النَّاسِ — das Imperfekt Aktiv von وَسْوَسَ. In 114:4 erscheint الْوَسْوَاسِ als Nomen/Masdar: مِن شَرِّ الْوَسْوَاسِ الْخَنَّاسِ."
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Was drueckt die Reduplikation in دَمْدَمَ (91:14) semantisch aus?",
+        "options": [
+          "Eine einmalige, schnelle Handlung",
+          "Totale, vollstaendige Vernichtung — Intensitaet durch Wiederholung",
+          "Eine sanfte, vorsichtige Handlung",
+          "Eine reflexive Handlung"
+        ],
+        "correct": 1,
+        "explanation": "Die Reduplikation von د-م in دَمْدَمَ drueckt totale, vollstaendige Vernichtung aus. In 91:14 (فَدَمْدَمَ عَلَيْهِمْ رَبُّهُم بِذَنبِهِمْ) vernichtete Gott das Volk Thamuds vollstaendig wegen ihrer Verfehlung."
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Wie lautet das Passivpartizip von بَعْثَرَ?",
+        "options": [
+          "بَاعِثِر (Muster فَاعِل)",
+          "مُبَعْثَر (Muster مُفَعْلَل)",
+          "بَعْثَرَة (Masdar)",
+          "مَبْعُوثَر (nicht existent)"
+        ],
+        "correct": 1,
+        "explanation": "Das Passivpartizip quadriliteraler Verben folgt dem Muster مُفَعْلَل — also مُبَعْثَر. In 82:4 kommt vor: وَإِذَا الْقُبُورُ بُعْثِرَتْ — das Verb im Passiv. Das Partizip waere مُبَعْثَرَة."
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Welches Verb ist KEIN echtes Quadriliteral?",
+        "options": [
+          "زَلْزَلَ (ز-ل-ز-ل)",
+          "أَسْلَمَ (Form IV von س-ل-م)",
+          "وَسْوَسَ (و-س-و-س)",
+          "بَعْثَرَ (ب-ع-ث-ر)"
+        ],
+        "correct": 1,
+        "explanation": "أَسْلَمَ ist Form IV eines dreiradikaligen Verbs (Wurzel س-ل-م), nicht ein Quadriliteral. Es hat zwar vier Konsonanten, aber das Hamza ist ein Praefix (أَفْعَلَ), kein Wurzelkonsonant. Echte Quadriliterale haben vier Wurzelkonsonanten."
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Wie lautet das Imperfekt von حَصْحَصَ (deutlich werden)?",
+        "options": [
+          "يَحْصَحِصُ (Muster يَفَعْلِلُ)",
+          "يُحَصْحِصُ (Muster يُفَعْلِلُ)",
+          "يَحْصُصُ (dreiradikaliges Muster)",
+          "يَتَحَصْحَصُ (Form V)"
+        ],
+        "correct": 1,
+        "explanation": "Das Imperfekt quadriliteraler Verben hat das Praefix يُ- (mit Damma): يُحَصْحِصُ. Dies unterscheidet Quadriliterale von dreiradikaligen Form-I-Verben, die يَ- (mit Fatha) haben."
+      },
+      {
+        "type": "multiple_choice",
+        "question": "In welchem Vers kommt اطْمَأَنَّ (zur Ruhe kommen, Wurzel ط-م-أ-ن) vor?",
+        "options": [
+          "2:260 (قَالَ بَلَىٰ وَلَٰكِنْ لِيَطْمَئِنَّ قَلْبِي)",
+          "99:1 (إِذَا زُلْزِلَتِ الْأَرْضُ)",
+          "7:20 (فَوَسْوَسَ لَهُمَا الشَّيْطَانُ)",
+          "100:9 (إِذَا بُعْثِرَ مَا فِي الْقُبُورِ)"
+        ],
+        "correct": 0,
+        "explanation": "In 2:260 sagt Ibrahim: 'Ja, aber damit mein Herz Ruhe findet' (لِيَطْمَئِنَّ قَلْبِي). Das Verb اطْمَأَنَّ hat die Wurzel ط-م-أ-ن — ein Quadriliteral in der erweiterten Form اِفْعَلَلَّ."
+      },
+      {
+        "type": "multiple_choice",
+        "question": "In 82:4 steht وَإِذَا الْقُبُورُ بُعْثِرَتْ. Was ist بُعْثِرَتْ grammatisch?",
+        "options": [
+          "Perfekt Aktiv feminin (sie wuehlte auf)",
+          "Perfekt Passiv feminin (sie wurde aufgewuehlt)",
+          "Imperfekt Passiv (sie wird aufgewuehlt)",
+          "Imperativ (wuehle auf!)"
+        ],
+        "correct": 1,
+        "explanation": "بُعْثِرَتْ ist Perfekt Passiv feminin von بَعْثَرَ: 'sie (die Graeber) wurden aufgewuehlt'. Das Muster ist فُعْلِلَتْ — Passiv Perfekt des Quadriliterals mit femininer Endung."
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Welches Wort aus Sure 114 ist ein Masdar eines Quadriliterals?",
+        "options": [
+          "الْخَنَّاس (der sich Zurueckziehende)",
+          "الْوَسْوَاس (das Einfluestern)",
+          "النَّاس (die Menschen)",
+          "الْجِنَّة (die Dschinn)"
+        ],
+        "correct": 1,
+        "explanation": "الْوَسْوَاس ist der Masdar (Muster فَعْلَال / فَعْوَال) des Quadriliterals وَسْوَسَ. Er erscheint in 114:4: مِن شَرِّ الْوَسْوَاسِ الْخَنَّاسِ — 'vor dem Uebel des Einfluesterung'."
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Wie unterscheidet sich das Imperfekt-Praefix eines Quadriliterals von Form I?",
+        "options": [
+          "Quadriliterale haben يَ- (Fatha), Form I hat يُ- (Damma)",
+          "Quadriliterale haben يُ- (Damma), Form I hat يَ- (Fatha)",
+          "Beide haben يَ- (Fatha)",
+          "Beide haben يُ- (Damma)"
+        ],
+        "correct": 1,
+        "explanation": "Quadriliterale haben im Imperfekt das Praefix يُ- (Damma): يُفَعْلِلُ (z.B. يُوَسْوِسُ). Form I dreiradikaliger Verben hat يَ- (Fatha): يَفْعَلُ (z.B. يَكْتُبُ). Dieses Unterscheidungsmerkmal ist diagnostisch wichtig."
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Existiert die erweiterte Form تَفَعْلَلَ (mit تَ-Praefix) im Quran?",
+        "options": [
+          "Ja, haeufig",
+          "Ja, aber nur ein einziges Mal",
+          "Nein, sie ist im Quran nicht direkt belegt, gehoert aber zum arabischen morphologischen System",
+          "Diese Form existiert ueberhaupt nicht"
+        ],
+        "correct": 2,
+        "explanation": "Die Form تَفَعْلَلَ (z.B. تَزَلْزَلَ — erbeben, reflexiv von زَلْزَلَ) ist im Quran nicht direkt belegt. Sie gehoert aber zum morphologischen System der arabischen Sprache und wird in der Grammatik als erweiterte Form der Quadriliterale gefuehrt."
+      },
+      {
+        "type": "multiple_choice",
+        "question": "In 20:120 steht فَوَسْوَسَ إِلَيْهِ الشَّيْطَانُ. Wie unterscheidet sich die Praeposition hier von 7:20 (فَوَسْوَسَ لَهُمَا)?",
+        "options": [
+          "Kein Unterschied",
+          "إِلَى (20:120) betont die Richtung des Einfluessterns, لِ (7:20) den Adressaten",
+          "إِلَى ist falsch und لِ ist richtig",
+          "Beide sind Synonyme ohne Bedeutungsunterschied"
+        ],
+        "correct": 1,
+        "explanation": "In 7:20 steht وَسْوَسَ لَهُمَا (er fluesterte ihnen ein — لِ markiert den Adressaten). In 20:120 steht وَسْوَسَ إِلَيْهِ (er fluesterte zu ihm hin — إِلَى betont die Bewegung/Richtung des Einfluessterns). Der Praepositonswechsel erzeugt eine feine semantische Nuance."
+      },
+      {
+        "type": "multiple_choice",
+        "question": "Welche Beziehung besteht zwischen der dreiradikaligen Wurzel ب-ع-ث und der vierradikaligen ب-ع-ث-ر?",
+        "options": [
+          "Keine Beziehung — verschiedene Wurzeln",
+          "ب-ع-ث-ر erweitert ب-ع-ث durch einen vierten Radikal (ر) und fuegt die Bedeutung des Herausstreuens/Aufwuehlens hinzu",
+          "ب-ع-ث ist eine Abkuerzung von ب-ع-ث-ر",
+          "Beide bedeuten exakt dasselbe"
+        ],
+        "correct": 1,
+        "explanation": "Die Wurzel ب-ع-ث (auferwecken/senden) wird durch den vierten Radikal ر zu ب-ع-ث-ر erweitert. Die Grundbedeutung 'auferwecken' verschiebt sich zu 'aufwuehlen/herausstreuen' — die Erweiterung durch ر fuegt eine Nuance der Unordnung und Zerstreuung hinzu. Dies ist ein Beispiel fuer Wurzelerweiterung im Arabischen."
+      }
+    ]
+  }
+}

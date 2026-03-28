@@ -1,0 +1,2398 @@
+{
+  "meta": {
+    "description": "Morphologische Tabellen für Quranisches Arabisch: Verbformen I-X, Nomen-Muster, Gebrochene Plurale, Modi und die Fünf-Verben-Regel",
+    "rootExample": "ف-ع-ل (fa-'a-la) als Musterwurzel",
+    "conjugationPersonOrder": [
+      "3ms",
+      "3fs",
+      "3md",
+      "3fd",
+      "3mp",
+      "3fp",
+      "2ms",
+      "2fs",
+      "2md",
+      "2mp",
+      "2fp",
+      "1s",
+      "1p"
+    ],
+    "imperativePersonOrder": [
+      "2ms",
+      "2fs",
+      "2md",
+      "2mp",
+      "2fp"
+    ],
+    "sources": [
+      {
+        "name": "Wright's Arabic Grammar (3rd ed.)",
+        "url": "https://archive.org/details/grammarofarabicl01telerich"
+      },
+      {
+        "name": "Quranic Arabic Corpus",
+        "url": "https://corpus.quran.com/"
+      }
+    ]
+  },
+  "verbForms": [
+    {
+      "form": "I",
+      "formArabic": "الأول",
+      "pattern": {
+        "arabic": "فَعَلَ",
+        "transliteration": "fa'ala",
+        "notes": "Auch: فَعِلَ (fa'ila), فَعُلَ (fa'ula) – je nach Vokalklasse"
+      },
+      "meaningShift": "Grundbedeutung der Wurzel",
+      "meaningShiftGerman": "Grundbedeutung; keine systematische Ableitung",
+      "exampleRoot": "ك-ت-ب",
+      "exampleWord": {
+        "arabic": "كَتَبَ",
+        "transliteration": "kataba",
+        "german": "schreiben"
+      },
+      "perfect": {
+        "3ms": "فَعَلَ",
+        "3fs": "فَعَلَتْ",
+        "3md": "فَعَلَا",
+        "3fd": "فَعَلَتَا",
+        "3mp": "فَعَلُوا",
+        "3fp": "فَعَلْنَ",
+        "2ms": "فَعَلْتَ",
+        "2fs": "فَعَلْتِ",
+        "2md": "فَعَلْتُمَا",
+        "2mp": "فَعَلْتُمْ",
+        "2fp": "فَعَلْتُنَّ",
+        "1s": "فَعَلْتُ",
+        "1p": "فَعَلْنَا"
+      },
+      "imperfect": {
+        "3ms": "يَفْعَلُ",
+        "3fs": "تَفْعَلُ",
+        "3md": "يَفْعَلَانِ",
+        "3fd": "تَفْعَلَانِ",
+        "3mp": "يَفْعَلُونَ",
+        "3fp": "يَفْعَلْنَ",
+        "2ms": "تَفْعَلُ",
+        "2fs": "تَفْعَلِينَ",
+        "2md": "تَفْعَلَانِ",
+        "2mp": "تَفْعَلُونَ",
+        "2fp": "تَفْعَلْنَ",
+        "1s": "أَفْعَلُ",
+        "1p": "نَفْعَلُ"
+      },
+      "imperfectNote": "Die Tabelle zeigt nur die a-Klasse (يَفْعَلُ). Form I hat drei Vokalklassen im Imperfekt, die den Stammvokal betreffen:\n\n1. يَفْعَلُ (Fatha — a-Klasse): z.B. يَفْتَحُ (oeffnen, Wurzel ف-ت-ح)\n2. يَفْعِلُ (Kasra — i-Klasse): z.B. يَضْرِبُ (schlagen, Wurzel ض-ر-ب)\n3. يَفْعُلُ (Damma — u-Klasse): z.B. يَكْتُبُ (schreiben, Wurzel ك-ت-ب)\n\nDie Vokalklasse ist lexikalisch festgelegt und muss fuer jedes Verb einzeln gelernt werden. Sie ist nicht aus dem Perfektstamm vorhersagbar.",
+      "imperative": {
+        "2ms": "اِفْعَلْ",
+        "2fs": "اِفْعَلِي",
+        "2md": "اِفْعَلَا",
+        "2mp": "اِفْعَلُوا",
+        "2fp": "اِفْعَلْنَ"
+      },
+      "perfectPassive": {
+        "3ms": "فُعِلَ",
+        "3fs": "فُعِلَتْ",
+        "3md": "فُعِلَا",
+        "3fd": "فُعِلَتَا",
+        "3mp": "فُعِلُوا",
+        "3fp": "فُعِلْنَ",
+        "2ms": "فُعِلْتَ",
+        "2fs": "فُعِلْتِ",
+        "2md": "فُعِلْتُمَا",
+        "2mp": "فُعِلْتُمْ",
+        "2fp": "فُعِلْتُنَّ",
+        "1s": "فُعِلْتُ",
+        "1p": "فُعِلْنَا"
+      },
+      "imperfectPassive": {
+        "3ms": "يُفْعَلُ",
+        "3fs": "تُفْعَلُ",
+        "3md": "يُفْعَلَانِ",
+        "3fd": "تُفْعَلَانِ",
+        "3mp": "يُفْعَلُونَ",
+        "3fp": "يُفْعَلْنَ",
+        "2ms": "تُفْعَلُ",
+        "2fs": "تُفْعَلِينَ",
+        "2md": "تُفْعَلَانِ",
+        "2mp": "تُفْعَلُونَ",
+        "2fp": "تُفْعَلْنَ",
+        "1s": "أُفْعَلُ",
+        "1p": "نُفْعَلُ"
+      },
+      "activeParticiple": {
+        "arabic": "فَاعِل",
+        "transliteration": "fā'il",
+        "german": "Tuender; Handelnder"
+      },
+      "passiveParticiple": {
+        "arabic": "مَفْعُول",
+        "transliteration": "maf'ūl",
+        "german": "Getaner; Objekt der Handlung"
+      },
+      "masdar": {
+        "note": "Form I hat viele Masdar-Muster; kein einheitliches Schema",
+        "commonPatterns": [
+          {
+            "arabic": "فَعْل",
+            "transliteration": "fa'l",
+            "example": "كَتْب (katb)"
+          },
+          {
+            "arabic": "فِعَال",
+            "transliteration": "fi'āl",
+            "example": "جِهَاد (jihād)"
+          },
+          {
+            "arabic": "فُعُول",
+            "transliteration": "fu'ūl",
+            "example": "دُخُول (dukhūl)"
+          },
+          {
+            "arabic": "فِعْلَة",
+            "transliteration": "fi'la",
+            "example": "هِجْرَة (hijra)"
+          },
+          {
+            "arabic": "فَعَال",
+            "transliteration": "fa'āl",
+            "example": "سَلَام (salām)"
+          },
+          {
+            "arabic": "فُعْلَان",
+            "transliteration": "fu'lān",
+            "example": "غُفْرَان (ghufrān)"
+          },
+          {
+            "arabic": "فَعِيل",
+            "transliteration": "fa'īl",
+            "example": "صَرِيخ (ṣarīkh, Schrei)"
+          },
+          {
+            "arabic": "فِعَالَة",
+            "transliteration": "fi'āla",
+            "example": "كِتَابَة (kitāba, Schreiben)"
+          },
+          {
+            "arabic": "فُعَال",
+            "transliteration": "fu'āl",
+            "example": "سُؤَال (su'āl, Frage)"
+          },
+          {
+            "arabic": "فَعَلَان",
+            "transliteration": "fa'alān",
+            "example": "خَفَقَان (khafaqān, Klopfen)"
+          },
+          {
+            "arabic": "تِفْعَال",
+            "transliteration": "tif'āl",
+            "example": "تِبْيَان (tibyān, Erklärung) — unregelmaessige Variante mit Kasra statt des erwarteten Fatha"
+          },
+          {
+            "arabic": "مَفْعَل",
+            "transliteration": "maf'al",
+            "example": "مَدْخَل (madkhal, Eingang)"
+          },
+          {
+            "arabic": "فَعْلَة",
+            "transliteration": "fa'la",
+            "example": "رَحْمَة (raḥma, Barmherzigkeit)"
+          },
+          {
+            "arabic": "فُعْلَة",
+            "transliteration": "fu'la",
+            "example": "غُرْفَة (ghurfa, Zimmer)"
+          },
+          {
+            "arabic": "فَعَل",
+            "transliteration": "fa'al",
+            "example": "طَلَب (ṭalab, Suche/Verlangen)"
+          }
+        ]
+      }
+    },
+    {
+      "form": "II",
+      "formArabic": "الثاني",
+      "pattern": {
+        "arabic": "فَعَّلَ",
+        "transliteration": "fa''ala",
+        "notes": "Verdoppelung des mittleren Radikals (Taschdīd)"
+      },
+      "meaningShift": "Intensivierung, Kausativ, Denominativ",
+      "meaningShiftGerman": "Verstärkung der Grundbedeutung, Verursachung, von Nomen abgeleitet",
+      "exampleRoot": "ع-ل-م",
+      "exampleWord": {
+        "arabic": "عَلَّمَ",
+        "transliteration": "'allama",
+        "german": "lehren (jmd. wissen lassen)"
+      },
+      "perfect": {
+        "3ms": "فَعَّلَ",
+        "3fs": "فَعَّلَتْ",
+        "3md": "فَعَّلَا",
+        "3fd": "فَعَّلَتَا",
+        "3mp": "فَعَّلُوا",
+        "3fp": "فَعَّلْنَ",
+        "2ms": "فَعَّلْتَ",
+        "2fs": "فَعَّلْتِ",
+        "2md": "فَعَّلْتُمَا",
+        "2mp": "فَعَّلْتُمْ",
+        "2fp": "فَعَّلْتُنَّ",
+        "1s": "فَعَّلْتُ",
+        "1p": "فَعَّلْنَا"
+      },
+      "imperfect": {
+        "3ms": "يُفَعِّلُ",
+        "3fs": "تُفَعِّلُ",
+        "3md": "يُفَعِّلَانِ",
+        "3fd": "تُفَعِّلَانِ",
+        "3mp": "يُفَعِّلُونَ",
+        "3fp": "يُفَعِّلْنَ",
+        "2ms": "تُفَعِّلُ",
+        "2fs": "تُفَعِّلِينَ",
+        "2md": "تُفَعِّلَانِ",
+        "2mp": "تُفَعِّلُونَ",
+        "2fp": "تُفَعِّلْنَ",
+        "1s": "أُفَعِّلُ",
+        "1p": "نُفَعِّلُ"
+      },
+      "imperative": {
+        "2ms": "فَعِّلْ",
+        "2fs": "فَعِّلِي",
+        "2md": "فَعِّلَا",
+        "2mp": "فَعِّلُوا",
+        "2fp": "فَعِّلْنَ"
+      },
+      "perfectPassive": {
+        "3ms": "فُعِّلَ",
+        "3fs": "فُعِّلَتْ",
+        "3md": "فُعِّلَا",
+        "3fd": "فُعِّلَتَا",
+        "3mp": "فُعِّلُوا",
+        "3fp": "فُعِّلْنَ",
+        "2ms": "فُعِّلْتَ",
+        "2fs": "فُعِّلْتِ",
+        "2md": "فُعِّلْتُمَا",
+        "2mp": "فُعِّلْتُمْ",
+        "2fp": "فُعِّلْتُنَّ",
+        "1s": "فُعِّلْتُ",
+        "1p": "فُعِّلْنَا"
+      },
+      "imperfectPassive": {
+        "3ms": "يُفَعَّلُ",
+        "3fs": "تُفَعَّلُ",
+        "3md": "يُفَعَّلَانِ",
+        "3fd": "تُفَعَّلَانِ",
+        "3mp": "يُفَعَّلُونَ",
+        "3fp": "يُفَعَّلْنَ",
+        "2ms": "تُفَعَّلُ",
+        "2fs": "تُفَعَّلِينَ",
+        "2md": "تُفَعَّلَانِ",
+        "2mp": "تُفَعَّلُونَ",
+        "2fp": "تُفَعَّلْنَ",
+        "1s": "أُفَعَّلُ",
+        "1p": "نُفَعَّلُ"
+      },
+      "activeParticiple": {
+        "arabic": "مُفَعِّل",
+        "transliteration": "mufa''il",
+        "german": "Verstärkend Handelnder"
+      },
+      "passiveParticiple": {
+        "arabic": "مُفَعَّل",
+        "transliteration": "mufa''al",
+        "german": "Intensiv Behandelter"
+      },
+      "masdar": {
+        "primary": {
+          "arabic": "تَفْعِيل",
+          "transliteration": "taf'īl",
+          "example": "تَعْلِيم (ta'līm) = Unterricht"
+        },
+        "variant": {
+          "arabic": "تَفْعِلَة",
+          "transliteration": "taf'ila",
+          "example": "تَذْكِرَة (tadhkira) = Erinnerung"
+        }
+      }
+    },
+    {
+      "form": "III",
+      "formArabic": "الثالث",
+      "pattern": {
+        "arabic": "فَاعَلَ",
+        "transliteration": "fā'ala",
+        "notes": "Verlängerung des ersten Vokals zu Alif"
+      },
+      "meaningShift": "Versuch, Wechselseitigkeit, jemanden als Ziel",
+      "meaningShiftGerman": "Mit jemandem etwas tun; Wechselseitigkeit; Versuch",
+      "exampleRoot": "ق-ت-ل",
+      "exampleWord": {
+        "arabic": "قَاتَلَ",
+        "transliteration": "qātala",
+        "german": "bekämpfen (jmd. zu töten versuchen)"
+      },
+      "perfect": {
+        "3ms": "فَاعَلَ",
+        "3fs": "فَاعَلَتْ",
+        "3md": "فَاعَلَا",
+        "3fd": "فَاعَلَتَا",
+        "3mp": "فَاعَلُوا",
+        "3fp": "فَاعَلْنَ",
+        "2ms": "فَاعَلْتَ",
+        "2fs": "فَاعَلْتِ",
+        "2md": "فَاعَلْتُمَا",
+        "2mp": "فَاعَلْتُمْ",
+        "2fp": "فَاعَلْتُنَّ",
+        "1s": "فَاعَلْتُ",
+        "1p": "فَاعَلْنَا"
+      },
+      "imperfect": {
+        "3ms": "يُفَاعِلُ",
+        "3fs": "تُفَاعِلُ",
+        "3md": "يُفَاعِلَانِ",
+        "3fd": "تُفَاعِلَانِ",
+        "3mp": "يُفَاعِلُونَ",
+        "3fp": "يُفَاعِلْنَ",
+        "2ms": "تُفَاعِلُ",
+        "2fs": "تُفَاعِلِينَ",
+        "2md": "تُفَاعِلَانِ",
+        "2mp": "تُفَاعِلُونَ",
+        "2fp": "تُفَاعِلْنَ",
+        "1s": "أُفَاعِلُ",
+        "1p": "نُفَاعِلُ"
+      },
+      "imperative": {
+        "2ms": "فَاعِلْ",
+        "2fs": "فَاعِلِي",
+        "2md": "فَاعِلَا",
+        "2mp": "فَاعِلُوا",
+        "2fp": "فَاعِلْنَ"
+      },
+      "perfectPassive": {
+        "3ms": "فُوعِلَ",
+        "3fs": "فُوعِلَتْ",
+        "3md": "فُوعِلَا",
+        "3fd": "فُوعِلَتَا",
+        "3mp": "فُوعِلُوا",
+        "3fp": "فُوعِلْنَ",
+        "2ms": "فُوعِلْتَ",
+        "2fs": "فُوعِلْتِ",
+        "2md": "فُوعِلْتُمَا",
+        "2mp": "فُوعِلْتُمْ",
+        "2fp": "فُوعِلْتُنَّ",
+        "1s": "فُوعِلْتُ",
+        "1p": "فُوعِلْنَا"
+      },
+      "imperfectPassive": {
+        "3ms": "يُفَاعَلُ",
+        "3fs": "تُفَاعَلُ",
+        "3md": "يُفَاعَلَانِ",
+        "3fd": "تُفَاعَلَانِ",
+        "3mp": "يُفَاعَلُونَ",
+        "3fp": "يُفَاعَلْنَ",
+        "2ms": "تُفَاعَلُ",
+        "2fs": "تُفَاعَلِينَ",
+        "2md": "تُفَاعَلَانِ",
+        "2mp": "تُفَاعَلُونَ",
+        "2fp": "تُفَاعَلْنَ",
+        "1s": "أُفَاعَلُ",
+        "1p": "نُفَاعَلُ"
+      },
+      "activeParticiple": {
+        "arabic": "مُفَاعِل",
+        "transliteration": "mufā'il",
+        "german": "Wechselseitig Handelnder"
+      },
+      "passiveParticiple": {
+        "arabic": "مُفَاعَل",
+        "transliteration": "mufā'al",
+        "german": "Wechselseitig Betroffener"
+      },
+      "masdar": {
+        "primary": {
+          "arabic": "مُفَاعَلَة",
+          "transliteration": "mufā'ala",
+          "example": "مُقَاتَلَة (muqātala) = Kampf"
+        },
+        "variant": {
+          "arabic": "فِعَال",
+          "transliteration": "fi'āl",
+          "example": "قِتَال (qitāl) = Kampf"
+        }
+      }
+    },
+    {
+      "form": "IV",
+      "formArabic": "الرابع",
+      "pattern": {
+        "arabic": "أَفْعَلَ",
+        "transliteration": "af'ala",
+        "notes": "Hamza-Präfix; Kausativ-Bildung"
+      },
+      "meaningShift": "Kausativ, Deklarativ, Eintritt in einen Zustand",
+      "meaningShiftGerman": "Jemanden etwas tun lassen; etwas bewirken; in einen Zustand eintreten",
+      "exampleRoot": "س-ل-م",
+      "exampleWord": {
+        "arabic": "أَسْلَمَ",
+        "transliteration": "aslama",
+        "german": "sich ergeben (Islam annehmen)"
+      },
+      "perfect": {
+        "3ms": "أَفْعَلَ",
+        "3fs": "أَفْعَلَتْ",
+        "3md": "أَفْعَلَا",
+        "3fd": "أَفْعَلَتَا",
+        "3mp": "أَفْعَلُوا",
+        "3fp": "أَفْعَلْنَ",
+        "2ms": "أَفْعَلْتَ",
+        "2fs": "أَفْعَلْتِ",
+        "2md": "أَفْعَلْتُمَا",
+        "2mp": "أَفْعَلْتُمْ",
+        "2fp": "أَفْعَلْتُنَّ",
+        "1s": "أَفْعَلْتُ",
+        "1p": "أَفْعَلْنَا"
+      },
+      "imperfect": {
+        "3ms": "يُفْعِلُ",
+        "3fs": "تُفْعِلُ",
+        "3md": "يُفْعِلَانِ",
+        "3fd": "تُفْعِلَانِ",
+        "3mp": "يُفْعِلُونَ",
+        "3fp": "يُفْعِلْنَ",
+        "2ms": "تُفْعِلُ",
+        "2fs": "تُفْعِلِينَ",
+        "2md": "تُفْعِلَانِ",
+        "2mp": "تُفْعِلُونَ",
+        "2fp": "تُفْعِلْنَ",
+        "1s": "أُفْعِلُ",
+        "1p": "نُفْعِلُ"
+      },
+      "imperative": {
+        "2ms": "أَفْعِلْ",
+        "2fs": "أَفْعِلِي",
+        "2md": "أَفْعِلَا",
+        "2mp": "أَفْعِلُوا",
+        "2fp": "أَفْعِلْنَ"
+      },
+      "perfectPassive": {
+        "3ms": "أُفْعِلَ",
+        "3fs": "أُفْعِلَتْ",
+        "3md": "أُفْعِلَا",
+        "3fd": "أُفْعِلَتَا",
+        "3mp": "أُفْعِلُوا",
+        "3fp": "أُفْعِلْنَ",
+        "2ms": "أُفْعِلْتَ",
+        "2fs": "أُفْعِلْتِ",
+        "2md": "أُفْعِلْتُمَا",
+        "2mp": "أُفْعِلْتُمْ",
+        "2fp": "أُفْعِلْتُنَّ",
+        "1s": "أُفْعِلْتُ",
+        "1p": "أُفْعِلْنَا"
+      },
+      "imperfectPassive": {
+        "3ms": "يُفْعَلُ",
+        "3fs": "تُفْعَلُ",
+        "3md": "يُفْعَلَانِ",
+        "3fd": "تُفْعَلَانِ",
+        "3mp": "يُفْعَلُونَ",
+        "3fp": "يُفْعَلْنَ",
+        "2ms": "تُفْعَلُ",
+        "2fs": "تُفْعَلِينَ",
+        "2md": "تُفْعَلَانِ",
+        "2mp": "تُفْعَلُونَ",
+        "2fp": "تُفْعَلْنَ",
+        "1s": "أُفْعَلُ",
+        "1p": "نُفْعَلُ"
+      },
+      "activeParticiple": {
+        "arabic": "مُفْعِل",
+        "transliteration": "muf'il",
+        "german": "Verursachender"
+      },
+      "passiveParticiple": {
+        "arabic": "مُفْعَل",
+        "transliteration": "muf'al",
+        "german": "Verursachter"
+      },
+      "masdar": {
+        "primary": {
+          "arabic": "إِفْعَال",
+          "transliteration": "if'āl",
+          "example": "إِسْلَام (islām) = Ergebung"
+        }
+      }
+    },
+    {
+      "form": "V",
+      "formArabic": "الخامس",
+      "pattern": {
+        "arabic": "تَفَعَّلَ",
+        "transliteration": "tafa''ala",
+        "notes": "ta-Präfix + Verdoppelung (Reflexiv von II)"
+      },
+      "meaningShift": "Reflexiv/Medial von Form II; sich allmählich verändern",
+      "meaningShiftGerman": "Sich selbst tun lassen (Reflexiv von II); allmähliche Annahme",
+      "exampleRoot": "ع-ل-م",
+      "exampleWord": {
+        "arabic": "تَعَلَّمَ",
+        "transliteration": "ta'allama",
+        "german": "lernen (sich selbst belehren)"
+      },
+      "perfect": {
+        "3ms": "تَفَعَّلَ",
+        "3fs": "تَفَعَّلَتْ",
+        "3md": "تَفَعَّلَا",
+        "3fd": "تَفَعَّلَتَا",
+        "3mp": "تَفَعَّلُوا",
+        "3fp": "تَفَعَّلْنَ",
+        "2ms": "تَفَعَّلْتَ",
+        "2fs": "تَفَعَّلْتِ",
+        "2md": "تَفَعَّلْتُمَا",
+        "2mp": "تَفَعَّلْتُمْ",
+        "2fp": "تَفَعَّلْتُنَّ",
+        "1s": "تَفَعَّلْتُ",
+        "1p": "تَفَعَّلْنَا"
+      },
+      "imperfect": {
+        "3ms": "يَتَفَعَّلُ",
+        "3fs": "تَتَفَعَّلُ",
+        "3md": "يَتَفَعَّلَانِ",
+        "3fd": "تَتَفَعَّلَانِ",
+        "3mp": "يَتَفَعَّلُونَ",
+        "3fp": "يَتَفَعَّلْنَ",
+        "2ms": "تَتَفَعَّلُ",
+        "2fs": "تَتَفَعَّلِينَ",
+        "2md": "تَتَفَعَّلَانِ",
+        "2mp": "تَتَفَعَّلُونَ",
+        "2fp": "تَتَفَعَّلْنَ",
+        "1s": "أَتَفَعَّلُ",
+        "1p": "نَتَفَعَّلُ"
+      },
+      "imperative": {
+        "2ms": "تَفَعَّلْ",
+        "2fs": "تَفَعَّلِي",
+        "2md": "تَفَعَّلَا",
+        "2mp": "تَفَعَّلُوا",
+        "2fp": "تَفَعَّلْنَ"
+      },
+      "passiveCaveat": "Formen V und VI bilden theoretisch ein Passiv, aber diese Paradigmen sind im Quran und im klassischen Arabisch kaum belegt. Form V/VI sind intrinsisch reflexiv/reziprok; ein Passiv ist grammatisch moeglich, aber selten realisiert.",
+      "perfectPassive": {
+        "3ms": "تُفُعِّلَ",
+        "3fs": "تُفُعِّلَتْ",
+        "3md": "تُفُعِّلَا",
+        "3fd": "تُفُعِّلَتَا",
+        "3mp": "تُفُعِّلُوا",
+        "3fp": "تُفُعِّلْنَ",
+        "2ms": "تُفُعِّلْتَ",
+        "2fs": "تُفُعِّلْتِ",
+        "2md": "تُفُعِّلْتُمَا",
+        "2mp": "تُفُعِّلْتُمْ",
+        "2fp": "تُفُعِّلْتُنَّ",
+        "1s": "تُفُعِّلْتُ",
+        "1p": "تُفُعِّلْنَا"
+      },
+      "imperfectPassive": {
+        "3ms": "يُتَفَعَّلُ",
+        "3fs": "تُتَفَعَّلُ",
+        "3md": "يُتَفَعَّلَانِ",
+        "3fd": "تُتَفَعَّلَانِ",
+        "3mp": "يُتَفَعَّلُونَ",
+        "3fp": "يُتَفَعَّلْنَ",
+        "2ms": "تُتَفَعَّلُ",
+        "2fs": "تُتَفَعَّلِينَ",
+        "2md": "تُتَفَعَّلَانِ",
+        "2mp": "تُتَفَعَّلُونَ",
+        "2fp": "تُتَفَعَّلْنَ",
+        "1s": "أُتَفَعَّلُ",
+        "1p": "نُتَفَعَّلُ"
+      },
+      "activeParticiple": {
+        "arabic": "مُتَفَعِّل",
+        "transliteration": "mutafa''il",
+        "german": "Sich selbst Belehrender"
+      },
+      "passiveParticiple": {
+        "arabic": "مُتَفَعَّل",
+        "transliteration": "mutafa''al",
+        "german": "Gegenstand der Selbsthandlung"
+      },
+      "masdar": {
+        "primary": {
+          "arabic": "تَفَعُّل",
+          "transliteration": "tafa''ul",
+          "example": "تَعَلُّم (ta'allum) = das Lernen"
+        }
+      }
+    },
+    {
+      "form": "VI",
+      "formArabic": "السادس",
+      "pattern": {
+        "arabic": "تَفَاعَلَ",
+        "transliteration": "tafā'ala",
+        "notes": "ta-Präfix + Alif-Verlängerung (Reflexiv von III)"
+      },
+      "meaningShift": "Gegenseitige Reflexivität; Vortäuschung; allmähliches Geschehen",
+      "meaningShiftGerman": "Sich gegenseitig etwas tun (Reflexiv von III); so tun als ob",
+      "exampleRoot": "س-ء-ل",
+      "exampleWord": {
+        "arabic": "تَسَاءَلَ",
+        "transliteration": "tasā'ala",
+        "german": "sich gegenseitig fragen"
+      },
+      "perfect": {
+        "3ms": "تَفَاعَلَ",
+        "3fs": "تَفَاعَلَتْ",
+        "3md": "تَفَاعَلَا",
+        "3fd": "تَفَاعَلَتَا",
+        "3mp": "تَفَاعَلُوا",
+        "3fp": "تَفَاعَلْنَ",
+        "2ms": "تَفَاعَلْتَ",
+        "2fs": "تَفَاعَلْتِ",
+        "2md": "تَفَاعَلْتُمَا",
+        "2mp": "تَفَاعَلْتُمْ",
+        "2fp": "تَفَاعَلْتُنَّ",
+        "1s": "تَفَاعَلْتُ",
+        "1p": "تَفَاعَلْنَا"
+      },
+      "imperfect": {
+        "3ms": "يَتَفَاعَلُ",
+        "3fs": "تَتَفَاعَلُ",
+        "3md": "يَتَفَاعَلَانِ",
+        "3fd": "تَتَفَاعَلَانِ",
+        "3mp": "يَتَفَاعَلُونَ",
+        "3fp": "يَتَفَاعَلْنَ",
+        "2ms": "تَتَفَاعَلُ",
+        "2fs": "تَتَفَاعَلِينَ",
+        "2md": "تَتَفَاعَلَانِ",
+        "2mp": "تَتَفَاعَلُونَ",
+        "2fp": "تَتَفَاعَلْنَ",
+        "1s": "أَتَفَاعَلُ",
+        "1p": "نَتَفَاعَلُ"
+      },
+      "imperative": {
+        "2ms": "تَفَاعَلْ",
+        "2fs": "تَفَاعَلِي",
+        "2md": "تَفَاعَلَا",
+        "2mp": "تَفَاعَلُوا",
+        "2fp": "تَفَاعَلْنَ"
+      },
+      "passiveCaveat": "Form VI bildet theoretisch ein Passiv, aber diese Paradigmen sind im Quran und im klassischen Arabisch kaum belegt. Form VI ist intrinsisch reziprok/reflexiv; ein Passiv ist grammatisch moeglich, aber selten realisiert.",
+      "perfectPassive": {
+        "3ms": "تُفُوعِلَ",
+        "3fs": "تُفُوعِلَتْ",
+        "3md": "تُفُوعِلَا",
+        "3fd": "تُفُوعِلَتَا",
+        "3mp": "تُفُوعِلُوا",
+        "3fp": "تُفُوعِلْنَ",
+        "2ms": "تُفُوعِلْتَ",
+        "2fs": "تُفُوعِلْتِ",
+        "2md": "تُفُوعِلْتُمَا",
+        "2mp": "تُفُوعِلْتُمْ",
+        "2fp": "تُفُوعِلْتُنَّ",
+        "1s": "تُفُوعِلْتُ",
+        "1p": "تُفُوعِلْنَا"
+      },
+      "imperfectPassive": {
+        "3ms": "يُتَفَاعَلُ",
+        "3fs": "تُتَفَاعَلُ",
+        "3md": "يُتَفَاعَلَانِ",
+        "3fd": "تُتَفَاعَلَانِ",
+        "3mp": "يُتَفَاعَلُونَ",
+        "3fp": "يُتَفَاعَلْنَ",
+        "2ms": "تُتَفَاعَلُ",
+        "2fs": "تُتَفَاعَلِينَ",
+        "2md": "تُتَفَاعَلَانِ",
+        "2mp": "تُتَفَاعَلُونَ",
+        "2fp": "تُتَفَاعَلْنَ",
+        "1s": "أُتَفَاعَلُ",
+        "1p": "نُتَفَاعَلُ"
+      },
+      "activeParticiple": {
+        "arabic": "مُتَفَاعِل",
+        "transliteration": "mutafā'il",
+        "german": "Gegenseitig Handelnder"
+      },
+      "passiveParticiple": {
+        "arabic": "مُتَفَاعَل",
+        "transliteration": "mutafā'al",
+        "german": "Gegenstand gegenseitiger Handlung"
+      },
+      "masdar": {
+        "primary": {
+          "arabic": "تَفَاعُل",
+          "transliteration": "tafā'ul",
+          "example": "تَسَاؤُل (tasā'ul) = gegenseitiges Fragen"
+        }
+      }
+    },
+    {
+      "form": "VII",
+      "formArabic": "السابع",
+      "pattern": {
+        "arabic": "اِنْفَعَلَ",
+        "transliteration": "infa'ala",
+        "notes": "in-Präfix; Passiv/Reflexiv von Form I"
+      },
+      "meaningShift": "Passiv/Reflexiv von Form I; sich einer Handlung unterziehen",
+      "meaningShiftGerman": "Passivische Bedeutung von Form I; sich biegen, sich brechen etc.",
+      "exampleRoot": "ك-س-ر",
+      "exampleWord": {
+        "arabic": "اِنْكَسَرَ",
+        "transliteration": "inkasara",
+        "german": "zerbrechen (intransitiv)"
+      },
+      "perfect": {
+        "3ms": "اِنْفَعَلَ",
+        "3fs": "اِنْفَعَلَتْ",
+        "3md": "اِنْفَعَلَا",
+        "3fd": "اِنْفَعَلَتَا",
+        "3mp": "اِنْفَعَلُوا",
+        "3fp": "اِنْفَعَلْنَ",
+        "2ms": "اِنْفَعَلْتَ",
+        "2fs": "اِنْفَعَلْتِ",
+        "2md": "اِنْفَعَلْتُمَا",
+        "2mp": "اِنْفَعَلْتُمْ",
+        "2fp": "اِنْفَعَلْتُنَّ",
+        "1s": "اِنْفَعَلْتُ",
+        "1p": "اِنْفَعَلْنَا"
+      },
+      "imperfect": {
+        "3ms": "يَنْفَعِلُ",
+        "3fs": "تَنْفَعِلُ",
+        "3md": "يَنْفَعِلَانِ",
+        "3fd": "تَنْفَعِلَانِ",
+        "3mp": "يَنْفَعِلُونَ",
+        "3fp": "يَنْفَعِلْنَ",
+        "2ms": "تَنْفَعِلُ",
+        "2fs": "تَنْفَعِلِينَ",
+        "2md": "تَنْفَعِلَانِ",
+        "2mp": "تَنْفَعِلُونَ",
+        "2fp": "تَنْفَعِلْنَ",
+        "1s": "أَنْفَعِلُ",
+        "1p": "نَنْفَعِلُ"
+      },
+      "imperative": {
+        "2ms": "اِنْفَعِلْ",
+        "2fs": "اِنْفَعِلِي",
+        "2md": "اِنْفَعِلَا",
+        "2mp": "اِنْفَعِلُوا",
+        "2fp": "اِنْفَعِلْنَ"
+      },
+      "perfectPassive": null,
+      "imperfectPassive": null,
+      "passiveNote": "Form VII (Reflexiv/Medial) bildet kein Passiv — die reflexive Bedeutung schliesst ein Passiv aus.",
+      "activeParticiple": {
+        "arabic": "مُنْفَعِل",
+        "transliteration": "munfa'il",
+        "german": "Sich Unterwerfender"
+      },
+      "passiveParticiple": {
+        "arabic": "—",
+        "transliteration": "—",
+        "german": "Existiert nicht (Form VII hat kein Passiv)"
+      },
+      "masdar": {
+        "primary": {
+          "arabic": "اِنْفِعَال",
+          "transliteration": "infi'āl",
+          "example": "اِنْكِسَار (inkisār) = das Zerbrechen"
+        }
+      },
+      "notes": "Form VII hat keinen passiven Stamm, da sie selbst passivisch/reflexiv ist."
+    },
+    {
+      "form": "VIII",
+      "formArabic": "الثامن",
+      "pattern": {
+        "arabic": "اِفْتَعَلَ",
+        "transliteration": "ifta'ala",
+        "notes": "Infix -ta- nach dem ersten Radikal; reflexiv/medial"
+      },
+      "meaningShift": "Reflexiv/medial; im eigenen Interesse handeln",
+      "meaningShiftGerman": "Reflexiv von Form I; für sich selbst tun; sich aneignen",
+      "exampleRoot": "ج-م-ع",
+      "exampleWord": {
+        "arabic": "اِجْتَمَعَ",
+        "transliteration": "ijtama'a",
+        "german": "sich versammeln"
+      },
+      "perfect": {
+        "3ms": "اِفْتَعَلَ",
+        "3fs": "اِفْتَعَلَتْ",
+        "3md": "اِفْتَعَلَا",
+        "3fd": "اِفْتَعَلَتَا",
+        "3mp": "اِفْتَعَلُوا",
+        "3fp": "اِفْتَعَلْنَ",
+        "2ms": "اِفْتَعَلْتَ",
+        "2fs": "اِفْتَعَلْتِ",
+        "2md": "اِفْتَعَلْتُمَا",
+        "2mp": "اِفْتَعَلْتُمْ",
+        "2fp": "اِفْتَعَلْتُنَّ",
+        "1s": "اِفْتَعَلْتُ",
+        "1p": "اِفْتَعَلْنَا"
+      },
+      "imperfect": {
+        "3ms": "يَفْتَعِلُ",
+        "3fs": "تَفْتَعِلُ",
+        "3md": "يَفْتَعِلَانِ",
+        "3fd": "تَفْتَعِلَانِ",
+        "3mp": "يَفْتَعِلُونَ",
+        "3fp": "يَفْتَعِلْنَ",
+        "2ms": "تَفْتَعِلُ",
+        "2fs": "تَفْتَعِلِينَ",
+        "2md": "تَفْتَعِلَانِ",
+        "2mp": "تَفْتَعِلُونَ",
+        "2fp": "تَفْتَعِلْنَ",
+        "1s": "أَفْتَعِلُ",
+        "1p": "نَفْتَعِلُ"
+      },
+      "imperative": {
+        "2ms": "اِفْتَعِلْ",
+        "2fs": "اِفْتَعِلِي",
+        "2md": "اِفْتَعِلَا",
+        "2mp": "اِفْتَعِلُوا",
+        "2fp": "اِفْتَعِلْنَ"
+      },
+      "perfectPassive": {
+        "3ms": "اُفْتُعِلَ",
+        "3fs": "اُفْتُعِلَتْ",
+        "3md": "اُفْتُعِلَا",
+        "3fd": "اُفْتُعِلَتَا",
+        "3mp": "اُفْتُعِلُوا",
+        "3fp": "اُفْتُعِلْنَ",
+        "2ms": "اُفْتُعِلْتَ",
+        "2fs": "اُفْتُعِلْتِ",
+        "2md": "اُفْتُعِلْتُمَا",
+        "2mp": "اُفْتُعِلْتُمْ",
+        "2fp": "اُفْتُعِلْتُنَّ",
+        "1s": "اُفْتُعِلْتُ",
+        "1p": "اُفْتُعِلْنَا"
+      },
+      "imperfectPassive": {
+        "3ms": "يُفْتَعَلُ",
+        "3fs": "تُفْتَعَلُ",
+        "3md": "يُفْتَعَلَانِ",
+        "3fd": "تُفْتَعَلَانِ",
+        "3mp": "يُفْتَعَلُونَ",
+        "3fp": "يُفْتَعَلْنَ",
+        "2ms": "تُفْتَعَلُ",
+        "2fs": "تُفْتَعَلِينَ",
+        "2md": "تُفْتَعَلَانِ",
+        "2mp": "تُفْتَعَلُونَ",
+        "2fp": "تُفْتَعَلْنَ",
+        "1s": "أُفْتَعَلُ",
+        "1p": "نُفْتَعَلُ"
+      },
+      "activeParticiple": {
+        "arabic": "مُفْتَعِل",
+        "transliteration": "mufta'il",
+        "german": "Für sich selbst Handelnder"
+      },
+      "passiveParticiple": {
+        "arabic": "مُفْتَعَل",
+        "transliteration": "mufta'al",
+        "german": "Für sich selbst Erworbener"
+      },
+      "masdar": {
+        "primary": {
+          "arabic": "اِفْتِعَال",
+          "transliteration": "ifti'āl",
+          "example": "اِجْتِمَاع (ijtimā') = Versammlung"
+        }
+      },
+      "notes": "Das ta-Infix assimiliert mit bestimmten Konsonanten: ط→اطّ, د→ادّ, ز→ازد, ص→اصط etc."
+    },
+    {
+      "form": "IX",
+      "formArabic": "التاسع",
+      "pattern": {
+        "arabic": "اِفْعَلَّ",
+        "transliteration": "if'alla",
+        "notes": "Verdoppelung des letzten Radikals; nur für Farben und körperliche Eigenschaften"
+      },
+      "meaningShift": "Farben und körperliche Eigenschaften",
+      "meaningShiftGerman": "Eine Farbe oder körperliche Eigenschaft annehmen",
+      "exampleRoot": "ح-م-ر",
+      "exampleWord": {
+        "arabic": "اِحْمَرَّ",
+        "transliteration": "iḥmarra",
+        "german": "rot werden; erröten"
+      },
+      "perfect": {
+        "3ms": "اِفْعَلَّ",
+        "3fs": "اِفْعَلَّتْ",
+        "3md": "اِفْعَلَّا",
+        "3fd": "اِفْعَلَّتَا",
+        "3mp": "اِفْعَلُّوا",
+        "3fp": "اِفْعَلَلْنَ",
+        "2ms": "اِفْعَلَلْتَ",
+        "2fs": "اِفْعَلَلْتِ",
+        "2md": "اِفْعَلَلْتُمَا",
+        "2mp": "اِفْعَلَلْتُمْ",
+        "2fp": "اِفْعَلَلْتُنَّ",
+        "1s": "اِفْعَلَلْتُ",
+        "1p": "اِفْعَلَلْنَا"
+      },
+      "imperfect": {
+        "3ms": "يَفْعَلُّ",
+        "3fs": "تَفْعَلُّ",
+        "3md": "يَفْعَلَّانِ",
+        "3fd": "تَفْعَلَّانِ",
+        "3mp": "يَفْعَلُّونَ",
+        "3fp": "يَفْعَلِلْنَ",
+        "2ms": "تَفْعَلُّ",
+        "2fs": "تَفْعَلِّينَ",
+        "2md": "تَفْعَلَّانِ",
+        "2mp": "تَفْعَلُّونَ",
+        "2fp": "تَفْعَلِلْنَ",
+        "1s": "أَفْعَلُّ",
+        "1p": "نَفْعَلُّ"
+      },
+      "imperative": {
+        "2ms": "اِفْعَلِلْ",
+        "2fs": "اِفْعَلِّي",
+        "2md": "اِفْعَلَّا",
+        "2mp": "اِفْعَلُّوا",
+        "2fp": "اِفْعَلِلْنَ",
+        "_note": "2ms und 2fp zeigen Fakk al-Idgham (فَكّ الإدغام): Wenn Sukun folgt, wird die Gemination aufgeloest — اِفْعَلِلْ statt اِفْعَلَّ. Die Kasra ist der sogenannte 'Kasrat at-Tamkin' (stuetzender Vokal). 2fs/2md/2mp behalten die Shadda, weil ein Vokal folgt."
+      },
+      "perfectPassive": null,
+      "imperfectPassive": null,
+      "passiveNote": "Form IX (Farb-/Eigenschaftsverben) bildet kein Passiv — intransitive Verben haben kein Passiv.",
+      "activeParticiple": {
+        "arabic": "مُفْعَلّ",
+        "transliteration": "muf'all",
+        "german": "Eine Eigenschaft Annehmender"
+      },
+      "passiveParticiple": {
+        "arabic": "—",
+        "transliteration": "—",
+        "german": "Existiert nicht"
+      },
+      "masdar": {
+        "primary": {
+          "arabic": "اِفْعِلَال",
+          "transliteration": "if'ilāl",
+          "example": "اِحْمِرَار (iḥmirār) = das Erröten"
+        }
+      },
+      "notes": "Form IX ist im Quran selten. Sie wird fast ausschließlich für Farben und körperliche Eigenschaften verwendet."
+    },
+    {
+      "form": "X",
+      "formArabic": "العاشر",
+      "pattern": {
+        "arabic": "اِسْتَفْعَلَ",
+        "transliteration": "istaf'ala",
+        "notes": "ista-Präfix; Verlangen, Betrachten als, Reflexiv von IV"
+      },
+      "meaningShift": "Verlangen, Ersuchen, Betrachten als, Reflexiv von IV",
+      "meaningShiftGerman": "Um etwas bitten; etwas für ... halten; sich etwas zunutze machen",
+      "exampleRoot": "غ-ف-ر",
+      "exampleWord": {
+        "arabic": "اِسْتَغْفَرَ",
+        "transliteration": "istaghfara",
+        "german": "um Vergebung bitten"
+      },
+      "perfect": {
+        "3ms": "اِسْتَفْعَلَ",
+        "3fs": "اِسْتَفْعَلَتْ",
+        "3md": "اِسْتَفْعَلَا",
+        "3fd": "اِسْتَفْعَلَتَا",
+        "3mp": "اِسْتَفْعَلُوا",
+        "3fp": "اِسْتَفْعَلْنَ",
+        "2ms": "اِسْتَفْعَلْتَ",
+        "2fs": "اِسْتَفْعَلْتِ",
+        "2md": "اِسْتَفْعَلْتُمَا",
+        "2mp": "اِسْتَفْعَلْتُمْ",
+        "2fp": "اِسْتَفْعَلْتُنَّ",
+        "1s": "اِسْتَفْعَلْتُ",
+        "1p": "اِسْتَفْعَلْنَا"
+      },
+      "imperfect": {
+        "3ms": "يَسْتَفْعِلُ",
+        "3fs": "تَسْتَفْعِلُ",
+        "3md": "يَسْتَفْعِلَانِ",
+        "3fd": "تَسْتَفْعِلَانِ",
+        "3mp": "يَسْتَفْعِلُونَ",
+        "3fp": "يَسْتَفْعِلْنَ",
+        "2ms": "تَسْتَفْعِلُ",
+        "2fs": "تَسْتَفْعِلِينَ",
+        "2md": "تَسْتَفْعِلَانِ",
+        "2mp": "تَسْتَفْعِلُونَ",
+        "2fp": "تَسْتَفْعِلْنَ",
+        "1s": "أَسْتَفْعِلُ",
+        "1p": "نَسْتَفْعِلُ"
+      },
+      "imperative": {
+        "2ms": "اِسْتَفْعِلْ",
+        "2fs": "اِسْتَفْعِلِي",
+        "2md": "اِسْتَفْعِلَا",
+        "2mp": "اِسْتَفْعِلُوا",
+        "2fp": "اِسْتَفْعِلْنَ"
+      },
+      "perfectPassive": {
+        "3ms": "اُسْتُفْعِلَ",
+        "3fs": "اُسْتُفْعِلَتْ",
+        "3md": "اُسْتُفْعِلَا",
+        "3fd": "اُسْتُفْعِلَتَا",
+        "3mp": "اُسْتُفْعِلُوا",
+        "3fp": "اُسْتُفْعِلْنَ",
+        "2ms": "اُسْتُفْعِلْتَ",
+        "2fs": "اُسْتُفْعِلْتِ",
+        "2md": "اُسْتُفْعِلْتُمَا",
+        "2mp": "اُسْتُفْعِلْتُمْ",
+        "2fp": "اُسْتُفْعِلْتُنَّ",
+        "1s": "اُسْتُفْعِلْتُ",
+        "1p": "اُسْتُفْعِلْنَا"
+      },
+      "imperfectPassive": {
+        "3ms": "يُسْتَفْعَلُ",
+        "3fs": "تُسْتَفْعَلُ",
+        "3md": "يُسْتَفْعَلَانِ",
+        "3fd": "تُسْتَفْعَلَانِ",
+        "3mp": "يُسْتَفْعَلُونَ",
+        "3fp": "يُسْتَفْعَلْنَ",
+        "2ms": "تُسْتَفْعَلُ",
+        "2fs": "تُسْتَفْعَلِينَ",
+        "2md": "تُسْتَفْعَلَانِ",
+        "2mp": "تُسْتَفْعَلُونَ",
+        "2fp": "تُسْتَفْعَلْنَ",
+        "1s": "أُسْتَفْعَلُ",
+        "1p": "نُسْتَفْعَلُ"
+      },
+      "activeParticiple": {
+        "arabic": "مُسْتَفْعِل",
+        "transliteration": "mustaf'il",
+        "german": "Um etwas Bittender"
+      },
+      "passiveParticiple": {
+        "arabic": "مُسْتَفْعَل",
+        "transliteration": "mustaf'al",
+        "german": "Worum gebeten wird"
+      },
+      "masdar": {
+        "primary": {
+          "arabic": "اِسْتِفْعَال",
+          "transliteration": "istif'āl",
+          "example": "اِسْتِغْفَار (istighfār) = Bitte um Vergebung"
+        }
+      }
+    }
+  ],
+  "nounPatterns": {
+    "description": "Häufige Nomen-Muster (Awzān al-asmā') im Quranischen Arabisch",
+    "patterns": [
+      {
+        "id": "fa_il",
+        "arabic": "فَاعِل",
+        "transliteration": "fā'il",
+        "meaning": "Aktives Partizip (Form I) – der Handelnde",
+        "examples": [
+          {
+            "arabic": "كَاتِب",
+            "transliteration": "kātib",
+            "german": "Schreiber"
+          },
+          {
+            "arabic": "عَالِم",
+            "transliteration": "'ālim",
+            "german": "Wissender; Gelehrter"
+          },
+          {
+            "arabic": "صَابِر",
+            "transliteration": "ṣābir",
+            "german": "Geduldiger"
+          }
+        ]
+      },
+      {
+        "id": "maf_ul",
+        "arabic": "مَفْعُول",
+        "transliteration": "maf'ūl",
+        "meaning": "Passives Partizip (Form I) – der Behandelte",
+        "examples": [
+          {
+            "arabic": "مَكْتُوب",
+            "transliteration": "maktūb",
+            "german": "Geschriebenes; Vorherbestimmtes"
+          },
+          {
+            "arabic": "مَعْلُوم",
+            "transliteration": "ma'lūm",
+            "german": "Bekanntes"
+          },
+          {
+            "arabic": "مَرْزُوق",
+            "transliteration": "marzūq",
+            "german": "Versorgter"
+          }
+        ]
+      },
+      {
+        "id": "fa_il_adj",
+        "arabic": "فَعِيل",
+        "transliteration": "fa'īl",
+        "meaning": "Adjektivmuster – intensive Eigenschaft",
+        "examples": [
+          {
+            "arabic": "كَرِيم",
+            "transliteration": "karīm",
+            "german": "edel; großzügig"
+          },
+          {
+            "arabic": "عَظِيم",
+            "transliteration": "'aẓīm",
+            "german": "gewaltig; großartig"
+          },
+          {
+            "arabic": "حَكِيم",
+            "transliteration": "ḥakīm",
+            "german": "weise"
+          }
+        ]
+      },
+      {
+        "id": "fu_ul",
+        "arabic": "فَعُول",
+        "transliteration": "fa'ūl",
+        "meaning": "Intensivmuster – wer viel tut",
+        "examples": [
+          {
+            "arabic": "صَبُور",
+            "transliteration": "ṣabūr",
+            "german": "sehr geduldig"
+          },
+          {
+            "arabic": "غَفُور",
+            "transliteration": "ghafūr",
+            "german": "viel vergebend"
+          },
+          {
+            "arabic": "شَكُور",
+            "transliteration": "shakūr",
+            "german": "sehr dankbar"
+          }
+        ]
+      },
+      {
+        "id": "fa__al",
+        "arabic": "فَعَّال",
+        "transliteration": "fa''āl",
+        "meaning": "Intensivmuster – Beruf oder Gewohnheit",
+        "examples": [
+          {
+            "arabic": "قَتَّال",
+            "transliteration": "qattāl",
+            "german": "Vieltöter"
+          },
+          {
+            "arabic": "فَعَّال",
+            "transliteration": "fa''āl",
+            "german": "Viel-Tuender"
+          },
+          {
+            "arabic": "عَلَّام",
+            "transliteration": "'allām",
+            "german": "aeusserst Wissender"
+          }
+        ]
+      },
+      {
+        "id": "mif_al",
+        "arabic": "مِفْعَال",
+        "transliteration": "mif'āl",
+        "meaning": "Instrumentalmuster – Werkzeug oder Gewohnheit",
+        "examples": [
+          {
+            "arabic": "مِفْتَاح",
+            "transliteration": "miftāḥ",
+            "german": "Schlüssel"
+          },
+          {
+            "arabic": "مِيزَان",
+            "transliteration": "mīzān",
+            "german": "Waage"
+          },
+          {
+            "arabic": "مِنْهَاج",
+            "transliteration": "minhāj",
+            "german": "Methode; Weg"
+          }
+        ]
+      },
+      {
+        "id": "maf_al_place",
+        "arabic": "مَفْعَل / مَفْعِل",
+        "transliteration": "maf'al / maf'il",
+        "meaning": "Orts- oder Zeitnomen (Ism makān/zamān)",
+        "examples": [
+          {
+            "arabic": "مَسْجِد",
+            "transliteration": "masjid",
+            "german": "Moschee (Ort der Niederwerfung)"
+          },
+          {
+            "arabic": "مَغْرِب",
+            "transliteration": "maghrib",
+            "german": "Westen (Ort des Untergangs)"
+          },
+          {
+            "arabic": "مَشْرِق",
+            "transliteration": "mashriq",
+            "german": "Osten (Ort des Aufgangs)"
+          }
+        ]
+      },
+      {
+        "id": "fi_la",
+        "arabic": "فِعْلَة",
+        "transliteration": "fi'la",
+        "meaning": "Art und Weise; einmaliges Vorkommen",
+        "examples": [
+          {
+            "arabic": "فِطْرَة",
+            "transliteration": "fiṭra",
+            "german": "natürliche Anlage; Uranlage"
+          },
+          {
+            "arabic": "نِعْمَة",
+            "transliteration": "ni'ma",
+            "german": "Wohltat; Gnade"
+          },
+          {
+            "arabic": "هِجْرَة",
+            "transliteration": "hijra",
+            "german": "Auswanderung"
+          }
+        ]
+      },
+      {
+        "id": "fu_la",
+        "arabic": "فُعْلَى",
+        "transliteration": "fu'lā",
+        "meaning": "Feminine Elativform",
+        "examples": [
+          {
+            "arabic": "كُبْرَى",
+            "transliteration": "kubrā",
+            "german": "die Größte"
+          },
+          {
+            "arabic": "صُغْرَى",
+            "transliteration": "ṣughrā",
+            "german": "die Kleinste"
+          },
+          {
+            "arabic": "حُسْنَى",
+            "transliteration": "ḥusnā",
+            "german": "die Schönste; die Beste"
+          }
+        ]
+      },
+      {
+        "id": "af_al_elative",
+        "arabic": "أَفْعَل",
+        "transliteration": "af'al",
+        "meaning": "Elativ (Komparativ/Superlativ)",
+        "examples": [
+          {
+            "arabic": "أَكْبَر",
+            "transliteration": "akbar",
+            "german": "größer; der Größte"
+          },
+          {
+            "arabic": "أَعْلَم",
+            "transliteration": "a'lam",
+            "german": "wissender; der Wissenste"
+          },
+          {
+            "arabic": "أَحْسَن",
+            "transliteration": "aḥsan",
+            "german": "besser/schöner; der Beste"
+          }
+        ]
+      }
+    ]
+  },
+  "brokenPlurals": {
+    "description": "Gebrochene Plurale (Jam' at-taksīr) – die häufigsten Muster im Quranischen Arabisch",
+    "explanation": "Gebrochene Plurale verändern das interne Vokalmuster des Wortes (im Gegensatz zu gesunden Pluralen mit Suffix -ūn/-āt).",
+    "patterns": [
+      {
+        "id": "af_al",
+        "singularPattern": "فَعْل / فِعْل",
+        "pluralPattern": "أَفْعَال",
+        "pluralTransliteration": "af'āl",
+        "meaning": "Häufigster Plural für dreiradikalige Nomen",
+        "examples": [
+          {
+            "singular": "قَوْل (qawl)",
+            "plural": "أَقْوَال (aqwāl)",
+            "german": "Worte"
+          },
+          {
+            "singular": "فِعْل (fi'l)",
+            "plural": "أَفْعَال (af'āl)",
+            "german": "Taten"
+          },
+          {
+            "singular": "عَمَل ('amal)",
+            "plural": "أَعْمَال (a'māl)",
+            "german": "Werke/Taten"
+          }
+        ]
+      },
+      {
+        "id": "fu_ul",
+        "singularPattern": "فَعْل / فَعَل",
+        "pluralPattern": "فُعُول",
+        "pluralTransliteration": "fu'ūl",
+        "meaning": "Häufig für Nomen mit Fatha-Sukun oder Fatha-Fatha",
+        "examples": [
+          {
+            "singular": "قَلْب (qalb)",
+            "plural": "قُلُوب (qulūb)",
+            "german": "Herzen"
+          },
+          {
+            "singular": "بَيْت (bayt)",
+            "plural": "بُيُوت (buyūt)",
+            "german": "Häuser"
+          },
+          {
+            "singular": "نَفْس (nafs)",
+            "plural": "نُفُوس (nufūs)",
+            "german": "Seelen"
+          }
+        ]
+      },
+      {
+        "id": "fu__al",
+        "singularPattern": "فَاعِل",
+        "pluralPattern": "فُعَّال",
+        "pluralTransliteration": "fu''āl",
+        "meaning": "Plural für aktive Partizipien",
+        "examples": [
+          {
+            "singular": "كَافِر (kāfir)",
+            "plural": "كُفَّار (kuffār)",
+            "german": "Ungläubige"
+          },
+          {
+            "singular": "تَاجِر (tājir)",
+            "plural": "تُجَّار (tujjār)",
+            "german": "Händler"
+          },
+          {
+            "singular": "صَائِم (ṣā'im)",
+            "plural": "صُوَّام (ṣuwwām)",
+            "german": "Fastende"
+          }
+        ]
+      },
+      {
+        "id": "fi_al",
+        "singularPattern": "فَعْل / فَعَل",
+        "pluralPattern": "فِعَال",
+        "pluralTransliteration": "fi'āl",
+        "meaning": "Häufig für körperliche Dinge und Tiere",
+        "examples": [
+          {
+            "singular": "جَبَل (jabal)",
+            "plural": "جِبَال (jibāl)",
+            "german": "Berge"
+          },
+          {
+            "singular": "رَجُل (rajul)",
+            "plural": "رِجَال (rijāl)",
+            "german": "Männer"
+          },
+          {
+            "singular": "بَلَد (balad)",
+            "plural": "بِلَاد (bilād)",
+            "german": "Länder"
+          }
+        ]
+      },
+      {
+        "id": "fu_ul",
+        "singularPattern": "فِعَال / فَعُول",
+        "pluralPattern": "فُعُل",
+        "pluralTransliteration": "fu'ul",
+        "meaning": "Häufig bei zweisilbigen Nomina mit langem Vokal",
+        "examples": [
+          {
+            "singular": "كِتَاب (kitāb)",
+            "plural": "كُتُب (kutub)",
+            "german": "Bücher"
+          },
+          {
+            "singular": "رَسُول (rasūl)",
+            "plural": "رُسُل (rusul)",
+            "german": "Gesandte"
+          },
+          {
+            "singular": "سَبِيل (sabīl)",
+            "plural": "سُبُل (subul)",
+            "german": "Wege"
+          }
+        ]
+      },
+      {
+        "id": "fu_al",
+        "singularPattern": "فُعْلَة",
+        "pluralPattern": "فُعَل",
+        "pluralTransliteration": "fu'al",
+        "meaning": "Plural für Nomen mit Ta-Marbuta",
+        "examples": [
+          {
+            "singular": "غُرْفَة (ghurfa)",
+            "plural": "غُرَف (ghuraf)",
+            "german": "Zimmer"
+          },
+          {
+            "singular": "حُجَّة (ḥujja)",
+            "plural": "حُجَج (ḥujaj)",
+            "german": "Beweise"
+          },
+          {
+            "singular": "سُورَة (sūra)",
+            "plural": "سُوَر (suwar)",
+            "german": "Suren"
+          }
+        ]
+      },
+      {
+        "id": "fu_ala",
+        "singularPattern": "فَعِيل / فَاعِل",
+        "pluralPattern": "فُعَلَاء",
+        "pluralTransliteration": "fu'alā'",
+        "meaning": "Plural für Adjektive und Partizipien (Personen)",
+        "examples": [
+          {
+            "singular": "عَالِم ('ālim)",
+            "plural": "عُلَمَاء ('ulamā')",
+            "german": "Gelehrte"
+          },
+          {
+            "singular": "شَرِيك (sharīk)",
+            "plural": "شُرَكَاء (shurakā')",
+            "german": "Teilhaber"
+          },
+          {
+            "singular": "وَلِيّ (waliyy)",
+            "plural": "أَوْلِيَاء (awliyā')",
+            "german": "Schutzherren; Verbündete"
+          }
+        ]
+      },
+      {
+        "id": "mafa_il",
+        "singularPattern": "مَفْعِل / مِفْعَال",
+        "pluralPattern": "مَفَاعِل",
+        "pluralTransliteration": "mafā'il",
+        "meaning": "Plural für vierradikalige Muster mit mīm-Präfix",
+        "examples": [
+          {
+            "singular": "مَسْجِد (masjid)",
+            "plural": "مَسَاجِد (masājid)",
+            "german": "Moscheen"
+          },
+          {
+            "singular": "مِفْتَاح (miftāḥ)",
+            "plural": "مَفَاتِيح (mafātīḥ)",
+            "german": "Schlüssel"
+          },
+          {
+            "singular": "مَلَك (malak)",
+            "plural": "مَلَائِكَة (malā'ika)",
+            "german": "Engel"
+          }
+        ]
+      },
+      {
+        "id": "fawa_il",
+        "singularPattern": "فَاعِلَة",
+        "pluralPattern": "فَوَاعِل",
+        "pluralTransliteration": "fawā'il",
+        "meaning": "Plural für feminine aktive Partizipien",
+        "examples": [
+          {
+            "singular": "كَاتِبَة (kātiba)",
+            "plural": "كَوَاتِب (kawātib)",
+            "german": "Schreiberinnen"
+          },
+          {
+            "singular": "فَاطِمَة (Fāṭima)",
+            "plural": "فَوَاطِم (fawāṭim)",
+            "german": "Fatimas (Eigenname)"
+          },
+          {
+            "singular": "قَاعِدَة (qā'ida)",
+            "plural": "قَوَاعِد (qawā'id)",
+            "german": "Regeln; Grundlagen"
+          }
+        ]
+      }
+    ]
+  },
+  "moods": {
+    "description": "Die drei Modi (I'rāb) des arabischen Imperfektverbs",
+    "modes": [
+      {
+        "id": "indicative",
+        "arabic": "الرَّفْع (المُضَارِع المَرْفُوع)",
+        "name": "Indikativ (Marfū')",
+        "transliteration": "al-raf'",
+        "german": "Wirklichkeitsform – drückt gegenwärtige oder zukünftige Handlungen aus",
+        "marker": "Damma (ـُ) am Ende; bei den Fünf Verben: Nūn (ـونَ / ـانِ / ـينَ)",
+        "triggers": [
+          "Standardmodus, wenn keine Subjunktiv- oder Jussiv-Partikel vorangeht"
+        ],
+        "example": {
+          "arabic": "يَكْتُبُ",
+          "transliteration": "yaktubu",
+          "german": "er schreibt / er wird schreiben"
+        }
+      },
+      {
+        "id": "subjunctive",
+        "arabic": "النَّصْب (المُضَارِع المَنْصُوب)",
+        "name": "Subjunktiv (Manṣūb)",
+        "transliteration": "an-naṣb",
+        "german": "Möglichkeitsform – drückt Wunsch, Zweck, Möglichkeit aus",
+        "marker": "Fatha (ـَ) am Ende; bei den Fünf Verben: Wegfall des Nūn",
+        "triggers": [
+          {
+            "particle": "أَنْ",
+            "transliteration": "an",
+            "german": "dass"
+          },
+          {
+            "particle": "لَنْ",
+            "transliteration": "lan",
+            "german": "niemals"
+          },
+          {
+            "particle": "كَيْ",
+            "transliteration": "kay",
+            "german": "damit"
+          },
+          {
+            "particle": "لِـ",
+            "transliteration": "li-",
+            "german": "damit; um zu (Lām at-ta'līl)"
+          },
+          {
+            "particle": "حَتَّى",
+            "transliteration": "ḥattā",
+            "german": "bis; damit"
+          },
+          {
+            "particle": "فَـ",
+            "transliteration": "fa-",
+            "german": "sodass (Fā' as-sababiyya, nach Verneinung/Wunsch)"
+          },
+          {
+            "particle": "إِذَنْ",
+            "transliteration": "idhan",
+            "german": "dann; also"
+          }
+        ],
+        "example": {
+          "arabic": "لَنْ يَكْتُبَ",
+          "transliteration": "lan yaktuba",
+          "german": "er wird niemals schreiben"
+        }
+      },
+      {
+        "id": "jussive",
+        "arabic": "الجَزْم (المُضَارِع المَجْزُوم)",
+        "name": "Jussiv/Apokopat (Majzūm)",
+        "transliteration": "al-jazm",
+        "german": "Befehlsform / Kurzform – für Verneinung der Vergangenheit, Befehl, Bedingung",
+        "marker": "Sukūn (ـْ) am Ende; bei den Fünf Verben: Wegfall des Nūn; bei schwachen Verben: Wegfall des letzten Buchstabens",
+        "triggers": [
+          {
+            "particle": "لَمْ",
+            "transliteration": "lam",
+            "german": "nicht (Vergangenheit)"
+          },
+          {
+            "particle": "لَمَّا",
+            "transliteration": "lammā",
+            "german": "noch nicht"
+          },
+          {
+            "particle": "لِـ",
+            "transliteration": "li-",
+            "german": "soll (Lām al-amr, Befehlslām)"
+          },
+          {
+            "particle": "لَا",
+            "transliteration": "lā",
+            "german": "nicht! (Lā an-nāhiya, Verbotslā)"
+          },
+          {
+            "particle": "إِنْ",
+            "transliteration": "in",
+            "german": "wenn (Bedingungspartikel)"
+          },
+          {
+            "particle": "مَنْ",
+            "transliteration": "man",
+            "german": "wer auch immer (als Bedingung)"
+          },
+          {
+            "particle": "مَا",
+            "transliteration": "mā",
+            "german": "was auch immer (als Bedingung)"
+          },
+          {
+            "particle": "مَهْمَا",
+            "transliteration": "mahmā",
+            "german": "was auch immer"
+          },
+          {
+            "particle": "أَيْنَمَا",
+            "transliteration": "aynamā",
+            "german": "wo auch immer"
+          }
+        ],
+        "example": {
+          "arabic": "لَمْ يَكْتُبْ",
+          "transliteration": "lam yaktub",
+          "german": "er schrieb nicht / er hat nicht geschrieben"
+        }
+      }
+    ]
+  },
+  "fiveVerbsRule": {
+    "description": "Die Fünf-Verben-Regel (al-Af'āl al-Khamsa) – Sonderkonjugation im I'rāb",
+    "explanation": "Fünf Imperfektformen zeigen ihren grammatischen Modus nicht durch kurze Vokale, sondern durch die An- oder Abwesenheit des Nūn (ن) am Ende.",
+    "germanExplanation": "Bei diesen fünf Formen zeigt sich der Modus durch das Nūn: Indikativ = Nūn bleibt, Subjunktiv/Jussiv = Nūn fällt weg.",
+    "forms": [
+      {
+        "person": "3mp",
+        "indicative": {
+          "arabic": "يَفْعَلُونَ",
+          "transliteration": "yaf'alūna"
+        },
+        "subjunctive": {
+          "arabic": "يَفْعَلُوا",
+          "transliteration": "yaf'alū"
+        },
+        "jussive": {
+          "arabic": "يَفْعَلُوا",
+          "transliteration": "yaf'alū"
+        },
+        "label": "sie (m, Pl.)"
+      },
+      {
+        "person": "2mp",
+        "indicative": {
+          "arabic": "تَفْعَلُونَ",
+          "transliteration": "taf'alūna"
+        },
+        "subjunctive": {
+          "arabic": "تَفْعَلُوا",
+          "transliteration": "taf'alū"
+        },
+        "jussive": {
+          "arabic": "تَفْعَلُوا",
+          "transliteration": "taf'alū"
+        },
+        "label": "ihr (m, Pl.)"
+      },
+      {
+        "person": "3md",
+        "indicative": {
+          "arabic": "يَفْعَلَانِ",
+          "transliteration": "yaf'alāni"
+        },
+        "subjunctive": {
+          "arabic": "يَفْعَلَا",
+          "transliteration": "yaf'alā"
+        },
+        "jussive": {
+          "arabic": "يَفْعَلَا",
+          "transliteration": "yaf'alā"
+        },
+        "label": "sie beide (m)"
+      },
+      {
+        "person": "3fd",
+        "indicative": {
+          "arabic": "تَفْعَلَانِ",
+          "transliteration": "taf'alāni"
+        },
+        "subjunctive": {
+          "arabic": "تَفْعَلَا",
+          "transliteration": "taf'alā"
+        },
+        "jussive": {
+          "arabic": "تَفْعَلَا",
+          "transliteration": "taf'alā"
+        },
+        "label": "sie beide (f)"
+      },
+      {
+        "person": "2fs",
+        "indicative": {
+          "arabic": "تَفْعَلِينَ",
+          "transliteration": "taf'alīna"
+        },
+        "subjunctive": {
+          "arabic": "تَفْعَلِي",
+          "transliteration": "taf'alī"
+        },
+        "jussive": {
+          "arabic": "تَفْعَلِي",
+          "transliteration": "taf'alī"
+        },
+        "label": "du (f)"
+      }
+    ],
+    "quranExamples": [
+      {
+        "mode": "indicative",
+        "arabic": "وَهُمْ يَعْلَمُونَ",
+        "transliteration": "wa hum ya'lamūna",
+        "german": "und sie wissen",
+        "surah": 2,
+        "ayah": 75
+      },
+      {
+        "mode": "subjunctive",
+        "arabic": "لَنْ تَنَالُوا الْبِرَّ",
+        "transliteration": "lan tanālū l-birra",
+        "german": "ihr werdet niemals die Frömmigkeit erreichen",
+        "surah": 3,
+        "ayah": 92,
+        "notes": "Nūn ist weggefallen wegen لَنْ (Subjunktivpartikel)"
+      },
+      {
+        "mode": "jussive",
+        "arabic": "وَلَمْ تَكُونُوا شُهَدَاءَ",
+        "transliteration": "wa lam takūnū shuhadā'a",
+        "german": "und ihr wart nicht Zeugen",
+        "surah": 3,
+        "ayah": 140,
+        "notes": "Nūn ist weggefallen wegen لَمْ (Jussivpartikel)"
+      }
+    ]
+  },
+  "passiveTransformation": {
+    "description": "Passiv-Transformation: Wie das Aktiv ins Passiv überführt wird",
+    "explanation": "Im Arabischen wird das Passiv durch Vokaländerung gebildet — die Konsonanten bleiben identisch. Im konsonantischen Text ist Aktiv/Passiv daher nicht unterscheidbar.",
+    "rules": [
+      {
+        "tense": "Perfekt",
+        "activePattern": "فَعَلَ (fa'ala)",
+        "passivePattern": "فُعِلَ (fu'ila)",
+        "rule": "Erster Vokal wird Damma (u), zweiter wird Kasra (i)",
+        "example": {
+          "active": "كَتَبَ (kataba, er schrieb)",
+          "passive": "كُتِبَ (kutiba, es wurde geschrieben)"
+        }
+      },
+      {
+        "tense": "Imperfekt",
+        "activePattern": "يَفْعَلُ (yaf'alu)",
+        "passivePattern": "يُفْعَلُ (yuf'alu)",
+        "rule": "Präfixvokal wird Damma (u), Stammvokal wird Fatha (a)",
+        "example": {
+          "active": "يَكْتُبُ (yaktubu, er schreibt)",
+          "passive": "يُكْتَبُ (yuktabu, es wird geschrieben)"
+        }
+      }
+    ],
+    "formExamples": [
+      {
+        "form": "I",
+        "active": "فَعَلَ / يَفْعَلُ",
+        "passive": "فُعِلَ / يُفْعَلُ"
+      },
+      {
+        "form": "II",
+        "active": "فَعَّلَ / يُفَعِّلُ",
+        "passive": "فُعِّلَ / يُفَعَّلُ"
+      },
+      {
+        "form": "III",
+        "active": "فَاعَلَ / يُفَاعِلُ",
+        "passive": "فُوعِلَ / يُفَاعَلُ"
+      },
+      {
+        "form": "IV",
+        "active": "أَفْعَلَ / يُفْعِلُ",
+        "passive": "أُفْعِلَ / يُفْعَلُ"
+      },
+      {
+        "form": "V",
+        "active": "تَفَعَّلَ / يَتَفَعَّلُ",
+        "passive": "تُفُعِّلَ / يُتَفَعَّلُ"
+      },
+      {
+        "form": "VI",
+        "active": "تَفَاعَلَ / يَتَفَاعَلُ",
+        "passive": "تُفُوعِلَ / يُتَفَاعَلُ"
+      },
+      {
+        "form": "VII",
+        "active": "اِنْفَعَلَ",
+        "passive": "(kein Passiv — bereits reflexiv)"
+      },
+      {
+        "form": "VIII",
+        "active": "اِفْتَعَلَ / يَفْتَعِلُ",
+        "passive": "اُفْتُعِلَ / يُفْتَعَلُ"
+      },
+      {
+        "form": "IX",
+        "active": "اِفْعَلَّ",
+        "passive": "(kein Passiv — Farbverben)"
+      },
+      {
+        "form": "X",
+        "active": "اِسْتَفْعَلَ / يَسْتَفْعِلُ",
+        "passive": "اُسْتُفْعِلَ / يُسْتَفْعَلُ"
+      }
+    ],
+    "quranExamples": [
+      {
+        "arabic": "كُتِبَ عَلَيْكُمُ الصِّيَامُ",
+        "location": "2:183",
+        "analysis": "كُتِبَ = Passiv Perfekt Form I von ك-ت-ب. Vorgeschrieben wurde euch das Fasten."
+      },
+      {
+        "arabic": "خُلِقَ الْإِنسَانُ ضَعِيفًا",
+        "location": "4:28",
+        "analysis": "خُلِقَ = Passiv Perfekt Form I von خ-ل-ق. Der Mensch wurde schwach erschaffen."
+      },
+      {
+        "arabic": "قُضِيَ الْأَمْرُ",
+        "location": "2:210",
+        "analysis": "قُضِيَ = Passiv Perfekt Form I von ق-ض-ي (hohl). Die Angelegenheit wurde entschieden."
+      }
+    ]
+  },
+  "weakVerbs": {
+    "description": "Schwache Verben — Verben mit Hamza, Waw oder Ya als Wurzelkonsonant",
+    "explanation": "Schwache Verben verändern ihre Konjugation weil Halbvokale (و/ي) und Hamza (ء) sich unter bestimmten Bedingungen assimilieren, ausfallen oder verwandeln.",
+    "categories": [
+      {
+        "id": "assimilated",
+        "arabic": "مثال (mithāl)",
+        "german": "Assimiliertes Verb — schwacher erster Radikal",
+        "rule": "Wenn der erste Radikal و ist, fällt er im Imperfekt Form I häufig aus.",
+        "example": {
+          "root": "و-ج-د",
+          "perfect": "وَجَدَ (wajada)",
+          "imperfect": "يَجِدُ (yajidu, nicht: yawjidu)",
+          "meaning": "finden"
+        },
+        "quranExample": {
+          "arabic": "لَمْ يَجِدُوا",
+          "location": "9:57",
+          "analysis": "Form I Imperfekt Jussiv von و-ج-د — das Waw fällt aus"
+        }
+      },
+      {
+        "id": "hollow",
+        "arabic": "أجوف (ajwaf)",
+        "german": "Hohles Verb — schwacher mittlerer Radikal",
+        "rule": "Wenn der mittlere Radikal و oder ي ist, verwandelt er sich oder fällt aus je nach Vokalumgebung.",
+        "phonologicalNote": "Phonologische Regel: Der schwache mittlere Radikal (Waw/Ya) wird im Perfekt zu Alif (ā) wenn ein Konsonant folgt, fällt im Jussiv aus wenn Sukun auf den 3. Radikal trifft, und erscheint als Langvokal (ū/ī) im Imperfekt.",
+        "example": {
+          "root": "ق-و-ل",
+          "perfect": "قَالَ (qāla, aus: qawala)",
+          "imperfect": "يَقُولُ (yaqūlu)",
+          "meaning": "sagen"
+        },
+        "conjugation": {
+          "perfect": {
+            "3ms": "قَالَ",
+            "3fs": "قَالَتْ",
+            "3md": "قَالَا",
+            "3fd": "قَالَتَا",
+            "3mp": "قَالُوا",
+            "3fp": "قُلْنَ",
+            "2ms": "قُلْتَ",
+            "2fs": "قُلْتِ",
+            "2md": "قُلْتُمَا",
+            "2mp": "قُلْتُمْ",
+            "2fp": "قُلْتُنَّ",
+            "1s": "قُلْتُ",
+            "1p": "قُلْنَا"
+          },
+          "imperfect": {
+            "3ms": "يَقُولُ",
+            "3fs": "تَقُولُ",
+            "3md": "يَقُولَانِ",
+            "3fd": "تَقُولَانِ",
+            "3mp": "يَقُولُونَ",
+            "3fp": "يَقُلْنَ",
+            "2ms": "تَقُولُ",
+            "2fs": "تَقُولِينَ",
+            "2md": "تَقُولَانِ",
+            "2mp": "تَقُولُونَ",
+            "2fp": "تَقُلْنَ",
+            "1s": "أَقُولُ",
+            "1p": "نَقُولُ"
+          },
+          "imperative": {
+            "2ms": "قُلْ",
+            "2fs": "قُولِي",
+            "2md": "قُولَا",
+            "2mp": "قُولُوا",
+            "2fp": "قُلْنَ"
+          }
+        },
+        "additionalExamples": [
+          {
+            "root": "ك-و-ن",
+            "perfect3ms": "كَانَ",
+            "imperfect3ms": "يَكُونُ",
+            "jussive3ms": "يَكُنْ",
+            "meaning": "sein"
+          },
+          {
+            "root": "ص-و-م",
+            "perfect3ms": "صَامَ",
+            "imperfect3ms": "يَصُومُ",
+            "meaning": "fasten"
+          }
+        ],
+        "quranExample": {
+          "arabic": "قَالَ رَبُّكَ",
+          "location": "2:30",
+          "analysis": "Perfekt von ق-و-ل — das Waw wird zu Alif"
+        }
+      },
+      {
+        "id": "defective",
+        "arabic": "ناقص (nāqiṣ)",
+        "german": "Defektes Verb — schwacher dritter Radikal",
+        "rule": "Wenn der dritte Radikal و oder ي ist, verändert er sich in vielen Konjugationsformen.",
+        "example": {
+          "root": "د-ع-و",
+          "perfect": "دَعَا (da'ā, aus: da'awa)",
+          "imperfect": "يَدْعُو (yad'ū)",
+          "meaning": "rufen"
+        },
+        "quranExample": {
+          "arabic": "يَدْعُو إِلَى",
+          "location": "2:221",
+          "analysis": "Imperfekt von د-ع-و — das Waw erscheint im Imperfekt"
+        }
+      },
+      {
+        "id": "hamzated",
+        "arabic": "مهموز (mahmūz)",
+        "german": "Hamza-Verb — Hamza als Wurzelkonsonant",
+        "rule": "Hamza (ء) als erster, zweiter oder dritter Radikal führt zu Schreibvarianten (Träger: Alif, Waw, Ya oder alleinstehend).",
+        "example": {
+          "root": "ء-م-ن",
+          "perfect": "آمَنَ (āmana, Form IV)",
+          "imperfect": "يُؤْمِنُ (yu'minu)",
+          "meaning": "glauben"
+        },
+        "quranExample": {
+          "arabic": "الَّذِينَ آمَنُوا",
+          "location": "2:3",
+          "analysis": "Perfekt Form IV von ء-م-ن — Hamza auf Alif wird zu Madda (آ)"
+        }
+      },
+      {
+        "id": "geminate",
+        "arabic": "مضعّف (muḍa''af)",
+        "german": "Geminiertes Verb — identischer zweiter und dritter Radikal",
+        "rule": "Wenn R2 = R3, verschmelzen sie in vielen Formen zu einem verdoppelten Konsonanten mit Shadda.",
+        "example": {
+          "root": "م-د-د",
+          "perfect": "مَدَّ (madda, aus: madada)",
+          "imperfect": "يَمُدُّ (yamuddu)",
+          "meaning": "ausdehnen"
+        },
+        "quranExample": {
+          "arabic": "يَمُدُّهُمْ",
+          "location": "2:15",
+          "analysis": "Imperfekt von م-د-د — Dal+Dal verschmelzen zu Shadda"
+        }
+      }
+    ]
+  },
+  "soundPlurals": {
+    "description": "Gesunde Plurale — regelmäßige Pluralbildung durch Suffix",
+    "types": [
+      {
+        "id": "masculine_sound",
+        "arabic": "جمع المذكر السالم",
+        "german": "Gesunder maskuliner Plural",
+        "suffix": {
+          "nominative": "ـُونَ (-ūna)",
+          "accusative_genitive": "ـِينَ (-īna)"
+        },
+        "rule": "Für männliche Personen und einige Adjektive. Kasus durch Suffix erkennbar.",
+        "examples": [
+          {
+            "singular": "مُسْلِم (muslim)",
+            "plural_nom": "مُسْلِمُونَ",
+            "plural_acc": "مُسْلِمِينَ"
+          },
+          {
+            "singular": "مُؤْمِن (mu'min)",
+            "plural_nom": "مُؤْمِنُونَ",
+            "plural_acc": "مُؤْمِنِينَ"
+          }
+        ],
+        "quranExample": {
+          "arabic": "إِنَّ الْمُسْلِمِينَ وَالْمُسْلِمَاتِ",
+          "location": "33:35"
+        }
+      },
+      {
+        "id": "feminine_sound",
+        "arabic": "جمع المؤنث السالم",
+        "german": "Gesunder femininer Plural",
+        "suffix": {
+          "nominative": "ـَاتٌ (-ātun)",
+          "accusative_genitive": "ـَاتٍ (-ātin)"
+        },
+        "rule": "Für weibliche Personen und viele Abstrakta. Akkusativ und Genitiv identisch (Kasra).",
+        "examples": [
+          {
+            "singular": "مُسْلِمَة (muslima)",
+            "plural_nom": "مُسْلِمَاتٌ",
+            "plural_acc": "مُسْلِمَاتٍ"
+          },
+          {
+            "singular": "آيَة (āya)",
+            "plural_nom": "آيَاتٌ",
+            "plural_acc": "آيَاتٍ"
+          }
+        ],
+        "quranExample": {
+          "arabic": "تِلْكَ آيَاتُ الْكِتَابِ",
+          "location": "12:1"
+        }
+      }
+    ]
+  },
+  "elative": {
+    "description": "Elativ (Komparativ und Superlativ) — Muster أَفْعَل (af'al)",
+    "pattern": {
+      "arabic": "أَفْعَل",
+      "transliteration": "af'al"
+    },
+    "rule": "Ein einziges Muster für Komparativ und Superlativ. Die Funktion (Komparativ vs. Superlativ) wird durch die Konstruktion bestimmt.",
+    "constructions": [
+      {
+        "type": "Komparativ",
+        "structure": "أَفْعَل + مِنْ",
+        "example": "اللَّهُ أَكْبَرُ مِنْ كُلِّ شَيْءٍ (Gott ist größer als alles)"
+      },
+      {
+        "type": "Superlativ (definit)",
+        "structure": "الْأَفْعَل",
+        "example": "الْأَكْبَرُ (der Größte)"
+      },
+      {
+        "type": "Superlativ (Idafa)",
+        "structure": "أَفْعَل + Genitiv",
+        "example": "أَحْسَنُ الْخَالِقِينَ (der Beste der Schöpfer, 23:14)"
+      }
+    ],
+    "examples": [
+      {
+        "root": "ك-ب-ر",
+        "adjective": "كَبِير (groß)",
+        "elative": "أَكْبَر (größer/größt)",
+        "quran": "اللَّهُ أَكْبَرُ"
+      },
+      {
+        "root": "ح-س-ن",
+        "adjective": "حَسَن (gut/schön)",
+        "elative": "أَحْسَن (besser/best)",
+        "quran": "أَحْسَنُ تَقْوِيمٍ (95:4)"
+      },
+      {
+        "root": "ع-ل-م",
+        "adjective": "عَلِيم (wissend)",
+        "elative": "أَعْلَم (wissender)",
+        "quran": "وَاللَّهُ أَعْلَمُ"
+      },
+      {
+        "root": "ق-ر-ب",
+        "adjective": "قَرِيب (nah)",
+        "elative": "أَقْرَب (näher/nächst)",
+        "quran": "وَنَحْنُ أَقْرَبُ إِلَيْهِ (50:16)"
+      }
+    ],
+    "feminineForm": {
+      "arabic": "فُعْلَى",
+      "transliteration": "fu'lā",
+      "example": "كُبْرَى (größte, fem.), حُسْنَى (beste, fem.)"
+    }
+  },
+  "dual": {
+    "description": "Dual — Zweizahl im Arabischen",
+    "explanation": "Arabisch unterscheidet Singular, Dual und Plural. Der Dual wird durch Suffixe gebildet.",
+    "nounDual": {
+      "nominative": "ـَانِ (-āni)",
+      "accusative_genitive": "ـَيْنِ (-ayni)",
+      "examples": [
+        {
+          "singular": "كِتَاب (Buch)",
+          "dual_nom": "كِتَابَانِ",
+          "dual_acc": "كِتَابَيْنِ"
+        },
+        {
+          "singular": "يَد (Hand)",
+          "dual_nom": "يَدَانِ",
+          "dual_acc": "يَدَيْنِ"
+        }
+      ]
+    },
+    "verbDual": {
+      "perfect": {
+        "3md": "فَعَلَا",
+        "3fd": "فَعَلَتَا",
+        "2d": "فَعَلْتُمَا"
+      },
+      "imperfect": {
+        "3md": "يَفْعَلَانِ",
+        "3fd": "تَفْعَلَانِ",
+        "2d": "تَفْعَلَانِ"
+      },
+      "note": "Die Dualformen des Imperfekts gehören zu den Fünf Verben (Modus durch Nūn)."
+    },
+    "quranExamples": [
+      {
+        "arabic": "رَبُّ الْمَشْرِقَيْنِ وَرَبُّ الْمَغْرِبَيْنِ",
+        "location": "55:17",
+        "analysis": "Dual Genitiv: die beiden Osten, die beiden Westen"
+      },
+      {
+        "arabic": "وَلِمَنْ خَافَ مَقَامَ رَبِّهِ جَنَّتَانِ",
+        "location": "55:46",
+        "analysis": "Dual Nominativ: zwei Gärten"
+      }
+    ]
+  },
+  "diptotes": {
+    "description": "Diptoten (Mamnu' min as-Sarf) — Nomen die nur zwei Kasusendungen haben",
+    "explanation": "Die meisten Nomen haben drei Kasusendungen (Nom -u, Akk -a, Gen -i) plus Tanwīn. Diptoten haben nur zwei (Nom -u, Akk/Gen -a) und KEIN Tanwīn — außer sie sind definit (mit Artikel oder in Idafa).",
+    "categories": [
+      {
+        "category": "Eigennamen auf Muster فُعَل",
+        "example": "عُمَرُ ('Umar)",
+        "genitive": "عُمَرَ (nicht: عُمَرِ)"
+      },
+      {
+        "category": "Feminine Eigennamen",
+        "example": "مَرْيَمُ (Maryam)",
+        "genitive": "مَرْيَمَ"
+      },
+      {
+        "category": "Fremdsprachliche Eigennamen",
+        "example": "إِبْرَاهِيمُ (Ibrahim)",
+        "genitive": "إِبْرَاهِيمَ"
+      },
+      {
+        "category": "Elativ-Muster أَفْعَل",
+        "example": "أَكْبَرُ (größer)",
+        "genitive": "أَكْبَرَ"
+      },
+      {
+        "category": "Farb-/Defektmuster أَفْعَل/فَعْلَاء",
+        "example": "أَحْمَرُ (rot)",
+        "genitive": "أَحْمَرَ"
+      },
+      {
+        "category": "Muster فَعَالِين",
+        "example": "مَسَاجِدُ (Moscheen)",
+        "genitive": "مَسَاجِدَ"
+      },
+      {
+        "category": "Gebrochene Plurale auf مَفَاعِل/مَفَاعِيل",
+        "example": "مَنَازِلُ (Stationen)",
+        "genitive": "مَنَازِلَ"
+      }
+    ],
+    "quranExamples": [
+      {
+        "arabic": "فِي أَحْسَنِ تَقْوِيمٍ",
+        "location": "95:4",
+        "analysis": "أَحْسَنِ — Elativ im Genitiv: hier MIT Kasra weil in Idafa (= definit)"
+      },
+      {
+        "arabic": "وَإِذْ يَرْفَعُ إِبْرَاهِيمُ الْقَوَاعِدَ",
+        "location": "2:127",
+        "analysis": "إِبْرَاهِيمُ — diptotischer Eigenname im Nominativ"
+      },
+      {
+        "arabic": "لَقَدْ خَلَقْنَا الْإِنسَانَ فِي أَحْسَنِ تَقْوِيمٍ",
+        "location": "95:4",
+        "analysis": "أَحْسَنِ mit Kasra weil durch Idafa definit — Diptot-Ausnahme"
+      }
+    ]
+  },
+  "numerals": {
+    "description": "Zahlwörter im Arabischen — Sonderregeln für Genus und Kasus",
+    "rules": [
+      {
+        "range": "1-2",
+        "rule": "Folgen dem Gezählten in Genus",
+        "example": "رَجُلٌ وَاحِدٌ (ein Mann), اِمْرَأَةٌ وَاحِدَةٌ (eine Frau)"
+      },
+      {
+        "range": "3-10",
+        "rule": "UMGEKEHRTES Genus zum Gezählten! Gezähltes im Genitiv Plural.",
+        "example": "ثَلَاثَةُ رِجَالٍ (drei Männer, ثَلَاثَة fem. obwohl Männer mask.)"
+      },
+      {
+        "range": "11-19",
+        "rule": "Zusammengesetzte Zahl. 11-12 folgen dem Gezählten, 13-19 wie 3-10.",
+        "example": "اثْنَا عَشَرَ نَقِيبًا (12 Anführer, 5:12)"
+      },
+      {
+        "range": "20-99",
+        "rule": "Zehner sind gesunde maskuline Plurale (-ūna/-īna). Gezähltes im Akkusativ Singular.",
+        "example": "عِشْرُونَ (20), ثَلَاثُونَ (30)"
+      },
+      {
+        "range": "100+",
+        "rule": "مِئَة (100), أَلْف (1000). Gezähltes im Genitiv Singular.",
+        "example": "مِئَةَ عَامٍ (100 Jahre, 2:259)"
+      }
+    ],
+    "quranExamples": [
+      {
+        "arabic": "سَبْعَ سَمَاوَاتٍ",
+        "location": "2:29",
+        "analysis": "سَبْعَ (sieben, fem.) + سَمَاوَاتٍ (Himmel, Genitiv Plural). Umgekehrtes Genus: سَمَاء ist fem., daher Zahl ohne Tā' Marbūta."
+      },
+      {
+        "arabic": "ثَلَاثَةِ أَيَّامٍ",
+        "location": "2:196",
+        "analysis": "ثَلَاثَة (drei, fem.) + أَيَّام (Tage, mask. Genitiv Plural). Umgekehrtes Genus."
+      },
+      {
+        "arabic": "مِئَةَ عَامٍ",
+        "location": "2:259",
+        "analysis": "100 + Genitiv Singular."
+      }
+    ]
+  },
+  "fiveNouns": {
+    "description": "Die fünf Sondernomen (al-Asmā' al-Khamsa)",
+    "explanation": "Fünf Nomen zeigen ihren Kasus nicht durch kurze Vokale sondern durch Langvokale — aber NUR wenn sie in einer Idafa-Konstruktion oder mit Suffixpronomen stehen.",
+    "nouns": [
+      {
+        "arabic": "أَب",
+        "transliteration": "ab",
+        "meaning": "Vater",
+        "nominative": "أَبُو",
+        "accusative": "أَبَا",
+        "genitive": "أَبِي"
+      },
+      {
+        "arabic": "أَخ",
+        "transliteration": "akh",
+        "meaning": "Bruder",
+        "nominative": "أَخُو",
+        "accusative": "أَخَا",
+        "genitive": "أَخِي"
+      },
+      {
+        "arabic": "حَم",
+        "transliteration": "ḥam",
+        "meaning": "Schwiegervater",
+        "nominative": "حَمُو",
+        "accusative": "حَمَا",
+        "genitive": "حَمِي"
+      },
+      {
+        "arabic": "فَم",
+        "transliteration": "fam",
+        "meaning": "Mund",
+        "nominative": "فُو",
+        "accusative": "فَا",
+        "genitive": "فِي"
+      },
+      {
+        "arabic": "ذُو",
+        "transliteration": "dhū",
+        "meaning": "Besitzer von",
+        "nominative": "ذُو",
+        "accusative": "ذَا",
+        "genitive": "ذِي"
+      }
+    ],
+    "condition": "Diese Langvokal-Kasusanzeige tritt NUR auf wenn das Nomen das erste Glied einer Idafa ist oder ein Suffixpronomen trägt (außer ي = mein).",
+    "quranExamples": [
+      {
+        "arabic": "وَإِذْ قَالَ إِبْرَاهِيمُ لِأَبِيهِ",
+        "location": "6:74",
+        "analysis": "أَبِيهِ — Genitiv (nach لِ) + Suffixpronomen: Langvokal ī zeigt Genitiv"
+      },
+      {
+        "arabic": "إِنَّ ذَٰلِكَ لَذُو فَضْلٍ عَظِيمٍ",
+        "location": "8:29",
+        "analysis": "ذُو — Nominativ als Prädikat von إِنَّ: Langvokal ū zeigt Nominativ (Khabar)"
+      },
+      {
+        "arabic": "إِنَّ اللَّهَ ذُو فَضْلٍ عَلَى النَّاسِ",
+        "location": "2:243",
+        "analysis": "ذُو — Khabar von إِنَّ im Nominativ (Besitzer von Gunst)"
+      }
+    ]
+  },
+  "rareVerbForms": {
+    "description": "Seltene Verbformen XI-XV. Kommen im Quran nicht vor. Hier dokumentiert, damit sie bei Begegnung in Woerterbuechern eingeordnet werden koennen.",
+    "forms": [
+      {
+        "form": "XI",
+        "pattern": "if'alla",
+        "patternArabic": "افعلّ",
+        "description": "Intensivform von IX. Farb-/Eigenschaftsbedeutung verstaerkt. Aeusserst selten.",
+        "example": "احمارّ (wurde intensiv rot)"
+      },
+      {
+        "form": "XII",
+        "pattern": "if'aw'ala",
+        "patternArabic": "افعوعل",
+        "description": "Wiederholungs-/Intensivform. Der mittlere Radikal wird mit Waw wiederholt.",
+        "example": "اعشوشب (wurde dicht begrast)"
+      },
+      {
+        "form": "XIII",
+        "pattern": "if'awwala",
+        "patternArabic": "افعوّل",
+        "description": "Aehnlich wie XII, mit Verdopplung statt Wiederholung. Praktisch nicht belegt.",
+        "example": "theoretisch: اقطوّط"
+      },
+      {
+        "form": "XIV",
+        "pattern": "if'anlala",
+        "patternArabic": "افعنلل",
+        "description": "Erweiterung mit Nun-Lam. Sehr selten, meist in Lexika als theoretische Form.",
+        "example": "احرنجم (draengte sich zusammen)"
+      },
+      {
+        "form": "XV",
+        "pattern": "if'anlā",
+        "patternArabic": "افعنلى",
+        "description": "Variante von XIV mit schwachem Endradikal. Rein theoretisch in den meisten Faellen.",
+        "example": "احرنبى (richtete sich steif auf)"
+      }
+    ],
+    "note": "Diese Formen sind fuer das Studium des Qurantextes nicht notwendig. Sie werden hier dokumentiert, damit sie bei Begegnung in Woerterbuechern eingeordnet werden koennen."
+  }
+}

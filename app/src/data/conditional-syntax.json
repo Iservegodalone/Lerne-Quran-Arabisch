@@ -1,0 +1,617 @@
+{
+  "meta": {
+    "title": "Konditionalsaetze — Real vs. Irreal",
+    "description": "Systematische Behandlung der Bedingungssaetze im Quranischen Arabisch. Analyse der Konditionalpartikeln, ihrer syntaktischen Konsequenzen und ihrer Verteilung im Text.",
+    "sources": [
+      {"label": "Wright's Grammar Vol II — Conditional Sentences", "url": "https://archive.org/details/WrightsArabicGrammar2Of2"},
+      {"label": "Quranic Arabic Corpus", "url": "https://corpus.quran.com"}
+    ]
+  },
+  "lessons": [
+    {
+      "id": "CS1",
+      "title": "Reale Bedingung mit إِنْ",
+      "learnContent": {
+        "sections": [
+          {
+            "type": "explanation",
+            "title": "إِنْ + Jussiv: Struktur der realen Bedingung",
+            "content": "إِنْ leitet eine reale (moegliche) Bedingung ein. Die Konstruktion besteht aus zwei Teilen:\n\n1. Protasis (Bedingungssatz / شرط): إِنْ + Verb im Jussiv (مجزوم)\n2. Apodosis (Folgesatz / جواب الشرط): Verb im Jussiv\n\nDer Jussiv ist hier das entscheidende Erkennungsmerkmal. Bei starken Verben erscheint er durch Sukun auf dem letzten Radikal, bei schwachen Verben durch Wegfall des Endvokals oder des schwachen Radikals.\n\nWichtig: إِنْ signalisiert, dass der Sprecher die Bedingung als moeglich, aber nicht als erwartet oder sicher darstellt. Es ist die neutrale, offene Bedingung."
+          },
+          {
+            "type": "explanation",
+            "title": "Apodosis-Varianten",
+            "content": "Nicht jede Apodosis nach إِنْ steht im Jussiv. Wenn die Apodosis ein Nominalsatz, ein Imperativ oder ein Satz mit قَدْ / سَوْفَ / لَنْ ist, wird sie durch فَ (fa al-jazaa') eingeleitet:\n\nإِنْ + Jussiv ... فَ + Nominalsatz/Imperativ/etc.\n\nDieses فَ ist obligatorisch, wenn der Folgesatz nicht direkt durch ein Jussiv-Verb eingeleitet wird. Es ist syntaktisch notwendig, nicht stilistisch."
+          },
+          {
+            "type": "quranExamples",
+            "title": "إِنْ-Konditionalsaetze im Quran",
+            "examples": [
+              {
+                "ref": "3:139",
+                "arabic": "وَلَا تَهِنُوا وَلَا تَحْزَنُوا وَأَنتُمُ الْأَعْلَوْنَ إِن كُنتُم مُّؤْمِنِينَ",
+                "explanation": "إِنْ كُنتُم — Protasis mit كان im Jussiv (كُنتُم). Die Apodosis steht hier VOR der Protasis (وَلَا تَهِنُوا). Vorangestellte Apodosis ist im Quran haeufig."
+              },
+              {
+                "ref": "2:229",
+                "arabic": "فَإِنْ خِفْتُمْ أَلَّا يُقِيمَا حُدُودَ اللَّهِ فَلَا جُنَاحَ عَلَيْهِمَا فِيمَا افْتَدَتْ بِهِ",
+                "explanation": "إِنْ خِفْتُمْ — Nach إِنْ steht das Perfekt mit konditionaler Bedeutung (Zukunftsbezug). Die Form ist morphologisch Perfekt, nicht Jussiv — der Jussiv erscheint nur bei Imperfekt-Formen. Die Apodosis ist ein Nominalsatz (فَلَا جُنَاحَ), daher mit فَ eingeleitet."
+              },
+              {
+                "ref": "4:128",
+                "arabic": "وَإِنِ امْرَأَةٌ خَافَتْ مِن بَعْلِهَا نُشُوزًا أَوْ إِعْرَاضًا فَلَا جُنَاحَ عَلَيْهِمَا أَن يُصْلِحَا بَيْنَهُمَا صُلْحًا",
+                "explanation": "إِنِ امْرَأَةٌ خَافَتْ — Bemerkenswert: Nach إِنْ steht hier ein Nomen (امْرَأَةٌ) vor dem Verb. Die Apodosis ist ein Nominalsatz mit فَ."
+              },
+              {
+                "ref": "49:6",
+                "arabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا إِن جَاءَكُمْ فَاسِقٌ بِنَبَإٍ فَتَبَيَّنُوا",
+                "explanation": "إِنْ جَاءَكُمْ — Protasis im Jussiv. Die Apodosis ist ein Imperativ (فَتَبَيَّنُوا), daher mit فَ eingeleitet. Typisches Muster: إِنْ + Jussiv ... فَ + Imperativ."
+              },
+              {
+                "ref": "9:6",
+                "arabic": "وَإِنْ أَحَدٌ مِّنَ الْمُشْرِكِينَ اسْتَجَارَكَ فَأَجِرْهُ حَتَّىٰ يَسْمَعَ كَلَامَ اللَّهِ",
+                "explanation": "إِنْ أَحَدٌ ... اسْتَجَارَكَ — Nomen zwischen إِنْ und Verb. Apodosis als Imperativ mit فَ (فَأَجِرْهُ). Dieselbe Struktur wie 49:6."
+              },
+              {
+                "ref": "47:7",
+                "arabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا إِن تَنصُرُوا اللَّهَ يَنصُرْكُمْ وَيُثَبِّتْ أَقْدَامَكُمْ",
+                "explanation": "إِنْ تَنصُرُوا ... يَنصُرْكُمْ — Beide Verben im Jussiv: تَنصُرُوا (Wegfall des Nun) und يَنصُرْكُمْ (Sukun). Klassische Doppel-Jussiv-Struktur."
+              }
+            ]
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "identification",
+          "prompt": "Lies 60:12. Identifiziere die Protasis und die Apodosis. Welche Konditionalpartikel wird hier verwendet? Wird فَ in der Apodosis verwendet — und wenn ja, warum?",
+          "hint": "إِذَا جَاءَكَ ist die Protasis. Beachte: 60:12 verwendet إِذَا (nicht إِنْ). Achte darauf, ob die Apodosis ein Jussiv-Verb oder einen anderen Satztyp enthaelt."
+        },
+        {
+          "type": "analysis",
+          "prompt": "Vergleiche 47:7 (إِن تَنصُرُوا اللَّهَ يَنصُرْكُمْ) mit 49:6 (إِن جَاءَكُمْ فَاسِقٌ بِنَبَإٍ فَتَبَيَّنُوا). Warum hat 47:7 kein فَ in der Apodosis, 49:6 aber schon?",
+          "hint": "Die Apodosis in 47:7 ist ein Jussiv-Verb. Die Apodosis in 49:6 ist ein Imperativ."
+        },
+        {
+          "type": "morphology",
+          "prompt": "In 47:7 steht يَنصُرْكُمْ. Wie lautet die Grundform (Imperfekt Indikativ) dieses Verbs? Welches Merkmal zeigt den Jussiv an?",
+          "hint": "Indikativ: يَنصُرُكُمْ mit Damma. Jussiv: يَنصُرْكُمْ mit Sukun."
+        }
+      ],
+      "testContent": {
+        "exercises": [
+          {
+            "question": "Welchen Modus regiert إِنْ in Protasis und Apodosis?",
+            "options": [
+              "Indikativ in beiden",
+              "Jussiv in der Protasis, Subjunktiv in der Apodosis",
+              "Jussiv in beiden (wenn die Apodosis ein Imperfektverb ist)",
+              "Konjunktiv in beiden"
+            ],
+            "correct": 2,
+            "explanation": "إِنْ regiert den Jussiv (مجزوم) in Protasis und Apodosis. Nur wenn die Apodosis kein Imperfektverb ist (Nominalsatz, Imperativ etc.), tritt فَ an die Stelle des Jussiv."
+          },
+          {
+            "question": "Wann wird فَ (fa al-jazaa') in der Apodosis nach إِنْ obligatorisch?",
+            "options": [
+              "Immer",
+              "Wenn die Apodosis ein Nominalsatz, Imperativ oder ein Satz mit قَدْ/سَوْفَ/لَنْ ist",
+              "Nur bei verneinten Saetzen",
+              "Nur bei Nominalsaetzen"
+            ],
+            "correct": 1,
+            "explanation": "فَ ist obligatorisch, wenn die Apodosis nicht direkt mit einem Jussiv-Verb beginnt — also bei Nominalsaetzen, Imperativen und Saetzen mit Partikeln wie قَدْ, سَوْفَ, لَنْ."
+          },
+          {
+            "question": "In وَإِنْ أَحَدٌ مِّنَ الْمُشْرِكِينَ اسْتَجَارَكَ فَأَجِرْهُ (9:6) — was ist die syntaktische Funktion von أَحَدٌ?",
+            "options": [
+              "Subjekt des Bedingungssatzes (Protasis)",
+              "Objekt des Verbs",
+              "Apposition",
+              "Praedikat"
+            ],
+            "correct": 0,
+            "explanation": "أَحَدٌ ist das Subjekt (فاعل) der Protasis. Es steht zwischen إِنْ und dem Verb اسْتَجَارَكَ. Diese Wortstellung mit vorangestelltem Subjekt nach إِنْ ist im Quran belegt."
+          },
+          {
+            "question": "In 3:139 steht die Protasis (إِن كُنتُم مُّؤْمِنِينَ) NACH der Apodosis. Was bedeutet das syntaktisch?",
+            "options": [
+              "Es ist kein echter Konditionalsatz",
+              "Die Apodosis ist vorangestellt — die Bedingung wird nachgeliefert",
+              "إِنْ hat hier keine konditionale Funktion",
+              "Es handelt sich um eine rhetorische Frage"
+            ],
+            "correct": 1,
+            "explanation": "Die Apodosis kann im Arabischen der Protasis vorangestellt werden. Die Protasis wird dann nachgeliefert und schraenkt die Aussage ein. Dies ist im Quran haeufig."
+          }
+        ]
+      }
+    },
+    {
+      "id": "CS2",
+      "title": "Temporale Bedingung mit إِذَا",
+      "learnContent": {
+        "sections": [
+          {
+            "type": "explanation",
+            "title": "إِذَا — Erwartete Bedingung",
+            "content": "إِذَا leitet eine Bedingung ein, die als erwartet oder wahrscheinlich dargestellt wird. Der Unterschied zu إِنْ liegt in der Sprecherperspektive:\n\n- إِنْ: Der Sprecher stellt die Bedingung als moeglich, aber offen dar ('falls')\n- إِذَا: Der Sprecher stellt die Bedingung als erwartet oder wiederkehrend dar ('wenn', 'sobald')\n\nSyntaktisch: Nach إِذَا steht das Verb im Perfekt (ماضٍ). Die Apodosis ist NICHT im Jussiv — إِذَا ist kein Jazm-Partikel. Die Apodosis steht im Indikativ oder ist ein Nominalsatz."
+          },
+          {
+            "type": "explanation",
+            "title": "إِذَا in eschatologischen Kontexten",
+            "content": "Im Quran erscheint إِذَا besonders haeufig in Beschreibungen des Juengsten Tages. Die Wahl von إِذَا (statt إِنْ) signalisiert: Das Ereignis wird als sicher eintretend dargestellt, nicht als blosse Moeglichkeit. Oft treten mehrere إِذَا-Saetze in Folge auf, wobei die Apodosis erst nach einer Kette von Protasen erscheint."
+          },
+          {
+            "type": "quranExamples",
+            "title": "إِذَا im Quran",
+            "examples": [
+              {
+                "ref": "81:1-6",
+                "arabic": "إِذَا الشَّمْسُ كُوِّرَتْ ○ وَإِذَا النُّجُومُ انكَدَرَتْ ○ وَإِذَا الْجِبَالُ سُيِّرَتْ ○ وَإِذَا الْعِشَارُ عُطِّلَتْ ○ وَإِذَا الْوُحُوشُ حُشِرَتْ ○ وَإِذَا الْبِحَارُ سُجِّرَتْ",
+                "explanation": "Kette von إِذَا-Protasen ohne sofortige Apodosis. Jede Protasis: إِذَا + Nomen + Perfekt (Passiv). Die Apodosis folgt erst in 81:14 (عَلِمَتْ نَفْسٌ مَّا أَحْضَرَتْ). Die Kette baut Spannung auf — die Erwartung der Apodosis wird verzoegert."
+              },
+              {
+                "ref": "84:1-5",
+                "arabic": "إِذَا السَّمَاءُ انشَقَّتْ ○ وَأَذِنَتْ لِرَبِّهَا وَحُقَّتْ ○ وَإِذَا الْأَرْضُ مُدَّتْ ○ وَأَلْقَتْ مَا فِيهَا وَتَخَلَّتْ ○ وَأَذِنَتْ لِرَبِّهَا وَحُقَّتْ",
+                "explanation": "Dieselbe Struktur: إِذَا + Nomen + Perfekt. Die Apodosis ist implizit oder folgt in den naechsten Versen. Wieder eschatologischer Kontext mit إِذَا — das Ereignis wird als sicher dargestellt."
+              },
+              {
+                "ref": "2:282",
+                "arabic": "وَإِذَا تَدَايَنتُم بِدَيْنٍ إِلَىٰ أَجَلٍ مُّسَمًّى فَاكْتُبُوهُ",
+                "explanation": "إِذَا + Perfekt (تَدَايَنتُم). Die Apodosis ist ein Imperativ mit فَ (فَاكْتُبُوهُ). Nicht-eschatologischer Kontext: Die Situation (gegenseitiges Leihen) wird als erwartbar und wiederkehrend dargestellt."
+              },
+              {
+                "ref": "62:11",
+                "arabic": "وَإِذَا رَأَوْا تِجَارَةً أَوْ لَهْوًا انفَضُّوا إِلَيْهَا",
+                "explanation": "إِذَا رَأَوْا — erwartete, wiederkehrende Situation. Die Apodosis (انفَضُّوا) steht im Perfekt. Beschreibung eines wiederkehrenden Verhaltens."
+              },
+              {
+                "ref": "63:4",
+                "arabic": "وَإِذَا رَأَيْتَهُمْ تُعْجِبُكَ أَجْسَامُهُمْ ۖ وَإِن يَقُولُوا تَسْمَعْ لِقَوْلِهِمْ",
+                "explanation": "Instruktiver Kontrast in EINEM Vers: إِذَا رَأَيْتَهُمْ (erwartete Situation, Perfekt) vs. إِنْ يَقُولُوا (offene Moeglichkeit, Jussiv). Derselbe Vers zeigt den syntaktischen und semantischen Unterschied."
+              }
+            ]
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "identification",
+          "prompt": "Lies Sure 99 (az-Zalzala) komplett. Wie viele إِذَا-Protasen gibt es? Wo beginnt die Apodosis? In welchem Modus steht das Verb der Apodosis?",
+          "hint": "Sure 99 beginnt mit إِذَا زُلْزِلَتِ الْأَرْضُ. Zaehle die إِذَا-Saetze. Die Apodosis kommt spaet — achte auf يَوْمَئِذٍ."
+        },
+        {
+          "type": "analysis",
+          "prompt": "In 63:4 stehen إِذَا und إِنْ im selben Vers. Erklaere den syntaktischen Unterschied: Welchen Modus hat das Verb nach إِذَا, welchen nach إِنْ? Was signalisiert die Partikelwahl ueber die Erwartung des Sprechers?",
+          "hint": "Nach إِذَا steht Perfekt (رَأَيْتَهُمْ), nach إِنْ Jussiv (يَقُولُوا). إِذَا = erwartet, إِنْ = offen."
+        },
+        {
+          "type": "analysis",
+          "prompt": "Vergleiche die إِذَا-Ketten in Sure 81 und Sure 84. Welche Gemeinsamkeiten gibt es in der Struktur? Welche Rolle spielt die verzoegerte Apodosis?",
+          "hint": "Beide verwenden إِذَا + Nomen + Perfekt (oft Passiv). Die Apodosis wird ueber mehrere Verse hinweg aufgeschoben. Dieser Aufschub erzeugt Spannung."
+        }
+      ],
+      "testContent": {
+        "exercises": [
+          {
+            "question": "Welchen Modus regiert إِذَا?",
+            "options": [
+              "Jussiv (wie إِنْ)",
+              "Subjunktiv",
+              "Keinen — das Verb nach إِذَا steht typisch im Perfekt",
+              "Imperativ"
+            ],
+            "correct": 2,
+            "explanation": "إِذَا ist kein Jazm-Partikel. Das Verb nach إِذَا steht im Perfekt (ماضٍ). Die Apodosis steht nicht im Jussiv."
+          },
+          {
+            "question": "Was signalisiert die Wahl von إِذَا (statt إِنْ)?",
+            "options": [
+              "Die Bedingung ist unmoeglich (irreal)",
+              "Die Bedingung wird als erwartet oder wahrscheinlich dargestellt",
+              "Die Bedingung ist vergangen",
+              "Kein Bedeutungsunterschied zu إِنْ"
+            ],
+            "correct": 1,
+            "explanation": "إِذَا stellt die Bedingung als erwartet, wahrscheinlich oder wiederkehrend dar. إِنْ stellt sie als offen und neutral dar."
+          },
+          {
+            "question": "In 81:1-14 folgen mehrere إِذَا-Saetze aufeinander. Wo steht die Apodosis?",
+            "options": [
+              "Am Ende jedes einzelnen إِذَا-Satzes",
+              "Es gibt keine Apodosis",
+              "Die Apodosis erscheint erst nach der gesamten Kette (81:14)",
+              "Die Apodosis steht vor dem ersten إِذَا"
+            ],
+            "correct": 2,
+            "explanation": "Die Apodosis (عَلِمَتْ نَفْسٌ مَّا أَحْضَرَتْ) erscheint erst in 81:14, nach einer Kette von إِذَا-Protasen. Die Verzoegerung ist ein textstrukturelles Mittel."
+          }
+        ]
+      }
+    },
+    {
+      "id": "CS3",
+      "title": "Irreale Bedingung mit لَوْ",
+      "learnContent": {
+        "sections": [
+          {
+            "type": "explanation",
+            "title": "لَوْ — Kontrafaktische Bedingung",
+            "content": "لَوْ leitet eine irreale (kontrafaktische) Bedingung ein. Der Sprecher stellt dar, dass die Bedingung NICHT erfuellt ist oder war.\n\nStruktur:\n- Protasis: لَوْ + Verb im Perfekt\n- Apodosis: typisch mit لَ + Perfekt (لَفَعَلَ)\n\nDas Perfekt nach لَوْ hat KEINE vergangene Zeitbedeutung — es drueckt den irrealen Modus aus. Die Apodosis-Partikel لَ (lam at-tawkid / jawab law) ist das typische Signal der Apodosis nach لَوْ.\n\nBedeutung: 'Wenn X gewesen waere (aber es war/ist nicht), dann haette Y stattgefunden (aber es hat nicht).'"
+          },
+          {
+            "type": "explanation",
+            "title": "Negierte Apodosis: لَوْ ... مَا",
+            "content": "Die Apodosis nach لَوْ kann auch negiert sein. Dann steht مَا anstelle von لَ:\n\nلَوْ + Perfekt ... مَا + Perfekt\n\n'Wenn X (aber nein) ... dann nicht Y.'\n\nAusserdem kann die Apodosis ganz fehlen — sie wird dem Verstaendnis ueberlassen. Dies ist besonders bei لَوْ تَرَى ('wenn du saehest...') der Fall."
+          },
+          {
+            "type": "quranExamples",
+            "title": "لَوْ-Konditionalsaetze im Quran",
+            "examples": [
+              {
+                "ref": "2:102",
+                "arabic": "وَلَوْ أَنَّهُمْ آمَنُوا وَاتَّقَوْا لَمَثُوبَةٌ مِّنْ عِندِ اللَّهِ خَيْرٌ",
+                "explanation": "لَوْ أَنَّهُمْ آمَنُوا — Protasis: 'Wenn sie geglaubt haetten (aber sie haben nicht)'. Apodosis mit لَ: لَمَثُوبَةٌ — 'dann waere eine Belohnung besser'. Klassische لَوْ ... لَ-Struktur."
+              },
+              {
+                "ref": "10:99",
+                "arabic": "وَلَوْ شَاءَ رَبُّكَ لَآمَنَ مَن فِي الْأَرْضِ كُلُّهُمْ جَمِيعًا",
+                "explanation": "لَوْ شَاءَ رَبُّكَ — 'Wenn dein Herr gewollt haette'. لَآمَنَ — 'dann haetten alle geglaubt'. Irreal: Er hat nicht (in dieser Weise) gewollt, also haben nicht alle geglaubt."
+              },
+              {
+                "ref": "4:66",
+                "arabic": "وَلَوْ أَنَّهُمْ فَعَلُوا مَا يُوعَظُونَ بِهِ لَكَانَ خَيْرًا لَّهُمْ",
+                "explanation": "لَوْ أَنَّهُمْ فَعَلُوا — 'Haetten sie getan, wozu sie ermahnt werden'. لَكَانَ خَيْرًا — 'es waere besser fuer sie gewesen'. Apodosis mit لَ + كَانَ."
+              },
+              {
+                "ref": "2:253",
+                "arabic": "وَلَوْ شَاءَ اللَّهُ مَا اقْتَتَلَ الَّذِينَ مِن بَعْدِهِم",
+                "explanation": "لَوْ شَاءَ اللَّهُ — Protasis. مَا اقْتَتَلَ — Negierte Apodosis mit مَا (statt لَ): 'Haette Gott gewollt, haetten sie NICHT gegeneinander gekaempft.'"
+              },
+              {
+                "ref": "6:27",
+                "arabic": "وَلَوْ تَرَىٰ إِذْ وُقِفُوا عَلَى النَّارِ فَقَالُوا يَا لَيْتَنَا نُرَدُّ",
+                "explanation": "لَوْ تَرَى — 'Wenn du saehest...' — die Apodosis fehlt. Der Hoerer soll die Konsequenz selbst erschliessen. Diese Ellipse nach لَوْ تَرَى ist ein wiederkehrendes Muster im Quran."
+              },
+              {
+                "ref": "39:58",
+                "arabic": "لَوْ أَنَّ لِي كَرَّةً فَأَكُونَ مِنَ الْمُحْسِنِينَ",
+                "explanation": "لَوْ أَنَّ لِي كَرَّةً — 'Wenn ich doch eine Rueckkehr haette...' — Wunsch-لَوْ. Hier drueckt لَوْ keinen kontrafaktischen Bedingungssatz, sondern einen unerfuellbaren Wunsch aus. فَأَكُونَ steht im Subjunktiv (nach فَ als Folge)."
+              }
+            ]
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "identification",
+          "prompt": "Lies 5:66 (وَلَوْ أَنَّهُمْ أَقَامُوا التَّوْرَاةَ وَالْإِنجِيلَ...). Identifiziere Protasis und Apodosis. Welche Apodosis-Partikel wird verwendet?",
+          "hint": "Die Protasis beginnt mit لَوْ أَنَّهُمْ. Suche die Apodosis-Partikel لَ."
+        },
+        {
+          "type": "analysis",
+          "prompt": "Vergleiche 2:253 (لَوْ شَاءَ اللَّهُ مَا اقْتَتَلَ) mit 10:99 (لَوْ شَاءَ رَبُّكَ لَآمَنَ). Beide haben dieselbe Protasis-Struktur. Wie unterscheiden sich die Apodosen?",
+          "hint": "2:253 hat eine negierte Apodosis mit مَا. 10:99 hat eine affirmative Apodosis mit لَ."
+        },
+        {
+          "type": "analysis",
+          "prompt": "In 6:27 und 6:93 steht وَلَوْ تَرَى ohne explizite Apodosis. Was ist die syntaktische Analyse dieser Ellipse? Was muss der Hoerer ergaenzen?",
+          "hint": "Die Apodosis ist ausgelassen. Der Hoerer soll etwas wie 'du wuerdest etwas Schreckliches sehen' ergaenzen. Die Ellipse verstaerkt die Wirkung."
+        }
+      ],
+      "testContent": {
+        "exercises": [
+          {
+            "question": "Was drueckt لَوْ aus?",
+            "options": [
+              "Eine reale, moegliche Bedingung",
+              "Eine erwartete, wahrscheinliche Bedingung",
+              "Eine kontrafaktische (irreale) Bedingung",
+              "Eine temporale Bedingung"
+            ],
+            "correct": 2,
+            "explanation": "لَوْ drueckt eine kontrafaktische Bedingung aus: Die Bedingung ist nicht erfuellt, und die Folge ist ebenfalls nicht eingetreten."
+          },
+          {
+            "question": "Welche typische Struktur hat die Apodosis nach لَوْ?",
+            "options": [
+              "Jussiv (wie nach إِنْ)",
+              "لَ + Perfekt (affirmativ) oder مَا + Perfekt (negiert)",
+              "Subjunktiv mit أَنْ",
+              "Imperativ mit فَ"
+            ],
+            "correct": 1,
+            "explanation": "Die affirmative Apodosis nach لَوْ steht typisch mit لَ + Perfekt (لَفَعَلَ). Die negierte Apodosis verwendet مَا + Perfekt."
+          },
+          {
+            "question": "In وَلَوْ تَرَىٰ إِذْ وُقِفُوا عَلَى النَّارِ (6:27) — wo ist die Apodosis?",
+            "options": [
+              "إِذْ وُقِفُوا ist die Apodosis",
+              "Die Apodosis steht im naechsten Vers",
+              "Die Apodosis ist ausgelassen (Ellipse)",
+              "فَقَالُوا ist die Apodosis"
+            ],
+            "correct": 2,
+            "explanation": "Nach لَوْ تَرَى wird die Apodosis ausgelassen. Der Hoerer soll die Konsequenz selbst erschliessen. Dies ist ein wiederkehrendes quranisches Muster."
+          }
+        ]
+      }
+    },
+    {
+      "id": "CS4",
+      "title": "Konditionaler Kontrast: إِنْ vs. إِذَا vs. لَوْ",
+      "learnContent": {
+        "sections": [
+          {
+            "type": "explanation",
+            "title": "Drei Partikeln — Drei Perspektiven",
+            "content": "Die drei zentralen Konditionalpartikeln unterscheiden sich in zwei Dimensionen:\n\n1. Realitaetsbezug:\n   - إِنْ / إِذَا: reale (moegliche) Bedingung\n   - لَوْ: irreale (kontrafaktische) Bedingung\n\n2. Erwartung des Sprechers (nur bei realer Bedingung):\n   - إِنْ: neutral, offen ('falls')\n   - إِذَا: erwartet, wahrscheinlich ('wenn/sobald')\n\nDie Partikelwahl ist nie willkuerlich — sie signalisiert die Haltung des Sprechers zur Bedingung."
+          },
+          {
+            "type": "explanation",
+            "title": "Syntaktische Konsequenzen im Ueberblick",
+            "content": "Die Partikelwahl bestimmt die Syntax:\n\n| Partikel | Protasis-Verb | Apodosis-Verb | Jazm? |\n|----------|---------------|---------------|-------|\n| إِنْ    | Jussiv        | Jussiv (oder فَ + anderer Satztyp) | Ja |\n| إِذَا   | Perfekt       | Kein Jussiv (Indikativ/Nominalsatz) | Nein |\n| لَوْ    | Perfekt       | لَ + Perfekt / مَا + Perfekt | Nein |\n\nNur إِنْ ist ein Jazm-Partikel und erzwingt den Jussiv. إِذَا und لَوْ nehmen das Perfekt."
+          },
+          {
+            "type": "quranExamples",
+            "title": "Kontrastive Quran-Beispiele",
+            "examples": [
+              {
+                "ref": "63:4",
+                "arabic": "وَإِذَا رَأَيْتَهُمْ تُعْجِبُكَ أَجْسَامُهُمْ ۖ وَإِن يَقُولُوا تَسْمَعْ لِقَوْلِهِمْ",
+                "explanation": "DERSELBE VERS, zwei Partikeln: إِذَا رَأَيْتَهُمْ (du wirst sie sehen — erwartet, Perfekt) vs. إِنْ يَقُولُوا (falls sie sprechen — offen, Jussiv). Die Partikelwahl zeigt: Das Sehen ist sicher, das Sprechen unsicher."
+              },
+              {
+                "ref": "2:284",
+                "arabic": "وَإِن تُبْدُوا مَا فِي أَنفُسِكُمْ أَوْ تُخْفُوهُ يُحَاسِبْكُم بِهِ اللَّهُ",
+                "explanation": "إِنْ تُبْدُوا — 'Falls ihr offenlegt' (offen, neutral, Jussiv). Die Alternative (أَوْ تُخْفُوهُ) zeigt die Neutralitaet: Der Sprecher praesupponiert nicht, welche Option eintritt."
+              },
+              {
+                "ref": "24:28",
+                "arabic": "وَإِن لَّمْ تَجِدُوا فِيهَا أَحَدًا فَلَا تَدْخُلُوهَا",
+                "explanation": "إِنْ لَمْ تَجِدُوا — negierte Protasis mit إِنْ + لَمْ + Jussiv. Die Moeglichkeit ist offen dargestellt."
+              },
+              {
+                "ref": "3:159",
+                "arabic": "فَإِذَا عَزَمْتَ فَتَوَكَّلْ عَلَى اللَّهِ",
+                "explanation": "إِذَا عَزَمْتَ — 'Wenn du dich entschliesst' (erwartet — der Entschluss wird als sicher behandelt). فَتَوَكَّلْ — Imperativische Apodosis mit فَ."
+              },
+              {
+                "ref": "10:99",
+                "arabic": "وَلَوْ شَاءَ رَبُّكَ لَآمَنَ مَن فِي الْأَرْضِ كُلُّهُمْ جَمِيعًا",
+                "explanation": "لَوْ شَاءَ — 'Haette dein Herr gewollt (aber er hat nicht in dieser Weise gewollt)'. Irreal. Vergleiche mit dem theoretischen إِنْ يَشَأْ — das waere eine offene Moeglichkeit."
+              }
+            ]
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "analysis",
+          "prompt": "Erklaere den Unterschied in der Partikelwahl: إِن يَمْسَسْكُمْ قَرْحٌ (3:140) vs. وَإِذَا مَسَّهُ الشَّرُّ فَذُو دُعَاءٍ عَرِيضٍ (41:51). Beide Verse behandeln das Erleiden von Schaden. Warum إِنْ in 3:140 und إِذَا in 41:51?",
+          "hint": "3:140 stellt die Verletzung als offene Moeglichkeit dar (im Kontext einer Schlacht). 41:51 beschreibt ein typisches, erwartetes Verhaltensmuster des Menschen."
+        },
+        {
+          "type": "transformation",
+          "prompt": "Der Satz لَوْ شَاءَ اللَّهُ مَا اقْتَتَلُوا (2:253) ist irreal. Formuliere denselben Inhalt als reale Bedingung mit إِنْ. Was aendert sich syntaktisch und semantisch?",
+          "hint": "إِنْ يَشَأِ اللَّهُ لَا يَقْتَتِلُوا — Beide Verben im Jussiv. Semantisch: Die Bedingung wuerde als offene Moeglichkeit dargestellt, nicht als kontrafaktisch."
+        },
+        {
+          "type": "identification",
+          "prompt": "Lies 4:66-68. Identifiziere alle Konditionalpartikeln in diesen drei Versen. Bestimme fuer jede: Partikel, Modus des Protasis-Verbs, Art der Apodosis.",
+          "hint": "Achte auf لَوْ und أَنَّ-Konstruktionen. Bestimme bei jeder Stelle die syntaktische Struktur."
+        }
+      ],
+      "testContent": {
+        "exercises": [
+          {
+            "question": "In 63:4 stehen إِذَا und إِنْ im selben Vers. Was signalisiert der Wechsel?",
+            "options": [
+              "Kein Bedeutungsunterschied — stilistische Variation",
+              "إِذَا fuer die erwartete Situation (Sehen), إِنْ fuer die offene Moeglichkeit (Sprechen)",
+              "إِذَا fuer Vergangenheit, إِنْ fuer Zukunft",
+              "إِذَا fuer irreale, إِنْ fuer reale Bedingung"
+            ],
+            "correct": 1,
+            "explanation": "Der Wechsel ist semantisch motiviert: إِذَا stellt das Sehen als erwartetes Ereignis dar, إِنْ das Sprechen als offene Moeglichkeit."
+          },
+          {
+            "question": "Welche Partikel ist ein Jazm-Partikel (erzwingt den Jussiv)?",
+            "options": [
+              "إِنْ und إِذَا",
+              "Nur إِنْ",
+              "Nur لَوْ",
+              "Alle drei"
+            ],
+            "correct": 1,
+            "explanation": "Nur إِنْ ist ein Jazm-Partikel. إِذَا und لَوْ nehmen das Perfekt, nicht den Jussiv."
+          },
+          {
+            "question": "Welche Aussage ist korrekt?",
+            "options": [
+              "إِنْ = irreal, لَوْ = real",
+              "إِذَا = irreal, لَوْ = erwartet",
+              "إِنْ = offen/neutral, إِذَا = erwartet, لَوْ = kontrafaktisch",
+              "Alle drei sind bedeutungsgleich"
+            ],
+            "correct": 2,
+            "explanation": "إِنْ stellt die Bedingung als offen dar, إِذَا als erwartet, لَوْ als kontrafaktisch (nicht erfuellt). Die Partikelwahl signalisiert die Sprecherperspektive."
+          },
+          {
+            "question": "Was waere der syntaktische Unterschied zwischen إِنْ يَشَأ und لَوْ شَاءَ?",
+            "options": [
+              "Kein Unterschied",
+              "إِنْ يَشَأ: Jussiv (reale Moeglichkeit) — لَوْ شَاءَ: Perfekt (kontrafaktisch)",
+              "إِنْ يَشَأ: Perfekt — لَوْ شَاءَ: Jussiv",
+              "Beide nehmen den Subjunktiv"
+            ],
+            "correct": 1,
+            "explanation": "إِنْ regiert den Jussiv (يَشَأْ) und stellt die Bedingung als moegliche Realitaet dar. لَوْ nimmt das Perfekt (شَاءَ) und stellt die Bedingung als kontrafaktisch dar."
+          }
+        ]
+      }
+    },
+    {
+      "id": "CS5",
+      "title": "Weitere Konditionalpartikeln",
+      "learnContent": {
+        "sections": [
+          {
+            "type": "explanation",
+            "title": "لَوْلَا — Konzessive/Irreale Negation",
+            "content": "لَوْلَا hat zwei Funktionen:\n\n1. Kontrafaktisch ('wenn nicht / waere nicht'): لَوْلَا + Nominalsatz (Subjekt im Nominativ) ... لَ + Perfekt\n   Bedeutung: 'Gaebe es X nicht, waere Y geschehen.'\n\n2. Vorwurfsvolle Frage ('warum nicht?'): لَوْلَا + Verb\n   Bedeutung: 'Warum habt ihr nicht...?' — eine rhetorische Aufforderung.\n\nDie erste Funktion ist kontrafaktisch (wie لَوْ), die zweite ist eine Kommunikationsfunktion."
+          },
+          {
+            "type": "quranExamples",
+            "title": "لَوْلَا im Quran",
+            "examples": [
+              {
+                "ref": "2:251",
+                "arabic": "وَلَوْلَا دَفْعُ اللَّهِ النَّاسَ بَعْضَهُم بِبَعْضٍ لَّفَسَدَتِ الْأَرْضُ",
+                "explanation": "لَوْلَا + Nomen (دَفْعُ) — kontrafaktisch: 'Gaebe es nicht Gottes Zurueckdraengen der Menschen, waere die Erde verdorben.' Apodosis mit لَ + Perfekt."
+              },
+              {
+                "ref": "12:24",
+                "arabic": "وَلَقَدْ هَمَّتْ بِهِ ۖ وَهَمَّ بِهَا لَوْلَا أَن رَّأَىٰ بُرْهَانَ رَبِّهِ",
+                "explanation": "لَوْلَا أَنْ رَأَى — 'Haette er nicht das Zeichen seines Herrn gesehen...' Kontrafaktisch mit أَنْ + Perfekt."
+              },
+              {
+                "ref": "4:72",
+                "arabic": "لَوْلَا أَنَّ اللَّهَ أَنْعَمَ عَلَيَّ",
+                "explanation": "لَوْلَا أَنَّ — 'Waere es nicht, dass Gott mir Gnade erwiesen hat...' Kontrafaktische Bedingung mit أَنَّ-Satz."
+              }
+            ]
+          },
+          {
+            "type": "explanation",
+            "title": "Generalisierte Bedingung: مَنْ, مَا, مَهْمَا",
+            "content": "Diese Partikeln/Pronomina leiten generalisierte (universale) Bedingungssaetze ein:\n\n- مَنْ ('wer auch immer'): Bezug auf Personen\n- مَا ('was auch immer'): Bezug auf Sachen/Ereignisse\n- مَهْمَا ('was auch immer'): verstaerktes مَا\n\nSyntaktisch verhalten sie sich wie إِنْ: Sie regieren den Jussiv in beiden Satzteilen. Der Unterschied: Sie enthalten gleichzeitig das Pronomen (Subjekt/Objekt) und die Bedingungspartikel."
+          },
+          {
+            "type": "quranExamples",
+            "title": "Generalisierte Bedingungen im Quran",
+            "examples": [
+              {
+                "ref": "2:272",
+                "arabic": "وَمَا تُنفِقُوا مِنْ خَيْرٍ فَلِأَنفُسِكُمْ",
+                "explanation": "مَا تُنفِقُوا — 'Was auch immer ihr ausgebt' (تُنفِقُوا im Jussiv: Wegfall des Nun). Apodosis als Nominalsatz mit فَ: فَلِأَنفُسِكُمْ."
+              },
+              {
+                "ref": "2:110",
+                "arabic": "وَمَا تُقَدِّمُوا لِأَنفُسِكُم مِّنْ خَيْرٍ تَجِدُوهُ عِندَ اللَّهِ",
+                "explanation": "مَا تُقَدِّمُوا ... تَجِدُوهُ — Beide Verben im Jussiv. Generalisiert: 'Was auch immer ihr vorausschickt, ihr werdet es bei Gott finden.'"
+              },
+              {
+                "ref": "3:28",
+                "arabic": "وَمَن يَفْعَلْ ذَٰلِكَ فَلَيْسَ مِنَ اللَّهِ فِي شَيْءٍ",
+                "explanation": "مَنْ يَفْعَلْ — 'Wer auch immer das tut' (يَفْعَلْ im Jussiv). Apodosis mit فَ + لَيْسَ."
+              },
+              {
+                "ref": "7:132",
+                "arabic": "مَهْمَا تَأْتِنَا بِهِ مِنْ آيَةٍ لِّتَسْحَرَنَا بِهَا فَمَا نَحْنُ لَكَ بِمُؤْمِنِينَ",
+                "explanation": "مَهْمَا تَأْتِنَا — 'Was auch immer du uns bringst' (تَأْتِنَا im Jussiv). Apodosis als negierter Nominalsatz mit فَ."
+              }
+            ]
+          },
+          {
+            "type": "explanation",
+            "title": "Lokale und iterative Bedingung: أَيْنَمَا, حَيْثُمَا, كُلَّمَا",
+            "content": "Diese Partikeln spezialisieren die Bedingung auf Ort oder Wiederholung:\n\n- أَيْنَمَا ('wo auch immer'): lokale Bedingung, regiert Jussiv\n- حَيْثُمَا ('wo auch immer'): aehnlich wie أَيْنَمَا\n- كُلَّمَا ('jedes Mal wenn'): iterative Bedingung, nimmt Perfekt (kein Jussiv)\n\nكُلَّمَا ist kein Jazm-Partikel — es beschreibt wiederkehrende Situationen."
+          },
+          {
+            "type": "quranExamples",
+            "title": "Lokale und iterative Bedingungen",
+            "examples": [
+              {
+                "ref": "2:148",
+                "arabic": "أَيْنَ مَا تَكُونُوا يَأْتِ بِكُمُ اللَّهُ جَمِيعًا",
+                "explanation": "أَيْنَمَا تَكُونُوا — 'Wo auch immer ihr seid' (تَكُونُوا im Jussiv: Wegfall des Nun). يَأْتِ im Jussiv (Wegfall der Alif). Lokale, generalisierte Bedingung."
+              },
+              {
+                "ref": "4:78",
+                "arabic": "أَيْنَمَا تَكُونُوا يُدْرِككُّمُ الْمَوْتُ وَلَوْ كُنتُمْ فِي بُرُوجٍ مُّشَيَّدَةٍ",
+                "explanation": "أَيْنَمَا تَكُونُوا يُدْرِككُّمُ الْمَوْتُ — 'Wo auch immer ihr seid, der Tod erreicht euch.' Beachte den Nachsatz mit وَلَوْ ('selbst wenn') — eine zusaetzliche konzessive Bedingung."
+              },
+              {
+                "ref": "2:87",
+                "arabic": "أَفَكُلَّمَا جَاءَكُمْ رَسُولٌ بِمَا لَا تَهْوَىٰ أَنفُسُكُمُ اسْتَكْبَرْتُمْ",
+                "explanation": "كُلَّمَا جَاءَكُمْ — 'Jedes Mal wenn ein Gesandter zu euch kam'. Perfekt in Protasis (جَاءَكُمْ) und Apodosis (اسْتَكْبَرْتُمْ). Iterativ: wiederholtes Muster."
+              },
+              {
+                "ref": "5:64",
+                "arabic": "كُلَّمَا أَوْقَدُوا نَارًا لِّلْحَرْبِ أَطْفَأَهَا اللَّهُ",
+                "explanation": "كُلَّمَا أَوْقَدُوا ... أَطْفَأَهَا — 'Jedes Mal wenn sie ein Kriegsfeuer entzuendeten, loeschte Gott es.' Perfekt + Perfekt. Iterative Wiederholung."
+              }
+            ]
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "identification",
+          "prompt": "Lies 2:251 und identifiziere die لَوْلَا-Struktur. Was steht direkt nach لَوْلَا — ein Verb oder ein Nomen? Was folgt daraus fuer die Funktion (kontrafaktisch oder vorwurfsvoll)?",
+          "hint": "Nach لَوْلَا steht das Nomen دَفْعُ — also kontrafaktische Funktion ('gaebe es X nicht...'). Vorwurfsvolles لَوْلَا nimmt ein Verb."
+        },
+        {
+          "type": "analysis",
+          "prompt": "Vergleiche مَا تُنفِقُوا (2:272) mit كُلَّمَا أَوْقَدُوا (5:64). Beide leiten eine generalisierte Bedingung ein. Was ist der syntaktische Unterschied? Welche regiert den Jussiv?",
+          "hint": "مَا regiert den Jussiv (تُنفِقُوا — Wegfall des Nun). كُلَّمَا nimmt das Perfekt (أَوْقَدُوا). مَا ist ein Jazm-Wort, كُلَّمَا nicht."
+        },
+        {
+          "type": "morphology",
+          "prompt": "In 2:148 steht يَأْتِ (ohne Alif am Ende). Die Grundform ist يَأْتِي. Erklaere, warum das ي fehlt. Welcher Modus liegt vor und welche Partikel verursacht ihn?",
+          "hint": "يَأْتِي → يَأْتِ: Wegfall des End-ي ist das Jussiv-Zeichen bei Verben mit schwachem drittem Radikal (ناقص). أَيْنَمَا als Konditionalpartikel regiert den Jussiv."
+        }
+      ],
+      "testContent": {
+        "exercises": [
+          {
+            "question": "Welche Funktion hat لَوْلَا in وَلَوْلَا دَفْعُ اللَّهِ النَّاسَ ... لَّفَسَدَتِ الْأَرْضُ (2:251)?",
+            "options": [
+              "Vorwurfsvolle Frage ('warum nicht?')",
+              "Kontrafaktisch ('gaebe es nicht X, waere Y geschehen')",
+              "Temporale Bedingung ('sobald')",
+              "Reale Bedingung ('falls')"
+            ],
+            "correct": 1,
+            "explanation": "لَوْلَا + Nomen (دَفْعُ) = kontrafaktisch: 'Gaebe es nicht Gottes Zurueckdraengen, waere die Erde verdorben.' Die Apodosis mit لَ + Perfekt bestaetigt die kontrafaktische Funktion."
+          },
+          {
+            "question": "مَنْ يَفْعَلْ ذَٰلِكَ — welche Art von Bedingung liegt vor?",
+            "options": [
+              "Reale Bedingung mit إِنْ",
+              "Irreale Bedingung mit لَوْ",
+              "Generalisierte (universale) Bedingung",
+              "Temporale Bedingung mit إِذَا"
+            ],
+            "correct": 2,
+            "explanation": "مَنْ ('wer auch immer') leitet eine generalisierte Bedingung ein. Es vereint Bedingungspartikel und Pronomen in einem Wort. Das Verb steht im Jussiv."
+          },
+          {
+            "question": "Was unterscheidet كُلَّمَا syntaktisch von مَا als Konditionalpartikel?",
+            "options": [
+              "Kein Unterschied",
+              "كُلَّمَا regiert den Jussiv, مَا nicht",
+              "كُلَّمَا nimmt das Perfekt (kein Jussiv), مَا regiert den Jussiv",
+              "Beide regieren den Subjunktiv"
+            ],
+            "correct": 2,
+            "explanation": "مَا als Konditionalpartikel regiert den Jussiv (wie إِنْ). كُلَّمَا ('jedes Mal wenn') ist iterativ und nimmt das Perfekt — es ist kein Jazm-Partikel."
+          },
+          {
+            "question": "In 4:78 steht أَيْنَمَا تَكُونُوا يُدْرِككُّمُ الْمَوْتُ وَلَوْ كُنتُمْ فِي بُرُوجٍ مُّشَيَّدَةٍ. Was ist die Funktion von وَلَوْ hier?",
+            "options": [
+              "Hauptbedingung (kontrafaktisch)",
+              "Konzessiv: 'selbst wenn / auch wenn'",
+              "Temporale Bedingung",
+              "Reale Bedingung"
+            ],
+            "correct": 1,
+            "explanation": "وَلَوْ nach einem Bedingungssatz hat konzessive Funktion: 'selbst wenn ihr in hohen Tuermen waeret.' Es verstaerkt die Aussage der Hauptbedingung."
+          }
+        ]
+      }
+    }
+  ]
+}

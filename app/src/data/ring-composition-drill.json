@@ -1,0 +1,1101 @@
+{
+  "meta": {
+    "title": "Ringkomposition und Chiasmus im Quran",
+    "description": "Uebung zum Erkennen symmetrischer Textstrukturen: A-B-C-B'-A' Muster und andere rhetorische Anordnungen.",
+    "sources": [
+      {
+        "name": "Quranic Arabic Corpus",
+        "url": "https://corpus.quran.com/"
+      }
+    ]
+  },
+  "explanation": "Ringkomposition (auch Chiasmus oder Inklusion genannt) ist eine Textstruktur bei der Elemente am Anfang und Ende eines Abschnitts einander spiegeln. Die Struktur laesst sich rein linguistisch nachweisen: gleiche Woerter, Wurzeln, syntaktische Strukturen oder semantische Felder an symmetrischen Positionen.",
+  "exercises": [
+    {
+      "id": "ring01",
+      "title": "Sure 1 (al-Fatiha) — Gesamtstruktur",
+      "surah": 1,
+      "structure": [
+        {
+          "label": "A",
+          "verses": "1:1",
+          "content": "بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ",
+          "theme": "Gottes Name + Barmherzigkeit"
+        },
+        {
+          "label": "B",
+          "verses": "1:2-4",
+          "content": "الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ ... مَالِكِ يَوْمِ الدِّينِ",
+          "theme": "Lob Gottes, Seine Attribute"
+        },
+        {
+          "label": "C",
+          "verses": "1:5",
+          "content": "إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ",
+          "theme": "ZENTRUM: Direkte Anrede, Anbetung + Hilfe"
+        },
+        {
+          "label": "B'",
+          "verses": "1:6",
+          "content": "اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ",
+          "theme": "Bitte an Gott (korrespondiert mit Lob in B)"
+        },
+        {
+          "label": "A'",
+          "verses": "1:7",
+          "content": "صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ",
+          "theme": "Gnade + ihr Gegenteil (korrespondiert mit Barmherzigkeit in A)"
+        }
+      ],
+      "analysis": "A und A' teilen das Thema Gnade/Barmherzigkeit. B und B' beziehen sich auf die Relation zwischen dem Sprecher und den Angesprochenen. C ist das Zentrum: die direkte Anrede.",
+      "task": "Identifizieren Sie die Symmetrieachse und benennen Sie die korrespondierenden Elemente."
+    },
+    {
+      "id": "ring02",
+      "title": "Sure 112 (al-Ikhlas) — Chiasmus",
+      "surah": 112,
+      "structure": [
+        {
+          "label": "A",
+          "verses": "112:1",
+          "content": "قُلْ هُوَ اللَّهُ أَحَدٌ",
+          "theme": "Einheit Gottes (positiv)"
+        },
+        {
+          "label": "B",
+          "verses": "112:2",
+          "content": "اللَّهُ الصَّمَدُ",
+          "theme": "Eigenschaft: الصَّمَد (fest, das kompakte Ziel)"
+        },
+        {
+          "label": "B'",
+          "verses": "112:3",
+          "content": "لَمْ يَلِدْ وَلَمْ يُولَدْ",
+          "theme": "Negation: was Gott NICHT ist"
+        },
+        {
+          "label": "A'",
+          "verses": "112:4",
+          "content": "وَلَمْ يَكُنْ لَهُ كُفُوًا أَحَدٌ",
+          "theme": "Einzigkeit (negativ formuliert, mit أَحَد wie in A)"
+        }
+      ],
+      "analysis": "A und A' teilen das Wort أَحَد (einer/irgendeiner). A formuliert positiv (Er IST einer), A' negativ (niemand ist Ihm gleich). B und B' kontrastieren positive Eigenschaft (الصَّمَد) mit Negation (لَمْ يَلِدْ).",
+      "task": "Markieren Sie die lexikalische Bruecke zwischen A und A' und den Kontrast zwischen B und B'."
+    },
+    {
+      "id": "ring03",
+      "title": "Sure 2:255 — Ringstruktur",
+      "surah": 2,
+      "structure": [
+        {
+          "label": "A",
+          "verses": "Beginn",
+          "content": "اللَّهُ لَا إِلَٰهَ إِلَّا هُوَ الْحَيُّ الْقَيُّومُ",
+          "theme": "Gottes Einheit, Leben, Bestand"
+        },
+        {
+          "label": "B",
+          "verses": "Mitte 1",
+          "content": "لَا تَأْخُذُهُ سِنَةٌ وَلَا نَوْمٌ",
+          "theme": "Negation: was Gott nicht betrifft"
+        },
+        {
+          "label": "C",
+          "verses": "Mitte 2",
+          "content": "لَهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ",
+          "theme": "ZENTRUM: Universaler Besitz"
+        },
+        {
+          "label": "B'",
+          "verses": "Mitte 3",
+          "content": "مَنْ ذَا الَّذِي يَشْفَعُ عِنْدَهُ إِلَّا بِإِذْنِهِ",
+          "theme": "Negation: was ohne Seine Erlaubnis nicht geht"
+        },
+        {
+          "label": "A'",
+          "verses": "Ende",
+          "content": "وَهُوَ الْعَلِيُّ الْعَظِيمُ",
+          "theme": "Gottes Erhabenheit (korrespondiert mit A)"
+        }
+      ],
+      "analysis": "A beginnt mit Gottes Attributen, A' schliesst mit Attributen. B und B' formulieren Negationen. C ist das Zentrum: der universale Besitz.",
+      "task": "Ordnen Sie die Negations-Elemente (B, B') und die Attributs-Elemente (A, A') einander zu."
+    },
+    {
+      "id": "ring04",
+      "title": "Sure 5:3 — Chiastischer Kernsatz",
+      "surah": 5,
+      "structure": [
+        {
+          "label": "A",
+          "verses": "5:3a",
+          "content": "الْيَوْمَ أَكْمَلْتُ لَكُمْ دِينَكُمْ",
+          "theme": "Vollendung des Din"
+        },
+        {
+          "label": "B",
+          "verses": "5:3b",
+          "content": "وَأَتْمَمْتُ عَلَيْكُمْ نِعْمَتِي",
+          "theme": "Vollendung der Gnade"
+        },
+        {
+          "label": "A'",
+          "verses": "5:3c",
+          "content": "وَرَضِيتُ لَكُمُ الْإِسْلَامَ دِينًا",
+          "theme": "Din (Rueckbezug auf A, nun benannt)"
+        }
+      ],
+      "analysis": "A und A' rahmen das Thema Din: zuerst 'vollendet', dann 'benannt als Islam'. B steht im Zentrum als Scharnier: die Gnade verbindet Vollendung und Zustimmung. Drei verschiedene Verben beschreiben den Vorgang (akmaltu, atmamtu, raditu).",
+      "task": "Identifizieren Sie das gemeinsame Wort in A und A' und die Funktion von B als Zentrum."
+    },
+    {
+      "id": "ring05",
+      "title": "Sure 24:35 — Lichtvers (Ringstruktur)",
+      "surah": 24,
+      "structure": [
+        {
+          "label": "A",
+          "verses": "24:35a",
+          "content": "اللَّهُ نُورُ السَّمَاوَاتِ وَالْأَرْضِ",
+          "theme": "Gott = Licht (kosmisch)"
+        },
+        {
+          "label": "B",
+          "verses": "24:35b",
+          "content": "مَثَلُ نُورِهِ كَمِشْكَاةٍ فِيهَا مِصْبَاحٌ",
+          "theme": "Gleichnis-Eroeffnung: Nische + Lampe"
+        },
+        {
+          "label": "C",
+          "verses": "24:35c",
+          "content": "الْمِصْبَاحُ فِي زُجَاجَةٍ الزُّجَاجَةُ كَأَنَّهَا كَوْكَبٌ دُرِّيٌّ",
+          "theme": "ZENTRUM: Kristall wie ein Stern"
+        },
+        {
+          "label": "B'",
+          "verses": "24:35d",
+          "content": "يُوقَدُ مِنْ شَجَرَةٍ مُبَارَكَةٍ زَيْتُونَةٍ",
+          "theme": "Quelle: gesegneter Oelbaum"
+        },
+        {
+          "label": "A'",
+          "verses": "24:35e",
+          "content": "نُورٌ عَلَى نُورٍ يَهْدِي اللَّهُ لِنُورِهِ مَنْ يَشَاءُ",
+          "theme": "Licht auf Licht (Rueckkehr zum kosmischen Thema)"
+        }
+      ],
+      "analysis": "A und A' teilen نُور (Licht) als Leitwort. B und B' beschreiben die materielle Quelle (Nische/Lampe vs. Oelbaum). C ist das Zentrum: der leuchtende Kristall als Bildhoehepunkt.",
+      "task": "Zaehlen Sie die Vorkommen der Wurzel ن-و-ر in diesem Vers und markieren Sie die Positionen A und A'."
+    },
+    {
+      "id": "ring06",
+      "title": "Sure 67:1-4 — Eroeffnung von al-Mulk",
+      "surah": 67,
+      "structure": [
+        {
+          "label": "A",
+          "verses": "67:1",
+          "content": "تَبَارَكَ الَّذِي بِيَدِهِ الْمُلْكُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ",
+          "theme": "Macht Gottes (positiv)"
+        },
+        {
+          "label": "B",
+          "verses": "67:2",
+          "content": "الَّذِي خَلَقَ الْمَوْتَ وَالْحَيَاةَ لِيَبْلُوَكُمْ أَيُّكُمْ أَحْسَنُ عَمَلًا",
+          "theme": "Schoepfungszweck: Pruefung"
+        },
+        {
+          "label": "C",
+          "verses": "67:3",
+          "content": "الَّذِي خَلَقَ سَبْعَ سَمَاوَاتٍ طِبَاقًا مَا تَرَى فِي خَلْقِ الرَّحْمَنِ مِنْ تَفَاوُتٍ",
+          "theme": "ZENTRUM: Vollkommenheit der Schoepfung"
+        },
+        {
+          "label": "B'",
+          "verses": "67:3b",
+          "content": "فَارْجِعِ الْبَصَرَ هَلْ تَرَى مِنْ فُطُورٍ",
+          "theme": "Aufforderung zur Pruefung (korrespondiert mit B)"
+        },
+        {
+          "label": "A'",
+          "verses": "67:4",
+          "content": "ثُمَّ ارْجِعِ الْبَصَرَ كَرَّتَيْنِ يَنْقَلِبْ إِلَيْكَ الْبَصَرُ خَاسِئًا وَهُوَ حَسِيرٌ",
+          "theme": "Ohnmacht des Blicks (kontrastiert mit Macht in A)"
+        }
+      ],
+      "analysis": "A (Gottes Macht) und A' (Ohnmacht des Betrachters) bilden den Rahmenkontrast. B (Pruefung durch Schoepfung) und B' (Pruefung durch Betrachtung) korrespondieren. C ist das Zentrum: die makellose Schoepfung. Alle vier Verse beginnen mit الَّذِي (Relativpronomen).",
+      "task": "Identifizieren Sie das anaphorische الَّذِي-Muster und den Kontrast Macht (A) vs. Ohnmacht (A')."
+    },
+    {
+      "id": "ring07",
+      "title": "Sure 55:1-13 — Refrain-Struktur",
+      "surah": 55,
+      "structure": [
+        {
+          "label": "A",
+          "verses": "55:1-4",
+          "content": "الرَّحْمَنُ عَلَّمَ الْقُرْآنَ خَلَقَ الْإِنْسَانَ عَلَّمَهُ الْبَيَانَ",
+          "theme": "Gnade: Lehre und Schoepfung"
+        },
+        {
+          "label": "B",
+          "verses": "55:5-9",
+          "content": "الشَّمْسُ وَالْقَمَرُ بِحُسْبَانٍ ... وَالسَّمَاءَ رَفَعَهَا وَوَضَعَ الْمِيزَانَ",
+          "theme": "Kosmische Ordnung: Sonne, Mond, Waage"
+        },
+        {
+          "label": "C",
+          "verses": "55:10-12",
+          "content": "وَالْأَرْضَ وَضَعَهَا لِلْأَنَامِ فِيهَا فَاكِهَةٌ وَالنَّخْلُ ذَاتُ الْأَكْمَامِ وَالْحَبُّ ذُو الْعَصْفِ وَالرَّيْحَانُ",
+          "theme": "Irdische Gaben: Fruechte und Korn"
+        },
+        {
+          "label": "R",
+          "verses": "55:13",
+          "content": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+          "theme": "REFRAIN: Welche Gaben leugnet ihr?"
+        }
+      ],
+      "analysis": "Der Refrain فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ wird in Sure 55 insgesamt 31 Mal wiederholt. Er markiert jeweils das Ende eines thematischen Blocks. Die Abfolge A→B→C bewegt sich vom Abstrakten (Lehre) ueber das Kosmische (Himmel) zum Konkreten (Erde).",
+      "task": "Zaehlen Sie bei Lektuere der gesamten Sure, wie viele thematische Bloecke durch den Refrain abgegrenzt werden."
+    },
+    {
+      "id": "ring08",
+      "title": "Sure 2:1-5 — Eroeffnung der Baqara",
+      "surah": 2,
+      "structure": [
+        {
+          "label": "A",
+          "verses": "2:1-2",
+          "content": "الم ذَلِكَ الْكِتَابُ لَا رَيْبَ فِيهِ هُدًى لِلْمُتَّقِينَ",
+          "theme": "Das Buch als Fuehrung"
+        },
+        {
+          "label": "B",
+          "verses": "2:3",
+          "content": "الَّذِينَ يُؤْمِنُونَ بِالْغَيْبِ وَيُقِيمُونَ الصَّلَاةَ وَمِمَّا رَزَقْنَاهُمْ يُنْفِقُونَ",
+          "theme": "Handlungen: Glauben, Gebet, Spende"
+        },
+        {
+          "label": "B'",
+          "verses": "2:4",
+          "content": "وَالَّذِينَ يُؤْمِنُونَ بِمَا أُنْزِلَ إِلَيْكَ وَمَا أُنْزِلَ مِنْ قَبْلِكَ وَبِالْآخِرَةِ هُمْ يُوقِنُونَ",
+          "theme": "Glaubensinhalte: Offenbarung und Jenseits"
+        },
+        {
+          "label": "A'",
+          "verses": "2:5",
+          "content": "أُولَئِكَ عَلَى هُدًى مِنْ رَبِّهِمْ وَأُولَئِكَ هُمُ الْمُفْلِحُونَ",
+          "theme": "Fuehrung (هُدًى wie in A) + Erfolg"
+        }
+      ],
+      "analysis": "A und A' teilen das Wort هُدًى (Fuehrung). B und B' beschreiben beide die Glaeubigen mit الَّذِينَ يُؤْمِنُونَ, aber B fokussiert auf Handlungen, B' auf Glaubensinhalte.",
+      "task": "Markieren Sie das Leitwort هُدًى und die parallelen Relativsaetze الَّذِينَ يُؤْمِنُونَ."
+    },
+    {
+      "id": "ring09",
+      "title": "Sure 103 (al-Asr) — Miniatur-Chiasmus",
+      "surah": 103,
+      "structure": [
+        {
+          "label": "A",
+          "verses": "103:1",
+          "content": "وَالْعَصْرِ",
+          "theme": "Schwur: die Zeit"
+        },
+        {
+          "label": "B",
+          "verses": "103:2",
+          "content": "إِنَّ الْإِنْسَانَ لَفِي خُسْرٍ",
+          "theme": "Generelle Aussage: Verlust"
+        },
+        {
+          "label": "B'",
+          "verses": "103:3",
+          "content": "إِلَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ وَتَوَاصَوْا بِالْحَقِّ وَتَوَاصَوْا بِالصَّبْرِ",
+          "theme": "Ausnahme: vier Bedingungen gegen Verlust"
+        }
+      ],
+      "analysis": "B (Verlust) und B' (Ausnahme vom Verlust) bilden ein kontrastierendes Paar. B' hat selbst eine innere Struktur: zwei individuelle Handlungen (Glauben, gute Werke) gefolgt von zwei gemeinschaftlichen (gegenseitiges Ermahnen zu Wahrheit und Geduld). Die wachsende Verslänge spiegelt die Komplexitaet.",
+      "task": "Analysieren Sie die 4 Elemente in B' und deren Steigerung von individuell zu gemeinschaftlich."
+    },
+    {
+      "id": "ring10",
+      "title": "Sure 2:285-286 — Schluss der Baqara",
+      "surah": 2,
+      "structure": [
+        {
+          "label": "A",
+          "verses": "2:285a",
+          "content": "آمَنَ الرَّسُولُ بِمَا أُنْزِلَ إِلَيْهِ مِنْ رَبِّهِ وَالْمُؤْمِنُونَ",
+          "theme": "Glaube des Gesandten und der Glaeubigen"
+        },
+        {
+          "label": "B",
+          "verses": "2:285b",
+          "content": "كُلٌّ آمَنَ بِاللَّهِ وَمَلَائِكَتِهِ وَكُتُبِهِ وَرُسُلِهِ",
+          "theme": "Aufzaehlung der Glaubensinhalte"
+        },
+        {
+          "label": "C",
+          "verses": "2:285c",
+          "content": "سَمِعْنَا وَأَطَعْنَا غُفْرَانَكَ رَبَّنَا وَإِلَيْكَ الْمَصِيرُ",
+          "theme": "ZENTRUM: Gehorsamkeitserklärung + Bitte"
+        },
+        {
+          "label": "B'",
+          "verses": "2:286a",
+          "content": "لَا يُكَلِّفُ اللَّهُ نَفْسًا إِلَّا وُسْعَهَا لَهَا مَا كَسَبَتْ وَعَلَيْهَا مَا اكْتَسَبَتْ",
+          "theme": "Gottes Gerechtigkeit: nur im Rahmen der Faehigkeit"
+        },
+        {
+          "label": "A'",
+          "verses": "2:286b",
+          "content": "رَبَّنَا لَا تُؤَاخِذْنَا ... رَبَّنَا وَلَا تُحَمِّلْنَا ... وَاعْفُ عَنَّا وَاغْفِرْ لَنَا وَارْحَمْنَا أَنْتَ مَوْلَانَا",
+          "theme": "Bitten an Gott (Echo der Bitte in C)"
+        }
+      ],
+      "analysis": "A (Glaubensbekenntnis) und A' (Bitten) rahmen den Abschnitt als Dialog zwischen Glaube und Bitte. B (Aufzaehlung) und B' (Gerechtigkeit) behandeln Gottes Ordnung. C ist der Wendepunkt: 'Wir hoeren und gehorchen'.",
+      "task": "Vergleichen Sie die Anrede رَبَّنَا in C und A' — wie entwickelt sich der Ton von Bekenntnis zu Bitte?"
+    },
+    {
+      "id": "ring11",
+      "title": "Sure 2:142-152 — Qibla-Perikope",
+      "surah": 2,
+      "structure": [
+        {
+          "label": "A",
+          "verses": "2:142",
+          "content": "سَيَقُولُ السُّفَهَاءُ مِنَ النَّاسِ مَا وَلَّاهُمْ عَنْ قِبْلَتِهِمُ الَّتِي كَانُوا عَلَيْهَا",
+          "theme": "Einwand der Toren: Qibla-Wechsel"
+        },
+        {
+          "label": "B",
+          "verses": "2:143",
+          "content": "وَكَذَٰلِكَ جَعَلْنَاكُمْ أُمَّةً وَسَطًا",
+          "theme": "Mittlere Gemeinschaft — Gottes Bestimmung"
+        },
+        {
+          "label": "C",
+          "verses": "2:144",
+          "content": "قَدْ نَرَىٰ تَقَلُّبَ وَجْهِكَ فِي السَّمَاءِ فَلَنُوَلِّيَنَّكَ قِبْلَةً تَرْضَاهَا",
+          "theme": "ZENTRUM: Neue Qibla-Festlegung"
+        },
+        {
+          "label": "B'",
+          "verses": "2:148",
+          "content": "وَلِكُلٍّ وِجْهَةٌ هُوَ مُوَلِّيهَا فَاسْتَبِقُوا الْخَيْرَاتِ",
+          "theme": "Gottes Bestimmung der Richtung — Wettlauf im Guten"
+        },
+        {
+          "label": "A'",
+          "verses": "2:150",
+          "content": "وَمِنْ حَيْثُ خَرَجْتَ فَوَلِّ وَجْهَكَ شَطْرَ الْمَسْجِدِ الْحَرَامِ ... لِئَلَّا يَكُونَ لِلنَّاسِ عَلَيْكُمْ حُجَّةٌ",
+          "theme": "Befehl zur Qibla — gegen Einwaende der Menschen"
+        }
+      ],
+      "analysis": "A und A' rahmen den Abschnitt mit dem Thema 'Einwaende der Menschen' (النَّاسِ). B und B' betonen Gottes Bestimmung der Gemeinschaft und Richtung. C ist das Zentrum: die Festlegung der neuen Qibla. Die Wurzel و-ل-ي erscheint in allen fuenf Positionen.",
+      "task": "Identifizieren Sie die Vorkommen der Wurzel و-ل-ي in jeder Position und deren semantische Verschiebung."
+    },
+    {
+      "id": "ring12",
+      "title": "Sure 5:1-5 — Eroeffnung al-Ma'ida",
+      "surah": 5,
+      "structure": [
+        {
+          "label": "A",
+          "verses": "5:1",
+          "content": "يَا أَيُّهَا الَّذِينَ آمَنُوا أَوْفُوا بِالْعُقُودِ أُحِلَّتْ لَكُمْ بَهِيمَةُ الْأَنْعَامِ",
+          "theme": "Halal: erlaubte Nahrung"
+        },
+        {
+          "label": "B",
+          "verses": "5:2",
+          "content": "وَتَعَاوَنُوا عَلَى الْبِرِّ وَالتَّقْوَىٰ وَلَا تَعَاوَنُوا عَلَى الْإِثْمِ وَالْعُدْوَانِ",
+          "theme": "Kooperation im Guten, nicht im Boesen"
+        },
+        {
+          "label": "C",
+          "verses": "5:3a",
+          "content": "حُرِّمَتْ عَلَيْكُمُ الْمَيْتَةُ وَالدَّمُ وَلَحْمُ الْخِنْزِيرِ",
+          "theme": "ZENTRUM: Detaillierte Haram-Liste"
+        },
+        {
+          "label": "B'",
+          "verses": "5:4",
+          "content": "يَسْأَلُونَكَ مَاذَا أُحِلَّ لَهُمْ قُلْ أُحِلَّ لَكُمُ الطَّيِّبَاتُ",
+          "theme": "Gutes erlaubt — Kriterium der Reinheit"
+        },
+        {
+          "label": "A'",
+          "verses": "5:5",
+          "content": "الْيَوْمَ أُحِلَّ لَكُمُ الطَّيِّبَاتُ وَطَعَامُ الَّذِينَ أُوتُوا الْكِتَابَ حِلٌّ لَكُمْ",
+          "theme": "Halal: erlaubte Nahrung erweitert"
+        }
+      ],
+      "analysis": "A und A' rahmen mit dem Thema Halal (أُحِلَّتْ/أُحِلَّ). B und B' behandeln ethische Normen. C steht als Haram-Katalog im Zentrum. Die Bewegung geht von allgemeiner Erlaubnis (A) ueber Ethik (B) zum Verbot (C) zurueck zur Erlaubnis (A').",
+      "task": "Markieren Sie die Wurzel ح-ل-ل in den Positionen A, B', A' und kontrastieren Sie sie mit der Wurzel ح-ر-م im Zentrum."
+    },
+    {
+      "id": "ring13",
+      "title": "Sure 12:4-101 — Yusuf-Gesamtstruktur (Auswahl)",
+      "surah": 12,
+      "structure": [
+        {
+          "label": "A",
+          "verses": "12:4-6",
+          "content": "إِذْ قَالَ يُوسُفُ لِأَبِيهِ يَا أَبَتِ إِنِّي رَأَيْتُ أَحَدَ عَشَرَ كَوْكَبًا",
+          "theme": "Yusufs Traum — Anfang der Geschichte"
+        },
+        {
+          "label": "B",
+          "verses": "12:7-20",
+          "content": "لَقَدْ كَانَ فِي يُوسُفَ وَإِخْوَتِهِ آيَاتٌ لِلسَّائِلِينَ ... وَجَاءُوا عَلَىٰ قَمِيصِهِ بِدَمٍ كَذِبٍ",
+          "theme": "Brueder trennen Yusuf vom Vater — Hemd mit falschem Blut"
+        },
+        {
+          "label": "C",
+          "verses": "12:21-57",
+          "content": "وَكَذَٰلِكَ مَكَّنَّا لِيُوسُفَ فِي الْأَرْضِ",
+          "theme": "ZENTRUM: Yusuf in Aegypten — Aufstieg"
+        },
+        {
+          "label": "B'",
+          "verses": "12:58-93",
+          "content": "وَلَمَّا دَخَلُوا عَلَىٰ يُوسُفَ ... اذْهَبُوا بِقَمِيصِي هَٰذَا فَأَلْقُوهُ عَلَىٰ وَجْهِ أَبِي يَأْتِ بَصِيرًا",
+          "theme": "Brueder kommen zu Yusuf — Hemd bringt Heilung"
+        },
+        {
+          "label": "A'",
+          "verses": "12:99-101",
+          "content": "وَرَفَعَ أَبَوَيْهِ عَلَى الْعَرْشِ وَخَرُّوا لَهُ سُجَّدًا ... هَٰذَا تَأْوِيلُ رُؤْيَايَ مِنْ قَبْلُ",
+          "theme": "Yusufs Traum erfuellt — Ende der Geschichte"
+        }
+      ],
+      "analysis": "A und A' bilden den Traumrahmen: A erwaehnt den Traum, A' seine Erfuellung. B und B' spiegeln sich durch das Motiv des Hemdes (قَمِيص): in B ein Hemd mit falschem Blut (Trennung), in B' ein Hemd das Heilung bringt (Wiedervereinigung). C ist der Wendepunkt.",
+      "task": "Identifizieren Sie das Hemd-Motiv (قَمِيص) als Spiegelelement in B und B'."
+    },
+    {
+      "id": "ring14",
+      "title": "Sure 18:60-82 — Musa und der Diener",
+      "surah": 18,
+      "structure": [
+        {
+          "label": "A",
+          "verses": "18:71",
+          "content": "فَانْطَلَقَا حَتَّىٰ إِذَا رَكِبَا فِي السَّفِينَةِ خَرَقَهَا",
+          "theme": "Schiff durchbohrt — sichtbarer Schaden"
+        },
+        {
+          "label": "B",
+          "verses": "18:74",
+          "content": "فَانْطَلَقَا حَتَّىٰ إِذَا لَقِيَا غُلَامًا فَقَتَلَهُ",
+          "theme": "Junge getoetet — groesster Schaden"
+        },
+        {
+          "label": "C",
+          "verses": "18:77",
+          "content": "فَانْطَلَقَا حَتَّىٰ إِذَا أَتَيَا أَهْلَ قَرْيَةٍ ... فَوَجَدَا فِيهَا جِدَارًا يُرِيدُ أَنْ يَنْقَضَّ فَأَقَامَهُ",
+          "theme": "Mauer repariert — sichtbarer Nutzen"
+        },
+        {
+          "label": "A'",
+          "verses": "18:79",
+          "content": "أَمَّا السَّفِينَةُ فَكَانَتْ لِمَسَاكِينَ يَعْمَلُونَ فِي الْبَحْرِ",
+          "theme": "Erklaerung Schiff: Schutz vor dem Koenig"
+        },
+        {
+          "label": "B'",
+          "verses": "18:80-81",
+          "content": "وَأَمَّا الْغُلَامُ فَكَانَ أَبَوَاهُ مُؤْمِنَيْنِ فَخَشِينَا أَنْ يُرْهِقَهُمَا",
+          "theme": "Erklaerung Junge: Schutz der Eltern"
+        },
+        {
+          "label": "C'",
+          "verses": "18:82",
+          "content": "وَأَمَّا الْجِدَارُ فَكَانَ لِغُلَامَيْنِ يَتِيمَيْنِ فِي الْمَدِينَةِ",
+          "theme": "Erklaerung Mauer: Schutz des Schatzes fuer Waisen"
+        }
+      ],
+      "analysis": "Die drei Episoden (A-B-C) werden in den Versen 18:79-82 erklaert. Die Erklaerungsreihenfolge ist jedoch nicht chiastisch umgekehrt, sondern beginnt mit der Mauer (C', Vers 82), dann der Junge (B', Vers 80-81), dann das Schiff (A', Vers 79) — tatsaechlich aber nennt der Text in 18:79 zuerst das Schiff, in 18:80-81 den Jungen und in 18:82 die Mauer. Die Erklaerungen folgen also derselben Reihenfolge wie die Handlungen (Schiff → Junge → Mauer), eingeleitet jeweils durch أَمَّا. Es handelt sich um eine lineare Nacherzaehlung mit verzoegerter Erklaerung, nicht um eine chiastische Umkehrung.",
+      "task": "Ordnen Sie jede Handlung ihrer Erklaerung zu und beachten Sie die Reihenfolge der Erklaerungen."
+    },
+    {
+      "id": "ring15",
+      "title": "Sure 19:1-15 / 19:16-33 — Zakariyya und Maryam parallel",
+      "surah": 19,
+      "structure": [
+        {
+          "label": "A",
+          "verses": "19:2-6",
+          "content": "ذِكْرُ رَحْمَتِ رَبِّكَ عَبْدَهُ زَكَرِيَّا ... يَرِثُنِي وَيَرِثُ مِنْ آلِ يَعْقُوبَ",
+          "theme": "Zakariyya: Bitte um ein Kind — Alter und Unfruchtbarkeit"
+        },
+        {
+          "label": "B",
+          "verses": "19:7-10",
+          "content": "يَا زَكَرِيَّا إِنَّا نُبَشِّرُكَ بِغُلَامٍ اسْمُهُ يَحْيَىٰ ... قَالَ آيَتُكَ أَلَّا تُكَلِّمَ النَّاسَ ثَلَاثَ لَيَالٍ سَوِيًّا",
+          "theme": "Verkuendigung: Zeichen (آيَة) — Schweigen"
+        },
+        {
+          "label": "C",
+          "verses": "19:12-15",
+          "content": "يَا يَحْيَىٰ خُذِ الْكِتَابَ بِقُوَّةٍ ... وَسَلَامٌ عَلَيْهِ يَوْمَ وُلِدَ وَيَوْمَ يَمُوتُ",
+          "theme": "Yahya: Geburt, Leben, Tod — Salam"
+        },
+        {
+          "label": "A'",
+          "verses": "19:16-21",
+          "content": "وَاذْكُرْ فِي الْكِتَابِ مَرْيَمَ ... إِنَّمَا أَنَا رَسُولُ رَبِّكِ لِأَهَبَ لَكِ غُلَامًا زَكِيًّا",
+          "theme": "Maryam: Verkuendigung eines Kindes — Jungfraeulichkeit"
+        },
+        {
+          "label": "B'",
+          "verses": "19:22-26",
+          "content": "فَحَمَلَتْهُ فَانْتَبَذَتْ بِهِ مَكَانًا قَصِيًّا ... فَإِمَّا تَرَيِنَّ مِنَ الْبَشَرِ أَحَدًا فَقُولِي إِنِّي نَذَرْتُ لِلرَّحْمَنِ صَوْمًا فَلَنْ أُكَلِّمَ الْيَوْمَ إِنْسِيًّا",
+          "theme": "Zeichen: Schweigen (صَوْم) — Parallele zu Zakariyya"
+        },
+        {
+          "label": "C'",
+          "verses": "19:30-33",
+          "content": "إِنِّي عَبْدُ اللَّهِ آتَانِيَ الْكِتَابَ ... وَالسَّلَامُ عَلَيَّ يَوْمَ وُلِدْتُ وَيَوْمَ أَمُوتُ",
+          "theme": "Isa: Geburt, Leben, Tod — Salam (Parallele zu Yahya)"
+        }
+      ],
+      "analysis": "Zwei parallele Geburtsgeschichten bilden eine Spiegelstruktur. A und A' sind Verkuendigungen (Zakariyya/Maryam). B und B' teilen das Motiv des Schweigens (Nicht-Sprechen). C und C' enden beide mit dem fast identischen Salam-Vers ueber Geburt und Tod.",
+      "task": "Vergleichen Sie die Salam-Formeln in C (19:15) und C' (19:33) — welche Woerter sind identisch?"
+    },
+    {
+      "id": "ring16",
+      "title": "Sure 109 (al-Kafirun) — Spiegelstruktur der Negationen",
+      "surah": 109,
+      "structure": [
+        {
+          "label": "A",
+          "verses": "109:1-2",
+          "content": "قُلْ يَا أَيُّهَا الْكَافِرُونَ لَا أَعْبُدُ مَا تَعْبُدُونَ",
+          "theme": "Ich bete nicht an, was ihr anbetet (Praesens/Zukunft)"
+        },
+        {
+          "label": "B",
+          "verses": "109:3",
+          "content": "وَلَا أَنْتُمْ عَابِدُونَ مَا أَعْبُدُ",
+          "theme": "Und ihr betet nicht an, was ich anbete"
+        },
+        {
+          "label": "A'",
+          "verses": "109:4",
+          "content": "وَلَا أَنَا عَابِدٌ مَا عَبَدْتُمْ",
+          "theme": "Ich bin kein Anbeter dessen, was ihr angebetet habt (Partizip)"
+        },
+        {
+          "label": "B'",
+          "verses": "109:5",
+          "content": "وَلَا أَنْتُمْ عَابِدُونَ مَا أَعْبُدُ",
+          "theme": "Und ihr betet nicht an, was ich anbete"
+        },
+        {
+          "label": "C",
+          "verses": "109:6",
+          "content": "لَكُمْ دِينُكُمْ وَلِيَ دِينِ",
+          "theme": "SCHLUSS: Euch eure Religion, mir meine"
+        }
+      ],
+      "analysis": "A und A' verneinen die Anbetung des Sprechers (mit Verbform bzw. Partizip). B und B' verneinen die Anbetung der Angesprochenen — B' wiederholt B woertlich. C ist das Ergebnis der Symmetrie: vollstaendige Trennung. Der Wechsel zwischen Verbform (أَعْبُدُ) und Partizip (عَابِدٌ) markiert den Unterschied zwischen A und A'.",
+      "task": "Analysieren Sie den grammatischen Unterschied zwischen لَا أَعْبُدُ (A) und لَا أَنَا عَابِدٌ (A')."
+    },
+    {
+      "id": "ring17",
+      "title": "Sure 36:1-12 — Eroeffnung Ya Sin",
+      "surah": 36,
+      "structure": [
+        {
+          "label": "A",
+          "verses": "36:1-4",
+          "content": "يس وَالْقُرْآنِ الْحَكِيمِ إِنَّكَ لَمِنَ الْمُرْسَلِينَ عَلَىٰ صِرَاطٍ مُسْتَقِيمٍ",
+          "theme": "Schwur + Sendung + gerader Weg"
+        },
+        {
+          "label": "B",
+          "verses": "36:5-6",
+          "content": "تَنْزِيلَ الْعَزِيزِ الرَّحِيمِ لِتُنْذِرَ قَوْمًا مَا أُنْذِرَ آبَاؤُهُمْ فَهُمْ غَافِلُونَ",
+          "theme": "Zweck: Warnung eines Volkes"
+        },
+        {
+          "label": "C",
+          "verses": "36:7-8",
+          "content": "لَقَدْ حَقَّ الْقَوْلُ عَلَىٰ أَكْثَرِهِمْ فَهُمْ لَا يُؤْمِنُونَ إِنَّا جَعَلْنَا فِي أَعْنَاقِهِمْ أَغْلَالًا",
+          "theme": "ZENTRUM: Versiegelung — Fesseln und Barrieren"
+        },
+        {
+          "label": "B'",
+          "verses": "36:10-11",
+          "content": "وَسَوَاءٌ عَلَيْهِمْ أَأَنْذَرْتَهُمْ أَمْ لَمْ تُنْذِرْهُمْ لَا يُؤْمِنُونَ إِنَّمَا تُنْذِرُ مَنِ اتَّبَعَ الذِّكْرَ",
+          "theme": "Warnung wirkungslos bei den meisten, nur bei Folgenden"
+        },
+        {
+          "label": "A'",
+          "verses": "36:12",
+          "content": "إِنَّا نَحْنُ نُحْيِي الْمَوْتَىٰ وَنَكْتُبُ مَا قَدَّمُوا وَآثَارَهُمْ وَكُلَّ شَيْءٍ أَحْصَيْنَاهُ فِي إِمَامٍ مُبِينٍ",
+          "theme": "Alles aufgezeichnet in einem klaren Verzeichnis"
+        }
+      ],
+      "analysis": "A und A' rahmen den Abschnitt mit Gottes Aufzeichnung (الْقُرْآن الْحَكِيم / إِمَام مُبِين). B und B' teilen die Wurzel ن-ذ-ر (warnen). C ist das Zentrum: die Versiegelung derer, die nicht glauben.",
+      "task": "Zaehlen Sie die Vorkommen der Wurzel ن-ذ-ر in B und B'."
+    },
+    {
+      "id": "ring18",
+      "title": "Sure 55:1-30 — Gaben-Aufzaehlung mit Refrain",
+      "surah": 55,
+      "structure": [
+        {
+          "label": "A",
+          "verses": "55:1-4",
+          "content": "الرَّحْمَنُ عَلَّمَ الْقُرْآنَ خَلَقَ الْإِنْسَانَ عَلَّمَهُ الْبَيَانَ",
+          "theme": "Lehre: Quran und Sprache"
+        },
+        {
+          "label": "B",
+          "verses": "55:5-9",
+          "content": "الشَّمْسُ وَالْقَمَرُ بِحُسْبَانٍ وَالنَّجْمُ وَالشَّجَرُ يَسْجُدَانِ وَالسَّمَاءَ رَفَعَهَا وَوَضَعَ الْمِيزَانَ",
+          "theme": "Kosmische Ordnung: Sonne, Mond, Waage"
+        },
+        {
+          "label": "C",
+          "verses": "55:14-16",
+          "content": "خَلَقَ الْإِنْسَانَ مِنْ صَلْصَالٍ كَالْفَخَّارِ وَخَلَقَ الْجَانَّ مِنْ مَارِجٍ مِنْ نَارٍ",
+          "theme": "ZENTRUM: Schoepfung der beiden Wesen (Mensch und Dschinn)"
+        },
+        {
+          "label": "B'",
+          "verses": "55:17-23",
+          "content": "رَبُّ الْمَشْرِقَيْنِ وَرَبُّ الْمَغْرِبَيْنِ ... مَرَجَ الْبَحْرَيْنِ يَلْتَقِيَانِ بَيْنَهُمَا بَرْزَخٌ لَا يَبْغِيَانِ",
+          "theme": "Kosmische Ordnung: Dualitaeten (zwei Osten, zwei Meere)"
+        },
+        {
+          "label": "A'",
+          "verses": "55:26-27",
+          "content": "كُلُّ مَنْ عَلَيْهَا فَانٍ وَيَبْقَىٰ وَجْهُ رَبِّكَ ذُو الْجَلَالِ وَالْإِكْرَامِ",
+          "theme": "Permanenz vs. Vergaenglichkeit"
+        }
+      ],
+      "analysis": "A und A' kontrastieren Gottes Gaben (Lehre) mit Gottes Bleiben (Vergaenglichkeit alles anderen). B und B' beschreiben kosmische Dualitaeten (Sonne/Mond vs. Osten/Westen, Himmel/Erde vs. zwei Meere). C ist das Zentrum: die Schoepfung der beiden Adressaten (رَبِّكُمَا). Durchgehend Dual-Motive, passend zum Dual in تُكَذِّبَانِ.",
+      "task": "Identifizieren Sie die Dual-Formen in der gesamten Passage und verbinden Sie sie mit den beiden Adressaten (Mensch und Dschinn)."
+    },
+    {
+      "id": "ring19",
+      "title": "Sure 67:1-5 — Konzentrische Struktur",
+      "surah": 67,
+      "structure": [
+        {
+          "label": "A",
+          "verses": "67:1a",
+          "content": "تَبَارَكَ الَّذِي بِيَدِهِ الْمُلْكُ",
+          "theme": "Gottes Macht: Herrschaft"
+        },
+        {
+          "label": "B",
+          "verses": "67:1b",
+          "content": "وَهُوَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ",
+          "theme": "Allumfassende Faehigkeit"
+        },
+        {
+          "label": "C",
+          "verses": "67:2",
+          "content": "الَّذِي خَلَقَ الْمَوْتَ وَالْحَيَاةَ لِيَبْلُوَكُمْ أَيُّكُمْ أَحْسَنُ عَمَلًا",
+          "theme": "ZENTRUM: Schoepfung als Pruefung"
+        },
+        {
+          "label": "B'",
+          "verses": "67:3",
+          "content": "الَّذِي خَلَقَ سَبْعَ سَمَاوَاتٍ طِبَاقًا مَا تَرَىٰ فِي خَلْقِ الرَّحْمَنِ مِنْ تَفَاوُتٍ",
+          "theme": "Makellose Schoepfung — Faehigkeit demonstriert"
+        },
+        {
+          "label": "A'",
+          "verses": "67:5",
+          "content": "وَلَقَدْ زَيَّنَّا السَّمَاءَ الدُّنْيَا بِمَصَابِيحَ وَجَعَلْنَاهَا رُجُومًا لِلشَّيَاطِينِ",
+          "theme": "Gottes Macht: Himmelsverzierung und Schutz"
+        }
+      ],
+      "analysis": "A und A': Gottes Herrschaft manifestiert sich kosmisch. B und B': Seine Faehigkeit zeigt sich in makelloser Schoepfung. C: Tod und Leben als Pruefungszweck bilden das konzentrische Zentrum. Die drei الَّذِي-Relativsaetze (A, C, B') erzeugen eine anaphorische Kette.",
+      "task": "Markieren Sie die drei الَّذِي-Saetze und analysieren Sie die Steigerung vom Abstrakten (Herrschaft) zum Konkreten (Sterne)."
+    },
+    {
+      "id": "ring20",
+      "title": "Sure 24:30-31 — Blicksenkung: Maenner und Frauen",
+      "surah": 24,
+      "structure": [
+        {
+          "label": "A",
+          "verses": "24:30",
+          "content": "قُلْ لِلْمُؤْمِنِينَ يَغُضُّوا مِنْ أَبْصَارِهِمْ وَيَحْفَظُوا فُرُوجَهُمْ",
+          "theme": "Anweisung an die glaeubigen Maenner: Blick senken"
+        },
+        {
+          "label": "A'",
+          "verses": "24:31",
+          "content": "وَقُلْ لِلْمُؤْمِنَاتِ يَغْضُضْنَ مِنْ أَبْصَارِهِنَّ وَيَحْفَظْنَ فُرُوجَهُنَّ",
+          "theme": "Anweisung an die glaeubigen Frauen: Blick senken"
+        }
+      ],
+      "analysis": "Eine einfache A-A' Inklusion: beide Verse beginnen mit قُلْ لِ + Partizip-Plural und verwenden identische Verben (يَغُضُّ / يَحْفَظُ). Der Wechsel betrifft nur Genus (مُؤْمِنِينَ → مُؤْمِنَاتِ) und Pronomen (هِمْ → هِنَّ). Die syntaktische Parallelitaet ist nahezu vollkommen.",
+      "task": "Listen Sie die identischen Elemente in beiden Versen auf und markieren Sie nur die Genus-Unterschiede."
+    },
+    {
+      "id": "ring21",
+      "title": "Sure 2:40-46 — Anrede an die Kinder Israels (Inklusion)",
+      "surah": 2,
+      "structure": [
+        {
+          "label": "A",
+          "verses": "2:40",
+          "content": "يَا بَنِي إِسْرَائِيلَ اذْكُرُوا نِعْمَتِيَ الَّتِي أَنْعَمْتُ عَلَيْكُمْ وَأَوْفُوا بِعَهْدِي أُوفِ بِعَهْدِكُمْ",
+          "theme": "Gedenkt Meiner Gnade + Bund einhalten"
+        },
+        {
+          "label": "B",
+          "verses": "2:41-43",
+          "content": "وَآمِنُوا بِمَا أَنْزَلْتُ ... وَأَقِيمُوا الصَّلَاةَ وَآتُوا الزَّكَاةَ",
+          "theme": "Imperativ-Kette: Glauben, Beten, Zakat"
+        },
+        {
+          "label": "A'",
+          "verses": "2:47",
+          "content": "يَا بَنِي إِسْرَائِيلَ اذْكُرُوا نِعْمَتِيَ الَّتِي أَنْعَمْتُ عَلَيْكُمْ وَأَنِّي فَضَّلْتُكُمْ عَلَى الْعَالَمِينَ",
+          "theme": "Gedenkt Meiner Gnade + Bevorzugung"
+        }
+      ],
+      "analysis": "A und A' sind fast identische Eroeffnungen (يَا بَنِي إِسْرَائِيلَ اذْكُرُوا نِعْمَتِيَ الَّتِي أَنْعَمْتُ عَلَيْكُمْ). Sie rahmen die Imperativ-Kette in B. Diese Inklusion wird in Sure 2 mehrfach wiederholt (auch 2:122).",
+      "task": "Vergleichen Sie den Wortlaut von A und A' und identifizieren Sie die minimalen Unterschiede."
+    },
+    {
+      "id": "ring22",
+      "title": "Sure 2:30-39 — Adam-Perikope (Inklusion)",
+      "surah": 2,
+      "structure": [
+        {
+          "label": "A",
+          "verses": "2:30",
+          "content": "وَإِذْ قَالَ رَبُّكَ لِلْمَلَائِكَةِ إِنِّي جَاعِلٌ فِي الْأَرْضِ خَلِيفَةً",
+          "theme": "Ankuendigung des Stellvertreters — Erde"
+        },
+        {
+          "label": "B",
+          "verses": "2:31-33",
+          "content": "وَعَلَّمَ آدَمَ الْأَسْمَاءَ كُلَّهَا ... أَنْبِئْهُمْ بِأَسْمَائِهِمْ",
+          "theme": "Adams Wissen uebertrifft die Engel"
+        },
+        {
+          "label": "C",
+          "verses": "2:34",
+          "content": "وَإِذْ قُلْنَا لِلْمَلَائِكَةِ اسْجُدُوا لِآدَمَ فَسَجَدُوا إِلَّا إِبْلِيسَ أَبَىٰ وَاسْتَكْبَرَ",
+          "theme": "ZENTRUM: Niederwerfung — Iblis weigert sich"
+        },
+        {
+          "label": "B'",
+          "verses": "2:35-36",
+          "content": "وَقُلْنَا يَا آدَمُ اسْكُنْ أَنْتَ وَزَوْجُكَ الْجَنَّةَ ... فَأَزَلَّهُمَا الشَّيْطَانُ عَنْهَا",
+          "theme": "Adams Fall — Wissen genuegt nicht gegen Verfuehrung"
+        },
+        {
+          "label": "A'",
+          "verses": "2:38-39",
+          "content": "قُلْنَا اهْبِطُوا مِنْهَا جَمِيعًا فَإِمَّا يَأْتِيَنَّكُمْ مِنِّي هُدًى",
+          "theme": "Herabsendung zur Erde — Fuehrung"
+        }
+      ],
+      "analysis": "A und A' rahmen mit dem Erde-Motiv: in A wird der Stellvertreter angekuendigt, in A' wird er zur Erde herabgesandt. B und B' kontrastieren Adams Wissen mit seinem Fall. C (Iblis' Weigerung) ist der Wendepunkt, der alles Folgende ausloest.",
+      "task": "Identifizieren Sie das Leitwort الْأَرْض in A und den Herabstieg (اهْبِطُوا) in A' als semantische Bruecke."
+    },
+    {
+      "id": "ring23",
+      "title": "Sure 2:258-260 — Drei Beweise der Auferstehung",
+      "surah": 2,
+      "structure": [
+        {
+          "label": "A",
+          "verses": "2:258",
+          "content": "أَلَمْ تَرَ إِلَى الَّذِي حَاجَّ إِبْرَاهِيمَ فِي رَبِّهِ ... أَنَا أُحْيِي وَأُمِيتُ قَالَ فَإِنَّ اللَّهَ يَأْتِي بِالشَّمْسِ مِنَ الْمَشْرِقِ",
+          "theme": "Verbaler Beweis: Argumentation (Ibrahim vs. Tyrann)"
+        },
+        {
+          "label": "B",
+          "verses": "2:259",
+          "content": "أَوْ كَالَّذِي مَرَّ عَلَىٰ قَرْيَةٍ وَهِيَ خَاوِيَةٌ عَلَىٰ عُرُوشِهَا ... فَأَمَاتَهُ اللَّهُ مِائَةَ عَامٍ ثُمَّ بَعَثَهُ",
+          "theme": "ZENTRUM: Visueller Beweis: Eigene Erfahrung (Tod und Auferstehung)"
+        },
+        {
+          "label": "A'",
+          "verses": "2:260",
+          "content": "وَإِذْ قَالَ إِبْرَاهِيمُ رَبِّ أَرِنِي كَيْفَ تُحْيِي الْمَوْتَىٰ ... فَخُذْ أَرْبَعَةً مِنَ الطَّيْرِ فَصُرْهُنَّ إِلَيْكَ",
+          "theme": "Empirischer Beweis: Ibrahim und die Voegel"
+        }
+      ],
+      "analysis": "A und A' haben Ibrahim als Protagonisten und behandeln die Frage von Leben und Tod (أُحْيِي وَأُمِيتُ / تُحْيِي الْمَوْتَىٰ). B ist das Zentrum: ein namenloser Mann erlebt Tod und Auferstehung am eigenen Leib. Die Beweisfuehrung steigert sich: verbal (A) → erfahren (B) → empirisch (A').",
+      "task": "Markieren Sie die Wurzel ح-ي-ي in allen drei Positionen."
+    },
+    {
+      "id": "ring24",
+      "title": "Sure 2:124-129 — Ibrahim und die Ka'ba (Konzentrisch)",
+      "surah": 2,
+      "structure": [
+        {
+          "label": "A",
+          "verses": "2:124",
+          "content": "وَإِذِ ابْتَلَىٰ إِبْرَاهِيمَ رَبُّهُ بِكَلِمَاتٍ فَأَتَمَّهُنَّ قَالَ إِنِّي جَاعِلُكَ لِلنَّاسِ إِمَامًا",
+          "theme": "Ibrahim als Imam fuer die Menschen"
+        },
+        {
+          "label": "B",
+          "verses": "2:125",
+          "content": "وَإِذْ جَعَلْنَا الْبَيْتَ مَثَابَةً لِلنَّاسِ وَأَمْنًا",
+          "theme": "Das Haus als Versammlungs- und Sicherheitsort"
+        },
+        {
+          "label": "C",
+          "verses": "2:127",
+          "content": "وَإِذْ يَرْفَعُ إِبْرَاهِيمُ الْقَوَاعِدَ مِنَ الْبَيْتِ وَإِسْمَاعِيلُ رَبَّنَا تَقَبَّلْ مِنَّا",
+          "theme": "ZENTRUM: Bau der Ka'ba + Gebet um Annahme"
+        },
+        {
+          "label": "B'",
+          "verses": "2:128",
+          "content": "رَبَّنَا وَاجْعَلْنَا مُسْلِمَيْنِ لَكَ وَمِنْ ذُرِّيَّتِنَا أُمَّةً مُسْلِمَةً لَكَ",
+          "theme": "Gebet um gottergebene Nachkommenschaft"
+        },
+        {
+          "label": "A'",
+          "verses": "2:129",
+          "content": "رَبَّنَا وَابْعَثْ فِيهِمْ رَسُولًا مِنْهُمْ يَتْلُو عَلَيْهِمْ آيَاتِكَ وَيُعَلِّمُهُمُ الْكِتَابَ وَالْحِكْمَةَ",
+          "theme": "Bitte um einen Gesandten fuer die Menschen"
+        }
+      ],
+      "analysis": "A und A': Fuehrung fuer die Menschen (إِمَامًا / رَسُولًا). B und B': Haus und Gemeinschaft (مَثَابَةً / أُمَّةً). C: der Bau selbst als Zentrum. Die Bewegung geht von der Person (Ibrahim) ueber den Ort (Haus) zum Akt des Bauens und zurueck.",
+      "task": "Identifizieren Sie die Parallelitaet zwischen إِمَامًا (A) und رَسُولًا (A') als Fuehrungsfiguren."
+    },
+    {
+      "id": "ring25",
+      "title": "Sure 36:33-44 — Zeichen Gottes (Ringstruktur)",
+      "surah": 36,
+      "structure": [
+        {
+          "label": "A",
+          "verses": "36:33-35",
+          "content": "وَآيَةٌ لَهُمُ الْأَرْضُ الْمَيْتَةُ أَحْيَيْنَاهَا وَأَخْرَجْنَا مِنْهَا حَبًّا فَمِنْهُ يَأْكُلُونَ",
+          "theme": "Zeichen: Tote Erde → Fruechte (Erde)"
+        },
+        {
+          "label": "B",
+          "verses": "36:37-40",
+          "content": "وَآيَةٌ لَهُمُ اللَّيْلُ نَسْلَخُ مِنْهُ النَّهَارَ ... وَالشَّمْسُ تَجْرِي لِمُسْتَقَرٍّ لَهَا ... وَالْقَمَرَ قَدَّرْنَاهُ مَنَازِلَ",
+          "theme": "Zeichen: Nacht, Sonne, Mond (Himmel)"
+        },
+        {
+          "label": "C",
+          "verses": "36:41",
+          "content": "وَآيَةٌ لَهُمْ أَنَّا حَمَلْنَا ذُرِّيَّتَهُمْ فِي الْفُلْكِ الْمَشْحُونِ",
+          "theme": "ZENTRUM: Zeichen: Schiff auf dem Meer"
+        },
+        {
+          "label": "B'",
+          "verses": "36:42",
+          "content": "وَخَلَقْنَا لَهُمْ مِنْ مِثْلِهِ مَا يَرْكَبُونَ",
+          "theme": "Aehnliches zum Reiten (Transportmittel)"
+        },
+        {
+          "label": "A'",
+          "verses": "36:43-44",
+          "content": "وَإِنْ نَشَأْ نُغْرِقْهُمْ فَلَا صَرِيخَ لَهُمْ ... إِلَّا رَحْمَةً مِنَّا وَمَتَاعًا إِلَىٰ حِينٍ",
+          "theme": "Gnade als Rettung — zeitlich begrenzt"
+        }
+      ],
+      "analysis": "Drei وَآيَةٌ لَهُمُ-Eroeffnungen (A, B, C) markieren den Aufbau. A: Erde (horizontal). B: Himmel (vertikal). C: Meer (dazwischen). Die Struktur bewegt sich von der Erde zum Himmel zum Meer und zurueck. A' schliesst mit dem Motiv der Vergaenglichkeit.",
+      "task": "Markieren Sie die drei وَآيَةٌ لَهُمُ-Formeln und ordnen Sie ihnen die kosmischen Bereiche zu."
+    },
+    {
+      "id": "ring26",
+      "title": "Sure 18:32-44 — Gleichnis der zwei Gartenbesitzer",
+      "surah": 18,
+      "structure": [
+        {
+          "label": "A",
+          "verses": "18:32-34",
+          "content": "وَاضْرِبْ لَهُمْ مَثَلًا رَجُلَيْنِ جَعَلْنَا لِأَحَدِهِمَا جَنَّتَيْنِ ... وَكَانَ لَهُ ثَمَرٌ",
+          "theme": "Eroeffnung: Zwei Maenner, zwei Gaerten, Reichtum"
+        },
+        {
+          "label": "B",
+          "verses": "18:35-36",
+          "content": "وَدَخَلَ جَنَّتَهُ وَهُوَ ظَالِمٌ لِنَفْسِهِ قَالَ مَا أَظُنُّ أَنْ تَبِيدَ هَٰذِهِ أَبَدًا",
+          "theme": "Hochmut des Reichen: 'Dies wird nie vergehen'"
+        },
+        {
+          "label": "C",
+          "verses": "18:37-38",
+          "content": "قَالَ لَهُ صَاحِبُهُ ... أَكَفَرْتَ بِالَّذِي خَلَقَكَ مِنْ تُرَابٍ ... لَٰكِنَّا هُوَ اللَّهُ رَبِّي",
+          "theme": "ZENTRUM: Antwort des Armen — Bekenntnis"
+        },
+        {
+          "label": "B'",
+          "verses": "18:39-41",
+          "content": "وَلَوْلَا إِذْ دَخَلْتَ جَنَّتَكَ قُلْتَ مَا شَاءَ اللَّهُ ... فَعَسَىٰ رَبِّي أَنْ يُؤْتِيَنِ خَيْرًا مِنْ جَنَّتِكَ",
+          "theme": "Warnung: Gott kann alles nehmen"
+        },
+        {
+          "label": "A'",
+          "verses": "18:42-44",
+          "content": "وَأُحِيطَ بِثَمَرِهِ فَأَصْبَحَ يُقَلِّبُ كَفَّيْهِ عَلَىٰ مَا أَنْفَقَ فِيهَا ... هُنَالِكَ الْوَلَايَةُ لِلَّهِ الْحَقِّ",
+          "theme": "Schluss: Fruechte zerstoert, Reue, Gottes Herrschaft"
+        }
+      ],
+      "analysis": "A und A' rahmen mit dem Motiv ثَمَر (Fruechte): in A Reichtum, in A' Verlust. B und B' kontrastieren Hochmut (er betritt den Garten) mit der Warnung (haette er beim Betreten gesagt...). C ist das Zentrum: das Bekenntnis des armen Gefaehrten.",
+      "task": "Verfolgen Sie das Wort ثَمَر/ثَمَرَة durch die Struktur und seinen Bedeutungswandel von Wohlstand zu Verlust."
+    },
+    {
+      "id": "ring27",
+      "title": "Sure 2:163-167 — Einheit Gottes und Schoepfungszeichen",
+      "surah": 2,
+      "structure": [
+        {
+          "label": "A",
+          "verses": "2:163",
+          "content": "وَإِلَٰهُكُمْ إِلَٰهٌ وَاحِدٌ لَا إِلَٰهَ إِلَّا هُوَ الرَّحْمَٰنُ الرَّحِيمُ",
+          "theme": "Euer Gott ist Ein Gott"
+        },
+        {
+          "label": "B",
+          "verses": "2:164",
+          "content": "إِنَّ فِي خَلْقِ السَّمَاوَاتِ وَالْأَرْضِ وَاخْتِلَافِ اللَّيْلِ وَالنَّهَارِ ... لَآيَاتٍ لِقَوْمٍ يَعْقِلُونَ",
+          "theme": "Schoepfungszeichen fuer Verstaendige"
+        },
+        {
+          "label": "C",
+          "verses": "2:165",
+          "content": "وَمِنَ النَّاسِ مَنْ يَتَّخِذُ مِنْ دُونِ اللَّهِ أَنْدَادًا يُحِبُّونَهُمْ كَحُبِّ اللَّهِ وَالَّذِينَ آمَنُوا أَشَدُّ حُبًّا لِلَّهِ",
+          "theme": "ZENTRUM: Goetzendiener vs. Glaeubige — Liebe"
+        },
+        {
+          "label": "B'",
+          "verses": "2:166",
+          "content": "إِذْ تَبَرَّأَ الَّذِينَ اتُّبِعُوا مِنَ الَّذِينَ اتَّبَعُوا وَرَأَوُا الْعَذَابَ وَتَقَطَّعَتْ بِهِمُ الْأَسْبَابُ",
+          "theme": "Zeichen am Juengsten Tag: Baende zerreissen"
+        },
+        {
+          "label": "A'",
+          "verses": "2:167",
+          "content": "وَقَالَ الَّذِينَ اتَّبَعُوا لَوْ أَنَّ لَنَا كَرَّةً فَنَتَبَرَّأَ مِنْهُمْ كَمَا تَبَرَّءُوا مِنَّا",
+          "theme": "Wunsch nach Rueckkehr — Reue ueber die falschen Goetter"
+        }
+      ],
+      "analysis": "A und A': Einheit Gottes (A) kontrastiert mit der Reue ueber falschen Polytheismus (A'). B und B': Schoepfungszeichen (B) kontrastieren mit Zeichen am Juengsten Tag (B'). C ist das Zentrum: die fundamentale Wahl zwischen Gott und Goetzen.",
+      "task": "Kontrastieren Sie die آيَات (Zeichen) in B (Schoepfung) mit den Zeichen in B' (Jenseits)."
+    },
+    {
+      "id": "ring28",
+      "title": "Sure 55:46-78 — Zwei Gartenpaare (Konzentrisch)",
+      "surah": 55,
+      "structure": [
+        {
+          "label": "A",
+          "verses": "55:46-53",
+          "content": "وَلِمَنْ خَافَ مَقَامَ رَبِّهِ جَنَّتَانِ ... ذَوَاتَا أَفْنَانٍ ... فِيهِمَا عَيْنَانِ تَجْرِيَانِ ... فِيهِمَا مِنْ كُلِّ فَاكِهَةٍ زَوْجَانِ",
+          "theme": "Erstes Gartenpaar: Zweige, fliessende Quellen, Fruchtpaare"
+        },
+        {
+          "label": "B",
+          "verses": "55:54-58",
+          "content": "مُتَّكِئِينَ عَلَىٰ فُرُشٍ بَطَائِنُهَا مِنْ إِسْتَبْرَقٍ ... لَمْ يَطْمِثْهُنَّ إِنْسٌ قَبْلَهُمْ وَلَا جَانٌّ",
+          "theme": "Beschreibung: Polster aus Brokat, Gefaehrtinnen"
+        },
+        {
+          "label": "C",
+          "verses": "55:60",
+          "content": "هَلْ جَزَاءُ الْإِحْسَانِ إِلَّا الْإِحْسَانُ",
+          "theme": "ZENTRUM: Ist der Lohn fuer Gutes anderes als Gutes?"
+        },
+        {
+          "label": "B'",
+          "verses": "55:70-74",
+          "content": "فِيهِنَّ خَيْرَاتٌ حِسَانٌ ... حُورٌ مَقْصُورَاتٌ فِي الْخِيَامِ ... لَمْ يَطْمِثْهُنَّ إِنْسٌ قَبْلَهُمْ وَلَا جَانٌّ",
+          "theme": "Beschreibung: Schoene Gefaehrtinnen — wiederholt B"
+        },
+        {
+          "label": "A'",
+          "verses": "55:62-68",
+          "content": "وَمِنْ دُونِهِمَا جَنَّتَانِ ... مُدْهَامَّتَانِ ... فِيهِمَا عَيْنَانِ نَضَّاخَتَانِ ... فِيهِمَا فَاكِهَةٌ وَنَخْلٌ وَرُمَّانٌ",
+          "theme": "Zweites Gartenpaar: dunkelgruen, sprudelnde Quellen, Fruechte"
+        }
+      ],
+      "analysis": "Zwei Gartenpaare (A, A') spiegeln sich mit leichten Variationen: تَجْرِيَانِ (fliessend) vs. نَضَّاخَتَانِ (sprudelnd). B und B' teilen die identische Formel لَمْ يَطْمِثْهُنَّ إِنْسٌ قَبْلَهُمْ وَلَا جَانٌّ. C ist das Kernprinzip: Lohn fuer Gutes ist Gutes.",
+      "task": "Vergleichen Sie die Beschreibungen der Quellen (عَيْنَانِ) in A und A' — welche Adjektive variieren?"
+    },
+    {
+      "id": "ring29",
+      "title": "Sure 2:275-280 — Riba-Verbot (Konzentrische Struktur)",
+      "surah": 2,
+      "structure": [
+        {
+          "label": "A",
+          "verses": "2:275",
+          "content": "الَّذِينَ يَأْكُلُونَ الرِّبَا لَا يَقُومُونَ إِلَّا كَمَا يَقُومُ الَّذِي يَتَخَبَّطُهُ الشَّيْطَانُ مِنَ الْمَسِّ",
+          "theme": "Zustand der Wucherer: wie vom Satan Geschlagene"
+        },
+        {
+          "label": "B",
+          "verses": "2:276",
+          "content": "يَمْحَقُ اللَّهُ الرِّبَا وَيُرْبِي الصَّدَقَاتِ",
+          "theme": "Gott vernichtet Wucher, vermehrt Spenden"
+        },
+        {
+          "label": "C",
+          "verses": "2:278",
+          "content": "يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ وَذَرُوا مَا بَقِيَ مِنَ الرِّبَا",
+          "theme": "ZENTRUM: Direkter Befehl — Lasst den Wucher!"
+        },
+        {
+          "label": "B'",
+          "verses": "2:279",
+          "content": "فَإِنْ لَمْ تَفْعَلُوا فَأْذَنُوا بِحَرْبٍ مِنَ اللَّهِ وَرَسُولِهِ وَإِنْ تُبْتُمْ فَلَكُمْ رُءُوسُ أَمْوَالِكُمْ",
+          "theme": "Konsequenzen: Krieg von Gott oder nur das Kapital"
+        },
+        {
+          "label": "A'",
+          "verses": "2:280",
+          "content": "وَإِنْ كَانَ ذُو عُسْرَةٍ فَنَظِرَةٌ إِلَىٰ مَيْسَرَةٍ وَأَنْ تَصَدَّقُوا خَيْرٌ لَكُمْ",
+          "theme": "Umgang mit Schuldnern: Aufschub und Spende"
+        }
+      ],
+      "analysis": "A und A' kontrastieren die Wucherer (A) mit den in Not Geratenen (A'). B und B' behandeln Konsequenzen: Gott vernichtet Wucher (B) / Krieg oder Gerechtigkeit (B'). C ist der direkte Imperativ. Die Wurzel ر-ب-و (Wucher/Wachstum) erscheint in A, B und C.",
+      "task": "Verfolgen Sie die Wurzel ر-ب-و durch alle Positionen und kontrastieren Sie sie mit صدقات (Spenden)."
+    },
+    {
+      "id": "ring30",
+      "title": "Sure 2:17-20 — Zwei Gleichnisse (Feuer und Regen)",
+      "surah": 2,
+      "structure": [
+        {
+          "label": "A",
+          "verses": "2:17",
+          "content": "مَثَلُهُمْ كَمَثَلِ الَّذِي اسْتَوْقَدَ نَارًا فَلَمَّا أَضَاءَتْ مَا حَوْلَهُ ذَهَبَ اللَّهُ بِنُورِهِمْ",
+          "theme": "Erstes Gleichnis: Feuer das erlischt → Finsternis"
+        },
+        {
+          "label": "B",
+          "verses": "2:18",
+          "content": "صُمٌّ بُكْمٌ عُمْيٌ فَهُمْ لَا يَرْجِعُونَ",
+          "theme": "Zusammenfassung: Taub, stumm, blind"
+        },
+        {
+          "label": "A'",
+          "verses": "2:19-20",
+          "content": "أَوْ كَصَيِّبٍ مِنَ السَّمَاءِ فِيهِ ظُلُمَاتٌ وَرَعْدٌ وَبَرْقٌ ... يَكَادُ الْبَرْقُ يَخْطَفُ أَبْصَارَهُمْ",
+          "theme": "Zweites Gleichnis: Gewittersturm → Finsternis und Blitz"
+        }
+      ],
+      "analysis": "A und A' sind parallele Gleichnisse mit dem Motiv Licht/Finsternis: Feuer-Licht (A) / Blitz-Licht (A'). Beide enden in Dunkelheit. B steht als kurze Zusammenfassung (صُمٌّ بُكْمٌ عُمْيٌ) zwischen beiden Gleichnissen. Das Wort ظُلُمَات (Finsternisse) verbindet A und A'.",
+      "task": "Vergleichen Sie die Lichtquelle in A (نَار/نُور) mit der in A' (بَرْق) und das gemeinsame Ende in ظُلُمَات."
+    }
+  ]
+}

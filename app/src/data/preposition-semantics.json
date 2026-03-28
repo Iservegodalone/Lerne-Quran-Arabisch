@@ -1,0 +1,843 @@
+{
+  "meta": {
+    "title": "Systematische Praepositions-Semantik (حروف الجر)",
+    "description": "Jede Praeposition im quranischen Arabisch hat kontextabhaengig verschiedene Funktionen. Diese Datei behandelt alle Funktionen der wichtigsten Praepositionen systematisch mit Quranbelegen — analog zur Ma-Lektion.",
+    "approach": "Rein sprachwissenschaftlich. Der Text sagt was er sagt. Keine interpretativen Schlussfolgerungen ueber die Grammatik hinaus.",
+    "totalPrepositions": 8
+  },
+  "lessons": [
+    {
+      "id": "PS1",
+      "title": "مِن — Alle Funktionen",
+      "description": "Die Praeposition mit den meisten verschiedenen Funktionen im quranischen Arabisch: Ablativ, Partitiv, Explikativ, Komparativ, Kausal, Expletiv und mehr.",
+      "learnContent": {
+        "sections": [
+          {
+            "type": "explanation",
+            "title": "Ueberblick: مِن hat mindestens 9 Funktionen",
+            "content": "مِن ist die haeufigste und vielseitigste Praeposition im Quran. Die richtige Funktion ergibt sich aus dem syntaktischen Kontext — insbesondere aus dem regierenden Verb und dem Bezugswort. Die Grundbedeutung ist die raeumliche Entfernung von einem Ausgangspunkt, aber davon haben sich zahlreiche uebertragene Funktionen entwickelt.\n\nDie 9 Hauptfunktionen:\n1. ابتدائية — Ausgangspunkt (von, aus)\n2. تبعيضية — Partitiv (einige von, etwas von)\n3. بيانية — Explikativ (naemlich, d.h.)\n4. زائدة — Expletiv (verstaerkend nach Negation)\n5. تعليلية — Kausal (wegen, aufgrund von)\n6. بدلية — Substitutiv (anstelle von)\n7. ظرفية — Lokal/Temporal (in, an)\n8. تفضيلية — Komparativ (als — nach Elativ)\n9. مجاوزة — Separation (weg von, = عَنْ)"
+          },
+          {
+            "type": "quranExamples",
+            "title": "1. ابتدائية — Ausgangspunkt",
+            "examples": [
+              {
+                "ref": "17:1",
+                "arabic": "سُبْحَانَ الَّذِي أَسْرَىٰ بِعَبْدِهِ لَيْلًا مِّنَ الْمَسْجِدِ الْحَرَامِ إِلَى الْمَسْجِدِ الْأَقْصَى",
+                "explanation": "مِنَ الْمَسْجِدِ — raeumlicher Ausgangspunkt: 'vom Masjid al-Haram'. Typische Konstruktion: مِن ... إِلَى (von ... nach)."
+              },
+              {
+                "ref": "2:144",
+                "arabic": "فَوَلِّ وَجْهَكَ شَطْرَ الْمَسْجِدِ الْحَرَامِ",
+                "explanation": "(Kontrast zu obigem Vers — hier ohne مِن: die Richtung zum Ziel, nicht der Ausgangspunkt.)"
+              }
+            ]
+          },
+          {
+            "type": "quranExamples",
+            "title": "2. تبعيضية — Partitiv (einige von)",
+            "examples": [
+              {
+                "ref": "2:253",
+                "arabic": "تِلْكَ الرُّسُلُ فَضَّلْنَا بَعْضَهُمْ عَلَىٰ بَعْضٍ ۘ مِّنْهُم مَّن كَلَّمَ اللَّهُ",
+                "explanation": "مِنْهُم — partitiv: 'unter ihnen ist einer, den Gott angesprochen hat'. Die مِن grenzt eine Teilmenge ab."
+              },
+              {
+                "ref": "3:110",
+                "arabic": "وَلَوْ آمَنَ أَهْلُ الْكِتَابِ لَكَانَ خَيْرًا لَّهُم ۚ مِّنْهُمُ الْمُؤْمِنُونَ وَأَكْثَرُهُمُ الْفَاسِقُونَ",
+                "explanation": "مِنْهُمُ — partitiv: 'unter ihnen gibt es Glaubende'. Setzt eine Teilmenge innerhalb einer Gesamtmenge."
+              },
+              {
+                "ref": "2:60",
+                "arabic": "كُلُوا وَاشْرَبُوا مِن رِّزْقِ اللَّهِ",
+                "explanation": "مِن رِزْقِ — partitiv: 'von der Versorgung Gottes (einen Teil davon)'. Man konsumiert einen Teil, nicht das Ganze."
+              }
+            ]
+          },
+          {
+            "type": "quranExamples",
+            "title": "3. بيانية — Explikativ (naemlich)",
+            "examples": [
+              {
+                "ref": "22:30",
+                "arabic": "فَاجْتَنِبُوا الرِّجْسَ مِنَ الْأَوْثَانِ",
+                "explanation": "مِنَ الْأَوْثَانِ — explikativ: 'den Schmutz, naemlich die Goetzenbilder'. Die مِن erklaert, was mit الرِّجْس gemeint ist."
+              },
+              {
+                "ref": "3:75",
+                "arabic": "وَمِنْهُم مَّنْ إِن تَأْمَنْهُ بِقِنطَارٍ يُؤَدِّهِ إِلَيْكَ وَمِنْهُم مَّنْ إِن تَأْمَنْهُ بِدِينَارٍ لَّا يُؤَدِّهِ إِلَيْكَ",
+                "explanation": "مِنْهُم مَّنْ — hier ueberlappen sich partitive und explikative Funktion: 'unter ihnen gibt es solche, die ...'."
+              }
+            ]
+          },
+          {
+            "type": "quranExamples",
+            "title": "4. زائدة — Expletiv (verstaerkend)",
+            "examples": [
+              {
+                "ref": "5:19",
+                "arabic": "مَا جَاءَنَا مِن بَشِيرٍ وَلَا نَذِيرٍ",
+                "explanation": "مِن بَشِيرٍ — expletive مِن nach Negation: 'es kam KEIN Freudenbote zu uns'. Ohne مِن waere es مَا جَاءَنَا بَشِيرٌ — die مِن verstaerkt die Negation und setzt das Objekt in den Genitiv statt Nominativ."
+              },
+              {
+                "ref": "35:44",
+                "arabic": "فَمَا لَهُم مِّن نَّاصِرِينَ",
+                "explanation": "مِن نَّاصِرِينَ — expletiv nach مَا: 'sie haben KEINERLEI Helfer'. Die مِن betont die absolute Abwesenheit."
+              },
+              {
+                "ref": "4:40",
+                "arabic": "إِنَّ اللَّهَ لَا يَظْلِمُ مِثْقَالَ ذَرَّةٍ",
+                "explanation": "(Kontrast — hier OHNE مِن: لَا يَظْلِمُ direkt + Akkusativ. Keine Verstaerkung durch مِن.)"
+              }
+            ]
+          },
+          {
+            "type": "quranExamples",
+            "title": "5. تعليلية — Kausal (wegen)",
+            "examples": [
+              {
+                "ref": "71:25",
+                "arabic": "مِّمَّا خَطِيئَاتِهِمْ أُغْرِقُوا",
+                "explanation": "مِمَّا خَطِيئَاتِهِمْ — kausal: 'WEGEN ihrer Verfehlungen wurden sie ertrankt'. مِن + مَا (مِمَّا) leitet den Grund ein."
+              },
+              {
+                "ref": "5:13",
+                "arabic": "فَبِمَا نَقْضِهِم مِّيثَاقَهُمْ لَعَنَّاهُمْ",
+                "explanation": "بِمَا نَقْضِهِم — hier ist بِ kausal (WEGEN ihres Brechens). Vergleiche: مِن kann dieselbe kausale Funktion haben."
+              }
+            ]
+          },
+          {
+            "type": "quranExamples",
+            "title": "6. بدلية — Substitutiv (anstelle von)",
+            "examples": [
+              {
+                "ref": "43:60",
+                "arabic": "وَلَوْ نَشَاءُ لَجَعَلْنَا مِنكُم مَّلَائِكَةً فِي الْأَرْضِ يَخْلُفُونَ",
+                "explanation": "مِنكُم مَّلَائِكَةً — substitutiv: 'an eurer Stelle Engel'. Nicht partitiv (Engel sind keine Teilmenge der Menschen)."
+              }
+            ]
+          },
+          {
+            "type": "quranExamples",
+            "title": "7. ظرفية — Lokal/Temporal (in, an)",
+            "examples": [
+              {
+                "ref": "62:9",
+                "arabic": "إِذَا نُودِيَ لِلصَّلَاةِ مِن يَوْمِ الْجُمُعَةِ",
+                "explanation": "مِن يَوْمِ — temporal: 'am Freitag' (nicht: 'vom Freitag weg'). مِن hat hier eine aehnliche Funktion wie فِي."
+              }
+            ]
+          },
+          {
+            "type": "quranExamples",
+            "title": "8. تفضيلية — Komparativ (als)",
+            "examples": [
+              {
+                "ref": "2:217",
+                "arabic": "وَالْفِتْنَةُ أَكْبَرُ مِنَ الْقَتْلِ",
+                "explanation": "أَكْبَرُ مِنَ — komparativ: 'groesser ALS das Toeten'. Nach dem Elativ (أَفْعَل) steht مِن als Vergleichspartikel."
+              },
+              {
+                "ref": "9:19",
+                "arabic": "أَعْظَمُ عِندَ اللَّهِ مِنَ الَّذِينَ آمَنُوا",
+                "explanation": "أَعْظَمُ ... مِنَ — komparativ: 'gewaltiger bei Gott ALS diejenigen, die glaubten'."
+              }
+            ]
+          },
+          {
+            "type": "quranExamples",
+            "title": "9. مجاوزة — Separation (weg von, = عَنْ)",
+            "examples": [
+              {
+                "ref": "106:4",
+                "arabic": "الَّذِي أَطْعَمَهُم مِّن جُوعٍ وَآمَنَهُم مِّنْ خَوْفٍ",
+                "explanation": "مِّنْ خَوْفٍ — separativ: 'sie gesichert hat VON Furcht (weg)'. مِن funktioniert hier wie عَنْ — Entfernung von einem Zustand."
+              }
+            ]
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "identification",
+          "prompt": "Lies 2:164: أَنزَلَ مِنَ السَّمَاءِ مِن مَّاءٍ. Welche Funktion hat jede der beiden مِن?",
+          "hint": "Die erste مِن (مِنَ السَّمَاءِ) ist ablativ: Ausgangspunkt. Die zweite (مِن مَّاءٍ) ist explikativ oder partitiv."
+        },
+        {
+          "type": "analysis",
+          "prompt": "In 5:19 steht مَا جَاءَنَا مِن بَشِيرٍ. Wie wuerde der Satz OHNE die expletive مِن lauten? Welcher Kasus aendert sich?",
+          "hint": "Ohne مِن: مَا جَاءَنَا بَشِيرٌ — das Subjekt steht im Nominativ statt Genitiv. Die مِن ist syntaktisch nicht notwendig, verstaerkt aber die Negation."
+        },
+        {
+          "type": "comparison",
+          "prompt": "Vergleiche die مِن in 2:217 (أَكْبَرُ مِنَ الْقَتْلِ) mit 2:60 (كُلُوا وَاشْرَبُوا مِن رِّزْقِ اللَّهِ). Welche Funktionen liegen vor?",
+          "hint": "2:217: komparativ (als, nach Elativ). 2:60: partitiv (einen Teil von)."
+        }
+      ],
+      "testContent": {
+        "exercises": [
+          {
+            "question": "Welche Funktion hat مِن in: مِّمَّا خَطِيئَاتِهِمْ أُغْرِقُوا (71:25)?",
+            "options": ["Ablativ (Ausgangspunkt)", "Partitiv (einige von)", "Kausal (wegen)", "Komparativ (als)"],
+            "correct": 2,
+            "explanation": "مِمَّا خَطِيئَاتِهِمْ — kausal: WEGEN ihrer Verfehlungen wurden sie ertrankt."
+          },
+          {
+            "question": "Welche Funktion hat مِن in: فَمَا لَهُم مِّن نَّاصِرِينَ (35:44)?",
+            "options": ["Partitiv", "Expletiv (verstaerkend)", "Kausal", "Ablativ"],
+            "correct": 1,
+            "explanation": "مِن nach Negation (مَا) ist expletiv — verstaerkt die Verneinung: 'KEINERLEI Helfer'."
+          },
+          {
+            "question": "Welche Funktion hat مِن in: فَاجْتَنِبُوا الرِّجْسَ مِنَ الْأَوْثَانِ (22:30)?",
+            "options": ["Ablativ", "Partitiv", "Explikativ (naemlich)", "Substitutiv"],
+            "correct": 2,
+            "explanation": "Explikativ: 'den Schmutz, NAEMLICH die Goetzenbilder'. Die مِن erklaert den vorhergehenden Begriff."
+          },
+          {
+            "question": "Woran erkennt man die komparative مِن?",
+            "options": ["Sie steht nach einem Verb", "Sie steht nach einem Elativ (أَفْعَل)", "Sie steht nach einer Negation", "Sie steht vor einem Eigennamen"],
+            "correct": 1,
+            "explanation": "Die komparative مِن steht immer nach einem Elativ (أَفْعَل): أَكْبَرُ مِن = groesser ALS."
+          },
+          {
+            "question": "Welche Funktion hat مِن in: لَجَعَلْنَا مِنكُم مَّلَائِكَةً (43:60)?",
+            "options": ["Partitiv", "Substitutiv (anstelle von)", "Ablativ", "Kausal"],
+            "correct": 1,
+            "explanation": "Substitutiv: 'an eurer Stelle Engel'. Nicht partitiv — Engel sind keine Teilmenge der Angesprochenen."
+          }
+        ]
+      }
+    },
+    {
+      "id": "PS2",
+      "title": "بِ — Alle Funktionen",
+      "description": "Instrument, Begleitung, Kausal, Schwur, Transitivierung, Expletiv — die Praeposition بِ hat im Quran mindestens 8 verschiedene Funktionen.",
+      "learnContent": {
+        "sections": [
+          {
+            "type": "explanation",
+            "title": "Ueberblick: بِ hat mindestens 8 Funktionen",
+            "content": "Die Praeposition بِ ist ein einzelner Buchstabe, aber eine der vielseitigsten Praepositionen. Ihre Grundbedeutung ist Verbindung/Kontakt (إلصاق), daraus haben sich zahlreiche Funktionen entwickelt.\n\nDie 8 Hauptfunktionen:\n1. إلصاق — Verbindung, Kontakt (an, bei)\n2. استعانة — Instrument, Mittel (mit, durch)\n3. سببية — Kausal (wegen, durch)\n4. مصاحبة — Begleitung (mit, zusammen mit)\n5. ظرفية — Lokal/Temporal (in, an)\n6. قسم — Schwur (bei)\n7. تعدية — Transitivierung (macht intransitives Verb transitiv)\n8. زائدة — Expletiv (verstaerkend)"
+          },
+          {
+            "type": "quranExamples",
+            "title": "1. إلصاق — Verbindung/Kontakt",
+            "examples": [
+              {
+                "ref": "5:6",
+                "arabic": "وَامْسَحُوا بِرُءُوسِكُمْ",
+                "explanation": "بِرُءُوسِكُمْ — Kontakt: 'streicht UEBER eure Koepfe'. Die بِ zeigt den Kontaktbereich der Handlung."
+              }
+            ]
+          },
+          {
+            "type": "quranExamples",
+            "title": "2. استعانة — Instrument/Mittel",
+            "examples": [
+              {
+                "ref": "1:1",
+                "arabic": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+                "explanation": "بِسْمِ — instrumental: 'mit dem Namen Gottes'. Die بِ bezeichnet das Mittel, mit dem die Handlung beginnt."
+              },
+              {
+                "ref": "96:4",
+                "arabic": "الَّذِي عَلَّمَ بِالْقَلَمِ",
+                "explanation": "بِالْقَلَمِ — instrumental: 'mit dem Schreibrohr'. Das Instrument der Lehre."
+              }
+            ]
+          },
+          {
+            "type": "quranExamples",
+            "title": "3. سببية — Kausal",
+            "examples": [
+              {
+                "ref": "5:13",
+                "arabic": "فَبِمَا نَقْضِهِم مِّيثَاقَهُمْ لَعَنَّاهُمْ",
+                "explanation": "بِمَا نَقْضِهِم — kausal: 'WEGEN ihres Brechens des Bundes'. Die بِ leitet den Grund ein."
+              },
+              {
+                "ref": "2:61",
+                "arabic": "ضُرِبَتْ عَلَيْهِمُ الذِّلَّةُ وَالْمَسْكَنَةُ وَبَاءُوا بِغَضَبٍ مِّنَ اللَّهِ ذَٰلِكَ بِأَنَّهُمْ كَانُوا يَكْفُرُونَ بِآيَاتِ اللَّهِ",
+                "explanation": "ذَٰلِكَ بِأَنَّهُمْ — kausal: 'dies WEIL sie die Zeichen Gottes leugneten'. Die Konstruktion ذَلِكَ بِأَنَّ ist ein typischer Kausal-Marker."
+              }
+            ]
+          },
+          {
+            "type": "quranExamples",
+            "title": "4. مصاحبة — Begleitung",
+            "examples": [
+              {
+                "ref": "11:48",
+                "arabic": "اهْبِطْ بِسَلَامٍ مِّنَّا",
+                "explanation": "بِسَلَامٍ — Begleitung: 'steig herab MIT Frieden von uns'. Der Friede begleitet die Handlung."
+              }
+            ]
+          },
+          {
+            "type": "quranExamples",
+            "title": "5. ظرفية — Lokal/Temporal",
+            "examples": [
+              {
+                "ref": "95:3",
+                "arabic": "وَهَٰذَا الْبَلَدِ الْأَمِينِ",
+                "explanation": "(Kontrast — hier ohne بِ. Aber:)"
+              },
+              {
+                "ref": "3:123",
+                "arabic": "وَلَقَدْ نَصَرَكُمُ اللَّهُ بِبَدْرٍ",
+                "explanation": "بِبَدْرٍ — lokal: 'bei/in Badr'. Die بِ zeigt den Ort des Geschehens."
+              }
+            ]
+          },
+          {
+            "type": "quranExamples",
+            "title": "6. قسم — Schwur",
+            "examples": [
+              {
+                "ref": "2:284",
+                "arabic": "وَإِن تُبْدُوا مَا فِي أَنفُسِكُمْ أَوْ تُخْفُوهُ يُحَاسِبْكُم بِهِ اللَّهُ",
+                "explanation": "(Kein Schwur hier — Kontrast.)"
+              },
+              {
+                "ref": "90:1",
+                "arabic": "لَا أُقْسِمُ بِهَٰذَا الْبَلَدِ",
+                "explanation": "بِهَٰذَا — Schwur: 'bei dieser Stadt'. بِ als Schwurpartikel nach اُقْسِمُ."
+              }
+            ]
+          },
+          {
+            "type": "quranExamples",
+            "title": "7. تعدية — Transitivierung",
+            "examples": [
+              {
+                "ref": "17:1",
+                "arabic": "سُبْحَانَ الَّذِي أَسْرَىٰ بِعَبْدِهِ",
+                "explanation": "أَسْرَىٰ بِعَبْدِهِ — transitivierend: 'der seinen Diener reisen liess'. أَسْرَى ist intransitiv (= reiste nachts), die بِ macht es transitiv (= liess ... reisen)."
+              },
+              {
+                "ref": "2:17",
+                "arabic": "ذَهَبَ اللَّهُ بِنُورِهِمْ",
+                "explanation": "ذَهَبَ بِـ — transitivierend: 'Gott nahm ihr Licht weg'. ذَهَبَ allein ist intransitiv (= gehen), mit بِ wird es transitiv (= wegnehmen)."
+              }
+            ]
+          },
+          {
+            "type": "quranExamples",
+            "title": "8. زائدة — Expletiv",
+            "examples": [
+              {
+                "ref": "3:36",
+                "arabic": "وَلَيْسَ الذَّكَرُ كَالْأُنثَىٰ",
+                "explanation": "(Kontrast: hier kein expletives بِ.)"
+              },
+              {
+                "ref": "11:46",
+                "arabic": "إِنَّهُ لَيْسَ مِنْ أَهْلِكَ",
+                "explanation": "(Manchmal wird das بِ nach لَيْسَ als expletiv analysiert, aber es ist kontextabhaengig.)"
+              },
+              {
+                "ref": "17:14",
+                "arabic": "كَفَىٰ بِنَفْسِكَ الْيَوْمَ عَلَيْكَ حَسِيبًا",
+                "explanation": "كَفَىٰ بِنَفْسِكَ — expletiv: 'deine eigene Person genuegt'. Ohne بِ: كَفَتْ نَفْسُكَ. Die بِ ist syntaktisch nicht notwendig, aber im Muster كَفَى بِـ fest etabliert."
+              }
+            ]
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "identification",
+          "prompt": "Lies 1:1: بِسْمِ اللَّهِ. Welche Funktion hat die بِ? Vergleiche mit 90:1: لَا أُقْسِمُ بِهَٰذَا الْبَلَدِ.",
+          "hint": "1:1: instrumental (mit dem Namen). 90:1: Schwur (bei dieser Stadt)."
+        },
+        {
+          "type": "analysis",
+          "prompt": "In 2:17 steht ذَهَبَ اللَّهُ بِنُورِهِمْ. Was bedeutet ذَهَبَ ohne بِ? Was bewirkt die بِ hier?",
+          "hint": "ذَهَبَ = gehen (intransitiv). ذَهَبَ بِـ = wegnehmen (transitiv). Die بِ transitiviert das Verb."
+        }
+      ],
+      "testContent": {
+        "exercises": [
+          {
+            "question": "Welche Funktion hat بِ in: الَّذِي عَلَّمَ بِالْقَلَمِ (96:4)?",
+            "options": ["Schwur", "Instrument (mit)", "Kausal (wegen)", "Begleitung"],
+            "correct": 1,
+            "explanation": "Instrumental: 'der MIT dem Schreibrohr gelehrt hat'. Das Schreibrohr ist das Mittel/Instrument."
+          },
+          {
+            "question": "Welche Funktion hat بِ in: ذَٰلِكَ بِأَنَّهُمْ كَانُوا يَكْفُرُونَ (2:61)?",
+            "options": ["Instrument", "Kausal (weil)", "Begleitung", "Lokal"],
+            "correct": 1,
+            "explanation": "Kausal: 'dies WEIL sie leugneten'. Die Konstruktion ذَلِكَ بِأَنَّ ist ein fester Kausalmarker."
+          },
+          {
+            "question": "Welche Funktion hat بِ in: أَسْرَىٰ بِعَبْدِهِ (17:1)?",
+            "options": ["Kausal", "Schwur", "Transitivierung", "Instrument"],
+            "correct": 2,
+            "explanation": "Transitivierend: أَسْرَى ist intransitiv (= reiste nachts). Die بِ macht es transitiv: 'liess seinen Diener reisen'."
+          }
+        ]
+      }
+    },
+    {
+      "id": "PS3",
+      "title": "فِي — Alle Funktionen",
+      "description": "Lokal, temporal, kausal, metaphorisch — فِي hat mindestens 6 Funktionen im quranischen Arabisch.",
+      "learnContent": {
+        "sections": [
+          {
+            "type": "explanation",
+            "title": "Ueberblick: فِي hat mindestens 6 Funktionen",
+            "content": "Die Grundbedeutung von فِي ist das raeumliche Enthaltensein (in, innerhalb). Daraus haben sich uebertragene Funktionen entwickelt.\n\nDie 6 Hauptfunktionen:\n1. ظرفية مكانية — Lokal (in einem Ort)\n2. ظرفية زمانية — Temporal (in einer Zeit, waehrend)\n3. سببية — Kausal (wegen, aufgrund von)\n4. مصاحبة — Begleitung (unter, mit)\n5. استعلائية — Auf (= عَلَى)\n6. مقايسة — Proportion, Verhaeltnis (im Vergleich zu)"
+          },
+          {
+            "type": "quranExamples",
+            "title": "Lokal, Temporal, Kausal",
+            "examples": [
+              {
+                "ref": "2:10",
+                "arabic": "فِي قُلُوبِهِم مَّرَضٌ",
+                "explanation": "فِي قُلُوبِهِم — lokal: 'in ihren Herzen ist Krankheit'. Raeumliches Enthaltensein (metaphorisch)."
+              },
+              {
+                "ref": "30:4",
+                "arabic": "فِي بِضْعِ سِنِينَ",
+                "explanation": "فِي بِضْعِ — temporal: 'in einigen Jahren'. Zeitraum, in dem etwas geschieht."
+              },
+              {
+                "ref": "12:9",
+                "arabic": "اقْتُلُوا يُوسُفَ أَوِ اطْرَحُوهُ أَرْضًا يَخْلُ لَكُمْ وَجْهُ أَبِيكُمْ وَتَكُونُوا مِن بَعْدِهِ قَوْمًا صَالِحِينَ",
+                "explanation": "(Hier ohne فِي — Kontrast zur naechsten Stelle:)"
+              }
+            ]
+          },
+          {
+            "type": "quranExamples",
+            "title": "Auf (= عَلَى) und Proportion",
+            "examples": [
+              {
+                "ref": "20:71",
+                "arabic": "وَلَأُصَلِّبَنَّكُمْ فِي جُذُوعِ النَّخْلِ",
+                "explanation": "فِي جُذُوعِ — hier im Sinne von عَلَى: 'an den Staemmen der Palmen'. Nicht 'innerhalb' der Staemme, sondern 'auf/an' ihnen."
+              },
+              {
+                "ref": "7:176",
+                "arabic": "فَمَثَلُهُ كَمَثَلِ الْكَلْبِ إِن تَحْمِلْ عَلَيْهِ يَلْهَثْ أَوْ تَتْرُكْهُ يَلْهَث",
+                "explanation": "(Kontrast mit عَلَى — zeigt den normalen Gebrauch von عَلَى fuer 'auf'.)"
+              }
+            ]
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "identification",
+          "prompt": "Lies 20:71: فِي جُذُوعِ النَّخْلِ. Welche Funktion hat فِي hier? Ist es 'in' oder 'auf/an'?",
+          "hint": "Man wird nicht INNERHALB von Baumstaemmen gekreuzigt, sondern AN ihnen. فِي = عَلَى hier."
+        }
+      ],
+      "testContent": {
+        "exercises": [
+          {
+            "question": "Welche Funktion hat فِي in: فِي بِضْعِ سِنِينَ (30:4)?",
+            "options": ["Lokal (in einem Ort)", "Temporal (in einer Zeitspanne)", "Kausal (wegen)", "Auf (= عَلَى)"],
+            "correct": 1,
+            "explanation": "Temporal: 'innerhalb einiger Jahre'. فِي markiert den Zeitraum."
+          },
+          {
+            "question": "Welche Funktion hat فِي in: فِي جُذُوعِ النَّخْلِ (20:71)?",
+            "options": ["Lokal (innerhalb)", "Temporal", "Auf/An (= عَلَى)", "Kausal"],
+            "correct": 2,
+            "explanation": "فِي im Sinne von عَلَى: 'an den Staemmen'. Kreuzigung geschieht nicht innerhalb von Staemmen."
+          }
+        ]
+      }
+    },
+    {
+      "id": "PS4",
+      "title": "عَلَى — Alle Funktionen",
+      "description": "Physisch/metaphorisch 'auf', Verpflichtung, Trotzdem, Kausal — عَلَى hat mindestens 7 Funktionen.",
+      "learnContent": {
+        "sections": [
+          {
+            "type": "explanation",
+            "title": "Ueberblick: عَلَى hat mindestens 7 Funktionen",
+            "content": "Die Grundbedeutung von عَلَى ist das raeumliche Oben-Sein (auf, ueber). Daraus ergeben sich uebertragene Funktionen der Dominanz, Kontrolle und Verpflichtung.\n\nDie 7 Hauptfunktionen:\n1. استعلاء حقيقي — Physisch oben (auf, ueber)\n2. استعلاء مجازي — Metaphorisch oben (ueber: Macht, Kontrolle)\n3. وجوب — Verpflichtung (obliegt, muss)\n4. مصاحبة/حال — Trotzdem, obwohl (Zustandssatz)\n5. تعليل — Kausal (wegen, fuer)\n6. ظرفية — Temporal (zur Zeit von)\n7. مجاوزة — Separation (= عَنْ, weg von)"
+          },
+          {
+            "type": "quranExamples",
+            "title": "Physisch oben, metaphorisch oben, Verpflichtung",
+            "examples": [
+              {
+                "ref": "7:54",
+                "arabic": "ثُمَّ اسْتَوَىٰ عَلَى الْعَرْشِ",
+                "explanation": "عَلَى الْعَرْشِ — physisch/raeumlich: 'ueber dem Thron'. Raeumliches Oben-Sein."
+              },
+              {
+                "ref": "2:253",
+                "arabic": "فَضَّلْنَا بَعْضَهُمْ عَلَىٰ بَعْضٍ",
+                "explanation": "عَلَىٰ بَعْضٍ — metaphorisch oben: 'ueber einige (andere)'. Rangordnung, nicht physische Position."
+              },
+              {
+                "ref": "2:233",
+                "arabic": "وَعَلَى الْمَوْلُودِ لَهُ رِزْقُهُنَّ",
+                "explanation": "عَلَى الْمَوْلُودِ لَهُ — Verpflichtung: 'dem Vater OBLIEGT ihre Versorgung'. عَلَى markiert die Person, der etwas auferlegt ist."
+              },
+              {
+                "ref": "3:97",
+                "arabic": "وَلِلَّهِ عَلَى النَّاسِ حِجُّ الْبَيْتِ",
+                "explanation": "عَلَى النَّاسِ — Verpflichtung: 'den Menschen OBLIEGT die Pilgerfahrt'. Typische Pflichtkonstruktion."
+              }
+            ]
+          },
+          {
+            "type": "quranExamples",
+            "title": "Trotzdem, Kausal, Temporal",
+            "examples": [
+              {
+                "ref": "2:185",
+                "arabic": "وَلِتُكَبِّرُوا اللَّهَ عَلَىٰ مَا هَدَاكُمْ",
+                "explanation": "عَلَىٰ مَا هَدَاكُمْ — kausal: 'DAFUER DASS er euch rechtgeleitet hat'. عَلَى leitet den Grund ein."
+              },
+              {
+                "ref": "2:177",
+                "arabic": "وَالصَّابِرِينَ فِي الْبَأْسَاءِ وَالضَّرَّاءِ وَحِينَ الْبَأْسِ",
+                "explanation": "(Kontrast — hier markiert فِي den Zustand.)"
+              }
+            ]
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "identification",
+          "prompt": "Lies 2:233 und 3:97. Welche Funktion hat عَلَى in beiden Versen? Was haben sie gemeinsam?",
+          "hint": "Beide Male: Verpflichtung. عَلَى markiert die Person, der etwas obliegt."
+        }
+      ],
+      "testContent": {
+        "exercises": [
+          {
+            "question": "Welche Funktion hat عَلَى in: وَعَلَى الْمَوْلُودِ لَهُ رِزْقُهُنَّ (2:233)?",
+            "options": ["Physisch oben", "Verpflichtung (obliegt)", "Kausal (wegen)", "Trotzdem"],
+            "correct": 1,
+            "explanation": "Verpflichtung: 'dem Vater OBLIEGT ihre Versorgung'. عَلَى + Person = Pflicht."
+          },
+          {
+            "question": "Welche Funktion hat عَلَى in: فَضَّلْنَا بَعْضَهُمْ عَلَىٰ بَعْضٍ (2:253)?",
+            "options": ["Physisch oben", "Metaphorisch oben (Rangordnung)", "Verpflichtung", "Kausal"],
+            "correct": 1,
+            "explanation": "Metaphorisch oben: eine Rangordnung — 'ueber einige andere (erhoben)'. Keine physische Position."
+          }
+        ]
+      }
+    },
+    {
+      "id": "PS5",
+      "title": "لِ — Alle Funktionen",
+      "description": "Besitz, Zugehoerigkeit, Zweck, Kausal, Resultat — لِ hat mindestens 7 Funktionen.",
+      "learnContent": {
+        "sections": [
+          {
+            "type": "explanation",
+            "title": "Ueberblick: لِ hat mindestens 7 Funktionen",
+            "content": "Die Praeposition لِ ist ein einzelner Buchstabe mit Kasra. Ihre Grundbedeutung ist Besitz/Zugehoerigkeit (fuer, gehoerend zu). Daraus ergeben sich weitere Funktionen.\n\nDie 7 Hauptfunktionen:\n1. ملك — Besitz, Eigentum (gehoert zu)\n2. اختصاص — Zugehoerigkeit, Bestimmung (fuer)\n3. تعليل — Kausal/Final (wegen, damit, um zu)\n4. تعدية — Transitivierung (fuer — nach bestimmten Verben)\n5. صيرورة — Resultat, Konsequenz (so dass, mit dem Ergebnis)\n6. انتهاء الغاية — Endpunkt (= إِلَى, bis zu)\n7. تأكيد/زائدة — Verstaerkend"
+          },
+          {
+            "type": "quranExamples",
+            "title": "Besitz, Zugehoerigkeit, Zweck",
+            "examples": [
+              {
+                "ref": "1:2",
+                "arabic": "الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ",
+                "explanation": "لِلَّهِ — Besitz/Zugehoerigkeit: 'das Lob gehoert Gott'. Alles Lob ist sein Eigentum."
+              },
+              {
+                "ref": "2:21",
+                "arabic": "اعْبُدُوا رَبَّكُمُ الَّذِي خَلَقَكُمْ وَالَّذِينَ مِن قَبْلِكُمْ لَعَلَّكُمْ تَتَّقُونَ",
+                "explanation": "(Hier steht لَعَلَّ fuer den Zweck, nicht لِ.)"
+              },
+              {
+                "ref": "59:7",
+                "arabic": "كَيْ لَا يَكُونَ دُولَةً بَيْنَ الْأَغْنِيَاءِ مِنكُمْ",
+                "explanation": "(كَيْ لَا fuer Zweck — Kontrast zur لِ-Konstruktion:)"
+              },
+              {
+                "ref": "16:78",
+                "arabic": "وَجَعَلَ لَكُمُ السَّمْعَ وَالْأَبْصَارَ وَالْأَفْئِدَةَ لَعَلَّكُمْ تَشْكُرُونَ",
+                "explanation": "لَكُمُ — Bestimmung/Zugehoerigkeit: 'fuer euch (hat er) das Gehoer geschaffen'. Die لِ markiert den Empfaenger."
+              }
+            ]
+          },
+          {
+            "type": "quranExamples",
+            "title": "Kausal, Resultat, Transitivierung",
+            "examples": [
+              {
+                "ref": "3:152",
+                "arabic": "مِنكُم مَّن يُرِيدُ الدُّنْيَا وَمِنكُم مَّن يُرِيدُ الْآخِرَةَ",
+                "explanation": "(Kontrast — hier steht kein لِ.)"
+              },
+              {
+                "ref": "28:8",
+                "arabic": "فَالْتَقَطَهُ آلُ فِرْعَوْنَ لِيَكُونَ لَهُمْ عَدُوًّا وَحَزَنًا",
+                "explanation": "لِيَكُونَ — Resultat (لام العاقبة): 'so dass er ihnen zum Feind wuerde'. Sie nahmen ihn NICHT AUF, DAMIT er ihr Feind werde — es war die unbeabsichtigte Konsequenz. Dies ist die beruhmte لام الصيرورة."
+              },
+              {
+                "ref": "20:39",
+                "arabic": "وَلِتُصْنَعَ عَلَىٰ عَيْنِي",
+                "explanation": "لِتُصْنَعَ — final (Zweck): 'damit du unter meiner Aufsicht aufgezogen wirst'. لِ + Subjunktiv = damit."
+              }
+            ]
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "analysis",
+          "prompt": "In 28:8 steht لِيَكُونَ لَهُمْ عَدُوًّا. Ist die لِ hier final (damit) oder konsekutiv (so dass als Resultat)? Was ist der Unterschied?",
+          "hint": "Die Familie Pharaos nahm Musa nicht auf, DAMIT er ihr Feind werde. Es war die unbeabsichtigte Konsequenz. Daher: لام الصيرورة / لام العاقبة (Resultat-Lam)."
+        }
+      ],
+      "testContent": {
+        "exercises": [
+          {
+            "question": "Welche Funktion hat لِ in: الْحَمْدُ لِلَّهِ (1:2)?",
+            "options": ["Kausal (wegen)", "Besitz/Zugehoerigkeit", "Zweck (damit)", "Resultat"],
+            "correct": 1,
+            "explanation": "Besitz: 'das Lob GEHOERT Gott'. لِ markiert den Eigentuemer."
+          },
+          {
+            "question": "Welche Funktion hat لِ in: لِيَكُونَ لَهُمْ عَدُوًّا (28:8)?",
+            "options": ["Zweck (sie wollten, dass er ...)", "Resultat (er wurde unbeabsichtigt ...)", "Besitz", "Transitivierung"],
+            "correct": 1,
+            "explanation": "Resultat/Konsequenz (لام الصيرورة): Sie nahmen ihn NICHT auf, damit er ihr Feind wuerde — es war das unbeabsichtigte Ergebnis."
+          }
+        ]
+      }
+    },
+    {
+      "id": "PS6",
+      "title": "عَنْ — Alle Funktionen",
+      "description": "Separation, Temporal, Kausal, Substitutiv — عَنْ markiert Entfernung und Abstandnahme.",
+      "learnContent": {
+        "sections": [
+          {
+            "type": "explanation",
+            "title": "Ueberblick: عَنْ hat mindestens 5 Funktionen",
+            "content": "Die Grundbedeutung von عَنْ ist raeumliche Entfernung/Separation (weg von, ab). Alle weiteren Funktionen leiten sich daraus ab.\n\nDie 5 Hauptfunktionen:\n1. مجاوزة — Separation, Entfernung (weg von, ab)\n2. بعدية — Temporal: nach\n3. تعليل — Kausal (wegen, ueber)\n4. بدلية — Substitutiv (anstelle von, stellvertretend)\n5. استعلائية — Auf (= عَلَى)"
+          },
+          {
+            "type": "quranExamples",
+            "title": "Separation, Temporal, Kausal",
+            "examples": [
+              {
+                "ref": "80:1",
+                "arabic": "عَبَسَ وَتَوَلَّىٰ",
+                "explanation": "(Kontrast — hier mit تَوَلَّى عَنْ implizit: 'er wandte sich ab'.)"
+              },
+              {
+                "ref": "53:3",
+                "arabic": "وَمَا يَنطِقُ عَنِ الْهَوَىٰ",
+                "explanation": "عَنِ الْهَوَىٰ — kausal/quellenbezogen: 'er spricht nicht AUS (eigenem) Begehren'. عَن markiert die (abgelehnte) Quelle der Rede."
+              },
+              {
+                "ref": "4:31",
+                "arabic": "إِن تَجْتَنِبُوا كَبَائِرَ مَا تُنْهَوْنَ عَنْهُ",
+                "explanation": "تُنْهَوْنَ عَنْهُ — Separation: 'wovon ihr abgehalten werdet'. عَنْ markiert das, wovon man sich entfernen soll."
+              },
+              {
+                "ref": "9:84",
+                "arabic": "وَلَا تُصَلِّ عَلَىٰ أَحَدٍ مِّنْهُم مَّاتَ أَبَدًا",
+                "explanation": "(Kontrast — hier عَلَى nicht عَنْ: 'bete nicht UEBER einen von ihnen'.)"
+              }
+            ]
+          },
+          {
+            "type": "quranExamples",
+            "title": "Substitutiv und Auf (= عَلَى)",
+            "examples": [
+              {
+                "ref": "2:48",
+                "arabic": "وَلَا يُقْبَلُ مِنْهَا شَفَاعَةٌ وَلَا يُؤْخَذُ مِنْهَا عَدْلٌ",
+                "explanation": "(Kontrast — hier مِن fuer die Quelle.)"
+              },
+              {
+                "ref": "2:123",
+                "arabic": "وَلَا يُقْبَلُ مِنْهَا عَدْلٌ وَلَا تَنفَعُهَا شَفَاعَةٌ",
+                "explanation": "(Kontrast — aehnliche Konstruktion mit مِن.)"
+              }
+            ]
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "identification",
+          "prompt": "Lies 53:3: وَمَا يَنطِقُ عَنِ الْهَوَىٰ. Welche Funktion hat عَنْ? Ist es Separation oder etwas anderes?",
+          "hint": "عَنِ الْهَوَىٰ = aus/aufgrund von Begehren. عَنْ markiert die (abgelehnte) Quelle — kausal/quellenbezogen."
+        }
+      ],
+      "testContent": {
+        "exercises": [
+          {
+            "question": "Welche Funktion hat عَنْ in: تُنْهَوْنَ عَنْهُ (4:31)?",
+            "options": ["Kausal", "Separation (weg von)", "Temporal (nach)", "Substitutiv"],
+            "correct": 1,
+            "explanation": "Separation: 'wovon ihr abgehalten werdet' — عَنْ markiert das, wovon man sich entfernen soll."
+          },
+          {
+            "question": "Welche Funktion hat عَنْ in: وَمَا يَنطِقُ عَنِ الْهَوَىٰ (53:3)?",
+            "options": ["Separation", "Kausal/Quellenbezogen (aus, aufgrund)", "Temporal", "Auf (= عَلَى)"],
+            "correct": 1,
+            "explanation": "Kausal/quellenbezogen: 'er spricht nicht AUS eigenem Begehren'. عَنْ markiert die Quelle der Rede."
+          }
+        ]
+      }
+    },
+    {
+      "id": "PS7",
+      "title": "إِلَى — Alle Funktionen",
+      "description": "Raeumliches/zeitliches Ziel, Begleitung (= مَعَ), Bei (= عِنْدَ) — إِلَى hat mindestens 4 Funktionen.",
+      "learnContent": {
+        "sections": [
+          {
+            "type": "explanation",
+            "title": "Ueberblick: إِلَى hat mindestens 4 Funktionen",
+            "content": "Die Grundbedeutung von إِلَى ist die Richtung auf ein Ziel hin (zu, nach, bis). Die Praeposition markiert den Endpunkt einer Bewegung oder eines Zeitraums.\n\nDie 4 Hauptfunktionen:\n1. انتهاء الغاية المكانية — Raeumliches Ziel (zu, nach, bis)\n2. انتهاء الغاية الزمانية — Zeitliches Ziel (bis)\n3. مع — Begleitung (mit, = مَعَ)\n4. عند — Bei (= عِنْدَ)"
+          },
+          {
+            "type": "quranExamples",
+            "title": "Raeumlich, zeitlich, Begleitung",
+            "examples": [
+              {
+                "ref": "17:1",
+                "arabic": "مِّنَ الْمَسْجِدِ الْحَرَامِ إِلَى الْمَسْجِدِ الْأَقْصَى",
+                "explanation": "إِلَى الْمَسْجِدِ — raeumliches Ziel: 'ZUM fernsten Masjid'. Endpunkt der Reise."
+              },
+              {
+                "ref": "2:187",
+                "arabic": "ثُمَّ أَتِمُّوا الصِّيَامَ إِلَى اللَّيْلِ",
+                "explanation": "إِلَى اللَّيْلِ — zeitliches Ziel: 'BIS zur Nacht'. Endpunkt des Fastens."
+              },
+              {
+                "ref": "4:2",
+                "arabic": "وَلَا تَأْكُلُوا أَمْوَالَهُمْ إِلَىٰ أَمْوَالِكُمْ",
+                "explanation": "إِلَىٰ أَمْوَالِكُمْ — Begleitung (= مَعَ): 'esst nicht ihr Vermoegen ZU eurem (hinzu)', d.h. 'zusammen mit eurem'."
+              },
+              {
+                "ref": "28:22",
+                "arabic": "وَلَمَّا تَوَجَّهَ تِلْقَاءَ مَدْيَنَ",
+                "explanation": "(Kontrast — hier تِلْقَاءَ statt إِلَى fuer die Richtung.)"
+              }
+            ]
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "identification",
+          "prompt": "Vergleiche إِلَى in 2:187 (إِلَى اللَّيْلِ) mit 4:2 (إِلَى أَمْوَالِكُمْ). Welche Funktion hat إِلَى jeweils?",
+          "hint": "2:187: zeitliches Ziel (bis zur Nacht). 4:2: Begleitung (zusammen mit eurem Vermoegen)."
+        }
+      ],
+      "testContent": {
+        "exercises": [
+          {
+            "question": "Welche Funktion hat إِلَى in: أَتِمُّوا الصِّيَامَ إِلَى اللَّيْلِ (2:187)?",
+            "options": ["Raeumliches Ziel", "Zeitliches Ziel (bis)", "Begleitung (= مَعَ)", "Bei (= عِنْدَ)"],
+            "correct": 1,
+            "explanation": "Zeitliches Ziel: 'vollendet das Fasten BIS zur Nacht'. إِلَى markiert den zeitlichen Endpunkt."
+          },
+          {
+            "question": "Welche Funktion hat إِلَى in: لَا تَأْكُلُوا أَمْوَالَهُمْ إِلَىٰ أَمْوَالِكُمْ (4:2)?",
+            "options": ["Raeumliches Ziel", "Zeitliches Ziel", "Begleitung (zusammen mit)", "Kausal"],
+            "correct": 2,
+            "explanation": "Begleitung (= مَعَ): 'esst nicht ihr Vermoegen zusammen mit eurem'. إِلَى funktioniert hier wie مَعَ."
+          }
+        ]
+      }
+    },
+    {
+      "id": "PS8",
+      "title": "كَ und حَتَّى — Vergleich und Endpunkt",
+      "description": "كَ (Vergleich, Kausal) und حَتَّى (Endpunkt, Zweck, Steigerung) — zwei Praepositionen mit spezifischen Funktionen.",
+      "learnContent": {
+        "sections": [
+          {
+            "type": "explanation",
+            "title": "كَ — Vergleich und mehr",
+            "content": "كَ hat 3 Funktionen:\n\n1. تشبيه — Vergleich (wie, gleich)\n2. تعليل — Kausal (weil, so wie ... so auch)\n3. توكيد — Verstaerkend/Expletiv\n\nAls Praeposition regiert كَ den Genitiv."
+          },
+          {
+            "type": "quranExamples",
+            "title": "كَ — Quranbeispiele",
+            "examples": [
+              {
+                "ref": "42:11",
+                "arabic": "لَيْسَ كَمِثْلِهِ شَيْءٌ",
+                "explanation": "كَمِثْلِهِ — Vergleich: 'nichts ist WIE sein Gleichnis'. كَ + مِثْل — doppelte Vergleichskonstruktion."
+              },
+              {
+                "ref": "2:74",
+                "arabic": "ثُمَّ قَسَتْ قُلُوبُكُم مِّن بَعْدِ ذَٰلِكَ فَهِيَ كَالْحِجَارَةِ",
+                "explanation": "كَالْحِجَارَةِ — Vergleich: 'WIE Steine'. كَ + Artikel = direkter Vergleich."
+              }
+            ]
+          },
+          {
+            "type": "explanation",
+            "title": "حَتَّى — Endpunkt und Zweck",
+            "content": "حَتَّى hat 3 Funktionen:\n\n1. انتهاء الغاية — Endpunkt (bis, bis dass)\n2. تعليل — Zweck (damit, so dass)\n3. عطف — Steigerung (sogar, selbst)\n\nWICHTIG: حَتَّى kann als Praeposition (+ Genitiv), als Konjunktion (+ Subjunktiv) oder als Partikel fungieren."
+          },
+          {
+            "type": "quranExamples",
+            "title": "حَتَّى — Quranbeispiele",
+            "examples": [
+              {
+                "ref": "2:187",
+                "arabic": "وَكُلُوا وَاشْرَبُوا حَتَّىٰ يَتَبَيَّنَ لَكُمُ الْخَيْطُ الْأَبْيَضُ مِنَ الْخَيْطِ الْأَسْوَدِ مِنَ الْفَجْرِ",
+                "explanation": "حَتَّىٰ يَتَبَيَّنَ — Endpunkt (+ Subjunktiv): 'BIS DASS sich fuer euch der weisse Faden vom schwarzen Faden der Morgenroete unterscheidet'. يَتَبَيَّنَ steht im Subjunktiv (Fatha statt Damma)."
+              },
+              {
+                "ref": "97:5",
+                "arabic": "سَلَامٌ هِيَ حَتَّىٰ مَطْلَعِ الْفَجْرِ",
+                "explanation": "حَتَّىٰ مَطْلَعِ — Endpunkt (+ Genitiv als Praeposition): 'BIS zum Aufgang der Morgenroete'. Hier ist حَتَّى Praeposition mit Genitivrektion."
+              },
+              {
+                "ref": "2:214",
+                "arabic": "حَتَّىٰ يَقُولَ الرَّسُولُ وَالَّذِينَ آمَنُوا مَعَهُ مَتَىٰ نَصْرُ اللَّهِ",
+                "explanation": "حَتَّىٰ يَقُولَ — Endpunkt/Resultat: 'SO DASS der Gesandte sagte'. يَقُولَ im Subjunktiv. Hier markiert حَتَّى den Punkt, an dem die Pruefung so intensiv wurde, dass selbst der Gesandte fragte."
+              }
+            ]
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "identification",
+          "prompt": "Lies 2:187. Der Vers enthaelt sowohl إِلَى اللَّيْلِ als auch حَتَّىٰ يَتَبَيَّنَ. Vergleiche die Funktion beider. Welcher Modus folgt auf حَتَّى?",
+          "hint": "Beide markieren einen Endpunkt. إِلَى + Genitiv (Nomen). حَتَّى + Subjunktiv (Verb — يَتَبَيَّنَ hat Fatha statt Damma)."
+        }
+      ],
+      "testContent": {
+        "exercises": [
+          {
+            "question": "Welchen Modus regiert حَتَّى wenn ein Verb folgt?",
+            "options": ["Indikativ (مرفوع)", "Subjunktiv (منصوب)", "Jussiv (مجزوم)", "Keinen bestimmten"],
+            "correct": 1,
+            "explanation": "حَتَّى regiert den Subjunktiv (منصوب): حَتَّى يَتَبَيَّنَ (mit Fatha, nicht Damma)."
+          },
+          {
+            "question": "Welche Funktion hat كَ in: لَيْسَ كَمِثْلِهِ شَيْءٌ (42:11)?",
+            "options": ["Kausal (weil)", "Vergleich (wie)", "Verstaerkend", "Temporal"],
+            "correct": 1,
+            "explanation": "Vergleich: 'nichts ist WIE sein Gleichnis'. كَ ist die Vergleichspartikel."
+          }
+        ]
+      }
+    }
+  ]
+}

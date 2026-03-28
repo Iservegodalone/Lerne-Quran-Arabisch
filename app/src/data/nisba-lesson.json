@@ -1,0 +1,108 @@
+{
+  "meta": {
+    "title": "Nisba-Adjektiv (النسبة) — Zugehoerigkeitsadjektiv",
+    "description": "Bildung, Deklination und Vorkommen der Nisba-Adjektive im Quranischen Arabisch."
+  },
+  "lessons": [
+    {
+      "id": "NB1",
+      "title": "Nisba — Zugehoerigkeitsadjektiv",
+      "description": "Die Endung ـِيّ / ـِيَّة zeigt Zugehoerigkeit an: woher, wozu, welcher Art.",
+      "learnContent": {
+        "sections": [
+          {
+            "type": "explanation",
+            "title": "Bildungsregel",
+            "content": "Die Nisba (النسبة) wird gebildet indem an ein Nomen die Endung ـِيّ (-iyy, maskulin) oder ـِيَّة (-iyyah, feminin) angehaengt wird.\n\nGrundregel: Ta Marbuta und Alif Maqsura fallen vor dem Nisba-Suffix weg.\n\nBeispiele:\n• مَكَّة → مَكِّيّ (mekkanisch)\n• مَدِينَة → مَدَنِيّ (medinensisch) — Ta Marbuta faellt weg\n• دُنْيَا → دُنْيَوِيّ (weltlich) — Alif faellt weg, Waw eingefuegt\n• سَمَاء → سَمَائِيّ oder سَمَاوِيّ (himmlisch)\n\nDas Nisba-Adjektiv dekliniert als normales Adjektiv (Triptot) und kongruiert in Geschlecht, Numerus und Kasus mit seinem Bezugswort."
+          },
+          {
+            "type": "quranExamples",
+            "title": "Nisba-Adjektive im Quran",
+            "examples": [
+              {
+                "ref": "3:20",
+                "arabic": "وَالْأُمِّيِّينَ",
+                "explanation": "أُمِّيّ — von أُمَّة (Volk/Gemeinschaft) oder أُمّ (Mutter): 'unbelesen / der Schrift unkundig'. Maskuliner Plural auf -ين (Genitiv/Akkusativ nach Praeposition)."
+              },
+              {
+                "ref": "22:78",
+                "arabic": "مِلَّةَ أَبِيكُمْ إِبْرَاهِيمَ",
+                "explanation": "In 3:95 steht حَنِيفًا — von حَنَفَ (sich hinwenden): 'der sich (dem Einen) Zuwendende'. حَنِيف folgt dem Muster فَعِيل (regulaeres Adjektiv). Es ist kein Nisba-Adjektiv, teilt aber die attributive Funktion."
+              },
+              {
+                "ref": "2:79",
+                "arabic": "يَكْتُبُونَ الْكِتَابَ بِأَيْدِيهِمْ",
+                "explanation": "Kontext fuer أُمِّيّ (2:78): Die Charakterisierung als 'unbelesen' (أُمِّيُّونَ) bezieht sich auf Personen die das Buch nicht lesen, sondern nur Hoerensagen (أَمَانِيّ) kennen."
+              },
+              {
+                "ref": "62:2",
+                "arabic": "هُوَ الَّذِي بَعَثَ فِي الْأُمِّيِّينَ رَسُولًا مِنْهُمْ",
+                "explanation": "الْأُمِّيِّينَ — Plural von أُمِّيّ. Genitiv nach فِي. Das Nisba-Adjektiv wird hier substantivisch verwendet (= die Unbelesenen)."
+              },
+              {
+                "ref": "5:82",
+                "arabic": "لَتَجِدَنَّ أَشَدَّ النَّاسِ عَدَاوَةً ... وَلَتَجِدَنَّ أَقْرَبَهُمْ مَوَدَّةً ... الَّذِينَ قَالُوا إِنَّا نَصَارَىٰ",
+                "explanation": "نَصَارَى — Plural von نَصْرَانِيّ (Nisba von نَصَارِيّ/نَصْرَانَة): 'einer der sich auf Nazareth bezieht / Anhaenger des Nazareners'. Irregulaerer Plural auf -ى."
+              },
+              {
+                "ref": "2:62",
+                "arabic": "إِنَّ الَّذِينَ آمَنُوا وَالَّذِينَ هَادُوا وَالنَّصَارَىٰ وَالصَّابِئِينَ",
+                "explanation": "الصَّابِئِينَ — moeglicherweise Nisba-Bildung; النَّصَارَى — irregulaerer Nisba-Plural."
+              },
+              {
+                "ref": "66:12",
+                "arabic": "وَمَرْيَمَ ابْنَتَ عِمْرَانَ ... وَكَانَتْ مِنَ الْقَانِتِينَ",
+                "explanation": "Kein Nisba-Beispiel, aber zeigt wie Zugehoerigkeit OHNE Nisba-Endung durch مِنَ + Plural ausgedrueckt wird — alternative Konstruktion."
+              },
+              {
+                "ref": "46:21",
+                "arabic": "وَاذْكُرْ أَخَا عَادٍ",
+                "explanation": "عَادِيّ (adisch, zu 'Ad gehoerig) waere die Nisba-Form, aber der Quran verwendet stattdessen أَخَا عَادٍ (Bruder von 'Ad) — analytische Konstruktion statt Nisba."
+              }
+            ]
+          },
+          {
+            "type": "explanation",
+            "title": "Nisba vs. analytische Zugehoerigkeit",
+            "content": "Der Quran verwendet die Nisba-Endung seltener als das klassische Arabisch. Stattdessen drueckt er Zugehoerigkeit oft analytisch aus:\n\n• مِنْ + Gruppe: كَانَ مِنَ الْكَافِرِينَ (war von den Leugnern)\n• أَهْل + Genitiv: أَهْلَ الْكِتَابِ (Leute des Buches)\n• أَخ + Genitiv: أَخَا عَادٍ (Bruder von 'Ad)\n• ذُو + Genitiv: ذُو الْقَرْنَيْنِ (der mit den zwei Hoernern)\n\nDiese Konstruktionen sind im Quran produktiver als die morphologische Nisba-Bildung."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "multiple_choice",
+          "prompt": "Was ist die Nisba-Endung fuer maskulin?",
+          "options": ["ـِيّ (-iyy)", "ـَانِ (-aan)", "ـُون (-uun)", "ـَة (-ah)"],
+          "correct": 0,
+          "explanation": "Die maskuline Nisba-Endung ist ـِيّ mit Kasra und Shadda auf Ya."
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "In 62:2 steht الأُمِّيِّينَ. Was ist die Singularform?",
+          "options": ["أُمِّيَّة", "أُمِّيّ", "أُمَّة", "أُمّ"],
+          "correct": 1,
+          "explanation": "أُمِّيّ (Singular maskulin) → أُمِّيُّونَ/أُمِّيِّينَ (Plural maskulin gesund)."
+        }
+      ],
+      "testContent": {
+        "exercises": [
+          {
+            "question": "Was passiert mit Ta Marbuta bei der Nisba-Bildung?",
+            "options": ["Sie bleibt erhalten", "Sie faellt weg", "Sie wird zu Ta Maftuha", "Sie wird verdoppelt"],
+            "correct": 1
+          },
+          {
+            "question": "Wie drueckt der Quran Zugehoerigkeit am haeufigsten aus?",
+            "options": ["Durch Nisba-Endung (-iyy)", "Durch analytische Konstruktionen (min, ahl, akhu, dhu)", "Durch Idafa", "Durch Sifa"],
+            "correct": 1
+          },
+          {
+            "question": "Was ist der Plural von نَصْرَانِيّ im Quran?",
+            "options": ["نَصْرَانِيُّونَ", "نَصَارَى", "نَصَارِين", "نَصَارِيَّات"],
+            "correct": 1
+          }
+        ]
+      }
+    }
+  ]
+}

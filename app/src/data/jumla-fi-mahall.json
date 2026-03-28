@@ -1,0 +1,147 @@
+{
+  "meta": {
+    "title": "Jumla fi Mahall — Satz in Kasusposition (الجملة في موضع)",
+    "description": "Im Arabischen koennen ganze Saetze die syntaktische Position eines Nomens einnehmen. Obwohl der Satz intern seinen eigenen Regeln folgt, wird er von aussen wie ein Nomen behandelt — mit einer virtuellen Kasuszuweisung. Dies ist entscheidend fuer das Verstehen komplexer Quranstrukturen.",
+    "sources": [
+      {
+        "name": "Wright's Arabic Grammar (3rd ed.)",
+        "url": "https://archive.org/details/grammarofarabicl01telerich"
+      },
+      {
+        "name": "Quranic Arabic Corpus",
+        "url": "https://corpus.quran.com/"
+      }
+    ]
+  },
+  "lessons": [
+    {
+      "id": "JFM1",
+      "title": "Das Konzept 'fi mahall' — virtuelle Kasusposition",
+      "description": "Wie arabische Grammatik Saetze als Nomen behandelt und warum diese Unterscheidung fuer die Textanalyse wichtig ist.",
+      "learnContent": {
+        "sections": [
+          {
+            "type": "explanation",
+            "title": "Was bedeutet 'fi mahall'?",
+            "content": "في موضع / في محل bedeutet 'an der Stelle von' oder 'in der Position von'. Die arabische Grammatik erkennt an, dass ganze Saetze bestimmte syntaktische Positionen einnehmen koennen, die normalerweise fuer Nomina reserviert sind.\n\nDer Satz selbst flektiert nicht (ein Satz hat kein Kasusende), aber er befindet sich 'in der Kasusposition' des Nominativs, Akkusativs oder Genitivs.\n\nWarum wichtig?\n- Es erklaert, warum bestimmte Saetze nach Verben oder Nomina stehen koennen, ohne formal zu flektieren\n- Es erklaert, warum relative und attributive Saetze keine Kasusmorphologie zeigen\n- Es ist die Grundlage fuer das Verstehen von Hal-Saetzen, Relativsaetzen und indirekter Rede im Quran\n\nVier Hauptpositionen, in denen Saetze stehen:\n1. في محل رفع (Nominativ-Position): als Subjekt, als Khabar\n2. في محل نصب (Akkusativ-Position): als Objekt, als Hal\n3. في محل جر (Genitiv-Position): nach Praeposition, als Idafa-Glied\n4. Kein محل (ohne virtuelle Kasusposition): Relativsaetze nach definiten Nomina, parenthetische Saetze"
+          },
+          {
+            "type": "explanation",
+            "title": "Saetze في محل رفع (Nominativ-Position)",
+            "content": "Ein Satz nimmt eine Nominativ-Position ein, wenn er an der Stelle eines Subjekts oder Praedikats steht.\n\nALS MUBTADA': أَنْ تَصُومُوا خَيْرٌ لَّكُمْ (2:184)\nDer Masdar-Satz أَنْ تَصُومُوا steht في محل رفع مبتدأ. خَيْرٌ ist Khabar.\n\nALS KHABAR: هُوَ يَقُولُ الْحَقَّ\nDer Verbalsatz يَقُولُ الْحَقَّ steht في محل رفع خبر (Khabar des Nominalsatzes). هُوَ ist Mubtada.\n\nALS KHABAR NACH INNA: إِنَّ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ سَيَجْعَلُ لَهُمُ الرَّحْمَٰنُ وُدًّا\nDer Hauptsatz سَيَجْعَلُ... steht في محل رفع خبر inna. Khabar inna steht im Nominativ (nicht Akkusativ), weil إِنَّ nur das Ism (Subjekt) in den Akkusativ setzt, das Khabar (Praedikat) aber im Nominativ belaesst.\n\nALS FA'IL-ERSATZ (nach dem Passiv): قِيلَ ادْخُلُوا الْجَنَّةَ\nDer Imperativsatz ادْخُلُوا الْجَنَّةَ steht في محل رفع فاعل (oder نائب الفاعل nach قِيلَ)."
+          },
+          {
+            "type": "explanation",
+            "title": "Saetze في محل نصب (Akkusativ-Position)",
+            "content": "Am haeufigsten: Saetze als direkte Objekte und als Hal-Saetze.\n\nALS MAF'UL BIHI: يَعْلَمُ أَنَّهُمْ كَاذِبُونَ\nDer أَنَّ-Satz steht في محل نصب مفعول به.\n\nALS HAL: جَاءَ وَهُوَ يَبْكِي\nDer Nominalsatz وَهُوَ يَبْكِي steht في محل نصب حال. Obwohl هُوَ Nominativ ist (Mubtada) und يَبْكِي Khabar, nimmt die ganze Phrase Akkusativ-Position ein."
+          },
+          {
+            "type": "quranExamples",
+            "title": "Quranbeispiele",
+            "examples": [
+              {
+                "ref": "2:184",
+                "arabic": "وَأَن تَصُومُوا خَيْرٌ لَّكُمْ",
+                "explanation": "أَنْ تَصُومُوا = في محل رفع مبتدأ. Der Masdar-Satz ('dass ihr fastet') nimmt Subjektposition ein. خَيْرٌ = Khabar (Nominativ, stimmt mit dem virtuellen Nominativ des Mubtada ueberein)."
+              },
+              {
+                "ref": "2:77",
+                "arabic": "أَوَلَا يَعْلَمُونَ أَنَّ اللَّهَ يَعْلَمُ",
+                "explanation": "أَنَّ اللَّهَ يَعْلَمُ = في محل نصب مفعول به. Der أَنَّ-Satz steht als direktes Objekt von يَعْلَمُونَ. Er nimmt virtuell Akkusativ-Position ein, obwohl اللَّهَ darin Ism anna (Akkusativ) und يَعْلَمُ Khabar ist."
+              },
+              {
+                "ref": "3:39",
+                "arabic": "فَنَادَتْهُ الْمَلَائِكَةُ وَهُوَ قَائِمٌ يُصَلِّي فِي الْمِحْرَابِ",
+                "explanation": "وَهُوَ قَائِمٌ يُصَلِّي = في محل نصب حال. Der ganze Nominalsatz nimmt Hal-Akkusativ-Position ein. Intern: هُوَ = Mubtada (Nominativ), قَائِمٌ = Khabar (Nominativ). Aber extern: die Phrase ist 'in Akkusativ-Position'."
+              },
+              {
+                "ref": "2:2",
+                "arabic": "ذَٰلِكَ الْكِتَابُ لَا رَيْبَ فِيهِ هُدًى لِّلْمُتَّقِينَ",
+                "explanation": "لَا رَيْبَ فِيهِ = in mahall raf' (Khabar oder attributiver Satz nach ذَٰلِكَ الْكِتَابُ). Der Negativsatz nimmt Praedikatposition ein. هُدًى = zusaetzlicher Khabar oder Hal (umstritten). Zeigt: auch einfache Verneinungssaetze koennen Praedikatfunktion haben."
+              }
+            ]
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "analysis",
+          "question": "قَالَ إِنِّي عَبْدُ اللَّهِ (19:30) — In welcher Position steht إِنِّي عَبْدُ اللَّهِ?",
+          "answer": "في محل نصب مفعول به (Objekt von قَالَ). Der ganze إِنَّ-Satz ist das Zitat, das 'Isa sagte — er nimmt Akkusativ-Position als indirektes Objekt ein. Intern: عَبْدُ اللَّهِ ist Khabar (Nominativ), den der Ism-inna (erwartet im Akkusativ) begleitet: إِنِّي = إِنَّ + Pronomen (Akkusativ = ي)."
+        }
+      ],
+      "testContent": {
+        "exercises": [
+          {
+            "question": "Was bedeutet es, wenn ein Satz في محل نصب حال steht?",
+            "options": [
+              "Jedes Wort im Satz steht im Akkusativ",
+              "Der Satz als Ganzes nimmt eine Hal-Akkusativ-Position ein, obwohl seine internen Elemente ihre eigenen Kasus behalten",
+              "Der Satz muss mit Fatha enden",
+              "Der Satz steht nach einer Praeposition"
+            ],
+            "correct": 1,
+            "explanation": "في محل نصب حال bedeutet: Die gesamte Phrase nimmt virtuelle Akkusativ-Position (als Hal) ein. Intern folgt der Satz seinen eigenen Regeln — ein Nominalsatz hat Nominative Kasus fuer Mubtada und Khabar. Aber nach aussen hin ist die ganze Phrase ein Hal."
+          }
+        ]
+      }
+    },
+    {
+      "id": "JFM2",
+      "title": "Saetze ohne Kasusposition — Relativsaetze und Parenthesen",
+      "description": "Nicht jeder Satz nach einem Nomen hat eine Kasusposition. Relativsaetze nach definiten Nomina und parenthetische Einschuebe haben kein 'mahall'.",
+      "learnContent": {
+        "sections": [
+          {
+            "type": "explanation",
+            "title": "Saetze ohne محل",
+            "content": "Bestimmte Saetze haben keine virtuelle Kasusposition (لا محل له من الاعراب):\n\n1. RELATIVSATZ NACH DEFINITEM NOMEN: الَّذِينَ يُؤْمِنُونَ\nDer Relativsatz يُؤْمِنُونَ nach dem Relativpronomen الَّذِينَ hat kein eigenes محل — er ist die 'Silah' (Verbindung) des Relativpronomens. Die grammatische Funktion traegt das Relativpronomen.\n\n2. RELATIVSATZ NACH INDEFINITEM NOMEN (= Sifa-Satz): رَجُلٌ يَعْلَمُ\nEin Satz, der ein indefinites Nomen modifiziert, steht في محل des Kasus seines Bezugsnomens (als Sifa/Attribut). Hier hat er ein محل.\n\n3. PARENTHESE (اعتراض): Eingeschobene Saetze ohne syntaktische Bindung\n4. HAUPTSAETZE ('Jumla Istinafiyya'): Ein neuer Hauptsatz nach einem anderen Hauptsatz — keine Kasusposition.\n\nDie Unterscheidung definit/indefinit beim modifizierten Nomen ist der Schluessel:\n- الرَّجُلُ الَّذِي يَعْلَمُ: الَّذِي nimmt die syntaktische Position als Attribut ein, hat Kasusposition\n- رَجُلٌ يَعْلَمُ: Der Satz يَعْلَمُ selbst ist Sifa (Attribut) في محل رفع Sifa (weil رَجُلٌ im Nominativ steht)"
+          },
+          {
+            "type": "quranExamples",
+            "title": "Quranbeispiele",
+            "examples": [
+              {
+                "ref": "1:7",
+                "arabic": "صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ",
+                "explanation": "الَّذِينَ = Relativpronomen (في محل جر — Idafa-Genitiv nach صِرَاطَ). Der Relativsatz أَنْعَمْتَ عَلَيْهِمْ hat لا محل له — er ist die Silah des Relativpronomens. Die Kasusposition traegt الَّذِينَ, nicht der Satz selbst."
+              },
+              {
+                "ref": "2:3",
+                "arabic": "الَّذِينَ يُؤْمِنُونَ بِالْغَيْبِ وَيُقِيمُونَ الصَّلَاةَ",
+                "explanation": "الَّذِينَ = Relativpronomen في محل رفع مبتدأ (oder andere Position je nach Analyse). يُؤْمِنُونَ = Silah-Satz (لا محل له). Die gesamte Phrase الَّذِينَ يُؤْمِنُونَ nimmt Mubtada-Position ein; der Relativsatz selbst hat kein eigenes محل."
+              },
+              {
+                "ref": "2:285",
+                "arabic": "آمَنَ الرَّسُولُ بِمَا أُنزِلَ إِلَيْهِ مِن رَّبِّهِ",
+                "explanation": "بِمَا أُنزِلَ = بِ + مَا (Relativpronomen) + Relativsatz أُنزِلَ. مَا steht في محل جر (nach بِ). Der Relativsatz أُنزِلَ إِلَيْهِ لا محل له — er ist Silah des مَا."
+              }
+            ]
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "distinction",
+          "question": "Was ist der Unterschied zwischen الَّذِينَ يُؤْمِنُونَ und رَجُلٌ يُؤْمِنُ in Bezug auf das محل des Satzes?",
+          "answer": "الَّذِينَ يُؤْمِنُونَ: يُؤْمِنُونَ ist Silah (لا محل له — kein محل). Das Relativpronomen الَّذِينَ traegt die grammatische Position. رَجُلٌ يُؤْمِنُ: يُؤْمِنُ ist Sifa eines indefiniten Nomens — في محل رفع صفة لـ رَجُل (weil رَجُلٌ im Nominativ steht). Der Satz hat hier ein محل als Attribut."
+        }
+      ],
+      "testContent": {
+        "exercises": [
+          {
+            "question": "Warum hat der Relativsatz nach einem definiten Nomen (Silah) kein محل?",
+            "options": [
+              "Weil er im Genitiv steht",
+              "Weil er die grammatische Position des Relativpronomens erklaert — das Pronomen traegt die Position, der Satz nur die Bedeutung",
+              "Weil er immer im Akkusativ steht",
+              "Weil Relativsaetze generell keine Grammatikfunktion haben"
+            ],
+            "correct": 1,
+            "explanation": "Das Relativpronomen (الَّذِي, الَّذِينَ, مَا, مَنْ) nimmt die grammatische Position (Subjekt, Objekt etc.) ein. Der Relativsatz danach ist seine 'Silah' — er erklaert, WEN das Pronomen meint. Daher hat der Satz selbst kein eigenes محل."
+          }
+        ]
+      }
+    }
+  ]
+}

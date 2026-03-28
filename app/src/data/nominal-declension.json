@@ -1,0 +1,444 @@
+{
+  "meta": {
+    "title": "Nominalflexion — Vollstaendige Deklinationsparadigmen",
+    "description": "Alle Deklinationsmuster des klassischen Arabisch mit koranischen Belegstellen und Uebungen zur Kasusbestimmung. Rein sprachwissenschaftlich.",
+    "sources": [
+      {"label": "Wright's Grammar Vol I — Declension Tables", "url": "https://archive.org/details/AGrammarOfTheArabicLanguageV1"},
+      {"label": "Quranic Arabic Corpus — Word Morphology", "url": "https://corpus.quran.com/wordmorphology.jsp"}
+    ]
+  },
+  "paradigms": [
+    {
+      "id": "triptote_indefinite",
+      "title": "Triptota (dreiflektierende Nomen) — indefinit",
+      "description": "Regulaere Nomen mit drei Kasusendungen und Nunation (Tanwin). Dies ist das Standardmuster der arabischen Nominalflexion.",
+      "table": {
+        "nominative": { "ending": "-un (ٌ)", "example": "كِتَابٌ", "function": "Subjekt (Mubtada/Fa3il), Praedikat (Xabar)" },
+        "accusative": { "ending": "-an (ً)", "example": "كِتَابًا", "function": "Objekt (Maf3ul bihi), Adverbial (Hal, Zarf), nach inna und Schwestern" },
+        "genitive": { "ending": "-in (ٍ)", "example": "كِتَابٍ", "function": "Nach Praeposition (Harfi Jarr), Idafa-Zweitglied (Mudaf ilayhi)" }
+      },
+      "quranicExamples": [
+        { "word": "كِتَابٌ", "location": "2:2", "case": "nominative", "explanation": "Nominativ als Praedikat (Xabar) im Nominalsatz" },
+        { "word": "هُدًى", "location": "2:2", "case": "nominative", "explanation": "Nominativ als Praedikat, Alif-maqsura-Endung" },
+        { "word": "نَارًا", "location": "2:17", "case": "accusative", "explanation": "Akkusativ als Objekt von اسْتَوْقَدَ" },
+        { "word": "رِيحٍ", "location": "3:117", "case": "genitive", "explanation": "Genitiv nach Praeposition كَ (wie)" }
+      ]
+    },
+    {
+      "id": "triptote_definite",
+      "title": "Triptota — definit (mit Artikel al-)",
+      "description": "Mit dem Artikel الـ versehene Nomen verlieren die Nunation, behalten aber drei Kasusendungen (kurze Vokale).",
+      "table": {
+        "nominative": { "ending": "-u (ُ)", "example": "الْكِتَابُ", "function": "Subjekt, definites Praedikat" },
+        "accusative": { "ending": "-a (َ)", "example": "الْكِتَابَ", "function": "Definites Objekt, nach inna und Schwestern" },
+        "genitive": { "ending": "-i (ِ)", "example": "الْكِتَابِ", "function": "Nach Praeposition, Idafa-Zweitglied" }
+      },
+      "quranicExamples": [
+        { "word": "الْكِتَابُ", "location": "2:2", "case": "nominative", "explanation": "Nominativ als Subjekt (Mubtada): ذَلِكَ الْكِتَابُ" },
+        { "word": "الصِّرَاطَ", "location": "1:6", "case": "accusative", "explanation": "Akkusativ als Objekt von اهْدِنَا" },
+        { "word": "الرَّحِيمِ", "location": "1:1", "case": "genitive", "explanation": "Genitiv als Adjektiv-Attribut in Kongruenz mit einem Genitiv-Nomen" }
+      ]
+    },
+    {
+      "id": "triptote_idafa",
+      "title": "Triptota — als Idafa-Erstglied (Mudaf)",
+      "description": "Das Erstglied einer Idafa-Konstruktion verliert sowohl Artikel als auch Nunation. Der Kasus wird durch die syntaktische Funktion bestimmt.",
+      "table": {
+        "nominative": { "ending": "-u (ُ)", "example": "كِتَابُ اللَّهِ", "function": "Wenn Idafa als Ganzes Subjekt ist" },
+        "accusative": { "ending": "-a (َ)", "example": "كِتَابَ اللَّهِ", "function": "Wenn Idafa als Ganzes Objekt ist" },
+        "genitive": { "ending": "-i (ِ)", "example": "كِتَابِ اللَّهِ", "function": "Wenn Idafa nach Praeposition steht" }
+      },
+      "quranicExamples": [
+        { "word": "بِسْمِ اللَّهِ", "location": "1:1", "case": "genitive", "explanation": "اسْم im Genitiv nach Praeposition بِ, اللَّهِ als Mudaf ilayhi im Genitiv" },
+        { "word": "رَبِّ الْعَالَمِينَ", "location": "1:2", "case": "genitive", "explanation": "رَبّ im Genitiv als Apposition/Badal zu اللَّهِ" },
+        { "word": "يَوْمَ الدِّينِ", "location": "1:4", "case": "accusative", "explanation": "يَوْم im Akkusativ (Zeitadverbial oder direkte Zuordnung)" }
+      ]
+    },
+    {
+      "id": "diptote_indefinite",
+      "title": "Diptota (zweiflektierende Nomen) — indefinit",
+      "description": "Nomen, die nur zwei Kasusendungen zeigen und keine Nunation erhalten. Dazu gehoeren: bestimmte Eigennamen, Farbadjektive (af3al), Elative (af3al), Nomen auf -aa (fa3laa), Nomen auf -aan, gebrochene Plurale des Musters mafaa3il/mafaa3iil u.a.",
+      "table": {
+        "nominative": { "ending": "-u (ُ)", "example": "أَحْمَدُ / مَسَاجِدُ", "function": "Subjekt, Praedikat" },
+        "accusative": { "ending": "-a (َ)", "example": "أَحْمَدَ / مَسَاجِدَ", "function": "Objekt, Adverbial" },
+        "genitive": { "ending": "-a (َ) [!]", "example": "أَحْمَدَ / مَسَاجِدَ", "function": "Nach Praeposition — Fatha statt Kasra!" }
+      },
+      "diptoteConditions": [
+        "Eigennamen ueber drei Buchstaben oder weibliche Eigennamen",
+        "Farbadjektive: أَحْمَرُ (rot), أَخْضَرُ (gruen), أَصْفَرُ (gelb)",
+        "Elativ/Komparativ: أَكْبَرُ (groesser), أَحْسَنُ (besser/schoener)",
+        "Feminine Muster auf -aa: صَحْرَاءُ (Wueste), حَمْرَاءُ (rote)",
+        "Adjektive auf -aan: عَطْشَانُ (durstig), غَضْبَانُ (zornig)",
+        "Gebrochene Plurale der Muster مَفَاعِل und مَفَاعِيل",
+        "Nomen auf -uu: فِرْعَوْنُ (Pharao)",
+        "Fremdwoerter bestimmter Muster: إِبْرَاهِيمُ"
+      ],
+      "quranicExamples": [
+        { "word": "إِبْرَاهِيمَ", "location": "2:124", "case": "accusative/genitive", "explanation": "Diptotischer Eigenname — Fatha im Akkusativ UND Genitiv" },
+        { "word": "مَسَاجِدَ", "location": "2:114", "case": "accusative", "explanation": "Gebrochener Plural (mafaa3il) — diptotisch" },
+        { "word": "أَكْبَرُ", "location": "29:45", "case": "nominative", "explanation": "Elativ — diptotisch, Nominativ als Praedikat" },
+        { "word": "قَوَارِيرَا", "location": "76:15", "case": "accusative", "explanation": "Gebrochener Plural — diptotisch" }
+      ]
+    },
+    {
+      "id": "diptote_definite",
+      "title": "Diptota — definit (mit Artikel oder Idafa)",
+      "description": "Entscheidend: Diptota mit Artikel oder als Idafa-Zweitglied flektieren REGULAER wie Triptota. Die Diptosie wird aufgehoben.",
+      "table": {
+        "nominative": { "ending": "-u (ُ)", "example": "الْمَسَاجِدُ", "function": "Subjekt" },
+        "accusative": { "ending": "-a (َ)", "example": "الْمَسَاجِدَ", "function": "Objekt" },
+        "genitive": { "ending": "-i (ِ) [!]", "example": "الْمَسَاجِدِ", "function": "Nach Praeposition — REGULAER Kasra!" }
+      },
+      "quranicExamples": [
+        { "word": "الْمَسَاجِدِ", "location": "2:187", "case": "genitive", "explanation": "Mit Artikel: regulaeres Kasra im Genitiv, obwohl gebrochener Plural" },
+        { "word": "الْأَكْبَرُ", "location": "9:3", "case": "nominative", "explanation": "Elativ mit Artikel: regulaer flektiert" }
+      ]
+    },
+    {
+      "id": "sound_masculine_plural",
+      "title": "Gesunder Maskulinplural (Jam3 Mudhakkar Salim)",
+      "description": "Gebildet durch Anfuegung von -uuna (Nom.) bzw. -iina (Akk./Gen.) an den Singular. Nur fuer rationale maskuline Nomen und Partizipien.",
+      "table": {
+        "nominative": { "ending": "-uuna (ونَ)", "example": "مُسْلِمُونَ / مُؤْمِنُونَ", "function": "Subjekt" },
+        "accusative": { "ending": "-iina (ينَ)", "example": "مُسْلِمِينَ / مُؤْمِنِينَ", "function": "Objekt, nach inna" },
+        "genitive": { "ending": "-iina (ينَ)", "example": "مُسْلِمِينَ / مُؤْمِنِينَ", "function": "Nach Praeposition, Idafa" }
+      },
+      "note": "Im Idafa-Erstglied faellt das Nun ab: مُسْلِمُو المَدِينَةِ (Nom.) / مُسْلِمِي المَدِينَةِ (Akk./Gen.)",
+      "quranicExamples": [
+        { "word": "الْمُؤْمِنُونَ", "location": "23:1", "case": "nominative", "explanation": "Nominativ als Subjekt" },
+        { "word": "الْمُسْلِمِينَ", "location": "33:35", "case": "accusative", "explanation": "Akkusativ nach إِنَّ" },
+        { "word": "الْعَالَمِينَ", "location": "1:2", "case": "genitive", "explanation": "Genitiv als Idafa-Zweitglied nach رَبّ" },
+        { "word": "الصَّابِرِينَ", "location": "2:153", "case": "genitive/accusative", "explanation": "Genitiv nach Praeposition مَعَ oder Akkusativ" },
+        { "word": "مُفْلِحُونَ", "location": "23:1", "case": "nominative", "explanation": "Nominativ als Praedikat" }
+      ]
+    },
+    {
+      "id": "sound_feminine_plural",
+      "title": "Gesunder Femininplural (Jam3 Mu'annath Salim)",
+      "description": "Gebildet durch Ersetzen der Ta-marbuta durch -aatun (Nom.) bzw. -aatin (Akk./Gen.). Besonderheit: Akkusativ und Genitiv fallen zusammen (Kasra).",
+      "table": {
+        "nominative": { "ending": "-aatun (اتٌ)", "example": "مُسْلِمَاتٌ / مُؤْمِنَاتٌ", "function": "Subjekt" },
+        "accusative": { "ending": "-aatin (اتٍ)", "example": "مُسْلِمَاتٍ / مُؤْمِنَاتٍ", "function": "Objekt — KASRA, nicht Fatha!" },
+        "genitive": { "ending": "-aatin (اتٍ)", "example": "مُسْلِمَاتٍ / مُؤْمِنَاتٍ", "function": "Nach Praeposition, Idafa" }
+      },
+      "note": "Sprachliche Besonderheit: Der Akkusativ hat Kasra statt Fatha. Dies ist eine Abweichung vom regulaeren triptotischen System.",
+      "quranicExamples": [
+        { "word": "الْمُؤْمِنَاتِ", "location": "33:35", "case": "accusative", "explanation": "Akkusativ nach إِنَّ — mit Kasra (nicht Fatha!)" },
+        { "word": "السَّمَاوَاتِ", "location": "2:33", "case": "genitive", "explanation": "Genitiv als Idafa-Zweitglied" },
+        { "word": "آيَاتٌ", "location": "2:99", "case": "nominative", "explanation": "Nominativ als Praedikat" },
+        { "word": "صَالِحَاتٍ", "location": "2:25", "case": "genitive", "explanation": "Genitiv als Adjektiv-Attribut kongruent mit Genitiv-Nomen" }
+      ]
+    },
+    {
+      "id": "dual",
+      "title": "Dual (al-Muthanna)",
+      "description": "Alle Nomina koennen den Dual bilden durch Anfuegung von -aani (Nom.) bzw. -ayni (Akk./Gen.). Nur zwei Kasusunterscheidungen.",
+      "table": {
+        "nominative": { "ending": "-aani (انِ)", "example": "كِتَابَانِ / رَجُلَانِ", "function": "Subjekt" },
+        "accusative": { "ending": "-ayni (يْنِ)", "example": "كِتَابَيْنِ / رَجُلَيْنِ", "function": "Objekt" },
+        "genitive": { "ending": "-ayni (يْنِ)", "example": "كِتَابَيْنِ / رَجُلَيْنِ", "function": "Nach Praeposition, Idafa" }
+      },
+      "note": "Im Idafa-Erstglied faellt das Nun ab: كِتَابَا اللَّهِ (Nom.) / كِتَابَيِ اللَّهِ (Akk./Gen.).",
+      "quranicExamples": [
+        { "word": "رَجُلَانِ", "location": "5:23", "case": "nominative", "explanation": "Nominativ als Subjekt" },
+        { "word": "يَدَيْهِ", "location": "5:64", "case": "genitive", "explanation": "Dual-Genitiv (Idafa-Erstglied, Nun abgefallen) + Pronominalsuffix" },
+        { "word": "عَيْنَانِ", "location": "55:50", "case": "nominative", "explanation": "Nominativ als Subjekt: فِيهِمَا عَيْنَانِ" },
+        { "word": "وَالِدَيْنِ", "location": "2:83", "case": "genitive", "explanation": "Genitiv — Dualform von وَالِد" }
+      ]
+    },
+    {
+      "id": "five_nouns",
+      "title": "Die fuenf Nomen (al-Asmaa al-Xamsa)",
+      "description": "Fuenf Nomen zeigen den Kasus durch lange Vokale statt kurzer Endungen: أَب (Vater), أَخ (Bruder), حَم (Schwiegervater), فُو (Mund), ذُو (Besitzer). Nur im Singular und als Idafa-Erstglied.",
+      "table": {
+        "nominative": { "ending": "-uu (و)", "example": "أَبُو / أَخُو / ذُو", "function": "Subjekt" },
+        "accusative": { "ending": "-aa (ا)", "example": "أَبَا / أَخَا / ذَا", "function": "Objekt" },
+        "genitive": { "ending": "-ii (ي)", "example": "أَبِي / أَخِي / ذِي", "function": "Nach Praeposition, Idafa" }
+      },
+      "conditions": [
+        "Nur im Singular (nicht im Plural oder Dual)",
+        "Muss Idafa-Erstglied sein (mit Pronominalsuffix oder folgendem Genitiv-Nomen)",
+        "Nicht mit Ta-marbuta-Suffix (nicht أَبَة)",
+        "Nicht als Diminutiv"
+      ],
+      "quranicExamples": [
+        { "word": "أَبُوهُمْ", "location": "12:8", "case": "nominative", "explanation": "Nominativ als Subjekt: وَأَبُونَا شَيْخٌ كَبِيرٌ" },
+        { "word": "أَبَاهُمْ", "location": "12:61", "case": "accusative", "explanation": "Akkusativ als Objekt" },
+        { "word": "أَبِيكُمْ", "location": "12:59", "case": "genitive", "explanation": "Genitiv als Idafa-Erstglied im Genitiv-Kontext" },
+        { "word": "ذُو الْعَرْشِ", "location": "85:15", "case": "nominative", "explanation": "Nominativ, ذُو als Idafa-Erstglied: Besitzer des Throns" },
+        { "word": "ذِي الْقَرْنَيْنِ", "location": "18:83", "case": "genitive", "explanation": "Genitiv nach عَنْ: يَسْأَلُونَكَ عَنْ ذِي الْقَرْنَيْنِ — die Form ذِي zeigt den Genitiv der fuenfgliedrigen Nomina" },
+        { "word": "ذِي الْجَلَالِ", "location": "55:27", "case": "genitive", "explanation": "Genitiv als Adjektiv-Attribut" },
+        { "word": "أَخُوهُمْ", "location": "7:65", "case": "nominative", "explanation": "Nominativ als Subjekt: أَخُوهُمْ هُودٌ" },
+        { "word": "فَاهُ", "location": "—", "case": "accusative", "explanation": "فُو mit Pronominalsuffix im Akkusativ (selten im Korantext)" }
+      ]
+    },
+    {
+      "id": "indeclinable_pronouns",
+      "title": "Indeklinable Woerter — Personalpronomen",
+      "description": "Personalpronomen sind formunveraenderlich (mabniyy). Ihre syntaktische Funktion wird durch die Position, nicht durch Endungen ausgedrueckt.",
+      "table": {
+        "independent": {
+          "1s": "أَنَا",
+          "1p": "نَحْنُ",
+          "2ms": "أَنْتَ",
+          "2fs": "أَنْتِ",
+          "2md": "أَنْتُمَا",
+          "2mp": "أَنْتُمْ",
+          "2fp": "أَنْتُنَّ",
+          "3ms": "هُوَ",
+          "3fs": "هِيَ",
+          "3md": "هُمَا",
+          "3mp": "هُمْ",
+          "3fp": "هُنَّ"
+        },
+        "suffixed": {
+          "1s": "-ي / -نِي",
+          "1p": "-نَا",
+          "2ms": "-كَ",
+          "2fs": "-كِ",
+          "2mp": "-كُمْ",
+          "2fp": "-كُنَّ",
+          "3ms": "-هُ",
+          "3fs": "-هَا",
+          "3mp": "-هُمْ",
+          "3fp": "-هُنَّ"
+        }
+      },
+      "note": "Dualformen sind im Quran selten, aber fuer Vollstaendigkeit aufgefuehrt.",
+      "quranicExamples": [
+        { "word": "هُوَ", "location": "112:1", "case": "—", "explanation": "Unabhaengiges Pronomen, 3. Person maskulin Singular, formunveraenderlich" },
+        { "word": "أَنْتُمْ", "location": "2:85", "case": "—", "explanation": "Unabhaengiges Pronomen, 2. Person maskulin Plural" },
+        { "word": "إِيَّاكَ", "location": "1:5", "case": "accusative (funktion)", "explanation": "Betontes Objektpronomen, 2. Pers. mask. Sg. — formunveraenderlich, aber Akkusativ-Funktion" }
+      ]
+    },
+    {
+      "id": "indeclinable_demonstratives",
+      "title": "Indeklinable Woerter — Demonstrativpronomen",
+      "description": "Demonstrativpronomen sind formunveraenderlich. Sie zeigen Genus und Numerus, aber keinen Kasus.",
+      "table": {
+        "near": {
+          "ms": "هَذَا",
+          "fs": "هَذِهِ",
+          "md": "هَذَانِ (Nom.) / هَذَيْنِ (Akk./Gen.)",
+          "fd": "هَاتَانِ (Nom.) / هَاتَيْنِ (Akk./Gen.)",
+          "mp": "هَؤُلَاءِ",
+          "fp": "هَؤُلَاءِ"
+        },
+        "far": {
+          "ms": "ذَلِكَ",
+          "fs": "تِلْكَ",
+          "md": "ذَانِكَ (Nom.) / ذَيْنِكَ (Akk./Gen.)",
+          "mp": "أُولَئِكَ",
+          "fp": "أُولَئِكَ"
+        }
+      },
+      "note": "Einige Dualformen der Demonstrativa zeigen kasusaehnliche Veraenderungen (هَذَانِ/هَذَيْنِ), sind aber im Kern mabniyy.",
+      "quranicExamples": [
+        { "word": "ذَلِكَ", "location": "2:2", "case": "—", "explanation": "Fernes Demonstrativpronomen, formunveraenderlich" },
+        { "word": "هَذَا", "location": "2:25", "case": "—", "explanation": "Nahes Demonstrativpronomen, formunveraenderlich" },
+        { "word": "هَؤُلَاءِ", "location": "2:31", "case": "—", "explanation": "Plural-Demonstrativpronomen" },
+        { "word": "تِلْكَ", "location": "2:111", "case": "—", "explanation": "Fernes feminines Demonstrativpronomen" }
+      ]
+    },
+    {
+      "id": "indeclinable_particles",
+      "title": "Indeklinable Woerter — Partikeln und Adverbien",
+      "description": "Partikeln (Huruf), manche Adverbien und Relativpronomen sind formunveraenderlich.",
+      "categories": [
+        {
+          "type": "Praepositionen",
+          "examples": ["فِي", "مِنْ", "إِلَى", "عَلَى", "عَنْ", "بِ", "لِ", "كَ"],
+          "note": "Regieren den Genitiv"
+        },
+        {
+          "type": "Konjunktionen",
+          "examples": ["وَ", "فَ", "ثُمَّ", "أَوْ", "أَنَّ", "إِنَّ", "لَكِنَّ"],
+          "note": "إِنَّ und Schwestern regieren Akkusativ fuer das Subjekt"
+        },
+        {
+          "type": "Negationspartikeln",
+          "examples": ["لَا", "لَمْ", "لَنْ", "مَا"],
+          "note": "لَمْ und لَنْ beeinflussen den Verbmodus (Jussiv bzw. Subjunktiv). لَيْسَ ist syntaktisch ein Verb (Schwester von كَانَ), funktional zur Negation verwendet — siehe Schwestern von كَانَ."
+        },
+        {
+          "type": "Relativpronomen",
+          "examples": ["الَّذِي", "الَّتِي", "الَّذِينَ", "اللَّاتِي", "اللَّائِي"],
+          "note": "Formunveraenderlich, ausser Dual: اللَّذَانِ/اللَّذَيْنِ"
+        },
+        {
+          "type": "Ortsadverbien",
+          "examples": ["حَيْثُ", "هُنَا", "هُنَاكَ", "ثَمَّ"],
+          "note": "Auf Damma oder Fatha endend, formunveraenderlich"
+        }
+      ],
+      "quranicExamples": [
+        { "word": "الَّذِينَ", "location": "2:3", "case": "—", "explanation": "Relativpronomen Plural — formunveraenderlich, aber hier als Subjekt in Nominativ-Funktion" },
+        { "word": "إِنَّ", "location": "2:6", "case": "—", "explanation": "Partikel — regiert Akkusativ fuer das Subjekt des Nominalsatzes" },
+        { "word": "حَيْثُ", "location": "2:35", "case": "—", "explanation": "Ortsadverb — formunveraenderlich, auf Damma gebaut" }
+      ]
+    }
+  ],
+  "drillExercises": [
+    {
+      "type": "identify_case",
+      "word": "الْكِتَابُ",
+      "context": "ذَلِكَ الْكِتَابُ لَا رَيْبَ فِيهِ (2:2)",
+      "expected": "nominative",
+      "explanation": "الْكِتَابُ steht im Nominativ (Damma) als Praedikat (Xabar) zu ذَلِكَ oder als Subjekt (Mubtada)."
+    },
+    {
+      "type": "identify_case",
+      "word": "الصِّرَاطَ",
+      "context": "اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ (1:6)",
+      "expected": "accusative",
+      "explanation": "الصِّرَاطَ steht im Akkusativ (Fatha) als direktes Objekt (Maf3ul bihi) des Verbs اهْدِنَا."
+    },
+    {
+      "type": "identify_case",
+      "word": "اللَّهِ",
+      "context": "بِسْمِ اللَّهِ (1:1)",
+      "expected": "genitive",
+      "explanation": "اللَّهِ steht im Genitiv (Kasra) als Idafa-Zweitglied (Mudaf ilayhi) nach اسْم."
+    },
+    {
+      "type": "identify_case",
+      "word": "الْمُؤْمِنُونَ",
+      "context": "قَدْ أَفْلَحَ الْمُؤْمِنُونَ (23:1)",
+      "expected": "nominative",
+      "explanation": "الْمُؤْمِنُونَ steht im Nominativ (-uuna) als Subjekt (Fa3il) des Verbs أَفْلَحَ."
+    },
+    {
+      "type": "identify_case",
+      "word": "الْمُسْلِمِينَ",
+      "context": "إِنَّ الْمُسْلِمِينَ وَالْمُسْلِمَاتِ (33:35)",
+      "expected": "accusative",
+      "explanation": "الْمُسْلِمِينَ steht im Akkusativ (-iina) als Subjekt von إِنَّ (Ism Inna, regiert Akkusativ)."
+    },
+    {
+      "type": "identify_case",
+      "word": "الْعَالَمِينَ",
+      "context": "رَبِّ الْعَالَمِينَ (1:2)",
+      "expected": "genitive",
+      "explanation": "الْعَالَمِينَ steht im Genitiv (-iina = Akk./Gen.) als Idafa-Zweitglied nach رَبّ."
+    },
+    {
+      "type": "identify_case",
+      "word": "كِتَابًا",
+      "context": "وَكَتَبْنَا لَهُ فِي الْأَلْوَاحِ مِنْ كُلِّ شَيْءٍ مَوْعِظَةً (7:145)",
+      "expected": "accusative",
+      "explanation": "Akkusativ (Tanwin Fatha) als Objekt oder Spezifikation (Tamyiz/Hal)."
+    },
+    {
+      "type": "identify_case",
+      "word": "رِيحٍ",
+      "context": "كَمَثَلِ رِيحٍ فِيهَا صِرٌّ (3:117)",
+      "expected": "genitive",
+      "explanation": "رِيحٍ steht im Genitiv (Tanwin Kasra) als Idafa-Zweitglied nach مَثَل."
+    },
+    {
+      "type": "identify_case",
+      "word": "إِبْرَاهِيمَ",
+      "context": "وَإِذِ ابْتَلَى إِبْرَاهِيمَ رَبُّهُ (2:124)",
+      "expected": "accusative",
+      "explanation": "إِبْرَاهِيمَ steht im Akkusativ (Fatha) als Objekt. Als Diptot hat es auch im Genitiv Fatha, aber hier ist es syntaktisch Objekt."
+    },
+    {
+      "type": "identify_case",
+      "word": "ذُو",
+      "context": "ذُو الْعَرْشِ الْمَجِيدُ (85:15)",
+      "expected": "nominative",
+      "explanation": "ذُو steht im Nominativ (langer Vokal -uu) als Attribut oder Praedikat. Eines der fuenf Nomen."
+    },
+    {
+      "type": "identify_case",
+      "word": "أَبَانَا",
+      "context": "يَا أَبَانَا (12:11)",
+      "expected": "accusative",
+      "explanation": "أَبَا steht im Akkusativ (langer Vokal -aa) als Vokativpartikel-Objekt. Eines der fuenf Nomen mit Pronominalsuffix."
+    },
+    {
+      "type": "identify_case",
+      "word": "السَّمَاوَاتِ",
+      "context": "خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ (6:1)",
+      "expected": "accusative",
+      "explanation": "السَّمَاوَاتِ steht im Akkusativ als Objekt von خَلَقَ. Gesunder Femininplural: Akkusativ hat Kasra (nicht Fatha!)."
+    },
+    {
+      "type": "identify_case",
+      "word": "رَجُلَانِ",
+      "context": "قَالَ رَجُلَانِ (5:23)",
+      "expected": "nominative",
+      "explanation": "رَجُلَانِ steht im Nominativ (-aani) als Subjekt (Fa3il) des Verbs قَالَ. Dualform."
+    },
+    {
+      "type": "identify_case",
+      "word": "وَالِدَيْنِ",
+      "context": "وَبِالْوَالِدَيْنِ إِحْسَانًا (2:83)",
+      "expected": "genitive",
+      "explanation": "الْوَالِدَيْنِ steht im Genitiv (-ayni) nach der Praeposition بِ. Dualform."
+    },
+    {
+      "type": "identify_case",
+      "word": "هُدًى",
+      "context": "هُدًى لِلْمُتَّقِينَ (2:2)",
+      "expected": "nominative",
+      "explanation": "هُدًى steht im Nominativ als Praedikat. Bei Alif-maqsura-Nomen sind die Kasusendungen nicht sichtbar (muqaddar)."
+    },
+    {
+      "type": "identify_case",
+      "word": "مَسَاجِدَ",
+      "context": "أَنْ يُذْكَرَ فِيهَا اسْمُهُ وَمَسَاجِدَ (22:40)",
+      "expected": "genitive",
+      "explanation": "مَسَاجِدَ im Genitiv (Funktion). Als Diptot: Fatha statt Kasra im Genitiv."
+    },
+    {
+      "type": "identify_case",
+      "word": "نَارًا",
+      "context": "مَثَلُهُمْ كَمَثَلِ الَّذِي اسْتَوْقَدَ نَارًا (2:17)",
+      "expected": "accusative",
+      "explanation": "نَارًا steht im Akkusativ (Tanwin Fatha) als Objekt (Maf3ul bihi) des Verbs اسْتَوْقَدَ."
+    },
+    {
+      "type": "identify_case",
+      "word": "يَوْمَ",
+      "context": "مَالِكِ يَوْمِ الدِّينِ (1:4)",
+      "expected": "genitive",
+      "explanation": "يَوْمِ steht im Genitiv (Kasra) als Idafa-Zweitglied nach مَالِك."
+    },
+    {
+      "type": "identify_case",
+      "word": "أَخُوهُمْ",
+      "context": "إِذْ قَالَ لَهُمْ أَخُوهُمْ هُودٌ (7:65)",
+      "expected": "nominative",
+      "explanation": "أَخُو steht im Nominativ (langer Vokal -uu) als Subjekt (Fa3il) von قَالَ. Eines der fuenf Nomen."
+    },
+    {
+      "type": "identify_case",
+      "word": "آيَاتٍ",
+      "context": "وَلَقَدْ أَنْزَلْنَا إِلَيْكَ آيَاتٍ بَيِّنَاتٍ (2:99)",
+      "expected": "accusative",
+      "explanation": "آيَاتٍ steht im Akkusativ als Objekt von أَنْزَلْنَا. Gesunder Femininplural: Akkusativ hat Kasra!"
+    },
+    {
+      "type": "identify_case",
+      "word": "رَبِّ",
+      "context": "الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ (1:2)",
+      "expected": "genitive",
+      "explanation": "رَبِّ steht im Genitiv als Apposition (Badal) zu اللَّهِ, das selbst im Genitiv nach لِ steht."
+    },
+    {
+      "type": "identify_case",
+      "word": "أَكْبَرُ",
+      "context": "وَلَذِكْرُ اللَّهِ أَكْبَرُ (29:45)",
+      "expected": "nominative",
+      "explanation": "أَكْبَرُ steht im Nominativ (Damma) als Praedikat (Xabar). Diptotisch (Elativ), aber hier im Nominativ kein Unterschied."
+    },
+    {
+      "type": "identify_case",
+      "word": "الْمُتَّقِينَ",
+      "context": "هُدًى لِلْمُتَّقِينَ (2:2)",
+      "expected": "genitive",
+      "explanation": "الْمُتَّقِينَ steht im Genitiv (-iina) nach der Praeposition لِ. Gesunder Maskulinplural."
+    }
+  ]
+}

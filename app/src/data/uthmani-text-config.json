@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "title": "Uthmani-Text Konfiguration",
+    "description": "Konfiguration fuer die parallele Anzeige von Uthmani-Orthographie neben den anderen Textschichten.",
+    "status": "INTEGRIERT — quran-uthmani.json aus tanzil.net/download (Quran Uthmani Format)",
+    "source": "https://tanzil.net/download — 'Quran Uthmani' Format, Text Output",
+    "format": "JSON mit identischer Struktur wie quran-simple-clean.json, aber mit Uthmani-Orthographie und Tashkil"
+  },
+  "layerDefinition": {
+    "id": "uthmani",
+    "name": "Uthmani (الرسم العثماني)",
+    "description": "Uthmani-Orthographie: Text mit I'jam (Buchstabenpunkte) und den historischen Schreibkonventionen des Mushaf. Kein Rasm im eigentlichen Sinn — der nackte Rasm ohne I'jam ist eine separate Schicht.",
+    "differences": [
+      "الصلوة statt الصلاة (Alif als Waw geschrieben)",
+      "الزكوة statt الزكاة",
+      "الرَّحْمٰنِ mit Alif Khanjariyya statt الرحمان mit vollem Alif",
+      "ابرهيم statt ابراهيم (fehlendes Alif in bestimmten Suren)",
+      "ٱ (Alif Wasla) explizit markiert"
+    ]
+  },
+  "integration": {
+    "QuranTextDisplay": "Neue Schicht 'Uthmani' zwischen Konsonantal und Rasm",
+    "ContinuousReader": "Neue Schicht 'Uthmani' zwischen Konsonantal und Rasm",
+    "dataFile": "quran-uthmani.json — 114 Suren, 6236 Verse, ca. 1.7 MB"
+  }
+}

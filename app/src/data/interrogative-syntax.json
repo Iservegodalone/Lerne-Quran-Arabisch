@@ -1,0 +1,617 @@
+{
+  "meta": {
+    "title": "Fragepartikel-System",
+    "description": "Systematische Behandlung der Interrogativpartikeln und ihrer syntaktischen Funktionen im Quranischen Arabisch. Kontrastive Analyse der einzelnen Partikeln mit authentischen Quran-Belegen."
+  },
+  "lessons": [
+    {
+      "id": "IS1",
+      "title": "Ja/Nein-Fragen: أَ vs. هَلْ",
+      "learnContent": {
+        "sections": [
+          {
+            "type": "explanation",
+            "title": "أَ (Hamza al-Istifham)",
+            "content": "أَ ist das grundlegende und vielseitigste Fragepartikel im Arabischen. Seine Eigenschaften:\n\n1. Position: Steht am absoluten Satzanfang, vor JEDEM Satzglied — Nomen, Verb, Partikel\n2. Kann Alternativen einleiten: أَ ... أَمْ ('ob ... oder')\n3. Kann vor Negationspartikeln stehen: أَلَمْ, أَلَا, أَلَيْسَ\n4. Im Quran deutlich haeufiger als هَلْ\n\nWichtig: أَ ist phonetisch ein Hamza (Glottisschlag). Vor einem Wort das selbst mit Hamza beginnt, kann Zusammenfall auftreten: أَأَنتَ oder آأَنتَ."
+          },
+          {
+            "type": "explanation",
+            "title": "هَلْ",
+            "content": "هَلْ ist ein Fragepartikel mit engerer Distribution:\n\n1. Steht nur vor Verben — nicht direkt vor Nomen (Ausnahmen im Quran sind umstritten)\n2. Erwartet eine einfache Ja/Nein-Antwort\n3. Kann NICHT mit أَمْ eine Alternative einleiten (kein هَلْ ... أَمْ)\n4. Kann NICHT vor Negationspartikeln stehen (kein *هَلْ لَمْ, kein *هَلْ لَا)\n\nDiese Einschraenkungen machen هَلْ zum syntaktisch markierten Fragepartikel — أَ ist der Defaultfall."
+          },
+          {
+            "type": "explanation",
+            "title": "Kontrastive Analyse: أَ vs. هَلْ",
+            "content": "Die Unterschiede zusammengefasst:\n\n| Eigenschaft | أَ | هَلْ |\n|-------------|---|----- |\n| Vor Nomen | Ja | Nein |\n| Vor Verben | Ja | Ja |\n| Alternative (أَمْ) | Ja | Nein |\n| Vor Negation | Ja (أَلَمْ, أَلَا) | Nein |\n| Haeufigkeit im Quran | Sehr hoch | Niedriger |\n\nPraktische Regel: Wenn eine Frage eine Alternative enthaelt oder vor einem Nomen oder einer Negation steht, MUSS أَ stehen. هَلْ ist auf einfache, nicht-alternative Verbfragen beschraenkt."
+          },
+          {
+            "type": "quranExamples",
+            "title": "أَ und هَلْ im Quran",
+            "examples": [
+              {
+                "ref": "2:6",
+                "arabic": "سَوَاءٌ عَلَيْهِمْ أَأَنذَرْتَهُمْ أَمْ لَمْ تُنذِرْهُمْ لَا يُؤْمِنُونَ",
+                "explanation": "أَ ... أَمْ — Alternative: 'ob du sie warnst oder nicht warnst'. Nur أَ kann mit أَمْ eine Alternative bilden. هَلْ waere hier unmoeglich."
+              },
+              {
+                "ref": "2:140",
+                "arabic": "أَمْ تَقُولُونَ إِنَّ إِبْرَاهِيمَ وَإِسْمَاعِيلَ وَإِسْحَاقَ وَيَعْقُوبَ وَالْأَسْبَاطَ كَانُوا هُودًا أَوْ نَصَارَىٰ ۗ قُلْ أَأَنتُمْ أَعْلَمُ أَمِ اللَّهُ",
+                "explanation": "أَأَنتُمْ أَعْلَمُ أَمِ اللَّهُ — أَ vor Nomen (أَنتُمْ) mit Alternative أَمْ. 'Seid IHR wissender oder Gott?' Beides nur mit أَ moeglich."
+              },
+              {
+                "ref": "7:65",
+                "arabic": "أَوَلَمْ يَتَفَكَّرُوا",
+                "explanation": "أَ + وَ + لَمْ — Hamza al-Istifham vor der Konjunktion وَ und der Negationspartikel لَمْ. Drei Partikeln gestapelt. هَلْ koennte hier nicht stehen (nicht vor Negation)."
+              },
+              {
+                "ref": "36:60",
+                "arabic": "أَلَمْ أَعْهَدْ إِلَيْكُمْ يَا بَنِي آدَمَ أَن لَّا تَعْبُدُوا الشَّيْطَانَ",
+                "explanation": "أَلَمْ أَعْهَدْ — أَ + لَمْ + Jussiv. 'Habe ich euch nicht aufgetragen...?' Die Kombination أَ + Negation ergibt eine erwartete Bejahung (rhetorische Frage)."
+              },
+              {
+                "ref": "76:1",
+                "arabic": "هَلْ أَتَىٰ عَلَى الْإِنسَانِ حِينٌ مِّنَ الدَّهْرِ لَمْ يَكُن شَيْئًا مَّذْكُورًا",
+                "explanation": "هَلْ أَتَى — هَلْ vor Verb (أَتَى). Einfache Ja/Nein-Frage ohne Alternative. Keine Negation direkt nach هَلْ."
+              },
+              {
+                "ref": "88:1",
+                "arabic": "هَلْ أَتَاكَ حَدِيثُ الْغَاشِيَةِ",
+                "explanation": "هَلْ أَتَاكَ — 'Ist zu dir die Kunde des Ueberwaeltigenden gekommen?' هَلْ vor Verb. Einfache Frage, die Aufmerksamkeit lenkt."
+              },
+              {
+                "ref": "67:3",
+                "arabic": "هَلْ تَرَىٰ مِن فُطُورٍ",
+                "explanation": "هَلْ تَرَى — 'Siehst du einen Riss?' هَلْ vor Imperfektverb. Reine Ja/Nein-Frage."
+              }
+            ]
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "analysis",
+          "prompt": "Warum kann in 2:6 (أَأَنذَرْتَهُمْ أَمْ لَمْ تُنذِرْهُمْ) nicht هَلْ statt أَ stehen? Nenne zwei syntaktische Gruende.",
+          "hint": "1. Es liegt eine أَمْ-Alternative vor — هَلْ kann keine Alternative einleiten. 2. أَ steht hier vor einem Verb, was auch mit هَلْ ginge, aber die Alternative schliesst هَلْ aus."
+        },
+        {
+          "type": "identification",
+          "prompt": "Lies 21:30. Steht dort أَ oder هَلْ? Vor welchem Wort steht das Fragepartikel? Koennte die andere Partikel an dieser Stelle stehen?",
+          "hint": "Achte auf أَوَلَمْ — das ist أَ + وَ + لَمْ. هَلْ koennte nicht vor Negation stehen."
+        },
+        {
+          "type": "analysis",
+          "prompt": "Vergleiche 88:1 (هَلْ أَتَاكَ حَدِيثُ الْغَاشِيَةِ) mit 2:6 (أَأَنذَرْتَهُمْ أَمْ لَمْ تُنذِرْهُمْ). Was ist der strukturelle Unterschied der Frage?",
+          "hint": "88:1 ist eine einfache Ja/Nein-Frage (هَلْ, ohne Alternative). 2:6 ist eine Alternative (أَ ... أَمْ: 'ob X oder Y')."
+        }
+      ],
+      "testContent": {
+        "exercises": [
+          {
+            "question": "Welche Partikel kann vor Nomen UND Verben stehen?",
+            "options": [
+              "Nur هَلْ",
+              "Nur أَ",
+              "Beide",
+              "Keine von beiden"
+            ],
+            "correct": 1,
+            "explanation": "أَ kann vor jedem Satzglied stehen — Nomen, Verben, Partikeln. هَلْ steht nur vor Verben."
+          },
+          {
+            "question": "Welche Kombination ist syntaktisch unmoeglich?",
+            "options": [
+              "أَلَمْ يَفْعَلْ",
+              "هَلْ فَعَلَ",
+              "هَلْ لَمْ يَفْعَلْ",
+              "أَفَعَلَ"
+            ],
+            "correct": 2,
+            "explanation": "هَلْ kann nicht vor Negationspartikeln stehen. *هَلْ لَمْ ist unmoeglich. Die korrekte Form waere أَلَمْ."
+          },
+          {
+            "question": "Was ist die Funktion von أَمْ in أَأَنذَرْتَهُمْ أَمْ لَمْ تُنذِرْهُمْ (2:6)?",
+            "options": [
+              "Negation",
+              "Konjunktion ('und')",
+              "Alternative ('oder' in einer Doppelfrage)",
+              "Ausruf"
+            ],
+            "correct": 2,
+            "explanation": "أَمْ leitet die zweite Alternative in einer أَ ... أَمْ-Konstruktion ein: 'ob du sie warnst ODER nicht warnst.' Nur أَ (nicht هَلْ) kann mit أَمْ kombiniert werden."
+          },
+          {
+            "question": "In أَأَنتُمْ أَعْلَمُ أَمِ اللَّهُ (2:140) — warum steht أَ und nicht هَلْ?",
+            "options": [
+              "Zufall — beide waeren moeglich",
+              "Weil أَ vor dem Nomen أَنتُمْ steht UND eine أَمْ-Alternative folgt",
+              "Weil der Satz verneint ist",
+              "Weil هَلْ nur in Prosa vorkommt"
+            ],
+            "correct": 1,
+            "explanation": "Zwei Gruende: (1) أَ steht vor dem Pronomen أَنتُمْ (Nomen) — هَلْ koennte nicht vor einem Nomen stehen. (2) Es folgt eine أَمْ-Alternative — هَلْ erlaubt kein أَمْ."
+          }
+        ]
+      }
+    },
+    {
+      "id": "IS2",
+      "title": "W-Fragen: مَنْ, مَا, مَاذَا",
+      "learnContent": {
+        "sections": [
+          {
+            "type": "explanation",
+            "title": "مَنْ — Frage nach Personen",
+            "content": "مَنْ fragt nach Personen ('wer'). Syntaktische Eigenschaften:\n\n1. مَنْ ist ein Nomen (nicht eine Partikel) — es hat eine Kasusfunktion im Satz\n2. Als Subjekt: مَنْ فَعَلَ هَذَا ('wer hat das getan?') — مَنْ ist Subjekt im Nominativ\n3. Als Objekt: مَنْ تَعْبُدُونَ ('wen dient ihr?') — مَنْ ist Objekt im Akkusativ\n4. Mit Praeposition: لِمَنْ, مِمَّنْ, عَمَّنْ — die Praeposition geht voran\n\nDie Kasusform von مَنْ ist nicht sichtbar (unveraenderlich), aber die syntaktische Funktion wird aus dem Kontext bestimmt."
+          },
+          {
+            "type": "explanation",
+            "title": "مَا und مَاذَا — Frage nach Sachen",
+            "content": "مَا und مَاذَا fragen nach Sachen und Sachverhalten ('was').\n\n- مَا kann als Subjekt, Objekt oder mit Praeposition stehen\n- مَاذَا: Zusammensetzung aus مَا + ذَا. Zwei Analysen: (a) مَا ist Fragewort, ذَا ist Demonstrativ/Relativum; (b) مَاذَا ist ein einheitliches Fragewort\n- مَا kann auch in Ausrufen erscheinen: مَا أَحْسَنَ! ('wie schoen!') — keine Frage, sondern Exklamation\n\nMit Praepositionen: لِمَ / لِمَا ('warum/wofuer'), بِمَ ('womit'), فِيمَ ('worin'), عَمَّ ('worueber'). Bei مَا nach Praeposition faellt oft das Alif weg: عَنْ مَا → عَمَّ."
+          },
+          {
+            "type": "quranExamples",
+            "title": "مَنْ, مَا und مَاذَا im Quran",
+            "examples": [
+              {
+                "ref": "21:59",
+                "arabic": "قَالُوا مَن فَعَلَ هَٰذَا بِآلِهَتِنَا",
+                "explanation": "مَنْ فَعَلَ — مَنْ als Subjekt: 'Wer hat das unseren Goettern angetan?' مَنْ hat die Funktion des Faa'il (Subjekt/Agens)."
+              },
+              {
+                "ref": "26:23",
+                "arabic": "قَالَ فِرْعَوْنُ وَمَا رَبُّ الْعَالَمِينَ",
+                "explanation": "مَا رَبُّ الْعَالَمِينَ — 'Was ist der Herr der Welten?' مَا als Praedikat-Frage (fragt nach dem Wesen/der Identitaet). مَا ist hier das Praedikat (خبر) eines Nominalsatzes."
+              },
+              {
+                "ref": "2:17",
+                "arabic": "مَثَلُهُمْ كَمَثَلِ الَّذِي اسْتَوْقَدَ نَارًا",
+                "explanation": "Kein Fragewort — zum Vergleich: Nicht jedes مَا oder مَنْ ist interrogativ. Hier ist الَّذِي ein Relativpronomen. Im Kontext entscheidet die Syntax ueber die Funktion."
+              },
+              {
+                "ref": "2:108",
+                "arabic": "أَمْ تُرِيدُونَ أَن تَسْأَلُوا رَسُولَكُمْ كَمَا سُئِلَ مُوسَىٰ مِن قَبْلُ",
+                "explanation": "كَمَا سُئِلَ — hier ist مَا relativisch ('wie das, was'). Kontextabhaengige Unterscheidung zwischen interrogativem und relativischem مَا."
+              },
+              {
+                "ref": "2:215",
+                "arabic": "يَسْأَلُونَكَ مَاذَا يُنفِقُونَ",
+                "explanation": "مَاذَا يُنفِقُونَ — 'Was sollen sie ausgeben?' مَاذَا als interrogatives Objekt. Das Verb steht im Indikativ (keine Jussiv-Rektion durch مَاذَا in Fragen)."
+              },
+              {
+                "ref": "78:1",
+                "arabic": "عَمَّ يَتَسَاءَلُونَ",
+                "explanation": "عَمَّ = عَنْ + مَا — 'Worueber befragen sie sich?' Praeposition عَنْ + مَا mit Assimilation und Wegfall des Alif. Typisches Muster fuer مَا nach Praeposition."
+              }
+            ]
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "identification",
+          "prompt": "Lies 2:28. Dort steht كَيْفَ تَكْفُرُونَ بِاللَّهِ — kein مَنْ oder مَا. Lies dann 36:78 (مَن يُحْيِي الْعِظَامَ وَهِيَ رَمِيمٌ). Was ist die syntaktische Funktion von مَنْ in 36:78?",
+          "hint": "مَنْ ist Subjekt (فاعل) des Verbs يُحْيِي. 'Wer belebt die Knochen?' — مَنْ fragt nach dem Agens."
+        },
+        {
+          "type": "analysis",
+          "prompt": "In 78:1 steht عَمَّ (= عَنْ + مَا). Erklaere die phonologische Veraenderung: Warum verschwindet das Alif von مَا nach der Praeposition?",
+          "hint": "Nach Praepositionen faellt das End-Alif von مَا regelmaessig weg: عَنْ مَا → عَمَّا → عَمَّ. Ebenso: فِي مَا → فِيمَ, لِ مَا → لِمَ."
+        },
+        {
+          "type": "analysis",
+          "prompt": "Vergleiche 26:23 (مَا رَبُّ الْعَالَمِينَ) mit 26:28 (رَبُّ الْمَشْرِقِ وَالْمَغْرِبِ). Die Frage mit مَا fragt nach dem Wesen. Die Antwort definiert durch Attribute. Welche syntaktische Rolle hat مَا in der Frage?",
+          "hint": "مَا ist das Praedikat (خبر) des Nominalsatzes. رَبُّ الْعَالَمِينَ ist das Subjekt (مبتدأ). Die Frage lautet woeortlich: 'Was [ist] der Herr der Welten?'"
+        }
+      ],
+      "testContent": {
+        "exercises": [
+          {
+            "question": "Was ist die syntaktische Funktion von مَنْ in مَنْ فَعَلَ هَٰذَا (21:59)?",
+            "options": [
+              "Objekt (مفعول به)",
+              "Subjekt (فاعل)",
+              "Praepositional-Ergaenzung",
+              "Praedikat (خبر)"
+            ],
+            "correct": 1,
+            "explanation": "مَنْ ist das Subjekt (فاعل) des Verbs فَعَلَ. Es fragt nach dem Agens: 'Wer hat das getan?'"
+          },
+          {
+            "question": "عَمَّ يَتَسَاءَلُونَ (78:1) — aus welchen Teilen besteht عَمَّ?",
+            "options": [
+              "عَنْ + مَنْ",
+              "عَلَى + مَا",
+              "عَنْ + مَا (mit Wegfall des Alif)",
+              "عَمَّ ist ein eigenstaendiges Wort"
+            ],
+            "correct": 2,
+            "explanation": "عَمَّ = عَنْ + مَا. Das End-Alif von مَا faellt nach Praepositionen regelmaessig weg, und نْ assimiliert zu مّ."
+          },
+          {
+            "question": "Was unterscheidet مَنْ von مَا in ihrer Referenz?",
+            "options": [
+              "Kein Unterschied",
+              "مَنْ fragt nach Personen (belebt), مَا nach Sachen/Sachverhalten (unbelebt)",
+              "مَنْ ist feminin, مَا maskulin",
+              "مَنْ steht nur als Subjekt, مَا nur als Objekt"
+            ],
+            "correct": 1,
+            "explanation": "مَنْ referiert auf Personen (belebte Wesen), مَا auf Sachen, Sachverhalte und Unbelebtes. Beide koennen Subjekt, Objekt oder Praepositional-Ergaenzung sein."
+          }
+        ]
+      }
+    },
+    {
+      "id": "IS3",
+      "title": "Umstands-Fragen: كَيْفَ, أَيْنَ, مَتَى, أَنَّى",
+      "learnContent": {
+        "sections": [
+          {
+            "type": "explanation",
+            "title": "كَيْفَ — Frage nach der Art und Weise",
+            "content": "كَيْفَ ('wie') fragt nach der Art und Weise oder dem Zustand.\n\nSyntaktisch: كَيْفَ ist ein Adverb (ظرف / حال). Es steht typisch am Satzanfang:\n- كَيْفَ + Verb: كَيْفَ تَكْفُرُونَ ('Wie koennt ihr leugnen?')\n- كَيْفَ + Nomen: كَيْفَ حَالُكَ ('Wie ist dein Zustand?')\n\nIm Quran hat كَيْفَ haeufig rhetorische Funktion — die Frage drueckt Verwunderung oder Tadel aus, nicht Informationssuche."
+          },
+          {
+            "type": "explanation",
+            "title": "أَيْنَ und مَتَى — Ort und Zeit",
+            "content": "أَيْنَ ('wo') fragt nach dem Ort:\n- أَيْنَ تَذْهَبُونَ ('Wohin geht ihr?')\n- أَيْنَ + مَا = أَيْنَمَا ('wo auch immer') — dann Konditionalpartikel, kein Fragewort\n\nمَتَى ('wann') fragt nach dem Zeitpunkt:\n- مَتَى نَصْرُ اللَّهِ ('Wann kommt Gottes Hilfe?')\n- مَتَى هَذَا الْوَعْدُ ('Wann ist dieses Versprechen?')\n\nBeide sind Adverbien und stehen am Satzanfang."
+          },
+          {
+            "type": "explanation",
+            "title": "أَنَّى — Multifunktionales Fragewort",
+            "content": "أَنَّى ist ein besonderes Fragewort, das je nach Kontext verschiedene Bedeutungen haben kann:\n\n1. 'Woher' (= مِنْ أَيْنَ): أَنَّى لَكِ هَذَا ('Woher hast du das?')\n2. 'Wie' (= كَيْفَ): أَنَّى يَكُونُ لِي ('Wie soll mir das geschehen?')\n3. 'Wo' (= أَيْنَ): seltener\n\nDer Kontext entscheidet ueber die Bedeutung. أَنَّى vereint die Funktionen von كَيْفَ, أَيْنَ und مِنْ أَيْنَ — es ist breiter als jedes einzelne dieser Fragemittel."
+          },
+          {
+            "type": "quranExamples",
+            "title": "Umstands-Fragepartikeln im Quran",
+            "examples": [
+              {
+                "ref": "2:28",
+                "arabic": "كَيْفَ تَكْفُرُونَ بِاللَّهِ وَكُنتُمْ أَمْوَاتًا فَأَحْيَاكُمْ",
+                "explanation": "كَيْفَ تَكْفُرُونَ — 'Wie koennt ihr leugnen?' Rhetorische Frage: drueckt Verwunderung und Tadel aus, keine Informationssuche. كَيْفَ als Zustandsadverb."
+              },
+              {
+                "ref": "3:101",
+                "arabic": "وَكَيْفَ تَكْفُرُونَ وَأَنتُمْ تُتْلَىٰ عَلَيْكُمْ آيَاتُ اللَّهِ وَفِيكُمْ رَسُولُهُ",
+                "explanation": "وَكَيْفَ تَكْفُرُونَ — Dieselbe Struktur wie 2:28. Hier mit Zustandssatz (وَأَنتُمْ تُتْلَى): 'Wie koennt ihr leugnen, WAEHREND euch die Zeichen vorgetragen werden?'"
+              },
+              {
+                "ref": "81:26",
+                "arabic": "فَأَيْنَ تَذْهَبُونَ",
+                "explanation": "أَيْنَ تَذْهَبُونَ — 'Wohin geht ihr?' Rhetorische Frage am Ende der Sure — Verwunderung ueber die Abkehr."
+              },
+              {
+                "ref": "2:214",
+                "arabic": "مَتَىٰ نَصْرُ اللَّهِ ۗ أَلَا إِنَّ نَصْرَ اللَّهِ قَرِيبٌ",
+                "explanation": "مَتَى نَصْرُ اللَّهِ — 'Wann [kommt] Gottes Hilfe?' Echte Informationsfrage (nicht rhetorisch). Nominalsatz: مَتَى ist Praedikat, نَصْرُ اللَّهِ Subjekt."
+              },
+              {
+                "ref": "3:37",
+                "arabic": "قَالَ يَا مَرْيَمُ أَنَّىٰ لَكِ هَٰذَا ۖ قَالَتْ هُوَ مِنْ عِندِ اللَّهِ",
+                "explanation": "أَنَّى لَكِ هَذَا — 'Woher hast du das?' أَنَّى in der Bedeutung 'woher' (مِنْ أَيْنَ). Echte Frage nach dem Ursprung der Versorgung."
+              },
+              {
+                "ref": "3:40",
+                "arabic": "قَالَ رَبِّ أَنَّىٰ يَكُونُ لِي غُلَامٌ وَقَدْ بَلَغَنِيَ الْكِبَرُ",
+                "explanation": "أَنَّى يَكُونُ لِي — 'Wie soll mir ein Junge sein?' أَنَّى in der Bedeutung 'wie' (كَيْفَ). Verwunderung ueber die Moeglichkeit."
+              },
+              {
+                "ref": "2:259",
+                "arabic": "قَالَ أَنَّىٰ يُحْيِي هَٰذِهِ اللَّهُ بَعْدَ مَوْتِهَا",
+                "explanation": "أَنَّى يُحْيِي — 'Wie soll Gott dies nach seinem Tod beleben?' أَنَّى als 'wie' — Frage nach der Art und Weise der Wiederbelebung."
+              }
+            ]
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "analysis",
+          "prompt": "Vergleiche 3:37 (أَنَّىٰ لَكِ هَٰذَا) mit 3:40 (أَنَّىٰ يَكُونُ لِي غُلَامٌ). Dasselbe Wort أَنَّى hat verschiedene Bedeutungen. Wie entscheidest du zwischen 'woher' und 'wie'?",
+          "hint": "In 3:37 geht es um den Ursprung einer Sache (لَكِ = 'bei dir'/'fuer dich') → 'woher'. In 3:40 geht es um die Moeglichkeit eines Ereignisses (يَكُونُ = 'es wird sein') → 'wie'."
+        },
+        {
+          "type": "identification",
+          "prompt": "Lies 67:30 (قُلْ أَرَأَيْتُمْ إِنْ أَصْبَحَ مَاؤُكُمْ غَوْرًا فَمَن يَأْتِيكُم بِمَاءٍ مَّعِينٍ). Welches Fragewort steht hier? Welche Funktion hat es?",
+          "hint": "مَنْ يَأْتِيكُمْ — مَنْ als Subjekt. Die Frage ist rhetorisch: 'Wer bringt euch...' = Niemand (ausser Gott)."
+        },
+        {
+          "type": "identification",
+          "prompt": "In 36:48 und 67:25 steht مَتَى هَٰذَا الْوَعْدُ. Welcher Satztyp liegt vor (Verbal- oder Nominalsatz)? Was ist die Funktion von مَتَى?",
+          "hint": "Nominalsatz: مَتَى ist das Praedikat (Zeitangabe), هَٰذَا الْوَعْدُ das Subjekt. 'Wann [ist/kommt] dieses Versprechen?'"
+        }
+      ],
+      "testContent": {
+        "exercises": [
+          {
+            "question": "Welche Bedeutung hat أَنَّى in أَنَّىٰ لَكِ هَٰذَا (3:37)?",
+            "options": [
+              "Wann",
+              "Woher",
+              "Wie",
+              "Wo"
+            ],
+            "correct": 1,
+            "explanation": "Im Kontext (Frage nach dem Ursprung der Versorgung: 'Woher hast du das?') hat أَنَّى die Bedeutung 'woher' (= مِنْ أَيْنَ)."
+          },
+          {
+            "question": "كَيْفَ تَكْفُرُونَ (2:28) — ist das eine echte Informationsfrage?",
+            "options": [
+              "Ja — der Sprecher will wissen, auf welche Art sie leugnen",
+              "Nein — es ist eine rhetorische Frage, die Verwunderung/Tadel ausdrueckt",
+              "Ja — es fragt nach dem Zeitpunkt",
+              "Nein — es ist ein Befehl"
+            ],
+            "correct": 1,
+            "explanation": "كَيْفَ تَكْفُرُونَ ist rhetorisch: 'Wie KOENNT ihr leugnen?' drueckt Verwunderung und Tadel aus. Der Sprecher sucht keine Information, sondern stellt die Handlung als unverstaendlich dar."
+          },
+          {
+            "question": "Was unterscheidet أَنَّى von كَيْفَ?",
+            "options": [
+              "Kein Unterschied",
+              "أَنَّى kann nur 'wo' bedeuten",
+              "أَنَّى ist multifunktional (woher/wie/wo), كَيْفَ nur 'wie'",
+              "كَيْفَ ist multifunktional, أَنَّى nur 'wie'"
+            ],
+            "correct": 2,
+            "explanation": "أَنَّى kann je nach Kontext 'woher', 'wie' oder 'wo' bedeuten. كَيْفَ bedeutet ausschliesslich 'wie' (Art und Weise / Zustand)."
+          },
+          {
+            "question": "In مَتَى نَصْرُ اللَّهِ (2:214) — welche syntaktische Rolle hat مَتَى?",
+            "options": [
+              "Subjekt",
+              "Objekt",
+              "Praedikat / Adverb (Zeitangabe)",
+              "Apposition"
+            ],
+            "correct": 2,
+            "explanation": "مَتَى ist ein Adverb / Praedikat im Nominalsatz. Es fragt nach dem Zeitpunkt: 'Wann [ist/kommt] Gottes Hilfe?' نَصْرُ اللَّهِ ist das Subjekt."
+          }
+        ]
+      }
+    },
+    {
+      "id": "IS4",
+      "title": "Quantitaets- und Auswahlfragen: كَمْ, أَيّ",
+      "learnContent": {
+        "sections": [
+          {
+            "type": "explanation",
+            "title": "كَمْ — Frage nach der Menge",
+            "content": "كَمْ ('wie viel/wie viele') fragt nach einer Quantitaet. Es hat zwei syntaktische Funktionen:\n\n1. Interrogatives كَمْ (كم الاستفهامية): 'Wie viele?'\n   Syntaktische Rektion: كَمْ + Nomen im Singular Akkusativ (Tamyiz/تمييز)\n   Beispiel: كَمْ كِتَابًا ('Wie viele Buecher?')\n\n2. Berichtendes كَمْ (كم الخبرية): 'Wie viele! / So viele!'\n   Funktion: Kein Fragesatz, sondern Ausruf ueber eine grosse Menge\n   Rektion: كَمْ + Nomen im Genitiv (oft Plural)\n   Beispiel: كَمْ مِن قَرْيَةٍ ('Wie viele Doerfer!')\n\nIm Quran erscheint ueberwiegend das berichtende كَمْ."
+          },
+          {
+            "type": "explanation",
+            "title": "أَيّ — Auswahlfrage",
+            "content": "أَيّ ('welcher/welche/welches') fragt nach einer Auswahl aus einer bekannten Menge.\n\nSyntaktisch:\n- أَيّ wird als erstes Glied einer Idafa (Genitivverbindung) konstruiert: أَيّ + Genitiv\n- أَيّ شَيْءٍ ('welche Sache?'), أَيّ الْفَرِيقَيْنِ ('welche der beiden Gruppen?')\n- أَيّ ist voll deklinabel (اعراب): أَيُّ (Nom.), أَيَّ (Akk.), أَيِّ (Gen.)\n- Im Gegensatz zu مَنْ und مَا ist أَيّ also kasusflektiert\n\nBesonderheit: أَيّ kann auch ohne Idafa stehen, wenn der Bezug klar ist."
+          },
+          {
+            "type": "quranExamples",
+            "title": "كَمْ und أَيّ im Quran",
+            "examples": [
+              {
+                "ref": "2:211",
+                "arabic": "سَلْ بَنِي إِسْرَائِيلَ كَمْ آتَيْنَاهُم مِّنْ آيَةٍ بَيِّنَةٍ",
+                "explanation": "كَمْ آتَيْنَاهُم — hier ist كَمْ interrogativ: 'Wie viele klare Zeichen haben wir ihnen gegeben?' كَمْ fungiert als Objekt des Verbs آتَيْنَا. مِنْ آيَةٍ ist die Tamyiz-Spezifizierung."
+              },
+              {
+                "ref": "2:259",
+                "arabic": "قَالَ كَمْ لَبِثْتَ ۖ قَالَ لَبِثْتُ يَوْمًا أَوْ بَعْضَ يَوْمٍ",
+                "explanation": "كَمْ لَبِثْتَ — 'Wie lange bist du geblieben?' كَمْ fragt nach einer Zeitdauer. Es fungiert als adverbialer Akkusativ (ظرف)."
+              },
+              {
+                "ref": "36:31",
+                "arabic": "أَلَمْ يَرَوْا كَمْ أَهْلَكْنَا قَبْلَهُم مِّنَ الْقُرُونِ",
+                "explanation": "كَمْ أَهْلَكْنَا — berichtendes كَمْ: 'Wie viele Generationen wir vor ihnen vernichtet haben!' Funktion: Ausruf ueber die grosse Menge, nicht echte Frage. مِنَ الْقُرُونِ als Genitiv-Spezifizierung."
+              },
+              {
+                "ref": "19:73",
+                "arabic": "أَيُّ الْفَرِيقَيْنِ خَيْرٌ مَّقَامًا وَأَحْسَنُ نَدِيًّا",
+                "explanation": "أَيُّ الْفَرِيقَيْنِ — 'Welche der beiden Gruppen ist besser?' أَيّ in Idafa mit dem Dual الْفَرِيقَيْنِ (Genitiv). أَيُّ ist Subjekt (Nominativ)."
+              },
+              {
+                "ref": "17:110",
+                "arabic": "أَيًّا مَّا تَدْعُوا فَلَهُ الْأَسْمَاءُ الْحُسْنَىٰ",
+                "explanation": "أَيًّا مَّا تَدْعُوا — 'Welchen auch immer ihr anruft...' Hier ist أَيّ konditional-generalisiert (wie مَنْ/مَا). أَيًّا im Akkusativ (Objekt von تَدْعُوا). مَا ist verstaerkend."
+              },
+              {
+                "ref": "28:61",
+                "arabic": "أَفَمَن وَعَدْنَاهُ وَعْدًا حَسَنًا فَهُوَ لَاقِيهِ كَمَن مَّتَّعْنَاهُ مَتَاعَ الْحَيَاةِ الدُّنْيَا",
+                "explanation": "Zum Kontrast: Hier steht مَنْ (nicht أَيّ), weil nicht aus einer definierten Menge ausgewaehlt wird, sondern eine Person generisch beschrieben wird."
+              }
+            ]
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "identification",
+          "prompt": "Lies 23:112-113. Dort steht كَمْ لَبِثْتُمْ. Ist dieses كَمْ interrogativ oder berichtend? Begruende mit der syntaktischen Umgebung.",
+          "hint": "Es ist interrogativ — eine echte Frage, die beantwortet wird (لَبِثْنَا يَوْمًا أَوْ بَعْضَ يَوْمٍ). Berichtendes كَمْ wuerde keine Antwort erwarten."
+        },
+        {
+          "type": "analysis",
+          "prompt": "Vergleiche 2:259 (كَمْ لَبِثْتَ — interrogativ) mit 36:31 (كَمْ أَهْلَكْنَا — berichtend). Welche syntaktischen und kontextuellen Merkmale unterscheiden die beiden Typen?",
+          "hint": "Interrogativ: echte Frage, wird beantwortet, oft im Dialog. Berichtend: rhetorische Feststellung einer grossen Menge, wird nicht beantwortet, oft mit مِنْ + Genitiv."
+        },
+        {
+          "type": "morphology",
+          "prompt": "In 19:73 steht أَيُّ الْفَرِيقَيْنِ. Bestimme den Kasus von أَيّ und von الْفَرِيقَيْنِ. Erklaere die Idafa-Konstruktion.",
+          "hint": "أَيُّ = Nominativ (Damma) — Subjekt des Nominalsatzes. الْفَرِيقَيْنِ = Genitiv (Dual-Endung يْنِ) — zweites Glied der Idafa."
+        }
+      ],
+      "testContent": {
+        "exercises": [
+          {
+            "question": "Was ist der syntaktische Unterschied zwischen interrogativem und berichtendem كَمْ?",
+            "options": [
+              "Kein Unterschied",
+              "Interrogatives كَمْ regiert Akkusativ-Tamyiz, berichtendes كَمْ typisch Genitiv (mit مِنْ)",
+              "Berichtendes كَمْ regiert Akkusativ, interrogatives Genitiv",
+              "Nur berichtendes كَمْ kommt im Quran vor"
+            ],
+            "correct": 1,
+            "explanation": "Interrogatives كَمْ nimmt ein Tamyiz im Singular Akkusativ (كَمْ كِتَابًا). Berichtendes كَمْ steht typisch mit مِنْ + Genitiv (كَمْ مِن قَرْيَةٍ) und drueckt eine grosse Menge aus."
+          },
+          {
+            "question": "أَيُّ الْفَرِيقَيْنِ (19:73) — welche Konstruktion liegt vor?",
+            "options": [
+              "Adjektiv + Nomen",
+              "Idafa (Genitivverbindung)",
+              "Apposition",
+              "Zustandssatz"
+            ],
+            "correct": 1,
+            "explanation": "أَيّ + الْفَرِيقَيْنِ ist eine Idafa: أَيّ ist das erste Glied (مضاف), الْفَرِيقَيْنِ das zweite im Genitiv (مضاف إليه)."
+          },
+          {
+            "question": "In كَمْ لَبِثْتَ (2:259) — welche syntaktische Funktion hat كَمْ?",
+            "options": [
+              "Subjekt",
+              "Objekt",
+              "Adverbialer Akkusativ (Zeitdauer)",
+              "Praepositional-Ergaenzung"
+            ],
+            "correct": 2,
+            "explanation": "كَمْ fragt hier nach der Zeitdauer ('wie lange?'). Es fungiert als adverbialer Akkusativ (ظرف زمان), nicht als Subjekt oder Objekt."
+          },
+          {
+            "question": "Was unterscheidet أَيّ von مَنْ und مَا morphologisch?",
+            "options": [
+              "Kein Unterschied",
+              "أَيّ ist voll kasusflektiert (أَيُّ/أَيَّ/أَيِّ), مَنْ und مَا sind invariabel",
+              "مَنْ und مَا sind flektiert, أَيّ nicht",
+              "Alle drei sind unveraenderlich"
+            ],
+            "correct": 1,
+            "explanation": "أَيّ zeigt sichtbare Kasusflexion: أَيُّ (Nominativ), أَيَّ (Akkusativ), أَيِّ (Genitiv). مَنْ und مَا haben eine feste Form unabhaengig von der syntaktischen Funktion (مبني)."
+          }
+        ]
+      }
+    },
+    {
+      "id": "IS5",
+      "title": "Rhetorische Frage (الاستفهام الإنكاري)",
+      "learnContent": {
+        "sections": [
+          {
+            "type": "explanation",
+            "title": "Was ist eine rhetorische Frage?",
+            "content": "Eine rhetorische Frage ist syntaktisch eine Frage (mit Fragepartikel), aber pragmatisch keine Informationssuche. Der Sprecher erwartet keine Antwort — die Frage drueckt etwas anderes aus.\n\nFunktionen rhetorischer Fragen im Quran:\n\n1. Verneinung: أَلَيْسَ اللَّهُ بِكَافٍ عَبْدَهُ ('Ist Gott nicht genuegend fuer seinen Diener?' = Gott genuegt.)\n2. Verwunderung: كَيْفَ تَكْفُرُونَ ('Wie koennt ihr leugnen?' = Es ist unverstaendlich.)\n3. Tadel: أَفَلَا تَعْقِلُونَ ('Denkt ihr denn nicht nach?' = Ihr solltet nachdenken.)\n4. Bekraeftigung: أَلَمْ نَشْرَحْ لَكَ صَدْرَكَ ('Haben wir dir nicht deine Brust geweitet?' = Wir haben es getan.)\n\nDas Erkennungsmerkmal: Die Antwort ist im Kontext offensichtlich — die Frage zielt nicht auf neue Information."
+          },
+          {
+            "type": "explanation",
+            "title": "Haeufige rhetorische Muster im Quran",
+            "content": "Bestimmte Kombinationen signalisieren fast immer rhetorische Fragen:\n\n1. أَلَمْ (أَ + لَمْ): Frage + Negation + Jussiv = erwartete Bejahung\n   'Hast du nicht...?' = 'Du hast doch...!'\n\n2. أَفَلَا (أَ + فَ + لَا): Frage + Konsequenz + Negation = Tadel\n   'Denkt ihr denn nicht nach?' = 'Ihr solltet nachdenken!'\n\n3. أَلَيْسَ (أَ + لَيْسَ): Frage + Negationsverb = erwartete Bejahung\n   'Ist es nicht so, dass...?' = 'Es ist so!'\n\n4. أَلَا (أَ + لَا): Frage + Negation = Warnung oder Aufmerksamkeitslenkung\n   Oft am Satzanfang: أَلَا إِنَّ ('Wahrlich!' / 'Ist es nicht so, dass...!')\n\nDiese Muster sind syntaktisch erkennbar — die rhetorische Funktion ergibt sich aus der Kombination von Frage und Negation."
+          },
+          {
+            "type": "quranExamples",
+            "title": "Rhetorische Fragen im Quran",
+            "examples": [
+              {
+                "ref": "94:1",
+                "arabic": "أَلَمْ نَشْرَحْ لَكَ صَدْرَكَ",
+                "explanation": "أَلَمْ نَشْرَحْ — 'Haben wir nicht geweitet?' Die erwartete Antwort: 'Doch, ihr habt.' Funktion: Bekraeftigung einer vergangenen Handlung. أَ + لَمْ + Jussiv."
+              },
+              {
+                "ref": "105:1",
+                "arabic": "أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَابِ الْفِيلِ",
+                "explanation": "أَلَمْ تَرَ — 'Hast du nicht gesehen?' Rhetorisch: 'Du hast doch gesehen!' / 'Bedenke doch!' Lenkung der Aufmerksamkeit, nicht Informationssuche."
+              },
+              {
+                "ref": "2:44",
+                "arabic": "أَتَأْمُرُونَ النَّاسَ بِالْبِرِّ وَتَنسَوْنَ أَنفُسَكُمْ وَأَنتُمْ تَتْلُونَ الْكِتَابَ ۚ أَفَلَا تَعْقِلُونَ",
+                "explanation": "Zwei rhetorische Fragen: (1) أَتَأْمُرُونَ — 'Befehlt ihr den Leuten Gutes und vergesst euch selbst?' = Tadel. (2) أَفَلَا تَعْقِلُونَ — 'Denkt ihr denn nicht nach?' = Ihr solltet nachdenken! أَ + فَ + لَا."
+              },
+              {
+                "ref": "39:36",
+                "arabic": "أَلَيْسَ اللَّهُ بِكَافٍ عَبْدَهُ",
+                "explanation": "أَلَيْسَ — 'Ist Gott nicht genuegend?' Erwartete Antwort: 'Doch!' أَ + لَيْسَ = Frage + Negation = Bekraeftigung der positiven Aussage."
+              },
+              {
+                "ref": "10:59",
+                "arabic": "قُلْ أَرَأَيْتُم مَّا أَنزَلَ اللَّهُ لَكُم مِّن رِّزْقٍ فَجَعَلْتُم مِّنْهُ حَرَامًا وَحَلَالًا قُلْ آللَّهُ أَذِنَ لَكُمْ أَمْ عَلَى اللَّهِ تَفْتَرُونَ",
+                "explanation": "آللَّهُ أَذِنَ لَكُمْ أَمْ ... تَفْتَرُونَ — Rhetorische Alternative: 'Hat Gott euch erlaubt, oder erfindet ihr gegen Gott?' Die erwartete Antwort ist die zweite Option. أَ ... أَمْ mit rhetorischer Funktion."
+              },
+              {
+                "ref": "11:24",
+                "arabic": "مَثَلُ الْفَرِيقَيْنِ كَالْأَعْمَىٰ وَالْأَصَمِّ وَالْبَصِيرِ وَالسَّمِيعِ ۚ هَلْ يَسْتَوِيَانِ مَثَلًا ۚ أَفَلَا تَذَكَّرُونَ",
+                "explanation": "هَلْ يَسْتَوِيَانِ — 'Sind die beiden gleich?' Rhetorisch: 'Nein, sie sind nicht gleich.' Gefolgt von أَفَلَا تَذَكَّرُونَ — doppelte rhetorische Frage als Mittel des Tadels."
+              }
+            ]
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "identification",
+          "prompt": "Lies 67:16-17. Identifiziere die rhetorischen Fragen. Welche Funktion haben sie — Verneinung, Verwunderung, Tadel oder Bekraeftigung?",
+          "hint": "Achte auf أَأَمِنتُم und die Folgeverse. Die Fragen druecken Warnung aus — 'seid ihr denn sicher, dass...?'"
+        },
+        {
+          "type": "analysis",
+          "prompt": "Erklaere den Mechanismus: Warum ergibt أَ + Negation (أَلَمْ, أَلَيْسَ) eine positive Aussage? Denke an die Logik: Frage ('Ist es nicht X?') → erwartete Antwort ('Doch, es ist X').",
+          "hint": "Die Frage enthaelt eine Negation. Die erwartete Antwort negiert die Negation → positiv. 'Hast du nicht gesehen?' → 'Doch, ich habe gesehen.' Doppelte Negation = Affirmation."
+        },
+        {
+          "type": "identification",
+          "prompt": "Lies 56:58-59. Dort steht أَفَرَأَيْتُم und dann أَأَنتُمْ تَخْلُقُونَهُ أَمْ نَحْنُ الْخَالِقُونَ. Identifiziere die rhetorische Struktur. Welche Antwort wird erwartet?",
+          "hint": "أَ ... أَمْ-Alternative: 'Erschafft IHR es oder sind WIR die Schoepfer?' Erwartete Antwort: die zweite Option (Gott ist der Schoepfer)."
+        },
+        {
+          "type": "analysis",
+          "prompt": "Vergleiche das rhetorische هَلْ in 11:24 (هَلْ يَسْتَوِيَانِ) mit dem nicht-rhetorischen هَلْ in 88:1 (هَلْ أَتَاكَ). Woran erkennst du im Kontext, ob هَلْ rhetorisch ist oder nicht?",
+          "hint": "In 11:24 ist die Antwort offensichtlich (Blinde und Sehende sind nicht gleich — gerade definiert). In 88:1 leitet هَلْ eine Erzaehlung ein — es lenkt die Aufmerksamkeit."
+        }
+      ],
+      "testContent": {
+        "exercises": [
+          {
+            "question": "Was bedeutet أَلَمْ نَشْرَحْ لَكَ صَدْرَكَ (94:1) pragmatisch?",
+            "options": [
+              "Eine echte Frage: 'Haben wir geweitet oder nicht?'",
+              "Bekraeftigung: 'Wir HABEN dir deine Brust geweitet!'",
+              "Verneinung: 'Wir haben nicht geweitet'",
+              "Wunsch: 'Haetten wir doch geweitet!'"
+            ],
+            "correct": 1,
+            "explanation": "أَلَمْ ist eine rhetorische Frage mit erwarteter Bejahung. 'Haben wir nicht...?' = 'Doch, wir haben!' Die Frage bekraeftigt die positive Aussage."
+          },
+          {
+            "question": "Welche Kombination signalisiert im Quran typisch Tadel?",
+            "options": [
+              "هَلْ + Verb",
+              "أَفَلَا + Verb (أَ + فَ + لَا)",
+              "مَا + Verb",
+              "لَا + Verb"
+            ],
+            "correct": 1,
+            "explanation": "أَفَلَا ('denkt ihr denn nicht nach?', 'seht ihr denn nicht?') kombiniert Frage (أَ) + Konsequenz (فَ) + Negation (لَا) und drueckt typisch Tadel aus."
+          },
+          {
+            "question": "In 10:59 steht آللَّهُ أَذِنَ لَكُمْ أَمْ عَلَى اللَّهِ تَفْتَرُونَ. Welche Antwort wird erwartet?",
+            "options": [
+              "Die erste: 'Ja, Gott hat erlaubt'",
+              "Die zweite: 'Ihr erfindet gegen Gott'",
+              "Keine — es ist eine echte offene Frage",
+              "Beide Optionen sind gleichwertig"
+            ],
+            "correct": 1,
+            "explanation": "Die rhetorische Alternative (أَ ... أَمْ) lenkt auf die zweite Option: Die Adressaten erfinden etwas gegen Gott, ohne Erlaubnis. Der Kontext macht klar, dass die erste Option (Gottes Erlaubnis) nicht zutrifft."
+          },
+          {
+            "question": "Warum erzeugt أَ + Negation (wie أَلَمْ, أَلَيْسَ) eine Bekraeftigung?",
+            "options": [
+              "Weil أَ eine Verneinung ist",
+              "Weil die Frage mit Negation eine bejahende Antwort erwartet (doppelte Negation → Affirmation)",
+              "Weil لَمْ die Frage aufhebt",
+              "Es erzeugt keine Bekraeftigung, sondern eine Verneinung"
+            ],
+            "correct": 1,
+            "explanation": "Die Frage enthaelt eine Negation. Die erwartete Antwort verneint diese Negation: 'Hast du nicht gesehen?' → 'Doch!' Die doppelte Negation ergibt eine positive Bekraeftigung."
+          }
+        ]
+      }
+    }
+  ]
+}

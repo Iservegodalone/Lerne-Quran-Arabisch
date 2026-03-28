@@ -1,0 +1,2212 @@
+{
+  "meta": {
+    "description": "Kollokationen im Quran — haeufig gemeinsam auftretende Woerter und Wurzeln",
+    "totalRootPairs": 200,
+    "totalBigrams": 200,
+    "note": "rootCollocations: Wurzelpaare die in 5+ Versen gemeinsam auftreten. wordBigrams: Aufeinanderfolgende Wortpaare die 3+ Mal vorkommen."
+  },
+  "rootCollocations": [
+    {
+      "rank": 1,
+      "root1": "ا ل ه",
+      "root2": "ق و ل",
+      "coOccurrences": 514
+    },
+    {
+      "rank": 2,
+      "root1": "ا ل ه",
+      "root2": "ك و ن",
+      "coOccurrences": 441
+    },
+    {
+      "rank": 3,
+      "root1": "ا ل ه",
+      "root2": "ع ل م",
+      "coOccurrences": 408
+    },
+    {
+      "rank": 4,
+      "root1": "ا ل ه",
+      "root2": "ا م ن",
+      "coOccurrences": 372
+    },
+    {
+      "rank": 5,
+      "root1": "ق و ل",
+      "root2": "ك و ن",
+      "coOccurrences": 369
+    },
+    {
+      "rank": 6,
+      "root1": "ر ب ب",
+      "root2": "ق و ل",
+      "coOccurrences": 329
+    },
+    {
+      "rank": 7,
+      "root1": "ا ل ه",
+      "root2": "ش ي ا",
+      "coOccurrences": 282
+    },
+    {
+      "rank": 8,
+      "root1": "ا ل ه",
+      "root2": "ق و م",
+      "coOccurrences": 242
+    },
+    {
+      "rank": 9,
+      "root1": "ع ل م",
+      "root2": "ق و ل",
+      "coOccurrences": 230
+    },
+    {
+      "rank": 10,
+      "root1": "ا ل ه",
+      "root2": "ك ف ر",
+      "coOccurrences": 225
+    },
+    {
+      "rank": 11,
+      "root1": "ا ر ض",
+      "root2": "س م و",
+      "coOccurrences": 224
+    },
+    {
+      "rank": 12,
+      "root1": "ا ر ض",
+      "root2": "ا ل ه",
+      "coOccurrences": 215
+    },
+    {
+      "rank": 13,
+      "root1": "ا ل ه",
+      "root2": "ر س ل",
+      "coOccurrences": 211
+    },
+    {
+      "rank": 14,
+      "root1": "ا ل ه",
+      "root2": "ب ي ن",
+      "coOccurrences": 207
+    },
+    {
+      "rank": 15,
+      "root1": "ا ل ه",
+      "root2": "ر ب ب",
+      "coOccurrences": 204
+    },
+    {
+      "rank": 16,
+      "root1": "ا ت ي",
+      "root2": "ا ل ه",
+      "coOccurrences": 198
+    },
+    {
+      "rank": 17,
+      "root1": "ا م ن",
+      "root2": "ك و ن",
+      "coOccurrences": 197
+    },
+    {
+      "rank": 18,
+      "root1": "ق و ل",
+      "root2": "ق و م",
+      "coOccurrences": 186
+    },
+    {
+      "rank": 19,
+      "root1": "ا ل ه",
+      "root2": "س م و",
+      "coOccurrences": 185
+    },
+    {
+      "rank": 20,
+      "root1": "ا م ن",
+      "root2": "ق و ل",
+      "coOccurrences": 185
+    },
+    {
+      "rank": 21,
+      "root1": "ر ب ب",
+      "root2": "ك و ن",
+      "coOccurrences": 159
+    },
+    {
+      "rank": 22,
+      "root1": "ع ل م",
+      "root2": "ك و ن",
+      "coOccurrences": 157
+    },
+    {
+      "rank": 23,
+      "root1": "ا ت ي",
+      "root2": "ق و ل",
+      "coOccurrences": 154
+    },
+    {
+      "rank": 24,
+      "root1": "ا ل ه",
+      "root2": "ك ل ل",
+      "coOccurrences": 149
+    },
+    {
+      "rank": 25,
+      "root1": "ا ل ه",
+      "root2": "ع م ل",
+      "coOccurrences": 141
+    },
+    {
+      "rank": 26,
+      "root1": "ا ل ه",
+      "root2": "ن ف س",
+      "coOccurrences": 139
+    },
+    {
+      "rank": 27,
+      "root1": "ب ي ن",
+      "root2": "ق و ل",
+      "coOccurrences": 137
+    },
+    {
+      "rank": 28,
+      "root1": "ش ي ا",
+      "root2": "ك ل ل",
+      "coOccurrences": 135
+    },
+    {
+      "rank": 29,
+      "root1": "ا ل ه",
+      "root2": "و ق ي",
+      "coOccurrences": 135
+    },
+    {
+      "rank": 30,
+      "root1": "ا ل ه",
+      "root2": "ع ب د",
+      "coOccurrences": 134
+    },
+    {
+      "rank": 31,
+      "root1": "ا ل ه",
+      "root2": "ع ذ ب",
+      "coOccurrences": 133
+    },
+    {
+      "rank": 32,
+      "root1": "ق و ل",
+      "root2": "ك ف ر",
+      "coOccurrences": 132
+    },
+    {
+      "rank": 33,
+      "root1": "ا ل ه",
+      "root2": "ظ ل م",
+      "coOccurrences": 131
+    },
+    {
+      "rank": 34,
+      "root1": "ق و م",
+      "root2": "ك و ن",
+      "coOccurrences": 131
+    },
+    {
+      "rank": 35,
+      "root1": "ا ل ه",
+      "root2": "ر ح م",
+      "coOccurrences": 130
+    },
+    {
+      "rank": 36,
+      "root1": "ا ل ه",
+      "root2": "ه د ي",
+      "coOccurrences": 130
+    },
+    {
+      "rank": 37,
+      "root1": "ر ب ب",
+      "root2": "ع ل م",
+      "coOccurrences": 129
+    },
+    {
+      "rank": 38,
+      "root1": "ا ل ه",
+      "root2": "ن و س",
+      "coOccurrences": 129
+    },
+    {
+      "rank": 39,
+      "root1": "ا ل ه",
+      "root2": "ح ك م",
+      "coOccurrences": 127
+    },
+    {
+      "rank": 40,
+      "root1": "ا م ن",
+      "root2": "ك ف ر",
+      "coOccurrences": 126
+    },
+    {
+      "rank": 41,
+      "root1": "ا ل ه",
+      "root2": "ن ز ل",
+      "coOccurrences": 126
+    },
+    {
+      "rank": 42,
+      "root1": "ا ل ه",
+      "root2": "ي و م",
+      "coOccurrences": 125
+    },
+    {
+      "rank": 43,
+      "root1": "ا ل ه",
+      "root2": "و ل ي",
+      "coOccurrences": 124
+    },
+    {
+      "rank": 44,
+      "root1": "ا خ ر",
+      "root2": "ا ل ه",
+      "coOccurrences": 123
+    },
+    {
+      "rank": 45,
+      "root1": "ك ف ر",
+      "root2": "ك و ن",
+      "coOccurrences": 123
+    },
+    {
+      "rank": 46,
+      "root1": "ا ل ه",
+      "root2": "ك ت ب",
+      "coOccurrences": 123
+    },
+    {
+      "rank": 47,
+      "root1": "ا ت ي",
+      "root2": "ك و ن",
+      "coOccurrences": 122
+    },
+    {
+      "rank": 48,
+      "root1": "ا ل ه",
+      "root2": "ر ا ي",
+      "coOccurrences": 121
+    },
+    {
+      "rank": 49,
+      "root1": "ا ل ه",
+      "root2": "ا ي ي",
+      "coOccurrences": 121
+    },
+    {
+      "rank": 50,
+      "root1": "ا ل ه",
+      "root2": "ح ق ق",
+      "coOccurrences": 120
+    },
+    {
+      "rank": 51,
+      "root1": "ا ل ه",
+      "root2": "غ ف ر",
+      "coOccurrences": 120
+    },
+    {
+      "rank": 52,
+      "root1": "ر س ل",
+      "root2": "ق و ل",
+      "coOccurrences": 120
+    },
+    {
+      "rank": 53,
+      "root1": "ا ل ه",
+      "root2": "ج ع ل",
+      "coOccurrences": 118
+    },
+    {
+      "rank": 54,
+      "root1": "ج ي ا",
+      "root2": "ق و ل",
+      "coOccurrences": 118
+    },
+    {
+      "rank": 55,
+      "root1": "ش ي ا",
+      "root2": "ق و ل",
+      "coOccurrences": 113
+    },
+    {
+      "rank": 56,
+      "root1": "ر ا ي",
+      "root2": "ق و ل",
+      "coOccurrences": 113
+    },
+    {
+      "rank": 57,
+      "root1": "ا خ ذ",
+      "root2": "ا ل ه",
+      "coOccurrences": 113
+    },
+    {
+      "rank": 58,
+      "root1": "ب ي ن",
+      "root2": "ك و ن",
+      "coOccurrences": 113
+    },
+    {
+      "rank": 59,
+      "root1": "ا م ن",
+      "root2": "ر ب ب",
+      "coOccurrences": 112
+    },
+    {
+      "rank": 60,
+      "root1": "ا ل ه",
+      "root2": "ب ع د",
+      "coOccurrences": 112
+    },
+    {
+      "rank": 61,
+      "root1": "ا ل ه",
+      "root2": "ا م ر",
+      "coOccurrences": 112
+    },
+    {
+      "rank": 62,
+      "root1": "ا ل ه",
+      "root2": "ع ن د",
+      "coOccurrences": 112
+    },
+    {
+      "rank": 63,
+      "root1": "ا ل ه",
+      "root2": "س ب ل",
+      "coOccurrences": 112
+    },
+    {
+      "rank": 64,
+      "root1": "ر ب ب",
+      "root2": "ق و م",
+      "coOccurrences": 112
+    },
+    {
+      "rank": 65,
+      "root1": "ع م ل",
+      "root2": "ك و ن",
+      "coOccurrences": 110
+    },
+    {
+      "rank": 66,
+      "root1": "ا ل ه",
+      "root2": "د و ن",
+      "coOccurrences": 109
+    },
+    {
+      "rank": 67,
+      "root1": "ا م ن",
+      "root2": "ر س ل",
+      "coOccurrences": 107
+    },
+    {
+      "rank": 68,
+      "root1": "ق ب ل",
+      "root2": "ك و ن",
+      "coOccurrences": 105
+    },
+    {
+      "rank": 69,
+      "root1": "ق و م",
+      "root2": "ي و م",
+      "coOccurrences": 104
+    },
+    {
+      "rank": 70,
+      "root1": "ا م ن",
+      "root2": "ق و م",
+      "coOccurrences": 102
+    },
+    {
+      "rank": 71,
+      "root1": "ا ر ض",
+      "root2": "ق و ل",
+      "coOccurrences": 101
+    },
+    {
+      "rank": 72,
+      "root1": "ا م ن",
+      "root2": "ع م ل",
+      "coOccurrences": 101
+    },
+    {
+      "rank": 73,
+      "root1": "ا ل ه",
+      "root2": "م ل ك",
+      "coOccurrences": 101
+    },
+    {
+      "rank": 74,
+      "root1": "ر س ل",
+      "root2": "ك و ن",
+      "coOccurrences": 100
+    },
+    {
+      "rank": 75,
+      "root1": "ا م ن",
+      "root2": "ع ل م",
+      "coOccurrences": 99
+    },
+    {
+      "rank": 76,
+      "root1": "ا ل ه",
+      "root2": "خ ي ر",
+      "coOccurrences": 99
+    },
+    {
+      "rank": 77,
+      "root1": "ش ي ا",
+      "root2": "ك و ن",
+      "coOccurrences": 98
+    },
+    {
+      "rank": 78,
+      "root1": "ا ي ي",
+      "root2": "ك و ن",
+      "coOccurrences": 98
+    },
+    {
+      "rank": 79,
+      "root1": "ا ل ه",
+      "root2": "ق ب ل",
+      "coOccurrences": 98
+    },
+    {
+      "rank": 80,
+      "root1": "ا ل ه",
+      "root2": "ج ي ا",
+      "coOccurrences": 97
+    },
+    {
+      "rank": 81,
+      "root1": "ش ي ا",
+      "root2": "ع ل م",
+      "coOccurrences": 95
+    },
+    {
+      "rank": 82,
+      "root1": "ا ل ه",
+      "root2": "ق ل ب",
+      "coOccurrences": 94
+    },
+    {
+      "rank": 83,
+      "root1": "ق و ل",
+      "root2": "ي و م",
+      "coOccurrences": 94
+    },
+    {
+      "rank": 84,
+      "root1": "ص ل ح",
+      "root2": "ع م ل",
+      "coOccurrences": 93
+    },
+    {
+      "rank": 85,
+      "root1": "ك و ن",
+      "root2": "ي و م",
+      "coOccurrences": 92
+    },
+    {
+      "rank": 86,
+      "root1": "ا ر ض",
+      "root2": "ك و ن",
+      "coOccurrences": 91
+    },
+    {
+      "rank": 87,
+      "root1": "ر ب ب",
+      "root2": "ر ح م",
+      "coOccurrences": 91
+    },
+    {
+      "rank": 88,
+      "root1": "ا ل ه",
+      "root2": "ذ ك ر",
+      "coOccurrences": 91
+    },
+    {
+      "rank": 89,
+      "root1": "ر ح م",
+      "root2": "غ ف ر",
+      "coOccurrences": 91
+    },
+    {
+      "rank": 90,
+      "root1": "ا ل ه",
+      "root2": "د ع و",
+      "coOccurrences": 88
+    },
+    {
+      "rank": 91,
+      "root1": "ك و ن",
+      "root2": "ن ف س",
+      "coOccurrences": 87
+    },
+    {
+      "rank": 92,
+      "root1": "ق ب ل",
+      "root2": "ق و ل",
+      "coOccurrences": 86
+    },
+    {
+      "rank": 93,
+      "root1": "ا ل ه",
+      "root2": "غ ي ر",
+      "coOccurrences": 86
+    },
+    {
+      "rank": 94,
+      "root1": "ا ل ه",
+      "root2": "ح س ن",
+      "coOccurrences": 86
+    },
+    {
+      "rank": 95,
+      "root1": "ا ت ي",
+      "root2": "ع ل م",
+      "coOccurrences": 86
+    },
+    {
+      "rank": 96,
+      "root1": "ا ر ض",
+      "root2": "ع ل م",
+      "coOccurrences": 85
+    },
+    {
+      "rank": 97,
+      "root1": "ع ب د",
+      "root2": "ق و ل",
+      "coOccurrences": 85
+    },
+    {
+      "rank": 98,
+      "root1": "ا ل ه",
+      "root2": "ش ر ك",
+      "coOccurrences": 85
+    },
+    {
+      "rank": 99,
+      "root1": "ا ل ه",
+      "root2": "ك ث ر",
+      "coOccurrences": 83
+    },
+    {
+      "rank": 100,
+      "root1": "ح ق ق",
+      "root2": "ق و ل",
+      "coOccurrences": 83
+    },
+    {
+      "rank": 101,
+      "root1": "ا ت ي",
+      "root2": "ق و م",
+      "coOccurrences": 83
+    },
+    {
+      "rank": 102,
+      "root1": "ا م ن",
+      "root2": "ص ل ح",
+      "coOccurrences": 82
+    },
+    {
+      "rank": 103,
+      "root1": "ب ي ن",
+      "root2": "ع ل م",
+      "coOccurrences": 82
+    },
+    {
+      "rank": 104,
+      "root1": "ا ل ه",
+      "root2": "خ ل ق",
+      "coOccurrences": 82
+    },
+    {
+      "rank": 105,
+      "root1": "ا ت ي",
+      "root2": "ا م ن",
+      "coOccurrences": 81
+    },
+    {
+      "rank": 106,
+      "root1": "ا ل ه",
+      "root2": "ض ل ل",
+      "coOccurrences": 80
+    },
+    {
+      "rank": 107,
+      "root1": "ق و ل",
+      "root2": "م ل ك",
+      "coOccurrences": 80
+    },
+    {
+      "rank": 108,
+      "root1": "ظ ل م",
+      "root2": "ك و ن",
+      "coOccurrences": 80
+    },
+    {
+      "rank": 109,
+      "root1": "ا ل ه",
+      "root2": "ن ص ر",
+      "coOccurrences": 80
+    },
+    {
+      "rank": 110,
+      "root1": "ق و ل",
+      "root2": "ه د ي",
+      "coOccurrences": 79
+    },
+    {
+      "rank": 111,
+      "root1": "ظ ل م",
+      "root2": "ق و ل",
+      "coOccurrences": 79
+    },
+    {
+      "rank": 112,
+      "root1": "ا ل ه",
+      "root2": "ق ت ل",
+      "coOccurrences": 79
+    },
+    {
+      "rank": 113,
+      "root1": "ا م ن",
+      "root2": "ب ي ن",
+      "coOccurrences": 79
+    },
+    {
+      "rank": 114,
+      "root1": "ا ت ي",
+      "root2": "ك ت ب",
+      "coOccurrences": 78
+    },
+    {
+      "rank": 115,
+      "root1": "ا ي ي",
+      "root2": "ق و ل",
+      "coOccurrences": 78
+    },
+    {
+      "rank": 116,
+      "root1": "ع ذ ب",
+      "root2": "ق و ل",
+      "coOccurrences": 78
+    },
+    {
+      "rank": 117,
+      "root1": "ا ت ي",
+      "root2": "ر ب ب",
+      "coOccurrences": 78
+    },
+    {
+      "rank": 118,
+      "root1": "ع ذ ب",
+      "root2": "ك و ن",
+      "coOccurrences": 77
+    },
+    {
+      "rank": 119,
+      "root1": "ك ل ل",
+      "root2": "ك و ن",
+      "coOccurrences": 77
+    },
+    {
+      "rank": 120,
+      "root1": "ا ل ه",
+      "root2": "ن و ر",
+      "coOccurrences": 75
+    },
+    {
+      "rank": 121,
+      "root1": "ع ل م",
+      "root2": "ق و م",
+      "coOccurrences": 75
+    },
+    {
+      "rank": 122,
+      "root1": "ب ي ن",
+      "root2": "ر ب ب",
+      "coOccurrences": 75
+    },
+    {
+      "rank": 123,
+      "root1": "ر ب ب",
+      "root2": "ش ي ا",
+      "coOccurrences": 75
+    },
+    {
+      "rank": 124,
+      "root1": "ا ر ض",
+      "root2": "ش ي ا",
+      "coOccurrences": 74
+    },
+    {
+      "rank": 125,
+      "root1": "ص د ق",
+      "root2": "ك و ن",
+      "coOccurrences": 73
+    },
+    {
+      "rank": 126,
+      "root1": "ا ل ه",
+      "root2": "ح ي ي",
+      "coOccurrences": 73
+    },
+    {
+      "rank": 127,
+      "root1": "ع ل م",
+      "root2": "ك ل ل",
+      "coOccurrences": 73
+    },
+    {
+      "rank": 128,
+      "root1": "ر ح م",
+      "root2": "ق و ل",
+      "coOccurrences": 73
+    },
+    {
+      "rank": 129,
+      "root1": "ا ل ه",
+      "root2": "ن ب ا",
+      "coOccurrences": 73
+    },
+    {
+      "rank": 130,
+      "root1": "ج ي ا",
+      "root2": "ك و ن",
+      "coOccurrences": 73
+    },
+    {
+      "rank": 131,
+      "root1": "س م و",
+      "root2": "ع ل م",
+      "coOccurrences": 72
+    },
+    {
+      "rank": 132,
+      "root1": "ع م ل",
+      "root2": "ق و ل",
+      "coOccurrences": 72
+    },
+    {
+      "rank": 133,
+      "root1": "ا ل ه",
+      "root2": "ط و ع",
+      "coOccurrences": 72
+    },
+    {
+      "rank": 134,
+      "root1": "ا ل ه",
+      "root2": "م ث ل",
+      "coOccurrences": 71
+    },
+    {
+      "rank": 135,
+      "root1": "ا ل ه",
+      "root2": "ص د ق",
+      "coOccurrences": 71
+    },
+    {
+      "rank": 136,
+      "root1": "س م و",
+      "root2": "ك و ن",
+      "coOccurrences": 71
+    },
+    {
+      "rank": 137,
+      "root1": "ح ك م",
+      "root2": "ع ل م",
+      "coOccurrences": 71
+    },
+    {
+      "rank": 138,
+      "root1": "ع ن د",
+      "root2": "ق و ل",
+      "coOccurrences": 71
+    },
+    {
+      "rank": 139,
+      "root1": "ق و ل",
+      "root2": "ن ز ل",
+      "coOccurrences": 71
+    },
+    {
+      "rank": 140,
+      "root1": "ا ل ه",
+      "root2": "س م ع",
+      "coOccurrences": 70
+    },
+    {
+      "rank": 141,
+      "root1": "ا ل م",
+      "root2": "ع ذ ب",
+      "coOccurrences": 70
+    },
+    {
+      "rank": 142,
+      "root1": "ا ل ه",
+      "root2": "ش ه د",
+      "coOccurrences": 70
+    },
+    {
+      "rank": 143,
+      "root1": "ر ب ب",
+      "root2": "ك ف ر",
+      "coOccurrences": 70
+    },
+    {
+      "rank": 144,
+      "root1": "ا ل ه",
+      "root2": "ع ظ م",
+      "coOccurrences": 69
+    },
+    {
+      "rank": 145,
+      "root1": "ا م ر",
+      "root2": "ق و ل",
+      "coOccurrences": 69
+    },
+    {
+      "rank": 146,
+      "root1": "ب ي ن",
+      "root2": "ر س ل",
+      "coOccurrences": 69
+    },
+    {
+      "rank": 147,
+      "root1": "ا ل ه",
+      "root2": "ع ز ز",
+      "coOccurrences": 69
+    },
+    {
+      "rank": 148,
+      "root1": "ا ل ه",
+      "root2": "ك ذ ب",
+      "coOccurrences": 68
+    },
+    {
+      "rank": 149,
+      "root1": "ا ل ه",
+      "root2": "ب ن ي",
+      "coOccurrences": 68
+    },
+    {
+      "rank": 150,
+      "root1": "ح ق ق",
+      "root2": "ك و ن",
+      "coOccurrences": 68
+    },
+    {
+      "rank": 151,
+      "root1": "ع ذ ب",
+      "root2": "ك ف ر",
+      "coOccurrences": 68
+    },
+    {
+      "rank": 152,
+      "root1": "ا م ن",
+      "root2": "ش ي ا",
+      "coOccurrences": 68
+    },
+    {
+      "rank": 153,
+      "root1": "ح ق ق",
+      "root2": "ر ب ب",
+      "coOccurrences": 67
+    },
+    {
+      "rank": 154,
+      "root1": "ق و ل",
+      "root2": "ن ف س",
+      "coOccurrences": 67
+    },
+    {
+      "rank": 155,
+      "root1": "ب ي ن",
+      "root2": "ق و م",
+      "coOccurrences": 67
+    },
+    {
+      "rank": 156,
+      "root1": "ا ي ي",
+      "root2": "ق و م",
+      "coOccurrences": 67
+    },
+    {
+      "rank": 157,
+      "root1": "ق و م",
+      "root2": "ه د ي",
+      "coOccurrences": 66
+    },
+    {
+      "rank": 158,
+      "root1": "ا ل ه",
+      "root2": "خ ر ج",
+      "coOccurrences": 66
+    },
+    {
+      "rank": 159,
+      "root1": "خ ل ق",
+      "root2": "س م و",
+      "coOccurrences": 66
+    },
+    {
+      "rank": 160,
+      "root1": "س م و",
+      "root2": "ق و ل",
+      "coOccurrences": 66
+    },
+    {
+      "rank": 161,
+      "root1": "ا ل ه",
+      "root2": "ص ل ح",
+      "coOccurrences": 66
+    },
+    {
+      "rank": 162,
+      "root1": "ح ي ي",
+      "root2": "د ن و",
+      "coOccurrences": 66
+    },
+    {
+      "rank": 163,
+      "root1": "ا ل ه",
+      "root2": "س و ا",
+      "coOccurrences": 66
+    },
+    {
+      "rank": 164,
+      "root1": "ا ل ه",
+      "root2": "ر و د",
+      "coOccurrences": 65
+    },
+    {
+      "rank": 165,
+      "root1": "ح ي ي",
+      "root2": "م و ت",
+      "coOccurrences": 65
+    },
+    {
+      "rank": 166,
+      "root1": "ب ي ن",
+      "root2": "ج ي ا",
+      "coOccurrences": 65
+    },
+    {
+      "rank": 167,
+      "root1": "ك ت ب",
+      "root2": "ك و ن",
+      "coOccurrences": 65
+    },
+    {
+      "rank": 168,
+      "root1": "ا ل ه",
+      "root2": "ت ب ع",
+      "coOccurrences": 65
+    },
+    {
+      "rank": 169,
+      "root1": "ك ذ ب",
+      "root2": "ك و ن",
+      "coOccurrences": 64
+    },
+    {
+      "rank": 170,
+      "root1": "ا ل ه",
+      "root2": "م و ت",
+      "coOccurrences": 64
+    },
+    {
+      "rank": 171,
+      "root1": "ش ي ا",
+      "root2": "ق د ر",
+      "coOccurrences": 64
+    },
+    {
+      "rank": 172,
+      "root1": "ا ل ه",
+      "root2": "ق د ر",
+      "coOccurrences": 64
+    },
+    {
+      "rank": 173,
+      "root1": "ا ت ي",
+      "root2": "ق ب ل",
+      "coOccurrences": 64
+    },
+    {
+      "rank": 174,
+      "root1": "ا ر ض",
+      "root2": "خ ل ق",
+      "coOccurrences": 64
+    },
+    {
+      "rank": 175,
+      "root1": "ا م ن",
+      "root2": "ا ي ي",
+      "coOccurrences": 64
+    },
+    {
+      "rank": 176,
+      "root1": "ر ح م",
+      "root2": "ك و ن",
+      "coOccurrences": 64
+    },
+    {
+      "rank": 177,
+      "root1": "ا خ ذ",
+      "root2": "ق و ل",
+      "coOccurrences": 63
+    },
+    {
+      "rank": 178,
+      "root1": "د ع و",
+      "root2": "ق و ل",
+      "coOccurrences": 63
+    },
+    {
+      "rank": 179,
+      "root1": "ا ل ه",
+      "root2": "د ن و",
+      "coOccurrences": 63
+    },
+    {
+      "rank": 180,
+      "root1": "ق و ل",
+      "root2": "ك ت ب",
+      "coOccurrences": 63
+    },
+    {
+      "rank": 181,
+      "root1": "ا م ن",
+      "root2": "ك ت ب",
+      "coOccurrences": 63
+    },
+    {
+      "rank": 182,
+      "root1": "ك ت ب",
+      "root2": "ن ز ل",
+      "coOccurrences": 63
+    },
+    {
+      "rank": 183,
+      "root1": "ع ب د",
+      "root2": "ك و ن",
+      "coOccurrences": 62
+    },
+    {
+      "rank": 184,
+      "root1": "ا ر ض",
+      "root2": "ك ل ل",
+      "coOccurrences": 62
+    },
+    {
+      "rank": 185,
+      "root1": "ج ع ل",
+      "root2": "ق و ل",
+      "coOccurrences": 62
+    },
+    {
+      "rank": 186,
+      "root1": "ر ب ب",
+      "root2": "ع ن د",
+      "coOccurrences": 62
+    },
+    {
+      "rank": 187,
+      "root1": "ا ل ه",
+      "root2": "ف ض ل",
+      "coOccurrences": 62
+    },
+    {
+      "rank": 188,
+      "root1": "ا ت ي",
+      "root2": "ب ي ن",
+      "coOccurrences": 62
+    },
+    {
+      "rank": 189,
+      "root1": "ج ي ا",
+      "root2": "ر س ل",
+      "coOccurrences": 62
+    },
+    {
+      "rank": 190,
+      "root1": "ر ب ب",
+      "root2": "غ ف ر",
+      "coOccurrences": 62
+    },
+    {
+      "rank": 191,
+      "root1": "ر ب ب",
+      "root2": "ه د ي",
+      "coOccurrences": 61
+    },
+    {
+      "rank": 192,
+      "root1": "ق و ل",
+      "root2": "ك ل ل",
+      "coOccurrences": 61
+    },
+    {
+      "rank": 193,
+      "root1": "ا خ ذ",
+      "root2": "ك و ن",
+      "coOccurrences": 61
+    },
+    {
+      "rank": 194,
+      "root1": "ع ل م",
+      "root2": "ك ت ب",
+      "coOccurrences": 61
+    },
+    {
+      "rank": 195,
+      "root1": "ا ي ي",
+      "root2": "ب ي ن",
+      "coOccurrences": 61
+    },
+    {
+      "rank": 196,
+      "root1": "ر ب ب",
+      "root2": "س م و",
+      "coOccurrences": 61
+    },
+    {
+      "rank": 197,
+      "root1": "ا ل ه",
+      "root2": "ن ف ق",
+      "coOccurrences": 61
+    },
+    {
+      "rank": 198,
+      "root1": "ا ل ه",
+      "root2": "ب ص ر",
+      "coOccurrences": 60
+    },
+    {
+      "rank": 199,
+      "root1": "ا ب و",
+      "root2": "ق و ل",
+      "coOccurrences": 60
+    },
+    {
+      "rank": 200,
+      "root1": "ا ل ه",
+      "root2": "ر ز ق",
+      "coOccurrences": 59
+    }
+  ],
+  "wordBigrams": [
+    {
+      "rank": 1,
+      "phrase": "إن الله",
+      "occurrences": 205
+    },
+    {
+      "rank": 2,
+      "phrase": "الذين آمنوا",
+      "occurrences": 184
+    },
+    {
+      "rank": 3,
+      "phrase": "في الأرض",
+      "occurrences": 176
+    },
+    {
+      "rank": 4,
+      "phrase": "يا أيها",
+      "occurrences": 142
+    },
+    {
+      "rank": 5,
+      "phrase": "الذين كفروا",
+      "occurrences": 134
+    },
+    {
+      "rank": 6,
+      "phrase": "السماوات والأرض",
+      "occurrences": 133
+    },
+    {
+      "rank": 7,
+      "phrase": "من قبل",
+      "occurrences": 92
+    },
+    {
+      "rank": 8,
+      "phrase": "أيها الذين",
+      "occurrences": 92
+    },
+    {
+      "rank": 9,
+      "phrase": "من الله",
+      "occurrences": 89
+    },
+    {
+      "rank": 10,
+      "phrase": "كل شيء",
+      "occurrences": 87
+    },
+    {
+      "rank": 11,
+      "phrase": "إن الذين",
+      "occurrences": 84
+    },
+    {
+      "rank": 12,
+      "phrase": "من بعد",
+      "occurrences": 84
+    },
+    {
+      "rank": 13,
+      "phrase": "من دون",
+      "occurrences": 83
+    },
+    {
+      "rank": 14,
+      "phrase": "إن كنتم",
+      "occurrences": 80
+    },
+    {
+      "rank": 15,
+      "phrase": "دون الله",
+      "occurrences": 72
+    },
+    {
+      "rank": 16,
+      "phrase": "على الله",
+      "occurrences": 72
+    },
+    {
+      "rank": 17,
+      "phrase": "في السماوات",
+      "occurrences": 71
+    },
+    {
+      "rank": 18,
+      "phrase": "الله من",
+      "occurrences": 70
+    },
+    {
+      "rank": 19,
+      "phrase": "ما في",
+      "occurrences": 69
+    },
+    {
+      "rank": 20,
+      "phrase": "سبيل الله",
+      "occurrences": 69
+    },
+    {
+      "rank": 21,
+      "phrase": "الله لا",
+      "occurrences": 63
+    },
+    {
+      "rank": 22,
+      "phrase": "من يشاء",
+      "occurrences": 62
+    },
+    {
+      "rank": 23,
+      "phrase": "عند الله",
+      "occurrences": 61
+    },
+    {
+      "rank": 24,
+      "phrase": "الحياة الدنيا",
+      "occurrences": 61
+    },
+    {
+      "rank": 25,
+      "phrase": "يوم القيامة",
+      "occurrences": 60
+    },
+    {
+      "rank": 26,
+      "phrase": "إن في",
+      "occurrences": 57
+    },
+    {
+      "rank": 27,
+      "phrase": "على كل",
+      "occurrences": 56
+    },
+    {
+      "rank": 28,
+      "phrase": "وعملوا الصالحات",
+      "occurrences": 53
+    },
+    {
+      "rank": 29,
+      "phrase": "ما كانوا",
+      "occurrences": 53
+    },
+    {
+      "rank": 30,
+      "phrase": "الله إن",
+      "occurrences": 52
+    },
+    {
+      "rank": 31,
+      "phrase": "أن الله",
+      "occurrences": 52
+    },
+    {
+      "rank": 32,
+      "phrase": "في ذلك",
+      "occurrences": 52
+    },
+    {
+      "rank": 33,
+      "phrase": "من السماء",
+      "occurrences": 51
+    },
+    {
+      "rank": 34,
+      "phrase": "وما كان",
+      "occurrences": 51
+    },
+    {
+      "rank": 35,
+      "phrase": "آمنوا وعملوا",
+      "occurrences": 50
+    },
+    {
+      "rank": 36,
+      "phrase": "لكم من",
+      "occurrences": 49
+    },
+    {
+      "rank": 37,
+      "phrase": "إلا أن",
+      "occurrences": 48
+    },
+    {
+      "rank": 38,
+      "phrase": "فإن الله",
+      "occurrences": 47
+    },
+    {
+      "rank": 39,
+      "phrase": "الله على",
+      "occurrences": 46
+    },
+    {
+      "rank": 40,
+      "phrase": "الله ما",
+      "occurrences": 46
+    },
+    {
+      "rank": 41,
+      "phrase": "إلا من",
+      "occurrences": 46
+    },
+    {
+      "rank": 42,
+      "phrase": "في سبيل",
+      "occurrences": 45
+    },
+    {
+      "rank": 43,
+      "phrase": "الله ورسوله",
+      "occurrences": 44
+    },
+    {
+      "rank": 44,
+      "phrase": "لا يعلمون",
+      "occurrences": 43
+    },
+    {
+      "rank": 45,
+      "phrase": "بما كانوا",
+      "occurrences": 42
+    },
+    {
+      "rank": 46,
+      "phrase": "حتى إذا",
+      "occurrences": 42
+    },
+    {
+      "rank": 47,
+      "phrase": "لا يؤمنون",
+      "occurrences": 41
+    },
+    {
+      "rank": 48,
+      "phrase": "خالدين فيها",
+      "occurrences": 40
+    },
+    {
+      "rank": 49,
+      "phrase": "إله إلا",
+      "occurrences": 40
+    },
+    {
+      "rank": 50,
+      "phrase": "من كل",
+      "occurrences": 40
+    },
+    {
+      "rank": 51,
+      "phrase": "وكان الله",
+      "occurrences": 40
+    },
+    {
+      "rank": 52,
+      "phrase": "تجري من",
+      "occurrences": 39
+    },
+    {
+      "rank": 53,
+      "phrase": "بما تعملون",
+      "occurrences": 39
+    },
+    {
+      "rank": 54,
+      "phrase": "إلا هو",
+      "occurrences": 39
+    },
+    {
+      "rank": 55,
+      "phrase": "قال يا",
+      "occurrences": 38
+    },
+    {
+      "rank": 56,
+      "phrase": "يا قوم",
+      "occurrences": 38
+    },
+    {
+      "rank": 57,
+      "phrase": "من شيء",
+      "occurrences": 38
+    },
+    {
+      "rank": 58,
+      "phrase": "من دونه",
+      "occurrences": 38
+    },
+    {
+      "rank": 59,
+      "phrase": "من قبلهم",
+      "occurrences": 37
+    },
+    {
+      "rank": 60,
+      "phrase": "لا إله",
+      "occurrences": 37
+    },
+    {
+      "rank": 61,
+      "phrase": "الذين من",
+      "occurrences": 36
+    },
+    {
+      "rank": 62,
+      "phrase": "غفور رحيم",
+      "occurrences": 36
+    },
+    {
+      "rank": 63,
+      "phrase": "إلى الله",
+      "occurrences": 36
+    },
+    {
+      "rank": 64,
+      "phrase": "إن هذا",
+      "occurrences": 36
+    },
+    {
+      "rank": 65,
+      "phrase": "والذين آمنوا",
+      "occurrences": 35
+    },
+    {
+      "rank": 66,
+      "phrase": "من تحتها",
+      "occurrences": 35
+    },
+    {
+      "rank": 67,
+      "phrase": "تحتها الأنهار",
+      "occurrences": 35
+    },
+    {
+      "rank": 68,
+      "phrase": "إلا ما",
+      "occurrences": 35
+    },
+    {
+      "rank": 69,
+      "phrase": "كانوا يعملون",
+      "occurrences": 35
+    },
+    {
+      "rank": 70,
+      "phrase": "من ربك",
+      "occurrences": 34
+    },
+    {
+      "rank": 71,
+      "phrase": "على ما",
+      "occurrences": 34
+    },
+    {
+      "rank": 72,
+      "phrase": "بعد ما",
+      "occurrences": 33
+    },
+    {
+      "rank": 73,
+      "phrase": "قال رب",
+      "occurrences": 33
+    },
+    {
+      "rank": 74,
+      "phrase": "ولا هم",
+      "occurrences": 32
+    },
+    {
+      "rank": 75,
+      "phrase": "بني إسرائيل",
+      "occurrences": 32
+    },
+    {
+      "rank": 76,
+      "phrase": "الله الذي",
+      "occurrences": 32
+    },
+    {
+      "rank": 77,
+      "phrase": "فبأي آلاء",
+      "occurrences": 32
+    },
+    {
+      "rank": 78,
+      "phrase": "شيء قدير",
+      "occurrences": 31
+    },
+    {
+      "rank": 79,
+      "phrase": "من ربكم",
+      "occurrences": 31
+    },
+    {
+      "rank": 80,
+      "phrase": "أهل الكتاب",
+      "occurrences": 31
+    },
+    {
+      "rank": 81,
+      "phrase": "له من",
+      "occurrences": 31
+    },
+    {
+      "rank": 82,
+      "phrase": "ألم تر",
+      "occurrences": 31
+    },
+    {
+      "rank": 83,
+      "phrase": "وهم لا",
+      "occurrences": 31
+    },
+    {
+      "rank": 84,
+      "phrase": "لهم من",
+      "occurrences": 31
+    },
+    {
+      "rank": 85,
+      "phrase": "آلاء ربكما",
+      "occurrences": 31
+    },
+    {
+      "rank": 86,
+      "phrase": "ربكما تكذبان",
+      "occurrences": 31
+    },
+    {
+      "rank": 87,
+      "phrase": "رب العالمين",
+      "occurrences": 30
+    },
+    {
+      "rank": 88,
+      "phrase": "عذاب أليم",
+      "occurrences": 30
+    },
+    {
+      "rank": 89,
+      "phrase": "الذين لا",
+      "occurrences": 30
+    },
+    {
+      "rank": 90,
+      "phrase": "واتقوا الله",
+      "occurrences": 30
+    },
+    {
+      "rank": 91,
+      "phrase": "ما لا",
+      "occurrences": 29
+    },
+    {
+      "rank": 92,
+      "phrase": "خلق السماوات",
+      "occurrences": 29
+    },
+    {
+      "rank": 93,
+      "phrase": "قبل أن",
+      "occurrences": 29
+    },
+    {
+      "rank": 94,
+      "phrase": "بما كنتم",
+      "occurrences": 29
+    },
+    {
+      "rank": 95,
+      "phrase": "الله كان",
+      "occurrences": 29
+    },
+    {
+      "rank": 96,
+      "phrase": "إنه كان",
+      "occurrences": 29
+    },
+    {
+      "rank": 97,
+      "phrase": "من قبلك",
+      "occurrences": 28
+    },
+    {
+      "rank": 98,
+      "phrase": "شاء الله",
+      "occurrences": 28
+    },
+    {
+      "rank": 99,
+      "phrase": "هو الذي",
+      "occurrences": 28
+    },
+    {
+      "rank": 100,
+      "phrase": "في الدنيا",
+      "occurrences": 28
+    },
+    {
+      "rank": 101,
+      "phrase": "العزيز الحكيم",
+      "occurrences": 28
+    },
+    {
+      "rank": 102,
+      "phrase": "السماوات وما",
+      "occurrences": 28
+    },
+    {
+      "rank": 103,
+      "phrase": "وما في",
+      "occurrences": 28
+    },
+    {
+      "rank": 104,
+      "phrase": "وهو الذي",
+      "occurrences": 28
+    },
+    {
+      "rank": 105,
+      "phrase": "إن ربك",
+      "occurrences": 28
+    },
+    {
+      "rank": 106,
+      "phrase": "به من",
+      "occurrences": 27
+    },
+    {
+      "rank": 107,
+      "phrase": "كنتم صادقين",
+      "occurrences": 27
+    },
+    {
+      "rank": 108,
+      "phrase": "جنات تجري",
+      "occurrences": 27
+    },
+    {
+      "rank": 109,
+      "phrase": "يعلم ما",
+      "occurrences": 27
+    },
+    {
+      "rank": 110,
+      "phrase": "من الذين",
+      "occurrences": 27
+    },
+    {
+      "rank": 111,
+      "phrase": "آمنوا لا",
+      "occurrences": 27
+    },
+    {
+      "rank": 112,
+      "phrase": "والأرض وما",
+      "occurrences": 27
+    },
+    {
+      "rank": 113,
+      "phrase": "أولئك الذين",
+      "occurrences": 26
+    },
+    {
+      "rank": 114,
+      "phrase": "أنزل الله",
+      "occurrences": 26
+    },
+    {
+      "rank": 115,
+      "phrase": "من فضله",
+      "occurrences": 26
+    },
+    {
+      "rank": 116,
+      "phrase": "الذين أوتوا",
+      "occurrences": 26
+    },
+    {
+      "rank": 117,
+      "phrase": "الله هو",
+      "occurrences": 26
+    },
+    {
+      "rank": 118,
+      "phrase": "إذ قال",
+      "occurrences": 26
+    },
+    {
+      "rank": 119,
+      "phrase": "قالوا يا",
+      "occurrences": 26
+    },
+    {
+      "rank": 120,
+      "phrase": "بكل شيء",
+      "occurrences": 25
+    },
+    {
+      "rank": 121,
+      "phrase": "الله ولا",
+      "occurrences": 25
+    },
+    {
+      "rank": 122,
+      "phrase": "قل إن",
+      "occurrences": 25
+    },
+    {
+      "rank": 123,
+      "phrase": "وأن الله",
+      "occurrences": 25
+    },
+    {
+      "rank": 124,
+      "phrase": "الله غفور",
+      "occurrences": 25
+    },
+    {
+      "rank": 125,
+      "phrase": "في قلوبهم",
+      "occurrences": 24
+    },
+    {
+      "rank": 126,
+      "phrase": "الذين ظلموا",
+      "occurrences": 24
+    },
+    {
+      "rank": 127,
+      "phrase": "والله عليم",
+      "occurrences": 24
+    },
+    {
+      "rank": 128,
+      "phrase": "في الآخرة",
+      "occurrences": 24
+    },
+    {
+      "rank": 129,
+      "phrase": "ما كان",
+      "occurrences": 24
+    },
+    {
+      "rank": 130,
+      "phrase": "كان من",
+      "occurrences": 24
+    },
+    {
+      "rank": 131,
+      "phrase": "عن سبيل",
+      "occurrences": 24
+    },
+    {
+      "rank": 132,
+      "phrase": "لا يهدي",
+      "occurrences": 24
+    },
+    {
+      "rank": 133,
+      "phrase": "ذلك لآيات",
+      "occurrences": 24
+    },
+    {
+      "rank": 134,
+      "phrase": "ولهم عذاب",
+      "occurrences": 23
+    },
+    {
+      "rank": 135,
+      "phrase": "بعد ذلك",
+      "occurrences": 23
+    },
+    {
+      "rank": 136,
+      "phrase": "بآيات الله",
+      "occurrences": 23
+    },
+    {
+      "rank": 137,
+      "phrase": "ما كنتم",
+      "occurrences": 23
+    },
+    {
+      "rank": 138,
+      "phrase": "إلا قليلا",
+      "occurrences": 23
+    },
+    {
+      "rank": 139,
+      "phrase": "ابن مريم",
+      "occurrences": 23
+    },
+    {
+      "rank": 140,
+      "phrase": "صراط مستقيم",
+      "occurrences": 23
+    },
+    {
+      "rank": 141,
+      "phrase": "الله لكم",
+      "occurrences": 23
+    },
+    {
+      "rank": 142,
+      "phrase": "لا يحب",
+      "occurrences": 23
+    },
+    {
+      "rank": 143,
+      "phrase": "الله والله",
+      "occurrences": 23
+    },
+    {
+      "rank": 144,
+      "phrase": "إلى يوم",
+      "occurrences": 23
+    },
+    {
+      "rank": 145,
+      "phrase": "وعد الله",
+      "occurrences": 23
+    },
+    {
+      "rank": 146,
+      "phrase": "كنتم تعملون",
+      "occurrences": 23
+    },
+    {
+      "rank": 147,
+      "phrase": "واليوم الآخر",
+      "occurrences": 22
+    },
+    {
+      "rank": 148,
+      "phrase": "من عند",
+      "occurrences": 22
+    },
+    {
+      "rank": 149,
+      "phrase": "كل نفس",
+      "occurrences": 22
+    },
+    {
+      "rank": 150,
+      "phrase": "كان عاقبة",
+      "occurrences": 22
+    },
+    {
+      "rank": 151,
+      "phrase": "هذا إلا",
+      "occurrences": 22
+    },
+    {
+      "rank": 152,
+      "phrase": "الحمد لله",
+      "occurrences": 21
+    },
+    {
+      "rank": 153,
+      "phrase": "أيها الناس",
+      "occurrences": 21
+    },
+    {
+      "rank": 154,
+      "phrase": "الذي خلق",
+      "occurrences": 21
+    },
+    {
+      "rank": 155,
+      "phrase": "على الذين",
+      "occurrences": 21
+    },
+    {
+      "rank": 156,
+      "phrase": "الله عليكم",
+      "occurrences": 21
+    },
+    {
+      "rank": 157,
+      "phrase": "الله وما",
+      "occurrences": 21
+    },
+    {
+      "rank": 158,
+      "phrase": "وقال الذين",
+      "occurrences": 21
+    },
+    {
+      "rank": 159,
+      "phrase": "فأولئك هم",
+      "occurrences": 21
+    },
+    {
+      "rank": 160,
+      "phrase": "ومنهم من",
+      "occurrences": 21
+    },
+    {
+      "rank": 161,
+      "phrase": "كيف كان",
+      "occurrences": 21
+    },
+    {
+      "rank": 162,
+      "phrase": "وما بينهما",
+      "occurrences": 21
+    },
+    {
+      "rank": 163,
+      "phrase": "قيل لهم",
+      "occurrences": 20
+    },
+    {
+      "rank": 164,
+      "phrase": "السماء ماء",
+      "occurrences": 20
+    },
+    {
+      "rank": 165,
+      "phrase": "أولئك هم",
+      "occurrences": 20
+    },
+    {
+      "rank": 166,
+      "phrase": "لا تعلمون",
+      "occurrences": 20
+    },
+    {
+      "rank": 167,
+      "phrase": "والذين كفروا",
+      "occurrences": 20
+    },
+    {
+      "rank": 168,
+      "phrase": "أصحاب النار",
+      "occurrences": 20
+    },
+    {
+      "rank": 169,
+      "phrase": "يا بني",
+      "occurrences": 20
+    },
+    {
+      "rank": 170,
+      "phrase": "ذلك بأنهم",
+      "occurrences": 20
+    },
+    {
+      "rank": 171,
+      "phrase": "في الحياة",
+      "occurrences": 20
+    },
+    {
+      "rank": 172,
+      "phrase": "أكثرهم لا",
+      "occurrences": 20
+    },
+    {
+      "rank": 173,
+      "phrase": "إلا الذين",
+      "occurrences": 20
+    },
+    {
+      "rank": 174,
+      "phrase": "ما لم",
+      "occurrences": 20
+    },
+    {
+      "rank": 175,
+      "phrase": "ما أنزل",
+      "occurrences": 20
+    },
+    {
+      "rank": 176,
+      "phrase": "الله الذين",
+      "occurrences": 20
+    },
+    {
+      "rank": 177,
+      "phrase": "أكثر الناس",
+      "occurrences": 20
+    },
+    {
+      "rank": 178,
+      "phrase": "ذلك لآية",
+      "occurrences": 20
+    },
+    {
+      "rank": 179,
+      "phrase": "لمن يشاء",
+      "occurrences": 20
+    },
+    {
+      "rank": 180,
+      "phrase": "ثم لا",
+      "occurrences": 20
+    },
+    {
+      "rank": 181,
+      "phrase": "لهم عذاب",
+      "occurrences": 20
+    },
+    {
+      "rank": 182,
+      "phrase": "الأنهار خالدين",
+      "occurrences": 20
+    },
+    {
+      "rank": 183,
+      "phrase": "من في",
+      "occurrences": 20
+    },
+    {
+      "rank": 184,
+      "phrase": "في ضلال",
+      "occurrences": 20
+    },
+    {
+      "rank": 185,
+      "phrase": "ما لكم",
+      "occurrences": 20
+    },
+    {
+      "rank": 186,
+      "phrase": "وما أنزل",
+      "occurrences": 19
+    },
+    {
+      "rank": 187,
+      "phrase": "فيها خالدون",
+      "occurrences": 19
+    },
+    {
+      "rank": 188,
+      "phrase": "إنه هو",
+      "occurrences": 19
+    },
+    {
+      "rank": 189,
+      "phrase": "من بعده",
+      "occurrences": 19
+    },
+    {
+      "rank": 190,
+      "phrase": "خير لكم",
+      "occurrences": 19
+    },
+    {
+      "rank": 191,
+      "phrase": "بالله واليوم",
+      "occurrences": 19
+    },
+    {
+      "rank": 192,
+      "phrase": "عند ربهم",
+      "occurrences": 19
+    },
+    {
+      "rank": 193,
+      "phrase": "إلا الله",
+      "occurrences": 19
+    },
+    {
+      "rank": 194,
+      "phrase": "من كان",
+      "occurrences": 19
+    },
+    {
+      "rank": 195,
+      "phrase": "ملك السماوات",
+      "occurrences": 19
+    },
+    {
+      "rank": 196,
+      "phrase": "الله أن",
+      "occurrences": 19
+    },
+    {
+      "rank": 197,
+      "phrase": "والله لا",
+      "occurrences": 19
+    },
+    {
+      "rank": 198,
+      "phrase": "آيات الله",
+      "occurrences": 19
+    },
+    {
+      "rank": 199,
+      "phrase": "يهدي القوم",
+      "occurrences": 19
+    },
+    {
+      "rank": 200,
+      "phrase": "أعلم بما",
+      "occurrences": 19
+    }
+  ]
+}

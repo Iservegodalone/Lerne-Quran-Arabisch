@@ -1,0 +1,753 @@
+{
+  "meta": {
+    "title": "Erweiterte Syntax-Uebungen (Fortgeschritten) — Teil 4",
+    "description": "20 strukturierte Uebungen zu seltenen syntaktischen Phaenomenen: Exklamativsaetze (Ta'ajjub), Ism al-Fi'l, Tanazu' al-I'rab und Ishtighal.",
+    "language": "de",
+    "totalExercises": 20,
+    "categories": [
+      "ta'ajjub",
+      "ism_fi'l",
+      "tanazu'",
+      "ishtighal"
+    ]
+  },
+  "exercises": [
+    {
+      "id": "syn_301",
+      "type": "parse",
+      "category": "ta'ajjub",
+      "verse": "فَمَا أَصْبَرَهُمْ عَلَى النَّارِ",
+      "surah": 2,
+      "ayah": 175,
+      "words": [
+        { "word": "فَ", "role": "Konjunktion", "case": "—", "explanation": "Anknuepfende Konjunktion (Fa al-fa'sihiyya)." },
+        { "word": "مَا", "role": "Ta'ajjub-Partikel", "case": "—", "explanation": "ما التعجبية — leitet den Exklamativsatz ein. Keine Rektion, keine Flexion." },
+        { "word": "أَصْبَرَ", "role": "Fi'l at-ta'ajjub", "case": "—", "explanation": "Verb der Exklamativform أَفْعَلَ — drueckt Staunen aus. Muster: ما أَفْعَلَ + Maf'ul bihi." },
+        { "word": "هُمْ", "role": "Maf'ul bihi", "case": "Akkusativ", "explanation": "Suffix-Pronomen als Objekt des Exklamativverbs — 'wie geduldig sie sind!'" },
+        { "word": "عَلَى النَّارِ", "role": "Jarr wa-Majrur", "case": "Genitiv", "explanation": "Praepositionalphrase: 'gegenueber dem Feuer' — Komplement des Exklamativverbs." }
+      ]
+    },
+    {
+      "id": "syn_302",
+      "type": "parse",
+      "category": "ta'ajjub",
+      "verse": "قُتِلَ الْإِنْسَانُ مَا أَكْفَرَهُ",
+      "surah": 80,
+      "ayah": 17,
+      "words": [
+        { "word": "قُتِلَ", "role": "Fi'l (Passiv)", "case": "—", "explanation": "Passivform — woertlich 'er wurde getoetet'. Hier als Fluch-/Verwuenschungsformel verwendet." },
+        { "word": "الْإِنْسَانُ", "role": "Na'ib al-Fa'il", "case": "Nominativ (Raf')", "explanation": "Stellvertreter des Subjekts im Passivsatz — 'der Mensch'." },
+        { "word": "مَا", "role": "Ta'ajjub-Partikel", "case": "—", "explanation": "ما التعجبية — leitet den Exklamativ ein: 'Wie ...!'" },
+        { "word": "أَكْفَرَ", "role": "Fi'l at-ta'ajjub", "case": "—", "explanation": "Exklamativform أَفْعَلَ von der Wurzel ك-ف-ر — 'wie undankbar/ablehnend!'" },
+        { "word": "هُ", "role": "Maf'ul bihi", "case": "Akkusativ", "explanation": "Suffix-Pronomen — verweist auf الإنسان zurueck: 'wie undankbar er ist!'" }
+      ]
+    },
+    {
+      "id": "syn_303",
+      "type": "parse",
+      "category": "ta'ajjub",
+      "verse": "أَسْمِعْ بِهِمْ وَأَبْصِرْ يَوْمَ يَأْتُونَنَا",
+      "surah": 19,
+      "ayah": 38,
+      "words": [
+        { "word": "أَسْمِعْ", "role": "Fi'l at-ta'ajjub (2. Form)", "case": "—", "explanation": "Exklamativform أَفْعِلْ بِهِ — die zweite Ta'ajjub-Formel. Aeusserlich ein Imperativ, semantisch Exklamation: 'Wie hoerend!'" },
+        { "word": "بِهِمْ", "role": "Fa'il (formal)", "case": "Genitiv (formal) / Nominativ (syntaktisch)", "explanation": "In der Formel أَفْعِلْ بِهِ ist das Ba za'id (ueberfluessig) — بِهِمْ ist formal Genitiv durch die Praeposition, syntaktisch aber Fa'il." },
+        { "word": "وَ", "role": "Konjunktion", "case": "—", "explanation": "Kopulatives Waw — verbindet die beiden parallelen Exklamative." },
+        { "word": "أَبْصِرْ", "role": "Fi'l at-ta'ajjub (2. Form)", "case": "—", "explanation": "Zweiter Exklamativ: 'Wie sehend!' — parallel zu أَسْمِعْ." },
+        { "word": "يَوْمَ يَأْتُونَنَا", "role": "Zarf (Zeitadverbial)", "case": "Akkusativ (Nasb)", "explanation": "Zeitangabe im Akkusativ: 'am Tag, an dem sie zu uns kommen'." }
+      ]
+    },
+    {
+      "id": "syn_304",
+      "type": "parse",
+      "category": "ta'ajjub",
+      "verse": "كَيْفَ تَكْفُرُونَ بِاللَّهِ وَكُنْتُمْ أَمْوَاتًا فَأَحْيَاكُمْ",
+      "surah": 2,
+      "ayah": 28,
+      "words": [
+        { "word": "كَيْفَ", "role": "Ism Istifham / Ta'ajjub", "case": "—", "explanation": "Fragepronomen das hier rhetorisch-exklamativ verwendet wird: 'Wie koennt ihr nur ...!' — Ausdruck des Staunens ueber das Verhalten." },
+        { "word": "تَكْفُرُونَ", "role": "Fi'l Mudari' (Khabar)", "case": "Raf' (Indikativ)", "explanation": "Verb im Indikativ — das Fragewort كيف veraendert den Modus nicht. 'ihr leugnet/seid undankbar'." },
+        { "word": "بِاللَّهِ", "role": "Jarr wa-Majrur", "case": "Genitiv", "explanation": "Praepositionalphrase: 'gegenueber Gott' — Komplement des Verbs كفر بـ." },
+        { "word": "وَكُنْتُمْ أَمْوَاتًا", "role": "Halsatz", "case": "—", "explanation": "Zustandssatz mit كان: 'waehrend ihr tot wart' — beschreibt den frueheren Zustand. أَمْوَاتًا ist Khabar von كان im Akkusativ." },
+        { "word": "فَأَحْيَاكُمْ", "role": "Fi'l + Maf'ul bihi", "case": "—", "explanation": "'dann machte er euch lebendig' — Fa al-'atf knuepft die Folgehandlung an." }
+      ]
+    },
+    {
+      "id": "syn_305",
+      "type": "parse",
+      "category": "ta'ajjub",
+      "verse": "فَمَا أَغْنَىٰ عَنْهُمْ سَمْعُهُمْ وَلَا أَبْصَارُهُمْ وَلَا أَفْئِدَتُهُمْ مِنْ شَيْءٍ",
+      "surah": 46,
+      "ayah": 26,
+      "words": [
+        { "word": "فَ", "role": "Konjunktion", "case": "—", "explanation": "Fa al-fa'sihiyya — leitet die Konsequenz ein." },
+        { "word": "مَا", "role": "Negationspartikel / Ta'ajjub", "case": "—", "explanation": "Hier als Negation (ما النافية) lesbar: 'ihr Gehoer nuetzte ihnen nichts'. Auch eine exklamative Konnotation ist moeglich." },
+        { "word": "أَغْنَىٰ", "role": "Fi'l Madi", "case": "—", "explanation": "Verb im Perfekt: 'nuetzte / machte unabhaengig'. Form IV von غ-ن-ي." },
+        { "word": "عَنْهُمْ", "role": "Jarr wa-Majrur", "case": "Genitiv", "explanation": "'fuer sie / von ihnen weg' — Praepositionalobjekt." },
+        { "word": "سَمْعُهُمْ وَلَا أَبْصَارُهُمْ وَلَا أَفْئِدَتُهُمْ", "role": "Fa'il (dreifach koordiniert)", "case": "Nominativ (Raf')", "explanation": "Drei koordinierte Subjekte im Nominativ: 'ihr Gehoer, ihre Blicke und ihre Herzen' — keines davon nuetzte ihnen." },
+        { "word": "مِنْ شَيْءٍ", "role": "Jarr wa-Majrur", "case": "Genitiv", "explanation": "'in irgendetwas' — مِنْ ist Praeposition mit partitiv-versterkender Funktion. شَيْءٍ steht im Genitiv, weil es von مِنْ regiert wird (Jarr wa-Majrur)." }
+      ]
+    },
+    {
+      "id": "syn_306",
+      "type": "parse",
+      "category": "ism_fi'l",
+      "verse": "هَيْهَاتَ هَيْهَاتَ لِمَا تُوعَدُونَ",
+      "surah": 23,
+      "ayah": 36,
+      "words": [
+        { "word": "هَيْهَاتَ", "role": "Ism Fi'l Madi", "case": "—", "explanation": "Ism al-Fi'l — ein Nomen das die Funktion eines Verbs uebernimmt. هَيْهَاتَ = بَعُدَ (es ist fern/unmoeglich). Es ist unveraenderlich (mabniyy) und regiert wie ein Verb." },
+        { "word": "هَيْهَاتَ", "role": "Tawkid (Verstaerkung)", "case": "—", "explanation": "Wiederholung zur Verstaerkung — 'Fern, fern!' Rhetorische Verdopplung." },
+        { "word": "لِ", "role": "Praeposition", "case": "—", "explanation": "Lam al-jarr — fuehrt das Komplement ein: 'fern von dem, was...'" },
+        { "word": "مَا", "role": "Ism Mawsul", "case": "Genitiv (durch لِ)", "explanation": "Relativpronomen: 'das, was' — leitet den Relativsatz ein." },
+        { "word": "تُوعَدُونَ", "role": "Sila (Relativsatz)", "case": "Raf' (Indikativ)", "explanation": "Verb im Passiv-Indikativ: 'euch versprochen/angedroht wird' — bildet den Relativsatz (Sila) zu ما." }
+      ]
+    },
+    {
+      "id": "syn_307",
+      "type": "parse",
+      "category": "ism_fi'l",
+      "verse": "وَقَالُوا لِجُلُودِهِمْ لِمَ شَهِدْتُمْ عَلَيْنَا",
+      "surah": 41,
+      "ayah": 21,
+      "words": [
+        { "word": "وَ", "role": "Konjunktion", "case": "—", "explanation": "Kopulatives Waw." },
+        { "word": "قَالُوا", "role": "Fi'l + Fa'il", "case": "—", "explanation": "Verb im Perfekt 3.m.Pl. — 'sie sagten'. Das Waw al-Jama'a ist Fa'il." },
+        { "word": "لِجُلُودِهِمْ", "role": "Jarr wa-Majrur", "case": "Genitiv", "explanation": "'zu ihren Haeuten' — Adressat der Rede." },
+        { "word": "لِمَ", "role": "Fragewort", "case": "—", "explanation": "لِ + مَا (verkuerzt zu لِمَ) — 'warum/wofuer'. Das Alif von ما faellt nach Praepositionen aus." },
+        { "word": "شَهِدْتُمْ عَلَيْنَا", "role": "Fi'l + Fa'il + Jarr wa-Majrur", "case": "—", "explanation": "'ihr habt gegen uns bezeugt' — شهد على = gegen jemanden aussagen." }
+      ]
+    },
+    {
+      "id": "syn_308",
+      "type": "parse",
+      "category": "ism_fi'l",
+      "verse": "قَالَ أُفٍّ لَكُمْ وَلِمَا تَعْبُدُونَ مِنْ دُونِ اللَّهِ",
+      "surah": 21,
+      "ayah": 67,
+      "words": [
+        { "word": "قَالَ", "role": "Fi'l Madi", "case": "—", "explanation": "Verb im Perfekt: 'er sagte'." },
+        { "word": "أُفٍّ", "role": "Ism Fi'l Mudari'", "case": "—", "explanation": "Ism al-Fi'l — ein Nomen mit Verbfunktion. أُفٍّ = أَتَضَجَّرُ (ich bin angewidert/genervt). Unveraenderlich, drueckt Abscheu aus. Der Fa'il ist implizit (das sprechende Ich)." },
+        { "word": "لَكُمْ", "role": "Jarr wa-Majrur", "case": "Genitiv", "explanation": "'euch' — Adressat des Ausrufs der Abscheu." },
+        { "word": "وَلِمَا تَعْبُدُونَ", "role": "Ma'tuf (koordiniert)", "case": "Genitiv", "explanation": "'und dem, was ihr anbetet' — koordiniert mit لَكُمْ durch وَ." },
+        { "word": "مِنْ دُونِ اللَّهِ", "role": "Jarr wa-Majrur", "case": "Genitiv", "explanation": "'ausser Gott / an Gottes Statt' — Praepositionalkomplement." }
+      ]
+    },
+    {
+      "id": "syn_309",
+      "type": "parse",
+      "category": "ism_fi'l",
+      "verse": "قُلْ هَلُمَّ شُهَدَاءَكُمُ الَّذِينَ يَشْهَدُونَ أَنَّ اللَّهَ حَرَّمَ هَٰذَا",
+      "surah": 6,
+      "ayah": 150,
+      "words": [
+        { "word": "قُلْ", "role": "Fi'l Amr", "case": "—", "explanation": "Imperativ: 'Sag!'" },
+        { "word": "هَلُمَّ", "role": "Ism Fi'l Amr", "case": "—", "explanation": "Ism al-Fi'l mit Imperativbedeutung = أَحْضِرُوا / تَعَالَوْا (bringt her! / kommt!). Im Hidschazischen unveraenderlich fuer alle Personen und Numeri. Der Fa'il ist implizit (ihr)." },
+        { "word": "شُهَدَاءَ", "role": "Maf'ul bihi", "case": "Akkusativ (Nasb)", "explanation": "'eure Zeugen' — Akkusativobjekt von هَلُمَّ." },
+        { "word": "كُمُ", "role": "Mudaf ilayhi", "case": "Genitiv", "explanation": "Possessivsuffix: 'eure' — Genitiv in der Idafa-Konstruktion." },
+        { "word": "الَّذِينَ يَشْهَدُونَ أَنَّ اللَّهَ حَرَّمَ هَٰذَا", "role": "Sifa (Attributsatz)", "case": "—", "explanation": "Relativsatz als Attribut zu شُهَدَاءَكُمُ: 'die bezeugen, dass Gott dies verboten hat'. أَنَّ اللَّهَ حَرَّمَ هَٰذَا ist Masdar muawwal als Maf'ul bihi von يَشْهَدُونَ." }
+      ]
+    },
+    {
+      "id": "syn_310",
+      "type": "parse",
+      "category": "ism_fi'l",
+      "verse": "وَلَا يَحْسَبَنَّ الَّذِينَ كَفَرُوا أَنَّمَا نُمْلِي لَهُمْ خَيْرٌ لِأَنْفُسِهِمْ",
+      "surah": 3,
+      "ayah": 178,
+      "words": [
+        { "word": "وَلَا", "role": "Waw + Nahiy", "case": "—", "explanation": "Waw al-'atf + لا الناهية — Verbotspartikel." },
+        { "word": "يَحْسَبَنَّ", "role": "Fi'l Mudari' + Nun at-tawkid", "case": "Dschazm (durch لا الناهية) + Nun at-tawkid", "explanation": "Verb im apokopierten Modus (Dschazm durch لا الناهية), verstaerkt durch das schwere Nun der Bekraeftigung. 'Sie sollen keineswegs meinen.'" },
+        { "word": "الَّذِينَ كَفَرُوا", "role": "Fa'il", "case": "Nominativ (Raf')", "explanation": "Relativpronomen + Relativsatz als Subjekt: 'diejenigen die geleugnet haben'." },
+        { "word": "أَنَّمَا نُمْلِي لَهُمْ", "role": "Masdar muawwal (Maf'ul bihi 1)", "case": "Akkusativ (Nasb)", "explanation": "Masdar muawwal: 'dass wir ihnen Aufschub gewaehren' — erstes Objekt von يَحْسَبَنَّ." },
+        { "word": "خَيْرٌ لِأَنْفُسِهِمْ", "role": "Maf'ul bihi 2", "case": "Nominativ (als Khabar von أَنَّ)", "explanation": "'gut fuer sie selbst' — zweites Objekt. Innerhalb der أَنَّ-Konstruktion Khabar im Nominativ." }
+      ]
+    },
+    {
+      "id": "syn_311",
+      "type": "parse",
+      "category": "tanazu'",
+      "verse": "وَإِذَا قِيلَ لَهُمْ تَعَالَوْا يَسْتَغْفِرْ لَكُمْ رَسُولُ اللَّهِ",
+      "surah": 63,
+      "ayah": 5,
+      "words": [
+        { "word": "وَإِذَا", "role": "Zarf + Shart", "case": "—", "explanation": "Temporal-konditionales Adverb: 'und wenn'." },
+        { "word": "قِيلَ", "role": "Fi'l Madi (Passiv)", "case": "—", "explanation": "Passivform: 'gesagt wurde'. Der Inhalt des Gesagten ist der Nachsatz." },
+        { "word": "لَهُمْ", "role": "Jarr wa-Majrur", "case": "Genitiv", "explanation": "'zu ihnen' — Adressat." },
+        { "word": "تَعَالَوْا", "role": "Fi'l Amr", "case": "—", "explanation": "'Kommt!' — Imperativ. Hier konkurrieren zwei Operatoren um die Rektion ueber رَسُولُ: das passive قِيلَ (das Na'ib al-Fa'il benoetigt) und يَسْتَغْفِرْ (das Fa'il benoetigt). Dies ist ein Fall von Tanazu'." },
+        { "word": "يَسْتَغْفِرْ", "role": "Fi'l Mudari' (Dschazm)", "case": "Dschazm (Apokopat)", "explanation": "Verb im apokopierten Modus — Jawab des Bedingungssatzes oder Zweckangabe: 'damit der Gesandte Gottes fuer euch um Vergebung bittet'." },
+        { "word": "لَكُمْ", "role": "Jarr wa-Majrur", "case": "Genitiv", "explanation": "'fuer euch' — Nutzniesser." },
+        { "word": "رَسُولُ اللَّهِ", "role": "Fa'il von يَسْتَغْفِرْ", "case": "Nominativ (Raf')", "explanation": "'der Gesandte Gottes' — Fa'il. Hier hat das zweite Verb (يَسْتَغْفِرْ) die Rektion ueber das Nomen gewonnen (Tanazu': das naehere Verb regiert)." }
+      ]
+    },
+    {
+      "id": "syn_312",
+      "type": "parse",
+      "category": "tanazu'",
+      "verse": "آتُونِي أُفْرِغْ عَلَيْهِ قِطْرًا",
+      "surah": 18,
+      "ayah": 96,
+      "words": [
+        { "word": "آتُونِي", "role": "Fi'l Amr + Fa'il + Maf'ul bihi", "case": "—", "explanation": "'Bringt mir!' — Imperativ mit Waw al-Jama'a als Fa'il und Nun al-wiqaya + Ya als Maf'ul bihi." },
+        { "word": "أُفْرِغْ", "role": "Fi'l Mudari' (Dschazm)", "case": "Dschazm (Apokopat)", "explanation": "Verb im apokopierten Modus — Jawab at-talab (Antwort auf den Imperativ): 'damit ich darauf giesse'. Der Fa'il ist implizit (ich)." },
+        { "word": "عَلَيْهِ", "role": "Jarr wa-Majrur", "case": "Genitiv", "explanation": "'darauf' — Praepositionalobjekt." },
+        { "word": "قِطْرًا", "role": "Maf'ul bihi", "case": "Akkusativ (Nasb)", "explanation": "'geschmolzenes Kupfer' — Akkusativobjekt von أُفْرِغْ. Hier liegt kein klassischer Tanazu' vor, aber die Satzverkettung zeigt, wie der Imperativ die Dschazm-Rektion im Folgesatz ausloest." }
+      ]
+    },
+    {
+      "id": "syn_313",
+      "type": "parse",
+      "category": "tanazu'",
+      "verse": "يَكَادُ الْبَرْقُ يَخْطَفُ أَبْصَارَهُمْ",
+      "surah": 2,
+      "ayah": 20,
+      "words": [
+        { "word": "يَكَادُ", "role": "Fi'l Mudari' (Muqaraba)", "case": "Raf' (Indikativ)", "explanation": "Verb der Annaeherung (من افعال المقاربة): 'beinahe'. Es regiert ein Ism (Nominativ) und ein Khabar (Verbalsatz)." },
+        { "word": "الْبَرْقُ", "role": "Ism von يَكَادُ", "case": "Nominativ (Raf')", "explanation": "'der Blitz' — Ism der Annaeherungsverben, im Nominativ. Gleichzeitig ist الْبَرْقُ auch Fa'il von يَخْطَفُ — beide Verben beanspruchen dasselbe Nomen (Tanazu')." },
+        { "word": "يَخْطَفُ", "role": "Khabar von يَكَادُ (Verbalsatz)", "case": "Raf' (Indikativ)", "explanation": "Verb im Indikativ — Khabar des Annaeherungsverbs. Steht ohne أَنْ (bei كاد typisch)." },
+        { "word": "أَبْصَارَ", "role": "Maf'ul bihi", "case": "Akkusativ (Nasb)", "explanation": "'ihre Blicke/Augen' — Akkusativobjekt von يَخْطَفُ." },
+        { "word": "هُمْ", "role": "Mudaf ilayhi", "case": "Genitiv", "explanation": "Possessivsuffix: 'ihre'." }
+      ]
+    },
+    {
+      "id": "syn_314",
+      "type": "parse",
+      "category": "tanazu'",
+      "verse": "وَلَوْ شَاءَ اللَّهُ لَذَهَبَ بِسَمْعِهِمْ وَأَبْصَارِهِمْ",
+      "surah": 2,
+      "ayah": 20,
+      "words": [
+        { "word": "وَلَوْ", "role": "Waw + Shart (irreal)", "case": "—", "explanation": "'Und wenn' — لَوْ leitet eine irreale Bedingung ein." },
+        { "word": "شَاءَ", "role": "Fi'l Madi (Shart)", "case": "—", "explanation": "Verb im Perfekt — Bedingungssatz: 'er haette gewollt'." },
+        { "word": "اللَّهُ", "role": "Fa'il", "case": "Nominativ (Raf')", "explanation": "Subjekt von شَاءَ. Hier gibt es einen syntaktischen Wettbewerb: اللَّهُ ist Fa'il von شَاءَ, aber semantisch auch Agens von لَذَهَبَ. Beide Verben 'beanspruchen' das Nomen — ein Tanazu'-Fall, bei dem das erste Verb die Rektion gewinnt." },
+        { "word": "لَذَهَبَ", "role": "Jawab ash-Shart", "case": "—", "explanation": "Lam at-tawkid + Verb im Perfekt — Nachsatz der irrealen Bedingung: 'dann haette er weggenommen'." },
+        { "word": "بِسَمْعِهِمْ وَأَبْصَارِهِمْ", "role": "Jarr wa-Majrur (koordiniert)", "case": "Genitiv", "explanation": "'ihr Gehoer und ihre Blicke' — Komplement von ذَهَبَ بِـ (wegnehmen)." }
+      ]
+    },
+    {
+      "id": "syn_315",
+      "type": "parse",
+      "category": "tanazu'",
+      "verse": "تَكَادُ السَّمَاوَاتُ يَتَفَطَّرْنَ مِنْهُ",
+      "surah": 19,
+      "ayah": 90,
+      "words": [
+        { "word": "تَكَادُ", "role": "Fi'l Mudari' (Muqaraba)", "case": "Raf' (Indikativ)", "explanation": "Verb der Annaeherung im femininen Singular (wegen السَّمَاوَاتُ als gebrochener Plural). 'beinahe'." },
+        { "word": "السَّمَاوَاتُ", "role": "Ism von تَكَادُ / Fa'il von يَتَفَطَّرْنَ", "case": "Nominativ (Raf')", "explanation": "'die Himmel' — wird von zwei Verben gleichzeitig beansprucht: als Ism von تَكَادُ und als Fa'il von يَتَفَطَّرْنَ (Tanazu'). Steht im Nominativ — beide Funktionen verlangen denselben Kasus." },
+        { "word": "يَتَفَطَّرْنَ", "role": "Khabar von تَكَادُ (Verbalsatz)", "case": "—", "explanation": "'sie zerbersten beinahe' — femininer Plural. Khabar des Annaeherungsverbs. Das Nun ist Nun an-niswa (Fa'il)." },
+        { "word": "مِنْهُ", "role": "Jarr wa-Majrur", "case": "Genitiv", "explanation": "'davon / deswegen' — kausale Praepositionalphrase." }
+      ]
+    },
+    {
+      "id": "syn_316",
+      "type": "parse",
+      "category": "ishtighal",
+      "verse": "وَالْقَمَرَ قَدَّرْنَاهُ مَنَازِلَ",
+      "surah": 36,
+      "ayah": 39,
+      "words": [
+        { "word": "وَ", "role": "Waw al-'atf", "case": "—", "explanation": "Kopulatives Waw — knuepft an den vorhergehenden Satz an." },
+        { "word": "الْقَمَرَ", "role": "Maf'ul bihi (muqaddam / Ishtighal)", "case": "Akkusativ (Nasb)", "explanation": "'den Mond' — vorangestelltes Akkusativobjekt. Der Akkusativ wird durch ein implizites Verb erklaert: (نَخُصُّ) الْقَمَرَ. Das folgende Verb قَدَّرْنَاهُ ist durch das Pronomen ه bereits 'beschaeftigt' (مشتغل) — deshalb kann es الْقَمَرَ nicht direkt regieren. Dies ist der klassische Ishtighal-Fall." },
+        { "word": "قَدَّرْنَا", "role": "Fi'l + Fa'il", "case": "—", "explanation": "'wir bestimmten/masssen zu' — Verb im Perfekt, 1. Person Plural." },
+        { "word": "هُ", "role": "Maf'ul bihi (Pronomen)", "case": "Akkusativ", "explanation": "Suffix-Pronomen — verweist auf الْقَمَرَ zurueck. Dieses Pronomen 'beschaeftigt' das Verb und macht den Ishtighal-Fall aus." },
+        { "word": "مَنَازِلَ", "role": "Maf'ul bihi thani / Hal / Zarf", "case": "Akkusativ (Nasb)", "explanation": "'Stationen/Mondphasen' — zweites Objekt oder adverbiale Bestimmung im Akkusativ." }
+      ]
+    },
+    {
+      "id": "syn_317",
+      "type": "parse",
+      "category": "ishtighal",
+      "verse": "وَالظَّالِمِينَ أَعَدَّ لَهُمْ عَذَابًا أَلِيمًا",
+      "surah": 76,
+      "ayah": 31,
+      "words": [
+        { "word": "وَ", "role": "Waw al-'atf", "case": "—", "explanation": "Kopulatives Waw." },
+        { "word": "الظَّالِمِينَ", "role": "Maf'ul bihi (muqaddam / Ishtighal)", "case": "Akkusativ (Nasb)", "explanation": "'die Ungerechten' — vorangestelltes Akkusativobjekt (maskuliner gesunder Plural, Akkusativ = -iin). Das folgende Verb ist durch das Pronomen هُمْ in لَهُمْ beschaeftigt — klassischer Ishtighal." },
+        { "word": "أَعَدَّ", "role": "Fi'l Madi", "case": "—", "explanation": "'er bereitete vor' — Verb im Perfekt. Der Fa'il ist implizit (Gott)." },
+        { "word": "لَهُمْ", "role": "Jarr wa-Majrur", "case": "Genitiv", "explanation": "'fuer sie' — das Pronomen هُمْ verweist auf الظَّالِمِينَ zurueck und beschaeftigt das Verb (Ishtighal)." },
+        { "word": "عَذَابًا أَلِيمًا", "role": "Maf'ul bihi + Sifa", "case": "Akkusativ (Nasb)", "explanation": "'eine schmerzhafte Strafe' — Akkusativobjekt von أَعَدَّ, mit Adjektivattribut im Akkusativ (Kongruenz in Kasus, Genus, Numerus, Determiniertheit)." }
+      ]
+    },
+    {
+      "id": "syn_318",
+      "type": "parse",
+      "category": "ishtighal",
+      "verse": "أَلَمْ نَشْرَحْ لَكَ صَدْرَكَ",
+      "surah": 94,
+      "ayah": 1,
+      "words": [
+        { "word": "أَ", "role": "Hamzat al-Istifham", "case": "—", "explanation": "Rhetorische Frage — erwartet eine bejahende Antwort: 'Haben wir nicht...? (Doch!)'" },
+        { "word": "لَمْ", "role": "Dschazm-Partikel", "case": "—", "explanation": "Negationspartikel fuer die Vergangenheit — versetzt das Verb in den Dschazm (Apokopat)." },
+        { "word": "نَشْرَحْ", "role": "Fi'l Mudari' (Madschzum)", "case": "Dschazm (Apokopat)", "explanation": "'wir weiteten' — Verb im apokopierten Modus durch لَمْ. Der Fa'il ist implizit (wir)." },
+        { "word": "لَكَ", "role": "Jarr wa-Majrur", "case": "Genitiv", "explanation": "'fuer dich' — Nutzniesser-Komplement. Das Pronomen كَ verweist auf den Angesprochenen." },
+        { "word": "صَدْرَكَ", "role": "Maf'ul bihi", "case": "Akkusativ (Nasb)", "explanation": "'deine Brust' — Akkusativobjekt von نَشْرَحْ. Hier liegt kein Ishtighal vor, da das Verb صَدْرَكَ direkt regiert (ohne beschaeftigendes Pronomen). Zum Vergleich: Ein Ishtighal-Fall waere: صَدْرَكَ أَلَمْ نَشْرَحْهُ لَكَ (mit Pronomen هُ im Verb)." }
+      ]
+    },
+    {
+      "id": "syn_319",
+      "type": "parse",
+      "category": "ishtighal",
+      "verse": "وَكُلَّ إِنْسَانٍ أَلْزَمْنَاهُ طَائِرَهُ فِي عُنُقِهِ",
+      "surah": 17,
+      "ayah": 13,
+      "words": [
+        { "word": "وَ", "role": "Waw al-isti'naf", "case": "—", "explanation": "Waw des Neubeginns." },
+        { "word": "كُلَّ إِنْسَانٍ", "role": "Maf'ul bihi (muqaddam / Ishtighal)", "case": "Akkusativ (Nasb)", "explanation": "'jeden Menschen' — vorangestelltes Akkusativobjekt. كُلَّ im Akkusativ als Maf'ul bihi eines impliziten Verbs. Das folgende Verb ist durch das Suffix هُ beschaeftigt — Ishtighal." },
+        { "word": "أَلْزَمْنَا", "role": "Fi'l + Fa'il", "case": "—", "explanation": "'wir banden an / wir hefteten an' — Verb im Perfekt, 1. Person Plural." },
+        { "word": "هُ", "role": "Maf'ul bihi awwal (Pronomen)", "case": "Akkusativ", "explanation": "Suffix-Pronomen — verweist auf كُلَّ إِنْسَانٍ zurueck. Beschaeftigt das Verb (Ishtighal)." },
+        { "word": "طَائِرَهُ", "role": "Maf'ul bihi thani", "case": "Akkusativ (Nasb)", "explanation": "'sein Vorzeichen / sein Schicksal' — zweites Akkusativobjekt von أَلْزَمْنَا." },
+        { "word": "فِي عُنُقِهِ", "role": "Jarr wa-Majrur", "case": "Genitiv", "explanation": "'an seinem Hals' — Ortsangabe. عُنُقِ im Genitiv durch فِي." }
+      ]
+    },
+    {
+      "id": "syn_320",
+      "type": "parse",
+      "category": "ishtighal",
+      "verse": "وَالسَّمَاءَ بَنَيْنَاهَا بِأَيْدٍ وَإِنَّا لَمُوسِعُونَ",
+      "surah": 51,
+      "ayah": 47,
+      "words": [
+        { "word": "وَ", "role": "Waw al-'atf", "case": "—", "explanation": "Kopulatives Waw." },
+        { "word": "السَّمَاءَ", "role": "Maf'ul bihi (muqaddam / Ishtighal)", "case": "Akkusativ (Nasb)", "explanation": "'den Himmel' — vorangestelltes Akkusativobjekt. Das folgende Verb ist durch das Suffix هَا beschaeftigt — Ishtighal. Der Akkusativ zeigt, dass ein implizites Verb (wie نَخُصُّ) die Rektion uebernimmt." },
+        { "word": "بَنَيْنَا", "role": "Fi'l + Fa'il", "case": "—", "explanation": "'wir bauten/errichteten' — Verb im Perfekt, 1. Person Plural." },
+        { "word": "هَا", "role": "Maf'ul bihi (Pronomen)", "case": "Akkusativ", "explanation": "Suffix-Pronomen (feminin Singular) — verweist auf السَّمَاءَ zurueck. Beschaeftigt das Verb (Ishtighal)." },
+        { "word": "بِأَيْدٍ", "role": "Jarr wa-Majrur", "case": "Genitiv", "explanation": "'mit Kraft/Staerke' — instrumentale Praepositionalphrase. أَيْد = Staerke (nicht Plural von يَد)." },
+        { "word": "وَإِنَّا لَمُوسِعُونَ", "role": "Inna-Satz (Nominalsatz)", "case": "—", "explanation": "'und wahrlich, wir sind Erweiterer/Ausdehner' — إِنَّ + Suffix نَا (Ism, Akkusativ) + لَ (Lam al-ibtida') + مُوسِعُونَ (Khabar, Nominativ)." }
+      ]
+    },
+    {
+      "id": "syn_321",
+      "type": "parse",
+      "category": "ism_fi'l",
+      "verse": "وَيْلٌ لِكُلِّ هُمَزَةٍ لُمَزَةٍ",
+      "surah": 104,
+      "ayah": 1,
+      "words": [
+        { "word": "وَيْلٌ", "role": "Ism Fi'l / Mubtada'", "case": "Nominativ (Raf')", "explanation": "وَيْلٌ funktioniert wie ein Ism al-Fi'l mit der Bedeutung 'Wehe!' oder als Mubtada' (Subjekt eines Nominalsatzes): 'Verderben/Wehe'. Als Nomen im Nominativ steht es am Satzanfang." },
+        { "word": "لِكُلِّ", "role": "Jarr wa-Majrur (Khabar oder Komplement)", "case": "Genitiv", "explanation": "'fuer jeden' — Praepositionalobjekt. Wenn وَيْلٌ als Mubtada' analysiert wird, ist لِكُلِّ der Khabar." },
+        { "word": "هُمَزَةٍ", "role": "Mudaf ilayhi", "case": "Genitiv", "explanation": "'Laesterer' — Muster فُعَلَة als Intensivform. Im Genitiv als Teil der Idafa mit كُلِّ." },
+        { "word": "لُمَزَةٍ", "role": "Sifa / Badal", "case": "Genitiv", "explanation": "'Schmaehender' — Attribut oder Apposition zu هُمَزَةٍ, kongruent im Genitiv." }
+      ]
+    },
+    {
+      "id": "syn_322",
+      "type": "parse",
+      "category": "ism_fi'l",
+      "verse": "مَهْ",
+      "surah": 0,
+      "ayah": 0,
+      "words": [
+        { "word": "مَهْ", "role": "Ism Fi'l Amr", "case": "—", "explanation": "Ism al-Fi'l mit Imperativbedeutung = اكْفُفْ (hoer auf! / genug!). Unveraenderlich (mabniyy 'ala s-sukun). Der Fa'il ist implizit (du). Wird in der arabischen Grammatik als Muster fuer Ism Fi'l Amr angefuehrt, kommt im Quran nicht direkt vor, gehoert aber zum System." }
+      ]
+    },
+    {
+      "id": "syn_323",
+      "type": "parse",
+      "category": "ism_fi'l",
+      "verse": "عَلَيْكُمْ أَنْفُسَكُمْ لَا يَضُرُّكُمْ مَنْ ضَلَّ إِذَا اهْتَدَيْتُمْ",
+      "surah": 5,
+      "ayah": 105,
+      "words": [
+        { "word": "عَلَيْكُمْ", "role": "Ism Fi'l Amr", "case": "—", "explanation": "Ism al-Fi'l mit Imperativbedeutung = اِلْزَمُوا (haltet fest an! / kuemmert euch um!). Die Praeposition عَلَى mit Suffix funktioniert als unveraenderliches Ism Fi'l. Regiert das folgende Nomen im Akkusativ." },
+        { "word": "أَنْفُسَكُمْ", "role": "Maf'ul bihi", "case": "Akkusativ (Nasb)", "explanation": "'euch selbst / eure Seelen' — Akkusativobjekt von عَلَيْكُمْ als Ism Fi'l. 'Kuemmert euch um euch selbst!'" },
+        { "word": "لَا يَضُرُّكُمْ", "role": "Fi'l Mudari' + Maf'ul bihi", "case": "Raf' (Indikativ)", "explanation": "'es schadet euch nicht' — Hauptsatz als Konsequenz." },
+        { "word": "مَنْ ضَلَّ", "role": "Fa'il", "case": "Nominativ", "explanation": "'wer abgeirrt ist' — Relativpronomen + Relativsatz als Subjekt von يَضُرُّ." },
+        { "word": "إِذَا اهْتَدَيْتُمْ", "role": "Zarf (Bedingung)", "case": "—", "explanation": "'wenn ihr rechtgeleitet seid' — temporale Bedingung." }
+      ]
+    },
+    {
+      "id": "syn_324",
+      "type": "parse",
+      "category": "ism_fi'l",
+      "verse": "هَاؤُمُ اقْرَءُوا كِتَابِيَهْ",
+      "surah": 69,
+      "ayah": 19,
+      "words": [
+        { "word": "هَاؤُمُ", "role": "Ism Fi'l Amr", "case": "—", "explanation": "Ism al-Fi'l mit Imperativbedeutung = خُذُوا (nehmt! / da, bitte!). Unveraenderlich. Wird hier mit der Plural-Endung verwendet: هَاؤُمُ fuer die Anrede an Mehrere." },
+        { "word": "اقْرَءُوا", "role": "Fi'l Amr", "case": "—", "explanation": "'lest!' — Imperativ 2. Person maskulin Plural. Zweiter Befehl nach der Aufforderung zur Uebernahme." },
+        { "word": "كِتَابِيَهْ", "role": "Maf'ul bihi", "case": "Akkusativ (Nasb)", "explanation": "'mein Buch!' — Akkusativobjekt von اقْرَءُوا. Das Ha am Ende ist ein Pausen-Ha (ha as-sakt), nicht Teil des Wortes." }
+      ]
+    },
+    {
+      "id": "syn_325",
+      "type": "parse",
+      "category": "ism_fi'l",
+      "verse": "وَإِذَا قِيلَ لَهُمْ تَعَالَوْا إِلَىٰ مَا أَنْزَلَ اللَّهُ وَإِلَى الرَّسُولِ",
+      "surah": 4,
+      "ayah": 61,
+      "words": [
+        { "word": "وَإِذَا", "role": "Zarf + Shart", "case": "—", "explanation": "Temporal-konditionales Adverb: 'und wenn'." },
+        { "word": "قِيلَ", "role": "Fi'l Madi (Passiv)", "case": "—", "explanation": "'gesagt wurde' — Passivform." },
+        { "word": "لَهُمْ", "role": "Jarr wa-Majrur", "case": "Genitiv", "explanation": "'zu ihnen' — Adressat." },
+        { "word": "تَعَالَوْا", "role": "Ism Fi'l Amr", "case": "—", "explanation": "Ism al-Fi'l mit Imperativbedeutung = أَقْبِلُوا (kommt!). Aeusserlich sieht es wie ein Verb aus, ist aber morphologisch irregulaer — es laesst sich als Ism Fi'l klassifizieren, da es keine regulaere Verbform von ع-ل-و darstellt." },
+        { "word": "إِلَىٰ مَا أَنْزَلَ اللَّهُ", "role": "Jarr wa-Majrur", "case": "Genitiv", "explanation": "'zu dem, was Gott herabgesandt hat' — Zielangabe." },
+        { "word": "وَإِلَى الرَّسُولِ", "role": "Ma'tuf", "case": "Genitiv", "explanation": "'und zum Gesandten' — koordiniert mit dem ersten Ziel." }
+      ]
+    },
+    {
+      "id": "syn_326",
+      "type": "parse",
+      "category": "ishtighal",
+      "verse": "وَالْأَنْعَامَ خَلَقَهَا لَكُمْ فِيهَا دِفْءٌ وَمَنَافِعُ",
+      "surah": 16,
+      "ayah": 5,
+      "words": [
+        { "word": "وَ", "role": "Waw al-'atf", "case": "—", "explanation": "Kopulatives Waw." },
+        { "word": "الْأَنْعَامَ", "role": "Maf'ul bihi (muqaddam / Ishtighal)", "case": "Akkusativ (Nasb)", "explanation": "'das Vieh' — vorangestelltes Akkusativobjekt. Das folgende Verb خَلَقَهَا ist durch das Suffix هَا beschaeftigt (Ishtighal). Der Akkusativ wird durch ein implizites Verb erklaert." },
+        { "word": "خَلَقَ", "role": "Fi'l Madi", "case": "—", "explanation": "'er erschuf' — Verb im Perfekt. Der Fa'il ist implizit (Gott)." },
+        { "word": "هَا", "role": "Maf'ul bihi (Pronomen)", "case": "Akkusativ", "explanation": "Suffix-Pronomen — verweist auf الْأَنْعَامَ zurueck. Beschaeftigt das Verb (Ishtighal)." },
+        { "word": "لَكُمْ فِيهَا دِفْءٌ وَمَنَافِعُ", "role": "Nominalsatz (Hal oder Isti'naf)", "case": "—", "explanation": "'fuer euch gibt es darin Waerme und Nutzen' — Nominalsatz. دِفْءٌ ist Mubtada' (nachgestellt), لَكُمْ فِيهَا ist Khabar (vorangestellt)." }
+      ]
+    },
+    {
+      "id": "syn_327",
+      "type": "parse",
+      "category": "ishtighal",
+      "verse": "إِنَّا كُلَّ شَيْءٍ خَلَقْنَاهُ بِقَدَرٍ",
+      "surah": 54,
+      "ayah": 49,
+      "words": [
+        { "word": "إِنَّا", "role": "Inna + Ism", "case": "Akkusativ (Suffix)", "explanation": "إِنَّ + نَا (angehaengtes Pronomen als Ism von إِنَّ): 'wahrlich, wir'." },
+        { "word": "كُلَّ شَيْءٍ", "role": "Maf'ul bihi (muqaddam / Ishtighal)", "case": "Akkusativ (Nasb)", "explanation": "'jedes Ding' — vorangestelltes Akkusativobjekt. Das folgende Verb خَلَقْنَاهُ ist durch هُ beschaeftigt — Ishtighal." },
+        { "word": "خَلَقْنَا", "role": "Fi'l + Fa'il", "case": "—", "explanation": "'wir erschufen' — Verb im Perfekt, 1. Person Plural. Khabar von إِنَّ (Verbalsatz)." },
+        { "word": "هُ", "role": "Maf'ul bihi (Pronomen)", "case": "Akkusativ", "explanation": "Suffix-Pronomen — verweist auf كُلَّ شَيْءٍ zurueck. Beschaeftigt das Verb." },
+        { "word": "بِقَدَرٍ", "role": "Jarr wa-Majrur", "case": "Genitiv", "explanation": "'nach Mass/Bestimmung' — instrumentale oder modale Praepositionalphrase." }
+      ]
+    },
+    {
+      "id": "syn_328",
+      "type": "parse",
+      "category": "ishtighal",
+      "verse": "وَالشَّمْسَ وَالْقَمَرَ وَالنُّجُومَ مُسَخَّرَاتٍ بِأَمْرِهِ",
+      "surah": 7,
+      "ayah": 54,
+      "words": [
+        { "word": "وَ", "role": "Waw al-'atf", "case": "—", "explanation": "Kopulatives Waw." },
+        { "word": "الشَّمْسَ وَالْقَمَرَ وَالنُّجُومَ", "role": "Maf'ul bihi (muqaddam / Ishtighal)", "case": "Akkusativ (Nasb)", "explanation": "'die Sonne, den Mond und die Sterne' — drei koordinierte vorangestellte Akkusativobjekte. Das Partizip مُسَخَّرَاتٍ bezieht sich auf sie zurueck — eine Variante des Ishtighal, bei der nicht ein Pronomen, sondern ein Hal-Ausdruck die 'Beschaeftigung' uebernimmt." },
+        { "word": "مُسَخَّرَاتٍ", "role": "Hal", "case": "Akkusativ (Nasb)", "explanation": "'dienstbar gemacht' — Zustandsakkusativ (Hal). Passivpartizip Form II feminin Plural." },
+        { "word": "بِأَمْرِهِ", "role": "Jarr wa-Majrur", "case": "Genitiv", "explanation": "'durch Seinen Befehl' — instrumentale Praepositionalphrase." }
+      ]
+    },
+    {
+      "id": "syn_329",
+      "type": "parse",
+      "category": "ishtighal",
+      "verse": "وَالْأَرْضَ بَعْدَ ذَٰلِكَ دَحَاهَا",
+      "surah": 79,
+      "ayah": 30,
+      "words": [
+        { "word": "وَ", "role": "Waw al-'atf", "case": "—", "explanation": "Kopulatives Waw." },
+        { "word": "الْأَرْضَ", "role": "Maf'ul bihi (muqaddam / Ishtighal)", "case": "Akkusativ (Nasb)", "explanation": "'die Erde' — vorangestelltes Akkusativobjekt. Das folgende Verb دَحَاهَا ist durch هَا beschaeftigt — Ishtighal." },
+        { "word": "بَعْدَ ذَٰلِكَ", "role": "Zarf", "case": "Akkusativ (Nasb)", "explanation": "'danach' — Zeitadverbial im Akkusativ. ذَٰلِكَ ist Mudaf ilayhi im Genitiv." },
+        { "word": "دَحَا", "role": "Fi'l Madi", "case": "—", "explanation": "'er breitete aus / ebnete' — Verb im Perfekt, defektive Wurzel د-ح-و. Der Fa'il ist implizit (Gott)." },
+        { "word": "هَا", "role": "Maf'ul bihi (Pronomen)", "case": "Akkusativ", "explanation": "Suffix-Pronomen — verweist auf الْأَرْضَ zurueck. Beschaeftigt das Verb (Ishtighal)." }
+      ]
+    },
+    {
+      "id": "syn_330",
+      "type": "parse",
+      "category": "ishtighal",
+      "verse": "وَنُوحًا هَدَيْنَا مِنْ قَبْلُ",
+      "surah": 6,
+      "ayah": 84,
+      "words": [
+        { "word": "وَ", "role": "Waw al-'atf", "case": "—", "explanation": "Kopulatives Waw." },
+        { "word": "نُوحًا", "role": "Maf'ul bihi (muqaddam / Ishtighal)", "case": "Akkusativ (Nasb)", "explanation": "'Noah' — vorangestelltes Akkusativobjekt. Das folgende Verb هَدَيْنَا hat kein Suffix das zurueckverweist — technisch gesehen ist dies kein reiner Ishtighal, sondern einfache Voranstellung (Taqdim) des Objekts. Der Akkusativ wird direkt durch هَدَيْنَا regiert." },
+        { "word": "هَدَيْنَا", "role": "Fi'l + Fa'il", "case": "—", "explanation": "'wir leiteten recht' — Verb im Perfekt, 1. Person Plural." },
+        { "word": "مِنْ قَبْلُ", "role": "Jarr wa-Majrur", "case": "Damma (mabniyy)", "explanation": "'zuvor' — قَبْلُ ist hier mabniyy 'ala d-damm (unveraenderlich auf Damma), weil das Mudaf ilayhi weggelassen wurde." }
+      ]
+    },
+    {
+      "id": "syn_331",
+      "type": "parse",
+      "category": "tanazu'",
+      "verse": "وَلَا يَحْزُنْكَ قَوْلُهُمْ إِنَّ الْعِزَّةَ لِلَّهِ جَمِيعًا",
+      "surah": 10,
+      "ayah": 65,
+      "words": [
+        { "word": "وَلَا", "role": "Waw + Nahiy", "case": "—", "explanation": "Waw al-'atf + لا الناهية — Verbotspartikel." },
+        { "word": "يَحْزُنْكَ", "role": "Fi'l Mudari' (Madschzum) + Maf'ul bihi", "case": "Dschazm", "explanation": "'es soll dich nicht betrueben' — Verb im Jussiv durch لا الناهية. Das Suffix كَ ist Maf'ul bihi (Akkusativ)." },
+        { "word": "قَوْلُهُمْ", "role": "Fa'il", "case": "Nominativ (Raf')", "explanation": "'ihre Rede' — Fa'il. Hier beanspruchen يَحْزُنْ (das قَوْلُهُمْ als Fa'il nimmt) und der Inhalt des Folgenden beide dasselbe Subjekt — ein Tanazu'-aehnlicher Fall." },
+        { "word": "إِنَّ الْعِزَّةَ لِلَّهِ جَمِيعًا", "role": "Isti'naf (Neubeginn)", "case": "—", "explanation": "'wahrlich, die Macht gehoert Gott ganz' — ein neuer Satz (kein Ma'mul von قَوْلُهُمْ). الْعِزَّةَ ist Ism von إِنَّ (Akkusativ), لِلَّهِ ist Khabar. جَمِيعًا ist Hal." }
+      ]
+    },
+    {
+      "id": "syn_332",
+      "type": "parse",
+      "category": "tanazu'",
+      "verse": "يُرِيدُ اللَّهُ أَنْ يُخَفِّفَ عَنْكُمْ",
+      "surah": 4,
+      "ayah": 28,
+      "words": [
+        { "word": "يُرِيدُ", "role": "Fi'l Mudari' (Iraada)", "case": "Raf' (Indikativ)", "explanation": "'er will' — Verb des Wollens. Regiert einen Masdar muawwal als Maf'ul bihi." },
+        { "word": "اللَّهُ", "role": "Fa'il", "case": "Nominativ (Raf')", "explanation": "'Gott' — Subjekt. اللَّهُ wird hier von يُرِيدُ als Fa'il beansprucht und ist gleichzeitig implizites Subjekt von يُخَفِّفَ — beide Verben teilen dasselbe Agens (Tanazu')." },
+        { "word": "أَنْ", "role": "Masdariyya", "case": "—", "explanation": "Masdar-Partikel — versetzt das folgende Verb in den Subjunktiv und bildet ein Masdar muawwal." },
+        { "word": "يُخَفِّفَ", "role": "Fi'l Mudari' (Mansub)", "case": "Nasb (Subjunktiv)", "explanation": "'dass er erleichtert' — Verb im Subjunktiv durch أَنْ. Form II von خ-ف-ف." },
+        { "word": "عَنْكُمْ", "role": "Jarr wa-Majrur", "case": "Genitiv", "explanation": "'fuer euch / von euch' — Praepositionalobjekt." }
+      ]
+    },
+    {
+      "id": "syn_333",
+      "type": "parse",
+      "category": "tanazu'",
+      "verse": "وَدَّ كَثِيرٌ مِنْ أَهْلِ الْكِتَابِ لَوْ يَرُدُّونَكُمْ",
+      "surah": 2,
+      "ayah": 109,
+      "words": [
+        { "word": "وَدَّ", "role": "Fi'l Madi", "case": "—", "explanation": "'er wuenschte' — Verb im Perfekt. Regiert den Folgesatz als Maf'ul bihi." },
+        { "word": "كَثِيرٌ", "role": "Fa'il", "case": "Nominativ (Raf')", "explanation": "'viele' — Subjekt von وَدَّ." },
+        { "word": "مِنْ أَهْلِ الْكِتَابِ", "role": "Jarr wa-Majrur (Sifa / Tamyiz)", "case": "Genitiv", "explanation": "'von den Leuten der Schrift' — Spezifizierung von كَثِيرٌ." },
+        { "word": "لَوْ", "role": "Masdariyya (hier: Wunsch-لو)", "case": "—", "explanation": "لَوْ als Masdariyya — 'dass'. Nicht die konditionelle Bedeutung, sondern nach Verben des Wuenschens: 'sie wuenschen, dass...'." },
+        { "word": "يَرُدُّونَكُمْ", "role": "Fi'l + Fa'il + Maf'ul bihi", "case": "Raf' (Indikativ)", "explanation": "'sie euch zurueckbringen' — Verb im Indikativ (لو اendert den Modus nicht). Die Waw al-Jama'a ist Fa'il, كُمْ ist Maf'ul bihi. Das implizite Subjekt (sie) ist dasselbe wie das von وَدَّ implizierte Agens — ein Fall wo كَثِيرٌ als Fa'il von وَدَّ und gleichzeitig als Agens von يَرُدُّونَ fungiert (Tanazu')." }
+      ]
+    },
+    {
+      "id": "syn_334",
+      "type": "parse",
+      "category": "tanazu'",
+      "verse": "يَكَادُ زَيْتُهَا يُضِيءُ وَلَوْ لَمْ تَمْسَسْهُ نَارٌ",
+      "surah": 24,
+      "ayah": 35,
+      "words": [
+        { "word": "يَكَادُ", "role": "Fi'l Mudari' (Muqaraba)", "case": "Raf' (Indikativ)", "explanation": "'beinahe' — Verb der Annaeherung. Regiert Ism (Nominativ) und Khabar (Verbalsatz)." },
+        { "word": "زَيْتُهَا", "role": "Ism von يَكَادُ / Fa'il von يُضِيءُ", "case": "Nominativ (Raf')", "explanation": "'ihr Oel' — wird von beiden Verben beansprucht: als Ism von يَكَادُ und als Fa'il von يُضِيءُ. Klassischer Tanazu'-Fall: beide Funktionen verlangen den Nominativ." },
+        { "word": "يُضِيءُ", "role": "Khabar von يَكَادُ (Verbalsatz)", "case": "Raf' (Indikativ)", "explanation": "'leuchtet' — Form IV von ض-و-ء. Khabar des Annaeherungsverbs." },
+        { "word": "وَلَوْ لَمْ تَمْسَسْهُ نَارٌ", "role": "Shart (irreal)", "case": "—", "explanation": "'selbst wenn kein Feuer es beruehrt haette' — irrealer Bedingungssatz. نَارٌ ist Fa'il von تَمْسَسْ (Nominativ). هُ ist Maf'ul bihi." }
+      ]
+    },
+    {
+      "id": "syn_335",
+      "type": "parse",
+      "category": "tanazu'",
+      "verse": "كَادَ يَزِيغُ قُلُوبُ فَرِيقٍ مِنْهُمْ",
+      "surah": 9,
+      "ayah": 117,
+      "words": [
+        { "word": "كَادَ", "role": "Fi'l Madi (Muqaraba)", "case": "—", "explanation": "'beinahe' — Annaeherungsverb im Perfekt." },
+        { "word": "يَزِيغُ", "role": "Khabar von كَادَ (Verbalsatz)", "case": "Raf' (Indikativ)", "explanation": "'abweicht' — Verb im Indikativ. Khabar des Annaeherungsverbs." },
+        { "word": "قُلُوبُ", "role": "Ism von كَادَ / Fa'il von يَزِيغُ", "case": "Nominativ (Raf')", "explanation": "'Herzen' — Tanazu': sowohl Ism von كَادَ als auch Fa'il von يَزِيغُ. Beide Funktionen verlangen den Nominativ." },
+        { "word": "فَرِيقٍ مِنْهُمْ", "role": "Mudaf ilayhi + Jarr wa-Majrur", "case": "Genitiv", "explanation": "'einer Gruppe von ihnen' — فَرِيقٍ im Genitiv als Mudaf ilayhi zu قُلُوبُ." }
+      ]
+    },
+    {
+      "id": "syn_336",
+      "type": "parse",
+      "category": "ta'liq_jarr",
+      "verse": "وَلَقَدْ هَمَّتْ بِهِ وَهَمَّ بِهَا لَوْلَا أَنْ رَأَىٰ بُرْهَانَ رَبِّهِ",
+      "surah": 12,
+      "ayah": 24,
+      "words": [
+        { "word": "وَلَقَدْ", "role": "Waw + Lam + Qad", "case": "—", "explanation": "Waw al-isti'naf + Lam al-qasam + Qad (Vergangenheitsbestaetigung): 'und tatsaechlich'." },
+        { "word": "هَمَّتْ", "role": "Fi'l Madi", "case": "—", "explanation": "'sie beabsichtigte / war geneigt' — Verb im Perfekt, feminin." },
+        { "word": "بِهِ", "role": "Jarr wa-Majrur (haengendes Komplement)", "case": "Genitiv", "explanation": "'ihn betreffend / zu ihm hin' — Praepositionalobjekt. Die Praeposition بِ ist hier semantisch offen ('hinsichtlich'), was die Phrase zu einem 'haengenden' Komplement macht — der genaue Inhalt wird nicht spezifiziert." },
+        { "word": "وَهَمَّ بِهَا", "role": "Ma'tuf", "case": "—", "explanation": "'und er war geneigt zu ihr' — parallele Konstruktion. بِهَا ist ebenfalls ein haengendes Praepositionalobjekt." },
+        { "word": "لَوْلَا أَنْ رَأَىٰ بُرْهَانَ رَبِّهِ", "role": "Shart (irreal)", "case": "—", "explanation": "'waere es nicht, dass er den Beweis seines Herrn sah' — لَوْلَا als Verhinderungspartikel. أَنْ رَأَى bildet ein Masdar muawwal als Mubtada'. Der Khabar ist implizit. بُرْهَانَ ist Maf'ul bihi." }
+      ]
+    },
+    {
+      "id": "syn_337",
+      "type": "parse",
+      "category": "ta'liq_jarr",
+      "verse": "فَبِمَا رَحْمَةٍ مِنَ اللَّهِ لِنْتَ لَهُمْ",
+      "surah": 3,
+      "ayah": 159,
+      "words": [
+        { "word": "فَ", "role": "Konjunktion", "case": "—", "explanation": "Fa al-fa'sihiyya — erlaeuternde Konjunktion." },
+        { "word": "بِمَا", "role": "Ba + Ma (za'ida)", "case": "—", "explanation": "Praeposition بِ + مَا (ueberfluessig/verstaerkend). Die مَا hier hat keine eigenstaendige Funktion — sie verstaerkt die Konstruktion. Dies ist ein Fall von 'haengender Praeposition': die Ba mit dem folgenden Nomen bildet eine freie Praepositionalphrase." },
+        { "word": "رَحْمَةٍ", "role": "Majrur (durch Bi)", "case": "Genitiv", "explanation": "'Barmherzigkeit' — im Genitiv durch die Praeposition بِ. Trotz der dazwischenstehenden مَا wird die Genitivrektion aufrechterhalten." },
+        { "word": "مِنَ اللَّهِ", "role": "Jarr wa-Majrur (Sifa)", "case": "Genitiv", "explanation": "'von Gott' — Attribut zu رَحْمَةٍ." },
+        { "word": "لِنْتَ لَهُمْ", "role": "Fi'l + Fa'il + Jarr wa-Majrur", "case": "—", "explanation": "'du warst sanft zu ihnen' — Verb im Perfekt 2ms. لَهُمْ ist Praepositionalobjekt." }
+      ]
+    },
+    {
+      "id": "syn_338",
+      "type": "parse",
+      "category": "ta'liq_jarr",
+      "verse": "فَبِمَا نَقْضِهِمْ مِيثَاقَهُمْ لَعَنَّاهُمْ",
+      "surah": 5,
+      "ayah": 13,
+      "words": [
+        { "word": "فَ", "role": "Konjunktion", "case": "—", "explanation": "Fa al-fa'sihiyya." },
+        { "word": "بِمَا", "role": "Ba + Ma (za'ida)", "case": "—", "explanation": "Praeposition بِ + مَا (verstaerkend). مَا ist za'ida (ueberfluessig), laesst die Genitivrektion der Praeposition intakt." },
+        { "word": "نَقْضِهِمْ", "role": "Majrur + Mudaf ilayhi", "case": "Genitiv", "explanation": "'ihrem Brechen' — Masdar im Genitiv durch بِ. هِمْ ist Mudaf ilayhi (Genitiv)." },
+        { "word": "مِيثَاقَهُمْ", "role": "Maf'ul bihi des Masdars", "case": "Akkusativ (Nasb)", "explanation": "'ihren Bund' — Akkusativobjekt des Masdars نَقْض. Das Masdar regiert wie ein Verb." },
+        { "word": "لَعَنَّاهُمْ", "role": "Jawab / Hauptsatz", "case": "—", "explanation": "'verfluchten wir sie' — Verb im Perfekt + Suffix. Die gesamte بِمَا-Phrase ist kausal: 'wegen ihres Brechens ihres Bundes'." }
+      ]
+    },
+    {
+      "id": "syn_339",
+      "type": "parse",
+      "category": "ta'liq_jarr",
+      "verse": "عَمَّ يَتَسَاءَلُونَ",
+      "surah": 78,
+      "ayah": 1,
+      "words": [
+        { "word": "عَمَّ", "role": "Praeposition + Fragepronomen", "case": "—", "explanation": "'worueber' — عَنْ + مَا (zusammengezogen zu عَمَّ). Das Alif von مَا faellt aus, wenn مَا nach einer Praeposition steht und als Istifham (Frage) fungiert. Die Praeposition ist 'haengend' im Sinne, dass der Fragekontext die normale Rektionszuordnung aufbricht." },
+        { "word": "يَتَسَاءَلُونَ", "role": "Fi'l Mudari' + Fa'il", "case": "Raf' (Indikativ)", "explanation": "'befragen sie sich gegenseitig' — Form VI von س-أ-ل (reziprok). Die Waw al-Jama'a ist Fa'il." }
+      ]
+    },
+    {
+      "id": "syn_340",
+      "type": "parse",
+      "category": "ta'liq_jarr",
+      "verse": "فَلِمَ تَقْتُلُونَ أَنْبِيَاءَ اللَّهِ مِنْ قَبْلُ",
+      "surah": 2,
+      "ayah": 91,
+      "words": [
+        { "word": "فَ", "role": "Konjunktion", "case": "—", "explanation": "Fa al-fa'sihiyya." },
+        { "word": "لِمَ", "role": "Praeposition + Fragepronomen", "case": "—", "explanation": "'warum' — لِ + مَا (verkuerzt zu لِمَ). Das Alif von مَا ist weggefallen, weil مَا interrogativ nach einer Praeposition steht. Haengende Praeposition: لِ wird durch das Fragepronomen von der normalen Rektion getrennt." },
+        { "word": "تَقْتُلُونَ", "role": "Fi'l Mudari' + Fa'il", "case": "Raf' (Indikativ)", "explanation": "'toetet ihr' — Verb im Indikativ. Waw al-Jama'a ist Fa'il." },
+        { "word": "أَنْبِيَاءَ اللَّهِ", "role": "Maf'ul bihi + Mudaf ilayhi", "case": "Akkusativ + Genitiv", "explanation": "'Gottes Propheten' — Akkusativobjekt. اللَّهِ ist Mudaf ilayhi (Genitiv)." },
+        { "word": "مِنْ قَبْلُ", "role": "Jarr wa-Majrur", "case": "Mabniyy", "explanation": "'zuvor' — قَبْلُ ist mabniyy 'ala d-damm wegen des ausgelassenen Mudaf ilayhi." }
+      ]
+    },
+    {
+      "id": "syn_341",
+      "type": "parse",
+      "category": "qat'",
+      "verse": "وَالَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ أُولَٰئِكَ أَصْحَابُ الْجَنَّةِ هُمْ فِيهَا خَالِدُونَ",
+      "surah": 2,
+      "ayah": 82,
+      "words": [
+        { "word": "وَالَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ", "role": "Mubtada' (Relativsatz)", "case": "Nominativ", "explanation": "'und diejenigen, die glaubten und gute Werke taten' — Mubtada'. Der Relativsatz ist Sifa des Ism al-Mawsul." },
+        { "word": "أُولَٰئِكَ", "role": "Mubtada' thani (Trennung / Qat')", "case": "Nominativ", "explanation": "'jene' — zweites Mubtada'. Hier liegt Qat' (Trennung) vor: Anstatt direkt den Khabar auf الَّذِينَ folgen zu lassen, wird durch أُولَٰئِكَ eine Trennung eingefuegt, die die Aussage verstaerkt." },
+        { "word": "أَصْحَابُ الْجَنَّةِ", "role": "Khabar von أُولَٰئِكَ", "case": "Nominativ (Raf')", "explanation": "'die Gefaehrten des Gartens' — Khabar. Die Idafa أَصْحَابُ الْجَنَّةِ bildet eine enge Genitivverbindung." },
+        { "word": "هُمْ فِيهَا خَالِدُونَ", "role": "Jumlat al-Hal / Khabar thani", "case": "—", "explanation": "'sie sind darin ewig' — Nominalsatz als Zustandssatz oder zweiter Khabar. هُمْ ist Mubtada', خَالِدُونَ ist Khabar, فِيهَا ist Jarr wa-Majrur." }
+      ]
+    },
+    {
+      "id": "syn_342",
+      "type": "parse",
+      "category": "qat'",
+      "verse": "ذَٰلِكَ الْكِتَابُ لَا رَيْبَ فِيهِ هُدًى لِلْمُتَّقِينَ",
+      "surah": 2,
+      "ayah": 2,
+      "words": [
+        { "word": "ذَٰلِكَ", "role": "Mubtada'", "case": "Nominativ", "explanation": "'jenes' — Demonstrativpronomen als Mubtada'. Die Fernverweisung (ذا + لِ + كَ) verstaerkt die Trennung vom vorhergehenden Text." },
+        { "word": "الْكِتَابُ", "role": "Khabar / Badal / Sifa", "case": "Nominativ (Raf')", "explanation": "'das Buch' — kann als Khabar (Praedikat), Badal (Apposition) oder Sifa (Attribut) zu ذَٰلِكَ analysiert werden. Bei der Analyse als Khabar waere der Satz hier komplett — ein Qat' (Abtrennung) vom Folgenden." },
+        { "word": "لَا رَيْبَ", "role": "La li-nafy al-jins + Ism", "case": "Fatha (mabniyy)", "explanation": "'kein Zweifel' — لَا zur Negation des gesamten Genus. رَيْبَ ist Ism von لَا, unveraenderlich auf Fatha gebaut." },
+        { "word": "فِيهِ", "role": "Khabar von لَا", "case": "—", "explanation": "'darin' — Khabar von لَا. Der gesamte Satz لَا رَيْبَ فِيهِ kann als Hal (Zustandssatz), als zweiter Khabar oder als Qat'-Satz analysiert werden." },
+        { "word": "هُدًى لِلْمُتَّقِينَ", "role": "Khabar thani / Hal", "case": "Nominativ oder Akkusativ", "explanation": "'eine Fuehrung fuer die sich Huetenden' — kann als weiterer Khabar (Nominativ) oder als Hal (Akkusativ) des Buches gelesen werden." }
+      ]
+    },
+    {
+      "id": "syn_343",
+      "type": "parse",
+      "category": "qat'",
+      "verse": "وَمِنَ النَّاسِ مَنْ يَقُولُ آمَنَّا بِاللَّهِ وَبِالْيَوْمِ الْآخِرِ وَمَا هُمْ بِمُؤْمِنِينَ",
+      "surah": 2,
+      "ayah": 8,
+      "words": [
+        { "word": "وَمِنَ النَّاسِ", "role": "Khabar muqaddam", "case": "Genitiv", "explanation": "'und unter den Menschen' — vorangestellter Khabar." },
+        { "word": "مَنْ يَقُولُ", "role": "Mubtada' (Relativsatz)", "case": "Nominativ", "explanation": "'wer sagt' — Relativpronomen + Relativsatz als Mubtada'." },
+        { "word": "آمَنَّا بِاللَّهِ وَبِالْيَوْمِ الْآخِرِ", "role": "Maqul al-Qawl", "case": "—", "explanation": "'wir glauben an Gott und an den Letzten Tag' — Inhalt der Rede (Maqul al-Qawl)." },
+        { "word": "وَمَا هُمْ بِمُؤْمِنِينَ", "role": "Qat' (Trennung)", "case": "—", "explanation": "'aber sie sind keine Glaeubigen' — Qat' (rhetorische Trennung/Abbruch). Anstatt den vorhergehenden Anspruch weiterzufuehren, bricht der Text ab und widerlegt ihn direkt. مَا ist Negation (hijazisch mit Khabar im Genitiv durch Ba za'ida). هُمْ ist Ism von مَا. بِمُؤْمِنِينَ ist Khabar mit za'idem Ba." }
+      ]
+    },
+    {
+      "id": "syn_344",
+      "type": "parse",
+      "category": "qat'",
+      "verse": "هُمْ لِلْكُفْرِ يَوْمَئِذٍ أَقْرَبُ مِنْهُمْ لِلْإِيمَانِ",
+      "surah": 3,
+      "ayah": 167,
+      "words": [
+        { "word": "هُمْ", "role": "Mubtada'", "case": "Nominativ", "explanation": "'sie' — Pronomen als Mubtada'. Qat': Das Pronomen reisst die Aussage von der vorherigen Beschreibung ab und fokussiert auf den neuen Sachverhalt." },
+        { "word": "لِلْكُفْرِ", "role": "Jarr wa-Majrur (Tamyiz-artig)", "case": "Genitiv", "explanation": "'dem Unglauben (gegenueber)' — Praepositionalkomplement des Komparativs." },
+        { "word": "يَوْمَئِذٍ", "role": "Zarf", "case": "Akkusativ (Nasb)", "explanation": "'an jenem Tag' — Zeitadverbial. إِذٍ ist Mudaf ilayhi mit Tanwin al-'iwad." },
+        { "word": "أَقْرَبُ", "role": "Khabar", "case": "Nominativ (Raf')", "explanation": "'naeher' — Elativ/Komparativ als Khabar von هُمْ." },
+        { "word": "مِنْهُمْ لِلْإِيمَانِ", "role": "Jarr wa-Majrur (Vergleich)", "case": "Genitiv", "explanation": "'als sie dem Glauben' — Vergleichsphrase mit مِنْ und zweites Komplement mit لِ." }
+      ]
+    },
+    {
+      "id": "syn_345",
+      "type": "parse",
+      "category": "qat'",
+      "verse": "إِنَّ الَّذِينَ كَفَرُوا سَوَاءٌ عَلَيْهِمْ أَأَنْذَرْتَهُمْ أَمْ لَمْ تُنْذِرْهُمْ لَا يُؤْمِنُونَ",
+      "surah": 2,
+      "ayah": 6,
+      "words": [
+        { "word": "إِنَّ", "role": "Partikel (Tawkid)", "case": "—", "explanation": "Bestaetigungspartikel — setzt das folgende Nomen in den Akkusativ." },
+        { "word": "الَّذِينَ كَفَرُوا", "role": "Ism von إِنَّ", "case": "Akkusativ (Nasb)", "explanation": "'diejenigen, die unglaebig waren' — Ism von إِنَّ. Der Relativsatz ist Sila." },
+        { "word": "سَوَاءٌ عَلَيْهِمْ", "role": "Khabar von إِنَّ", "case": "Nominativ (Raf')", "explanation": "'gleich ist es ihnen' — Khabar. سَوَاءٌ als Praedikat." },
+        { "word": "أَأَنْذَرْتَهُمْ أَمْ لَمْ تُنْذِرْهُمْ", "role": "Fa'il von سَوَاءٌ (Masdar muawwal)", "case": "Nominativ", "explanation": "'ob du sie warnst oder nicht warnst' — disjunktive Frage als Fa'il (was gleich ist). أَ ... أَمْ ist die verbundene Disjunktion." },
+        { "word": "لَا يُؤْمِنُونَ", "role": "Qat' (Abbruch / Neubeginn)", "case": "—", "explanation": "'sie glauben nicht' — Qat': Nach der Feststellung der Gleichgueltigkeit bricht der Text ab und fuegt eine neue, abschliessende Aussage hinzu. Dieser Satz ist kein grammatisches Komplement des Vorhergehenden, sondern ein rhetorischer Abbruch — ein neuer Nominalsatz als Bestaetigung." }
+      ]
+    },
+    {
+      "id": "syn_346",
+      "type": "parse",
+      "category": "iltifat",
+      "verse": "إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ",
+      "surah": 1,
+      "ayah": 5,
+      "words": [
+        { "word": "إِيَّاكَ", "role": "Maf'ul bihi (muqaddam)", "case": "Akkusativ", "explanation": "Vorangestelltes Akkusativobjekt (Taqdīm/muqaddam): Objekt in markierter Anfangsposition. إِيَّا ist das abgetrennte Akkusativpronomen, كَ das Suffix der 2. Person. ILTIFAT: Wechsel von der 3. Person (الْحَمْدُ لِلَّهِ — 'Gott', 3. Person) zur 2. Person ('Dir') — ein Personenwechsel innerhalb derselben Sure." },
+        { "word": "نَعْبُدُ", "role": "Fi'l Mudari' + Fa'il", "case": "Raf' (Indikativ)", "explanation": "'wir beten an' — Verb im Indikativ, 1. Person Plural. Der Wechsel von der 3. Person (Sprechen ueber Gott) zur 2. Person (direkte Anrede) ist der Iltifat." },
+        { "word": "وَإِيَّاكَ نَسْتَعِينُ", "role": "Ma'tuf (parallele Struktur)", "case": "—", "explanation": "'und Dich bitten wir um Hilfe' — identische Struktur. Form X von ع-و-ن: Hilfe erbitten." }
+      ]
+    },
+    {
+      "id": "syn_347",
+      "type": "parse",
+      "category": "iltifat",
+      "verse": "حَتَّىٰ إِذَا كُنْتُمْ فِي الْفُلْكِ وَجَرَيْنَ بِهِمْ بِرِيحٍ طَيِّبَةٍ",
+      "surah": 10,
+      "ayah": 22,
+      "words": [
+        { "word": "حَتَّىٰ إِذَا", "role": "Ghaya + Shart", "case": "—", "explanation": "'bis wenn' — temporale Grenzpartikel + Bedingung." },
+        { "word": "كُنْتُمْ", "role": "Fi'l + Fa'il", "case": "—", "explanation": "'ihr wart' — 2. Person Plural. Direkte Anrede." },
+        { "word": "فِي الْفُلْكِ", "role": "Khabar von كُنْتُمْ", "case": "Genitiv", "explanation": "'auf dem Schiff' — Praepositionaler Khabar." },
+        { "word": "وَجَرَيْنَ", "role": "Fi'l + Fa'il", "case": "—", "explanation": "'und sie (die Schiffe) fuhren' — ILTIFAT: Wechsel von der 2. Person (كُنْتُمْ — 'ihr') zur 3. Person (جَرَيْنَ — 'sie'). Der Personenwechsel geschieht abrupt innerhalb desselben Satzes." },
+        { "word": "بِهِمْ", "role": "Jarr wa-Majrur", "case": "Genitiv", "explanation": "'mit ihnen' — ILTIFAT fortgesetzt: statt بِكُمْ ('mit euch', 2. Person) steht بِهِمْ ('mit ihnen', 3. Person). Der Wechsel ist vollstaendig." },
+        { "word": "بِرِيحٍ طَيِّبَةٍ", "role": "Jarr wa-Majrur + Sifa", "case": "Genitiv", "explanation": "'mit einem guten Wind' — instrumentale Praeposition. طَيِّبَةٍ kongruiert in Genitiv, feminin Singular." }
+      ]
+    },
+    {
+      "id": "syn_348",
+      "type": "parse",
+      "category": "iltifat",
+      "verse": "وَاللَّهُ الَّذِي أَرْسَلَ الرِّيَاحَ فَتُثِيرُ سَحَابًا",
+      "surah": 35,
+      "ayah": 9,
+      "words": [
+        { "word": "وَاللَّهُ", "role": "Mubtada'", "case": "Nominativ (Raf')", "explanation": "'und Gott' — Mubtada'." },
+        { "word": "الَّذِي", "role": "Khabar / Sifa", "case": "Nominativ", "explanation": "'der' — Relativpronomen, kann als Khabar oder als Sifa zu اللَّهُ analysiert werden." },
+        { "word": "أَرْسَلَ", "role": "Fi'l Madi (Sila)", "case": "—", "explanation": "'sandte' — Verb im Perfekt (Vergangenheit). Sila des Relativpronomens." },
+        { "word": "الرِّيَاحَ", "role": "Maf'ul bihi", "case": "Akkusativ (Nasb)", "explanation": "'die Winde' — Akkusativobjekt." },
+        { "word": "فَتُثِيرُ", "role": "Fi'l Mudari'", "case": "Raf' (Indikativ)", "explanation": "'und sie wirbeln auf' — ILTIFAT im Tempus (nicht in der Person): Wechsel vom Perfekt (أَرْسَلَ — Vergangenheit) zum Imperfekt (تُثِيرُ — Gegenwart/Wiederholung). Dieser Tempuswechsel erzeugt Lebendigkeit: die vergangene Handlung wird als wiederkehrend dargestellt." },
+        { "word": "سَحَابًا", "role": "Maf'ul bihi", "case": "Akkusativ (Nasb)", "explanation": "'Wolken' — Akkusativobjekt von تُثِيرُ." }
+      ]
+    },
+    {
+      "id": "syn_349",
+      "type": "parse",
+      "category": "iltifat",
+      "verse": "وَلَوْ تَرَىٰ إِذْ وُقِفُوا عَلَى النَّارِ فَقَالُوا يَا لَيْتَنَا نُرَدُّ",
+      "surah": 6,
+      "ayah": 27,
+      "words": [
+        { "word": "وَلَوْ تَرَىٰ", "role": "Shart (irreal)", "case": "—", "explanation": "'und wenn du saehest' — irreale Bedingung, 2. Person Singular. Direkte Anrede an den Adressaten." },
+        { "word": "إِذْ وُقِفُوا", "role": "Zarf + Fi'l (Passiv)", "case": "—", "explanation": "'als sie zum Stehen gebracht wurden' — ILTIFAT: Wechsel von der 2. Person (تَرَىٰ) zur 3. Person (وُقِفُوا — 'sie'). Der Angesprochene soll sich die Situation anderer vorstellen." },
+        { "word": "عَلَى النَّارِ", "role": "Jarr wa-Majrur", "case": "Genitiv", "explanation": "'vor dem Feuer' — Praepositionalobjekt." },
+        { "word": "فَقَالُوا", "role": "Fi'l + Fa'il", "case": "—", "explanation": "'und sie sagten' — weiter in der 3. Person." },
+        { "word": "يَا لَيْتَنَا نُرَدُّ", "role": "Tamanni (Wunsch)", "case": "—", "explanation": "'Ach, wuerden wir doch zurueckgebracht!' — ILTIFAT: Wechsel zur 1. Person Plural (نَا / نُرَدُّ). In drei Versen: 2. Person → 3. Person → 1. Person." }
+      ]
+    },
+    {
+      "id": "syn_350",
+      "type": "parse",
+      "category": "iltifat",
+      "verse": "قُلْ أَفَغَيْرَ اللَّهِ تَأْمُرُونِّي أَعْبُدُ أَيُّهَا الْجَاهِلُونَ وَلَقَدْ أُوحِيَ إِلَيْكَ وَإِلَى الَّذِينَ مِنْ قَبْلِكَ",
+      "surah": 39,
+      "ayah": 64,
+      "words": [
+        { "word": "قُلْ", "role": "Fi'l Amr", "case": "—", "explanation": "'Sag!' — Imperativ. Befehl zur Rede in der 1. Person." },
+        { "word": "أَفَغَيْرَ اللَّهِ", "role": "Maf'ul bihi (muqaddam)", "case": "Akkusativ (Nasb)", "explanation": "'etwa anderes als Gott' — vorangestelltes Akkusativobjekt, rhetorische Frage." },
+        { "word": "تَأْمُرُونِّي أَعْبُدُ", "role": "Fi'l + Fi'l", "case": "Raf'", "explanation": "'befehlt ihr mir anzubeten' — 2. Person Plural + 1. Person Singular. Zwei verschachtelte Verben." },
+        { "word": "أَيُّهَا الْجَاهِلُونَ", "role": "Munada (Vokativ)", "case": "—", "explanation": "'ihr Unwissenden!' — Vokativ. Anrede in der 2. Person." },
+        { "word": "وَلَقَدْ أُوحِيَ إِلَيْكَ", "role": "Qat' + Iltifat", "case": "—", "explanation": "'und es wurde dir offenbart' — ILTIFAT: Der Sprecher (1. Person in أَعْبُدُ) wird ploetzlich in der 2. Person angesprochen (إِلَيْكَ). Der Wechsel geschieht innerhalb derselben Rede: der Befehlsempfaenger wird selbst zum Adressaten der Aussage des Textsprechers." }
+      ]
+    }
+  ]
+}

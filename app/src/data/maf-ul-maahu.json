@@ -1,0 +1,75 @@
+{
+  "meta": {
+    "title": "Maf'ul Ma'ahu — Begleitobjekt (المفعول معه)",
+    "description": "Das Begleitobjekt steht nach dem Waw al-Ma'iyya (واو المعية) im Akkusativ und drueckt aus, dass jemand oder etwas gleichzeitig mit der Handlung praesent ist — ohne aktiv an ihr teilzunehmen. Dieser Akkusativ ist im Quran selten, aber grammatisch klar von Waw al-'Atf zu unterscheiden."
+  },
+  "lessons": [
+    {
+      "id": "MAA1",
+      "title": "Maf'ul Ma'ahu — das Begleitobjekt",
+      "description": "Struktur, Erkennungsmerkmale und Quranbeispiele des Begleitobjekts.",
+      "learnContent": {
+        "sections": [
+          {
+            "type": "explanation",
+            "title": "Was ist das Maf'ul Ma'ahu?",
+            "content": "Das Maf'ul Ma'ahu (مفعول معه — 'Objekt der Begleitung') steht nach وَ der Gleichzeitigkeit (waw al-ma'iyya) im AKKUSATIV und drueckt aus:\n'die Handlung X geschah, zusammen mit / in Begleitung von Y'\nDabei ist Y kein aktiver Teilnehmer an der Handlung — er begleitet sie nur.\n\nStruktur: Hauptsatz + وَ + Akkusativ (Maf'ul ma'ahu)\n\nBedingungen fuer Maf'ul Ma'ahu:\n1. وَ darf NICHT koordinieren — das folgende Nomen ist KEIN weiteres Subjekt\n2. Das Nomen steht im AKKUSATIV (nicht im Nominativ oder Genitiv)\n3. Semantisch: 'zusammen mit / waehrend Y da war' passt besser als 'und Y'\n4. Typisch nach Bewegungsverben: سَارَ, ذَهَبَ, جَاءَ\n\nKlassisches Beispiel:\nسِرْتُ وَالنِّيلَ — 'ich reiste, (dabei war) der Nil mit mir'\nNicht: 'ich und der Nil reisten' (der Nil reist nicht)\nالنِّيلَ steht im Akkusativ."
+          },
+          {
+            "type": "explanation",
+            "title": "Maf'ul Ma'ahu vs. Waw al-'Atf — der Test",
+            "content": "Der entscheidende Test:\n\nWAW AL-'ATF: Das zweite Nomen koennte dasselbe Verb/Praedikat haben. Beide Nomen 'tun' die Handlung.\nجَاءَ مُحَمَّدٌ وَعَلِيٌّ — 'Muhammad und Ali kamen' (beide kamen)\nعَلِيٌّ im Nominativ — konjunktiver Nominativ (معطوف)\n\nMAF'UL MA'ATH: Das zweite Nomen kann die Handlung NICHT tun — es begleitet nur.\nجَاءَ مُحَمَّدٌ وَالنِّيلَ — nicht moeglicher Satz, da Nil nicht gehen kann\n\nWICHTIG: Im Arabischen ist oft BEIDES grammatisch moeglich — sowohl Maf'ul ma'ahu als auch Waw al-'Atf. Die Wahl aendert die Bedeutung:\nسِرْتُ وَزَيْدًا — Akkusativ: 'ich reiste, Zayd dabei' (er kam nur mit)\nسِرْتُ وَزَيْدٌ — Nominativ: 'Zayd und ich reisten' (beide aktiv)"
+          },
+          {
+            "type": "quranExamples",
+            "title": "Quranbeispiele und Grenzfaelle",
+            "examples": [
+              {
+                "ref": "20:18",
+                "arabic": "قَالَ هِيَ عَصَايَ أَتَوَكَّأُ عَلَيْهَا وَأَهُشُّ بِهَا عَلَى غَنَمِي وَلِيَ فِيهَا مَأْرَبُ أُخْرَىٰ",
+                "explanation": "Die Verbindungen hier sind alle WAW AL-'ATF (Koordination von Saetzen). Kein Maf'ul Ma'ahu. Vergleichsbeispiel."
+              },
+              {
+                "ref": "Allgemein",
+                "arabic": "اسْتَوَى مَعَ الْجَبَلِ",
+                "explanation": "Wenn مَعَ (mit) als Praeposition vorhanden ist, ist es kein Maf'ul Ma'ahu sondern Jarr wa-Majrur. Das Maf'ul Ma'ahu steht direkt nach وَ ohne Praeposition. Im Quran steht meistens مَعَ + Genitiv fuer Begleitungsangaben — das Maf'ul Ma'ahu ist deshalb selten."
+              },
+              {
+                "ref": "2:148",
+                "arabic": "فَاسْتَبِقُوا الْخَيْرَاتِ",
+                "explanation": "Kein Maf'ul Ma'ahu. فَاسْتَبِقُوا = Imperativ. الْخَيْرَاتِ = Maf'ul bihi (direktes Objekt). Gezeigt als Kontrast."
+              }
+            ]
+          },
+          {
+            "type": "explanation",
+            "title": "Warum der Maf'ul Ma'ahu im Quran selten ist",
+            "content": "Der Quran verwendet fuer Begleitungsangaben fast immer مَعَ + Genitiv (Jarr wa-Majrur) statt des synthetischen Maf'ul Ma'ahu:\n\nمَعَ الصَّابِرِينَ — 'mit den Geduldigen' (2:153)\nمَعَ الَّذِينَ أَنْعَمَ اللَّهُ عَلَيْهِمْ — 'mit denen, denen Gott Gnade erwies' (4:69)\n\nDiese Konstruktion mit مَعَ ist eindeutiger und vermeidet die Mehrdeutigkeit zwischen Maf'ul Ma'ahu und Waw al-'Atf. Deshalb ist das echte Maf'ul Ma'ahu (ohne مَعَ, nur mit وَ + Akkusativ) im Quran kaum eindeutig belegt.\n\nFuer den Lernenden bedeutet das: die Konstruktion mit مَعَ + Genitiv erkennen und von عَطْف unterscheiden ist wichtiger als nach dem seltenen echten Maf'ul Ma'ahu zu suchen."
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "contrast",
+          "question": "إِنَّ اللَّهَ مَعَ الصَّابِرِينَ (2:153) — Wie wird Begleitung hier ausgedrueckt, und warum ist es kein Maf'ul Ma'ahu?",
+          "answer": "Begleitung durch مَعَ (Praeposition) + Genitiv الصَّابِرِينَ — das ist Jarr wa-Majrur. Kein Maf'ul Ma'ahu, weil das Maf'ul Ma'ahu OHNE Praeposition steht, direkt nach وَ, im Akkusativ. مَعَ ist eine echte Praeposition."
+        }
+      ],
+      "testContent": {
+        "exercises": [
+          {
+            "question": "Was ist das entscheidende morphologische Signal fuer den Maf'ul Ma'ahu?",
+            "options": [
+              "Nominativ nach وَ",
+              "Genitiv nach مَعَ",
+              "Akkusativ direkt nach وَ, wo kein aktives Partizipieren des Nomens gemeint ist",
+              "Akkusativ nach einer Praeposition"
+            ],
+            "correct": 2,
+            "explanation": "Das Maf'ul Ma'ahu steht im Akkusativ direkt nach وَ (ohne Praeposition) und bezeichnet etwas, das die Handlung begleitet, ohne selbst Subjekt oder Objekt der Handlung zu sein."
+          }
+        ]
+      }
+    }
+  ]
+}
