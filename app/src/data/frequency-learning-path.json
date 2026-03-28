@@ -3,7 +3,7 @@
     "description": "Frequency-based learning path for Quranic Arabic roots",
     "totalWords": 77429,
     "totalRoots": 1642,
-    "tierCount": 6,
+    "tierCount": 9,
     "sources": [
       {
         "name": "Quranic Arabic Corpus",
@@ -14,14 +14,17 @@
         "url": "https://ejtaal.net/aa/"
       }
     ],
-    "totalRootsInPath": 1000,
+    "totalRootsInPath": 1642,
     "wordCoverage": {
       "tier1": "29.46%",
       "tier2": "39.04%",
       "tier3": "48.89%",
       "tier4": "59.19%",
       "tier5": "62.01%",
-      "tier6": "63.32%"
+      "tier6": "63.32%",
+      "tier7": "64.03%",
+      "tier8": "64.35%",
+      "tier9": "64.53%"
     },
     "tierSummary": {
       "tier1": {
@@ -65,6 +68,27 @@
         "rootCount": 250,
         "wordsCovered": 1012,
         "cumulativeCoverage": "63.32%"
+      },
+      "tier7": {
+        "label": "Fortgeschritten III",
+        "rankRange": "1001-1250",
+        "rootCount": 250,
+        "wordsCovered": 547,
+        "cumulativeCoverage": "64.03%"
+      },
+      "tier8": {
+        "label": "Fortgeschritten IV",
+        "rankRange": "1251-1500",
+        "rootCount": 250,
+        "wordsCovered": 250,
+        "cumulativeCoverage": "64.35%"
+      },
+      "tier9": {
+        "label": "Vollstaendig",
+        "rankRange": "1501-1642",
+        "rootCount": 142,
+        "wordsCovered": 142,
+        "cumulativeCoverage": "64.53%"
       }
     }
   },
@@ -7628,6 +7652,5172 @@
           "count": 3,
           "meaning": "leise sprechen, daempfen",
           "laneReference": "https://ejtaal.net/aa/#ll=xft"
+        }
+      ]
+    },
+    {
+      "name": "Tier 7",
+      "label": "Fortgeschritten III",
+      "rankRange": "1001-1250",
+      "rootCount": 250,
+      "wordsCovered": 547,
+      "cumulativeCoverage": "64.03%",
+      "roots": [
+        {
+          "rank": 1001,
+          "root": "ر ق م",
+          "rootArabic": "رقم",
+          "count": 3,
+          "meaning": "schreiben, markieren, beschriebenes Dokument",
+          "laneReference": "https://ejtaal.net/aa/#ll=rqm"
+        },
+        {
+          "rank": 1002,
+          "root": "ش ط ط",
+          "rootArabic": "شطط",
+          "count": 3,
+          "meaning": "uebertreiben, masslos sein, Uebermass",
+          "laneReference": "https://ejtaal.net/aa/#ll=$TT"
+        },
+        {
+          "rank": 1003,
+          "root": "و ص د",
+          "rootArabic": "وصد",
+          "count": 3,
+          "meaning": "verschliessen, fest verriegeln",
+          "laneReference": "https://ejtaal.net/aa/#ll=wSd"
+        },
+        {
+          "rank": 1004,
+          "root": "ذ ر و",
+          "rootArabic": "ذرو",
+          "count": 3,
+          "meaning": "zerstreuen, verwehen (Wind)",
+          "laneReference": "https://ejtaal.net/aa/#ll=*rw"
+        },
+        {
+          "rank": 1005,
+          "root": "ص خ ر",
+          "rootArabic": "صخر",
+          "count": 3,
+          "meaning": "Fels, Gestein, hartes Gestein",
+          "laneReference": "https://ejtaal.net/aa/#ll=Sxr"
+        },
+        {
+          "rank": 1006,
+          "root": "ش ي ب",
+          "rootArabic": "شيب",
+          "count": 3,
+          "meaning": "ergrauen, weisshaarig werden, Greisenhaar",
+          "laneReference": "https://ejtaal.net/aa/#ll=$yb"
+        },
+        {
+          "rank": 1007,
+          "root": "ج ذ ع",
+          "rootArabic": "جذع",
+          "count": 3,
+          "meaning": "Palmstamm, unterer Baumstamm",
+          "laneReference": "https://ejtaal.net/aa/#ll=j*E"
+        },
+        {
+          "rank": 1008,
+          "root": "ج ث و",
+          "rootArabic": "جثو",
+          "count": 3,
+          "meaning": "knien, auf den Knien hocken, kauern",
+          "laneReference": "https://ejtaal.net/aa/#ll=jvw"
+        },
+        {
+          "rank": 1009,
+          "root": "ق ب س",
+          "rootArabic": "قبس",
+          "count": 3,
+          "meaning": "Feuerglut nehmen, Funke, Feuerbrand",
+          "laneReference": "https://ejtaal.net/aa/#ll=qbs"
+        },
+        {
+          "rank": 1010,
+          "root": "ع ر ي",
+          "rootArabic": "عري",
+          "count": 3,
+          "meaning": "nackt sein, entbloesst, offene Flaeche",
+          "laneReference": "https://ejtaal.net/aa/#ll=Ery"
+        },
+        {
+          "rank": 1011,
+          "root": "ر ك ض",
+          "rootArabic": "ركض",
+          "count": 3,
+          "meaning": "mit dem Fuss stampfen, rennen, galoppieren",
+          "laneReference": "https://ejtaal.net/aa/#ll=rkD"
+        },
+        {
+          "rank": 1012,
+          "root": "ف ج ج",
+          "rootArabic": "فجج",
+          "count": 3,
+          "meaning": "weiter Weg, Bergpass, breite Strasse",
+          "laneReference": "https://ejtaal.net/aa/#ll=fjj"
+        },
+        {
+          "rank": 1013,
+          "root": "ن ك س",
+          "rootArabic": "نكس",
+          "count": 3,
+          "meaning": "umkehren, auf den Kopf stellen, rueckfaellig",
+          "laneReference": "https://ejtaal.net/aa/#ll=nks"
+        },
+        {
+          "rank": 1014,
+          "root": "م ض غ",
+          "rootArabic": "مضغ",
+          "count": 3,
+          "meaning": "kauen, Kaustuck, fleischiger Klumpen",
+          "laneReference": "https://ejtaal.net/aa/#ll=mDg"
+        },
+        {
+          "rank": 1015,
+          "root": "ب ه ج",
+          "rootArabic": "بهج",
+          "count": 3,
+          "meaning": "Freude, Pracht, schoene Bluete",
+          "laneReference": "https://ejtaal.net/aa/#ll=bhj"
+        },
+        {
+          "rank": 1016,
+          "root": "و ث ن",
+          "rootArabic": "وثن",
+          "count": 3,
+          "meaning": "Standbild, Goetze, aufgerichtetes Bild",
+          "laneReference": "https://ejtaal.net/aa/#ll=wvn"
+        },
+        {
+          "rank": 1017,
+          "root": "س ل ل",
+          "rootArabic": "سلل",
+          "count": 3,
+          "meaning": "herausziehen, sich davonstehlen, Extrakt",
+          "laneReference": "https://ejtaal.net/aa/#ll=sll"
+        },
+        {
+          "rank": 1018,
+          "root": "و ت ر",
+          "rootArabic": "وتر",
+          "count": 3,
+          "meaning": "ungerade, Bogensehne",
+          "laneReference": "https://ejtaal.net/aa/#ll=wtr"
+        },
+        {
+          "rank": 1019,
+          "root": "ه م ز",
+          "rootArabic": "همز",
+          "count": 3,
+          "meaning": "stossen, verleumden, hinterruecks laestern",
+          "laneReference": "https://ejtaal.net/aa/#ll=hmz"
+        },
+        {
+          "rank": 1020,
+          "root": "ن س ب",
+          "rootArabic": "نسب",
+          "count": 3,
+          "meaning": "Abstammung, Verwandtschaft, Herkunft",
+          "laneReference": "https://ejtaal.net/aa/#ll=nsb"
+        },
+        {
+          "rank": 1021,
+          "root": "ج ي ب",
+          "rootArabic": "جيب",
+          "count": 3,
+          "meaning": "Brustschlitz, Hemdoeffnung, Gewandfalte",
+          "laneReference": "https://ejtaal.net/aa/#ll=jyb"
+        },
+        {
+          "rank": 1022,
+          "root": "ن ث ر",
+          "rootArabic": "نثر",
+          "count": 3,
+          "meaning": "zerstreuen, verstreuen, auseinanderfallen",
+          "laneReference": "https://ejtaal.net/aa/#ll=nvr"
+        },
+        {
+          "rank": 1023,
+          "root": "ف ر ت",
+          "rootArabic": "فرت",
+          "count": 3,
+          "meaning": "suesses Wasser, Suesswasserquelle",
+          "laneReference": "https://ejtaal.net/aa/#ll=frt"
+        },
+        {
+          "rank": 1024,
+          "root": "ا ج ج",
+          "rootArabic": "اجج",
+          "count": 3,
+          "meaning": "salziges Wasser, bitter schmeckend",
+          "laneReference": "https://ejtaal.net/aa/#ll=Ajj"
+        },
+        {
+          "rank": 1025,
+          "root": "ش ح ن",
+          "rootArabic": "شحن",
+          "count": 3,
+          "meaning": "beladen, vollladen, beladenes Schiff",
+          "laneReference": "https://ejtaal.net/aa/#ll=$Hn"
+        },
+        {
+          "rank": 1026,
+          "root": "ح د ق",
+          "rootArabic": "حدق",
+          "count": 3,
+          "meaning": "Garten, umzaeunter Baumgarten",
+          "laneReference": "https://ejtaal.net/aa/#ll=Hdq"
+        },
+        {
+          "rank": 1027,
+          "root": "ج د ث",
+          "rootArabic": "جدث",
+          "count": 3,
+          "meaning": "Grab, Grabstaette, Grube",
+          "laneReference": "https://ejtaal.net/aa/#ll=jdv"
+        },
+        {
+          "rank": 1028,
+          "root": "ل ذ ذ",
+          "rootArabic": "لذذ",
+          "count": 3,
+          "meaning": "Genuss, Vergnuegen, angenehm empfinden",
+          "laneReference": "https://ejtaal.net/aa/#ll=l**"
+        },
+        {
+          "rank": 1029,
+          "root": "ز ق م",
+          "rootArabic": "زقم",
+          "count": 3,
+          "meaning": "bitterer Baum, Zaqqum-Baum",
+          "laneReference": "https://ejtaal.net/aa/#ll=zqm"
+        },
+        {
+          "rank": 1030,
+          "root": "ر و غ",
+          "rootArabic": "روغ",
+          "count": 3,
+          "meaning": "sich abwenden, sich heimlich entfernen",
+          "laneReference": "https://ejtaal.net/aa/#ll=rwg"
+        },
+        {
+          "rank": 1031,
+          "root": "و ت د",
+          "rootArabic": "وتد",
+          "count": 3,
+          "meaning": "Pflock, Zeltpfahl, befestigen",
+          "laneReference": "https://ejtaal.net/aa/#ll=wtd"
+        },
+        {
+          "rank": 1032,
+          "root": "ك و ر",
+          "rootArabic": "كور",
+          "count": 3,
+          "meaning": "einwickeln, zusammenrollen, auftuermen",
+          "laneReference": "https://ejtaal.net/aa/#ll=kwr"
+        },
+        {
+          "rank": 1033,
+          "root": "ا ز ف",
+          "rootArabic": "ازف",
+          "count": 3,
+          "meaning": "nahe bevorstehen, heranruecken (zeitlich)",
+          "laneReference": "https://ejtaal.net/aa/#ll=Azf"
+        },
+        {
+          "rank": 1034,
+          "root": "س ل س ل",
+          "rootArabic": "سلسل",
+          "count": 3,
+          "meaning": "Kette, Ketten, aneinanderreihen",
+          "laneReference": "https://ejtaal.net/aa/#ll=slsl"
+        },
+        {
+          "rank": 1035,
+          "root": "س ج ر",
+          "rootArabic": "سجر",
+          "count": 3,
+          "meaning": "anfachen, entflammen, auflodern lassen",
+          "laneReference": "https://ejtaal.net/aa/#ll=sjr"
+        },
+        {
+          "rank": 1036,
+          "root": "ص ر ص ر",
+          "rootArabic": "صرصر",
+          "count": 3,
+          "meaning": "heftiger kalter Wind, heulender Sturm",
+          "laneReference": "https://ejtaal.net/aa/#ll=SrSr"
+        },
+        {
+          "rank": 1037,
+          "root": "ن ح س",
+          "rootArabic": "نحس",
+          "count": 3,
+          "meaning": "Unglueck, unglueckverheissend, Kupfer/Erz",
+          "laneReference": "https://ejtaal.net/aa/#ll=nHs"
+        },
+        {
+          "rank": 1038,
+          "root": "ا ف ق",
+          "rootArabic": "افق",
+          "count": 3,
+          "meaning": "Horizont, Gesichtskreis, Rand",
+          "laneReference": "https://ejtaal.net/aa/#ll=Afq"
+        },
+        {
+          "rank": 1039,
+          "root": "م و ر",
+          "rootArabic": "مور",
+          "count": 3,
+          "meaning": "sich hin und her bewegen, wogen, schwanken",
+          "laneReference": "https://ejtaal.net/aa/#ll=mwr"
+        },
+        {
+          "rank": 1040,
+          "root": "د ع ع",
+          "rootArabic": "دعع",
+          "count": 3,
+          "meaning": "wegstossen, schroff abweisen, verdraengen",
+          "laneReference": "https://ejtaal.net/aa/#ll=dEE"
+        },
+        {
+          "rank": 1041,
+          "root": "ن ف ذ",
+          "rootArabic": "نفذ",
+          "count": 3,
+          "meaning": "durchdringen, hindurchgehen, passieren",
+          "laneReference": "https://ejtaal.net/aa/#ll=nf*"
+        },
+        {
+          "rank": 1042,
+          "root": "ش ا م",
+          "rootArabic": "شام",
+          "count": 3,
+          "meaning": "linke Seite, links, Nordseite",
+          "laneReference": "https://ejtaal.net/aa/#ll=$Am"
+        },
+        {
+          "rank": 1043,
+          "root": "ث ل ل",
+          "rootArabic": "ثلل",
+          "count": 3,
+          "meaning": "Schar, Gruppe, Menge von Menschen",
+          "laneReference": "https://ejtaal.net/aa/#ll=vll"
+        },
+        {
+          "rank": 1044,
+          "root": "ف س ح",
+          "rootArabic": "فسح",
+          "count": 3,
+          "meaning": "Platz machen, weit werden, auseinanderruecken",
+          "laneReference": "https://ejtaal.net/aa/#ll=fsH"
+        },
+        {
+          "rank": 1045,
+          "root": "ص ر م",
+          "rootArabic": "صرم",
+          "count": 3,
+          "meaning": "abschneiden, ernten, pflucken",
+          "laneReference": "https://ejtaal.net/aa/#ll=Srm"
+        },
+        {
+          "rank": 1046,
+          "root": "ح ض ض",
+          "rootArabic": "حضض",
+          "count": 3,
+          "meaning": "anregen, auffordern, dringend ermuntern",
+          "laneReference": "https://ejtaal.net/aa/#ll=HDD"
+        },
+        {
+          "rank": 1047,
+          "root": "ع ب س",
+          "rootArabic": "عبس",
+          "count": 3,
+          "meaning": "finster blicken, die Stirn runzeln",
+          "laneReference": "https://ejtaal.net/aa/#ll=Ebs"
+        },
+        {
+          "rank": 1048,
+          "root": "ن ض ر",
+          "rootArabic": "نضر",
+          "count": 3,
+          "meaning": "bluehend, frisch, strahlend schoene",
+          "laneReference": "https://ejtaal.net/aa/#ll=nDr"
+        },
+        {
+          "rank": 1049,
+          "root": "م ز ج",
+          "rootArabic": "مزج",
+          "count": 3,
+          "meaning": "mischen, Beimischung, Getraenk-Mischung",
+          "laneReference": "https://ejtaal.net/aa/#ll=mzj"
+        },
+        {
+          "rank": 1050,
+          "root": "ل ه ب",
+          "rootArabic": "لهب",
+          "count": 3,
+          "meaning": "Flamme, loderndes Feuer, Feuerglut",
+          "laneReference": "https://ejtaal.net/aa/#ll=lhb"
+        },
+        {
+          "rank": 1051,
+          "root": "ر ع د",
+          "rootArabic": "رعد",
+          "count": 2,
+          "meaning": "Donner, lautes Grollen, Getose am Himmel",
+          "laneReference": "https://ejtaal.net/aa/#ll=rEd"
+        },
+        {
+          "rank": 1052,
+          "root": "ص ب ع",
+          "rootArabic": "صبع",
+          "count": 2,
+          "meaning": "Finger, Fingerspitze",
+          "laneReference": "https://ejtaal.net/aa/#ll=SbE"
+        },
+        {
+          "rank": 1053,
+          "root": "س ف ك",
+          "rootArabic": "سفك",
+          "count": 2,
+          "meaning": "vergiessen (Blut), Blut fliessen lassen",
+          "laneReference": "https://ejtaal.net/aa/#ll=sfk"
+        },
+        {
+          "rank": 1054,
+          "root": "ح ط ط",
+          "rootArabic": "حطط",
+          "count": 2,
+          "meaning": "herabsetzen, ablegen",
+          "laneReference": "https://ejtaal.net/aa/#ll=HTT"
+        },
+        {
+          "rank": 1055,
+          "root": "غ ل ف",
+          "rootArabic": "غلف",
+          "count": 2,
+          "meaning": "Huelle, unbeschnitten",
+          "laneReference": "https://ejtaal.net/aa/#ll=glf"
+        },
+        {
+          "rank": 1056,
+          "root": "ز ح ز ح",
+          "rootArabic": "زحزح",
+          "count": 2,
+          "meaning": "entfernen, wegbewegen, abraecken",
+          "laneReference": "https://ejtaal.net/aa/#ll=zHzH"
+        },
+        {
+          "rank": 1057,
+          "root": "خ ر ب",
+          "rootArabic": "خرب",
+          "count": 2,
+          "meaning": "zerstoert, verwuestet, Ruine",
+          "laneReference": "https://ejtaal.net/aa/#ll=xrb"
+        },
+        {
+          "rank": 1058,
+          "root": "ج ن ف",
+          "rootArabic": "جنف",
+          "count": 2,
+          "meaning": "abweichen, sich neigen, Parteilichkeit",
+          "laneReference": "https://ejtaal.net/aa/#ll=jnf"
+        },
+        {
+          "rank": 1059,
+          "root": "ر ف ث",
+          "rootArabic": "رفث",
+          "count": 2,
+          "meaning": "unanstaendige Rede, Geschlechtsverkehr",
+          "laneReference": "https://ejtaal.net/aa/#ll=rfv"
+        },
+        {
+          "rank": 1060,
+          "root": "ز و د",
+          "rootArabic": "زود",
+          "count": 2,
+          "meaning": "Reisevorrat, Wegzehrung, sich versorgen",
+          "laneReference": "https://ejtaal.net/aa/#ll=zwd"
+        },
+        {
+          "rank": 1061,
+          "root": "ل د د",
+          "rootArabic": "لدد",
+          "count": 2,
+          "meaning": "hartnaeckig streitend, aeusserst feindselig",
+          "laneReference": "https://ejtaal.net/aa/#ll=ldd"
+        },
+        {
+          "rank": 1062,
+          "root": "ا م و",
+          "rootArabic": "امو",
+          "count": 2,
+          "meaning": "Dienerin, Magd, weibliche Dienende",
+          "laneReference": "https://ejtaal.net/aa/#ll=Amw"
+        },
+        {
+          "rank": 1063,
+          "root": "ع ض ل",
+          "rootArabic": "عضل",
+          "count": 2,
+          "meaning": "hindern, behindern, an der Heirat hindern",
+          "laneReference": "https://ejtaal.net/aa/#ll=EDl"
+        },
+        {
+          "rank": 1064,
+          "root": "ج س م",
+          "rootArabic": "جسم",
+          "count": 2,
+          "meaning": "Koerper, Leib, koerperliche Gestalt",
+          "laneReference": "https://ejtaal.net/aa/#ll=jsm"
+        },
+        {
+          "rank": 1065,
+          "root": "ك ر س",
+          "rootArabic": "كرس",
+          "count": 2,
+          "meaning": "Sitz, Thronsessel, Herrschaftsstuhl",
+          "laneReference": "https://ejtaal.net/aa/#ll=krs"
+        },
+        {
+          "rank": 1066,
+          "root": "م ح ق",
+          "rootArabic": "محق",
+          "count": 2,
+          "meaning": "zunichtemachen, ausloeschen, vermindern",
+          "laneReference": "https://ejtaal.net/aa/#ll=mHq"
+        },
+        {
+          "rank": 1067,
+          "root": "ر س خ",
+          "rootArabic": "رسخ",
+          "count": 2,
+          "meaning": "fest verwurzelt, gruendlich, tief verankert",
+          "laneReference": "https://ejtaal.net/aa/#ll=rsx"
+        },
+        {
+          "rank": 1068,
+          "root": "ك ه ل",
+          "rootArabic": "كهل",
+          "count": 2,
+          "meaning": "mittleren Alters, zwischen jung und alt",
+          "laneReference": "https://ejtaal.net/aa/#ll=khl"
+        },
+        {
+          "rank": 1069,
+          "root": "ك م ه",
+          "rootArabic": "كمه",
+          "count": 2,
+          "meaning": "blindgeboren, von Geburt an blind",
+          "laneReference": "https://ejtaal.net/aa/#ll=kmh"
+        },
+        {
+          "rank": 1070,
+          "root": "ب ر ص",
+          "rootArabic": "برص",
+          "count": 2,
+          "meaning": "Aussatz, Hautkrankheit, weissfleckig",
+          "laneReference": "https://ejtaal.net/aa/#ll=brS"
+        },
+        {
+          "rank": 1071,
+          "root": "ش ف و",
+          "rootArabic": "شفو",
+          "count": 2,
+          "meaning": "Rand, Kante, aeusserster Rand",
+          "laneReference": "https://ejtaal.net/aa/#ll=$fw"
+        },
+        {
+          "rank": 1072,
+          "root": "ح ف ر",
+          "rootArabic": "حفر",
+          "count": 2,
+          "meaning": "graben, ausheben, Grube",
+          "laneReference": "https://ejtaal.net/aa/#ll=Hfr"
+        },
+        {
+          "rank": 1073,
+          "root": "خ ب ل",
+          "rootArabic": "خبل",
+          "count": 2,
+          "meaning": "verwirren, verderben, den Verstand stoeren",
+          "laneReference": "https://ejtaal.net/aa/#ll=xbl"
+        },
+        {
+          "rank": 1074,
+          "root": "ع ض ض",
+          "rootArabic": "عضض",
+          "count": 2,
+          "meaning": "beissen, mit den Zaehnen zupacken",
+          "laneReference": "https://ejtaal.net/aa/#ll=EDD"
+        },
+        {
+          "rank": 1075,
+          "root": "د و ل",
+          "rootArabic": "دول",
+          "count": 2,
+          "meaning": "abwechseln, im Umlauf sein, Wechsel",
+          "laneReference": "https://ejtaal.net/aa/#ll=dwl"
+        },
+        {
+          "rank": 1076,
+          "root": "م ح ص",
+          "rootArabic": "محص",
+          "count": 2,
+          "meaning": "pruefen, laeutern, reinigen, lueckenlos",
+          "laneReference": "https://ejtaal.net/aa/#ll=mHS"
+        },
+        {
+          "rank": 1077,
+          "root": "ك ي ن",
+          "rootArabic": "كين",
+          "count": 2,
+          "meaning": "demuetig werden, sich unterwerfen",
+          "laneReference": "https://ejtaal.net/aa/#ll=kyn"
+        },
+        {
+          "rank": 1078,
+          "root": "ن ع س",
+          "rootArabic": "نعس",
+          "count": 2,
+          "meaning": "schlummern, doesen, leicht einnicken",
+          "laneReference": "https://ejtaal.net/aa/#ll=nEs"
+        },
+        {
+          "rank": 1079,
+          "root": "ن ح ل",
+          "rootArabic": "نحل",
+          "count": 2,
+          "meaning": "Biene, Honigbiene, schenken (Brautgabe)",
+          "laneReference": "https://ejtaal.net/aa/#ll=nHl"
+        },
+        {
+          "rank": 1080,
+          "root": "خ د ن",
+          "rootArabic": "خدن",
+          "count": 2,
+          "meaning": "heimlicher Gefaehrte, Liebhaber, Vertrauter",
+          "laneReference": "https://ejtaal.net/aa/#ll=xdn"
+        },
+        {
+          "rank": 1081,
+          "root": "غ و ط",
+          "rootArabic": "غوط",
+          "count": 2,
+          "meaning": "tief sinken, versinken",
+          "laneReference": "https://ejtaal.net/aa/#ll=gwT"
+        },
+        {
+          "rank": 1082,
+          "root": "ط ع ن",
+          "rootArabic": "طعن",
+          "count": 2,
+          "meaning": "stechen, durchbohren, schmaehen",
+          "laneReference": "https://ejtaal.net/aa/#ll=TEn"
+        },
+        {
+          "rank": 1083,
+          "root": "ش ي د",
+          "rootArabic": "شيد",
+          "count": 2,
+          "meaning": "bauen, hochbauen, befestigt/hoch gebaut",
+          "laneReference": "https://ejtaal.net/aa/#ll=$yd"
+        },
+        {
+          "rank": 1084,
+          "root": "ق و ت",
+          "rootArabic": "قوت",
+          "count": 2,
+          "meaning": "Nahrung, Lebensunterhalt, Speise",
+          "laneReference": "https://ejtaal.net/aa/#ll=qwt"
+        },
+        {
+          "rank": 1085,
+          "root": "ر ك س",
+          "rootArabic": "ركس",
+          "count": 2,
+          "meaning": "zurueckfallen, rueckfaellig werden",
+          "laneReference": "https://ejtaal.net/aa/#ll=rks"
+        },
+        {
+          "rank": 1086,
+          "root": "ح و ذ",
+          "rootArabic": "حوذ",
+          "count": 2,
+          "meaning": "beherrschen, umfassen",
+          "laneReference": "https://ejtaal.net/aa/#ll=Hw*"
+        },
+        {
+          "rank": 1087,
+          "root": "ك س ل",
+          "rootArabic": "كسل",
+          "count": 2,
+          "meaning": "traege, faul, schlaff",
+          "laneReference": "https://ejtaal.net/aa/#ll=ksl"
+        },
+        {
+          "rank": 1088,
+          "root": "غ ل و",
+          "rootArabic": "غلو",
+          "count": 2,
+          "meaning": "uebertreiben, das Mass ueberschreiten",
+          "laneReference": "https://ejtaal.net/aa/#ll=glw"
+        },
+        {
+          "rank": 1089,
+          "root": "ز ل م",
+          "rootArabic": "زلم",
+          "count": 2,
+          "meaning": "Losungspfeil, Pfeil ohne Spitze",
+          "laneReference": "https://ejtaal.net/aa/#ll=zlm"
+        },
+        {
+          "rank": 1090,
+          "root": "خ م ص",
+          "rootArabic": "خمص",
+          "count": 2,
+          "meaning": "Hunger, leerer Magen, hungrig sein",
+          "laneReference": "https://ejtaal.net/aa/#ll=xmS"
+        },
+        {
+          "rank": 1091,
+          "root": "غ ر و",
+          "rootArabic": "غرو",
+          "count": 2,
+          "meaning": "aufhetzen, feindlich machen, anstiften",
+          "laneReference": "https://ejtaal.net/aa/#ll=grw"
+        },
+        {
+          "rank": 1092,
+          "root": "و س ل",
+          "rootArabic": "وسل",
+          "count": 2,
+          "meaning": "Mittel der Annaeherung, Zugangsweg",
+          "laneReference": "https://ejtaal.net/aa/#ll=wsl"
+        },
+        {
+          "rank": 1093,
+          "root": "ه م ن",
+          "rootArabic": "همن",
+          "count": 2,
+          "meaning": "schuetzen, bewachen, wachsam sein",
+          "laneReference": "https://ejtaal.net/aa/#ll=hmn"
+        },
+        {
+          "rank": 1094,
+          "root": "د م ع",
+          "rootArabic": "دمع",
+          "count": 2,
+          "meaning": "Traene, weinen, Traenenfluessigkeit",
+          "laneReference": "https://ejtaal.net/aa/#ll=dmE"
+        },
+        {
+          "rank": 1095,
+          "root": "ح ب س",
+          "rootArabic": "حبس",
+          "count": 2,
+          "meaning": "einsperren, zurueckhalten, festsetzen",
+          "laneReference": "https://ejtaal.net/aa/#ll=Hbs"
+        },
+        {
+          "rank": 1096,
+          "root": "ع ث ر",
+          "rootArabic": "عثر",
+          "count": 2,
+          "meaning": "stolpern, auf etwas stossen, finden",
+          "laneReference": "https://ejtaal.net/aa/#ll=Evr"
+        },
+        {
+          "rank": 1097,
+          "root": "ق ر ط س",
+          "rootArabic": "قرطس",
+          "count": 2,
+          "meaning": "Blattstueck, Schriftrolle",
+          "laneReference": "https://ejtaal.net/aa/#ll=qrTs"
+        },
+        {
+          "rank": 1098,
+          "root": "ر ط ب",
+          "rootArabic": "رطب",
+          "count": 2,
+          "meaning": "feucht, frisch, saftige Dattel",
+          "laneReference": "https://ejtaal.net/aa/#ll=rTb"
+        },
+        {
+          "rank": 1099,
+          "root": "ب س ل",
+          "rootArabic": "بسل",
+          "count": 2,
+          "meaning": "ausgeliefert werden, preisgegeben, verpfaendet",
+          "laneReference": "https://ejtaal.net/aa/#ll=bsl"
+        },
+        {
+          "rank": 1100,
+          "root": "ب ز غ",
+          "rootArabic": "بزغ",
+          "count": 2,
+          "meaning": "aufgehen (Gestirn), hervorbrechen",
+          "laneReference": "https://ejtaal.net/aa/#ll=bzg"
+        },
+        {
+          "rank": 1101,
+          "root": "ق د و",
+          "rootArabic": "قدو",
+          "count": 2,
+          "meaning": "folgen, nacheifern, sich zum Vorbild nehmen",
+          "laneReference": "https://ejtaal.net/aa/#ll=qdw"
+        },
+        {
+          "rank": 1102,
+          "root": "ص غ و",
+          "rootArabic": "صغو",
+          "count": 2,
+          "meaning": "neigen (Ohr), zuhoeren, sich hinwenden",
+          "laneReference": "https://ejtaal.net/aa/#ll=Sgw"
+        },
+        {
+          "rank": 1103,
+          "root": "ظ ف ر",
+          "rootArabic": "ظفر",
+          "count": 2,
+          "meaning": "Nagel, Kralle, Klaue",
+          "laneReference": "https://ejtaal.net/aa/#ll=Zfr"
+        },
+        {
+          "rank": 1104,
+          "root": "ح و ي",
+          "rootArabic": "حوي",
+          "count": 2,
+          "meaning": "Eingeweide, Inneres, in sich enthalten",
+          "laneReference": "https://ejtaal.net/aa/#ll=Hwy"
+        },
+        {
+          "rank": 1105,
+          "root": "م ل ق",
+          "rootArabic": "ملق",
+          "count": 2,
+          "meaning": "glatt, eben, aus Armut vernichten",
+          "laneReference": "https://ejtaal.net/aa/#ll=mlq"
+        },
+        {
+          "rank": 1106,
+          "root": "ق ي ل",
+          "rootArabic": "قيل",
+          "count": 2,
+          "meaning": "Mittagsruhe, Mittagsschlaf",
+          "laneReference": "https://ejtaal.net/aa/#ll=qyl"
+        },
+        {
+          "rank": 1107,
+          "root": "خ ص ف",
+          "rootArabic": "خصف",
+          "count": 2,
+          "meaning": "zusammenfüegen, flicken",
+          "laneReference": "https://ejtaal.net/aa/#ll=xSf"
+        },
+        {
+          "rank": 1108,
+          "root": "ث ع ب",
+          "rootArabic": "ثعب",
+          "count": 2,
+          "meaning": "Schlange, grosse Schlange",
+          "laneReference": "https://ejtaal.net/aa/#ll=vEb"
+        },
+        {
+          "rank": 1109,
+          "root": "ج ر د",
+          "rootArabic": "جرد",
+          "count": 2,
+          "meaning": "Heuschrecke, Heuschreckenschwarm",
+          "laneReference": "https://ejtaal.net/aa/#ll=jrd"
+        },
+        {
+          "rank": 1110,
+          "root": "خ و ر",
+          "rootArabic": "خور",
+          "count": 2,
+          "meaning": "Bruellen (Rind), Muhgerausch",
+          "laneReference": "https://ejtaal.net/aa/#ll=xwr"
+        },
+        {
+          "rank": 1111,
+          "root": "ل ه ث",
+          "rootArabic": "لهث",
+          "count": 2,
+          "meaning": "hecheln, keuchen, schwer atmen",
+          "laneReference": "https://ejtaal.net/aa/#ll=lhv"
+        },
+        {
+          "rank": 1112,
+          "root": "ن ص ت",
+          "rootArabic": "نصت",
+          "count": 2,
+          "meaning": "zuhoeren, schweigen und hoeren, aufmerken",
+          "laneReference": "https://ejtaal.net/aa/#ll=nSt"
+        },
+        {
+          "rank": 1113,
+          "root": "ب ن ن",
+          "rootArabic": "بنن",
+          "count": 2,
+          "meaning": "Fingerspitze, Fingerglied",
+          "laneReference": "https://ejtaal.net/aa/#ll=bnn"
+        },
+        {
+          "rank": 1114,
+          "root": "ص د ي",
+          "rootArabic": "صدي",
+          "count": 2,
+          "meaning": "klatschen, Echo, sich abwenden",
+          "laneReference": "https://ejtaal.net/aa/#ll=Sdy"
+        },
+        {
+          "rank": 1115,
+          "root": "ب ط ر",
+          "rootArabic": "بطر",
+          "count": 2,
+          "meaning": "uebermuetig werden, Ueberdruss, Hochmut",
+          "laneReference": "https://ejtaal.net/aa/#ll=bTr"
+        },
+        {
+          "rank": 1116,
+          "root": "ن ك ص",
+          "rootArabic": "نكص",
+          "count": 2,
+          "meaning": "auf den Fersen zurueckweichen",
+          "laneReference": "https://ejtaal.net/aa/#ll=nkS"
+        },
+        {
+          "rank": 1117,
+          "root": "ث خ ن",
+          "rootArabic": "ثخن",
+          "count": 2,
+          "meaning": "ueberwinden, niederstrecken, bezwingen",
+          "laneReference": "https://ejtaal.net/aa/#ll=vxn"
+        },
+        {
+          "rank": 1118,
+          "root": "ا ل ل",
+          "rootArabic": "الل",
+          "count": 2,
+          "meaning": "Schutzbuendnis, Verwandtschaftsband",
+          "laneReference": "https://ejtaal.net/aa/#ll=All"
+        },
+        {
+          "rank": 1119,
+          "root": "ع ي ل",
+          "rootArabic": "عيل",
+          "count": 2,
+          "meaning": "arm sein, Armut, beduerftig",
+          "laneReference": "https://ejtaal.net/aa/#ll=Eyl"
+        },
+        {
+          "rank": 1120,
+          "root": "ن س ا",
+          "rootArabic": "نسا",
+          "count": 2,
+          "meaning": "Frau, Frauen, weibliche Person",
+          "laneReference": "https://ejtaal.net/aa/#ll=nsA"
+        },
+        {
+          "rank": 1121,
+          "root": "ه و ر",
+          "rootArabic": "هور",
+          "count": 2,
+          "meaning": "einstuerzen, zusammenbrechen, zusammenfallen",
+          "laneReference": "https://ejtaal.net/aa/#ll=hwr"
+        },
+        {
+          "rank": 1122,
+          "root": "ا و ه",
+          "rootArabic": "اوه",
+          "count": 2,
+          "meaning": "seufzen, klagen, tief aufseufzen",
+          "laneReference": "https://ejtaal.net/aa/#ll=Awh"
+        },
+        {
+          "rank": 1123,
+          "root": "ع ز ب",
+          "rootArabic": "عزب",
+          "count": 2,
+          "meaning": "entgehen, verborgen sein, abwesend sein",
+          "laneReference": "https://ejtaal.net/aa/#ll=Ezb"
+        },
+        {
+          "rank": 1124,
+          "root": "ب د ن",
+          "rootArabic": "بدن",
+          "count": 2,
+          "meaning": "Leib, Koerper, grosses Opfertier",
+          "laneReference": "https://ejtaal.net/aa/#ll=bdn"
+        },
+        {
+          "rank": 1125,
+          "root": "غ ي ض",
+          "rootArabic": "غيض",
+          "count": 2,
+          "meaning": "abnehmen (Wasser), sinken, schwinden",
+          "laneReference": "https://ejtaal.net/aa/#ll=gyD"
+        },
+        {
+          "rank": 1126,
+          "root": "ه ر ع",
+          "rootArabic": "هرع",
+          "count": 2,
+          "meaning": "eilen, rennen, hastig laufen",
+          "laneReference": "https://ejtaal.net/aa/#ll=hrE"
+        },
+        {
+          "rank": 1127,
+          "root": "ر ف د",
+          "rootArabic": "رفد",
+          "count": 2,
+          "meaning": "stuetzen, helfen, unterstuetzen",
+          "laneReference": "https://ejtaal.net/aa/#ll=rfd"
+        },
+        {
+          "rank": 1128,
+          "root": "س ع د",
+          "rootArabic": "سعد",
+          "count": 2,
+          "meaning": "gluecklich sein, gedeihen, Wohlergehen",
+          "laneReference": "https://ejtaal.net/aa/#ll=sEd"
+        },
+        {
+          "rank": 1129,
+          "root": "ش ه ق",
+          "rootArabic": "شهق",
+          "count": 2,
+          "meaning": "einatmen, schreien, Eselruf (Einatmung)",
+          "laneReference": "https://ejtaal.net/aa/#ll=$hq"
+        },
+        {
+          "rank": 1130,
+          "root": "ج ذ ذ",
+          "rootArabic": "جذذ",
+          "count": 2,
+          "meaning": "in Stuecke schneiden, zerkleinern",
+          "laneReference": "https://ejtaal.net/aa/#ll=j**"
+        },
+        {
+          "rank": 1131,
+          "root": "ج ب ب",
+          "rootArabic": "جبب",
+          "count": 2,
+          "meaning": "Brunnen, Zisterne, tiefe Grube",
+          "laneReference": "https://ejtaal.net/aa/#ll=jbb"
+        },
+        {
+          "rank": 1132,
+          "root": "ل ق ط",
+          "rootArabic": "لقط",
+          "count": 2,
+          "meaning": "aufheben, aufsammeln, finden (Findling)",
+          "laneReference": "https://ejtaal.net/aa/#ll=lqT"
+        },
+        {
+          "rank": 1133,
+          "root": "ح و ش",
+          "rootArabic": "حوش",
+          "count": 2,
+          "meaning": "fernhalten, sich distanzieren, bewahren",
+          "laneReference": "https://ejtaal.net/aa/#ll=Hw$"
+        },
+        {
+          "rank": 1134,
+          "root": "ع ج ف",
+          "rootArabic": "عجف",
+          "count": 2,
+          "meaning": "mager, duenn, abgemagert, hager",
+          "laneReference": "https://ejtaal.net/aa/#ll=Ejf"
+        },
+        {
+          "rank": 1135,
+          "root": "ب ع ر",
+          "rootArabic": "بعر",
+          "count": 2,
+          "meaning": "Kamel, junges Lasttier",
+          "laneReference": "https://ejtaal.net/aa/#ll=bEr"
+        },
+        {
+          "rank": 1136,
+          "root": "ص ن و",
+          "rootArabic": "صنو",
+          "count": 2,
+          "meaning": "Zwilling (Baum), paarweise Staemme",
+          "laneReference": "https://ejtaal.net/aa/#ll=Snw"
+        },
+        {
+          "rank": 1137,
+          "root": "ج ز ع",
+          "rootArabic": "جزع",
+          "count": 2,
+          "meaning": "ungeduldig sein, jammern, klagen",
+          "laneReference": "https://ejtaal.net/aa/#ll=jzE"
+        },
+        {
+          "rank": 1138,
+          "root": "ش خ ص",
+          "rootArabic": "شخص",
+          "count": 2,
+          "meaning": "starr blicken, hervorragen, Gestalt",
+          "laneReference": "https://ejtaal.net/aa/#ll=$xS"
+        },
+        {
+          "rank": 1139,
+          "root": "ق ن ع",
+          "rootArabic": "قنع",
+          "count": 2,
+          "meaning": "zufrieden sein, sich bescheiden, genugsam",
+          "laneReference": "https://ejtaal.net/aa/#ll=qnE"
+        },
+        {
+          "rank": 1140,
+          "root": "ص ف د",
+          "rootArabic": "صفد",
+          "count": 2,
+          "meaning": "fesseln, Ketten, in Ketten gelegt",
+          "laneReference": "https://ejtaal.net/aa/#ll=Sfd"
+        },
+        {
+          "rank": 1141,
+          "root": "ا م ل",
+          "rootArabic": "امل",
+          "count": 2,
+          "meaning": "hoffen, erwarten, Hoffnung hegen",
+          "laneReference": "https://ejtaal.net/aa/#ll=Aml"
+        },
+        {
+          "rank": 1142,
+          "root": "و س م",
+          "rootArabic": "وسم",
+          "count": 2,
+          "meaning": "Zeichen, Merkmal, kennzeichnen",
+          "laneReference": "https://ejtaal.net/aa/#ll=wsm"
+        },
+        {
+          "rank": 1143,
+          "root": "ط ر و",
+          "rootArabic": "طرو",
+          "count": 2,
+          "meaning": "frisch, saftig, zart (Nahrung)",
+          "laneReference": "https://ejtaal.net/aa/#ll=Trw"
+        },
+        {
+          "rank": 1144,
+          "root": "م خ ر",
+          "rootArabic": "مخر",
+          "count": 2,
+          "meaning": "durchpfluegen (Meer), Schiff bahnt den Weg",
+          "laneReference": "https://ejtaal.net/aa/#ll=mxr"
+        },
+        {
+          "rank": 1145,
+          "root": "و ص ب",
+          "rootArabic": "وصب",
+          "count": 2,
+          "meaning": "dauernd, anhaltend, unaufhoerlich",
+          "laneReference": "https://ejtaal.net/aa/#ll=wSb"
+        },
+        {
+          "rank": 1146,
+          "root": "ل ب ن",
+          "rootArabic": "لبن",
+          "count": 2,
+          "meaning": "Milch, frische Milch, Lehmziegel",
+          "laneReference": "https://ejtaal.net/aa/#ll=lbn"
+        },
+        {
+          "rank": 1147,
+          "root": "ل م ح",
+          "rootArabic": "لمح",
+          "count": 2,
+          "meaning": "Augenblick, Blick, fluechtig sehen",
+          "laneReference": "https://ejtaal.net/aa/#ll=lmH"
+        },
+        {
+          "rank": 1148,
+          "root": "ا ث ث",
+          "rootArabic": "اثث",
+          "count": 2,
+          "meaning": "Hausrat, Moebel, Einrichtung",
+          "laneReference": "https://ejtaal.net/aa/#ll=Avv"
+        },
+        {
+          "rank": 1149,
+          "root": "ح ظ ر",
+          "rootArabic": "حظر",
+          "count": 2,
+          "meaning": "verbieten, einzaeunen, eingehegt",
+          "laneReference": "https://ejtaal.net/aa/#ll=HZr"
+        },
+        {
+          "rank": 1150,
+          "root": "ك ل و",
+          "rootArabic": "كلو",
+          "count": 2,
+          "meaning": "beide (Dual), zwei zusammen",
+          "laneReference": "https://ejtaal.net/aa/#ll=klw"
+        },
+        {
+          "rank": 1151,
+          "root": "ق س ط س",
+          "rootArabic": "قسطس",
+          "count": 2,
+          "meaning": "Waage, gerechte Waage, Messgeraet",
+          "laneReference": "https://ejtaal.net/aa/#ll=qsTs"
+        },
+        {
+          "rank": 1152,
+          "root": "ر ف ت",
+          "rootArabic": "رفت",
+          "count": 2,
+          "meaning": "zerbroseln, zu Staub zerfallen",
+          "laneReference": "https://ejtaal.net/aa/#ll=rft"
+        },
+        {
+          "rank": 1153,
+          "root": "ج ل ب",
+          "rootArabic": "جلب",
+          "count": 2,
+          "meaning": "herantreiben, herbeirufen, Umhang",
+          "laneReference": "https://ejtaal.net/aa/#ll=jlb"
+        },
+        {
+          "rank": 1154,
+          "root": "ت و ر",
+          "rootArabic": "تور",
+          "count": 2,
+          "meaning": "Mal, einmal, Wiederholung",
+          "laneReference": "https://ejtaal.net/aa/#ll=twr"
+        },
+        {
+          "rank": 1155,
+          "root": "ش ك ل",
+          "rootArabic": "شكل",
+          "count": 2,
+          "meaning": "Form, Gestalt, Art und Weise",
+          "laneReference": "https://ejtaal.net/aa/#ll=$kl"
+        },
+        {
+          "rank": 1156,
+          "root": "ن ب ع",
+          "rootArabic": "نبع",
+          "count": 2,
+          "meaning": "hervorquellen, heraussprudeln (Wasser)",
+          "laneReference": "https://ejtaal.net/aa/#ll=nbE"
+        },
+        {
+          "rank": 1157,
+          "root": "ب خ ع",
+          "rootArabic": "بخع",
+          "count": 2,
+          "meaning": "sich fast umbringen (vor Kummer), verzehren",
+          "laneReference": "https://ejtaal.net/aa/#ll=bxE"
+        },
+        {
+          "rank": 1158,
+          "root": "ج ر ز",
+          "rootArabic": "جرز",
+          "count": 2,
+          "meaning": "trockenes unfruchtbares Land, duerr",
+          "laneReference": "https://ejtaal.net/aa/#ll=jrz"
+        },
+        {
+          "rank": 1159,
+          "root": "ر ق د",
+          "rootArabic": "رقد",
+          "count": 2,
+          "meaning": "schlafen, ruhen, Schlafstaette",
+          "laneReference": "https://ejtaal.net/aa/#ll=rqd"
+        },
+        {
+          "rank": 1160,
+          "root": "ش و ي",
+          "rootArabic": "شوي",
+          "count": 2,
+          "meaning": "braten, roesten, sengen",
+          "laneReference": "https://ejtaal.net/aa/#ll=$wy"
+        },
+        {
+          "rank": 1161,
+          "root": "ح ف ف",
+          "rootArabic": "حفف",
+          "count": 2,
+          "meaning": "umgeben, umringen, einkreisen",
+          "laneReference": "https://ejtaal.net/aa/#ll=Hff"
+        },
+        {
+          "rank": 1162,
+          "root": "ز ل ق",
+          "rootArabic": "زلق",
+          "count": 2,
+          "meaning": "ausgleiten, glatt, glattes Stueck Land",
+          "laneReference": "https://ejtaal.net/aa/#ll=zlq"
+        },
+        {
+          "rank": 1163,
+          "root": "ه ش م",
+          "rootArabic": "هشم",
+          "count": 2,
+          "meaning": "zermalmen, zerbrechen, zertruemmern",
+          "laneReference": "https://ejtaal.net/aa/#ll=h$m"
+        },
+        {
+          "rank": 1164,
+          "root": "غ د ر",
+          "rootArabic": "غدر",
+          "count": 2,
+          "meaning": "zuruecklassen, verlassen, aufgeben",
+          "laneReference": "https://ejtaal.net/aa/#ll=gdr"
+        },
+        {
+          "rank": 1165,
+          "root": "ع ض د",
+          "rootArabic": "عضد",
+          "count": 2,
+          "meaning": "Oberarm, stuetzen, bestaerken",
+          "laneReference": "https://ejtaal.net/aa/#ll=EDd"
+        },
+        {
+          "rank": 1166,
+          "root": "و ب ق",
+          "rootArabic": "وبق",
+          "count": 2,
+          "meaning": "ins Verderben stuerzen",
+          "laneReference": "https://ejtaal.net/aa/#ll=wbq"
+        },
+        {
+          "rank": 1167,
+          "root": "ح ق ب",
+          "rootArabic": "حقب",
+          "count": 2,
+          "meaning": "langer Zeitraum, Zeitalter, Epoche",
+          "laneReference": "https://ejtaal.net/aa/#ll=Hqb"
+        },
+        {
+          "rank": 1168,
+          "root": "غ ط و",
+          "rootArabic": "غطو",
+          "count": 2,
+          "meaning": "bedecken, verhuellen, Bedeckung",
+          "laneReference": "https://ejtaal.net/aa/#ll=gTw"
+        },
+        {
+          "rank": 1169,
+          "root": "ج ن ي",
+          "rootArabic": "جني",
+          "count": 2,
+          "meaning": "ernten, Fruechte pfluecken, Gartenertrag",
+          "laneReference": "https://ejtaal.net/aa/#ll=jny"
+        },
+        {
+          "rank": 1170,
+          "root": "ا ز ز",
+          "rootArabic": "ازز",
+          "count": 2,
+          "meaning": "antreiben, aufstacheln, anstiften",
+          "laneReference": "https://ejtaal.net/aa/#ll=Azz"
+        },
+        {
+          "rank": 1171,
+          "root": "ا ر ب",
+          "rootArabic": "ارب",
+          "count": 2,
+          "meaning": "Beduerfnis, Zweck, Anliegen",
+          "laneReference": "https://ejtaal.net/aa/#ll=Arb"
+        },
+        {
+          "rank": 1172,
+          "root": "ض م م",
+          "rootArabic": "ضمم",
+          "count": 2,
+          "meaning": "zusammenfuegen, an sich druecken, vereinen",
+          "laneReference": "https://ejtaal.net/aa/#ll=Dmm"
+        },
+        {
+          "rank": 1173,
+          "root": "ا ز ر",
+          "rootArabic": "ازر",
+          "count": 2,
+          "meaning": "stuetzen, den Ruecken staerken, beistehen",
+          "laneReference": "https://ejtaal.net/aa/#ll=Azr"
+        },
+        {
+          "rank": 1174,
+          "root": "ق و ع",
+          "rootArabic": "قوع",
+          "count": 2,
+          "meaning": "flache Ebene, ebenes offenes Land",
+          "laneReference": "https://ejtaal.net/aa/#ll=qwE"
+        },
+        {
+          "rank": 1175,
+          "root": "ه ض م",
+          "rootArabic": "هضم",
+          "count": 2,
+          "meaning": "unrecht tun, schmaelern, reife Dattelfrucht",
+          "laneReference": "https://ejtaal.net/aa/#ll=hDm"
+        },
+        {
+          "rank": 1176,
+          "root": "خ م د",
+          "rootArabic": "خمد",
+          "count": 2,
+          "meaning": "erloeschen, ausgehen (Feuer), verstummen",
+          "laneReference": "https://ejtaal.net/aa/#ll=xmd"
+        },
+        {
+          "rank": 1177,
+          "root": "خ ر د ل",
+          "rootArabic": "خردل",
+          "count": 2,
+          "meaning": "Senfkorn, kleinstes Gewichtsmass",
+          "laneReference": "https://ejtaal.net/aa/#ll=xrdl"
+        },
+        {
+          "rank": 1178,
+          "root": "ن ف ش",
+          "rootArabic": "نفش",
+          "count": 2,
+          "meaning": "zerzupfen, aufpluecken, zerfasern",
+          "laneReference": "https://ejtaal.net/aa/#ll=nf$"
+        },
+        {
+          "rank": 1179,
+          "root": "غ و ص",
+          "rootArabic": "غوص",
+          "count": 2,
+          "meaning": "tauchen, untertauchen, Taucher",
+          "laneReference": "https://ejtaal.net/aa/#ll=gwS"
+        },
+        {
+          "rank": 1180,
+          "root": "ص ه ر",
+          "rootArabic": "صهر",
+          "count": 2,
+          "meaning": "schmelzen, Verschwaegenrung",
+          "laneReference": "https://ejtaal.net/aa/#ll=Shr"
+        },
+        {
+          "rank": 1181,
+          "root": "ع ت ق",
+          "rootArabic": "عتق",
+          "count": 2,
+          "meaning": "alt werden, befreien",
+          "laneReference": "https://ejtaal.net/aa/#ll=Etq"
+        },
+        {
+          "rank": 1182,
+          "root": "س ح ق",
+          "rootArabic": "سحق",
+          "count": 2,
+          "meaning": "weit entfernt, sehr fern, tiefer Abgrund",
+          "laneReference": "https://ejtaal.net/aa/#ll=sHq"
+        },
+        {
+          "rank": 1183,
+          "root": "ع ر ر",
+          "rootArabic": "عرر",
+          "count": 2,
+          "meaning": "bedraengt, in Not, mittellos/beduerftig",
+          "laneReference": "https://ejtaal.net/aa/#ll=Err"
+        },
+        {
+          "rank": 1184,
+          "root": "ع ط ل",
+          "rootArabic": "عطل",
+          "count": 2,
+          "meaning": "ungenutzt, vernachlaessigt, verlassen",
+          "laneReference": "https://ejtaal.net/aa/#ll=ETl"
+        },
+        {
+          "rank": 1185,
+          "root": "ذ ب ب",
+          "rootArabic": "ذبب",
+          "count": 2,
+          "meaning": "Fliege, kleines Insekt",
+          "laneReference": "https://ejtaal.net/aa/#ll=*bb"
+        },
+        {
+          "rank": 1186,
+          "root": "غ ث و",
+          "rootArabic": "غثو",
+          "count": 2,
+          "meaning": "Schaum, Gischt, aufgeschwemmter Abfall",
+          "laneReference": "https://ejtaal.net/aa/#ll=gvw"
+        },
+        {
+          "rank": 1187,
+          "root": "ن ك ب",
+          "rootArabic": "نكب",
+          "count": 2,
+          "meaning": "abweichen vom Weg, Seiten, Schulterflaeche",
+          "laneReference": "https://ejtaal.net/aa/#ll=nkb"
+        },
+        {
+          "rank": 1188,
+          "root": "ع ب ث",
+          "rootArabic": "عبث",
+          "count": 2,
+          "meaning": "zwecklos spielen, nutzlos handeln",
+          "laneReference": "https://ejtaal.net/aa/#ll=Ebv"
+        },
+        {
+          "rank": 1189,
+          "root": "ز ج ج",
+          "rootArabic": "زجج",
+          "count": 2,
+          "meaning": "Glas, Glasgefaess, stosssen, werfen",
+          "laneReference": "https://ejtaal.net/aa/#ll=zjj"
+        },
+        {
+          "rank": 1190,
+          "root": "و د ق",
+          "rootArabic": "ودق",
+          "count": 2,
+          "meaning": "Regen, Regenwasser, niedergehend",
+          "laneReference": "https://ejtaal.net/aa/#ll=wdq"
+        },
+        {
+          "rank": 1191,
+          "root": "ه ب و",
+          "rootArabic": "هبو",
+          "count": 2,
+          "meaning": "feiner Staub, Staubpartikel, aufgewirbelt",
+          "laneReference": "https://ejtaal.net/aa/#ll=hbw"
+        },
+        {
+          "rank": 1192,
+          "root": "ر س س",
+          "rootArabic": "رسس",
+          "count": 2,
+          "meaning": "Brunnen, Wasserstelle (Ortsname)",
+          "laneReference": "https://ejtaal.net/aa/#ll=rss"
+        },
+        {
+          "rank": 1193,
+          "root": "م ل ح",
+          "rootArabic": "ملح",
+          "count": 2,
+          "meaning": "Salz, salzig, schoen und anmutig",
+          "laneReference": "https://ejtaal.net/aa/#ll=mlH"
+        },
+        {
+          "rank": 1194,
+          "root": "خ ض ع",
+          "rootArabic": "خضع",
+          "count": 2,
+          "meaning": "sich unterwerfen, demuetig den Nacken beugen",
+          "laneReference": "https://ejtaal.net/aa/#ll=xDE"
+        },
+        {
+          "rank": 1195,
+          "root": "ق ل ي",
+          "rootArabic": "قلي",
+          "count": 2,
+          "meaning": "hassen, verabscheuen, ablehnen",
+          "laneReference": "https://ejtaal.net/aa/#ll=qly"
+        },
+        {
+          "rank": 1196,
+          "root": "ه ي م",
+          "rootArabic": "هيم",
+          "count": 2,
+          "meaning": "umherirren, verliebt",
+          "laneReference": "https://ejtaal.net/aa/#ll=hym"
+        },
+        {
+          "rank": 1197,
+          "root": "ح ج ز",
+          "rootArabic": "حجز",
+          "count": 2,
+          "meaning": "zurückhalten, Schranke",
+          "laneReference": "https://ejtaal.net/aa/#ll=Hjz"
+        },
+        {
+          "rank": 1198,
+          "root": "ك ب ب",
+          "rootArabic": "كبب",
+          "count": 2,
+          "meaning": "kopfueber stuerzen, auf das Gesicht werfen",
+          "laneReference": "https://ejtaal.net/aa/#ll=kbb"
+        },
+        {
+          "rank": 1199,
+          "root": "ش ط ا",
+          "rootArabic": "شطا",
+          "count": 2,
+          "meaning": "Ufer, Flussufer, Rand eines Gewaessers",
+          "laneReference": "https://ejtaal.net/aa/#ll=$TA"
+        },
+        {
+          "rank": 1200,
+          "root": "س ر م د",
+          "rootArabic": "سرمد",
+          "count": 2,
+          "meaning": "endlos, ununterbrochen, fortwaehrend",
+          "laneReference": "https://ejtaal.net/aa/#ll=srmd"
+        },
+        {
+          "rank": 1201,
+          "root": "ع ن ك ب",
+          "rootArabic": "عنكب",
+          "count": 2,
+          "meaning": "Spinne",
+          "laneReference": "https://ejtaal.net/aa/#ll=Enkb"
+        },
+        {
+          "rank": 1202,
+          "root": "ر و ض",
+          "rootArabic": "روض",
+          "count": 2,
+          "meaning": "Garten, Aue",
+          "laneReference": "https://ejtaal.net/aa/#ll=rwD"
+        },
+        {
+          "rank": 1203,
+          "root": "خ د د",
+          "rootArabic": "خدد",
+          "count": 2,
+          "meaning": "Wange, Graben",
+          "laneReference": "https://ejtaal.net/aa/#ll=xdd"
+        },
+        {
+          "rank": 1204,
+          "root": "س ب غ",
+          "rootArabic": "سبغ",
+          "count": 2,
+          "meaning": "reichlich machen, vollständig",
+          "laneReference": "https://ejtaal.net/aa/#ll=sbg"
+        },
+        {
+          "rank": 1205,
+          "root": "ح ن ج ر",
+          "rootArabic": "حنجر",
+          "count": 2,
+          "meaning": "Kehle, Schlund",
+          "laneReference": "https://ejtaal.net/aa/#ll=Hnjr"
+        },
+        {
+          "rank": 1206,
+          "root": "و ط ر",
+          "rootArabic": "وطر",
+          "count": 2,
+          "meaning": "Beduerfnis, Verlangen",
+          "laneReference": "https://ejtaal.net/aa/#ll=wTr"
+        },
+        {
+          "rank": 1207,
+          "root": "ل غ ب",
+          "rootArabic": "لغب",
+          "count": 2,
+          "meaning": "Muedigkeit, Erschoepfung",
+          "laneReference": "https://ejtaal.net/aa/#ll=lgb"
+        },
+        {
+          "rank": 1208,
+          "root": "ش غ ل",
+          "rootArabic": "شغل",
+          "count": 2,
+          "meaning": "beschaeftigen, ablenken",
+          "laneReference": "https://ejtaal.net/aa/#ll=$gl"
+        },
+        {
+          "rank": 1209,
+          "root": "ر م م",
+          "rootArabic": "رمم",
+          "count": 2,
+          "meaning": "morsch, verwest",
+          "laneReference": "https://ejtaal.net/aa/#ll=rmm"
+        },
+        {
+          "rank": 1210,
+          "root": "ث ق ب",
+          "rootArabic": "ثقب",
+          "count": 2,
+          "meaning": "durchdringend, leuchtend",
+          "laneReference": "https://ejtaal.net/aa/#ll=vqb"
+        },
+        {
+          "rank": 1211,
+          "root": "ن ز ف",
+          "rootArabic": "نزف",
+          "count": 2,
+          "meaning": "berauscht werden, erschöpft",
+          "laneReference": "https://ejtaal.net/aa/#ll=nzf"
+        },
+        {
+          "rank": 1212,
+          "root": "س ق م",
+          "rootArabic": "سقم",
+          "count": 2,
+          "meaning": "krank sein",
+          "laneReference": "https://ejtaal.net/aa/#ll=sqm"
+        },
+        {
+          "rank": 1213,
+          "root": "ح ن ث",
+          "rootArabic": "حنث",
+          "count": 2,
+          "meaning": "Eidbruch, Verfehlung",
+          "laneReference": "https://ejtaal.net/aa/#ll=Hnv"
+        },
+        {
+          "rank": 1214,
+          "root": "ق ح م",
+          "rootArabic": "قحم",
+          "count": 2,
+          "meaning": "hineinstuerzen, sich stuerzen",
+          "laneReference": "https://ejtaal.net/aa/#ll=qHm"
+        },
+        {
+          "rank": 1215,
+          "root": "ه ي ج",
+          "rootArabic": "هيج",
+          "count": 2,
+          "meaning": "verdorren, aufwuehlen",
+          "laneReference": "https://ejtaal.net/aa/#ll=hyj"
+        },
+        {
+          "rank": 1216,
+          "root": "ز م ر",
+          "rootArabic": "زمر",
+          "count": 2,
+          "meaning": "Schar, Gruppe",
+          "laneReference": "https://ejtaal.net/aa/#ll=zmr"
+        },
+        {
+          "rank": 1217,
+          "root": "د خ ن",
+          "rootArabic": "دخن",
+          "count": 2,
+          "meaning": "Rauch",
+          "laneReference": "https://ejtaal.net/aa/#ll=dxn"
+        },
+        {
+          "rank": 1218,
+          "root": "ق ي ض",
+          "rootArabic": "قيض",
+          "count": 2,
+          "meaning": "zuweisen, bestimmen",
+          "laneReference": "https://ejtaal.net/aa/#ll=qyD"
+        },
+        {
+          "rank": 1219,
+          "root": "ك م م",
+          "rootArabic": "كمم",
+          "count": 2,
+          "meaning": "Huellblatt, Kelch",
+          "laneReference": "https://ejtaal.net/aa/#ll=kmm"
+        },
+        {
+          "rank": 1220,
+          "root": "ب ر م",
+          "rootArabic": "برم",
+          "count": 2,
+          "meaning": "fest beschliessen",
+          "laneReference": "https://ejtaal.net/aa/#ll=brm"
+        },
+        {
+          "rank": 1221,
+          "root": "غ ل ي",
+          "rootArabic": "غلي",
+          "count": 2,
+          "meaning": "sieden, kochen",
+          "laneReference": "https://ejtaal.net/aa/#ll=gly"
+        },
+        {
+          "rank": 1222,
+          "root": "ع ت ل",
+          "rootArabic": "عتل",
+          "count": 2,
+          "meaning": "gewaltsam zerren, grob",
+          "laneReference": "https://ejtaal.net/aa/#ll=Etl"
+        },
+        {
+          "rank": 1223,
+          "root": "د ه ر",
+          "rootArabic": "دهر",
+          "count": 2,
+          "meaning": "Zeitlauf, Schicksal",
+          "laneReference": "https://ejtaal.net/aa/#ll=dhr"
+        },
+        {
+          "rank": 1224,
+          "root": "ع ي ي",
+          "rootArabic": "عيي",
+          "count": 2,
+          "meaning": "ermueden, unfähig sein",
+          "laneReference": "https://ejtaal.net/aa/#ll=Eyy"
+        },
+        {
+          "rank": 1225,
+          "root": "ض غ ن",
+          "rootArabic": "ضغن",
+          "count": 2,
+          "meaning": "Groll, Hass",
+          "laneReference": "https://ejtaal.net/aa/#ll=Dgn"
+        },
+        {
+          "rank": 1226,
+          "root": "م ح ن",
+          "rootArabic": "محن",
+          "count": 2,
+          "meaning": "pruefen, erproben",
+          "laneReference": "https://ejtaal.net/aa/#ll=mHn"
+        },
+        {
+          "rank": 1227,
+          "root": "ش ع ب",
+          "rootArabic": "شعب",
+          "count": 2,
+          "meaning": "Voelker, Staemme",
+          "laneReference": "https://ejtaal.net/aa/#ll=$Eb"
+        },
+        {
+          "rank": 1228,
+          "root": "س ه و",
+          "rootArabic": "سهو",
+          "count": 2,
+          "meaning": "unachtsam sein, vergessen",
+          "laneReference": "https://ejtaal.net/aa/#ll=shw"
+        },
+        {
+          "rank": 1229,
+          "root": "ك ه ن",
+          "rootArabic": "كهن",
+          "count": 2,
+          "meaning": "Wahrsager, Seher",
+          "laneReference": "https://ejtaal.net/aa/#ll=khn"
+        },
+        {
+          "rank": 1230,
+          "root": "ا ش ر",
+          "rootArabic": "اشر",
+          "count": 2,
+          "meaning": "uebermuetig, prahlerisch",
+          "laneReference": "https://ejtaal.net/aa/#ll=A$r"
+        },
+        {
+          "rank": 1231,
+          "root": "ج ل ل",
+          "rootArabic": "جلل",
+          "count": 2,
+          "meaning": "Erhabenheit, Majestaet",
+          "laneReference": "https://ejtaal.net/aa/#ll=jll"
+        },
+        {
+          "rank": 1232,
+          "root": "ط م ث",
+          "rootArabic": "طمث",
+          "count": 2,
+          "meaning": "beruehren (geschlechtlich)",
+          "laneReference": "https://ejtaal.net/aa/#ll=Tmv"
+        },
+        {
+          "rank": 1233,
+          "root": "ر ج ج",
+          "rootArabic": "رجج",
+          "count": 2,
+          "meaning": "erschuettern, beben",
+          "laneReference": "https://ejtaal.net/aa/#ll=rjj"
+        },
+        {
+          "rank": 1234,
+          "root": "ب س س",
+          "rootArabic": "بسس",
+          "count": 2,
+          "meaning": "zerkruemeln, zermalmen",
+          "laneReference": "https://ejtaal.net/aa/#ll=bss"
+        },
+        {
+          "rank": 1235,
+          "root": "و ج ف",
+          "rootArabic": "وجف",
+          "count": 2,
+          "meaning": "antreiben, zittern",
+          "laneReference": "https://ejtaal.net/aa/#ll=wjf"
+        },
+        {
+          "rank": 1236,
+          "root": "ق ط ف",
+          "rootArabic": "قطف",
+          "count": 2,
+          "meaning": "pfluecken, ernten",
+          "laneReference": "https://ejtaal.net/aa/#ll=qTf"
+        },
+        {
+          "rank": 1237,
+          "root": "ع ه ن",
+          "rootArabic": "عهن",
+          "count": 2,
+          "meaning": "gefaerbte Wolle",
+          "laneReference": "https://ejtaal.net/aa/#ll=Ehn"
+        },
+        {
+          "rank": 1238,
+          "root": "ح ط ب",
+          "rootArabic": "حطب",
+          "count": 2,
+          "meaning": "Brennholz",
+          "laneReference": "https://ejtaal.net/aa/#ll=HTb"
+        },
+        {
+          "rank": 1239,
+          "root": "ل ب د",
+          "rootArabic": "لبد",
+          "count": 2,
+          "meaning": "dicht gedraengt, dicht",
+          "laneReference": "https://ejtaal.net/aa/#ll=lbd"
+        },
+        {
+          "rank": 1240,
+          "root": "ب ت ل",
+          "rootArabic": "بتل",
+          "count": 2,
+          "meaning": "sich ganz hingeben",
+          "laneReference": "https://ejtaal.net/aa/#ll=btl"
+        },
+        {
+          "rank": 1241,
+          "root": "ب س ر",
+          "rootArabic": "بسر",
+          "count": 2,
+          "meaning": "finster blicken",
+          "laneReference": "https://ejtaal.net/aa/#ll=bsr"
+        },
+        {
+          "rank": 1242,
+          "root": "ن ش ط",
+          "rootArabic": "نشط",
+          "count": 2,
+          "meaning": "herausziehen, regen",
+          "laneReference": "https://ejtaal.net/aa/#ll=n$T"
+        },
+        {
+          "rank": 1243,
+          "root": "خ ن س",
+          "rootArabic": "خنس",
+          "count": 2,
+          "meaning": "sich zurückziehen, verborgen",
+          "laneReference": "https://ejtaal.net/aa/#ll=xns"
+        },
+        {
+          "rank": 1244,
+          "root": "ب ع ث ر",
+          "rootArabic": "بعثر",
+          "count": 2,
+          "meaning": "aufwuehlen, umgraben",
+          "laneReference": "https://ejtaal.net/aa/#ll=bEvr"
+        },
+        {
+          "rank": 1245,
+          "root": "ك د ح",
+          "rootArabic": "كدح",
+          "count": 2,
+          "meaning": "sich abmuehen, streben",
+          "laneReference": "https://ejtaal.net/aa/#ll=kdH"
+        },
+        {
+          "rank": 1246,
+          "root": "و س ق",
+          "rootArabic": "وسق",
+          "count": 2,
+          "meaning": "zusammenfüegen, umfassen",
+          "laneReference": "https://ejtaal.net/aa/#ll=wsq"
+        },
+        {
+          "rank": 1247,
+          "root": "ف ك ك",
+          "rootArabic": "فكك",
+          "count": 2,
+          "meaning": "loesen, befreien",
+          "laneReference": "https://ejtaal.net/aa/#ll=fkk"
+        },
+        {
+          "rank": 1248,
+          "root": "ر ب ح",
+          "rootArabic": "ربح",
+          "count": 1,
+          "meaning": "Gewinn erzielen",
+          "laneReference": "https://ejtaal.net/aa/#ll=rbH"
+        },
+        {
+          "rank": 1249,
+          "root": "ب ق ل",
+          "rootArabic": "بقل",
+          "count": 1,
+          "meaning": "Kraut, Gemuese",
+          "laneReference": "https://ejtaal.net/aa/#ll=bql"
+        },
+        {
+          "rank": 1250,
+          "root": "ق ث ا",
+          "rootArabic": "قثا",
+          "count": 1,
+          "meaning": "Gurke",
+          "laneReference": "https://ejtaal.net/aa/#ll=qvA"
+        }
+      ]
+    },
+    {
+      "name": "Tier 8",
+      "label": "Fortgeschritten IV",
+      "rankRange": "1251-1500",
+      "rootCount": 250,
+      "wordsCovered": 250,
+      "cumulativeCoverage": "64.35%",
+      "roots": [
+        {
+          "rank": 1251,
+          "root": "ف و م",
+          "rootArabic": "فوم",
+          "count": 1,
+          "meaning": "Knoblauch, Getreide",
+          "laneReference": "https://ejtaal.net/aa/#ll=fwm"
+        },
+        {
+          "rank": 1252,
+          "root": "ع د س",
+          "rootArabic": "عدس",
+          "count": 1,
+          "meaning": "Linsen",
+          "laneReference": "https://ejtaal.net/aa/#ll=Eds"
+        },
+        {
+          "rank": 1253,
+          "root": "ب ص ل",
+          "rootArabic": "بصل",
+          "count": 1,
+          "meaning": "Zwiebel",
+          "laneReference": "https://ejtaal.net/aa/#ll=bSl"
+        },
+        {
+          "rank": 1254,
+          "root": "ف ق ع",
+          "rootArabic": "فقع",
+          "count": 1,
+          "meaning": "kraeftig gelb",
+          "laneReference": "https://ejtaal.net/aa/#ll=fqE"
+        },
+        {
+          "rank": 1255,
+          "root": "و ش ي",
+          "rootArabic": "وشي",
+          "count": 1,
+          "meaning": "Farbe, Kennzeichen",
+          "laneReference": "https://ejtaal.net/aa/#ll=w$y"
+        },
+        {
+          "rank": 1256,
+          "root": "ن ع ق",
+          "rootArabic": "نعق",
+          "count": 1,
+          "meaning": "rufen, schreien (Hirt)",
+          "laneReference": "https://ejtaal.net/aa/#ll=nEq"
+        },
+        {
+          "rank": 1257,
+          "root": "و س ن",
+          "rootArabic": "وسن",
+          "count": 1,
+          "meaning": "Schlummer, Doesen",
+          "laneReference": "https://ejtaal.net/aa/#ll=wsn"
+        },
+        {
+          "rank": 1258,
+          "root": "ا و د",
+          "rootArabic": "اود",
+          "count": 1,
+          "meaning": "belasten, beschwerlich fallen",
+          "laneReference": "https://ejtaal.net/aa/#ll=Awd"
+        },
+        {
+          "rank": 1259,
+          "root": "ف ص م",
+          "rootArabic": "فصم",
+          "count": 1,
+          "meaning": "zerbrechen, abreissen",
+          "laneReference": "https://ejtaal.net/aa/#ll=fSm"
+        },
+        {
+          "rank": 1260,
+          "root": "س ن ه",
+          "rootArabic": "سنه",
+          "count": 1,
+          "meaning": "sich verändern (Wasser)",
+          "laneReference": "https://ejtaal.net/aa/#ll=snh"
+        },
+        {
+          "rank": 1261,
+          "root": "ص ل د",
+          "rootArabic": "صلد",
+          "count": 1,
+          "meaning": "hart, glatt, kahl",
+          "laneReference": "https://ejtaal.net/aa/#ll=Sld"
+        },
+        {
+          "rank": 1262,
+          "root": "ط ل ل",
+          "rootArabic": "طلل",
+          "count": 1,
+          "meaning": "feiner Regen, Nieselregen",
+          "laneReference": "https://ejtaal.net/aa/#ll=Tll"
+        },
+        {
+          "rank": 1263,
+          "root": "غ م ض",
+          "rootArabic": "غمض",
+          "count": 1,
+          "meaning": "Augen verschliessen, nachsehen",
+          "laneReference": "https://ejtaal.net/aa/#ll=gmD"
+        },
+        {
+          "rank": 1264,
+          "root": "ل ح ف",
+          "rootArabic": "لحف",
+          "count": 1,
+          "meaning": "aufdringlich betteln",
+          "laneReference": "https://ejtaal.net/aa/#ll=lHf"
+        },
+        {
+          "rank": 1265,
+          "root": "خ ب ط",
+          "rootArabic": "خبط",
+          "count": 1,
+          "meaning": "verwirrt schlagen",
+          "laneReference": "https://ejtaal.net/aa/#ll=xbT"
+        },
+        {
+          "rank": 1266,
+          "root": "ر م ز",
+          "rootArabic": "رمز",
+          "count": 1,
+          "meaning": "Zeichen, Wink",
+          "laneReference": "https://ejtaal.net/aa/#ll=rmz"
+        },
+        {
+          "rank": 1267,
+          "root": "ذ خ ر",
+          "rootArabic": "ذخر",
+          "count": 1,
+          "meaning": "aufbewahren, speichern",
+          "laneReference": "https://ejtaal.net/aa/#ll=*xr"
+        },
+        {
+          "rank": 1268,
+          "root": "ب ه ل",
+          "rootArabic": "بهل",
+          "count": 1,
+          "meaning": "einander verfluchen",
+          "laneReference": "https://ejtaal.net/aa/#ll=bhl"
+        },
+        {
+          "rank": 1269,
+          "root": "د ن ر",
+          "rootArabic": "دنر",
+          "count": 1,
+          "meaning": "Dinar, Goldmuenze",
+          "laneReference": "https://ejtaal.net/aa/#ll=dnr"
+        },
+        {
+          "rank": 1270,
+          "root": "غ ز و",
+          "rootArabic": "غزو",
+          "count": 1,
+          "meaning": "Kriegszug, Feldzug",
+          "laneReference": "https://ejtaal.net/aa/#ll=gzw"
+        },
+        {
+          "rank": 1271,
+          "root": "ف ظ ظ",
+          "rootArabic": "فظظ",
+          "count": 1,
+          "meaning": "grob, schroff",
+          "laneReference": "https://ejtaal.net/aa/#ll=fZZ"
+        },
+        {
+          "rank": 1272,
+          "root": "ح و ب",
+          "rootArabic": "حوب",
+          "count": 1,
+          "meaning": "Verfehlung, Vergehen",
+          "laneReference": "https://ejtaal.net/aa/#ll=Hwb"
+        },
+        {
+          "rank": 1273,
+          "root": "ع و ل",
+          "rootArabic": "عول",
+          "count": 1,
+          "meaning": "unbillig handeln, abweichen",
+          "laneReference": "https://ejtaal.net/aa/#ll=Ewl"
+        },
+        {
+          "rank": 1274,
+          "root": "ب د ر",
+          "rootArabic": "بدر",
+          "count": 1,
+          "meaning": "eilig zugreifen",
+          "laneReference": "https://ejtaal.net/aa/#ll=bdr"
+        },
+        {
+          "rank": 1275,
+          "root": "ف ض و",
+          "rootArabic": "فضو",
+          "count": 1,
+          "meaning": "gelangen zu, intim werden",
+          "laneReference": "https://ejtaal.net/aa/#ll=fDw"
+        },
+        {
+          "rank": 1276,
+          "root": "ج ب ت",
+          "rootArabic": "جبت",
+          "count": 1,
+          "meaning": "Götzenbild, falscher Kult",
+          "laneReference": "https://ejtaal.net/aa/#ll=jbt"
+        },
+        {
+          "rank": 1277,
+          "root": "ن ض ج",
+          "rootArabic": "نضج",
+          "count": 1,
+          "meaning": "gar werden, durchbraten",
+          "laneReference": "https://ejtaal.net/aa/#ll=nDj"
+        },
+        {
+          "rank": 1278,
+          "root": "ث ب ي",
+          "rootArabic": "ثبي",
+          "count": 1,
+          "meaning": "in Gruppen, Trupps",
+          "laneReference": "https://ejtaal.net/aa/#ll=vby"
+        },
+        {
+          "rank": 1279,
+          "root": "ب ط ا",
+          "rootArabic": "بطا",
+          "count": 1,
+          "meaning": "zoegern, langsam sein",
+          "laneReference": "https://ejtaal.net/aa/#ll=bTA"
+        },
+        {
+          "rank": 1280,
+          "root": "ذ ي ع",
+          "rootArabic": "ذيع",
+          "count": 1,
+          "meaning": "verbreiten, ausplaudern",
+          "laneReference": "https://ejtaal.net/aa/#ll=*yE"
+        },
+        {
+          "rank": 1281,
+          "root": "ن ب ط",
+          "rootArabic": "نبط",
+          "count": 1,
+          "meaning": "ergruenden, herausfinden",
+          "laneReference": "https://ejtaal.net/aa/#ll=nbT"
+        },
+        {
+          "rank": 1282,
+          "root": "ر غ م",
+          "rootArabic": "رغم",
+          "count": 1,
+          "meaning": "trotz, Demuetigungsort",
+          "laneReference": "https://ejtaal.net/aa/#ll=rgm"
+        },
+        {
+          "rank": 1283,
+          "root": "ب ت ك",
+          "rootArabic": "بتك",
+          "count": 1,
+          "meaning": "abschneiden, verstuemmeln",
+          "laneReference": "https://ejtaal.net/aa/#ll=btk"
+        },
+        {
+          "rank": 1284,
+          "root": "ذ ب ذ ب",
+          "rootArabic": "ذبذب",
+          "count": 1,
+          "meaning": "hin- und hergeschwankt",
+          "laneReference": "https://ejtaal.net/aa/#ll=*b*b"
+        },
+        {
+          "rank": 1285,
+          "root": "خ ن ق",
+          "rootArabic": "خنق",
+          "count": 1,
+          "meaning": "erwuergen, erdrosseln",
+          "laneReference": "https://ejtaal.net/aa/#ll=xnq"
+        },
+        {
+          "rank": 1286,
+          "root": "و ق ذ",
+          "rootArabic": "وقذ",
+          "count": 1,
+          "meaning": "totschlagen, erschlagen",
+          "laneReference": "https://ejtaal.net/aa/#ll=wq*"
+        },
+        {
+          "rank": 1287,
+          "root": "ن ط ح",
+          "rootArabic": "نطح",
+          "count": 1,
+          "meaning": "stossen (mit Hoernern)",
+          "laneReference": "https://ejtaal.net/aa/#ll=nTH"
+        },
+        {
+          "rank": 1288,
+          "root": "ذ ك و",
+          "rootArabic": "ذكو",
+          "count": 1,
+          "meaning": "schlachten (unter Namensnennung)",
+          "laneReference": "https://ejtaal.net/aa/#ll=*kw"
+        },
+        {
+          "rank": 1289,
+          "root": "ت ي ه",
+          "rootArabic": "تيه",
+          "count": 1,
+          "meaning": "umherirren, verirrt sein",
+          "laneReference": "https://ejtaal.net/aa/#ll=tyh"
+        },
+        {
+          "rank": 1290,
+          "root": "ب ح ث",
+          "rootArabic": "بحث",
+          "count": 1,
+          "meaning": "suchen, graben",
+          "laneReference": "https://ejtaal.net/aa/#ll=bHv"
+        },
+        {
+          "rank": 1291,
+          "root": "ن ف ي",
+          "rootArabic": "نفي",
+          "count": 1,
+          "meaning": "verbannen, vertreiben",
+          "laneReference": "https://ejtaal.net/aa/#ll=nfy"
+        },
+        {
+          "rank": 1292,
+          "root": "ن ه ج",
+          "rootArabic": "نهج",
+          "count": 1,
+          "meaning": "klarer Weg, Methode",
+          "laneReference": "https://ejtaal.net/aa/#ll=nhj"
+        },
+        {
+          "rank": 1293,
+          "root": "ق س س",
+          "rootArabic": "قسس",
+          "count": 1,
+          "meaning": "Priester, Geistliche",
+          "laneReference": "https://ejtaal.net/aa/#ll=qss"
+        },
+        {
+          "rank": 1294,
+          "root": "ر م ح",
+          "rootArabic": "رمح",
+          "count": 1,
+          "meaning": "Lanzen, Speere",
+          "laneReference": "https://ejtaal.net/aa/#ll=rmH"
+        },
+        {
+          "rank": 1295,
+          "root": "س ي ب",
+          "rootArabic": "سيب",
+          "count": 1,
+          "meaning": "freilaufendes Tier",
+          "laneReference": "https://ejtaal.net/aa/#ll=syb"
+        },
+        {
+          "rank": 1296,
+          "root": "ح ي ر",
+          "rootArabic": "حير",
+          "count": 1,
+          "meaning": "verwirrt, ratlos",
+          "laneReference": "https://ejtaal.net/aa/#ll=Hyr"
+        },
+        {
+          "rank": 1297,
+          "root": "ن و ي",
+          "rootArabic": "نوي",
+          "count": 1,
+          "meaning": "Dattelkern, Kern",
+          "laneReference": "https://ejtaal.net/aa/#ll=nwy"
+        },
+        {
+          "rank": 1298,
+          "root": "ق ن و",
+          "rootArabic": "قنو",
+          "count": 1,
+          "meaning": "Datteltraube, Rispe",
+          "laneReference": "https://ejtaal.net/aa/#ll=qnw"
+        },
+        {
+          "rank": 1299,
+          "root": "ي ن ع",
+          "rootArabic": "ينع",
+          "count": 1,
+          "meaning": "reifen (Frucht)",
+          "laneReference": "https://ejtaal.net/aa/#ll=ynE"
+        },
+        {
+          "rank": 1300,
+          "root": "ض ا ن",
+          "rootArabic": "ضان",
+          "count": 1,
+          "meaning": "Schaf, Schafvieh",
+          "laneReference": "https://ejtaal.net/aa/#ll=DAn"
+        },
+        {
+          "rank": 1301,
+          "root": "م ع ز",
+          "rootArabic": "معز",
+          "count": 1,
+          "meaning": "Ziege, Ziegenvieh",
+          "laneReference": "https://ejtaal.net/aa/#ll=mEz"
+        },
+        {
+          "rank": 1302,
+          "root": "ش ح م",
+          "rootArabic": "شحم",
+          "count": 1,
+          "meaning": "Fett, Tierfett",
+          "laneReference": "https://ejtaal.net/aa/#ll=$Hm"
+        },
+        {
+          "rank": 1303,
+          "root": "ذ ا م",
+          "rootArabic": "ذام",
+          "count": 1,
+          "meaning": "verachtet, geschmaecht",
+          "laneReference": "https://ejtaal.net/aa/#ll=*Am"
+        },
+        {
+          "rank": 1304,
+          "root": "ر ي ش",
+          "rootArabic": "ريش",
+          "count": 1,
+          "meaning": "Gefieder, Kleidung",
+          "laneReference": "https://ejtaal.net/aa/#ll=ry$"
+        },
+        {
+          "rank": 1305,
+          "root": "ح ث ث",
+          "rootArabic": "حثث",
+          "count": 1,
+          "meaning": "eilig, rasch",
+          "laneReference": "https://ejtaal.net/aa/#ll=Hvv"
+        },
+        {
+          "rank": 1306,
+          "root": "ن ك د",
+          "rootArabic": "نكد",
+          "count": 1,
+          "meaning": "muehsam, karg",
+          "laneReference": "https://ejtaal.net/aa/#ll=nkd"
+        },
+        {
+          "rank": 1307,
+          "root": "س ه ل",
+          "rootArabic": "سهل",
+          "count": 1,
+          "meaning": "Ebene, Flachland",
+          "laneReference": "https://ejtaal.net/aa/#ll=shl"
+        },
+        {
+          "rank": 1308,
+          "root": "ق م ل",
+          "rootArabic": "قمل",
+          "count": 1,
+          "meaning": "Laeuse, Ungeziefer",
+          "laneReference": "https://ejtaal.net/aa/#ll=qml"
+        },
+        {
+          "rank": 1309,
+          "root": "ض ف د ع",
+          "rootArabic": "ضفدع",
+          "count": 1,
+          "meaning": "Froesche",
+          "laneReference": "https://ejtaal.net/aa/#ll=DfdE"
+        },
+        {
+          "rank": 1310,
+          "root": "ج ر ر",
+          "rootArabic": "جرر",
+          "count": 1,
+          "meaning": "ziehen, schleppen",
+          "laneReference": "https://ejtaal.net/aa/#ll=jrr"
+        },
+        {
+          "rank": 1311,
+          "root": "ش م ت",
+          "rootArabic": "شمت",
+          "count": 1,
+          "meaning": "Schadenfreude zeigen",
+          "laneReference": "https://ejtaal.net/aa/#ll=$mt"
+        },
+        {
+          "rank": 1312,
+          "root": "س ك ت",
+          "rootArabic": "سكت",
+          "count": 1,
+          "meaning": "schweigen, verstummen",
+          "laneReference": "https://ejtaal.net/aa/#ll=skt"
+        },
+        {
+          "rank": 1313,
+          "root": "ب ج س",
+          "rootArabic": "بجس",
+          "count": 1,
+          "meaning": "hervorsprudeln",
+          "laneReference": "https://ejtaal.net/aa/#ll=bjs"
+        },
+        {
+          "rank": 1314,
+          "root": "ن ت ق",
+          "rootArabic": "نتق",
+          "count": 1,
+          "meaning": "emporheben, losreissen",
+          "laneReference": "https://ejtaal.net/aa/#ll=ntq"
+        },
+        {
+          "rank": 1315,
+          "root": "ص م ت",
+          "rootArabic": "صمت",
+          "count": 1,
+          "meaning": "schweigen, stumm sein",
+          "laneReference": "https://ejtaal.net/aa/#ll=Smt"
+        },
+        {
+          "rank": 1316,
+          "root": "ش و ك",
+          "rootArabic": "شوك",
+          "count": 1,
+          "meaning": "Waffen, Dornen, Stachel",
+          "laneReference": "https://ejtaal.net/aa/#ll=$wk"
+        },
+        {
+          "rank": 1317,
+          "root": "ز ح ف",
+          "rootArabic": "زحف",
+          "count": 1,
+          "meaning": "vorruecken, herankriechen",
+          "laneReference": "https://ejtaal.net/aa/#ll=zHf"
+        },
+        {
+          "rank": 1318,
+          "root": "ح و ز",
+          "rootArabic": "حوز",
+          "count": 1,
+          "meaning": "sich anschliessen, Seite",
+          "laneReference": "https://ejtaal.net/aa/#ll=Hwz"
+        },
+        {
+          "rank": 1319,
+          "root": "م ك و",
+          "rootArabic": "مكو",
+          "count": 1,
+          "meaning": "Pfeifen, Klatschen",
+          "laneReference": "https://ejtaal.net/aa/#ll=mkw"
+        },
+        {
+          "rank": 1320,
+          "root": "ش ر د",
+          "rootArabic": "شرد",
+          "count": 1,
+          "meaning": "verjagen, vertreiben",
+          "laneReference": "https://ejtaal.net/aa/#ll=$rd"
+        },
+        {
+          "rank": 1321,
+          "root": "ك س د",
+          "rootArabic": "كسد",
+          "count": 1,
+          "meaning": "Absatzflaute, stockender Handel",
+          "laneReference": "https://ejtaal.net/aa/#ll=ksd"
+        },
+        {
+          "rank": 1322,
+          "root": "و ط ن",
+          "rootArabic": "وطن",
+          "count": 1,
+          "meaning": "Staetten, Orte",
+          "laneReference": "https://ejtaal.net/aa/#ll=wTn"
+        },
+        {
+          "rank": 1323,
+          "root": "ن ج س",
+          "rootArabic": "نجس",
+          "count": 1,
+          "meaning": "unrein, schmutzig",
+          "laneReference": "https://ejtaal.net/aa/#ll=njs"
+        },
+        {
+          "rank": 1324,
+          "root": "ض ه ا",
+          "rootArabic": "ضها",
+          "count": 1,
+          "meaning": "nachahmen, aehneln",
+          "laneReference": "https://ejtaal.net/aa/#ll=DhA"
+        },
+        {
+          "rank": 1325,
+          "root": "ك و ي",
+          "rootArabic": "كوي",
+          "count": 1,
+          "meaning": "brandmarken",
+          "laneReference": "https://ejtaal.net/aa/#ll=kwy"
+        },
+        {
+          "rank": 1326,
+          "root": "ج ب ه",
+          "rootArabic": "جبه",
+          "count": 1,
+          "meaning": "Stirn, Stirnseite",
+          "laneReference": "https://ejtaal.net/aa/#ll=jbh"
+        },
+        {
+          "rank": 1327,
+          "root": "ث ب ط",
+          "rootArabic": "ثبط",
+          "count": 1,
+          "meaning": "zurückhalten, hemmen",
+          "laneReference": "https://ejtaal.net/aa/#ll=vbT"
+        },
+        {
+          "rank": 1328,
+          "root": "ج م ح",
+          "rootArabic": "جمح",
+          "count": 1,
+          "meaning": "ungestuem rennen",
+          "laneReference": "https://ejtaal.net/aa/#ll=jmH"
+        },
+        {
+          "rank": 1329,
+          "root": "ج ر ف",
+          "rootArabic": "جرف",
+          "count": 1,
+          "meaning": "Abbruchkante, Rand",
+          "laneReference": "https://ejtaal.net/aa/#ll=jrf"
+        },
+        {
+          "rank": 1330,
+          "root": "ز ر ي",
+          "rootArabic": "زري",
+          "count": 1,
+          "meaning": "geringschaetzen, verachten",
+          "laneReference": "https://ejtaal.net/aa/#ll=zry"
+        },
+        {
+          "rank": 1331,
+          "root": "ب ل ع",
+          "rootArabic": "بلع",
+          "count": 1,
+          "meaning": "verschlucken, schlucken",
+          "laneReference": "https://ejtaal.net/aa/#ll=blE"
+        },
+        {
+          "rank": 1332,
+          "root": "ق ل ع",
+          "rootArabic": "قلع",
+          "count": 1,
+          "meaning": "aufhören, nachlassen",
+          "laneReference": "https://ejtaal.net/aa/#ll=qlE"
+        },
+        {
+          "rank": 1333,
+          "root": "ح ن ذ",
+          "rootArabic": "حنذ",
+          "count": 1,
+          "meaning": "am Feuer gebraten",
+          "laneReference": "https://ejtaal.net/aa/#ll=Hn*"
+        },
+        {
+          "rank": 1334,
+          "root": "ر و ع",
+          "rootArabic": "روع",
+          "count": 1,
+          "meaning": "Schreck, Angst",
+          "laneReference": "https://ejtaal.net/aa/#ll=rwE"
+        },
+        {
+          "rank": 1335,
+          "root": "ط ر ح",
+          "rootArabic": "طرح",
+          "count": 1,
+          "meaning": "wegwerfen, hinwerfen",
+          "laneReference": "https://ejtaal.net/aa/#ll=TrH"
+        },
+        {
+          "rank": 1336,
+          "root": "ر ت ع",
+          "rootArabic": "رتع",
+          "count": 1,
+          "meaning": "weiden, sich vergnuegen",
+          "laneReference": "https://ejtaal.net/aa/#ll=rtE"
+        },
+        {
+          "rank": 1337,
+          "root": "د ر ه م",
+          "rootArabic": "درهم",
+          "count": 1,
+          "meaning": "Dirham, Silbermuenze",
+          "laneReference": "https://ejtaal.net/aa/#ll=drhm"
+        },
+        {
+          "rank": 1338,
+          "root": "ز ه د",
+          "rootArabic": "زهد",
+          "count": 1,
+          "meaning": "entsagen, verzichten",
+          "laneReference": "https://ejtaal.net/aa/#ll=zhd"
+        },
+        {
+          "rank": 1339,
+          "root": "غ ل ق",
+          "rootArabic": "غلق",
+          "count": 1,
+          "meaning": "verschliessen, verriegeln",
+          "laneReference": "https://ejtaal.net/aa/#ll=glq"
+        },
+        {
+          "rank": 1340,
+          "root": "ه ي ت",
+          "rootArabic": "هيت",
+          "count": 1,
+          "meaning": "komm her (Ausruf)",
+          "laneReference": "https://ejtaal.net/aa/#ll=hyt"
+        },
+        {
+          "rank": 1341,
+          "root": "ش غ ف",
+          "rootArabic": "شغف",
+          "count": 1,
+          "meaning": "leidenschaftlich lieben",
+          "laneReference": "https://ejtaal.net/aa/#ll=$gf"
+        },
+        {
+          "rank": 1342,
+          "root": "خ ب ز",
+          "rootArabic": "خبز",
+          "count": 1,
+          "meaning": "Brot",
+          "laneReference": "https://ejtaal.net/aa/#ll=xbz"
+        },
+        {
+          "rank": 1343,
+          "root": "ح ص ح ص",
+          "rootArabic": "حصحص",
+          "count": 1,
+          "meaning": "sich mitteilen, klar werden",
+          "laneReference": "https://ejtaal.net/aa/#ll=HSHS"
+        },
+        {
+          "rank": 1344,
+          "root": "م ي ر",
+          "rootArabic": "مير",
+          "count": 1,
+          "meaning": "Proviant beschaffen",
+          "laneReference": "https://ejtaal.net/aa/#ll=myr"
+        },
+        {
+          "rank": 1345,
+          "root": "ص و ع",
+          "rootArabic": "صوع",
+          "count": 1,
+          "meaning": "Becher, Trinkgefaess",
+          "laneReference": "https://ejtaal.net/aa/#ll=SwE"
+        },
+        {
+          "rank": 1346,
+          "root": "ف ت ا",
+          "rootArabic": "فتا",
+          "count": 1,
+          "meaning": "aufhören, nachlassen",
+          "laneReference": "https://ejtaal.net/aa/#ll=ftA"
+        },
+        {
+          "rank": 1347,
+          "root": "ث ر ب",
+          "rootArabic": "ثرب",
+          "count": 1,
+          "meaning": "Vorwurf machen, tadeln",
+          "laneReference": "https://ejtaal.net/aa/#ll=vrb"
+        },
+        {
+          "rank": 1348,
+          "root": "ف ن د",
+          "rootArabic": "فند",
+          "count": 1,
+          "meaning": "für toericht erklären",
+          "laneReference": "https://ejtaal.net/aa/#ll=fnd"
+        },
+        {
+          "rank": 1349,
+          "root": "م ح ل",
+          "rootArabic": "محل",
+          "count": 1,
+          "meaning": "List, Raenke",
+          "laneReference": "https://ejtaal.net/aa/#ll=mHl"
+        },
+        {
+          "rank": 1350,
+          "root": "ج ف ا",
+          "rootArabic": "جفا",
+          "count": 1,
+          "meaning": "Gischt, Schaum",
+          "laneReference": "https://ejtaal.net/aa/#ll=jfA"
+        },
+        {
+          "rank": 1351,
+          "root": "ج ر ع",
+          "rootArabic": "جرع",
+          "count": 1,
+          "meaning": "schlucken, hinunterwuergen",
+          "laneReference": "https://ejtaal.net/aa/#ll=jrE"
+        },
+        {
+          "rank": 1352,
+          "root": "ر م د",
+          "rootArabic": "رمد",
+          "count": 1,
+          "meaning": "Asche",
+          "laneReference": "https://ejtaal.net/aa/#ll=rmd"
+        },
+        {
+          "rank": 1353,
+          "root": "ف ر ع",
+          "rootArabic": "فرع",
+          "count": 1,
+          "meaning": "Ast, Zweig",
+          "laneReference": "https://ejtaal.net/aa/#ll=frE"
+        },
+        {
+          "rank": 1354,
+          "root": "ج ث ث",
+          "rootArabic": "جثث",
+          "count": 1,
+          "meaning": "entwurzeln, herausreissen",
+          "laneReference": "https://ejtaal.net/aa/#ll=jvv"
+        },
+        {
+          "rank": 1355,
+          "root": "ل ق ح",
+          "rootArabic": "لقح",
+          "count": 1,
+          "meaning": "befruchten (Wind)",
+          "laneReference": "https://ejtaal.net/aa/#ll=lqH"
+        },
+        {
+          "rank": 1356,
+          "root": "ف ض ح",
+          "rootArabic": "فضح",
+          "count": 1,
+          "meaning": "blossstellen, beschaemen",
+          "laneReference": "https://ejtaal.net/aa/#ll=fDH"
+        },
+        {
+          "rank": 1357,
+          "root": "ع ض و",
+          "rootArabic": "عضو",
+          "count": 1,
+          "meaning": "in Stuecke teilen",
+          "laneReference": "https://ejtaal.net/aa/#ll=EDw"
+        },
+        {
+          "rank": 1358,
+          "root": "د ف ا",
+          "rootArabic": "دفا",
+          "count": 1,
+          "meaning": "Waerme",
+          "laneReference": "https://ejtaal.net/aa/#ll=dfA"
+        },
+        {
+          "rank": 1359,
+          "root": "ب غ ل",
+          "rootArabic": "بغل",
+          "count": 1,
+          "meaning": "Maultier",
+          "laneReference": "https://ejtaal.net/aa/#ll=bgl"
+        },
+        {
+          "rank": 1360,
+          "root": "د س س",
+          "rootArabic": "دسس",
+          "count": 1,
+          "meaning": "verbergen, verstecken",
+          "laneReference": "https://ejtaal.net/aa/#ll=dss"
+        },
+        {
+          "rank": 1361,
+          "root": "ف ر ث",
+          "rootArabic": "فرث",
+          "count": 1,
+          "meaning": "Darminhalt, Mageninhalt",
+          "laneReference": "https://ejtaal.net/aa/#ll=frv"
+        },
+        {
+          "rank": 1362,
+          "root": "ح ف د",
+          "rootArabic": "حفد",
+          "count": 1,
+          "meaning": "Enkel, Nachkommen",
+          "laneReference": "https://ejtaal.net/aa/#ll=Hfd"
+        },
+        {
+          "rank": 1363,
+          "root": "ج و و",
+          "rootArabic": "جوو",
+          "count": 1,
+          "meaning": "Luftraum, Atmosphaere",
+          "laneReference": "https://ejtaal.net/aa/#ll=jww"
+        },
+        {
+          "rank": 1364,
+          "root": "ظ ع ن",
+          "rootArabic": "ظعن",
+          "count": 1,
+          "meaning": "aufbrechen, reisen",
+          "laneReference": "https://ejtaal.net/aa/#ll=ZEn"
+        },
+        {
+          "rank": 1365,
+          "root": "ص و ف",
+          "rootArabic": "صوف",
+          "count": 1,
+          "meaning": "Wolle",
+          "laneReference": "https://ejtaal.net/aa/#ll=Swf"
+        },
+        {
+          "rank": 1366,
+          "root": "و ب ر",
+          "rootArabic": "وبر",
+          "count": 1,
+          "meaning": "Kamelhaar, Tierhaar",
+          "laneReference": "https://ejtaal.net/aa/#ll=wbr"
+        },
+        {
+          "rank": 1367,
+          "root": "و ك د",
+          "rootArabic": "وكد",
+          "count": 1,
+          "meaning": "bekräftigen, bestaetigen",
+          "laneReference": "https://ejtaal.net/aa/#ll=wkd"
+        },
+        {
+          "rank": 1368,
+          "root": "غ ز ل",
+          "rootArabic": "غزل",
+          "count": 1,
+          "meaning": "Gespinst, spinnen",
+          "laneReference": "https://ejtaal.net/aa/#ll=gzl"
+        },
+        {
+          "rank": 1369,
+          "root": "ج و س",
+          "rootArabic": "جوس",
+          "count": 1,
+          "meaning": "durchstreifen, durchwandern",
+          "laneReference": "https://ejtaal.net/aa/#ll=jws"
+        },
+        {
+          "rank": 1370,
+          "root": "ن غ ض",
+          "rootArabic": "نغض",
+          "count": 1,
+          "meaning": "Kopf schuetteln",
+          "laneReference": "https://ejtaal.net/aa/#ll=ngD"
+        },
+        {
+          "rank": 1371,
+          "root": "ح ن ك",
+          "rootArabic": "حنك",
+          "count": 1,
+          "meaning": "gaenzlich zugrunde richten",
+          "laneReference": "https://ejtaal.net/aa/#ll=Hnk"
+        },
+        {
+          "rank": 1372,
+          "root": "و ف ر",
+          "rootArabic": "وفر",
+          "count": 1,
+          "meaning": "reichlich, vollständig",
+          "laneReference": "https://ejtaal.net/aa/#ll=wfr"
+        },
+        {
+          "rank": 1373,
+          "root": "ق ص ف",
+          "rootArabic": "قصف",
+          "count": 1,
+          "meaning": "zerbrechen (Wind/Sturm)",
+          "laneReference": "https://ejtaal.net/aa/#ll=qSf"
+        },
+        {
+          "rank": 1374,
+          "root": "د ل ك",
+          "rootArabic": "دلك",
+          "count": 1,
+          "meaning": "Neigung, Untergehen (Sonne)",
+          "laneReference": "https://ejtaal.net/aa/#ll=dlk"
+        },
+        {
+          "rank": 1375,
+          "root": "ه ج د",
+          "rootArabic": "هجد",
+          "count": 1,
+          "meaning": "nachts wachen, naechtliche Zuwendung",
+          "laneReference": "https://ejtaal.net/aa/#ll=hjd"
+        },
+        {
+          "rank": 1376,
+          "root": "خ ب و",
+          "rootArabic": "خبو",
+          "count": 1,
+          "meaning": "erloeschen (Feuer)",
+          "laneReference": "https://ejtaal.net/aa/#ll=xbw"
+        },
+        {
+          "rank": 1377,
+          "root": "ف ج و",
+          "rootArabic": "فجو",
+          "count": 1,
+          "meaning": "weite Öffnung, Höhle",
+          "laneReference": "https://ejtaal.net/aa/#ll=fjw"
+        },
+        {
+          "rank": 1378,
+          "root": "ي ق ظ",
+          "rootArabic": "يقظ",
+          "count": 1,
+          "meaning": "wach, wachsam",
+          "laneReference": "https://ejtaal.net/aa/#ll=yqZ"
+        },
+        {
+          "rank": 1379,
+          "root": "س ر د ق",
+          "rootArabic": "سردق",
+          "count": 1,
+          "meaning": "Zeltumhang, Vorhang",
+          "laneReference": "https://ejtaal.net/aa/#ll=srdq"
+        },
+        {
+          "rank": 1380,
+          "root": "ب ي د",
+          "rootArabic": "بيد",
+          "count": 1,
+          "meaning": "vergehen, untergehen",
+          "laneReference": "https://ejtaal.net/aa/#ll=byd"
+        },
+        {
+          "rank": 1381,
+          "root": "و ا ل",
+          "rootArabic": "وال",
+          "count": 1,
+          "meaning": "Zufluchtsort",
+          "laneReference": "https://ejtaal.net/aa/#ll=wAl"
+        },
+        {
+          "rank": 1382,
+          "root": "ق ض ض",
+          "rootArabic": "قضض",
+          "count": 1,
+          "meaning": "einstuerzen, zusammenbrechen",
+          "laneReference": "https://ejtaal.net/aa/#ll=qDD"
+        },
+        {
+          "rank": 1383,
+          "root": "ع ي ب",
+          "rootArabic": "عيب",
+          "count": 1,
+          "meaning": "fehlerhaft machen, Makel",
+          "laneReference": "https://ejtaal.net/aa/#ll=Eyb"
+        },
+        {
+          "rank": 1384,
+          "root": "غ ص ب",
+          "rootArabic": "غصب",
+          "count": 1,
+          "meaning": "gewaltsam nehmen, rauben",
+          "laneReference": "https://ejtaal.net/aa/#ll=gSb"
+        },
+        {
+          "rank": 1385,
+          "root": "ر د م",
+          "rootArabic": "ردم",
+          "count": 1,
+          "meaning": "Damm, Schutzwall",
+          "laneReference": "https://ejtaal.net/aa/#ll=rdm"
+        },
+        {
+          "rank": 1386,
+          "root": "ش ع ل",
+          "rootArabic": "شعل",
+          "count": 1,
+          "meaning": "entflammen, aufflammen",
+          "laneReference": "https://ejtaal.net/aa/#ll=$El"
+        },
+        {
+          "rank": 1387,
+          "root": "ح ن ن",
+          "rootArabic": "حنن",
+          "count": 1,
+          "meaning": "Zartgefuehl, Erbarmen",
+          "laneReference": "https://ejtaal.net/aa/#ll=Hnn"
+        },
+        {
+          "rank": 1388,
+          "root": "م خ ض",
+          "rootArabic": "مخض",
+          "count": 1,
+          "meaning": "Geburtswehen",
+          "laneReference": "https://ejtaal.net/aa/#ll=mxD"
+        },
+        {
+          "rank": 1389,
+          "root": "ح ت م",
+          "rootArabic": "حتم",
+          "count": 1,
+          "meaning": "beschlossen, unvermeidlich",
+          "laneReference": "https://ejtaal.net/aa/#ll=Htm"
+        },
+        {
+          "rank": 1390,
+          "root": "ض د د",
+          "rootArabic": "ضدد",
+          "count": 1,
+          "meaning": "Gegner, Widersacher",
+          "laneReference": "https://ejtaal.net/aa/#ll=Ddd"
+        },
+        {
+          "rank": 1391,
+          "root": "و ف د",
+          "rootArabic": "وفد",
+          "count": 1,
+          "meaning": "Abordnung, Delegation",
+          "laneReference": "https://ejtaal.net/aa/#ll=wfd"
+        },
+        {
+          "rank": 1392,
+          "root": "ا د د",
+          "rootArabic": "ادد",
+          "count": 1,
+          "meaning": "ungeheuerlich, schrecklich",
+          "laneReference": "https://ejtaal.net/aa/#ll=Add"
+        },
+        {
+          "rank": 1393,
+          "root": "ه د د",
+          "rootArabic": "هدد",
+          "count": 1,
+          "meaning": "donnernd niederstuerzen",
+          "laneReference": "https://ejtaal.net/aa/#ll=hdd"
+        },
+        {
+          "rank": 1394,
+          "root": "ر ك ز",
+          "rootArabic": "ركز",
+          "count": 1,
+          "meaning": "leises Geraeusch, Fluestern",
+          "laneReference": "https://ejtaal.net/aa/#ll=rkz"
+        },
+        {
+          "rank": 1395,
+          "root": "ث ر ي",
+          "rootArabic": "ثري",
+          "count": 1,
+          "meaning": "feuchte Erde, Erdboden",
+          "laneReference": "https://ejtaal.net/aa/#ll=vry"
+        },
+        {
+          "rank": 1396,
+          "root": "خ ل ع",
+          "rootArabic": "خلع",
+          "count": 1,
+          "meaning": "ausziehen (Schuhe/Kleidung)",
+          "laneReference": "https://ejtaal.net/aa/#ll=xlE"
+        },
+        {
+          "rank": 1397,
+          "root": "ن ع ل",
+          "rootArabic": "نعل",
+          "count": 1,
+          "meaning": "Sandale, Schuh",
+          "laneReference": "https://ejtaal.net/aa/#ll=nEl"
+        },
+        {
+          "rank": 1398,
+          "root": "ه ش ش",
+          "rootArabic": "هشش",
+          "count": 1,
+          "meaning": "herunterschlagen (Blätter)",
+          "laneReference": "https://ejtaal.net/aa/#ll=h$$"
+        },
+        {
+          "rank": 1399,
+          "root": "س ح ل",
+          "rootArabic": "سحل",
+          "count": 1,
+          "meaning": "Kueste, Strand",
+          "laneReference": "https://ejtaal.net/aa/#ll=sHl"
+        },
+        {
+          "rank": 1400,
+          "root": "و ن ي",
+          "rootArabic": "وني",
+          "count": 1,
+          "meaning": "nachlassen, träge sein",
+          "laneReference": "https://ejtaal.net/aa/#ll=wny"
+        },
+        {
+          "rank": 1401,
+          "root": "ل ح ي",
+          "rootArabic": "لحي",
+          "count": 1,
+          "meaning": "Bart, Kinn",
+          "laneReference": "https://ejtaal.net/aa/#ll=lHy"
+        },
+        {
+          "rank": 1402,
+          "root": "ز ر ق",
+          "rootArabic": "زرق",
+          "count": 1,
+          "meaning": "blauaeugig, blind",
+          "laneReference": "https://ejtaal.net/aa/#ll=zrq"
+        },
+        {
+          "rank": 1403,
+          "root": "ص ف ص ف",
+          "rootArabic": "صفصف",
+          "count": 1,
+          "meaning": "glatte Ebene",
+          "laneReference": "https://ejtaal.net/aa/#ll=SfSf"
+        },
+        {
+          "rank": 1404,
+          "root": "ا م ت",
+          "rootArabic": "امت",
+          "count": 1,
+          "meaning": "Unebenheit, Hoecker",
+          "laneReference": "https://ejtaal.net/aa/#ll=Amt"
+        },
+        {
+          "rank": 1405,
+          "root": "ه م س",
+          "rootArabic": "همس",
+          "count": 1,
+          "meaning": "leises Geraeusch, Geflueseter",
+          "laneReference": "https://ejtaal.net/aa/#ll=hms"
+        },
+        {
+          "rank": 1406,
+          "root": "ع ن و",
+          "rootArabic": "عنو",
+          "count": 1,
+          "meaning": "sich unterwerfen",
+          "laneReference": "https://ejtaal.net/aa/#ll=Enw"
+        },
+        {
+          "rank": 1407,
+          "root": "ض ن ك",
+          "rootArabic": "ضنك",
+          "count": 1,
+          "meaning": "eng, bedraengt",
+          "laneReference": "https://ejtaal.net/aa/#ll=Dnk"
+        },
+        {
+          "rank": 1408,
+          "root": "ز ه ر",
+          "rootArabic": "زهر",
+          "count": 1,
+          "meaning": "Bluete, Glanz",
+          "laneReference": "https://ejtaal.net/aa/#ll=zhr"
+        },
+        {
+          "rank": 1409,
+          "root": "ق ص م",
+          "rootArabic": "قصم",
+          "count": 1,
+          "meaning": "zerbrechen, zerschmettern",
+          "laneReference": "https://ejtaal.net/aa/#ll=qSm"
+        },
+        {
+          "rank": 1410,
+          "root": "د م غ",
+          "rootArabic": "دمغ",
+          "count": 1,
+          "meaning": "vernichten, zerschmettern",
+          "laneReference": "https://ejtaal.net/aa/#ll=dmg"
+        },
+        {
+          "rank": 1411,
+          "root": "ر ت ق",
+          "rootArabic": "رتق",
+          "count": 1,
+          "meaning": "verschlossen, verbunden",
+          "laneReference": "https://ejtaal.net/aa/#ll=rtq"
+        },
+        {
+          "rank": 1412,
+          "root": "ف ت ق",
+          "rootArabic": "فتق",
+          "count": 1,
+          "meaning": "oeffnen, auftrennen",
+          "laneReference": "https://ejtaal.net/aa/#ll=ftq"
+        },
+        {
+          "rank": 1413,
+          "root": "ك ل ا",
+          "rootArabic": "كلا",
+          "count": 1,
+          "meaning": "bewachen, beschuetzen",
+          "laneReference": "https://ejtaal.net/aa/#ll=klA"
+        },
+        {
+          "rank": 1414,
+          "root": "ن ف ح",
+          "rootArabic": "نفح",
+          "count": 1,
+          "meaning": "Hauch, Windstoss",
+          "laneReference": "https://ejtaal.net/aa/#ll=nfH"
+        },
+        {
+          "rank": 1415,
+          "root": "ف ه م",
+          "rootArabic": "فهم",
+          "count": 1,
+          "meaning": "verstehen, begreifen",
+          "laneReference": "https://ejtaal.net/aa/#ll=fhm"
+        },
+        {
+          "rank": 1416,
+          "root": "ن و ن",
+          "rootArabic": "نون",
+          "count": 1,
+          "meaning": "Wal, grosser Fisch",
+          "laneReference": "https://ejtaal.net/aa/#ll=nwn"
+        },
+        {
+          "rank": 1417,
+          "root": "ح د ب",
+          "rootArabic": "حدب",
+          "count": 1,
+          "meaning": "Huegel, Erhoehung",
+          "laneReference": "https://ejtaal.net/aa/#ll=Hdb"
+        },
+        {
+          "rank": 1418,
+          "root": "ذ ه ل",
+          "rootArabic": "ذهل",
+          "count": 1,
+          "meaning": "fassungslos sein, vergessen",
+          "laneReference": "https://ejtaal.net/aa/#ll=*hl"
+        },
+        {
+          "rank": 1419,
+          "root": "ه م د",
+          "rootArabic": "همد",
+          "count": 1,
+          "meaning": "leblos, verdorrt",
+          "laneReference": "https://ejtaal.net/aa/#ll=hmd"
+        },
+        {
+          "rank": 1420,
+          "root": "ع ط ف",
+          "rootArabic": "عطف",
+          "count": 1,
+          "meaning": "Seite, Flanke",
+          "laneReference": "https://ejtaal.net/aa/#ll=ETf"
+        },
+        {
+          "rank": 1421,
+          "root": "م ج س",
+          "rootArabic": "مجس",
+          "count": 1,
+          "meaning": "Magier, Zoroastrier",
+          "laneReference": "https://ejtaal.net/aa/#ll=mjs"
+        },
+        {
+          "rank": 1422,
+          "root": "ق م ع",
+          "rootArabic": "قمع",
+          "count": 1,
+          "meaning": "Keulen, Zuchtmittel",
+          "laneReference": "https://ejtaal.net/aa/#ll=qmE"
+        },
+        {
+          "rank": 1423,
+          "root": "ض م ر",
+          "rootArabic": "ضمر",
+          "count": 1,
+          "meaning": "mager, abgemagert",
+          "laneReference": "https://ejtaal.net/aa/#ll=Dmr"
+        },
+        {
+          "rank": 1424,
+          "root": "ع م ق",
+          "rootArabic": "عمق",
+          "count": 1,
+          "meaning": "tief, abgruendig",
+          "laneReference": "https://ejtaal.net/aa/#ll=Emq"
+        },
+        {
+          "rank": 1425,
+          "root": "ت ف ث",
+          "rootArabic": "تفث",
+          "count": 1,
+          "meaning": "Schmutz, Unreinheit (Pilger)",
+          "laneReference": "https://ejtaal.net/aa/#ll=tfv"
+        },
+        {
+          "rank": 1426,
+          "root": "و ج ب",
+          "rootArabic": "وجب",
+          "count": 1,
+          "meaning": "umfallen, pflichtig werden",
+          "laneReference": "https://ejtaal.net/aa/#ll=wjb"
+        },
+        {
+          "rank": 1427,
+          "root": "ه د م",
+          "rootArabic": "هدم",
+          "count": 1,
+          "meaning": "niederreissen, zerstören",
+          "laneReference": "https://ejtaal.net/aa/#ll=hdm"
+        },
+        {
+          "rank": 1428,
+          "root": "ص م ع",
+          "rootArabic": "صمع",
+          "count": 1,
+          "meaning": "Kloester, Einsiedeleien",
+          "laneReference": "https://ejtaal.net/aa/#ll=SmE"
+        },
+        {
+          "rank": 1429,
+          "root": "ب ا ر",
+          "rootArabic": "بار",
+          "count": 1,
+          "meaning": "Brunnen",
+          "laneReference": "https://ejtaal.net/aa/#ll=bAr"
+        },
+        {
+          "rank": 1430,
+          "root": "س ط و",
+          "rootArabic": "سطو",
+          "count": 1,
+          "meaning": "gewaltsam angreifen",
+          "laneReference": "https://ejtaal.net/aa/#ll=sTw"
+        },
+        {
+          "rank": 1431,
+          "root": "س ل ب",
+          "rootArabic": "سلب",
+          "count": 1,
+          "meaning": "entreissen, berauben",
+          "laneReference": "https://ejtaal.net/aa/#ll=slb"
+        },
+        {
+          "rank": 1432,
+          "root": "ل ف ح",
+          "rootArabic": "لفح",
+          "count": 1,
+          "meaning": "versengen (Hitze)",
+          "laneReference": "https://ejtaal.net/aa/#ll=lfH"
+        },
+        {
+          "rank": 1433,
+          "root": "ك ل ح",
+          "rootArabic": "كلح",
+          "count": 1,
+          "meaning": "grimmig, finsteres Gesicht",
+          "laneReference": "https://ejtaal.net/aa/#ll=klH"
+        },
+        {
+          "rank": 1434,
+          "root": "ا ي م",
+          "rootArabic": "ايم",
+          "count": 1,
+          "meaning": "unverheiratete Personen",
+          "laneReference": "https://ejtaal.net/aa/#ll=Aym"
+        },
+        {
+          "rank": 1435,
+          "root": "ذ ع ن",
+          "rootArabic": "ذعن",
+          "count": 1,
+          "meaning": "gehorsam, fuegsam",
+          "laneReference": "https://ejtaal.net/aa/#ll=*En"
+        },
+        {
+          "rank": 1436,
+          "root": "ح ي ف",
+          "rootArabic": "حيف",
+          "count": 1,
+          "meaning": "ungerecht urteilen",
+          "laneReference": "https://ejtaal.net/aa/#ll=Hyf"
+        },
+        {
+          "rank": 1437,
+          "root": "ل و ذ",
+          "rootArabic": "لوذ",
+          "count": 1,
+          "meaning": "heimlich davonstehlen",
+          "laneReference": "https://ejtaal.net/aa/#ll=lw*"
+        },
+        {
+          "rank": 1438,
+          "root": "ف ل ن",
+          "rootArabic": "فلن",
+          "count": 1,
+          "meaning": "Soundso (unbestimmte Person)",
+          "laneReference": "https://ejtaal.net/aa/#ll=fln"
+        },
+        {
+          "rank": 1439,
+          "root": "ف س ر",
+          "rootArabic": "فسر",
+          "count": 1,
+          "meaning": "erklaeren, auslegen",
+          "laneReference": "https://ejtaal.net/aa/#ll=fsr"
+        },
+        {
+          "rank": 1440,
+          "root": "ع ب ا",
+          "rootArabic": "عبا",
+          "count": 1,
+          "meaning": "sich kuemmern, beachten",
+          "laneReference": "https://ejtaal.net/aa/#ll=EbA"
+        },
+        {
+          "rank": 1441,
+          "root": "ض ي ر",
+          "rootArabic": "ضير",
+          "count": 1,
+          "meaning": "Schaden",
+          "laneReference": "https://ejtaal.net/aa/#ll=Dyr"
+        },
+        {
+          "rank": 1442,
+          "root": "ش ر ذ م",
+          "rootArabic": "شرذم",
+          "count": 1,
+          "meaning": "kleine Schar, Haufen",
+          "laneReference": "https://ejtaal.net/aa/#ll=$r*m"
+        },
+        {
+          "rank": 1443,
+          "root": "ط و د",
+          "rootArabic": "طود",
+          "count": 1,
+          "meaning": "gewaltiger Berg",
+          "laneReference": "https://ejtaal.net/aa/#ll=Twd"
+        },
+        {
+          "rank": 1444,
+          "root": "ك ب ك ب",
+          "rootArabic": "كبكب",
+          "count": 1,
+          "meaning": "kopfueber hinabstuerzen",
+          "laneReference": "https://ejtaal.net/aa/#ll=kbkb"
+        },
+        {
+          "rank": 1445,
+          "root": "ر ي ع",
+          "rootArabic": "ريع",
+          "count": 1,
+          "meaning": "Anhoehe, Hochbau",
+          "laneReference": "https://ejtaal.net/aa/#ll=ryE"
+        },
+        {
+          "rank": 1446,
+          "root": "ف ر ه",
+          "rootArabic": "فره",
+          "count": 1,
+          "meaning": "geschickt, kundig",
+          "laneReference": "https://ejtaal.net/aa/#ll=frh"
+        },
+        {
+          "rank": 1447,
+          "root": "ب س م",
+          "rootArabic": "بسم",
+          "count": 1,
+          "meaning": "laecheln",
+          "laneReference": "https://ejtaal.net/aa/#ll=bsm"
+        },
+        {
+          "rank": 1448,
+          "root": "ه د ه د",
+          "rootArabic": "هدهد",
+          "count": 1,
+          "meaning": "Wiedehopf (Vogel)",
+          "laneReference": "https://ejtaal.net/aa/#ll=hdhd"
+        },
+        {
+          "rank": 1449,
+          "root": "خ ب ا",
+          "rootArabic": "خبا",
+          "count": 1,
+          "meaning": "Verborgenes, Geheimnis",
+          "laneReference": "https://ejtaal.net/aa/#ll=xbA"
+        },
+        {
+          "rank": 1450,
+          "root": "ع ف ر",
+          "rootArabic": "عفر",
+          "count": 1,
+          "meaning": "Ifrit, mächtiger Dschinn",
+          "laneReference": "https://ejtaal.net/aa/#ll=Efr"
+        },
+        {
+          "rank": 1451,
+          "root": "ج م د",
+          "rootArabic": "جمد",
+          "count": 1,
+          "meaning": "starr, erstarrt",
+          "laneReference": "https://ejtaal.net/aa/#ll=jmd"
+        },
+        {
+          "rank": 1452,
+          "root": "ت ق ن",
+          "rootArabic": "تقن",
+          "count": 1,
+          "meaning": "vollkommen machen, meistern",
+          "laneReference": "https://ejtaal.net/aa/#ll=tqn"
+        },
+        {
+          "rank": 1453,
+          "root": "و ك ز",
+          "rootArabic": "وكز",
+          "count": 1,
+          "meaning": "mit der Faust schlagen",
+          "laneReference": "https://ejtaal.net/aa/#ll=wkz"
+        },
+        {
+          "rank": 1454,
+          "root": "ذ و د",
+          "rootArabic": "ذود",
+          "count": 1,
+          "meaning": "wegtreiben, abwehren",
+          "laneReference": "https://ejtaal.net/aa/#ll=*wd"
+        },
+        {
+          "rank": 1455,
+          "root": "ج ذ و",
+          "rootArabic": "جذو",
+          "count": 1,
+          "meaning": "Feuerbrand, gluehende Kohle",
+          "laneReference": "https://ejtaal.net/aa/#ll=j*w"
+        },
+        {
+          "rank": 1456,
+          "root": "ب ق ع",
+          "rootArabic": "بقع",
+          "count": 1,
+          "meaning": "Fleck, Stelle, Ort",
+          "laneReference": "https://ejtaal.net/aa/#ll=bqE"
+        },
+        {
+          "rank": 1457,
+          "root": "ف ص ح",
+          "rootArabic": "فصح",
+          "count": 1,
+          "meaning": "beredt, sprachgewandt",
+          "laneReference": "https://ejtaal.net/aa/#ll=fSH"
+        },
+        {
+          "rank": 1458,
+          "root": "ر د ا",
+          "rootArabic": "ردا",
+          "count": 1,
+          "meaning": "Helfer, Unterstützung",
+          "laneReference": "https://ejtaal.net/aa/#ll=rdA"
+        },
+        {
+          "rank": 1459,
+          "root": "ق ب ح",
+          "rootArabic": "قبح",
+          "count": 1,
+          "meaning": "haesslich, verabscheuungswuerdig",
+          "laneReference": "https://ejtaal.net/aa/#ll=qbH"
+        },
+        {
+          "rank": 1460,
+          "root": "ن و ا",
+          "rootArabic": "نوا",
+          "count": 1,
+          "meaning": "schwer lasten, niederdruecken",
+          "laneReference": "https://ejtaal.net/aa/#ll=nwA"
+        },
+        {
+          "rank": 1461,
+          "root": "خ ط ط",
+          "rootArabic": "خطط",
+          "count": 1,
+          "meaning": "schreiben, zeichnen",
+          "laneReference": "https://ejtaal.net/aa/#ll=xTT"
+        },
+        {
+          "rank": 1462,
+          "root": "م س و",
+          "rootArabic": "مسو",
+          "count": 1,
+          "meaning": "Abend erreichen, abends",
+          "laneReference": "https://ejtaal.net/aa/#ll=msw"
+        },
+        {
+          "rank": 1463,
+          "root": "ص ع ر",
+          "rootArabic": "صعر",
+          "count": 1,
+          "meaning": "Wange abwenden, hochmütig",
+          "laneReference": "https://ejtaal.net/aa/#ll=SEr"
+        },
+        {
+          "rank": 1464,
+          "root": "خ ت ر",
+          "rootArabic": "ختر",
+          "count": 1,
+          "meaning": "treulos, verraeterisch",
+          "laneReference": "https://ejtaal.net/aa/#ll=xtr"
+        },
+        {
+          "rank": 1465,
+          "root": "ج ف و",
+          "rootArabic": "جفو",
+          "count": 1,
+          "meaning": "sich fernhalten, meiden",
+          "laneReference": "https://ejtaal.net/aa/#ll=jfw"
+        },
+        {
+          "rank": 1466,
+          "root": "ج و ف",
+          "rootArabic": "جوف",
+          "count": 1,
+          "meaning": "Inneres, Bauch",
+          "laneReference": "https://ejtaal.net/aa/#ll=jwf"
+        },
+        {
+          "rank": 1467,
+          "root": "ع و ق",
+          "rootArabic": "عوق",
+          "count": 1,
+          "meaning": "aufhalten, behindern",
+          "laneReference": "https://ejtaal.net/aa/#ll=Ewq"
+        },
+        {
+          "rank": 1468,
+          "root": "س ل ق",
+          "rootArabic": "سلق",
+          "count": 1,
+          "meaning": "mit scharfen Worten angreifen",
+          "laneReference": "https://ejtaal.net/aa/#ll=slq"
+        },
+        {
+          "rank": 1469,
+          "root": "ن ح ب",
+          "rootArabic": "نحب",
+          "count": 1,
+          "meaning": "Geluebde, Frist",
+          "laneReference": "https://ejtaal.net/aa/#ll=nHb"
+        },
+        {
+          "rank": 1470,
+          "root": "ص ي ص",
+          "rootArabic": "صيص",
+          "count": 1,
+          "meaning": "Festungen, Burgen",
+          "laneReference": "https://ejtaal.net/aa/#ll=SyS"
+        },
+        {
+          "rank": 1471,
+          "root": "س ر د",
+          "rootArabic": "سرد",
+          "count": 1,
+          "meaning": "Kettengeflecht, Reihen",
+          "laneReference": "https://ejtaal.net/aa/#ll=srd"
+        },
+        {
+          "rank": 1472,
+          "root": "ج ف ن",
+          "rootArabic": "جفن",
+          "count": 1,
+          "meaning": "grosse Schuessel",
+          "laneReference": "https://ejtaal.net/aa/#ll=jfn"
+        },
+        {
+          "rank": 1473,
+          "root": "ع ر م",
+          "rootArabic": "عرم",
+          "count": 1,
+          "meaning": "Flut, Damm",
+          "laneReference": "https://ejtaal.net/aa/#ll=Erm"
+        },
+        {
+          "rank": 1474,
+          "root": "خ م ط",
+          "rootArabic": "خمط",
+          "count": 1,
+          "meaning": "bittere Frucht, Strauch",
+          "laneReference": "https://ejtaal.net/aa/#ll=xmT"
+        },
+        {
+          "rank": 1475,
+          "root": "ا ث ل",
+          "rootArabic": "اثل",
+          "count": 1,
+          "meaning": "Tamariskenbaum",
+          "laneReference": "https://ejtaal.net/aa/#ll=Avl"
+        },
+        {
+          "rank": 1476,
+          "root": "ن و ش",
+          "rootArabic": "نوش",
+          "count": 1,
+          "meaning": "Ergreifen, Erreichen",
+          "laneReference": "https://ejtaal.net/aa/#ll=nw$"
+        },
+        {
+          "rank": 1477,
+          "root": "ق ط م ر",
+          "rootArabic": "قطمر",
+          "count": 1,
+          "meaning": "Dattelhaeutchen, Winziges",
+          "laneReference": "https://ejtaal.net/aa/#ll=qTmr"
+        },
+        {
+          "rank": 1478,
+          "root": "ق م ح",
+          "rootArabic": "قمح",
+          "count": 1,
+          "meaning": "Kopf emporgestreckt, starr",
+          "laneReference": "https://ejtaal.net/aa/#ll=qmH"
+        },
+        {
+          "rank": 1479,
+          "root": "ع ر ج ن",
+          "rootArabic": "عرجن",
+          "count": 1,
+          "meaning": "alter Dattelrispenstiel",
+          "laneReference": "https://ejtaal.net/aa/#ll=Erjn"
+        },
+        {
+          "rank": 1480,
+          "root": "م س خ",
+          "rootArabic": "مسخ",
+          "count": 1,
+          "meaning": "verwandeln, entstellen",
+          "laneReference": "https://ejtaal.net/aa/#ll=msx"
+        },
+        {
+          "rank": 1481,
+          "root": "ل ز ب",
+          "rootArabic": "لزب",
+          "count": 1,
+          "meaning": "klebrig, haftend",
+          "laneReference": "https://ejtaal.net/aa/#ll=lzb"
+        },
+        {
+          "rank": 1482,
+          "root": "غ و ل",
+          "rootArabic": "غول",
+          "count": 1,
+          "meaning": "schleichende Betaeubung",
+          "laneReference": "https://ejtaal.net/aa/#ll=gwl"
+        },
+        {
+          "rank": 1483,
+          "root": "ش و ب",
+          "rootArabic": "شوب",
+          "count": 1,
+          "meaning": "Beimischung, Vermischung",
+          "laneReference": "https://ejtaal.net/aa/#ll=$wb"
+        },
+        {
+          "rank": 1484,
+          "root": "ز ف ف",
+          "rootArabic": "زفف",
+          "count": 1,
+          "meaning": "schnell dahineilen",
+          "laneReference": "https://ejtaal.net/aa/#ll=zff"
+        },
+        {
+          "rank": 1485,
+          "root": "ت ل ل",
+          "rootArabic": "تلل",
+          "count": 1,
+          "meaning": "auf die Stirn legen",
+          "laneReference": "https://ejtaal.net/aa/#ll=tll"
+        },
+        {
+          "rank": 1486,
+          "root": "ج ب ن",
+          "rootArabic": "جبن",
+          "count": 1,
+          "meaning": "Stirn, Schlaefe",
+          "laneReference": "https://ejtaal.net/aa/#ll=jbn"
+        },
+        {
+          "rank": 1487,
+          "root": "ا ب ق",
+          "rootArabic": "ابق",
+          "count": 1,
+          "meaning": "entfliehen, davonlaufen",
+          "laneReference": "https://ejtaal.net/aa/#ll=Abq"
+        },
+        {
+          "rank": 1488,
+          "root": "س ه م",
+          "rootArabic": "سهم",
+          "count": 1,
+          "meaning": "Lose werfen, losen",
+          "laneReference": "https://ejtaal.net/aa/#ll=shm"
+        },
+        {
+          "rank": 1489,
+          "root": "ل ق م",
+          "rootArabic": "لقم",
+          "count": 1,
+          "meaning": "verschlingen, schlucken",
+          "laneReference": "https://ejtaal.net/aa/#ll=lqm"
+        },
+        {
+          "rank": 1490,
+          "root": "س و ح",
+          "rootArabic": "سوح",
+          "count": 1,
+          "meaning": "Vorhof, Platz",
+          "laneReference": "https://ejtaal.net/aa/#ll=swH"
+        },
+        {
+          "rank": 1491,
+          "root": "ل و ت",
+          "rootArabic": "لوت",
+          "count": 1,
+          "meaning": "nicht (Zeitpartikel)",
+          "laneReference": "https://ejtaal.net/aa/#ll=lwt"
+        },
+        {
+          "rank": 1492,
+          "root": "ن و ص",
+          "rootArabic": "نوص",
+          "count": 1,
+          "meaning": "Flucht, Zufluchtsort",
+          "laneReference": "https://ejtaal.net/aa/#ll=nwS"
+        },
+        {
+          "rank": 1493,
+          "root": "ق ط ط",
+          "rootArabic": "قطط",
+          "count": 1,
+          "meaning": "Anteil, zugeschriebene Schrift",
+          "laneReference": "https://ejtaal.net/aa/#ll=qTT"
+        },
+        {
+          "rank": 1494,
+          "root": "ص ف ن",
+          "rootArabic": "صفن",
+          "count": 1,
+          "meaning": "stehende Pferde",
+          "laneReference": "https://ejtaal.net/aa/#ll=Sfn"
+        },
+        {
+          "rank": 1495,
+          "root": "ج و د",
+          "rootArabic": "جود",
+          "count": 1,
+          "meaning": "edle Rennpferde",
+          "laneReference": "https://ejtaal.net/aa/#ll=jwd"
+        },
+        {
+          "rank": 1496,
+          "root": "ر خ و",
+          "rootArabic": "رخو",
+          "count": 1,
+          "meaning": "sanft, mild (Wind)",
+          "laneReference": "https://ejtaal.net/aa/#ll=rxw"
+        },
+        {
+          "rank": 1497,
+          "root": "ق ش ع ر",
+          "rootArabic": "قشعر",
+          "count": 1,
+          "meaning": "Gaensehaut bekommen",
+          "laneReference": "https://ejtaal.net/aa/#ll=q$Er"
+        },
+        {
+          "rank": 1498,
+          "root": "ش ك س",
+          "rootArabic": "شكس",
+          "count": 1,
+          "meaning": "streitsuechtiger Teilhaber",
+          "laneReference": "https://ejtaal.net/aa/#ll=$ks"
+        },
+        {
+          "rank": 1499,
+          "root": "ش م ز",
+          "rootArabic": "شمز",
+          "count": 1,
+          "meaning": "sich mit Abscheu abwenden",
+          "laneReference": "https://ejtaal.net/aa/#ll=$mz"
+        },
+        {
+          "rank": 1500,
+          "root": "ف و ض",
+          "rootArabic": "فوض",
+          "count": 1,
+          "meaning": "übergeben, anvertrauen",
+          "laneReference": "https://ejtaal.net/aa/#ll=fwD"
+        }
+      ]
+    },
+    {
+      "name": "Tier 9",
+      "label": "Vollstaendig",
+      "rankRange": "1501-1642",
+      "rootCount": 142,
+      "wordsCovered": 142,
+      "cumulativeCoverage": "64.53%",
+      "roots": [
+        {
+          "rank": 1501,
+          "root": "ر ك د",
+          "rootArabic": "ركد",
+          "count": 1,
+          "meaning": "stillstehend, ruhend",
+          "laneReference": "https://ejtaal.net/aa/#ll=rkd"
+        },
+        {
+          "rank": 1502,
+          "root": "ر ه و",
+          "rootArabic": "رهو",
+          "count": 1,
+          "meaning": "ruhig, gelassen",
+          "laneReference": "https://ejtaal.net/aa/#ll=rhw"
+        },
+        {
+          "rank": 1503,
+          "root": "ح ق ف",
+          "rootArabic": "حقف",
+          "count": 1,
+          "meaning": "Sandduenen",
+          "laneReference": "https://ejtaal.net/aa/#ll=Hqf"
+        },
+        {
+          "rank": 1504,
+          "root": "ت ع س",
+          "rootArabic": "تعس",
+          "count": 1,
+          "meaning": "Sturz, Verderben",
+          "laneReference": "https://ejtaal.net/aa/#ll=tEs"
+        },
+        {
+          "rank": 1505,
+          "root": "ا س ن",
+          "rootArabic": "اسن",
+          "count": 1,
+          "meaning": "abgestanden (Wasser)",
+          "laneReference": "https://ejtaal.net/aa/#ll=Asn"
+        },
+        {
+          "rank": 1506,
+          "root": "ع س ل",
+          "rootArabic": "عسل",
+          "count": 1,
+          "meaning": "Honig",
+          "laneReference": "https://ejtaal.net/aa/#ll=Esl"
+        },
+        {
+          "rank": 1507,
+          "root": "م ع ي",
+          "rootArabic": "معي",
+          "count": 1,
+          "meaning": "Eingeweide, Gedaerme",
+          "laneReference": "https://ejtaal.net/aa/#ll=mEy"
+        },
+        {
+          "rank": 1508,
+          "root": "ش ر ط",
+          "rootArabic": "شرط",
+          "count": 1,
+          "meaning": "Vorzeichen, Anzeichen",
+          "laneReference": "https://ejtaal.net/aa/#ll=$rT"
+        },
+        {
+          "rank": 1509,
+          "root": "ق ف ل",
+          "rootArabic": "قفل",
+          "count": 1,
+          "meaning": "Schloesser, Riegel",
+          "laneReference": "https://ejtaal.net/aa/#ll=qfl"
+        },
+        {
+          "rank": 1510,
+          "root": "ل ح ن",
+          "rootArabic": "لحن",
+          "count": 1,
+          "meaning": "Tonfall, Art der Rede",
+          "laneReference": "https://ejtaal.net/aa/#ll=lHn"
+        },
+        {
+          "rank": 1511,
+          "root": "ن ب ز",
+          "rootArabic": "نبز",
+          "count": 1,
+          "meaning": "einander mit Spottnamen belegen",
+          "laneReference": "https://ejtaal.net/aa/#ll=nbz"
+        },
+        {
+          "rank": 1512,
+          "root": "ل ق ب",
+          "rootArabic": "لقب",
+          "count": 1,
+          "meaning": "Beinamen, Spitznamen",
+          "laneReference": "https://ejtaal.net/aa/#ll=lqb"
+        },
+        {
+          "rank": 1513,
+          "root": "ج س س",
+          "rootArabic": "جسس",
+          "count": 1,
+          "meaning": "nachspionieren, ausspionieren",
+          "laneReference": "https://ejtaal.net/aa/#ll=jss"
+        },
+        {
+          "rank": 1514,
+          "root": "ل ي ت",
+          "rootArabic": "ليت",
+          "count": 1,
+          "meaning": "verkürzen, vermindern",
+          "laneReference": "https://ejtaal.net/aa/#ll=lyt"
+        },
+        {
+          "rank": 1515,
+          "root": "ب س ق",
+          "rootArabic": "بسق",
+          "count": 1,
+          "meaning": "hoch aufragend (Palme)",
+          "laneReference": "https://ejtaal.net/aa/#ll=bsq"
+        },
+        {
+          "rank": 1516,
+          "root": "ل ف ظ",
+          "rootArabic": "لفظ",
+          "count": 1,
+          "meaning": "aussprechen, aeussern",
+          "laneReference": "https://ejtaal.net/aa/#ll=lfZ"
+        },
+        {
+          "rank": 1517,
+          "root": "ح ي د",
+          "rootArabic": "حيد",
+          "count": 1,
+          "meaning": "ausweichen, abweichen",
+          "laneReference": "https://ejtaal.net/aa/#ll=Hyd"
+        },
+        {
+          "rank": 1518,
+          "root": "ح ب ك",
+          "rootArabic": "حبك",
+          "count": 1,
+          "meaning": "Bahnen, Wege (Himmel)",
+          "laneReference": "https://ejtaal.net/aa/#ll=Hbk"
+        },
+        {
+          "rank": 1519,
+          "root": "ه ج ع",
+          "rootArabic": "هجع",
+          "count": 1,
+          "meaning": "naechtlich ruhen, schlafen",
+          "laneReference": "https://ejtaal.net/aa/#ll=hjE"
+        },
+        {
+          "rank": 1520,
+          "root": "ص ك ك",
+          "rootArabic": "صكك",
+          "count": 1,
+          "meaning": "sich ins Gesicht schlagen",
+          "laneReference": "https://ejtaal.net/aa/#ll=Skk"
+        },
+        {
+          "rank": 1521,
+          "root": "ر ق ق",
+          "rootArabic": "رقق",
+          "count": 1,
+          "meaning": "duennes Pergament",
+          "laneReference": "https://ejtaal.net/aa/#ll=rqq"
+        },
+        {
+          "rank": 1522,
+          "root": "ا ل ت",
+          "rootArabic": "الت",
+          "count": 1,
+          "meaning": "vermindern, schmaelern",
+          "laneReference": "https://ejtaal.net/aa/#ll=Alt"
+        },
+        {
+          "rank": 1523,
+          "root": "ق و ب",
+          "rootArabic": "قوب",
+          "count": 1,
+          "meaning": "Mass, Entfernung",
+          "laneReference": "https://ejtaal.net/aa/#ll=qwb"
+        },
+        {
+          "rank": 1524,
+          "root": "ق و س",
+          "rootArabic": "قوس",
+          "count": 1,
+          "meaning": "Bogen (Waffe)",
+          "laneReference": "https://ejtaal.net/aa/#ll=qws"
+        },
+        {
+          "rank": 1525,
+          "root": "ض ي ز",
+          "rootArabic": "ضيز",
+          "count": 1,
+          "meaning": "ungerecht, parteiisch",
+          "laneReference": "https://ejtaal.net/aa/#ll=Dyz"
+        },
+        {
+          "rank": 1526,
+          "root": "ك د ي",
+          "rootArabic": "كدي",
+          "count": 1,
+          "meaning": "knausern, abbrechen",
+          "laneReference": "https://ejtaal.net/aa/#ll=kdy"
+        },
+        {
+          "rank": 1527,
+          "root": "ق ن ي",
+          "rootArabic": "قني",
+          "count": 1,
+          "meaning": "reich machen, genügen",
+          "laneReference": "https://ejtaal.net/aa/#ll=qny"
+        },
+        {
+          "rank": 1528,
+          "root": "س م د",
+          "rootArabic": "سمد",
+          "count": 1,
+          "meaning": "hochmuetig singen",
+          "laneReference": "https://ejtaal.net/aa/#ll=smd"
+        },
+        {
+          "rank": 1529,
+          "root": "ه م ر",
+          "rootArabic": "همر",
+          "count": 1,
+          "meaning": "stroemend ergiessen",
+          "laneReference": "https://ejtaal.net/aa/#ll=hmr"
+        },
+        {
+          "rank": 1530,
+          "root": "د س ر",
+          "rootArabic": "دسر",
+          "count": 1,
+          "meaning": "Naegel, Planken",
+          "laneReference": "https://ejtaal.net/aa/#ll=dsr"
+        },
+        {
+          "rank": 1531,
+          "root": "ق ع ر",
+          "rootArabic": "قعر",
+          "count": 1,
+          "meaning": "entwurzelt, umgerissen",
+          "laneReference": "https://ejtaal.net/aa/#ll=qEr"
+        },
+        {
+          "rank": 1532,
+          "root": "د ه ي",
+          "rootArabic": "دهي",
+          "count": 1,
+          "meaning": "schlimmer, verheerender",
+          "laneReference": "https://ejtaal.net/aa/#ll=dhy"
+        },
+        {
+          "rank": 1533,
+          "root": "ا ن م",
+          "rootArabic": "انم",
+          "count": 1,
+          "meaning": "Geschöpfe, Menschheit",
+          "laneReference": "https://ejtaal.net/aa/#ll=Anm"
+        },
+        {
+          "rank": 1534,
+          "root": "ف ن ي",
+          "rootArabic": "فني",
+          "count": 1,
+          "meaning": "vergehen, vergänglich",
+          "laneReference": "https://ejtaal.net/aa/#ll=fny"
+        },
+        {
+          "rank": 1535,
+          "root": "ش و ظ",
+          "rootArabic": "شوظ",
+          "count": 1,
+          "meaning": "Feuerflamme ohne Rauch",
+          "laneReference": "https://ejtaal.net/aa/#ll=$wZ"
+        },
+        {
+          "rank": 1536,
+          "root": "ف ن ن",
+          "rootArabic": "فنن",
+          "count": 1,
+          "meaning": "Aeste, Zweige",
+          "laneReference": "https://ejtaal.net/aa/#ll=fnn"
+        },
+        {
+          "rank": 1537,
+          "root": "د ه م",
+          "rootArabic": "دهم",
+          "count": 1,
+          "meaning": "dunkegruen, tiefgruen",
+          "laneReference": "https://ejtaal.net/aa/#ll=dhm"
+        },
+        {
+          "rank": 1538,
+          "root": "ن ض خ",
+          "rootArabic": "نضخ",
+          "count": 1,
+          "meaning": "reichlich sprudelnd",
+          "laneReference": "https://ejtaal.net/aa/#ll=nDx"
+        },
+        {
+          "rank": 1539,
+          "root": "خ ي م",
+          "rootArabic": "خيم",
+          "count": 1,
+          "meaning": "Zelte",
+          "laneReference": "https://ejtaal.net/aa/#ll=xym"
+        },
+        {
+          "rank": 1540,
+          "root": "ر ف ر ف",
+          "rootArabic": "رفرف",
+          "count": 1,
+          "meaning": "gruene Polster, Kissen",
+          "laneReference": "https://ejtaal.net/aa/#ll=rfrf"
+        },
+        {
+          "rank": 1541,
+          "root": "ع ب ق ر",
+          "rootArabic": "عبقر",
+          "count": 1,
+          "meaning": "praechtiger Teppich",
+          "laneReference": "https://ejtaal.net/aa/#ll=Ebqr"
+        },
+        {
+          "rank": 1542,
+          "root": "و ض ن",
+          "rootArabic": "وضن",
+          "count": 1,
+          "meaning": "durchflochten, verwoben",
+          "laneReference": "https://ejtaal.net/aa/#ll=wDn"
+        },
+        {
+          "rank": 1543,
+          "root": "خ ض د",
+          "rootArabic": "خضد",
+          "count": 1,
+          "meaning": "dornenlos (Lotusbaum)",
+          "laneReference": "https://ejtaal.net/aa/#ll=xDd"
+        },
+        {
+          "rank": 1544,
+          "root": "ط ل ح",
+          "rootArabic": "طلح",
+          "count": 1,
+          "meaning": "Bananenstaude",
+          "laneReference": "https://ejtaal.net/aa/#ll=TlH"
+        },
+        {
+          "rank": 1545,
+          "root": "س ك ب",
+          "rootArabic": "سكب",
+          "count": 1,
+          "meaning": "fliessend, ergossen",
+          "laneReference": "https://ejtaal.net/aa/#ll=skb"
+        },
+        {
+          "rank": 1546,
+          "root": "م ز ن",
+          "rootArabic": "مزن",
+          "count": 1,
+          "meaning": "Regenwolke",
+          "laneReference": "https://ejtaal.net/aa/#ll=mzn"
+        },
+        {
+          "rank": 1547,
+          "root": "ج ل س",
+          "rootArabic": "جلس",
+          "count": 1,
+          "meaning": "Versammlungen, Sitzungen",
+          "laneReference": "https://ejtaal.net/aa/#ll=jls"
+        },
+        {
+          "rank": 1548,
+          "root": "ر ص ص",
+          "rootArabic": "رصص",
+          "count": 1,
+          "meaning": "fest gefuegt, verloetet",
+          "laneReference": "https://ejtaal.net/aa/#ll=rSS"
+        },
+        {
+          "rank": 1549,
+          "root": "خ ش ب",
+          "rootArabic": "خشب",
+          "count": 1,
+          "meaning": "Hoelzer, Holzstuecke",
+          "laneReference": "https://ejtaal.net/aa/#ll=x$b"
+        },
+        {
+          "rank": 1550,
+          "root": "س ن د",
+          "rootArabic": "سند",
+          "count": 1,
+          "meaning": "angelehnt, gestuetzt",
+          "laneReference": "https://ejtaal.net/aa/#ll=snd"
+        },
+        {
+          "rank": 1551,
+          "root": "غ ب ن",
+          "rootArabic": "غبن",
+          "count": 1,
+          "meaning": "gegenseitige Übervorteilung",
+          "laneReference": "https://ejtaal.net/aa/#ll=gbn"
+        },
+        {
+          "rank": 1552,
+          "root": "ث ي ب",
+          "rootArabic": "ثيب",
+          "count": 1,
+          "meaning": "zuvor verheiratete Frauen",
+          "laneReference": "https://ejtaal.net/aa/#ll=vyb"
+        },
+        {
+          "rank": 1553,
+          "root": "ن م م",
+          "rootArabic": "نمم",
+          "count": 1,
+          "meaning": "Verleumdung, Klatsch",
+          "laneReference": "https://ejtaal.net/aa/#ll=nmm"
+        },
+        {
+          "rank": 1554,
+          "root": "ز ن م",
+          "rootArabic": "زنم",
+          "count": 1,
+          "meaning": "anruechig, notorisch",
+          "laneReference": "https://ejtaal.net/aa/#ll=znm"
+        },
+        {
+          "rank": 1555,
+          "root": "خ ر ط م",
+          "rootArabic": "خرطم",
+          "count": 1,
+          "meaning": "Ruessel, Nase",
+          "laneReference": "https://ejtaal.net/aa/#ll=xrTm"
+        },
+        {
+          "rank": 1556,
+          "root": "ح ر د",
+          "rootArabic": "حرد",
+          "count": 1,
+          "meaning": "Zorn, Entschlossenheit",
+          "laneReference": "https://ejtaal.net/aa/#ll=Hrd"
+        },
+        {
+          "rank": 1557,
+          "root": "ح س م",
+          "rootArabic": "حسم",
+          "count": 1,
+          "meaning": "ununterbrochen, aufeinanderfolgend",
+          "laneReference": "https://ejtaal.net/aa/#ll=Hsm"
+        },
+        {
+          "rank": 1558,
+          "root": "ص ر ع",
+          "rootArabic": "صرع",
+          "count": 1,
+          "meaning": "niedergestreckt, hingeworfen",
+          "laneReference": "https://ejtaal.net/aa/#ll=SrE"
+        },
+        {
+          "rank": 1559,
+          "root": "و ه ي",
+          "rootArabic": "وهي",
+          "count": 1,
+          "meaning": "bruechig, zerfallend",
+          "laneReference": "https://ejtaal.net/aa/#ll=why"
+        },
+        {
+          "rank": 1560,
+          "root": "و ت ن",
+          "rootArabic": "وتن",
+          "count": 1,
+          "meaning": "Halsschlagader",
+          "laneReference": "https://ejtaal.net/aa/#ll=wtn"
+        },
+        {
+          "rank": 1561,
+          "root": "ه ل ع",
+          "rootArabic": "هلع",
+          "count": 1,
+          "meaning": "aengstlich, kleinmuetig",
+          "laneReference": "https://ejtaal.net/aa/#ll=hlE"
+        },
+        {
+          "rank": 1562,
+          "root": "ع ز و",
+          "rootArabic": "عزو",
+          "count": 1,
+          "meaning": "Gruppen, Haufen",
+          "laneReference": "https://ejtaal.net/aa/#ll=Ezw"
+        },
+        {
+          "rank": 1563,
+          "root": "و ف ض",
+          "rootArabic": "وفض",
+          "count": 1,
+          "meaning": "eilig laufen",
+          "laneReference": "https://ejtaal.net/aa/#ll=wfD"
+        },
+        {
+          "rank": 1564,
+          "root": "ن س ر",
+          "rootArabic": "نسر",
+          "count": 1,
+          "meaning": "Adler (Goetze Nasr)",
+          "laneReference": "https://ejtaal.net/aa/#ll=nsr"
+        },
+        {
+          "rank": 1565,
+          "root": "ح ر س",
+          "rootArabic": "حرس",
+          "count": 1,
+          "meaning": "Wache, Bewachung",
+          "laneReference": "https://ejtaal.net/aa/#ll=Hrs"
+        },
+        {
+          "rank": 1566,
+          "root": "ه ر ب",
+          "rootArabic": "هرب",
+          "count": 1,
+          "meaning": "Flucht, fliehen",
+          "laneReference": "https://ejtaal.net/aa/#ll=hrb"
+        },
+        {
+          "rank": 1567,
+          "root": "ح ر ي",
+          "rootArabic": "حري",
+          "count": 1,
+          "meaning": "sorgfaeltig suchen, anstreben",
+          "laneReference": "https://ejtaal.net/aa/#ll=Hry"
+        },
+        {
+          "rank": 1568,
+          "root": "غ د ق",
+          "rootArabic": "غدق",
+          "count": 1,
+          "meaning": "reichliches Wasser",
+          "laneReference": "https://ejtaal.net/aa/#ll=gdq"
+        },
+        {
+          "rank": 1569,
+          "root": "ز م ل",
+          "rootArabic": "زمل",
+          "count": 1,
+          "meaning": "sich einhuellen",
+          "laneReference": "https://ejtaal.net/aa/#ll=zml"
+        },
+        {
+          "rank": 1570,
+          "root": "غ ص ص",
+          "rootArabic": "غصص",
+          "count": 1,
+          "meaning": "Wuergen, Erstickung",
+          "laneReference": "https://ejtaal.net/aa/#ll=gSS"
+        },
+        {
+          "rank": 1571,
+          "root": "ك ث ب",
+          "rootArabic": "كثب",
+          "count": 1,
+          "meaning": "Sandhuegel, Duene",
+          "laneReference": "https://ejtaal.net/aa/#ll=kvb"
+        },
+        {
+          "rank": 1572,
+          "root": "ه ي ل",
+          "rootArabic": "هيل",
+          "count": 1,
+          "meaning": "rieseln, fliessend (Sand)",
+          "laneReference": "https://ejtaal.net/aa/#ll=hyl"
+        },
+        {
+          "rank": 1573,
+          "root": "د ث ر",
+          "rootArabic": "دثر",
+          "count": 1,
+          "meaning": "sich einhuellen (Decke)",
+          "laneReference": "https://ejtaal.net/aa/#ll=dvr"
+        },
+        {
+          "rank": 1574,
+          "root": "ق س ر",
+          "rootArabic": "قسر",
+          "count": 1,
+          "meaning": "Loewe, stark",
+          "laneReference": "https://ejtaal.net/aa/#ll=qsr"
+        },
+        {
+          "rank": 1575,
+          "root": "ح ر ك",
+          "rootArabic": "حرك",
+          "count": 1,
+          "meaning": "bewegen",
+          "laneReference": "https://ejtaal.net/aa/#ll=Hrk"
+        },
+        {
+          "rank": 1576,
+          "root": "ت ر ق",
+          "rootArabic": "ترق",
+          "count": 1,
+          "meaning": "Schlüsselbeinknochen",
+          "laneReference": "https://ejtaal.net/aa/#ll=trq"
+        },
+        {
+          "rank": 1577,
+          "root": "م ط و",
+          "rootArabic": "مطو",
+          "count": 1,
+          "meaning": "stolzieren, einhergehen",
+          "laneReference": "https://ejtaal.net/aa/#ll=mTw"
+        },
+        {
+          "rank": 1578,
+          "root": "س د ي",
+          "rootArabic": "سدي",
+          "count": 1,
+          "meaning": "zwecklos gelassen",
+          "laneReference": "https://ejtaal.net/aa/#ll=sdy"
+        },
+        {
+          "rank": 1579,
+          "root": "م ش ج",
+          "rootArabic": "مشج",
+          "count": 1,
+          "meaning": "Mischung, Gemisch",
+          "laneReference": "https://ejtaal.net/aa/#ll=m$j"
+        },
+        {
+          "rank": 1580,
+          "root": "ق م ط ر",
+          "rootArabic": "قمطر",
+          "count": 1,
+          "meaning": "finster, unheilverheissend",
+          "laneReference": "https://ejtaal.net/aa/#ll=qmTr"
+        },
+        {
+          "rank": 1581,
+          "root": "ز م ه ر",
+          "rootArabic": "زمهر",
+          "count": 1,
+          "meaning": "beissende Kaelte",
+          "laneReference": "https://ejtaal.net/aa/#ll=zmhr"
+        },
+        {
+          "rank": 1582,
+          "root": "ك ف ت",
+          "rootArabic": "كفت",
+          "count": 1,
+          "meaning": "zusammenfassen, bergen",
+          "laneReference": "https://ejtaal.net/aa/#ll=kft"
+        },
+        {
+          "rank": 1583,
+          "root": "ش م خ",
+          "rootArabic": "شمخ",
+          "count": 1,
+          "meaning": "hoch aufragend (Berge)",
+          "laneReference": "https://ejtaal.net/aa/#ll=$mx"
+        },
+        {
+          "rank": 1584,
+          "root": "و ه ج",
+          "rootArabic": "وهج",
+          "count": 1,
+          "meaning": "hell strahlend, gluehend",
+          "laneReference": "https://ejtaal.net/aa/#ll=whj"
+        },
+        {
+          "rank": 1585,
+          "root": "ث ج ج",
+          "rootArabic": "ثجج",
+          "count": 1,
+          "meaning": "stroemend ergiessen (Regen)",
+          "laneReference": "https://ejtaal.net/aa/#ll=vjj"
+        },
+        {
+          "rank": 1586,
+          "root": "د ه ق",
+          "rootArabic": "دهق",
+          "count": 1,
+          "meaning": "randvoll, ueberfliessend",
+          "laneReference": "https://ejtaal.net/aa/#ll=dhq"
+        },
+        {
+          "rank": 1587,
+          "root": "ن خ ر",
+          "rootArabic": "نخر",
+          "count": 1,
+          "meaning": "morsch, vermodert",
+          "laneReference": "https://ejtaal.net/aa/#ll=nxr"
+        },
+        {
+          "rank": 1588,
+          "root": "س ه ر",
+          "rootArabic": "سهر",
+          "count": 1,
+          "meaning": "Erdoberflaeche, freies Land",
+          "laneReference": "https://ejtaal.net/aa/#ll=shr"
+        },
+        {
+          "rank": 1589,
+          "root": "س م ك",
+          "rootArabic": "سمك",
+          "count": 1,
+          "meaning": "Hoehe, emporheben",
+          "laneReference": "https://ejtaal.net/aa/#ll=smk"
+        },
+        {
+          "rank": 1590,
+          "root": "غ ط ش",
+          "rootArabic": "غطش",
+          "count": 1,
+          "meaning": "verfinstern, dunkel machen",
+          "laneReference": "https://ejtaal.net/aa/#ll=gT$"
+        },
+        {
+          "rank": 1591,
+          "root": "د ح و",
+          "rootArabic": "دحو",
+          "count": 1,
+          "meaning": "ausbreiten (Erde)",
+          "laneReference": "https://ejtaal.net/aa/#ll=dHw"
+        },
+        {
+          "rank": 1592,
+          "root": "ط م م",
+          "rootArabic": "طمم",
+          "count": 1,
+          "meaning": "alles ueberwaeltigende Katastrophe",
+          "laneReference": "https://ejtaal.net/aa/#ll=Tmm"
+        },
+        {
+          "rank": 1593,
+          "root": "ق ض ب",
+          "rootArabic": "قضب",
+          "count": 1,
+          "meaning": "frisches Gruenfutter",
+          "laneReference": "https://ejtaal.net/aa/#ll=qDb"
+        },
+        {
+          "rank": 1594,
+          "root": "ا ب ب",
+          "rootArabic": "ابب",
+          "count": 1,
+          "meaning": "Weidegras, Viehfutter",
+          "laneReference": "https://ejtaal.net/aa/#ll=Abb"
+        },
+        {
+          "rank": 1595,
+          "root": "ص خ خ",
+          "rootArabic": "صخخ",
+          "count": 1,
+          "meaning": "betaeubender Schrei",
+          "laneReference": "https://ejtaal.net/aa/#ll=Sxx"
+        },
+        {
+          "rank": 1596,
+          "root": "ك د ر",
+          "rootArabic": "كدر",
+          "count": 1,
+          "meaning": "truebe werden, herabstuerzen",
+          "laneReference": "https://ejtaal.net/aa/#ll=kdr"
+        },
+        {
+          "rank": 1597,
+          "root": "و ح ش",
+          "rootArabic": "وحش",
+          "count": 1,
+          "meaning": "Wildtiere",
+          "laneReference": "https://ejtaal.net/aa/#ll=wH$"
+        },
+        {
+          "rank": 1598,
+          "root": "و ا د",
+          "rootArabic": "واد",
+          "count": 1,
+          "meaning": "lebendig begraben (Maedchen)",
+          "laneReference": "https://ejtaal.net/aa/#ll=wAd"
+        },
+        {
+          "rank": 1599,
+          "root": "ك ش ط",
+          "rootArabic": "كشط",
+          "count": 1,
+          "meaning": "abziehen, abloesen",
+          "laneReference": "https://ejtaal.net/aa/#ll=k$T"
+        },
+        {
+          "rank": 1600,
+          "root": "ك ن س",
+          "rootArabic": "كنس",
+          "count": 1,
+          "meaning": "sich verbergen (Sterne)",
+          "laneReference": "https://ejtaal.net/aa/#ll=kns"
+        },
+        {
+          "rank": 1601,
+          "root": "ع س ع س",
+          "rootArabic": "عسعس",
+          "count": 1,
+          "meaning": "hereinbrechen (Nacht)",
+          "laneReference": "https://ejtaal.net/aa/#ll=EsEs"
+        },
+        {
+          "rank": 1602,
+          "root": "ض ن ن",
+          "rootArabic": "ضنن",
+          "count": 1,
+          "meaning": "geizig, zurückhaltend",
+          "laneReference": "https://ejtaal.net/aa/#ll=Dnn"
+        },
+        {
+          "rank": 1603,
+          "root": "ط ف ف",
+          "rootArabic": "طفف",
+          "count": 1,
+          "meaning": "Mass verkürzen, betruegen",
+          "laneReference": "https://ejtaal.net/aa/#ll=Tff"
+        },
+        {
+          "rank": 1604,
+          "root": "ر ي ن",
+          "rootArabic": "رين",
+          "count": 1,
+          "meaning": "ueberziehen, bedecken (Herz)",
+          "laneReference": "https://ejtaal.net/aa/#ll=ryn"
+        },
+        {
+          "rank": 1605,
+          "root": "ر ح ق",
+          "rootArabic": "رحق",
+          "count": 1,
+          "meaning": "edler Wein, Nektar",
+          "laneReference": "https://ejtaal.net/aa/#ll=rHq"
+        },
+        {
+          "rank": 1606,
+          "root": "س ن م",
+          "rootArabic": "سنم",
+          "count": 1,
+          "meaning": "erhabene Quelle (Tasnim)",
+          "laneReference": "https://ejtaal.net/aa/#ll=snm"
+        },
+        {
+          "rank": 1607,
+          "root": "غ م ز",
+          "rootArabic": "غمز",
+          "count": 1,
+          "meaning": "einander zuzwinkern",
+          "laneReference": "https://ejtaal.net/aa/#ll=gmz"
+        },
+        {
+          "rank": 1608,
+          "root": "د ف ق",
+          "rootArabic": "دفق",
+          "count": 1,
+          "meaning": "sich ergiessen, hervorquellen",
+          "laneReference": "https://ejtaal.net/aa/#ll=dfq"
+        },
+        {
+          "rank": 1609,
+          "root": "ه ز ل",
+          "rootArabic": "هزل",
+          "count": 1,
+          "meaning": "Scherz, Spass",
+          "laneReference": "https://ejtaal.net/aa/#ll=hzl"
+        },
+        {
+          "rank": 1610,
+          "root": "س ط ح",
+          "rootArabic": "سطح",
+          "count": 1,
+          "meaning": "flach ausbreiten",
+          "laneReference": "https://ejtaal.net/aa/#ll=sTH"
+        },
+        {
+          "rank": 1611,
+          "root": "س و ط",
+          "rootArabic": "سوط",
+          "count": 1,
+          "meaning": "Peitsche",
+          "laneReference": "https://ejtaal.net/aa/#ll=swT"
+        },
+        {
+          "rank": 1612,
+          "root": "ج م م",
+          "rootArabic": "جمم",
+          "count": 1,
+          "meaning": "uebermaessig, reichlich",
+          "laneReference": "https://ejtaal.net/aa/#ll=jmm"
+        },
+        {
+          "rank": 1613,
+          "root": "ك ب د",
+          "rootArabic": "كبد",
+          "count": 1,
+          "meaning": "Muehsal, Plage",
+          "laneReference": "https://ejtaal.net/aa/#ll=kbd"
+        },
+        {
+          "rank": 1614,
+          "root": "ش ف ه",
+          "rootArabic": "شفه",
+          "count": 1,
+          "meaning": "Lippen",
+          "laneReference": "https://ejtaal.net/aa/#ll=$fh"
+        },
+        {
+          "rank": 1615,
+          "root": "ن ج د",
+          "rootArabic": "نجد",
+          "count": 1,
+          "meaning": "zwei Wege, Erhebung",
+          "laneReference": "https://ejtaal.net/aa/#ll=njd"
+        },
+        {
+          "rank": 1616,
+          "root": "س غ ب",
+          "rootArabic": "سغب",
+          "count": 1,
+          "meaning": "Hunger, Hungersnot",
+          "laneReference": "https://ejtaal.net/aa/#ll=sgb"
+        },
+        {
+          "rank": 1617,
+          "root": "ط ح و",
+          "rootArabic": "طحو",
+          "count": 1,
+          "meaning": "ausbreiten, flach machen",
+          "laneReference": "https://ejtaal.net/aa/#ll=THw"
+        },
+        {
+          "rank": 1618,
+          "root": "ل ه م",
+          "rootArabic": "لهم",
+          "count": 1,
+          "meaning": "eingeben, inspirieren",
+          "laneReference": "https://ejtaal.net/aa/#ll=lhm"
+        },
+        {
+          "rank": 1619,
+          "root": "د س و",
+          "rootArabic": "دسو",
+          "count": 1,
+          "meaning": "verderben, verkuemmern",
+          "laneReference": "https://ejtaal.net/aa/#ll=dsw"
+        },
+        {
+          "rank": 1620,
+          "root": "د م د م",
+          "rootArabic": "دمدم",
+          "count": 1,
+          "meaning": "vernichtend über sie kommen",
+          "laneReference": "https://ejtaal.net/aa/#ll=dmdm"
+        },
+        {
+          "rank": 1621,
+          "root": "ل ظ ي",
+          "rootArabic": "لظي",
+          "count": 1,
+          "meaning": "lodernd brennen",
+          "laneReference": "https://ejtaal.net/aa/#ll=lZy"
+        },
+        {
+          "rank": 1622,
+          "root": "س ج و",
+          "rootArabic": "سجو",
+          "count": 1,
+          "meaning": "still werden, sich senken",
+          "laneReference": "https://ejtaal.net/aa/#ll=sjw"
+        },
+        {
+          "rank": 1623,
+          "root": "ت ي ن",
+          "rootArabic": "تين",
+          "count": 1,
+          "meaning": "Feige (Frucht)",
+          "laneReference": "https://ejtaal.net/aa/#ll=tyn"
+        },
+        {
+          "rank": 1624,
+          "root": "س ف ع",
+          "rootArabic": "سفع",
+          "count": 1,
+          "meaning": "packen, am Schopf ziehen",
+          "laneReference": "https://ejtaal.net/aa/#ll=sfE"
+        },
+        {
+          "rank": 1625,
+          "root": "ز ب ن",
+          "rootArabic": "زبن",
+          "count": 1,
+          "meaning": "Feuerschergen, Wächter",
+          "laneReference": "https://ejtaal.net/aa/#ll=zbn"
+        },
+        {
+          "rank": 1626,
+          "root": "ض ب ح",
+          "rootArabic": "ضبح",
+          "count": 1,
+          "meaning": "keuchen, schnauben (Pferd)",
+          "laneReference": "https://ejtaal.net/aa/#ll=DbH"
+        },
+        {
+          "rank": 1627,
+          "root": "ق د ح",
+          "rootArabic": "قدح",
+          "count": 1,
+          "meaning": "Funken schlagen",
+          "laneReference": "https://ejtaal.net/aa/#ll=qdH"
+        },
+        {
+          "rank": 1628,
+          "root": "ن ق ع",
+          "rootArabic": "نقع",
+          "count": 1,
+          "meaning": "Staub aufwirbeln",
+          "laneReference": "https://ejtaal.net/aa/#ll=nqE"
+        },
+        {
+          "rank": 1629,
+          "root": "ك ن د",
+          "rootArabic": "كند",
+          "count": 1,
+          "meaning": "undankbar",
+          "laneReference": "https://ejtaal.net/aa/#ll=knd"
+        },
+        {
+          "rank": 1630,
+          "root": "ح ص ل",
+          "rootArabic": "حصل",
+          "count": 1,
+          "meaning": "erhalten",
+          "laneReference": "https://ejtaal.net/aa/#ll=HSl"
+        },
+        {
+          "rank": 1631,
+          "root": "ف ي ل",
+          "rootArabic": "فيل",
+          "count": 1,
+          "meaning": "Elefant",
+          "laneReference": "https://ejtaal.net/aa/#ll=fyl"
+        },
+        {
+          "rank": 1632,
+          "root": "ش ت و",
+          "rootArabic": "شتو",
+          "count": 1,
+          "meaning": "Winter",
+          "laneReference": "https://ejtaal.net/aa/#ll=$tw"
+        },
+        {
+          "rank": 1633,
+          "root": "ص ي ف",
+          "rootArabic": "صيف",
+          "count": 1,
+          "meaning": "Sommer",
+          "laneReference": "https://ejtaal.net/aa/#ll=Syf"
+        },
+        {
+          "rank": 1634,
+          "root": "م ع ن",
+          "rootArabic": "معن",
+          "count": 1,
+          "meaning": "kleine Hilfeleistung",
+          "laneReference": "https://ejtaal.net/aa/#ll=mEn"
+        },
+        {
+          "rank": 1635,
+          "root": "ن ح ر",
+          "rootArabic": "نحر",
+          "count": 1,
+          "meaning": "schlachten (Opfertier)",
+          "laneReference": "https://ejtaal.net/aa/#ll=nHr"
+        },
+        {
+          "rank": 1636,
+          "root": "ب ت ر",
+          "rootArabic": "بتر",
+          "count": 1,
+          "meaning": "abgeschnitten, ohne Nachkommen",
+          "laneReference": "https://ejtaal.net/aa/#ll=btr"
+        },
+        {
+          "rank": 1637,
+          "root": "ج ي د",
+          "rootArabic": "جيد",
+          "count": 1,
+          "meaning": "Hals, Nacken",
+          "laneReference": "https://ejtaal.net/aa/#ll=jyd"
+        },
+        {
+          "rank": 1638,
+          "root": "م س د",
+          "rootArabic": "مسد",
+          "count": 1,
+          "meaning": "drehen, Faserstrick",
+          "laneReference": "https://ejtaal.net/aa/#ll=msd"
+        },
+        {
+          "rank": 1639,
+          "root": "ص م د",
+          "rootArabic": "صمد",
+          "count": 1,
+          "meaning": "standhaft, fest",
+          "laneReference": "https://ejtaal.net/aa/#ll=Smd"
+        },
+        {
+          "rank": 1640,
+          "root": "ك ف ا",
+          "rootArabic": "كفا",
+          "count": 1,
+          "meaning": "genügen, gleich sein",
+          "laneReference": "https://ejtaal.net/aa/#ll=kfA"
+        },
+        {
+          "rank": 1641,
+          "root": "و ق ب",
+          "rootArabic": "وقب",
+          "count": 1,
+          "meaning": "dunkel werden, eindringen",
+          "laneReference": "https://ejtaal.net/aa/#ll=wqb"
+        },
+        {
+          "rank": 1642,
+          "root": "ن ف ث",
+          "rootArabic": "نفث",
+          "count": 1,
+          "meaning": "blasen, aushauchen",
+          "laneReference": "https://ejtaal.net/aa/#ll=nfv"
         }
       ]
     }
