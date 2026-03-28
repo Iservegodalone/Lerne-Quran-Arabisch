@@ -56,4 +56,4 @@ npm run test:e2e    # E2E Tests
 
 ## Lizenz
 
-Alle Rechte vorbehalten.
+MIT License — siehe [LICENSE](LICENSE).
