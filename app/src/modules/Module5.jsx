@@ -288,7 +288,7 @@ const STARTER_VERSES = [
   { surah: 1, verse: 3, analysis: "Fortfuehrung: الرحمن الرحيم als Sifa oder Badal zu الله/رب. Beide Nominativ." },
   { surah: 1, verse: 4, analysis: "ملك/مالك (Ambiguität: Besitzer/König/Herrschaft) + Idafa mit يوم الدين. Genitiv-Kette." },
   { surah: 1, verse: 5, analysis: "Verbalsatz mit vorangestelltem Objekt: إياك (Akkusativ, betont) نعبد (Imperfekt 1.pl). Doppelte Struktur mit و." },
-  { surah: 1, verse: 6, analysis: "Imperativ-Bitte: اهدنا (Form I Imperativ + Suffix 1.pl). الصراط المستقيم (Objekt, Akkusativ + Sifa)." },
+  { surah: 1, verse: 6, analysis: "Imperativ: اهدنا (Form I Imperativ + Suffix 1.pl). الصراط المستقيم (Objekt, Akkusativ + Sifa)." },
   { surah: 1, verse: 7, analysis: "Sifa: صراط الذين (Badal). Relativsatz: أنعمت عليهم. Ausnahme: غير المغضوب عليهم. Koordination: ولا الضالين." },
   { surah: 2, verse: 2, analysis: "ذلك الكتاب: Demonstrativ + Nomen. لا ريب فيه: Genus-Negation. هدى للمتقين: Hal oder zweites Khabar." },
   { surah: 2, verse: 255, analysis: "Komplexer Nominalsatz: الله لا اله الا هو (Genus-Negation + Ausnahme). الحي القيوم (Sifa oder Khabar — beide Analysen syntaktisch moeglich). لا تأخذه سنة ولا نوم (Genus-Negation). Mehrere Relativsätze." },

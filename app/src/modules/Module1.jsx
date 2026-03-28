@@ -615,7 +615,7 @@ function Lesson13({ onBack }) {
               <span className="m1-feature-info">Zweitstaerkster → Waw-Träger</span>
             </div>
             <div className="m1-feature-box">
-              <span className="m1-feature-arabic arabic">أ / إ</span>
+              <span className="m1-feature-arabic arabic">أ</span>
               <span className="m1-feature-label">Fatha (a)</span>
               <span className="m1-feature-info">Drittstaerkster → Alif-Träger</span>
             </div>

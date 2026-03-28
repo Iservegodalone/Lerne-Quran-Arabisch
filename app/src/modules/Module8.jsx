@@ -255,7 +255,7 @@ function LayerCompareView({ onBack }) {
       <button onClick={onBack} style={{ background: 'none', border: 'none', color: 'var(--text-secondary)', cursor: 'pointer', fontSize: '0.9rem', padding: '8px 0', marginBottom: 12 }}>Zurück</button>
       <h2 style={{ marginBottom: '4px' }}>Schichten-Vergleich</h2>
       <p style={{ color: 'var(--text-secondary)', marginBottom: '16px', fontSize: '0.9rem' }}>
-        Derselbe Vers in allen 4 historischen Textschichten — vom ältesten Manuskript (Rasm) bis zur vollen Vokalisierung.
+        Derselbe Vers in allen 4 historischen Textschichten — von der aeltesten Textschicht (Rasm) bis zur vollen Vokalisierung.
       </p>
 
       {/* Navigation */}
@@ -2534,7 +2534,7 @@ export default function Module8() {
           }}>
             <div style={{ fontWeight: 600, marginBottom: '4px', color: 'var(--accent-teal)' }}>Schichten-Vergleich</div>
             <div style={{ fontSize: '0.85rem', color: 'var(--text-secondary)' }}>
-              Alle 4 Textschichten nebeneinander: Rasm, Konsonantal, Uthmani, Vokalisiert — der Weg vom ältesten Manuskript zum voll vokalisierten Text.
+              Alle 4 Textschichten nebeneinander: Rasm, Konsonantal, Uthmani, Vokalisiert — der Weg von der aeltesten Textschicht zum voll vokalisierten Text.
             </div>
           </button>
           <button onClick={() => setView(VIEWS.LAYER_BUILDUP)} style={{

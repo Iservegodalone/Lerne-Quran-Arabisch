@@ -27,6 +27,7 @@ import mafUlLiajlihiData from '../data/maf-ul-liajlihi.json';
 import wawDisambigData from '../data/waw-disambiguation.json';
 import jumlaFiMahallData from '../data/jumla-fi-mahall.json';
 import mafUlMaathuData from '../data/maf-ul-maahu.json';
+import negationData from '../data/negation-syntax.json';
 
 /* ================================================================
    Modul 7 — Fortgeschrittene Stufen (5–12) + Balagha (Rhetorik)
@@ -62,6 +63,7 @@ const mafUlLiajlihiLessons = mafUlLiajlihiData?.lessons || [];
 const wawDisambigLessons = wawDisambigData?.lessons || [];
 const jumlaFiMahallLessons = jumlaFiMahallData?.lessons || [];
 const mafUlMaathuLessons = mafUlMaathuData?.lessons || [];
+const negationLessons = negationData?.lessons || [];
 
 // ───────────────────────────── styles ──────────────────────────────
 
@@ -410,6 +412,7 @@ export default function Module7() {
     const prefixSources = [
       { prefix: 'nisba_', lessons: nisbaLessons },
       { prefix: 'lanes_', lessons: lanesGuideLessons },
+      { prefix: 'neg_', lessons: negationLessons },
       { prefix: 'cond_', lessons: conditionalLessons },
       { prefix: 'interr_', lessons: interrogativeLessons },
       { prefix: 'istithna_', lessons: istithnaLessons },
@@ -703,6 +706,7 @@ export default function Module7() {
 
         {/* Additional Grammar Sections */}
         {[
+          { lessons: negationLessons, prefix: 'neg_', title: 'Negation (النفي)', sub: 'لا, لم, لن, ما, ليس — Wirkung auf Kasus und Modus.', color: '#1b5e20' },
           { lessons: conditionalLessons, prefix: 'cond_', title: 'Konditionalsätze (الشرط)', sub: 'Real vs. irreal, Partikelrektion, Jussiv-Auslössung.', color: '#00695c' },
           { lessons: interrogativeLessons, prefix: 'interr_', title: 'Fragepartikel-System (الاستفهام)', sub: 'أ vs. هل, W-Fragen, rhetorische Frage.', color: '#4527a0' },
           { lessons: istithnaLessons, prefix: 'istithna_', title: 'Ausnahmesyntax (الاستثناء)', sub: 'إلا, غير, سوى — Kasusregeln in positiven und verneinten Sätzen.', color: '#ad1457' },
