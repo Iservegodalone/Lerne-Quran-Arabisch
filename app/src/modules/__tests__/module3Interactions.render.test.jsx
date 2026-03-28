@@ -154,13 +154,13 @@ describe('Module3 — Vers-Werkstatt', () => {
     })
   })
 
-  it('shows step indicators (Markieren, Analysieren, Fertig, Hoeren)', async () => {
+  it('shows step indicators (Markieren, Analysieren, Fertig, Hören)', async () => {
     renderModule3()
     await waitFor(() => {
       expect(screen.getByText('Markieren')).toBeTruthy()
       expect(screen.getByText('Analysieren')).toBeTruthy()
       expect(screen.getByText('Fertig')).toBeTruthy()
-      expect(screen.getByText('Hoeren')).toBeTruthy()
+      expect(screen.getByText('Hören')).toBeTruthy()
     })
   })
 

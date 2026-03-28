@@ -10,10 +10,10 @@ import { cleanArabicText } from '../utils/arabic.js'
 const CATEGORY_LABELS = {
   reading_variant: 'Lesevariante',
   active_passive: 'Aktiv/Passiv',
-  form_ambiguity: 'Stammform-Ambiguitaet',
-  root_ambiguity: 'Wurzel-Ambiguitaet',
-  case_ambiguity: 'Kasus-Ambiguitaet',
-  pos_ambiguity: 'Wortart-Ambiguitaet',
+  form_ambiguity: 'Stammform-Ambiguität',
+  root_ambiguity: 'Wurzel-Ambiguität',
+  case_ambiguity: 'Kasus-Ambiguität',
+  pos_ambiguity: 'Wortart-Ambiguität',
 }
 
 const CATEGORY_COLORS = {
@@ -131,12 +131,12 @@ export default function AmbiguityExercise({ onBack }) {
       <button onClick={onBack} style={{
         background: 'none', border: 'none', color: 'var(--text-secondary)',
         cursor: 'pointer', fontSize: '0.9rem', padding: '8px 0', marginBottom: '12px',
-      }}>Zurueck zur Uebersicht</button>
+      }}>Zurück zur Übersicht</button>
 
-      <h2 style={{ marginBottom: '4px' }}>Ambiguitaetsuebung</h2>
+      <h2 style={{ marginBottom: '4px' }}>Ambiguitätsuebung</h2>
       <p style={{ color: 'var(--text-secondary)', fontSize: '0.85rem', marginBottom: '16px' }}>
-        Der Konsonantentext laesst an vielen Stellen mehrere grammatisch korrekte Vokalisierungen zu.
-        Diese Uebung trainiert das Erkennen ALLER moeglichen Lesarten.
+        Der Konsonantentext lässt an vielen Stellen mehrere grammatisch korrekte Vokalisierungen zu.
+        Diese Übung trainiert das Erkennen ALLER möglichen Lesarten.
       </p>
 
       {/* Mode tabs */}
@@ -192,7 +192,7 @@ export default function AmbiguityExercise({ onBack }) {
               padding: '6px 14px', borderRadius: 'var(--radius-sm)', cursor: 'pointer',
               background: 'var(--bg-card)', border: '1px solid var(--border)', color: 'var(--text-primary)',
               opacity: currentIdx === 0 ? 0.4 : 1,
-            }}>Zurueck</button>
+            }}>Zurück</button>
             <span style={{ fontSize: '0.85rem', color: 'var(--text-muted)' }}>
               {currentIdx + 1} / {filtered.length}
             </span>
@@ -204,7 +204,7 @@ export default function AmbiguityExercise({ onBack }) {
             <button onClick={goRandom} style={{
               padding: '6px 14px', borderRadius: 'var(--radius-sm)', cursor: 'pointer',
               background: 'var(--bg-card)', border: '1px solid var(--border)', color: 'var(--text-primary)',
-            }}>Zufaellig</button>
+            }}>Zufällig</button>
           </div>
 
           {/* Exercise card */}
@@ -256,8 +256,8 @@ export default function AmbiguityExercise({ onBack }) {
               padding: '16px', background: 'var(--bg-card)', border: '1px solid var(--border)',
               borderRadius: 'var(--radius)', color: 'var(--text-secondary)', fontSize: '0.9rem',
             }}>
-              Kein bekannter Ambiguitaetseintrag fuer diese Form. Das bedeutet nicht, dass keine
-              Ambiguitaet besteht — nur dass sie nicht in der Datenbank erfasst ist.
+              Kein bekannter Ambiguitätseintrag für diese Form. Das bedeutet nicht, dass keine
+              Ambiguität besteht — nur dass sie nicht in der Datenbank erfasst ist.
             </div>
           )}
 
@@ -282,9 +282,9 @@ export default function AmbiguityExercise({ onBack }) {
         background: 'var(--accent-gold-bg)', border: '1px solid var(--accent-gold)',
         fontSize: '0.8rem', lineHeight: 1.7, color: 'var(--text-primary)',
       }}>
-        Ambiguitaet ist kein Defekt des Textes. Sie ist eine strukturelle Eigenschaft des Konsonantentextes.
-        In ueber 95% der Faelle erzwingt der grammatische Kontext eine einzige Lesung. In den
-        verbleibenden Faellen sind mehrere Lesungen grammatisch gleich berechtigt.
+        Ambiguität ist kein Defekt des Textes. Sie ist eine strukturelle Eigenschaft des Konsonantentextes.
+        In über 95% der Fälle erzwingt der grammatische Kontext eine einzige Lesung. In den
+        verbleibenden Fällen sind mehrere Lesungen grammatisch gleich berechtigt.
       </div>
     </div>
   )
@@ -343,12 +343,12 @@ function ExerciseCard({ entry, userInputs, currentInput, setCurrentInput, submit
             padding: '10px 16px', borderRadius: 'var(--radius)', cursor: 'pointer',
             background: 'var(--accent-teal-bg)', border: '1px solid var(--accent-teal)',
             color: 'var(--accent-teal)', fontWeight: 600, fontSize: '0.9rem',
-          }}>Pruefen</button>
+          }}>Prüfen</button>
           <button onClick={reveal} style={{
             padding: '10px 16px', borderRadius: 'var(--radius)', cursor: 'pointer',
             background: 'var(--bg-input)', border: '1px solid var(--border)',
             color: 'var(--text-secondary)', fontSize: '0.9rem',
-          }}>Aufloesung</button>
+          }}>Auflösung</button>
         </div>
       )}
 
@@ -377,7 +377,7 @@ function ExerciseCard({ entry, userInputs, currentInput, setCurrentInput, submit
       {revealed && (
         <div style={{ display: 'flex', flexDirection: 'column', gap: '8px' }}>
           <h4 style={{ color: 'var(--text-primary)', marginBottom: '4px' }}>
-            Alle grammatisch moeglichen Lesarten ({totalOptions}):
+            Alle grammatisch möglichen Lesarten ({totalOptions}):
           </h4>
           {entry.options.map((opt, i) => {
             const wasFound = matchedOptions.has(opt.vocalized)

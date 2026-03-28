@@ -2,7 +2,10 @@
   "meta": {
     "description": "Proper names (PN) from Quranic morphology database",
     "totalOccurrences": 3911,
-    "uniqueNames": 304
+    "uniqueNames": 304,
+    "sources": [
+      { "name": "Quranic Arabic Corpus", "url": "https://corpus.quran.com/" }
+    ]
   },
   "names": [
     {
@@ -2880,7 +2883,7 @@
     },
     {
       "name": "إِسْرَٰٕءِيلَ",
-      "consonantal": "بني",
+      "consonantal": "إسرائيل",
       "root": null,
       "locations": [
         "2:40:2",
@@ -3465,7 +3468,7 @@
     },
     {
       "name": "يَٰمُوسَىٰ",
-      "consonantal": "يا",
+      "consonantal": "موسى",
       "root": null,
       "locations": [
         "2:55:3",
@@ -3505,7 +3508,7 @@
     },
     {
       "name": "يَٰمُوسَىٰٕ",
-      "consonantal": "يا",
+      "consonantal": "موسى",
       "root": null,
       "locations": [
         "5:22:2",
@@ -4172,7 +4175,7 @@
     },
     {
       "name": "يَٰمَرْيَمُ",
-      "consonantal": "يا",
+      "consonantal": "مريم",
       "root": null,
       "locations": [
         "3:37:19",
@@ -4256,7 +4259,7 @@
     },
     {
       "name": "يَٰٕـَِادَمُ",
-      "consonantal": "يا",
+      "consonantal": "آدم",
       "root": null,
       "locations": [
         "2:33:2",
@@ -4360,7 +4363,7 @@
     },
     {
       "name": "يَٰنُوحُ",
-      "consonantal": "يا",
+      "consonantal": "نوح",
       "root": null,
       "locations": [
         "11:32:2",
@@ -4373,7 +4376,7 @@
     },
     {
       "name": "يَٰٕإِبْرَٰهِيمُ",
-      "consonantal": "يا",
+      "consonantal": "إبراهيم",
       "root": null,
       "locations": [
         "11:76:1",
@@ -4546,7 +4549,7 @@
     },
     {
       "name": "يَٰعِيسَى",
-      "consonantal": "يا",
+      "consonantal": "عيسى",
       "root": null,
       "locations": [
         "5:110:4",
@@ -4558,7 +4561,7 @@
     },
     {
       "name": "يَٰشُعَيْبُ",
-      "consonantal": "يا",
+      "consonantal": "شعيب",
       "root": null,
       "locations": [
         "7:88:8",
@@ -4641,7 +4644,7 @@
       "diptote": true
     },
     {
-      "name": "وَثَمُودَا@",
+      "name": "وَثَمُودَا",
       "consonantal": "وثمود",
       "root": null,
       "locations": [
@@ -4865,7 +4868,7 @@
     },
     {
       "name": "يَٰصَٰلِحُ",
-      "consonantal": "يا",
+      "consonantal": "صالح",
       "root": "ص ل ح",
       "locations": [
         "7:77:8",
@@ -4876,7 +4879,7 @@
     },
     {
       "name": "يَٰفِرْعَوْنُ",
-      "consonantal": "يا",
+      "consonantal": "فرعون",
       "root": null,
       "locations": [
         "7:104:3",
@@ -4887,7 +4890,7 @@
     },
     {
       "name": "يَٰمُوسَى",
-      "consonantal": "يا",
+      "consonantal": "موسى",
       "root": null,
       "locations": [
         "7:134:6",
@@ -4975,7 +4978,7 @@
     },
     {
       "name": "يَٰلُوطُ",
-      "consonantal": "يا",
+      "consonantal": "لوط",
       "root": null,
       "locations": [
         "11:81:2",
@@ -5008,7 +5011,7 @@
     },
     {
       "name": "يَٰٕإِبْلِيسُ",
-      "consonantal": "يا",
+      "consonantal": "إبليس",
       "root": null,
       "locations": [
         "15:32:2",
@@ -5129,7 +5132,7 @@
     },
     {
       "name": "يَٰهَٰمَٰنُ",
-      "consonantal": "لي",
+      "consonantal": "هامان",
       "root": null,
       "locations": [
         "28:38:13",
@@ -5304,7 +5307,7 @@
     },
     {
       "name": "ٱلسِّلْمِ",
-      "consonantal": "في",
+      "consonantal": "سلم",
       "root": "س ل م",
       "locations": [
         "2:208:6"
@@ -5384,7 +5387,7 @@
     },
     {
       "name": "يَٰعِيسَىٰٕ",
-      "consonantal": "يا",
+      "consonantal": "عيسى",
       "root": null,
       "locations": [
         "3:55:4"
@@ -5594,7 +5597,7 @@
     },
     {
       "name": "وَيَٰٕـَِادَمُ",
-      "consonantal": "ويا",
+      "consonantal": "آدم",
       "root": null,
       "locations": [
         "7:19:1"
@@ -5724,7 +5727,7 @@
     },
     {
       "name": "يَٰهُودُ",
-      "consonantal": "يا",
+      "consonantal": "هود",
       "root": "ه و د",
       "locations": [
         "11:53:2"
@@ -5743,7 +5746,7 @@
       "diptote": true
     },
     {
-      "name": "ثَمُودَا@",
+      "name": "ثَمُودَا",
       "consonantal": "ثمود",
       "root": null,
       "locations": [
@@ -5764,7 +5767,7 @@
     },
     {
       "name": "صَٰلِحٍ",
-      "consonantal": "قوم",
+      "consonantal": "صالح",
       "root": "ص ل ح",
       "locations": [
         "11:89:17"
@@ -5864,7 +5867,7 @@
     },
     {
       "name": "يَأْجُوجَ",
-      "consonantal": "إن",
+      "consonantal": "يأجوج",
       "root": null,
       "locations": [
         "18:94:5"
@@ -5904,7 +5907,7 @@
     },
     {
       "name": "يَٰزَكَرِيَّإ",
-      "consonantal": "يا",
+      "consonantal": "زكريا",
       "root": null,
       "locations": [
         "19:7:1"
@@ -5914,7 +5917,7 @@
     },
     {
       "name": "يَٰيَحْيَىٰ",
-      "consonantal": "يا",
+      "consonantal": "يحيى",
       "root": null,
       "locations": [
         "19:12:1"
@@ -5954,7 +5957,7 @@
     },
     {
       "name": "يَٰهَٰرُونُ",
-      "consonantal": "يا",
+      "consonantal": "هارون",
       "root": null,
       "locations": [
         "20:92:2"
@@ -5964,7 +5967,7 @@
     },
     {
       "name": "يَٰسَٰمِرِىُّ",
-      "consonantal": "يا",
+      "consonantal": "سامري",
       "root": "س م ر",
       "locations": [
         "20:95:4"
@@ -6123,7 +6126,7 @@
       "diptote": true
     },
     {
-      "name": "سَبَإٍ]",
+      "name": "سَبَإٍ",
       "consonantal": "سبإ",
       "root": null,
       "locations": [
@@ -6194,7 +6197,7 @@
     },
     {
       "name": "يَثْرِبَ",
-      "consonantal": "أهل",
+      "consonantal": "يثرب",
       "root": null,
       "locations": [
         "33:13:6"
@@ -6274,7 +6277,7 @@
     },
     {
       "name": "إِلْ يَاسِينَ",
-      "consonantal": "إل",
+      "consonantal": "إل ياسين",
       "root": null,
       "locations": [
         "37:130:3"
@@ -6284,7 +6287,7 @@
     },
     {
       "name": "يَٰدَاوُ,دُ",
-      "consonantal": "يا",
+      "consonantal": "داود",
       "root": null,
       "locations": [
         "38:26:1"
@@ -6334,7 +6337,7 @@
     },
     {
       "name": "يَٰمَٰلِكُ",
-      "consonantal": "يا",
+      "consonantal": "مالك",
       "root": "م ل ك",
       "locations": [
         "43:77:2"
@@ -6423,7 +6426,7 @@
       "diptote": false
     },
     {
-      "name": "لُوطٍ]",
+      "name": "لُوطٍ",
       "consonantal": "لوط",
       "root": null,
       "locations": [
@@ -6464,7 +6467,7 @@
     },
     {
       "name": "ٱلْجُمُعَةِ",
-      "consonantal": "يوم",
+      "consonantal": "جمعة",
       "root": "ج م ع",
       "locations": [
         "62:9:9"
@@ -6503,7 +6506,7 @@
       "diptote": true
     },
     {
-      "name": "وَعَادٌ[",
+      "name": "وَعَادٌ",
       "consonantal": "وعاد",
       "root": "ع و د",
       "locations": [

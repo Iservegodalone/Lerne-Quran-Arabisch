@@ -278,8 +278,8 @@ export default function CongruenceDrill() {
                 onClick={check}
                 disabled={isFillBlank ? !userText.trim() : selected === null}
                 style={{ ...btnActive, opacity: (isFillBlank ? !userText.trim() : selected === null) ? 0.4 : 1 }}
-              >Pruefen</button>
-            : <button onClick={next} style={btnActive}>Naechste Aufgabe</button>
+              >Prüfen</button>
+            : <button onClick={next} style={btnActive}>Nächste Aufgabe</button>
           }
         </div>
       </div>

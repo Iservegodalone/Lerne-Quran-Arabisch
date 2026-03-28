@@ -39,7 +39,7 @@ const stores = {
   annotations: localforage.createInstance({
     name: 'quran-arabic',
     storeName: 'verse_annotations',
-    description: 'Persoenliche Vers-Notizen und Lesezeichen',
+    description: 'Persönliche Vers-Notizen und Lesezeichen',
   }),
 }
 

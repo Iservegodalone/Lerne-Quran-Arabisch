@@ -131,8 +131,8 @@ const noop = () => {}
 describe('IrabExercise: internal logic and user interactions', () => {
   it('renders the exercise heading and description', () => {
     render(<IrabExercise />)
-    expect(screen.getByText('Vollstaendiges Irab')).toBeTruthy()
-    expect(screen.getByText(/Bestimme fuer jedes Wort/)).toBeTruthy()
+    expect(screen.getByText('Vollständiges Irab')).toBeTruthy()
+    expect(screen.getByText(/Bestimme für jedes Wort/)).toBeTruthy()
   })
 
   it('renders a verse with Arabic text and word analysis rows', () => {
@@ -151,7 +151,7 @@ describe('IrabExercise: internal logic and user interactions', () => {
     render(<IrabExercise />)
     const user = userEvent.setup()
     // Get all role selects (the first dropdown for each word)
-    const roleSelects = screen.getAllByDisplayValue('-- Waehle --')
+    const roleSelects = screen.getAllByDisplayValue('-- Wähle --')
     expect(roleSelects.length).toBeGreaterThan(0)
     // Select a role on the first word's role dropdown
     await user.selectOptions(roleSelects[0], 'Mubtada')
@@ -161,14 +161,14 @@ describe('IrabExercise: internal logic and user interactions', () => {
   it('check button is disabled when not all answers are filled', () => {
     render(<IrabExercise />)
     // The check button includes the word count in its text
-    const checkBtn = screen.getByText(/Pruefen \(/)
+    const checkBtn = screen.getByText(/Prüfen \(/)
     expect(checkBtn.disabled).toBe(true)
   })
 
   it('reveals correct answers and shows score after check', async () => {
     render(<IrabExercise />)
     // Use fireEvent for speed — userEvent.selectOptions on many selects causes timeout
-    const selects = screen.getAllByDisplayValue('-- Waehle --')
+    const selects = screen.getAllByDisplayValue('-- Wähle --')
     // Each word has 2 selects (role, case) — fill them all with any value
     for (let i = 0; i < selects.length; i++) {
       const isRole = i % 2 === 0
@@ -177,21 +177,21 @@ describe('IrabExercise: internal logic and user interactions', () => {
       })
     }
     // Now check button should be enabled — click it
-    const checkBtn = screen.getByText(/Pruefen \(/)
+    const checkBtn = screen.getByText(/Prüfen \(/)
     expect(checkBtn.disabled).toBe(false)
     fireEvent.click(checkBtn)
     // After check, should show score and explanation text
     const korrektElements = screen.getAllByText(/korrekt/)
     expect(korrektElements.length).toBeGreaterThan(0)
-    // The "Naechster Vers" button should appear
-    expect(screen.getByText(/Naechster Vers/)).toBeTruthy()
+    // The "Nächster Vers" button should appear
+    expect(screen.getByText(/Nächster Vers/)).toBeTruthy()
   })
 
-  it('navigates to next exercise when clicking Naechster Vers', async () => {
+  it('navigates to next exercise when clicking Nächster Vers', async () => {
     render(<IrabExercise />)
     const user = userEvent.setup()
     // Fill in all dropdowns and check
-    const selects = screen.getAllByDisplayValue('-- Waehle --')
+    const selects = screen.getAllByDisplayValue('-- Wähle --')
     for (let i = 0; i < selects.length; i++) {
       const isRole = i % 2 === 0
       if (isRole) {
@@ -200,9 +200,9 @@ describe('IrabExercise: internal logic and user interactions', () => {
         await user.selectOptions(selects[i], 'Indeklinabel')
       }
     }
-    await user.click(screen.getByText(/Pruefen \(/))
+    await user.click(screen.getByText(/Prüfen \(/))
     // Now click next
-    const nextBtn = screen.getByText(/Naechster Vers/)
+    const nextBtn = screen.getByText(/Nächster Vers/)
     await user.click(nextBtn)
     // The ref should change from 1:2 to the next exercise (1:5)
     expect(screen.getByText('1:5')).toBeTruthy()
@@ -225,7 +225,7 @@ describe('ParadigmDrill: internal logic and user interactions', () => {
   it('shows verb type options', () => {
     render(<ParadigmDrill onBack={noop} />)
     // Check that verb type options exist
-    expect(screen.getByText(/Regulaer/)).toBeTruthy()
+    expect(screen.getByText(/Regulär/)).toBeTruthy()
   })
 
   it('starts a table drill when clicking a start button', async () => {
@@ -248,7 +248,7 @@ describe('ParadigmDrill: internal logic and user interactions', () => {
     const onBack = vi.fn()
     render(<ParadigmDrill onBack={onBack} />)
     const user = userEvent.setup()
-    const backBtns = screen.getAllByText(/Zurueck/)
+    const backBtns = screen.getAllByText(/Zurück/)
     await user.click(backBtns[0])
     expect(onBack).toHaveBeenCalled()
   })
@@ -303,8 +303,8 @@ describe('VocalizationExercise: internal logic and user interactions', () => {
     // Click the first word
     const wordButtons = document.querySelectorAll('button.arabic')
     await user.click(wordButtons[0])
-    // The first step asks "Was fuer ein Wort ist das?"
-    expect(screen.getByText('Was fuer ein Wort ist das?')).toBeTruthy()
+    // The first step asks "Was für ein Wort ist das?"
+    expect(screen.getByText('Was für ein Wort ist das?')).toBeTruthy()
     // Click "Partikel (Harf)"
     const harfBtn = screen.getByText('Partikel (Harf)')
     await user.click(harfBtn)
@@ -316,7 +316,7 @@ describe('VocalizationExercise: internal logic and user interactions', () => {
     const onBack = vi.fn()
     render(<VocalizationExercise onBack={onBack} />)
     const user = userEvent.setup()
-    await user.click(screen.getByText('Zurueck zur Uebersicht'))
+    await user.click(screen.getByText('Zurück zur Übersicht'))
     expect(onBack).toHaveBeenCalled()
   })
 })
@@ -344,8 +344,8 @@ describe('ContinuousReader: internal logic and user interactions', () => {
 
   it('renders verse content and navigation buttons', () => {
     render(<ContinuousReader initialSurah={1} initialVerse={1} onClose={noop} />)
-    // Should show "Zurueck" and "Weiter" page navigation
-    expect(screen.getByText('Zurueck')).toBeTruthy()
+    // Should show "Zurück" and "Weiter" page navigation
+    expect(screen.getByText('Zurück')).toBeTruthy()
     expect(screen.getByText('Weiter')).toBeTruthy()
     // Should show verse range info
     expect(screen.getByText(/Sure 1/)).toBeTruthy()
@@ -377,7 +377,7 @@ describe('ContinuousReader: internal logic and user interactions', () => {
 describe('AmbiguityExercise: internal logic and user interactions', () => {
   it('renders heading and description', () => {
     render(<AmbiguityExercise onBack={noop} />)
-    expect(screen.getByText(/Ambiguitaetsuebung/)).toBeTruthy()
+    expect(screen.getByText(/Ambiguitätsuebung/)).toBeTruthy()
     // The description mentions "Konsonantentext" — use getAllByText since it may appear in
     // both the description and the educational note at the bottom
     const konsonantenElements = screen.getAllByText(/Konsonantentext/)
@@ -393,25 +393,25 @@ describe('AmbiguityExercise: internal logic and user interactions', () => {
   it('shows guided mode by default with a consonantal form', () => {
     render(<AmbiguityExercise onBack={noop} />)
     // In guided mode, should show navigation buttons and the exercise counter
-    // Use getAllByText since "Zurueck" appears in both the back button and the nav button
-    const zurueckElements = screen.getAllByText(/Zurueck/)
-    expect(zurueckElements.length).toBeGreaterThanOrEqual(2) // "Zurueck zur Uebersicht" + nav "Zurueck"
+    // Use getAllByText since "Zurück" appears in both the back button and the nav button
+    const zurückElements = screen.getAllByText(/Zurück/)
+    expect(zurückElements.length).toBeGreaterThanOrEqual(2) // "Zurück zur Übersicht" + nav "Zurück"
     expect(screen.getByText('Weiter')).toBeTruthy()
     // Should show "1 /" indicating first exercise
     expect(screen.getByText(/1 \//)).toBeTruthy()
   })
 
-  it('shows the reveal button (Aufloesung)', () => {
+  it('shows the reveal button (Auflösung)', () => {
     render(<AmbiguityExercise onBack={noop} />)
-    expect(screen.getByText('Aufloesung')).toBeTruthy()
+    expect(screen.getByText('Auflösung')).toBeTruthy()
   })
 
-  it('clicking Aufloesung reveals all valid options', async () => {
+  it('clicking Auflösung reveals all valid options', async () => {
     render(<AmbiguityExercise onBack={noop} />)
     const user = userEvent.setup()
-    await user.click(screen.getByText('Aufloesung'))
-    // After revealing, should show "Alle grammatisch moeglichen Lesarten"
-    expect(screen.getByText(/Alle grammatisch moeglichen Lesarten/)).toBeTruthy()
+    await user.click(screen.getByText('Auflösung'))
+    // After revealing, should show "Alle grammatisch möglichen Lesarten"
+    expect(screen.getByText(/Alle grammatisch möglichen Lesarten/)).toBeTruthy()
   })
 
   it('tracks found count in the session score', () => {
@@ -477,7 +477,7 @@ describe('SentenceDiagram: internal logic and user interactions', () => {
     // After clicking, the role selector should appear with syntactic roles
     await waitFor(() => {
       // Check for role options — the selector shows role labels like "Partikel (Harf)"
-      expect(screen.getByText(/Rolle fuer Wort 1/)).toBeTruthy()
+      expect(screen.getByText(/Rolle für Wort 1/)).toBeTruthy()
     })
   })
 })
@@ -497,7 +497,7 @@ describe('GrammarSidebar: internal logic and user interactions', () => {
     render(<GrammarSidebar visible={true} onClose={noop} />)
     expect(screen.getByText('Grammatik-Referenz')).toBeTruthy()
     // Should have the close button with aria-label
-    expect(screen.getByLabelText('Seitenleiste schliessen')).toBeTruthy()
+    expect(screen.getByLabelText('Seitenleiste schließen')).toBeTruthy()
   })
 
   it('renders all 7 tab buttons', () => {
@@ -516,7 +516,7 @@ describe('GrammarSidebar: internal logic and user interactions', () => {
   it('defaults to Konjugation tab and renders conjugation content', () => {
     render(<GrammarSidebar visible={true} onClose={noop} />)
     // The Konjugation tab should be active — check for form selector
-    const formSelect = screen.getByLabelText('Verbform auswaehlen')
+    const formSelect = screen.getByLabelText('Verbform auswählen')
     expect(formSelect).toBeTruthy()
   })
 
@@ -552,7 +552,7 @@ describe('GrammarSidebar: internal logic and user interactions', () => {
     const onClose = vi.fn()
     render(<GrammarSidebar visible={true} onClose={onClose} />)
     const user = userEvent.setup()
-    await user.click(screen.getByLabelText('Seitenleiste schliessen'))
+    await user.click(screen.getByLabelText('Seitenleiste schließen'))
     expect(onClose).toHaveBeenCalled()
   })
 
@@ -590,12 +590,12 @@ describe('MasdarDrill: internal logic and user interactions', () => {
     render(<MasdarDrill />)
     const user = userEvent.setup()
     await user.click(screen.getByText('Drill'))
-    // In drill mode, should show "Aufgabe 1/" and "Pruefen" button
+    // In drill mode, should show "Aufgabe 1/" and "Prüfen" button
     expect(screen.getByText(/Aufgabe 1\//)).toBeTruthy()
-    expect(screen.getByText('Pruefen')).toBeTruthy()
+    expect(screen.getByText('Prüfen')).toBeTruthy()
   })
 
-  it('selecting an option and clicking Pruefen shows feedback', async () => {
+  it('selecting an option and clicking Prüfen shows feedback', async () => {
     render(<MasdarDrill />)
     const user = userEvent.setup()
     await user.click(screen.getByText('Drill'))
@@ -604,8 +604,8 @@ describe('MasdarDrill: internal logic and user interactions', () => {
     const optionButtons = document.querySelectorAll('button[style*="text-align: left"]')
     expect(optionButtons.length).toBe(4) // 4 multiple-choice options
     await user.click(optionButtons[0])
-    // Now click Pruefen
-    await user.click(screen.getByText('Pruefen'))
+    // Now click Prüfen
+    await user.click(screen.getByText('Prüfen'))
     // After checking, should show either "Richtig!" or "Falsch."
     const html = document.body.innerHTML
     expect(html.includes('Richtig!') || html.includes('Falsch.')).toBe(true)
@@ -613,16 +613,16 @@ describe('MasdarDrill: internal logic and user interactions', () => {
     expect(screen.getByText(/Punkte:/)).toBeTruthy()
   })
 
-  it('clicking Naechste Aufgabe navigates to next exercise', async () => {
+  it('clicking Nächste Aufgabe navigates to next exercise', async () => {
     render(<MasdarDrill />)
     const user = userEvent.setup()
     await user.click(screen.getByText('Drill'))
     // Select first option and check
     const optionButtons = document.querySelectorAll('button[style*="text-align: left"]')
     await user.click(optionButtons[0])
-    await user.click(screen.getByText('Pruefen'))
-    // Now click "Naechste Aufgabe"
-    await user.click(screen.getByText('Naechste Aufgabe'))
+    await user.click(screen.getByText('Prüfen'))
+    // Now click "Nächste Aufgabe"
+    await user.click(screen.getByText('Nächste Aufgabe'))
     // Should show "Aufgabe 2/"
     expect(screen.getByText(/Aufgabe 2\//)).toBeTruthy()
   })
@@ -649,9 +649,9 @@ describe('CongruenceDrill: internal logic and user interactions', () => {
     render(<CongruenceDrill />)
     const user = userEvent.setup()
     await user.click(screen.getByText('Drill'))
-    // In drill mode, should show exercise counter and Pruefen button
+    // In drill mode, should show exercise counter and Prüfen button
     expect(screen.getByText(/Aufgabe 1\//)).toBeTruthy()
-    expect(screen.getByText('Pruefen')).toBeTruthy()
+    expect(screen.getByText('Prüfen')).toBeTruthy()
   })
 
   it('selecting an option and checking shows correct/incorrect feedback', async () => {
@@ -663,7 +663,7 @@ describe('CongruenceDrill: internal logic and user interactions', () => {
     // Some exercises may be fill_blank type — if so, we check for input
     if (optionButtons.length >= 4) {
       await user.click(optionButtons[0])
-      await user.click(screen.getByText('Pruefen'))
+      await user.click(screen.getByText('Prüfen'))
       const html = document.body.innerHTML
       expect(html.includes('Richtig!') || html.includes('Falsch.')).toBe(true)
     } else {
@@ -671,7 +671,7 @@ describe('CongruenceDrill: internal logic and user interactions', () => {
       const input = document.querySelector('input[type="text"]')
       if (input) {
         await user.type(input, 'test')
-        await user.click(screen.getByText('Pruefen'))
+        await user.click(screen.getByText('Prüfen'))
         const html = document.body.innerHTML
         expect(html.includes('Richtig!') || html.includes('Nicht ganz.')).toBe(true)
       }
@@ -690,9 +690,9 @@ describe('CongruenceDrill: internal logic and user interactions', () => {
       const input = document.querySelector('input[type="text"]')
       if (input) await user.type(input, 'test')
     }
-    await user.click(screen.getByText('Pruefen'))
+    await user.click(screen.getByText('Prüfen'))
     // Click next
-    await user.click(screen.getByText('Naechste Aufgabe'))
+    await user.click(screen.getByText('Nächste Aufgabe'))
     expect(screen.getByText(/Aufgabe 2\//)).toBeTruthy()
   })
 })

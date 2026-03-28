@@ -142,7 +142,7 @@ function getLeechCount(cards) {
 // ============================================================================
 
 const ARABIC_LETTERS = [
-  { letter: 'ا', name: 'Alif', sound: 'a / Stimmabsatz', transliteration: 'ā / ʾ' },
+  { letter: 'ا', name: 'Alif', sound: 'a / Vokalträger', transliteration: 'ā / ʾ' },
   { letter: 'ب', name: 'Ba', sound: 'b', transliteration: 'b' },
   { letter: 'ت', name: 'Ta', sound: 't', transliteration: 't' },
   { letter: 'ث', name: 'Tha', sound: 'th (engl.)', transliteration: 'ṯ' },
@@ -157,7 +157,7 @@ const ARABIC_LETTERS = [
   { letter: 'ش', name: 'Schin', sound: 'sch', transliteration: 'š' },
   { letter: 'ص', name: 'Sad', sound: 's (emphatisch)', transliteration: 'ṣ' },
   { letter: 'ض', name: 'Dad', sound: 'd (emphatisch)', transliteration: 'ḍ' },
-  { letter: 'ط', name: 'Ta', sound: 't (emphatisch)', transliteration: 'ṭ' },
+  { letter: 'ط', name: 'Taa', sound: 't (emphatisch)', transliteration: 'ṭ' },
   { letter: 'ظ', name: 'Dha', sound: 'dh (emphatisch)', transliteration: 'ẓ' },
   { letter: 'ع', name: 'Ain', sound: 'stimmhafter Kehllaut', transliteration: 'ʿ' },
   { letter: 'غ', name: 'Ghain', sound: 'gh (wie fr. r)', transliteration: 'ġ' },
@@ -283,31 +283,31 @@ function generateMorphologyCards() {
 // ============================================================================
 
 const STARTER_VERSES = [
-  { surah: 1, verse: 1, analysis: "Jarr wa-majrur (بسم) + Idafa-Kette. Wurzeln: س-م-و (Erhoehung) oder و-س-م (Kennzeichnung) — beide Ableitungen werden diskutiert (اسم), ا-ل-ه (Gott), ر-ح-م (Barmherzigkeit). Zwei Intensivformen: الرحمن (fa'lān) und الرحيم (fa'īl)." },
+  { surah: 1, verse: 1, analysis: "Jarr wa-majrur (بسم) + Idafa-Kette. Wurzeln: س-م-و (Erhöhung) oder و-س-م (Kennzeichnung) — beide Ableitungen werden diskutiert (اسم), ا-ل-ه (Gott), ر-ح-م (Barmherzigkeit). Zwei Intensivformen: الرحمن (fa'lān) und الرحيم (fa'īl)." },
   { surah: 1, verse: 2, analysis: "Nominalsatz. الحمد (Mubtada') لله (Khabar). رب (Badal/Sifa) + Idafa mit العالمين (Genitiv Plural maskulin gesund)." },
   { surah: 1, verse: 3, analysis: "Fortfuehrung: الرحمن الرحيم als Sifa oder Badal zu الله/رب. Beide Nominativ." },
-  { surah: 1, verse: 4, analysis: "ملك/مالك (Ambiguitaet: Besitzer/Koenig/Herrschaft) + Idafa mit يوم الدين. Genitiv-Kette." },
+  { surah: 1, verse: 4, analysis: "ملك/مالك (Ambiguität: Besitzer/König/Herrschaft) + Idafa mit يوم الدين. Genitiv-Kette." },
   { surah: 1, verse: 5, analysis: "Verbalsatz mit vorangestelltem Objekt: إياك (Akkusativ, betont) نعبد (Imperfekt 1.pl). Doppelte Struktur mit و." },
   { surah: 1, verse: 6, analysis: "Imperativ-Bitte: اهدنا (Form I Imperativ + Suffix 1.pl). الصراط المستقيم (Objekt, Akkusativ + Sifa)." },
   { surah: 1, verse: 7, analysis: "Sifa: صراط الذين (Badal). Relativsatz: أنعمت عليهم. Ausnahme: غير المغضوب عليهم. Koordination: ولا الضالين." },
   { surah: 2, verse: 2, analysis: "ذلك الكتاب: Demonstrativ + Nomen. لا ريب فيه: Genus-Negation. هدى للمتقين: Hal oder zweites Khabar." },
-  { surah: 2, verse: 255, analysis: "Komplexer Nominalsatz: الله لا اله الا هو (Genus-Negation + Ausnahme). الحي القيوم (Sifa). لا تأخذه سنة ولا نوم (Genus-Negation). Mehrere Relativsaetze." },
-  { surah: 112, verse: 1, analysis: "Imperativ: قل (Form I). هو الله احد: Nominalsatz. هو = Personalpronomen (Rueckbezug) oder Damir al-Sha'n (Pronomen der Sache) — beide Analysen sind moeglich. الله = Mubtada'. احد = Khabar." },
-  { surah: 112, verse: 2, analysis: "الله الصمد: Nominalsatz. Mubtada' + Khabar. الصمد: Intensivform (fa'al). Bedeutungsfeld nach Lane's Lexicon: der Undurchdringliche, der Widerstaendige, derjenige an den man sich wendet (in Beduerfnissen)." },
+  { surah: 2, verse: 255, analysis: "Komplexer Nominalsatz: الله لا اله الا هو (Genus-Negation + Ausnahme). الحي القيوم (Sifa). لا تأخذه سنة ولا نوم (Genus-Negation). Mehrere Relativsätze." },
+  { surah: 112, verse: 1, analysis: "Imperativ: قل (Form I). هو الله احد: Nominalsatz. هو = Personalpronomen (Rückbezug) oder Damir al-Sha'n (Pronomen der Sache) — beide Analysen sind möglich. الله = Mubtada'. احد = Khabar." },
+  { surah: 112, verse: 2, analysis: "الله الصمد: Nominalsatz. Mubtada' + Khabar. الصمد: Muster fa'al (Nomen). Bedeutungsfeld nach Lane's Lexicon: der Undurchdringliche, der Widerständige, derjenige an den man sich wendet (in Beduerfnissen)." },
   { surah: 112, verse: 3, analysis: "لم يلد: Negation + Jussiv (Form I). ولم يولد: Passiv (Form I) im Jussiv. Identische Wurzel و-ل-د in Aktiv und Passiv." },
-  { surah: 112, verse: 4, analysis: "ولم يكن: Jussiv von كان (Hohlverb). احد: Ism Kana (Subjekt, Nominativ). كفوا: Khabar Kana (Praedikat, Akkusativ). له: vorangestelltes Jarr wa-Majrur." },
+  { surah: 112, verse: 4, analysis: "ولم يكن: Jussiv von كان (Hohlverb). احد: Ism Kana (Subjekt, Nominativ). كفوا: Khabar Kana (Prädikat, Akkusativ). له: vorangestelltes Jarr wa-Majrur." },
   { surah: 113, verse: 1, analysis: "قل اعوذ: Imperativ + Imperfekt Form I. برب الفلق: Jarr wa-Majrur + Idafa." },
   { surah: 114, verse: 1, analysis: "قل اعوذ برب الناس: Wie 113:1 aber mit الناس statt الفلق. Dreifache Sifa-Kette in 114:1-3." },
-  { surah: 2, verse: 1, analysis: "الم: Huruf Muqatta'at. Keine syntaktische Analyse moeglich — getrennte Buchstaben." },
-  { surah: 2, verse: 3, analysis: "Relativsatz: الذين يؤمنون بالغيب. Drei koordinierte Praedikate. Verschachtelter Relativsatz: مما رزقناهم." },
-  { surah: 2, verse: 21, analysis: "Vokativ + Imperativ: يا ايها الناس اعبدوا ربكم. Relativsatz: الذي خلقكم. Finalsatz: لعلكم تتقون." },
+  { surah: 2, verse: 1, analysis: "الم: Huruf Muqatta'at. Keine syntaktische Analyse möglich — getrennte Buchstaben." },
+  { surah: 2, verse: 3, analysis: "Relativsatz: الذين يؤمنون بالغيب. Drei koordinierte Prädikate. Verschachtelter Relativsatz: مما رزقناهم." },
+  { surah: 2, verse: 21, analysis: "Vokativ + Imperativ: يا ايها الناس اعبدوا ربكم. Relativsatz: الذي خلقكم. Erwartungssatz (لعل): لعلكم تتقون — لعل drückt Hoffnung/Erwartung aus, nicht Zweck." },
   { surah: 2, verse: 22, analysis: "Koordination: الذي جعل... وانزل... فاخرج. Verschachtelte Pronomen: به, لكم. Imperativ am Ende: فلا تجعلوا." },
   { surah: 2, verse: 216, analysis: "كتب عليكم القتال: Passiv Form I. القتال = Na'ib al-Fa'il. وهو كره لكم: Nominalsatz als Hal." },
   { surah: 3, verse: 2, analysis: "الله لا اله الا هو: Wie 2:255. الحي القيوم: Sifa. Wiederholung als intertextuelles Muster." },
   { surah: 36, verse: 1, analysis: "يس: Huruf Muqatta'at. Isolierte Buchstaben Ya-Sin." },
   { surah: 55, verse: 1, analysis: "الرحمن: Nominalsatz-Beginn (Mubtada'). Intensivform fa'lan von ر-ح-م." },
   { surah: 55, verse: 2, analysis: "علم القران: Verb Form II (lehrte) + Objekt. Kein explizites Subjekt im Vers — grammatisch fortgesetztes Subjekt aus 55:1 (الرحمن)." },
-  { surah: 67, verse: 1, analysis: "تبارك الذي بيده الملك: Verb (Form VI von ب-ر-ك) + Relativsatz. بيده: Jarr wa-Majrur. الملك: Mubtada'. وهو على كل شيء قدير: Nominalsatz." },
+  { surah: 67, verse: 1, analysis: "تبارك الذي بيده الملك: Verb (morphologisch Form VI von ب-ر-ك — defektiv: nur Perfekt belegt, kein Imperfekt/Partizip) + Relativsatz. بيده: Jarr wa-Majrur. الملك: Mubtada'. وهو على كل شيء قدير: Nominalsatz." },
   { surah: 96, verse: 1, analysis: "اقرأ: Imperativ Form I (ق-ر-أ). باسم ربك: Jarr wa-Majrur + Idafa-Kette. الذي خلق: Relativsatz." },
   { surah: 96, verse: 2, analysis: "خلق الانسان من علق: Form I + Objekt + Jarr wa-Majrur. Kein Subjekt-Wechsel." },
   { surah: 6, verse: 1, analysis: "الحمد لله الذي خلق: Wie 1:2. Relativsatz mit خلق. وجعل: Koordination. ثم: Sequenzmarker." },
@@ -364,7 +364,7 @@ function generateRasmCards() {
         front: ex.quranOrtho,
         back: `Moderne Schreibung: ${ex.modernOrtho}\nTransliteration: ${ex.transliteration}\nBedeutung: ${ex.meaning}${ex.note ? '\nAnmerkung: ' + ex.note : ''}`,
         frontLabel: 'Rasm-Orthographie',
-        backLabel: 'Moderne Schreibung und Erklaerung',
+        backLabel: 'Moderne Schreibung und Erklärung',
         interval: 1,
         ease: 2.5,
         nextReview: null,
@@ -474,7 +474,7 @@ function generateIjamCards() {
       front: group.skeleton,
       back: `Gruppe: ${group.label}\n${lettersList}`,
       frontLabel: 'Buchstabenskelett',
-      backLabel: 'Moegliche Buchstaben',
+      backLabel: 'Mögliche Buchstaben',
       interval: 1,
       ease: 2.5,
       nextReview: null,
@@ -495,7 +495,7 @@ function generateRootStarterCards() {
     id: `root_starter_${idx}`,
     type: 'wurzel',
     front: card.front || card.root || '',
-    back: card.back || `Wurzel: ${card.root}\nBedeutung: ${card.meaning}\nHaeufigkeit: ${card.count}x im Quran`,
+    back: card.back || `Wurzel: ${card.root}\nBedeutung: ${card.meaning}\nHäufigkeit: ${card.count}x im Quran`,
     frontLabel: 'Grundbedeutung dieser Wurzel?',
     backLabel: 'Wurzel-Information',
     interval: 1,
@@ -577,7 +577,7 @@ function ReviewSession({ cards, onComplete, onRateCard }) {
           Keine Karten zur Wiederholung
         </h3>
         <p style={{ color: 'var(--text-secondary)' }}>
-          Alle faelligen Karten wurden bearbeitet.
+          Alle fälligen Karten wurden bearbeitet.
         </p>
       </div>
     )
@@ -768,7 +768,7 @@ function ReviewSession({ cards, onComplete, onRateCard }) {
             <div style={{ padding: '8px 24px', background: match ? 'rgba(34,197,94,0.1)' : 'rgba(251,191,36,0.1)', borderTop: '1px solid var(--border)', fontSize: '0.85rem', display: 'flex', gap: '8px', alignItems: 'center' }}>
               <span>{match ? '\u2705' : '\u{1F50D}'}</span>
               <span style={{ color: match ? '#22c55e' : '#fbbf24' }}>
-                {match ? 'Deine Antwort scheint korrekt' : 'Ueberprüfe deine Antwort mit der Rueckseite'}
+                {match ? 'Deine Antwort scheint korrekt' : 'Überprüfe deine Antwort mit der Rückseite'}
               </span>
             </div>
           )
@@ -1153,7 +1153,7 @@ function SessionSummary({ results, onClose }) {
             cursor: 'pointer',
           }}
         >
-          Zurueck zur Uebersicht
+          Zurück zur Übersicht
         </button>
       </div>
     </div>
@@ -1256,7 +1256,7 @@ function BrowseView({ allCards, onDeleteCard }) {
             outline: 'none',
           }}
         >
-          <option value="nextReview">Naechste Wiederholung</option>
+          <option value="nextReview">Nächste Wiederholung</option>
           <option value="type">Typ</option>
           <option value="ease">Schwierigkeit</option>
         </select>
@@ -1431,7 +1431,7 @@ function BrowseView({ allCards, onDeleteCard }) {
                 >
                   <div style={{ marginBottom: '10px' }}>
                     <span style={{ fontSize: '0.75rem', color: 'var(--text-muted)' }}>
-                      Rueckseite:
+                      Rückseite:
                     </span>
                     <div
                       style={{
@@ -1469,7 +1469,7 @@ function BrowseView({ allCards, onDeleteCard }) {
                       <span style={{ color: 'var(--text-primary)' }}>{reviewCount}</span>
                     </div>
                     <div>
-                      <span style={{ color: 'var(--text-muted)' }}>Naechste: </span>
+                      <span style={{ color: 'var(--text-muted)' }}>Nächste: </span>
                       <span style={{ color: 'var(--text-primary)' }}>
                         {card.nextReview
                           ? new Date(card.nextReview).toLocaleDateString('de-DE')
@@ -1777,7 +1777,7 @@ function StatsView({ allCards }) {
                     {info.label}
                   </span>
                   <span style={{ color: 'var(--text-muted)', fontSize: '0.8rem' }}>
-                    {data.total} Karten | {data.due} faellig | {data.accuracy}% Genauigkeit
+                    {data.total} Karten | {data.due} fällig | {data.accuracy}% Genauigkeit
                   </span>
                 </div>
                 <div
@@ -2049,9 +2049,9 @@ function SettingsView({ srsSettings, onUpdateSettings, allCards, onResetAllCards
                   placeholder="Arabischer Text" style={{ width: '100%', padding: '8px', borderRadius: '6px', border: '1px solid var(--border)', background: 'var(--bg-card)', color: 'var(--text)', fontFamily: 'var(--font-arabic)', fontSize: '1.2rem', boxSizing: 'border-box' }} />
               </div>
               <div style={{ marginBottom: '8px' }}>
-                <label style={{ fontSize: '0.8rem', color: 'var(--text-muted)', display: 'block', marginBottom: '4px' }}>Rueckseite (Erklaerung)</label>
+                <label style={{ fontSize: '0.8rem', color: 'var(--text-muted)', display: 'block', marginBottom: '4px' }}>Rückseite (Erklärung)</label>
                 <textarea value={newCard.back} onChange={e => setNewCard(c => ({ ...c, back: e.target.value }))} rows={2}
-                  placeholder="Deutsche Erklaerung / Analyse" style={{ width: '100%', padding: '8px', borderRadius: '6px', border: '1px solid var(--border)', background: 'var(--bg-card)', color: 'var(--text)', fontSize: '0.9rem', boxSizing: 'border-box', resize: 'vertical' }} />
+                  placeholder="Deutsche Erklärung / Analyse" style={{ width: '100%', padding: '8px', borderRadius: '6px', border: '1px solid var(--border)', background: 'var(--bg-card)', color: 'var(--text)', fontSize: '0.9rem', boxSizing: 'border-box', resize: 'vertical' }} />
               </div>
               <div style={{ marginBottom: '12px' }}>
                 <label style={{ fontSize: '0.8rem', color: 'var(--text-muted)', display: 'block', marginBottom: '4px' }}>Quranreferenz (optional)</label>
@@ -2062,7 +2062,7 @@ function SettingsView({ srsSettings, onUpdateSettings, allCards, onResetAllCards
                 padding: '8px 16px', borderRadius: '8px', border: 'none', width: '100%',
                 background: newCard.front.trim() && newCard.back.trim() ? 'var(--accent-teal)' : 'var(--text-muted)',
                 color: '#fff', cursor: newCard.front.trim() && newCard.back.trim() ? 'pointer' : 'default'
-              }}>Karte hinzufuegen</button>
+              }}>Karte hinzufügen</button>
             </div>
           )}
         </div>
@@ -2083,7 +2083,7 @@ function SettingsView({ srsSettings, onUpdateSettings, allCards, onResetAllCards
             onClick={() => {
               if (
                 window.confirm(
-                  'Alle SRS-Karten und den gesamten Lernfortschritt zuruecksetzen? Diese Aktion kann nicht rueckgaengig gemacht werden.',
+                  'Alle SRS-Karten und den gesamten Lernfortschritt zurücksetzen? Diese Aktion kann nicht rückgängig gemacht werden.',
                 )
               ) {
                 onResetAllCards()
@@ -2099,7 +2099,7 @@ function SettingsView({ srsSettings, onUpdateSettings, allCards, onResetAllCards
               cursor: 'pointer',
             }}
           >
-            Alle Karten zuruecksetzen
+            Alle Karten zurücksetzen
           </button>
         </div>
       </div>
@@ -2337,13 +2337,13 @@ export default function Module5({ settings: _settings }) {
               front: typeof rootLetters === 'string' ? rootLetters : rootLetters.join('-'),
               back: [
                 root.meaning ? `Bedeutung: ${root.meaning}` : null,
-                root.words ? `Abgeleitete Woerter: ${root.words.length}` : null,
+                root.words ? `Abgeleitete Wörter: ${root.words.length}` : null,
                 root.notes ? `Notizen: ${root.notes}` : null,
               ]
                 .filter(Boolean)
                 .join('\n') || `Wurzel: ${key}`,
               frontLabel: 'Grundbedeutung dieser Wurzel?',
-              backLabel: 'Bedeutung und abgeleitete Woerter',
+              backLabel: 'Bedeutung und abgeleitete Wörter',
               interval: 1,
               ease: 2.5,
               nextReview: null,
@@ -2392,7 +2392,7 @@ export default function Module5({ settings: _settings }) {
     const queue = [...limitedDue, ...limitedNew]
 
     if (queue.length === 0) {
-      showNotification('Keine Karten zur Wiederholung oder neue Karten verfuegbar.')
+      showNotification('Keine Karten zur Wiederholung oder neue Karten verfügbar.')
       return
     }
 
@@ -2455,7 +2455,7 @@ export default function Module5({ settings: _settings }) {
     try {
       await srsStore.removeItem(cardId)
     } catch (err) {
-      console.warn('Karte konnte nicht aus dem Speicher geloescht werden:', err)
+      console.warn('Karte konnte nicht aus dem Speicher gelöscht werden:', err)
     }
 
     setAllCards((prev) => {
@@ -2465,7 +2465,7 @@ export default function Module5({ settings: _settings }) {
     })
 
     setDueCards((prev) => prev.filter((c) => c.id !== cardId))
-    showNotification('Karte geloescht.')
+    showNotification('Karte gelöscht.')
   }, [showNotification, srsStore])
 
   // ---- Reset all cards ----
@@ -2473,7 +2473,7 @@ export default function Module5({ settings: _settings }) {
     try {
       await srsStore.clear()
     } catch (err) {
-      console.warn('Speicher konnte nicht geloescht werden:', err)
+      console.warn('Speicher konnte nicht gelöscht werden:', err)
     }
 
     setAllCards({})
@@ -2484,7 +2484,7 @@ export default function Module5({ settings: _settings }) {
     setSrsSettings(resetSettings)
     localStorage.setItem('srs_settings', JSON.stringify(resetSettings))
 
-    showNotification('Alle Karten wurden zurueckgesetzt. Seite neu laden fuer Starter-Karten.')
+    showNotification('Alle Karten wurden zurückgesetzt. Seite neu laden für Starter-Karten.')
   }, [srsSettings, showNotification, srsStore])
 
   // ---- Update SRS settings ----
@@ -2544,7 +2544,7 @@ export default function Module5({ settings: _settings }) {
 
   // ---- Navigation tabs ----
   const navTabs = [
-    { id: 'dashboard', label: 'Uebersicht' },
+    { id: 'dashboard', label: 'Übersicht' },
     { id: 'review', label: `Wiederholen${dueCount > 0 ? ` (${dueCount})` : ''}`, highlight: dueCount > 0 },
     { id: 'browse', label: 'Durchsuchen' },
     { id: 'stats', label: 'Statistik' },
@@ -2597,7 +2597,7 @@ export default function Module5({ settings: _settings }) {
           }}
         >
           <span style={{ color: '#ef4444', fontWeight: 600, fontSize: '0.9rem' }}>
-            {dueCount} Karte{dueCount !== 1 ? 'n' : ''} zur Wiederholung faellig
+            {dueCount} Karte{dueCount !== 1 ? 'n' : ''} zur Wiederholung fällig
           </span>
           <button
             onClick={startReview}
@@ -2799,7 +2799,7 @@ export default function Module5({ settings: _settings }) {
                           fontWeight: 600,
                         }}
                       >
-                        {typeDue} faellig
+                        {typeDue} fällig
                       </span>
                     )}
                   </div>
@@ -2837,10 +2837,10 @@ export default function Module5({ settings: _settings }) {
               }}
             >
               {dueCount > 0
-                ? `${dueCount} faellige Karten wiederholen`
+                ? `${dueCount} fällige Karten wiederholen`
                 : newCount > 0
                   ? 'Neue Karten lernen'
-                  : 'Keine Karten verfuegbar'}
+                  : 'Keine Karten verfügbar'}
             </button>
             <button
               onClick={() => setView('browse')}
@@ -2905,7 +2905,7 @@ export default function Module5({ settings: _settings }) {
                 <p style={{ marginBottom: '8px' }}>
                   <strong>Spaced Repetition</strong> ist eine wissenschaftlich belegte Lernmethode.
                   Karten, die du gut kennst, werden seltener gezeigt. Karten, die dir schwer fallen,
-                  werden haeufiger wiederholt.
+                  werden häufiger wiederholt.
                 </p>
                 <p style={{ marginBottom: '8px' }}>
                   <strong>So funktioniert es:</strong>

@@ -6,7 +6,7 @@ import ArabicKeyboard from './ArabicKeyboard.jsx';
 /* ================================================================
    ParadigmDrill -- Sarf-Paradigmen-Drill (Modul 2)
    Der Lernende fuellt komplette Konjugationstabellen aus dem
-   Gedaechtnis aus. Unterstuetzt Voll-Tabellen- und Zufall-Modus.
+   Gedaechtnis aus. Unterstützt Voll-Tabellen- und Zufall-Modus.
    Erweitert um schwache Verb-Typen (hohl, schluss-schwach, etc.).
    ================================================================ */
 
@@ -51,7 +51,7 @@ const TIMER_OPTIONS = [
 // ───────────────────────── Verbtyp (weak verbs) ─────────────────
 
 const VERB_TYPE_OPTIONS = [
-  { value: 'regular', label: 'Regulaer (Formen I-X)' },
+  { value: 'regular', label: 'Regulär (Formen I-X)' },
   { value: 'hollow', label: 'Hohle Verben' },
   { value: 'defective', label: 'Schluss-schwache Verben' },
   { value: 'assimilated', label: 'Anfangsschwache Verben' },
@@ -1205,7 +1205,7 @@ export default function ParadigmDrill({ onBack }) {
             return (
               <div key={voice} style={S.tenseSection}>
                 <div style={S.tenseTitle}>
-                  Passiv &mdash; nicht verfuegbar fuer Form {selectedForm}
+                  Passiv &mdash; nicht verfügbar für Form {selectedForm}
                 </div>
               </div>
             );
@@ -1300,7 +1300,7 @@ export default function ParadigmDrill({ onBack }) {
           {!checked ? (
             <>
               <button style={S.primaryBtn} onClick={handleCheck}>
-                Pruefen
+                Prüfen
               </button>
               <button
                 style={S.kbToggle}
@@ -1346,9 +1346,9 @@ export default function ParadigmDrill({ onBack }) {
       return (
         <div style={S.body}>
           <div style={S.randomCard}>
-            <p style={S.randomPrompt}>Keine Aufgaben verfuegbar fuer diese Auswahl.</p>
+            <p style={S.randomPrompt}>Keine Aufgaben verfügbar für diese Auswahl.</p>
             <button style={S.secondaryBtn} onClick={() => setScreen('setup')}>
-              Zurueck
+              Zurück
             </button>
           </div>
         </div>
@@ -1423,7 +1423,7 @@ export default function ParadigmDrill({ onBack }) {
           <div style={{ ...S.btnRow, justifyContent: 'center', marginTop: 20 }}>
             {!randomFeedback ? (
               <button style={S.primaryBtn} onClick={handleRandomCheck}>
-                Pruefen
+                Prüfen
               </button>
             ) : (
               <button style={S.primaryBtn} onClick={handleRandomNext}>
@@ -1497,7 +1497,7 @@ export default function ParadigmDrill({ onBack }) {
       {/* Header */}
       <div style={S.header}>
         <button style={S.backBtn} onClick={onBack}>
-          Zurueck
+          Zurück
         </button>
         <div style={S.headerTitle}>Paradigmen-Drill (Sarf)</div>
       </div>

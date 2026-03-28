@@ -192,7 +192,7 @@ export default function SynonymContrastDrill() {
 
       {revealed && (
         <button onClick={pickRandom} style={{ ...activeBtn, marginTop: 8, width: '100%' }}>
-          Naechste Frage
+          Nächste Frage
         </button>
       )}
     </div>

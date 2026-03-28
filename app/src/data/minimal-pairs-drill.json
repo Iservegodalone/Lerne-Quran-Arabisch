@@ -1,7 +1,12 @@
 {
   "meta": {
     "title": "Minimalpaare — Konsonantendiskriminierung",
-    "description": "Systematische Uebungen zur Unterscheidung aehnlich klingender Konsonanten im Quranischen Arabisch. Jedes Paar kontrastiert zwei Phoneme, die sich in genau einem artikulatorischen Merkmal unterscheiden. Wo beide Woerter im Quran belegt sind, werden Quran-Referenzen angegeben. Wo nur ein Wort quranbezogen ist, wird der Kontrastpartner als allgemeinarabisch markiert."
+    "description": "Systematische Übungen zur Unterscheidung ähnlich klingender Konsonanten im Quranischen Arabisch. Jedes Paar kontrastiert zwei Phoneme, die sich in genau einem artikulatorischen Merkmal unterscheiden. Wo beide Wörter im Quran belegt sind, werden Quran-Referenzen angegeben. Wo nur ein Wort quranbezogen ist, wird der Kontrastpartner als allgemeinarabisch markiert.",
+    "sources": [
+      { "name": "Wright's Grammar Vol I", "url": "https://archive.org/details/grammarofthearab01telerich" },
+      { "name": "Ryding, Reference Grammar of Modern Standard Arabic", "url": "https://archive.org/details/AReferenceGrammarOfModernStandardArabic" },
+      { "name": "Quranic Arabic Corpus", "url": "https://corpus.quran.com/" }
+    ]
   },
   "pairs": [
     {
@@ -9,7 +14,7 @@
       "pair": ["ح", "ه"],
       "pairName": "Haa (pharyngal) vs. Haa (glottal)",
       "ipa": ["/ħ/", "/h/"],
-      "distinction": "ح wird tief im Rachen mit Verengung der Pharynxwand artikuliert (stimmloser pharyngaler Frikativ). ه entsteht am Kehlkopf durch Luftstrom ueber die Stimmbaender ohne Verengung im Rachen (stimmloser glottaler Frikativ). Der Hauptunterschied liegt im Artikulationsort: Pharynx vs. Larynx.",
+      "distinction": "ح wird tief im Rachen mit Verengung der Pharynxwand artikuliert (stimmloser pharyngaler Frikativ). ه entsteht am Kehlkopf durch Luftstrom über die Stimmbaender ohne Verengung im Rachen (stimmloser glottaler Frikativ). Der Hauptunterschied liegt im Artikulationsort: Pharynx vs. Larynx.",
       "exercises": [
         {
           "word1": "حَمْد",
@@ -18,11 +23,11 @@
           "word2": "هَمْد",
           "meaning2": "erloeschen, leblos werden (Boden)",
           "ref2": "22:5",
-          "contrastPoint": "ح vs. ه im Anlaut: Die pharyngale Reibung in حَمْد erzeugt einen hoerbaren Unterschied zum glatten h in هَمْد. Beide Woerter sind im Quran belegt."
+          "contrastPoint": "ح vs. ه im Anlaut: Die pharyngale Reibung in حَمْد erzeugt einen hörbaren Unterschied zum glatten h in هَمْد. Beide Wörter sind im Quran belegt."
         },
         {
           "word1": "حَلَّ",
-          "meaning1": "erlaubt machen, loesen",
+          "meaning1": "erlaubt machen, lösen",
           "ref1": "2:275",
           "word2": "هَلَّ",
           "meaning2": "erscheinen (Neumond), anfangen",
@@ -36,7 +41,7 @@
           "word2": "هَبَّ",
           "meaning2": "wehen (Wind), sich erheben",
           "ref2": "allgemeinarabisch",
-          "contrastPoint": "حَبّ (Korn) erscheint mehrfach im Quran. هَبَّ (wehen) ist allgemeinarabisch. Die Pharyngalitaet von ح ist der einzige Unterschied."
+          "contrastPoint": "حَبّ (Korn) erscheint mehrfach im Quran. هَبَّ (wehen) ist allgemeinarabisch. Die Pharyngalität von ح ist der einzige Unterschied."
         },
         {
           "word1": "حَدَّ",
@@ -54,7 +59,7 @@
           "word2": "هَمَّ",
           "meaning2": "beabsichtigen, sich vornehmen",
           "ref2": "12:24",
-          "contrastPoint": "حَمِيم (heisses Wasser) und هَمَّ (beabsichtigen) — beide quranbezogen. Die Verengung im Rachen bei ح ist klar hoerbar."
+          "contrastPoint": "حَمِيم (heisses Wasser) und هَمَّ (beabsichtigen) — beide quranbezogen. Die Verengung im Rachen bei ح ist klar hörbar."
         }
       ]
     },
@@ -63,7 +68,7 @@
       "pair": ["ع", "ء"],
       "pairName": "Ayn (pharyngal) vs. Hamza (glottal)",
       "ipa": ["/ʕ/", "/ʔ/"],
-      "distinction": "ع ist ein stimmhafter pharyngaler Frikativ — die Pharynxwand wird verengt, die Stimmbaender schwingen. ء (Hamza) ist ein stimmloser glottaler Verschlusslaut — die Stimmbaender schliessen sich kurz vollstaendig. ع hat hoerbare Reibung und Stimmhaftigkeit, ء ist ein scharfer Knacklaut.",
+      "distinction": "ع ist ein stimmhafter pharyngaler Frikativ — die Pharynxwand wird verengt, die Stimmbaender schwingen. ء (Hamza) ist ein stimmloser glottaler Verschlusslaut — die Stimmbaender schließen sich kurz vollständig. ع hat hörbare Reibung und Stimmhaftigkeit, ء ist ein scharfer Knacklaut.",
       "exercises": [
         {
           "word1": "عَلِمَ",
@@ -72,16 +77,16 @@
           "word2": "أَلِمَ",
           "meaning2": "Schmerz empfinden (أَلِيم = schmerzhaft)",
           "ref2": "2:10",
-          "contrastPoint": "عَلِمَ (Wissen) vs. أَلِمَ (Schmerz) — identische Vokalstruktur, der pharyngale ع vs. glottale ء aendert die Bedeutung vollstaendig. Beide Wurzeln sind hochfrequent im Quran."
+          "contrastPoint": "عَلِمَ (Wissen) vs. أَلِمَ (Schmerz) — identische Vokalstruktur, der pharyngale ع vs. glottale ء ändert die Bedeutung vollständig. Beide Wurzeln sind hochfrequent im Quran."
         },
         {
           "word1": "عَمَرَ",
-          "meaning1": "bevoelkern, kultivieren, ein langes Leben fuehren",
+          "meaning1": "bevoelkern, kultivieren, ein langes Leben führen",
           "ref1": "9:18 (يَعْمُرُ)",
           "word2": "أَمَرَ",
           "meaning2": "befehlen",
           "ref2": "7:29",
-          "contrastPoint": "عَمَرَ (beleben/bevoelkern) vs. أَمَرَ (befehlen). Die pharyngale Reibung in ع macht den Unterschied hoerbar."
+          "contrastPoint": "عَمَرَ (beleben/bevoelkern) vs. أَمَرَ (befehlen). Die pharyngale Reibung in ع macht den Unterschied hörbar."
         },
         {
           "word1": "عَذَابٌ",
@@ -89,8 +94,8 @@
           "ref1": "2:7",
           "word2": "أَذَابَ",
           "meaning2": "schmelzen (Form IV von ذ-و-ب)",
-          "ref2": "allgemeinarabisch (أَذَابَ); Stamm ذ-و-ب nicht quranisch",
-          "contrastPoint": "عَذَاب beginnt mit pharyngalem ع und ist eines der haeufigsten Quranwoerter. أَذَابَ mit glottalem ء ist allgemeinarabisch."
+          "ref2": "allgemeinarabisch (أَذَابَ); Stamm ذ-و-ب: im Quran einmal belegt (44:48, كَالْمُهْلِ يَغْلِي فِي الْبُطُونِ — Kontext: Schmelzen/Sieden)",
+          "contrastPoint": "عَذَاب beginnt mit pharyngalem ع und ist eines der häufigsten Quranwoerter. أَذَابَ mit glottalem ء ist allgemeinarabisch."
         },
         {
           "word1": "عَبَدَ",
@@ -99,7 +104,7 @@
           "word2": "أَبَدَ",
           "meaning2": "Ewigkeit (أَبَد — temporal: auf ewig)",
           "ref2": "4:57",
-          "contrastPoint": "عَبَدَ (dienen) vs. أَبَد (Ewigkeit) — beide quranbezogen. Die Pharyngalitaet von ع ist entscheidend."
+          "contrastPoint": "عَبَدَ (dienen) vs. أَبَد (Ewigkeit) — beide quranbezogen. Die Pharyngalität von ع ist entscheidend."
         },
         {
           "word1": "عَهْدٌ",
@@ -108,7 +113,7 @@
           "word2": "أَهْدٌ",
           "meaning2": "(kein eigenes Wort; Kontrastform zu Demonstrationszwecken)",
           "ref2": "—",
-          "contrastPoint": "عَهْد ist ein Schluesselbegriff im Quran. Die Uebung dient der isolierten Wahrnehmung des pharyngalen Reibelauts ع im Anlaut."
+          "contrastPoint": "عَهْد ist ein Schlüsselbegriff im Quran. Die Übung dient der isolierten Wahrnehmung des pharyngalen Reibelauts ع im Anlaut."
         }
       ]
     },
@@ -117,7 +122,7 @@
       "pair": ["ص", "س"],
       "pairName": "Saad (emphatisch) vs. Siin (nicht-emphatisch)",
       "ipa": ["/sˤ/", "/s/"],
-      "distinction": "Beide sind stimmlose alveolare Frikative. ص wird zusaetzlich mit Pharyngalisierung (Emphase) gesprochen: Der Zungenruecken hebt sich zum Velum/Pharynx, der gesamte Mundraum wird groesser, der Klang wird 'dunkler' und 'schwerer'. س bleibt 'hell' und 'leicht'.",
+      "distinction": "Beide sind stimmlose alveolare Frikative. ص wird zusätzlich mit Pharyngalisierung (Emphase) gesprochen: Der Zungenruecken hebt sich zum Velum/Pharynx, der gesamte Mundraum wird größer, der Klang wird 'dunkler' und 'schwerer'. س bleibt 'hell' und 'leicht'.",
       "exercises": [
         {
           "word1": "صَبَرَ",
@@ -135,25 +140,25 @@
           "word2": "سَدَّ",
           "meaning2": "verschliessen, versperren",
           "ref2": "18:94 (سَدًّا)",
-          "contrastPoint": "صَدَّ (abhalten vom Weg) und سَدَّ (Damm/Barriere) — beide quranbezogen. Die Emphase in ص faerbt den gesamten Klangcharakter."
+          "contrastPoint": "صَدَّ (abhalten vom Weg) und سَدَّ (Damm/Barriere) — beide quranbezogen. Die Emphase in ص färbt den gesamten Klangcharakter."
         },
         {
           "word1": "صَلَاة",
           "meaning1": "Hinwendung, Gebet",
           "ref1": "2:3",
           "word2": "سَلَاة",
-          "meaning2": "(keine Standardform; Kontrastpaar fuer Hoertraining)",
+          "meaning2": "(keine Standardform; Kontrastpaar für Hoertraining)",
           "ref2": "—",
-          "contrastPoint": "صَلَاة ist eines der haeufigsten Quranwoerter. Die emphatische Artikulation von ص faerbt den gesamten folgenden Vokal dunkel."
+          "contrastPoint": "صَلَاة ist eines der häufigsten Quranwoerter. Die emphatische Artikulation von ص färbt den gesamten folgenden Vokal dunkel."
         },
         {
           "word1": "صَرَفَ",
           "meaning1": "abwenden, ableiten",
           "ref1": "7:146",
           "word2": "سَرَفَ",
-          "meaning2": "Verschwendung (إِسْرَاف = Uebermass)",
+          "meaning2": "Verschwendung (إِسْرَاف = Übermass)",
           "ref2": "7:31 (Stamm س-ر-ف)",
-          "contrastPoint": "صَرَفَ (abwenden) vs. سَرَفَ (verschwenden) — beide Wurzeln quranisch. Exzellentes Minimalpaar fuer Emphase-Kontrast."
+          "contrastPoint": "صَرَفَ (abwenden) vs. سَرَفَ (verschwenden) — beide Wurzeln quranisch. Exzellentes Minimalpaar für Emphase-Kontrast."
         },
         {
           "word1": "صَوْم",
@@ -162,7 +167,7 @@
           "word2": "سَوْم",
           "meaning2": "uebles Zufuegen, schlimmste Behandlung (يَسُومُونَكُم)",
           "ref2": "2:49",
-          "contrastPoint": "صَوْم (Fasten) vs. سَوْم (ueble Behandlung) — beide im Quran. Die Diphthong-Umgebung /aw/ macht den Emphase-Kontrast besonders hoerbar."
+          "contrastPoint": "صَوْم (Fasten) vs. سَوْم (ueble Behandlung) — beide im Quran. Die Diphthong-Umgebung /aw/ macht den Emphase-Kontrast besonders hörbar."
         }
       ]
     },
@@ -171,7 +176,7 @@
       "pair": ["ض", "د"],
       "pairName": "Daad (emphatisch) vs. Daal (nicht-emphatisch)",
       "ipa": ["/dˤ/", "/d/"],
-      "distinction": "Beide sind stimmhafte alveolare Verschlusslaute (Plosive). ض wird mit Pharyngalisierung (Emphase) gesprochen: Die Zunge ist breiter, der Zungenruecken hebt sich, der Klang wird dunkel und schwer. د bleibt hell und leicht. Die Bezeichnung لُغَة الضَّاد ('Sprache des Daad') fuer das Arabische bezieht sich auf diesen Laut.",
+      "distinction": "Beide sind stimmhafte alveolare Verschlusslaute (Plosive). ض wird mit Pharyngalisierung (Emphase) gesprochen: Die Zunge ist breiter, der Zungenruecken hebt sich, der Klang wird dunkel und schwer. د bleibt hell und leicht. Die Bezeichnung لُغَة الضَّاد ('Sprache des Daad') für das Arabische bezieht sich auf diesen Laut.",
       "exercises": [
         {
           "word1": "ضَرَبَ",
@@ -189,11 +194,11 @@
           "word2": "دَلَّ",
           "meaning2": "zeigen, hinweisen",
           "ref2": "20:120",
-          "contrastPoint": "ضَلَّ (Abirrung) vs. دَلَّ (hinweisen) — beide im Quran. Bedeutungsunterschied ausschliesslich durch Emphase. Besonders lehrreich."
+          "contrastPoint": "ضَلَّ (Abirrung) vs. دَلَّ (hinweisen) — beide im Quran. Bedeutungsunterschied ausschließlich durch Emphase. Besonders lehrreich."
         },
         {
           "word1": "ضَمَّ",
-          "meaning1": "zusammenfuegen, aneinanderfuegen",
+          "meaning1": "zusammenfüegen, aneinanderfuegen",
           "ref1": "20:22 (اضْمُمْ — Imperativ)",
           "word2": "دَمَّ",
           "meaning2": "uebertuenchen, verputzen",
@@ -207,7 +212,7 @@
           "word2": "دَيْف",
           "meaning2": "(hypothetische Kontrastform)",
           "ref2": "—",
-          "contrastPoint": "ضَيْف (Gast, Gaeste) erscheint im Quran in der Geschichte Abrahams und Lots. Die Emphase des ض faerbt den Diphthong /ay/ hoerbar dunkel."
+          "contrastPoint": "ضَيْف (Gast, Gaeste) erscheint im Quran in der Geschichte Abrahams und Lots. Die Emphase des ض färbt den Diphthong /ay/ hörbar dunkel."
         },
         {
           "word1": "ضَعِيف",
@@ -216,7 +221,7 @@
           "word2": "دَعِيّ",
           "meaning2": "Adoptierter, Zugerechneter",
           "ref2": "33:4",
-          "contrastPoint": "Nicht identische Struktur, aber aehnlicher Anlaut: ضَعِيف (schwach) vs. دَعِيّ (Adoptivsohn). Beide quranisch. Emphatischer vs. nicht-emphatischer Anlaut."
+          "contrastPoint": "Nicht identische Struktur, aber ähnlicher Anlaut: ضَعِيف (schwach) vs. دَعِيّ (Adoptivsohn). Beide quranisch. Emphatischer vs. nicht-emphatischer Anlaut."
         }
       ]
     },
@@ -225,7 +230,7 @@
       "pair": ["ط", "ت"],
       "pairName": "Taa (emphatisch) vs. Taa (nicht-emphatisch)",
       "ipa": ["/tˤ/", "/t/"],
-      "distinction": "Beide sind stimmlose alveolare Verschlusslaute. ط wird mit Pharyngalisierung gesprochen: Der Laut klingt 'dunkler', 'schwerer', und die umgebenden Vokale werden zu [ɑ] verdunkelt. ت bleibt 'hell' und 'leicht'. Dies ist der haeufigste emphatische Kontrast im Arabischen.",
+      "distinction": "Beide sind stimmlose alveolare Verschlusslaute. ط wird mit Pharyngalisierung gesprochen: Der Laut klingt 'dunkler', 'schwerer', und die umgebenden Vokale werden zu [ɑ] verdunkelt. ت bleibt 'hell' und 'leicht'. Dies ist der häufigste emphatische Kontrast im Arabischen.",
       "exercises": [
         {
           "word1": "طَابَ",
@@ -252,7 +257,7 @@
           "word2": "تَهُرَ",
           "meaning2": "(hypothetische Kontrastform)",
           "ref2": "—",
-          "contrastPoint": "Wurzel ط-ه-ر (Reinheit) ist im Quran frequent. Die Uebung fokussiert auf den emphatischen Anlaut und seine Wirkung auf den folgenden Vokal."
+          "contrastPoint": "Wurzel ط-ه-ر (Reinheit) ist im Quran frequent. Die Übung fokussiert auf den emphatischen Anlaut und seine Wirkung auf den folgenden Vokal."
         },
         {
           "word1": "طَلَعَ",
@@ -261,7 +266,7 @@
           "word2": "تَلَعَ",
           "meaning2": "hervorragen, den Hals recken",
           "ref2": "allgemeinarabisch",
-          "contrastPoint": "طَلَعَ (aufgehen) erscheint quranisch fuer den Sonnenaufgang. تَلَعَ ist allgemeinarabisch. Die Verdunklung des /a/ bei ط ist deutlich."
+          "contrastPoint": "طَلَعَ (aufgehen) erscheint quranisch für den Sonnenaufgang. تَلَعَ ist allgemeinarabisch. Die Verdunklung des /a/ bei ط ist deutlich."
         },
         {
           "word1": "طَيْر",
@@ -270,7 +275,7 @@
           "word2": "تَيْر",
           "meaning2": "(hypothetische Kontrastform)",
           "ref2": "—",
-          "contrastPoint": "طَيْر (Voegel) ist ein bekanntes Quranwort. Die Emphase von ط faerbt den gesamten Diphthong /ay/ dunkel — im Kontrast zu hypothetischem *تَيْر mit hellem Klang."
+          "contrastPoint": "طَيْر (Voegel) ist ein bekanntes Quranwort. Die Emphase von ط färbt den gesamten Diphthong /ay/ dunkel — im Kontrast zu hypothetischem *تَيْر mit hellem Klang."
         },
         {
           "word1": "طِينٌ",
@@ -288,7 +293,7 @@
       "pair": ["ظ", "ذ"],
       "pairName": "Dhaa (emphatisch) vs. Dhaal (nicht-emphatisch)",
       "ipa": ["/ðˤ/", "/ð/"],
-      "distinction": "Beide sind stimmhafte interdentale Frikative — die Zungenspitze liegt zwischen den Zaehnen. ظ wird zusaetzlich mit Pharyngalisierung gesprochen: Der Klang ist dunkel und schwer. ذ bleibt hell und leicht. Dies ist das seltenste emphatische Paar, aber funktional wichtig.",
+      "distinction": "Beide sind stimmhafte interdentale Frikative — die Zungenspitze liegt zwischen den Zähnen. ظ wird zusätzlich mit Pharyngalisierung gesprochen: Der Klang ist dunkel und schwer. ذ bleibt hell und leicht. Dies ist das seltenste emphatische Paar, aber funktional wichtig.",
       "exercises": [
         {
           "word1": "ظَلَمَ",
@@ -304,9 +309,9 @@
           "meaning1": "meinen, vermuten, glauben",
           "ref1": "2:46",
           "word2": "ذَنْبٌ",
-          "meaning2": "Suende, Vergehen",
+          "meaning2": "Sünde, Vergehen",
           "ref2": "3:11",
-          "contrastPoint": "ظَنَّ (meinen) und ذَنْب (Suende) — nicht identische Struktur, aber beide quranisch. Anlaut-Kontrast zwischen emphatischem und nicht-emphatischem Interdental."
+          "contrastPoint": "ظَنَّ (meinen) und ذَنْب (Sünde) — nicht identische Struktur, aber beide quranisch. Anlaut-Kontrast zwischen emphatischem und nicht-emphatischem Interdental."
         },
         {
           "word1": "ظَهَرَ",
@@ -315,7 +320,7 @@
           "word2": "ذَهَبَ",
           "meaning2": "weggehen",
           "ref2": "3:196",
-          "contrastPoint": "Anlaut-Kontrast ظ/ذ, gefolgt von aehnlicher Vokalstruktur. ظَهَرَ (erscheinen) und ذَهَبَ (weggehen) sind beide quranisch."
+          "contrastPoint": "Anlaut-Kontrast ظ/ذ, gefolgt von ähnlicher Vokalstruktur. ظَهَرَ (erscheinen) und ذَهَبَ (weggehen) sind beide quranisch."
         },
         {
           "word1": "ظِلّ",
@@ -342,7 +347,7 @@
       "pair": ["ق", "ك"],
       "pairName": "Qaaf (uvular) vs. Kaaf (velar)",
       "ipa": ["/q/", "/k/"],
-      "distinction": "Beide sind stimmlose Verschlusslaute. ق wird am Zuengchen (Uvula) gebildet — weiter hinten im Mund. ك wird am weichen Gaumen (Velum) gebildet — weiter vorne. ق verdunkelt umgebende Vokale aehnlich wie emphatische Konsonanten. ك laesst Vokale hell.",
+      "distinction": "Beide sind stimmlose Verschlusslaute. ق wird am Zuengchen (Uvula) gebildet — weiter hinten im Mund. ك wird am weichen Gaumen (Velum) gebildet — weiter vorne. ق verdunkelt umgebende Vokale ähnlich wie emphatische Konsonanten. ك lässt Vokale hell.",
       "exercises": [
         {
           "word1": "قَالَ",
@@ -351,7 +356,7 @@
           "word2": "كَالَ",
           "meaning2": "abmessen (Getreide)",
           "ref2": "83:3 (اكْتَالُوا — Form VIII)",
-          "contrastPoint": "قَالَ (sagen) ist das haeufigste Verb im Quran. كَالَ (abmessen) erscheint in Sura 83. Echtes Minimalpaar — der Artikulationsort (Uvula vs. Velum) aendert die Bedeutung."
+          "contrastPoint": "قَالَ (sagen) ist das häufigste Verb im Quran. كَالَ (abmessen) erscheint in Sura 83. Echtes Minimalpaar — der Artikulationsort (Uvula vs. Velum) ändert die Bedeutung."
         },
         {
           "word1": "قَلْب",
@@ -364,12 +369,12 @@
         },
         {
           "word1": "قَتَلَ",
-          "meaning1": "toeten",
+          "meaning1": "töten",
           "ref1": "2:72",
           "word2": "كَتَلَ",
           "meaning2": "(keine Standardform; Kontrastform)",
           "ref2": "—",
-          "contrastPoint": "قَتَلَ (toeten) ist hochfrequent. Die Uebung isoliert den uvularen Laut ق und seinen verdunkelnden Effekt auf /a/."
+          "contrastPoint": "قَتَلَ (töten) ist hochfrequent. Die Übung isoliert den uvularen Laut ق und seinen verdunkelnden Effekt auf /a/."
         },
         {
           "word1": "قَدَرَ",
@@ -412,9 +417,9 @@
           "meaning1": "vergeben, verzeihen",
           "ref1": "2:58",
           "word2": "خَفَرَ",
-          "meaning2": "schuetzen, geleiten",
+          "meaning2": "schützen, geleiten",
           "ref2": "allgemeinarabisch",
-          "contrastPoint": "غَفَرَ (vergeben) ist hochfrequent im Quran (غَفُور = der stets Vergebende). خَفَرَ (schuetzen) ist allgemeinarabisch. Der Stimmhaftigkeits-Unterschied ist klar hoerbar."
+          "contrastPoint": "غَفَرَ (vergeben) ist hochfrequent im Quran (غَفُور = der stets Vergebende). خَفَرَ (schützen) ist allgemeinarabisch. Der Stimmhaftigkeits-Unterschied ist klar hörbar."
         },
         {
           "word1": "غَيْر",
@@ -441,16 +446,16 @@
           "word2": "خَنِيّ",
           "meaning2": "(keine Standardform; Kontrastpaar)",
           "ref2": "—",
-          "contrastPoint": "غَنِيّ (beduerfnislos — haeufig als Gottesattribut) dient dem Training der stimmhaften uvularen Reibung im Kontrast zur stimmlosen."
+          "contrastPoint": "غَنِيّ (beduerfnislos — häufig als Gottesattribut) dient dem Training der stimmhaften uvularen Reibung im Kontrast zur stimmlosen."
         },
         {
           "word1": "غَضِبَ",
-          "meaning1": "zuernen",
+          "meaning1": "zürnen",
           "ref1": "1:7 (الْمَغْضُوبِ)",
           "word2": "خَضِبَ",
           "meaning2": "faerben (mit Henna)",
           "ref2": "allgemeinarabisch",
-          "contrastPoint": "غَضِبَ (zuernen) erscheint in der Fatiha. خَضِبَ (faerben) ist allgemeinarabisch. Stimmhafter vs. stimmloser uvularer Frikativ."
+          "contrastPoint": "غَضِبَ (zürnen) erscheint in der Fatiha. خَضِبَ (faerben) ist allgemeinarabisch. Stimmhafter vs. stimmloser uvularer Frikativ."
         },
         {
           "word1": "غَرَقَ",
@@ -466,9 +471,9 @@
     {
       "id": "MP9",
       "pair": ["ح", "ه"],
-      "pairName": "Haa (pharyngal) vs. Haa (glottal) — Ergaenzung",
+      "pairName": "Haa (pharyngal) vs. Haa (glottal) — Ergänzung",
       "ipa": ["/ħ/", "/h/"],
-      "distinction": "Ergaenzende Paare: ح (pharyngal, Verengung der Rachenwand) vs. ه (glottal, am Kehlkopf). Siehe MP1 fuer ausfuehrliche Beschreibung.",
+      "distinction": "Ergänzende Paare: ح (pharyngal, Verengung der Rachenwand) vs. ه (glottal, am Kehlkopf). Siehe MP1 für ausführliche Beschreibung.",
       "exercises": [
         {
           "word1": "حَرَّ",
@@ -495,7 +500,7 @@
           "word2": "هَقّ",
           "meaning2": "(keine Standardform; Kontrastpaar)",
           "ref2": "—",
-          "contrastPoint": "حَقّ (Wahrheit) gehoert zu den zentralsten Quranwoertern. Die pharyngale Verengung in ح kontrastiert mit dem glatten Kehlkopf-h."
+          "contrastPoint": "حَقّ (Wahrheit) gehört zu den zentralsten Quranwoertern. Die pharyngale Verengung in ح kontrastiert mit dem glatten Kehlkopf-h."
         },
         {
           "word1": "حَزَنَ",
@@ -522,16 +527,16 @@
           "word2": "هِينٌ",
           "meaning2": "leicht, gering (هَيِّن)",
           "ref2": "24:15 (وَهُوَ عِندَ ٱللَّهِ عَظِيمٌ — Kontext: هَيِّن)",
-          "contrastPoint": "حِين (Zeit) und هَيِّن (leicht/gering) — aehnlicher Klang, voellig verschiedene Bedeutung. Beide im Quran belegt."
+          "contrastPoint": "حِين (Zeit) und هَيِّن (leicht/gering) — ähnlicher Klang, völlig verschiedene Bedeutung. Beide im Quran belegt."
         }
       ]
     },
     {
       "id": "MP10",
       "pair": ["ص", "س"],
-      "pairName": "Saad (emphatisch) vs. Siin (nicht-emphatisch) — Ergaenzung",
+      "pairName": "Saad (emphatisch) vs. Siin (nicht-emphatisch) — Ergänzung",
       "ipa": ["/sˤ/", "/s/"],
-      "distinction": "Ergaenzende Paare. Siehe MP3 fuer ausfuehrliche Beschreibung der Emphase.",
+      "distinction": "Ergänzende Paare. Siehe MP3 für ausführliche Beschreibung der Emphase.",
       "exercises": [
         {
           "word1": "صَالِح",
@@ -549,7 +554,7 @@
           "word2": "سَرْح",
           "meaning2": "frei lassen (Vieh weiden)",
           "ref2": "allgemeinarabisch (Stamm س-ر-ح)",
-          "contrastPoint": "صَرْح (Palast) erscheint im Quran in der Geschichte der Koenigin von Saba (27:44). Die Emphase des ص ist kontrastierend."
+          "contrastPoint": "صَرْح (Palast) erscheint im Quran in der Geschichte der Königin von Saba (27:44). Die Emphase des ص ist kontrastierend."
         },
         {
           "word1": "صَدَقَ",
@@ -558,7 +563,7 @@
           "word2": "سَدَقَ",
           "meaning2": "(keine Standardform; Kontrastpaar)",
           "ref2": "—",
-          "contrastPoint": "صَدَقَ (wahrhaftig sein) ist ein Schluesselverb im Quran (رِجَالٌ صَدَقُوا مَا عَاهَدُوا اللَّهَ عَلَيْهِ). Die Emphase ist bedeutungsunterscheidend."
+          "contrastPoint": "صَدَقَ (wahrhaftig sein) ist ein Schlüsselverb im Quran (رِجَالٌ صَدَقُوا مَا عَاهَدُوا اللَّهَ عَلَيْهِ). Die Emphase ist bedeutungsunterscheidend."
         },
         {
           "word1": "صَنَعَ",
@@ -580,12 +585,12 @@
         },
         {
           "word1": "صَاحِب",
-          "meaning1": "Begleiter, Gefaehrte",
+          "meaning1": "Begleiter, Gefährte",
           "ref1": "53:2",
           "word2": "سَاحِب",
           "meaning2": "Ziehender, Schleppender",
           "ref2": "allgemeinarabisch (سَحَبَ = ziehen/schleifen)",
-          "contrastPoint": "صَاحِب (Begleiter) erscheint haeufig im Quran (مَا ضَلَّ صَاحِبُكُمْ 53:2). Die Emphase von ص unterscheidet beide Partizipien klar."
+          "contrastPoint": "صَاحِب (Begleiter) erscheint häufig im Quran (مَا ضَلَّ صَاحِبُكُمْ 53:2). Die Emphase von ص unterscheidet beide Partizipien klar."
         }
       ]
     },
@@ -594,7 +599,7 @@
       "pair": ["ض", "ظ"],
       "pairName": "Daad vs. Dhaa — beide emphatisch, verschiedene Artikulationsart",
       "ipa": ["/dˤ/", "/ðˤ/"],
-      "distinction": "Beide sind emphatisch (pharyngalisiert). ض ist ein stimmhafter emphatischer Verschlusslaut (Plosiv) — die Zunge verschliesst kurz den Kontakt. ظ ist ein stimmhafter emphatischer Frikativ (Reibelaut) — die Zunge liegt zwischen den Zaehnen und erzeugt Reibung. Der Unterschied liegt in der Artikulationsart: Verschluss vs. Reibung.",
+      "distinction": "Beide sind emphatisch (pharyngalisiert). ض ist ein stimmhafter emphatischer Verschlusslaut (Plosiv) — die Zunge verschliesst kurz den Kontakt. ظ ist ein stimmhafter emphatischer Frikativ (Reibelaut) — die Zunge liegt zwischen den Zähnen und erzeugt Reibung. Der Unterschied liegt in der Artikulationsart: Verschluss vs. Reibung.",
       "exercises": [
         {
           "word1": "ضَلَّ",
@@ -612,7 +617,7 @@
           "word2": "ظَرُفَ",
           "meaning2": "fein/elegant sein (ظَرِيف)",
           "ref2": "allgemeinarabisch",
-          "contrastPoint": "ضَرَبَ (schlagen/Gleichnis) ist eines der haeufigsten Quranverben. Der Anlautkontrast ض/ظ zeigt den Unterschied zwischen Verschluss und Reibung."
+          "contrastPoint": "ضَرَبَ (schlagen/Gleichnis) ist eines der häufigsten Quranverben. Der Anlautkontrast ض/ظ zeigt den Unterschied zwischen Verschluss und Reibung."
         },
         {
           "word1": "ضَنَّ",
@@ -625,21 +630,21 @@
         },
         {
           "word1": "ضَهْر",
-          "meaning1": "Ruecken (ظَهْر)",
+          "meaning1": "(existiert nicht — Verwechslung von ض/ظ)",
           "ref1": "—",
           "word2": "ظَهْر",
-          "meaning2": "Ruecken; Aussenseite",
+          "meaning2": "Rücken; Aussenseite",
           "ref2": "6:151 (مَا ظَهَرَ مِنْهَا)",
-          "contrastPoint": "ظَهَرَ (erscheinen/sichtbar werden) ist quranisch. ضَهْر existiert nicht — die Uebung zeigt, dass Verwechslung zu einem Nicht-Wort fuehrt."
+          "contrastPoint": "ظَهَرَ (erscheinen/sichtbar werden) ist quranisch. ضَهْر existiert nicht — die Übung zeigt, dass Verwechslung zu einem Nicht-Wort führt."
         },
         {
           "word1": "ضَمَّ",
-          "meaning1": "zusammenfuegen",
+          "meaning1": "zusammenfüegen",
           "ref1": "20:22",
           "word2": "ظَمَأ",
           "meaning2": "duersten",
           "ref2": "9:120",
-          "contrastPoint": "ضَمَّ (zusammenfuegen, 20:22) vs. ظَمَأ (Durst, 9:120 لَا يُصِيبُهُمْ ظَمَأٌ). Anlaut-Kontrast zwischen emphatischem Plosiv und emphatischem Frikativ."
+          "contrastPoint": "ضَمَّ (zusammenfüegen, 20:22) vs. ظَمَأ (Durst, 9:120 لَا يُصِيبُهُمْ ظَمَأٌ). Anlaut-Kontrast zwischen emphatischem Plosiv und emphatischem Frikativ."
         },
         {
           "word1": "ضَرّ",
@@ -655,13 +660,13 @@
     {
       "id": "MP12",
       "pair": ["ط", "ت"],
-      "pairName": "Taa (emphatisch) vs. Taa (nicht-emphatisch) — Ergaenzung",
+      "pairName": "Taa (emphatisch) vs. Taa (nicht-emphatisch) — Ergänzung",
       "ipa": ["/tˤ/", "/t/"],
-      "distinction": "Ergaenzende Paare. Siehe MP5 fuer ausfuehrliche Beschreibung.",
+      "distinction": "Ergänzende Paare. Siehe MP5 für ausführliche Beschreibung.",
       "exercises": [
         {
           "word1": "طَبَعَ",
-          "meaning1": "praegen, versiegeln (auf dem Herzen)",
+          "meaning1": "prägen, versiegeln (auf dem Herzen)",
           "ref1": "7:101",
           "word2": "تَبَعَ",
           "meaning2": "folgen",
@@ -684,7 +689,7 @@
           "word2": "تَعَامٌ",
           "meaning2": "(keine Standardform; Kontrastpaar)",
           "ref2": "—",
-          "contrastPoint": "طَعَام (Speise) ist im Quran frequent. Die Emphase von ط verdunkelt alle Vokale in diesem Wort deutlich hoerbar."
+          "contrastPoint": "طَعَام (Speise) ist im Quran frequent. Die Emphase von ط verdunkelt alle Vokale in diesem Wort deutlich hörbar."
         },
         {
           "word1": "طَلَاق",
@@ -702,7 +707,7 @@
           "word2": "تَرِيق",
           "meaning2": "(keine Standardform; Kontrastpaar)",
           "ref2": "—",
-          "contrastPoint": "طَرِيق (Weg) erscheint im Quran bei der Geschichte des Auszugs (20:77 طَرِيقًا فِي الْبَحْرِ يَبَسًا). Die Emphase faerbt den gesamten Klang."
+          "contrastPoint": "طَرِيق (Weg) erscheint im Quran bei der Geschichte des Auszugs (20:77 طَرِيقًا فِي الْبَحْرِ يَبَسًا). Die Emphase färbt den gesamten Klang."
         },
         {
           "word1": "طَرَفَ",
@@ -718,9 +723,9 @@
     {
       "id": "MP13",
       "pair": ["ع", "ء"],
-      "pairName": "Ayn (pharyngal) vs. Hamza (glottal) — Ergaenzung",
+      "pairName": "Ayn (pharyngal) vs. Hamza (glottal) — Ergänzung",
       "ipa": ["/ʕ/", "/ʔ/"],
-      "distinction": "Ergaenzende Paare. Siehe MP2 fuer ausfuehrliche Beschreibung.",
+      "distinction": "Ergänzende Paare. Siehe MP2 für ausführliche Beschreibung.",
       "exercises": [
         {
           "word1": "عَدَلَ",
@@ -729,7 +734,7 @@
           "word2": "أَدَلَ",
           "meaning2": "(keine Standardform als Grundverb)",
           "ref2": "—",
-          "contrastPoint": "عَدَلَ (gerecht sein) ist ein zentrales Qurankonzept. Die Uebung trainiert die pharyngale Reibung von ع im Kontrast zum Knacklaut ء."
+          "contrastPoint": "عَدَلَ (gerecht sein) ist ein zentrales Qurankonzept. Die Übung trainiert die pharyngale Reibung von ع im Kontrast zum Knacklaut ء."
         },
         {
           "word1": "عَفَا",
@@ -781,9 +786,9 @@
     {
       "id": "MP14",
       "pair": ["ق", "ك"],
-      "pairName": "Qaaf (uvular) vs. Kaaf (velar) — Ergaenzung",
+      "pairName": "Qaaf (uvular) vs. Kaaf (velar) — Ergänzung",
       "ipa": ["/q/", "/k/"],
-      "distinction": "Ergaenzende Paare. Siehe MP7 fuer ausfuehrliche Beschreibung.",
+      "distinction": "Ergänzende Paare. Siehe MP7 für ausführliche Beschreibung.",
       "exercises": [
         {
           "word1": "قَرَأَ",
@@ -817,9 +822,9 @@
           "meaning1": "Teilung, Anteil",
           "ref1": "54:28 (أَنَّ الْمَاءَ قِسْمَةٌ بَيْنَهُمْ)",
           "word2": "كِسْرَة",
-          "meaning2": "Bruchstueck (kasra = Vokalzeichen)",
+          "meaning2": "Bruchstück (kasra = Vokalzeichen)",
           "ref2": "allgemeinarabisch",
-          "contrastPoint": "قِسْمَة (Teilung, 54:28) zeigt den uvularen ق in geschlossener Silbe. Der Klangunterschied zu velar ك ist besonders in der ersten Silbe hoerbar."
+          "contrastPoint": "قِسْمَة (Teilung, 54:28) zeigt den uvularen ق in geschlossener Silbe. Der Klangunterschied zu velar ك ist besonders in der ersten Silbe hörbar."
         },
         {
           "word1": "قَنَتَ",
@@ -828,16 +833,16 @@
           "word2": "كَنَتَ",
           "meaning2": "(keine Standardform; Kontrastpaar)",
           "ref2": "—",
-          "contrastPoint": "قَانِت (demuetig/andaechtig, 33:35) ist ein wichtiges Quranwort. Der uvulare ق hat einen hoerbar tieferen Klang als ein hypothetisches ك."
+          "contrastPoint": "قَانِت (demuetig/andaechtig, 33:35) ist ein wichtiges Quranwort. Der uvulare ق hat einen hörbar tieferen Klang als ein hypothetisches ك."
         },
         {
           "word1": "قَصَّ",
-          "meaning1": "erzaehlen (eine Geschichte)",
+          "meaning1": "erzählen (eine Geschichte)",
           "ref1": "12:3 (نَحْنُ نَقُصُّ عَلَيْكَ أَحْسَنَ الْقَصَصِ)",
           "word2": "كَصَّ",
           "meaning2": "(keine Standardform; Kontrastpaar)",
           "ref2": "—",
-          "contrastPoint": "قَصَّ (erzaehlen, 12:3) — das uvulare ق verdunkelt den gesamten Klangcharakter des Wortes."
+          "contrastPoint": "قَصَّ (erzählen, 12:3) — das uvulare ق verdunkelt den gesamten Klangcharakter des Wortes."
         }
       ]
     },
@@ -846,7 +851,7 @@
       "pair": ["ذ", "ز"],
       "pairName": "Dhaal (interdental) vs. Zaay (alveolar)",
       "ipa": ["/ð/", "/z/"],
-      "distinction": "ذ ist ein stimmhafter interdentaler Frikativ — die Zungenspitze liegt zwischen den Zaehnen, die Reibung entsteht an der Zahnkante. ز ist ein stimmhafter alveolarer Frikativ — die Zungenspitze liegt hinter den oberen Schneidezaehnen am Zahndamm. Beide sind stimmhaft. Der Unterschied ist der Artikulationsort: Zaehne (dental) vs. Zahndamm (alveolar). In vielen modernen Dialekten fallen beide zusammen — im klassischen Arabisch sind sie distinkt.",
+      "distinction": "ذ ist ein stimmhafter interdentaler Frikativ — die Zungenspitze liegt zwischen den Zähnen, die Reibung entsteht an der Zahnkante. ز ist ein stimmhafter alveolarer Frikativ — die Zungenspitze liegt hinter den oberen Schneidezähnen am Zahndamm. Beide sind stimmhaft. Der Unterschied ist der Artikulationsort: Zähne (dental) vs. Zahndamm (alveolar). In vielen modernen Dialekten fallen beide zusammen — im klassischen Arabisch sind sie distinkt.",
       "exercises": [
         {
           "word1": "ذَكَرَ",
@@ -855,16 +860,16 @@
           "word2": "زَكَّرَ",
           "meaning2": "(keine Standardform; vgl. زَكَرِيَّا — Eigenname)",
           "ref2": "—",
-          "contrastPoint": "ذَكَرَ (gedenken) ist hochfrequent. Der interdentale ذ (Zunge zwischen den Zaehnen) unterscheidet sich klar vom alveolaren ز (Zunge am Zahndamm)."
+          "contrastPoint": "ذَكَرَ (gedenken) ist hochfrequent. Der interdentale ذ (Zunge zwischen den Zähnen) unterscheidet sich klar vom alveolaren ز (Zunge am Zahndamm)."
         },
         {
           "word1": "ذَنْبٌ",
-          "meaning1": "Suende, Vergehen",
+          "meaning1": "Sünde, Vergehen",
           "ref1": "3:11",
           "word2": "زَنْبٌ",
           "meaning2": "(keine Standardform; Kontrastpaar)",
           "ref2": "—",
-          "contrastPoint": "ذَنْب (Suende, 3:11) zeigt den interdentalen ذ im Anlaut. Verwechslung mit ز wuerde zu einem Nicht-Wort fuehren."
+          "contrastPoint": "ذَنْب (Sünde, 3:11) zeigt den interdentalen ذ im Anlaut. Verwechslung mit ز würde zu einem Nicht-Wort führen."
         },
         {
           "word1": "ذَرَّ",
@@ -873,7 +878,7 @@
           "word2": "زَرَّ",
           "meaning2": "zuknöpfen (Knopf)",
           "ref2": "allgemeinarabisch",
-          "contrastPoint": "ذَرَّة (Staeubchen/Atom, 99:7) vs. زَرَّ (zuknöpfen). Anlautkontrast zwischen interdental ذ und alveolar ز."
+          "contrastPoint": "ذَرَّة (Stäubchen/Atom, 99:7) vs. زَرَّ (zuknöpfen). Anlautkontrast zwischen interdental ذ und alveolar ز."
         },
         {
           "word1": "ذَهَبَ",

@@ -1,13 +1,13 @@
 {
   "meta": {
-    "description": "Frequenzsortierte Wurzelliste des quranischen Korpus (77429 Woerter)",
+    "description": "Frequenzsortierte Wurzelliste des quranischen Korpus (77429 Wörter)",
     "totalRoots": 1642,
     "totalWords": 77429,
     "top50coverage": 22812,
     "top100coverage": 30227,
     "top300coverage": 41704,
-    "note": "Top 300 Wurzeln mit Kurzangaben — fuer praezise Semantik Lanes Lexicon konsultieren.",
-    "rootNotation": "Hamza-finale Wurzeln werden in diesem Datensatz mit Alif (ا) statt Hamza (ء) notiert. Dies ist eine Vereinfachung fuer Konsistenz mit der Quran-Morphologie-Datenbank. Beispiel: ش-ي-ا steht fuer ش-ي-ء.",
+    "note": "Top 300 Wurzeln mit Kurzangaben — für praezise Semantik Lanes Lexicon konsultieren.",
+    "rootNotation": "Hamza-finale Wurzeln werden in diesem Datensatz mit Alif (ا) statt Hamza (ء) notiert. Dies ist eine Vereinfachung für Konsistenz mit der Quran-Morphologie-Datenbank. Beispiel: ش-ي-ا steht für ش-ي-ء.",
     "sources": [
       {"label": "Quranic Arabic Corpus — Corpus Statistics", "url": "https://corpus.quran.com/qurandictionary.jsp"},
       {"label": "Lane's Lexicon (Root Semantics)", "url": "https://ejtaal.net/aa/"}
@@ -102,7 +102,7 @@
       "transliteration": "b-y-n",
       "count": 523,
       "percentage": "0.68%",
-      "meaning": "klar sein/erklaeren"
+      "meaning": "klar sein/erklären"
     },
     {
       "rank": 11,
@@ -228,7 +228,7 @@
       "transliteration": "h-d-y",
       "count": 316,
       "percentage": "0.41%",
-      "meaning": "rechtleiten"
+      "meaning": "leiten, führen, den Weg zeigen"
     },
     {
       "rank": 25,
@@ -273,7 +273,7 @@
       "transliteration": "ḏ-k-r",
       "count": 292,
       "percentage": "0.38%",
-      "meaning": "erinnern/erwaehnen"
+      "meaning": "erinnern/erwähnen"
     },
     {
       "rank": 30,
@@ -291,7 +291,7 @@
       "transliteration": "k-ḏ-b",
       "count": 282,
       "percentage": "0.36%",
-      "meaning": "luegen"
+      "meaning": "lügen"
     },
     {
       "rank": 32,
@@ -336,7 +336,7 @@
       "transliteration": "w-q-y",
       "count": 258,
       "percentage": "0.33%",
-      "meaning": "schuetzen/bewahren"
+      "meaning": "schützen/bewahren"
     },
     {
       "rank": 37,
@@ -418,7 +418,7 @@
       "transliteration": "m-l-k",
       "count": 206,
       "percentage": "0.27%",
-      "meaning": "herrschen/Koenig"
+      "meaning": "herrschen/König"
     },
     {
       "rank": 46,
@@ -463,7 +463,7 @@
       "transliteration": "ḥ-s-n",
       "count": 194,
       "percentage": "0.25%",
-      "meaning": "gut/schoen"
+      "meaning": "gut/schön"
     },
     {
       "rank": 51,
@@ -481,7 +481,7 @@
       "transliteration": "s-m-ʿ",
       "count": 185,
       "percentage": "0.24%",
-      "meaning": "hoeren"
+      "meaning": "hören"
     },
     {
       "rank": 53,
@@ -553,7 +553,7 @@
       "transliteration": "q-t-l",
       "count": 170,
       "percentage": "0.22%",
-      "meaning": "toeten"
+      "meaning": "töten"
     },
     {
       "rank": 61,
@@ -841,7 +841,7 @@
       "transliteration": "ḫ-w-f",
       "count": 124,
       "percentage": "0.16%",
-      "meaning": "fuerchten"
+      "meaning": "fürchten"
     },
     {
       "rank": 93,
@@ -886,7 +886,7 @@
       "transliteration": "ʿ-z-z",
       "count": 119,
       "percentage": "0.15%",
-      "meaning": "maechtig"
+      "meaning": "mächtig"
     },
     {
       "rank": 98,
@@ -985,7 +985,7 @@
       "transliteration": "r-ǧ-ʿ",
       "count": 104,
       "percentage": "0.13%",
-      "meaning": "zurueckkehren"
+      "meaning": "zurückkehren"
     },
     {
       "rank": 109,
@@ -1057,7 +1057,7 @@
       "transliteration": "ṣ-ḥ-b",
       "count": 97,
       "percentage": "0.13%",
-      "meaning": "Gefaehrte/begleiten"
+      "meaning": "Gefährte/begleiten"
     },
     {
       "rank": 117,
@@ -1075,7 +1075,7 @@
       "transliteration": "q-r-b",
       "count": 96,
       "percentage": "0.12%",
-      "meaning": "naehern/Opfergabe"
+      "meaning": "nähern/Opfergabe"
     },
     {
       "rank": 119,
@@ -1183,7 +1183,7 @@
       "transliteration": "m-w-l",
       "count": 86,
       "percentage": "0.11%",
-      "meaning": "Besitz/Vermoegen"
+      "meaning": "Besitz/Vermögen"
     },
     {
       "rank": 131,
@@ -1381,7 +1381,7 @@
       "transliteration": "ġ-n-y",
       "count": 73,
       "percentage": "0.09%",
-      "meaning": "reich/genuegen"
+      "meaning": "reich/genügen"
     },
     {
       "rank": 153,
@@ -1498,7 +1498,7 @@
       "transliteration": "w-f-y",
       "count": 66,
       "percentage": "0.09%",
-      "meaning": "erfuellen/voll"
+      "meaning": "erfüllen/voll"
     },
     {
       "rank": 166,
@@ -1507,7 +1507,7 @@
       "transliteration": "ǧ-r-m",
       "count": 66,
       "percentage": "0.09%",
-      "meaning": "Suende/Verbrechen"
+      "meaning": "Sünde/Verbrechen"
     },
     {
       "rank": 167,
@@ -1597,7 +1597,7 @@
       "transliteration": "ʿ-w-d",
       "count": 63,
       "percentage": "0.08%",
-      "meaning": "zurueckkehren"
+      "meaning": "zurückkehren"
     },
     {
       "rank": 177,
@@ -1642,7 +1642,7 @@
       "transliteration": "f-t-n",
       "count": 60,
       "percentage": "0.08%",
-      "meaning": "Versuchung/pruefen"
+      "meaning": "Versuchung/prüfen"
     },
     {
       "rank": 182,
@@ -1678,7 +1678,7 @@
       "transliteration": "ẓ-h-r",
       "count": 59,
       "percentage": "0.08%",
-      "meaning": "erscheinen/Ruecken"
+      "meaning": "erscheinen/Rücken"
     },
     {
       "rank": 186,
@@ -1687,7 +1687,7 @@
       "transliteration": "r-d-d",
       "count": 59,
       "percentage": "0.08%",
-      "meaning": "zurueckweisen"
+      "meaning": "zurückweisen"
     },
     {
       "rank": 187,
@@ -1696,7 +1696,7 @@
       "transliteration": "ḍ-r-b",
       "count": 58,
       "percentage": "0.07%",
-      "meaning": "schlagen/praesentieren"
+      "meaning": "schlagen/präsentieren"
     },
     {
       "rank": 188,
@@ -1705,7 +1705,7 @@
       "transliteration": "ʿ-d-d",
       "count": 57,
       "percentage": "0.07%",
-      "meaning": "Zahl/zaehlen"
+      "meaning": "Zahl/zählen"
     },
     {
       "rank": 189,
@@ -1813,7 +1813,7 @@
       "transliteration": "ḥ-l-l",
       "count": 51,
       "percentage": "0.07%",
-      "meaning": "erlaubt/loesen"
+      "meaning": "erlaubt/lösen"
     },
     {
       "rank": 201,
@@ -1876,7 +1876,7 @@
       "transliteration": "ḫ-š-y",
       "count": 48,
       "percentage": "0.06%",
-      "meaning": "ehrfuerchten"
+      "meaning": "ehrfürchten"
     },
     {
       "rank": 208,
@@ -1885,7 +1885,7 @@
       "transliteration": "ā-ṯ-m",
       "count": 48,
       "percentage": "0.06%",
-      "meaning": "Suende"
+      "meaning": "Sünde"
     },
     {
       "rank": 209,
@@ -1984,7 +1984,7 @@
       "transliteration": "b-d-l",
       "count": 44,
       "percentage": "0.06%",
-      "meaning": "aendern/tauschen"
+      "meaning": "ändern/tauschen"
     },
     {
       "rank": 220,
@@ -2011,7 +2011,7 @@
       "transliteration": "ḥ-f-ẓ",
       "count": 44,
       "percentage": "0.06%",
-      "meaning": "bewahren/hueten"
+      "meaning": "bewahren/hüten"
     },
     {
       "rank": 223,
@@ -2038,7 +2038,7 @@
       "transliteration": "f-w-q",
       "count": 43,
       "percentage": "0.06%",
-      "meaning": "ueber/oberhalb"
+      "meaning": "über/oberhalb"
     },
     {
       "rank": 226,
@@ -2155,7 +2155,7 @@
       "transliteration": "ǧ-h-d",
       "count": 41,
       "percentage": "0.05%",
-      "meaning": "sich bemuehen/Kampf"
+      "meaning": "sich bemühen/Kampf"
     },
     {
       "rank": 239,
@@ -2191,7 +2191,7 @@
       "transliteration": "m-l-ā",
       "count": 40,
       "percentage": "0.05%",
-      "meaning": "fuellen/Schar"
+      "meaning": "füllen/Schar"
     },
     {
       "rank": 243,
@@ -2218,7 +2218,7 @@
       "transliteration": "ḏ-n-b",
       "count": 39,
       "percentage": "0.05%",
-      "meaning": "Suende/Schuld"
+      "meaning": "Sünde/Schuld"
     },
     {
       "rank": 246,
@@ -2245,7 +2245,7 @@
       "transliteration": "b-l-w",
       "count": 38,
       "percentage": "0.05%",
-      "meaning": "pruefen/erproben"
+      "meaning": "prüfen/erproben"
     },
     {
       "rank": 249,
@@ -2254,7 +2254,7 @@
       "transliteration": "f-t-ḥ",
       "count": 38,
       "percentage": "0.05%",
-      "meaning": "oeffnen/Sieg"
+      "meaning": "öffnen/Sieg"
     },
     {
       "rank": 250,
@@ -2344,7 +2344,7 @@
       "transliteration": "ḥ-d-ṯ",
       "count": 36,
       "percentage": "0.05%",
-      "meaning": "Rede/erzaehlen"
+      "meaning": "Rede/erzählen"
     },
     {
       "rank": 260,
@@ -2353,7 +2353,7 @@
       "transliteration": "ā-n-y",
       "count": 36,
       "percentage": "0.05%",
-      "meaning": "Gefaess/Zeit"
+      "meaning": "Gefäß/Zeit"
     },
     {
       "rank": 261,
@@ -2425,7 +2425,7 @@
       "transliteration": "k-y-d",
       "count": 35,
       "percentage": "0.05%",
-      "meaning": "List/Raenke"
+      "meaning": "List/Ränke"
     },
     {
       "rank": 269,
@@ -2452,7 +2452,7 @@
       "transliteration": "ǧ-n-ḥ",
       "count": 34,
       "percentage": "0.04%",
-      "meaning": "Fluegel/Seite"
+      "meaning": "Flügel/Seite"
     },
     {
       "rank": 272,
@@ -2497,7 +2497,7 @@
       "transliteration": "k-f-y",
       "count": 33,
       "percentage": "0.04%",
-      "meaning": "genuegen"
+      "meaning": "genügen"
     },
     {
       "rank": 277,
@@ -2533,7 +2533,7 @@
       "transliteration": "q-s-m",
       "count": 33,
       "percentage": "0.04%",
-      "meaning": "teilen/schwoeren"
+      "meaning": "teilen/schwören"
     },
     {
       "rank": 281,
@@ -2551,7 +2551,7 @@
       "transliteration": "b-r-r",
       "count": 32,
       "percentage": "0.04%",
-      "meaning": "fromm/Guete"
+      "meaning": "fromm/Güte"
     },
     {
       "rank": 283,
@@ -2686,7 +2686,7 @@
       "transliteration": "š-r-r",
       "count": 31,
       "percentage": "0.04%",
-      "meaning": "Uebel/Boese"
+      "meaning": "Uebel/Böse"
     },
     {
       "rank": 298,

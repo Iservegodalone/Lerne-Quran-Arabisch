@@ -1,17 +1,27 @@
 {
   "meta": {
     "title": "Sprechakt-Drill (Pragmatik)",
-    "description": "Identifikation von Sprechakttypen in Quranversen: Befehl, Bitte, Frage, Schwur, Wunsch, Warnung, etc. — rein sprachwissenschaftlich."
+    "description": "Identifikation von Sprechakttypen in Quranversen: Befehl, Bitte, Frage, Schwur, Wunsch, Warnung, etc. — rein sprachwissenschaftlich.",
+    "sources": [
+      {
+        "name": "Wright's Arabic Grammar Vol II",
+        "url": "https://archive.org/details/grammarofthearab02telerich"
+      },
+      {
+        "name": "Quranic Arabic Corpus",
+        "url": "https://corpus.quran.com/"
+      }
+    ]
   },
   "speechActTypes": [
     { "id": "amr", "name": "Befehl (Amr)", "markers": ["Imperativ", "لِيَفْعَلْ (Jussiv mit Lam al-Amr)"], "description": "Aufforderung zur Handlung. Syntaktisch: Imperativform oder Jussiv mit لِ." },
     { "id": "nahy", "name": "Verbot (Nahy)", "markers": ["لَا + Jussiv (لَا تَفْعَلْ)"], "description": "Aufforderung zur Unterlassung. Syntaktisch: لَا الناهية + Jussiv." },
-    { "id": "dua", "name": "Bitte/Anrufung (Du'a')", "markers": ["Imperativ an Gott", "رَبَّنَا + Imperativ"], "description": "Formal identisch mit Befehl, aber der Sprechakt ist eine Bitte — weil der Angesprochene hoehergestellt ist." },
+    { "id": "dua", "name": "Bitte/Anrufung (Du'a')", "markers": ["Imperativ an Gott", "رَبَّنَا + Imperativ"], "description": "Formal identisch mit Befehl, aber der Sprechakt ist eine Bitte — weil der Angesprochene höhergestellt ist." },
     { "id": "istifham_haqiqi", "name": "Echte Frage (Istifham Haqiqi)", "markers": ["أَ/هَلْ + Verb/Nomen", "مَا/مَنْ/أَيّ/كَيْفَ/أَيْنَ"], "description": "Genuine Informationsfrage. Der Sprecher weiss die Antwort nicht." },
-    { "id": "istifham_inkari", "name": "Rhetorische Frage (Istifham Inkari)", "markers": ["أَ + offensichtliche Antwort"], "description": "Scheinbare Frage deren Antwort offensichtlich ist. Funktion: Bekraeftigung, Tadel oder Verwunderung." },
-    { "id": "qasam", "name": "Schwur (Qasam)", "markers": ["وَ + Nomen im Genitiv (Schwur-Waw)", "لَ + Verb"], "description": "Bekraeftigung durch Schwur. Syntaktisch: Schwurpartikel + Geschworenes + Antwort des Schwurs." },
+    { "id": "istifham_inkari", "name": "Rhetorische Frage (Istifham Inkari)", "markers": ["أَ + offensichtliche Antwort"], "description": "Scheinbare Frage deren Antwort offensichtlich ist. Funktion: Bekräftigung, Tadel oder Verwunderung." },
+    { "id": "qasam", "name": "Schwur (Qasam)", "markers": ["وَ + Nomen im Genitiv (Schwur-Waw)", "لَ + Verb"], "description": "Bekräftigung durch Schwur. Syntaktisch: Schwurpartikel + Geschworenes + Antwort des Schwurs." },
     { "id": "shart", "name": "Bedingung (Shart)", "markers": ["إِنْ/إِذَا/لَوْ/لَوْلَا + Protasis + Apodosis"], "description": "Wenn-Dann-Konstruktion. Protasis (Bedingung) und Apodosis (Folge)." },
-    { "id": "tamanni", "name": "Wunsch (Tamanni)", "markers": ["لَيْتَ", "لَوْ (wuenschend)"], "description": "Ausdruck eines (oft unerfuellbaren) Wunsches." },
+    { "id": "tamanni", "name": "Wunsch (Tamanni)", "markers": ["لَيْتَ", "لَوْ (wünschend)"], "description": "Ausdruck eines (oft unerfüllbaren) Wunsches." },
     { "id": "ta'ajjub", "name": "Erstaunen/Ausruf (Ta'ajjub)", "markers": ["مَا أَفْعَلَهُ", "سُبْحَانَ"], "description": "Ausruf des Erstaunens oder der Verherrlichung." },
     { "id": "nida", "name": "Anruf/Vokativ (Nida')", "markers": ["يَا + Munada"], "description": "Direkte Anrede. Syntaktisch: يَا + Akkusativ (oder Mabni auf Damma bei Eigennamen)." },
     { "id": "indhar", "name": "Warnung (Indhar)", "markers": ["Imperativ + Drohung", "وَيْل + Genitiv"], "description": "Warnung vor negativen Konsequenzen. Oft kombiniert mit Bedingung." }
@@ -43,7 +53,7 @@
       "arabic": "أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَابِ الْفِيلِ",
       "quranRef": "105:1",
       "correctType": "istifham_inkari",
-      "explanation": "أَلَمْ تَرَ — formale Frage, aber die Antwort ist offensichtlich (ja, du hast gesehen/weisst). Rhetorische Frage zur Bekraeftigung."
+      "explanation": "أَلَمْ تَرَ — formale Frage, aber die Antwort ist offensichtlich (ja, du hast gesehen/weisst). Rhetorische Frage zur Bekräftigung."
     },
     {
       "id": "sa05",
@@ -64,7 +74,7 @@
       "arabic": "يَا لَيْتَنِي كُنْتُ مَعَهُمْ",
       "quranRef": "4:73",
       "correctType": "tamanni",
-      "explanation": "لَيْتَ (Wunschpartikel) — Ausdruck eines unerfuellten Wunsches. Syntaktisch: Inna-Schwester mit Akkusativ."
+      "explanation": "لَيْتَ (Wunschpartikel) — Ausdruck eines unerfüllten Wunsches. Syntaktisch: Inna-Schwester mit Akkusativ."
     },
     {
       "id": "sa08",
@@ -85,7 +95,7 @@
       "arabic": "هَلْ أَتَاكَ حَدِيثُ الْغَاشِيَةِ",
       "quranRef": "88:1",
       "correctType": "istifham_inkari",
-      "explanation": "هَلْ (Fragepartikel) — formal eine Frage, pragmatisch rhetorisch ('Ist dir die Nachricht gekommen?' = 'Hoere zu!'). Leitet eine Erzaehlung ein."
+      "explanation": "هَلْ (Fragepartikel) — formal eine Frage, pragmatisch rhetorisch ('Ist dir die Nachricht gekommen?' = 'Höre zu!'). Leitet eine Erzählung ein."
     },
 
     {
@@ -136,14 +146,14 @@
       "arabic": "وَلَا تَمْشِ فِي الْأَرْضِ مَرَحًا",
       "quranRef": "17:37",
       "correctType": "nahy",
-      "explanation": "لَا الناهية + Jussiv تَمْشِ (gehe nicht!) — syntaktisches Verbot. Das letzte Ya des defektiven Verbs faellt im Jussiv weg."
+      "explanation": "لَا الناهية + Jussiv تَمْشِ (gehe nicht!) — syntaktisches Verbot. Das letzte Ya des defektiven Verbs fällt im Jussiv weg."
     },
     {
       "id": "sa18",
       "arabic": "لَا تَتَّخِذُوا عَدُوِّي وَعَدُوَّكُمْ أَوْلِيَاءَ",
       "quranRef": "60:1",
       "correctType": "nahy",
-      "explanation": "لَا الناهية + Jussiv تَتَّخِذُوا (nehmt nicht!) — syntaktisches Verbot. Nun faellt weg als Jussiv-Markierung."
+      "explanation": "لَا الناهية + Jussiv تَتَّخِذُوا (nehmt nicht!) — syntaktisches Verbot. Nun fällt weg als Jussiv-Markierung."
     },
     {
       "id": "sa19",
@@ -165,21 +175,21 @@
       "arabic": "أَأَنتَ فَعَلْتَ هَٰذَا بِآلِهَتِنَا يَا إِبْرَاهِيمُ",
       "quranRef": "21:62",
       "correctType": "istifham_haqiqi",
-      "explanation": "أَ (Hamza al-Istifham) + أَنتَ فَعَلْتَ — genuine Frage. Die Fragenden wissen die Antwort nicht sicher und wollen Bestaetigung."
+      "explanation": "أَ (Hamza al-Istifham) + أَنتَ فَعَلْتَ — genuine Frage. Die Fragenden wissen die Antwort nicht sicher und wollen Bestätigung."
     },
     {
       "id": "sa22",
       "arabic": "أَلَيْسَ اللَّهُ بِكَافٍ عَبْدَهُ",
       "quranRef": "39:36",
       "correctType": "istifham_inkari",
-      "explanation": "أَ + لَيْسَ — rhetorische Frage. Die Antwort ist offensichtlich (ja, er genuegt). Funktion: Bekraeftigung der Aussage."
+      "explanation": "أَ + لَيْسَ — rhetorische Frage. Die Antwort ist offensichtlich (ja, er genügt). Funktion: Bekräftigung der Aussage."
     },
     {
       "id": "sa23",
       "arabic": "مَنْ ذَا الَّذِي يَشْفَعُ عِندَهُ إِلَّا بِإِذْنِهِ",
       "quranRef": "2:255",
       "correctType": "istifham_inkari",
-      "explanation": "مَنْ (Fragepronomen) — rhetorische Frage. Die Antwort ist: niemand. Funktion: Betonung der Exklusivitaet."
+      "explanation": "مَنْ (Fragepronomen) — rhetorische Frage. Die Antwort ist: niemand. Funktion: Betonung der Exklusivität."
     },
     {
       "id": "sa24",
@@ -237,35 +247,35 @@
       "arabic": "سُبْحَانَ الَّذِي أَسْرَىٰ بِعَبْدِهِ لَيْلًا",
       "quranRef": "17:1",
       "correctType": "ta'ajjub",
-      "explanation": "سُبْحَانَ — Ausruf der Verherrlichung/des Erstaunens. Masdar als Maf'ul mutlaq mit ausgelassenem Verb. Ausdruck der Erhabenheit ueber Maengel."
+      "explanation": "سُبْحَانَ — Ausruf der Verherrlichung/des Erstaunens. Masdar als Maf'ul mutlaq mit ausgelassenem Verb. Ausdruck der Erhabenheit über Mängel."
     },
     {
       "id": "sa32",
       "arabic": "فَمَا أَصْبَرَهُمْ عَلَى النَّارِ",
       "quranRef": "2:175",
       "correctType": "ta'ajjub",
-      "explanation": "مَا أَفْعَلَهُ — die klassische Ta'ajjub-Formel: 'Wie geduldig sind sie gegenueber dem Feuer!' Ausdruck des Erstaunens."
+      "explanation": "مَا أَفْعَلَهُ — die klassische Ta'ajjub-Formel: 'Wie geduldig sind sie gegenüber dem Feuer!' Ausdruck des Erstaunens."
     },
     {
       "id": "sa33",
       "arabic": "كَبُرَتْ كَلِمَةً تَخْرُجُ مِنْ أَفْوَاهِهِمْ",
       "quranRef": "18:5",
       "correctType": "ta'ajjub",
-      "explanation": "كَبُرَتْ — Verb des Erstaunens (was fuer ein gewaltiges Wort!). Drueckt Erstaunen/Missbilligung aus ueber die Ungeheuerlichkeit der Aussage."
+      "explanation": "كَبُرَتْ — Verb des Erstaunens (was für ein gewaltiges Wort!). Drückt Erstaunen/Missbilligung aus über die Ungeheuerlichkeit der Aussage."
     },
     {
       "id": "sa34",
       "arabic": "بَدِيعُ السَّمَاوَاتِ وَالْأَرْضِ أَنَّىٰ يَكُونُ لَهُ وَلَدٌ",
       "quranRef": "6:101",
       "correctType": "ta'ajjub",
-      "explanation": "أَنَّىٰ (wie?) — rhetorische Frage mit Funktion des Erstaunens/der Zurueckweisung. 'Wie sollte er einen Sohn haben?!' Ausdruck der Unmoeglichkeit."
+      "explanation": "أَنَّىٰ (wie?) — rhetorische Frage mit Funktion des Erstaunens/der Zurückweisung. 'Wie sollte er einen Sohn haben?!' Ausdruck der Unmoeglichkeit."
     },
     {
       "id": "sa35",
       "arabic": "قُتِلَ الْإِنسَانُ مَا أَكْفَرَهُ",
       "quranRef": "80:17",
       "correctType": "ta'ajjub",
-      "explanation": "مَا أَكْفَرَهُ — Ta'ajjub-Formel: 'Wie undankbar ist der Mensch!' Das vorangehende قُتِلَ ist ein Ausruf der Verwuenschung."
+      "explanation": "مَا أَكْفَرَهُ — Ta'ajjub-Formel: 'Wie undankbar ist der Mensch!' Das vorangehende قُتِلَ ist ein Ausruf der Verwünschung."
     },
 
     {
@@ -287,7 +297,7 @@
       "arabic": "لَا أُقْسِمُ بِهَٰذَا الْبَلَدِ",
       "quranRef": "90:1",
       "correctType": "qasam",
-      "explanation": "أُقْسِمُ (ich schwöre) + بِ + هَٰذَا الْبَلَدِ (Geschworenes, Genitiv). Die Verneinung لَا ist hier eine emphatische Einleitung des Schwurs. Alternative Analyse: لَا أُقْسِمُ kann auch woertlich gelesen werden als 'Ich schwöre nicht' (Negation des Schwurs)."
+      "explanation": "أُقْسِمُ (ich schwöre) + بِ + هَٰذَا الْبَلَدِ (Geschworenes, Genitiv). Die Verneinung لَا ist hier eine emphatische Einleitung des Schwurs. Alternative Analyse: لَا أُقْسِمُ kann auch wörtlich gelesen werden als 'Ich schwöre nicht' (Negation des Schwurs)."
     },
     {
       "id": "sa39",

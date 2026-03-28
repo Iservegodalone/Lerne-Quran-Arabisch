@@ -1,13 +1,18 @@
 {
   "meta": {
-    "title": "Schwache Verben — Vollstaendige Konjugationstabellen",
-    "description": "Systematische Konjugationstabellen aller schwachen Verbtypen des klassischen Arabisch mit koranischen Belegformen. Rein sprachwissenschaftlich."
+    "title": "Schwache Verben — Vollständige Konjugationstabellen",
+    "description": "Systematische Konjugationstabellen aller schwachen Verbtypen des klassischen Arabisch mit koranischen Belegformen. Rein sprachwissenschaftlich.",
+    "sources": [
+      { "name": "Wright's Grammar Vol I", "url": "https://archive.org/details/grammarofthearab01telerich" },
+      { "name": "Wright's Grammar Vol II", "url": "https://archive.org/details/grammarofthearab02telerich" },
+      { "name": "Quranic Arabic Corpus", "url": "https://corpus.quran.com/" }
+    ]
   },
   "categories": [
     {
       "id": "hollow",
       "title": "Hohle Verben (Mittelradikalschwache / al-Ajwaf)",
-      "description": "Verben, deren zweiter Radikal ein schwacher Konsonant (Waw oder Ya) ist. Der schwache Radikal faellt in bestimmten Formen aus oder wird zu einem langen Vokal.",
+      "description": "Verben, deren zweiter Radikal ein schwacher Konsonant (Waw oder Ya) ist. Der schwache Radikal fällt in bestimmten Formen aus oder wird zu einem langen Vokal.",
       "subcategories": [
         {
           "id": "hollow_waw",
@@ -319,7 +324,7 @@
           "quranicExamples": [
             { "word": "اهْدِنَا", "location": "1:6", "meaning": "leite uns" },
             { "word": "يَهْدِي", "location": "2:26", "meaning": "er leitet" },
-            { "word": "هُدًى", "location": "2:2", "meaning": "Fuehrung" },
+            { "word": "هُدًى", "location": "2:2", "meaning": "Führung" },
             { "word": "هَدَيْنَا", "location": "6:84", "meaning": "wir leiteten" }
           ]
         },
@@ -429,7 +434,7 @@
     {
       "id": "assimilated",
       "title": "Anfangsschwache Verben (Anfangsradikalschwache / al-Mithal)",
-      "description": "Verben, deren erster Radikal ein schwacher Konsonant (Waw oder Ya) ist. Bei Waw-anfangsschwachen faellt das Waw im Imperfekt haeufig aus.",
+      "description": "Verben, deren erster Radikal ein schwacher Konsonant (Waw oder Ya) ist. Bei Waw-anfangsschwachen fällt das Waw im Imperfekt häufig aus.",
       "subcategories": [
         {
           "id": "assim_waw",
@@ -527,7 +532,7 @@
           "activeParticiple": "وَاعِد",
           "passiveParticiple": "مَوْعُود",
           "masdar": "وَعْد",
-          "note": "Bei Verben mit و als erstem Radikal und Imperfekt-Stammvokal Kasra (يَفْعِلُ-Klasse) faellt das Waw im Imperfekt und Imperativ weg.",
+          "note": "Bei Verben mit و als erstem Radikal und Imperfekt-Stammvokal Kasra (يَفْعِلُ-Klasse) fällt das Waw im Imperfekt und Imperativ weg.",
           "quranicExamples": [
             { "word": "وَعَدَ", "location": "4:122", "meaning": "er versprach" },
             { "word": "وَعَدَ", "location": "4:95", "meaning": "er versprach" },
@@ -642,7 +647,7 @@
           "masdar": "مَدّ",
           "quranicExamples": [
             { "word": "مَدَّ", "location": "13:3", "meaning": "er streckte aus" },
-            { "word": "يَمُدُّهُمْ", "location": "2:15", "meaning": "er laesst sie andauern" },
+            { "word": "يَمُدُّهُمْ", "location": "2:15", "meaning": "er lässt sie andauern" },
             { "word": "مَمْدُود", "location": "56:30", "meaning": "ausgestreckt, ausgedehnt" }
           ]
         },
@@ -650,7 +655,7 @@
           "id": "geminate_radda",
           "title": "Verdoppelte Verben (Typ رَدَّ)",
           "exampleRoot": "ر د د",
-          "exampleMeaning": "zurueckgeben, zurueckweisen",
+          "exampleMeaning": "zurückgeben, zurückweisen",
           "perfect": {
             "3ms": "رَدَّ",
             "3fs": "رَدَّتْ",
@@ -692,9 +697,9 @@
           "passiveParticiple": "مَرْدُود",
           "masdar": "رَدّ",
           "quranicExamples": [
-            { "word": "رَدَّ", "location": "28:13", "meaning": "er gab zurueck" },
-            { "word": "يَرُدُّوكُمْ", "location": "2:109", "meaning": "sie weisen euch zurueck" },
-            { "word": "رُدُّوهَا", "location": "4:86", "meaning": "gebt sie zurueck!" }
+            { "word": "رَدَّ", "location": "28:13", "meaning": "er gab zurück" },
+            { "word": "يَرُدُّوكُمْ", "location": "2:109", "meaning": "sie weisen euch zurück" },
+            { "word": "رُدُّوهَا", "location": "4:86", "meaning": "gebt sie zurück!" }
           ]
         },
         {
@@ -800,7 +805,7 @@
           "activeParticiple": "آخِذ",
           "passiveParticiple": "مَأْخُوذ",
           "masdar": "أَخْذ",
-          "note": "Der Imperativ verliert das Anfangs-Hamza (unregelmaessig): خُذْ statt اُؤْخُذْ",
+          "note": "Der Imperativ verliert das Anfangs-Hamza (unregelmäßig): خُذْ statt اُؤْخُذْ",
           "quranicExamples": [
             { "word": "أَخَذَ", "location": "2:63", "meaning": "er nahm" },
             { "word": "يَأْخُذُ", "location": "2:229", "meaning": "er nimmt" },
@@ -853,7 +858,7 @@
           "activeParticiple": "آكِل",
           "passiveParticiple": "مَأْكُول",
           "masdar": "أَكْل",
-          "note": "Imperativ wie bei أَخَذَ unregelmaessig: كُلْ statt اُؤْكُلْ",
+          "note": "Imperativ wie bei أَخَذَ unregelmäßig: كُلْ statt اُؤْكُلْ",
           "quranicExamples": [
             { "word": "كُلُوا", "location": "2:35", "meaning": "esst!" },
             { "word": "يَأْكُلُونَ", "location": "2:174", "meaning": "sie essen" },
@@ -969,7 +974,7 @@
     {
       "id": "doubly_weak",
       "title": "Doppelt schwache Verben",
-      "description": "Verben, die zwei schwache Radikale oder eine Kombination aus Hamza und schwachem Radikal enthalten. Sie kombinieren die Besonderheiten beider Schwaechen.",
+      "description": "Verben, die zwei schwache Radikale oder eine Kombination aus Hamza und schwachem Radikal enthalten. Sie kombinieren die Besonderheiten beider Schwächen.",
       "subcategories": [
         {
           "id": "doubly_raa",
@@ -1016,7 +1021,7 @@
           "activeParticiple": "رَاءٍ",
           "passiveParticiple": "مَرْئِيّ",
           "masdar": "رُؤْيَة / رَأْي",
-          "note": "Hamza faellt im Imperfekt aus. Doppelte Schwaeche: Hamza als 2. Radikal und Ya als 3. Radikal.",
+          "note": "Hamza fällt im Imperfekt aus. Doppelte Schwäche: Hamza als 2. Radikal und Ya als 3. Radikal.",
           "quranicExamples": [
             { "word": "رَأَى", "location": "53:13", "meaning": "er sah" },
             { "word": "تَرَى", "location": "2:165", "meaning": "du siehst" },
@@ -1081,7 +1086,7 @@
           "id": "doubly_waqa",
           "title": "Anfangsschwach + Schluss-schwach (Typ وقى)",
           "exampleRoot": "و ق ي",
-          "exampleMeaning": "schuetzen, bewahren",
+          "exampleMeaning": "schützen, bewahren",
           "perfect": {
             "3ms": "وَقَى",
             "3fs": "وَقَتْ",
@@ -1122,10 +1127,10 @@
           "activeParticiple": "وَاقٍ",
           "passiveParticiple": "مَوْقِيّ",
           "masdar": "وِقَايَة",
-          "note": "Doppelt schwach: Waw als 1. Radikal (faellt im Imperfekt aus) und Ya als 3. Radikal (Schluss-schwach). Ergibt extrem kurze Formen wie قِ (schuetze!).",
+          "note": "Doppelt schwach: Waw als 1. Radikal (fällt im Imperfekt aus) und Ya als 3. Radikal (Schluss-schwach). Ergibt extrem kurze Formen wie قِ (schütze!).",
           "quranicExamples": [
-            { "word": "وَقَاهُمْ", "location": "76:11", "meaning": "er schuetzte sie" },
-            { "word": "قُوا", "location": "66:6", "meaning": "schuetzt! bewahrt!" },
+            { "word": "وَقَاهُمْ", "location": "76:11", "meaning": "er schützte sie" },
+            { "word": "قُوا", "location": "66:6", "meaning": "schützt! bewahrt!" },
             { "word": "يُوقَ", "location": "3:185", "meaning": "er wird bewahrt (Passiv)" },
             { "word": "اتَّقُوا", "location": "2:41", "meaning": "seid achtsam! (VIII. Stamm)" }
           ]

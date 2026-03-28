@@ -1,8 +1,12 @@
 {
   "meta": {
     "title": "Lueckentexte — Arabische Sprachproduktion",
-    "description": "Quranverse mit Luecken: Der Lernende fuellt fehlende Woerter ein. Trainiert aktives Erinnern und Sprachproduktion.",
-    "totalExercises": 204
+    "description": "Quranverse mit Luecken: Der Lernende fuellt fehlende Wörter ein. Trainiert aktives Erinnern und Sprachproduktion.",
+    "totalExercises": 200,
+    "sources": [
+      {"title": "Quranic Arabic Corpus", "url": "https://corpus.quran.com/"},
+      {"title": "Lane's Lexicon", "url": "https://ejtaal.net/aa/"}
+    ]
   },
   "exercises": [
     {
@@ -11,7 +15,7 @@
       "fullVerse": "الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ",
       "blankedVerse": "الْحَمْدُ _____ رَبِّ الْعَالَمِينَ",
       "missingWord": "لِلَّهِ",
-      "hint": "Praeposition لِ + Eigenname (Dativ)",
+      "hint": "Präposition لِ + Eigenname (Dativ)",
       "difficulty": 1,
       "category": "preposition"
     },
@@ -21,7 +25,7 @@
       "fullVerse": "بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ",
       "blankedVerse": "_____ اللَّهِ الرَّحْمَنِ الرَّحِيمِ",
       "missingWord": "بِسْمِ",
-      "hint": "Praeposition بِ + Nomen im Genitiv: 'im Namen'",
+      "hint": "Präposition بِ + Nomen im Genitiv: 'im Namen'",
       "difficulty": 1,
       "category": "preposition"
     },
@@ -101,7 +105,7 @@
       "fullVerse": "قُلْ هُوَ اللَّهُ أَحَدٌ",
       "blankedVerse": "قُلْ _____ اللَّهُ أَحَدٌ",
       "missingWord": "هُوَ",
-      "hint": "Selbstaendiges Personalpronomen, 3. Person maskulin Singular",
+      "hint": "Selbständiges Personalpronomen, 3. Person maskulin Singular",
       "difficulty": 1,
       "category": "pronoun"
     },
@@ -111,7 +115,7 @@
       "fullVerse": "اللَّهُ الصَّمَدُ",
       "blankedVerse": "اللَّهُ _____",
       "missingWord": "الصَّمَدُ",
-      "hint": "Chabar (Praedikat) im Nominativ, Muster فَعَل",
+      "hint": "Chabar (Prädikat) im Nominativ, Muster فَعَل",
       "difficulty": 2,
       "category": "predicate"
     },
@@ -131,7 +135,7 @@
       "fullVerse": "لَمْ يَلِدْ وَلَمْ يُولَدْ",
       "blankedVerse": "_____ يَلِدْ وَلَمْ يُولَدْ",
       "missingWord": "لَمْ",
-      "hint": "Negationspartikel fuer Vergangenheit mit Jazm des Mudari'",
+      "hint": "Negationspartikel für Vergangenheit mit Jazm des Mudari'",
       "difficulty": 1,
       "category": "particle"
     },
@@ -161,7 +165,7 @@
       "fullVerse": "قُلْ أَعُوذُ بِرَبِّ الْفَلَقِ",
       "blankedVerse": "قُلْ أَعُوذُ _____ الْفَلَقِ",
       "missingWord": "بِرَبِّ",
-      "hint": "Praeposition بِ + Nomen im Genitiv (Idafa-Erstglied)",
+      "hint": "Präposition بِ + Nomen im Genitiv (Idafa-Erstglied)",
       "difficulty": 1,
       "category": "preposition"
     },
@@ -171,7 +175,7 @@
       "fullVerse": "مِنْ شَرِّ مَا خَلَقَ",
       "blankedVerse": "_____ شَرِّ مَا خَلَقَ",
       "missingWord": "مِنْ",
-      "hint": "Praeposition: 'von/vor'",
+      "hint": "Präposition: 'von/vor'",
       "difficulty": 1,
       "category": "preposition"
     },
@@ -201,7 +205,7 @@
       "fullVerse": "وَمِنْ شَرِّ النَّفَّاثَاتِ فِي الْعُقَدِ",
       "blankedVerse": "وَمِنْ شَرِّ النَّفَّاثَاتِ _____ الْعُقَدِ",
       "missingWord": "فِي",
-      "hint": "Praeposition: 'in'",
+      "hint": "Präposition: 'in'",
       "difficulty": 1,
       "category": "preposition"
     },
@@ -213,7 +217,7 @@
       "missingWord": "النَّاسِ",
       "hint": "Idafa-Zweitglied, bestimmt, Genitiv",
       "difficulty": 1,
-      "category": "object"
+      "category": "noun"
     },
     {
       "id": "C22",
@@ -261,7 +265,7 @@
       "fullVerse": "ذَلِكَ الْكِتَابُ لَا رَيْبَ فِيهِ هُدًى لِلْمُتَّقِينَ",
       "blankedVerse": "_____ الْكِتَابُ لَا رَيْبَ فِيهِ هُدًى لِلْمُتَّقِينَ",
       "missingWord": "ذَلِكَ",
-      "hint": "Demonstrativpronomen fuer Fernes, maskulin Singular",
+      "hint": "Demonstrativpronomen für Fernes, maskulin Singular",
       "difficulty": 1,
       "category": "pronoun"
     },
@@ -271,7 +275,7 @@
       "fullVerse": "ذَلِكَ الْكِتَابُ لَا رَيْبَ فِيهِ هُدًى لِلْمُتَّقِينَ",
       "blankedVerse": "ذَلِكَ الْكِتَابُ _____ رَيْبَ فِيهِ هُدًى لِلْمُتَّقِينَ",
       "missingWord": "لَا",
-      "hint": "Negationspartikel fuer Gattungsnegation (laa li-nafy al-jins)",
+      "hint": "Negationspartikel für Gattungsnegation (laa li-nafy al-jins)",
       "difficulty": 2,
       "category": "particle"
     },
@@ -281,7 +285,7 @@
       "fullVerse": "ذَلِكَ الْكِتَابُ لَا رَيْبَ فِيهِ هُدًى لِلْمُتَّقِينَ",
       "blankedVerse": "ذَلِكَ الْكِتَابُ لَا رَيْبَ _____ هُدًى لِلْمُتَّقِينَ",
       "missingWord": "فِيهِ",
-      "hint": "Praeposition فِي + angehaengtes Pronomen 3. Person maskulin Singular",
+      "hint": "Präposition فِي + angehängtes Pronomen 3. Person maskulin Singular",
       "difficulty": 1,
       "category": "pronoun"
     },
@@ -321,7 +325,7 @@
       "fullVerse": "أُولَئِكَ عَلَى هُدًى مِنْ رَبِّهِمْ وَأُولَئِكَ هُمُ الْمُفْلِحُونَ",
       "blankedVerse": "أُولَئِكَ _____ هُدًى مِنْ رَبِّهِمْ وَأُولَئِكَ هُمُ الْمُفْلِحُونَ",
       "missingWord": "عَلَى",
-      "hint": "Praeposition: 'auf/ueber'",
+      "hint": "Präposition: 'auf/über'",
       "difficulty": 1,
       "category": "preposition"
     },
@@ -341,7 +345,7 @@
       "fullVerse": "إِنَّ الَّذِينَ كَفَرُوا سَوَاءٌ عَلَيْهِمْ أَأَنْذَرْتَهُمْ أَمْ لَمْ تُنْذِرْهُمْ لَا يُؤْمِنُونَ",
       "blankedVerse": "_____ الَّذِينَ كَفَرُوا سَوَاءٌ عَلَيْهِمْ أَأَنْذَرْتَهُمْ أَمْ لَمْ تُنْذِرْهُمْ لَا يُؤْمِنُونَ",
       "missingWord": "إِنَّ",
-      "hint": "Bekraeftigungspartikel, setzt Akkusativ fuer ihr Nomen",
+      "hint": "Bekräftigungspartikel, setzt Akkusativ für ihr Nomen",
       "difficulty": 2,
       "category": "particle"
     },
@@ -421,7 +425,7 @@
       "fullVerse": "يَا أَيُّهَا النَّاسُ اعْبُدُوا رَبَّكُمُ الَّذِي خَلَقَكُمْ وَالَّذِينَ مِنْ قَبْلِكُمْ لَعَلَّكُمْ تَتَّقُونَ",
       "blankedVerse": "يَا أَيُّهَا النَّاسُ اعْبُدُوا _____ الَّذِي خَلَقَكُمْ وَالَّذِينَ مِنْ قَبْلِكُمْ لَعَلَّكُمْ تَتَّقُونَ",
       "missingWord": "رَبَّكُمُ",
-      "hint": "Akkusativ-Objekt + angehaengtes Pronomen 2. Person maskulin Plural",
+      "hint": "Akkusativ-Objekt + angehängtes Pronomen 2. Person maskulin Plural",
       "difficulty": 2,
       "category": "pronoun"
     },
@@ -431,7 +435,7 @@
       "fullVerse": "يَا أَيُّهَا النَّاسُ اعْبُدُوا رَبَّكُمُ الَّذِي خَلَقَكُمْ وَالَّذِينَ مِنْ قَبْلِكُمْ لَعَلَّكُمْ تَتَّقُونَ",
       "blankedVerse": "يَا أَيُّهَا النَّاسُ اعْبُدُوا رَبَّكُمُ الَّذِي خَلَقَكُمْ وَالَّذِينَ مِنْ قَبْلِكُمْ _____ تَتَّقُونَ",
       "missingWord": "لَعَلَّكُمْ",
-      "hint": "Partikel لَعَلَّ (vielleicht/damit) + angehaengtes Pronomen 2. Person maskulin Plural",
+      "hint": "Partikel لَعَلَّ (vielleicht/damit) + angehängtes Pronomen 2. Person maskulin Plural",
       "difficulty": 2,
       "category": "particle"
     },
@@ -491,7 +495,7 @@
       "fullVerse": "لَهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ",
       "blankedVerse": "_____ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ",
       "missingWord": "لَهُ",
-      "hint": "Praeposition لِ + angehaengtes Pronomen 3. Person maskulin Singular",
+      "hint": "Präposition لِ + angehängtes Pronomen 3. Person maskulin Singular",
       "difficulty": 1,
       "category": "pronoun"
     },
@@ -511,7 +515,7 @@
       "fullVerse": "وَسِعَ كُرْسِيُّهُ السَّمَاوَاتِ وَالْأَرْضَ",
       "blankedVerse": "وَسِعَ _____ السَّمَاوَاتِ وَالْأَرْضَ",
       "missingWord": "كُرْسِيُّهُ",
-      "hint": "Subjekt (fa'il) im Nominativ + angehaengtes Pronomen 3. Person maskulin Singular",
+      "hint": "Subjekt (fa'il) im Nominativ + angehängtes Pronomen 3. Person maskulin Singular",
       "difficulty": 2,
       "category": "subject"
     },
@@ -601,7 +605,7 @@
       "fullVerse": "رَبَّنَا لَا تُؤَاخِذْنَا إِنْ نَسِينَا أَوْ أَخْطَأْنَا",
       "blankedVerse": "_____ لَا تُؤَاخِذْنَا إِنْ نَسِينَا أَوْ أَخْطَأْنَا",
       "missingWord": "رَبَّنَا",
-      "hint": "Vokativ (munada), Akkusativ + angehaengtes Pronomen 1. Person Plural",
+      "hint": "Vokativ (munada), Akkusativ + angehängtes Pronomen 1. Person Plural",
       "difficulty": 1,
       "category": "pronoun"
     },
@@ -631,7 +635,7 @@
       "fullVerse": "رَبَّنَا تَقَبَّلْ مِنَّا إِنَّكَ أَنْتَ السَّمِيعُ الْعَلِيمُ",
       "blankedVerse": "رَبَّنَا تَقَبَّلْ مِنَّا إِنَّكَ أَنْتَ _____ الْعَلِيمُ",
       "missingWord": "السَّمِيعُ",
-      "hint": "Chabar (Praedikat), Muster فَعِيل, bestimmt Nominativ",
+      "hint": "Chabar (Prädikat), Muster فَعِيل, bestimmt Nominativ",
       "difficulty": 1,
       "category": "adjective"
     },
@@ -641,7 +645,7 @@
       "fullVerse": "رَبَّنَا تَقَبَّلْ مِنَّا إِنَّكَ أَنْتَ السَّمِيعُ الْعَلِيمُ",
       "blankedVerse": "رَبَّنَا تَقَبَّلْ _____ إِنَّكَ أَنْتَ السَّمِيعُ الْعَلِيمُ",
       "missingWord": "مِنَّا",
-      "hint": "Praeposition مِنْ + angehaengtes Pronomen 1. Person Plural",
+      "hint": "Präposition مِنْ + angehängtes Pronomen 1. Person Plural",
       "difficulty": 1,
       "category": "pronoun"
     },
@@ -661,7 +665,7 @@
       "fullVerse": "فَاذْكُرُونِي أَذْكُرْكُمْ وَاشْكُرُوا لِي وَلَا تَكْفُرُونِ",
       "blankedVerse": "فَاذْكُرُونِي أَذْكُرْكُمْ وَاشْكُرُوا _____ وَلَا تَكْفُرُونِ",
       "missingWord": "لِي",
-      "hint": "Praeposition لِ + angehaengtes Pronomen 1. Person Singular",
+      "hint": "Präposition لِ + angehängtes Pronomen 1. Person Singular",
       "difficulty": 1,
       "category": "pronoun"
     },
@@ -671,7 +675,7 @@
       "fullVerse": "إِنَّا لِلَّهِ وَإِنَّا إِلَيْهِ رَاجِعُونَ",
       "blankedVerse": "_____ لِلَّهِ وَإِنَّا إِلَيْهِ رَاجِعُونَ",
       "missingWord": "إِنَّا",
-      "hint": "إِنَّ + angehaengtes Pronomen 1. Person Plural (verkuerzt)",
+      "hint": "إِنَّ + angehängtes Pronomen 1. Person Plural (verkürzt)",
       "difficulty": 2,
       "category": "particle"
     },
@@ -781,9 +785,9 @@
       "fullVerse": "اللَّهُ نُورُ السَّمَاوَاتِ وَالْأَرْضِ",
       "blankedVerse": "اللَّهُ _____ السَّمَاوَاتِ وَالْأَرْضِ",
       "missingWord": "نُورُ",
-      "hint": "Chabar (Praedikat), Nominativ, Idafa-Erstglied",
+      "hint": "Chabar (Prädikat), Nominativ, Idafa-Erstglied",
       "difficulty": 1,
-      "category": "subject"
+      "category": "predicate"
     },
     {
       "id": "C79",
@@ -831,7 +835,7 @@
       "fullVerse": "وَإِلَهُكُمْ إِلَهٌ وَاحِدٌ لَا إِلَهَ إِلَّا هُوَ الرَّحْمَنُ الرَّحِيمُ",
       "blankedVerse": "وَ_____ إِلَهٌ وَاحِدٌ لَا إِلَهَ إِلَّا هُوَ الرَّحْمَنُ الرَّحِيمُ",
       "missingWord": "إِلَهُكُمْ",
-      "hint": "Mubtada', Nominativ + angehaengtes Pronomen 2. Person maskulin Plural",
+      "hint": "Mubtada', Nominativ + angehängtes Pronomen 2. Person maskulin Plural",
       "difficulty": 2,
       "category": "pronoun"
     },
@@ -851,7 +855,7 @@
       "fullVerse": "إِذَا جَاءَ نَصْرُ اللَّهِ وَالْفَتْحُ",
       "blankedVerse": "_____ جَاءَ نَصْرُ اللَّهِ وَالْفَتْحُ",
       "missingWord": "إِذَا",
-      "hint": "Temporalpartikel: 'wenn/als' (fuer Zukunft/Gewohnheit)",
+      "hint": "Temporalpartikel: 'wenn/als' (für Zukunft/Gewohnheit)",
       "difficulty": 1,
       "category": "particle"
     },
@@ -931,7 +935,7 @@
       "fullVerse": "مَنْ ذَا الَّذِي يَشْفَعُ عِنْدَهُ إِلَّا بِإِذْنِهِ",
       "blankedVerse": "مَنْ ذَا الَّذِي يَشْفَعُ _____ إِلَّا بِإِذْنِهِ",
       "missingWord": "عِنْدَهُ",
-      "hint": "Lokale Praeposition عِنْدَ + angehaengtes Pronomen 3. Person maskulin Singular",
+      "hint": "Lokale Präposition عِنْدَ + angehängtes Pronomen 3. Person maskulin Singular",
       "difficulty": 2,
       "category": "preposition"
     },
@@ -951,7 +955,7 @@
       "fullVerse": "رَبَّنَا وَلَا تَحْمِلْ عَلَيْنَا إِصْرًا كَمَا حَمَلْتَهُ عَلَى الَّذِينَ مِنْ قَبْلِنَا",
       "blankedVerse": "رَبَّنَا وَلَا تَحْمِلْ _____ إِصْرًا كَمَا حَمَلْتَهُ عَلَى الَّذِينَ مِنْ قَبْلِنَا",
       "missingWord": "عَلَيْنَا",
-      "hint": "Praeposition عَلَى + angehaengtes Pronomen 1. Person Plural",
+      "hint": "Präposition عَلَى + angehängtes Pronomen 1. Person Plural",
       "difficulty": 1,
       "category": "pronoun"
     },
@@ -971,7 +975,7 @@
       "fullVerse": "وَاعْفُ عَنَّا وَاغْفِرْ لَنَا وَارْحَمْنَا أَنْتَ مَوْلَانَا فَانْصُرْنَا عَلَى الْقَوْمِ الْكَافِرِينَ",
       "blankedVerse": "وَاعْفُ عَنَّا وَاغْفِرْ لَنَا وَارْحَمْنَا أَنْتَ _____ فَانْصُرْنَا عَلَى الْقَوْمِ الْكَافِرِينَ",
       "missingWord": "مَوْلَانَا",
-      "hint": "Nomen auf Muster مَفْعَل, Nominativ + angehaengtes Pronomen 1. Person Plural",
+      "hint": "Nomen auf Muster مَفْعَل, Nominativ + angehängtes Pronomen 1. Person Plural",
       "difficulty": 2,
       "category": "pronoun"
     },
@@ -981,7 +985,7 @@
       "fullVerse": "وَاعْفُ عَنَّا وَاغْفِرْ لَنَا وَارْحَمْنَا أَنْتَ مَوْلَانَا فَانْصُرْنَا عَلَى الْقَوْمِ الْكَافِرِينَ",
       "blankedVerse": "وَاعْفُ _____ وَاغْفِرْ لَنَا وَارْحَمْنَا أَنْتَ مَوْلَانَا فَانْصُرْنَا عَلَى الْقَوْمِ الْكَافِرِينَ",
       "missingWord": "عَنَّا",
-      "hint": "Praeposition عَنْ + angehaengtes Pronomen 1. Person Plural (mit Assimilation)",
+      "hint": "Präposition عَنْ + angehängtes Pronomen 1. Person Plural (mit Assimilation)",
       "difficulty": 2,
       "category": "preposition"
     },
@@ -1011,7 +1015,7 @@
       "fullVerse": "مِنَ الْجِنَّةِ وَالنَّاسِ",
       "blankedVerse": "_____ الْجِنَّةِ وَالنَّاسِ",
       "missingWord": "مِنَ",
-      "hint": "Praeposition: 'von/aus' (mit Fatha vor Artikel)",
+      "hint": "Präposition: 'von/aus' (mit Fatha vor Artikel)",
       "difficulty": 1,
       "category": "preposition"
     },
@@ -1021,7 +1025,7 @@
       "fullVerse": "وَالَّذِينَ يُؤْمِنُونَ بِمَا أُنْزِلَ إِلَيْكَ وَمَا أُنْزِلَ مِنْ قَبْلِكَ وَبِالْآخِرَةِ هُمْ يُوقِنُونَ",
       "blankedVerse": "وَالَّذِينَ يُؤْمِنُونَ بِمَا أُنْزِلَ _____ وَمَا أُنْزِلَ مِنْ قَبْلِكَ وَبِالْآخِرَةِ هُمْ يُوقِنُونَ",
       "missingWord": "إِلَيْكَ",
-      "hint": "Praeposition إِلَى + angehaengtes Pronomen 2. Person maskulin Singular",
+      "hint": "Präposition إِلَى + angehängtes Pronomen 2. Person maskulin Singular",
       "difficulty": 1,
       "category": "preposition"
     },
@@ -1031,7 +1035,7 @@
       "fullVerse": "وَالَّذِينَ يُؤْمِنُونَ بِمَا أُنْزِلَ إِلَيْكَ وَمَا أُنْزِلَ مِنْ قَبْلِكَ وَبِالْآخِرَةِ هُمْ يُوقِنُونَ",
       "blankedVerse": "وَالَّذِينَ يُؤْمِنُونَ بِمَا أُنْزِلَ إِلَيْكَ وَمَا أُنْزِلَ مِنْ قَبْلِكَ وَبِالْآخِرَةِ _____ يُوقِنُونَ",
       "missingWord": "هُمْ",
-      "hint": "Selbstaendiges Personalpronomen, 3. Person maskulin Plural (Hervorhebung/Trennung)",
+      "hint": "Selbständiges Personalpronomen, 3. Person maskulin Plural (Hervorhebung/Trennung)",
       "difficulty": 1,
       "category": "pronoun"
     },
@@ -1046,16 +1050,6 @@
       "category": "root_form"
     },
     {
-      "id": "C105",
-      "ref": "2:255",
-      "fullVerse": "اللَّهُ لَا إِلَهَ إِلَّا هُوَ الْحَيُّ الْقَيُّومُ",
-      "blankedVerse": "اللَّهُ لَا إِلَهَ إِلَّا هُوَ _____ الْقَيُّومُ",
-      "missingWord": "الْحَيُّ",
-      "hint": "Adjektiv/Attribut: 'der Lebendige'",
-      "difficulty": 1,
-      "category": "adjective"
-    },
-    {
       "id": "C106",
       "ref": "2:255",
       "fullVerse": "لَا تَأْخُذُهُ سِنَةٌ وَلَا نَوْمٌ",
@@ -1066,44 +1060,14 @@
       "category": "noun"
     },
     {
-      "id": "C107",
-      "ref": "2:255",
-      "fullVerse": "مَنْ ذَا الَّذِي يَشْفَعُ عِنْدَهُ إِلَّا بِإِذْنِهِ",
-      "blankedVerse": "مَنْ ذَا الَّذِي _____ عِنْدَهُ إِلَّا بِإِذْنِهِ",
-      "missingWord": "يَشْفَعُ",
-      "hint": "Verb I. Stamm, 3. Person maskulin Singular, Imperfekt — Wurzel ش ف ع",
-      "difficulty": 2,
-      "category": "verb"
-    },
-    {
       "id": "C108",
       "ref": "2:255",
       "fullVerse": "يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ",
       "blankedVerse": "يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا _____",
       "missingWord": "خَلْفَهُمْ",
-      "hint": "Praeposition/Adverb: 'hinter ihnen'",
+      "hint": "Präposition/Adverb: 'hinter ihnen'",
       "difficulty": 2,
       "category": "preposition"
-    },
-    {
-      "id": "C109",
-      "ref": "2:255",
-      "fullVerse": "وَسِعَ كُرْسِيُّهُ السَّمَاوَاتِ وَالْأَرْضَ",
-      "blankedVerse": "_____ كُرْسِيُّهُ السَّمَاوَاتِ وَالْأَرْضَ",
-      "missingWord": "وَسِعَ",
-      "hint": "Verb I. Stamm, 3. Person maskulin Singular, Perfekt — Wurzel و س ع",
-      "difficulty": 2,
-      "category": "verb"
-    },
-    {
-      "id": "C110",
-      "ref": "2:255",
-      "fullVerse": "وَهُوَ الْعَلِيُّ الْعَظِيمُ",
-      "blankedVerse": "وَهُوَ الْعَلِيُّ _____",
-      "missingWord": "الْعَظِيمُ",
-      "hint": "Adjektiv: 'der Gewaltige'",
-      "difficulty": 1,
-      "category": "adjective"
     },
     {
       "id": "C111",
@@ -1111,7 +1075,7 @@
       "fullVerse": "لَا إِكْرَاهَ فِي الدِّينِ",
       "blankedVerse": "لَا إِكْرَاهَ _____ الدِّينِ",
       "missingWord": "فِي",
-      "hint": "Praeposition: 'in'",
+      "hint": "Präposition: 'in'",
       "difficulty": 1,
       "category": "preposition"
     },
@@ -1201,7 +1165,7 @@
       "fullVerse": "إِنَّ الدِّينَ عِنْدَ اللَّهِ الْإِسْلَامُ",
       "blankedVerse": "إِنَّ الدِّينَ _____ اللَّهِ الْإِسْلَامُ",
       "missingWord": "عِنْدَ",
-      "hint": "Praeposition: 'bei'",
+      "hint": "Präposition: 'bei'",
       "difficulty": 1,
       "category": "preposition"
     },
@@ -1241,7 +1205,7 @@
       "fullVerse": "فَتَقَبَّلَهَا رَبُّهَا بِقَبُولٍ حَسَنٍ وَأَنْبَتَهَا نَبَاتًا حَسَنًا",
       "blankedVerse": "فَتَقَبَّلَهَا رَبُّهَا بِقَبُولٍ _____ وَأَنْبَتَهَا نَبَاتًا حَسَنًا",
       "missingWord": "حَسَنٍ",
-      "hint": "Adjektiv im Genitiv: 'gut/schoen'",
+      "hint": "Adjektiv im Genitiv: 'gut/schön'",
       "difficulty": 1,
       "category": "adjective"
     },
@@ -1261,7 +1225,7 @@
       "fullVerse": "وَلِلَّهِ عَلَى النَّاسِ حِجُّ الْبَيْتِ مَنِ اسْتَطَاعَ إِلَيْهِ سَبِيلًا",
       "blankedVerse": "وَلِلَّهِ _____ النَّاسِ حِجُّ الْبَيْتِ مَنِ اسْتَطَاعَ إِلَيْهِ سَبِيلًا",
       "missingWord": "عَلَى",
-      "hint": "Praeposition: 'auf/ueber' — hier im Sinne von 'obliegt'",
+      "hint": "Präposition: 'auf/über' — hier im Sinne von 'obliegt'",
       "difficulty": 1,
       "category": "preposition"
     },
@@ -1291,7 +1255,7 @@
       "fullVerse": "تَأْمُرُونَ بِالْمَعْرُوفِ وَتَنْهَوْنَ عَنِ الْمُنْكَرِ",
       "blankedVerse": "تَأْمُرُونَ بِالْمَعْرُوفِ وَتَنْهَوْنَ _____ الْمُنْكَرِ",
       "missingWord": "عَنِ",
-      "hint": "Praeposition: 'von/weg von'",
+      "hint": "Präposition: 'von/weg von'",
       "difficulty": 1,
       "category": "preposition"
     },
@@ -1361,7 +1325,7 @@
       "fullVerse": "وَاعْبُدُوا اللَّهَ وَلَا تُشْرِكُوا بِهِ شَيْئًا",
       "blankedVerse": "وَاعْبُدُوا اللَّهَ وَلَا تُشْرِكُوا _____ شَيْئًا",
       "missingWord": "بِهِ",
-      "hint": "Praeposition بِ + Pronomen 3. Person maskulin Singular: 'mit ihm'",
+      "hint": "Präposition بِ + Pronomen 3. Person maskulin Singular: 'mit ihm'",
       "difficulty": 1,
       "category": "pronoun"
     },
@@ -1371,7 +1335,7 @@
       "fullVerse": "إِنَّ اللَّهَ لَا يَغْفِرُ أَنْ يُشْرَكَ بِهِ وَيَغْفِرُ مَا دُونَ ذَلِكَ لِمَنْ يَشَاءُ",
       "blankedVerse": "إِنَّ اللَّهَ لَا يَغْفِرُ أَنْ يُشْرَكَ بِهِ وَيَغْفِرُ مَا _____ ذَلِكَ لِمَنْ يَشَاءُ",
       "missingWord": "دُونَ",
-      "hint": "Praeposition: 'ausser/unterhalb von'",
+      "hint": "Präposition: 'ausser/unterhalb von'",
       "difficulty": 2,
       "category": "preposition"
     },
@@ -1381,7 +1345,7 @@
       "fullVerse": "إِنَّ اللَّهَ يَأْمُرُكُمْ أَنْ تُؤَدُّوا الْأَمَانَاتِ إِلَى أَهْلِهَا",
       "blankedVerse": "إِنَّ اللَّهَ يَأْمُرُكُمْ أَنْ تُؤَدُّوا _____ إِلَى أَهْلِهَا",
       "missingWord": "الْأَمَانَاتِ",
-      "hint": "Nomen feminin Plural im Akkusativ: 'die anvertrauten Gueter'",
+      "hint": "Nomen feminin Plural im Akkusativ: 'die anvertrauten Güter'",
       "difficulty": 2,
       "category": "noun"
     },
@@ -1401,7 +1365,7 @@
       "fullVerse": "يَا أَيُّهَا الَّذِينَ آمَنُوا كُونُوا قَوَّامِينَ بِالْقِسْطِ",
       "blankedVerse": "يَا أَيُّهَا الَّذِينَ آمَنُوا كُونُوا قَوَّامِينَ _____",
       "missingWord": "بِالْقِسْطِ",
-      "hint": "Praeposition بِ + Nomen: 'mit der Gerechtigkeit'",
+      "hint": "Präposition بِ + Nomen: 'mit der Gerechtigkeit'",
       "difficulty": 2,
       "category": "preposition"
     },
@@ -1451,7 +1415,7 @@
       "fullVerse": "إِنَّا أَنْزَلْنَا التَّوْرَاةَ فِيهَا هُدًى وَنُورٌ",
       "blankedVerse": "_____ أَنْزَلْنَا التَّوْرَاةَ فِيهَا هُدًى وَنُورٌ",
       "missingWord": "إِنَّا",
-      "hint": "Verstaerkungspartikel إِنَّ + Pronomen 1. Person Plural: 'wahrlich, wir'",
+      "hint": "Verstärkungspartikel إِنَّ + Pronomen 1. Person Plural: 'wahrlich, wir'",
       "difficulty": 2,
       "category": "particle"
     },
@@ -1471,7 +1435,7 @@
       "fullVerse": "قُلْ لِمَنْ مَا فِي السَّمَاوَاتِ وَالْأَرْضِ قُلْ لِلَّهِ",
       "blankedVerse": "قُلْ _____ مَا فِي السَّمَاوَاتِ وَالْأَرْضِ قُلْ لِلَّهِ",
       "missingWord": "لِمَنْ",
-      "hint": "Praeposition لِ + Fragepronomen: 'wem gehoert'",
+      "hint": "Präposition لِ + Fragepronomen: 'wem gehört'",
       "difficulty": 2,
       "category": "preposition"
     },
@@ -1521,7 +1485,7 @@
       "fullVerse": "قُلْ إِنَّ صَلَاتِي وَنُسُكِي وَمَحْيَايَ وَمَمَاتِي لِلَّهِ رَبِّ الْعَالَمِينَ",
       "blankedVerse": "قُلْ إِنَّ صَلَاتِي وَنُسُكِي وَمَحْيَايَ وَمَمَاتِي _____ رَبِّ الْعَالَمِينَ",
       "missingWord": "لِلَّهِ",
-      "hint": "Praeposition لِ + Eigenname: 'fuer Gott'",
+      "hint": "Präposition لِ + Eigenname: 'für Gott'",
       "difficulty": 1,
       "category": "preposition"
     },
@@ -1601,7 +1565,7 @@
       "fullVerse": "قُلْ لَنْ يُصِيبَنَا إِلَّا مَا كَتَبَ اللَّهُ لَنَا هُوَ مَوْلَانَا",
       "blankedVerse": "قُلْ _____ يُصِيبَنَا إِلَّا مَا كَتَبَ اللَّهُ لَنَا",
       "missingWord": "لَنْ",
-      "hint": "Negationspartikel fuer die Zukunft + Subjunktiv: 'niemals wird'",
+      "hint": "Negationspartikel für die Zukunft + Subjunktiv: 'niemals wird'",
       "difficulty": 1,
       "category": "particle"
     },
@@ -1681,7 +1645,7 @@
       "fullVerse": "فَصَبْرٌ جَمِيلٌ وَاللَّهُ الْمُسْتَعَانُ عَلَى مَا تَصِفُونَ",
       "blankedVerse": "فَصَبْرٌ _____ وَاللَّهُ الْمُسْتَعَانُ عَلَى مَا تَصِفُونَ",
       "missingWord": "جَمِيلٌ",
-      "hint": "Adjektiv im Nominativ: 'schoen/angemessen'",
+      "hint": "Adjektiv im Nominativ: 'schön/angemessen'",
       "difficulty": 1,
       "category": "adjective"
     },
@@ -1701,7 +1665,7 @@
       "fullVerse": "إِنَّمَا أَشْكُو بَثِّي وَحُزْنِي إِلَى اللَّهِ",
       "blankedVerse": "_____ أَشْكُو بَثِّي وَحُزْنِي إِلَى اللَّهِ",
       "missingWord": "إِنَّمَا",
-      "hint": "Einschraenkungspartikel: 'nur/lediglich'",
+      "hint": "Einschränkungspartikel: 'nur/lediglich'",
       "difficulty": 2,
       "category": "particle"
     },
@@ -1731,7 +1695,7 @@
       "fullVerse": "لَئِنْ شَكَرْتُمْ لَأَزِيدَنَّكُمْ وَلَئِنْ كَفَرْتُمْ إِنَّ عَذَابِي لَشَدِيدٌ",
       "blankedVerse": "لَئِنْ شَكَرْتُمْ لَأَزِيدَنَّكُمْ وَلَئِنْ كَفَرْتُمْ إِنَّ عَذَابِي _____",
       "missingWord": "لَشَدِيدٌ",
-      "hint": "Verstaerkungs-Lam + Adjektiv: 'ganz gewiss streng'",
+      "hint": "Verstärkungs-Lam + Adjektiv: 'ganz gewiss streng'",
       "difficulty": 2,
       "category": "adjective"
     },
@@ -1771,7 +1735,7 @@
       "fullVerse": "سُبْحَانَ الَّذِي أَسْرَى بِعَبْدِهِ لَيْلًا مِنَ الْمَسْجِدِ الْحَرَامِ إِلَى الْمَسْجِدِ الْأَقْصَى",
       "blankedVerse": "سُبْحَانَ الَّذِي أَسْرَى _____ لَيْلًا مِنَ الْمَسْجِدِ الْحَرَامِ",
       "missingWord": "بِعَبْدِهِ",
-      "hint": "Praeposition بِ + Nomen + Suffix 3ms: 'mit seinem Diener'",
+      "hint": "Präposition بِ + Nomen + Suffix 3ms: 'mit seinem Diener'",
       "difficulty": 2,
       "category": "preposition"
     },
@@ -1821,7 +1785,7 @@
       "fullVerse": "رَبَّنَا آتِنَا مِنْ لَدُنْكَ رَحْمَةً",
       "blankedVerse": "رَبَّنَا آتِنَا مِنْ _____ رَحْمَةً",
       "missingWord": "لَدُنْكَ",
-      "hint": "Praeposition/Nomen: 'bei dir/von dir aus' + Suffix 2ms",
+      "hint": "Präposition/Nomen: 'bei dir/von dir aus' + Suffix 2ms",
       "difficulty": 2,
       "category": "preposition"
     },
@@ -1841,7 +1805,7 @@
       "fullVerse": "الْمَالُ وَالْبَنُونَ زِينَةُ الْحَيَاةِ الدُّنْيَا",
       "blankedVerse": "الْمَالُ وَالْبَنُونَ _____ الْحَيَاةِ الدُّنْيَا",
       "missingWord": "زِينَةُ",
-      "hint": "Nomen im Nominativ (Praedikat): 'Schmuck/Zierde'",
+      "hint": "Nomen im Nominativ (Prädikat): 'Schmuck/Zierde'",
       "difficulty": 2,
       "category": "noun"
     },
@@ -1861,7 +1825,7 @@
       "fullVerse": "قَالَ إِنِّي عَبْدُ اللَّهِ آتَانِيَ الْكِتَابَ وَجَعَلَنِي نَبِيًّا",
       "blankedVerse": "قَالَ _____ عَبْدُ اللَّهِ آتَانِيَ الْكِتَابَ وَجَعَلَنِي نَبِيًّا",
       "missingWord": "إِنِّي",
-      "hint": "Verstaerkungspartikel إِنَّ + Suffix 1s: 'wahrlich, ich bin'",
+      "hint": "Verstärkungspartikel إِنَّ + Suffix 1s: 'wahrlich, ich bin'",
       "difficulty": 2,
       "category": "particle"
     },
@@ -1931,7 +1895,7 @@
       "fullVerse": "قَدْ أَفْلَحَ الْمُؤْمِنُونَ",
       "blankedVerse": "_____ أَفْلَحَ الْمُؤْمِنُونَ",
       "missingWord": "قَدْ",
-      "hint": "Partikel der Bekraeftigung/Vergangenheit: 'bereits/gewiss'",
+      "hint": "Partikel der Bekräftigung/Vergangenheit: 'bereits/gewiss'",
       "difficulty": 1,
       "category": "particle"
     },
@@ -1951,7 +1915,7 @@
       "fullVerse": "اللَّهُ نُورُ السَّمَاوَاتِ وَالْأَرْضِ",
       "blankedVerse": "اللَّهُ _____ السَّمَاوَاتِ وَالْأَرْضِ",
       "missingWord": "نُورُ",
-      "hint": "Nomen im Nominativ (Praedikat/Idafa): 'Licht'",
+      "hint": "Nomen im Nominativ (Prädikat/Idafa): 'Licht'",
       "difficulty": 1,
       "category": "noun"
     },
@@ -1991,7 +1955,7 @@
       "fullVerse": "وَوَصَّيْنَا الْإِنْسَانَ بِوَالِدَيْهِ حَمَلَتْهُ أُمُّهُ وَهْنًا عَلَى وَهْنٍ",
       "blankedVerse": "وَوَصَّيْنَا الْإِنْسَانَ _____ حَمَلَتْهُ أُمُّهُ وَهْنًا عَلَى وَهْنٍ",
       "missingWord": "بِوَالِدَيْهِ",
-      "hint": "Praeposition بِ + Nomen Dual Genitiv + Suffix: 'bezueglich seiner Eltern'",
+      "hint": "Präposition بِ + Nomen Dual Genitiv + Suffix: 'bezueglich seiner Eltern'",
       "difficulty": 2,
       "category": "preposition"
     },
@@ -2001,7 +1965,7 @@
       "fullVerse": "لَقَدْ كَانَ لَكُمْ فِي رَسُولِ اللَّهِ أُسْوَةٌ حَسَنَةٌ",
       "blankedVerse": "لَقَدْ كَانَ لَكُمْ فِي رَسُولِ اللَّهِ أُسْوَةٌ _____",
       "missingWord": "حَسَنَةٌ",
-      "hint": "Adjektiv feminin im Nominativ: 'gutes/schoenes (Vorbild)'",
+      "hint": "Adjektiv feminin im Nominativ: 'gutes/schönes (Vorbild)'",
       "difficulty": 1,
       "category": "adjective"
     },

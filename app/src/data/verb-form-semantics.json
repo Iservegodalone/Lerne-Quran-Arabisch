@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": "Verbform-Semantik — Bedeutungsverschiebung durch Formwechsel",
-    "description": "Wie sich die Bedeutung einer Wurzel systematisch veraendert, wenn sie in verschiedenen Verbformen (I-X) realisiert wird. Training zur semantischen Kompetenz.",
+    "description": "Wie sich die Bedeutung einer Wurzel systematisch verändert, wenn sie in verschiedenen Verbformen (I-X) realisiert wird. Training zur semantischen Kompetenz.",
     "totalRoots": 50,
     "totalEntries": 50,
     "sources": [
@@ -70,18 +70,18 @@
         {
           "form": "II",
           "pattern": "نَزَّلَ",
-          "meaning": "stueckweise/wiederholt herabsenden",
+          "meaning": "wiederholt/intensiv herabsenden",
           "ref": "25:25",
           "arabic": "وَنَزَّلْنَاهُ تَنزِيلًا",
-          "note": "Form II intensiv/iterativ: wiederholtes Herabsenden (stufenweises Herabsenden)"
+          "note": "Form II intensiv/iterativ: wiederholtes/intensives Herabsenden (iterative Aktionsart)"
         },
         {
           "form": "IV",
           "pattern": "أَنزَلَ",
-          "meaning": "auf einmal herabsenden",
+          "meaning": "herabsenden lassen (kausativ)",
           "ref": "2:4",
           "arabic": "وَالَّذِينَ يُؤْمِنُونَ بِمَا أُنزِلَ إِلَيْكَ",
-          "note": "Form IV kausativ: herabsenden lassen — ohne Iterativitaet"
+          "note": "Form IV kausativ: herabsenden lassen"
         },
         {
           "form": "V",
@@ -117,7 +117,7 @@
         {
           "form": "III",
           "pattern": "كَاتَبَ",
-          "meaning": "einen Vertrag schliessen (mit jemandem)",
+          "meaning": "einen Vertrag schließen (mit jemandem)",
           "ref": "24:33",
           "arabic": "وَالَّذِينَ يَبْتَغُونَ الْكِتَابَ مِمَّا مَلَكَتْ أَيْمَانُكُمْ فَكَاتِبُوهُمْ",
           "note": "Form III reziprok: gegenseitig schriftlich vereinbaren"
@@ -128,7 +128,7 @@
           "meaning": "sich aufschreiben lassen/abschreiben",
           "ref": "25:5",
           "arabic": "اكْتَتَبَهَا فَهِيَ تُمْلَىٰ عَلَيْهِ",
-          "note": "Form VIII reflexiv: fuer sich abschreiben lassen"
+          "note": "Form VIII reflexiv: für sich abschreiben lassen"
         }
       ]
     },
@@ -188,27 +188,27 @@
     {
       "id": 6,
       "root": "ق-ت-ل",
-      "baseMeaning": "toeten",
+      "baseMeaning": "töten",
       "forms": [
         {
           "form": "I",
           "pattern": "قَتَلَ",
-          "meaning": "toeten",
+          "meaning": "töten",
           "ref": "5:30",
           "arabic": "فَقَتَلَهُ"
         },
         {
           "form": "II",
           "pattern": "قَتَّلَ",
-          "meaning": "massakrieren/vielfach toeten",
+          "meaning": "massakrieren/vielfach töten",
           "ref": "2:49",
           "arabic": "يُقَتِّلُونَ أَبْنَاءَكُمْ",
-          "note": "Form II intensiv/iterativ: wiederholt und systematisch toeten"
+          "note": "Form II intensiv/iterativ: wiederholt und systematisch töten"
         },
         {
           "form": "III",
           "pattern": "قَاتَلَ",
-          "meaning": "kaempfen (gegen jemanden)",
+          "meaning": "kämpfen (gegen jemanden)",
           "ref": "2:190",
           "arabic": "وَقَاتِلُوا فِي سَبِيلِ اللَّهِ الَّذِينَ يُقَاتِلُونَكُمْ",
           "note": "Form III reziprok: Kampf als gegenseitige Handlung"
@@ -216,10 +216,10 @@
         {
           "form": "VIII",
           "pattern": "اِقْتَتَلَ",
-          "meaning": "sich gegenseitig bekaempfen",
+          "meaning": "sich gegenseitig bekämpfen",
           "ref": "49:9",
           "arabic": "وَإِن طَائِفَتَانِ مِنَ الْمُؤْمِنِينَ اقْتَتَلُوا",
-          "note": "Form VIII reflexiv-reziprok: beide Seiten kaempfen gleichzeitig"
+          "note": "Form VIII reflexiv-reziprok: beide Seiten kämpfen gleichzeitig"
         }
       ]
     },
@@ -231,7 +231,7 @@
         {
           "form": "I",
           "pattern": "غَفَرَ",
-          "meaning": "vergeben/bedecken (Suende)",
+          "meaning": "vergeben/bedecken (Sünde)",
           "ref": "3:135",
           "arabic": "وَمَن يَغْفِرُ الذُّنُوبَ إِلَّا اللَّهُ"
         },
@@ -270,7 +270,7 @@
     {
       "id": 9,
       "root": "ح-س-ب",
-      "baseMeaning": "rechnen/zaehlen",
+      "baseMeaning": "rechnen/zählen",
       "forms": [
         {
           "form": "I",
@@ -278,7 +278,7 @@
           "meaning": "meinen/glauben/vermuten",
           "ref": "2:214",
           "arabic": "أَمْ حَسِبْتُمْ أَن تَدْخُلُوا الْجَنَّةَ",
-          "note": "Uebertragene Bedeutung: im Geiste 'berechnen' = meinen"
+          "note": "Übertragene Bedeutung: im Geiste 'berechnen' = meinen"
         },
         {
           "form": "III",
@@ -294,7 +294,7 @@
           "meaning": "erwarten/einberechnen",
           "ref": "65:3",
           "arabic": "وَيَرْزُقْهُ مِنْ حَيْثُ لَا يَحْتَسِبُ",
-          "note": "Form VIII reflexiv: fuer sich berechnen = erwarten"
+          "note": "Form VIII reflexiv: für sich berechnen = erwarten"
         }
       ]
     },
@@ -309,7 +309,7 @@
           "meaning": "gut/rechtschaffen sein",
           "ref": "—",
           "arabic": "—",
-          "note": "Form I صَلَحَ ist im Quran nicht als finites Verb belegt. 7:189 enthaelt صَالِحًا (Partizip, nicht Form I Perfekt)."
+          "note": "Form I صَلَحَ ist im Quran nicht als finites Verb belegt. 7:189 enthält صَالِحًا (Partizip, nicht Form I Perfekt)."
         },
         {
           "form": "II",
@@ -330,15 +330,15 @@
         {
           "form": "VI",
           "pattern": "تَصَالَحَ",
-          "meaning": "sich miteinander versoehnen",
+          "meaning": "sich miteinander versöhnen",
           "ref": "—",
           "arabic": "—",
-          "note": "Form VI reziprok: sich gegenseitig versoehnen. Im Quran selten. NICHT 4:128 — dort steht أَن يُصْلِحَا (Form IV أَصْلَحَ, nicht Form VI)."
+          "note": "Form VI reziprok: sich gegenseitig versöhnen. Im Quran selten. NICHT 4:128 — dort steht أَن يُصْلِحَا (Form IV أَصْلَحَ, nicht Form VI)."
         },
         {
           "form": "X",
           "pattern": "اِسْتَصْلَحَ",
-          "meaning": "fuer gut befinden/zu verbessern suchen",
+          "meaning": "für gut befinden/zu verbessern suchen",
           "ref": "—",
           "arabic": "—",
           "note": "Form X estimativ"
@@ -348,12 +348,12 @@
     {
       "id": 11,
       "root": "ذ-ك-ر",
-      "baseMeaning": "erinnern/erwaehnen",
+      "baseMeaning": "erinnern/erwähnen",
       "forms": [
         {
           "form": "I",
           "pattern": "ذَكَرَ",
-          "meaning": "erwaehnen/gedenken",
+          "meaning": "erwähnen/gedenken",
           "ref": "2:152",
           "arabic": "فَاذْكُرُونِي أَذْكُرْكُمْ"
         },
@@ -376,10 +376,10 @@
         {
           "form": "VIII",
           "pattern": "اِدَّكَرَ",
-          "meaning": "sich ploetzlich erinnern",
+          "meaning": "sich plötzlich erinnern",
           "ref": "12:45",
           "arabic": "وَادَّكَرَ بَعْدَ أُمَّةٍ",
-          "note": "Form VIII reflexiv mit Dal-Assimilation: ploetzliche Erinnerung nach langer Zeit"
+          "note": "Form VIII reflexiv mit Dal-Assimilation: plötzliche Erinnerung nach langer Zeit"
         }
       ]
     },
@@ -392,8 +392,9 @@
           "form": "I",
           "pattern": "قَبِلَ",
           "meaning": "annehmen/akzeptieren",
-          "ref": "5:27",
-          "arabic": "فَتُقُبِّلَ مِنْ أَحَدِهِمَا وَلَمْ يُتَقَبَّلْ مِنَ الْآخَرِ"
+          "ref": "—",
+          "arabic": "—",
+          "note": "Form I im Quran nicht belegt. Häufig: Form V تَقَبَّلَ."
         },
         {
           "form": "IV",
@@ -414,7 +415,7 @@
         {
           "form": "X",
           "pattern": "اِسْتَقْبَلَ",
-          "meaning": "sich zuwenden/gegenueberstehen",
+          "meaning": "sich zuwenden/gegenüberstehen",
           "ref": "—",
           "arabic": "—",
           "note": "Form X: die Richtung zu etwas einnehmen"
@@ -474,7 +475,7 @@
         {
           "form": "II",
           "pattern": "سَلَّمَ",
-          "meaning": "uebergeben/begruessen (Salam geben)",
+          "meaning": "übergeeben/begruessen (Salam geben)",
           "ref": "33:56",
           "arabic": "صَلُّوا عَلَيْهِ وَسَلِّمُوا تَسْلِيمًا",
           "note": "Form II kausativ: Frieden GEBEN/Gruss entbieten"
@@ -485,7 +486,7 @@
           "meaning": "sich ergeben/sich hingeben",
           "ref": "2:112",
           "arabic": "بَلَىٰ مَنْ أَسْلَمَ وَجْهَهُ لِلَّهِ",
-          "note": "Form IV: sein Gesicht Gott hingeben = sich Gott uebergeben"
+          "note": "Form IV: sein Gesicht Gott hingeben = sich Gott übergeeben"
         },
         {
           "form": "V",
@@ -493,12 +494,12 @@
           "meaning": "in Empfang nehmen",
           "ref": "—",
           "arabic": "—",
-          "note": "Form V reflexiv: etwas fuer sich entgegennehmen"
+          "note": "Form V reflexiv: etwas für sich entgegennehmen"
         },
         {
           "form": "X",
           "pattern": "اِسْتَسْلَمَ",
-          "meaning": "sich voellig ergeben/kapitulieren",
+          "meaning": "sich völlig ergeben/kapitulieren",
           "ref": "--",
           "arabic": "--",
           "note": "Form X (اِسْتَسْلَمَ) im Quran nicht als finite Form belegt; vgl. Form IV أَسْلَمَ (37:103)"
@@ -583,20 +584,20 @@
           "meaning": "gross machen/verherrlichen (Allahu akbar)",
           "ref": "17:111",
           "arabic": "وَكَبِّرْهُ تَكْبِيرًا",
-          "note": "Form II kausativ: Gott GROSS erklaeren"
+          "note": "Form II kausativ: Gott GROSS erklären"
         },
         {
           "form": "V",
           "pattern": "تَكَبَّرَ",
-          "meaning": "sich ueberheben/hochmuetig sein",
-          "ref": "40:56",
-          "arabic": "إِنَّ الَّذِينَ يُجَادِلُونَ فِي آيَاتِ اللَّهِ بِغَيْرِ سُلْطَانٍ ... إِن فِي صُدُورِهِمْ إِلَّا كِبْرٌ",
+          "meaning": "sich ueberheben/hochmütig sein",
+          "ref": "7:146",
+          "arabic": "سَأَصْرِفُ عَنْ آيَاتِيَ الَّذِينَ يَتَكَبَّرُونَ فِي الْأَرْضِ بِغَيْرِ الْحَقِّ",
           "note": "Form V reflexiv: sich selbst gross machen = Hochmut"
         },
         {
           "form": "X",
           "pattern": "اِسْتَكْبَرَ",
-          "meaning": "sich fuer zu gross halten/sich weigern",
+          "meaning": "sich für zu gross halten/sich weigern",
           "ref": "2:34",
           "arabic": "إِلَّا إِبْلِيسَ أَبَىٰ وَاسْتَكْبَرَ",
           "note": "Form X: sich als gross betrachten = Weigerung aus Hochmut"
@@ -629,7 +630,7 @@
           "meaning": "allgemeines Reflexiv-/Reziprok-Muster",
           "ref": "—",
           "arabic": "—",
-          "note": "Abstraktes Paradigma; keine eigene Bedeutung fuer ف-ع-ل"
+          "note": "Abstraktes Paradigma; keine eigene Bedeutung für ف-ع-ل"
         }
       ]
     },
@@ -703,12 +704,13 @@
           "form": "I",
           "arabic": "حَرُمَ",
           "meaning": "verboten/unantastbar sein",
-          "ref": "5:72"
+          "ref": "—",
+          "note": "Form I Stativ im Quran nicht belegt. Häufiger: Form II حَرَّمَ."
         },
         {
           "form": "II",
           "arabic": "حَرَّمَ",
-          "meaning": "fuer verboten erklaeren",
+          "meaning": "für verboten erklären",
           "ref": "5:3",
           "note": "Form II kausativ: etwas verboten MACHEN"
         },
@@ -732,7 +734,7 @@
           "ref": "5:3",
           "arabic": "حُرِّمَتْ عَلَيْكُمُ الْمَيْتَةُ",
           "question": "Welche Form liegt bei حُرِّمَتْ vor und was bewirkt das Passiv?",
-          "answer": "Form II Passiv. Kausativ: etwas fuer verboten erklaeren. Passiv: fuer verboten erklaert worden sein."
+          "answer": "Form II Passiv. Kausativ: etwas für verboten erklären. Passiv: für verboten erklärt worden sein."
         },
         {
           "ref": "5:96",
@@ -746,7 +748,7 @@
       "id": 22,
       "root": "ح-ل-ل",
       "rootArabic": "ح ل ل",
-      "baseMeaning": "loesen/erlaubt sein",
+      "baseMeaning": "lösen/erlaubt sein",
       "forms": [
         {
           "form": "I",
@@ -757,7 +759,7 @@
         {
           "form": "II",
           "arabic": "حَلَّلَ",
-          "meaning": "erlauben / fuer erlaubt erklaeren",
+          "meaning": "erlauben / für erlaubt erklären",
           "ref": "66:2",
           "note": "Form II kausativ: erlaubt MACHEN"
         },
@@ -771,7 +773,7 @@
         {
           "form": "X",
           "arabic": "اِسْتَحَلَّ",
-          "meaning": "fuer erlaubt halten / beanspruchen",
+          "meaning": "für erlaubt halten / beanspruchen",
           "ref": "—",
           "note": "Form X estimativ: etwas als erlaubt betrachten"
         }
@@ -794,7 +796,7 @@
         {
           "form": "I",
           "arabic": "وَلِيَ",
-          "meaning": "nahe sein / angrenzen / zustaendig sein",
+          "meaning": "nahe sein / angrenzen / zuständig sein",
           "ref": "8:72"
         },
         {
@@ -802,26 +804,26 @@
           "arabic": "وَلَّى",
           "meaning": "einsetzen / zum Wali machen",
           "ref": "—",
-          "note": "Form II kausativ: jemanden zum Zustaendigen MACHEN"
+          "note": "Form II kausativ: jemanden zum Zuständigen MACHEN"
         },
         {
           "form": "III",
           "arabic": "وَالَى",
-          "meaning": "Buendnis schliessen mit / Loyalitaet zeigen",
+          "meaning": "Buendnis schließen mit / Loyalität zeigen",
           "ref": "60:1",
-          "note": "Form III reziprok: gegenseitige Naehe/Loyalitaet"
+          "note": "Form III reziprok: gegenseitige Nähe/Loyalität"
         },
         {
           "form": "V",
           "arabic": "تَوَلَّى",
           "meaning": "sich abwenden / uebernehmen",
           "ref": "24:11",
-          "note": "Form V reflexiv: sich selbst die Zustaendigkeit nehmen, oder: sich abwenden"
+          "note": "Form V reflexiv: sich selbst die Zuständigkeit nehmen, oder: sich abwenden"
         },
         {
           "form": "VI",
           "arabic": "تَوَالَى",
-          "meaning": "aufeinander folgen / sich gegenseitig unterstuetzen",
+          "meaning": "aufeinander folgen / sich gegenseitig unterstützen",
           "ref": "—",
           "note": "Form VI gegenseitig-reflexiv"
         }
@@ -831,13 +833,13 @@
           "ref": "3:28",
           "arabic": "لَا يَتَّخِذِ الْمُؤْمِنُونَ الْكَافِرِينَ أَوْلِيَاءَ",
           "question": "Welche Wurzel steckt in أَوْلِيَاء und was ist die Grundbedeutung?",
-          "answer": "Wurzel و-ل-ي. أَوْلِيَاء Plural von وَلِيّ: der Nahe/Zustaendige/Verbundene."
+          "answer": "Wurzel و-ل-ي. أَوْلِيَاء Plural von وَلِيّ: der Nahe/Zuständige/Verbundene."
         },
         {
           "ref": "10:72",
           "arabic": "فَإِنْ تَوَلَّوْا",
           "question": "Welche Form ist تَوَلَّوْا hier?",
-          "answer": "Form V von و-ل-ي: sich abwenden. Reflexiv: sich selbst aus der Naehe entfernen."
+          "answer": "Form V von و-ل-ي: sich abwenden. Reflexiv: sich selbst aus der Nähe entfernen."
         }
       ]
     },
@@ -886,7 +888,7 @@
         {
           "ref": "83:26",
           "arabic": "وَفِي ذَٰلِكَ فَلْيَتَنَافَسِ الْمُتَنَافِسُونَ",
-          "question": "Welche Form liegt bei يَتَنَافَسِ vor und wie erklaert sich die Bedeutung?",
+          "question": "Welche Form liegt bei يَتَنَافَسِ vor und wie erklärt sich die Bedeutung?",
           "answer": "Form VI (تَفَاعَلَ): gegenseitig wetteifern. Reziproke Form: die Wetteifernden ueberbieten sich gegenseitig."
         }
       ]
@@ -906,9 +908,9 @@
         {
           "form": "II",
           "arabic": "صَدَّقَ",
-          "meaning": "fuer wahr erklaeren / bestaetigen",
+          "meaning": "für wahr erklären / bestaetigen",
           "ref": "92:6",
-          "note": "Form II kausativ/intensiv: etwas als wahr MACHEN/bekraeftigen"
+          "note": "Form II kausativ/intensiv: etwas als wahr MACHEN/bekräftigen"
         },
         {
           "form": "V",
@@ -920,7 +922,7 @@
         {
           "form": "VI",
           "arabic": "تَصَادَقَ",
-          "meaning": "sich gegenseitig fuer wahr halten",
+          "meaning": "sich gegenseitig für wahr halten",
           "ref": "—",
           "note": "Form VI reziprok"
         }
@@ -930,13 +932,13 @@
           "ref": "33:23",
           "arabic": "رِجَالٌ صَدَقُوا مَا عَاهَدُوا اللَّهَ عَلَيْهِ",
           "question": "Was bedeutet صَدَقُوا hier syntaktisch?",
-          "answer": "Form I mit Maf'ul bihi: sie erfuellten wahrhaftig das, wozu sie Gott verpflichtet hatten. Direktes Objekt ist der ما-Satz."
+          "answer": "Form I mit Maf'ul bihi: sie erfüllten wahrhaftig das, wozu sie Gott verpflichtet hatten. Direktes Objekt ist der ما-Satz."
         },
         {
           "ref": "12:26",
           "arabic": "إِنْ كَانَ قَمِيصُهُ قُدَّ مِنْ قُبُلٍ فَصَدَقَتْ",
           "question": "Wie wird صَدَقَ hier verwendet?",
-          "answer": "Form I absolut: dann hat sie die Wahrheit gesagt. Kein Objekt noetig."
+          "answer": "Form I absolut: dann hat sie die Wahrheit gesagt. Kein Objekt nötig."
         }
       ]
     },
@@ -962,7 +964,7 @@
         {
           "form": "V",
           "arabic": "تَطَهَّرَ",
-          "meaning": "sich reinigen / sich laeutern",
+          "meaning": "sich reinigen / sich läutern",
           "ref": "5:6",
           "note": "Form V reflexiv: sich selbst reinigen"
         },
@@ -971,7 +973,7 @@
           "arabic": "اِسْتَطْهَرَ",
           "meaning": "Reinheit anstreben",
           "ref": "—",
-          "note": "Form X estimativ: fuer rein halten/Reinheit erstreben"
+          "note": "Form X estimativ: für rein halten/Reinheit erstreben"
         }
       ],
       "exercises": [
@@ -987,12 +989,12 @@
       "id": 27,
       "root": "ح-س-ن",
       "rootArabic": "ح س ن",
-      "baseMeaning": "schoen/gut sein",
+      "baseMeaning": "schön/gut sein",
       "forms": [
         {
           "form": "I",
           "arabic": "حَسُنَ",
-          "meaning": "schoen/gut sein",
+          "meaning": "schön/gut sein",
           "ref": "4:69"
         },
         {
@@ -1000,19 +1002,19 @@
           "arabic": "حَسَّنَ",
           "meaning": "verschoenern / verbessern",
           "ref": "40:64",
-          "note": "Form II kausativ: schoen MACHEN"
+          "note": "Form II kausativ: schön MACHEN"
         },
         {
           "form": "IV",
           "arabic": "أَحْسَنَ",
           "meaning": "Gutes tun / gut handeln",
           "ref": "2:195",
-          "note": "Form IV kausativ: Guete herbeifuehren"
+          "note": "Form IV kausativ: Güte herbeifuehren"
         },
         {
           "form": "X",
           "arabic": "اِسْتَحْسَنَ",
-          "meaning": "fuer schoen/gut befinden",
+          "meaning": "für schön/gut befinden",
           "ref": "—",
           "note": "Form X estimativ: etwas als gut betrachten"
         }
@@ -1028,7 +1030,7 @@
           "ref": "2:195",
           "arabic": "وَأَحْسِنُوا إِنَّ اللَّهَ يُحِبُّ الْمُحْسِنِينَ",
           "question": "Was zeigt die Form IV أَحْسَنَ im Vergleich zur Grundbedeutung?",
-          "answer": "Form IV kausativ: Guete aktiv herbeifuehren. الْمُحْسِنِين Partizip: diejenigen die aktiv Gutes tun."
+          "answer": "Form IV kausativ: Güte aktiv herbeifuehren. الْمُحْسِنِين Partizip: diejenigen die aktiv Gutes tun."
         }
       ]
     },
@@ -1061,9 +1063,9 @@
         {
           "form": "VIII",
           "arabic": "اِعْتَدَى",
-          "meaning": "uebergriffig handeln / angreifen",
+          "meaning": "übergeriffig handeln / angreifen",
           "ref": "2:190",
-          "note": "Form VIII reflexiv: fuer sich den Uebergriff ausueben"
+          "note": "Form VIII reflexiv: für sich den Übergriff ausueben"
         }
       ],
       "exercises": [
@@ -1071,7 +1073,7 @@
           "ref": "2:190",
           "arabic": "وَلَا تَعْتَدُوا إِنَّ اللَّهَ لَا يُحِبُّ الْمُعْتَدِينَ",
           "question": "Welche Form liegt bei تَعْتَدُوا vor?",
-          "answer": "Form VIII (اِفْتَعَلَ): uebergriffig handeln. Reflexiver Aspekt: den Uebergriff fuer sich selbst begehen. الْمُعْتَدِينَ Partizip Plural."
+          "answer": "Form VIII (اِفْتَعَلَ): übergeriffig handeln. Reflexiver Aspekt: den Übergriff für sich selbst begehen. الْمُعْتَدِينَ Partizip Plural."
         }
       ]
     },
@@ -1097,9 +1099,9 @@
         {
           "form": "VIII",
           "arabic": "اِبْتَاعَ",
-          "meaning": "kaufen / fuer sich erwerben",
+          "meaning": "kaufen / für sich erwerben",
           "ref": "12:21",
-          "note": "Form VIII reflexiv: fuer sich handeln = kaufen"
+          "note": "Form VIII reflexiv: für sich handeln = kaufen"
         }
       ],
       "exercises": [
@@ -1113,7 +1115,7 @@
           "ref": "9:111",
           "arabic": "إِنَّ اللَّهَ اشْتَرَىٰ مِنَ الْمُؤْمِنِينَ أَنْفُسَهُمْ",
           "question": "اشْتَرَى kommt von ش-ر-ي (Form VIII). Was ist der Unterschied zu بَاعَ?",
-          "answer": "Verschiedene Wurzeln: باع (ب-ي-ع) = verkaufen, اشترى (ش-ر-ي Form VIII) = kaufen. Beide druecken Handelstransaktionen aus entgegengesetzter Perspektive aus."
+          "answer": "Verschiedene Wurzeln: باع (ب-ي-ع) = verkaufen, اشترى (ش-ر-ي Form VIII) = kaufen. Beide drücken Handelstransaktionen aus entgegengesetzter Perspektive aus."
         }
       ]
     },
@@ -1121,7 +1123,7 @@
       "id": 30,
       "root": "ع-ذ-ب",
       "rootArabic": "ع ذ ب",
-      "baseMeaning": "suess sein / quaelen",
+      "baseMeaning": "suess sein / quälen",
       "forms": [
         {
           "form": "I",
@@ -1133,7 +1135,7 @@
         {
           "form": "II",
           "arabic": "عَذَّبَ",
-          "meaning": "bestrafen / quaelen",
+          "meaning": "bestrafen / quälen",
           "ref": "2:284",
           "note": "Form II intensiv/kausativ: intensiv leiden machen"
         },
@@ -1142,14 +1144,14 @@
           "arabic": "تَعَذَّبَ",
           "meaning": "bestraft werden / Leid erfahren",
           "ref": "—",
-          "note": "Form V reflexiv: sich quaelen lassen"
+          "note": "Form V reflexiv: sich quälen lassen"
         },
         {
           "form": "X",
           "arabic": "اِسْتَعْذَبَ",
-          "meaning": "fuer suess/angenehm befinden",
+          "meaning": "für suess/angenehm befinden",
           "ref": "—",
-          "note": "Form X estimativ: zurueck zur Grundbedeutung 'suess'"
+          "note": "Form X estimativ: zurück zur Grundbedeutung 'suess'"
         }
       ],
       "exercises": [
@@ -1157,7 +1159,7 @@
           "ref": "25:53",
           "arabic": "هَٰذَا عَذْبٌ فُرَاتٌ وَهَٰذَا مِلْحٌ أُجَاجٌ",
           "question": "Welche Grundbedeutung der Wurzel ع-ذ-ب zeigt sich in عَذْبٌ?",
-          "answer": "Die Grundbedeutung ist 'suess/angenehm' (Wasser). Die Bedeutung 'quaelen/bestrafen' in Form II ist eine sekundaere Entwicklung."
+          "answer": "Die Grundbedeutung ist 'suess/angenehm' (Wasser). Die Bedeutung 'quälen/bestrafen' in Form II ist eine sekundaere Entwicklung."
         }
       ]
     },
@@ -1192,8 +1194,8 @@
         {
           "ref": "25:1",
           "arabic": "تَبَارَكَ الَّذِي نَزَّلَ الْفُرْقَانَ عَلَىٰ عَبْدِهِ",
-          "question": "Warum wird fuer 'segensreich sein' die Form VI (تَفَاعَلَ) verwendet?",
-          "answer": "تَبَارَكَ (Form VI) drueckt intrinsische Qualitaet aus: reich an Segen sein von Natur aus. Kein reziproker Aspekt hier, sondern intensiver Zustand."
+          "question": "Warum wird für 'segensreich sein' die Form VI (تَفَاعَلَ) verwendet?",
+          "answer": "تَبَارَكَ (Form VI) drückt intrinsische Qualität aus: reich an Segen sein von Natur aus. Kein reziproker Aspekt hier, sondern intensiver Zustand."
         }
       ]
     },
@@ -1236,7 +1238,7 @@
           "ref": "7:199",
           "arabic": "وَأَعْرِضْ عَنِ الْجَاهِلِينَ",
           "question": "Wie entwickelt sich die Bedeutung von 'breit/quer' zu 'sich abwenden'?",
-          "answer": "أَعْرَضَ (Form IV): die breite Seite zeigen = jemandem den Ruecken/die Seite zeigen = sich abwenden. Metaphorische Erweiterung."
+          "answer": "أَعْرَضَ (Form IV): die breite Seite zeigen = jemandem den Rücken/die Seite zeigen = sich abwenden. Metaphorische Erweiterung."
         }
       ]
     },
@@ -1271,7 +1273,7 @@
         {
           "ref": "82:7-8",
           "arabic": "الَّذِي خَلَقَكَ فَسَوَّاكَ فَعَدَلَكَ فِي أَيِّ صُورَةٍ مَا شَاءَ رَكَّبَكَ",
-          "question": "Was drueckt Form II رَكَّبَ im Vergleich zu Form I رَكِبَ aus?",
+          "question": "Was drückt Form II رَكَّبَ im Vergleich zu Form I رَكِبَ aus?",
           "answer": "Form I: besteigen/reiten. Form II: zusammensetzen/formen (kausativ-intensiv). Gott hat den Menschen zusammengesetzt in einer bestimmten Gestalt."
         }
       ]
@@ -1308,7 +1310,7 @@
           "ref": "18:109",
           "arabic": "قُلْ لَوْ كَانَ الْبَحْرُ مِدَادًا لِكَلِمَاتِ رَبِّي",
           "question": "Welche nominalen Ableitungen der Wurzel ق-و-ل erscheinen in diesem Vers?",
-          "answer": "كَلِمَات (Plural von كَلِمَة): Worte. Auch قُلْ (Imperativ Form I). Die Wurzel ق-و-ل ist die haeufigste im Quran."
+          "answer": "كَلِمَات (Plural von كَلِمَة): Worte. Auch قُلْ (Imperativ Form I). Die Wurzel ق-و-ل ist die häufigste im Quran."
         }
       ]
     },
@@ -1336,14 +1338,14 @@
           "arabic": "اِبْتَعَثَ",
           "meaning": "aussenden / beauftragen",
           "ref": "—",
-          "note": "Form VIII: fuer sich entsenden"
+          "note": "Form VIII: für sich entsenden"
         }
       ],
       "exercises": [
         {
           "ref": "91:12",
           "arabic": "إِذِ انْبَعَثَ أَشْقَاهَا",
-          "question": "Was drueckt Form VII اِنْبَعَثَ im Vergleich zu Form I بَعَثَ aus?",
+          "question": "Was drückt Form VII اِنْبَعَثَ im Vergleich zu Form I بَعَثَ aus?",
           "answer": "Form I transitiv: jemanden entsenden/erwecken. Form VII intransitiv-reflexiv: sich selbst aufmachen/losbrechen. Der Elendste brach (aus eigener Kraft) los."
         }
       ]
@@ -1408,12 +1410,12 @@
           "arabic": "تَجَاهَلَ",
           "meaning": "sich unwissend stellen",
           "ref": "—",
-          "note": "Form VI simulativ: Unwissenheit vortaeuschen"
+          "note": "Form VI simulativ: Unwissenheit vortäuschen"
         },
         {
           "form": "X",
           "arabic": "اِسْتَجْهَلَ",
-          "meaning": "jemanden fuer unwissend halten / zur Torheit verleiten",
+          "meaning": "jemanden für unwissend halten / zur Torheit verleiten",
           "ref": "7:155",
           "note": "Form X estimativ/kausativ"
         }
@@ -1422,7 +1424,7 @@
         {
           "ref": "2:273",
           "arabic": "يَحْسَبُهُمُ الْجَاهِلُ أَغْنِيَاءَ مِنَ التَّعَفُّفِ",
-          "question": "Was zeigt das Partizip الْجَاهِلُ ueber die Morphologie?",
+          "question": "Was zeigt das Partizip الْجَاهِلُ über die Morphologie?",
           "answer": "فَاعِل-Muster: aktives Partizip von Form I (جَهِلَ). Der Unwissende/Nichtwissende. Kontrast: جاهل ≠ عالِم (von ع-ل-م)."
         }
       ]
@@ -1431,39 +1433,39 @@
       "id": 38,
       "root": "ف-ت-ح",
       "rootArabic": "ف ت ح",
-      "baseMeaning": "oeffnen",
+      "baseMeaning": "öffnen",
       "forms": [
         {
           "form": "I",
           "arabic": "فَتَحَ",
-          "meaning": "oeffnen / eroeffnen / Sieg gewaehren",
+          "meaning": "öffnen / eröffnen / Sieg gewähren",
           "ref": "48:1"
         },
         {
           "form": "II",
           "arabic": "فَتَّحَ",
-          "meaning": "weit oeffnen / vielfach oeffnen",
+          "meaning": "weit öffnen / vielfach öffnen",
           "ref": "6:44",
-          "note": "Form II intensiv: فَتَحْنَا عَلَيْهِمْ أَبْوَابَ كُلِّ شَيْءٍ — wir oeffneten ihnen die Tore"
+          "note": "Form II intensiv: فَتَحْنَا عَلَيْهِمْ أَبْوَابَ كُلِّ شَيْءٍ — wir öffneten ihnen die Tore"
         },
         {
           "form": "V",
           "arabic": "تَفَتَّحَ",
-          "meaning": "sich oeffnen / aufgehen",
+          "meaning": "sich öffnen / aufgehen",
           "ref": "7:40",
           "note": "Form V reflexiv: لَا تُفَتَّحُ لَهُمْ أَبْوَابُ السَّمَاءِ"
         },
         {
           "form": "VIII",
           "arabic": "اِفْتَتَحَ",
-          "meaning": "eroeffnen / Urteil erbitten",
+          "meaning": "eröffnen / Urteil erbitten",
           "ref": "—",
-          "note": "Form VIII: fuer sich oeffnen / Eroeffnung erbitten"
+          "note": "Form VIII: für sich öffnen / Eröffnung erbitten"
         },
         {
           "form": "X",
           "arabic": "اِسْتَفْتَحَ",
-          "meaning": "um Sieg/Eroeffnung bitten",
+          "meaning": "um Sieg/Eröffnung bitten",
           "ref": "8:19",
           "note": "Form X petitiv: إِنْ تَسْتَفْتِحُوا فَقَدْ جَاءَكُمُ الْفَتْحُ — wenn ihr um Sieg bittet"
         }
@@ -1472,8 +1474,8 @@
         {
           "ref": "8:19",
           "arabic": "إِنْ تَسْتَفْتِحُوا فَقَدْ جَاءَكُمُ الْفَتْحُ",
-          "question": "Wie verhaelt sich Form X تَسْتَفْتِحُوا zum Masdar الْفَتْح?",
-          "answer": "Form X (petitiv): um Eroeffnung/Sieg bitten. الْفَتْح Masdar von Form I: die Eroeffnung/der Sieg. Wenn ihr um Sieg bittet, so ist der Sieg gekommen."
+          "question": "Wie verhält sich Form X تَسْتَفْتِحُوا zum Masdar الْفَتْح?",
+          "answer": "Form X (petitiv): um Eröffnung/Sieg bitten. الْفَتْح Masdar von Form I: die Eröffnung/der Sieg. Wenn ihr um Sieg bittet, so ist der Sieg gekommen."
         }
       ]
     },
@@ -1509,7 +1511,7 @@
           "ref": "5:3",
           "arabic": "الْيَوْمَ أَكْمَلْتُ لَكُمْ دِينَكُمْ وَأَتْمَمْتُ عَلَيْكُمْ نِعْمَتِي وَرَضِيتُ لَكُمُ الْإِسْلَامَ دِينًا",
           "question": "Welche Rektion zeigt رَضِيَ hier?",
-          "answer": "Form I mit لِ + Akkusativ: ich habe fuer euch den Islam als Religion gebilligt. لِ leitet den Empfaenger, دينا ist Tamyiz/Hal."
+          "answer": "Form I mit لِ + Akkusativ: ich habe für euch den Islam als Religion gebilligt. لِ leitet den Empfänger, دينا ist Tamyiz/Hal."
         }
       ]
     },
@@ -1517,39 +1519,39 @@
       "id": 40,
       "root": "ع-ز-ز",
       "rootArabic": "ع ز ز",
-      "baseMeaning": "maechtig/stark sein",
+      "baseMeaning": "mächtig/stark sein",
       "forms": [
         {
           "form": "I",
           "arabic": "عَزَّ",
-          "meaning": "maechtig/unerreichbar sein",
+          "meaning": "mächtig/unerreichbar sein",
           "ref": "38:2"
         },
         {
           "form": "II",
           "arabic": "عَزَّزَ",
-          "meaning": "staerken / unterstuetzen",
+          "meaning": "stärken / unterstützen",
           "ref": "36:14",
-          "note": "Form II kausativ: فَعَزَّزْنَا بِثَالِثٍ — wir staerkten mit einem Dritten"
+          "note": "Form II kausativ: فَعَزَّزْنَا بِثَالِثٍ — wir stärkten mit einem Dritten"
         },
         {
           "form": "IV",
           "arabic": "أَعَزَّ",
-          "meaning": "maechtig machen / ehren",
+          "meaning": "mächtig machen / ehren",
           "ref": "3:26",
-          "note": "Form IV: تُعِزُّ مَنْ تَشَاءُ — du machst maechtig wen du willst"
+          "note": "Form IV: تُعِزُّ مَنْ تَشَاءُ — du machst mächtig wen du willst"
         },
         {
           "form": "VIII",
           "arabic": "اِعْتَزَّ",
-          "meaning": "sich fuer maechtig halten / stolz sein",
+          "meaning": "sich für mächtig halten / stolz sein",
           "ref": "—",
           "note": "Form VIII reflexiv: sich Macht zuschreiben"
         },
         {
           "form": "X",
           "arabic": "اِسْتَعَزَّ",
-          "meaning": "Macht beanspruchen / sich verstaerken",
+          "meaning": "Macht beanspruchen / sich verstärken",
           "ref": "—",
           "note": "Form X estimativ"
         }
@@ -1559,7 +1561,7 @@
           "ref": "3:26",
           "arabic": "تُعِزُّ مَنْ تَشَاءُ وَتُذِلُّ مَنْ تَشَاءُ",
           "question": "Welche Formen liegen bei تُعِزُّ und تُذِلُّ vor und wie verhalten sie sich?",
-          "answer": "Beide Form IV (kausativ). تُعِزُّ von ع-ز-ز: maechtig machen. تُذِلُّ von ذ-ل-ل: erniedrigen. Antonymisches Paar in derselben Verbform."
+          "answer": "Beide Form IV (kausativ). تُعِزُّ von ع-ز-ز: mächtig machen. تُذِلُّ von ذ-ل-ل: erniedrigen. Antonymisches Paar in derselben Verbform."
         }
       ]
     },
@@ -1574,14 +1576,14 @@
           "arabic": "لَبِسَ",
           "meaning": "anziehen / bekleiden",
           "ref": "2:187",
-          "note": "هُنَّ لِبَاسٌ لَكُمْ — sie sind Bekleidung fuer euch (Masdar als Metapher)"
+          "note": "هُنَّ لِبَاسٌ لَكُمْ — sie sind Bekleidung für euch (Masdar als Metapher)"
         },
         {
           "form": "II",
           "arabic": "لَبَّسَ",
           "meaning": "verwirren / vermischen / verschleiern",
           "ref": "6:9",
-          "note": "Form II: وَلَلَبَسْنَا عَلَيْهِمْ مَا يَلْبِسُونَ — wir haetten ihnen verwirrt"
+          "note": "Form II: وَلَلَبَسْنَا عَلَيْهِمْ مَا يَلْبِسُونَ — wir hätten ihnen verwirrt"
         },
         {
           "form": "V",
@@ -1596,7 +1598,7 @@
           "ref": "6:82",
           "arabic": "وَلَمْ يَلْبِسُوا إِيمَانَهُمْ بِظُلْمٍ",
           "question": "Was bedeutet يَلْبِسُوا hier — 'anziehen' oder 'vermischen'?",
-          "answer": "Form I لَبِسَ hier metaphorisch: ihren Glauben (nicht) mit Unrecht bedecken/vermischen. Die Grundbedeutung 'bedecken' traegt beide Lesarten."
+          "answer": "Form I لَبِسَ hier metaphorisch: ihren Glauben (nicht) mit Unrecht bedecken/vermischen. Die Grundbedeutung 'bedecken' trägt beide Lesarten."
         }
       ]
     },
@@ -1658,7 +1660,7 @@
         {
           "form": "IV",
           "arabic": "أَمَدَّ",
-          "meaning": "versorgen / verlaengern / ausstatten",
+          "meaning": "versorgen / verlängern / ausstatten",
           "ref": "26:132",
           "note": "Form IV kausativ: أَمَدَّكُمْ بِأَنْعَامٍ — er stattete euch aus mit Vieh"
         },
@@ -1672,9 +1674,9 @@
         {
           "form": "X",
           "arabic": "اِسْتَمَدَّ",
-          "meaning": "Hilfe/Verstaerkung erbitten",
+          "meaning": "Hilfe/Verstärkung erbitten",
           "ref": "—",
-          "note": "Form X petitiv: Ausdehnung/Unterstuetzung erbitten"
+          "note": "Form X petitiv: Ausdehnung/Unterstützung erbitten"
         }
       ],
       "exercises": [
@@ -1722,7 +1724,7 @@
         {
           "form": "X",
           "arabic": "اِسْتَطَاعَ",
-          "meaning": "imstande sein / koennen",
+          "meaning": "imstande sein / können",
           "ref": "3:97",
           "note": "Form X: مَنِ اسْتَطَاعَ إِلَيْهِ سَبِيلًا — wer dazu imstande ist"
         }
@@ -1731,8 +1733,8 @@
         {
           "ref": "3:97",
           "arabic": "مَنِ اسْتَطَاعَ إِلَيْهِ سَبِيلًا",
-          "question": "Wie entwickelt sich 'gehorchen' zu 'koennen' in Form X?",
-          "answer": "Form X estimativ/reflexiv: sich als gefuegig/willig betrachten = bereit sein = imstande sein. Die Faehigkeit wird als 'innere Willigkeit' konzeptualisiert."
+          "question": "Wie entwickelt sich 'gehorchen' zu 'können' in Form X?",
+          "answer": "Form X estimativ/reflexiv: sich als gefuegig/willig betrachten = bereit sein = imstande sein. Die Fähigkeit wird als 'innere Willigkeit' konzeptualisiert."
         }
       ]
     },
@@ -1781,7 +1783,7 @@
         {
           "ref": "10:11",
           "arabic": "يَسْتَعْجِلُونَكَ بِالْعَذَابِ",
-          "question": "Was drueckt Form X اِسْتَعْجَلَ genau aus?",
+          "question": "Was drückt Form X اِسْتَعْجَلَ genau aus?",
           "answer": "Form X (petitiv): Eile verlangen/fordern. Sie fordern von dir die Beschleunigung der Strafe. بِ leitet den Gegenstand der Eile ein."
         }
       ]
@@ -1790,27 +1792,27 @@
       "id": 46,
       "root": "ج-م-ل",
       "rootArabic": "ج م ل",
-      "baseMeaning": "schoen/ansehnlich sein",
+      "baseMeaning": "schön/ansehnlich sein",
       "forms": [
         {
           "form": "I",
           "arabic": "جَمُلَ",
-          "meaning": "schoen sein",
+          "meaning": "schön sein",
           "ref": "16:6"
         },
         {
           "form": "III",
           "arabic": "جَامَلَ",
-          "meaning": "mit jemandem schoen/hoeflich umgehen",
+          "meaning": "mit jemandem schön/hoeflich umgehen",
           "ref": "—",
-          "note": "Form III reziprok: Schoenheit im Umgang zeigen"
+          "note": "Form III reziprok: Schönheit im Umgang zeigen"
         },
         {
           "form": "IV",
           "arabic": "أَجْمَلَ",
           "meaning": "zusammenfassen / im Ganzen behandeln",
           "ref": "—",
-          "note": "Form IV: das Schoene/Ganze zusammenfuegen"
+          "note": "Form IV: das Schöne/Ganze zusammenfüegen"
         }
       ],
       "exercises": [
@@ -1818,7 +1820,7 @@
           "ref": "12:18",
           "arabic": "فَصَبْرٌ جَمِيلٌ",
           "question": "Welches Muster hat جَمِيل und von welcher Wurzel?",
-          "answer": "فَعِيل-Muster von ج-م-ل: schoen. Bedeutung: schoene Geduld = wuerdevolle Geduld ohne Klage."
+          "answer": "فَعِيل-Muster von ج-م-ل: schön. Bedeutung: schöne Geduld = würdevolle Geduld ohne Klage."
         }
       ]
     },
@@ -1831,7 +1833,7 @@
         {
           "form": "I",
           "arabic": "وَصَى",
-          "meaning": "anempfehlen / letztwillig verfuegen",
+          "meaning": "anempfehlen / letztwillig verfügen",
           "ref": "—"
         },
         {
@@ -1839,14 +1841,14 @@
           "arabic": "وَصَّى",
           "meaning": "eindringlich anempfehlen / beauftragen",
           "ref": "2:132",
-          "note": "Form II intensiv: وَوَصَّىٰ بِهَا إِبْرَاهِيمُ بَنِيهِ — Ibrahim empfahl sie seinen Soehnen"
+          "note": "Form II intensiv: وَوَصَّىٰ بِهَا إِبْرَاهِيمُ بَنِيهِ — Ibrahim empfahl sie seinen Söhnen"
         },
         {
           "form": "IV",
           "arabic": "أَوْصَى",
-          "meaning": "auftragen / verfuegen",
+          "meaning": "auftragen / verfügen",
           "ref": "4:11",
-          "note": "Form IV: مِنْ بَعْدِ وَصِيَّةٍ يُوصِي بِهَا — nach einem Vermaechtnis das er verfuegt"
+          "note": "Form IV: مِنْ بَعْدِ وَصِيَّةٍ يُوصِي بِهَا — nach einem Vermaechtnis das er verfügt"
         },
         {
           "form": "VI",
@@ -1861,7 +1863,7 @@
           "ref": "103:3",
           "arabic": "وَتَوَاصَوْا بِالْحَقِّ وَتَوَاصَوْا بِالصَّبْرِ",
           "question": "Warum steht hier Form VI (تَوَاصَوْا) und nicht Form II?",
-          "answer": "Form VI (تَفَاعَلَ) ist reziprok: sie empfahlen EINANDER gegenseitig. Form II waere einseitig. Das gegenseitige Ermahnen ist der Kern der Aussage."
+          "answer": "Form VI (تَفَاعَلَ) ist reziprok: sie empfahlen EINANDER gegenseitig. Form II wäre einseitig. Das gegenseitige Ermahnen ist der Kern der Aussage."
         }
       ]
     },
@@ -1897,13 +1899,13 @@
           "ref": "30:4",
           "arabic": "وَيَوْمَئِذٍ يَفْرَحُ الْمُؤْمِنُونَ بِنَصْرِ اللَّهِ",
           "question": "Welche Rektion hat فَرِحَ hier?",
-          "answer": "Form I mit بِ: sich freuen ueber. بِنَصْرِ Praeposition + Masdar-Idafa: ueber den Sieg Gottes."
+          "answer": "Form I mit بِ: sich freuen über. بِنَصْرِ Präposition + Masdar-Idafa: über den Sieg Gottes."
         },
         {
           "ref": "3:188",
           "arabic": "لَا تَحْسَبَنَّهُمْ يَفْرَحُونَ بِمَا أَتَوْا",
           "question": "Was leitet بِ nach يَفْرَحُونَ ein?",
-          "answer": "بِ leitet den Gegenstand der Freude ein: sie freuen sich ueber das was sie getan haben."
+          "answer": "بِ leitet den Gegenstand der Freude ein: sie freuen sich über das was sie getan haben."
         }
       ]
     },
@@ -1922,14 +1924,14 @@
         {
           "form": "II",
           "arabic": "ضَلَّلَ",
-          "meaning": "fuer irregegangen erklaeren / irrefuehren",
+          "meaning": "für irregegangen erklären / irrefuehren",
           "ref": "105:2",
           "note": "Form II kausativ: أَلَمْ يَجْعَلْ كَيْدَهُمْ فِي تَضْلِيلٍ — in Vereitelung"
         },
         {
           "form": "IV",
           "arabic": "أَضَلَّ",
-          "meaning": "in die Irre fuehren",
+          "meaning": "in die Irre führen",
           "ref": "14:36",
           "note": "Form IV kausativ: رَبِّ إِنَّهُنَّ أَضْلَلْنَ كَثِيرًا مِنَ النَّاسِ"
         }
@@ -1945,7 +1947,7 @@
           "ref": "4:88",
           "arabic": "أَتُرِيدُونَ أَنْ تَهْدُوا مَنْ أَضَلَّ اللَّهُ",
           "question": "Wie kontrastieren هَدَى (Form I) und أَضَلَّ (Form IV)?",
-          "answer": "هدى Form I: rechtleiten. أضلّ Form IV (kausativ von ض-ل-ل): in die Irre fuehren lassen. Antonymisches Paar — eines in Form I, das andere kausativ in IV."
+          "answer": "هدى Form I: rechtleiten. أضلّ Form IV (kausativ von ض-ل-ل): in die Irre führen lassen. Antonymisches Paar — eines in Form I, das andere kausativ in IV."
         }
       ]
     },
@@ -1987,8 +1989,8 @@
         {
           "ref": "2:282",
           "arabic": "وَاسْتَشْهِدُوا شَهِيدَيْنِ مِنْ رِجَالِكُمْ",
-          "question": "Wie verhaelt sich Form X اِسْتَشْهِدُوا zum Masdar شَهِيد?",
-          "answer": "Form X (petitiv): Zeugenschaft erbitten. شَهِيدَيْنِ Dual von شَهِيد (فَعِيل-Muster): zwei Zeugen. Die Form X drueckt die aktive Suche nach Zeugen aus."
+          "question": "Wie verhält sich Form X اِسْتَشْهِدُوا zum Masdar شَهِيد?",
+          "answer": "Form X (petitiv): Zeugenschaft erbitten. شَهِيدَيْنِ Dual von شَهِيد (فَعِيل-Muster): zwei Zeugen. Die Form X drückt die aktive Suche nach Zeugen aus."
         }
       ]
     }
@@ -2004,7 +2006,7 @@
       {
         "form": "III (فَاعَلَ)",
         "pattern": "Reziprok / Kompetitiv / Versuch",
-        "example": "قَتَلَ (toeten) → قَاتَلَ (kaempfen = versuchen zu toeten / gegenseitig toeten)"
+        "example": "قَتَلَ (töten) → قَاتَلَ (kämpfen = versuchen zu töten / gegenseitig töten)"
       },
       {
         "form": "IV (أَفْعَلَ)",
@@ -2013,13 +2015,13 @@
       },
       {
         "form": "V (تَفَعَّلَ)",
-        "pattern": "Reflexiv zu II / Gradualitaet",
+        "pattern": "Reflexiv zu II / Gradualität",
         "example": "عَلَّمَ (lehren) → تَعَلَّمَ (lernen = sich selbst lehren)"
       },
       {
         "form": "VI (تَفَاعَلَ)",
         "pattern": "Gegenseitig-reflexiv / Simulation",
-        "example": "صَالَحَ (Frieden schliessen) → تَصَالَحَ (sich miteinander versoehnen)"
+        "example": "صَالَحَ (Frieden schließen) → تَصَالَحَ (sich miteinander versöhnen)"
       },
       {
         "form": "VII (اِنْفَعَلَ)",

@@ -1,15 +1,19 @@
 {
   "meta": {
     "title": "Alif Wasla Drill (generiert)",
-    "description": "Automatisch generierte Uebungen zu Hamzat al-Wasl. Quelle: Uthmani-Text und Morphologie-DB.",
+    "description": "Automatisch generierte Übungen zu Hamzat al-Wasl. Quelle: Uthmani-Text und Morphologie-DB.",
     "generated": "2026-03-23",
-    "totalExercises": 327
+    "totalExercises": 327,
+    "sources": [
+      { "name": "Wright's Grammar Vol I", "url": "https://archive.org/details/grammarofthearab01telerich" },
+      { "name": "Quranic Arabic Corpus", "url": "https://corpus.quran.com/" }
+    ]
   },
   "categories": [
     {
       "id": "article",
       "title": "Definitartikel ال",
-      "explanation": "Der haeufigste Fall von Alif Wasla. Die Hamza des Artikels wird nur am absoluten Satzanfang gesprochen.",
+      "explanation": "Der häufigste Fall von Alif Wasla. Die Hamza des Artikels wird nur am absoluten Satzanfang gesprochen.",
       "exercises": [
         {
           "word": "ٱلْأَعْدَاءَ",
@@ -1641,7 +1645,7 @@
           "context": "وَٱلرُّجْزَ فَٱهْجُرْ",
           "ref": "74:5",
           "form": "Imperativ Form I",
-          "note": "Imperativ mit Konsonantencluster am Anfang erhaelt Alif Wasla"
+          "note": "Imperativ mit Konsonantencluster am Anfang erhält Alif Wasla"
         },
         {
           "word": "فَٱحْذَرُوهُمْ",
@@ -1649,7 +1653,7 @@
           "context": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِنَّ مِنْ أَزْوَٰجِكُمْ وَأَوْلَٰدِكُمْ عَدُوًّا لَّكُمْ فَٱحْذَرُوهُمْ وَإِن تَعْفُوا۟ وَتَصْفَحُوا۟ وَتَغْفِرُوا۟ فَإِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ",
           "ref": "64:14",
           "form": "Imperativ Form I",
-          "note": "Imperativ mit Konsonantencluster am Anfang erhaelt Alif Wasla"
+          "note": "Imperativ mit Konsonantencluster am Anfang erhält Alif Wasla"
         },
         {
           "word": "وَٱذْكُرْ",
@@ -1657,7 +1661,7 @@
           "context": "وَٱذْكُرْ فِى ٱلْكِتَٰبِ مَرْيَمَ إِذِ ٱنتَبَذَتْ مِنْ أَهْلِهَا مَكَانًا شَرْقِيًّا",
           "ref": "19:16",
           "form": "Imperativ Form I",
-          "note": "Imperativ mit Konsonantencluster am Anfang erhaelt Alif Wasla"
+          "note": "Imperativ mit Konsonantencluster am Anfang erhält Alif Wasla"
         },
         {
           "word": "ٱنظُرُونَا",
@@ -1665,7 +1669,7 @@
           "context": "يَوْمَ يَقُولُ ٱلْمُنَٰفِقُونَ وَٱلْمُنَٰفِقَٰتُ لِلَّذِينَ ءَامَنُوا۟ ٱنظُرُونَا نَقْتَبِسْ مِن نُّورِكُمْ قِيلَ ٱرْجِعُوا۟ وَرَآءَكُمْ فَٱلْتَمِسُوا۟ نُورًا فَضُرِبَ بَيْنَهُم بِسُورٍ لَّهُۥ بَابٌۢ بَاطِنُهُۥ فِيهِ ٱلرَّحْمَةُ وَظَٰهِرُهُۥ مِن قِبَلِهِ ٱلْعَذَابُ",
           "ref": "57:13",
           "form": "Imperativ Form I",
-          "note": "Imperativ mit Konsonantencluster am Anfang erhaelt Alif Wasla"
+          "note": "Imperativ mit Konsonantencluster am Anfang erhält Alif Wasla"
         },
         {
           "word": "ٱدْخُلُوا",
@@ -1673,7 +1677,7 @@
           "context": "وَإِذْ قُلْنَا ٱدْخُلُوا۟ هَٰذِهِ ٱلْقَرْيَةَ فَكُلُوا۟ مِنْهَا حَيْثُ شِئْتُمْ رَغَدًا وَٱدْخُلُوا۟ ٱلْبَابَ سُجَّدًا وَقُولُوا۟ حِطَّةٌ نَّغْفِرْ لَكُمْ خَطَٰيَٰكُمْ وَسَنَزِيدُ ٱلْمُحْسِنِينَ",
           "ref": "2:58",
           "form": "Imperativ Form I",
-          "note": "Imperativ mit Konsonantencluster am Anfang erhaelt Alif Wasla"
+          "note": "Imperativ mit Konsonantencluster am Anfang erhält Alif Wasla"
         },
         {
           "word": "ٱذْكُرْ",
@@ -1681,7 +1685,7 @@
           "context": "إِذْ قَالَ ٱللَّهُ يَٰعِيسَى ٱبْنَ مَرْيَمَ ٱذْكُرْ نِعْمَتِى عَلَيْكَ وَعَلَىٰ وَٰلِدَتِكَ إِذْ أَيَّدتُّكَ بِرُوحِ ٱلْقُدُسِ تُكَلِّمُ ٱلنَّاسَ فِى ٱلْمَهْدِ وَكَهْلًا وَإِذْ عَلَّمْتُكَ ٱلْكِتَٰبَ وَٱلْحِكْمَةَ وَٱلتَّوْرَىٰةَ وَٱلْإِنجِيلَ وَإِذْ تَخْلُقُ مِنَ ٱلطِّينِ كَهَيْـَٔةِ ٱلطَّيْرِ بِإِذْنِى فَتَنفُخُ فِيهَا فَتَكُونُ طَيْرًۢا بِإِذْنِى وَتُبْرِئُ ٱلْأَكْمَهَ وَٱلْأَبْرَصَ بِإِذْنِى وَإِذْ تُخْرِجُ ٱلْمَوْتَىٰ بِإِذْنِى وَإِذْ كَفَفْتُ بَنِىٓ إِسْرَٰٓءِيلَ عَنكَ إِذْ جِئْتَهُم بِٱلْبَيِّنَٰتِ فَقَالَ ٱلَّذِينَ كَفَرُوا۟ مِنْهُمْ إِنْ هَٰذَآ إِلَّا سِحْرٌ مُّبِينٌ",
           "ref": "5:110",
           "form": "Imperativ Form I",
-          "note": "Imperativ mit Konsonantencluster am Anfang erhaelt Alif Wasla"
+          "note": "Imperativ mit Konsonantencluster am Anfang erhält Alif Wasla"
         },
         {
           "word": "ٱسْكُنْ",
@@ -1689,7 +1693,7 @@
           "context": "وَقُلْنَا يَٰٓـَٔادَمُ ٱسْكُنْ أَنتَ وَزَوْجُكَ ٱلْجَنَّةَ وَكُلَا مِنْهَا رَغَدًا حَيْثُ شِئْتُمَا وَلَا تَقْرَبَا هَٰذِهِ ٱلشَّجَرَةَ فَتَكُونَا مِنَ ٱلظَّٰلِمِينَ",
           "ref": "2:35",
           "form": "Imperativ Form I",
-          "note": "Imperativ mit Konsonantencluster am Anfang erhaelt Alif Wasla"
+          "note": "Imperativ mit Konsonantencluster am Anfang erhält Alif Wasla"
         },
         {
           "word": "فَٱجْعَل",
@@ -1697,7 +1701,7 @@
           "context": "وَقَالَ فِرْعَوْنُ يَٰٓأَيُّهَا ٱلْمَلَأُ مَا عَلِمْتُ لَكُم مِّنْ إِلَٰهٍ غَيْرِى فَأَوْقِدْ لِى يَٰهَٰمَٰنُ عَلَى ٱلطِّينِ فَٱجْعَل لِّى صَرْحًا لَّعَلِّىٓ أَطَّلِعُ إِلَىٰٓ إِلَٰهِ مُوسَىٰ وَإِنِّى لَأَظُنُّهُۥ مِنَ ٱلْكَٰذِبِينَ",
           "ref": "28:38",
           "form": "Imperativ Form I",
-          "note": "Imperativ mit Konsonantencluster am Anfang erhaelt Alif Wasla"
+          "note": "Imperativ mit Konsonantencluster am Anfang erhält Alif Wasla"
         },
         {
           "word": "ٱكْشِفْ",
@@ -1705,7 +1709,7 @@
           "context": "رَّبَّنَا ٱكْشِفْ عَنَّا ٱلْعَذَابَ إِنَّا مُؤْمِنُونَ",
           "ref": "44:12",
           "form": "Imperativ Form I",
-          "note": "Imperativ mit Konsonantencluster am Anfang erhaelt Alif Wasla"
+          "note": "Imperativ mit Konsonantencluster am Anfang erhält Alif Wasla"
         },
         {
           "word": "وَٱرْزُقْنَا",
@@ -1713,7 +1717,7 @@
           "context": "قَالَ عِيسَى ٱبْنُ مَرْيَمَ ٱللَّهُمَّ رَبَّنَآ أَنزِلْ عَلَيْنَا مَآئِدَةً مِّنَ ٱلسَّمَآءِ تَكُونُ لَنَا عِيدًا لِّأَوَّلِنَا وَءَاخِرِنَا وَءَايَةً مِّنكَ وَٱرْزُقْنَا وَأَنتَ خَيْرُ ٱلرَّٰزِقِينَ",
           "ref": "5:114",
           "form": "Imperativ Form I",
-          "note": "Imperativ mit Konsonantencluster am Anfang erhaelt Alif Wasla"
+          "note": "Imperativ mit Konsonantencluster am Anfang erhält Alif Wasla"
         },
         {
           "word": "فَٱعْدِلُوا",
@@ -1721,7 +1725,7 @@
           "context": "وَلَا تَقْرَبُوا۟ مَالَ ٱلْيَتِيمِ إِلَّا بِٱلَّتِى هِىَ أَحْسَنُ حَتَّىٰ يَبْلُغَ أَشُدَّهُۥ وَأَوْفُوا۟ ٱلْكَيْلَ وَٱلْمِيزَانَ بِٱلْقِسْطِ لَا نُكَلِّفُ نَفْسًا إِلَّا وُسْعَهَا وَإِذَا قُلْتُمْ فَٱعْدِلُوا۟ وَلَوْ كَانَ ذَا قُرْبَىٰ وَبِعَهْدِ ٱللَّهِ أَوْفُوا۟ ذَٰلِكُمْ وَصَّىٰكُم بِهِۦ لَعَلَّكُمْ تَذَكَّرُونَ",
           "ref": "6:152",
           "form": "Imperativ Form I",
-          "note": "Imperativ mit Konsonantencluster am Anfang erhaelt Alif Wasla"
+          "note": "Imperativ mit Konsonantencluster am Anfang erhält Alif Wasla"
         },
         {
           "word": "فَٱنصَبْ",
@@ -1729,7 +1733,7 @@
           "context": "فَإِذَا فَرَغْتَ فَٱنصَبْ",
           "ref": "94:7",
           "form": "Imperativ Form I",
-          "note": "Imperativ mit Konsonantencluster am Anfang erhaelt Alif Wasla"
+          "note": "Imperativ mit Konsonantencluster am Anfang erhält Alif Wasla"
         },
         {
           "word": "فَٱبْعَثُوا",
@@ -1737,7 +1741,7 @@
           "context": "وَإِنْ خِفْتُمْ شِقَاقَ بَيْنِهِمَا فَٱبْعَثُوا۟ حَكَمًا مِّنْ أَهْلِهِۦ وَحَكَمًا مِّنْ أَهْلِهَآ إِن يُرِيدَآ إِصْلَٰحًا يُوَفِّقِ ٱللَّهُ بَيْنَهُمَآ إِنَّ ٱللَّهَ كَانَ عَلِيمًا خَبِيرًا",
           "ref": "4:35",
           "form": "Imperativ Form I",
-          "note": "Imperativ mit Konsonantencluster am Anfang erhaelt Alif Wasla"
+          "note": "Imperativ mit Konsonantencluster am Anfang erhält Alif Wasla"
         },
         {
           "word": "ٱقْنُتِى",
@@ -1745,7 +1749,7 @@
           "context": "يَٰمَرْيَمُ ٱقْنُتِى لِرَبِّكِ وَٱسْجُدِى وَٱرْكَعِى مَعَ ٱلرَّٰكِعِينَ",
           "ref": "3:43",
           "form": "Imperativ Form I",
-          "note": "Imperativ mit Konsonantencluster am Anfang erhaelt Alif Wasla"
+          "note": "Imperativ mit Konsonantencluster am Anfang erhält Alif Wasla"
         },
         {
           "word": "وَٱفْعَلُوا",
@@ -1753,7 +1757,7 @@
           "context": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱرْكَعُوا۟ وَٱسْجُدُوا۟ وَٱعْبُدُوا۟ رَبَّكُمْ وَٱفْعَلُوا۟ ٱلْخَيْرَ لَعَلَّكُمْ تُفْلِحُونَ",
           "ref": "22:77",
           "form": "Imperativ Form I",
-          "note": "Imperativ mit Konsonantencluster am Anfang erhaelt Alif Wasla"
+          "note": "Imperativ mit Konsonantencluster am Anfang erhält Alif Wasla"
         },
         {
           "word": "وَٱدْعُوهُ",
@@ -1761,7 +1765,7 @@
           "context": "قُلْ أَمَرَ رَبِّى بِٱلْقِسْطِ وَأَقِيمُوا۟ وُجُوهَكُمْ عِندَ كُلِّ مَسْجِدٍ وَٱدْعُوهُ مُخْلِصِينَ لَهُ ٱلدِّينَ كَمَا بَدَأَكُمْ تَعُودُونَ",
           "ref": "7:29",
           "form": "Imperativ Form I",
-          "note": "Imperativ mit Konsonantencluster am Anfang erhaelt Alif Wasla"
+          "note": "Imperativ mit Konsonantencluster am Anfang erhält Alif Wasla"
         },
         {
           "word": "فَٱعْبُدْ",
@@ -1769,7 +1773,7 @@
           "context": "بَلِ ٱللَّهَ فَٱعْبُدْ وَكُن مِّنَ ٱلشَّٰكِرِينَ",
           "ref": "39:66",
           "form": "Imperativ Form I",
-          "note": "Imperativ mit Konsonantencluster am Anfang erhaelt Alif Wasla"
+          "note": "Imperativ mit Konsonantencluster am Anfang erhält Alif Wasla"
         },
         {
           "word": "فَٱقْطَعُوا",
@@ -1777,7 +1781,7 @@
           "context": "وَٱلسَّارِقُ وَٱلسَّارِقَةُ فَٱقْطَعُوٓا۟ أَيْدِيَهُمَا جَزَآءًۢ بِمَا كَسَبَا نَكَٰلًا مِّنَ ٱللَّهِ وَٱللَّهُ عَزِيزٌ حَكِيمٌ",
           "ref": "5:38",
           "form": "Imperativ Form I",
-          "note": "Imperativ mit Konsonantencluster am Anfang erhaelt Alif Wasla"
+          "note": "Imperativ mit Konsonantencluster am Anfang erhält Alif Wasla"
         },
         {
           "word": "ٱبْعَثْ",
@@ -1785,7 +1789,7 @@
           "context": "أَلَمْ تَرَ إِلَى ٱلْمَلَإِ مِنۢ بَنِىٓ إِسْرَٰٓءِيلَ مِنۢ بَعْدِ مُوسَىٰٓ إِذْ قَالُوا۟ لِنَبِىٍّ لَّهُمُ ٱبْعَثْ لَنَا مَلِكًا نُّقَٰتِلْ فِى سَبِيلِ ٱللَّهِ قَالَ هَلْ عَسَيْتُمْ إِن كُتِبَ عَلَيْكُمُ ٱلْقِتَالُ أَلَّا تُقَٰتِلُوا۟ قَالُوا۟ وَمَا لَنَآ أَلَّا نُقَٰتِلَ فِى سَبِيلِ ٱللَّهِ وَقَدْ أُخْرِجْنَا مِن دِيَٰرِنَا وَأَبْنَآئِنَا فَلَمَّا كُتِبَ عَلَيْهِمُ ٱلْقِتَالُ تَوَلَّوْا۟ إِلَّا قَلِيلًا مِّنْهُمْ وَٱللَّهُ عَلِيمٌۢ بِٱلظَّٰلِمِينَ",
           "ref": "2:246",
           "form": "Imperativ Form I",
-          "note": "Imperativ mit Konsonantencluster am Anfang erhaelt Alif Wasla"
+          "note": "Imperativ mit Konsonantencluster am Anfang erhält Alif Wasla"
         },
         {
           "word": "ٱنظُرْ",
@@ -1793,7 +1797,7 @@
           "context": "ٱنظُرْ كَيْفَ يَفْتَرُونَ عَلَى ٱللَّهِ ٱلْكَذِبَ وَكَفَىٰ بِهِۦٓ إِثْمًا مُّبِينًا",
           "ref": "4:50",
           "form": "Imperativ Form I",
-          "note": "Imperativ mit Konsonantencluster am Anfang erhaelt Alif Wasla"
+          "note": "Imperativ mit Konsonantencluster am Anfang erhält Alif Wasla"
         },
         {
           "word": "وَٱكْفُرُوا",
@@ -1801,7 +1805,7 @@
           "context": "وَقَالَت طَّآئِفَةٌ مِّنْ أَهْلِ ٱلْكِتَٰبِ ءَامِنُوا۟ بِٱلَّذِىٓ أُنزِلَ عَلَى ٱلَّذِينَ ءَامَنُوا۟ وَجْهَ ٱلنَّهَارِ وَٱكْفُرُوٓا۟ ءَاخِرَهُۥ لَعَلَّهُمْ يَرْجِعُونَ",
           "ref": "3:72",
           "form": "Imperativ Form I",
-          "note": "Imperativ mit Konsonantencluster am Anfang erhaelt Alif Wasla"
+          "note": "Imperativ mit Konsonantencluster am Anfang erhält Alif Wasla"
         },
         {
           "word": "وَٱكْتُبْ",
@@ -1809,7 +1813,7 @@
           "context": "وَٱكْتُبْ لَنَا فِى هَٰذِهِ ٱلدُّنْيَا حَسَنَةً وَفِى ٱلْـَٔاخِرَةِ إِنَّا هُدْنَآ إِلَيْكَ قَالَ عَذَابِىٓ أُصِيبُ بِهِۦ مَنْ أَشَآءُ وَرَحْمَتِى وَسِعَتْ كُلَّ شَىْءٍ فَسَأَكْتُبُهَا لِلَّذِينَ يَتَّقُونَ وَيُؤْتُونَ ٱلزَّكَوٰةَ وَٱلَّذِينَ هُم بِـَٔايَٰتِنَا يُؤْمِنُونَ",
           "ref": "7:156",
           "form": "Imperativ Form I",
-          "note": "Imperativ mit Konsonantencluster am Anfang erhaelt Alif Wasla"
+          "note": "Imperativ mit Konsonantencluster am Anfang erhält Alif Wasla"
         },
         {
           "word": "فَٱقْتُلُوهُمْ",
@@ -1817,7 +1821,7 @@
           "context": "وَٱقْتُلُوهُمْ حَيْثُ ثَقِفْتُمُوهُمْ وَأَخْرِجُوهُم مِّنْ حَيْثُ أَخْرَجُوكُمْ وَٱلْفِتْنَةُ أَشَدُّ مِنَ ٱلْقَتْلِ وَلَا تُقَٰتِلُوهُمْ عِندَ ٱلْمَسْجِدِ ٱلْحَرَامِ حَتَّىٰ يُقَٰتِلُوكُمْ فِيهِ فَإِن قَٰتَلُوكُمْ فَٱقْتُلُوهُمْ كَذَٰلِكَ جَزَآءُ ٱلْكَٰفِرِينَ",
           "ref": "2:191",
           "form": "Imperativ Form I",
-          "note": "Imperativ mit Konsonantencluster am Anfang erhaelt Alif Wasla"
+          "note": "Imperativ mit Konsonantencluster am Anfang erhält Alif Wasla"
         },
         {
           "word": "ٱبْلَعِى",
@@ -1825,7 +1829,7 @@
           "context": "وَقِيلَ يَٰٓأَرْضُ ٱبْلَعِى مَآءَكِ وَيَٰسَمَآءُ أَقْلِعِى وَغِيضَ ٱلْمَآءُ وَقُضِىَ ٱلْأَمْرُ وَٱسْتَوَتْ عَلَى ٱلْجُودِىِّ وَقِيلَ بُعْدًا لِّلْقَوْمِ ٱلظَّٰلِمِينَ",
           "ref": "11:44",
           "form": "Imperativ Form I",
-          "note": "Imperativ mit Konsonantencluster am Anfang erhaelt Alif Wasla"
+          "note": "Imperativ mit Konsonantencluster am Anfang erhält Alif Wasla"
         },
         {
           "word": "فَٱعْبُدْنِى",
@@ -1833,7 +1837,7 @@
           "context": "إِنَّنِىٓ أَنَا ٱللَّهُ لَآ إِلَٰهَ إِلَّآ أَنَا۠ فَٱعْبُدْنِى وَأَقِمِ ٱلصَّلَوٰةَ لِذِكْرِىٓ",
           "ref": "20:14",
           "form": "Imperativ Form I",
-          "note": "Imperativ mit Konsonantencluster am Anfang erhaelt Alif Wasla"
+          "note": "Imperativ mit Konsonantencluster am Anfang erhält Alif Wasla"
         },
         {
           "word": "ٱئْتِيَا",
@@ -1841,7 +1845,7 @@
           "context": "ثُمَّ ٱسْتَوَىٰٓ إِلَى ٱلسَّمَآءِ وَهِىَ دُخَانٌ فَقَالَ لَهَا وَلِلْأَرْضِ ٱئْتِيَا طَوْعًا أَوْ كَرْهًا قَالَتَآ أَتَيْنَا طَآئِعِينَ",
           "ref": "41:11",
           "form": "Imperativ Form I",
-          "note": "Imperativ mit Konsonantencluster am Anfang erhaelt Alif Wasla"
+          "note": "Imperativ mit Konsonantencluster am Anfang erhält Alif Wasla"
         },
         {
           "word": "فَٱسْجُدُوا",
@@ -1849,7 +1853,7 @@
           "context": "فَٱسْجُدُوا۟ لِلَّهِ وَٱعْبُدُوا۟",
           "ref": "53:62",
           "form": "Imperativ Form I",
-          "note": "Imperativ mit Konsonantencluster am Anfang erhaelt Alif Wasla"
+          "note": "Imperativ mit Konsonantencluster am Anfang erhält Alif Wasla"
         },
         {
           "word": "ٱعْبُدُونِى",
@@ -1857,7 +1861,7 @@
           "context": "وَأَنِ ٱعْبُدُونِى هَٰذَا صِرَٰطٌ مُّسْتَقِيمٌ",
           "ref": "36:61",
           "form": "Imperativ Form I",
-          "note": "Imperativ mit Konsonantencluster am Anfang erhaelt Alif Wasla"
+          "note": "Imperativ mit Konsonantencluster am Anfang erhält Alif Wasla"
         },
         {
           "word": "فَٱحْكُم",
@@ -1865,7 +1869,7 @@
           "context": "سَمَّٰعُونَ لِلْكَذِبِ أَكَّٰلُونَ لِلسُّحْتِ فَإِن جَآءُوكَ فَٱحْكُم بَيْنَهُمْ أَوْ أَعْرِضْ عَنْهُمْ وَإِن تُعْرِضْ عَنْهُمْ فَلَن يَضُرُّوكَ شَيْـًٔا وَإِنْ حَكَمْتَ فَٱحْكُم بَيْنَهُم بِٱلْقِسْطِ إِنَّ ٱللَّهَ يُحِبُّ ٱلْمُقْسِطِينَ",
           "ref": "5:42",
           "form": "Imperativ Form I",
-          "note": "Imperativ mit Konsonantencluster am Anfang erhaelt Alif Wasla"
+          "note": "Imperativ mit Konsonantencluster am Anfang erhält Alif Wasla"
         },
         {
           "word": "فَٱدْعُوهُ",
@@ -1873,7 +1877,7 @@
           "context": "وَلِلَّهِ ٱلْأَسْمَآءُ ٱلْحُسْنَىٰ فَٱدْعُوهُ بِهَا وَذَرُوا۟ ٱلَّذِينَ يُلْحِدُونَ فِىٓ أَسْمَٰٓئِهِۦ سَيُجْزَوْنَ مَا كَانُوا۟ يَعْمَلُونَ",
           "ref": "7:180",
           "form": "Imperativ Form I",
-          "note": "Imperativ mit Konsonantencluster am Anfang erhaelt Alif Wasla"
+          "note": "Imperativ mit Konsonantencluster am Anfang erhält Alif Wasla"
         },
         {
           "word": "فَٱمْسَحُوا",
@@ -1881,7 +1885,7 @@
           "context": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَقْرَبُوا۟ ٱلصَّلَوٰةَ وَأَنتُمْ سُكَٰرَىٰ حَتَّىٰ تَعْلَمُوا۟ مَا تَقُولُونَ وَلَا جُنُبًا إِلَّا عَابِرِى سَبِيلٍ حَتَّىٰ تَغْتَسِلُوا۟ وَإِن كُنتُم مَّرْضَىٰٓ أَوْ عَلَىٰ سَفَرٍ أَوْ جَآءَ أَحَدٌ مِّنكُم مِّنَ ٱلْغَآئِطِ أَوْ لَٰمَسْتُمُ ٱلنِّسَآءَ فَلَمْ تَجِدُوا۟ مَآءً فَتَيَمَّمُوا۟ صَعِيدًا طَيِّبًا فَٱمْسَحُوا۟ بِوُجُوهِكُمْ وَأَيْدِيكُمْ إِنَّ ٱللَّهَ كَانَ عَفُوًّا غَفُورًا",
           "ref": "4:43",
           "form": "Imperativ Form I",
-          "note": "Imperativ mit Konsonantencluster am Anfang erhaelt Alif Wasla"
+          "note": "Imperativ mit Konsonantencluster am Anfang erhält Alif Wasla"
         },
         {
           "word": "ٱعْمَلُوا",
@@ -1889,7 +1893,7 @@
           "context": "يَعْمَلُونَ لَهُۥ مَا يَشَآءُ مِن مَّحَٰرِيبَ وَتَمَٰثِيلَ وَجِفَانٍ كَٱلْجَوَابِ وَقُدُورٍ رَّاسِيَٰتٍ ٱعْمَلُوٓا۟ ءَالَ دَاوُۥدَ شُكْرًا وَقَلِيلٌ مِّنْ عِبَادِىَ ٱلشَّكُورُ",
           "ref": "34:13",
           "form": "Imperativ Form I",
-          "note": "Imperativ mit Konsonantencluster am Anfang erhaelt Alif Wasla"
+          "note": "Imperativ mit Konsonantencluster am Anfang erhält Alif Wasla"
         },
         {
           "word": "ٱدْعُ",
@@ -1897,7 +1901,7 @@
           "context": "قَالُوا۟ ٱدْعُ لَنَا رَبَّكَ يُبَيِّن لَّنَا مَا هِىَ قَالَ إِنَّهُۥ يَقُولُ إِنَّهَا بَقَرَةٌ لَّا فَارِضٌ وَلَا بِكْرٌ عَوَانٌۢ بَيْنَ ذَٰلِكَ فَٱفْعَلُوا۟ مَا تُؤْمَرُونَ",
           "ref": "2:68",
           "form": "Imperativ Form I",
-          "note": "Imperativ mit Konsonantencluster am Anfang erhaelt Alif Wasla"
+          "note": "Imperativ mit Konsonantencluster am Anfang erhält Alif Wasla"
         },
         {
           "word": "فَٱفْسَحُوا",
@@ -1905,7 +1909,7 @@
           "context": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِذَا قِيلَ لَكُمْ تَفَسَّحُوا۟ فِى ٱلْمَجَٰلِسِ فَٱفْسَحُوا۟ يَفْسَحِ ٱللَّهُ لَكُمْ وَإِذَا قِيلَ ٱنشُزُوا۟ فَٱنشُزُوا۟ يَرْفَعِ ٱللَّهُ ٱلَّذِينَ ءَامَنُوا۟ مِنكُمْ وَٱلَّذِينَ أُوتُوا۟ ٱلْعِلْمَ دَرَجَٰتٍ وَٱللَّهُ بِمَا تَعْمَلُونَ خَبِيرٌ",
           "ref": "58:11",
           "form": "Imperativ Form I",
-          "note": "Imperativ mit Konsonantencluster am Anfang erhaelt Alif Wasla"
+          "note": "Imperativ mit Konsonantencluster am Anfang erhält Alif Wasla"
         },
         {
           "word": "وَٱصْفَحُوا",
@@ -1913,7 +1917,7 @@
           "context": "وَدَّ كَثِيرٌ مِّنْ أَهْلِ ٱلْكِتَٰبِ لَوْ يَرُدُّونَكُم مِّنۢ بَعْدِ إِيمَٰنِكُمْ كُفَّارًا حَسَدًا مِّنْ عِندِ أَنفُسِهِم مِّنۢ بَعْدِ مَا تَبَيَّنَ لَهُمُ ٱلْحَقُّ فَٱعْفُوا۟ وَٱصْفَحُوا۟ حَتَّىٰ يَأْتِىَ ٱللَّهُ بِأَمْرِهِۦٓ إِنَّ ٱللَّهَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
           "ref": "2:109",
           "form": "Imperativ Form I",
-          "note": "Imperativ mit Konsonantencluster am Anfang erhaelt Alif Wasla"
+          "note": "Imperativ mit Konsonantencluster am Anfang erhält Alif Wasla"
         },
         {
           "word": "وَٱجْنُبْنِى",
@@ -1921,7 +1925,7 @@
           "context": "وَإِذْ قَالَ إِبْرَٰهِيمُ رَبِّ ٱجْعَلْ هَٰذَا ٱلْبَلَدَ ءَامِنًا وَٱجْنُبْنِى وَبَنِىَّ أَن نَّعْبُدَ ٱلْأَصْنَامَ",
           "ref": "14:35",
           "form": "Imperativ Form I",
-          "note": "Imperativ mit Konsonantencluster am Anfang erhaelt Alif Wasla"
+          "note": "Imperativ mit Konsonantencluster am Anfang erhält Alif Wasla"
         },
         {
           "word": "فَٱعْمَلْ",
@@ -1929,7 +1933,7 @@
           "context": "وَقَالُوا۟ قُلُوبُنَا فِىٓ أَكِنَّةٍ مِّمَّا تَدْعُونَآ إِلَيْهِ وَفِىٓ ءَاذَانِنَا وَقْرٌ وَمِنۢ بَيْنِنَا وَبَيْنِكَ حِجَابٌ فَٱعْمَلْ إِنَّنَا عَٰمِلُونَ",
           "ref": "41:5",
           "form": "Imperativ Form I",
-          "note": "Imperativ mit Konsonantencluster am Anfang erhaelt Alif Wasla"
+          "note": "Imperativ mit Konsonantencluster am Anfang erhält Alif Wasla"
         },
         {
           "word": "فَٱنفِرُوا",
@@ -1937,7 +1941,7 @@
           "context": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ خُذُوا۟ حِذْرَكُمْ فَٱنفِرُوا۟ ثُبَاتٍ أَوِ ٱنفِرُوا۟ جَمِيعًا",
           "ref": "4:71",
           "form": "Imperativ Form I",
-          "note": "Imperativ mit Konsonantencluster am Anfang erhaelt Alif Wasla"
+          "note": "Imperativ mit Konsonantencluster am Anfang erhält Alif Wasla"
         },
         {
           "word": "وَٱنظُرْنَا",
@@ -1945,7 +1949,7 @@
           "context": "مِّنَ ٱلَّذِينَ هَادُوا۟ يُحَرِّفُونَ ٱلْكَلِمَ عَن مَّوَاضِعِهِۦ وَيَقُولُونَ سَمِعْنَا وَعَصَيْنَا وَٱسْمَعْ غَيْرَ مُسْمَعٍ وَرَٰعِنَا لَيًّۢا بِأَلْسِنَتِهِمْ وَطَعْنًا فِى ٱلدِّينِ وَلَوْ أَنَّهُمْ قَالُوا۟ سَمِعْنَا وَأَطَعْنَا وَٱسْمَعْ وَٱنظُرْنَا لَكَانَ خَيْرًا لَّهُمْ وَأَقْوَمَ وَلَٰكِن لَّعَنَهُمُ ٱللَّهُ بِكُفْرِهِمْ فَلَا يُؤْمِنُونَ إِلَّا قَلِيلًا",
           "ref": "4:46",
           "form": "Imperativ Form I",
-          "note": "Imperativ mit Konsonantencluster am Anfang erhaelt Alif Wasla"
+          "note": "Imperativ mit Konsonantencluster am Anfang erhält Alif Wasla"
         },
         {
           "word": "ٱمْكُثُوا",
@@ -1953,7 +1957,7 @@
           "context": "إِذْ رَءَا نَارًا فَقَالَ لِأَهْلِهِ ٱمْكُثُوٓا۟ إِنِّىٓ ءَانَسْتُ نَارًا لَّعَلِّىٓ ءَاتِيكُم مِّنْهَا بِقَبَسٍ أَوْ أَجِدُ عَلَى ٱلنَّارِ هُدًى",
           "ref": "20:10",
           "form": "Imperativ Form I",
-          "note": "Imperativ mit Konsonantencluster am Anfang erhaelt Alif Wasla"
+          "note": "Imperativ mit Konsonantencluster am Anfang erhält Alif Wasla"
         },
         {
           "word": "وَٱعْلَمُوا",
@@ -1961,7 +1965,7 @@
           "context": "ٱلشَّهْرُ ٱلْحَرَامُ بِٱلشَّهْرِ ٱلْحَرَامِ وَٱلْحُرُمَٰتُ قِصَاصٌ فَمَنِ ٱعْتَدَىٰ عَلَيْكُمْ فَٱعْتَدُوا۟ عَلَيْهِ بِمِثْلِ مَا ٱعْتَدَىٰ عَلَيْكُمْ وَٱتَّقُوا۟ ٱللَّهَ وَٱعْلَمُوٓا۟ أَنَّ ٱللَّهَ مَعَ ٱلْمُتَّقِينَ",
           "ref": "2:194",
           "form": "Imperativ Form I",
-          "note": "Imperativ mit Konsonantencluster am Anfang erhaelt Alif Wasla"
+          "note": "Imperativ mit Konsonantencluster am Anfang erhält Alif Wasla"
         },
         {
           "word": "وَٱمْضُوا",
@@ -1969,7 +1973,7 @@
           "context": "فَأَسْرِ بِأَهْلِكَ بِقِطْعٍ مِّنَ ٱلَّيْلِ وَٱتَّبِعْ أَدْبَٰرَهُمْ وَلَا يَلْتَفِتْ مِنكُمْ أَحَدٌ وَٱمْضُوا۟ حَيْثُ تُؤْمَرُونَ",
           "ref": "15:65",
           "form": "Imperativ Form I",
-          "note": "Imperativ mit Konsonantencluster am Anfang erhaelt Alif Wasla"
+          "note": "Imperativ mit Konsonantencluster am Anfang erhält Alif Wasla"
         },
         {
           "word": "ٱئْتِنَا",
@@ -1977,7 +1981,7 @@
           "context": "قُلْ أَنَدْعُوا۟ مِن دُونِ ٱللَّهِ مَا لَا يَنفَعُنَا وَلَا يَضُرُّنَا وَنُرَدُّ عَلَىٰٓ أَعْقَابِنَا بَعْدَ إِذْ هَدَىٰنَا ٱللَّهُ كَٱلَّذِى ٱسْتَهْوَتْهُ ٱلشَّيَٰطِينُ فِى ٱلْأَرْضِ حَيْرَانَ لَهُۥٓ أَصْحَٰبٌ يَدْعُونَهُۥٓ إِلَى ٱلْهُدَى ٱئْتِنَا قُلْ إِنَّ هُدَى ٱللَّهِ هُوَ ٱلْهُدَىٰ وَأُمِرْنَا لِنُسْلِمَ لِرَبِّ ٱلْعَٰلَمِينَ",
           "ref": "6:71",
           "form": "Imperativ Form I",
-          "note": "Imperativ mit Konsonantencluster am Anfang erhaelt Alif Wasla"
+          "note": "Imperativ mit Konsonantencluster am Anfang erhält Alif Wasla"
         },
         {
           "word": "وَٱضْرِبُوا",
@@ -1985,7 +1989,7 @@
           "context": "إِذْ يُوحِى رَبُّكَ إِلَى ٱلْمَلَٰٓئِكَةِ أَنِّى مَعَكُمْ فَثَبِّتُوا۟ ٱلَّذِينَ ءَامَنُوا۟ سَأُلْقِى فِى قُلُوبِ ٱلَّذِينَ كَفَرُوا۟ ٱلرُّعْبَ فَٱضْرِبُوا۟ فَوْقَ ٱلْأَعْنَاقِ وَٱضْرِبُوا۟ مِنْهُمْ كُلَّ بَنَانٍ",
           "ref": "8:12",
           "form": "Imperativ Form I",
-          "note": "Imperativ mit Konsonantencluster am Anfang erhaelt Alif Wasla"
+          "note": "Imperativ mit Konsonantencluster am Anfang erhält Alif Wasla"
         },
         {
           "word": "ٱقْعُدُوا",
@@ -1993,7 +1997,7 @@
           "context": "وَلَوْ أَرَادُوا۟ ٱلْخُرُوجَ لَأَعَدُّوا۟ لَهُۥ عُدَّةً وَلَٰكِن كَرِهَ ٱللَّهُ ٱنۢبِعَاثَهُمْ فَثَبَّطَهُمْ وَقِيلَ ٱقْعُدُوا۟ مَعَ ٱلْقَٰعِدِينَ",
           "ref": "9:46",
           "form": "Imperativ Form I",
-          "note": "Imperativ mit Konsonantencluster am Anfang erhaelt Alif Wasla"
+          "note": "Imperativ mit Konsonantencluster am Anfang erhält Alif Wasla"
         },
         {
           "word": "فَٱنفُذُوا",
@@ -2001,7 +2005,7 @@
           "context": "يَٰمَعْشَرَ ٱلْجِنِّ وَٱلْإِنسِ إِنِ ٱسْتَطَعْتُمْ أَن تَنفُذُوا۟ مِنْ أَقْطَارِ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ فَٱنفُذُوا۟ لَا تَنفُذُونَ إِلَّا بِسُلْطَٰنٍ",
           "ref": "55:33",
           "form": "Imperativ Form I",
-          "note": "Imperativ mit Konsonantencluster am Anfang erhaelt Alif Wasla"
+          "note": "Imperativ mit Konsonantencluster am Anfang erhält Alif Wasla"
         },
         {
           "word": "فَٱعْلَمُوا",
@@ -2009,7 +2013,7 @@
           "context": "فَإِن زَلَلْتُم مِّنۢ بَعْدِ مَا جَآءَتْكُمُ ٱلْبَيِّنَٰتُ فَٱعْلَمُوٓا۟ أَنَّ ٱللَّهَ عَزِيزٌ حَكِيمٌ",
           "ref": "2:209",
           "form": "Imperativ Form I",
-          "note": "Imperativ mit Konsonantencluster am Anfang erhaelt Alif Wasla"
+          "note": "Imperativ mit Konsonantencluster am Anfang erhält Alif Wasla"
         },
         {
           "word": "فَٱصْفَحِ",
@@ -2017,7 +2021,7 @@
           "context": "وَمَا خَلَقْنَا ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ وَمَا بَيْنَهُمَآ إِلَّا بِٱلْحَقِّ وَإِنَّ ٱلسَّاعَةَ لَـَٔاتِيَةٌ فَٱصْفَحِ ٱلصَّفْحَ ٱلْجَمِيلَ",
           "ref": "15:85",
           "form": "Imperativ Form I",
-          "note": "Imperativ mit Konsonantencluster am Anfang erhaelt Alif Wasla"
+          "note": "Imperativ mit Konsonantencluster am Anfang erhält Alif Wasla"
         },
         {
           "word": "ٱجْعَلْنِى",
@@ -2025,7 +2029,7 @@
           "context": "قَالَ ٱجْعَلْنِى عَلَىٰ خَزَآئِنِ ٱلْأَرْضِ إِنِّى حَفِيظٌ عَلِيمٌ",
           "ref": "12:55",
           "form": "Imperativ Form I",
-          "note": "Imperativ mit Konsonantencluster am Anfang erhaelt Alif Wasla"
+          "note": "Imperativ mit Konsonantencluster am Anfang erhält Alif Wasla"
         },
         {
           "word": "ٱئْذَن",
@@ -2033,7 +2037,7 @@
           "context": "وَمِنْهُم مَّن يَقُولُ ٱئْذَن لِّى وَلَا تَفْتِنِّىٓ أَلَا فِى ٱلْفِتْنَةِ سَقَطُوا۟ وَإِنَّ جَهَنَّمَ لَمُحِيطَةٌۢ بِٱلْكَٰفِرِينَ",
           "ref": "9:49",
           "form": "Imperativ Form I",
-          "note": "Imperativ mit Konsonantencluster am Anfang erhaelt Alif Wasla"
+          "note": "Imperativ mit Konsonantencluster am Anfang erhält Alif Wasla"
         },
         {
           "word": "ٱجْعَلْ",
@@ -2041,7 +2045,7 @@
           "context": "وَإِذْ قَالَ إِبْرَٰهِـۧمُ رَبِّ ٱجْعَلْ هَٰذَا بَلَدًا ءَامِنًا وَٱرْزُقْ أَهْلَهُۥ مِنَ ٱلثَّمَرَٰتِ مَنْ ءَامَنَ مِنْهُم بِٱللَّهِ وَٱلْيَوْمِ ٱلْـَٔاخِرِ قَالَ وَمَن كَفَرَ فَأُمَتِّعُهُۥ قَلِيلًا ثُمَّ أَضْطَرُّهُۥٓ إِلَىٰ عَذَابِ ٱلنَّارِ وَبِئْسَ ٱلْمَصِيرُ",
           "ref": "2:126",
           "form": "Imperativ Form I",
-          "note": "Imperativ mit Konsonantencluster am Anfang erhaelt Alif Wasla"
+          "note": "Imperativ mit Konsonantencluster am Anfang erhält Alif Wasla"
         },
         {
           "word": "ٱرْجِعِ",
@@ -2049,7 +2053,7 @@
           "context": "ثُمَّ ٱرْجِعِ ٱلْبَصَرَ كَرَّتَيْنِ يَنقَلِبْ إِلَيْكَ ٱلْبَصَرُ خَاسِئًا وَهُوَ حَسِيرٌ",
           "ref": "67:4",
           "form": "Imperativ Form I",
-          "note": "Imperativ mit Konsonantencluster am Anfang erhaelt Alif Wasla"
+          "note": "Imperativ mit Konsonantencluster am Anfang erhält Alif Wasla"
         },
         {
           "word": "وَٱرْزُقُوهُمْ",
@@ -2057,7 +2061,7 @@
           "context": "وَلَا تُؤْتُوا۟ ٱلسُّفَهَآءَ أَمْوَٰلَكُمُ ٱلَّتِى جَعَلَ ٱللَّهُ لَكُمْ قِيَٰمًا وَٱرْزُقُوهُمْ فِيهَا وَٱكْسُوهُمْ وَقُولُوا۟ لَهُمْ قَوْلًا مَّعْرُوفًا",
           "ref": "4:5",
           "form": "Imperativ Form I",
-          "note": "Imperativ mit Konsonantencluster am Anfang erhaelt Alif Wasla"
+          "note": "Imperativ mit Konsonantencluster am Anfang erhält Alif Wasla"
         },
         {
           "word": "ٱدْعُوا",
@@ -2065,7 +2069,7 @@
           "context": "ٱدْعُوا۟ رَبَّكُمْ تَضَرُّعًا وَخُفْيَةً إِنَّهُۥ لَا يُحِبُّ ٱلْمُعْتَدِينَ",
           "ref": "7:55",
           "form": "Imperativ Form I",
-          "note": "Imperativ mit Konsonantencluster am Anfang erhaelt Alif Wasla"
+          "note": "Imperativ mit Konsonantencluster am Anfang erhält Alif Wasla"
         },
         {
           "word": "ٱشْكُرْ",
@@ -2073,7 +2077,7 @@
           "context": "وَلَقَدْ ءَاتَيْنَا لُقْمَٰنَ ٱلْحِكْمَةَ أَنِ ٱشْكُرْ لِلَّهِ وَمَن يَشْكُرْ فَإِنَّمَا يَشْكُرُ لِنَفْسِهِۦ وَمَن كَفَرَ فَإِنَّ ٱللَّهَ غَنِىٌّ حَمِيدٌ",
           "ref": "31:12",
           "form": "Imperativ Form I",
-          "note": "Imperativ mit Konsonantencluster am Anfang erhaelt Alif Wasla"
+          "note": "Imperativ mit Konsonantencluster am Anfang erhält Alif Wasla"
         },
         {
           "word": "فَٱصْبِرُوا",
@@ -2081,7 +2085,7 @@
           "context": "وَإِن كَانَ طَآئِفَةٌ مِّنكُمْ ءَامَنُوا۟ بِٱلَّذِىٓ أُرْسِلْتُ بِهِۦ وَطَآئِفَةٌ لَّمْ يُؤْمِنُوا۟ فَٱصْبِرُوا۟ حَتَّىٰ يَحْكُمَ ٱللَّهُ بَيْنَنَا وَهُوَ خَيْرُ ٱلْحَٰكِمِينَ",
           "ref": "7:87",
           "form": "Imperativ Form I",
-          "note": "Imperativ mit Konsonantencluster am Anfang erhaelt Alif Wasla"
+          "note": "Imperativ mit Konsonantencluster am Anfang erhält Alif Wasla"
         },
         {
           "word": "فَٱدْخُلُوا",
@@ -2089,7 +2093,7 @@
           "context": "فَٱدْخُلُوٓا۟ أَبْوَٰبَ جَهَنَّمَ خَٰلِدِينَ فِيهَا فَلَبِئْسَ مَثْوَى ٱلْمُتَكَبِّرِينَ",
           "ref": "16:29",
           "form": "Imperativ Form I",
-          "note": "Imperativ mit Konsonantencluster am Anfang erhaelt Alif Wasla"
+          "note": "Imperativ mit Konsonantencluster am Anfang erhält Alif Wasla"
         },
         {
           "word": "وَٱرْحَمْنَا",
@@ -2097,7 +2101,7 @@
           "context": "وَٱخْتَارَ مُوسَىٰ قَوْمَهُۥ سَبْعِينَ رَجُلًا لِّمِيقَٰتِنَا فَلَمَّآ أَخَذَتْهُمُ ٱلرَّجْفَةُ قَالَ رَبِّ لَوْ شِئْتَ أَهْلَكْتَهُم مِّن قَبْلُ وَإِيَّٰىَ أَتُهْلِكُنَا بِمَا فَعَلَ ٱلسُّفَهَآءُ مِنَّآ إِنْ هِىَ إِلَّا فِتْنَتُكَ تُضِلُّ بِهَا مَن تَشَآءُ وَتَهْدِى مَن تَشَآءُ أَنتَ وَلِيُّنَا فَٱغْفِرْ لَنَا وَٱرْحَمْنَا وَأَنتَ خَيْرُ ٱلْغَٰفِرِينَ",
           "ref": "7:155",
           "form": "Imperativ Form I",
-          "note": "Imperativ mit Konsonantencluster am Anfang erhaelt Alif Wasla"
+          "note": "Imperativ mit Konsonantencluster am Anfang erhält Alif Wasla"
         },
         {
           "word": "ٱهْبِطَا",
@@ -2105,7 +2109,7 @@
           "context": "قَالَ ٱهْبِطَا مِنْهَا جَمِيعًۢا بَعْضُكُمْ لِبَعْضٍ عَدُوٌّ فَإِمَّا يَأْتِيَنَّكُم مِّنِّى هُدًى فَمَنِ ٱتَّبَعَ هُدَاىَ فَلَا يَضِلُّ وَلَا يَشْقَىٰ",
           "ref": "20:123",
           "form": "Imperativ Form I",
-          "note": "Imperativ mit Konsonantencluster am Anfang erhaelt Alif Wasla"
+          "note": "Imperativ mit Konsonantencluster am Anfang erhält Alif Wasla"
         },
         {
           "word": "ٱرْكَب",
@@ -2113,14 +2117,14 @@
           "context": "وَهِىَ تَجْرِى بِهِمْ فِى مَوْجٍ كَٱلْجِبَالِ وَنَادَىٰ نُوحٌ ٱبْنَهُۥ وَكَانَ فِى مَعْزِلٍ يَٰبُنَىَّ ٱرْكَب مَّعَنَا وَلَا تَكُن مَّعَ ٱلْكَٰفِرِينَ",
           "ref": "11:42",
           "form": "Imperativ Form I",
-          "note": "Imperativ mit Konsonantencluster am Anfang erhaelt Alif Wasla"
+          "note": "Imperativ mit Konsonantencluster am Anfang erhält Alif Wasla"
         }
       ]
     },
     {
       "id": "nouns",
       "title": "Nomen mit Wasla",
-      "explanation": "Einige haeufige Nomen beginnen mit Alif Wasla: اسم، ابن، ابنة، امرأة، اثنان، اثنتان.",
+      "explanation": "Einige häufige Nomen beginnen mit Alif Wasla: اسم، ابن، ابنة، امرأة، اثنان، اثنتان.",
       "exercises": [
         {
           "word": "وَٱمْرَأَةً",

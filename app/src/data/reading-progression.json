@@ -1,7 +1,10 @@
 {
   "meta": {
     "title": "Leseprogression — Vom Buchstaben zum Vers",
-    "description": "Stufenweiser Aufbau der Lesefaehigkeit: Silbe → Wort → Phrase → Vers. Alle Eintraege verwenden ausschliesslich authentischen qur'anischen Text."
+    "description": "Stufenweiser Aufbau der Lesefaehigkeit: Silbe → Wort → Phrase → Vers. Alle Eintraege verwenden ausschließlich authentischen qur'anischen Text.",
+    "sources": [
+      { "name": "Quranic Arabic Corpus", "url": "https://corpus.quran.com/" }
+    ]
   },
   "stages": [
     {
@@ -27,7 +30,7 @@
           "parts": ["ا", "ل", "ل", "ه"],
           "partLabels": ["Alif (verbindet NICHT links)", "Lam (verbindet rechts+links)", "Lam (verbindet rechts+links)", "Ha (endet)"],
           "difficulty": 1,
-          "parsingNote": "Alif verbindet sich nicht nach links → der naechste Buchstabe (Lam) beginnt eine neue Verbindungsgruppe. Alif bricht die Kette."
+          "parsingNote": "Alif verbindet sich nicht nach links → der nächste Buchstabe (Lam) beginnt eine neue Verbindungsgruppe. Alif bricht die Kette."
         },
         {
           "arabic": "رب",
@@ -62,7 +65,7 @@
         {
           "arabic": "الدين",
           "transliteration": "ad-diin",
-          "meaning": "die Lebensweise / der Tag",
+          "meaning": "die Lebensweise / die Vergeltung",
           "ref": "1:4",
           "parts": ["ا", "ل", "د", "ي", "ن"],
           "partLabels": ["Alif (Nicht-Verbinder)", "Lam (Verbinder)", "Dal (Nicht-Verbinder → bricht)", "Ya (neue Kette)", "Nun (endet)"],
@@ -93,8 +96,8 @@
     },
     {
       "id": "R1",
-      "title": "Silben und einfache Woerter",
-      "description": "2-3 Buchstaben-Woerter aus dem Quran lesen",
+      "title": "Silben und einfache Wörter",
+      "description": "2-3 Buchstaben-Wörter aus dem Quran lesen",
       "exercises": [
         {
           "arabic": "رَبّ",
@@ -254,7 +257,7 @@
         {
           "arabic": "صَمَدٌ",
           "transliteration": "samad",
-          "meaning": "Bestaendiger",
+          "meaning": "Beständiger",
           "ref": "112:2",
           "syllables": [
             "صَ",
@@ -364,7 +367,7 @@
         {
           "arabic": "مَلِكِ",
           "transliteration": "malik",
-          "meaning": "Koenig",
+          "meaning": "König",
           "ref": "114:2",
           "syllables": [
             "مَ",
@@ -445,8 +448,8 @@
     },
     {
       "id": "R2",
-      "title": "Woerter mit Affixen",
-      "description": "Praefix al-, Pronominalsuffixe, Konjunktionen erkennen",
+      "title": "Wörter mit Affixen",
+      "description": "Präfix al-, Pronominalsuffixe, Konjunktionen erkennen",
       "exercises": [
         {
           "arabic": "الْكِتَابُ",
@@ -544,7 +547,7 @@
             "ُ"
           ],
           "partLabels": [
-            "1.Pl-Praefix",
+            "1.Pl-Präfix",
             "Stamm",
             "Indikativ"
           ],
@@ -561,7 +564,7 @@
             "ُ"
           ],
           "partLabels": [
-            "1.Pl-Praefix",
+            "1.Pl-Präfix",
             "Stamm (X)",
             "Indikativ"
           ],
@@ -578,7 +581,7 @@
             "نَا"
           ],
           "partLabels": [
-            "Imperativ-Praefix",
+            "Imperativ-Präfix",
             "Stamm",
             "1.Pl-Suffix"
           ],
@@ -643,7 +646,7 @@
             "هِمْ"
           ],
           "partLabels": [
-            "Praeposition",
+            "Präposition",
             "3.Pl.m-Suffix"
           ],
           "difficulty": 2
@@ -693,7 +696,7 @@
             "ِ"
           ],
           "partLabels": [
-            "Praeposition",
+            "Präposition",
             "Stamm",
             "Genitiv"
           ],
@@ -702,7 +705,7 @@
         {
           "arabic": "لِلَّهِ",
           "transliteration": "lillaahi",
-          "meaning": "fuer Gott / Gottes",
+          "meaning": "für Gott / Gottes",
           "ref": "1:2",
           "parts": [
             "لِ",
@@ -710,7 +713,7 @@
             "ِ"
           ],
           "partLabels": [
-            "Praeposition",
+            "Präposition",
             "Stamm",
             "Genitiv"
           ],
@@ -751,7 +754,7 @@
         {
           "arabic": "الْخَنَّاسِ",
           "transliteration": "al-khannaasi",
-          "meaning": "des Zurueckweichenden",
+          "meaning": "des Zurückweichenden",
           "ref": "114:4",
           "parts": [
             "ال",
@@ -783,7 +786,7 @@
         {
           "arabic": "الْكَوْثَرَ",
           "transliteration": "al-kawthara",
-          "meaning": "die Fuelle",
+          "meaning": "die Fülle",
           "ref": "108:1",
           "parts": [
             "ال",
@@ -1070,7 +1073,7 @@
         {
           "arabic": "اللَّهُ الصَّمَدُ",
           "transliteration": "allaahu s-samadu",
-          "meaning": "Gott, der Bestaendige",
+          "meaning": "Gott, der Beständige",
           "ref": "112:2",
           "words": [
             "اللَّهُ",
@@ -1078,7 +1081,7 @@
           ],
           "wordMeanings": [
             "Gott",
-            "der Bestaendige"
+            "der Beständige"
           ],
           "difficulty": 3
         },
@@ -1179,14 +1182,14 @@
         {
           "arabic": "مَلِكِ النَّاسِ",
           "transliteration": "maliki n-naasi",
-          "meaning": "Koenig der Menschen",
+          "meaning": "König der Menschen",
           "ref": "114:2",
           "words": [
             "مَلِكِ",
             "النَّاسِ"
           ],
           "wordMeanings": [
-            "Koenig",
+            "König",
             "der Menschen"
           ],
           "difficulty": 3
@@ -1245,7 +1248,7 @@
     {
       "id": "R4",
       "title": "Kurze Verse",
-      "description": "Vollstaendige kurze Verse aus den letzten Suren lesen",
+      "description": "Vollständige kurze Verse aus den letzten Suren lesen",
       "exercises": [
         {
           "arabic": "قُلْ هُوَ اللَّهُ أَحَدٌ",
@@ -1269,7 +1272,7 @@
         {
           "arabic": "اللَّهُ الصَّمَدُ",
           "transliteration": "allaahu s-samadu",
-          "meaning": "Gott, der Bestaendige",
+          "meaning": "Gott, der Beständige",
           "ref": "112:2",
           "words": [
             "اللَّهُ",
@@ -1277,7 +1280,7 @@
           ],
           "wordMeanings": [
             "Gott",
-            "der Bestaendige"
+            "der Beständige"
           ],
           "difficulty": 4
         },
@@ -1423,14 +1426,14 @@
         {
           "arabic": "مَلِكِ النَّاسِ",
           "transliteration": "maliki n-naasi",
-          "meaning": "Koenig der Menschen",
+          "meaning": "König der Menschen",
           "ref": "114:2",
           "words": [
             "مَلِكِ",
             "النَّاسِ"
           ],
           "wordMeanings": [
-            "Koenig",
+            "König",
             "der Menschen"
           ],
           "difficulty": 4
@@ -1453,7 +1456,7 @@
         {
           "arabic": "إِنَّا أَعْطَيْنَاكَ الْكَوْثَرَ",
           "transliteration": "innaa a'taynaaka l-kawthara",
-          "meaning": "Wir haben dir die Fuelle gegeben",
+          "meaning": "Wir haben dir die Fülle gegeben",
           "ref": "108:1",
           "words": [
             "إِنَّا",
@@ -1463,7 +1466,7 @@
           "wordMeanings": [
             "wahrlich wir",
             "wir haben dir gegeben",
-            "die Fuelle"
+            "die Fülle"
           ],
           "difficulty": 4
         },
@@ -1540,7 +1543,7 @@
         {
           "arabic": "تَبَّتْ يَدَا أَبِي لَهَبٍ وَتَبَّ",
           "transliteration": "tabbat yadaa abii lahabin wa-tabb",
-          "meaning": "Zugrunde gehen die Haende des Vaters der Flamme, und er geht zugrunde",
+          "meaning": "Zugrunde gehen die Hände des Vaters der Flamme, und er geht zugrunde",
           "ref": "111:1",
           "words": [
             "تَبَّتْ",
@@ -1551,7 +1554,7 @@
           ],
           "wordMeanings": [
             "zugrunde gehen",
-            "die beiden Haende",
+            "die beiden Hände",
             "des Vaters",
             "der Flamme",
             "und er geht zugrunde"
@@ -1562,7 +1565,7 @@
     },
     {
       "id": "R5",
-      "title": "Laengere Verse",
+      "title": "Längere Verse",
       "description": "Mittellange Verse mit komplexerer Syntax",
       "exercises": [
         {
@@ -1587,7 +1590,7 @@
         {
           "arabic": "الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ",
           "transliteration": "al-hamdu lillaahi rabbi l-'aalamiina",
-          "meaning": "Das Lob gehoert Gott, dem Herrn der Welten",
+          "meaning": "Das Lob gehört Gott, dem Herrn der Welten",
           "ref": "1:2",
           "words": [
             "الْحَمْدُ",
@@ -1703,7 +1706,7 @@
         {
           "arabic": "مِنْ شَرِّ الْوَسْوَاسِ الْخَنَّاسِ",
           "transliteration": "min sharri l-waswaasi l-khannaasi",
-          "meaning": "Vor dem Uebel des zurueckweichenden Einfluesterers",
+          "meaning": "Vor dem Uebel des zurückweichenden Einfluesterers",
           "ref": "114:4",
           "words": [
             "مِنْ",
@@ -1715,7 +1718,7 @@
             "vor",
             "dem Uebel",
             "des Einfluesterers",
-            "des Zurueckweichenden"
+            "des Zurückweichenden"
           ],
           "difficulty": 5
         },
@@ -1852,7 +1855,7 @@
         {
           "arabic": "وَامْرَأَتُهُ حَمَّالَةَ الْحَطَبِ",
           "transliteration": "wamra'atuhu hammaalata l-hatabi",
-          "meaning": "Und seine Frau, Traegerin des Brennholzes",
+          "meaning": "Und seine Frau, Trägerin des Brennholzes",
           "ref": "111:4",
           "words": [
             "وَامْرَأَتُهُ",
@@ -1861,7 +1864,7 @@
           ],
           "wordMeanings": [
             "und seine Frau",
-            "Traegerin",
+            "Trägerin",
             "des Brennholzes"
           ],
           "difficulty": 5

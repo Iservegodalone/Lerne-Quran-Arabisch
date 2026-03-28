@@ -54,7 +54,7 @@ export default function PolysemyDrill() {
           <button onClick={startDrill} style={inactiveBtn}>Drill</button>
         </div>
         <p style={{ color: 'var(--text-secondary)', fontSize: '0.85rem', marginBottom: 16 }}>
-          Polyseme Woerter im Quran: ein Wort, mehrere Bedeutungen je nach Kontext.
+          Polyseme Wörter im Quran: ein Wort, mehrere Bedeutungen je nach Kontext.
         </p>
 
         <div style={{ display: 'flex', gap: 8, marginBottom: 16, alignItems: 'center' }}>
@@ -69,7 +69,7 @@ export default function PolysemyDrill() {
             <span style={{ color: 'var(--text-secondary)', fontSize: '0.85rem' }}>({entry.root})</span>
           </div>
           <div style={{ marginBottom: 12 }}>
-            <span style={{ fontWeight: 600, fontSize: '0.85rem', color: 'var(--text-secondary)' }}>Moegliche Bedeutungen:</span>
+            <span style={{ fontWeight: 600, fontSize: '0.85rem', color: 'var(--text-secondary)' }}>Mögliche Bedeutungen:</span>
             <div style={{ display: 'flex', flexWrap: 'wrap', gap: 6, marginTop: 4 }}>
               {entry.meanings.map((m, i) => (
                 <span key={i} style={{ background: 'rgba(45,212,191,0.1)', color: 'var(--accent-teal)', padding: '2px 10px', borderRadius: 12, fontSize: '0.85rem' }}>{m}</span>
@@ -97,8 +97,8 @@ export default function PolysemyDrill() {
   if (!drillEntry || !drillEntry.exercises?.[drillExIdx]) {
     return (
       <div style={{ padding: 40, textAlign: 'center', color: 'var(--text-muted)' }}>
-        <div style={{ marginBottom: 12 }}>Keine Uebung geladen.</div>
-        <button onClick={pickRandom} style={{ padding: '8px 20px', borderRadius: 8, border: 'none', background: 'var(--accent-teal)', color: '#fff', cursor: 'pointer' }}>Neue Uebung laden</button>
+        <div style={{ marginBottom: 12 }}>Keine Übung geladen.</div>
+        <button onClick={pickRandom} style={{ padding: '8px 20px', borderRadius: 8, border: 'none', background: 'var(--accent-teal)', color: '#fff', cursor: 'pointer' }}>Neue Übung laden</button>
       </div>
     )
   }
@@ -159,7 +159,7 @@ export default function PolysemyDrill() {
 
       {revealed && (
         <button onClick={pickRandom} style={{ ...activeBtn, marginTop: 8, width: '100%' }}>
-          Naechste Frage
+          Nächste Frage
         </button>
       )}
     </div>

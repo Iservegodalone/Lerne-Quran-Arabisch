@@ -10,19 +10,19 @@ const INLINE_EXERCISES = [
   { consonantal: '\u062E\u062A\u0645', root: '\u062E-\u062A-\u0645', prefixes: '\u2014', suffixes: '\u2014', hint: 'Drei Konsonanten', ref: '2:7', difficulty: 1 },
   // Mit Artikel
   { consonantal: '\u0627\u0644\u0643\u062A\u0628', root: '\u0643-\u062A-\u0628', prefixes: '\u0627\u0644\u0640', suffixes: '\u2014', hint: '\u0627\u0644 ist der Artikel', ref: '2:2', difficulty: 2 },
-  { consonantal: '\u0627\u0644\u0631\u062D\u0645\u0646', root: '\u0631-\u062D-\u0645', prefixes: '\u0627\u0644\u0640', suffixes: '\u2014', hint: '\u0627\u0644 ist Artikel. Das \u0646 gehoert zum Muster \u0641\u064E\u0639\u0652\u0644\u064E\u0627\u0646', ref: '1:1', difficulty: 2 },
+  { consonantal: '\u0627\u0644\u0631\u062D\u0645\u0646', root: '\u0631-\u062D-\u0645', prefixes: '\u0627\u0644\u0640', suffixes: '\u2014', hint: '\u0627\u0644 ist Artikel. Das \u0646 gehört zum Muster \u0641\u064E\u0639\u0652\u0644\u064E\u0627\u0646', ref: '1:1', difficulty: 2 },
   { consonantal: '\u0627\u0644\u0639\u0644\u0645\u064A\u0646', root: '\u0639-\u0644-\u0645', prefixes: '\u0627\u0644\u0640', suffixes: '\u064A\u0646', hint: '\u0627\u0644 ist Artikel, \u064A\u0646 ist Pluralendung', ref: '1:2', difficulty: 2 },
   { consonantal: '\u0627\u0644\u062F\u064A\u0646', root: '\u062F-\u064A-\u0646', prefixes: '\u0627\u0644\u0640', suffixes: '\u2014', hint: '\u0627\u0644 entfernen. 3 Konsonanten bleiben', ref: '1:4', difficulty: 2 },
   { consonantal: '\u0627\u0644\u0635\u0631\u0637', root: '\u0635-\u0631-\u0637', prefixes: '\u0627\u0644\u0640', suffixes: '\u2014', hint: 'Artikel entfernen', ref: '1:6', difficulty: 2 },
-  // Mit Praeposition + Artikel
-  { consonantal: '\u0628\u0627\u0644\u0644\u0647', root: '\u0627-\u0644-\u0647', prefixes: '\u0628\u0650\u0640', suffixes: '\u2014', hint: '\u0628\u0650 ist Praeposition, Rest ist Eigenname', ref: '2:8', difficulty: 2 },
-  { consonantal: '\u0641\u064A\u0647', root: '\u2014', prefixes: '\u0641\u064A (Praeposition)', suffixes: '\u0647 (Suffix)', hint: 'Partikeln haben keine Wurzel', ref: '2:2', difficulty: 2 },
-  { consonantal: '\u0639\u0644\u064A\u0647\u0645', root: '\u2014', prefixes: '\u0639\u0644\u0649 (Praeposition)', suffixes: '\u0647\u0645 (Suffix)', hint: 'Praeposition + Pronominalsuffix. Keine Wurzel', ref: '1:7', difficulty: 2 },
-  // Mit Imperfekt-Praefix
-  { consonantal: '\u064A\u0639\u0644\u0645\u0648\u0646', root: '\u0639-\u0644-\u0645', prefixes: '\u064A\u0640', suffixes: '\u0648\u0646', hint: '\u064A ist Imperfekt-Praefix 3. Person. \u0648\u0646 ist mask. Plural', ref: '2:13', difficulty: 3 },
-  { consonantal: '\u062A\u0624\u0645\u0646\u0648\u0646', root: '\u0623-\u0645-\u0646', prefixes: '\u062A\u0640', suffixes: '\u0648\u0646', hint: '\u062A ist Imperfekt-Praefix. \u0624 ist Hamza auf Waw (Form IV)', ref: '2:3', difficulty: 3 },
-  { consonantal: '\u0646\u0633\u062A\u0639\u064A\u0646', root: '\u0639-\u0648-\u0646', prefixes: '\u0646\u0640 + \u0633\u062A (Form X)', suffixes: '\u2014', hint: '\u0646 = 1pl Praefix. \u0633\u062A = Form X Infix. Wurzel ist schwach (Waw)', ref: '1:5', difficulty: 4 },
-  { consonantal: '\u064A\u0646\u0641\u0642\u0648\u0646', root: '\u0646-\u0641-\u0642', prefixes: '\u064A\u0640', suffixes: '\u0648\u0646', hint: 'Form IV (\u0623\u064E\u0646\u0652\u0641\u064E\u0642\u064E). \u064A ist Praefix', ref: '2:3', difficulty: 3 },
+  // Mit Präposition + Artikel
+  { consonantal: '\u0628\u0627\u0644\u0644\u0647', root: '\u0627-\u0644-\u0647', prefixes: '\u0628\u0650\u0640', suffixes: '\u2014', hint: '\u0628\u0650 ist Präposition, Rest ist Eigenname', ref: '2:8', difficulty: 2 },
+  { consonantal: '\u0641\u064A\u0647', root: '\u2014', prefixes: '\u0641\u064A (Präposition)', suffixes: '\u0647 (Suffix)', hint: 'Partikeln haben keine Wurzel', ref: '2:2', difficulty: 2 },
+  { consonantal: '\u0639\u0644\u064A\u0647\u0645', root: '\u2014', prefixes: '\u0639\u0644\u0649 (Präposition)', suffixes: '\u0647\u0645 (Suffix)', hint: 'Präposition + Pronominalsuffix. Keine Wurzel', ref: '1:7', difficulty: 2 },
+  // Mit Imperfekt-Präfix
+  { consonantal: '\u064A\u0639\u0644\u0645\u0648\u0646', root: '\u0639-\u0644-\u0645', prefixes: '\u064A\u0640', suffixes: '\u0648\u0646', hint: '\u064A ist Imperfekt-Präfix 3. Person. \u0648\u0646 ist mask. Plural', ref: '2:13', difficulty: 3 },
+  { consonantal: '\u062A\u0624\u0645\u0646\u0648\u0646', root: '\u0623-\u0645-\u0646', prefixes: '\u062A\u0640', suffixes: '\u0648\u0646', hint: '\u062A ist Imperfekt-Präfix. \u0624 ist Hamza auf Waw (Form IV)', ref: '2:3', difficulty: 3 },
+  { consonantal: '\u0646\u0633\u062A\u0639\u064A\u0646', root: '\u0639-\u0648-\u0646', prefixes: '\u0646\u0640 + \u0633\u062A (Form X)', suffixes: '\u2014', hint: '\u0646 = 1pl Präfix. \u0633\u062A = Form X Infix. Wurzel ist schwach (Waw)', ref: '1:5', difficulty: 4 },
+  { consonantal: '\u064A\u0646\u0641\u0642\u0648\u0646', root: '\u0646-\u0641-\u0642', prefixes: '\u064A\u0640', suffixes: '\u0648\u0646', hint: 'Form IV (\u0623\u064E\u0646\u0652\u0641\u064E\u0642\u064E). \u064A ist Präfix', ref: '2:3', difficulty: 3 },
   // Mit Suffixen
   { consonantal: '\u0643\u062A\u0628\u0647\u0645', root: '\u0643-\u062A-\u0628', prefixes: '\u2014', suffixes: '\u0647\u0645', hint: '\u0647\u0645 ist Pronominalsuffix (ihr/ihnen)', ref: '98:3', difficulty: 3 },
   { consonantal: '\u0631\u0633\u0648\u0644\u0647', root: '\u0631-\u0633-\u0644', prefixes: '\u2014', suffixes: '\u0647', hint: '\u0647 ist Possessivsuffix. \u0648 in \u0631\u0633\u0648\u0644 ist Teil des Musters', ref: '48:29', difficulty: 3 },
@@ -34,8 +34,8 @@ const INLINE_EXERCISES = [
   { consonantal: '\u0627\u062A\u0642\u0649', root: '\u0648-\u0642-\u064A', prefixes: '\u0627\u062A (Form VIII)', suffixes: '\u2014', hint: 'Form VIII von \u0648-\u0642-\u064A. Waw assimiliert zu Ta (Idgham)', ref: '2:197', difficulty: 5 },
   // Form IV/VII/VIII/X
   { consonantal: '\u0627\u0646\u0632\u0644', root: '\u0646-\u0632-\u0644', prefixes: '\u0623 (Form IV)', suffixes: '\u2014', hint: 'Hamza am Anfang = Form IV (af\u02BFala)', ref: '2:4', difficulty: 3 },
-  { consonantal: '\u0627\u0633\u062A\u063A\u0641\u0631', root: '\u063A-\u0641-\u0631', prefixes: '\u0627\u0633\u062A (Form X)', suffixes: '\u2014', hint: '\u0627\u0633\u062A = Form X Praefix (istaf\u02BFala)', ref: '47:19', difficulty: 3 },
-  { consonantal: '\u0645\u0633\u0644\u0645\u0648\u0646', root: '\u0633-\u0644-\u0645', prefixes: '\u0645\u0640 (Partizip)', suffixes: '\u0648\u0646 (mask. Plural)', hint: '\u0645 = Partizip-Praefix (Form IV: mu-). \u0648\u0646 = Pluralendung', ref: '2:132', difficulty: 3 },
+  { consonantal: '\u0627\u0633\u062A\u063A\u0641\u0631', root: '\u063A-\u0641-\u0631', prefixes: '\u0627\u0633\u062A (Form X)', suffixes: '\u2014', hint: '\u0627\u0633\u062A = Form X Präfix (istaf\u02BFala)', ref: '47:19', difficulty: 3 },
+  { consonantal: '\u0645\u0633\u0644\u0645\u0648\u0646', root: '\u0633-\u0644-\u0645', prefixes: '\u0645\u0640 (Partizip)', suffixes: '\u0648\u0646 (mask. Plural)', hint: '\u0645 = Partizip-Präfix (Form IV: mu-). \u0648\u0646 = Pluralendung', ref: '2:132', difficulty: 3 },
   { consonantal: '\u0627\u0644\u0645\u0633\u062A\u0642\u064A\u0645', root: '\u0642-\u0648-\u0645', prefixes: '\u0627\u0644 + \u0645\u0640\u0633\u062A (Form X Partizip)', suffixes: '\u2014', hint: 'Artikel + Form X aktives Partizip. Wurzel ist hohl (\u0648)', ref: '1:6', difficulty: 5 },
   { consonantal: '\u0627\u0644\u0645\u062A\u0642\u064A\u0646', root: '\u0648-\u0642-\u064A', prefixes: '\u0627\u0644 + \u0645\u062A (Form VIII Partizip)', suffixes: '\u064A\u0646 (mask. Plural)', hint: 'Artikel + Form VIII Partizip. Doppelt schwach (\u0648 assimiliert)', ref: '2:2', difficulty: 5 },
   { consonantal: '\u064A\u062E\u0627\u062F\u0639\u0648\u0646', root: '\u062E-\u062F-\u0639', prefixes: '\u064A\u0640 (Imperfekt)', suffixes: '\u0648\u0646 (3mp)', hint: 'Form III (yu-faa\u02BFi-lu). Der Langvokal \u0627 nach \u062E ist Form-III-Marker', ref: '2:9', difficulty: 4 },
@@ -116,7 +116,7 @@ export default function RootExtractionDrill() {
 
         <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr 1fr', gap: 12, marginBottom: 16 }}>
           <div>
-            <label style={{ fontSize: '0.75rem', color: 'var(--text-muted)', display: 'block', marginBottom: 2 }}>Praefix(e) entfernt</label>
+            <label style={{ fontSize: '0.75rem', color: 'var(--text-muted)', display: 'block', marginBottom: 2 }}>Präfix(e) entfernt</label>
             <input value={inputs.prefixes} onChange={e => setInputs({ ...inputs, prefixes: e.target.value })} disabled={revealed}
               placeholder="z.B. \u0627\u0644\u0640 oder \u2014"
               style={{ width: '100%', padding: '8px', borderRadius: 6, border: '1px solid var(--border)', background: 'var(--bg)', color: 'var(--text)', fontFamily: 'var(--font-arabic)', direction: 'rtl', boxSizing: 'border-box' }} />
@@ -137,7 +137,7 @@ export default function RootExtractionDrill() {
 
         {!revealed && (
           <button onClick={check} style={{ padding: '10px 28px', borderRadius: 8, border: 'none', background: 'var(--accent-teal)', color: '#fff', cursor: 'pointer', width: '100%' }}>
-            Pruefen
+            Prüfen
           </button>
         )}
 
@@ -147,12 +147,12 @@ export default function RootExtractionDrill() {
               Wurzel: <span style={{ fontFamily: 'var(--font-arabic)', direction: 'rtl' }}>{ex.root}</span>
             </div>
             <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr 1fr', gap: 8, fontSize: '0.85rem', color: 'var(--text-secondary)' }}>
-              <div>Praefix(e): <span style={{ color: 'var(--accent-teal)', fontFamily: 'var(--font-arabic)' }}>{ex.prefixes}</span></div>
+              <div>Präfix(e): <span style={{ color: 'var(--accent-teal)', fontFamily: 'var(--font-arabic)' }}>{ex.prefixes}</span></div>
               <div>Wurzel: <span style={{ color: '#22c55e', fontFamily: 'var(--font-arabic)' }}>{ex.root}</span></div>
               <div>Suffix(e): <span style={{ color: 'var(--accent-teal)', fontFamily: 'var(--font-arabic)' }}>{ex.suffixes}</span></div>
             </div>
             <button onClick={next} style={{ marginTop: 12, padding: '8px 24px', borderRadius: 8, border: 'none', background: 'var(--accent-gold)', color: '#000', cursor: 'pointer' }}>
-              Naechstes Wort ({(idx + 1) % filtered.length + 1}/{filtered.length})
+              Nächstes Wort ({(idx + 1) % filtered.length + 1}/{filtered.length})
             </button>
           </div>
         )}

@@ -12,7 +12,7 @@
   "urlConstruction": {
     "template": "https://everyayah.com/data/{reciterFolder}/{surahPadded}{ayahPadded}.mp3",
     "javascript": "function getAudioUrl(reciterFolder, surah, ayah) {\n  const surahStr = String(surah).padStart(3, '0');\n  const ayahStr = String(ayah).padStart(3, '0');\n  return `https://everyayah.com/data/${reciterFolder}/${surahStr}${ayahStr}.mp3`;\n}",
-    "basmalaNote": "Die Basmala (بسم الله الرحمن الرحيم) wird als Vers 1 nur in Sure 1 (al-Fatiha) gezaehlt. In allen anderen Suren (ausser Sure 9, wo sie fehlt) steht sie vor Vers 1, wird aber nicht als eigenstaendiger Vers mitgezaehlt.",
+    "basmalaNote": "Die Basmala (بسم الله الرحمن الرحيم) wird als Vers 1 nur in Sure 1 (al-Fatiha) gezählt. In allen anderen Suren (ausser Sure 9, wo sie fehlt) steht sie vor Vers 1, wird aber nicht als eigenständiger Vers mitgezählt.",
     "surahRange": { "min": 1, "max": 114 },
     "specialCases": {
       "surah1_ayahCount": 7,
@@ -62,7 +62,7 @@
       "id": "minshawi_melodisch",
       "name": "Aussprache B+ (melodisch, langsam)",
       "style": "Melodisch, langsam",
-      "germanDescription": "Melodische Aufnahme in langsamem Tempo — gut fuer Prosodie-Analyse",
+      "germanDescription": "Melodische Aufnahme in langsamem Tempo — gut für Prosodie-Analyse",
       "folder": "Minshawi_Mujawwad_128kbps",
       "bitrate": "128kbps",
       "format": "mp3",
@@ -126,15 +126,15 @@
     "description": "Konfiguration des Audio-Fallback-Systems (audio.js)",
     "strategy": [
       "1. IndexedDB-Cache (via localforage) — bereits geladene Audio-URLs",
-      "2. everyayah.com — primaere externe Quelle",
-      "3. Web Speech API (SpeechSynthesis) — Sprachsynthese fuer arabischen Text",
+      "2. everyayah.com — primäre externe Quelle",
+      "3. Web Speech API (SpeechSynthesis) — Sprachsynthese für arabischen Text",
       "4. Highlight-only — nur visuelle Wortverfolgung, kein Audio"
     ],
     "networkTimeoutMs": 5000,
     "speechSynthesis": {
       "lang": "ar",
       "rate": 0.8,
-      "notes": "Qualitaet abhaengig vom Browser und installierten Stimmen. Chrome und Edge bieten meist eine brauchbare arabische Stimme."
+      "notes": "Qualität abhängig vom Browser und installierten Stimmen. Chrome und Edge bieten meist eine brauchbare arabische Stimme."
     },
     "cacheStoreName": "audio_cache",
     "cacheInstanceName": "quran-arabic"

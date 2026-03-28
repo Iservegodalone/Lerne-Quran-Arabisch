@@ -3,13 +3,13 @@ import ArabicKeyboard from './ArabicKeyboard.jsx'
 import clozeData from '../data/cloze-exercises.json'
 
 /**
- * ClozeExercise — Lueckentexte fuer arabische Sprachproduktion
+ * ClozeExercise — Lueckentexte für arabische Sprachproduktion
  * Quranverse mit einer Luecke: der Lernende fuellt das fehlende Wort ein.
  */
 
 const CATEGORIES = [
   { id: 'all', label: 'Alle' },
-  { id: 'preposition', label: 'Praepositionen' },
+  { id: 'preposition', label: 'Präpositionen' },
   { id: 'verb', label: 'Verben' },
   { id: 'subject', label: 'Subjekte' },
   { id: 'object', label: 'Objekte' },
@@ -90,18 +90,18 @@ export default function ClozeExercise({ onBack }) {
   if (!current || !filtered.length) {
     return (
       <div style={S.page}>
-        {onBack && <button style={S.backBtn} onClick={onBack}>Zurueck</button>}
-        <p>Keine Uebungen in dieser Kategorie.</p>
+        {onBack && <button style={S.backBtn} onClick={onBack}>Zurück</button>}
+        <p>Keine Übungen in dieser Kategorie.</p>
       </div>
     )
   }
 
   return (
     <div style={S.page}>
-      {onBack && <button style={S.backBtn} onClick={onBack}>Zurueck</button>}
+      {onBack && <button style={S.backBtn} onClick={onBack}>Zurück</button>}
       <h2>Lueckentexte</h2>
       <p style={{ color: 'var(--text-secondary)', marginBottom: 16 }}>
-        Fuege das fehlende Wort ein. Konsonanten genuegen — Vokalisierung ist optional.
+        Fuege das fehlende Wort ein. Konsonanten genügen — Vokalisierung ist optional.
       </p>
 
       <div style={S.filterBar}>
@@ -135,7 +135,7 @@ export default function ClozeExercise({ onBack }) {
                   placeholder="Fehlendes Wort..."
                   onKeyDown={e => e.key === 'Enter' && handleCheck()}
                 />
-                <button style={S.btn} onClick={handleCheck}>Pruefen</button>
+                <button style={S.btn} onClick={handleCheck}>Prüfen</button>
               </div>
               <button
                 style={{ ...S.btnSecondary, fontSize: '0.8rem' }}

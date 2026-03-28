@@ -1,23 +1,27 @@
 {
   "meta": {
     "title": "Istithna' — Ausnahmesyntax",
-    "description": "Systematische Behandlung der Ausnahmekonstruktionen (istithna') im Quranischen Arabisch. Analyse von إِلَّا, غَيْر und سِوَى: Kasusverhalten, syntaktische Bedingungen und Verteilung im Text."
+    "description": "Systematische Behandlung der Ausnahmekonstruktionen (istithna') im Quranischen Arabisch. Analyse von إِلَّا, غَيْر und سِوَى: Kasusverhalten, syntaktische Bedingungen und Verteilung im Text.",
+    "sources": [
+      { "name": "Wright's Arabic Grammar Vol II", "url": "https://archive.org/details/grammarofthearab02telerich" },
+      { "name": "Quranic Arabic Corpus", "url": "https://corpus.quran.com/" }
+    ]
   },
   "lessons": [
     {
       "id": "IST1",
-      "title": "إِلَّا im vollstaendigen bejahten Satz (تَامّ مُثْبَت)",
+      "title": "إِلَّا im vollständigen bejahten Satz (تَامّ مُثْبَت)",
       "learnContent": {
         "sections": [
           {
             "type": "explanation",
             "title": "Grundstruktur der Ausnahme mit إِلَّا",
-            "content": "Die Ausnahmekonstruktion (istithna') besteht aus drei Elementen:\n\n1. المُسْتَثْنَى مِنْهُ (mustathna minhu) — die Gesamtheit, von der ausgenommen wird\n2. أَدَاة الاسْتِثْنَاء (adaat al-istithna') — das Ausnahmewort (hier: إِلَّا)\n3. المُسْتَثْنَى (mustathna) — das Ausgenommene\n\nBeispielstruktur: جَاءَ القَوْمُ إِلَّا زَيْدًا — 'Die Leute kamen, ausser Zayd.'\n\nDie Konstruktion heisst تَامّ (vollstaendig), wenn das mustathna minhu explizit genannt wird. Sie heisst مُثْبَت (bejaht), wenn der Satz keine Negation enthaelt."
+            "content": "Die Ausnahmekonstruktion (istithna') besteht aus drei Elementen:\n\n1. المُسْتَثْنَى مِنْهُ (mustathna minhu) — die Gesamtheit, von der ausgenommen wird\n2. أَدَاة الاسْتِثْنَاء (adaat al-istithna') — das Ausnahmewort (hier: إِلَّا)\n3. المُسْتَثْنَى (mustathna) — das Ausgenommene\n\nBeispielstruktur: جَاءَ القَوْمُ إِلَّا زَيْدًا — 'Die Leute kamen, ausser Zayd.'\n\nDie Konstruktion heißt تَامّ (vollständig), wenn das mustathna minhu explizit genannt wird. Sie heißt مُثْبَت (bejaht), wenn der Satz keine Negation enthält."
           },
           {
             "type": "explanation",
             "title": "Kasusregel: Akkusativ (نَصْب) des mustathna",
-            "content": "Im vollstaendigen bejahten Satz steht das mustathna IMMER im Akkusativ (منصوب), unabhaengig von der syntaktischen Funktion des mustathna minhu.\n\nDas ist die Kernregel: Wenn der Satz positiv ist und das mustathna minhu explizit vorhanden ist, erzwingt إِلَّا den Akkusativ auf dem mustathna.\n\nDiese Regel gilt ohne Ausnahme im klassischen Arabisch und ist im Quran durchgehend eingehalten."
+            "content": "Im vollständigen bejahten Satz steht das mustathna IMMER im Akkusativ (منصوب), unabhängig von der syntaktischen Funktion des mustathna minhu.\n\nDas ist die Kernregel: Wenn der Satz positiv ist und das mustathna minhu explizit vorhanden ist, erzwingt إِلَّا den Akkusativ auf dem mustathna.\n\nDiese Regel gilt ohne Ausnahme im klassischen Arabisch und ist im Quran durchgehend eingehalten."
           },
           {
             "type": "quranExamples",
@@ -26,12 +30,12 @@
               {
                 "ref": "2:249",
                 "arabic": "فَشَرِبُوا مِنْهُ إِلَّا قَلِيلًا مِّنْهُمْ",
-                "explanation": "mustathna minhu: implizit die Gesamtheit der Kaempfer (durch فَشَرِبُوا). mustathna: قَلِيلًا — im Akkusativ (Tanwin fatha). Vollstaendiger bejahter Satz: Das Verb ist positiv, die Gesamtheit ist aus dem Kontext klar."
+                "explanation": "mustathna minhu: implizit die Gesamtheit der Kämpfer (durch فَشَرِبُوا). mustathna: قَلِيلًا — im Akkusativ (Tanwin fatha). Vollständiger bejahter Satz: Das Verb ist positiv, die Gesamtheit ist aus dem Kontext klar."
               },
               {
                 "ref": "4:66",
                 "arabic": "وَلَوْ أَنَّا كَتَبْنَا عَلَيْهِمْ أَنِ اقْتُلُوا أَنفُسَكُمْ أَوِ اخْرُجُوا مِن دِيَارِكُم مَّا فَعَلُوهُ إِلَّا قَلِيلٌ مِّنْهُمْ",
-                "explanation": "Hier steht قَلِيلٌ im Nominativ — NICHT im Akkusativ. Der Satz ist negiert (مَا فَعَلُوهُ). Dies zeigt bereits den Uebergang zur naechsten Regel: Im negierten Satz ist badal (Kasusangleichung) moeglich. Hier wird قَلِيلٌ als badal vom Subjekt (الواو in فَعَلُوهُ) im Nominativ analysiert."
+                "explanation": "Hier steht قَلِيلٌ im Nominativ — NICHT im Akkusativ. Der Satz ist negiert (مَا فَعَلُوهُ). Dies zeigt bereits den Übergang zur nächsten Regel: Im negierten Satz ist badal (Kasusangleichung) möglich. Hier wird قَلِيلٌ als badal vom Subjekt (الواو in فَعَلُوهُ) im Nominativ analysiert."
               },
               {
                 "ref": "34:20",
@@ -46,29 +50,29 @@
         {
           "type": "identification",
           "prompt": "Lies 2:249 (فَشَرِبُوا مِنْهُ إِلَّا قَلِيلًا مِّنْهُمْ). Benenne die drei Elemente der Ausnahmekonstruktion: mustathna minhu, adaat al-istithna', mustathna.",
-          "hint": "Das mustathna minhu ist die implizite Gesamtheit (die Kaempfer, Subjekt von شَرِبُوا). Die adaat ist إِلَّا. Das mustathna ist قَلِيلًا."
+          "hint": "Das mustathna minhu ist die implizite Gesamtheit (die Kämpfer, Subjekt von شَرِبُوا). Die adaat ist إِلَّا. Das mustathna ist قَلِيلًا."
         },
         {
           "type": "caseAnalysis",
-          "prompt": "Warum steht فَرِيقًا in 34:20 im Akkusativ? Welche Bedingungen muessen erfuellt sein, damit إِلَّا den Akkusativ erzwingt?",
-          "hint": "Zwei Bedingungen: (1) Der Satz ist bejaht (positiv, keine Negation). (2) Das mustathna minhu ist vorhanden (تَامّ). Beide sind in 34:20 erfuellt."
+          "prompt": "Warum steht فَرِيقًا in 34:20 im Akkusativ? Welche Bedingungen müssen erfüllt sein, damit إِلَّا den Akkusativ erzwingt?",
+          "hint": "Zwei Bedingungen: (1) Der Satz ist bejaht (positiv, keine Negation). (2) Das mustathna minhu ist vorhanden (تَامّ). Beide sind in 34:20 erfüllt."
         }
       ]
     },
     {
       "id": "IST2",
-      "title": "إِلَّا im vollstaendigen negierten Satz (تَامّ مَنْفِيّ)",
+      "title": "إِلَّا im vollständigen negierten Satz (تَامّ مَنْفِيّ)",
       "learnContent": {
         "sections": [
           {
             "type": "explanation",
-            "title": "Negation veraendert die Kasusregel",
-            "content": "Wenn der Satz negiert ist (مَنْفِيّ), aber das mustathna minhu weiterhin explizit vorhanden ist (تَامّ), ergeben sich ZWEI Moeglichkeiten fuer den Kasus des mustathna:\n\n1. بَدَل (badal / Apposition): Das mustathna uebernimmt den Kasus des mustathna minhu. Es wird syntaktisch so behandelt, als ersetze es das mustathna minhu in der Satzfunktion.\n\n2. نَصْب (Akkusativ): Das mustathna steht — wie im bejahten Satz — im Akkusativ.\n\nBeide Analysen sind grammatisch korrekt. Im Quran erscheint ueberwiegend der badal."
+            "title": "Negation verändert die Kasusregel",
+            "content": "Wenn der Satz negiert ist (مَنْفِيّ), aber das mustathna minhu weiterhin explizit vorhanden ist (تَامّ), ergeben sich ZWEI Möglichkeiten für den Kasus des mustathna:\n\n1. بَدَل (badal / Apposition): Das mustathna uebernimmt den Kasus des mustathna minhu. Es wird syntaktisch so behandelt, als ersetze es das mustathna minhu in der Satzfunktion.\n\n2. نَصْب (Akkusativ): Das mustathna steht — wie im bejahten Satz — im Akkusativ.\n\nBeide Analysen sind grammatisch korrekt. Im Quran erscheint ueberwiegend der badal."
           },
           {
             "type": "explanation",
             "title": "Badal-Analyse im Detail",
-            "content": "Bei der badal-Analyse wird إِلَّا quasi transparent — das mustathna tritt in die syntaktische Position des mustathna minhu ein:\n\n- mustathna minhu im Nominativ (فاعل) → mustathna im Nominativ\n- mustathna minhu im Akkusativ (مفعول به) → mustathna im Akkusativ\n- mustathna minhu im Genitiv (مجرور) → mustathna im Genitiv\n\nDie Negation bewirkt, dass die Ausnahme semantisch zur Einschraenkung wird: 'Niemand kam ausser Zayd' → 'Nur Zayd kam'. Syntaktisch wird Zayd dann wie das Subjekt behandelt."
+            "content": "Bei der badal-Analyse wird إِلَّا quasi transparent — das mustathna tritt in die syntaktische Position des mustathna minhu ein:\n\n- mustathna minhu im Nominativ (فاعل) → mustathna im Nominativ\n- mustathna minhu im Akkusativ (مفعول به) → mustathna im Akkusativ\n- mustathna minhu im Genitiv (مجرور) → mustathna im Genitiv\n\nDie Negation bewirkt, dass die Ausnahme semantisch zur Einschränkung wird: 'Niemand kam ausser Zayd' → 'Nur Zayd kam'. Syntaktisch wird Zayd dann wie das Subjekt behandelt."
           },
           {
             "type": "quranExamples",
@@ -77,12 +81,12 @@
               {
                 "ref": "2:255",
                 "arabic": "مَن ذَا الَّذِي يَشْفَعُ عِندَهُ إِلَّا بِإِذْنِهِ",
-                "explanation": "Rhetorische Frage mit negativer Implikation (مَن ذَا = niemand). Hier folgt nach إِلَّا ein Praepositionalausdruck (بِإِذْنِهِ), kein Nomen — es ist eine Ausnahme der Umstaende, nicht der Personen. Syntaktisch: mufrag-artige Konstruktion innerhalb einer rhetorischen Frage."
+                "explanation": "Rhetorische Frage mit negativer Implikation (مَن ذَا = niemand). Hier folgt nach إِلَّا ein Präpositionalausdruck (بِإِذْنِهِ), kein Nomen — es ist eine Ausnahme der Umstaende, nicht der Personen. Syntaktisch: mufrag-artige Konstruktion innerhalb einer rhetorischen Frage."
               },
               {
                 "ref": "11:116",
                 "arabic": "فَلَوْلَا كَانَ مِنَ الْقُرُونِ مِن قَبْلِكُمْ أُولُو بَقِيَّةٍ يَنْهَوْنَ عَنِ الْفَسَادِ فِي الْأَرْضِ إِلَّا قَلِيلًا مِّمَّنْ أَنجَيْنَا",
-                "explanation": "لَوْلَا hat hier die Bedeutung einer negativen Erwartung ('Warum gab es nicht...?'). قَلِيلًا steht im Akkusativ. Hier ist die Akkusativ-Variante gewaehlt, obwohl der Kontext negativ ist — ein Beleg dafuer, dass nasb auch im negierten Satz moeglich ist."
+                "explanation": "لَوْلَا hat hier die Bedeutung einer negativen Erwartung ('Warum gab es nicht...?'). قَلِيلًا steht im Akkusativ. Hier ist die Akkusativ-Variante gewählt, obwohl der Kontext negativ ist — ein Beleg dafuer, dass nasb auch im negierten Satz möglich ist."
               },
               {
                 "ref": "4:66",
@@ -118,18 +122,18 @@
     },
     {
       "id": "IST3",
-      "title": "إِلَّا im unvollstaendigen negierten Satz (نَاقِص مَنْفِيّ / مُفَرَّغ)",
+      "title": "إِلَّا im unvollständigen negierten Satz (نَاقِص مَنْفِيّ / مُفَرَّغ)",
       "learnContent": {
         "sections": [
           {
             "type": "explanation",
             "title": "Mufrag-Konstruktion: Kein mustathna minhu",
-            "content": "Wenn das mustathna minhu NICHT explizit im Satz steht und der Satz negiert ist, liegt eine مُفَرَّغ-Konstruktion (entleerte/unvollstaendige Ausnahme) vor.\n\nIn diesem Fall wird إِلَّا syntaktisch quasi unsichtbar — das Wort nach إِلَّا uebernimmt die Satzfunktion, die das fehlende Element haette:\n\n- Fehlt das Subjekt → mustathna im Nominativ (فاعل)\n- Fehlt das Objekt → mustathna im Akkusativ (مفعول به)\n- Steht eine Praeposition → mustathna im Genitiv (مجرور)\n\nDie Negation + إِلَّا ergibt zusammen die Bedeutung 'nur/nichts als':\nمَا جَاءَ إِلَّا زَيْدٌ = 'Nur Zayd kam.'"
+            "content": "Wenn das mustathna minhu NICHT explizit im Satz steht und der Satz negiert ist, liegt eine مُفَرَّغ-Konstruktion (entleerte/unvollständige Ausnahme) vor.\n\nIn diesem Fall wird إِلَّا syntaktisch quasi unsichtbar — das Wort nach إِلَّا uebernimmt die Satzfunktion, die das fehlende Element hätte:\n\n- Fehlt das Subjekt → mustathna im Nominativ (فاعل)\n- Fehlt das Objekt → mustathna im Akkusativ (مفعول به)\n- Steht eine Präposition → mustathna im Genitiv (مجرور)\n\nDie Negation + إِلَّا ergibt zusammen die Bedeutung 'nur/nichts als':\nمَا جَاءَ إِلَّا زَيْدٌ = 'Nur Zayd kam.'"
           },
           {
             "type": "explanation",
             "title": "Erkennung der mufrag-Konstruktion",
-            "content": "Die mufrag-Konstruktion erkennt man daran, dass der Satz ohne إِلَّا + mustathna grammatisch unvollstaendig waere. Es fehlt ein notwendiges Satzglied.\n\nVergleich:\n- تَامّ: مَا جَاءَ القَوْمُ إِلَّا زَيْدًا — Ohne إِلَّا زَيْدًا ist der Satz vollstaendig (مَا جَاءَ القَوْمُ).\n- مُفَرَّغ: مَا جَاءَ إِلَّا زَيْدٌ — Ohne إِلَّا زَيْدٌ fehlt das Subjekt (*مَا جَاءَ).\n\nIm Quran ist die mufrag-Konstruktion sehr haeufig, besonders in Formeln wie إِنْ هُوَ إِلَّا oder مَا ... إِلَّا."
+            "content": "Die mufrag-Konstruktion erkennt man daran, dass der Satz ohne إِلَّا + mustathna grammatisch unvollständig wäre. Es fehlt ein notwendiges Satzglied.\n\nVergleich:\n- تَامّ: مَا جَاءَ القَوْمُ إِلَّا زَيْدًا — Ohne إِلَّا زَيْدًا ist der Satz vollständig (مَا جَاءَ القَوْمُ).\n- مُفَرَّغ: مَا جَاءَ إِلَّا زَيْدٌ — Ohne إِلَّا زَيْدٌ fehlt das Subjekt (*مَا جَاءَ).\n\nIm Quran ist die mufrag-Konstruktion sehr häufig, besonders in Formeln wie إِنْ هُوَ إِلَّا oder مَا ... إِلَّا."
           },
           {
             "type": "quranExamples",
@@ -138,17 +142,17 @@
               {
                 "ref": "36:15",
                 "arabic": "إِنْ أَنتُمْ إِلَّا بَشَرٌ مِّثْلُنَا",
-                "explanation": "Negation mit إِنْ (= مَا). mustathna: بَشَرٌ — im Nominativ als Praedikat (خبر) des Nominalsatzes. إِلَّا fuellt die Luecke des fehlenden Praedikats: 'Ihr seid nur Menschen wie wir.' Mufrag: Ohne إِلَّا بَشَرٌ waere der Satz unvollstaendig."
+                "explanation": "Negation mit إِنْ (= مَا). mustathna: بَشَرٌ — im Nominativ als Prädikat (خبر) des Nominalsatzes. إِلَّا fuellt die Luecke des fehlenden Prädikats: 'Ihr seid nur Menschen wie wir.' Mufrag: Ohne إِلَّا بَشَرٌ wäre der Satz unvollständig."
               },
               {
                 "ref": "53:23",
                 "arabic": "إِنْ هِيَ إِلَّا أَسْمَاءٌ سَمَّيْتُمُوهَا",
-                "explanation": "Negation mit إِنْ (= مَا). mustathna: أَسْمَاءٌ — im Nominativ als Praedikat (خبر). 'Sie (die Goetternamen) sind nur Namen, die ihr (ihnen) gegeben habt.' Klassische mufrag-Formel: إِنْ + Pronomen + إِلَّا + Praedikat."
+                "explanation": "Negation mit إِنْ (= مَا). mustathna: أَسْمَاءٌ — im Nominativ als Prädikat (خبر). 'Sie (die Goetternamen) sind nur Namen, die ihr (ihnen) gegeben habt.' Klassische mufrag-Formel: إِنْ + Pronomen + إِلَّا + Prädikat."
               },
               {
                 "ref": "6:25",
                 "arabic": "إِنْ هَٰذَا إِلَّا أَسَاطِيرُ الْأَوَّلِينَ",
-                "explanation": "Negation mit إِنْ (= مَا). mustathna: أَسَاطِيرُ — im Nominativ als Praedikat, gefolgt von einer Idafa (الْأَوَّلِينَ im Genitiv). 'Dies ist nur Geschichten der Frueheren.' Mufrag mit Nominalsatz."
+                "explanation": "Negation mit إِنْ (= مَا). mustathna: أَسَاطِيرُ — im Nominativ als Prädikat, gefolgt von einer Idafa (الْأَوَّلِينَ im Genitiv). 'Dies ist nur Geschichten der Frueheren.' Mufrag mit Nominalsatz."
               },
               {
                 "ref": "21:25",
@@ -158,7 +162,7 @@
               {
                 "ref": "2:163",
                 "arabic": "لَا إِلَٰهَ إِلَّا هُوَ",
-                "explanation": "Negation mit لَا (laa li-nafy al-jins: Gattungsnegation). إِلَٰهَ steht im Akkusativ als ism von لَا. mustathna: هُوَ — Pronomen, das syntaktisch als Praedikat oder badal vom impliziten Subjektbezug fungiert. Die beruehmteste mufrag-Formel im Quran. Ohne إِلَّا هُوَ fehlt das Praedikat."
+                "explanation": "Negation mit لَا (laa li-nafy al-jins: Gattungsnegation). إِلَٰهَ steht im Akkusativ als ism von لَا. mustathna: هُوَ — Pronomen, das syntaktisch als Prädikat oder badal vom impliziten Subjektbezug fungiert. Die beruehmteste mufrag-Formel im Quran. Ohne إِلَّا هُوَ fehlt das Prädikat."
               }
             ]
           }
@@ -168,17 +172,17 @@
         {
           "type": "identification",
           "prompt": "Analysiere 36:15 (إِنْ أَنتُمْ إِلَّا بَشَرٌ مِّثْلُنَا). Welche Satzfunktion hat بَشَرٌ? Warum steht es im Nominativ?",
-          "hint": "إِنْ = مَا (Negation). Der Satz ist ein Nominalsatz: أَنتُمْ (mubtada') + بَشَرٌ (khabar). بَشَرٌ ist Praedikat und steht daher im Nominativ. Mufrag: Ohne إِلَّا بَشَرٌ fehlt das Praedikat."
+          "hint": "إِنْ = مَا (Negation). Der Satz ist ein Nominalsatz: أَنتُمْ (mubtada') + بَشَرٌ (khabar). بَشَرٌ ist Prädikat und steht daher im Nominativ. Mufrag: Ohne إِلَّا بَشَرٌ fehlt das Prädikat."
         },
         {
           "type": "caseAnalysis",
           "prompt": "In 2:163 (لَا إِلَٰهَ إِلَّا هُوَ): Welche Art von لَا liegt hier vor? Warum steht إِلَٰهَ ohne Tanwin? Welche Funktion hat هُوَ?",
-          "hint": "لَا لِنَفْيِ الجِنْس (Gattungsnegation). إِلَٰهَ ist ism von لَا, im Akkusativ, ohne Tanwin weil es als مبني auf fatha steht. هُوَ nach إِلَّا fungiert in der mufrag-Analyse als Praedikat oder als badal."
+          "hint": "لَا لِنَفْيِ الجِنْس (Gattungsnegation). إِلَٰهَ ist ism von لَا, im Akkusativ, ohne Tanwin weil es als مبني auf fatha steht. هُوَ nach إِلَّا fungiert in der mufrag-Analyse als Prädikat oder als badal."
         },
         {
           "type": "identification",
-          "prompt": "Lies 21:25. Wie viele Ausnahmekonstruktionen enthaelt dieser Vers? Bestimme fuer jede, ob sie تَامّ oder مُفَرَّغ ist.",
-          "hint": "Zwei Konstruktionen: (1) مَا أَرْسَلْنَا ... إِلَّا نُوحِي — mufrag (ohne mustathna minhu als Person, der Satz waere ohne das mustathna unvollstaendig). (2) لَا إِلَٰهَ إِلَّا أَنَا — mufrag (klassische Formel)."
+          "prompt": "Lies 21:25. Wie viele Ausnahmekonstruktionen enthält dieser Vers? Bestimme für jede, ob sie تَامّ oder مُفَرَّغ ist.",
+          "hint": "Zwei Konstruktionen: (1) مَا أَرْسَلْنَا ... إِلَّا نُوحِي — mufrag (ohne mustathna minhu als Person, der Satz wäre ohne das mustathna unvollständig). (2) لَا إِلَٰهَ إِلَّا أَنَا — mufrag (klassische Formel)."
         }
       ]
     },
@@ -190,12 +194,12 @@
           {
             "type": "explanation",
             "title": "غَيْر: Syntax und Kasusverhalten",
-            "content": "غَيْر funktioniert als Nomen, nicht als Partikel. Es unterliegt daher den normalen Regeln der Nominalflexion UND der Idafa:\n\n1. غَيْر als مُضَاف (erstes Glied einer Idafa): Das Wort nach غَيْر steht IMMER im Genitiv (مجرور / Genitiv).\n\n2. غَيْر selbst dekliniert: Es traegt den Kasus, den die Satzposition verlangt.\n\nWenn غَيْر an der Stelle von إِلَّا + mustathna steht, gelten dieselben drei Grundregeln:\n- تَامّ مُثْبَت → غَيْر im Akkusativ (نَصْب)\n- تَامّ مَنْفِيّ → غَيْر im Kasus des mustathna minhu (badal) ODER im Akkusativ\n- مُفَرَّغ → غَيْر im Kasus, den die Satzposition erfordert"
+            "content": "غَيْر funktioniert als Nomen, nicht als Partikel. Es unterliegt daher den normalen Regeln der Nominalflexion UND der Idafa:\n\n1. غَيْر als مُضَاف (erstes Glied einer Idafa): Das Wort nach غَيْر steht IMMER im Genitiv (مجرور / Genitiv).\n\n2. غَيْر selbst dekliniert: Es trägt den Kasus, den die Satzposition verlangt.\n\nWenn غَيْر an der Stelle von إِلَّا + mustathna steht, gelten dieselben drei Grundregeln:\n- تَامّ مُثْبَت → غَيْر im Akkusativ (نَصْب)\n- تَامّ مَنْفِيّ → غَيْر im Kasus des mustathna minhu (badal) ODER im Akkusativ\n- مُفَرَّغ → غَيْر im Kasus, den die Satzposition erfordert"
           },
           {
             "type": "explanation",
             "title": "Doppelte Kasusvergabe bei غَيْر",
-            "content": "Man muss bei غَيْر immer ZWEI Kasusentscheidungen treffen:\n\n1. Welchen Kasus traegt غَيْر selbst? → Bestimmt durch die syntaktische Position (Subjekt, Objekt, nach Praeposition usw.)\n2. Welchen Kasus traegt das Wort nach غَيْر? → IMMER Genitiv (weil Idafa)\n\nBeispiel: مَرَرْتُ بِقَوْمٍ غَيْرِ زَيْدٍ\n- غَيْرِ: Genitiv (weil Attribut zu قَوْمٍ, das im Genitiv steht)\n- زَيْدٍ: Genitiv (weil Idafa-Komplement von غَيْر)"
+            "content": "Man muss bei غَيْر immer ZWEI Kasusentscheidungen treffen:\n\n1. Welchen Kasus trägt غَيْر selbst? → Bestimmt durch die syntaktische Position (Subjekt, Objekt, nach Präposition usw.)\n2. Welchen Kasus trägt das Wort nach غَيْر? → IMMER Genitiv (weil Idafa)\n\nBeispiel: مَرَرْتُ بِقَوْمٍ غَيْرِ زَيْدٍ\n- غَيْرِ: Genitiv (weil Attribut zu قَوْمٍ, das im Genitiv steht)\n- زَيْدٍ: Genitiv (weil Idafa-Komplement von غَيْر)"
           },
           {
             "type": "quranExamples",
@@ -209,7 +213,7 @@
               {
                 "ref": "3:182",
                 "arabic": "وَأَنَّ اللَّهَ لَيْسَ بِظَلَّامٍ لِّلْعَبِيدِ",
-                "explanation": "Kein غَيْر in diesem Vers — hier als Kontrastbeispiel fuer Negation ohne Ausnahmekonstruktion. Die reine Negation mit لَيْسَ zeigt, dass nicht jede Einschraenkung eine istithna'-Konstruktion erfordert."
+                "explanation": "Kein غَيْر in diesem Vers — hier als Kontrastbeispiel für Negation ohne Ausnahmekonstruktion. Die reine Negation mit لَيْسَ zeigt, dass nicht jede Einschränkung eine istithna'-Konstruktion erfordert."
               },
               {
                 "ref": "2:173",
@@ -224,7 +228,7 @@
               {
                 "ref": "47:15",
                 "arabic": "فِيهَا أَنْهَارٌ مِّن مَّاءٍ غَيْرِ آسِنٍ",
-                "explanation": "غَيْرِ — im Genitiv als Attribut (نعت) zu مَاءٍ (Genitiv nach مِن). آسِنٍ — im Genitiv als Idafa-Komplement. Beide im Genitiv, aber aus unterschiedlichen Gruenden: غَيْرِ wegen Kongruenz mit مَاءٍ, آسِنٍ wegen Idafa."
+                "explanation": "غَيْرِ — im Genitiv als Attribut (نعت) zu مَاءٍ (Genitiv nach مِن). آسِنٍ — im Genitiv als Idafa-Komplement. Beide im Genitiv, aber aus unterschiedlichen Gründen: غَيْرِ wegen Kongruenz mit مَاءٍ, آسِنٍ wegen Idafa."
               }
             ]
           }
@@ -233,12 +237,12 @@
       "exercises": [
         {
           "type": "caseAnalysis",
-          "prompt": "In 1:7 steht غَيْرِ الْمَغْضُوبِ. Erklaere fuer jedes der beiden Woerter, warum es im Genitiv steht. Sind die Gruende identisch?",
-          "hint": "Nein. غَيْرِ steht im Genitiv wegen seiner syntaktischen Position (badal/Attribut zu الَّذِينَ im Genitiv). الْمَغْضُوبِ steht im Genitiv als مُضَاف إِلَيْهِ (Idafa-Komplement von غَيْر). Verschiedene Gruende, gleicher Kasus."
+          "prompt": "In 1:7 steht غَيْرِ الْمَغْضُوبِ. Erkläre für jedes der beiden Wörter, warum es im Genitiv steht. Sind die Gründe identisch?",
+          "hint": "Nein. غَيْرِ steht im Genitiv wegen seiner syntaktischen Position (badal/Attribut zu الَّذِينَ im Genitiv). الْمَغْضُوبِ steht im Genitiv als مُضَاف إِلَيْهِ (Idafa-Komplement von غَيْر). Verschiedene Gründe, gleicher Kasus."
         },
         {
           "type": "caseAnalysis",
-          "prompt": "Vergleiche غَيْرَ in 2:173 (غَيْرَ بَاغٍ) mit غَيْرِ in 47:15 (غَيْرِ آسِنٍ). Warum unterscheidet sich der Kasus von غَيْر, obwohl das Idafa-Komplement in beiden Faellen im Genitiv steht?",
+          "prompt": "Vergleiche غَيْرَ in 2:173 (غَيْرَ بَاغٍ) mit غَيْرِ in 47:15 (غَيْرِ آسِنٍ). Warum unterscheidet sich der Kasus von غَيْر, obwohl das Idafa-Komplement in beiden Fällen im Genitiv steht?",
           "hint": "In 2:173 ist غَيْرَ eine haal (Akkusativ). In 47:15 ist غَيْرِ ein Attribut zu مَاءٍ (Genitiv). Der Kasus von غَيْر richtet sich nach der Satzfunktion, der Kasus des Idafa-Komplements ist immer Genitiv."
         }
       ]
@@ -251,12 +255,12 @@
           {
             "type": "explanation",
             "title": "Hinweis zur quranischen Beleglage",
-            "content": "Hinweis: سِوَى als Ausnahmepartikel (im Sinne von 'ausser') ist im Quran nicht belegt. Die einzige Stelle (20:58) verwendet سُوًى in der Bedeutung 'gleich/gerecht', nicht als Ausnahmewort. Die hier beschriebene Funktion gehoert zum allgemeinen klassischen Arabisch."
+            "content": "Hinweis: سِوَى als Ausnahmepartikel (im Sinne von 'ausser') ist im Quran nicht belegt. Die einzige Stelle (20:58) verwendet سُوًى in der Bedeutung 'gleich/gerecht', nicht als Ausnahmewort. Die hier beschriebene Funktion gehört zum allgemeinen klassischen Arabisch."
           },
           {
             "type": "explanation",
             "title": "سِوَى: Funktion und Flexion",
-            "content": "سِوَى (auch: سُوَى, سَوَاء in anderen Bedeutungen) funktioniert syntaktisch wie غَيْر:\n\n1. Es ist ein Nomen (nicht eine Partikel)\n2. Das Wort nach سِوَى steht im Genitiv (Idafa)\n3. سِوَى selbst traegt den Kasus, den die Satzposition verlangt\n\nWichtiger Unterschied: سِوَى ist ein maqsur-Nomen (endet auf Alif maqsura). Es zeigt den Kasus daher NICHT sichtbar — Nominativ, Akkusativ und Genitiv sind alle unsichtbar (مُقَدَّر). Die Kasusanalyse erfolgt rein syntaktisch.\n\nIm Quran kommt سِوَى deutlich seltener vor als غَيْر und إِلَّا."
+            "content": "سِوَى (auch: سُوَى, سَوَاء in anderen Bedeutungen) funktioniert syntaktisch wie غَيْر:\n\n1. Es ist ein Nomen (nicht eine Partikel)\n2. Das Wort nach سِوَى steht im Genitiv (Idafa)\n3. سِوَى selbst trägt den Kasus, den die Satzposition verlangt\n\nWichtiger Unterschied: سِوَى ist ein maqsur-Nomen (endet auf Alif maqsura). Es zeigt den Kasus daher NICHT sichtbar — Nominativ, Akkusativ und Genitiv sind alle unsichtbar (مُقَدَّر). Die Kasusanalyse erfolgt rein syntaktisch.\n\nIm Quran kommt سِوَى deutlich seltener vor als غَيْر und إِلَّا."
           },
           {
             "type": "quranExamples",
@@ -265,14 +269,14 @@
               {
                 "ref": "20:58",
                 "arabic": "فَلَنَأْتِيَنَّكَ بِسِحْرٍ مِّثْلِهِ فَاجْعَلْ بَيْنَنَا وَبَيْنَكَ مَوْعِدًا لَّا نُخْلِفُهُ نَحْنُ وَلَا أَنتَ مَكَانًا سُوًى",
-                "explanation": "سُوًى — hier in der Form سُوًى (mit Damma und Tanwin). Es steht als Attribut (نعت) zu مَكَانًا im Akkusativ: 'einen gleichmaessigen/mittigen Ort'. Beachte: سُوًى hat hier die Bedeutung 'gleich/gerecht', nicht 'ausser'. Es zeigt die semantische Bandbreite des Stammes س-و-ي."
+                "explanation": "سُوًى — hier in der Form سُوًى (mit Damma und Tanwin). Es steht als Attribut (نعت) zu مَكَانًا im Akkusativ: 'einen gleichmäßigen/mittigen Ort'. Beachte: سُوًى hat hier die Bedeutung 'gleich/gerecht', nicht 'ausser'. Es zeigt die semantische Bandbreite des Stammes س-و-ي."
               }
             ]
           },
           {
             "type": "explanation",
             "title": "Vergleich: إِلَّا vs. غَيْر vs. سِوَى",
-            "content": "Zusammenfassung der drei Ausnahmemittel:\n\n| Merkmal | إِلَّا | غَيْر | سِوَى |\n|---------|--------|-------|-------|\n| Wortart | Partikel (حَرْف) | Nomen (اسْم) | Nomen (اسْم) |\n| Kasus des Folgenden | variabel (siehe Regeln) | immer Genitiv (Idafa) | immer Genitiv (Idafa) |\n| Eigene Flexion | keine (Partikel) | sichtbar (triptotisch) | unsichtbar (maqsur) |\n| Haeufigkeit im Quran | sehr haeufig | haeufig | selten |\n\nDie Kasusregeln fuer تَامّ مُثْبَت / تَامّ مَنْفِيّ / مُفَرَّغ gelten fuer alle drei Ausnahmemittel — bei غَيْر und سِوَى bezieht sich die Regel auf den Kasus von غَيْر/سِوَى selbst (nicht auf ihr Idafa-Komplement, das immer Genitiv ist)."
+            "content": "Zusammenfassung der drei Ausnahmemittel:\n\n| Merkmal | إِلَّا | غَيْر | سِوَى |\n|---------|--------|-------|-------|\n| Wortart | Partikel (حَرْف) | Nomen (اسْم) | Nomen (اسْم) |\n| Kasus des Folgenden | variabel (siehe Regeln) | immer Genitiv (Idafa) | immer Genitiv (Idafa) |\n| Eigene Flexion | keine (Partikel) | sichtbar (triptotisch) | unsichtbar (maqsur) |\n| Häufigkeit im Quran | sehr häufig | häufig | selten |\n\nDie Kasusregeln für تَامّ مُثْبَت / تَامّ مَنْفِيّ / مُفَرَّغ gelten für alle drei Ausnahmemittel — bei غَيْر und سِوَى bezieht sich die Regel auf den Kasus von غَيْر/سِوَى selbst (nicht auf ihr Idafa-Komplement, das immer Genitiv ist)."
           }
         ]
       },
@@ -286,18 +290,18 @@
     },
     {
       "id": "IST6",
-      "title": "Uebergreifende Analyse und Sonderfaelle",
+      "title": "Übergreifende Analyse und Sonderfaelle",
       "learnContent": {
         "sections": [
           {
             "type": "explanation",
             "title": "إِلَّا mit Bedeutung 'sondern' (istidrak)",
-            "content": "In bestimmten Kontexten hat إِلَّا nicht die Funktion einer Ausnahme, sondern einer Korrektur oder Einschraenkung — aehnlich wie 'sondern' oder 'vielmehr'. Dies geschieht besonders nach Negation, wenn das mustathna nicht Teil der Menge des mustathna minhu ist.\n\nDie syntaktische Analyse bleibt identisch (mufrag-Konstruktion), aber semantisch liegt keine Teilmengenbeziehung vor, sondern ein Gegensatz."
+            "content": "In bestimmten Kontexten hat إِلَّا nicht die Funktion einer Ausnahme, sondern einer Korrektur oder Einschränkung — ähnlich wie 'sondern' oder 'vielmehr'. Dies geschieht besonders nach Negation, wenn das mustathna nicht Teil der Menge des mustathna minhu ist.\n\nDie syntaktische Analyse bleibt identisch (mufrag-Konstruktion), aber semantisch liegt keine Teilmengenbeziehung vor, sondern ein Gegensatz."
           },
           {
             "type": "explanation",
             "title": "Mehrfache Ausnahme mit إِلَّا",
-            "content": "Im Quran kommen Saetze vor, in denen إِلَّا mehrfach erscheint. Jedes إِلَّا kann eine eigene syntaktische Ebene bilden:\n\n- Verschachtelte Ausnahmen: Eine Ausnahme innerhalb einer Ausnahme\n- Koordinierte Ausnahmen: Mehrere parallel stehende Ausnahmen von derselben Menge\n\nBei der Analyse muss fuer jedes إِلَّا einzeln bestimmt werden, ob es تَامّ oder مُفَرَّغ ist und welcher Kasus gilt."
+            "content": "Im Quran kommen Sätze vor, in denen إِلَّا mehrfach erscheint. Jedes إِلَّا kann eine eigene syntaktische Ebene bilden:\n\n- Verschachtelte Ausnahmen: Eine Ausnahme innerhalb einer Ausnahme\n- Koordinierte Ausnahmen: Mehrere parallel stehende Ausnahmen von derselben Menge\n\nBei der Analyse muss für jedes إِلَّا einzeln bestimmt werden, ob es تَامّ oder مُفَرَّغ ist und welcher Kasus gilt."
           },
           {
             "type": "quranExamples",
@@ -306,22 +310,22 @@
               {
                 "ref": "15:42",
                 "arabic": "إِنَّ عِبَادِي لَيْسَ لَكَ عَلَيْهِمْ سُلْطَانٌ إِلَّا مَنِ اتَّبَعَكَ مِنَ الْغَاوِينَ",
-                "explanation": "Negation mit لَيْسَ. mustathna minhu: عِبَادِي (Genitiv als ism von إِنَّ? Nein — عِبَادِي ist hier im Akkusativ als ism von إِنَّ). mustathna: مَنِ — Relativpronomen. Kasusanalyse: Als badal von عِبَادِي muesste مَنْ im Akkusativ stehen (aber مَنْ ist indeklinabel). Die Kasusanalogie ist nur abstrakt nachvollziehbar. Negierter vollstaendiger Satz."
+                "explanation": "Negation mit لَيْسَ. mustathna minhu: عِبَادِي (Genitiv als ism von إِنَّ? Nein — عِبَادِي ist hier im Akkusativ als ism von إِنَّ). mustathna: مَنِ — Relativpronomen. Kasusanalyse: Als badal von عِبَادِي müsste مَنْ im Akkusativ stehen (aber مَنْ ist indeklinabel). Die Kasusanalogie ist nur abstrakt nachvollziehbar. Negierter vollständiger Satz."
               },
               {
                 "ref": "12:31",
                 "arabic": "وَقُلْنَ حَاشَ لِلَّهِ مَا هَٰذَا بَشَرًا إِنْ هَٰذَا إِلَّا مَلَكٌ كَرِيمٌ",
-                "explanation": "Zwei Saetze: (1) مَا هَٰذَا بَشَرًا — Negation ohne Ausnahme. (2) إِنْ هَٰذَا إِلَّا مَلَكٌ كَرِيمٌ — mufrag: إِنْ = مَا (Negation). مَلَكٌ im Nominativ als Praedikat (خبر). 'Dies ist nur ein edler Engel.' Die beiden Saetze bilden zusammen eine Negation + Korrektur: 'kein Mensch, sondern ein Engel.'"
+                "explanation": "Zwei Sätze: (1) مَا هَٰذَا بَشَرًا — Negation ohne Ausnahme. (2) إِنْ هَٰذَا إِلَّا مَلَكٌ كَرِيمٌ — mufrag: إِنْ = مَا (Negation). مَلَكٌ im Nominativ als Prädikat (خبر). 'Dies ist nur ein edler Engel.' Die beiden Sätze bilden zusammen eine Negation + Korrektur: 'kein Mensch, sondern ein Engel.'"
               },
               {
                 "ref": "26:116",
                 "arabic": "قَالُوا لَئِن لَّمْ تَنتَهِ يَا نُوحُ لَتَكُونَنَّ مِنَ الْمَرْجُومِينَ",
-                "explanation": "Kein Ausnahme-Vers — aufgenommen als Kontrastbeispiel: Nicht jede Einschraenkung oder Bedingung im Quran ist eine istithna'-Konstruktion. Konditionalsaetze (إِنْ / لَئِنْ) und Ausnahmekonstruktionen (إِلَّا) sind syntaktisch voellig verschiedene Phaenomene."
+                "explanation": "Kein Ausnahme-Vers — aufgenommen als Kontrastbeispiel: Nicht jede Einschränkung oder Bedingung im Quran ist eine istithna'-Konstruktion. Konditionalsätze (إِنْ / لَئِنْ) und Ausnahmekonstruktionen (إِلَّا) sind syntaktisch völlig verschiedene Phänomene."
               },
               {
                 "ref": "17:44",
                 "arabic": "وَإِن مِّن شَيْءٍ إِلَّا يُسَبِّحُ بِحَمْدِهِ وَلَٰكِن لَّا تَفْقَهُونَ تَسْبِيحَهُمْ",
-                "explanation": "Negation mit إِنْ (= مَا). مِن شَيْءٍ — مِن zaaidah (expletive Praeposition zur Verstaerkung der Negation). شَيْءٍ ist syntaktisch mubtada'. إِلَّا يُسَبِّحُ — der Verbalsatz ist das Praedikat (خبر). Mufrag-Konstruktion: 'Es gibt kein Ding, das nicht lobpreist.' Die doppelte Negation (إِنْ ... إِلَّا) ergibt eine universale Bejahung."
+                "explanation": "Negation mit إِنْ (= مَا). مِن شَيْءٍ — مِن zaaidah (expletive Präposition zur Verstärkung der Negation). شَيْءٍ ist syntaktisch mubtada'. إِلَّا يُسَبِّحُ — der Verbalsatz ist das Prädikat (خبر). Mufrag-Konstruktion: 'Es gibt kein Ding, das nicht lobpreist.' Die doppelte Negation (إِنْ ... إِلَّا) ergibt eine universale Bejahung."
               }
             ]
           }
@@ -331,12 +335,12 @@
         {
           "type": "identification",
           "prompt": "Analysiere 17:44 (وَإِن مِّن شَيْءٍ إِلَّا يُسَبِّحُ بِحَمْدِهِ). Identifiziere: (a) Die Negationspartikel, (b) die Funktion von مِن, (c) die Satzfunktion von يُسَبِّحُ, (d) den Typ der Ausnahmekonstruktion.",
-          "hint": "(a) إِنْ = مَا. (b) مِن ist zaaidah (expletiv, verstaerkt die Negation). (c) يُسَبِّحُ ist ein Verbalsatz als Praedikat (خبر). (d) مُفَرَّغ — ohne mustathna minhu, da شَيْءٍ das mubtada' ist und der Verbalsatz nach إِلَّا das khabar."
+          "hint": "(a) إِنْ = مَا. (b) مِن ist zaaidah (expletiv, verstärkt die Negation). (c) يُسَبِّحُ ist ein Verbalsatz als Prädikat (خبر). (d) مُفَرَّغ — ohne mustathna minhu, da شَيْءٍ das mubtada' ist und der Verbalsatz nach إِلَّا das khabar."
         },
         {
           "type": "caseAnalysis",
-          "prompt": "In 12:31 stehen zwei Saetze: مَا هَٰذَا بَشَرًا und إِنْ هَٰذَا إِلَّا مَلَكٌ كَرِيمٌ. Warum steht بَشَرًا im Akkusativ aber مَلَكٌ im Nominativ, obwohl beide auf هَٰذَا folgen?",
-          "hint": "بَشَرًا ist Praedikat (خبر) von مَا الحِجَازِيَّة — مَا im Hijaz-Dialekt funktioniert wie لَيْسَ und setzt das Praedikat in den Akkusativ. مَلَكٌ ist Praedikat in einem Nominalsatz mit إِنْ (= مَا) in der mufrag-Konstruktion — hier bleibt das Praedikat im Nominativ, weil إِنْ nicht wie لَيْسَ wirkt."
+          "prompt": "In 12:31 stehen zwei Sätze: مَا هَٰذَا بَشَرًا und إِنْ هَٰذَا إِلَّا مَلَكٌ كَرِيمٌ. Warum steht بَشَرًا im Akkusativ aber مَلَكٌ im Nominativ, obwohl beide auf هَٰذَا folgen?",
+          "hint": "بَشَرًا ist Prädikat (خبر) von مَا الحِجَازِيَّة — مَا im Hijaz-Dialekt funktioniert wie لَيْسَ und setzt das Prädikat in den Akkusativ. مَلَكٌ ist Prädikat in einem Nominalsatz mit إِنْ (= مَا) in der mufrag-Konstruktion — hier bleibt das Prädikat im Nominativ, weil إِنْ nicht wie لَيْسَ wirkt."
         }
       ]
     }

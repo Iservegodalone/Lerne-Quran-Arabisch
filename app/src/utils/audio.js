@@ -3,9 +3,9 @@ import audioConfig from '../data/audio-config.json'
 
 /**
  * Audio-Hilfsfunktionen mit Fallback-System:
- * 1. Cache (IndexedDB via localforage) pruefen
+ * 1. Cache (IndexedDB via localforage) prüfen
  * 2. Externe URL (everyayah.com) versuchen
- * 3. Bei Fehler: Web Speech API (SpeechSynthesis) fuer arabischen Text
+ * 3. Bei Fehler: Web Speech API (SpeechSynthesis) für arabischen Text
  * 4. Wenn alles fehlschlaegt: highlight-only Modus
  */
 

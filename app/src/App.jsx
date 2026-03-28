@@ -90,7 +90,7 @@ export default function App() {
   // Listen for storage-quota-exceeded events
   useEffect(() => {
     function handleQuotaExceeded(e) {
-      setStorageQuotaWarning(e.detail?.message || 'Der Speicherplatz ist voll. Bitte exportiere deine Daten und loesche alte Browser-Daten.')
+      setStorageQuotaWarning(e.detail?.message || 'Der Speicherplatz ist voll. Bitte exportiere deine Daten und lösche alte Browser-Daten.')
     }
     window.addEventListener('storage-quota-exceeded', handleQuotaExceeded)
     return () => window.removeEventListener('storage-quota-exceeded', handleQuotaExceeded)
@@ -141,16 +141,16 @@ export default function App() {
         const result = await verifyQuranIntegrity(quranData)
         if (result.valid) {
           setIntegrityStatus('ok')
-          setIntegrityMessage('Textintegritaet verifiziert')
+          setIntegrityMessage('Textintegrität verifiziert')
         } else {
           setIntegrityStatus('error')
           setIntegrityMessage(
-            `Integritaetspruefung fehlgeschlagen: ${result.details?.error || 'Pruefsumme stimmt nicht ueberein'}`
+            `Integritätsprüfung fehlgeschlagen: ${result.details?.error || 'Prüfsumme stimmt nicht überein'}`
           )
         }
       } catch (err) {
         setIntegrityStatus('error')
-        setIntegrityMessage(`Integritaetspruefung fehlgeschlagen: ${err.message}`)
+        setIntegrityMessage(`Integritätsprüfung fehlgeschlagen: ${err.message}`)
       }
     }
     checkIntegrity()
@@ -252,7 +252,7 @@ export default function App() {
         )}
         {integrityStatus === 'checking' && (
           <div className="app__integrity-banner app__integrity-banner--checking">
-            {'\u23F3'} Integritaet wird geprueft...
+            {'\u23F3'} Integrität wird geprüft...
           </div>
         )}
 
@@ -264,7 +264,7 @@ export default function App() {
               style={{ marginLeft: '12px', padding: '2px 10px', cursor: 'pointer' }}
               onClick={() => setStorageQuotaWarning(null)}
             >
-              Schliessen
+              Schließen
             </button>
           </div>
         )}
@@ -273,11 +273,11 @@ export default function App() {
         {showBackupReminder && (
           <div className="app__backup-reminder">
             <span>
-              {'\u{1F4BE}'} Es ist Zeit fuer eine Sicherungskopie deiner Lerndaten.
+              {'\u{1F4BE}'} Es ist Zeit für eine Sicherungskopie deiner Lerndaten.
             </span>
             <div className="app__backup-actions">
               <button onClick={handleExportBackup}>Jetzt sichern</button>
-              <button onClick={handleDismissReminder}>Spaeter</button>
+              <button onClick={handleDismissReminder}>Später</button>
             </div>
           </div>
         )}

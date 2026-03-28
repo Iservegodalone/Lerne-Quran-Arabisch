@@ -1390,7 +1390,7 @@
         {
           "type": "explanation",
           "title": "Typen des Taqdīr",
-          "content": "Es gibt verschiedene Typen implizierter Elemente: 1) Impliziertes مُضَاف: وَاسْأَلِ الْقَرْيَةَ = frag [die Bewohner] des Dorfes — أَهْلَ ist impliziert. 2) Impliziertes Verb: Bei Antworten auf Fragen wird das Verb oft weggelassen. 3) Impliziertes Subjekt oder Prädikat: In Nominalsätzen kann eines von beiden fehlen. 4) Impliziertes Objekt: Ein transitives Verb steht ohne explizites Objekt. Implizierte Elemente werden in der Analyse als مُقَدَّر (geschaetzt/angenommen) markiert.",
+          "content": "Es gibt verschiedene Typen implizierter Elemente: 1) Impliziertes مُضَاف: وَاسْأَلِ الْقَرْيَةَ = frag [die Bewohner] des Dorfes — أَهْلَ ist impliziert. 2) Impliziertes Verb: Bei Antworten auf Fragen wird das Verb oft weggelassen. 3) Impliziertes Subjekt oder Prädikat: In Nominalsätzen kann eines von beiden fehlen. 4) Impliziertes Objekt: Ein transitives Verb steht ohne explizites Objekt. Implizierte Elemente werden in der Analyse als مُقَدَّر (geschätzt/angenommen) markiert.",
           "arabicExamples": [
             {
               "arabic": "أَهْلَ الْقَرْيَةِ",
@@ -1456,7 +1456,7 @@
             {
               "location": "89:22",
               "word": "وَجَاءَ رَبُّكَ",
-              "analysis": "Vollstaendiger Verbalsatz: Verb (جَاءَ) + Subjekt (رَبُّكَ). Syntaktisch ist kein Taqdir noetig — der Satz ist grammatisch komplett."
+              "analysis": "Vollständiger Verbalsatz: Verb (جَاءَ) + Subjekt (رَبُّكَ). Syntaktisch ist kein Taqdir nötig — der Satz ist grammatisch komplett."
             }
           ]
         }
@@ -1498,13 +1498,13 @@
           "type": "fill_in",
           "prompt": "Ergänze: Ein impliziertes Element wird in der arabischen Grammatik als _____ (مُقَدَّر) bezeichnet.",
           "answer": "مُقَدَّر",
-          "explanation": "مُقَدَّر (muqaddar) = 'angenommen/geschaetzt' — bezeichnet Elemente, die im Text fehlen aber syntaktisch mitgedacht werden."
+          "explanation": "مُقَدَّر (muqaddar) = 'angenommen/geschätzt' — bezeichnet Elemente, die im Text fehlen aber syntaktisch mitgedacht werden."
         },
         {
           "type": "sentence_analysis",
-          "prompt": "Analysiere den Satz: وَجَاءَ رَبُّكَ (89:22) — und dein Herr kam. Ist dieser Satz grammatisch vollstaendig?",
-          "answer": "Ja. وَجَاءَ (Verb, Perfekt) + رَبُّكَ (Subjekt, Nominativ + Possessivsuffix). Der Satz ist ein vollstaendiger Verbalsatz: Verb + Fa'il. Es gibt keinen syntaktischen Grund ein Wort zu ergaenzen.",
-          "explanation": "Der Text sagt was er sagt. وَجَاءَ رَبُّكَ ist grammatisch: Verb + Subjekt. Die Ergaenzung implizierter Woerter (Taqdir) ist nur dann grammatisch begruendet wenn der Satz ohne sie syntaktisch unvollstaendig waere — das ist hier nicht der Fall."
+          "prompt": "Analysiere den Satz: وَجَاءَ رَبُّكَ (89:22) — und dein Herr kam. Ist dieser Satz grammatisch vollständig?",
+          "answer": "Ja. وَجَاءَ (Verb, Perfekt) + رَبُّكَ (Subjekt, Nominativ + Possessivsuffix). Der Satz ist ein vollständiger Verbalsatz: Verb + Fa'il. Es gibt keinen syntaktischen Grund ein Wort zu ergänzen.",
+          "explanation": "Der Text sagt was er sagt. وَجَاءَ رَبُّكَ ist grammatisch: Verb + Subjekt. Die Ergänzung implizierter Wörter (Taqdir) ist nur dann grammatisch begründet wenn der Satz ohne sie syntaktisch unvollständig wäre — das ist hier nicht der Fall."
         },
         {
           "type": "multiple_choice",
@@ -1580,7 +1580,7 @@
         {
           "type": "explanation",
           "title": "Rhetorische Wirkung (historisches Präsens)",
-          "content": "Diese Technik heisst اِسْتِحْضَار — linguistisch handelt es sich um den Einsatz des Imperfekts mit Vergangenheitsbedeutung (historisches Praesens). Ihr Zweck ist es, vergangene Ereignisse so lebendig darzustellen, dass der Leser/Hörer sie als gegenwärtig empfindet. Im Quran wird dies an besonders bedeutsamen Stellen eingesetzt: beim Bau der Kaaba, bei Schlüsselmomenten der Prophetengeschichten, bei dramatischen Szenen am Tag des Gerichts. Der Tempuswechsel ist NIEMALS zufällig — jede Stelle hat eine rhetorische Begründung.",
+          "content": "Diese Technik heißt اِسْتِحْضَار — linguistisch handelt es sich um den Einsatz des Imperfekts mit Vergangenheitsbedeutung (historisches Praesens). Ihr Zweck ist es, vergangene Ereignisse so lebendig darzustellen, dass der Leser/Hörer sie als gegenwärtig empfindet. Im Quran wird dies an besonders bedeutsamen Stellen eingesetzt: beim Bau der Kaaba, bei Schlüsselmomenten der Prophetengeschichten, bei dramatischen Szenen am Tag des Gerichts. Der Tempuswechsel ist NIEMALS zufällig — jede Stelle hat eine rhetorische Begründung.",
           "arabicExamples": [
             {
               "arabic": "وَإِذْ يَمْكُرُ بِكَ الَّذِينَ كَفَرُوا",

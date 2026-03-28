@@ -8,7 +8,8 @@
       "form_ambiguity": "Verb forms (I-X) that collapse to the same consonantal shape when vowels/shadda/hamza are removed",
       "root_ambiguity": "A single surface form that could derive from two or more distinct triliteral roots",
       "case_ambiguity": "The word's grammatical role (and therefore meaning) changes depending on case vowels",
-      "pos_ambiguity": "The same consonantal string could be a verb, noun, adjective, or particle"
+      "pos_ambiguity": "The same consonantal string could be a verb, noun, adjective, or particle",
+      "vocalization_variant": "The difference lies in the vowel pattern (not case), producing distinct lexical items from the same consonantal skeleton"
     },
     "location_format": "surah:ayah:word_position (1-indexed)",
     "notes": [
@@ -323,7 +324,7 @@
           "meaning_en": "firstborn / young camel"
         }
       ],
-      "category": "case_ambiguity"
+      "category": "vocalization_variant"
     },
     {
       "id": 21,
@@ -364,18 +365,10 @@
           "morphology": "3rd person masculine singular imperfect indicative Form V",
           "meaning_de": "es bricht hervor / strömt",
           "meaning_en": "it gushes forth"
-        },
-        {
-          "vocalized": "يَنْفَجِرُ",
-          "root": "ف ج ر",
-          "form": "Form VII imperfect",
-          "pos": "V",
-          "morphology": "3rd person masculine singular imperfect indicative Form VII",
-          "meaning_de": "es bricht auf / spaltet sich",
-          "meaning_en": "it splits open / bursts"
         }
       ],
-      "category": "form_ambiguity"
+      "category": "form_ambiguity",
+      "_note": "Form VII ينفجر has a different consonantal skeleton (ن vs ت) and is therefore not a genuine ambiguity of the same rasm يتفجر. The Form VII option was removed."
     },
     {
       "id": 23,
@@ -3302,7 +3295,7 @@
           "form": "Form I imperfect passive",
           "pos": "V",
           "morphology": "3rd person masculine plural imperfect indicative passive Form I",
-          "meaning_de": "sie werden ausgelacht / es wird ueber sie gelacht",
+          "meaning_de": "sie werden ausgelacht / es wird über sie gelacht",
           "meaning_en": "they are laughed at (passive)"
         }
       ],
@@ -3640,7 +3633,7 @@
           "form": "Form IV imperfect",
           "pos": "V",
           "morphology": "3rd person masculine singular imperfect indicative active Form IV",
-          "meaning_de": "Er laesst abirren (Gott als aktiver Handelnder)",
+          "meaning_de": "Er lässt abirren (Gott als aktiver Handelnder)",
           "meaning_en": "He causes to go astray"
         },
         {
@@ -30274,7 +30267,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -30326,7 +30319,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -30352,7 +30345,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -30378,7 +30371,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -30404,7 +30397,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -30430,7 +30423,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -30456,7 +30449,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -30482,7 +30475,7 @@
           "form": "Form VII perfect",
           "pos": "V",
           "morphology": "PERF|VII (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form VII perfect)",
+          "meaning_de": "(konsonantisch möglich: Form VII perfect)",
           "meaning_en": "(consonantally plausible: Form VII perfect)"
         }
       ],
@@ -30508,7 +30501,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -30534,7 +30527,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -30560,7 +30553,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -30586,7 +30579,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -30647,7 +30640,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -30673,7 +30666,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -30699,7 +30692,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -30725,7 +30718,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -30751,7 +30744,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -30777,7 +30770,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -30803,7 +30796,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -30829,7 +30822,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -30855,7 +30848,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -30881,7 +30874,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -30907,7 +30900,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -30933,7 +30926,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -30959,7 +30952,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -30985,7 +30978,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -31011,7 +31004,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -31037,7 +31030,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -31115,7 +31108,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -31167,7 +31160,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -31193,7 +31186,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -31219,7 +31212,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -31271,7 +31264,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -31297,7 +31290,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -31323,7 +31316,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -31349,7 +31342,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -31375,7 +31368,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -31401,7 +31394,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -31427,7 +31420,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -31453,7 +31446,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -31479,7 +31472,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -31505,7 +31498,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -31531,7 +31524,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -31557,7 +31550,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -31583,7 +31576,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -31609,7 +31602,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -31635,7 +31628,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -31661,7 +31654,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -31687,7 +31680,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -31713,7 +31706,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -31739,7 +31732,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -31765,7 +31758,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -31791,7 +31784,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -31817,7 +31810,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -31869,7 +31862,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -31895,7 +31888,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -31921,7 +31914,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -31947,7 +31940,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -31973,7 +31966,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -31999,7 +31992,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -32025,7 +32018,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -32077,7 +32070,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -32103,7 +32096,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -32155,7 +32148,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -32181,7 +32174,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -32207,7 +32200,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -32233,7 +32226,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -32259,7 +32252,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -32285,7 +32278,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -32311,7 +32304,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -32337,7 +32330,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -32363,7 +32356,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -32389,7 +32382,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -32467,7 +32460,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -32493,7 +32486,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -32545,7 +32538,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -32571,7 +32564,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -32623,7 +32616,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -32649,7 +32642,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -32675,7 +32668,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -32701,7 +32694,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -32727,7 +32720,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -32814,7 +32807,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -32840,7 +32833,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -32866,7 +32859,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -32892,7 +32885,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -32944,7 +32937,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -32996,7 +32989,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -33022,7 +33015,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -33048,7 +33041,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -33074,7 +33067,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -33126,7 +33119,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -33152,7 +33145,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -33178,7 +33171,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -33204,7 +33197,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -33230,7 +33223,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -33256,7 +33249,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -33282,7 +33275,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -33308,7 +33301,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -33334,7 +33327,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -33386,7 +33379,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -33412,7 +33405,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -33438,7 +33431,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -33464,7 +33457,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -33490,7 +33483,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -33516,7 +33509,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -33542,7 +33535,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -33568,7 +33561,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -33620,7 +33613,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -33646,7 +33639,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -33672,7 +33665,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -33698,7 +33691,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -33724,7 +33717,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -33750,7 +33743,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -33776,7 +33769,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -33802,7 +33795,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -33828,7 +33821,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -33854,7 +33847,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -33880,7 +33873,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -33906,7 +33899,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -33958,7 +33951,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -33984,7 +33977,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -34010,7 +34003,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -34036,7 +34029,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -34062,7 +34055,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -34088,7 +34081,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -34114,7 +34107,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -34140,7 +34133,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -34166,7 +34159,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -34192,7 +34185,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -34218,7 +34211,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -34244,7 +34237,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -34270,7 +34263,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -34296,7 +34289,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -34322,7 +34315,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -34400,7 +34393,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -34426,7 +34419,7 @@
           "form": "Form VII perfect",
           "pos": "V",
           "morphology": "PERF|VII (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form VII perfect)",
+          "meaning_de": "(konsonantisch möglich: Form VII perfect)",
           "meaning_en": "(consonantally plausible: Form VII perfect)"
         }
       ],
@@ -34452,7 +34445,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -34478,7 +34471,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -34504,7 +34497,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -34530,7 +34523,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -34556,7 +34549,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -34582,7 +34575,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -34608,7 +34601,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -34634,7 +34627,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -34660,7 +34653,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -34686,7 +34679,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -34712,7 +34705,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -34738,7 +34731,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -34764,7 +34757,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -34790,7 +34783,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -34816,7 +34809,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -34842,7 +34835,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -34868,7 +34861,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -34894,7 +34887,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -34920,7 +34913,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -34946,7 +34939,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -34972,7 +34965,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -34998,7 +34991,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -35024,7 +35017,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -35050,7 +35043,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -35076,7 +35069,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -35102,7 +35095,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -35128,7 +35121,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -35154,7 +35147,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -35180,7 +35173,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -35206,7 +35199,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -35232,7 +35225,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -35258,7 +35251,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -35284,7 +35277,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -35310,7 +35303,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -35336,7 +35329,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -35362,7 +35355,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -35388,7 +35381,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -35414,7 +35407,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -35466,7 +35459,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -35492,7 +35485,7 @@
           "form": "Form VII perfect",
           "pos": "V",
           "morphology": "PERF|VII (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form VII perfect)",
+          "meaning_de": "(konsonantisch möglich: Form VII perfect)",
           "meaning_en": "(consonantally plausible: Form VII perfect)"
         }
       ],
@@ -35518,7 +35511,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -35544,7 +35537,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -35570,7 +35563,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -35596,7 +35589,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -35622,7 +35615,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -35648,7 +35641,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -35674,7 +35667,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -35700,7 +35693,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -35726,7 +35719,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -35752,7 +35745,7 @@
           "form": "Form VII perfect",
           "pos": "V",
           "morphology": "PERF|VII (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form VII perfect)",
+          "meaning_de": "(konsonantisch möglich: Form VII perfect)",
           "meaning_en": "(consonantally plausible: Form VII perfect)"
         }
       ],
@@ -35778,7 +35771,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -35804,7 +35797,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -35830,7 +35823,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -35856,7 +35849,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -35882,7 +35875,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -35908,7 +35901,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -35934,7 +35927,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -35960,7 +35953,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -35986,7 +35979,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -36012,7 +36005,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -36038,7 +36031,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -36064,7 +36057,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -36090,7 +36083,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -36116,7 +36109,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -36142,7 +36135,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -36168,7 +36161,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -36194,7 +36187,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -36220,7 +36213,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -36246,7 +36239,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -36272,7 +36265,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -36298,7 +36291,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -36324,7 +36317,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -36350,7 +36343,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -36376,7 +36369,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -36402,7 +36395,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -36428,7 +36421,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -36454,7 +36447,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -36480,7 +36473,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -36506,7 +36499,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -36532,7 +36525,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -36558,7 +36551,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -36584,7 +36577,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -36610,7 +36603,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -36636,7 +36629,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -36662,7 +36655,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -36688,7 +36681,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -36714,7 +36707,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -36740,7 +36733,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -36766,7 +36759,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -36792,7 +36785,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -36818,7 +36811,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -36844,7 +36837,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -36870,7 +36863,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],
@@ -36896,7 +36889,7 @@
           "form": "Form I imperative",
           "pos": "V",
           "morphology": "IMPV|I (consonantally plausible)",
-          "meaning_de": "(konsonantisch moeglich: Form I imperative)",
+          "meaning_de": "(konsonantisch möglich: Form I imperative)",
           "meaning_en": "(consonantally plausible: Form I imperative)"
         }
       ],

@@ -2,7 +2,7 @@ import { useState, useCallback, useRef } from 'react'
 import alphabetData from '../data/alphabet.json'
 
 /**
- * WritingExercise — Schreibuebung fuer arabische Buchstaben
+ * WritingExercise — Schreibuebung für arabische Buchstaben
  * Der Lernende sieht einen Buchstaben und tippt ihn in allen 4 Positionen.
  * Kombiniert visuelle Erkennung mit aktivem Schreiben.
  */
@@ -91,10 +91,10 @@ export default function WritingExercise({ onBack }) {
         <button onClick={onBack} style={{
           background: 'none', border: 'none', color: 'var(--text-secondary)',
           cursor: 'pointer', fontSize: '0.9rem', padding: '8px 0', marginBottom: '16px',
-        }}>Zurueck zur Uebersicht</button>
+        }}>Zurück zur Übersicht</button>
         <h2 style={{ marginBottom: '8px' }}>Schreibuebung</h2>
         <p style={{ color: 'var(--text-secondary)', marginBottom: '24px', fontSize: '0.9rem' }}>
-          Aktives Schreiben festigt die Buchstabenerkennung. Waehle einen Modus.
+          Aktives Schreiben festigt die Buchstabenerkennung. Wähle einen Modus.
         </p>
         <div style={{ display: 'flex', flexDirection: 'column', gap: '10px' }}>
           {MODES.map(m => (
@@ -124,7 +124,7 @@ export default function WritingExercise({ onBack }) {
         <p style={{ fontSize: '1.1rem', marginBottom: '24px' }}>
           {pct >= 90 ? 'Ausgezeichnet! Dein Schriftbild sitzt.' :
            pct >= 70 ? 'Gut! Wiederhole die schwierigen Buchstaben.' :
-           'Weiter ueben. Gehe zurueck in den Lernmodus und wiederhole.'}
+           'Weiter ueben. Gehe zurück in den Lernmodus und wiederhole.'}
         </p>
         <div style={{ display: 'flex', gap: '10px', justifyContent: 'center' }}>
           <button onClick={() => startDrill(mode)} style={{
@@ -134,7 +134,7 @@ export default function WritingExercise({ onBack }) {
           <button onClick={() => setMode(null)} style={{
             padding: '10px 20px', borderRadius: 'var(--radius)', cursor: 'pointer',
             background: 'var(--bg-input)', color: 'var(--text-primary)', border: '1px solid var(--border)',
-          }}>Modus waehlen</button>
+          }}>Modus wählen</button>
         </div>
       </div>
     )
@@ -146,7 +146,7 @@ export default function WritingExercise({ onBack }) {
       <button onClick={() => setMode(null)} style={{
         background: 'none', border: 'none', color: 'var(--text-secondary)',
         cursor: 'pointer', fontSize: '0.9rem', padding: '8px 0', marginBottom: '16px',
-      }}>Zurueck zur Modusauswahl</button>
+      }}>Zurück zur Modusauswahl</button>
 
       <div style={{ fontSize: '0.85rem', color: 'var(--text-muted)', marginBottom: '16px', textAlign: 'right' }}>
         {currentIndex + 1} / {queue.length}
@@ -166,7 +166,7 @@ export default function WritingExercise({ onBack }) {
         )}
         {mode === 'letter_to_name' && (
           <>
-            <div style={{ fontSize: '0.9rem', color: 'var(--text-muted)', marginBottom: '8px' }}>Wie heisst dieser Buchstabe?</div>
+            <div style={{ fontSize: '0.9rem', color: 'var(--text-muted)', marginBottom: '8px' }}>Wie heißt dieser Buchstabe?</div>
             <div className="arabic" dir="rtl" style={{ fontSize: '4rem', color: 'var(--accent-gold)' }}>{current.forms.isolated}</div>
           </>
         )}
@@ -203,7 +203,7 @@ export default function WritingExercise({ onBack }) {
           <button onClick={checkAnswer} style={{
             padding: '10px 20px', borderRadius: 'var(--radius)', cursor: 'pointer',
             background: 'var(--accent-teal)', color: '#fff', border: 'none', fontWeight: 600,
-          }}>Pruefen</button>
+          }}>Prüfen</button>
         </div>
       ) : (
         <div style={{

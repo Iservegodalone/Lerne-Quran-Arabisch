@@ -1,11 +1,11 @@
 {
   "meta": {
-    "description": "Hapax Legomena im Quran — Woerter die nur einmal vorkommen",
+    "description": "Hapax Legomena im Quran — Wörter die nur einmal vorkommen",
     "hapaxByVocalizedForm": 12004,
     "hapaxByConsonantalForm": 8690,
     "totalWords": 77429,
     "note": "Vokalisierte Hapax: exakt diese vokalisierte Form kommt nur einmal vor. Konsonantale Hapax: diese Konsonantenfolge kommt nur einmal vor (strengeres Kriterium).",
-    "caveat": "Hinweis: Diese Datei listet Woerter, die in einer bestimmten vokalisierten Form nur einmal vorkommen (Form-Hapax). Dies sind keine Hapax Legomena im engeren sprachwissenschaftlichen Sinn (Woerter, deren Wurzel nur einmal belegt ist). Viele der gelisteten Formen sind gaengige Woerter in einer einmaligen Flexionsform. Fuer echte Wurzel-Hapax-Legomena siehe die Wurzeln mit Haeufigkeit 1 in root-frequency-complete.json.",
+    "caveat": "Hinweis: Diese Datei listet Wörter, die in einer bestimmten vokalisierten Form nur einmal vorkommen (Form-Hapax). Dies sind keine Hapax Legomena im engeren sprachwissenschaftlichen Sinn (Wörter, deren Wurzel nur einmal belegt ist). Viele der gelisteten Formen sind gängige Wörter in einer einmaligen Flexionsform. Für echte Wurzel-Hapax-Legomena siehe die Wurzeln mit Häufigkeit 1 in root-frequency-complete.json.",
     "sources": [
       {
         "label": "Quranic Arabic Corpus — Word Search",

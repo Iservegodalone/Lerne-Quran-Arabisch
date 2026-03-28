@@ -6,8 +6,8 @@ import ArabicKeyboard from './ArabicKeyboard.jsx'
 
 /**
  * DictationExercise — Diktatuebung
- * Audio eines Verses hoeren, dann den Konsonantentext schreiben.
- * Bindet Hoeren und Schreiben zusammen.
+ * Audio eines Verses hören, dann den Konsonantentext schreiben.
+ * Bindet Hören und Schreiben zusammen.
  */
 
 export default function DictationExercise({ onBack }) {
@@ -129,12 +129,12 @@ export default function DictationExercise({ onBack }) {
         <button onClick={onBack} style={{
           background: 'none', border: 'none', color: 'var(--text-secondary)',
           cursor: 'pointer', fontSize: '0.9rem', padding: '8px 0', marginBottom: '16px',
-        }}>Zurueck</button>
+        }}>Zurück</button>
       )}
 
       <h2 style={{ marginBottom: '8px' }}>Diktatuebung</h2>
       <p style={{ color: 'var(--text-secondary)', marginBottom: '20px', fontSize: '0.9rem' }}>
-        Hoere den Vers an und schreibe den Konsonantentext. Keine Vokalzeichen noetig.
+        Höre den Vers an und schreibe den Konsonantentext. Keine Vokalzeichen nötig.
       </p>
 
       {/* Verse selector */}
@@ -161,7 +161,7 @@ export default function DictationExercise({ onBack }) {
           background: 'var(--accent-gold-bg)', border: '1px solid var(--accent-gold)',
           fontSize: '0.85rem', color: 'var(--accent-gold)',
         }}>
-          Offline — Audio wird per Sprachsynthese abgespielt, falls verfuegbar.
+          Offline — Audio wird per Sprachsynthese abgespielt, falls verfügbar.
         </div>
       )}
 
@@ -201,7 +201,7 @@ export default function DictationExercise({ onBack }) {
         )}
         {audioError && (
           <span style={{ fontSize: '0.8rem', color: 'var(--incorrect)' }}>
-            Audio nicht verfuegbar
+            Audio nicht verfügbar
           </span>
         )}
       </div>
@@ -228,7 +228,7 @@ export default function DictationExercise({ onBack }) {
               background: userText.trim() ? 'var(--accent-teal)' : 'var(--bg-input)',
               color: userText.trim() ? '#fff' : 'var(--text-muted)',
               border: 'none', cursor: userText.trim() ? 'pointer' : 'default', fontWeight: 600,
-            }}>Pruefen</button>
+            }}>Prüfen</button>
             <ArabicKeyboard
               onInput={char => setUserText(prev => prev + char)}
               onBackspace={() => setUserText(prev => prev.slice(0, -1))}
@@ -250,13 +250,13 @@ export default function DictationExercise({ onBack }) {
             marginBottom: '16px',
           }}>
             <div style={{ fontSize: '1.5rem', fontWeight: 700, marginBottom: '8px' }}>
-              {feedback.correctCount} / {feedback.totalExpected} Woerter korrekt ({feedback.percentage}%)
+              {feedback.correctCount} / {feedback.totalExpected} Wörter korrekt ({feedback.percentage}%)
             </div>
             <p style={{ fontSize: '0.85rem', color: 'var(--text-secondary)' }}>
               {feedback.percentage >= 90 ? 'Ausgezeichnet!' :
-               feedback.percentage >= 70 ? 'Gut! Einige Woerter noch ueberpruefen.' :
-               feedback.percentage >= 50 ? 'Teilweise richtig. Hoere nochmal genau hin.' :
-               'Hoere den Vers mehrmals und versuche es erneut.'}
+               feedback.percentage >= 70 ? 'Gut! Einige Wörter noch ueberpruefen.' :
+               feedback.percentage >= 50 ? 'Teilweise richtig. Höre nochmal genau hin.' :
+               'Höre den Vers mehrmals und versuche es erneut.'}
             </p>
           </div>
 
@@ -303,7 +303,7 @@ export default function DictationExercise({ onBack }) {
               padding: '8px 20px', borderRadius: 'var(--radius)',
               background: 'var(--accent-teal)', border: 'none',
               color: '#fff', cursor: 'pointer', fontWeight: 600,
-            }}>Naechster Vers</button>
+            }}>Nächster Vers</button>
           </div>
         </div>
       )}

@@ -2,7 +2,7 @@
   "meta": {
     "title": "Das Zahlwortsystem im Quranischen Arabisch",
     "description": "Kardinal- und Ordinalzahlen, Tamyiz-Regeln, Geschlechtskongruenz. Rein sprachwissenschaftlich.",
-    "note": "Das arabische Zahlwortsystem hat komplexe Kongruenzregeln die sich von anderen Nominalkategorien unterscheiden. Die Regeln sind morphologisch bedingt und folgen keiner logischen Systematik — sie muessen als Konvention gelernt werden.",
+    "note": "Das arabische Zahlwortsystem hat komplexe Kongruenzregeln die sich von anderen Nominalkategorien unterscheiden. Die Regeln sind morphologisch bedingt und folgen keiner logischen Systematik — sie müssen als Konvention gelernt werden.",
     "sources": [
       {"label": "Wright's Grammar Vol II — Numerals", "url": "https://archive.org/details/WrightsArabicGrammar2Of2"},
       {"label": "Quranic Arabic Corpus", "url": "https://corpus.quran.com"}
@@ -18,7 +18,7 @@
           {
             "type": "explanation",
             "title": "Die Geschlechtsumkehrung (3–10)",
-            "content": "Die Zahlen 1 und 2 kongruieren im Geschlecht mit dem Gezaehlten. Die Zahlen 3–10 zeigen das UMGEKEHRTE Geschlecht:\n\n• Wird ein maskulines Nomen gezaehlt → die Zahl traegt Ta Marbuta (feminine Form)\n• Wird ein feminines Nomen gezaehlt → die Zahl hat KEINE Ta Marbuta (maskuline Form)\n\nDiese Umkehrung ist ein Grundmerkmal des arabischen Zahlwortsystems."
+            "content": "Die Zahlen 1 und 2 kongruieren im Geschlecht mit dem Gezählten. Die Zahlen 3–10 zeigen das UMGEKEHRTE Geschlecht:\n\n• Wird ein maskulines Nomen gezählt → die Zahl trägt Ta Marbuta (feminine Form)\n• Wird ein feminines Nomen gezählt → die Zahl hat KEINE Ta Marbuta (maskuline Form)\n\nDiese Umkehrung ist ein Grundmerkmal des arabischen Zahlwortsystems."
           },
           {
             "type": "example",
@@ -26,7 +26,7 @@
             "examples": [
               {"arabic": "وَاحِد / وَاحِدَة", "transliteration": "waahid / waahidah", "meaning": "1 (m/f) — kongruiert normal"},
               {"arabic": "اثْنَانِ / اثْنَتَانِ", "transliteration": "ithnaani / ithnataan", "meaning": "2 (m/f) — kongruiert normal, Dual"},
-              {"arabic": "ثَلَاثَة / ثَلَاث", "transliteration": "thalaathah / thalaath", "meaning": "3 — MIT Ta Marbuta fuer maskulin, OHNE fuer feminin"},
+              {"arabic": "ثَلَاثَة / ثَلَاث", "transliteration": "thalaathah / thalaath", "meaning": "3 — MIT Ta Marbuta für maskulin, OHNE für feminin"},
               {"arabic": "أَرْبَعَة / أَرْبَع", "transliteration": "arba'ah / arba'", "meaning": "4"},
               {"arabic": "خَمْسَة / خَمْس", "transliteration": "khamsah / khams", "meaning": "5"},
               {"arabic": "سِتَّة / سِتّ", "transliteration": "sittah / sitt", "meaning": "6"},
@@ -39,7 +39,7 @@
           {
             "type": "explanation",
             "title": "Tamyiz (Spezifikation) bei 3–10",
-            "content": "Das Gezaehlte (Tamyiz) steht bei den Zahlen 3–10 im PLURAL GENITIV (جمع مجرور).\n\nDie Zahl selbst richtet sich im Kasus nach ihrer syntaktischen Funktion im Satz."
+            "content": "Das Gezählte (Tamyiz) steht bei den Zahlen 3–10 im PLURAL GENITIV (جمع مجرور).\n\nDie Zahl selbst richtet sich im Kasus nach ihrer syntaktischen Funktion im Satz."
           },
           {
             "type": "quranExamples",
@@ -53,7 +53,7 @@
               {
                 "ref": "7:54",
                 "arabic": "خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ فِي سِتَّةِ أَيَّامٍ",
-                "explanation": "Sechs Tage: سِتَّة (mit Ta Marbuta → Gezaehltes maskulin) + أَيَّامٍ (Plural Genitiv)."
+                "explanation": "Sechs Tage: سِتَّة (mit Ta Marbuta → Gezähltes maskulin) + أَيَّامٍ (Plural Genitiv)."
               },
               {
                 "ref": "18:22",
@@ -63,12 +63,12 @@
               {
                 "ref": "58:7",
                 "arabic": "مَا يَكُونُ مِنْ نَجْوَىٰ ثَلَاثَةٍ إِلَّا هُوَ رَابِعُهُمْ",
-                "explanation": "Drei (Personen): ثَلَاثَةٍ im Genitiv nach Praeposition مِنْ."
+                "explanation": "Drei (Personen): ثَلَاثَةٍ im Genitiv nach Präposition مِنْ."
               },
               {
                 "ref": "2:234",
                 "arabic": "يَتَرَبَّصْنَ بِأَنْفُسِهِنَّ أَرْبَعَةَ أَشْهُرٍ وَعَشْرًا",
-                "explanation": "Vier Monate und zehn: أَرْبَعَة (maskulin → mit Ta Marbuta) + أَشْهُرٍ (Plural Genitiv). عَشْرًا ohne Ta Marbuta — die Grammatiktradition ergaenzt hier ليال (Naechte) als getilgtes Tamyiz. Dies ist eine grammatische Rekonstruktion (Taqdir) — der Text selbst nennt nur عَشْرًا."
+                "explanation": "Vier Monate und zehn: أَرْبَعَة (maskulin → mit Ta Marbuta) + أَشْهُرٍ (Plural Genitiv). عَشْرًا ohne Ta Marbuta — die Grammatiktradition ergänzt hier ليال (Naechte) als getilgtes Tamyiz. Dies ist eine grammatische Rekonstruktion (Taqdir) — der Text selbst nennt nur عَشْرًا."
               },
               {
                 "ref": "12:4",
@@ -88,7 +88,7 @@
               {
                 "ref": "7:160",
                 "arabic": "وَقَطَّعْنَاهُمُ اثْنَتَيْ عَشْرَةَ أَسْبَاطًا أُمَمًا",
-                "explanation": "Zwoelf Staemme: اثْنَتَيْ (Dual Akkusativ/Genitiv feminin) عَشْرَةَ. Dies ist eine in der arabischen Grammatik diskutierte Stelle. Die Genuswahl (feminin) koennte sich auf أُمَّة (fem.) statt سِبْط (mask.) beziehen — eine grammatische Diskussion, nicht eine eindeutige Regel."
+                "explanation": "Zwoelf Stämme: اثْنَتَيْ (Dual Akkusativ/Genitiv feminin) عَشْرَةَ. Dies ist eine in der arabischen Grammatik diskutierte Stelle. Die Genuswahl (feminin) könnte sich auf أُمَّة (fem.) statt سِبْط (mask.) beziehen — eine grammatische Diskussion, nicht eine eindeutige Regel."
               },
               {
                 "ref": "18:25",
@@ -130,12 +130,12 @@
       "testContent": {
         "exercises": [
           {
-            "question": "Was ist die korrekte Form fuer 'fuenf Maenner' (رجل ist maskulin)?",
+            "question": "Was ist die korrekte Form für 'fünf Männer' (رجل ist maskulin)?",
             "options": ["خَمْسَة رِجَالٍ", "خَمْس رِجَالٍ", "خَمْسَة رَجُلًا", "خَمْس رَجُلٍ"],
             "correct": 0
           },
           {
-            "question": "Was ist die korrekte Form fuer 'vier Frauen' (امرأة ist feminin)?",
+            "question": "Was ist die korrekte Form für 'vier Frauen' (امرأة ist feminin)?",
             "options": ["أَرْبَعَة نِسَاءٍ", "أَرْبَع نِسَاءٍ", "أَرْبَعَة نِسْوَةٍ", "أَرْبَع نِسْوَةٍ"],
             "correct": 3
           },
@@ -145,12 +145,12 @@
               "Weil 12 ein spezieller Fall ist",
               "Bei den Zahlen 11-99 steht das Tamyiz im Singular Akkusativ",
               "Es ist ein Fehler",
-              "Weil es nach einer Praeposition steht"
+              "Weil es nach einer Präposition steht"
             ],
             "correct": 1
           },
           {
-            "question": "Wie heisst 'dreihundert' im Quran (18:25)?",
+            "question": "Wie heißt 'dreihundert' im Quran (18:25)?",
             "options": ["ثَلَاثَ مِائَةٍ", "ثَلَاثَة مِائَة", "ثَلَاث مِائَات", "ثَلَاثَمِائَة"],
             "correct": 0
           }
@@ -166,12 +166,12 @@
           {
             "type": "explanation",
             "title": "Zahlen 11–19 (zusammengesetzte Einerzahlen)",
-            "content": "Die Zahlen 11–19 bestehen aus zwei Teilen die zusammen als ein Wort funktionieren (mabniyy 'ala l-fath — auf Fatha gebaut).\n\n• 11: أَحَدَ عَشَرَ (m) / إِحْدَى عَشْرَةَ (f)\n• 12: اثْنَا عَشَرَ (m, Nom) / اثْنَتَا عَشْرَةَ (f, Nom)\n     اثْنَيْ عَشَرَ (m, Akk/Gen) / اثْنَتَيْ عَشْرَةَ (f, Akk/Gen)\n• 13–19: Einerzahl (3–9) + عَشَرَ (m) bzw. عَشْرَةَ (f)\n\nBei 11 und 12 stimmen beide Teile im Geschlecht ueberein.\nBei 13–19 gilt: Einerzahl mit Geschlechtsumkehrung (wie 3–10), die Zehnerstelle kongruiert normal."
+            "content": "Die Zahlen 11–19 bestehen aus zwei Teilen die zusammen als ein Wort funktionieren (mabniyy 'ala l-fath — auf Fatha gebaut).\n\n• 11: أَحَدَ عَشَرَ (m) / إِحْدَى عَشْرَةَ (f)\n• 12: اثْنَا عَشَرَ (m, Nom) / اثْنَتَا عَشْرَةَ (f, Nom)\n     اثْنَيْ عَشَرَ (m, Akk/Gen) / اثْنَتَيْ عَشْرَةَ (f, Akk/Gen)\n• 13–19: Einerzahl (3–9) + عَشَرَ (m) bzw. عَشْرَةَ (f)\n\nBei 11 und 12 stimmen beide Teile im Geschlecht überein.\nBei 13–19 gilt: Einerzahl mit Geschlechtsumkehrung (wie 3–10), die Zehnerstelle kongruiert normal."
           },
           {
             "type": "explanation",
             "title": "Tamyiz bei 11–99",
-            "content": "Das Tamyiz (Gezaehltes) steht bei allen Zahlen von 11–99 im SINGULAR AKKUSATIV (مفرد منصوب).\n\nDies ist eine der wichtigsten Regeln: Obwohl die Bedeutung plural ist, steht das Nomen grammatisch im Singular."
+            "content": "Das Tamyiz (Gezähltes) steht bei allen Zahlen von 11–99 im SINGULAR AKKUSATIV (مفرد منصوب).\n\nDies ist eine der wichtigsten Regeln: Obwohl die Bedeutung plural ist, steht das Nomen grammatisch im Singular."
           },
           {
             "type": "explanation",
@@ -195,12 +195,12 @@
               {
                 "ref": "7:160",
                 "arabic": "وَقَطَّعْنَاهُمُ اثْنَتَيْ عَشْرَةَ أَسْبَاطًا",
-                "explanation": "12 Staemme: اثْنَتَيْ عَشْرَةَ (feminine Form). Dies ist eine in der arabischen Grammatik diskutierte Stelle. Die Genuswahl (feminin) koennte sich auf أُمَّة (fem.) statt سِبْط (mask.) beziehen — eine grammatische Diskussion, nicht eine eindeutige Regel."
+                "explanation": "12 Stämme: اثْنَتَيْ عَشْرَةَ (feminine Form). Dies ist eine in der arabischen Grammatik diskutierte Stelle. Die Genuswahl (feminin) könnte sich auf أُمَّة (fem.) statt سِبْط (mask.) beziehen — eine grammatische Diskussion, nicht eine eindeutige Regel."
               },
               {
                 "ref": "29:14",
                 "arabic": "فَلَبِثَ فِيهِمْ أَلْفَ سَنَةٍ إِلَّا خَمْسِينَ عَامًا",
-                "explanation": "Tausend Jahre minus fuenfzig Jahre: أَلْفَ سَنَةٍ (Tamyiz Singular Genitiv nach 100/1000) — خَمْسِينَ عَامًا (Tamyiz Singular Akkusativ nach 11–99)."
+                "explanation": "Tausend Jahre minus fünfzig Jahre: أَلْفَ سَنَةٍ (Tamyiz Singular Genitiv nach 100/1000) — خَمْسِينَ عَامًا (Tamyiz Singular Akkusativ nach 11–99)."
               },
               {
                 "ref": "2:259",
@@ -215,7 +215,7 @@
               {
                 "ref": "3:124",
                 "arabic": "أَلَنْ يَكْفِيَكُمْ أَنْ يُمِدَّكُمْ رَبُّكُمْ بِثَلَاثَةِ آلَافٍ مِنَ الْمَلَائِكَةِ",
-                "explanation": "Dreitausend (Engel): ثَلَاثَةِ (mit Ta Marbuta → Gezaehltes maskulin, Genitiv nach Praeposition) + آلَافٍ (Plural Genitiv — bei 3–10 gilt die Normalregel fuer أَلْف)."
+                "explanation": "Dreitausend (Engel): ثَلَاثَةِ (mit Ta Marbuta → Gezähltes maskulin, Genitiv nach Präposition) + آلَافٍ (Plural Genitiv — bei 3–10 gilt die Normalregel für أَلْف)."
               }
             ]
           }
@@ -250,7 +250,7 @@
             "correct": 1
           },
           {
-            "question": "Was ist die korrekte Form fuer 'zwanzig Naechte' (ليلة ist feminin)?",
+            "question": "Was ist die korrekte Form für 'zwanzig Naechte' (ليلة ist feminin)?",
             "options": ["عِشْرُونَ لَيْلَةً", "عِشْرُونَ لَيَالٍ", "عِشْرِينَ لَيْلَةً", "عِشْرَة لَيَالٍ"],
             "correct": 0
           },
@@ -259,7 +259,7 @@
             "options": [
               "Weil سنة nur im Singular vorkommt",
               "Weil nach 100/1000 das Tamyiz als Idafa im Singular Genitiv steht",
-              "Weil es nach einer Praeposition steht",
+              "Weil es nach einer Präposition steht",
               "Weil das Verb es verlangt"
             ],
             "correct": 1
@@ -276,7 +276,7 @@
           {
             "type": "explanation",
             "title": "Ordinalzahlen 1–10",
-            "content": "Ordinalzahlen folgen dem Muster فَاعِل (faa'il) fuer die Maskulinform und dem Muster فَاعِلَة (faa'ilah) fuer die Femininform.\n\nAnders als bei Kardinalzahlen kongruieren Ordinalzahlen NORMAL im Geschlecht mit dem Bezugsnomen.\n\n• أَوَّل / أُولَى — erster / erste\n• ثَانٍ / ثَانِيَة — zweiter / zweite\n• ثَالِث / ثَالِثَة — dritter / dritte\n• رَابِع / رَابِعَة — vierter / vierte\n• خَامِس / خَامِسَة — fuenfter / fuenfte\n• سَادِس / سَادِسَة — sechster / sechste\n• سَابِع / سَابِعَة — siebter / siebte\n• ثَامِن / ثَامِنَة — achter / achte\n• تَاسِع / تَاسِعَة — neunter / neunte\n• عَاشِر / عَاشِرَة — zehnter / zehnte"
+            "content": "Ordinalzahlen folgen dem Muster فَاعِل (faa'il) für die Maskulinform und dem Muster فَاعِلَة (faa'ilah) für die Femininform.\n\nAnders als bei Kardinalzahlen kongruieren Ordinalzahlen NORMAL im Geschlecht mit dem Bezugsnomen.\n\n• أَوَّل / أُولَى — erster / erste\n• ثَانٍ / ثَانِيَة — zweiter / zweite\n• ثَالِث / ثَالِثَة — dritter / dritte\n• رَابِع / رَابِعَة — vierter / vierte\n• خَامِس / خَامِسَة — fünfter / fünfte\n• سَادِس / سَادِسَة — sechster / sechste\n• سَابِع / سَابِعَة — siebter / siebte\n• ثَامِن / ثَامِنَة — achter / achte\n• تَاسِع / تَاسِعَة — neunter / neunte\n• عَاشِر / عَاشِرَة — zehnter / zehnte"
           },
           {
             "type": "quranExamples",
@@ -285,7 +285,7 @@
               {
                 "ref": "18:22",
                 "arabic": "ثَلَاثَةٌ رَابِعُهُمْ كَلْبُهُمْ ... خَمْسَةٌ سَادِسُهُمْ كَلْبُهُمْ ... سَبْعَةٌ وَثَامِنُهُمْ كَلْبُهُمْ",
-                "explanation": "Drei — ihr vierter ist ihr Hund ... fuenf — ihr sechster ist ihr Hund ... sieben — und ihr achter ist ihr Hund. Ordinalzahlen als Praedikat."
+                "explanation": "Drei — ihr vierter ist ihr Hund ... fünf — ihr sechster ist ihr Hund ... sieben — und ihr achter ist ihr Hund. Ordinalzahlen als Prädikat."
               },
               {
                 "ref": "39:6",
@@ -307,12 +307,12 @@
           "prompt": "Kongruieren Ordinalzahlen normal oder umgekehrt im Geschlecht?",
           "options": [
             "Umgekehrt wie Kardinalzahlen 3-10",
-            "Normal — maskuline Form fuer maskulines Nomen",
-            "Sie sind unveraenderlich",
+            "Normal — maskuline Form für maskulines Nomen",
+            "Sie sind unveränderlich",
             "Es gibt keine Regel"
           ],
           "correct": 1,
-          "explanation": "Ordinalzahlen kongruieren normal: رَابِع fuer maskulin, رَابِعَة fuer feminin."
+          "explanation": "Ordinalzahlen kongruieren normal: رَابِع für maskulin, رَابِعَة für feminin."
         }
       ],
       "testContent": {
@@ -322,7 +322,7 @@
             "options": [
               "Weil كَلْب (Hund) maskulin ist",
               "Weil die Ordinalzahl immer maskulin ist",
-              "Weil die Zahl fuenf maskulin ist",
+              "Weil die Zahl fünf maskulin ist",
               "Weil das Suffix هُمْ maskulin ist"
             ],
             "correct": 0
@@ -342,13 +342,13 @@
     }
   ],
   "summaryTable": {
-    "title": "Uebersicht: Tamyiz-Regeln nach Zahlbereich",
+    "title": "Übersicht: Tamyiz-Regeln nach Zahlbereich",
     "rows": [
       {"range": "1–2", "tamyiz": "Kongruenz normal, Singular, gleicher Kasus", "gender": "Normal", "quranExample": "إِلَٰهٌ وَاحِدٌ (2:163)"},
       {"range": "3–10", "tamyiz": "Plural Genitiv (جمع مجرور)", "gender": "Umgekehrt", "quranExample": "سَبْعَ سَمَاوَاتٍ (2:29)"},
       {"range": "11–12", "tamyiz": "Singular Akkusativ (مفرد منصوب)", "gender": "Beide Teile kongruieren normal", "quranExample": "اثْنَيْ عَشَرَ نَقِيبًا (5:12)"},
       {"range": "13–19", "tamyiz": "Singular Akkusativ", "gender": "Einerzahl umgekehrt, Zehnerstelle normal", "quranExample": "تِسْعَةَ عَشَرَ (74:30)"},
-      {"range": "20–99", "tamyiz": "Singular Akkusativ", "gender": "Zehnerzahlen unveraenderlich", "quranExample": "عِشْرُونَ صَابِرُونَ (8:65)"},
+      {"range": "20–99", "tamyiz": "Singular Akkusativ", "gender": "Zehnerzahlen unveränderlich", "quranExample": "عِشْرُونَ صَابِرُونَ (8:65)"},
       {"range": "100", "tamyiz": "Singular Genitiv (Idafa)", "gender": "—", "quranExample": "مِائَةَ عَامٍ (2:259)"},
       {"range": "1000", "tamyiz": "Singular Genitiv (Idafa)", "gender": "—", "quranExample": "أَلْفَ سَنَةٍ (29:14)"},
       {"range": "3000–10000", "tamyiz": "آلَاف im Plural Genitiv", "gender": "Umgekehrt (wie 3–10)", "quranExample": "ثَلَاثَةِ آلَافٍ (3:124)"}

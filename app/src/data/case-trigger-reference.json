@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Kasusausloeser-Referenztabelle",
-    "description": "Zusammenfassende Uebersicht: Welche syntaktischen Funktionen und Partikeln loesen welchen Kasus bzw. Modus aus.",
+    "title": "Kasusauslöser-Referenztabelle",
+    "description": "Zusammenfassende Übersicht: Welche syntaktischen Funktionen und Partikeln lösen welchen Kasus bzw. Modus aus.",
     "sources": ["Wright's Grammar Vol II", "Quranic Arabic Corpus"],
     "lessons": ["3.1", "2.6", "3.4", "3.5", "4.4"]
   },
@@ -39,7 +39,7 @@
           "lesson": "3.2"
         },
         {
-          "function": "Khabar (Praedikat des Nominalsatzes)",
+          "function": "Khabar (Prädikat des Nominalsatzes)",
           "arabicTerm": "خَبَر",
           "example": "الْوَلَدُ كَبِيرٌ",
           "quranExample": "وَاللَّهُ عَلِيمٌ حَكِيمٌ (2:32)",
@@ -60,7 +60,7 @@
           "lesson": "3.4"
         },
         {
-          "function": "Tawkid (Bekraeftigung)",
+          "function": "Tawkid (Bekräftigung)",
           "arabicTerm": "تَوْكِيد",
           "example": "جَاءَ الْقَوْمُ كُلُّهُمْ",
           "quranExample": "فَسَجَدَ الْمَلَائِكَةُ كُلُّهُمْ أَجْمَعُونَ (15:30)",
@@ -162,6 +162,13 @@
           "example": "لَا رَيْبَ فِيهِ",
           "quranExample": "لَا رَيْبَ فِيهِ (2:2)",
           "lesson": "4.14"
+        },
+        {
+          "function": "Badal zu Akkusativ-Nomen",
+          "arabicTerm": "بَدَل",
+          "example": "رَأَيْتُ زَيْدًا أَخَاكَ",
+          "quranExample": "صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ (1:7, Akkusativ-Badal zu الصِّرَاطَ in 1:6)",
+          "lesson": "3.13"
         }
       ]
     },
@@ -177,12 +184,13 @@
       },
       "triggers": [
         {
-          "function": "Nach Praepositionen (Jarr wa-Majrur)",
+          "function": "Nach Präpositionen (Jarr wa-Majrur)",
           "arabicTerm": "مَجْرُور بِحَرْفِ الْجَرّ",
           "example": "فِي الْبَيْتِ",
           "quranExample": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ (1:1)",
           "lesson": "3.1",
-          "prepositions": ["مِنْ", "إِلَىٰ", "عَنْ", "عَلَىٰ", "فِي", "بِ", "لِ", "كَ", "حَتَّىٰ", "عِنْدَ", "بَيْنَ"]
+          "prepositions": ["مِنْ", "إِلَىٰ", "عَنْ", "عَلَىٰ", "فِي", "بِ", "لِ", "كَ", "حَتَّىٰ", "عِنْدَ", "بَيْنَ"],
+          "prepositionNote": "عِنْدَ und بَيْنَ sind technisch Zuruuf (Adverbien), die durch Idafa den Genitiv regieren, nicht Präpositionen im engeren Sinne"
         },
         {
           "function": "Mudaf ilayhi (Zweites Glied der Idafa)",
@@ -195,14 +203,14 @@
           "function": "Sifa/Na't zu Genitiv-Nomen",
           "arabicTerm": "صِفَة",
           "example": "فِي الْبَيْتِ الْكَبِيرِ",
-          "quranExample": "صِرَاطِ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ (1:7, Genitiv als Badal)",
+          "quranExample": "الرَّحْمَٰنِ الرَّحِيمِ (1:3, Genitiv-Sifa zu اللَّهِ im Genitiv als Idafa-Zweitglied)",
           "lesson": "3.18"
         },
         {
           "function": "Badal zu Genitiv-Nomen",
           "arabicTerm": "بَدَل",
           "example": "مَرَرْتُ بِزَيْدٍ أَخِيكَ",
-          "quranExample": "صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ (1:7, Badal zu الصراط)",
+          "quranExample": "رَبِّ الْعَالَمِينَ (1:2, Badal zu اللَّهِ im Genitiv)",
           "lesson": "3.13"
         },
         {
@@ -213,11 +221,12 @@
           "lesson": "3.8"
         },
         {
-          "function": "Tamyiz nach Zahlen 3-10 (Genitiv Plural)",
-          "arabicTerm": "تَمْيِيزُ الْعَدَد",
+          "function": "Ma'dud nach Zahlen 3-10 (Genitiv Plural via Idafa)",
+          "arabicTerm": "مَعْدُود",
           "example": "ثَلَاثَةُ أَيَّامٍ",
           "quranExample": "سَبْعَ سَمَاوَاتٍ (2:29)",
-          "lesson": "3.10"
+          "lesson": "3.10",
+          "note": "Bei Zahlen 3-10 steht das Gezählte im Genitiv Plural als Mudaf ilaihi (Idafa-Konstruktion), nicht als Tamyiz im eigentlichen Sinne. Tamyiz im strengen Sinne (Akkusativ Singular) gilt für Zahlen 11-99."
         }
       ]
     }
@@ -225,13 +234,13 @@
   "verbalMoods": {
     "indikativ": {
       "arabicTerm": "مَرْفُوع",
-      "marker": "-u (Damma) / Nun bei den fuenf Verben",
+      "marker": "-u (Damma) / Nun bei den fünf Verben",
       "condition": "Kein Nasb- oder Jazm-Partikel vorhanden (Standardmodus)",
       "lesson": "2.6"
     },
     "subjunktiv": {
       "arabicTerm": "مَنْصُوب",
-      "marker": "-a (Fatha) / Nun faellt bei den fuenf Verben",
+      "marker": "-a (Fatha) / Nun fällt bei den fünf Verben",
       "triggers": [
         {"particle": "أَنْ", "meaning": "dass/zu", "quranExample": "أَنْ يَكُونَ (2:247)"},
         {"particle": "لَنْ", "meaning": "wird niemals", "quranExample": "لَنْ تَنَالُوا (3:92)"},
@@ -244,7 +253,7 @@
     },
     "jussiv": {
       "arabicTerm": "مَجْزُوم",
-      "marker": "Sukun / Nun faellt bei den fuenf Verben / schwacher Endkonsonant faellt",
+      "marker": "Sukun / Nun fällt bei den fünf Verben / schwacher Endkonsonant fällt",
       "triggers": [
         {"particle": "لَمْ", "meaning": "nicht (Vergangenheit)", "quranExample": "لَمْ يَلِدْ وَلَمْ يُولَدْ (112:3)"},
         {"particle": "لَمَّا", "meaning": "noch nicht", "quranExample": "بَلْ لَمَّا يَذُوقُوا عَذَابِ (38:8)"},
@@ -260,8 +269,8 @@
   "specialNotes": [
     "Der gesunde Feminin-Plural zeigt Kasra im Akkusativ UND Genitiv — NICHT Fatha.",
     "Diptoten zeigen Fatha statt Kasra im Genitiv und kein Tanwin. Mit Artikel oder in Idafa verhalten sie sich wie Triptoten.",
-    "Die fuenf Verben zeigen den Modus durch An-/Abwesenheit des End-Nun, nicht durch Endvokal.",
-    "Die fuenf Sondernomen (أب, أخ, حم, فم, ذو) zeigen den Kasus durch Langvokale statt Kurzvokale.",
-    "Sifa (Adjektiv), Badal (Apposition), Atf (Koordination) und Tawkid (Bekraeftigung) folgen dem Kasus ihres Bezugsworts — sie sind keine eigenstaendigen Kasusausloeser."
+    "Die fünf Verben zeigen den Modus durch An-/Abwesenheit des End-Nun, nicht durch Endvokal.",
+    "Die fünf Sondernomen (أب, أخ, حم, فم, ذو) zeigen den Kasus durch Langvokale statt Kurzvokale.",
+    "Sifa (Adjektiv), Badal (Apposition), Atf (Koordination) und Tawkid (Bekräftigung) folgen dem Kasus ihres Bezugsworts — sie sind keine eigenständigen Kasusauslöser."
   ]
 }

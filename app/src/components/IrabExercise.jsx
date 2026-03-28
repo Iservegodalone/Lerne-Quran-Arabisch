@@ -17,8 +17,8 @@ const INLINE_EXERCISES = [
     ref: '1:2',
     arabic: '\u0627\u0644\u0652\u062D\u064E\u0645\u0652\u062F\u064F \u0644\u0650\u0644\u0651\u064E\u0647\u0650 \u0631\u064E\u0628\u0651\u0650 \u0627\u0644\u0652\u0639\u064E\u0627\u0644\u064E\u0645\u0650\u064A\u0646\u064E',
     words: [
-      { word: '\u0627\u0644\u0652\u062D\u064E\u0645\u0652\u062F\u064F', role: 'Mubtada', case: 'Nominativ (Raf\')', explanation: 'Thema des Nominalsatzes, traegt Damma' },
-      { word: '\u0644\u0650\u0644\u0651\u064E\u0647\u0650', role: 'Khabar', case: 'Genitiv (Jarr)', explanation: 'Praedikat als Jarr wa-Majrur. \u0644\u0650 ist Praeposition, \u0627\u0644\u0644\u0651\u064E\u0647 steht im Genitiv' },
+      { word: '\u0627\u0644\u0652\u062D\u064E\u0645\u0652\u062F\u064F', role: 'Mubtada', case: 'Nominativ (Raf\')', explanation: 'Thema des Nominalsatzes, trägt Damma' },
+      { word: '\u0644\u0650\u0644\u0651\u064E\u0647\u0650', role: 'Khabar', case: 'Genitiv (Jarr)', explanation: 'Prädikat als Jarr wa-Majrur. \u0644\u0650 ist Präposition, \u0627\u0644\u0644\u0651\u064E\u0647 steht im Genitiv' },
       { word: '\u0631\u064E\u0628\u0651\u0650', role: 'Badal', case: 'Genitiv (Jarr)', explanation: 'Apposition zu \u0627\u0644\u0644\u0651\u064E\u0647 — kongruiert im Kasus (Genitiv)' },
       { word: '\u0627\u0644\u0652\u0639\u064E\u0627\u0644\u064E\u0645\u0650\u064A\u0646\u064E', role: 'Mudaf ilayhi', case: 'Genitiv (Jarr)', explanation: 'Zweites Glied der Idafa \u0631\u064E\u0628\u0651\u0650 \u0627\u0644\u0652\u0639\u064E\u0627\u0644\u064E\u0645\u0650\u064A\u0646\u064E. Genitiv-Markierung: -\u064A\u0646 (gesunder mask. Plural)' }
     ]
@@ -47,7 +47,7 @@ const INLINE_EXERCISES = [
     arabic: '\u0630\u064E\u0670\u0644\u0650\u0643\u064E \u0627\u0644\u0652\u0643\u0650\u062A\u064E\u0627\u0628\u064F \u0644\u064E\u0627 \u0631\u064E\u064A\u0652\u0628\u064E \u0641\u0650\u064A\u0647\u0650',
     words: [
       { word: '\u0630\u064E\u0670\u0644\u0650\u0643\u064E', role: 'Mubtada', case: 'Indeklinabel', explanation: 'Demonstrativpronomen als Thema. Indeklinabel, syntaktisch Nominativ' },
-      { word: '\u0627\u0644\u0652\u0643\u0650\u062A\u064E\u0627\u0628\u064F', role: 'Khabar', case: 'Nominativ (Raf\')', explanation: 'Praedikat zum Mubtada \u0630\u064E\u0670\u0644\u0650\u0643\u064E. Damma als Kasuszeichen' },
+      { word: '\u0627\u0644\u0652\u0643\u0650\u062A\u064E\u0627\u0628\u064F', role: 'Khabar', case: 'Nominativ (Raf\')', explanation: 'Prädikat zum Mubtada \u0630\u064E\u0670\u0644\u0650\u0643\u064E. Damma als Kasuszeichen' },
       { word: '\u0644\u064E\u0627', role: 'Harf (Partikel)', case: 'Indeklinabel', explanation: '\u0644\u064E\u0627 \u0627\u0644\u0646\u0627\u0641\u064A\u0629 \u0644\u0644\u062C\u0646\u0633 — generische Negation' },
       { word: '\u0631\u064E\u064A\u0652\u0628\u064E', role: 'Ism inna', case: 'Akkusativ (Nasb)', explanation: 'Ism von \u0644\u064E\u0627 \u0627\u0644\u0646\u0627\u0641\u064A\u0629 \u0644\u0644\u062C\u0646\u0633 — Akkusativ ohne Tanwin (mabni ala l-fath)' },
       { word: '\u0641\u0650\u064A\u0647\u0650', role: 'Khabar inna', case: 'Indeklinabel', explanation: 'Khabar von \u0644\u064E\u0627 als Jarr wa-Majrur (\u0641\u0650\u064A + Suffix \u0647\u0650)' }
@@ -57,7 +57,7 @@ const INLINE_EXERCISES = [
     ref: '2:6',
     arabic: '\u0625\u0650\u0646\u0651\u064E \u0627\u0644\u0651\u064E\u0630\u0650\u064A\u0646\u064E \u0643\u064E\u0641\u064E\u0631\u064F\u0648\u0627',
     words: [
-      { word: '\u0625\u0650\u0646\u0651\u064E', role: 'Harf (Partikel)', case: 'Indeklinabel', explanation: 'Bekraeftigungspartikel. Setzt das Ism in den Akkusativ' },
+      { word: '\u0625\u0650\u0646\u0651\u064E', role: 'Harf (Partikel)', case: 'Indeklinabel', explanation: 'Bekräftigungspartikel. Setzt das Ism in den Akkusativ' },
       { word: '\u0627\u0644\u0651\u064E\u0630\u0650\u064A\u0646\u064E', role: 'Ism inna', case: 'Akkusativ (Nasb)', explanation: 'Ism von \u0625\u0650\u0646\u0651\u064E. Relativpronomen, -\u064A\u0646\u064E signalisiert Akk/Gen' },
       { word: '\u0643\u064E\u0641\u064E\u0631\u064F\u0648\u0627', role: "Fi'l (Verb)", case: 'Indeklinabel', explanation: 'Perfekt 3mp, Wurzel \u0643-\u0641-\u0631. Relativsatz (\u0635\u0650\u0644\u0629)' }
     ]
@@ -68,7 +68,7 @@ const INLINE_EXERCISES = [
     words: [
       { word: '\u062E\u064E\u062A\u064E\u0645\u064E', role: "Fi'l (Verb)", case: 'Indeklinabel', explanation: 'Perfekt 3ms, Wurzel \u062E-\u062A-\u0645, Form I' },
       { word: '\u0627\u0644\u0644\u0651\u064E\u0647\u064F', role: "Fa'il", case: 'Nominativ (Raf\')', explanation: 'Subjekt des Verbs. Damma als Kasuszeichen' },
-      { word: '\u0639\u064E\u0644\u064E\u0649\u0670', role: 'Harf (Partikel)', case: 'Indeklinabel', explanation: 'Praeposition. Regiert Genitiv' },
+      { word: '\u0639\u064E\u0644\u064E\u0649\u0670', role: 'Harf (Partikel)', case: 'Indeklinabel', explanation: 'Präposition. Regiert Genitiv' },
       { word: '\u0642\u064F\u0644\u064F\u0648\u0628\u0650\u0647\u0650\u0645\u0652', role: 'Majrur', case: 'Genitiv (Jarr)', explanation: 'Nach \u0639\u064E\u0644\u064E\u0649\u0670 im Genitiv. Kasra + Possessivsuffix \u0647\u0650\u0645\u0652' }
     ]
   },
@@ -90,14 +90,14 @@ const INLINE_EXERCISES = [
       { word: '\u0642\u064F\u0644\u0652', role: "Fi'l (Verb)", case: 'Indeklinabel', explanation: 'Imperativ 2ms, Wurzel \u0642-\u0648-\u0644 (hohl)' },
       { word: '\u0647\u064F\u0648\u064E', role: 'Mubtada', case: 'Indeklinabel', explanation: 'Pronomen 3ms als Thema oder Damir ash-Sha\u02BFn' },
       { word: '\u0627\u0644\u0644\u0651\u064E\u0647\u064F', role: 'Mubtada', case: 'Nominativ (Raf\')', explanation: 'Zweites Mubtada (oder Khabar zu \u0647\u064F\u0648\u064E). Damma' },
-      { word: '\u0623\u064E\u062D\u064E\u062F\u064C', role: 'Khabar', case: 'Nominativ (Raf\')', explanation: 'Praedikat. Nominativ mit Tanwin' }
+      { word: '\u0623\u064E\u062D\u064E\u062F\u064C', role: 'Khabar', case: 'Nominativ (Raf\')', explanation: 'Prädikat. Nominativ mit Tanwin' }
     ]
   },
   {
     ref: '112:3',
     arabic: '\u0644\u064E\u0645\u0652 \u064A\u064E\u0644\u0650\u062F\u0652 \u0648\u064E\u0644\u064E\u0645\u0652 \u064A\u064F\u0648\u0644\u064E\u062F\u0652',
     words: [
-      { word: '\u0644\u064E\u0645\u0652', role: 'Harf (Partikel)', case: 'Indeklinabel', explanation: 'Negation der Vergangenheit, loest Jussiv aus' },
+      { word: '\u0644\u064E\u0645\u0652', role: 'Harf (Partikel)', case: 'Indeklinabel', explanation: 'Negation der Vergangenheit, löst Jussiv aus' },
       { word: '\u064A\u064E\u0644\u0650\u062F\u0652', role: "Fi'l (Verb)", case: 'Indeklinabel', explanation: 'Imperfekt 3ms Jussiv (Sukun), Wurzel \u0648-\u0644-\u062F. Er zeugte nicht' },
       { word: '\u0648\u064E\u0644\u064E\u0645\u0652', role: 'Harf (Partikel)', case: 'Indeklinabel', explanation: '\u0648\u064E (Konjunktion) + \u0644\u064E\u0645\u0652 (Negation + Jussiv)' },
       { word: '\u064A\u064F\u0648\u0644\u064E\u062F\u0652', role: "Fi'l (Verb)", case: 'Indeklinabel', explanation: 'Imperfekt Passiv 3ms Jussiv, Wurzel \u0648-\u0644-\u062F. Er wurde nicht gezeugt' }
@@ -108,7 +108,7 @@ const INLINE_EXERCISES = [
     arabic: '\u0627\u0642\u0652\u0631\u064E\u0623\u0652 \u0628\u0650\u0627\u0633\u0652\u0645\u0650 \u0631\u064E\u0628\u0651\u0650\u0643\u064E \u0627\u0644\u0651\u064E\u0630\u0650\u064A \u062E\u064E\u0644\u064E\u0642\u064E',
     words: [
       { word: '\u0627\u0642\u0652\u0631\u064E\u0623\u0652', role: "Fi'l (Verb)", case: 'Indeklinabel', explanation: 'Imperativ 2ms, Wurzel \u0642-\u0631-\u0623, Form I. Trag vor!' },
-      { word: '\u0628\u0650\u0627\u0633\u0652\u0645\u0650', role: 'Majrur', case: 'Genitiv (Jarr)', explanation: '\u0628\u0650 (Praeposition) + \u0627\u0633\u0652\u0645 im Genitiv' },
+      { word: '\u0628\u0650\u0627\u0633\u0652\u0645\u0650', role: 'Majrur', case: 'Genitiv (Jarr)', explanation: '\u0628\u0650 (Präposition) + \u0627\u0633\u0652\u0645 im Genitiv' },
       { word: '\u0631\u064E\u0628\u0651\u0650\u0643\u064E', role: 'Mudaf ilayhi', case: 'Genitiv (Jarr)', explanation: 'Zweites Glied der Idafa \u0627\u0633\u0652\u0645 \u0631\u064E\u0628\u0651\u0650\u0643\u064E. Kasra + Suffix' },
       { word: '\u0627\u0644\u0651\u064E\u0630\u0650\u064A', role: "Sifa/Na't", case: 'Genitiv (Jarr)', explanation: 'Relativpronomen als Attribut zu \u0631\u064E\u0628\u0651\u0650\u0643\u064E' },
       { word: '\u062E\u064E\u0644\u064E\u0642\u064E', role: "Fi'l (Verb)", case: 'Indeklinabel', explanation: 'Perfekt 3ms, Wurzel \u062E-\u0644-\u0642. Relativsatz (Sila)' }
@@ -144,8 +144,8 @@ const INLINE_EXERCISES = [
     words: [
       { word: '\u0648\u064E\u0643\u064E\u0644\u0651\u064E\u0645\u064E', role: "Fi'l (Verb)", case: 'Indeklinabel', explanation: 'Perfekt 3ms, Form II, Wurzel \u0643-\u0644-\u0645' },
       { word: '\u0627\u0644\u0644\u0651\u064E\u0647\u064F', role: "Fa'il", case: 'Nominativ (Raf\')', explanation: 'Subjekt des Verbs. Damma als Kasuszeichen' },
-      { word: '\u0645\u064F\u0648\u0633\u064E\u0649\u0670', role: "Maf'ul bihi", case: 'Akkusativ (Nasb)', explanation: 'Direktes Objekt. Akkusativ (geschaetzt, da Name auf Alif maqsura)' },
-      { word: '\u062A\u064E\u0643\u0652\u0644\u0650\u064A\u0645\u064B\u0627', role: "Maf'ul mutlaq", case: 'Akkusativ (Nasb)', explanation: 'Absoluter Akkusativ (Masdar von Form II). Verstaerkt das Verb \u0643\u064E\u0644\u0651\u064E\u0645\u064E. Tanwin-Fatha' }
+      { word: '\u0645\u064F\u0648\u0633\u064E\u0649\u0670', role: "Maf'ul bihi", case: 'Akkusativ (Nasb)', explanation: 'Direktes Objekt. Akkusativ (geschätzt, da Name auf Alif maqsura)' },
+      { word: '\u062A\u064E\u0643\u0652\u0644\u0650\u064A\u0645\u064B\u0627', role: "Maf'ul mutlaq", case: 'Akkusativ (Nasb)', explanation: 'Absoluter Akkusativ (Masdar von Form II). Verstärkt das Verb \u0643\u064E\u0644\u0651\u064E\u0645\u064E. Tanwin-Fatha' }
     ]
   },
   {
@@ -153,9 +153,9 @@ const INLINE_EXERCISES = [
     arabic: '\u0635\u064E\u0644\u0651\u064F\u0648\u0627 \u0639\u064E\u0644\u064E\u064A\u0652\u0647\u0650 \u0648\u064E\u0633\u064E\u0644\u0651\u0650\u0645\u064F\u0648\u0627 \u062A\u064E\u0633\u0652\u0644\u0650\u064A\u0645\u064B\u0627',
     words: [
       { word: '\u0635\u064E\u0644\u0651\u064F\u0648\u0627', role: "Fi'l (Verb)", case: 'Indeklinabel', explanation: 'Imperativ 2mp, Form II, Wurzel \u0635-\u0644-\u0648' },
-      { word: '\u0639\u064E\u0644\u064E\u064A\u0652\u0647\u0650', role: 'Majrur', case: 'Genitiv (Jarr)', explanation: 'Praeposition \u0639\u064E\u0644\u064E\u0649 + Suffix \u0647\u0650 im Genitiv' },
+      { word: '\u0639\u064E\u0644\u064E\u064A\u0652\u0647\u0650', role: 'Majrur', case: 'Genitiv (Jarr)', explanation: 'Präposition \u0639\u064E\u0644\u064E\u0649 + Suffix \u0647\u0650 im Genitiv' },
       { word: '\u0648\u064E\u0633\u064E\u0644\u0651\u0650\u0645\u064F\u0648\u0627', role: "Fi'l (Verb)", case: 'Indeklinabel', explanation: 'Imperativ 2mp, Form II, Wurzel \u0633-\u0644-\u0645' },
-      { word: '\u062A\u064E\u0633\u0652\u0644\u0650\u064A\u0645\u064B\u0627', role: "Maf'ul mutlaq", case: 'Akkusativ (Nasb)', explanation: 'Absoluter Akkusativ. Masdar II verstaerkt das Verb \u0633\u064E\u0644\u0651\u0650\u0645\u064F\u0648\u0627. Tanwin-Fatha' }
+      { word: '\u062A\u064E\u0633\u0652\u0644\u0650\u064A\u0645\u064B\u0627', role: "Maf'ul mutlaq", case: 'Akkusativ (Nasb)', explanation: 'Absoluter Akkusativ. Masdar II verstärkt das Verb \u0633\u064E\u0644\u0651\u0650\u0645\u064F\u0648\u0627. Tanwin-Fatha' }
     ]
   },
   {
@@ -173,8 +173,8 @@ const INLINE_EXERCISES = [
     words: [
       { word: '\u0625\u0650\u0646\u0651\u064E\u0627', role: 'Harf (Partikel)', case: 'Indeklinabel', explanation: '\u0625\u0650\u0646\u0651\u064E + Suffix \u0646\u064E\u0627 (wir) als Ism von \u0625\u0650\u0646\u0651\u064E' },
       { word: '\u0641\u064E\u062A\u064E\u062D\u0652\u0646\u064E\u0627', role: "Fi'l (Verb)", case: 'Indeklinabel', explanation: 'Perfekt 1pl, Wurzel \u0641-\u062A-\u062D' },
-      { word: '\u0644\u064E\u0643\u064E', role: 'Majrur', case: 'Genitiv (Jarr)', explanation: 'Praeposition \u0644\u064E\u0640 + Suffix \u0643\u064E' },
-      { word: '\u0641\u064E\u062A\u0652\u062D\u064B\u0627', role: "Maf'ul mutlaq", case: 'Akkusativ (Nasb)', explanation: 'Absoluter Akkusativ. Masdar von \u0641\u064E\u062A\u064E\u062D\u064E. Verstaerkt das Verb. Tanwin-Fatha' },
+      { word: '\u0644\u064E\u0643\u064E', role: 'Majrur', case: 'Genitiv (Jarr)', explanation: 'Präposition \u0644\u064E\u0640 + Suffix \u0643\u064E' },
+      { word: '\u0641\u064E\u062A\u0652\u062D\u064B\u0627', role: "Maf'ul mutlaq", case: 'Akkusativ (Nasb)', explanation: 'Absoluter Akkusativ. Masdar von \u0641\u064E\u062A\u064E\u062D\u064E. Verstärkt das Verb. Tanwin-Fatha' },
       { word: '\u0645\u064F\u0628\u0650\u064A\u0646\u064B\u0627', role: "Sifa/Na't", case: 'Akkusativ (Nasb)', explanation: 'Attribut zu \u0641\u064E\u062A\u0652\u062D\u064B\u0627. Kongruenz im Akkusativ' }
     ]
   },
@@ -183,8 +183,8 @@ const INLINE_EXERCISES = [
     arabic: '\u0648\u064E\u062A\u064E\u0628\u064E\u062A\u0651\u064E\u0644\u0652 \u0625\u0650\u0644\u064E\u064A\u0652\u0647\u0650 \u062A\u064E\u0628\u0652\u062A\u0650\u064A\u0644\u064B\u0627',
     words: [
       { word: '\u0648\u064E\u062A\u064E\u0628\u064E\u062A\u0651\u064E\u0644\u0652', role: "Fi'l (Verb)", case: 'Indeklinabel', explanation: 'Imperativ 2ms, Form V, Wurzel \u0628-\u062A-\u0644' },
-      { word: '\u0625\u0650\u0644\u064E\u064A\u0652\u0647\u0650', role: 'Majrur', case: 'Genitiv (Jarr)', explanation: 'Praeposition \u0625\u0650\u0644\u064E\u0649 + Suffix \u0647\u0650' },
-      { word: '\u062A\u064E\u0628\u0652\u062A\u0650\u064A\u0644\u064B\u0627', role: "Maf'ul mutlaq", case: 'Akkusativ (Nasb)', explanation: 'Absoluter Akkusativ. Masdar II von \u0628-\u062A-\u0644. Verstaerkt das Verb. Tanwin-Fatha' }
+      { word: '\u0625\u0650\u0644\u064E\u064A\u0652\u0647\u0650', role: 'Majrur', case: 'Genitiv (Jarr)', explanation: 'Präposition \u0625\u0650\u0644\u064E\u0649 + Suffix \u0647\u0650' },
+      { word: '\u062A\u064E\u0628\u0652\u062A\u0650\u064A\u0644\u064B\u0627', role: "Maf'ul mutlaq", case: 'Akkusativ (Nasb)', explanation: 'Absoluter Akkusativ. Masdar II von \u0628-\u062A-\u0644. Verstärkt das Verb. Tanwin-Fatha' }
     ]
   },
   {
@@ -192,7 +192,7 @@ const INLINE_EXERCISES = [
     arabic: '\u0648\u064E\u0625\u0650\u0646\u0651\u064E\u0647\u064E\u0627 \u0644\u064E\u0643\u064E\u0628\u0650\u064A\u0631\u064E\u0629\u064C',
     words: [
       { word: '\u0648\u064E\u0625\u0650\u0646\u0651\u064E\u0647\u064E\u0627', role: 'Harf (Partikel)', case: 'Indeklinabel', explanation: '\u0648\u064E + \u0625\u0650\u0646\u0651\u064E + Suffix \u0647\u064E\u0627 als Ism' },
-      { word: '\u0644\u064E\u0643\u064E\u0628\u0650\u064A\u0631\u064E\u0629\u064C', role: 'Khabar inna', case: 'Nominativ (Raf\')', explanation: 'Khabar von \u0625\u0650\u0646\u0651\u064E. Das \u0644\u064E\u0640 ist Lam al-Mubtada (bekraeftigend). Damma mit Tanwin' }
+      { word: '\u0644\u064E\u0643\u064E\u0628\u0650\u064A\u0631\u064E\u0629\u064C', role: 'Khabar inna', case: 'Nominativ (Raf\')', explanation: 'Khabar von \u0625\u0650\u0646\u0651\u064E. Das \u0644\u064E\u0640 ist Lam al-Mubtada (bekräftigend). Damma mit Tanwin' }
     ]
   },
   // === NEUE ÜBUNGEN: Maf'ul li-ajlihi (Akkusativ des Grundes) ===
@@ -202,7 +202,7 @@ const INLINE_EXERCISES = [
     words: [
       { word: '\u064A\u064E\u062C\u0652\u0639\u064E\u0644\u064F\u0648\u0646\u064E', role: "Fi'l (Verb)", case: 'Indeklinabel', explanation: 'Imperfekt 3mp, Indikativ. \u0648\u0646\u064E = Raf\u02BF-Marker' },
       { word: '\u0623\u064E\u0635\u064E\u0627\u0628\u0650\u0639\u064E\u0647\u064F\u0645\u0652', role: "Maf'ul bihi", case: 'Akkusativ (Nasb)', explanation: 'Direktes Objekt. Fatha + Possessivsuffix' },
-      { word: '\u0641\u0650\u064A \u0622\u0630\u064E\u0627\u0646\u0650\u0647\u0650\u0645\u0652', role: 'Majrur', case: 'Genitiv (Jarr)', explanation: 'Praeposition + Genitiv. In ihren Ohren' },
+      { word: '\u0641\u0650\u064A \u0622\u0630\u064E\u0627\u0646\u0650\u0647\u0650\u0645\u0652', role: 'Majrur', case: 'Genitiv (Jarr)', explanation: 'Präposition + Genitiv. In ihren Ohren' },
       { word: '\u062D\u064E\u0630\u064E\u0631\u064E', role: "Maf'ul li-Ajlihi", case: 'Akkusativ (Nasb)', explanation: 'Akkusativ des Grundes (Maf\u02BFul li-ajlihi). Aus Angst vor. Fatha ohne Tanwin (Mudaf)' },
       { word: '\u0627\u0644\u0652\u0645\u064E\u0648\u0652\u062A\u0650', role: 'Mudaf ilayhi', case: 'Genitiv (Jarr)', explanation: 'Zweites Glied der Idafa. Kasra' }
     ]
@@ -211,7 +211,7 @@ const INLINE_EXERCISES = [
     ref: '2:207',
     arabic: '\u0648\u064E\u0645\u0650\u0646\u064E \u0627\u0644\u0646\u0651\u064E\u0627\u0633\u0650 \u0645\u064E\u0646 \u064A\u064E\u0634\u0652\u0631\u0650\u064A \u0646\u064E\u0641\u0652\u0633\u064E\u0647\u064F \u0627\u0628\u0652\u062A\u0650\u063A\u064E\u0627\u0621\u064E \u0645\u064E\u0631\u0652\u0636\u064E\u0627\u062A\u0650 \u0627\u0644\u0644\u0651\u064E\u0647\u0650',
     words: [
-      { word: '\u0648\u064E\u0645\u0650\u0646\u064E \u0627\u0644\u0646\u0651\u064E\u0627\u0633\u0650', role: 'Majrur', case: 'Genitiv (Jarr)', explanation: 'Praeposition \u0645\u0650\u0646\u0652 + Genitiv. Vorangestelltes Khabar' },
+      { word: '\u0648\u064E\u0645\u0650\u0646\u064E \u0627\u0644\u0646\u0651\u064E\u0627\u0633\u0650', role: 'Majrur', case: 'Genitiv (Jarr)', explanation: 'Präposition \u0645\u0650\u0646\u0652 + Genitiv. Vorangestelltes Khabar' },
       { word: '\u0645\u064E\u0646', role: 'Mubtada', case: 'Indeklinabel', explanation: 'Relativpronomen als Mubtada. Indeklinabel' },
       { word: '\u064A\u064E\u0634\u0652\u0631\u0650\u064A', role: "Fi'l (Verb)", case: 'Indeklinabel', explanation: 'Imperfekt 3ms, Wurzel \u0634-\u0631-\u064A. Relativsatz' },
       { word: '\u0646\u064E\u0641\u0652\u0633\u064E\u0647\u064F', role: "Maf'ul bihi", case: 'Akkusativ (Nasb)', explanation: 'Direktes Objekt von \u064A\u064E\u0634\u0652\u0631\u0650\u064A. Fatha + Suffix' },
@@ -223,11 +223,11 @@ const INLINE_EXERCISES = [
     ref: '28:20',
     arabic: '\u0625\u0650\u0646\u0651\u064E \u0627\u0644\u0652\u0645\u064E\u0644\u064E\u0623\u064E \u064A\u064E\u0623\u0652\u062A\u064E\u0645\u0650\u0631\u064F\u0648\u0646\u064E \u0628\u0650\u0643\u064E \u0644\u0650\u064A\u064E\u0642\u0652\u062A\u064F\u0644\u064F\u0648\u0643\u064E',
     words: [
-      { word: '\u0625\u0650\u0646\u0651\u064E', role: 'Harf (Partikel)', case: 'Indeklinabel', explanation: 'Bekraeftigungspartikel' },
+      { word: '\u0625\u0650\u0646\u0651\u064E', role: 'Harf (Partikel)', case: 'Indeklinabel', explanation: 'Bekräftigungspartikel' },
       { word: '\u0627\u0644\u0652\u0645\u064E\u0644\u064E\u0623\u064E', role: 'Ism inna', case: 'Akkusativ (Nasb)', explanation: 'Ism von \u0625\u0650\u0646\u0651\u064E. Akkusativ mit Fatha' },
       { word: '\u064A\u064E\u0623\u0652\u062A\u064E\u0645\u0650\u0631\u064F\u0648\u0646\u064E', role: 'Khabar inna', case: 'Indeklinabel', explanation: 'Khabar von \u0625\u0650\u0646\u0651\u064E als Verbalsatz' },
-      { word: '\u0628\u0650\u0643\u064E', role: 'Majrur', case: 'Genitiv (Jarr)', explanation: 'Praeposition + Suffix \u0643\u064E' },
-      { word: '\u0644\u0650\u064A\u064E\u0642\u0652\u062A\u064F\u0644\u064F\u0648\u0643\u064E', role: "Maf'ul li-Ajlihi", case: 'Indeklinabel', explanation: '\u0644\u0650\u0640 Finalpartikel + Subjunktiv. Gibt den Grund an: um dich zu toeten' }
+      { word: '\u0628\u0650\u0643\u064E', role: 'Majrur', case: 'Genitiv (Jarr)', explanation: 'Präposition + Suffix \u0643\u064E' },
+      { word: '\u0644\u0650\u064A\u064E\u0642\u0652\u062A\u064F\u0644\u064F\u0648\u0643\u064E', role: "Maf'ul li-Ajlihi", case: 'Indeklinabel', explanation: '\u0644\u0650\u0640 Finalpartikel + Subjunktiv. Gibt den Grund an: um dich zu töten' }
     ]
   },
   {
@@ -255,7 +255,7 @@ const INLINE_EXERCISES = [
     arabic: '\u0643\u064F\u062A\u0650\u0628\u064E \u0639\u064E\u0644\u064E\u064A\u0652\u0643\u064F\u0645\u064F \u0627\u0644\u0652\u0642\u0650\u062A\u064E\u0627\u0644\u064F',
     words: [
       { word: '\u0643\u064F\u062A\u0650\u0628\u064E', role: "Fi'l (Verb)", case: 'Indeklinabel', explanation: 'Passiv Perfekt 3ms, Wurzel \u0643-\u062A-\u0628' },
-      { word: '\u0639\u064E\u0644\u064E\u064A\u0652\u0643\u064F\u0645\u064F', role: 'Majrur', case: 'Genitiv (Jarr)', explanation: 'Praeposition \u0639\u064E\u0644\u064E\u0649 + Suffix \u0643\u064F\u0645\u064F' },
+      { word: '\u0639\u064E\u0644\u064E\u064A\u0652\u0643\u064F\u0645\u064F', role: 'Majrur', case: 'Genitiv (Jarr)', explanation: 'Präposition \u0639\u064E\u0644\u064E\u0649 + Suffix \u0643\u064F\u0645\u064F' },
       { word: '\u0627\u0644\u0652\u0642\u0650\u062A\u064E\u0627\u0644\u064F', role: "Na'ib al-Fa'il", case: 'Nominativ (Raf\')', explanation: 'Stellvertreter des Subjekts (Passivsubjekt). Damma als Kasuszeichen' }
     ]
   },
@@ -266,7 +266,7 @@ const INLINE_EXERCISES = [
     words: [
       { word: '\u064A\u064F\u0646\u0641\u0650\u0642\u064F\u0648\u0646\u064E', role: "Fi'l (Verb)", case: 'Indeklinabel', explanation: 'Imperfekt 3mp, Form IV, Indikativ' },
       { word: '\u0623\u064E\u0645\u0652\u0648\u064E\u0627\u0644\u064E\u0647\u064F\u0645', role: "Maf'ul bihi", case: 'Akkusativ (Nasb)', explanation: 'Direktes Objekt. Fatha + Suffix' },
-      { word: '\u0628\u0650\u0627\u0644\u0644\u0651\u064E\u064A\u0652\u0644\u0650', role: 'Zarf Zaman', case: 'Genitiv (Jarr)', explanation: 'Zeitadverbial mit Praeposition \u0628\u0650. Bei Nacht' },
+      { word: '\u0628\u0650\u0627\u0644\u0644\u0651\u064E\u064A\u0652\u0644\u0650', role: 'Zarf Zaman', case: 'Genitiv (Jarr)', explanation: 'Zeitadverbial mit Präposition \u0628\u0650. Bei Nacht' },
       { word: '\u0648\u064E\u0627\u0644\u0646\u0651\u064E\u0647\u064E\u0627\u0631\u0650', role: 'Zarf Zaman', case: 'Genitiv (Jarr)', explanation: 'Koordiniertes Zeitadverbial. Und bei Tag. Kasra nach \u0628\u0650' }
     ]
   },
@@ -286,7 +286,7 @@ const INLINE_EXERCISES = [
     words: [
       { word: '\u0644\u064E\u0647\u064F\u0645\u0652', role: 'Khabar', case: 'Indeklinabel', explanation: 'Vorangestelltes Khabar als Jarr wa-Majrur' },
       { word: '\u0631\u0650\u0632\u0652\u0642\u064F\u0647\u064F\u0645\u0652', role: 'Mubtada', case: 'Nominativ (Raf\')', explanation: 'Mubtada (nachgestellt). Damma + Possessivsuffix' },
-      { word: '\u0641\u0650\u064A\u0647\u064E\u0627', role: 'Zarf Makan', case: 'Genitiv (Jarr)', explanation: 'Ortsadverbial mit Praeposition \u0641\u0650\u064A. Darin' },
+      { word: '\u0641\u0650\u064A\u0647\u064E\u0627', role: 'Zarf Makan', case: 'Genitiv (Jarr)', explanation: 'Ortsadverbial mit Präposition \u0641\u0650\u064A. Darin' },
       { word: '\u0628\u064F\u0643\u0652\u0631\u064E\u0629\u064B', role: 'Zarf Zaman', case: 'Akkusativ (Nasb)', explanation: 'Zeitadverbial: am Morgen. Akkusativ mit Tanwin-Fatha' },
       { word: '\u0648\u064E\u0639\u064E\u0634\u0650\u064A\u0651\u064B\u0627', role: 'Zarf Zaman', case: 'Akkusativ (Nasb)', explanation: 'Koordiniertes Zeitadverbial: und am Abend. Tanwin-Fatha' }
     ]
@@ -297,7 +297,7 @@ const INLINE_EXERCISES = [
     words: [
       { word: '\u062B\u064F\u0645\u0651\u064E', role: 'Harf (Partikel)', case: 'Indeklinabel', explanation: 'Konjunktion (dann/hierauf). Zeigt zeitliche Abfolge' },
       { word: '\u0627\u0633\u0652\u062A\u064E\u0648\u064E\u0649\u0670', role: "Fi'l (Verb)", case: 'Indeklinabel', explanation: 'Perfekt 3ms, Form VIII/X, Wurzel \u0633-\u0648-\u064A' },
-      { word: '\u0639\u064E\u0644\u064E\u0649', role: 'Harf (Partikel)', case: 'Indeklinabel', explanation: 'Praeposition, regiert Genitiv' },
+      { word: '\u0639\u064E\u0644\u064E\u0649', role: 'Harf (Partikel)', case: 'Indeklinabel', explanation: 'Präposition, regiert Genitiv' },
       { word: '\u0627\u0644\u0652\u0639\u064E\u0631\u0652\u0634\u0650', role: 'Zarf Makan', case: 'Genitiv (Jarr)', explanation: 'Ort/Gegenstand nach \u0639\u064E\u0644\u064E\u0649. Genitiv mit Kasra' }
     ]
   },
@@ -318,7 +318,7 @@ const INLINE_EXERCISES = [
       { word: '\u0635\u0650\u0631\u064E\u0627\u0637\u064E', role: 'Badal', case: 'Akkusativ (Nasb)', explanation: 'Badal (Apposition) zu \u0627\u0644\u0635\u0651\u0650\u0631\u064E\u0627\u0637\u064E im vorhergehenden Vers. Akkusativ' },
       { word: '\u0627\u0644\u0651\u064E\u0630\u0650\u064A\u0646\u064E', role: 'Mudaf ilayhi', case: 'Genitiv (Jarr)', explanation: 'Zweites Glied der Idafa. Relativpronomen im Genitiv' },
       { word: '\u0623\u064E\u0646\u0652\u0639\u064E\u0645\u0652\u062A\u064E', role: "Fi'l (Verb)", case: 'Indeklinabel', explanation: 'Perfekt 2ms, Form IV, Wurzel \u0646-\u0639-\u0645. Relativsatz' },
-      { word: '\u0639\u064E\u0644\u064E\u064A\u0652\u0647\u0650\u0645\u0652', role: 'Majrur', case: 'Genitiv (Jarr)', explanation: 'Praeposition + Suffix. Auf sie (ihnen)' }
+      { word: '\u0639\u064E\u0644\u064E\u064A\u0652\u0647\u0650\u0645\u0652', role: 'Majrur', case: 'Genitiv (Jarr)', explanation: 'Präposition + Suffix. Auf sie (ihnen)' }
     ]
   },
   {
@@ -338,7 +338,7 @@ const INLINE_EXERCISES = [
     words: [
       { word: '\u0641\u064E\u062A\u064E\u0644\u064E\u0642\u0651\u064E\u0649\u0670', role: "Fi'l (Verb)", case: 'Indeklinabel', explanation: 'Perfekt 3ms, Form V, Wurzel \u0644-\u0642-\u064A' },
       { word: '\u0622\u062F\u064E\u0645\u064F', role: "Fa'il", case: 'Nominativ (Raf\')', explanation: 'Subjekt. Damma (Name, triptotisch)' },
-      { word: '\u0645\u0650\u0646 \u0631\u064E\u0628\u0651\u0650\u0647\u0650', role: 'Majrur', case: 'Genitiv (Jarr)', explanation: 'Praeposition + Genitiv' },
+      { word: '\u0645\u0650\u0646 \u0631\u064E\u0628\u0651\u0650\u0647\u0650', role: 'Majrur', case: 'Genitiv (Jarr)', explanation: 'Präposition + Genitiv' },
       { word: '\u0643\u064E\u0644\u0650\u0645\u064E\u0627\u062A\u064D', role: "Maf'ul bihi", case: 'Akkusativ (Nasb)', explanation: 'Direktes Objekt. Kasra als Akkusativzeichen (gesunder fem. Plural!)' }
     ]
   },
@@ -347,7 +347,7 @@ const INLINE_EXERCISES = [
     arabic: '\u0647\u064E\u0670\u0630\u064E\u0627 \u064A\u064E\u0648\u0652\u0645\u064F \u064A\u064E\u0646\u0641\u064E\u0639\u064F \u0627\u0644\u0635\u0651\u064E\u0627\u062F\u0650\u0642\u0650\u064A\u0646\u064E \u0635\u0650\u062F\u0652\u0642\u064F\u0647\u064F\u0645\u0652',
     words: [
       { word: '\u0647\u064E\u0670\u0630\u064E\u0627', role: 'Mubtada', case: 'Indeklinabel', explanation: 'Demonstrativpronomen als Thema' },
-      { word: '\u064A\u064E\u0648\u0652\u0645\u064F', role: 'Khabar', case: 'Nominativ (Raf\')', explanation: 'Praedikat. Damma als Kasuszeichen (Mudaf)' },
+      { word: '\u064A\u064E\u0648\u0652\u0645\u064F', role: 'Khabar', case: 'Nominativ (Raf\')', explanation: 'Prädikat. Damma als Kasuszeichen (Mudaf)' },
       { word: '\u064A\u064E\u0646\u0641\u064E\u0639\u064F', role: "Fi'l (Verb)", case: 'Indeklinabel', explanation: 'Imperfekt 3ms, Indikativ' },
       { word: '\u0627\u0644\u0635\u0651\u064E\u0627\u062F\u0650\u0642\u0650\u064A\u0646\u064E', role: "Maf'ul bihi", case: 'Akkusativ (Nasb)', explanation: 'Objekt. Ya\u02BF als Akkusativzeichen (gesunder mask. Plural)' },
       { word: '\u0635\u0650\u062F\u0652\u0642\u064F\u0647\u064F\u0645\u0652', role: "Fa'il", case: 'Nominativ (Raf\')', explanation: 'Subjekt (nachgestellt). Damma + Suffix' }
@@ -369,7 +369,7 @@ const INLINE_EXERCISES = [
     arabic: '\u064A\u064F\u0624\u0652\u0645\u0650\u0646\u064F\u0648\u0646\u064E \u0628\u0650\u0627\u0644\u0652\u063A\u064E\u064A\u0652\u0628\u0650 \u0648\u064E\u064A\u064F\u0642\u0650\u064A\u0645\u064F\u0648\u0646\u064E \u0627\u0644\u0635\u0651\u064E\u0644\u064E\u0627\u0629\u064E',
     words: [
       { word: '\u064A\u064F\u0624\u0652\u0645\u0650\u0646\u064F\u0648\u0646\u064E', role: "Fi'l (Verb)", case: 'Indeklinabel', explanation: 'Imperfekt 3mp, Form IV, Indikativ. Relativsatz' },
-      { word: '\u0628\u0650\u0627\u0644\u0652\u063A\u064E\u064A\u0652\u0628\u0650', role: 'Majrur', case: 'Genitiv (Jarr)', explanation: 'Praeposition + Genitiv. An das Verborgene' },
+      { word: '\u0628\u0650\u0627\u0644\u0652\u063A\u064E\u064A\u0652\u0628\u0650', role: 'Majrur', case: 'Genitiv (Jarr)', explanation: 'Präposition + Genitiv. An das Verborgene' },
       { word: '\u0648\u064E\u064A\u064F\u0642\u0650\u064A\u0645\u064F\u0648\u0646\u064E', role: "'Atf (Koordination)", case: 'Indeklinabel', explanation: '\u0648\u064E + koordiniertes Verb. Atf auf \u064A\u064F\u0624\u0652\u0645\u0650\u0646\u064F\u0648\u0646\u064E. Gleicher Modus (Indikativ)' },
       { word: '\u0627\u0644\u0635\u0651\u064E\u0644\u064E\u0627\u0629\u064E', role: "Maf'ul bihi", case: 'Akkusativ (Nasb)', explanation: 'Direktes Objekt. Fatha' }
     ]
@@ -391,7 +391,7 @@ const INLINE_EXERCISES = [
       { word: '\u0646\u064F\u0641\u064E\u0631\u0651\u0650\u0642\u064F', role: "Fi'l (Verb)", case: 'Indeklinabel', explanation: 'Imperfekt 1pl, Form II, Indikativ mit Damma' },
       { word: '\u0628\u064E\u064A\u0652\u0646\u064E', role: 'Zarf Makan', case: 'Akkusativ (Nasb)', explanation: 'Ortsadverb (Zarf makan). Akkusativ als Mudaf' },
       { word: '\u0623\u064E\u062D\u064E\u062F\u064D', role: 'Mudaf ilayhi', case: 'Genitiv (Jarr)', explanation: 'Zweites Glied der Idafa. Kasra mit Tanwin' },
-      { word: '\u0645\u0650\u0646\u0652\u0647\u064F\u0645\u0652', role: 'Majrur', case: 'Genitiv (Jarr)', explanation: 'Praeposition + Suffix. Von ihnen' }
+      { word: '\u0645\u0650\u0646\u0652\u0647\u064F\u0645\u0652', role: 'Majrur', case: 'Genitiv (Jarr)', explanation: 'Präposition + Suffix. Von ihnen' }
     ]
   },
   {
@@ -410,7 +410,7 @@ const INLINE_EXERCISES = [
     arabic: '\u0622\u0645\u0650\u0646\u064F\u0648\u0627 \u0628\u0650\u0627\u0644\u0644\u0651\u064E\u0647\u0650 \u0648\u064E\u0631\u064E\u0633\u064F\u0648\u0644\u0650\u0647\u0650 \u0648\u064E\u0627\u0644\u0652\u0643\u0650\u062A\u064E\u0627\u0628\u0650',
     words: [
       { word: '\u0622\u0645\u0650\u0646\u064F\u0648\u0627', role: "Fi'l (Verb)", case: 'Indeklinabel', explanation: 'Imperativ 2mp, Form IV, Wurzel \u0623-\u0645-\u0646' },
-      { word: '\u0628\u0650\u0627\u0644\u0644\u0651\u064E\u0647\u0650', role: 'Majrur', case: 'Genitiv (Jarr)', explanation: 'Praeposition + Genitiv' },
+      { word: '\u0628\u0650\u0627\u0644\u0644\u0651\u064E\u0647\u0650', role: 'Majrur', case: 'Genitiv (Jarr)', explanation: 'Präposition + Genitiv' },
       { word: '\u0648\u064E\u0631\u064E\u0633\u064F\u0648\u0644\u0650\u0647\u0650', role: "'Atf (Koordination)", case: 'Genitiv (Jarr)', explanation: '\u0648\u064E + Atf auf \u0627\u0644\u0644\u0651\u064E\u0647\u0650. Kongruenz im Genitiv (Kasra + Suffix)' },
       { word: '\u0648\u064E\u0627\u0644\u0652\u0643\u0650\u062A\u064E\u0627\u0628\u0650', role: "'Atf (Koordination)", case: 'Genitiv (Jarr)', explanation: '\u0648\u064E + Atf auf \u0627\u0644\u0644\u0651\u064E\u0647\u0650. Genitiv mit Kasra' }
     ]
@@ -429,9 +429,9 @@ const INLINE_EXERCISES = [
     arabic: '\u0641\u064E\u0634\u064E\u0631\u0650\u0628\u064F\u0648\u0627 \u0645\u0650\u0646\u0652\u0647\u064F \u0625\u0650\u0644\u0651\u064E\u0627 \u0642\u064E\u0644\u0650\u064A\u0644\u064B\u0627 \u0645\u0650\u0646\u0652\u0647\u064F\u0645\u0652',
     words: [
       { word: '\u0641\u064E\u0634\u064E\u0631\u0650\u0628\u064F\u0648\u0627', role: "Fi'l (Verb)", case: 'Indeklinabel', explanation: 'Perfekt 3mp, Wurzel \u0634-\u0631-\u0628' },
-      { word: '\u0645\u0650\u0646\u0652\u0647\u064F', role: 'Majrur', case: 'Genitiv (Jarr)', explanation: 'Praeposition + Suffix. Daraus/davon' },
+      { word: '\u0645\u0650\u0646\u0652\u0647\u064F', role: 'Majrur', case: 'Genitiv (Jarr)', explanation: 'Präposition + Suffix. Daraus/davon' },
       { word: '\u0625\u0650\u0644\u0651\u064E\u0627', role: 'Harf (Partikel)', case: 'Indeklinabel', explanation: 'Ausnahmepartikel' },
-      { word: '\u0642\u064E\u0644\u0650\u064A\u0644\u064B\u0627', role: 'Mustathna (Ausgenommenes)', case: 'Akkusativ (Nasb)', explanation: 'Ausgenommenes (Mustathna). Akkusativ mit Tanwin-Fatha. Vollstaendige positive Ausnahme' }
+      { word: '\u0642\u064E\u0644\u0650\u064A\u0644\u064B\u0627', role: 'Mustathna (Ausgenommenes)', case: 'Akkusativ (Nasb)', explanation: 'Ausgenommenes (Mustathna). Akkusativ mit Tanwin-Fatha. Vollständige positive Ausnahme' }
     ]
   },
   {
@@ -448,11 +448,11 @@ const INLINE_EXERCISES = [
     ref: '17:65',
     arabic: '\u0625\u0650\u0646\u0651\u064E \u0639\u0650\u0628\u064E\u0627\u062F\u0650\u064A \u0644\u064E\u064A\u0652\u0633\u064E \u0644\u064E\u0643\u064E \u0639\u064E\u0644\u064E\u064A\u0652\u0647\u0650\u0645\u0652 \u0633\u064F\u0644\u0652\u0637\u064E\u0627\u0646\u064C',
     words: [
-      { word: '\u0625\u0650\u0646\u0651\u064E', role: 'Harf (Partikel)', case: 'Indeklinabel', explanation: 'Bekraeftigungspartikel' },
-      { word: '\u0639\u0650\u0628\u064E\u0627\u062F\u0650\u064A', role: 'Ism inna', case: 'Akkusativ (Nasb)', explanation: 'Ism von \u0625\u0650\u0646\u0651\u064E. Fatha (geschaetzt, da Mudaf zu \u064A\u0627\u0621 al-Mutakallim)' },
+      { word: '\u0625\u0650\u0646\u0651\u064E', role: 'Harf (Partikel)', case: 'Indeklinabel', explanation: 'Bekräftigungspartikel' },
+      { word: '\u0639\u0650\u0628\u064E\u0627\u062F\u0650\u064A', role: 'Ism inna', case: 'Akkusativ (Nasb)', explanation: 'Ism von \u0625\u0650\u0646\u0651\u064E. Fatha (geschätzt, da Mudaf zu \u064A\u0627\u0621 al-Mutakallim)' },
       { word: '\u0644\u064E\u064A\u0652\u0633\u064E', role: "Fi'l (Verb)", case: 'Indeklinabel', explanation: 'Kopulanegation. Khabar von \u0625\u0650\u0646\u0651\u064E als Satz' },
-      { word: '\u0644\u064E\u0643\u064E', role: 'Majrur', case: 'Genitiv (Jarr)', explanation: 'Praeposition + Suffix' },
-      { word: '\u0639\u064E\u0644\u064E\u064A\u0652\u0647\u0650\u0645\u0652', role: 'Majrur', case: 'Genitiv (Jarr)', explanation: 'Praeposition + Suffix. Ueber sie' },
+      { word: '\u0644\u064E\u0643\u064E', role: 'Majrur', case: 'Genitiv (Jarr)', explanation: 'Präposition + Suffix' },
+      { word: '\u0639\u064E\u0644\u064E\u064A\u0652\u0647\u0650\u0645\u0652', role: 'Majrur', case: 'Genitiv (Jarr)', explanation: 'Präposition + Suffix. Über sie' },
       { word: '\u0633\u064F\u0644\u0652\u0637\u064E\u0627\u0646\u064C', role: "Ism kana", case: 'Nominativ (Raf\')', explanation: 'Ism von \u0644\u064E\u064A\u0652\u0633\u064E. Damma mit Tanwin' }
     ]
   },
@@ -471,10 +471,10 @@ const INLINE_EXERCISES = [
     arabic: '\u062E\u064E\u0627\u0644\u0650\u062F\u0650\u064A\u0646\u064E \u0641\u0650\u064A\u0647\u064E\u0627 \u0644\u064E\u0627 \u064A\u064F\u062E\u064E\u0641\u0651\u064E\u0641\u064F \u0639\u064E\u0646\u0652\u0647\u064F\u0645\u064F \u0627\u0644\u0652\u0639\u064E\u0630\u064E\u0627\u0628\u064F',
     words: [
       { word: '\u062E\u064E\u0627\u0644\u0650\u062F\u0650\u064A\u0646\u064E', role: 'Hal', case: 'Akkusativ (Nasb)', explanation: 'Hal (Zustandsakkusativ). -\u064A\u0646\u064E als Akkusativzeichen (gesunder mask. Plural)' },
-      { word: '\u0641\u0650\u064A\u0647\u064E\u0627', role: 'Majrur', case: 'Genitiv (Jarr)', explanation: 'Praeposition + Suffix. Darin' },
+      { word: '\u0641\u0650\u064A\u0647\u064E\u0627', role: 'Majrur', case: 'Genitiv (Jarr)', explanation: 'Präposition + Suffix. Darin' },
       { word: '\u0644\u064E\u0627', role: 'Harf (Partikel)', case: 'Indeklinabel', explanation: '\u0644\u064E\u0627 \u0627\u0644\u0646\u0627\u0641\u064A\u0629' },
       { word: '\u064A\u064F\u062E\u064E\u0641\u0651\u064E\u0641\u064F', role: "Fi'l (Verb)", case: 'Indeklinabel', explanation: 'Imperfekt Passiv 3ms, Form II' },
-      { word: '\u0639\u064E\u0646\u0652\u0647\u064F\u0645\u064F', role: 'Majrur', case: 'Genitiv (Jarr)', explanation: 'Praeposition + Suffix' },
+      { word: '\u0639\u064E\u0646\u0652\u0647\u064F\u0645\u064F', role: 'Majrur', case: 'Genitiv (Jarr)', explanation: 'Präposition + Suffix' },
       { word: '\u0627\u0644\u0652\u0639\u064E\u0630\u064E\u0627\u0628\u064F', role: "Na'ib al-Fa'il", case: 'Nominativ (Raf\')', explanation: 'Stellvertreter des Subjekts (Passivsubjekt). Damma' }
     ]
   },
@@ -506,7 +506,7 @@ const INLINE_EXERCISES = [
       { word: '\u064A\u064E\u0627', role: 'Harf (Partikel)', case: 'Indeklinabel', explanation: 'Vokativpartikel' },
       { word: '\u064A\u064F\u0648\u0633\u064F\u0641\u064F', role: 'Munada', case: 'Indeklinabel', explanation: 'Munada Mufrad Ma\u02BFrifa — mabni ala d-Damm. Einzelner bestimmter Name' },
       { word: '\u0623\u064E\u0639\u0652\u0631\u0650\u0636\u0652', role: "Fi'l (Verb)", case: 'Indeklinabel', explanation: 'Imperativ 2ms, Form IV, Wurzel \u0639-\u0631-\u0636' },
-      { word: '\u0639\u064E\u0646\u0652 \u0647\u064E\u0670\u0630\u064E\u0627', role: 'Majrur', case: 'Indeklinabel', explanation: 'Praeposition + Demonstrativpronomen' }
+      { word: '\u0639\u064E\u0646\u0652 \u0647\u064E\u0670\u0630\u064E\u0627', role: 'Majrur', case: 'Indeklinabel', explanation: 'Präposition + Demonstrativpronomen' }
     ]
   },
   {
@@ -534,7 +534,7 @@ const INLINE_EXERCISES = [
     arabic: '\u064A\u064E\u0627 \u0639\u0650\u064A\u0633\u064E\u0649 \u0627\u0628\u0652\u0646\u064E \u0645\u064E\u0631\u0652\u064A\u064E\u0645\u064E',
     words: [
       { word: '\u064A\u064E\u0627', role: 'Harf (Partikel)', case: 'Indeklinabel', explanation: 'Vokativpartikel' },
-      { word: '\u0639\u0650\u064A\u0633\u064E\u0649', role: 'Munada', case: 'Indeklinabel', explanation: 'Munada Mufrad Ma\u02BFrifa — mabni ala d-Damm (geschaetzt auf Alif Maqsura)' },
+      { word: '\u0639\u0650\u064A\u0633\u064E\u0649', role: 'Munada', case: 'Indeklinabel', explanation: 'Munada Mufrad Ma\u02BFrifa — mabni ala d-Damm (geschätzt auf Alif Maqsura)' },
       { word: '\u0627\u0628\u0652\u0646\u064E', role: 'Badal', case: 'Akkusativ (Nasb)', explanation: 'Badal (Apposition) oder Na\u02BFt zu \u0639\u0650\u064A\u0633\u064E\u0649. Fatha (dem Lautplatz des Munada folgend)' },
       { word: '\u0645\u064E\u0631\u0652\u064A\u064E\u0645\u064E', role: 'Mudaf ilayhi', case: 'Genitiv (Jarr)', explanation: 'Idafa. Genitiv (Fatha statt Kasra, da diptotisch — fem. Eigenname)' }
     ]
@@ -555,7 +555,7 @@ const INLINE_EXERCISES = [
     arabic: '\u0623\u064F\u064A\u0651\u0650\u062F\u064E \u0628\u0650\u0631\u064F\u0648\u062D\u0650 \u0627\u0644\u0652\u0642\u064F\u062F\u064F\u0633\u0650',
     words: [
       { word: '\u0623\u064F\u064A\u0651\u0650\u062F\u064E', role: "Fi'l (Verb)", case: 'Indeklinabel', explanation: 'Passiv Perfekt 3ms, Form II, Wurzel \u0623-\u064A-\u062F' },
-      { word: '\u0628\u0650\u0631\u064F\u0648\u062D\u0650', role: 'Majrur', case: 'Genitiv (Jarr)', explanation: 'Praeposition + Genitiv (Idafa)' },
+      { word: '\u0628\u0650\u0631\u064F\u0648\u062D\u0650', role: 'Majrur', case: 'Genitiv (Jarr)', explanation: 'Präposition + Genitiv (Idafa)' },
       { word: '\u0627\u0644\u0652\u0642\u064F\u062F\u064F\u0633\u0650', role: 'Mudaf ilayhi', case: 'Genitiv (Jarr)', explanation: 'Zweites Glied der Idafa. Kasra' }
     ]
   },
@@ -567,7 +567,7 @@ const INLINE_EXERCISES = [
       { word: '\u062E\u064E\u064A\u0652\u0631\u064E', role: 'Khabar kana', case: 'Akkusativ (Nasb)', explanation: 'Khabar von \u0643\u064E\u0627\u0646\u064E. Akkusativ, Fatha (Mudaf)' },
       { word: '\u0623\u064F\u0645\u0651\u064E\u0629\u064D', role: 'Mudaf ilayhi', case: 'Genitiv (Jarr)', explanation: 'Idafa. Kasra mit Tanwin' },
       { word: '\u0623\u064F\u062E\u0652\u0631\u0650\u062C\u064E\u062A\u0652', role: "Fi'l (Verb)", case: 'Indeklinabel', explanation: 'Passiv Perfekt 3fs, Form IV' },
-      { word: '\u0644\u0650\u0644\u0646\u0651\u064E\u0627\u0633\u0650', role: 'Majrur', case: 'Genitiv (Jarr)', explanation: 'Praeposition + Genitiv. Fuer die Menschen' }
+      { word: '\u0644\u0650\u0644\u0646\u0651\u064E\u0627\u0633\u0650', role: 'Majrur', case: 'Genitiv (Jarr)', explanation: 'Präposition + Genitiv. Für die Menschen' }
     ]
   },
   {
@@ -575,7 +575,7 @@ const INLINE_EXERCISES = [
     arabic: '\u0623\u064F\u0646\u0632\u0650\u0644\u064E \u0641\u0650\u064A\u0647\u0650 \u0627\u0644\u0652\u0642\u064F\u0631\u0652\u0622\u0646\u064F',
     words: [
       { word: '\u0623\u064F\u0646\u0632\u0650\u0644\u064E', role: "Fi'l (Verb)", case: 'Indeklinabel', explanation: 'Passiv Perfekt 3ms, Form IV, Wurzel \u0646-\u0632-\u0644' },
-      { word: '\u0641\u0650\u064A\u0647\u0650', role: 'Majrur', case: 'Genitiv (Jarr)', explanation: 'Praeposition + Suffix. Darin' },
+      { word: '\u0641\u0650\u064A\u0647\u0650', role: 'Majrur', case: 'Genitiv (Jarr)', explanation: 'Präposition + Suffix. Darin' },
       { word: '\u0627\u0644\u0652\u0642\u064F\u0631\u0652\u0622\u0646\u064F', role: "Na'ib al-Fa'il", case: 'Nominativ (Raf\')', explanation: 'Stellvertreter des Subjekts. Damma als Kasuszeichen. Der Quran wurde herabgesandt' }
     ]
   },
@@ -584,7 +584,7 @@ const INLINE_EXERCISES = [
     arabic: '\u0632\u064F\u064A\u0651\u0650\u0646\u064E \u0644\u0650\u0644\u0646\u0651\u064E\u0627\u0633\u0650 \u062D\u064F\u0628\u0651\u064F \u0627\u0644\u0634\u0651\u064E\u0647\u064E\u0648\u064E\u0627\u062A\u0650',
     words: [
       { word: '\u0632\u064F\u064A\u0651\u0650\u0646\u064E', role: "Fi'l (Verb)", case: 'Indeklinabel', explanation: 'Passiv Perfekt 3ms, Form II, Wurzel \u0632-\u064A-\u0646' },
-      { word: '\u0644\u0650\u0644\u0646\u0651\u064E\u0627\u0633\u0650', role: 'Majrur', case: 'Genitiv (Jarr)', explanation: 'Praeposition + Genitiv. Fuer die Menschen' },
+      { word: '\u0644\u0650\u0644\u0646\u0651\u064E\u0627\u0633\u0650', role: 'Majrur', case: 'Genitiv (Jarr)', explanation: 'Präposition + Genitiv. Für die Menschen' },
       { word: '\u062D\u064F\u0628\u0651\u064F', role: "Na'ib al-Fa'il", case: 'Nominativ (Raf\')', explanation: 'Stellvertreter des Subjekts. Damma (Mudaf)' },
       { word: '\u0627\u0644\u0634\u0651\u064E\u0647\u064E\u0648\u064E\u0627\u062A\u0650', role: 'Mudaf ilayhi', case: 'Genitiv (Jarr)', explanation: 'Idafa. Kasra' }
     ]
@@ -595,7 +595,7 @@ const INLINE_EXERCISES = [
     words: [
       { word: '\u0648\u064E\u0642\u064F\u0636\u0650\u064A\u064E', role: "Fi'l (Verb)", case: 'Indeklinabel', explanation: 'Passiv Perfekt 3ms, Wurzel \u0642-\u0636-\u064A' },
       { word: '\u0628\u064E\u064A\u0652\u0646\u064E\u0647\u064F\u0645', role: 'Zarf Makan', case: 'Akkusativ (Nasb)', explanation: 'Ortsadverb (Zarf makan). Fatha + Suffix. Zwischen ihnen' },
-      { word: '\u0628\u0650\u0627\u0644\u0652\u062D\u064E\u0642\u0651\u0650', role: 'Majrur', case: 'Genitiv (Jarr)', explanation: 'Praeposition + Genitiv. Mit der Wahrheit' }
+      { word: '\u0628\u0650\u0627\u0644\u0652\u062D\u064E\u0642\u0651\u0650', role: 'Majrur', case: 'Genitiv (Jarr)', explanation: 'Präposition + Genitiv. Mit der Wahrheit' }
     ]
   },
   {
@@ -603,7 +603,7 @@ const INLINE_EXERCISES = [
     arabic: '\u0623\u064F\u0648\u062D\u0650\u064A\u064E \u0625\u0650\u0644\u064E\u064A\u0651\u064E',
     words: [
       { word: '\u0623\u064F\u0648\u062D\u0650\u064A\u064E', role: "Fi'l (Verb)", case: 'Indeklinabel', explanation: 'Passiv Perfekt 3ms, Form IV, Wurzel \u0648-\u062D-\u064A' },
-      { word: '\u0625\u0650\u0644\u064E\u064A\u0651\u064E', role: 'Majrur', case: 'Genitiv (Jarr)', explanation: 'Praeposition + Suffix \u064A\u064E (mir). Zu mir wurde offenbart (Na\u02BFib al-Fa\u02BFil ist hier der implizite Masdar-Satz)' }
+      { word: '\u0625\u0650\u0644\u064E\u064A\u0651\u064E', role: 'Majrur', case: 'Genitiv (Jarr)', explanation: 'Präposition + Suffix \u064A\u064E (mir). Zu mir wurde offenbart (Na\u02BFib al-Fa\u02BFil ist hier der implizite Masdar-Satz)' }
     ]
   }
 ]
@@ -649,9 +649,9 @@ export default function IrabExercise() {
 
   return (
     <div style={{ maxWidth: 750, margin: '0 auto' }}>
-      <h3 style={{ color: 'var(--accent-gold)', marginBottom: 4 }}>Vollstaendiges Irab</h3>
+      <h3 style={{ color: 'var(--accent-gold)', marginBottom: 4 }}>Vollständiges Irab</h3>
       <p style={{ color: 'var(--text-secondary)', fontSize: '0.85rem', marginBottom: 20 }}>
-        Bestimme fuer jedes Wort die syntaktische Rolle und den Kasus.
+        Bestimme für jedes Wort die syntaktische Rolle und den Kasus.
       </p>
       {globalScore.total > 0 && (
         <div style={{ fontSize: '0.8rem', color: 'var(--text-muted)', marginBottom: 12 }}>
@@ -690,7 +690,7 @@ export default function IrabExercise() {
                       color: 'var(--text)'
                     }}
                   >
-                    <option value="">-- Waehle --</option>
+                    <option value="">-- Wähle --</option>
                     {ROLES.map(r => <option key={r} value={r}>{r}</option>)}
                   </select>
                 </div>
@@ -707,7 +707,7 @@ export default function IrabExercise() {
                       color: 'var(--text)'
                     }}
                   >
-                    <option value="">-- Waehle --</option>
+                    <option value="">-- Wähle --</option>
                     {CASES.map(c => <option key={c} value={c}>{c}</option>)}
                   </select>
                 </div>
@@ -730,7 +730,7 @@ export default function IrabExercise() {
             background: allAnswered ? 'var(--accent-teal)' : 'var(--text-muted)', color: '#fff',
             cursor: allAnswered ? 'pointer' : 'default', fontSize: '0.95rem'
           }}>
-            Pruefen ({ex.words.length} Woerter)
+            Prüfen ({ex.words.length} Wörter)
           </button>
         )}
         {revealed && (
@@ -739,7 +739,7 @@ export default function IrabExercise() {
               {score.correct}/{score.total} korrekt
             </div>
             <button onClick={next} style={{ padding: '8px 24px', borderRadius: 8, border: 'none', background: 'var(--accent-gold)', color: '#000', cursor: 'pointer' }}>
-              Naechster Vers ({exIdx + 1}/{EXERCISES.length})
+              Nächster Vers ({exIdx + 1}/{EXERCISES.length})
             </button>
           </div>
         )}

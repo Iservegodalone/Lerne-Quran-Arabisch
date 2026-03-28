@@ -11,7 +11,15 @@ import clozeExercises from '../../data/cloze-exercises.json'
 
 // ===== case-derivation-exercises.json =====
 describe('case-derivation-exercises.json', () => {
-  const exercises = caseDerivationExercises
+  const data = caseDerivationExercises
+  const exercises = data.exercises || data
+
+  it('has a meta object with sources', () => {
+    expect(data.meta).toBeDefined()
+    expect(data.meta.title).toBeTruthy()
+    expect(Array.isArray(data.meta.sources)).toBe(true)
+    expect(data.meta.sources.length).toBeGreaterThan(0)
+  })
 
   it('is a non-empty array', () => {
     expect(Array.isArray(exercises)).toBe(true)
@@ -48,7 +56,15 @@ describe('case-derivation-exercises.json', () => {
 
 // ===== error-correction-exercises.json =====
 describe('error-correction-exercises.json', () => {
-  const exercises = errorCorrectionExercises
+  const data = errorCorrectionExercises
+  const exercises = data.exercises || data
+
+  it('has a meta object with sources', () => {
+    expect(data.meta).toBeDefined()
+    expect(data.meta.title).toBeTruthy()
+    expect(Array.isArray(data.meta.sources)).toBe(true)
+    expect(data.meta.sources.length).toBeGreaterThan(0)
+  })
 
   it('is a non-empty array', () => {
     expect(Array.isArray(exercises)).toBe(true)

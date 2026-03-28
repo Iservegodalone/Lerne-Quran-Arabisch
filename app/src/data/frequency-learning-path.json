@@ -3,7 +3,11 @@
     "description": "Frequency-based learning path for Quranic Arabic roots",
     "totalWords": 77429,
     "totalRoots": 1642,
-    "tierCount": 4
+    "tierCount": 4,
+    "sources": [
+      { "name": "Quranic Arabic Corpus", "url": "https://corpus.quran.com/" },
+      { "name": "Lane's Lexicon", "url": "https://ejtaal.net/aa/" }
+    ]
   },
   "tiers": [
     {
@@ -82,7 +86,7 @@
           "root": "ب ي ن",
           "rootArabic": "بين",
           "count": 523,
-          "meaning": "klar sein/erklaeren"
+          "meaning": "klar sein/erklären"
         },
         {
           "rank": 11,
@@ -215,7 +219,7 @@
           "root": "ذ ك ر",
           "rootArabic": "ذكر",
           "count": 292,
-          "meaning": "erinnern/erwaehnen"
+          "meaning": "erinnern/erwähnen"
         },
         {
           "rank": 30,
@@ -229,7 +233,7 @@
           "root": "ك ذ ب",
           "rootArabic": "كذب",
           "count": 282,
-          "meaning": "luegen"
+          "meaning": "lügen"
         },
         {
           "rank": 32,
@@ -264,7 +268,7 @@
           "root": "و ق ي",
           "rootArabic": "وقي",
           "count": 258,
-          "meaning": "schuetzen/bewahren"
+          "meaning": "schützen/bewahren"
         },
         {
           "rank": 37,
@@ -327,7 +331,7 @@
           "root": "م ل ك",
           "rootArabic": "ملك",
           "count": 206,
-          "meaning": "herrschen/Koenig"
+          "meaning": "herrschen/König"
         },
         {
           "rank": 46,
@@ -362,7 +366,7 @@
           "root": "ح س ن",
           "rootArabic": "حسن",
           "count": 194,
-          "meaning": "gut/schoen"
+          "meaning": "gut/schön"
         }
       ]
     },
@@ -386,7 +390,7 @@
           "root": "س م ع",
           "rootArabic": "سمع",
           "count": 185,
-          "meaning": "hoeren"
+          "meaning": "hören"
         },
         {
           "rank": 53,
@@ -442,7 +446,7 @@
           "root": "ق ت ل",
           "rootArabic": "قتل",
           "count": 170,
-          "meaning": "toeten"
+          "meaning": "töten"
         },
         {
           "rank": 61,
@@ -666,7 +670,7 @@
           "root": "خ و ف",
           "rootArabic": "خوف",
           "count": 124,
-          "meaning": "fuerchten"
+          "meaning": "fürchten"
         },
         {
           "rank": 93,
@@ -701,7 +705,7 @@
           "root": "ع ز ز",
           "rootArabic": "عزز",
           "count": 119,
-          "meaning": "maechtig"
+          "meaning": "mächtig"
         },
         {
           "rank": 98,
@@ -788,7 +792,7 @@
           "root": "ر ج ع",
           "rootArabic": "رجع",
           "count": 104,
-          "meaning": "zurueckkehren"
+          "meaning": "zurückkehren"
         },
         {
           "rank": 109,
@@ -844,7 +848,7 @@
           "root": "ص ح ب",
           "rootArabic": "صحب",
           "count": 97,
-          "meaning": "Gefaehrte/begleiten"
+          "meaning": "Gefährte/begleiten"
         },
         {
           "rank": 117,
@@ -858,7 +862,7 @@
           "root": "ق ر ب",
           "rootArabic": "قرب",
           "count": 96,
-          "meaning": "naehern/Opfergabe"
+          "meaning": "nähern/Opfergabe"
         },
         {
           "rank": 119,
@@ -942,7 +946,7 @@
           "root": "م و ل",
           "rootArabic": "مول",
           "count": 86,
-          "meaning": "Besitz/Vermoegen"
+          "meaning": "Besitz/Vermögen"
         },
         {
           "rank": 131,
@@ -1096,7 +1100,7 @@
           "root": "غ ن ي",
           "rootArabic": "غني",
           "count": 73,
-          "meaning": "reich/genuegen"
+          "meaning": "reich/genügen"
         },
         {
           "rank": 153,
@@ -1187,14 +1191,14 @@
           "root": "و ف ي",
           "rootArabic": "وفي",
           "count": 66,
-          "meaning": "erfuellen/voll"
+          "meaning": "erfüllen/voll"
         },
         {
           "rank": 166,
           "root": "ج ر م",
           "rootArabic": "جرم",
           "count": 66,
-          "meaning": "Suende/Verbrechen"
+          "meaning": "Sünde/Verbrechen"
         },
         {
           "rank": 167,
@@ -1264,7 +1268,7 @@
           "root": "ع و د",
           "rootArabic": "عود",
           "count": 63,
-          "meaning": "zurueckkehren"
+          "meaning": "zurückkehren"
         },
         {
           "rank": 177,
@@ -1299,7 +1303,7 @@
           "root": "ف ت ن",
           "rootArabic": "فتن",
           "count": 60,
-          "meaning": "Versuchung/pruefen"
+          "meaning": "Versuchung/prüfen"
         },
         {
           "rank": 182,
@@ -1327,28 +1331,28 @@
           "root": "ظ ه ر",
           "rootArabic": "ظهر",
           "count": 59,
-          "meaning": "erscheinen/Ruecken"
+          "meaning": "erscheinen/Rücken"
         },
         {
           "rank": 186,
           "root": "ر د د",
           "rootArabic": "ردد",
           "count": 59,
-          "meaning": "zurueckweisen"
+          "meaning": "zurückweisen"
         },
         {
           "rank": 187,
           "root": "ض ر ب",
           "rootArabic": "ضرب",
           "count": 58,
-          "meaning": "schlagen/praesentieren"
+          "meaning": "schlagen/präsentieren"
         },
         {
           "rank": 188,
           "root": "ع د د",
           "rootArabic": "عدد",
           "count": 57,
-          "meaning": "Zahl/zaehlen"
+          "meaning": "Zahl/zählen"
         },
         {
           "rank": 189,
@@ -1432,7 +1436,7 @@
           "root": "ح ل ل",
           "rootArabic": "حلل",
           "count": 51,
-          "meaning": "erlaubt/loesen"
+          "meaning": "erlaubt/lösen"
         }
       ]
     },
@@ -1491,14 +1495,14 @@
           "root": "خ ش ي",
           "rootArabic": "خشي",
           "count": 48,
-          "meaning": "ehrfuerchten"
+          "meaning": "ehrfürchten"
         },
         {
           "rank": 208,
           "root": "ا ث م",
           "rootArabic": "اثم",
           "count": 48,
-          "meaning": "Suende"
+          "meaning": "Sünde"
         },
         {
           "rank": 209,
@@ -1575,7 +1579,7 @@
           "root": "ب د ل",
           "rootArabic": "بدل",
           "count": 44,
-          "meaning": "aendern/tauschen"
+          "meaning": "ändern/tauschen"
         },
         {
           "rank": 220,
@@ -1596,7 +1600,7 @@
           "root": "ح ف ظ",
           "rootArabic": "حفظ",
           "count": 44,
-          "meaning": "bewahren/hueten"
+          "meaning": "bewahren/hüten"
         },
         {
           "rank": 223,
@@ -1617,7 +1621,7 @@
           "root": "ف و ق",
           "rootArabic": "فوق",
           "count": 43,
-          "meaning": "ueber/oberhalb"
+          "meaning": "über/oberhalb"
         },
         {
           "rank": 226,
@@ -1708,7 +1712,7 @@
           "root": "ج ه د",
           "rootArabic": "جهد",
           "count": 41,
-          "meaning": "sich bemuehen/Kampf"
+          "meaning": "sich bemühen/Kampf"
         },
         {
           "rank": 239,
@@ -1736,7 +1740,7 @@
           "root": "م ل ا",
           "rootArabic": "ملا",
           "count": 40,
-          "meaning": "fuellen/Schar"
+          "meaning": "füllen/Schar"
         },
         {
           "rank": 243,
@@ -1757,7 +1761,7 @@
           "root": "ذ ن ب",
           "rootArabic": "ذنب",
           "count": 39,
-          "meaning": "Suende/Schuld"
+          "meaning": "Sünde/Schuld"
         },
         {
           "rank": 246,
@@ -1778,14 +1782,14 @@
           "root": "ب ل و",
           "rootArabic": "بلو",
           "count": 38,
-          "meaning": "pruefen/erproben"
+          "meaning": "prüfen/erproben"
         },
         {
           "rank": 249,
           "root": "ف ت ح",
           "rootArabic": "فتح",
           "count": 38,
-          "meaning": "oeffnen/Sieg"
+          "meaning": "öffnen/Sieg"
         },
         {
           "rank": 250,
@@ -1855,14 +1859,14 @@
           "root": "ح د ث",
           "rootArabic": "حدث",
           "count": 36,
-          "meaning": "Rede/erzaehlen"
+          "meaning": "Rede/erzählen"
         },
         {
           "rank": 260,
           "root": "ا ن ي",
           "rootArabic": "اني",
           "count": 36,
-          "meaning": "Gefaess/Zeit"
+          "meaning": "Gefäß/Zeit"
         },
         {
           "rank": 261,
@@ -1918,7 +1922,7 @@
           "root": "ك ي د",
           "rootArabic": "كيد",
           "count": 35,
-          "meaning": "List/Raenke"
+          "meaning": "List/Ränke"
         },
         {
           "rank": 269,
@@ -1939,7 +1943,7 @@
           "root": "ج ن ح",
           "rootArabic": "جنح",
           "count": 34,
-          "meaning": "Fluegel/Seite"
+          "meaning": "Flügel/Seite"
         },
         {
           "rank": 272,
@@ -1974,7 +1978,7 @@
           "root": "ك ف ي",
           "rootArabic": "كفي",
           "count": 33,
-          "meaning": "genuegen"
+          "meaning": "genügen"
         },
         {
           "rank": 277,
@@ -2002,7 +2006,7 @@
           "root": "ق س م",
           "rootArabic": "قسم",
           "count": 33,
-          "meaning": "teilen/schwoeren"
+          "meaning": "teilen/schwören"
         },
         {
           "rank": 281,
@@ -2016,7 +2020,7 @@
           "root": "ب ر ر",
           "rootArabic": "برر",
           "count": 32,
-          "meaning": "fromm/Guete"
+          "meaning": "fromm/Güte"
         },
         {
           "rank": 283,
@@ -2121,7 +2125,7 @@
           "root": "ش ر ر",
           "rootArabic": "شرر",
           "count": 31,
-          "meaning": "Uebel/Boese"
+          "meaning": "Uebel/Böse"
         },
         {
           "rank": 298,

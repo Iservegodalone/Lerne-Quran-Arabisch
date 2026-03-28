@@ -43,7 +43,7 @@ const ROLE_OPTIONS = [
   { id: 'fail', label: 'Fail (Subjekt)' },
   { id: 'maful', label: "Maf'ul bihi (Objekt)" },
   { id: 'mubtada', label: "Mubtada' (Thema)" },
-  { id: 'khabar', label: 'Khabar (Praedikat)' },
+  { id: 'khabar', label: 'Khabar (Prädikat)' },
   { id: 'jarr', label: 'Jarr wa-Majrur' },
   { id: 'mudaf_ilayhi', label: 'Mudaf ilayhi (Genitiv)' },
   { id: 'sifa', label: 'Sifa (Attribut)' },
@@ -136,7 +136,7 @@ export default function VocalizationExercise({ onBack }) {
     setAnswers(newAnswers)
 
     if (!morphEntry) {
-      setFeedback({ correct: false, message: 'Kein Morphologie-Eintrag fuer dieses Wort in der Datenbank.' })
+      setFeedback({ correct: false, message: 'Kein Morphologie-Eintrag für dieses Wort in der Datenbank.' })
       return
     }
 
@@ -170,7 +170,7 @@ export default function VocalizationExercise({ onBack }) {
         if (!correct && answer.trim()) {
           correct = dbVocalized.normalize('NFC') === userVocalized.normalize('NFC')
         }
-        expected = morphEntry.vocalized || '(nicht verfuegbar)'
+        expected = morphEntry.vocalized || '(nicht verfügbar)'
         break
       }
       default:
@@ -208,11 +208,11 @@ export default function VocalizationExercise({ onBack }) {
       <button onClick={onBack} style={{
         background: 'none', border: 'none', color: 'var(--text-secondary)',
         cursor: 'pointer', fontSize: '0.9rem', padding: '8px 0', marginBottom: '12px',
-      }}>Zurueck zur Uebersicht</button>
+      }}>Zurück zur Übersicht</button>
 
       <h2 style={{ marginBottom: '4px' }}>Vokalisierungsuebung</h2>
       <p style={{ color: 'var(--text-secondary)', fontSize: '0.85rem', marginBottom: '16px' }}>
-        Der Konsonantentext traegt keine Vokalzeichen. Die Vokalisierung wird aus der Grammatik abgeleitet:
+        Der Konsonantentext trägt keine Vokalzeichen. Die Vokalisierung wird aus der Grammatik abgeleitet:
         Wortart erkennen — Wurzel extrahieren — Form bestimmen — syntaktische Rolle bestimmen — Kasus und Vokalisation ableiten.
       </p>
 
@@ -225,7 +225,7 @@ export default function VocalizationExercise({ onBack }) {
           Beliebiger Vers
         </div>
         <p style={{ fontSize: '0.8rem', color: 'var(--text-muted)', marginBottom: '12px' }}>
-          Waehle einen Vers aus dem Quran. Du kannst jeden Vers Wort fuer Wort analysieren und die Vokalisierung aus der Grammatik ableiten.
+          Wähle einen Vers aus dem Quran. Du kannst jeden Vers Wort für Wort analysieren und die Vokalisierung aus der Grammatik ableiten.
         </p>
         <div style={{
           display: 'flex', gap: '8px', alignItems: 'center', flexWrap: 'wrap',
@@ -263,7 +263,7 @@ export default function VocalizationExercise({ onBack }) {
           <span style={{ fontSize: '0.8rem', color: 'var(--text-muted)' }}>({maxVerse} Verse)</span>
           {totalAttempted > 0 && (
             <span style={{ marginLeft: 'auto', fontSize: '0.85rem', color: 'var(--accent-teal)' }}>
-              {totalCorrect}/{totalAttempted} Woerter korrekt
+              {totalCorrect}/{totalAttempted} Wörter korrekt
             </span>
           )}
         </div>
@@ -367,7 +367,7 @@ export default function VocalizationExercise({ onBack }) {
           {step === 0 && (
             <div>
               <p style={{ fontSize: '0.85rem', color: 'var(--text-secondary)', marginBottom: '10px' }}>
-                Was fuer ein Wort ist das?
+                Was für ein Wort ist das?
               </p>
               <div style={{ display: 'flex', gap: '8px' }}>
                 {POS_OPTIONS.map(opt => (
@@ -410,7 +410,7 @@ export default function VocalizationExercise({ onBack }) {
                   padding: '10px 16px', borderRadius: 'var(--radius)', cursor: 'pointer',
                   background: 'var(--bg-input)', border: '1px solid var(--border)',
                   color: 'var(--text-muted)', fontSize: '0.85rem',
-                }}>Ueberspringen</button>
+                }}>Überspringen</button>
               </div>
             </div>
           )}
@@ -484,7 +484,7 @@ export default function VocalizationExercise({ onBack }) {
                   padding: '10px 16px', borderRadius: 'var(--radius)', cursor: 'pointer',
                   background: 'var(--accent-teal-bg)', border: '1px solid var(--accent-teal)',
                   color: 'var(--accent-teal)', fontWeight: 600,
-                }}>Pruefen</button>
+                }}>Prüfen</button>
               </div>
             </div>
           )}

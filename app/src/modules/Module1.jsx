@@ -32,7 +32,7 @@ function shuffleArray(arr) {
   return a;
 }
 
-// ─── Audio-Hilfsfunktionen fuer Buchstaben-Audio ───
+// ─── Audio-Hilfsfunktionen für Buchstaben-Audio ───
 
 // Mapping von Buchstaben-Name zu Audio-Dateiname (echte Aufnahmen)
 const LETTER_AUDIO_MAP = {
@@ -91,12 +91,12 @@ function Lesson11({ onBack }) {
   return (
     <div className="m1-lesson">
       <button className="m1-back-btn" onClick={onBack}>
-        Zurueck zur Uebersicht
+        Zurück zur Übersicht
       </button>
       <h2 className="m1-lesson-title">Lektion 1.1 — Das Alphabet (28 Buchstaben)</h2>
       <p className="m1-lesson-intro">
         Das arabische Alphabet besteht aus 28 Buchstaben. Jeder Buchstabe hat bis zu
-        vier Formen, abhaengig von seiner Position im Wort: isoliert, am Anfang, in der
+        vier Formen, abhängig von seiner Position im Wort: isoliert, am Anfang, in der
         Mitte und am Ende. Einige Buchstaben verbinden sich nur nach rechts (zum
         vorhergehenden Buchstaben), nicht nach links.
       </p>
@@ -172,9 +172,9 @@ function Lesson11({ onBack }) {
             </div>
           </div>
 
-          {/* Audio-Wiedergabe fuer Buchstaben-Laut */}
+          {/* Audio-Wiedergabe für Buchstaben-Laut */}
           <div className="m1-audio-section">
-            <h4>Laut anhoeren</h4>
+            <h4>Laut anhören</h4>
             <button
               className="m1-btn m1-btn--audio"
               onClick={() => {
@@ -188,12 +188,12 @@ function Lesson11({ onBack }) {
               {audioStatus === 'playing'
                 ? 'Wird abgespielt...'
                 : audioStatus === 'unavailable'
-                ? 'Audio nicht verfuegbar'
+                ? 'Audio nicht verfügbar'
                 : `Laut abspielen: ${detail.name}`}
             </button>
             {audioStatus === 'unavailable' && (
               <p className="m1-detail-small m1-audio-note">
-                Audio-Datei konnte nicht geladen werden. Pruefe deine Internetverbindung.
+                Audio-Datei konnte nicht geladen werden. Prüfe deine Internetverbindung.
               </p>
             )}
             <p className="m1-detail-small">
@@ -246,41 +246,41 @@ function Lesson12({ onBack }) {
   return (
     <div className="m1-lesson">
       <button className="m1-back-btn" onClick={onBack}>
-        Zurueck zur Uebersicht
+        Zurück zur Übersicht
       </button>
       <h2 className="m1-lesson-title">Lektion 1.2 — Vokalzeichen (Tashkil)</h2>
 
       <div className="m1-info-box">
-        <h3>Warum wir die Vokalzeichen kennen muessen</h3>
+        <h3>Warum wir die Vokalzeichen kennen müssen</h3>
         <p>
           Arabische Schrift schreibt nur Konsonanten und Langvokale. Die drei Kurzvokale
           (a, i, u) werden in der Konsonantenschrift nicht geschrieben. Sie wurden
-          als Zeichen ueber und unter den Buchstaben entwickelt, um eine moegliche
+          als Zeichen über und unter den Buchstaben entwickelt, um eine mögliche
           Aussprache schriftlich zu dokumentieren.
         </p>
         <p>
-          <strong>Wie wurden sie eingefuehrt?</strong> Im 7. Jh. entstand in Basra ein erstes
+          <strong>Wie wurden sie eingeführt?</strong> Im 7. Jh. entstand in Basra ein erstes
           System mit farbigen Punkten. Im 8. Jh. wurden diese durch die heute
           verwendeten Formen (kleine Striche und Zeichen) ersetzt.
         </p>
         <p>
           <strong>Unser Arbeitstext (Simple Clean) zeigt den Konsonantentext ohne Vokalzeichen.</strong> Wir
-          muessen sie trotzdem kennen, aus drei Gruenden:
+          müssen sie trotzdem kennen, aus drei Gründen:
         </p>
         <ol>
           <li>
             <strong>Lane's Lexikon</strong> verwendet sie — und Lane's ist unser
-            primaeres Kontrollwerkzeug.
+            primäres Kontrollwerkzeug.
           </li>
           <li>
             <strong>Andere arabische Texte</strong> verwenden sie — wer Arabisch lernt,
             begegnet ihnen ueberall.
           </li>
           <li>
-            <strong>Unsere eigene Analyse fuehrt uns zu Vokalisierungen.</strong> Wenn wir
+            <strong>Unsere eigene Analyse führt uns zu Vokalisierungen.</strong> Wenn wir
             durch Morphologie-Analyse bestimmen, dass ein Konsonantengeruest z.B. als
             „kataba" zu lesen ist, gelangen wir zu demselben Ergebnis, das die Vokalzeichen anzeigen.
-            Wir muessen das System kennen, um zu verstehen was wir selbst tun.
+            Wir müssen das System kennen, um zu verstehen was wir selbst tun.
           </li>
         </ol>
       </div>
@@ -334,11 +334,11 @@ function Lesson12({ onBack }) {
 
       <div className="m1-note-box">
         <p>
-          <strong>Merke:</strong> Die Vokalzeichen notieren eine moegliche Aussprache.
-          In der Mehrzahl der Faelle ergibt die Grammatik eine
-          eindeutige Vokalisierung. In manchen Faellen laesst das Konsonantengeruest
+          <strong>Merke:</strong> Die Vokalzeichen notieren eine mögliche Aussprache.
+          In der Mehrzahl der Fälle ergibt die Grammatik eine
+          eindeutige Vokalisierung. In manchen Fällen lässt das Konsonantengeruest
           mehrere grammatisch korrekte Vokalisierungen zu. Wer die Grammatik
-          beherrscht, kann alle Optionen eigenstaendig ableiten.
+          beherrscht, kann alle Optionen eigenständig ableiten.
         </p>
       </div>
     </div>
@@ -353,7 +353,7 @@ function Lesson13({ onBack }) {
 
   const sections = [
     {
-      title: 'Hamza und seine Traeger',
+      title: 'Hamza und seine Träger',
       content: (
         <>
           <p>
@@ -363,7 +363,7 @@ function Lesson13({ onBack }) {
           </p>
           <p>
             Das Besondere an Hamza: Es hat keinen festen „Sitz" im Wort. Je nach
-            Position und umgebendem Vokal sitzt es auf einem von drei <strong>Traegern</strong>:
+            Position und umgebendem Vokal sitzt es auf einem von drei <strong>Trägern</strong>:
           </p>
           <div className="m1-feature-grid" dir="rtl">
             <div className="m1-feature-box">
@@ -393,9 +393,9 @@ function Lesson13({ onBack }) {
             </div>
           </div>
           <p>
-            Die Regeln welcher Traeger verwendet wird, haengen von den umgebenden Vokalen
+            Die Regeln welcher Träger verwendet wird, hängen von den umgebenden Vokalen
             ab. In unserem konsonantischen Text (Simple Clean) erscheint Hamza in seiner
-            jeweiligen Schreibform — die Traeger sind Teil der Konsonantenschrift, nicht
+            jeweiligen Schreibform — die Träger sind Teil der Konsonantenschrift, nicht
             der Vokalzeichen.
           </p>
         </>
@@ -419,12 +419,12 @@ function Lesson13({ onBack }) {
               <span className="m1-feature-arabic arabic">ت</span>
               <span className="m1-feature-label">Ta' Maftuha („offenes T")</span>
               <span className="m1-feature-info">
-                Das normale Ta'. Wird immer als T gesprochen, unabhaengig von der Position.
+                Das normale Ta'. Wird immer als T gesprochen, unabhängig von der Position.
               </span>
             </div>
           </div>
           <p>
-            <strong>Wichtig:</strong> Ta' Marbuta markiert haeufig das feminine Geschlecht
+            <strong>Wichtig:</strong> Ta' Marbuta markiert häufig das feminine Geschlecht
             bei Nomen. Beispiel: <span className="arabic" dir="rtl">رحمة</span> (rahma
             = Barmherzigkeit). In unserem konsonantischen Text ist der Unterschied klar
             sichtbar: ة vs. ت.
@@ -439,9 +439,9 @@ function Lesson13({ onBack }) {
           <div className="m1-feature-grid" dir="rtl">
             <div className="m1-feature-box">
               <span className="m1-feature-arabic arabic">ى</span>
-              <span className="m1-feature-label">Alif Maqsura („verkuerztes Alif")</span>
+              <span className="m1-feature-label">Alif Maqsura („verkürztes Alif")</span>
               <span className="m1-feature-info">
-                Sieht aus wie Ya' ohne Punkte. Steht am Wortende und repraesentiert
+                Sieht aus wie Ya' ohne Punkte. Steht am Wortende und repräsentiert
                 einen langen a-Vokal (a). Zeigt an, dass die Wurzel auf einen
                 schwachen Konsonanten (w oder y) endet.
               </span>
@@ -450,7 +450,7 @@ function Lesson13({ onBack }) {
               <span className="m1-feature-arabic arabic">ي</span>
               <span className="m1-feature-label">Ya'</span>
               <span className="m1-feature-info">
-                Hat Punkte darunter. Repraesentiert den Konsonanten Y oder den
+                Hat Punkte darunter. Repräsentiert den Konsonanten Y oder den
                 Langvokal i.
               </span>
             </div>
@@ -458,7 +458,7 @@ function Lesson13({ onBack }) {
           <p>
             Beispiel: <span className="arabic" dir="rtl">على</span> ('ala = auf)
             — das <span className="arabic" dir="rtl">ى</span> am Ende ist ein Alif Maqsura, kein Ya'. Es zeigt den langen
-            a-Vokal an. Im konsonantischen Text ohne Punkte waere der Unterschied nicht
+            a-Vokal an. Im konsonantischen Text ohne Punkte wäre der Unterschied nicht
             sichtbar — ein weiterer Grund warum die Buchstabenpunkte (Schicht 2) so
             wichtig sind.
           </p>
@@ -479,14 +479,14 @@ function Lesson13({ onBack }) {
               <span className="m1-feature-arabic arabic" style={{ fontSize: '3rem' }}>لا</span>
               <span className="m1-feature-label">Lam-Alif-Ligatur</span>
               <span className="m1-feature-info">
-                Zwei Buchstaben, eine Form. Kommt extrem haeufig vor — z.B. im
+                Zwei Buchstaben, eine Form. Kommt extrem häufig vor — z.B. im
                 Negationswort لا (la = nein/nicht) und im Artikel ال (al-).
               </span>
             </div>
           </div>
           <p>
             Man muss diese Ligatur erkennen und wissen, dass sie <strong>zwei
-            Buchstaben</strong> repraesentiert, nicht einen.
+            Buchstaben</strong> repräsentiert, nicht einen.
           </p>
         </>
       ),
@@ -542,10 +542,10 @@ function Lesson13({ onBack }) {
             </div>
           </div>
           <p>
-            <strong>Im Konsonantentext</strong> aendert sich die Schreibung nicht — der
+            <strong>Im Konsonantentext</strong> ändert sich die Schreibung nicht — der
             Artikel ist immer <span className="arabic" dir="rtl">ال</span>. Der
             Unterschied liegt in der Aussprache. Aber man muss ihn kennen um den Text
-            korrekt lesen (vorlesen) zu koennen.
+            korrekt lesen (vorlesen) zu können.
           </p>
         </>
       ),
@@ -556,7 +556,7 @@ function Lesson13({ onBack }) {
         <>
           <p>
             Alif Wasla (<span className="arabic" dir="rtl">ٱ</span>) ist ein
-            „Verbindungs-Alif". Das Hamza (der Stimmritzenverschluss) faellt weg wenn
+            „Verbindungs-Alif". Das Hamza (der Stimmritzenverschluss) fällt weg wenn
             das Wort mit dem vorhergehenden Wort verbunden gesprochen wird.
           </p>
           <div className="m1-feature-grid" dir="rtl">
@@ -564,7 +564,7 @@ function Lesson13({ onBack }) {
               <span className="m1-feature-arabic arabic">ٱ</span>
               <span className="m1-feature-label">Alif Wasla</span>
               <span className="m1-feature-info">
-                Erkennbar am kleinen Sad-Zeichen ueber dem Alif (in vokalisierten Texten).
+                Erkennbar am kleinen Sad-Zeichen über dem Alif (in vokalisierten Texten).
                 In Simple Clean sieht es aus wie ein normales Alif.
               </span>
             </div>
@@ -573,14 +573,14 @@ function Lesson13({ onBack }) {
             <strong>Wo kommt es vor?</strong>
           </p>
           <ul>
-            <li>Im bestimmten Artikel <span className="arabic" dir="rtl">ال</span> (al-) — das haeufigste Vorkommen</li>
+            <li>Im bestimmten Artikel <span className="arabic" dir="rtl">ال</span> (al-) — das häufigste Vorkommen</li>
             <li>Bei bestimmten Verbformen wie <span className="arabic" dir="rtl">انفعل</span>, <span className="arabic" dir="rtl">افتعل</span> und <span className="arabic" dir="rtl">استفعل</span> (werden in der Morphologie-Stufe behandelt)</li>
             <li>Bei einigen Nomen wie <span className="arabic" dir="rtl">ابن</span> (ibn = Sohn) und <span className="arabic" dir="rtl">اسم</span> (ism = Name)</li>
           </ul>
           <p>
             In der Praxis: Am Satzanfang wird das Alif Wasla mit Stimmritzenverschluss
-            gesprochen (weil es nichts gibt womit es sich verbinden koennte). Mitten im
-            Redefluss faellt der Stimmritzenverschluss weg und es wird durchgebunden.
+            gesprochen (weil es nichts gibt womit es sich verbinden könnte). Mitten im
+            Redefluss fällt der Stimmritzenverschluss weg und es wird durchgebunden.
           </p>
         </>
       ),
@@ -593,12 +593,12 @@ function Lesson13({ onBack }) {
           <div className="m1-info-box">
             <p>
               Die Position des Hamza (<span className="arabic" dir="rtl">ء</span>) auf
-              seinem Traeger (Alif <span className="arabic" dir="rtl">أ/إ</span>,
+              seinem Träger (Alif <span className="arabic" dir="rtl">أ/إ</span>,
               Waw <span className="arabic" dir="rtl">ؤ</span>,
               Ya <span className="arabic" dir="rtl">ئ</span>, oder
               allein <span className="arabic" dir="rtl">ء</span>) folgt einem klaren
               Algorithmus. Man vergleicht den Vokal VOR dem Hamza mit dem Vokal NACH dem
-              Hamza und waehlt den staerkeren.
+              Hamza und wählt den stärkeren.
             </p>
           </div>
 
@@ -607,22 +607,22 @@ function Lesson13({ onBack }) {
             <div className="m1-feature-box">
               <span className="m1-feature-arabic arabic">ئ</span>
               <span className="m1-feature-label">Kasra (i)</span>
-              <span className="m1-feature-info">Staerkster Vokal → Ya-Traeger</span>
+              <span className="m1-feature-info">Stärkster Vokal → Ya-Träger</span>
             </div>
             <div className="m1-feature-box">
               <span className="m1-feature-arabic arabic">ؤ</span>
               <span className="m1-feature-label">Damma (u)</span>
-              <span className="m1-feature-info">Zweitstaerkster → Waw-Traeger</span>
+              <span className="m1-feature-info">Zweitstaerkster → Waw-Träger</span>
             </div>
             <div className="m1-feature-box">
               <span className="m1-feature-arabic arabic">أ / إ</span>
               <span className="m1-feature-label">Fatha (a)</span>
-              <span className="m1-feature-info">Drittstaerkster → Alif-Traeger</span>
+              <span className="m1-feature-info">Drittstaerkster → Alif-Träger</span>
             </div>
             <div className="m1-feature-box">
               <span className="m1-feature-arabic arabic">ء</span>
               <span className="m1-feature-label">Sukun (kein Vokal)</span>
-              <span className="m1-feature-info">Schwaechster → Hamza allein</span>
+              <span className="m1-feature-info">Schwächster → Hamza allein</span>
             </div>
           </div>
 
@@ -630,10 +630,10 @@ function Lesson13({ onBack }) {
           <ol>
             <li>Bestimme den Vokal VOR dem Hamza</li>
             <li>Bestimme den Vokal NACH dem Hamza (= auf dem Hamza)</li>
-            <li>Der STAERKERE Vokal bestimmt den Traeger</li>
-            <li>Bei Kasra → Ya-Traeger (<span className="arabic" dir="rtl">ئ</span>)</li>
-            <li>Bei Damma → Waw-Traeger (<span className="arabic" dir="rtl">ؤ</span>)</li>
-            <li>Bei Fatha → Alif-Traeger (<span className="arabic" dir="rtl">أ</span> am Anfang, <span className="arabic" dir="rtl">إ</span> mit Kasra darunter)</li>
+            <li>Der STAERKERE Vokal bestimmt den Träger</li>
+            <li>Bei Kasra → Ya-Träger (<span className="arabic" dir="rtl">ئ</span>)</li>
+            <li>Bei Damma → Waw-Träger (<span className="arabic" dir="rtl">ؤ</span>)</li>
+            <li>Bei Fatha → Alif-Träger (<span className="arabic" dir="rtl">أ</span> am Anfang, <span className="arabic" dir="rtl">إ</span> mit Kasra darunter)</li>
             <li>Bei Sukun (kein Vokal) → Hamza steht allein auf der Linie (<span className="arabic" dir="rtl">ء</span>)</li>
           </ol>
 
@@ -650,18 +650,18 @@ function Lesson13({ onBack }) {
           <div className="m1-feature-grid" dir="rtl">
             <div className="m1-feature-box">
               <span className="m1-feature-arabic arabic">يَسْأَلُ</span>
-              <span className="m1-feature-label">Alif-Traeger (أ)</span>
-              <span className="m1-feature-info">Vor Hamza: Sukun, Nach/Auf Hamza: Fatha. Staerker = Fatha → Alif</span>
+              <span className="m1-feature-label">Alif-Träger (أ)</span>
+              <span className="m1-feature-info">Vor Hamza: Sukun, Nach/Auf Hamza: Fatha. Stärker = Fatha → Alif</span>
             </div>
             <div className="m1-feature-box">
               <span className="m1-feature-arabic arabic">سُئِلَ</span>
-              <span className="m1-feature-label">Ya-Traeger (ئ)</span>
-              <span className="m1-feature-info">Vor Hamza: Damma, Nach/Auf Hamza: Kasra. Staerker = Kasra → Ya</span>
+              <span className="m1-feature-label">Ya-Träger (ئ)</span>
+              <span className="m1-feature-info">Vor Hamza: Damma, Nach/Auf Hamza: Kasra. Stärker = Kasra → Ya</span>
             </div>
             <div className="m1-feature-box">
               <span className="m1-feature-arabic arabic">يَقْرَؤُونَ</span>
-              <span className="m1-feature-label">Waw-Traeger (ؤ)</span>
-              <span className="m1-feature-info">Vor Hamza: Fatha, Nach/Auf Hamza: Damma. Staerker = Damma → Waw</span>
+              <span className="m1-feature-label">Waw-Träger (ؤ)</span>
+              <span className="m1-feature-info">Vor Hamza: Fatha, Nach/Auf Hamza: Damma. Stärker = Damma → Waw</span>
             </div>
             <div className="m1-feature-box">
               <span className="m1-feature-arabic arabic">سَمَاء</span>
@@ -670,8 +670,8 @@ function Lesson13({ onBack }) {
             </div>
             <div className="m1-feature-box">
               <span className="m1-feature-arabic arabic">مَسْؤُول</span>
-              <span className="m1-feature-label">Waw-Traeger (ؤ)</span>
-              <span className="m1-feature-info">Vor Hamza: Sukun, Nach/Auf Hamza: Damma. Staerker = Damma → Waw</span>
+              <span className="m1-feature-label">Waw-Träger (ؤ)</span>
+              <span className="m1-feature-info">Vor Hamza: Sukun, Nach/Auf Hamza: Damma. Stärker = Damma → Waw</span>
             </div>
           </div>
         </>
@@ -682,11 +682,11 @@ function Lesson13({ onBack }) {
   return (
     <div className="m1-lesson">
       <button className="m1-back-btn" onClick={onBack}>
-        Zurueck zur Uebersicht
+        Zurück zur Übersicht
       </button>
       <h2 className="m1-lesson-title">Lektion 1.3 — Besonderheiten der Schrift</h2>
       <p className="m1-lesson-intro">
-        Die arabische Schrift hat einige Besonderheiten die ueber das einfache Alphabet
+        Die arabische Schrift hat einige Besonderheiten die über das einfache Alphabet
         hinausgehen. Klicke dich durch die Themen.
       </p>
 
@@ -718,13 +718,13 @@ function Lesson14({ onBack }) {
   return (
     <div className="m1-lesson">
       <button className="m1-back-btn" onClick={onBack}>
-        Zurueck zur Uebersicht
+        Zurück zur Übersicht
       </button>
       <h2 className="m1-lesson-title">Lektion 1.4 — Artikulationsstellen und Lautunterscheidung</h2>
       <p className="m1-lesson-intro">
-        Arabisch hat Laute die es im Deutschen nicht gibt. Verwechslung aendert die
+        Arabisch hat Laute die es im Deutschen nicht gibt. Verwechslung ändert die
         Bedeutung. Hier lernst du die <strong>Minimalpaare</strong> — Buchstabenpaare
-        die aehnlich klingen, aber grundverschieden sind.
+        die ähnlich klingen, aber grundverschieden sind.
       </p>
 
       {/* Pair selector */}
@@ -786,7 +786,7 @@ function Lesson15({ onBack }) {
   return (
     <div className="m1-lesson">
       <button className="m1-back-btn" onClick={onBack}>
-        Zurueck zur Uebersicht
+        Zurück zur Übersicht
       </button>
       <h2 className="m1-lesson-title">Lektion 1.5 — Getrennte Buchstaben (Huruf Muqatta'at)</h2>
 
@@ -802,10 +802,10 @@ function Lesson15({ onBack }) {
           Sie stehen im Konsonantentext. Sie sind Teil dessen was geschrieben wurde.
         </p>
         <p>
-          <strong>Ihre Bedeutung ist sprachwissenschaftlich nicht geklaert.</strong> Es gibt zahlreiche
-          Theorien (Initialen, Abkuerzungen, mystische Bedeutungen, phonetische Marker),
-          die unterschiedlich bewertet werden. Fuer unseren Zweck genuegt es, sie
-          zuverlaessig erkennen und korrekt aussprechen zu koennen.
+          <strong>Ihre Bedeutung ist sprachwissenschaftlich nicht geklärt.</strong> Es gibt zahlreiche
+          Theorien (Initialen, Abkürzungen, mystische Bedeutungen, phonetische Marker),
+          die unterschiedlich bewertet werden. Für unseren Zweck genügt es, sie
+          zuverlässig erkennen und korrekt aussprechen zu können.
         </p>
       </div>
 
@@ -831,7 +831,7 @@ function Lesson15({ onBack }) {
           <span className="arabic" dir="rtl"> الم</span> (Alif-Lam-Mim) kommt
           in 6 Suren vor. <span className="arabic" dir="rtl">حم</span> (Ha-Mim)
           in 7 Suren. <span className="arabic" dir="rtl">الر</span> (Alif-Lam-Ra')
-          in 5 Suren. Insgesamt werden 14 der 28 Buchstaben verwendet — genau die Haelfte
+          in 5 Suren. Insgesamt werden 14 der 28 Buchstaben verwendet — genau die Hälfte
           des Alphabets. Ob dieses Muster linguistisch, strukturell oder auf andere Weise
           zu deuten ist, bleibt offen.
         </p>
@@ -899,7 +899,7 @@ function TestLetterRecognition({ onBack }) {
     return (
       <div className="m1-test">
         <button className="m1-back-btn" onClick={onBack}>
-          Zurueck zur Uebersicht
+          Zurück zur Übersicht
         </button>
         <h2 className="m1-lesson-title">Ergebnis — Buchstabenerkennung</h2>
         <div className="m1-test-result">
@@ -911,7 +911,7 @@ function TestLetterRecognition({ onBack }) {
               ? 'Ausgezeichnet! Alle Buchstaben korrekt erkannt.'
               : score.correct >= score.total * 0.8
               ? 'Gut! Wiederhole die schwierigen Buchstaben.'
-              : 'Weiter ueben. Gehe zurueck in den Lernmodus und wiederhole das Alphabet.'}
+              : 'Weiter ueben. Gehe zurück in den Lernmodus und wiederhole das Alphabet.'}
           </p>
           <button className="m1-btn m1-btn--primary" onClick={restart}>
             Erneut versuchen
@@ -924,9 +924,9 @@ function TestLetterRecognition({ onBack }) {
   return (
     <div className="m1-test">
       <button className="m1-back-btn" onClick={onBack}>
-        Zurueck zur Uebersicht
+        Zurück zur Übersicht
       </button>
-      <h2 className="m1-lesson-title">Pruefung — Buchstabenerkennung</h2>
+      <h2 className="m1-lesson-title">Prüfung — Buchstabenerkennung</h2>
       <p className="m1-lesson-intro">
         Ein Buchstabe wird gezeigt. Gib den <strong>Namen</strong> oder die
         <strong> Transliteration</strong> ein.
@@ -956,7 +956,7 @@ function TestLetterRecognition({ onBack }) {
             autoFocus
           />
           <button className="m1-btn m1-btn--primary" onClick={checkAnswer}>
-            Pruefen
+            Prüfen
           </button>
           <ArabicKeyboard
             visible={kbVisible}
@@ -1051,7 +1051,7 @@ function TestPositionRecognition({ onBack }) {
     return (
       <div className="m1-test">
         <button className="m1-back-btn" onClick={onBack}>
-          Zurueck zur Uebersicht
+          Zurück zur Übersicht
         </button>
         <h2 className="m1-lesson-title">Ergebnis — Positionserkennung</h2>
         <div className="m1-test-result">
@@ -1060,7 +1060,7 @@ function TestPositionRecognition({ onBack }) {
           </div>
           <p>
             {score.correct >= score.total * 0.8
-              ? 'Gut gemacht! Du erkennst die Positionen zuverlaessig.'
+              ? 'Gut gemacht! Du erkennst die Positionen zuverlässig.'
               : 'Wiederhole Lektion 1.1 und achte besonders auf die vier Formen.'}
           </p>
           <button className="m1-btn m1-btn--primary" onClick={restart}>
@@ -1074,9 +1074,9 @@ function TestPositionRecognition({ onBack }) {
   return (
     <div className="m1-test">
       <button className="m1-back-btn" onClick={onBack}>
-        Zurueck zur Uebersicht
+        Zurück zur Übersicht
       </button>
-      <h2 className="m1-lesson-title">Pruefung — Positionserkennung</h2>
+      <h2 className="m1-lesson-title">Prüfung — Positionserkennung</h2>
       <p className="m1-lesson-intro">
         Der Buchstabe <strong>{current.name}</strong> wird in einer bestimmten Form
         gezeigt. In welcher Position steht er?
@@ -1187,7 +1187,7 @@ function TestMinimalPairs({ onBack }) {
     return (
       <div className="m1-test">
         <button className="m1-back-btn" onClick={onBack}>
-          Zurueck zur Uebersicht
+          Zurück zur Übersicht
         </button>
         <h2 className="m1-lesson-title">Ergebnis — Minimalpaare</h2>
         <div className="m1-test-result">
@@ -1196,8 +1196,8 @@ function TestMinimalPairs({ onBack }) {
           </div>
           <p>
             {score.correct >= score.total * 0.8
-              ? 'Gut! Du unterscheidest die aehnlichen Laute zuverlaessig.'
-              : 'Wiederhole Lektion 1.4 und hoere dir die Lautunterschiede nochmal an.'}
+              ? 'Gut! Du unterscheidest die ähnlichen Laute zuverlässig.'
+              : 'Wiederhole Lektion 1.4 und höre dir die Lautunterschiede nochmal an.'}
           </p>
           <button className="m1-btn m1-btn--primary" onClick={restart}>
             Erneut versuchen
@@ -1210,11 +1210,11 @@ function TestMinimalPairs({ onBack }) {
   return (
     <div className="m1-test">
       <button className="m1-back-btn" onClick={onBack}>
-        Zurueck zur Uebersicht
+        Zurück zur Übersicht
       </button>
-      <h2 className="m1-lesson-title">Pruefung — Minimalpaare</h2>
+      <h2 className="m1-lesson-title">Prüfung — Minimalpaare</h2>
       <p className="m1-lesson-intro">
-        Ein Wort wird gezeigt. Welcher der beiden aehnlichen Buchstaben kommt
+        Ein Wort wird gezeigt. Welcher der beiden ähnlichen Buchstaben kommt
         in diesem Wort vor?
       </p>
 
@@ -1247,7 +1247,7 @@ function TestMinimalPairs({ onBack }) {
           <p className="m1-test-feedback__verdict">
             {feedback.correct
               ? 'Richtig!'
-              : `Nicht ganz. Das Wort enthaelt: ${feedback.correctLetter}`}
+              : `Nicht ganz. Das Wort enthält: ${feedback.correctLetter}`}
           </p>
           <p>{current.explanation}</p>
           <button className="m1-btn m1-btn--primary" onClick={next}>
@@ -1260,7 +1260,7 @@ function TestMinimalPairs({ onBack }) {
 }
 
 /* ────────────────────────────────────────────────────────
-   Test: Sure 1 Buchstabe fuer Buchstabe (Abschlusstest)
+   Test: Sure 1 Buchstabe für Buchstabe (Abschlusstest)
    ──────────────────────────────────────────────────────── */
 function TestSurah1({ onBack }) {
   const allLettersFlat = useMemo(() => {
@@ -1324,7 +1324,7 @@ function TestSurah1({ onBack }) {
     return (
       <div className="m1-test">
         <button className="m1-back-btn" onClick={onBack}>
-          Zurueck zur Uebersicht
+          Zurück zur Übersicht
         </button>
         <h2 className="m1-lesson-title">Abschlusstest — Sure 1 komplett!</h2>
         <div className="m1-test-result">
@@ -1333,11 +1333,11 @@ function TestSurah1({ onBack }) {
           </div>
           <p>
             {score.correct >= score.total * 0.9
-              ? 'Hervorragend! Du kannst Sure 1 Buchstabe fuer Buchstabe lesen. Bereit fuer den naechsten Schritt.'
+              ? 'Hervorragend! Du kannst Sure 1 Buchstabe für Buchstabe lesen. Bereit für den nächsten Schritt.'
               : 'Wiederhole die Lektionen und versuche es erneut.'}
           </p>
           <button className="m1-btn m1-btn--primary" onClick={onBack}>
-            Zurueck zur Uebersicht
+            Zurück zur Übersicht
           </button>
         </div>
       </div>
@@ -1349,9 +1349,9 @@ function TestSurah1({ onBack }) {
   return (
     <div className="m1-test">
       <button className="m1-back-btn" onClick={onBack}>
-        Zurueck zur Uebersicht
+        Zurück zur Übersicht
       </button>
-      <h2 className="m1-lesson-title">Abschlusstest — Sure 1, Buchstabe fuer Buchstabe</h2>
+      <h2 className="m1-lesson-title">Abschlusstest — Sure 1, Buchstabe für Buchstabe</h2>
       <p className="m1-lesson-intro">
         Der gesamte Text von Sure 1, ein Buchstabe nach dem anderen. Identifiziere
         jeden einzelnen.
@@ -1401,7 +1401,7 @@ function TestSurah1({ onBack }) {
             autoFocus
           />
           <button className="m1-btn m1-btn--primary" onClick={checkAnswer}>
-            Pruefen
+            Prüfen
           </button>
           <ArabicKeyboard
             visible={kbVisible}
@@ -1499,17 +1499,17 @@ function TestAudioRecognition({ onBack }) {
     return (
       <div className="m1-test">
         <button className="m1-back-btn" onClick={onBack}>
-          Zurueck zur Uebersicht
+          Zurück zur Übersicht
         </button>
         <h2 className="m1-lesson-title">Audio-Erkennung</h2>
         <div className="m1-info-box">
-          <h3>Audio nicht verfuegbar</h3>
+          <h3>Audio nicht verfügbar</h3>
           <p>
-            Audio-Dateien konnten nicht geladen werden. Pruefe deine Internetverbindung
-            oder stelle sicher, dass die Audio-Dateien unter /audio/letters/ verfuegbar sind.
+            Audio-Dateien konnten nicht geladen werden. Prüfe deine Internetverbindung
+            oder stelle sicher, dass die Audio-Dateien unter /audio/letters/ verfügbar sind.
           </p>
           <button className="m1-btn m1-btn--primary" onClick={onBack}>
-            Zurueck zur Uebersicht
+            Zurück zur Übersicht
           </button>
         </div>
       </div>
@@ -1520,7 +1520,7 @@ function TestAudioRecognition({ onBack }) {
     return (
       <div className="m1-test">
         <button className="m1-back-btn" onClick={onBack}>
-          Zurueck zur Uebersicht
+          Zurück zur Übersicht
         </button>
         <h2 className="m1-lesson-title">Ergebnis — Audio-Erkennung</h2>
         <div className="m1-test-result">
@@ -1529,8 +1529,8 @@ function TestAudioRecognition({ onBack }) {
           </div>
           <p>
             {score.correct >= score.total * 0.8
-              ? 'Gut! Du erkennst die Buchstaben am Klang zuverlaessig.'
-              : 'Wiederhole Lektion 1.1 und hoere dir die Laute einzeln an (Laut-abspielen-Button).'}
+              ? 'Gut! Du erkennst die Buchstaben am Klang zuverlässig.'
+              : 'Wiederhole Lektion 1.1 und höre dir die Laute einzeln an (Laut-abspielen-Button).'}
           </p>
           <button className="m1-btn m1-btn--primary" onClick={restart}>
             Erneut versuchen
@@ -1543,11 +1543,11 @@ function TestAudioRecognition({ onBack }) {
   return (
     <div className="m1-test">
       <button className="m1-back-btn" onClick={onBack}>
-        Zurueck zur Uebersicht
+        Zurück zur Übersicht
       </button>
-      <h2 className="m1-lesson-title">Pruefung — Audio-Erkennung</h2>
+      <h2 className="m1-lesson-title">Prüfung — Audio-Erkennung</h2>
       <p className="m1-lesson-intro">
-        Ein Buchstaben-Laut wird abgespielt. Waehle den richtigen Buchstaben aus
+        Ein Buchstaben-Laut wird abgespielt. Wähle den richtigen Buchstaben aus
         den vier Optionen. Klicke zuerst auf &quot;Laut abspielen&quot;.
       </p>
 
@@ -1659,13 +1659,13 @@ function TestTashkilRecognition({ onBack }) {
   if (isFinished) {
     return (
       <div className="m1-test">
-        <button className="m1-back-btn" onClick={onBack}>Zurueck zur Uebersicht</button>
+        <button className="m1-back-btn" onClick={onBack}>Zurück zur Übersicht</button>
         <h2 className="m1-lesson-title">Ergebnis — Tashkil-Erkennung</h2>
         <div className="m1-test-result">
           <div className="m1-test-score">{score.correct} / {score.total}</div>
           <p>{score.correct >= score.total * 0.8
-            ? 'Gut! Du erkennst die Vokalzeichen zuverlaessig.'
-            : 'Wiederhole Lektion 1.2 und praege dir die Zeichen nochmal ein.'}</p>
+            ? 'Gut! Du erkennst die Vokalzeichen zuverlässig.'
+            : 'Wiederhole Lektion 1.2 und präge dir die Zeichen nochmal ein.'}</p>
           <button className="m1-btn m1-btn--primary" onClick={restart}>Erneut versuchen</button>
         </div>
       </div>
@@ -1674,8 +1674,8 @@ function TestTashkilRecognition({ onBack }) {
 
   return (
     <div className="m1-test">
-      <button className="m1-back-btn" onClick={onBack}>Zurueck zur Uebersicht</button>
-      <h2 className="m1-lesson-title">Pruefung — Tashkil-Erkennung</h2>
+      <button className="m1-back-btn" onClick={onBack}>Zurück zur Übersicht</button>
+      <h2 className="m1-lesson-title">Prüfung — Tashkil-Erkennung</h2>
       <p className="m1-lesson-intro">Ein Wort mit Vokalzeichen wird gezeigt. Welches Tashkil-Zeichen ist hervorgehoben?</p>
       <div className="m1-test-progress">{currentIndex + 1} / {queue.length}</div>
       <div className="m1-test-question">
@@ -1705,14 +1705,14 @@ function TestTashkilRecognition({ onBack }) {
    ──────────────────────────────────────────────────────── */
 
 const SCRIPT_FEATURES_QUESTIONS = [
-  { question: 'Auf welchem Traeger sitzt das Hamza in ؤ?', options: ['Alif', 'Waw', 'Ya', 'Kein Traeger (auf der Zeile)'], answer: 'Waw', explanation: 'In ؤ sitzt das Hamza auf einem Waw — das geschieht wenn der umgebende Vokal eine Damma ist.' },
-  { question: 'Was unterscheidet ة (Ta Marbuta) von ه (Ha)?', options: ['Nichts, sie sind identisch', 'Ta Marbuta hat zwei Punkte oben', 'Ha hat zwei Punkte oben', 'Ta Marbuta ist groesser'], answer: 'Ta Marbuta hat zwei Punkte oben', explanation: 'Ta Marbuta (ة) hat zwei Punkte ueber dem Kreis, Ha (ه) nicht. In der Pause wird ة wie ه ausgesprochen.' },
-  { question: 'Was ist ى (Alif Maqsura)?', options: ['Ein Ya mit Punkten', 'Ein Alif in der Form eines Ya ohne Punkte', 'Ein Hamza-Traeger', 'Eine Shadda'], answer: 'Ein Alif in der Form eines Ya ohne Punkte', explanation: 'Alif Maqsura sieht aus wie Ya, hat aber keine Punkte. Es repraesentiert einen langen a-Vokal am Wortende.' },
-  { question: 'Wie viele Buchstaben repraesentiert die Ligatur لا?', options: ['Einen', 'Zwei', 'Drei', 'Vier'], answer: 'Zwei', explanation: 'لا ist eine Ligatur (Verbindung) aus Lam (ل) und Alif (ا) — zwei Buchstaben die als eine Form geschrieben werden.' },
-  { question: 'Was passiert mit Alif Wasla (ٱ) mitten im Satz?', options: ['Es wird normal gesprochen', 'Der Stimmritzenverschluss faellt weg', 'Es wird verdoppelt', 'Es wird zu Ha'], answer: 'Der Stimmritzenverschluss faellt weg', explanation: 'Alif Wasla verbindet sich mit dem vorherigen Wort — der Stimmritzenverschluss wird nicht gesprochen, das Alif dient nur als Verbindung.' },
+  { question: 'Auf welchem Träger sitzt das Hamza in ؤ?', options: ['Alif', 'Waw', 'Ya', 'Kein Träger (auf der Zeile)'], answer: 'Waw', explanation: 'In ؤ sitzt das Hamza auf einem Waw — das geschieht wenn der umgebende Vokal eine Damma ist.' },
+  { question: 'Was unterscheidet ة (Ta Marbuta) von ه (Ha)?', options: ['Nichts, sie sind identisch', 'Ta Marbuta hat zwei Punkte oben', 'Ha hat zwei Punkte oben', 'Ta Marbuta ist größer'], answer: 'Ta Marbuta hat zwei Punkte oben', explanation: 'Ta Marbuta (ة) hat zwei Punkte über dem Kreis, Ha (ه) nicht. In der Pause wird ة wie ه ausgesprochen.' },
+  { question: 'Was ist ى (Alif Maqsura)?', options: ['Ein Ya mit Punkten', 'Ein Alif in der Form eines Ya ohne Punkte', 'Ein Hamza-Träger', 'Eine Shadda'], answer: 'Ein Alif in der Form eines Ya ohne Punkte', explanation: 'Alif Maqsura sieht aus wie Ya, hat aber keine Punkte. Es repräsentiert einen langen a-Vokal am Wortende.' },
+  { question: 'Wie viele Buchstaben repräsentiert die Ligatur لا?', options: ['Einen', 'Zwei', 'Drei', 'Vier'], answer: 'Zwei', explanation: 'لا ist eine Ligatur (Verbindung) aus Lam (ل) und Alif (ا) — zwei Buchstaben die als eine Form geschrieben werden.' },
+  { question: 'Was passiert mit Alif Wasla (ٱ) mitten im Satz?', options: ['Es wird normal gesprochen', 'Der Stimmritzenverschluss fällt weg', 'Es wird verdoppelt', 'Es wird zu Ha'], answer: 'Der Stimmritzenverschluss fällt weg', explanation: 'Alif Wasla verbindet sich mit dem vorherigen Wort — der Stimmritzenverschluss wird nicht gesprochen, das Alif dient nur als Verbindung.' },
   { question: 'Welches ist ein Sonnenbuchstabe?', options: ['ب', 'ن', 'ك', 'ع'], answer: 'ن', explanation: 'Nun (ن) ist ein Sonnenbuchstabe — das Lam des Artikels ال assimiliert sich: الناس wird an-naas gesprochen, nicht al-naas.' },
   { question: 'In welcher Form erscheint Hamza in إبراهيم?', options: ['Auf Alif oben (أ)', 'Auf Alif unten (إ)', 'Auf Waw (ؤ)', 'Auf der Zeile (ء)'], answer: 'Auf Alif unten (إ)', explanation: 'Am Wortanfang mit Kasra sitzt das Hamza unter dem Alif: إ (Hamza mit Kasra darunter).' },
-  { question: 'Was ist der Unterschied zwischen ي (Ya) und ى (Alif Maqsura)?', options: ['Kein Unterschied', 'Ya hat Punkte, Alif Maqsura nicht', 'Alif Maqsura hat Punkte, Ya nicht', 'Ya ist groesser'], answer: 'Ya hat Punkte, Alif Maqsura nicht', explanation: 'Ya (ي) hat zwei Punkte unter dem Buchstaben, Alif Maqsura (ى) hat keine Punkte. Beispiel: على endet auf Alif Maqsura.' },
+  { question: 'Was ist der Unterschied zwischen ي (Ya) und ى (Alif Maqsura)?', options: ['Kein Unterschied', 'Ya hat Punkte, Alif Maqsura nicht', 'Alif Maqsura hat Punkte, Ya nicht', 'Ya ist größer'], answer: 'Ya hat Punkte, Alif Maqsura nicht', explanation: 'Ya (ي) hat zwei Punkte unter dem Buchstaben, Alif Maqsura (ى) hat keine Punkte. Beispiel: على endet auf Alif Maqsura.' },
 ];
 
 function TestScriptFeatures({ onBack }) {
@@ -1744,13 +1744,13 @@ function TestScriptFeatures({ onBack }) {
   if (isFinished) {
     return (
       <div className="m1-test">
-        <button className="m1-back-btn" onClick={onBack}>Zurueck zur Uebersicht</button>
+        <button className="m1-back-btn" onClick={onBack}>Zurück zur Übersicht</button>
         <h2 className="m1-lesson-title">Ergebnis — Schriftbesonderheiten</h2>
         <div className="m1-test-result">
           <div className="m1-test-score">{score.correct} / {score.total}</div>
           <p>{score.correct >= score.total * 0.8
             ? 'Gut! Du kennst die Besonderheiten der arabischen Schrift.'
-            : 'Wiederhole Lektion 1.3 und praege dir die Unterschiede nochmal ein.'}</p>
+            : 'Wiederhole Lektion 1.3 und präge dir die Unterschiede nochmal ein.'}</p>
           <button className="m1-btn m1-btn--primary" onClick={restart}>Erneut versuchen</button>
         </div>
       </div>
@@ -1759,9 +1759,9 @@ function TestScriptFeatures({ onBack }) {
 
   return (
     <div className="m1-test">
-      <button className="m1-back-btn" onClick={onBack}>Zurueck zur Uebersicht</button>
-      <h2 className="m1-lesson-title">Pruefung — Schriftbesonderheiten</h2>
-      <p className="m1-lesson-intro">Fragen zu Hamza-Traegern, Ta Marbuta, Alif Maqsura, Lam-Alif und Alif Wasla.</p>
+      <button className="m1-back-btn" onClick={onBack}>Zurück zur Übersicht</button>
+      <h2 className="m1-lesson-title">Prüfung — Schriftbesonderheiten</h2>
+      <p className="m1-lesson-intro">Fragen zu Hamza-Trägern, Ta Marbuta, Alif Maqsura, Lam-Alif und Alif Wasla.</p>
       <div className="m1-test-progress">{currentIndex + 1} / {queue.length}</div>
       <div className="m1-test-question">
         <p style={{ fontSize: '1.2rem', fontWeight: 'bold' }}>{current.question}</p>
@@ -1790,15 +1790,15 @@ function TestScriptFeatures({ onBack }) {
    ──────────────────────────────────────────────────────── */
 
 const MUQATTAAT_QUESTIONS = [
-  { question: 'Welche Buchstaben stehen am Anfang von Sure 19 (Maryam)?', options: ['الم', 'كهيعص', 'حم', 'طه'], answer: 'كهيعص', explanation: 'Sure 19 beginnt mit كهيعص (Kaf-Ha-Ya-ʿAyn-Sad) — die laengste Muqattaat-Kombination im Quran.' },
+  { question: 'Welche Buchstaben stehen am Anfang von Sure 19 (Maryam)?', options: ['الم', 'كهيعص', 'حم', 'طه'], answer: 'كهيعص', explanation: 'Sure 19 beginnt mit كهيعص (Kaf-Ha-Ya-ʿAyn-Sad) — die längste Muqattaat-Kombination im Quran.' },
   { question: 'In wie vielen Suren kommt الم (Alif-Lam-Mim) vor?', options: ['3', '5', '6', '7'], answer: '6', explanation: 'الم steht am Anfang von 6 Suren: 2, 3, 29, 30, 31, 32.' },
-  { question: 'Wie viele der 28 arabischen Buchstaben werden als Muqattaat verwendet?', options: ['10', '12', '14', '28'], answer: '14', explanation: '14 Buchstaben — genau die Haelfte des Alphabets. Diese 14 Buchstaben bilden die verschiedenen Kombinationen.' },
+  { question: 'Wie viele der 28 arabischen Buchstaben werden als Muqattaat verwendet?', options: ['10', '12', '14', '28'], answer: '14', explanation: '14 Buchstaben — genau die Hälfte des Alphabets. Diese 14 Buchstaben bilden die verschiedenen Kombinationen.' },
   { question: 'Welche Buchstaben stehen am Anfang von Sure 36?', options: ['طه', 'يس', 'حم', 'الم'], answer: 'يس', explanation: 'Sure 36 beginnt mit يس (Ya-Sin).' },
-  { question: 'Ist die Bedeutung der Huruf Muqattaat geklaert?', options: ['Ja, sie bedeuten Gottes Namen', 'Ja, sie sind Abkuerzungen fuer Suren', 'Nein, ihre Bedeutung ist nicht gesichert', 'Ja, sie sind Zahlenwerte'], answer: 'Nein, ihre Bedeutung ist nicht gesichert', explanation: 'Die Bedeutung der Muqattaat ist sprachwissenschaftlich nicht geklaert. Es existieren zahlreiche Deutungsansaetze, aber keine hat sich als ueberzeugend erwiesen.' },
+  { question: 'Ist die Bedeutung der Huruf Muqattaat geklärt?', options: ['Ja, sie bedeuten Gottes Namen', 'Ja, sie sind Abkürzungen für Suren', 'Nein, ihre Bedeutung ist nicht gesichert', 'Ja, sie sind Zahlenwerte'], answer: 'Nein, ihre Bedeutung ist nicht gesichert', explanation: 'Die Bedeutung der Muqattaat ist sprachwissenschaftlich nicht geklärt. Es existieren zahlreiche Deutungsansaetze, aber keine hat sich als ueberzeugend erwiesen.' },
   { question: 'Wie viele Suren beginnen mit Huruf Muqattaat?', options: ['14', '21', '29', '36'], answer: '29', explanation: '29 Suren beginnen mit getrennten Buchstaben — aus 14 verschiedenen Buchstaben in verschiedenen Kombinationen.' },
   { question: 'Welcher einzelne Buchstabe steht am Anfang von Sure 50?', options: ['ن', 'ق', 'ص', 'ط'], answer: 'ق', explanation: 'Sure 50 beginnt mit dem einzelnen Buchstaben ق (Qaf).' },
   { question: 'Welche Buchstaben stehen am Anfang von Sure 20?', options: ['يس', 'طه', 'حم', 'طس'], answer: 'طه', explanation: 'Sure 20 beginnt mit طه (Ta-Ha).' },
-  { question: 'Werden die Muqattaat als Woerter oder als einzelne Buchstaben gelesen?', options: ['Als Woerter', 'Als einzelne Buchstabennamen', 'Mal so, mal so', 'Sie werden nicht gelesen'], answer: 'Als einzelne Buchstabennamen', explanation: 'Die Muqattaat werden einzeln buchstabiert: الم wird als "Alif-Lam-Mim" gesprochen, nicht als ein Wort "alm".' },
+  { question: 'Werden die Muqattaat als Wörter oder als einzelne Buchstaben gelesen?', options: ['Als Wörter', 'Als einzelne Buchstabennamen', 'Mal so, mal so', 'Sie werden nicht gelesen'], answer: 'Als einzelne Buchstabennamen', explanation: 'Die Muqattaat werden einzeln buchstabiert: الم wird als "Alif-Lam-Mim" gesprochen, nicht als ein Wort "alm".' },
   { question: 'Welche Buchstaben stehen am Anfang von Sure 42?', options: ['حم', 'حم عسق', 'الم', 'كهيعص'], answer: 'حم عسق', explanation: 'Sure 42 ist einzigartig: Sie hat zwei Muqattaat-Gruppen — حم in Vers 1 und عسق in Vers 2.' },
 ];
 
@@ -1831,13 +1831,13 @@ function TestMuqattaat({ onBack }) {
   if (isFinished) {
     return (
       <div className="m1-test">
-        <button className="m1-back-btn" onClick={onBack}>Zurueck zur Uebersicht</button>
+        <button className="m1-back-btn" onClick={onBack}>Zurück zur Übersicht</button>
         <h2 className="m1-lesson-title">Ergebnis — Huruf Muqattaat</h2>
         <div className="m1-test-result">
           <div className="m1-test-score">{score.correct} / {score.total}</div>
           <p>{score.correct >= score.total * 0.8
             ? 'Gut! Du kennst die getrennten Buchstaben und ihre Suren.'
-            : 'Wiederhole Lektion 1.5 und praege dir die Kombinationen nochmal ein.'}</p>
+            : 'Wiederhole Lektion 1.5 und präge dir die Kombinationen nochmal ein.'}</p>
           <button className="m1-btn m1-btn--primary" onClick={restart}>Erneut versuchen</button>
         </div>
       </div>
@@ -1846,8 +1846,8 @@ function TestMuqattaat({ onBack }) {
 
   return (
     <div className="m1-test">
-      <button className="m1-back-btn" onClick={onBack}>Zurueck zur Uebersicht</button>
-      <h2 className="m1-lesson-title">Pruefung — Huruf Muqattaat</h2>
+      <button className="m1-back-btn" onClick={onBack}>Zurück zur Übersicht</button>
+      <h2 className="m1-lesson-title">Prüfung — Huruf Muqattaat</h2>
       <p className="m1-lesson-intro">Fragen zu den getrennten Buchstaben am Surenanfang.</p>
       <div className="m1-test-progress">{currentIndex + 1} / {queue.length}</div>
       <div className="m1-test-question">
@@ -1880,7 +1880,7 @@ function TestMuqattaat({ onBack }) {
    ═══════════════════════════════════════════════════════════ */
 
 /* ────────────────────────────────────────────────────────
-   Test: Wort-Lesen — verbundene Buchstaben als Woerter erkennen
+   Test: Wort-Lesen — verbundene Buchstaben als Wörter erkennen
    ──────────────────────────────────────────────────────── */
 function TestWordReading({ onBack }) {
   const quranWords = useMemo(() => {
@@ -1889,22 +1889,22 @@ function TestWordReading({ onBack }) {
       { word: 'بسم', letters: 'ب-س-م', meaning: 'im Namen', ref: '1:1' },
       { word: 'الله', letters: 'ا-ل-ل-ه', meaning: 'Gott', ref: '1:1' },
       { word: 'رب', letters: 'ر-ب', meaning: 'Herr', ref: '1:2' },
-      { word: 'ملك', letters: 'م-ل-ك', meaning: 'Koenig/Besitzer', ref: '1:4' },
+      { word: 'ملك', letters: 'م-ل-ك', meaning: 'König/Besitzer', ref: '1:4' },
       { word: 'يوم', letters: 'ي-و-م', meaning: 'Tag', ref: '1:4' },
       { word: 'نعبد', letters: 'ن-ع-ب-د', meaning: 'wir dienen', ref: '1:5' },
       { word: 'صرط', letters: 'ص-ر-ط', meaning: 'Weg', ref: '1:6' },
       { word: 'كتب', letters: 'ك-ت-ب', meaning: 'Buch/schreiben', ref: '2:2' },
-      { word: 'هدى', letters: 'ه-د-ى', meaning: 'Fuehrung/Wegweisung', ref: '2:2' },
+      { word: 'هدى', letters: 'ه-د-ى', meaning: 'Führung/Wegweisung', ref: '2:2' },
       { word: 'غيب', letters: 'غ-ي-ب', meaning: 'Verborgenes', ref: '2:3' },
       { word: 'قلب', letters: 'ق-ل-ب', meaning: 'Herz', ref: '2:7' },
-      { word: 'سمع', letters: 'س-م-ع', meaning: 'Gehoer', ref: '2:7' },
+      { word: 'سمع', letters: 'س-م-ع', meaning: 'Gehör', ref: '2:7' },
       { word: 'بصر', letters: 'ب-ص-ر', meaning: 'Sehen', ref: '2:7' },
       { word: 'ارض', letters: 'ا-ر-ض', meaning: 'Erde', ref: '2:11' },
       { word: 'نور', letters: 'ن-و-ر', meaning: 'Licht', ref: '2:17' },
       { word: 'سماء', letters: 'س-م-ا-ء', meaning: 'Himmel', ref: '2:19' },
       { word: 'حق', letters: 'ح-ق', meaning: 'Wahrheit', ref: '2:26' },
       { word: 'علم', letters: 'ع-ل-م', meaning: 'Wissen', ref: '2:32' },
-      { word: 'جنت', letters: 'ج-ن-ت', meaning: 'Gaerten', ref: '2:25' },
+      { word: 'جنت', letters: 'ج-ن-ت', meaning: 'Gärten', ref: '2:25' },
       { word: 'نار', letters: 'ن-ا-ر', meaning: 'Feuer', ref: '2:17' },
     ];
   }, []);
@@ -1945,12 +1945,12 @@ function TestWordReading({ onBack }) {
   if (isFinished) {
     return (
       <div className="m1-test">
-        <button className="m1-back-btn" onClick={onBack}>Zurueck zur Uebersicht</button>
+        <button className="m1-back-btn" onClick={onBack}>Zurück zur Übersicht</button>
         <h2 className="m1-lesson-title">Ergebnis — Wort-Lesen</h2>
         <div className="m1-test-result">
           <div className="m1-test-score">{score.correct} / {score.total}</div>
           <p>{score.correct >= score.total * 0.8
-            ? 'Gut! Du kannst verbundene Buchstaben als Woerter lesen.'
+            ? 'Gut! Du kannst verbundene Buchstaben als Wörter lesen.'
             : 'Wiederhole die Alphabet-Lektion und achte auf die Verbindungsformen.'}</p>
           <button className="m1-btn m1-btn--primary" onClick={() => { setCurrentIndex(0); setScore({ correct: 0, total: 0 }); setFeedback(null); }}>Erneut versuchen</button>
         </div>
@@ -1960,7 +1960,7 @@ function TestWordReading({ onBack }) {
 
   return (
     <div className="m1-test">
-      <button className="m1-back-btn" onClick={onBack}>Zurueck zur Uebersicht</button>
+      <button className="m1-back-btn" onClick={onBack}>Zurück zur Übersicht</button>
       <h2 className="m1-lesson-title">Wort-Lesen — Verbundene Buchstaben erkennen</h2>
       <p className="m1-lesson-intro">
         Ein arabisches Wort aus dem Quran wird gezeigt. Identifiziere die einzelnen Buchstaben
@@ -1977,7 +1977,7 @@ function TestWordReading({ onBack }) {
             onChange={e => setUserAnswer(e.target.value)}
             onKeyDown={e => e.key === 'Enter' && checkAnswer()}
             placeholder="Buchstaben (z.B. ba-sin-mim oder bsm)..." autoFocus />
-          <button className="m1-btn m1-btn--primary" onClick={checkAnswer}>Pruefen</button>
+          <button className="m1-btn m1-btn--primary" onClick={checkAnswer}>Prüfen</button>
         </div>
       ) : (
         <div className={`m1-test-feedback ${feedback.correct ? 'm1-test-feedback--correct' : 'm1-test-feedback--wrong'}`}>
@@ -2002,7 +2002,7 @@ const DATA_DRIVEN_LESSONS = [
   ...(hamzaSeatData?.rules ? [{
     id: '1.13',
     title: 'Hamza-Sitzregeln (كرسي الهمزة)',
-    description: hamzaSeatData.meta?.description || 'Systematisches Regelsystem fuer die Platzierung der Hamza im Schriftbild.',
+    description: hamzaSeatData.meta?.description || 'Systematisches Regelsystem für die Platzierung der Hamza im Schriftbild.',
     learnContent: {
       sections: [
         { type: 'explanation', title: hamzaSeatData.rules.hierarchy?.title || 'Vokal-Hierarchie', content: hamzaSeatData.rules.hierarchy?.content || '' },
@@ -2053,7 +2053,7 @@ const DATA_DRIVEN_LESSONS = [
     },
     testContent: {
       exercises: (stage.exercises || []).filter((_, j) => j % 3 === 0).map(ex => {
-        const opts = [ex.meaning, 'Barmherzigkeit', 'Gerechtigkeit', 'Schriftstueck'].sort(() => Math.random() - 0.5);
+        const opts = [ex.meaning, 'Barmherzigkeit', 'Gerechtigkeit', 'Schriftstück'].sort(() => Math.random() - 0.5);
         return {
           type: 'multiple_choice',
           question: `Was bedeutet ${ex.arabic}?`,
@@ -2064,7 +2064,7 @@ const DATA_DRIVEN_LESSONS = [
       }),
     },
   })),
-  // Minimalpaare als phonetische Uebungen
+  // Minimalpaare als phonetische Übungen
   ...(minimalPairsData?.pairs || []).map((pair, i) => ({
     id: `1.${19 + i}`,
     title: `Minimalpaar: ${pair.pair?.join(' vs. ')} — ${pair.pairName || ''}`,
@@ -2080,7 +2080,7 @@ const DATA_DRIVEN_LESSONS = [
     },
     testContent: { exercises: (pair.exercises || []).slice(0, 3).map(ex => ({
       type: 'multiple_choice', question: `Welcher Buchstabe steht in dem Wort das "${ex.meaning1}" bedeutet?`,
-      options: pair.pair || [], correct: 0, explanation: `${ex.word1} (${ex.meaning1}) enthaelt ${pair.pair?.[0]}, nicht ${pair.pair?.[1]}.`,
+      options: pair.pair || [], correct: 0, explanation: `${ex.word1} (${ex.meaning1}) enthält ${pair.pair?.[0]}, nicht ${pair.pair?.[1]}.`,
     })) },
   })),
   // Shadda-Lektion
@@ -2351,7 +2351,7 @@ function DDExMultipleChoice({ exercise, onResult }) {
         </button>
       ))}
       {!revealed && (
-        <button style={DD.checkBtn} onClick={check} disabled={selected.length === 0}>Pruefen</button>
+        <button style={DD.checkBtn} onClick={check} disabled={selected.length === 0}>Prüfen</button>
       )}
       {revealed && (
         <div style={DD.feedback(isCorrect)}>
@@ -2384,7 +2384,7 @@ function DDExFreeText({ exercise, onResult }) {
         value={value} onChange={e => setValue(e.target.value)} placeholder="Antwort eingeben..." disabled={revealed}
       />
       {exercise.hint && !revealed && <div style={{ fontSize: '0.85rem', color: 'var(--text-muted)', marginTop: 4 }}>Hinweis: {exercise.hint}</div>}
-      {!revealed && <button style={DD.checkBtn} onClick={check} disabled={!value.trim()}>Pruefen</button>}
+      {!revealed && <button style={DD.checkBtn} onClick={check} disabled={!value.trim()}>Prüfen</button>}
       {revealed && (
         <div style={DD.feedback(correct)}>
           {correct ? 'Richtig!' : `Falsch. Richtige Antwort: ${exercise.answer}`}
@@ -2441,7 +2441,7 @@ function DDExMatching({ exercise, onResult }) {
           })}
         </div>
       </div>
-      {!revealed && <button style={DD.checkBtn} onClick={check} disabled={!allAssigned}>Pruefen</button>}
+      {!revealed && <button style={DD.checkBtn} onClick={check} disabled={!allAssigned}>Prüfen</button>}
       {revealed && (
         <div style={DD.feedback(allCorrect)}>
           {allCorrect ? 'Alle richtig!' : 'Nicht alle Zuordnungen waren korrekt. Richtige Zuordnungen:'}
@@ -2487,7 +2487,7 @@ function DataDrivenLesson({ lesson, onBack }) {
 
   return (
     <div className="m1-lesson" style={{ maxWidth: 900, margin: '0 auto' }}>
-      <button className="m1-back-btn" onClick={onBack}>Zurueck zur Uebersicht</button>
+      <button className="m1-back-btn" onClick={onBack}>Zurück zur Übersicht</button>
       <h2 className="m1-lesson-title">Lektion {lesson.id} — {lesson.title}</h2>
       <p className="m1-lesson-intro">{lesson.description}</p>
 
@@ -2495,7 +2495,7 @@ function DataDrivenLesson({ lesson, onBack }) {
         <button style={mode === 'learn' ? DD.tabActive : DD.tab} onClick={() => setMode('learn')}>Lernmodus</button>
         {exercises.length > 0 && (
           <button style={mode === 'test' ? DD.tabActive : DD.tab} onClick={() => setMode('test')}>
-            Pruefmodus ({exercises.length})
+            Prüfmodus ({exercises.length})
           </button>
         )}
       </div>
@@ -2544,7 +2544,7 @@ const VIEWS = {
   L15: 'lesson-1.5',
   // Data-driven lessons
   DATA_DRIVEN: 'data-driven',
-  // Pruefmodus
+  // Prüfmodus
   T_LETTER: 'test-letter',
   T_POSITION: 'test-position',
   T_PAIRS: 'test-pairs',
@@ -2658,7 +2658,7 @@ export default function Module1() {
       {/* Lernmodus */}
       <section className="m1-section">
         <h3 className="m1-section-heading">Lernmodus</h3>
-        <p className="m1-section-desc">Die App lehrt, erklaert, zeigt. Du liest, verstehst, klickst weiter.</p>
+        <p className="m1-section-desc">Die App lehrt, erklärt, zeigt. Du liest, verstehst, klickst weiter.</p>
 
         <div className="m1-card-grid">
           <button className="m1-card" onClick={() => setView(VIEWS.L11)}>
@@ -2673,14 +2673,14 @@ export default function Module1() {
             <span className="m1-card__title">Vokalzeichen (Tashkil)</span>
             <span className="m1-card__desc">
               Fatha, Damma, Kasra, Sukun, Shadda, Tanwin, Madda — warum wir sie
-              kennen muessen
+              kennen müssen
             </span>
           </button>
           <button className="m1-card" onClick={() => setView(VIEWS.L13)}>
             <span className="m1-card__number">1.3</span>
             <span className="m1-card__title">Besonderheiten der Schrift</span>
             <span className="m1-card__desc">
-              Hamza und Traeger, Ta' Marbuta, Alif Maqsura, Lam-Alif, Sonnen-
+              Hamza und Träger, Ta' Marbuta, Alif Maqsura, Lam-Alif, Sonnen-
               und Mondbuchstaben, Alif Wasla
             </span>
           </button>
@@ -2735,14 +2735,14 @@ export default function Module1() {
         </div>
       </section>
 
-      {/* Pruefmodus */}
+      {/* Prüfmodus */}
       <section className="m1-section">
-        <h3 className="m1-section-heading">Pruefmodus</h3>
+        <h3 className="m1-section-heading">Prüfmodus</h3>
         <p className="m1-section-desc">Du wirst getestet. Kein Raten — zeig was du gelernt hast.</p>
 
         {!hasVisitedAnyLesson && (
           <p className="m1-gate-hint" style={{ color: 'var(--text-secondary)', fontStyle: 'italic', marginBottom: '1rem' }}>
-            Bearbeite zuerst mindestens eine Lektion im Lernmodus, bevor du den Pruefmodus starten kannst.
+            Bearbeite zuerst mindestens eine Lektion im Lernmodus, bevor du den Prüfmodus starten kannst.
           </p>
         )}
         <div className="m1-card-grid">
@@ -2764,7 +2764,7 @@ export default function Module1() {
             <span className="m1-card__number">P3</span>
             <span className="m1-card__title">Minimalpaare</span>
             <span className="m1-card__desc">
-              Aehnliche Buchstaben unterscheiden — welcher kommt im Wort vor?
+              Ähnliche Buchstaben unterscheiden — welcher kommt im Wort vor?
             </span>
           </button>
           <button className="m1-card m1-card--test" onClick={() => hasVisitedAnyLesson && setView(VIEWS.T_AUDIO)} style={!hasVisitedAnyLesson ? { opacity: 0.4, cursor: 'not-allowed' } : {}}>
@@ -2778,14 +2778,14 @@ export default function Module1() {
             <span className="m1-card__number">P5</span>
             <span className="m1-card__title">Tashkil-Erkennung</span>
             <span className="m1-card__desc">
-              Vokalzeichen in arabischen Woertern erkennen — Fatha, Damma, Kasra und mehr
+              Vokalzeichen in arabischen Wörtern erkennen — Fatha, Damma, Kasra und mehr
             </span>
           </button>
           <button className="m1-card m1-card--test" onClick={() => hasVisitedAnyLesson && setView(VIEWS.T_SCRIPT)} style={!hasVisitedAnyLesson ? { opacity: 0.4, cursor: 'not-allowed' } : {}}>
             <span className="m1-card__number">P6</span>
             <span className="m1-card__title">Schriftbesonderheiten</span>
             <span className="m1-card__desc">
-              Hamza-Traeger, Ta Marbuta, Alif Maqsura, Lam-Alif, Alif Wasla
+              Hamza-Träger, Ta Marbuta, Alif Maqsura, Lam-Alif, Alif Wasla
             </span>
           </button>
           <button className="m1-card m1-card--test" onClick={() => hasVisitedAnyLesson && setView(VIEWS.T_MUQATTAAT)} style={!hasVisitedAnyLesson ? { opacity: 0.4, cursor: 'not-allowed' } : {}}>
@@ -2799,14 +2799,14 @@ export default function Module1() {
             <span className="m1-card__number">P8</span>
             <span className="m1-card__title">Wort-Lesen</span>
             <span className="m1-card__desc">
-              Verbundene Buchstaben als Woerter erkennen — 20 haeufige Quran-Woerter
+              Verbundene Buchstaben als Wörter erkennen — 20 häufige Quran-Wörter
             </span>
           </button>
           <button className="m1-card m1-card--test" onClick={() => hasVisitedAnyLesson && setView(VIEWS.T_SURAH1)} style={!hasVisitedAnyLesson ? { opacity: 0.4, cursor: 'not-allowed' } : {}}>
             <span className="m1-card__number">A</span>
             <span className="m1-card__title">Abschlusstest: Sure 1</span>
             <span className="m1-card__desc">
-              Sure 1 Buchstabe fuer Buchstabe — der finale Test
+              Sure 1 Buchstabe für Buchstabe — der finale Test
             </span>
           </button>
         </div>

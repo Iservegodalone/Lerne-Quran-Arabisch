@@ -2,7 +2,7 @@
   "meta": {
     "title": "Orthographische Besonderheiten des Konsonantentextes",
     "description": "Systematische Unterschiede zwischen der Orthographie des quranischen Konsonantentextes und der modernen arabischen Standardorthographie. Rein deskriptiv-sprachwissenschaftlich.",
-    "note": "Der quranische Konsonantentext folgt einer aelteren Orthographie die in mehreren Punkten von der spaeter standardisierten Schreibweise abweicht. Diese Unterschiede sind orthographischer Natur — sie betreffen die Schreibung, nicht die Aussprache oder Bedeutung.",
+    "note": "Der quranische Konsonantentext folgt einer älteren Orthographie die in mehreren Punkten von der später standardisierten Schreibweise abweicht. Diese Unterschiede sind orthographischer Natur — sie betreffen die Schreibung, nicht die Aussprache oder Bedeutung.",
     "sources": [
       {"label": "Quranic Arabic Corpus — Word by Word", "url": "https://corpus.quran.com"},
       {"label": "Tanzil.net — Quran Text (Uthmani & Simple)", "url": "https://tanzil.net"},
@@ -13,7 +13,7 @@
     {
       "id": "alif_waw",
       "title": "Alif als Waw geschrieben",
-      "description": "In der aelteren Orthographie wird der lange a-Vokal an bestimmten Stellen mit Waw statt Alif geschrieben. Die Aussprache ist identisch — nur die Schreibkonvention unterscheidet sich.",
+      "description": "In der älteren Orthographie wird der lange a-Vokal an bestimmten Stellen mit Waw statt Alif geschrieben. Die Aussprache ist identisch — nur die Schreibkonvention unterscheidet sich.",
       "examples": [
         {
           "quranOrtho": "الصلوة",
@@ -30,13 +30,13 @@
             "2:177",
             "2:238"
           ],
-          "note": "Eines der haeufigsten Woerter im Quran — erscheint ueber 60 Mal in dieser Schreibung"
+          "note": "Eines der häufigsten Wörter im Quran — erscheint über 60 Mal in dieser Schreibung"
         },
         {
           "quranOrtho": "الزكوة",
           "modernOrtho": "الزكاة",
           "transliteration": "az-zakāh",
-          "meaning": "die Laeuterungsabgabe",
+          "meaning": "die Läuterungsabgabe",
           "locations": [
             "2:43",
             "2:83",
@@ -120,20 +120,20 @@
     {
       "id": "alif_ya",
       "title": "Alif als Ya (Alif Maqsura) geschrieben",
-      "description": "In einigen Woertern wird das finale Alif als Ya ohne Punkte (Alif Maqsura ى) geschrieben, wo die moderne Orthographie ein regulaeres Alif (ا) verwenden wuerde, oder umgekehrt.",
+      "description": "In einigen Wörtern wird das finale Alif als Ya ohne Punkte (Alif Maqsura ى) geschrieben, wo die moderne Orthographie ein reguläres Alif (ا) verwenden würde, oder umgekehrt.",
       "examples": [
         {
           "quranOrtho": "لدى",
           "modernOrtho": "لدى",
           "transliteration": "ladā",
           "meaning": "bei",
-          "note": "Uebereinstimmung — Alif Maqsura in beiden"
+          "note": "Übereinstimmung — Alif Maqsura in beiden"
         },
         {
           "quranOrtho": "يتوفىكم",
           "modernOrtho": "يتوفاكم",
           "transliteration": "yatawaffākum",
-          "meaning": "Er beruft euch zurueck",
+          "meaning": "Er beruft euch zurück",
           "locations": [
             "6:61"
           ],
@@ -154,7 +154,7 @@
     {
       "id": "alif_omission",
       "title": "Ausgelassenes Alif",
-      "description": "In bestimmten haeufigen Woertern wird ein Alif das in der modernen Orthographie geschrieben wird, im Konsonantentext weggelassen. Das Wort bleibt identisch in Aussprache und Bedeutung.",
+      "description": "In bestimmten häufigen Wörtern wird ein Alif das in der modernen Orthographie geschrieben wird, im Konsonantentext weggelassen. Das Wort bleibt identisch in Aussprache und Bedeutung.",
       "examples": [
         {
           "quranOrtho": "الرحمن",
@@ -166,7 +166,7 @@
             "1:3",
             "2:163"
           ],
-          "note": "Alif nach Mim fehlt — eines der haeufigsten Woerter"
+          "note": "Alif nach Mim fehlt — eines der häufigsten Wörter"
         },
         {
           "quranOrtho": "ابرهيم",
@@ -225,7 +225,7 @@
             "2:12",
             "2:102"
           ],
-          "note": "Die leichte Partikel لٰكِنْ (lākin) wird auch in moderner Orthographie ohne Alif geschrieben — die Schreibung stimmt mit dem Rasm ueberein. Nur die schwere Form لَاكِنَّ (lākinna, mit Schadda) erscheint in manchen Orthographien mit Alif."
+          "note": "Die leichte Partikel لٰكِنْ (lākin) wird auch in moderner Orthographie ohne Alif geschrieben — die Schreibung stimmt mit dem Rasm überein. Nur die schwere Form لَاكِنَّ (lākinna, mit Schadda) erscheint in manchen Orthographien mit Alif."
         },
         {
           "quranOrtho": "الشيطن",
@@ -258,9 +258,12 @@
           "transliteration": "dāwūd",
           "meaning": "David (Eigenname)",
           "locations": [
-            "2:251"
+            "2:251",
+            "4:163",
+            "17:55",
+            "34:10"
           ],
-          "note": "Alif nach Dal fehlt"
+          "note": "Alif nach Dal fehlt. Hinweis: Einige gedruckte Mushaf-Ausgaben schreiben داود mit Alif an bestimmten Stellen. Die defektive Schreibung دود ohne Alif ist in fruehen Rasm-Handschriften belegt, wird aber nicht in allen modernen Uthmani-Druckausgaben einheitlich wiedergegeben."
         }
       ]
     },
@@ -283,7 +286,7 @@
           "quranOrtho": "لااوضعوا",
           "modernOrtho": "لاوضعوا",
           "transliteration": "la-awḍaʿū",
-          "meaning": "sie haetten gewiss ... verbreitet",
+          "meaning": "sie hätten gewiss ... verbreitet",
           "locations": [
             "9:47"
           ],
@@ -294,7 +297,7 @@
     {
       "id": "ta_forms",
       "title": "Ta Marbuta vs. Ta Maftuha",
-      "description": "In bestimmten Woertern steht im Konsonantentext ein offenes Ta (ت) wo die moderne Orthographie Ta Marbuta (ة) verwenden wuerde, oder umgekehrt.",
+      "description": "In bestimmten Wörtern steht im Konsonantentext ein offenes Ta (ت) wo die moderne Orthographie Ta Marbuta (ة) verwenden würde, oder umgekehrt.",
       "examples": [
         {
           "quranOrtho": "رحمت",
@@ -437,7 +440,7 @@
           "quranOrtho": "بقيت",
           "modernOrtho": "بقية",
           "transliteration": "baqiyyah",
-          "meaning": "Rest / Ueberbleibsel",
+          "meaning": "Rest / Überbleibsel",
           "locations": [
             "11:86"
           ],
@@ -460,7 +463,7 @@
     {
       "id": "hamza_writing",
       "title": "Hamza-Schreibung",
-      "description": "Die Schreibung von Hamza weicht in einigen Positionen von der modernen Standardorthographie ab. Der Konsonantentext vereinfacht Hamza-Traeger oder laesst sie aus.",
+      "description": "Die Schreibung von Hamza weicht in einigen Positionen von der modernen Standardorthographie ab. Der Konsonantentext vereinfacht Hamza-Träger oder lässt sie aus.",
       "examples": [
         {
           "quranOrtho": "ييس",
@@ -471,17 +474,17 @@
             "12:87",
             "13:31"
           ],
-          "note": "Hamza mit Ya-Traeger vereinfacht — Hamza zwischen zwei Ya faellt weg"
+          "note": "Hamza mit Ya-Träger vereinfacht — Hamza zwischen zwei Ya fällt weg"
         },
         {
           "quranOrtho": "لملوا",
           "modernOrtho": "لملؤوا",
           "transliteration": "la-malaʾū",
-          "meaning": "sie haetten gefuellt",
+          "meaning": "sie hätten gefuellt",
           "locations": [
             "18:18"
           ],
-          "note": "Hamza auf Waw-Traeger vor Waw vereinfacht — Vermeidung doppelter Waw"
+          "note": "Hamza auf Waw-Träger vor Waw vereinfacht — Vermeidung doppelter Waw"
         },
         {
           "quranOrtho": "القرءان",
@@ -493,7 +496,7 @@
             "15:1",
             "17:9"
           ],
-          "note": "Im aelteren Konsonantentext mit separatem Hamza-Zeichen statt Madda (آ)"
+          "note": "Im älteren Konsonantentext mit separatem Hamza-Zeichen statt Madda (آ)"
         },
         {
           "quranOrtho": "شيا",
@@ -505,7 +508,7 @@
             "2:123",
             "2:254"
           ],
-          "note": "Hamza auf der Zeile, oft ohne Traeger im aelteren Text"
+          "note": "Hamza auf der Zeile, oft ohne Träger im älteren Text"
         },
         {
           "quranOrtho": "سوء",
@@ -517,7 +520,7 @@
             "3:30",
             "4:17"
           ],
-          "note": "Finales Hamza nach langem Vokal — im Konsonantentext oft ohne sichtbaren Traeger"
+          "note": "Finales Hamza nach langem Vokal — im Konsonantentext oft ohne sichtbaren Träger"
         },
         {
           "quranOrtho": "اولياء",
@@ -529,13 +532,13 @@
             "3:28",
             "4:89"
           ],
-          "note": "Initiales Hamza + finales Hamza — im Konsonantentext muessen beide Positionen korrekt identifiziert werden"
+          "note": "Initiales Hamza + finales Hamza — im Konsonantentext müssen beide Positionen korrekt identifiziert werden"
         },
         {
           "quranOrtho": "ابناء",
           "modernOrtho": "أبناء",
           "transliteration": "abnāʾ",
-          "meaning": "Soehne",
+          "meaning": "Söhne",
           "locations": [
             "2:49",
             "2:146"
@@ -547,7 +550,7 @@
     {
       "id": "sin_sad",
       "title": "Sin vs. Sad Alternation",
-      "description": "An einigen Stellen im Konsonantentext steht Sad wo moderne Orthographie Sin verwenden wuerde. Die beiden Buchstaben sind in der aelteren Schrift manchmal austauschbar.",
+      "description": "An einigen Stellen im Konsonantentext steht Sad wo moderne Orthographie Sin verwenden würde. Die beiden Buchstaben sind in der älteren Schrift manchmal austauschbar.",
       "examples": [
         {
           "quranOrtho": "الصرط",
@@ -564,7 +567,7 @@
           "quranOrtho": "بصطة",
           "modernOrtho": "بسطة",
           "transliteration": "basṭah",
-          "meaning": "Weite / Ueberlegenheit",
+          "meaning": "Weite / Überlegenheit",
           "locations": [
             "2:247"
           ],
@@ -602,13 +605,13 @@
           "modernOrtho": "الم / ان لم",
           "transliteration": "an lam / a-lam",
           "meaning": "ob nicht / hat nicht",
-          "note": "Kontextabhaengig getrennt oder zusammen"
+          "note": "Kontextabhängig getrennt oder zusammen"
         },
         {
           "quranOrtho": "عن ما",
           "modernOrtho": "عما",
           "transliteration": "ʿan mā / ʿammā",
-          "meaning": "ueber das was / worueber",
+          "meaning": "über das was / worueber",
           "note": "Im Konsonantentext manchmal getrennt"
         },
         {
@@ -641,7 +644,7 @@
     {
       "id": "alif_khanjariyya",
       "title": "Dolch-Alif (Alif Khanjariyya)",
-      "description": "Das Dolch-Alif (الف خنجرية) ist ein kleines hochgestelltes Alif (ٰ) das in der Uthmani-Schreibung einen langen a-Vokal (aa) markiert, der NICHT als vollstaendiger Alif-Buchstabe geschrieben wird. Im Konsonantentext (Simple Clean) fehlt dieses Zeichen — der Leser muss aus dem grammatischen Kontext wissen dass hier ein langer Vokal steht.",
+      "description": "Das Dolch-Alif (الف خنجرية) ist ein kleines hochgestelltes Alif (ٰ) das in der Uthmani-Schreibung einen langen a-Vokal (aa) markiert, der NICHT als vollständiger Alif-Buchstabe geschrieben wird. Im Konsonantentext (Simple Clean) fehlt dieses Zeichen — der Leser muss aus dem grammatischen Kontext wissen dass hier ein langer Vokal steht.",
       "examples": [
         {
           "quranOrtho": "الرَّحْمٰن",
@@ -654,7 +657,7 @@
             "2:163",
             "55:1"
           ],
-          "note": "Eines der haeufigsten Woerter mit Dolch-Alif"
+          "note": "Eines der häufigsten Wörter mit Dolch-Alif"
         },
         {
           "quranOrtho": "هٰذَا",
@@ -748,7 +751,7 @@
           "modernOrtho": "ال / ٱل",
           "transliteration": "al-",
           "meaning": "bestimmter Artikel",
-          "note": "Das haeufigste Alif Wasla. Am Satzanfang mit Hamza, im Redefluss verschliffen."
+          "note": "Das häufigste Alif Wasla. Am Satzanfang mit Hamza, im Redefluss verschliffen."
         },
         {
           "quranOrtho": "استفعل",
@@ -774,11 +777,11 @@
       ]
     }
   ],
-  "linguisticNote": "Diese orthographischen Besonderheiten reflektieren den Zustand der arabischen Schrift zum Zeitpunkt der schriftlichen Fixierung. Die arabische Standardorthographie wurde erst spaeter systematisch normiert. Die Unterschiede betreffen ausschliesslich die Schreibkonvention — sie aendern weder Aussprache noch Bedeutung. Fuer die sprachwissenschaftliche Analyse sind sie relevant weil sie zeigen, dass die Schreibung ein Konventionssystem ist, nicht eine 1:1-Abbildung der Sprache.",
+  "linguisticNote": "Diese orthographischen Besonderheiten reflektieren den Zustand der arabischen Schrift zum Zeitpunkt der schriftlichen Fixierung. Die arabische Standardorthographie wurde erst später systematisch normiert. Die Unterschiede betreffen ausschließlich die Schreibkonvention — sie ändern weder Aussprache noch Bedeutung. Für die sprachwissenschaftliche Analyse sind sie relevant weil sie zeigen, dass die Schreibung ein Konventionssystem ist, nicht eine 1:1-Abbildung der Sprache.",
   "testQuestions": [
     {
       "id": "r1",
-      "question": "Wie wird das Wort fuer 'Gebet/Verbindung' im quranischen Konsonantentext geschrieben?",
+      "question": "Wie wird das Wort für 'Gebet/Verbindung' im quranischen Konsonantentext geschrieben?",
       "options": [
         "الصلاة",
         "الصلوة",
@@ -793,18 +796,18 @@
       "question": "Warum fehlt in الرحمن ein Alif nach dem Mim?",
       "options": [
         "Es ist ein Schreibfehler",
-        "Die aeltere arabische Orthographie laesst bestimmte Alifs aus",
+        "Die ältere arabische Orthographie lässt bestimmte Alifs aus",
         "Das Wort wird anders ausgesprochen",
-        "Es ist eine Abkuerzung"
+        "Es ist eine Abkürzung"
       ],
       "correct": 1,
-      "explanation": "Die Orthographie des Konsonantentextes laesst an bestimmten Stellen Alifs weg die in der spaeter standardisierten Schreibweise stehen. Die Aussprache bleibt ar-raḥmaan."
+      "explanation": "Die Orthographie des Konsonantentextes lässt an bestimmten Stellen Alifs weg die in der später standardisierten Schreibweise stehen. Die Aussprache bleibt ar-raḥmaan."
     },
     {
       "id": "r3",
       "question": "Was ist der Unterschied zwischen رحمت (mit offenem Ta) und رحمة (mit Ta Marbuta) im Konsonantentext?",
       "options": [
-        "Verschiedene Woerter mit verschiedener Bedeutung",
+        "Verschiedene Wörter mit verschiedener Bedeutung",
         "Das eine ist richtig, das andere falsch",
         "Rein orthographische Variante — dasselbe Wort",
         "Das offene Ta zeigt eine andere grammatische Form an"
@@ -816,13 +819,13 @@
       "id": "r4",
       "question": "Warum steht in Sure 1:6 الصرط mit Sad statt السراط mit Sin?",
       "options": [
-        "Es sind zwei verschiedene Woerter",
-        "Sad und Sin waren in der aelteren Schrift manchmal austauschbar, besonders bei emphatischer Umgebung",
+        "Es sind zwei verschiedene Wörter",
+        "Sad und Sin waren in der älteren Schrift manchmal austauschbar, besonders bei emphatischer Umgebung",
         "Es ist ein Kopistenfehler",
         "Sad ist die korrekte Form, Sin ist falsch"
       ],
       "correct": 1,
-      "explanation": "Das Wort (ein Lehnwort, vgl. lat. strata) wird im Konsonantentext mit Sad geschrieben. Die Sad-Schreibung reflektiert die emphatische Aussprache — Sin und Sad alternieren in der aelteren Orthographie bei bestimmten phonetischen Umgebungen."
+      "explanation": "Das Wort (ein Lehnwort, vgl. lat. strata) wird im Konsonantentext mit Sad geschrieben. Die Sad-Schreibung reflektiert die emphatische Aussprache — Sin und Sad alternieren in der älteren Orthographie bei bestimmten phonetischen Umgebungen."
     },
     {
       "id": "r5",
@@ -858,11 +861,11 @@
         "Das Ende eines Wortes"
       ],
       "correct": 1,
-      "explanation": "Das Dolch-Alif ist ein kleines hochgestelltes Alif das einen langen a-Vokal (aa) markiert, der im Konsonantentext nicht als vollstaendiger Alif-Buchstabe geschrieben wird."
+      "explanation": "Das Dolch-Alif ist ein kleines hochgestelltes Alif das einen langen a-Vokal (aa) markiert, der im Konsonantentext nicht als vollständiger Alif-Buchstabe geschrieben wird."
     },
     {
       "id": "r8",
-      "question": "In welchem haeufigen Wort steht ein Dolch-Alif statt eines normalen Alif?",
+      "question": "In welchem häufigen Wort steht ein Dolch-Alif statt eines normalen Alif?",
       "options": [
         "الكتاب (al-kitāb)",
         "الرحمن (ar-raḥmān)",
@@ -870,7 +873,7 @@
         "الصراط (aṣ-ṣirāṭ)"
       ],
       "correct": 1,
-      "explanation": "In الرحمن steht ein Dolch-Alif ueber dem Mim — der lange a-Vokal wird nicht als Alif-Buchstabe geschrieben sondern nur durch das kleine hochgestellte Zeichen markiert."
+      "explanation": "In الرحمن steht ein Dolch-Alif über dem Mim — der lange a-Vokal wird nicht als Alif-Buchstabe geschrieben sondern nur durch das kleine hochgestellte Zeichen markiert."
     },
     {
       "id": "r9",
@@ -879,10 +882,10 @@
         "Es wird als normales Alif geschrieben",
         "Es wird durch ein Fatha ersetzt",
         "Es verschwindet — der Leser muss den langen Vokal aus der Grammatik ableiten",
-        "Es bleibt unveraendert sichtbar"
+        "Es bleibt unverändert sichtbar"
       ],
       "correct": 2,
-      "explanation": "Im Simple-Clean-Text (reiner Konsonantentext) fehlt das Dolch-Alif vollstaendig. Der Leser muss aus dem grammatischen Kontext wissen, dass an dieser Stelle ein langer a-Vokal steht."
+      "explanation": "Im Simple-Clean-Text (reiner Konsonantentext) fehlt das Dolch-Alif vollständig. Der Leser muss aus dem grammatischen Kontext wissen, dass an dieser Stelle ein langer a-Vokal steht."
     }
   ]
 }

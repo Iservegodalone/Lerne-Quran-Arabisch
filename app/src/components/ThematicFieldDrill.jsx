@@ -136,7 +136,7 @@ export default function ThematicFieldDrill() {
         </div>
 
         <div style={{ display: 'flex', gap: 8, marginTop: 12 }}>
-          <button onClick={() => setLearnFieldIdx(Math.max(0, learnFieldIdx - 1))} disabled={learnFieldIdx === 0} style={{ ...btnInactive, opacity: learnFieldIdx === 0 ? 0.4 : 1 }}>Zurueck</button>
+          <button onClick={() => setLearnFieldIdx(Math.max(0, learnFieldIdx - 1))} disabled={learnFieldIdx === 0} style={{ ...btnInactive, opacity: learnFieldIdx === 0 ? 0.4 : 1 }}>Zurück</button>
           <button onClick={() => setLearnFieldIdx(Math.min(fields.length - 1, learnFieldIdx + 1))} disabled={learnFieldIdx >= fields.length - 1} style={{ ...btnInactive, opacity: learnFieldIdx >= fields.length - 1 ? 0.4 : 1 }}>Weiter</button>
         </div>
       </div>
@@ -163,7 +163,7 @@ export default function ThematicFieldDrill() {
         </div>
 
         <div style={cardStyle}>
-          <div style={{ fontSize: '0.8rem', color: 'var(--text-secondary)', marginBottom: 8 }}>Zu welchem Wortfeld gehoert diese Wurzel?</div>
+          <div style={{ fontSize: '0.8rem', color: 'var(--text-secondary)', marginBottom: 8 }}>Zu welchem Wortfeld gehört diese Wurzel?</div>
 
           <div style={{ textAlign: 'center', marginBottom: 16 }}>
             <span dir="rtl" style={{ fontFamily: 'var(--font-arabic)', fontSize: '1.8rem', color: 'var(--accent-gold)' }}>{drill.root.root}</span>
@@ -224,8 +224,8 @@ export default function ThematicFieldDrill() {
 
           <div style={{ display: 'flex', gap: 8 }}>
             {!revealed
-              ? <button onClick={check} disabled={selected === null} style={{ ...btnActive, opacity: selected === null ? 0.4 : 1 }}>Pruefen</button>
-              : <button onClick={next} style={btnActive}>Naechste Frage</button>
+              ? <button onClick={check} disabled={selected === null} style={{ ...btnActive, opacity: selected === null ? 0.4 : 1 }}>Prüfen</button>
+              : <button onClick={next} style={btnActive}>Nächste Frage</button>
             }
           </div>
         </div>
@@ -253,7 +253,7 @@ export default function ThematicFieldDrill() {
 
       <div style={cardStyle}>
         <div style={{ fontSize: '0.8rem', color: 'var(--text-secondary)', marginBottom: 8 }}>
-          Schreibe Wurzeln, die zu diesem Feld gehoeren (kommagetrennt):
+          Schreibe Wurzeln, die zu diesem Feld gehören (kommagetrennt):
         </div>
         <h4 style={{ color: 'var(--accent-gold)', marginBottom: 12, fontSize: '1.1rem' }}>{writeDrill.field.title}</h4>
         <div style={{ fontSize: '0.8rem', color: 'var(--text-secondary)', marginBottom: 8 }}>
@@ -299,8 +299,8 @@ export default function ThematicFieldDrill() {
 
         <div style={{ display: 'flex', gap: 8, marginTop: 8 }}>
           {!revealed
-            ? <button onClick={checkWrite} disabled={!userInput.trim()} style={{ ...btnActive, opacity: !userInput.trim() ? 0.4 : 1 }}>Pruefen</button>
-            : <button onClick={nextWrite} style={btnActive}>Naechstes Feld</button>
+            ? <button onClick={checkWrite} disabled={!userInput.trim()} style={{ ...btnActive, opacity: !userInput.trim() ? 0.4 : 1 }}>Prüfen</button>
+            : <button onClick={nextWrite} style={btnActive}>Nächstes Feld</button>
           }
         </div>
       </div>

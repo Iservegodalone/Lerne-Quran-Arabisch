@@ -1,7 +1,11 @@
 {
   "meta": {
     "title": "Rasm-Dekodierung",
-    "description": "Vom punktlosen Konsonantenskelett alle moeglichen Lesungen ableiten, dann den Kontext zur Disambiguierung nutzen."
+    "description": "Vom punktlosen Konsonantenskelett alle möglichen Lesungen ableiten, dann den Kontext zur Disambiguierung nutzen.",
+    "sources": [
+      { "name": "Wright's Grammar Vol I", "url": "https://archive.org/details/grammarofthearab01telerich" },
+      { "name": "Quranic Arabic Corpus", "url": "https://corpus.quran.com/" }
+    ]
   },
   "exercises": [
     {
@@ -36,8 +40,8 @@
       "rasm": "ڡٮح",
       "possibleReadings": ["فتح", "فتج", "فتخ", "فنح", "فنج", "فنخ"],
       "correctReading": "فتح",
-      "context": { "ref": "110:1", "arabic": "إِذَا جَاءَ نَصْرُ اللَّهِ وَالْفَتْحُ", "hint": "Nomen der Wurzel ف-ت-ح — Oeffnung/Sieg" },
-      "rootInfo": "ف-ت-ح: oeffnen, Sieg"
+      "context": { "ref": "110:1", "arabic": "إِذَا جَاءَ نَصْرُ اللَّهِ وَالْفَتْحُ", "hint": "Nomen der Wurzel ف-ت-ح — Öffnung/Sieg" },
+      "rootInfo": "ف-ت-ح: öffnen, Sieg"
     },
     {
       "rasm": "ٮصر",
@@ -50,15 +54,15 @@
       "rasm": "سمع",
       "possibleReadings": ["سمع", "سمغ", "شمع", "شمغ"],
       "correctReading": "سمع",
-      "context": { "ref": "2:256", "arabic": "وَاللَّهُ سَمِيعٌ عَلِيمٌ", "hint": "Adjektiv der Wurzel س-م-ع — hoerend" },
-      "rootInfo": "س-م-ع: hoeren"
+      "context": { "ref": "2:256", "arabic": "وَاللَّهُ سَمِيعٌ عَلِيمٌ", "hint": "Adjektiv der Wurzel س-م-ع — hörend" },
+      "rootInfo": "س-م-ع: hören"
     },
     {
       "rasm": "حسٮ",
       "possibleReadings": ["حسب", "حسن", "حست", "جسب", "جسن", "خسب", "خسن"],
       "correctReading": "حسب",
-      "context": { "ref": "9:129", "arabic": "حَسْبِيَ اللَّهُ لَا إِلَٰهَ إِلَّا هُوَ", "hint": "Nomen der Wurzel ح-س-ب — genuegend" },
-      "rootInfo": "ح-س-ب: genuegen, rechnen"
+      "context": { "ref": "9:129", "arabic": "حَسْبِيَ اللَّهُ لَا إِلَٰهَ إِلَّا هُوَ", "hint": "Nomen der Wurzel ح-س-ب — genügend" },
+      "rootInfo": "ح-س-ب: genügen, rechnen"
     },
     {
       "rasm": "دحر",
@@ -106,7 +110,7 @@
       "rasm": "ٮعد",
       "possibleReadings": ["بعد", "نعد", "تعد", "ثعد", "بغد", "نغد", "تغد"],
       "correctReading": "بعد",
-      "context": { "ref": "14:42", "arabic": "وَلَا تَحْسَبَنَّ اللَّهَ غَافِلًا عَمَّا يَعْمَلُ الظَّالِمُونَ", "hint": "Praeposition der Wurzel ب-ع-د — nach/fern (vgl. 2:27, 30:4)" },
+      "context": { "ref": "14:42", "arabic": "وَلَا تَحْسَبَنَّ اللَّهَ غَافِلًا عَمَّا يَعْمَلُ الظَّالِمُونَ", "hint": "Präposition der Wurzel ب-ع-د — nach/fern (vgl. 2:27, 30:4)" },
       "rootInfo": "ب-ع-د: fern sein, nach"
     },
     {
@@ -162,7 +166,7 @@
       "rasm": "ٮرك",
       "possibleReadings": ["برك", "ترك", "نرك", "ثرك"],
       "correctReading": "ترك",
-      "context": { "ref": "75:36", "arabic": "أَيَحْسَبُ الْإِنْسَانُ أَنْ يُتْرَكَ سُدًى", "hint": "Verb der Wurzel ت-ر-ك — verlassen/zuruecklassen" },
+      "context": { "ref": "75:36", "arabic": "أَيَحْسَبُ الْإِنْسَانُ أَنْ يُتْرَكَ سُدًى", "hint": "Verb der Wurzel ت-ر-ك — verlassen/zurücklassen" },
       "rootInfo": "ت-ر-ك: verlassen, lassen"
     },
     {
@@ -190,29 +194,29 @@
       "rasm": "كدٮ",
       "possibleReadings": ["كذب", "كذن", "كذت", "كدب", "كدن", "كدت"],
       "correctReading": "كذب",
-      "context": { "ref": "39:32", "arabic": "فَمَنْ أَظْلَمُ مِمَّنْ كَذَبَ عَلَى اللَّهِ", "hint": "Verb der Wurzel ك-ذ-ب — luegen" },
-      "rootInfo": "ك-ذ-ب: luegen, als Luege bezeichnen"
+      "context": { "ref": "39:32", "arabic": "فَمَنْ أَظْلَمُ مِمَّنْ كَذَبَ عَلَى اللَّهِ", "hint": "Verb der Wurzel ك-ذ-ب — lügen" },
+      "rootInfo": "ك-ذ-ب: lügen, als Lüge bezeichnen"
     },
     {
       "rasm": "ٮسم",
       "possibleReadings": ["بسم", "نسم", "تسم", "بشم", "نشم"],
       "correctReading": "بسم",
-      "context": { "ref": "1:1", "arabic": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ", "hint": "Praeposition + Nomen der Wurzel س-م-و — Name" },
-      "rootInfo": "س-م-و: Name, erhoehen"
+      "context": { "ref": "1:1", "arabic": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ", "hint": "Präposition + Nomen der Wurzel س-م-و — Name" },
+      "rootInfo": "س-م-و: Name, erhöhen"
     },
     {
       "rasm": "ملك",
       "possibleReadings": ["ملك", "ملک"],
       "correctReading": "ملك",
       "context": { "ref": "1:4", "arabic": "مَالِكِ يَوْمِ الدِّينِ", "hint": "Wurzel م-ل-ك — herrschen/besitzen" },
-      "rootInfo": "م-ل-ك: herrschen, besitzen, Koenig"
+      "rootInfo": "م-ل-ك: herrschen, besitzen, König"
     },
     {
       "rasm": "هدى",
       "possibleReadings": ["هدى", "هذى", "هدا"],
       "correctReading": "هدى",
-      "context": { "ref": "2:2", "arabic": "ذَٰلِكَ الْكِتَابُ لَا رَيْبَ فِيهِ هُدًى لِلْمُتَّقِينَ", "hint": "Masdar der Wurzel ه-د-ي — Fuehrung" },
-      "rootInfo": "ه-د-ي: rechtleiten, fuehren"
+      "context": { "ref": "2:2", "arabic": "ذَٰلِكَ الْكِتَابُ لَا رَيْبَ فِيهِ هُدًى لِلْمُتَّقِينَ", "hint": "Masdar der Wurzel ه-د-ي — Führung" },
+      "rootInfo": "ه-د-ي: rechtleiten, führen"
     },
     {
       "rasm": "حٯ",
@@ -260,29 +264,29 @@
       "rasm": "ٮدل",
       "possibleReadings": ["بدل", "ندل", "تدل", "ثدل", "بذل", "نذل", "تذل"],
       "correctReading": "بدل",
-      "context": { "ref": "2:211", "arabic": "وَمَنْ يُبَدِّلْ نِعْمَةَ اللَّهِ", "hint": "Verb der Wurzel ب-د-ل — aendern/austauschen" },
-      "rootInfo": "ب-د-ل: aendern, umtauschen"
+      "context": { "ref": "2:211", "arabic": "وَمَنْ يُبَدِّلْ نِعْمَةَ اللَّهِ", "hint": "Verb der Wurzel ب-د-ل — ändern/austauschen" },
+      "rootInfo": "ب-د-ل: ändern, umtauschen"
     },
     {
       "rasm": "سحر",
       "possibleReadings": ["سحر", "شحر", "سخر", "شخر", "سجر", "شجر"],
       "correctReading": "سحر",
-      "context": { "ref": "2:102", "arabic": "وَاتَّبَعُوا مَا تَتْلُو الشَّيَاطِينُ عَلَىٰ مُلْكِ سُلَيْمَانَ", "hint": "Nomen — Zauberei/Magie. Kontextunterscheidung: شجر wuerde Baum bedeuten" },
+      "context": { "ref": "2:102", "arabic": "وَاتَّبَعُوا مَا تَتْلُو الشَّيَاطِينُ عَلَىٰ مُلْكِ سُلَيْمَانَ", "hint": "Nomen — Zauberei/Magie. Kontextunterscheidung: شجر würde Baum bedeuten" },
       "rootInfo": "س-ح-ر: verzaubern, Magie"
     },
     {
       "rasm": "ٮحس",
       "possibleReadings": ["بخس", "نخس", "تخس", "بحس", "نحس", "بجس", "نجس"],
       "correctReading": "بخس",
-      "context": { "ref": "72:13", "arabic": "فَلَا يَخَافُ بَخْسًا وَلَا رَهَقًا", "hint": "Nomen der Wurzel ب-خ-س — Unrecht/Verkuerzung" },
-      "rootInfo": "ب-خ-س: verkuerzen, Unrecht tun"
+      "context": { "ref": "72:13", "arabic": "فَلَا يَخَافُ بَخْسًا وَلَا رَهَقًا", "hint": "Nomen der Wurzel ب-خ-س — Unrecht/Verkürzung" },
+      "rootInfo": "ب-خ-س: verkürzen, Unrecht tun"
     },
     {
       "rasm": "ٮرح",
       "possibleReadings": ["برح", "نرح", "ترح", "برج", "نرج", "ترج"],
       "correctReading": "برح",
-      "context": { "ref": "12:85", "arabic": "تَاللَّهِ تَفْتَأُ تَذْكُرُ يُوسُفَ حَتَّىٰ تَكُونَ حَرَضًا", "hint": "Wurzel ب-ر-ح — aufhoeren (vgl. 18:60: لَا أَبْرَحُ)" },
-      "rootInfo": "ب-ر-ح: aufhoeren, weggehen"
+      "context": { "ref": "12:85", "arabic": "تَاللَّهِ تَفْتَأُ تَذْكُرُ يُوسُفَ حَتَّىٰ تَكُونَ حَرَضًا", "hint": "Wurzel ب-ر-ح — aufhören (vgl. 18:60: لَا أَبْرَحُ)" },
+      "rootInfo": "ب-ر-ح: aufhören, weggehen"
     },
     {
       "rasm": "حکم",
@@ -295,8 +299,8 @@
       "rasm": "ٮصل",
       "possibleReadings": ["بصل", "نصل", "تصل", "بضل", "نضل", "تضل"],
       "correctReading": "نصل",
-      "context": { "ref": "36:64", "arabic": "اصْلَوْهَا الْيَوْمَ بِمَا كُنْتُمْ تَكْفُرُونَ", "hint": "Wurzel ص-ل-ي — brennen/roesten; oder ن-ص-ل — loesen. Kontext entscheidend: vgl. 4:30" },
-      "rootInfo": "Mehrdeutig: ص-ل-ي (brennen) vs. ن-ص-ل (loesen/entfernen)"
+      "context": { "ref": "36:64", "arabic": "اصْلَوْهَا الْيَوْمَ بِمَا كُنْتُمْ تَكْفُرُونَ", "hint": "Wurzel ص-ل-ي — brennen/roesten; oder ن-ص-ل — lösen. Kontext entscheidend: vgl. 4:30" },
+      "rootInfo": "Mehrdeutig: ص-ل-ي (brennen) vs. ن-ص-ل (lösen/entfernen)"
     },
     {
       "rasm": "ڡطر",
@@ -309,7 +313,7 @@
       "rasm": "شکر",
       "possibleReadings": ["شكر", "سكر", "شکر"],
       "correctReading": "شكر",
-      "context": { "ref": "2:52", "arabic": "لَعَلَّكُمْ تَشْكُرُونَ", "hint": "Verb der Wurzel ش-ك-ر — danken. Kontrast: س-ك-ر wuerde betrunken sein bedeuten" },
+      "context": { "ref": "2:52", "arabic": "لَعَلَّكُمْ تَشْكُرُونَ", "hint": "Verb der Wurzel ش-ك-ر — danken. Kontrast: س-ك-ر würde betrunken sein bedeuten" },
       "rootInfo": "ش-ك-ر: danken, dankbar sein"
     },
     {
@@ -330,7 +334,7 @@
       "rasm": "حدٮد",
       "possibleReadings": ["حديد", "جديد", "خديد", "حدين", "جدين"],
       "correctReading": "حديد",
-      "context": { "ref": "57:25", "arabic": "وَأَنْزَلْنَا الْحَدِيدَ فِيهِ بَأْسٌ شَدِيدٌ", "hint": "Nomen — Eisen (Sure 57 heisst Al-Hadid)" },
+      "context": { "ref": "57:25", "arabic": "وَأَنْزَلْنَا الْحَدِيدَ فِيهِ بَأْسٌ شَدِيدٌ", "hint": "Nomen — Eisen (Sure 57 heißt Al-Hadid)" },
       "rootInfo": "ح-د-د: Eisen, scharf sein, begrenzen"
     },
     {
@@ -344,7 +348,7 @@
       "rasm": "سمو",
       "possibleReadings": ["سمو", "شمو"],
       "correctReading": "سمو",
-      "context": { "ref": "55:6", "arabic": "وَالنَّجْمُ وَالشَّجَرُ يَسْجُدَانِ", "hint": "Wurzel س-م-و — hoch sein (vgl. سماء, اسم). Kontrast: شجر wuerde Baum bedeuten" },
+      "context": { "ref": "55:6", "arabic": "وَالنَّجْمُ وَالشَّجَرُ يَسْجُدَانِ", "hint": "Wurzel س-م-و — hoch sein (vgl. سماء, اسم). Kontrast: شجر würde Baum bedeuten" },
       "rootInfo": "س-م-و: hoch sein, Name, Himmel"
     },
     {

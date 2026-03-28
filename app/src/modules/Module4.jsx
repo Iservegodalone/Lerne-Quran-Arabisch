@@ -33,7 +33,7 @@ import collocationsData from '../data/collocations.json'
 
 // ===== Constants =====
 
-const TOTAL_QURAN_ROOTS = 1800
+const TOTAL_QURAN_ROOTS = 1642
 
 import rootMeaningsData from '../data/root-meanings.json'
 const ROOT_MEANINGS_LOOKUP = new Map()
@@ -108,7 +108,7 @@ const POS_CONFIG = {
 
 const SORT_OPTIONS = [
   { id: 'alpha', label: 'Alphabetisch' },
-  { id: 'frequency', label: 'Haeufigkeit' },
+  { id: 'frequency', label: 'Häufigkeit' },
   { id: 'date', label: 'Zuletzt gelernt' },
 ]
 
@@ -301,7 +301,7 @@ function RootDetailView({ rootKey, rootData, analyzedData, onClose, onSave, onNa
               padding: '3px 10px', borderRadius: '12px',
               background: 'var(--bg-input)', color: 'var(--text-muted)',
               fontSize: '0.75rem',
-            }}>Regulaer</span>
+            }}>Regulär</span>
           )
         })()}
         {(() => {
@@ -353,7 +353,7 @@ function RootDetailView({ rootKey, rootData, analyzedData, onClose, onSave, onNa
         return (
           <div style={{ marginBottom: '16px' }}>
             <label style={{ display: 'block', fontSize: '0.8rem', color: 'var(--text-muted)', marginBottom: '6px', fontWeight: 500 }}>
-              Haeufige Begleitwurzeln
+              Häufige Begleitwurzeln
             </label>
             <div style={{ display: 'flex', gap: '6px', flexWrap: 'wrap' }}>
               {colls.slice(0, 8).map((c, i) => (
@@ -385,7 +385,7 @@ function RootDetailView({ rootKey, rootData, analyzedData, onClose, onSave, onNa
           type="text"
           value={meaning}
           onChange={(e) => { setMeaning(e.target.value); setNotesChanged(true) }}
-          placeholder="Was bedeutet diese Wurzel im Quran? (dein Verstaendnis)"
+          placeholder="Was bedeutet diese Wurzel im Quran? (dein Verständnis)"
           style={{ width: '100%' }}
         />
       </div>
@@ -470,7 +470,7 @@ function RootDetailView({ rootKey, rootData, analyzedData, onClose, onSave, onNa
                   cursor: 'pointer',
                   fontWeight: v.analyzed ? 600 : 400,
                 }}
-                title={`Sure ${v.surah}:${v.verse} oeffnen in Modul 3`}
+                title={`Sure ${v.surah}:${v.verse} öffnen in Modul 3`}
               >
                 {v.surah}:{v.verse}
               </button>
@@ -502,7 +502,7 @@ function RootDetailView({ rootKey, rootData, analyzedData, onClose, onSave, onNa
           marginBottom: '6px',
           fontWeight: 500,
         }}>
-          Persoenliche Notizen
+          Persönliche Notizen
         </label>
         <textarea
           value={notes}
@@ -518,7 +518,7 @@ function RootDetailView({ rootKey, rootData, analyzedData, onClose, onSave, onNa
           className="settings-btn settings-btn--primary"
           onClick={handleSaveNotes}
         >
-          Aenderungen speichern
+          Änderungen speichern
         </button>
       )}
     </div>
@@ -711,7 +711,7 @@ export default function Module4({ settings: _settings }) {
     <div className="module-page" style={{ maxWidth: '1000px' }}>
       <h2>Modul 4: Wurzel-Notizbuch</h2>
       <p style={{ color: 'var(--text-secondary)', marginBottom: '12px' }}>
-        Dein persoenliches Verzeichnis arabischer Wortwurzeln. Waechst automatisch, wenn du Woerter in Modul 3 analysierst.
+        Dein persönliches Verzeichnis arabischer Wortwurzeln. Waechst automatisch, wenn du Wörter in Modul 3 analysierst.
       </p>
 
       {/* View mode tabs */}
@@ -847,7 +847,7 @@ export default function Module4({ settings: _settings }) {
           background: 'var(--accent-gold-bg)', border: '1px solid var(--accent-gold)',
           borderRadius: 'var(--radius)', fontSize: '0.85rem', lineHeight: 1.6,
         }}>
-          <strong style={{ color: 'var(--accent-gold)' }}>Lernpfad-Empfehlung:</strong> Die {Math.min(50, rootFrequency.roots.length)} haeufigsten Wurzeln decken {rootFrequency.meta.top50coverage ? Math.round((rootFrequency.meta.top50coverage / rootFrequency.meta.totalWords) * 100) : '~30'}% des Qurantextes ab.
+          <strong style={{ color: 'var(--accent-gold)' }}>Lernpfad-Empfehlung:</strong> Die {Math.min(50, rootFrequency.roots.length)} häufigsten Wurzeln decken {rootFrequency.meta.top50coverage ? Math.round((rootFrequency.meta.top50coverage / rootFrequency.meta.totalWords) * 100) : '~30'}% des Qurantextes ab.
           Beginne mit diesen in Modul 3 — sie kommen in fast jedem Vers vor:
           <div style={{ display: 'flex', flexWrap: 'wrap', gap: '4px', marginTop: '8px' }}>
             {rootFrequency.roots.slice(0, 20).map(r => (
@@ -903,7 +903,7 @@ export default function Module4({ settings: _settings }) {
             {Object.keys(analyzedWords).length}
           </div>
           <div style={{ fontSize: '0.75rem', color: 'var(--text-muted)' }}>
-            Woerter analysiert
+            Wörter analysiert
           </div>
         </div>
 
@@ -1007,7 +1007,7 @@ export default function Module4({ settings: _settings }) {
           className="settings-btn settings-btn--primary"
           onClick={() => setShowAddRoot(!showAddRoot)}
         >
-          {showAddRoot ? 'Abbrechen' : '+ Wurzel hinzufuegen'}
+          {showAddRoot ? 'Abbrechen' : '+ Wurzel hinzufügen'}
         </button>
       </div>
 
@@ -1141,7 +1141,7 @@ export default function Module4({ settings: _settings }) {
             <div className="module-placeholder__desc">
               {searchTerm || filterLetter
                 ? 'Versuche eine andere Suche oder waehle einen anderen Buchstaben.'
-                : 'Analysiere Woerter in Modul 3 - die Wurzeln erscheinen automatisch hier.'}
+                : 'Analysiere Wörter in Modul 3 - die Wurzeln erscheinen automatisch hier.'}
             </div>
           </div>
         ) : (
@@ -1270,7 +1270,7 @@ export default function Module4({ settings: _settings }) {
             {filteredRoots.length} von {totalRoots} Wurzel{totalRoots !== 1 ? 'n' : ''} angezeigt
           </span>
           <span>
-            Klicke auf eine Wurzel fuer Details und Lane's Lexicon
+            Klicke auf eine Wurzel für Details und Lane's Lexicon
           </span>
         </div>
       )}

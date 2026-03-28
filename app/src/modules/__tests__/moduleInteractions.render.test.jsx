@@ -85,10 +85,10 @@ vi.mock('../../data/advanced-stages.json', () => ({
         description: 'Wortbedeutung in semantischen Gruppen',
         learnContent: {
           sections: [
-            { type: 'explanation', title: 'Methode', content: 'Lanes Lexikon oeffnen...' },
+            { type: 'explanation', title: 'Methode', content: 'Lanes Lexikon öffnen...' },
             { type: 'explanation', title: 'Das Wurzel-Notizbuch', content: 'Lege dir ein Notizbuch an...' },
             { type: 'example', title: 'Beispiel-Wurzeln', examples: [{ root: 'k-f-r', lanesSummary: 'bedecken' }] },
-            { type: 'explanation', title: 'Warum eine Uebersetzung nie reicht', content: 'Jede Uebersetzung reduziert...' },
+            { type: 'explanation', title: 'Warum eine Übersetzung nie reicht', content: 'Jede Übersetzung reduziert...' },
           ],
         },
         exercises: [
@@ -105,10 +105,10 @@ vi.mock('../../data/advanced-stages.json', () => ({
             { question: 'Grundbedeutung k-f-r?', options: ['Bedecken', 'Leugnen', 'Suendigen', 'Vergessen'], correct: 0 },
             { question: 'Warum Bauer = kaafir?', options: ['Unglaube', 'Samen bedecken', 'Feldarbeit', 'Ernte'], correct: 1 },
             { question: 'Wurzeln zuordnen s-l-m, t-l-q, z-l-m', options: ['Korrekt', 'Falsch A', 'Falsch B', 'Falsch C'], correct: 0 },
-            { question: 'Welches Woerterbuch?', options: ['Wehr', 'Wasit', 'Lanes', 'Lisan'], correct: 2 },
+            { question: 'Welches Wörterbuch?', options: ['Wehr', 'Wasit', 'Lanes', 'Lisan'], correct: 2 },
             { question: 'Grundbedeutung s-l-m + Muster islam?', options: ['Korrekt', 'Falsch A', 'Falsch B', 'Falsch C'], correct: 0 },
             { question: 'Form von al-hayy?', options: ['Adj', 'Mit Artikel', 'Verb', 'Nomen'], correct: 1 },
-            { question: 'Unterschied n-w-r in 24:35 vs 14:1?', options: ['Eigenschaft vs Ziel', 'Identisch', 'Woertlich vs Name', 'Kein'], correct: 0 },
+            { question: 'Unterschied n-w-r in 24:35 vs 14:1?', options: ['Eigenschaft vs Ziel', 'Identisch', 'Wörtlich vs Name', 'Kein'], correct: 0 },
           ],
         },
       },
@@ -191,19 +191,19 @@ vi.mock('../../components/ContinuousReader.jsx', () => ({
   default: ({ onClose }) => <div data-testid="continuous-reader"><button onClick={onClose}>Schliessen</button></div>,
 }))
 vi.mock('../../components/DictationExercise.jsx', () => ({
-  default: ({ onBack }) => <div data-testid="dictation"><button onClick={onBack}>Zurueck</button></div>,
+  default: ({ onBack }) => <div data-testid="dictation"><button onClick={onBack}>Zurück</button></div>,
 }))
 vi.mock('../../components/PrintableSheet.jsx', () => ({
-  default: ({ onBack }) => <div data-testid="print-sheet"><button onClick={onBack}>Zurueck</button></div>,
+  default: ({ onBack }) => <div data-testid="print-sheet"><button onClick={onBack}>Zurück</button></div>,
 }))
 vi.mock('../../components/WritingExercise.jsx', () => ({
-  default: ({ onBack }) => <div data-testid="writing-exercise"><button onClick={onBack}>Zurueck</button></div>,
+  default: ({ onBack }) => <div data-testid="writing-exercise"><button onClick={onBack}>Zurück</button></div>,
 }))
 vi.mock('../../components/VocalizationExercise.jsx', () => ({
-  default: ({ onBack }) => <div data-testid="vocalization"><button onClick={onBack}>Zurueck</button></div>,
+  default: ({ onBack }) => <div data-testid="vocalization"><button onClick={onBack}>Zurück</button></div>,
 }))
 vi.mock('../../components/AmbiguityExercise.jsx', () => ({
-  default: ({ onBack }) => <div data-testid="ambiguity"><button onClick={onBack}>Zurueck</button></div>,
+  default: ({ onBack }) => <div data-testid="ambiguity"><button onClick={onBack}>Zurück</button></div>,
 }))
 vi.mock('../../components/CrossReference.jsx', () => ({
   default: () => <div data-testid="cross-ref">Konkordanz</div>,
@@ -251,13 +251,13 @@ vi.mock('../../components/MasdarDrill.jsx', () => ({
   default: () => <div data-testid="masdar">Masdar</div>,
 }))
 vi.mock('../../components/VocabularyDrill.jsx', () => ({
-  default: ({ onBack }) => <div data-testid="vocab-drill"><button onClick={onBack}>Zurueck</button></div>,
+  default: ({ onBack }) => <div data-testid="vocab-drill"><button onClick={onBack}>Zurück</button></div>,
 }))
 vi.mock('../../components/HandwritingCanvas.jsx', () => ({
   default: () => <div data-testid="handwriting">Handwriting</div>,
 }))
 vi.mock('../../components/ClozeExercise.jsx', () => ({
-  default: ({ onBack }) => <div data-testid="cloze"><button onClick={onBack}>Zurueck</button></div>,
+  default: ({ onBack }) => <div data-testid="cloze"><button onClick={onBack}>Zurück</button></div>,
 }))
 vi.mock('../../components/IrabExercise.jsx', () => ({
   default: () => <div data-testid="irab">Irab</div>,
@@ -332,7 +332,7 @@ describe('Module7 — Fortgeschrittene Stufen', () => {
       expect(screen.getByText('Semantische Felder')).toBeInTheDocument()
     })
     // Stage 5 (Semantische Felder) — counts match real data: 4 sections, 7 exercises, 7 test questions
-    expect(screen.getByText(/4 Sektionen · 7 Aufgaben · 7 Pruefungsfragen/)).toBeInTheDocument()
+    expect(screen.getByText(/4 Sektionen · 7 Aufgaben · 7 Prüfungsfragen/)).toBeInTheDocument()
   })
 
   it('clicking a stage opens the detail view', async () => {
@@ -355,7 +355,7 @@ describe('Module7 — Fortgeschrittene Stufen', () => {
     // The learn mode is default — sections should render
     expect(screen.getByText('Methode')).toBeInTheDocument()
     expect(screen.getByText('Das Wurzel-Notizbuch')).toBeInTheDocument()
-    expect(screen.getByText('Warum eine Uebersetzung nie reicht')).toBeInTheDocument()
+    expect(screen.getByText('Warum eine Übersetzung nie reicht')).toBeInTheDocument()
   })
 
   it('exercises tab shows exercise cards', async () => {
@@ -376,8 +376,8 @@ describe('Module7 — Fortgeschrittene Stufen', () => {
     })
     fireEvent.click(screen.getByText('Semantische Felder'))
     // Click test tab
-    fireEvent.click(screen.getByText(/Pruefmodus \(7\)/))
-    expect(screen.getByText(/Pruefung — Stufe 5/)).toBeInTheDocument()
+    fireEvent.click(screen.getByText(/Prüfmodus \(7\)/))
+    expect(screen.getByText(/Prüfung — Stufe 5/)).toBeInTheDocument()
     expect(screen.getByText('Grundbedeutung k-f-r?')).toBeInTheDocument()
     expect(screen.getByText('Bedecken')).toBeInTheDocument()
     expect(screen.getByText('Leugnen')).toBeInTheDocument()
@@ -389,7 +389,7 @@ describe('Module7 — Fortgeschrittene Stufen', () => {
       expect(screen.getByText('Semantische Felder')).toBeInTheDocument()
     })
     fireEvent.click(screen.getByText('Semantische Felder'))
-    fireEvent.click(screen.getByText(/Pruefmodus \(7\)/))
+    fireEvent.click(screen.getByText(/Prüfmodus \(7\)/))
     // Question 1 correct answer is index 0 = "Bedecken"
     fireEvent.click(screen.getByText('Bedecken'))
     expect(screen.getByText('Richtig!')).toBeInTheDocument()
@@ -401,7 +401,7 @@ describe('Module7 — Fortgeschrittene Stufen', () => {
       expect(screen.getByText('Semantische Felder')).toBeInTheDocument()
     })
     fireEvent.click(screen.getByText('Semantische Felder'))
-    fireEvent.click(screen.getByText(/Pruefmodus \(7\)/))
+    fireEvent.click(screen.getByText(/Prüfmodus \(7\)/))
     // Question 1 correct answer is index 0, pick wrong one (index 2)
     fireEvent.click(screen.getByText('Suendigen'))
     expect(screen.getByText(/Nicht ganz. Die richtige Antwort ist: Bedecken/)).toBeInTheDocument()
@@ -413,7 +413,7 @@ describe('Module7 — Fortgeschrittene Stufen', () => {
       expect(screen.getByText('Semantische Felder')).toBeInTheDocument()
     })
     fireEvent.click(screen.getByText('Semantische Felder'))
-    fireEvent.click(screen.getByText(/Pruefmodus \(7\)/))
+    fireEvent.click(screen.getByText(/Prüfmodus \(7\)/))
 
     // Answer all 7 questions correctly: indices 0, 1, 0, 2, 0, 1, 0
     // Q1: correct=0 => "Bedecken"
@@ -464,7 +464,7 @@ describe('Module7 — Fortgeschrittene Stufen', () => {
       expect(screen.getByText('Semantische Felder')).toBeInTheDocument()
     })
     fireEvent.click(screen.getByText('Semantische Felder'))
-    fireEvent.click(screen.getByText(/Pruefmodus \(7\)/))
+    fireEvent.click(screen.getByText(/Prüfmodus \(7\)/))
 
     // Answer all 7 wrong: pick incorrect answers
     // Q1: correct=0 (Bedecken), pick "Leugnen" (index 1)
@@ -511,7 +511,7 @@ describe('Module7 — Fortgeschrittene Stufen', () => {
     expect(screen.getByText(/Stufe 5 — Semantische Felder/)).toBeInTheDocument()
 
     // Click back button
-    fireEvent.click(screen.getByText('Zurueck zur Uebersicht'))
+    fireEvent.click(screen.getByText('Zurück zur Übersicht'))
     expect(screen.getByText('Fortgeschrittene Stufen (5–12)')).toBeInTheDocument()
   })
 
@@ -521,11 +521,11 @@ describe('Module7 — Fortgeschrittene Stufen', () => {
       expect(screen.getByText('Semantische Felder')).toBeInTheDocument()
     })
     fireEvent.click(screen.getByText('Semantische Felder'))
-    fireEvent.click(screen.getByText(/Pruefmodus \(7\)/))
-    expect(screen.getByText(/Pruefung — Stufe 5/)).toBeInTheDocument()
+    fireEvent.click(screen.getByText(/Prüfmodus \(7\)/))
+    expect(screen.getByText(/Prüfung — Stufe 5/)).toBeInTheDocument()
 
     // Back from test mode returns to stage detail (learn mode)
-    fireEvent.click(screen.getByText('Zurueck'))
+    fireEvent.click(screen.getByText('Zurück'))
     expect(screen.getByText('Lernmodus')).toBeInTheDocument()
   })
 })
@@ -569,8 +569,8 @@ describe('Module8 — Werkzeuge und Vertiefung', () => {
     // Should now render the Rasm lesson view
     await waitFor(() => {
       expect(screen.getByText(/Orthographie des Konsonantentextes/)).toBeInTheDocument()
-      // The Zurueck button should be present
-      expect(screen.getByText('Zurueck zur Uebersicht')).toBeInTheDocument()
+      // The Zurück button should be present
+      expect(screen.getByText('Zurück zur Übersicht')).toBeInTheDocument()
     })
   })
 
@@ -581,9 +581,9 @@ describe('Module8 — Werkzeuge und Vertiefung', () => {
     })
     fireEvent.click(screen.getByText('Orthographie des Konsonantentextes'))
     await waitFor(() => {
-      expect(screen.getByText('Zurueck zur Uebersicht')).toBeInTheDocument()
+      expect(screen.getByText('Zurück zur Übersicht')).toBeInTheDocument()
     })
-    fireEvent.click(screen.getByText('Zurueck zur Uebersicht'))
+    fireEvent.click(screen.getByText('Zurück zur Übersicht'))
     await waitFor(() => {
       expect(screen.getByText('Werkzeuge und Vertiefung')).toBeInTheDocument()
     })
@@ -685,7 +685,7 @@ describe('SettingsPage — Einstellungen', () => {
     saveSettings.mockResolvedValue({ firstRun: true, completedIntro: false })
     render(<SettingsPage settings={defaultSettings} onSettingsChange={onSettingsChange} />)
 
-    fireEvent.click(screen.getByText('Zuruecksetzen'))
+    fireEvent.click(screen.getByText('Zurücksetzen'))
     await waitFor(() => {
       expect(saveSettings).toHaveBeenCalledWith({ firstRun: true, completedIntro: false })
       expect(onSettingsChange).toHaveBeenCalled()
@@ -694,7 +694,7 @@ describe('SettingsPage — Einstellungen', () => {
 
   it('displays the correct phase', () => {
     render(<SettingsPage settings={{ ...defaultSettings, phase: 2 }} onSettingsChange={vi.fn()} />)
-    expect(screen.getByText('Phase 2: Analyse')).toBeInTheDocument()
+    expect(screen.getByText('Phase 2: Morphologie')).toBeInTheDocument()
   })
 
   it('displays streak count', () => {
@@ -706,7 +706,7 @@ describe('SettingsPage — Einstellungen', () => {
 // ═════════════════════════════════════════════════════════════════
 // IntroSequence Tests
 // ═════════════════════════════════════════════════════════════════
-describe('IntroSequence — Einfuehrungssequenz', () => {
+describe('IntroSequence — Einführungssequenz', () => {
   it('renders the intro overlay with first step', () => {
     render(<IntroSequence onComplete={vi.fn()} />)
     expect(screen.getByText('Willkommen')).toBeInTheDocument()

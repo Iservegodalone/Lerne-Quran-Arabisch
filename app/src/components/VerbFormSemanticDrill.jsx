@@ -59,7 +59,7 @@ export default function VerbFormSemanticDrill() {
           <button onClick={() => setMode('patterns')} style={inactiveBtn}>Patterns</button>
         </div>
         <p style={{ color: 'var(--text-secondary)', fontSize: '0.85rem', marginBottom: 16 }}>
-          Wie sich die Bedeutung einer Wurzel systematisch veraendert, wenn sie in verschiedenen Verbformen realisiert wird.
+          Wie sich die Bedeutung einer Wurzel systematisch verändert, wenn sie in verschiedenen Verbformen realisiert wird.
         </p>
 
         <div style={{ display: 'flex', gap: 8, marginBottom: 16, alignItems: 'center' }}>
@@ -201,7 +201,7 @@ export default function VerbFormSemanticDrill() {
               </div>
             ) : (
               <button onClick={pickRandom} style={{ ...activeBtn, width: '100%' }}>
-                Naechste Frage
+                Nächste Frage
               </button>
             )}
           </div>

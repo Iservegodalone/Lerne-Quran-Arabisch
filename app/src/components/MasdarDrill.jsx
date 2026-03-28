@@ -272,8 +272,8 @@ export default function MasdarDrill() {
 
         <div style={{ display: 'flex', gap: 8 }}>
           {!revealed
-            ? <button onClick={check} disabled={selected === null} style={{ ...btnActive, opacity: selected === null ? 0.4 : 1 }}>Pruefen</button>
-            : <button onClick={next} style={btnActive}>Naechste Aufgabe</button>
+            ? <button onClick={check} disabled={selected === null} style={{ ...btnActive, opacity: selected === null ? 0.4 : 1 }}>Prüfen</button>
+            : <button onClick={next} style={btnActive}>Nächste Aufgabe</button>
           }
         </div>
       </div>

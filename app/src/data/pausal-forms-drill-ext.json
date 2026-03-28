@@ -1,7 +1,11 @@
 {
   "meta": {
     "title": "Pausalformen-Drill — Erweiterung",
-    "description": "28 zusaetzliche Uebungen: Wie veraendert sich die Aussprache eines Wortes wenn man am Wortende pausiert?"
+    "description": "28 zusätzliche Übungen: Wie verändert sich die Aussprache eines Wortes wenn man am Wortende pausiert?",
+    "sources": [
+      { "name": "Wright's Grammar Vol I", "url": "https://archive.org/details/grammarofthearab01telerich" },
+      { "name": "Quranic Arabic Corpus", "url": "https://corpus.quran.com/" }
+    ]
   },
   "exercises": [
     { "context_form": "الْعَالَمِينَ", "expected_pausal": "الْعَالَمِينْ", "rule": "case_drop", "quranRef": "1:2" },

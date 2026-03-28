@@ -51,7 +51,7 @@ export default function SettingsPage({ settings, onSettingsChange }) {
       setImportStatus('success')
       setImportMessage(
         mode === 'overwrite'
-          ? 'Daten wurden vollstaendig ueberschrieben.'
+          ? 'Daten wurden vollständig ueberschrieben.'
           : 'Daten wurden zusammengefuehrt.'
       )
       // Reload settings
@@ -136,8 +136,8 @@ export default function SettingsPage({ settings, onSettingsChange }) {
 
         <div className="settings-row">
           <div className="settings-row__label">
-            <span>Daten importieren (zusammenfuehren)</span>
-            <span>Neue Daten mit bestehenden zusammenfuehren</span>
+            <span>Daten importieren (zusammenfüehren)</span>
+            <span>Neue Daten mit bestehenden zusammenfüehren</span>
           </div>
           <div className="settings-row__action">
             <button className="settings-btn" onClick={() => {
@@ -161,7 +161,7 @@ export default function SettingsPage({ settings, onSettingsChange }) {
                 setTimeout(() => fileInputRef.current?.click(), 0)
               }
             }}>
-              Ueberschreiben
+              Überschreiben
             </button>
           </div>
         </div>
@@ -198,12 +198,12 @@ export default function SettingsPage({ settings, onSettingsChange }) {
 
         <div className="settings-row">
           <div className="settings-row__label">
-            <span>Einfuehrung erneut anzeigen</span>
+            <span>Einführung erneut anzeigen</span>
             <span>Die Willkommenssequenz nochmals abspielen</span>
           </div>
           <div className="settings-row__action">
             <button className="settings-btn" onClick={handleResetIntro}>
-              Zuruecksetzen
+              Zurücksetzen
             </button>
           </div>
         </div>
@@ -250,17 +250,17 @@ export default function SettingsPage({ settings, onSettingsChange }) {
       }}>
         <div style={{ marginBottom: '4px' }}><strong>Quranisches Arabisch</strong></div>
         <div>Sprachbasierte Methodik zum Erlernen des quranischen Arabisch</div>
-        <div style={{ marginTop: '8px' }}>Alle Daten werden lokal auf deinem Geraet gespeichert.</div>
+        <div style={{ marginTop: '8px' }}>Alle Daten werden lokal auf deinem Gerät gespeichert.</div>
         <div style={{ marginTop: '12px', padding: '10px 12px', background: 'rgba(234,179,8,0.08)', border: '1px solid rgba(234,179,8,0.2)', borderRadius: '6px' }}>
-          <div style={{ fontWeight: 600, marginBottom: '4px', color: 'var(--text-secondary)' }}>Hinweis zur Standalone-Faehigkeit</div>
-          <div>Der Qurantext, alle Grammatikdaten, Uebungen und Wurzelbedeutungen sind <strong>lokal gespeichert</strong> und funktionieren offline.</div>
-          <div style={{ marginTop: '4px' }}>Folgende Funktionen benoetigen <strong>Internetverbindung</strong>:</div>
+          <div style={{ fontWeight: 600, marginBottom: '4px', color: 'var(--text-secondary)' }}>Hinweis zur Standalone-Fähigkeit</div>
+          <div>Der Qurantext, alle Grammatikdaten, Übungen und Wurzelbedeutungen sind <strong>lokal gespeichert</strong> und funktionieren offline.</div>
+          <div style={{ marginTop: '4px' }}>Folgende Funktionen benötigen <strong>Internetverbindung</strong>:</div>
           <ul style={{ margin: '4px 0 0 16px', padding: 0 }}>
-            <li>Lane's Lexicon (ejtaal.net) — externes Woerterbuch</li>
+            <li>Lane's Lexicon (ejtaal.net) — externes Wörterbuch</li>
             <li>Vers-Audio (everyayah.com, quran.com) — Audioaufnahmen</li>
             <li>Corpus Quran (corpus.quran.com) — Morphologie-Referenz</li>
           </ul>
-          <div style={{ marginTop: '4px' }}>Fuer diese Ressourcen wird der Link geoeffnet; alle anderen Funktionen sind vollstaendig offline nutzbar.</div>
+          <div style={{ marginTop: '4px' }}>Für diese Ressourcen wird der Link geoeffnet; alle anderen Funktionen sind vollständig offline nutzbar.</div>
         </div>
       </div>
     </div>

@@ -1,10 +1,10 @@
 {
   "meta": {
     "title": "Rasm-Glyphen-Mapping — Vom Konsonantenskelett zum Buchstaben",
-    "description": "Systematische Zuordnung aller undifferenzierten Rasm-Glyphen zu den moeglichen Buchstaben des arabischen Alphabets. Essentiell fuer das Verstaendnis des Weges vom Rasm zum vokalisierten Text.",
-    "approach": "Im fruehen Rasm haben mehrere Buchstaben dieselbe Grundform. Erst die Hinzufuegung von diakritischen Punkten (I'jam) macht die Buchstaben eindeutig. Diese Tabelle zeigt fuer jede Rasm-Grundform alle moeglichen Buchstaben.",
+    "description": "Systematische Zuordnung aller undifferenzierten Rasm-Glyphen zu den möglichen Buchstaben des arabischen Alphabets. Essentiell für das Verständnis des Weges vom Rasm zum vokalisierten Text.",
+    "approach": "Im fruehen Rasm haben mehrere Buchstaben dieselbe Grundform. Erst die Hinzufuegung von diakritischen Punkten (I'jam) macht die Buchstaben eindeutig. Diese Tabelle zeigt für jede Rasm-Grundform alle möglichen Buchstaben.",
     "totalGroups": 15,
-    "note": "Die 28 arabischen Buchstaben reduzieren sich im Rasm auf ca. 15-18 Grundformen. Die haeufigsten Mehrdeutigkeiten betreffen die Gruppen ب/ت/ث/ن/ي und ج/ح/خ."
+    "note": "Die 28 arabischen Buchstaben reduzieren sich im Rasm auf ca. 15-18 Grundformen. Die häufigsten Mehrdeutigkeiten betreffen die Gruppen ب/ت/ث/ن/ي und ج/ح/خ."
   },
   "groups": [
     {
@@ -18,12 +18,12 @@
         {"letter": "ن", "name": "Nun", "dots": "1 Punkt oben", "transliteration": "n", "sound": "alveolarer Nasal"},
         {"letter": "ي", "name": "Ya", "dots": "2 Punkte unten", "transliteration": "y", "sound": "palataler Approximant"}
       ],
-      "description": "Die haeufigste und groesste Ambiguitaetsgruppe. 5 verschiedene Buchstaben teilen sich dieselbe Grundform. In Anfangs- und Mittelposition sind sie ohne Punkte voellig identisch. Erst die I'jam-Punkte disambiguieren.",
+      "description": "Die häufigste und größte Ambiguitätsgruppe. 5 verschiedene Buchstaben teilen sich dieselbe Grundform. In Anfangs- und Mittelposition sind sie ohne Punkte völlig identisch. Erst die I'jam-Punkte disambiguieren.",
       "examples": [
-        {"rasm": "ٮىٮ", "possible": ["بيت (Haus)", "بنت (Tochter)", "ثبت (fest sein)"], "note": "Dieselben 3 Rasm-Zeichen — voellig verschiedene Woerter"},
+        {"rasm": "ٮىٮ", "possible": ["بيت (Haus)", "بنت (Tochter)", "ثبت (fest sein)"], "note": "Dieselben 3 Rasm-Zeichen — völlig verschiedene Wörter"},
         {"rasm": "ٮٮى", "possible": ["بني (bauen)", "نبي (Prophet)", "ثني (falten)"], "note": "Ohne Punkte nicht unterscheidbar"}
       ],
-      "frequency": "Extrem haeufig — diese 5 Buchstaben machen ca. 30% aller Buchstaben im Quran aus"
+      "frequency": "Extrem häufig — diese 5 Buchstaben machen ca. 30% aller Buchstaben im Quran aus"
     },
     {
       "id": "jim_group",
@@ -37,9 +37,9 @@
       "description": "3 Buchstaben mit derselben Grundform. ح ist die punktlose Basisform, ج und خ werden durch je einen Punkt unterschieden.",
       "examples": [
         {"rasm": "حمد", "possible": ["حمد (loben)", "جمد (gefrieren)", "خمد (erloeschen)"], "note": "Im Kontext von 1:2 (الحمد) eindeutig als ح"},
-        {"rasm": "حلڡ", "possible": ["حلف (schwoeren)", "خلف (nachfolgen)"], "note": "Kontext entscheidet"}
+        {"rasm": "حلڡ", "possible": ["حلف (schwören)", "خلف (nachfolgen)"], "note": "Kontext entscheidet"}
       ],
-      "frequency": "Haeufig"
+      "frequency": "Häufig"
     },
     {
       "id": "dal_group",
@@ -47,13 +47,13 @@
       "glyphName": "Grundform Dal/Dhal",
       "letters": [
         {"letter": "د", "name": "Dal", "dots": "kein Punkt", "transliteration": "d", "sound": "stimmhafter alveolarer Plosiv"},
-        {"letter": "ذ", "name": "Dhal", "dots": "1 Punkt oben", "transliteration": "dh", "sound": "stimmhafter dentaler Frikativ"}
+        {"letter": "ذ", "name": "Dhal", "dots": "1 Punkt oben", "transliteration": "dh", "sound": "stimmhafter interdentaler Frikativ"}
       ],
       "description": "2 Buchstaben. د ist die Basisform, ذ hat einen Punkt oben. Beide verbinden sich nicht nach links.",
       "examples": [
         {"rasm": "دلک", "possible": ["ذلك (jenes)"], "note": "Kontextuell fast immer eindeutig"}
       ],
-      "frequency": "Haeufig"
+      "frequency": "Häufig"
     },
     {
       "id": "ra_group",
@@ -65,23 +65,23 @@
       ],
       "description": "2 Buchstaben. Beide verbinden sich nicht nach links. Im Rasm identisch.",
       "examples": [
-        {"rasm": "رٮٮ", "possible": ["رب (Herr)", "زين (Schmuck)"], "note": "Zusammen mit der ٮ-Ambiguitaet potenziell viele Lesungen"}
+        {"rasm": "رٮٮ", "possible": ["رب (Herr)", "زين (Schmuck)"], "note": "Zusammen mit der ٮ-Ambiguität potenziell viele Lesungen"}
       ],
-      "frequency": "Haeufig"
+      "frequency": "Häufig"
     },
     {
       "id": "sin_group",
       "rasmGlyph": "س",
       "glyphName": "Grundform Sin/Shin",
       "letters": [
-        {"letter": "س", "name": "Sin", "dots": "kein Punkt (3 Zaehne)", "transliteration": "s", "sound": "stimmloser alveolarer Frikativ"},
+        {"letter": "س", "name": "Sin", "dots": "kein Punkt (3 Zähne)", "transliteration": "s", "sound": "stimmloser alveolarer Frikativ"},
         {"letter": "ش", "name": "Shin", "dots": "3 Punkte oben", "transliteration": "sh", "sound": "stimmloser postalveolarer Frikativ"}
       ],
-      "description": "2 Buchstaben. Die Grundform hat 3 Zaehne. Sin ist punktlos, Shin hat 3 Punkte oben. Im fruehen Rasm wurden die Zaehne manchmal vereinfacht.",
+      "description": "2 Buchstaben. Die Grundform hat 3 Zähne. Sin ist punktlos, Shin hat 3 Punkte oben. Im fruehen Rasm wurden die Zähne manchmal vereinfacht.",
       "examples": [
         {"rasm": "سمس", "possible": ["شمس (Sonne)"], "note": "Kontextuell eindeutig — das Wort شمس ist hochfrequent"}
       ],
-      "frequency": "Haeufig"
+      "frequency": "Häufig"
     },
     {
       "id": "sad_group",
@@ -103,7 +103,7 @@
       "glyphName": "Grundform Ta/Dha",
       "letters": [
         {"letter": "ط", "name": "Ta (emphatisch)", "dots": "kein Punkt", "transliteration": "T", "sound": "emphatischer stimmloser alveolarer Plosiv"},
-        {"letter": "ظ", "name": "Dha (emphatisch)", "dots": "1 Punkt oben", "transliteration": "Z", "sound": "emphatischer stimmhafter dentaler Frikativ"}
+        {"letter": "ظ", "name": "Dha (emphatisch)", "dots": "1 Punkt oben", "transliteration": "Z", "sound": "emphatischer stimmhafter interdentaler Frikativ"}
       ],
       "description": "2 emphatische Buchstaben. ط ist die Basisform, ظ hat einen Punkt.",
       "examples": [
@@ -121,9 +121,9 @@
       ],
       "description": "2 Buchstaben. ع ist die Basisform, غ hat einen Punkt.",
       "examples": [
-        {"rasm": "علم", "possible": ["علم (wissen)", "غلم (nicht existent — zeigt dass Kontext meist disambiguiert)"], "note": "Wurzel ع-ل-م ist so hochfrequent, dass die Ambiguitaet selten relevant wird"}
+        {"rasm": "علم", "possible": ["علم (wissen)", "غلم (nicht existent — zeigt dass Kontext meist disambiguiert)"], "note": "Wurzel ع-ل-م ist so hochfrequent, dass die Ambiguität selten relevant wird"}
       ],
-      "frequency": "Haeufig"
+      "frequency": "Häufig"
     },
     {
       "id": "fa_group",
@@ -133,22 +133,22 @@
         {"letter": "ف", "name": "Fa", "dots": "1 Punkt oben (Maghreb: unten)", "transliteration": "f", "sound": "stimmloser labiodentaler Frikativ"},
         {"letter": "ق", "name": "Qaf", "dots": "2 Punkte oben (Maghreb: 1 oben)", "transliteration": "q", "sound": "stimmloser uvularer Plosiv"}
       ],
-      "description": "2 Buchstaben. Im Rasm haben beide eine runde Grundform. Die Punktekonvention variiert regional: im Mashriq hat Fa 1 Punkt oben und Qaf 2; im Maghreb hat Fa 1 Punkt unten und Qaf 1 oben. Im fruehen Rasm voellig identisch.",
+      "description": "2 Buchstaben. Im Rasm haben beide eine runde Grundform. Die Punktekonvention variiert regional: im Mashriq hat Fa 1 Punkt oben und Qaf 2; im Maghreb hat Fa 1 Punkt unten und Qaf 1 oben. Im fruehen Rasm völlig identisch.",
       "examples": [
-        {"rasm": "ڡلٮ", "possible": ["فلب → قلب (Herz)", "فلت → فلت (entwischen)"], "note": "Die ڡ/ق-Ambiguitaet kombiniert mit der ٮ-Ambiguitaet multipliziert die Moeglichkeiten"}
+        {"rasm": "ڡلٮ", "possible": ["فلب → قلب (Herz)", "فلت → فلت (entwischen)"], "note": "Die ڡ/ق-Ambiguität kombiniert mit der ٮ-Ambiguität multipliziert die Möglichkeiten"}
       ],
-      "frequency": "Sehr haeufig — eine der wichtigsten Ambiguitaeten im Rasm"
+      "frequency": "Sehr häufig — eine der wichtigsten Ambiguitäten im Rasm"
     },
     {
       "id": "alif",
       "rasmGlyph": "ا",
       "glyphName": "Alif",
       "letters": [
-        {"letter": "ا", "name": "Alif", "dots": "kein Punkt", "transliteration": "ā/ʾ", "sound": "Langvokal a oder Hamza-Traeger"}
+        {"letter": "ا", "name": "Alif", "dots": "kein Punkt", "transliteration": "ā/ʾ", "sound": "Langvokal a oder Hamza-Träger"}
       ],
-      "description": "Alif ist im Rasm eindeutig — kein anderer Buchstabe teilt diese Form. Allerdings kann Alif verschiedene Funktionen haben: Langvokal /aa/, Hamza-Traeger, Alif Wasla, oder rein orthographischer Bestandteil.",
+      "description": "Alif ist im Rasm eindeutig — kein anderer Buchstabe teilt diese Form. Allerdings kann Alif verschiedene Funktionen haben: Langvokal /aa/, Hamza-Träger, Alif Wasla, oder rein orthographischer Bestandteil.",
       "examples": [],
-      "frequency": "Extrem haeufig — eindeutig im Rasm"
+      "frequency": "Extrem häufig — eindeutig im Rasm"
     },
     {
       "id": "waw",
@@ -159,7 +159,7 @@
       ],
       "description": "Waw ist im Rasm eindeutig. Funktional kann es Konsonant /w/, Langvokal /uu/, Halbvokal, Konjunktion oder Bestandteil eines Diphthongs /aw/ sein.",
       "examples": [],
-      "frequency": "Extrem haeufig — eindeutig im Rasm"
+      "frequency": "Extrem häufig — eindeutig im Rasm"
     },
     {
       "id": "kaf",
@@ -168,9 +168,9 @@
       "letters": [
         {"letter": "ك", "name": "Kaf", "dots": "kein Punkt (Strich innen)", "transliteration": "k", "sound": "stimmloser velarer Plosiv"}
       ],
-      "description": "Kaf ist im Rasm durch seinen inneren Strich (hamza-aehnliches Zeichen in der Grundform) eindeutig. Keine Ambiguitaet.",
+      "description": "Kaf ist im Rasm durch seinen inneren Strich (hamza-ähnliches Zeichen in der Grundform) eindeutig. Keine Ambiguität.",
       "examples": [],
-      "frequency": "Haeufig — eindeutig im Rasm"
+      "frequency": "Häufig — eindeutig im Rasm"
     },
     {
       "id": "lam",
@@ -181,7 +181,7 @@
       ],
       "description": "Lam ist im Rasm eindeutig. Sein vertikaler Strich mit Bogen ist unverwechselbar.",
       "examples": [],
-      "frequency": "Extrem haeufig — eindeutig im Rasm"
+      "frequency": "Extrem häufig — eindeutig im Rasm"
     },
     {
       "id": "mim",
@@ -192,7 +192,7 @@
       ],
       "description": "Mim ist im Rasm eindeutig. Seine runde geschlossene Form mit Schwanz ist unverwechselbar.",
       "examples": [],
-      "frequency": "Extrem haeufig — eindeutig im Rasm"
+      "frequency": "Extrem häufig — eindeutig im Rasm"
     },
     {
       "id": "ha",
@@ -203,12 +203,12 @@
       ],
       "description": "Ha ist im Rasm eindeutig. Seine Form variiert stark je nach Position (isoliert, initial, medial, final), ist aber immer von anderen Buchstaben unterscheidbar.",
       "examples": [],
-      "frequency": "Haeufig — eindeutig im Rasm"
+      "frequency": "Häufig — eindeutig im Rasm"
     }
   ],
   "summary": {
     "ambiguousGroups": [
-      {"group": "ٮ (Ba-Gruppe)", "letters": 5, "ambiguity": "hoechste Ambiguitaet"},
+      {"group": "ٮ (Ba-Gruppe)", "letters": 5, "ambiguity": "höchste Ambiguität"},
       {"group": "ح (Jim-Gruppe)", "letters": 3, "ambiguity": "hoch"},
       {"group": "ڡ (Fa/Qaf)", "letters": 2, "ambiguity": "hoch"},
       {"group": "د (Dal/Dhal)", "letters": 2, "ambiguity": "mittel"},
@@ -221,6 +221,6 @@
     "unambiguousLetters": ["ا (Alif)", "و (Waw)", "ك (Kaf)", "ل (Lam)", "م (Mim)", "ه (Ha)"],
     "totalAmbiguousLetters": 22,
     "totalUnambiguousLetters": 6,
-    "keyInsight": "22 der 28 arabischen Buchstaben sind im Rasm potentiell mehrdeutig. Nur 6 haben eine eindeutige Grundform. Die I'jam-Punkte reduzieren die 15 Rasm-Grundformen zurueck auf 28 distinkte Buchstaben."
+    "keyInsight": "22 der 28 arabischen Buchstaben sind im Rasm potentiell mehrdeutig. Nur 6 haben eine eindeutige Grundform. Die I'jam-Punkte reduzieren die 15 Rasm-Grundformen zurück auf 28 distinkte Buchstaben."
   }
 }

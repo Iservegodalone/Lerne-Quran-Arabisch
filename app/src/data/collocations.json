@@ -1,9 +1,12 @@
 {
   "meta": {
-    "description": "Kollokationen im Quran — haeufig gemeinsam auftretende Woerter und Wurzeln",
+    "description": "Kollokationen im Quran — häufig gemeinsam auftretende Wörter und Wurzeln",
     "totalRootPairs": 200,
     "totalBigrams": 200,
-    "note": "rootCollocations: Wurzelpaare die in 5+ Versen gemeinsam auftreten. wordBigrams: Aufeinanderfolgende Wortpaare die 3+ Mal vorkommen."
+    "note": "rootCollocations: Wurzelpaare die in 5+ Versen gemeinsam auftreten. wordBigrams: Aufeinanderfolgende Wortpaare die 3+ Mal vorkommen.",
+    "sources": [
+      { "name": "Quranic Arabic Corpus", "url": "https://corpus.quran.com/" }
+    ]
   },
   "rootCollocations": [
     {

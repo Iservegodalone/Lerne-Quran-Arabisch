@@ -1,12 +1,16 @@
 {
   "meta": {
     "title": "Pausalformen-Drill",
-    "description": "Uebung: Wie veraendert sich die Aussprache eines Wortes wenn man am Wortende pausiert?"
+    "description": "Übung: Wie verändert sich die Aussprache eines Wortes wenn man am Wortende pausiert?",
+    "sources": [
+      { "name": "Wright's Grammar Vol I", "url": "https://archive.org/details/grammarofthearab01telerich" },
+      { "name": "Quranic Arabic Corpus", "url": "https://corpus.quran.com/" }
+    ]
   },
   "rules": [
     {
       "id": "tanwin_drop",
-      "rule": "Tanwin faellt weg",
+      "rule": "Tanwin fällt weg",
       "explanation": "Alle drei Tanwin-Formen (-un, -an, -in) werden in der Pause zu ihrem Kurzvokal ohne Nunation.",
       "examples": [
         { "context": "كِتَابٌ", "pausal": "كِتَابْ", "note": "Tanwin Damma (-un) → Sukun" },
@@ -16,8 +20,8 @@
     },
     {
       "id": "case_drop",
-      "rule": "Kasusendung faellt weg (bei definiten Nomen)",
-      "explanation": "Bei definiten Nomen oder Verben faellt die Kasusendung in der Pause zu Sukun.",
+      "rule": "Kasusendung fällt weg (bei definiten Nomen)",
+      "explanation": "Bei definiten Nomen oder Verben fällt die Kasusendung in der Pause zu Sukun.",
       "examples": [
         { "context": "الْكِتَابُ", "pausal": "الْكِتَابْ", "note": "Nominativ Damma → Sukun" },
         { "context": "الْكِتَابِ", "pausal": "الْكِتَابْ", "note": "Genitiv Kasra → Sukun" },
@@ -36,16 +40,16 @@
     {
       "id": "tanwin_fatha_special",
       "rule": "Tanwin Fatha → langes -ā",
-      "explanation": "Tanwin Fatha ist die EINZIGE Tanwin-Form die in der Pause zu einem hoerbaren Vokal wird (langes ā), weil die orthographische Alif bleibt.",
+      "explanation": "Tanwin Fatha ist die EINZIGE Tanwin-Form die in der Pause zu einem hörbaren Vokal wird (langes ā), weil die orthographische Alif bleibt.",
       "examples": [
         { "context": "عَلِيمًا", "pausal": "عَلِيمَا", "note": "-an → -ā. Die Alif wird als langer Vokal gesprochen." },
-        { "context": "رَحِيمًا", "pausal": "رَحِيمَا", "note": "Ebenso: Tanwin faellt, Alif bleibt als langer Vokal." }
+        { "context": "رَحِيمًا", "pausal": "رَحِيمَا", "note": "Ebenso: Tanwin fällt, Alif bleibt als langer Vokal." }
       ]
     },
     {
       "id": "verb_mood_drop",
-      "rule": "Verbmodus-Endung faellt weg",
-      "explanation": "Bei Verben im Imperfekt faellt die Damma-Endung (Indikativ) in der Pause zu Sukun.",
+      "rule": "Verbmodus-Endung fällt weg",
+      "explanation": "Bei Verben im Imperfekt fällt die Damma-Endung (Indikativ) in der Pause zu Sukun.",
       "examples": [
         { "context": "يَكْتُبُ", "pausal": "يَكْتُبْ", "note": "Indikativ Damma → Sukun" },
         { "context": "يَعْلَمُ", "pausal": "يَعْلَمْ", "note": "Ebenso: Damma → Sukun" }
@@ -54,7 +58,7 @@
     {
       "id": "hamza_final_pause",
       "rule": "Finales Hamza bei Pause",
-      "explanation": "Finales Hamza wird in der Pause wie im Kontext ausgesprochen, aber seine Vokalendung faellt weg. Wenn Hamza nach einem langen Vokal steht, bleibt der lange Vokal erhalten.",
+      "explanation": "Finales Hamza wird in der Pause wie im Kontext ausgesprochen, aber seine Vokalendung fällt weg. Wenn Hamza nach einem langen Vokal steht, bleibt der lange Vokal erhalten.",
       "examples": [
         { "context": "السَّمَاءُ", "pausal": "السَّمَاءْ", "note": "Hamza bleibt, nur Damma → Sukun" },
         { "context": "شَيْءٍ", "pausal": "شَيْءْ", "note": "Hamza bleibt, Kasra + Tanwin → Sukun" },
@@ -65,7 +69,7 @@
     {
       "id": "long_vowel_pause",
       "rule": "Langvokale am Wortende bei Pause",
-      "explanation": "Finale Langvokale (ا, و, ي als Vokalbuchstaben) bleiben in der Pause erhalten. Sie werden nicht verkuerzt.",
+      "explanation": "Finale Langvokale (ا, و, ي als Vokalbuchstaben) bleiben in der Pause erhalten. Sie werden nicht verkürzt.",
       "examples": [
         { "context": "يَدْعُو", "pausal": "يَدْعُو", "note": "Finales Waw als Langvokal bleibt — kein Wegfall" },
         { "context": "يَهْدِي", "pausal": "يَهْدِي", "note": "Finales Ya als Langvokal bleibt" },

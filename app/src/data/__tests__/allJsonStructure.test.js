@@ -238,7 +238,7 @@ describe('Critical file structures', () => {
     const chunks = [
       'syntax-3-01-10.json', 'syntax-3-11-20.json', 'syntax-3-21-30.json',
       'syntax-3-31-38.json', 'syntax-3-39-41.json', 'syntax-3-42-44.json',
-      'syntax-4-01-07.json', 'syntax-4-08-13.json',
+      'syntax-4-01-07.json', 'syntax-4-08-15.json',
     ]
     for (const chunk of chunks) {
       const data = JSON.parse(readFileSync(join(DATA_DIR, chunk), 'utf8'))

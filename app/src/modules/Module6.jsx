@@ -29,16 +29,16 @@ const PHASES = [
 // ===== Advanced stages (5-12) =====
 const ADVANCED_STAGES = [
   { stufe: 5, name: 'Semantische Felder und Wurzelbedeutungen', desc: 'Wurzeln in Bedeutungsfeldern gruppieren, Bedeutungsverschiebungen zwischen Formen erkennen, Synonyme und Antonyme im Quran kartieren.' },
-  { stufe: 6, name: 'Intertextuelle Kohaerenz', desc: 'Wiederkehrende Phrasen und Formeln erkennen, parallele Strukturen zwischen Suren identifizieren, thematische Verbindungen nachvollziehen.' },
+  { stufe: 6, name: 'Intertextuelle Kohärenz', desc: 'Wiederkehrende Phrasen und Formeln erkennen, parallele Strukturen zwischen Suren identifizieren, thematische Verbindungen nachvollziehen.' },
   { stufe: 7, name: 'Rhetorische Struktur (Balagha)', desc: 'Chiasmus, Inklusion, Ringkomposition und andere rhetorische Figuren im Qurantext erkennen.' },
-  { stufe: 8, name: 'Partikel-Sensitivitaet', desc: 'Feine Bedeutungsunterschiede zwischen aehnlichen Partikeln verstehen, kontextabhaengige Funktionen erkennen.' },
-  { stufe: 9, name: 'Phonosemantik', desc: 'Klang-Bedeutungs-Korrelationen in Wurzeln und Woertern wahrnehmen, lautmalerische Muster erkennen.' },
-  { stufe: 10, name: 'Prosodie und Klang', desc: 'Rhythmische Muster, Reim, Sajc und klangliche Strukturen in Versen hoeren und analysieren.' },
+  { stufe: 8, name: 'Partikel-Sensitivität', desc: 'Feine Bedeutungsunterschiede zwischen ähnlichen Partikeln verstehen, kontextabhängige Funktionen erkennen.' },
+  { stufe: 9, name: 'Phonosemantik', desc: 'Klang-Bedeutungs-Korrelationen in Wurzeln und Wörtern wahrnehmen, lautmalerische Muster erkennen.' },
+  { stufe: 10, name: 'Prosodie und Klang', desc: 'Rhythmische Muster, Reim, Sajc und klangliche Strukturen in Versen hören und analysieren.' },
   { stufe: 11, name: 'Pragmatik und Sprechakt', desc: 'Frage, Befehl, Schwur, Bedingung und andere Sprechakte im Qurantext identifizieren und ihre Wirkung verstehen.' },
-  { stufe: 12, name: 'Direktes Verstehen', desc: 'Den arabischen Qurantext lesen und seinen Inhalt unmittelbar erfassen - ohne Uebersetzung, ohne bewusste Analyse.' },
+  { stufe: 12, name: 'Direktes Verstehen', desc: 'Den arabischen Qurantext lesen und seinen Inhalt unmittelbar erfassen - ohne Übersetzung, ohne bewusste Analyse.' },
 ]
 
-const TOTAL_ROOTS = 1800
+const TOTAL_ROOTS = 1642
 
 export default function Module6({ quranData: _quranData, settings }) {
   const navigate = useNavigate()
@@ -172,7 +172,7 @@ export default function Module6({ quranData: _quranData, settings }) {
         <div className="m6-stat-card">
           <div className="m6-stat-icon">{'\u{1F504}'}</div>
           <div className="m6-stat-value">{dueCount}</div>
-          <div className="m6-stat-label">Karten faellig</div>
+          <div className="m6-stat-label">Karten fällig</div>
         </div>
 
         {/* Accuracy */}
@@ -292,7 +292,7 @@ export default function Module6({ quranData: _quranData, settings }) {
         </div>
       </div>
 
-      {/* ===== Wurzel-Zaehler ===== */}
+      {/* ===== Wurzel-Zähler ===== */}
       <div className="m6-section">
         <h3 className="m6-section-title">Wurzel-Fortschritt</h3>
         <div className="m6-progress-card">
@@ -312,7 +312,7 @@ export default function Module6({ quranData: _quranData, settings }) {
             {rootPercent < 5
               ? 'Beginne mit der Wortanalyse in der Vers-Werkstatt, um Wurzeln zu entdecken.'
               : rootPercent < 25
-                ? 'Guter Anfang! Jede neue Wurzel erschliesst dir ein ganzes Wortfeld.'
+                ? 'Guter Anfang! Jede neue Wurzel erschließt dir ein ganzes Wortfeld.'
                 : rootPercent < 50
                   ? 'Solider Fortschritt. Du erkennst bereits viele Muster.'
                   : 'Hervorragend! Du hast bereits einen grossen Teil des quranischen Vokabulars erschlossen.'}
@@ -400,7 +400,7 @@ export default function Module6({ quranData: _quranData, settings }) {
           </div>
           <div className="m6-srs-card">
             <div className="m6-srs-value" style={{ color: 'var(--accent-gold)' }}>{dueCount}</div>
-            <div className="m6-srs-label">Heute faellig</div>
+            <div className="m6-srs-label">Heute fällig</div>
           </div>
           <div className="m6-srs-card">
             <div className="m6-srs-value" style={{ color: 'var(--correct)' }}>{avgAccuracy}%</div>
@@ -420,7 +420,7 @@ export default function Module6({ quranData: _quranData, settings }) {
               {cardBreakdown.word > 0 && (
                 <span className="m6-srs-type">
                   <span className="m6-srs-type-dot" style={{ background: 'var(--accent-gold)' }} />
-                  Woerter: {cardBreakdown.word}
+                  Wörter: {cardBreakdown.word}
                 </span>
               )}
               {cardBreakdown.pattern > 0 && (
@@ -456,11 +456,11 @@ export default function Module6({ quranData: _quranData, settings }) {
               width: '100%',
             }}
           >
-            {dueCount} faellige Karten jetzt wiederholen
+            {dueCount} fällige Karten jetzt wiederholen
           </button>
         )}
 
-        {/* Lernaktivitaet der letzten 7 Tage */}
+        {/* Lernaktivität der letzten 7 Tage */}
         {totalSrsCards > 0 && (() => {
           const now = Date.now()
           const dayMs = 86400000
@@ -481,7 +481,7 @@ export default function Module6({ quranData: _quranData, settings }) {
           const avgDaily = Math.round(totalReviews / 7)
           return (
             <div style={{ marginTop: '16px' }}>
-              <h4 style={{ fontSize: '0.85rem', color: 'var(--text-secondary)', marginBottom: '8px' }}>Lernaktivitaet (letzte 7 Tage)</h4>
+              <h4 style={{ fontSize: '0.85rem', color: 'var(--text-secondary)', marginBottom: '8px' }}>Lernaktivität (letzte 7 Tage)</h4>
               <div style={{ display: 'flex', gap: '4px', alignItems: 'flex-end', height: '80px', marginBottom: '8px' }}>
                 {last7.map((d, i) => (
                   <div key={i} style={{ flex: 1, display: 'flex', flexDirection: 'column', alignItems: 'center', gap: '2px' }}>
@@ -512,11 +512,11 @@ export default function Module6({ quranData: _quranData, settings }) {
         </div>
       </div>
 
-      {/* ===== Stufen 5-12 Uebersicht ===== */}
+      {/* ===== Stufen 5-12 Übersicht ===== */}
       <div className="m6-section">
         <h3 className="m6-section-title">Fortgeschrittene Stufen (5-12)</h3>
         <p style={{ color: 'var(--text-secondary)', fontSize: '0.85rem', marginBottom: '16px' }}>
-          Zukuenftige Lernpfade, die sich nach Abschluss der Grundstufen oeffnen.
+          Zukuenftige Lernpfade, die sich nach Abschluss der Grundstufen öffnen.
         </p>
         <div className="m6-stages-grid">
           {ADVANCED_STAGES.map(stage => {

@@ -3,20 +3,20 @@ import { useState, useMemo, useCallback } from 'react'
 /**
  * SentenceDiagram — Visuelles I'rab-Diagramm
  * Zeigt grammatische Beziehungen in einem Vers als Baumstruktur.
- * Der Lernende kann Woertern syntaktische Rollen zuweisen.
+ * Der Lernende kann Wörtern syntaktische Rollen zuweisen.
  */
 
 const SYNTACTIC_ROLES = [
   { id: 'fi3l', label: 'Verb (Fi\'l)', color: 'var(--accent-teal)', case: '-' },
   { id: 'fa3il', label: 'Subjekt (Fa\'il)', color: '#4caf50', case: 'Nominativ' },
   { id: 'mubtada', label: 'Thema (Mubtada\')', color: '#4caf50', case: 'Nominativ' },
-  { id: 'khabar', label: 'Praedikat (Khabar)', color: '#8bc34a', case: 'Nominativ' },
+  { id: 'khabar', label: 'Prädikat (Khabar)', color: '#8bc34a', case: 'Nominativ' },
   { id: 'maf3ul_bihi', label: 'Objekt (Maf\'ul bihi)', color: '#ff9800', case: 'Akkusativ' },
   { id: 'hal', label: 'Zustand (Hal)', color: '#ff9800', case: 'Akkusativ' },
   { id: 'tamyiz', label: 'Spezifikation (Tamyiz)', color: '#ff9800', case: 'Akkusativ' },
   { id: 'maf3ul_mutlaq', label: 'Absolutes Obj. (Maf\'ul mutlaq)', color: '#ff9800', case: 'Akkusativ' },
   { id: 'zarf', label: 'Zeitadverb (Zarf)', color: '#ff9800', case: 'Akkusativ' },
-  { id: 'jarr_majrur', label: 'Praeposition+Genitiv (Jarr)', color: '#2196f3', case: 'Genitiv' },
+  { id: 'jarr_majrur', label: 'Präposition+Genitiv (Jarr)', color: '#2196f3', case: 'Genitiv' },
   { id: 'mudaf_ilayhi', label: 'Idafa-Genitiv (Mudaf ilayhi)', color: '#2196f3', case: 'Genitiv' },
   { id: 'sifa', label: 'Adjektiv/Attribut (Sifa)', color: '#9c27b0', case: 'folgt Bezugswort' },
   { id: 'badal', label: 'Apposition (Badal)', color: '#9c27b0', case: 'folgt Bezugswort' },
@@ -30,9 +30,9 @@ const SYNTACTIC_ROLES = [
   { id: 'zarf_zaman', label: 'Zeitadverbiale (Zarf Zaman)', color: '#ff9800', case: 'Akkusativ' },
   { id: 'zarf_makan', label: 'Ortsadverbiale (Zarf Makan)', color: '#ff9800', case: 'Akkusativ' },
   { id: 'ism_inna', label: 'Subjekt nach Inna (Ism Inna)', color: '#ff5722', case: 'Akkusativ' },
-  { id: 'khabar_inna', label: 'Praedikat nach Inna (Khabar Inna)', color: '#ff5722', case: 'Nominativ' },
+  { id: 'khabar_inna', label: 'Prädikat nach Inna (Khabar Inna)', color: '#ff5722', case: 'Nominativ' },
   { id: 'ism_kana', label: 'Subjekt nach Kana (Ism Kana)', color: '#795548', case: 'Nominativ' },
-  { id: 'khabar_kana', label: 'Praedikat nach Kana (Khabar Kana)', color: '#795548', case: 'Akkusativ' },
+  { id: 'khabar_kana', label: 'Prädikat nach Kana (Khabar Kana)', color: '#795548', case: 'Akkusativ' },
   { id: 'istithna', label: 'Ausgenommenes (Mustathna)', color: '#ff9800', case: 'Akkusativ' },
 ]
 
@@ -78,13 +78,13 @@ function validateAnalysis(assignments, words) {
   if (hasMubtada && !hasKhabar) {
     results.push({
       type: 'warning',
-      message: 'Nominalsatz unvollstaendig: Mubtada\' ohne Khabar. Ein Nominalsatz benoetigt beide.',
+      message: 'Nominalsatz unvollständig: Mubtada\' ohne Khabar. Ein Nominalsatz benötigt beide.',
     })
   }
   if (hasKhabar && !hasMubtada) {
     results.push({
       type: 'warning',
-      message: 'Nominalsatz unvollstaendig: Khabar ohne Mubtada\'. Ein Nominalsatz benoetigt beide.',
+      message: 'Nominalsatz unvollständig: Khabar ohne Mubtada\'. Ein Nominalsatz benötigt beide.',
     })
   }
   if (hasMubtada && hasKhabar) {
@@ -112,10 +112,10 @@ function validateAnalysis(assignments, words) {
   const hasIsmInna = roleIds.includes('ism_inna')
   const hasKhabarInna = roleIds.includes('khabar_inna')
   if (hasIsmInna && !hasKhabarInna) {
-    results.push({ type: 'warning', message: 'Ism Inna ohne Khabar Inna: Nach Inna/Schwestern werden beide benoetigt.' })
+    results.push({ type: 'warning', message: 'Ism Inna ohne Khabar Inna: Nach Inna/Schwestern werden beide benötigt.' })
   }
   if (hasKhabarInna && !hasIsmInna) {
-    results.push({ type: 'warning', message: 'Khabar Inna ohne Ism Inna: Das Praedikat nach Inna braucht ein Subjekt.' })
+    results.push({ type: 'warning', message: 'Khabar Inna ohne Ism Inna: Das Prädikat nach Inna braucht ein Subjekt.' })
   }
   if (hasIsmInna && hasKhabarInna) {
     results.push({ type: 'valid', message: 'Inna-Satz: Ism Inna (Akkusativ) und Khabar Inna (Nominativ) vorhanden.' })
@@ -125,10 +125,10 @@ function validateAnalysis(assignments, words) {
   const hasIsmKana = roleIds.includes('ism_kana')
   const hasKhabarKana = roleIds.includes('khabar_kana')
   if (hasIsmKana && !hasKhabarKana) {
-    results.push({ type: 'warning', message: 'Ism Kana ohne Khabar Kana: Nach Kana/Schwestern werden beide benoetigt.' })
+    results.push({ type: 'warning', message: 'Ism Kana ohne Khabar Kana: Nach Kana/Schwestern werden beide benötigt.' })
   }
   if (hasKhabarKana && !hasIsmKana) {
-    results.push({ type: 'warning', message: 'Khabar Kana ohne Ism Kana: Das Praedikat nach Kana braucht ein Subjekt.' })
+    results.push({ type: 'warning', message: 'Khabar Kana ohne Ism Kana: Das Prädikat nach Kana braucht ein Subjekt.' })
   }
   if (hasIsmKana && hasKhabarKana) {
     results.push({ type: 'valid', message: 'Kana-Satz: Ism Kana (Nominativ) und Khabar Kana (Akkusativ) vorhanden.' })
@@ -151,12 +151,12 @@ function validateAnalysis(assignments, words) {
     if (prevRole && nounRoles.includes(prevRole)) {
       results.push({
         type: 'info',
-        message: `Sifa (Wort ${idx + 1}: ${words[idx] || ''}) steht neben einem Nomen — Kongruenz pruefen (Genus, Numerus, Definitheit, Kasus).`,
+        message: `Sifa (Wort ${idx + 1}: ${words[idx] || ''}) steht neben einem Nomen — Kongruenz prüfen (Genus, Numerus, Definitheit, Kasus).`,
       })
     } else if (!prevRole) {
       results.push({
         type: 'info',
-        message: `Sifa (Wort ${idx + 1}: ${words[idx] || ''}) — Bezugswort (davor) hat keine zugewiesene Rolle. Adjazenz nicht pruefbar.`,
+        message: `Sifa (Wort ${idx + 1}: ${words[idx] || ''}) — Bezugswort (davor) hat keine zugewiesene Rolle. Adjazenz nicht prüfbar.`,
       })
     }
   })
@@ -170,12 +170,12 @@ function validateAnalysis(assignments, words) {
     if (!prevRole) {
       results.push({
         type: 'warning',
-        message: `Mudaf ilayhi (Wort ${idx + 1}: ${words[idx] || ''}) ohne vorhergehendes Mudaf. Ein Idafa-Genitiv benoetigt ein vorangehendes Bezugsnomen.`,
+        message: `Mudaf ilayhi (Wort ${idx + 1}: ${words[idx] || ''}) ohne vorhergehendes Mudaf. Ein Idafa-Genitiv benötigt ein vorangehendes Bezugsnomen.`,
       })
     } else {
       results.push({
         type: 'valid',
-        message: `Mudaf ilayhi (Wort ${idx + 1}) folgt auf ein zugewiesenes Wort — Idafa-Struktur moeglich.`,
+        message: `Mudaf ilayhi (Wort ${idx + 1}) folgt auf ein zugewiesenes Wort — Idafa-Struktur möglich.`,
       })
     }
   })
@@ -184,7 +184,7 @@ function validateAnalysis(assignments, words) {
   if (results.length === 0) {
     results.push({
       type: 'info',
-      message: 'Keine spezifischen Muster zur Validierung erkannt. Analyse weiter vervollstaendigen.',
+      message: 'Keine spezifischen Muster zur Validierung erkannt. Analyse weiter vervollständigen.',
     })
   }
 
@@ -477,7 +477,7 @@ export default function SentenceDiagram({ words, verseRef, onClose }) {
           marginBottom: '16px',
         }}>
           <div style={{ fontSize: '0.8rem', color: 'var(--text-muted)', marginBottom: '8px' }}>
-            Rolle fuer Wort {activeWord + 1}: <span className="arabic" dir="rtl" style={{ fontSize: '1.1rem', color: 'var(--accent-gold)' }}>{words[activeWord]}</span>
+            Rolle für Wort {activeWord + 1}: <span className="arabic" dir="rtl" style={{ fontSize: '1.1rem', color: 'var(--accent-gold)' }}>{words[activeWord]}</span>
           </div>
           <div style={{ display: 'flex', flexWrap: 'wrap', gap: '6px' }}>
             {SYNTACTIC_ROLES.map(role => (
@@ -533,7 +533,7 @@ export default function SentenceDiagram({ words, verseRef, onClose }) {
               color: '#fff', cursor: 'pointer', fontWeight: 600,
             }}
           >
-            Pruefe Analyse
+            Prüfe Analyse
           </button>
           {showTree && (
             <button
@@ -596,7 +596,7 @@ export default function SentenceDiagram({ words, verseRef, onClose }) {
             margin: '12px 0 0', fontSize: '0.7rem', color: 'var(--text-muted)',
             fontStyle: 'italic',
           }}>
-            Diese Validierung ist beratend — Warnungen koennen bei bestimmten Konstruktionen erwartet sein.
+            Diese Validierung ist beratend — Warnungen können bei bestimmten Konstruktionen erwartet sein.
           </p>
         </div>
       )}

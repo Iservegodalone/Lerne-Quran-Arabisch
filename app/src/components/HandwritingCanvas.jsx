@@ -149,7 +149,7 @@ export default function HandwritingCanvas() {
 
   return (
     <div style={{ maxWidth: '600px', margin: '0 auto' }}>
-      <h2 style={{ marginBottom: '8px' }}>Handschrift-Uebung</h2>
+      <h2 style={{ marginBottom: '8px' }}>Handschrift-Übung</h2>
       <p style={{
         color: 'var(--text-secondary)', marginBottom: '20px', fontSize: '0.9rem',
       }}>
@@ -290,7 +290,7 @@ export default function HandwritingCanvas() {
             fontSize: '0.9rem', fontWeight: 500,
           }}
         >
-          Zuruecksetzen
+          Zurücksetzen
         </button>
         <button
           onClick={nextLetter}
@@ -301,7 +301,7 @@ export default function HandwritingCanvas() {
             fontSize: '0.9rem', fontWeight: 600,
           }}
         >
-          Naechster Buchstabe
+          Nächster Buchstabe
         </button>
       </div>
     </div>

@@ -680,11 +680,11 @@ describe('Module2 — Morphologie-Dojo interactions', { timeout: 30000 }, () => 
     await user.click(drillBtn)
 
     await waitFor(() => {
-      expect(container.innerHTML).toContain('Zurueck zur Uebersicht')
+      expect(container.innerHTML).toContain('Zurück zur Übersicht')
     })
 
     // Click back
-    await user.click(screen.getByText('Zurueck zur Uebersicht'))
+    await user.click(screen.getByText('Zurück zur Übersicht'))
 
     // Should return to the lesson overview
     await waitFor(() => {

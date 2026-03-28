@@ -17,7 +17,7 @@ const syntaxLessons = {
   meta: {
     module: 3,
     title: "Syntax (Nahw) und Partikeln",
-    description: "44 Syntax-Lektionen zur arabischen Satzlehre und 15 Partikel-Lektionen — von der Kasusbestimmung ueber Ism al-Fi'l und Tanazu' bis zur Mehrdeutigkeit von Funktionswoertern im Quran",
+    description: "44 Syntax-Lektionen zur arabischen Satzlehre und 15 Partikel-Lektionen — von der Kasusbestimmung über Ism al-Fi'l und Tanazu' bis zur Mehrdeutigkeit von Funktionswoertern im Quran",
     passingScore: 80,
     warningMessage: "Ab jetzt wird es konkret. Jede Regel die du hier lernst, wirst du in jedem einzelnen Vers des Quran anwenden. Syntax ist das Werkzeug das dir sagt WARUM ein Wort in einem bestimmten Kasus steht, WELCHE Rolle es im Satz spielt, und WIE sich Satzteile zueinander verhalten. Ohne Syntax kannst du Wörter erkennen — mit Syntax verstehst du Sätze."
   },

@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Erweiterte Syntax-Uebungen (Fortgeschritten) — Teil 2",
-    "description": "90 strukturierte Uebungen zu fortgeschrittener arabischer Syntax, basierend auf realen Quran-Versen (Simple Clean Text). Themen: Taqdim, Badal, Sifa, Anaphora, Ellipse, doppeltes Objekt, Satzgrenzen, Topikalisierung, Maful li-Ajlihi, Maful Ma'ahu, Khabar-Typen, Gesamtanalyse.",
+    "title": "Erweiterte Syntax-Übungen (Fortgeschritten) — Teil 2",
+    "description": "90 strukturierte Übungen zu fortgeschrittener arabischer Syntax, basierend auf realen Quran-Versen (Simple Clean Text). Themen: Taqdim, Badal, Sifa, Anaphora, Ellipse, doppeltes Objekt, Satzgrenzen, Topikalisierung, Maful li-Ajlihi, Maful Ma'ahu, Khabar-Typen, Gesamtanalyse.",
     "language": "de",
     "totalExercises": 90,
     "categories": [
@@ -17,6 +17,10 @@
       "maful_ma'ahu",
       "khabar_types",
       "complex_analysis"
+    ],
+    "sources": [
+      { "name": "Quranic Arabic Corpus", "url": "https://corpus.quran.com/" },
+      { "name": "Wright's Grammar Vol II", "url": "https://archive.org/details/grammarofthearab02telerich" }
     ]
   },
   "exercises": [
@@ -25,11 +29,11 @@
       "type": "find_element",
       "category": "taqdim",
       "verse": { "surah": 1, "ayah": 5, "text": "اياك نعبد واياك نستعين" },
-      "question": "Welches Element wurde vorangestellt (Taqdim)? Was waere die Normalstellung?",
+      "question": "Welches Element wurde vorangestellt (Taqdim)? Was wäre die Normalstellung?",
       "correctAnswer": {
         "wordIndices": [0],
         "word": "اياك",
-        "explanation": "Das Maf'ul bihi (اياك — Dich) wurde dem Verb (نعبد) vorangestellt. Die Normalstellung waere: نعبدك (wir dienen Dir). Die Voranstellung des Objekts (Taqdīm) bringt das Maf'ul bihi in die markierte Anfangsposition."
+        "explanation": "Das Maf'ul bihi (اياك — Dich) wurde dem Verb (نعبد) vorangestellt. Die Normalstellung wäre: نعبدك (wir dienen Dir). Die Voranstellung des Objekts (Taqdīm) bringt das Maf'ul bihi in die markierte Anfangsposition."
       },
       "difficulty": 1
     },
@@ -42,7 +46,7 @@
       "correctAnswer": {
         "wordIndices": [0, 1],
         "word": "مما رزقنهم",
-        "explanation": "Die Praepositionalphrase مما رزقنهم (von dem, was Wir ihnen gaben) wurde dem Verb ينفقون (sie geben aus) vorangestellt. Normalstellung waere: ينفقون مما رزقنهم. Die Voranstellung betont die Quelle des Ausgebens — es ist das, was ihnen gegeben wurde, also kein eigener Verdienst."
+        "explanation": "Die Präpositionalphrase مما رزقنهم (von dem, was Wir ihnen gaben) wurde dem Verb ينفقون (sie geben aus) vorangestellt. Normalstellung wäre: ينفقون مما رزقنهم. Die Voranstellung betont die Quelle des Ausgebens — es ist das, was ihnen gegeben wurde, also kein eigener Verdienst."
       },
       "difficulty": 2
     },
@@ -55,7 +59,7 @@
       "correctAnswer": {
         "wordIndices": [0, 1],
         "word": "كل شى",
-        "explanation": "Das Maf'ul bihi كل شى (jedes Ding) wurde dem Verb احصينه (Wir haben es erfasst) vorangestellt. Normalstellung waere: احصينا كل شى. Das ه in احصينه ist ein resumptives Pronomen, das auf das vorangestellte Objekt zurueckverweist. Die Voranstellung universalisiert: Alles — ohne Ausnahme — haben Wir erfasst."
+        "explanation": "Das Maf'ul bihi كل شى (jedes Ding) wurde dem Verb احصينه (Wir haben es erfasst) vorangestellt. Normalstellung wäre: احصينا كل شى. Das ه in احصينه ist ein resumptives Pronomen, das auf das vorangestellte Objekt zurückverweist. Die Voranstellung universalisiert: Alles — ohne Ausnahme — haben Wir erfasst."
       },
       "difficulty": 2
     },
@@ -68,7 +72,7 @@
       "correctAnswer": {
         "wordIndices": [],
         "word": "kein Taqdim",
-        "explanation": "In 109:2 liegt kein Taqdim vor — die Normalstellung Verb-Objekt (اعبد ما تعبدون) ist eingehalten. Im Gegensatz zu 1:5, wo اياك dem Verb vorangestellt wurde, folgt hier das Relativobjekt ما تعبدون dem Verb. Die Verneinung (لا) steht regulaer vor dem Verb."
+        "explanation": "In 109:2 liegt kein Taqdim vor — die Normalstellung Verb-Objekt (اعبد ما تعبدون) ist eingehalten. Im Gegensatz zu 1:5, wo اياك dem Verb vorangestellt wurde, folgt hier das Relativobjekt ما تعبدون dem Verb. Die Verneinung (لا) steht regulär vor dem Verb."
       },
       "difficulty": 2
     },
@@ -80,13 +84,13 @@
       "question": "Welches Element wurde im ersten Teil vorangestellt und welche Funktion hat das?",
       "options": [
         "اولئك wurde als Mubtada vorangestellt — normale Nominalsatzstellung, kein Taqdim",
-        "على هدى wurde als Khabar dem Mubtada vorangestellt — Betonung der Fuehrung",
+        "على هدى wurde als Khabar dem Mubtada vorangestellt — Betonung der Führung",
         "من ربهم wurde vorangestellt — Betonung der Quelle",
-        "Es liegt kein Taqdim vor — die Wortstellung ist regulaer"
+        "Es liegt kein Taqdim vor — die Wortstellung ist regulär"
       ],
       "correctAnswer": {
         "answer": 3,
-        "explanation": "Es liegt kein Taqdim vor. Die Reihenfolge Mubtada (اولئك) + Khabar (على هدى من ربهم) ist die normale Nominalsatzstellung. Taqdim laege vor, wenn das Khabar dem Mubtada vorangestellt waere, z.B. على هدى اولئك."
+        "explanation": "Es liegt kein Taqdim vor. Die Reihenfolge Mubtada (اولئك) + Khabar (على هدى من ربهم) ist die normale Nominalsatzstellung. Taqdim laege vor, wenn das Khabar dem Mubtada vorangestellt wäre, z.B. على هدى اولئك."
       },
       "difficulty": 2
     },
@@ -99,7 +103,7 @@
       "correctAnswer": {
         "wordIndices": [1],
         "word": "معى",
-        "explanation": "Ja, das Khabar معى (mit mir) wurde dem Ism von ان, naemlich ربى (mein Herr), vorangestellt. Normalstellung nach ان waere: ان ربى معى. Die Voranstellung des Khabar betont die Naehe und das Bei-Sein — es geht nicht darum, wer, sondern dass er BEI MIR ist."
+        "explanation": "Ja, das Khabar معى (mit mir) wurde dem Ism von ان, nämlich ربى (mein Herr), vorangestellt. Normalstellung nach ان wäre: ان ربى معى. Die Voranstellung des Khabar betont die Nähe und das Bei-Sein — es geht nicht darum, wer, sondern dass er BEI MIR ist."
       },
       "difficulty": 3
     },
@@ -108,11 +112,11 @@
       "type": "find_element",
       "category": "taqdim",
       "verse": { "surah": 17, "ayah": 44, "text": "تسبح له السموت السبع والارض ومن فيهن" },
-      "question": "Im Satzteil تسبح له السموت — wurde hier das Verb oder die Praepositionalphrase vorangestellt?",
+      "question": "Im Satzteil تسبح له السموت — wurde hier das Verb oder die Präpositionalphrase vorangestellt?",
       "correctAnswer": {
         "wordIndices": [1],
         "word": "له",
-        "explanation": "Die Praepositionalphrase له (Ihm) wurde dem Fa'il السموت السبع (die sieben Himmel) vorangestellt. Normalstellung waere: تسبح السموت له. Die Voranstellung von له (Ihm) fokussiert auf den Empfänger der Lobpreisung."
+        "explanation": "Die Präpositionalphrase له (Ihm) wurde dem Fa'il السموت السبع (die sieben Himmel) vorangestellt. Normalstellung wäre: تسبح السموت له. Die Voranstellung von له (Ihm) fokussiert auf den Empfänger der Lobpreisung."
       },
       "difficulty": 2
     },
@@ -125,7 +129,7 @@
       "correctAnswer": {
         "wordIndices": [0],
         "word": "رحمتى",
-        "explanation": "Das Mubtada رحمتى (meine Barmherzigkeit) steht zwar am Satzanfang, aber der Satz وسعت كل شى (sie umfasste jedes Ding) ist ein Verbalsatz als Khabar. Hier faellt auf, dass das Thema (رحمتى) vorangestellt ist, um es als Gegenstand der Aussage zu etablieren, bevor die Handlung folgt."
+        "explanation": "Das Mubtada رحمتى (meine Barmherzigkeit) steht zwar am Satzanfang, aber der Satz وسعت كل شى (sie umfasste jedes Ding) ist ein Verbalsatz als Khabar. Hier fällt auf, dass das Thema (رحمتى) vorangestellt ist, um es als Gegenstand der Aussage zu etablieren, bevor die Handlung folgt."
       },
       "difficulty": 2
     },
@@ -138,7 +142,7 @@
       "correctAnswer": {
         "wordIndices": [2],
         "word": "رب العالمين",
-        "explanation": "رب العالمين (Herr der Welten) ist ein Badal kull min kull (vollstaendige Apposition) zu الله. Die Apposition erlaeutert das Bezugswort vollstaendig — Gott IST der Herr der Welten. Der Badal folgt dem Kasus des Bezugswortes: الله steht im Genitiv (nach ل), also steht auch ربِّ im Genitiv."
+        "explanation": "رب العالمين (Herr der Welten) ist ein Badal kull min kull (vollständige Apposition) zu الله. Die Apposition erläutert das Bezugswort vollständig — Gott IST der Herr der Welten. Der Badal folgt dem Kasus des Bezugswortes: الله steht im Genitiv (nach ل), also steht auch ربِّ im Genitiv."
       },
       "difficulty": 1
     },
@@ -147,11 +151,11 @@
       "type": "find_element",
       "category": "badal",
       "verse": { "surah": 1, "ayah": 6, "text": "اهدنا الصرط المستقيم" },
-      "question": "Betrachte den Folgevers 1:7 (صرط الذين انعمت عليهم). In welchem Verhaeltnis steht صرط الذين zu الصرط المستقيم aus 1:6?",
+      "question": "Betrachte den Folgevers 1:7 (صرط الذين انعمت عليهم). In welchem Verhältnis steht صرط الذين zu الصرط المستقيم aus 1:6?",
       "correctAnswer": {
         "wordIndices": [0],
         "word": "صرط الذين انعمت عليهم",
-        "explanation": "صرط الذين انعمت عليهم ist ein Badal kull min kull (vollstaendige Apposition) zu الصرط المستقيم. Der gerade Weg wird durch die Apposition praezisiert: Es ist der Weg derjenigen, denen Du Gnade erwiesen hast. Beide stehen im Akkusativ (als Maf'ul bihi von اهدنا)."
+        "explanation": "صرط الذين انعمت عليهم ist ein Badal kull min kull (vollständige Apposition) zu الصرط المستقيم. Der gerade Weg wird durch die Apposition präzisiert: Es ist der Weg derjenigen, denen Du Gnade erwiesen hast. Beide stehen im Akkusativ (als Maf'ul bihi von اهدنا)."
       },
       "difficulty": 2
     },
@@ -162,14 +166,14 @@
       "verse": { "surah": 2, "ayah": 217, "text": "يسلونك عن الشهر الحرام قتال فيه" },
       "question": "Welche Art von Badal liegt bei قتال فيه vor (bezogen auf الشهر الحرام)?",
       "options": [
-        "Badal kull min kull (vollstaendige Apposition)",
+        "Badal kull min kull (vollständige Apposition)",
         "Badal ba'd min kull (Teil-Apposition)",
-        "Badal ishtimal (Einschluss-Apposition — der Kampf ist ein Aspekt des eingeschränkten Monats, حَرَام = verboten/eingeschränkt)",
+        "Badal ishtimal (Einschluss-Apposition — der Kampf ist ein Aspekt des unverletzlichen Monats, حَرَام = heilig/unverletzlich)",
         "Kein Badal, sondern ein neues Mubtada"
       ],
       "correctAnswer": {
         "answer": 2,
-        "explanation": "قتال فيه ist ein Badal ishtimal (Einschluss-Apposition). Der Kampf ist nicht identisch mit dem eingeschränkten Monat (الشَّهْرُ الْحَرَامُ: حَرَام = verboten/eingeschränkt), sondern ein Aspekt/eine Angelegenheit, die ihn betrifft. Sie fragen nach dem eingeschränkten Monat (الشَّهْرُ الْحَرَامُ: حَرَام = verboten/eingeschränkt) — genauer: nach dem Kaempfen darin. Das Pronomen فيه verweist zurueck auf الشهر."
+        "explanation": "قتال فيه ist ein Badal ishtimal (Einschluss-Apposition). Der Kampf ist nicht identisch mit dem unverletzlichen Monat (الشَّهْرُ الْحَرَامُ: حَرَام = heilig/unverletzlich), sondern ein Aspekt/eine Angelegenheit, die ihn betrifft. Sie fragen nach dem unverletzlichen Monat (الشَّهْرُ الْحَرَامُ: حَرَام = heilig/unverletzlich) — genauer: nach dem Kämpfen darin. Das Pronomen فيه verweist zurück auf الشهر."
       },
       "difficulty": 3
     },
@@ -178,11 +182,11 @@
       "type": "find_element",
       "category": "badal",
       "verse": { "surah": 14, "ayah": 1, "text": "الر كتب انزلنه اليك لتخرج الناس من الظلمت الى النور باذن ربهم الى صرط العزيز الحميد" },
-      "question": "Im letzten Teil: Welches Verhaeltnis besteht zwischen الى النور und الى صرط العزيز الحميد?",
+      "question": "Im letzten Teil: Welches Verhältnis besteht zwischen الى النور und الى صرط العزيز الحميد?",
       "correctAnswer": {
         "wordIndices": [8, 9, 10],
         "word": "الى صرط العزيز الحميد",
-        "explanation": "الى صرط العزيز الحميد ist ein Badal kull min kull (vollstaendige Apposition) zur Praepositionalphrase الى النور. Das Licht wird erlaeutert als der Weg des Maechtigen, des Lobenswerten. Durch die Apposition wird das abstrakte 'Licht' mit konkretem Inhalt gefuellt."
+        "explanation": "الى صرط العزيز الحميد ist ein Badal kull min kull (vollständige Apposition) zur Präpositionalphrase الى النور. Das Licht wird erläutert als der Weg des Mächtigen, des Lobenswerten. Durch die Apposition wird das abstrakte 'Licht' mit konkretem Inhalt gefuellt."
       },
       "difficulty": 3
     },
@@ -217,11 +221,11 @@
       "type": "find_element",
       "category": "badal",
       "verse": { "surah": 40, "ayah": 3, "text": "غافر الذنب وقابل التوب شديد العقاب ذى الطول" },
-      "question": "In welchem Verhaeltnis stehen diese Ausdruecke zu الله in 40:2 (تنزيل الكتب من الله العزيز العليم)?",
+      "question": "In welchem Verhältnis stehen diese Ausdrücke zu الله in 40:2 (تنزيل الكتب من الله العزيز العليم)?",
       "correctAnswer": {
         "wordIndices": [0, 1, 2, 3, 4, 5, 6],
         "word": "غافر الذنب وقابل التوب شديد العقاب ذى الطول",
-        "explanation": "Alle vier Ausdruecke sind Badal kull min kull (vollstaendige Appositionen) bzw. Sifat (Attribute) zu الله aus dem vorherigen Vers. Sie beschreiben verschiedene Aspekte: Vergebender der Schuld, Annehmender der Reue, streng in der Bestrafung, Besitzer der Huld. Alle folgen dem Genitiv von الله nach من."
+        "explanation": "Alle vier Ausdrücke sind Badal kull min kull (vollständige Appositionen) bzw. Sifat (Attribute) zu الله aus dem vorherigen Vers. Sie beschreiben verschiedene Aspekte: Vergebender der Schuld, Annehmender der Reue, streng in der Bestrafung, Besitzer der Huld. Alle folgen dem Genitiv von الله nach من."
       },
       "difficulty": 3
     },
@@ -230,11 +234,11 @@
       "type": "find_element",
       "category": "sifa",
       "verse": { "surah": 2, "ayah": 2, "text": "ذلك الكتاب لا ريب فيه هدى للمتقين" },
-      "question": "Pruefe: Ist الكتب ein Sifa (Adjektiv/Attribut) zu ذلك oder eine eigenstaendige Satzfunktion?",
+      "question": "Prüfe: Ist الكتب ein Sifa (Adjektiv/Attribut) zu ذلك oder eine eigenständige Satzfunktion?",
       "correctAnswer": {
         "wordIndices": [1],
         "word": "الكتب",
-        "explanation": "الكتب kann als Sifa (Attribut) zu ذلك oder als Badal (Apposition) analysiert werden. Fuer eine Sifa-Analyse spricht, dass es ذلك naeher bestimmt: jenes Buch. Gegen die Sifa-Analyse spricht, dass ذلك ein Demonstrativpronomen ist und Sifa im klassischen Sinn eher auf Adjektive beschraenkt wird. Die Analyse als Badal oder als عطف بيان ist verbreiteter."
+        "explanation": "الكتب kann als Sifa (Attribut) zu ذلك oder als Badal (Apposition) analysiert werden. Für eine Sifa-Analyse spricht, dass es ذلك näher bestimmt: jenes Buch. Gegen die Sifa-Analyse spricht, dass ذلك ein Demonstrativpronomen ist und Sifa im klassischen Sinn eher auf Adjektive beschränkt wird. Die Analyse als Badal oder als عطف بيان ist verbreiteter."
       },
       "difficulty": 2
     },
@@ -243,16 +247,16 @@
       "type": "multiple_choice",
       "category": "sifa",
       "verse": { "surah": 1, "ayah": 6, "text": "اهدنا الصرط المستقيم" },
-      "question": "Pruefe die Kongruenz von المستقيم als Sifa zu الصرط. In welchen Merkmalen stimmen sie ueberein?",
+      "question": "Prüfe die Kongruenz von المستقيم als Sifa zu الصرط. In welchen Merkmalen stimmen sie überein?",
       "options": [
-        "Genus, Numerus, Definitheit, Kasus — alle vier stimmen ueberein",
-        "Nur Genus und Numerus stimmen ueberein",
-        "Nur Kasus und Definitheit stimmen ueberein",
-        "Sie stimmen in keinem Merkmal ueberein"
+        "Genus, Numerus, Definitheit, Kasus — alle vier stimmen überein",
+        "Nur Genus und Numerus stimmen überein",
+        "Nur Kasus und Definitheit stimmen überein",
+        "Sie stimmen in keinem Merkmal überein"
       ],
       "correctAnswer": {
         "answer": 0,
-        "explanation": "Alle vier Kongruenzmerkmale stimmen ueberein: (1) Genus: maskulin — maskulin. (2) Numerus: Singular — Singular. (3) Definitheit: bestimmt (ال) — bestimmt (ال). (4) Kasus: Akkusativ (Maf'ul bihi) — Akkusativ (als Sifa folgt es dem Kasus). Vollstaendige Kongruenz bestaetigt المستقيم als Sifa."
+        "explanation": "Alle vier Kongruenzmerkmale stimmen überein: (1) Genus: maskulin — maskulin. (2) Numerus: Singular — Singular. (3) Definitheit: bestimmt (ال) — bestimmt (ال). (4) Kasus: Akkusativ (Maf'ul bihi) — Akkusativ (als Sifa folgt es dem Kasus). Vollständige Kongruenz bestätigt المستقيم als Sifa."
       },
       "difficulty": 1
     },
@@ -261,7 +265,7 @@
       "type": "multiple_choice",
       "category": "sifa",
       "verse": { "surah": 2, "ayah": 168, "text": "يايها الناس كلوا مما فى الارض حللا طيبا" },
-      "question": "حللا طيبا beschreibt das Gegessene. Welche Funktion hat طيبا im Verhaeltnis zu حللا?",
+      "question": "حللا طيبا beschreibt das Gegessene. Welche Funktion hat طيبا im Verhältnis zu حللا?",
       "options": [
         "Sifa (Attribut) zu حللا — kongruent in Genus, Numerus, Kasus und Indefinitheit",
         "Zweites Maf'ul bihi",
@@ -270,7 +274,7 @@
       ],
       "correctAnswer": {
         "answer": 0,
-        "explanation": "طيبا ist eine Sifa (Attribut) zu حللا. Kongruenzpruefung: (1) Genus: maskulin — maskulin. (2) Numerus: Singular — Singular. (3) Kasus: Akkusativ — Akkusativ. (4) Definitheit: indefinit — indefinit. Alle vier Merkmale stimmen ueberein. Bedeutung: erlaubtes, gutes (Essen)."
+        "explanation": "طيبا ist eine Sifa (Attribut) zu حللا. Kongruenzpruefung: (1) Genus: maskulin — maskulin. (2) Numerus: Singular — Singular. (3) Kasus: Akkusativ — Akkusativ. (4) Definitheit: indefinit — indefinit. Alle vier Merkmale stimmen überein. Bedeutung: erlaubtes, gutes (Essen)."
       },
       "difficulty": 1
     },
@@ -284,11 +288,11 @@
         "Sifa zu einem vorhergehenden Nomen",
         "Hal (Zustandsakkusativ) — parallel zu وانتم سكرى",
         "Maf'ul bihi (direktes Objekt)",
-        "Khabar (Praedikat)"
+        "Khabar (Prädikat)"
       ],
       "correctAnswer": {
         "answer": 1,
-        "explanation": "جنبا ist ein Hal (Zustandsakkusativ), nicht eine Sifa. Es beschreibt den Zustand, in dem man sich nicht dem Gebet naehern soll: weder betrunken noch im Zustand des Junub (Wurzel ج-ن-ب: ferngehalten, zur Seite gestellt). Es steht parallel zum Hal-Satz وانتم سكرى. Der Akkusativ markiert es als Zustandsangabe."
+        "explanation": "جنبا ist ein Hal (Zustandsakkusativ), nicht eine Sifa. Es beschreibt den Zustand, in dem man sich nicht dem Gebet nähern soll: weder betrunken noch im Zustand des Junub (Wurzel ج-ن-ب: ferngehalten, zur Seite gestellt). Es steht parallel zum Hal-Satz وانتم سكرى. Der Akkusativ markiert es als Zustandsangabe."
       },
       "difficulty": 3
     },
@@ -301,7 +305,7 @@
       "correctAnswer": {
         "wordIndices": [3, 4, 5, 6, 7, 8, 9, 10],
         "word": "الملك القدوس السلم المومن المهيمن العزيز الجبار المتكبر",
-        "explanation": "Alle acht Woerter von الملك bis المتكبر sind Sifat (Attribute) zu الله. Sie alle stimmen ueberein: maskulin Singular, definit (mit ال), Nominativ (als Khabar oder Sifa zum Khabar). الذى لا اله الا هو ist ein eingeschobener Relativsatz. Danach reihen sich die Attribute auf."
+        "explanation": "Alle acht Wörter von الملك bis المتكبر sind Sifat (Attribute) zu الله. Sie alle stimmen überein: maskulin Singular, definit (mit ال), Nominativ (als Khabar oder Sifa zum Khabar). الذى لا اله الا هو ist ein eingeschobener Relativsatz. Danach reihen sich die Attribute auf."
       },
       "difficulty": 2
     },
@@ -314,7 +318,7 @@
       "correctAnswer": {
         "wordIndices": [3],
         "word": "الاعلى",
-        "explanation": "الاعلى (der Hoechste) ist eine Sifa zu ربك (deines Herrn), nicht zu اسم. Syntaktisch bezieht sich das Attribut auf das naechststehende Nomen im Genitiv. ربك steht im Genitiv als Mudaf ilayhi, und الاعلى folgt im Genitiv als Sifa: Preise den Namen deines hoechsten Herrn."
+        "explanation": "الاعلى (der Höchste) ist eine Sifa zu ربك (deines Herrn), nicht zu اسم. Syntaktisch bezieht sich das Attribut auf das nächststehende Nomen im Genitiv. ربك steht im Genitiv als Mudaf ilayhi, und الاعلى folgt im Genitiv als Sifa: Preise den Namen deines höchsten Herrn."
       },
       "difficulty": 2
     },
@@ -323,7 +327,7 @@
       "type": "multiple_choice",
       "category": "sifa",
       "verse": { "surah": 2, "ayah": 197, "text": "الحج اشهر معلومت" },
-      "question": "Ist معلومت eine Sifa zu اشهر? Pruefe die Kongruenz.",
+      "question": "Ist معلومت eine Sifa zu اشهر? Prüfe die Kongruenz.",
       "options": [
         "Ja — feminin Plural gebrochen kongruent mit maskulin Plural gebrochen, indefinit, Genitiv",
         "Ja — femininer gesunder Plural als Sifa zu gebrochenem Plural, beide indefinit, Genitiv",
@@ -345,7 +349,7 @@
       "correctAnswer": {
         "wordIndices": [0],
         "word": "ذلك / الكتب",
-        "explanation": "Das Pronomen ه in فيه bezieht sich auf ذلك الكتب (jenes Buch). Das Suffix-Pronomen der 3. Person maskulin Singular verweist zurueck auf das Buch. Der Zwischensatz لا ريب فيه bedeutet: kein Zweifel ist darin — darin, naemlich im Buch."
+        "explanation": "Das Pronomen ه in فيه bezieht sich auf ذلك الكتب (jenes Buch). Das Suffix-Pronomen der 3. Person maskulin Singular verweist zurück auf das Buch. Der Zwischensatz لا ريب فيه bedeutet: kein Zweifel ist darin — darin, nämlich im Buch."
       },
       "difficulty": 1
     },
@@ -358,7 +362,7 @@
       "correctAnswer": {
         "wordIndices": [1],
         "word": "هو",
-        "explanation": "Das Pronomen هو (Er) ist ein Pronomen der Sache (ضمير الشان), das keinen konkreten vorangehenden Bezug hat. Es leitet den Satz ein und kuendigt die folgende Aussage an: Es verhaelt sich so — Gott ist Einer. Andere analysieren هو als vorweisendes Pronomen, das auf الله verweist."
+        "explanation": "Das Pronomen هو (Er) ist ein Pronomen der Sache (ضمير الشان), das keinen konkreten vorangehenden Bezug hat. Es leitet den Satz ein und kündigt die folgende Aussage an: Es verhält sich so — Gott ist Einer. Andere analysieren هو als vorweisendes Pronomen, das auf الله verweist."
       },
       "difficulty": 2
     },
@@ -371,7 +375,7 @@
       "correctAnswer": {
         "wordIndices": [7],
         "word": "ما (= الما)",
-        "explanation": "Das Pronomen ه in به bezieht sich auf ما (das, was) in وانزل من السما ما — also auf das Wasser. Er sandte vom Himmel Wasser herab, dann brachte Er DAMIT (به — mit dem Wasser) Fruechte hervor. Das Pronomen verknuepft die beiden Handlungen kausal."
+        "explanation": "Das Pronomen ه in به bezieht sich auf ما (das, was) in وانزل من السما ما — also auf das Wasser. Er sandte vom Himmel Wasser herab, dann brachte Er DAMIT (به — mit dem Wasser) Früchte hervor. Das Pronomen verknüpft die beiden Handlungen kausal."
       },
       "difficulty": 2
     },
@@ -397,7 +401,7 @@
       "correctAnswer": {
         "wordIndices": [0],
         "word": "الله",
-        "explanation": "Das Suffix ه in نوره bezieht sich auf الله. Das Gleichnis Seines Lichts (مثل نوره) — das Possessivpronomen verweist zurueck auf das Mubtada des Satzes. Die pronominale Referenzkette setzt sich fort: نوره → كمشكوه → فيها → المصبح → زجاجه — jeweils mit Rueckverweisen."
+        "explanation": "Das Suffix ه in نوره bezieht sich auf الله. Das Gleichnis Seines Lichts (مثل نوره) — das Possessivpronomen verweist zurück auf das Mubtada des Satzes. Die pronominale Referenzkette setzt sich fort: نوره → كمشكوه → فيها → المصبح → زجاجه — jeweils mit Rückverweisen."
       },
       "difficulty": 2
     },
@@ -410,12 +414,12 @@
       "options": [
         "Auf هو (Er)",
         "Auf الله (Gott) am Satzanfang",
-        "Auf القيوم (der Bestaendige)",
+        "Auf القيوم (der Beständige)",
         "Auf اله (Gott — generisch)"
       ],
       "correctAnswer": {
         "answer": 1,
-        "explanation": "Das Pronomen ه in تاخذه bezieht sich auf الله am Satzanfang. Ihn ergreift weder Schlummer noch Schlaf. Obwohl هو und الحى القيوم dazwischenstehen, ist الله das primaere Bezugswort — das Satzthema, ueber das alle folgenden Aussagen gemacht werden."
+        "explanation": "Das Pronomen ه in تاخذه bezieht sich auf الله am Satzanfang. Ihn ergreift weder Schlummer noch Schlaf. Obwohl هو und الحى القيوم dazwischenstehen, ist الله das primäre Bezugswort — das Satzthema, über das alle folgenden Aussagen gemacht werden."
       },
       "difficulty": 2
     },
@@ -440,7 +444,7 @@
       "question": "Identifiziere die Bezugswoerter aller Pronomen: ها in احيينها, ها in منها, ه in فمنه.",
       "correctAnswer": {
         "wordIndices": [3],
-        "word": "الارض (fuer احيينها und منها), حبا (fuer فمنه)",
+        "word": "الارض (für احيينها und منها), حبا (für فمنه)",
         "explanation": "Die Pronomen ها in احيينها und منها beziehen sich beide auf الارض الميته (die tote Erde): Wir belebten SIE und brachten aus IHR Korn hervor. Das Pronomen ه in فمنه bezieht sich auf حبا (Korn): davon essen sie. Drei Pronomen, zwei verschiedene Bezugswoerter."
       },
       "difficulty": 3
@@ -450,11 +454,11 @@
       "type": "find_element",
       "category": "ellipsis",
       "verse": { "surah": 12, "ayah": 18, "text": "فصبر جميل" },
-      "question": "Dieser Ausdruck ist ein vollstaendiger Satz mit Ellipse. Welches Element wurde ausgelassen?",
+      "question": "Dieser Ausdruck ist ein vollständiger Satz mit Ellipse. Welches Element wurde ausgelassen?",
       "correctAnswer": {
         "wordIndices": [],
         "word": "(ausgelassenes Mubtada oder Khabar)",
-        "explanation": "Es liegt eine Ellipse vor. Zwei Analysen sind moeglich: (1) صبر جميل ist Khabar, das Mubtada صبرى (mein Ausharren) ist ausgelassen: mein Ausharren ist ein schoenes Ausharren. (2) صبر جميل ist Mubtada, das Khabar (z.B. اجمل — ist am besten) ist ausgelassen. Die erste Analyse ist verbreiteter: Schoenes Gedulden (ist mein Weg)."
+        "explanation": "Es liegt eine Ellipse vor. Zwei Analysen sind möglich: (1) صبر جميل ist Khabar, das Mubtada صبرى (mein Ausharren) ist ausgelassen: mein Ausharren ist ein schönes Ausharren. (2) صبر جميل ist Mubtada, das Khabar (z.B. اجمل — ist am besten) ist ausgelassen. Die erste Analyse ist verbreiteter: Schönes Gedulden (ist mein Weg)."
       },
       "difficulty": 2
     },
@@ -467,7 +471,7 @@
       "correctAnswer": {
         "wordIndices": [],
         "word": "(ausgelassenes Khabar: فعليه عده)",
-        "explanation": "Es liegt eine Ellipse des Khabar-Praedikats vor. Vollstaendig: فعليه عده من ايام اخر — dann obliegt ihm eine Anzahl (von Tagen) aus anderen Tagen. Das عليه (auf ihm / ihm obliegt) wurde ausgelassen. عده ist das Mubtada, und das Khabar (die Verpflichtung) ist impliziert."
+        "explanation": "Es liegt eine Ellipse des Khabar-Prädikats vor. Vollständig: فعليه عده من ايام اخر — dann obliegt ihm eine Anzahl (von Tagen) aus anderen Tagen. Das عليه (auf ihm / ihm obliegt) wurde ausgelassen. عده ist das Mubtada, und das Khabar (die Verpflichtung) ist impliziert."
       },
       "difficulty": 2
     },
@@ -480,7 +484,7 @@
       "correctAnswer": {
         "wordIndices": [],
         "word": "(ausgelassenes Fa'il: هو)",
-        "explanation": "Das Fa'il von تب (zugrunde ging) ist ein verstecktes Pronomen هو (er), das sich auf ابى لهب bezieht. Streng genommen ist dies kein Fall von Ellipse, sondern ein im Verb eingebettetes Pronomen (ضمير مستتر). Die Wiederholung des Verbs (تبت ... وتب) verstaerkt die Aussage."
+        "explanation": "Das Fa'il von تب (zugrunde ging) ist ein verstecktes Pronomen هو (er), das sich auf ابى لهب bezieht. Streng genommen ist dies kein Fall von Ellipse, sondern ein im Verb eingebettetes Pronomen (ضمير مستتر). Die Wiederholung des Verbs (تبت ... وتب) verstärkt die Aussage."
       },
       "difficulty": 1
     },
@@ -493,7 +497,7 @@
       "correctAnswer": {
         "wordIndices": [],
         "word": "(ausgelassenes Khabar von لات: حينُ مناص ist Ism, Khabar ist ausgelassen)",
-        "explanation": "لات arbeitet wie ليس (es ist nicht). حين مناص (Zeit der Flucht) ist der Ism von لات. Das Khabar (z.B. لهم — fuer sie) ist ausgelassen. Vollstaendig: ولات حينُ مناصٍ لهم — und es war nicht die Zeit der Flucht fuer sie. Die Ellipse verschaerft die Endgueltigkeit."
+        "explanation": "لات arbeitet wie ليس (es ist nicht). حين مناص (Zeit der Flucht) ist der Ism von لات. Das Khabar (z.B. لهم — für sie) ist ausgelassen. Vollständig: ولات حينُ مناصٍ لهم — und es war nicht die Zeit der Flucht für sie. Die Ellipse verschärft die Endgueltigkeit."
       },
       "difficulty": 3
     },
@@ -504,14 +508,14 @@
       "verse": { "surah": 2, "ayah": 62, "text": "ان الذين امنوا والذين هادوا والنصرى والصبين من امن بالله واليوم الاخر وعمل صلحا فلهم اجرهم عند ربهم" },
       "question": "Zwischen dem Bedingungsteil من امن und der Antwort فلهم — liegt eine Ellipse vor?",
       "options": [
-        "Nein, der Satz ist vollstaendig",
+        "Nein, der Satz ist vollständig",
         "Ja, das Khabar von ان (den Anfang betreffend) ist ausgelassen — der من-Satz IST das Khabar",
         "Ja, das Verb der Bedingung fehlt",
         "Ja, das Mubtada fehlt"
       ],
       "correctAnswer": {
         "answer": 1,
-        "explanation": "Der من-Satz (من امن بالله ... فلهم اجرهم) fungiert als Khabar von ان. Das Khabar zu ان الذين امنوا والذين هادوا ist der gesamte Bedingungssatz: Wer von ihnen glaubt und Gutes tut — denen gebuehrt ihr Lohn. Die scheinbare Ellipse loest sich auf, wenn man den Bedingungssatz als Khabar erkennt."
+        "explanation": "Der من-Satz (من امن بالله ... فلهم اجرهم) fungiert als Khabar von ان. Das Khabar zu ان الذين امنوا والذين هادوا ist der gesamte Bedingungssatz: Wer von ihnen glaubt und Gutes tut — denen gebuehrt ihr Lohn. Die scheinbare Ellipse löst sich auf, wenn man den Bedingungssatz als Khabar erkennt."
       },
       "difficulty": 3
     },
@@ -524,7 +528,7 @@
       "correctAnswer": {
         "wordIndices": [],
         "word": "(ausgelassenes Maf'ul bihi: ك — dich)",
-        "explanation": "Das Maf'ul bihi von قلى (hasste/verabscheute) wurde ausgelassen. Vollstaendig: وما قلاك (und Er hat dich nicht verabscheut). Im ersten Teil steht ودعك explizit mit dem Suffix ك, im parallelen zweiten Teil wird es aus Gruenden des Satzrhythmus ausgelassen. Der Hoerer ergaenzt es automatisch."
+        "explanation": "Das Maf'ul bihi von قلى (hasste/verabscheute) wurde ausgelassen. Vollständig: وما قلاك (und Er hat dich nicht verabscheut). Im ersten Teil steht ودعك explizit mit dem Suffix ك, im parallelen zweiten Teil wird es aus Gründen des Satzrhythmus ausgelassen. Der Hörer ergänzt es automatisch."
       },
       "difficulty": 2
     },
@@ -550,7 +554,7 @@
       "correctAnswer": {
         "wordIndices": [],
         "word": "(ausgelassenes zweites Maf'ul bihi — WAS Er geben soll)",
-        "explanation": "Das Verb اتنا (gib uns) verlangt ein zweites Objekt: Was soll gegeben werden? Dieses ist bewusst ausgelassen — sie sagen nur 'gib uns im Diesseits', ohne zu spezifizieren was. Im Gegensatz zu 2:201, wo ausdruecklich حسنه (Gutes) genannt wird. Die Ellipse zeichnet die Unbestimmtheit und rein diesseitige Orientierung dieser Bitte."
+        "explanation": "Das Verb اتنا (gib uns) verlangt ein zweites Objekt: Was soll gegeben werden? Dieses ist ausgelassen — sie sagen nur 'gib uns im Diesseits', ohne zu spezifizieren was. Im Gegensatz zu 2:201, wo ausdrücklich حسنه (Gutes) genannt wird. Grammatisch liegt eine Ellipse des zweiten Maf'ul bihi vor."
       },
       "difficulty": 3
     },
@@ -563,7 +567,7 @@
       "correctAnswer": {
         "wordIndices": [3, 4],
         "word": "الارض (1. Objekt) / فرشا (2. Objekt)",
-        "explanation": "جعل (machen zu) nimmt zwei Maf'ul bihi: (1) الارض — die Erde (WAS wurde gemacht?) und (2) فرشا — ein Lager (WOZU wurde es gemacht?). Die Konstruktion drueckt Transformation aus: Er machte die Erde zu einem Lager. Ebenso: السما (1. Objekt) — بنا (2. Objekt): den Himmel zu einem Bau."
+        "explanation": "جعل (machen zu) nimmt zwei Maf'ul bihi: (1) الارض — die Erde (WAS wurde gemacht?) und (2) فرشا — ein Lager (WOZU wurde es gemacht?). Die Konstruktion drückt Transformation aus: Er machte die Erde zu einem Lager. Ebenso: السما (1. Objekt) — بنا (2. Objekt): den Himmel zu einem Bau."
       },
       "difficulty": 1
     },
@@ -576,7 +580,7 @@
       "correctAnswer": {
         "wordIndices": [1],
         "word": "القران",
-        "explanation": "Hier erscheint nur ein Maf'ul bihi explizit: القران (den Quran) — das WAS-Objekt. Das WEN-Objekt fehlt hier und erscheint erst in 55:3-4: خلق الانسن علمه البين — Er erschuf den Menschen, Er lehrte ihn den Ausdruck. Das fehlende Objekt wird ueber den Kontext der folgenden Verse ergaenzt."
+        "explanation": "Hier erscheint nur ein Maf'ul bihi explizit: القران (den Quran) — das WAS-Objekt. Das WEN-Objekt fehlt hier und erscheint erst in 55:3-4: خلق الانسن علمه البين — Er erschuf den Menschen, Er lehrte ihn den Ausdruck. Das fehlende Objekt wird über den Kontext der folgenden Verse ergänzt."
       },
       "difficulty": 1
     },
@@ -589,7 +593,7 @@
       "correctAnswer": {
         "wordIndices": [0, 1],
         "word": "ه (1. Objekt — ihn) / البين (2. Objekt — den Ausdruck)",
-        "explanation": "علم hat hier zwei Maf'ul bihi: (1) Das Suffix ه (ihn — den Menschen, erwaehnt in 55:3) ist das WEN-Objekt. (2) البين (den Ausdruck / die klare Rede) ist das WAS-Objekt. Er lehrte IHN DEN AUSDRUCK. Die Doppel-Objekt-Konstruktion zeigt den Transfer von Wissen."
+        "explanation": "علم hat hier zwei Maf'ul bihi: (1) Das Suffix ه (ihn — den Menschen, erwähnt in 55:3) ist das WEN-Objekt. (2) البين (den Ausdruck / die klare Rede) ist das WAS-Objekt. Er lehrte IHN DEN AUSDRUCK. Die Doppel-Objekt-Konstruktion zeigt den Transfer von Wissen."
       },
       "difficulty": 1
     },
@@ -602,7 +606,7 @@
       "correctAnswer": {
         "wordIndices": [0, 2],
         "word": "ه (1. Objekt — ihm) / ما (2. Objekt, erweitert durch من الكنوز)",
-        "explanation": "اتى (im Sinne von geben) nimmt zwei Objekte: (1) Das Suffix ه (ihm — Qarun) als WEM-Objekt. (2) من الكنوز ما (von den Schaetzen das, was...) als WAS-Objekt. Wir gaben IHM von den Schaetzen DAS, dessen Schluessel eine Gruppe starker Maenner belasten wuerden."
+        "explanation": "اتى (im Sinne von geben) nimmt zwei Objekte: (1) Das Suffix ه (ihm — Qarun) als WEM-Objekt. (2) من الكنوز ما (von den Schaetzen das, was...) als WAS-Objekt. Wir gaben IHM von den Schaetzen DAS, dessen Schlüssel eine Gruppe starker Männer belasten würden."
       },
       "difficulty": 2
     },
@@ -620,7 +624,7 @@
       ],
       "correctAnswer": {
         "answer": 0,
-        "explanation": "الله ist das Fa'il (Subjekt), كم ist das 1. Maf'ul bihi (euch — WEN lehrt Er?). Das 2. Maf'ul bihi (WAS lehrt Er?) ist hier ausgelassen — es wird aus dem Kontext erschlossen: was ihr braucht / das Richtige. Die Auslassung universalisiert die Lehre: Gott lehrt euch (alles Noetige)."
+        "explanation": "الله ist das Fa'il (Subjekt), كم ist das 1. Maf'ul bihi (euch — WEN lehrt Er?). Das 2. Maf'ul bihi (WAS lehrt Er?) ist hier ausgelassen — es wird aus dem Kontext erschlossen: was ihr braucht / das Richtige. Die Auslassung universalisiert die Lehre: Gott lehrt euch (alles Nötige)."
       },
       "difficulty": 2
     },
@@ -646,7 +650,7 @@
       "correctAnswer": {
         "wordIndices": [0],
         "word": "لوطا",
-        "explanation": "لوطا steht im Akkusativ als vorangestelltes Maf'ul bihi (Taqdim) oder als Maf'ul bihi eines ausgelassenen Verbs (z.B. اذكر لوطا — erwaehne Lot). Das ه in ءاتينه ist dann ein resumptives Pronomen, das auf لوطا zurueckverweist. Die Doppel-Objekt-Struktur: ءاتينه (WEM: ihm=Lot) حكما وعلما (WAS: Urteil und Wissen)."
+        "explanation": "لوطا steht im Akkusativ als vorangestelltes Maf'ul bihi (Taqdim) oder als Maf'ul bihi eines ausgelassenen Verbs (z.B. اذكر لوطا — erwähne Lot). Das ه in ءاتينه ist dann ein resumptives Pronomen, das auf لوطا zurückverweist. Die Doppel-Objekt-Struktur: ءاتينه (WEM: ihm=Lot) حكما وعلما (WAS: Urteil und Wissen)."
       },
       "difficulty": 3
     },
@@ -659,7 +663,7 @@
       "correctAnswer": {
         "wordIndices": [3],
         "word": "ولى",
-        "explanation": "Hier liegt KEIN doppeltes Objekt vor. يكن ist eine Kopula (كان). ولى (Schutzherr) ist der Ism von يكن (Nominativ), und له (fuer Ihn) ist das Khabar. Bedeutung: Es gibt fuer Ihn keinen Schutzherrn aus Schwaechung. Die Struktur ist كان + Ism + Khabar, nicht Verb + zwei Objekte."
+        "explanation": "Hier liegt KEIN doppeltes Objekt vor. يكن ist eine Kopula (كان). ولى (Schutzherr) ist der Ism von يكن (Nominativ), und له (für Ihn) ist das Khabar. Bedeutung: Es gibt für Ihn keinen Schutzherrn aus Schwaechung. Die Struktur ist كان + Ism + Khabar, nicht Verb + zwei Objekte."
       },
       "difficulty": 2
     },
@@ -668,11 +672,11 @@
       "type": "identify",
       "category": "clause_boundary",
       "verse": { "surah": 2, "ayah": 2, "text": "ذلك الكتاب لا ريب فيه هدى للمتقين" },
-      "question": "Bestimme die Satzgrenzen. Wie viele Saetze/Teilsaetze enthaelt dieser Vers?",
+      "question": "Bestimme die Satzgrenzen. Wie viele Sätze/Teilsaetze enthält dieser Vers?",
       "correctAnswer": {
         "wordIndices": [0, 1, 2, 3, 4, 5, 6],
         "word": "Drei Einheiten: ذلك الكتب | لا ريب فيه | هدى للمتقين",
-        "explanation": "Der Vers enthaelt drei syntaktische Einheiten: (1) ذلك الكتب — Mubtada (+ Sifa/Badal). (2) لا ريب فيه — eingeschobener Satz (لا + Ism + Khabar): kein Zweifel darin. (3) هدى للمتقين — Khabar zum Mubtada ذلك: eine Fuehrung fuer die Achtsamen. Die Satzgrenzen verlaufen zwischen den drei Einheiten."
+        "explanation": "Der Vers enthält drei syntaktische Einheiten: (1) ذلك الكتب — Mubtada (+ Sifa/Badal). (2) لا ريب فيه — eingeschobener Satz (لا + Ism + Khabar): kein Zweifel darin. (3) هدى للمتقين — Khabar zum Mubtada ذلك: eine Führung für die Achtsamen. Die Satzgrenzen verlaufen zwischen den drei Einheiten."
       },
       "difficulty": 2
     },
@@ -698,7 +702,7 @@
       "correctAnswer": {
         "wordIndices": [2],
         "word": "Grenze vor وهو",
-        "explanation": "Die Hauptsatzgrenze liegt vor وهو. (1) تبرك الذى بيده الملك — Verbalsatz: Gesegnet ist der, in dessen Hand die Herrschaft liegt. Darin ist بيده الملك ein Relativsatz (Nominalsatz: الملك Mubtada, بيده Khabar). (2) وهو على كل شى قدير — neuer Nominalsatz, mit و eingeleitet: Und Er ist ueber alles maechtig."
+        "explanation": "Die Hauptsatzgrenze liegt vor وهو. (1) تبرك الذى بيده الملك — Verbalsatz: Gesegnet ist der, in dessen Hand die Herrschaft liegt. Darin ist بيده الملك ein Relativsatz (Nominalsatz: الملك Mubtada, بيده Khabar). (2) وهو على كل شى قدير — neuer Nominalsatz, mit و eingeleitet: Und Er ist über alles mächtig."
       },
       "difficulty": 1
     },
@@ -720,11 +724,11 @@
       "type": "identify",
       "category": "clause_boundary",
       "verse": { "surah": 13, "ayah": 16, "text": "قل الله خلق كل شى وهو الوحد القهر" },
-      "question": "Wie viele Teilsaetze enthaelt dieser Vers nach قل?",
+      "question": "Wie viele Teilsaetze enthält dieser Vers nach قل?",
       "correctAnswer": {
         "wordIndices": [1, 2, 3, 4, 5, 6, 7],
         "word": "Zwei Teilsaetze: الله خلق كل شى | وهو الوحد القهر",
-        "explanation": "Nach dem Imperativ قل (sag) folgen zwei Saetze: (1) الله خلق كل شى — Nominalsatz mit Verbalsatz als Khabar: Gott erschuf jedes Ding. (2) وهو الوحد القهر — koordinierter Nominalsatz: Und Er ist der Eine, der Bezwingende. Die Grenze liegt vor وهو."
+        "explanation": "Nach dem Imperativ قل (sag) folgen zwei Sätze: (1) الله خلق كل شى — Nominalsatz mit Verbalsatz als Khabar: Gott erschuf jedes Ding. (2) وهو الوحد القهر — koordinierter Nominalsatz: Und Er ist der Eine, der Bezwingende. Die Grenze liegt vor وهو."
       },
       "difficulty": 2
     },
@@ -733,11 +737,11 @@
       "type": "identify",
       "category": "clause_boundary",
       "verse": { "surah": 2, "ayah": 3, "text": "الذين يومنون بالغيب ويقيمون الصلوه ومما رزقنهم ينفقون" },
-      "question": "Identifiziere die drei koordinierten Verbalsaetze innerhalb des Relativsatzes.",
+      "question": "Identifiziere die drei koordinierten Verbalsätze innerhalb des Relativsatzes.",
       "correctAnswer": {
         "wordIndices": [0, 1, 2, 3, 4, 5, 6, 7],
         "word": "يومنون بالغيب | يقيمون الصلوه | مما رزقنهم ينفقون",
-        "explanation": "Der Relativsatz (eingeleitet durch الذين) enthaelt drei koordinierte Verbalsaetze: (1) يومنون بالغيب — sie glauben an das Verborgene. (2) ويقيمون الصلوه — und sie verrichten das Gebet. (3) ومما رزقنهم ينفقون — und von dem, was Wir ihnen gaben, geben sie aus. Alle drei beschreiben Eigenschaften derselben Gruppe."
+        "explanation": "Der Relativsatz (eingeleitet durch الذين) enthält drei koordinierte Verbalsätze: (1) يومنون بالغيب — sie glauben an das Verborgene. (2) ويقيمون الصلوه — und sie verrichten das Gebet. (3) ومما رزقنهم ينفقون — und von dem, was Wir ihnen gaben, geben sie aus. Alle drei beschreiben Eigenschaften derselben Gruppe."
       },
       "difficulty": 2
     },
@@ -750,7 +754,7 @@
       "correctAnswer": {
         "wordIndices": [4, 5, 6, 7, 8],
         "word": "Relativsatz: الذى خلقكم والذين من قبلكم | Neuer Satz: لعلكم تتقون",
-        "explanation": "Der Relativsatz beginnt mit الذى und umfasst خلقكم والذين من قبلكم — der euch erschuf und (die), die vor euch (waren). لعلكم تتقون ist ein neuer Teilsatz mit لعل (vielleicht/damit) — er drueckt Zweck oder Hoffnung aus und gehoert nicht mehr zum Relativsatz, sondern zum Hauptsatz اعبدوا."
+        "explanation": "Der Relativsatz beginnt mit الذى und umfasst خلقكم والذين من قبلكم — der euch erschuf und (die), die vor euch (waren). لعلكم تتقون ist ein neuer Teilsatz mit لعل (vielleicht/damit) — er drückt Zweck oder Hoffnung aus und gehört nicht mehr zum Relativsatz, sondern zum Hauptsatz اعبدوا."
       },
       "difficulty": 2
     },
@@ -759,11 +763,11 @@
       "type": "identify",
       "category": "clause_boundary",
       "verse": { "surah": 23, "ayah": 1, "text": "قد افلح المومنون" },
-      "question": "Ist dies ein vollstaendiger Satz? Bestimme alle Elemente.",
+      "question": "Ist dies ein vollständiger Satz? Bestimme alle Elemente.",
       "correctAnswer": {
         "wordIndices": [0, 1, 2],
         "word": "قد افلح المومنون",
-        "explanation": "Ja, ein vollstaendiger Verbalsatz: قد (Partikel der Bekraeftigung), افلح (Verb — erfolgreich sein, Perfekt), المومنون (Fa'il — die Glaubenden, Nominativ mit -ون als Zeichen des maskulinen gesunden Plurals). Keine Satzgrenze innerhalb — ein einziger, kompakter Satz: Wahrlich erfolgreich sind die Glaubenden."
+        "explanation": "Ja, ein vollständiger Verbalsatz: قد (Partikel der Bekräftigung), افلح (Verb — erfolgreich sein, Perfekt), المومنون (Fa'il — die Glaubenden, Nominativ mit -ون als Zeichen des maskulinen gesunden Plurals). Keine Satzgrenze innerhalb — ein einziger, kompakter Satz: Wahrlich erfolgreich sind die Glaubenden."
       },
       "difficulty": 1
     },
@@ -776,7 +780,7 @@
       "correctAnswer": {
         "wordIndices": [0, 1, 2],
         "word": "اما من استغنى — فانت له تصدى (80:6)",
-        "explanation": "اما leitet eine Topikalisierung ein: Was den betrifft, der sich fuer unabhaengig haelt... Die فا der Antwort steht in 80:6: فانت له تصدى — so wendest du dich ihm zu. Die اما...ف-Konstruktion teilt den Diskurs in kontrastive Themen: wer sich reich fuehlt (80:5-6) vs. wer sich bemuehend kommt (80:8-10)."
+        "explanation": "اما leitet eine Topikalisierung ein: Was den betrifft, der sich für unabhängig hält... Die فا der Antwort steht in 80:6: فانت له تصدى — so wendest du dich ihm zu. Die اما...ف-Konstruktion teilt den Diskurs in kontrastive Themen: wer sich reich fuehlt (80:5-6) vs. wer sich bemühend kommt (80:8-10)."
       },
       "difficulty": 2
     },
@@ -789,7 +793,7 @@
       "correctAnswer": {
         "wordIndices": [0, 1, 2, 3],
         "word": "واما من جاءك يسعى — فانت عنه تلهى (80:10)",
-        "explanation": "اما leitet den zweiten kontrastiven Teil ein: Was den betrifft, der zu dir kam, sich bemuehend... Die فا der Antwort steht in 80:10: فانت عنه تلهى — so laesst du dich von ihm ablenken. Die Parallelstruktur اما...ف / واما...ف kontrastiert zwei Verhaltensweisen."
+        "explanation": "اما leitet den zweiten kontrastiven Teil ein: Was den betrifft, der zu dir kam, sich bemühend... Die فا der Antwort steht in 80:10: فانت عنه تلهى — so lässt du dich von ihm ablenken. Die Parallelstruktur اما...ف / واما...ف kontrastiert zwei Verhaltensweisen."
       },
       "difficulty": 2
     },
@@ -815,7 +819,7 @@
       "correctAnswer": {
         "wordIndices": [0, 1, 2, 3],
         "word": "واما من بخل واستغنى — وكذب بالحسنى فسنيسره للعسرى (92:9-10)",
-        "explanation": "واما من بخل واستغنى (Was den betrifft, der geizte und sich unabhaengig fuhlte) ist der kontrastive Teil. Die فا-Antwort steht in 92:10: فسنيسره للعسرى (so werden Wir ihm den Weg zum Schweren ebnen). Die perfekte Parallelstruktur: geben/achtsam sein → leichter Weg vs. geizen/sich unabhaengig fuehlen → schwerer Weg."
+        "explanation": "واما من بخل واستغنى (Was den betrifft, der geizte und sich unabhängig fuhlte) ist der kontrastive Teil. Die فا-Antwort steht in 92:10: فسنيسره للعسرى (so werden Wir ihm den Weg zum Schweren ebnen). Die perfekte Parallelstruktur: geben/achtsam sein → leichter Weg vs. geizen/sich unabhängig fuehlen → schwerer Weg."
       },
       "difficulty": 2
     },
@@ -828,7 +832,7 @@
       "correctAnswer": {
         "wordIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8],
         "word": "فاما من اوتى كتبه بيمينه — فيقول هاوم اقروا كتبيه",
-        "explanation": "اما topikalisiert: Was den betrifft, dem sein Buch in die Rechte gegeben wird. فيقول ist die فا-Antwort: so sagt er: Nehmt, lest mein Buch! Die gesamte Konstruktion faellt innerhalb eines Verses. Der Kontrast folgt in 69:25: واما من اوتى كتبه بشماله — wem sein Buch in die Linke gegeben wird."
+        "explanation": "اما topikalisiert: Was den betrifft, dem sein Buch in die Rechte gegeben wird. فيقول ist die فا-Antwort: so sagt er: Nehmt, lest mein Buch! Die gesamte Konstruktion fällt innerhalb eines Verses. Der Kontrast folgt in 69:25: واما من اوتى كتبه بشماله — wem sein Buch in die Linke gegeben wird."
       },
       "difficulty": 2
     },
@@ -846,7 +850,7 @@
       ],
       "correctAnswer": {
         "answer": 1,
-        "explanation": "اليتيم ist das Maf'ul bihi (Objekt) von تقهر, das durch die اما-Konstruktion vorangestellt wurde. Normalstellung waere: لا تقهر اليتيم. Durch اما...ف wird das Objekt topikalisiert: Was die Waise betrifft — so unterdruecke sie nicht! Das Fa'il ist das versteckte Pronomen 'du' in تقهر."
+        "explanation": "اليتيم ist das Maf'ul bihi (Objekt) von تقهر, das durch die اما-Konstruktion vorangestellt wurde. Normalstellung wäre: لا تقهر اليتيم. Durch اما...ف wird das Objekt topikalisiert: Was die Waise betrifft — so unterdruecke sie nicht! Das Fa'il ist das versteckte Pronomen 'du' in تقهر."
       },
       "difficulty": 2
     },
@@ -859,7 +863,7 @@
       "correctAnswer": {
         "wordIndices": [1],
         "word": "السائل",
-        "explanation": "السائل (den Fragenden/Bittenden) ist das durch اما topikalisierte Maf'ul bihi von تنهر (anherrschen). Normalstellung waere: لا تنهر السائل. Die Parallelstruktur: 93:9 فاما اليتيم فلا تقهر — 93:10 واما السائل فلا تنهر — 93:11 واما بنعمه ربك فحدث. Drei topikalisierte Objekte mit drei verschiedenen Geboten."
+        "explanation": "السائل (den Fragenden/Bittenden) ist das durch اما topikalisierte Maf'ul bihi von تنهر (anherrschen). Normalstellung wäre: لا تنهر السائل. Die Parallelstruktur: 93:9 فاما اليتيم فلا تقهر — 93:10 واما السائل فلا تنهر — 93:11 واما بنعمه ربك فحدث. Drei topikalisierte Objekte mit drei verschiedenen Geboten."
       },
       "difficulty": 2
     },
@@ -872,7 +876,7 @@
       "correctAnswer": {
         "wordIndices": [5, 6],
         "word": "حذر الموت",
-        "explanation": "حذر الموت (aus Furcht vor dem Tod) ist der Maful li-Ajlihi — er drueckt den Grund der Handlung aus. WARUM stecken sie ihre Finger in die Ohren? Aus Furcht vor dem Tod. حذر steht im Akkusativ als Angabe des Beweggrundes (لاجله). Die Idafa حذر الموت verbindet Furcht (Mudaf) mit Tod (Mudaf ilayhi)."
+        "explanation": "حذر الموت (aus Furcht vor dem Tod) ist der Maful li-Ajlihi — er drückt den Grund der Handlung aus. WARUM stecken sie ihre Finger in die Ohren? Aus Furcht vor dem Tod. حذر steht im Akkusativ als Angabe des Beweggrundes (لاجله). Die Idafa حذر الموت verbindet Furcht (Mudaf) mit Tod (Mudaf ilayhi)."
       },
       "difficulty": 2
     },
@@ -894,11 +898,11 @@
       "type": "find_element",
       "category": "maful_li_ajlihi",
       "verse": { "surah": 17, "ayah": 31, "text": "ولا تقتلوا اولدكم خشيه املق نحن نرزقهم واياكم" },
-      "question": "Identifiziere den Maful li-Ajlihi und erklaere seine Funktion.",
+      "question": "Identifiziere den Maful li-Ajlihi und erkläre seine Funktion.",
       "correctAnswer": {
         "wordIndices": [3, 4],
         "word": "خشيه املق",
-        "explanation": "خشيه املق (aus Furcht vor Armut) ist der Maful li-Ajlihi. Er gibt den Grund des Verbots an: Toetet nicht eure Kinder — WARUM wuerdet ihr das tun? — aus Furcht vor Armut. خشيه steht im Akkusativ als Angabe des (abgelehnten) Beweggrundes. Vergleiche 6:151, wo die Formulierung من املق lautet — dort ist die Armut bereits vorhanden."
+        "explanation": "خشيه املق (aus Furcht vor Armut) ist der Maful li-Ajlihi. Er gibt den Grund des Verbots an: Toetet nicht eure Kinder — WARUM würdet ihr das tun? — aus Furcht vor Armut. خشيه steht im Akkusativ als Angabe des (abgelehnten) Beweggrundes. Vergleiche 6:151, wo die Formulierung من املق lautet — dort ist die Armut bereits vorhanden."
       },
       "difficulty": 2
     },
@@ -911,7 +915,7 @@
       "correctAnswer": {
         "wordIndices": [6, 8],
         "word": "لتسكنوا / لتبتغوا",
-        "explanation": "لتسكنوا (damit ihr ruht) und لتبتغوا (damit ihr sucht) sind KEINE Maful li-Ajlihi im engeren Sinne, sondern Zwecksaetze mit لام التعليل (Lam der Begruendung) + Konjunktiv. Der Unterschied: Maful li-Ajlihi ist ein einzelnes Nomen im Akkusativ (wie حذر, خشيه), waehrend لتسكنوا ein Verb-Teilsatz ist. Funktional druecken beide den Zweck aus."
+        "explanation": "لتسكنوا (damit ihr ruht) und لتبتغوا (damit ihr sucht) sind KEINE Maful li-Ajlihi im engeren Sinne, sondern Zwecksaetze mit لام التعليل (Lam der Begründung) + Konjunktiv. Der Unterschied: Maful li-Ajlihi ist ein einzelnes Nomen im Akkusativ (wie حذر, خشيه), während لتسكنوا ein Verb-Teilsatz ist. Funktional drücken beide den Zweck aus."
       },
       "difficulty": 3
     },
@@ -920,11 +924,11 @@
       "type": "find_element",
       "category": "maful_li_ajlihi",
       "verse": { "surah": 2, "ayah": 150, "text": "لئلا يكون للناس عليكم حجه" },
-      "question": "Was drueckt dieser Teilsatz aus? Ist er ein Maful li-Ajlihi?",
+      "question": "Was drückt dieser Teilsatz aus? Ist er ein Maful li-Ajlihi?",
       "correctAnswer": {
         "wordIndices": [0, 1, 2, 3, 4],
         "word": "لئلا يكون للناس عليكم حجه",
-        "explanation": "Dies ist ein Finalsatz (Zwecksatz) mit لام التعليل + ان + لا: damit es fuer die Menschen gegen euch kein Argument gibt. Es ist kein Maful li-Ajlihi im engeren Sinne (das waere ein einzelnes Nomen im Akkusativ), sondern ein vollstaendiger Nebensatz, der den Zweck ausdrueckt. Die Funktion (Angabe des Grundes/Zwecks) ist aber verwandt."
+        "explanation": "Dies ist ein Finalsatz (Zwecksatz) mit لام التعليل + ان + لا: damit es für die Menschen gegen euch kein Argument gibt. Es ist kein Maful li-Ajlihi im engeren Sinne (das wäre ein einzelnes Nomen im Akkusativ), sondern ein vollständiger Nebensatz, der den Zweck ausdrückt. Die Funktion (Angabe des Grundes/Zwecks) ist aber verwandt."
       },
       "difficulty": 3
     },
@@ -937,7 +941,7 @@
       "correctAnswer": {
         "wordIndices": [],
         "word": "Kein Maful Ma'ahu",
-        "explanation": "In diesem Vers liegt kein Maful Ma'ahu vor. Der Maful Ma'ahu steht nach و بمعنى مع (waw der Begleitung) und drueckt aus, mit wem/was gleichzeitig etwas geschieht. Hier ist و in ويثبت ein normales Koordinations-و (und), kein Begleitungs-و. Alle Elemente sind Verben in der Bedingungskonstruktion."
+        "explanation": "In diesem Vers liegt kein Maful Ma'ahu vor. Der Maful Ma'ahu steht nach و بمعنى مع (waw der Begleitung) und drückt aus, mit wem/was gleichzeitig etwas geschieht. Hier ist و in ويثبت ein normales Koordinations-و (und), kein Begleitungs-و. Alle Elemente sind Verben in der Bedingungskonstruktion."
       },
       "difficulty": 2
     },
@@ -946,7 +950,7 @@
       "type": "multiple_choice",
       "category": "maful_ma'ahu",
       "verse": { "surah": 3, "ayah": 191, "text": "الذين يذكرون الله قيما وقعودا وعلى جنوبهم" },
-      "question": "Die Woerter قيما وقعودا وعلى جنوبهم — welche Funktion haben sie?",
+      "question": "Die Wörter قيما وقعودا وعلى جنوبهم — welche Funktion haben sie?",
       "options": [
         "Maful Ma'ahu (Akkusativ der Begleitung)",
         "Hal (Zustandsakkusativ) — beschreibt den Zustand beim Gedenken",
@@ -955,7 +959,7 @@
       ],
       "correctAnswer": {
         "answer": 1,
-        "explanation": "قيما وقعودا sind Hal (Zustandsakkusative), KEIN Maful Ma'ahu. Sie beschreiben den Zustand, in dem das Gedenken stattfindet: stehend und sitzend. وعلى جنوبهم (und auf ihren Seiten liegend) ist ein weiterer Hal als Praepositionalphrase. Der Maful Ma'ahu wuerde angeben, WAS sie begleitet, nicht den Zustand."
+        "explanation": "قيما وقعودا sind Hal (Zustandsakkusative), KEIN Maful Ma'ahu. Sie beschreiben den Zustand, in dem das Gedenken stattfindet: stehend und sitzend. وعلى جنوبهم (und auf ihren Seiten liegend) ist ein weiterer Hal als Präpositionalphrase. Der Maful Ma'ahu würde angeben, WAS sie begleitet, nicht den Zustand."
       },
       "difficulty": 2
     },
@@ -968,7 +972,7 @@
       "correctAnswer": {
         "wordIndices": [4],
         "word": "صفا",
-        "explanation": "صفا (in einer Reihe) ist ein Hal (Zustandsakkusativ), kein Maful Ma'ahu. Es beschreibt, WIE sie kommen sollen: in einer Reihe geordnet. Der Maful Ma'ahu wuerde eine Person oder Sache angeben, die mitkommt. Hier fehlt die و der Begleitung — ein weiteres Zeichen, dass es Hal ist."
+        "explanation": "صفا (in einer Reihe) ist ein Hal (Zustandsakkusativ), kein Maful Ma'ahu. Es beschreibt, WIE sie kommen sollen: in einer Reihe geordnet. Der Maful Ma'ahu würde eine Person oder Sache angeben, die mitkommt. Hier fehlt die و der Begleitung — ein weiteres Zeichen, dass es Hal ist."
       },
       "difficulty": 2
     },
@@ -977,16 +981,16 @@
       "type": "multiple_choice",
       "category": "maful_ma'ahu",
       "verse": { "surah": 8, "ayah": 48, "text": "انى جار لكم" },
-      "question": "In dem bekannten Beispielsatz سرت والنيل (Ich ging mit dem Nil entlang) waere والنيل ein Maful Ma'ahu. Kommt diese Konstruktion im Quran haeufig vor?",
+      "question": "In dem bekannten Beispielsatz سرت والنيل (Ich ging mit dem Nil entlang) wäre والنيل ein Maful Ma'ahu. Kommt diese Konstruktion im Quran häufig vor?",
       "options": [
-        "Ja, der Quran verwendet haeufig den Maful Ma'ahu",
+        "Ja, der Quran verwendet häufig den Maful Ma'ahu",
         "Nein, der Maful Ma'ahu ist im Quran sehr selten — die meisten و-Verbindungen sind Koordination, nicht Begleitung",
         "Der Maful Ma'ahu kommt nur in Gebeten vor",
         "Jedes و im Quran ist ein Maful Ma'ahu"
       ],
       "correctAnswer": {
         "answer": 1,
-        "explanation": "Der Maful Ma'ahu ist im Quran aeusserst selten. Die ueberwiegende Mehrzahl der و-Verbindungen im Quran sind koordinierend (عطف), nicht begleitend. Das haeufig zitierte Beispiel سرت والنيل stammt aus Lehrbuchsaetzen, nicht aus dem Quran. Im Quran werden Begleitumstaende meist durch مع oder Praepositionalphrasen ausdrueckt, selten durch die و المعيه + Akkusativ-Konstruktion."
+        "explanation": "Der Maful Ma'ahu ist im Quran äußerst selten. Die ueberwiegende Mehrzahl der و-Verbindungen im Quran sind koordinierend (عطف), nicht begleitend. Das häufig zitierte Beispiel سرت والنيل stammt aus Lehrbuchsaetzen, nicht aus dem Quran. Im Quran werden Begleitumstaende meist durch مع oder Präpositionalphrasen ausdrückt, selten durch die و المعيه + Akkusativ-Konstruktion."
       },
       "difficulty": 2
     },
@@ -999,7 +1003,7 @@
       "correctAnswer": {
         "wordIndices": [2],
         "word": "الى الله",
-        "explanation": "Nein, الى الله ist KEIN Maful Ma'ahu, sondern eine Praepositionalphrase mit الى. Die Bedeutung ist: Wer sind meine Helfer zu Gott hin / auf dem Weg Gottes? Die Praeposition الى drueckt Richtung aus, nicht Begleitung. Ein Maful Ma'ahu wuerde mit واو المعيه konstruiert und stuende im Akkusativ."
+        "explanation": "Nein, الى الله ist KEIN Maful Ma'ahu, sondern eine Präpositionalphrase mit الى. Die Bedeutung ist: Wer sind meine Helfer zu Gott hin / auf dem Weg Gottes? Die Präposition الى drückt Richtung aus, nicht Begleitung. Ein Maful Ma'ahu würde mit واو المعيه konstruiert und stuende im Akkusativ."
       },
       "difficulty": 2
     },
@@ -1013,11 +1017,11 @@
         "Khabar Mufrad (einzelnes Wort)",
         "Khabar Jumla Fi'liyya (Verbalsatz als Khabar)",
         "Khabar Jumla Ismiyya (Nominalsatz als Khabar)",
-        "Khabar Shibh Jumla (Quasi-Satz: Praepositionalphrase)"
+        "Khabar Shibh Jumla (Quasi-Satz: Präpositionalphrase)"
       ],
       "correctAnswer": {
         "answer": 0,
-        "explanation": "الصمد ist ein Khabar Mufrad — ein einzelnes Wort als Praedikat. الله (Mubtada) + الصمد (Khabar): Gott ist der Bestaendige. Kein Verb, keine Praeposition, kein ganzer Satz — nur ein einzelnes Nomen im Nominativ als Praedikat."
+        "explanation": "الصمد ist ein Khabar Mufrad — ein einzelnes Wort als Prädikat. الله (Mubtada) + الصمد (Khabar): Gott ist der Beständige. Kein Verb, keine Präposition, kein ganzer Satz — nur ein einzelnes Nomen im Nominativ als Prädikat."
       },
       "difficulty": 1
     },
@@ -1031,11 +1035,11 @@
         "Khabar Mufrad (einzelnes Wort)",
         "Khabar Jumla Fi'liyya (Verbalsatz als Khabar)",
         "Khabar Jumla Ismiyya (Nominalsatz als Khabar)",
-        "Khabar Shibh Jumla (Quasi-Satz: Praepositionalphrase)"
+        "Khabar Shibh Jumla (Quasi-Satz: Präpositionalphrase)"
       ],
       "correctAnswer": {
         "answer": 3,
-        "explanation": "لله ist ein Khabar Shibh Jumla (شبه جمله) — ein Quasi-Satz bestehend aus einer Praepositionalphrase (Praeposition ل + Nomen الله). Das Lob gehoert Gott. Der Quasi-Satz ist weder ein einzelnes Wort noch ein vollstaendiger Satz, sondern eine Praepositionalphrase, die als Praedikat fungiert."
+        "explanation": "لله ist ein Khabar Shibh Jumla (شبه جمله) — ein Quasi-Satz bestehend aus einer Präpositionalphrase (Präposition ل + Nomen الله). Das Lob gehört Gott. Der Quasi-Satz ist weder ein einzelnes Wort noch ein vollständiger Satz, sondern eine Präpositionalphrase, die als Prädikat fungiert."
       },
       "difficulty": 1
     },
@@ -1053,7 +1057,7 @@
       ],
       "correctAnswer": {
         "answer": 1,
-        "explanation": "خلق كل شى ist ein Khabar Jumla Fi'liyya — ein vollstaendiger Verbalsatz als Khabar. الله ist das Mubtada, und der gesamte Verbalsatz خلق كل شى (Er erschuf jedes Ding) fungiert als Khabar. Das Fa'il ist ein verstecktes Pronomen (هو), das auf الله zurueckverweist."
+        "explanation": "خلق كل شى ist ein Khabar Jumla Fi'liyya — ein vollständiger Verbalsatz als Khabar. الله ist das Mubtada, und der gesamte Verbalsatz خلق كل شى (Er erschuf jedes Ding) fungiert als Khabar. Das Fa'il ist ein verstecktes Pronomen (هو), das auf الله zurückverweist."
       },
       "difficulty": 2
     },
@@ -1067,11 +1071,11 @@
         "Khabar Mufrad (einzelnes Wort)",
         "Khabar Jumla Fi'liyya (Verbalsatz als Khabar)",
         "Khabar Jumla Ismiyya (Nominalsatz als Khabar)",
-        "Khabar Shibh Jumla (Quasi-Satz: Praepositionalphrase بيده)"
+        "Khabar Shibh Jumla (Quasi-Satz: Präpositionalphrase بيده)"
       ],
       "correctAnswer": {
         "answer": 3,
-        "explanation": "بيده ist ein Khabar Shibh Jumla (Quasi-Satz) — eine Praepositionalphrase (ب + يد + ه) als Khabar. الملك ist das Mubtada: Die Herrschaft (ist) in Seiner Hand. Hier wurde das Khabar (بيده) dem Mubtada (الملك) vorangestellt — ein Fall von Taqdim innerhalb des Relativsatzes."
+        "explanation": "بيده ist ein Khabar Shibh Jumla (Quasi-Satz) — eine Präpositionalphrase (ب + يد + ه) als Khabar. الملك ist das Mubtada: Die Herrschaft (ist) in Seiner Hand. Hier wurde das Khabar (بيده) dem Mubtada (الملك) vorangestellt — ein Fall von Taqdim innerhalb des Relativsatzes."
       },
       "difficulty": 2
     },
@@ -1089,7 +1093,7 @@
       ],
       "correctAnswer": {
         "answer": 2,
-        "explanation": "لا اله الا هو ist ein Khabar Jumla Ismiyya — ein vollstaendiger Nominalsatz als Khabar. Der Nominalsatz besteht aus: لا (Negationspartikel fuer die Gattung) + اله (Ism von لا) + Khabar ausgelassen (موجود) + الا هو (Ausnahme). Der gesamte Satz 'es gibt keinen Gott ausser Ihm' ist Khabar zu الله."
+        "explanation": "لا اله الا هو ist ein Khabar Jumla Ismiyya — ein vollständiger Nominalsatz als Khabar. Der Nominalsatz besteht aus: لا (Negationspartikel für die Gattung) + اله (Ism von لا) + Khabar ausgelassen (موجود) + الا هو (Ausnahme). Der gesamte Satz 'es gibt keinen Gott ausser Ihm' ist Khabar zu الله."
       },
       "difficulty": 2
     },
@@ -1101,13 +1105,13 @@
       "question": "Welcher Khabar-Typ liegt bei بلغ للناس vor?",
       "options": [
         "Khabar Mufrad: بلغ allein ist das Khabar, للناس ist eine separate Angabe",
-        "Khabar Mufrad + Ergaenzung: بلغ ist das Khabar (einzelnes Wort), للناس ergaenzt es",
+        "Khabar Mufrad + Ergänzung: بلغ ist das Khabar (einzelnes Wort), للناس ergänzt es",
         "Khabar Shibh Jumla: للناس ist das eigentliche Khabar",
         "Khabar Jumla: der gesamte Ausdruck bildet das Khabar"
       ],
       "correctAnswer": {
         "answer": 1,
-        "explanation": "بلغ (eine Mitteilung/Verkuendung) ist das Khabar Mufrad zu هذا (Mubtada): Dies ist eine Mitteilung. للناس (fuer die Menschen) ist eine ergaenzende Praepositionalphrase, die das Khabar naeher bestimmt, aber nicht selbst das Khabar ist. Der Kern des Praedikats ist das einzelne Wort بلغ."
+        "explanation": "بلغ (eine Mitteilung/Verkündung) ist das Khabar Mufrad zu هذا (Mubtada): Dies ist eine Mitteilung. للناس (für die Menschen) ist eine ergänzende Präpositionalphrase, die das Khabar näher bestimmt, aber nicht selbst das Khabar ist. Der Kern des Prädikats ist das einzelne Wort بلغ."
       },
       "difficulty": 2
     },
@@ -1125,7 +1129,7 @@
       ],
       "correctAnswer": {
         "answer": 2,
-        "explanation": "نور السموت والارض ist ein Khabar, das formal eine Idafa-Verbindung ist, aber funktional als Khabar Mufrad gilt. Die Idafa (نور + السموت والارض) bildet eine semantische Einheit: Licht der Himmel und der Erde. Trotz mehrerer Woerter ist es EIN Praedikatsbegriff — im Gegensatz zu einem Khabar-Satz, der Subjekt und Praedikat enthaelt."
+        "explanation": "نور السموت والارض ist ein Khabar, das formal eine Idafa-Verbindung ist, aber funktional als Khabar Mufrad gilt. Die Idafa (نور + السموت والارض) bildet eine semantische Einheit: Licht der Himmel und der Erde. Trotz mehrerer Wörter ist es EIN Prädikatsbegriff — im Gegensatz zu einem Khabar-Satz, der Subjekt und Prädikat enthält."
       },
       "difficulty": 2
     },
@@ -1138,8 +1142,8 @@
       "correctAnswer": {
         "analysis": [
           { "word": "الحمد", "role": "mubtada", "case": "nominative", "explanation": "Mubtada (Satzthema) — das bestimmte Nomen am Satzanfang, Nominativ." },
-          { "word": "لله", "role": "khabar (shibh jumla)", "case": "genitive", "explanation": "Khabar als Praepositionalphrase (شبه جمله). ل ist die Praeposition (Zugehoerigkeit), الله steht im Genitiv nach ل." },
-          { "word": "رب", "role": "badal / sifa", "case": "genitive", "explanation": "Badal (vollstaendige Apposition) zu الله, folgt im Genitiv. Gleichzeitig Mudaf in der Idafa رب العالمين." },
+          { "word": "لله", "role": "khabar (shibh jumla)", "case": "genitive", "explanation": "Khabar als Präpositionalphrase (شبه جمله). ل ist die Präposition (Zugehörigkeit), الله steht im Genitiv nach ل." },
+          { "word": "رب", "role": "badal / sifa", "case": "genitive", "explanation": "Badal (vollständige Apposition) zu الله, folgt im Genitiv. Gleichzeitig Mudaf in der Idafa رب العالمين." },
           { "word": "العالمين", "role": "mudaf ilayhi", "case": "genitive", "explanation": "Mudaf ilayhi in der Idafa رب العالمين, Genitiv. Maskuliner gesunder Plural mit -ين als Kasuszeichen." }
         ]
       },
@@ -1153,9 +1157,9 @@
       "question": "Analysiere die syntaktische Funktion jedes Wortes.",
       "correctAnswer": {
         "analysis": [
-          { "word": "اياك", "role": "maf'ul bihi muqaddam", "case": "accusative", "explanation": "Vorangestelltes Maf'ul bihi (direktes Objekt) von نعبد. Akkusativ. Die Voranstellung erzeugt Einschraenkung (Hasr)." },
+          { "word": "اياك", "role": "maf'ul bihi muqaddam", "case": "accusative", "explanation": "Vorangestelltes Maf'ul bihi (direktes Objekt) von نعبد. Akkusativ. Die Voranstellung erzeugt Einschränkung (Hasr)." },
           { "word": "نعبد", "role": "fi'l mudari' + fa'il", "case": "-", "explanation": "Verb im Imperfekt, 1. Person Plural. Das Fa'il ist das eingebettete Pronomen نحن (wir)." },
-          { "word": "واياك", "role": "maf'ul bihi muqaddam", "case": "accusative", "explanation": "Koordiniert mit dem ersten اياك durch و. Zweites vorangestelltes Maf'ul bihi, diesmal fuer نستعين." },
+          { "word": "واياك", "role": "maf'ul bihi muqaddam", "case": "accusative", "explanation": "Koordiniert mit dem ersten اياك durch و. Zweites vorangestelltes Maf'ul bihi, diesmal für نستعين." },
           { "word": "نستعين", "role": "fi'l mudari' + fa'il", "case": "-", "explanation": "Verb im Imperfekt, 1. Person Plural. Das Fa'il ist das eingebettete Pronomen نحن. Bedeutung: wir bitten um Hilfe." }
         ]
       },
@@ -1170,9 +1174,9 @@
       "correctAnswer": {
         "analysis": [
           { "word": "قل", "role": "fi'l amr", "case": "-", "explanation": "Imperativ (Befehlsform), 2. Person maskulin Singular: Sag! Das Fa'il ist das versteckte Pronomen انت (du)." },
-          { "word": "هو", "role": "mubtada", "case": "nominative", "explanation": "Mubtada (Satzthema). Kann als ضمير الشان (Pronomen der Sache) analysiert werden, das die folgende Aussage einleitet, oder als regulaeres Pronomen (Er)." },
-          { "word": "الله", "role": "khabar oder badal", "case": "nominative", "explanation": "Khabar (erstes Praedikat) zu هو, oder Badal/Apposition. Nominativ." },
-          { "word": "احد", "role": "khabar (zweites) oder khabar", "case": "nominative", "explanation": "Zweites Khabar zu هو, oder das primaere Khabar, wenn الله als Badal analysiert wird. Nominativ. Bedeutung: Einer." }
+          { "word": "هو", "role": "mubtada", "case": "nominative", "explanation": "Mubtada (Satzthema). Kann als ضمير الشان (Pronomen der Sache) analysiert werden, das die folgende Aussage einleitet, oder als reguläres Pronomen (Er)." },
+          { "word": "الله", "role": "khabar oder badal", "case": "nominative", "explanation": "Khabar (erstes Prädikat) zu هو, oder Badal/Apposition. Nominativ." },
+          { "word": "احد", "role": "khabar (zweites) oder khabar", "case": "nominative", "explanation": "Zweites Khabar zu هو, oder das primäre Khabar, wenn الله als Badal analysiert wird. Nominativ. Bedeutung: Einer." }
         ]
       },
       "difficulty": 2
@@ -1186,7 +1190,7 @@
       "correctAnswer": {
         "analysis": [
           { "word": "علم", "role": "fi'l madi", "case": "-", "explanation": "Verb im Perfekt, 3. Person maskulin Singular: Er lehrte. Das Fa'il ist das versteckte Pronomen هو, das sich auf الرحمن (55:1) bezieht." },
-          { "word": "القران", "role": "maf'ul bihi", "case": "accusative", "explanation": "Maf'ul bihi (direktes Objekt, WAS gelehrt wurde): den Quran. Akkusativ. Das zweite Objekt (WEN Er lehrte) ist hier nicht ausdruecklich genannt." }
+          { "word": "القران", "role": "maf'ul bihi", "case": "accusative", "explanation": "Maf'ul bihi (direktes Objekt, WAS gelehrt wurde): den Quran. Akkusativ. Das zweite Objekt (WEN Er lehrte) ist hier nicht ausdrücklich genannt." }
         ]
       },
       "difficulty": 1
@@ -1199,13 +1203,13 @@
       "question": "Analysiere die syntaktische Funktion jedes Wortes in diesem Versanfang.",
       "correctAnswer": {
         "analysis": [
-          { "word": "الله", "role": "mubtada", "case": "nominative", "explanation": "Mubtada (Satzthema), Nominativ. Alles Folgende sind Aussagen ueber dieses Thema." },
-          { "word": "لا", "role": "la li-nafy al-jins", "case": "-", "explanation": "Negationspartikel fuer die Gattungsnegation (لا النافيه للجنس): Es gibt absolut keinen..." },
+          { "word": "الله", "role": "mubtada", "case": "nominative", "explanation": "Mubtada (Satzthema), Nominativ. Alles Folgende sind Aussagen über dieses Thema." },
+          { "word": "لا", "role": "la li-nafy al-jins", "case": "-", "explanation": "Negationspartikel für die Gattungsnegation (لا النافيه للجنس): Es gibt absolut keinen..." },
           { "word": "اله", "role": "ism von la", "case": "accusative (mabni 'ala al-fath)", "explanation": "Ism von لا, aufgebaut auf Fatha (indeklinabel in dieser Position). Kein Gott." },
           { "word": "الا", "role": "adat istithna'", "case": "-", "explanation": "Ausnahmepartikel: ausser." },
           { "word": "هو", "role": "badal von mahal ism la", "case": "nominative", "explanation": "Badal (Apposition) vom Platz des Ism von لا (der im Nominativ analysiert wird nach der Ausnahme), oder Mubtada eines ausgelassenen Satzes. Bezieht sich auf الله." },
-          { "word": "الحى", "role": "khabar / sifa", "case": "nominative", "explanation": "Khabar (Praedikat) zu الله, oder Sifa. Nominativ. Bedeutung: der Lebende (الحيّ)." },
-          { "word": "القيوم", "role": "khabar thani / sifa", "case": "nominative", "explanation": "Zweites Khabar oder zweite Sifa, koordiniert mit الحى. Nominativ. Bedeutung: der Bestaendige." },
+          { "word": "الحى", "role": "khabar / sifa", "case": "nominative", "explanation": "Khabar (Prädikat) zu الله, oder Sifa. Nominativ. Bedeutung: der Lebende (الحيّ)." },
+          { "word": "القيوم", "role": "khabar thani / sifa", "case": "nominative", "explanation": "Zweites Khabar oder zweite Sifa, koordiniert mit الحى. Nominativ. Bedeutung: der Beständige." },
           { "word": "لا", "role": "la al-nafiya", "case": "-", "explanation": "Verneinungspartikel: nicht." },
           { "word": "تاخذه", "role": "fi'l mudari' + maf'ul bihi", "case": "-", "explanation": "Verb im Imperfekt: es ergreift ihn. Das Suffix ه (ihn) ist Maf'ul bihi und bezieht sich auf الله." },
           { "word": "سنه", "role": "fa'il", "case": "nominative", "explanation": "Fa'il (Subjekt) von تاخذ: Schlummer. Nominativ." },
@@ -1238,7 +1242,7 @@
       "question": "Analysiere die syntaktische Funktion jedes Wortes.",
       "correctAnswer": {
         "analysis": [
-          { "word": "اهدنا", "role": "fi'l amr (du'a) + maf'ul bihi", "case": "-", "explanation": "اهد ist ein Imperativ (Bittform/Dua): fuehre/leite. Das Fa'il ist das versteckte Pronomen انت (Du — Gott). نا ist das 1. Maf'ul bihi: uns (WEN leiten?)." },
+          { "word": "اهدنا", "role": "fi'l amr (du'a) + maf'ul bihi", "case": "-", "explanation": "اهد ist ein Imperativ (Bittform/Dua): führe/leite. Das Fa'il ist das versteckte Pronomen انت (Du — Gott). نا ist das 1. Maf'ul bihi: uns (WEN leiten?)." },
           { "word": "الصرط", "role": "maf'ul bihi thani", "case": "accusative", "explanation": "Zweites Maf'ul bihi: den Weg (WOHIN leiten?). Akkusativ. هدى kann mit zwei Objekten konstruiert werden: jemanden zu etwas leiten." },
           { "word": "المستقيم", "role": "sifa", "case": "accusative", "explanation": "Sifa (Attribut) zu الصرط: den geraden (Weg). Akkusativ, kongruent in Genus (mask.), Numerus (Sing.), Definitheit (bestimmt), Kasus (Akk.)." }
         ]
@@ -1261,7 +1265,7 @@
           { "word": "الذى", "role": "sifa (ism mawsul)", "case": "accusative", "explanation": "Relativpronomen, leitet einen Relativsatz als Sifa zu ربكم ein. Folgt im Kasus (Akkusativ)." },
           { "word": "خلقكم", "role": "fi'l + fa'il + maf'ul bihi (silat al-mawsul)", "case": "-", "explanation": "Silat al-Mawsul (Relativsatzinhalt): خلق = Verb (erschuf), Fa'il = verstecktes هو (Er), كم = Maf'ul bihi (euch)." },
           { "word": "والذين", "role": "maf'ul bihi (ma'tuf 'ala kum)", "case": "accusative", "explanation": "Koordiniert mit كم: und (erschuf) diejenigen. والذين ist ein weiteres Objekt von خلق: Er erschuf euch und die vor euch." },
-          { "word": "من", "role": "harf jarr", "case": "-", "explanation": "Praeposition: von/aus (zeitlich: vor)." },
+          { "word": "من", "role": "harf jarr", "case": "-", "explanation": "Präposition: von/aus (zeitlich: vor)." },
           { "word": "قبلكم", "role": "majrur + mudaf ilayhi", "case": "genitive", "explanation": "Im Genitiv nach من. قبل ist ein Zeitadverb (vorher), كم ist Mudaf ilayhi: vor euch." },
           { "word": "لعلكم", "role": "harf + ism la'alla", "case": "accusative", "explanation": "لعل ist eine Partikel (vielleicht/damit), die einen Nominalsatz einleitet. كم ist der Ism von لعل, Akkusativ." },
           { "word": "تتقون", "role": "khabar la'alla", "case": "nominative (rafa')", "explanation": "Khabar von لعل: ein Verbalsatz im Imperfekt. Bedeutung: damit ihr achtsam werdet. Das Verb steht im Indikativ (Raf') als Khabar." }
@@ -1279,13 +1283,13 @@
         "analysis": [
           { "word": "تبرك", "role": "fi'l madi", "case": "-", "explanation": "Verb im Perfekt, 3. Person maskulin Singular: Gesegnet ist / Erhaben ist. Das Fa'il ist der folgende Relativsatz الذى..." },
           { "word": "الذى", "role": "fa'il (ism mawsul)", "case": "nominative", "explanation": "Relativpronomen als Fa'il von تبرك: derjenige, der. Nominativ." },
-          { "word": "بيده", "role": "khabar muqaddam (shibh jumla)", "case": "-", "explanation": "Vorangestelltes Khabar (Quasi-Satz) innerhalb des Relativsatzes. Praepositionalphrase: in Seiner Hand." },
+          { "word": "بيده", "role": "khabar muqaddam (shibh jumla)", "case": "-", "explanation": "Vorangestelltes Khabar (Quasi-Satz) innerhalb des Relativsatzes. Präpositionalphrase: in Seiner Hand." },
           { "word": "الملك", "role": "mubtada mu'akhkhar", "case": "nominative", "explanation": "Nachgestelltes Mubtada: die Herrschaft. Nominativ. Der Relativsatzinhalt: die Herrschaft ist in Seiner Hand." },
           { "word": "وهو", "role": "waw al-'atf + mubtada", "case": "nominative", "explanation": "و (koordinierend) + هو (Mubtada): Und Er." },
-          { "word": "على", "role": "harf jarr", "case": "-", "explanation": "Praeposition: ueber." },
+          { "word": "على", "role": "harf jarr", "case": "-", "explanation": "Präposition: über." },
           { "word": "كل", "role": "majrur + mudaf", "case": "genitive", "explanation": "Im Genitiv nach على. Gleichzeitig Mudaf zu شى." },
           { "word": "شى", "role": "mudaf ilayhi", "case": "genitive", "explanation": "Mudaf ilayhi zu كل, Genitiv: jedes Ding." },
-          { "word": "قدير", "role": "khabar", "case": "nominative", "explanation": "Khabar (Praedikat) zu هو: maechtig. Nominativ. على كل شى ist eine ergaenzende Praepositionalphrase: Er ist ueber alles maechtig." }
+          { "word": "قدير", "role": "khabar", "case": "nominative", "explanation": "Khabar (Prädikat) zu هو: mächtig. Nominativ. على كل شى ist eine ergänzende Präpositionalphrase: Er ist über alles mächtig." }
         ]
       },
       "difficulty": 2
@@ -1298,7 +1302,7 @@
       "question": "Analysiere die syntaktische Funktion jedes Wortes.",
       "correctAnswer": {
         "analysis": [
-          { "word": "ف", "role": "harf istinaf / fa al-fa'siya", "case": "-", "explanation": "Anknuepfungspartikel, leitet die Schlussfolgerung aus dem Vorhergehenden ein." },
+          { "word": "ف", "role": "harf istinaf / fa al-fa'siya", "case": "-", "explanation": "Anknüpfungspartikel, leitet die Schlussfolgerung aus dem Vorhergehenden ein." },
           { "word": "اما", "role": "harf tafsiil (Topikalisierungspartikel)", "case": "-", "explanation": "Partikel der Gliederung/Topikalisierung: Was ... betrifft. Erfordert zwingend ف in der Antwort." },
           { "word": "اليتيم", "role": "maf'ul bihi muqaddam", "case": "accusative", "explanation": "Vorangestelltes Maf'ul bihi (direktes Objekt) von تقهر: die Waise. Akkusativ. Durch اما topikalisiert." },
           { "word": "ف", "role": "fa' al-jawab (Antwort-fa)", "case": "-", "explanation": "Obligatorische Antwortpartikel nach اما. Verbindet das Thema mit der Aussage." },
@@ -1316,12 +1320,12 @@
       "question": "Analysiere die syntaktische Funktion jedes Wortes.",
       "correctAnswer": {
         "analysis": [
-          { "word": "انا", "role": "harf tawkid + ism inna", "case": "-", "explanation": "ان ist eine Bekraeftigungspartikel (Verstaerkung). نا (Wir) ist der Ism von ان, Akkusativ (als Suffix nicht sichtbar)." },
+          { "word": "انا", "role": "harf tawkid + ism inna", "case": "-", "explanation": "ان ist eine Bekräftigungspartikel (Verstärkung). نا (Wir) ist der Ism von ان, Akkusativ (als Suffix nicht sichtbar)." },
           { "word": "انزلنه", "role": "fi'l + fa'il + maf'ul bihi (khabar inna)", "case": "-", "explanation": "Khabar von ان als Verbalsatz. انزل = Verb (herabsenden, Perfekt). نا = Fa'il (Wir). ه = Maf'ul bihi (es/ihn — bezieht sich auf das Buch/den Quran)." },
           { "word": "قرنا", "role": "hal", "case": "accusative", "explanation": "Hal (Zustandsakkusativ): als einen Vortrag / in der Form eines Vortrags. Beschreibt den Zustand des Objekts bei der Herabsendung." },
           { "word": "عربيا", "role": "sifa", "case": "accusative", "explanation": "Sifa (Attribut) zu قرنا: einen arabischen (Vortrag). Kongruent: maskulin Singular, indefinit, Akkusativ." },
           { "word": "لعلكم", "role": "harf + ism la'alla", "case": "accusative", "explanation": "لعل (Partikel: damit/vielleicht) + كم (Ism von لعل, Akkusativ): damit ihr." },
-          { "word": "تعقلون", "role": "khabar la'alla", "case": "nominative (rafa')", "explanation": "Khabar von لعل als Verbalsatz im Imperfekt: versteht / begreift. Indikativ (Raf'). Der gesamte لعل-Satz drueckt den Zweck aus." }
+          { "word": "تعقلون", "role": "khabar la'alla", "case": "nominative (rafa')", "explanation": "Khabar von لعل als Verbalsatz im Imperfekt: versteht / begreift. Indikativ (Raf'). Der gesamte لعل-Satz drückt den Zweck aus." }
         ]
       },
       "difficulty": 3
@@ -1338,11 +1342,11 @@
           { "word": "لا", "role": "la al-nahiya", "case": "-", "explanation": "Verbotspartikel: nicht! Setzt das folgende Verb in den Jussiv." },
           { "word": "تقتلوا", "role": "fi'l mudari' majzum + fa'il", "case": "-", "explanation": "Verb im Imperfekt, Jussiv (nach لا الناهية), 2. Person maskulin Plural: toetet nicht! Das Fa'il ist das Pronomen 'ihr' (انتم) in der Verbform. Das Wegfallen des ن (تقتلوا statt تقتلون) zeigt den Jussiv." },
           { "word": "اولدكم", "role": "maf'ul bihi", "case": "accusative", "explanation": "Maf'ul bihi (direktes Objekt): eure Kinder. Akkusativ. كم ist Possessivpronomen (eure)." },
-          { "word": "خشيه", "role": "maf'ul li-ajlihi / mudaf", "case": "accusative", "explanation": "Maful li-Ajlihi (Akkusativ des Grundes): aus Furcht. Gibt den Beweggrund an, WARUM sie toeten wuerden. Gleichzeitig Mudaf zu املق." },
+          { "word": "خشيه", "role": "maf'ul li-ajlihi / mudaf", "case": "accusative", "explanation": "Maful li-Ajlihi (Akkusativ des Grundes): aus Furcht. Gibt den Beweggrund an, WARUM sie töten würden. Gleichzeitig Mudaf zu املق." },
           { "word": "املق", "role": "mudaf ilayhi", "case": "genitive", "explanation": "Mudaf ilayhi zu خشيه: vor Armut. Genitiv. Die Idafa خشيه املق: Furcht vor Armut." },
           { "word": "نحن", "role": "mubtada", "case": "nominative", "explanation": "Mubtada (Satzthema), Nominativ: Wir. Leitet einen neuen Nominalsatz ein, der den Grund der Furcht entkraeftet." },
           { "word": "نرزقهم", "role": "fi'l + fa'il + maf'ul bihi (khabar)", "case": "-", "explanation": "Khabar als Verbalsatz: Wir versorgen sie. نرزق = Verb (versorgen, Imperfekt). Das Fa'il ist das eingebettete Pronomen (نحن). هم = Maf'ul bihi (sie — die Kinder)." },
-          { "word": "واياكم", "role": "maf'ul bihi ma'tuf", "case": "accusative", "explanation": "Koordiniertes Maf'ul bihi: und euch. اياكم ist die selbststaendige Objektpronomenform fuer die 2. Person Plural. Wir versorgen sie UND euch." }
+          { "word": "واياكم", "role": "maf'ul bihi ma'tuf", "case": "accusative", "explanation": "Koordiniertes Maf'ul bihi: und euch. اياكم ist die selbstständige Objektpronomenform für die 2. Person Plural. Wir versorgen sie UND euch." }
         ]
       },
       "difficulty": 3

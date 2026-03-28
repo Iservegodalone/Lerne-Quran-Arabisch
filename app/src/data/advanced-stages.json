@@ -3,7 +3,13 @@
     "module": 6,
     "title": "Fortgeschrittene Stufen (5–12)",
     "description": "Acht fortgeschrittene Stufen: von semantischen Feldern bis zum direkten Verstehen ohne innere Übersetzung.",
-    "prerequisite": "Stufen 1–4 (Alphabet, Morphologie, Syntax, Vokabular) abgeschlossen"
+    "prerequisite": "Stufen 1–4 (Alphabet, Morphologie, Syntax, Vokabular) abgeschlossen",
+    "sources": [
+      { "name": "Wright's Grammar Vol I", "url": "https://archive.org/details/grammarofthearab01telerich" },
+      { "name": "Wright's Grammar Vol II", "url": "https://archive.org/details/grammarofthearab02telerich" },
+      { "name": "Quranic Arabic Corpus", "url": "https://corpus.quran.com/" },
+      { "name": "Lane's Lexicon", "url": "https://ejtaal.net/aa/" }
+    ]
   },
   "stages": [
     {
@@ -29,30 +35,30 @@
               {
                 "root": "ك-ف-ر",
                 "transliteration": "k-f-r",
-                "lanesSummary": "كُفْر von der Wurzel ك-ف-ر: bedecken, verbergen. Die Grundbedeutung ist das Bedecken oder Verbergen — vgl. كَافِر im vorislamischen Arabisch auch fuer den Bauern (der den Samen mit Erde bedeckt).",
+                "lanesSummary": "كُفْر von der Wurzel ك-ف-ر: bedecken, verbergen. Die Grundbedeutung ist das Bedecken oder Verbergen — vgl. كَافِر im vorislamischen Arabisch auch für den Bauern (der den Samen mit Erde bedeckt).",
                 "quranOccurrences": "Über 500 Vorkommen in verschiedenen Formen",
                 "keyVerses": [
                   {"ref": "57:20", "note": "كَمَثَلِ غَيْثٍ أَعْجَبَ الْكُفَّارَ نَبَاتُهُ — Hier sind كُفَّار die Bauern, die den Samen bedecken"},
-                  {"ref": "2:6-7", "note": "إِنَّ الَّذِينَ كَفَرُوا — Die, die die Zeichen verdecken/verbergen"}
+                  {"ref": "2:6-7", "note": "إِنَّ الَّذِينَ كَفَرُوا — Die, die verdeckten/leugneten"}
                 ]
               },
               {
                 "root": "س-ل-م",
                 "transliteration": "s-l-m",
-                "lanesSummary": "Grundbedeutung: unversehrt sein, heil sein, frei von Makel. Sich uebergeben, sich hingeben. سَلَام = Frieden/Unversehrtheit. إِسْلَام = die Uebergabe. مُسْلِم = einer, der sich uebergibt. Lane verzeichnet das Bedeutungsfeld: Unversehrtheit, Friede, Hingabe, Uebergabe.",
+                "lanesSummary": "Grundbedeutung: unversehrt sein, heil sein, frei von Makel. Sich übergeeben, sich hingeben. سَلَام = Frieden/Unversehrtheit. إِسْلَام = die Übergabe. مُسْلِم = einer, der sich übergeibt. Lane verzeichnet das Bedeutungsfeld: Unversehrtheit, Friede, Hingabe, Übergabe.",
                 "quranOccurrences": "Über 140 Vorkommen",
                 "keyVerses": [
-                  {"ref": "2:112", "note": "بَلَىٰ مَنْ أَسْلَمَ وَجْهَهُ لِلَّهِ — Wer sein Gesicht (= sein ganzes Wesen) Gott übergibt"},
+                  {"ref": "2:112", "note": "بَلَىٰ مَنْ أَسْلَمَ وَجْهَهُ لِلَّهِ — Wer sein Gesicht Gott übergibt"},
                   {"ref": "6:54", "note": "سَلَامٌ عَلَيْكُمْ — Unversehrtheit/Frieden über euch"}
                 ]
               },
               {
                 "root": "ط-ل-ق",
                 "transliteration": "ṭ-l-q",
-                "lanesSummary": "Grundbedeutung: loslassen, freilassen, freigeben. طَلَاق (Scheidung) ist woertlich: das Freilassen. Die Wurzel traegt die Bedeutung des Loslassens in Freiheit, nicht der Trennung oder des Bruchs.",
+                "lanesSummary": "Grundbedeutung: loslassen, freilassen, freigeben. طَلَاق (Scheidung) ist wörtlich: das Freilassen. Die Wurzel trägt die Bedeutung des Loslassens in Freiheit, nicht der Trennung oder des Bruchs.",
                 "quranOccurrences": "Ca. 20 Vorkommen, hauptsächlich in Sure 2 und 65",
                 "keyVerses": [
-                  {"ref": "2:229", "note": "الطَّلَاقُ مَرَّتَانِ — Das Freilassen ist zweimal (möglich)"},
+                  {"ref": "2:229", "note": "الطَّلَاقُ مَرَّتَانِ — Das Freilassen/Loslassen ist zweimal"},
                   {"ref": "65:1", "note": "إِذَا طَلَّقْتُمُ النِّسَاءَ — Wenn ihr die Frauen freigebt"}
                 ]
               }
@@ -79,7 +85,7 @@
         {
           "type": "root_field",
           "prompt": "Vergleiche die Wurzeln ع-ب-د (ʿ-b-d) und ع-ب-ر (ʿ-b-r). Beide beginnen mit ع-ب. Gibt es ein gemeinsames Bedeutungselement?",
-          "hint": "ع-ب-د: dienen, Knecht sein (Lane's). ع-ب-ر: durchqueren, uebersetzen (Lane's). Beide teilen ع-ب. Ob die gemeinsamen Konsonanten ein gemeinsames Bedeutungselement tragen, ist eine offene sprachwissenschaftliche Frage — notiere was du beobachtest."
+          "hint": "ع-ب-د: dienen, Knecht sein (Lane's). ع-ب-ر: durchqueren, übersetzen (Lane's). Beide teilen ع-ب. Ob die gemeinsamen Konsonanten ein gemeinsames Bedeutungselement tragen, ist eine offene sprachwissenschaftliche Frage — notiere was du beobachtest."
         },
         {
           "type": "journal",
@@ -89,7 +95,7 @@
         {
           "type": "analysis",
           "prompt": "Lies 2:255 und extrahiere alle Wurzeln. Schlage jede in Lane's nach und notiere, welche Bedeutungsfacette im Vers aktiv ist. Vergleiche besonders الحي und القيوم — wie verhalten sich die beiden Wurzeln ح-ي-ي und ق-و-م zueinander?",
-          "hint": "ح-ي-ي: lebendig sein, Leben. الحي = der Lebende. ق-و-م: stehen, bestehen, aufrecht erhalten. القيوم = der alles Bestehende aufrecht erhaelt. Zusammen: Er lebt UND er traegt alles. Beide Wurzeln finden sich oft im Quran als Paar (2:255, 3:2, 20:111)."
+          "hint": "ح-ي-ي: lebendig sein, Leben. الحي = der Lebende. ق-و-م: stehen, bestehen, aufrecht erhalten. القيوم = der alles Bestehende aufrecht erhält. Zusammen: Er lebt UND er trägt alles. Beide Wurzeln finden sich oft im Quran als Paar (2:255, 3:2, 20:111)."
         },
         {
           "type": "comparison",
@@ -99,7 +105,7 @@
         {
           "type": "verse_group",
           "prompt": "Finde alle Verse, in denen die Wurzel ن-و-ر (Licht) vorkommt: 2:257, 5:15, 14:1, 24:35, 57:12. Welche Bedeutungsfacetten zeigt die Wurzel in diesen verschiedenen Kontexten?",
-          "hint": "2:257: Gott fuehrt aus den Finsternissen ins Licht. 5:15: Ein Licht und ein klares Buch kamen zu euch. 14:1: Herausfuehren aus den Finsternissen ins Licht. 24:35: Gott ist das Licht der Himmel und der Erde. 57:12: Ihr Licht eilt vor ihnen her. Die Wurzel zeigt: Licht als Fuehrung, als Gottes Eigenschaft, als Begleiter der Glaeubigen."
+          "hint": "2:257: Gott führt aus den Finsternissen ins Licht. 5:15: Ein Licht und ein klares Buch kamen zu euch. 14:1: Herausfuehren aus den Finsternissen ins Licht. 24:35: Gott ist das Licht der Himmel und der Erde. 57:12: Ihr Licht eilt vor ihnen her. Die Wurzel zeigt: Licht als Führung, als Gottes Eigenschaft, als Begleiter der Gläubigen."
         }
       ],
       "testContent": {
@@ -152,7 +158,7 @@
             "type": "matching",
             "question": "Was ist die Grundbedeutung der Wurzel س-ل-م laut Lane's, und welches Wortmuster hat إِسْلَام?",
             "options": [
-              "Wurzel s-l-m = heil/sicher sein, uebergeben. إِسْلَام ist Form IV Masdar (إِفْعَال) = das Uebergeben, das Sich-Ergeben",
+              "Wurzel s-l-m = heil/sicher sein, übergeeben. إِسْلَام ist Form IV Masdar (إِفْعَال) = das Übergeben, das Sich-Ergeben",
               "Wurzel s-l-m = Frieden. إِسْلَام ist Form I Masdar = der Frieden",
               "Wurzel s-l-m = gehorchen. إِسْلَام ist Form II Masdar = der Gehorsam",
               "Wurzel s-l-m = glauben. إِسْلَام ist Form I Nomen = der Glaube"
@@ -173,9 +179,9 @@
           {
             "question": "Die Wurzel ن-و-ر (Licht) wird in 24:35 anders verwendet als in 14:1. Worin besteht der Unterschied?",
             "options": [
-              "In 24:35 ist النور eine Eigenschaft Gottes (Gott ist das Licht), in 14:1 ist es ein Ziel der Herausfuehrung (ins Licht fuehren)",
-              "Beide Verse verwenden النور identisch als Synonym fuer 'Sonne'",
-              "In 24:35 ist Licht woertlich, in 14:1 ist es ein Personenname",
+              "In 24:35 ist النور eine Eigenschaft Gottes (Gott ist das Licht), in 14:1 ist es ein Ziel der Herausfuehrung (ins Licht führen)",
+              "Beide Verse verwenden النور identisch als Synonym für 'Sonne'",
+              "In 24:35 ist Licht wörtlich, in 14:1 ist es ein Personenname",
               "Es gibt keinen Unterschied — die Wurzel hat nur eine Bedeutung"
             ],
             "correct": 0,
@@ -193,26 +199,26 @@
           {
             "type": "explanation",
             "title": "Prinzip der intertextuellen Kohärenz",
-            "content": "Der Quran verwendet seine eigenen Begriffe konsistent. Um zu verstehen, was ein Wort im Quran bedeutet, ist es aufschlussreich, alle Stellen zu finden, an denen es vorkommt, und die Bedeutung aus dem Gesamtbild abzuleiten. Dieses Prinzip heisst 'intertextuelle Kohaerenz': Jede Stelle erhellt jede andere Stelle. Der Quran erklaert sich selbst durch die Gesamtheit seiner Verwendung eines Wortes. Lexikographische Werke (Lane's) geben das Bedeutungsfeld — die quranischen Kontexte zeigen, welche Facette jeweils relevant ist."
+            "content": "Der Quran verwendet seine eigenen Begriffe konsistent. Um zu verstehen, was ein Wort im Quran bedeutet, ist es aufschlussreich, alle Stellen zu finden, an denen es vorkommt, und die Bedeutung aus dem Gesamtbild abzuleiten. Dieses Prinzip heißt 'intertextuelle Kohärenz': Jede Stelle erhellt jede andere Stelle. Der Quran erklärt sich selbst durch die Gesamtheit seiner Verwendung eines Wortes. Lexikographische Werke (Lane's) geben das Bedeutungsfeld — die quranischen Kontexte zeigen, welche Facette jeweils relevant ist."
           },
           {
             "type": "explanation",
             "title": "Methode der intertextuellen Analyse",
-            "content": "1. Wähle ein Schlüsselwort (z.B. هُدًى / Fuehrung). 2. Finde ALLE Verse, in denen dieses Wort oder seine Wurzel vorkommt. 3. Sortiere die Verse nach Kontext: Wo steht es als Eigenschaft Gottes? Wo als menschliche Handlung? Wo als Buch-Bezeichnung? 4. Erstelle eine Übersicht: Was ergibt sich aus dem quranischen Gesamtbild zu diesem Begriff? 5. Vergleiche: Stimmt deine bisherige Vorstellung mit dem quranischen Gesamtbild überein?"
+            "content": "1. Wähle ein Schlüsselwort (z.B. هُدًى / Führung). 2. Finde ALLE Verse, in denen dieses Wort oder seine Wurzel vorkommt. 3. Sortiere die Verse nach Kontext: Wo steht es als Eigenschaft Gottes? Wo als menschliche Handlung? Wo als Buch-Bezeichnung? 4. Erstelle eine Übersicht: Was ergibt sich aus dem quranischen Gesamtbild zu diesem Begriff? 5. Vergleiche: Stimmt deine bisherige Vorstellung mit dem quranischen Gesamtbild überein?"
           },
           {
             "type": "example",
-            "title": "Fallstudie: ه-د-ي (h-d-y) — Fuehrung",
+            "title": "Fallstudie: ه-د-ي (h-d-y) — Führung",
             "examples": [
               {
                 "root": "ه-د-ي",
                 "transliteration": "h-d-y",
                 "analysis": "Über 300 Vorkommen. Der Quran zeigt: هُدًى ist nicht nur 'Wegweisung', sondern: 1) Eine Eigenschaft des Qurans selbst (2:2: ذَٰلِكَ الْكِتَابُ لَا رَيْبَ فِيهِ هُدًى لِلْمُتَّقِينَ). 2) Eine Handlung Gottes (6:71: قُلْ إِنَّ هُدَى اللَّهِ هُوَ الْهُدَىٰ). 3) Etwas, das der Mensch annehmen oder ablehnen kann (2:38: فَمَن تَبِعَ هُدَايَ). 4) Im physischen Sinn: ein Opfertier zur Kaaba führen (هَدْي — 5:95).",
                 "keyVerses": [
-                  {"ref": "2:2", "text": "هُدًى لِلْمُتَّقِينَ", "note": "Fuehrung fuer die sich Huetenden — هُدًى als Eigenschaft des Buches"},
-                  {"ref": "6:71", "text": "قُلْ إِنَّ هُدَى اللَّهِ هُوَ الْهُدَىٰ", "note": "Gottes Fuehrung IST die Fuehrung — absolute Definition"},
-                  {"ref": "2:38", "text": "فَمَن تَبِعَ هُدَايَ فَلَا خَوْفٌ عَلَيْهِمْ", "note": "Wer meiner Fuehrung folgt — هُدًى als etwas, dem man folgen kann"},
-                  {"ref": "20:123", "text": "فَإِمَّا يَأْتِيَنَّكُم مِّنِّي هُدًى", "note": "Wenn von mir Fuehrung zu euch kommt — هُدًى als etwas, das 'von mir' (مِنِّي) kommt"},
+                  {"ref": "2:2", "text": "هُدًى لِلْمُتَّقِينَ", "note": "Führung für die sich Hütenden — هُدًى als Eigenschaft des Buches"},
+                  {"ref": "6:71", "text": "قُلْ إِنَّ هُدَى اللَّهِ هُوَ الْهُدَىٰ", "note": "Gottes Führung IST die Führung — absolute Definition"},
+                  {"ref": "2:38", "text": "فَمَن تَبِعَ هُدَايَ فَلَا خَوْفٌ عَلَيْهِمْ", "note": "Wer meiner Führung folgt — هُدًى als etwas, dem man folgen kann"},
+                  {"ref": "20:123", "text": "فَإِمَّا يَأْتِيَنَّكُم مِّنِّي هُدًى", "note": "Wenn von mir Führung zu euch kommt — هُدًى als etwas, das 'von mir' (مِنِّي) kommt"},
                   {"ref": "5:95", "text": "هَدْيًا بَالِغَ الْكَعْبَةِ", "note": "Ein Opfertier, das die Kaaba erreicht — physisches 'Hinführen'"}
                 ]
               }
@@ -266,22 +272,22 @@
         {
           "type": "intertextual",
           "prompt": "Finde alle Verse mit der Wurzel ر-ز-ق und dem Wort رِزْق. Was versteht der Quran unter 'Versorgung'?",
-          "hint": "Die Grundbedeutung ist 'versorgen, zuteilen'. رِزْق erscheint im Quran wiederholt in Kontexten, wo Gott als alleiniger Versorger benannt wird (11:6, 29:60). Es umfasst nicht nur Nahrung, sondern auch Wissen, Nachkommen und Fuehrung. Achte auf den Unterschied zwischen رَازِق (Versorger) und رَزَّاق (beständig Versorgender, 51:58)."
+          "hint": "Die Grundbedeutung ist 'versorgen, zuteilen'. رِزْق erscheint im Quran wiederholt in Kontexten, wo Gott als alleiniger Versorger benannt wird (11:6, 29:60). Es umfasst nicht nur Nahrung, sondern auch Wissen, Nachkommen und Führung. Achte auf den Unterschied zwischen رَازِق (Versorger) und رَزَّاق (beständig Versorgender, 51:58)."
         },
         {
           "type": "analysis",
-          "prompt": "Vergleiche die Verwendung des Wortes سبيل (Weg) in 1:6 (اهدنا الصرط المستقيم), 2:154 (فى سبيل الله), 6:153 (وان هذا صرطى مستقيما) und 14:1 (الى صرط العزيز الحميد). Erstelle eine intertextuelle Uebersicht: Welche verschiedenen 'Wege' beschreibt der Quran und wie haengen sie zusammen?",
-          "hint": "Der Quran unterscheidet: صراط (gerader Weg — Gottes Weg) und سبيل (allgemeiner Weg, Pfad). In 1:6 wird um DEN geraden Weg gebeten, in 6:153 identifiziert Gott ihn als SEINEN Weg, in 14:1 fuehrt er zum Maechtigen. سبيل الله (Gottes Weg) in 2:154 steht im Kontext von Kampf und Einsatz auf Gottes Weg. Die intertextuelle Analyse zeigt: Es gibt einen Weg, aber viele Zugaenge."
+          "prompt": "Vergleiche die Verwendung des Wortes سبيل (Weg) in 1:6 (اهدنا الصرط المستقيم), 2:154 (فى سبيل الله), 6:153 (وان هذا صرطى مستقيما) und 14:1 (الى صرط العزيز الحميد). Erstelle eine intertextuelle Übersicht: Welche verschiedenen 'Wege' beschreibt der Quran und wie hängen sie zusammen?",
+          "hint": "Der Quran unterscheidet: صراط (gerader Weg — Gottes Weg) und سبيل (allgemeiner Weg, Pfad). In 1:6 wird um DEN geraden Weg gebeten, in 6:153 identifiziert Gott ihn als SEINEN Weg, in 14:1 führt er zum Mächtigen. سبيل الله (Gottes Weg) in 2:154 steht im Kontext von Kampf und Einsatz auf Gottes Weg. Die intertextuelle Analyse zeigt: Es gibt einen Weg, aber viele Zugaenge."
         },
         {
           "type": "identification",
-          "prompt": "Das Wort ظلم (Unrecht) kommt in ueber 300 Versen vor. Vergleiche: 2:279 (فلا تظلمون ولا تظلمون — ihr tut kein Unrecht und euch wird kein Unrecht getan), 4:40 (ان الله لا يظلم مثقال ذره — Gott tut nicht Unrecht im Gewicht eines Staeubchens), und 18:49 (ولا يظلم ربك احدا — dein Herr tut niemandem Unrecht). Was ergibt sich intertextuell ueber die Beziehung zwischen Gott und ظلم?",
+          "prompt": "Das Wort ظلم (Unrecht) kommt in über 300 Versen vor. Vergleiche: 2:279 (فلا تظلمون ولا تظلمون — ihr tut kein Unrecht und euch wird kein Unrecht getan), 4:40 (ان الله لا يظلم مثقال ذره — Gott tut nicht Unrecht im Gewicht eines Stäubchens), und 18:49 (ولا يظلم ربك احدا — dein Herr tut niemandem Unrecht). Was ergibt sich intertextuell über die Beziehung zwischen Gott und ظلم?",
           "hint": "Die zitierten Verse verneinen ظلم als Attribut Gottes explizit (4:40: لا يظلم مثقال ذرة, 18:49: لا يظلم ربك أحداً). Die Wurzel ظ-ل-م (etwas an den falschen Platz setzen) beschreibt eine Handlung, die der Text in diesen Versen Gott abspricht. ظلم erscheint andernorts als Handlung von Menschen, Gruppen oder Erzählfiguren."
         },
         {
           "type": "verse_group",
           "prompt": "Untersuche das Wort فتنه in 2:191, 2:217, 8:28, 8:39 und 29:2. Wie viele verschiedene Bedeutungen hat فتنه im Quran? Erstelle eine Tabelle mit Vers, Kontext und Bedeutung.",
-          "hint": "Die Wurzel ف-ت-ن hat die Grundbedeutung 'pruefen, auf die Probe stellen' (wie Gold im Feuer geprueft wird). Im Quran zeigt فتنه mindestens drei Facetten: 1) Verfolgung/Unterdrueckung (2:191, 2:217), 2) Pruefung durch Gott (8:28, 29:2), 3) Versuchung/Verwirrung (8:39). Nur die intertextuelle Analyse zeigt das volle Spektrum."
+          "hint": "Die Wurzel ف-ت-ن hat die Grundbedeutung 'prüfen, auf die Probe stellen' (wie Gold im Feuer geprueft wird). Im Quran zeigt فتنه mindestens drei Facetten: 1) Verfolgung/Unterdrueckung (2:191, 2:217), 2) Prüfung durch Gott (8:28, 29:2), 3) Versuchung/Verwirrung (8:39). Nur die intertextuelle Analyse zeigt das volle Spektrum."
         }
       ],
       "testContent": {
@@ -333,24 +339,24 @@
           {
             "question": "Das Wort فتنه kommt im Quran in mehreren Kontexten vor. Welche Grundbedeutung der Wurzel ف-ت-ن verbindet alle Verwendungen?",
             "options": [
-              "Pruefen, auf die Probe stellen — wie Gold im Feuer geprueft wird",
-              "Kaempfen, Krieg fuehren",
+              "Prüfen, auf die Probe stellen — wie Gold im Feuer geprueft wird",
+              "Kämpfen, Krieg führen",
               "Suendigen, Fehler machen",
               "Glauben, vertrauen"
             ],
             "correct": 0,
-            "explanation": "Die Wurzel ف-ت-ن hat die Grundbedeutung des Pruefens im Feuer. Alle quranischen Verwendungen — Verfolgung (2:191), Pruefung (29:2), Versuchung (8:28) — teilen diesen Kern: etwas wird unter Druck auf seine Echtheit geprueft."
+            "explanation": "Die Wurzel ف-ت-ن hat die Grundbedeutung des Prüfens im Feuer. Alle quranischen Verwendungen — Verfolgung (2:191), Prüfung (29:2), Versuchung (8:28) — teilen diesen Kern: etwas wird unter Druck auf seine Echtheit geprueft."
           },
           {
-            "question": "Wenn der Quran in 4:40 sagt ان الله لا يظلم مثقال ذره (Gott tut kein Unrecht im Gewicht eines Staeubchens), was zeigt die intertextuelle Analyse ueber die Beziehung zwischen Gott und ظلم?",
+            "question": "Wenn der Quran in 4:40 sagt ان الله لا يظلم مثقال ذره (Gott tut kein Unrecht im Gewicht eines Stäubchens), was zeigt die intertextuelle Analyse über die Beziehung zwischen Gott und ظلم?",
             "options": [
               "Gott kann Unrecht tun, tut es aber nur selten",
-              "ظلم wird im Quran ausschliesslich Menschen zugeschrieben — Gott wird konsequent davon freigesprochen",
+              "ظلم wird im Quran ausschließlich Menschen zugeschrieben — Gott wird konsequent davon freigesprochen",
               "ظلم bedeutet im Kontext Gottes etwas anderes als im menschlichen Kontext",
               "Der Vers ist eine Ausnahme — an anderen Stellen wird Gott auch ظلم zugeschrieben"
             ],
             "correct": 1,
-            "explanation": "Die intertextuelle Analyse zeigt, dass der Quran an keiner Stelle Gott ظلم zuschreibt. Im Gegenteil: Er verneint es ausdruecklich und wiederholt (4:40, 18:49, 3:182). ظلم (etwas an den falschen Platz setzen) ist im Quran immer eine menschliche Handlung."
+            "explanation": "Die intertextuelle Analyse zeigt, dass der Quran an keiner Stelle Gott ظلم zuschreibt. Im Gegenteil: Er verneint es ausdrücklich und wiederholt (4:40, 18:49, 3:182). ظلم (etwas an den falschen Platz setzen) ist im Quran immer eine menschliche Handlung."
           }
         ]
       }
@@ -403,14 +409,14 @@
           {
             "type": "explanation",
             "title": "3. Passiv ohne Akteur (البِنَاء لِلْمَجْهُول)",
-            "content": "Der Quran verwendet das Passiv haeufig, um den Handelnden ungenannt zu lassen. Linguistisch hat das zwei moegliche Funktionen: Der Fokus wird auf die Handlung oder den Empfaenger gelenkt, oder der Akteur bleibt unbenannt.",
+            "content": "Der Quran verwendet das Passiv häufig, um den Handelnden ungenannt zu lassen. Linguistisch hat das zwei mögliche Funktionen: Der Fokus wird auf die Handlung oder den Empfänger gelenkt, oder der Akteur bleibt unbenannt.",
             "arabicExamples": [
               {
                 "arabic": "خُتِمَ عَلَىٰ قُلُوبِهِمْ",
                 "transliteration": "khutima ʿalā qulūbihim",
                 "ref": "2:7",
                 "meaning": "Es wurde versiegelt über ihren Herzen",
-                "analysis": "Wer versiegelt? Das Passiv laesst den Akteur offen — der Fokus liegt auf dem Ergebnis: Die Herzen sind versiegelt. Wer der Akteur ist, muss aus dem Kontext erschlossen werden."
+                "analysis": "Wer versiegelt? Das Passiv lässt den Akteur offen — der Fokus liegt auf dem Ergebnis: Die Herzen sind versiegelt. Wer der Akteur ist, muss aus dem Kontext erschlossen werden."
               },
               {
                 "arabic": "وَقِيلَ يَا أَرْضُ ابْلَعِي مَاءَكِ",
@@ -424,7 +430,7 @@
           {
             "type": "explanation",
             "title": "4. Auslassung (Hadhf / حَذْف)",
-            "content": "Im Qurantext werden an vielen Stellen Woerter oder Satzteile ausgelassen die grammatisch ergaenzbar waeren. Diese Auslassungen (Hadhf) sind ein sprachliches Phaenomen: Das Ausgelassene kann aus dem Kontext erschlossen werden, und die Auslassung selbst kann die Bedeutung erweitern weil das Fehlende nicht auf eine einzige Moeglichkeit festgelegt ist.",
+            "content": "Im Qurantext werden an vielen Stellen Wörter oder Satzteile ausgelassen die grammatisch ergänzbar wären. Diese Auslassungen (Hadhf) sind ein sprachliches Phänomen: Das Ausgelassene kann aus dem Kontext erschlossen werden, und die Auslassung selbst kann die Bedeutung erweitern weil das Fehlende nicht auf eine einzige Möglichkeit festgelegt ist.",
             "arabicExamples": [
               {
                 "arabic": "وَالْفَجْرِ ∙ وَلَيَالٍ عَشْرٍ",
@@ -533,21 +539,21 @@
         {
           "type": "rhetoric_analyze",
           "prompt": "Aufgabe: Analysiere Sure 55 (ar-Raḥmān) rhetorisch. Identifiziere: (1) Den Refrain فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ und seine Funktion — wie oft kommt er vor, was bewirkt die Wiederholung? (2) Welche rhetorischen Mittel aus dieser Lektion findest du — Taqdīm, Iltifāt, rhetorische Frage, Gleichnis? (3) Wie ist die Sure strukturiert — gibt es eine Ringkomposition oder einen thematischen Aufbau (Schöpfung → Vergänglichkeit → Paradies)? (4) An wen richtet sich der Dual (كُمَا) — und was bedeutet der Wechsel der Adressaten?",
-          "hint": "Der Refrain erscheint 31 Mal. Er ist eine rhetorische Frage die nach jeder Aufzaehlung wiederholt wird. Die Sure folgt einem Aufbau: Aufzaehlungen (1-30), Vergaenglichkeit und Konsequenzen (31-45), Beschreibung zweier Gaerten (46-78). Der Dual (كُمَا) richtet sich laut Vers 33 an Menschen und Jinn."
+          "hint": "Der Refrain erscheint 31 Mal. Er ist eine rhetorische Frage die nach jeder Aufzählung wiederholt wird. Die Sure folgt einem Aufbau: Aufzählungen (1-30), Vergänglichkeit und Konsequenzen (31-45), Beschreibung zweier Gärten (46-78). Der Dual (كُمَا) richtet sich laut Vers 33 an Menschen und Jinn."
         },
         {
           "type": "analysis",
-          "prompt": "In 2:258 argumentiert Ibrahim mit dem Koenig. Ibrahim sagt: ربى الذى يحيى ويميت (Mein Herr ist es, der lebendig macht und sterben laesst). Der Koenig behauptet, auch er koenne das. Dann sagt Ibrahim: فان الله ياتى بالشمس من المشرق فات بها من المغرب (Gott bringt die Sonne vom Osten — bringe du sie vom Westen). Analysiere die rhetorische Strategie: Warum wechselt Ibrahim das Argument?",
-          "hint": "Ibrahim steigert sein Argument: Vom Abstrakten (Leben und Tod — interpretierbar) zum Konkreten (die Sonne — nicht interpretierbar). Der Koenig konnte das erste Argument umdeuten (er 'toetete' und 'begnadigte'), aber das zweite laesst keinen Spielraum. Rhetorisch ist das eine Klimax — die Argumentation wird unwiderlegbar."
+          "prompt": "In 2:258 argumentiert Ibrahim mit dem König. Ibrahim sagt: ربى الذى يحيى ويميت (Mein Herr ist es, der lebendig macht und sterben lässt). Der König behauptet, auch er koenne das. Dann sagt Ibrahim: فان الله ياتى بالشمس من المشرق فات بها من المغرب (Gott bringt die Sonne vom Osten — bringe du sie vom Westen). Analysiere die rhetorische Strategie: Warum wechselt Ibrahim das Argument?",
+          "hint": "Ibrahim steigert sein Argument: Vom Abstrakten (Leben und Tod — interpretierbar) zum Konkreten (die Sonne — nicht interpretierbar). Der König konnte das erste Argument umdeuten (er 'toetete' und 'begnadigte'), aber das zweite lässt keinen Spielraum. Rhetorisch ist das eine Klimax — die Argumentation wird unwiderlegbar."
         },
         {
           "type": "identification",
           "prompt": "Lies 67:3-4 (الذى خلق سبع سموت طباقا ما ترى فى خلق الرحمن من تفوت فارجع البصر هل ترى من فطور ثم ارجع البصر كرتين ينقلب اليك البصر خاسا وهو حسير). Identifiziere alle rhetorischen Mittel: Welche Kombination von Befehl (امر), rhetorischer Frage (استفهام) und Gleichnis findest du?",
-          "hint": "Vers 3: Rhetorische Frage (ما ترى ... من تفوت — siehst du irgendeine Unstimmigkeit?). Dann: Befehl (فارجع البصر — schaue nochmals hin!). Nochmals rhetorische Frage (هل ترى من فطور — siehst du Risse?). Vers 4: Erneuter Befehl (ارجع البصر كرتين — schaue zweimal hin!). Dann das Ergebnis: Der Blick kommt geschlagen und erschoepft zurueck. Die Wiederholung des Befehls verstaerkt die Gewissheit, dass nichts Fehlerhaftes gefunden wird."
+          "hint": "Vers 3: Rhetorische Frage (ما ترى ... من تفوت — siehst du irgendeine Unstimmigkeit?). Dann: Befehl (فارجع البصر — schaue nochmals hin!). Nochmals rhetorische Frage (هل ترى من فطور — siehst du Risse?). Vers 4: Erneuter Befehl (ارجع البصر كرتين — schaue zweimal hin!). Dann das Ergebnis: Der Blick kommt geschlagen und erschöpft zurück. Die Wiederholung des Befehls verstärkt die Gewissheit, dass nichts Fehlerhaftes gefunden wird."
         },
         {
           "type": "comparison",
-          "prompt": "Vergleiche die Auslassung (Hadhf) in 93:3 (ما ودعك ربك وما قلى — Dein Herr hat dich nicht verlassen und nicht ...) mit der vollstaendigen Form, die man erwarten wuerde (وما قلاك). Warum laesst der Quran das Pronomen 'dich' im zweiten Teil weg?",
+          "prompt": "Vergleiche die Auslassung (Hadhf) in 93:3 (ما ودعك ربك وما قلى — Dein Herr hat dich nicht verlassen und nicht ...) mit der vollständigen Form, die man erwarten würde (وما قلاك). Warum lässt der Quran das Pronomen 'dich' im zweiten Teil weg?",
           "hint": "Im ersten Teil steht ودعك (dich verlassen) mit Pronomen. Im zweiten Teil steht nur قلى (verabscheuen) ohne das Pronomen 'dich'. Die Auslassung mildert die stilistische Direktheit der Aussage: Ohne das explizite 'dich' wird die Verneinung des Verabscheuens allgemeiner und weniger direkt formuliert."
         }
       ],
@@ -650,7 +656,7 @@
               "Es handelt sich um einen grammatischen Fehler"
             ],
             "correct": 0,
-            "explanation": "Die Auslassung des Pronomens 'dich' bei قلى ist Hadhf. Der erste Teil (ودعك) nennt das Pronomen direkt, der zweite Teil laesst es weg. Das mildert die Aussage — die Verneinung des Verabscheuens wird allgemeiner und sanfter formuliert."
+            "explanation": "Die Auslassung des Pronomens 'dich' bei قلى ist Hadhf. Der erste Teil (ودعك) nennt das Pronomen direkt, der zweite Teil lässt es weg. Das mildert die Aussage — die Verneinung des Verabscheuens wird allgemeiner und sanfter formuliert."
           },
           {
             "question": "In 2:258 wechselt Ibrahim sein Argument vom Abstrakten (Leben und Tod) zum Konkreten (Sonne aus dem Osten). Welche rhetorische Strategie ist das?",
@@ -658,10 +664,10 @@
               "Klimax — die Argumentation steigert sich vom Interpretierbaren zum Unwiderlegbaren",
               "Hadhf — ein Teil des Arguments wird ausgelassen",
               "Iltifat — die Person wechselt",
-              "Mathal — ein Gleichnis wird erzaehlt"
+              "Mathal — ein Gleichnis wird erzählt"
             ],
             "correct": 0,
-            "explanation": "Ibrahim verwendet eine Klimax: Das erste Argument (Leben und Tod) konnte der Koenig umdeuten. Das zweite Argument (die Sonne aus dem Westen bringen) laesst keinen Interpretationsspielraum. Die Steigerung fuehrt zur Sprachlosigkeit des Gegners (فبهت الذى كفر)."
+            "explanation": "Ibrahim verwendet eine Klimax: Das erste Argument (Leben und Tod) konnte der König umdeuten. Das zweite Argument (die Sonne aus dem Westen bringen) lässt keinen Interpretationsspielraum. Die Steigerung führt zur Sprachlosigkeit des Gegners (فبهت الذى كفر)."
           },
           {
             "type": "multiple_choice",
@@ -817,18 +823,18 @@
         },
         {
           "type": "analysis",
-          "prompt": "In 2:255 steht: من ذا الذى يشفع عنده الا باذنه (Wer ist es, der bei Ihm Fuersprache einlegt ausser mit Seiner Erlaubnis?). Analysiere die Partikel الا (ausser/es sei denn). Welche Funktion hat sie hier — schliesst sie die Fuersprache aus oder laesst sie sie unter einer Bedingung zu?",
-          "hint": "الا (ausser) ist hier eine Ausnahmepartikel: Die rhetorische Frage verneint zunaechst jede Fuersprache (من ذا الذى يشفع = wer koennte ...), dann oeffnet الا eine einzige Ausnahme: باذنه (mit Seiner Erlaubnis). Die Partikel erzeugt ein doppeltes Signal: Fuersprache ist grundsaetzlich unmoeglich AUSSER Gott erlaubt sie."
+          "prompt": "In 2:255 steht: من ذا الذى يشفع عنده الا باذنه (Wer ist es, der bei Ihm Fuersprache einlegt ausser mit Seiner Erlaubnis?). Analysiere die Partikel الا (ausser/es sei denn). Welche Funktion hat sie hier — schließt sie die Fuersprache aus oder lässt sie sie unter einer Bedingung zu?",
+          "hint": "الا (ausser) ist hier eine Ausnahmepartikel: Die rhetorische Frage verneint zunächst jede Fuersprache (من ذا الذى يشفع = wer könnte ...), dann öffnet الا eine einzige Ausnahme: باذنه (mit Seiner Erlaubnis). Die Partikel erzeugt ein doppeltes Signal: Fuersprache ist grundsätzlich unmöglich AUSSER Gott erlaubt sie."
         },
         {
           "type": "comparison",
-          "prompt": "Vergleiche die Partikel ل (lam) in drei verschiedenen Funktionen: 1) لله (1:2 — Besitz: gehoert Gott), 2) لكم (2:22 — Nutzen: fuer euch), 3) لتخرج (14:1 — Zweck: damit du herausfuehrst). Wie aendert dieselbe Praeposition ihre Bedeutung je nach Kontext?",
-          "hint": "ل hat mindestens drei Funktionen: 1) لام الملك (Besitzanzeige): لله = gehoert Gott. 2) لام المنفعة (Nutzen/Vorteil): لكم = fuer euch/zu eurem Vorteil. 3) لام التعليل (Begruendung/Zweck): لتخرج = damit du herausfuehrst. Derselbe Buchstabe, drei verschiedene Bedeutungen — nur der Kontext klaert die Funktion."
+          "prompt": "Vergleiche die Partikel ل (lam) in drei verschiedenen Funktionen: 1) لله (1:2 — Besitz: gehört Gott), 2) لكم (2:22 — Nutzen: für euch), 3) لتخرج (14:1 — Zweck: damit du herausfuehrst). Wie ändert dieselbe Präposition ihre Bedeutung je nach Kontext?",
+          "hint": "ل hat mindestens drei Funktionen: 1) لام الملك (Besitzanzeige): لله = gehört Gott. 2) لام المنفعة (Nutzen/Vorteil): لكم = für euch/zu eurem Vorteil. 3) لام التعليل (Begründung/Zweck): لتخرج = damit du herausfuehrst. Derselbe Buchstabe, drei verschiedene Bedeutungen — nur der Kontext klärt die Funktion."
         },
         {
           "type": "identification",
-          "prompt": "In 67:1 steht تبرك الذى بيده الملك. Die Praeposition ب in بيده — drueckt sie hier Mittel ('durch seine Hand'), Ort ('in seiner Hand') oder Besitz ('bei ihm/in seinem Besitz') aus? Vergleiche mit بسم الله (1:1) und بما كنتم تعملون (3:195).",
-          "hint": "In بيده (67:1) zeigt ب Besitz und Kontrolle an: Die Herrschaft ist in seiner Hand = unter seiner Kontrolle. In بسم الله (1:1) zeigt ب Begleitung: mit dem Namen Gottes. In بما كنتم (3:195) zeigt ب Ursache/Grund: wegen dem, was ihr zu tun pflegtet. Dieselbe Praeposition, drei verschiedene Funktionen."
+          "prompt": "In 67:1 steht تبرك الذى بيده الملك. Die Präposition ب in بيده — drückt sie hier Mittel ('durch seine Hand'), Ort ('in seiner Hand') oder Besitz ('bei ihm/in seinem Besitz') aus? Vergleiche mit بسم الله (1:1) und بما كنتم تعملون (3:195).",
+          "hint": "In بيده (67:1) zeigt ب Besitz und Kontrolle an: Die Herrschaft ist in seiner Hand = unter seiner Kontrolle. In بسم الله (1:1) zeigt ب Begleitung: mit dem Namen Gottes. In بما كنتم (3:195) zeigt ب Ursache/Grund: wegen dem, was ihr zu tun pflegtet. Dieselbe Präposition, drei verschiedene Funktionen."
         }
       ],
       "testContent": {
@@ -891,24 +897,24 @@
           {
             "question": "In 2:255 steht الا باذنه (ausser mit Seiner Erlaubnis). Welche Funktion hat die Partikel الا hier?",
             "options": [
-              "Sie ist eine Verneinung — sie schliesst die Fuersprache vollstaendig aus",
-              "Sie ist eine Ausnahmepartikel — sie verneint zunaechst, oeffnet dann eine einzige Ausnahme unter Gottes Erlaubnis",
+              "Sie ist eine Verneinung — sie schließt die Fuersprache vollständig aus",
+              "Sie ist eine Ausnahmepartikel — sie verneint zunächst, öffnet dann eine einzige Ausnahme unter Gottes Erlaubnis",
               "Sie ist ein Fragewort — sie leitet eine Frage ein",
-              "Sie ist eine Begruendung — sie erklaert, warum Fuersprache stattfindet"
+              "Sie ist eine Begründung — sie erklärt, warum Fuersprache stattfindet"
             ],
             "correct": 1,
-            "explanation": "الا ist eine Ausnahmepartikel (اداة استثنا). Sie verneint zunaechst jede Moeglichkeit der Fuersprache und oeffnet dann eine einzige Ausnahme: nur mit Erlaubnis (باذنه). Das erzeugt ein doppeltes Signal: grundsaetzlich unmoeglich, aber durch die Ausnahme eingeschraenkt."
+            "explanation": "الا ist eine Ausnahmepartikel (اداة استثنا). Sie verneint zunächst jede Möglichkeit der Fuersprache und öffnet dann eine einzige Ausnahme: nur mit Erlaubnis (باذنه). Das erzeugt ein doppeltes Signal: grundsätzlich unmöglich, aber durch die Ausnahme eingeschränkt."
           },
           {
-            "question": "Die Praeposition ل (lam) hat im Quran verschiedene Funktionen. In 1:2 (لله) zeigt sie Besitz, in 2:22 (لكم) Nutzen, in 14:1 (لتخرج) Zweck. Welche Aussage ist korrekt?",
+            "question": "Die Präposition ل (lam) hat im Quran verschiedene Funktionen. In 1:2 (لله) zeigt sie Besitz, in 2:22 (لكم) Nutzen, in 14:1 (لتخرج) Zweck. Welche Aussage ist korrekt?",
             "options": [
               "ل hat immer dieselbe Bedeutung — der Kontext ist irrelevant",
-              "ل hat mindestens drei verschiedene Funktionen: Besitzanzeige (لام الملك), Nutzenanzeige (لام المنفعة) und Zweckanzeige (لام التعليل) — nur der Kontext klaert die Bedeutung",
+              "ل hat mindestens drei verschiedene Funktionen: Besitzanzeige (لام الملك), Nutzenanzeige (لام المنفعة) und Zweckanzeige (لام التعليل) — nur der Kontext klärt die Bedeutung",
               "ل ist stets identisch mit der Partikel lam al-amr (Imperativpartikel)",
-              "ل bedeutet immer 'fuer' und nie etwas anderes"
+              "ل bedeutet immer 'für' und nie etwas anderes"
             ],
             "correct": 1,
-            "explanation": "Die Praeposition ل ist hochgradig kontextabhaengig. In لله (1:2) zeigt sie Besitz: das Lob GEHOERT Gott. In لكم (2:22) zeigt sie Nutzen: die Erde als Lager FUER EUCH. In لتخرج (14:1) zeigt sie Zweck: DAMIT du die Menschen herausfuehrst. Partikel-Sensitivitaet bedeutet, diese Unterschiede zu erkennen."
+            "explanation": "Die Präposition ل ist hochgradig kontextabhängig. In لله (1:2) zeigt sie Besitz: das Lob GEHOERT Gott. In لكم (2:22) zeigt sie Nutzen: die Erde als Lager FUER EUCH. In لتخرج (14:1) zeigt sie Zweck: DAMIT du die Menschen herausfuehrst. Partikel-Sensitivität bedeutet, diese Unterschiede zu erkennen."
           }
         ]
       }
@@ -1024,17 +1030,17 @@
         {
           "type": "phonosemantic",
           "prompt": "Untersuche die Wurzeln mit ق-ط (q-ṭ) im Quran: قطع (abschneiden, 6:45), قطر (Tropfen/Teer, 18:96), قطف (pfluecken, 69:23). Teilen sie ein phonosemantisches Element? Vergleiche den Klang der emphatischen Kombination ق+ط mit weicheren Kombinationen wie ل+م.",
-          "hint": "Die Kombination ق+ط erzeugt einen abrupten, schneidenden Klang — passend zu Bedeutungen wie 'abschneiden', 'abtrennen'. Der emphatische ط verstaerkt die Wirkung des ق. Vergleiche mit ل+م (weich, fliessend): لمس (beruehren), لمع (glaenzen) — hier ist die Klangatmosphaere sanft und gleitend."
+          "hint": "Die Kombination ق+ط erzeugt einen abrupten, schneidenden Klang — passend zu Bedeutungen wie 'abschneiden', 'abtrennen'. Der emphatische ط verstärkt die Wirkung des ق. Vergleiche mit ل+م (weich, fliessend): لمس (beruehren), لمع (glaenzen) — hier ist die Klangatmosphaere sanft und gleitend."
         },
         {
           "type": "analysis",
-          "prompt": "Lies 99:1-5 (Sure az-Zalzala). Markiere alle Woerter mit Konsonantenverdopplung (زلزلت, اثقالها). Wie verstaerkt die Verdopplung die Bedeutung in jedem Fall? Vergleiche mit 89:21 (دكا دكا).",
-          "hint": "زلزلت: Die Verdopplung z-l-z-l ahmt das wiederholte Beben nach (hin-und-her). اثقالها: Die Schwere des ث und ق drueckt die Last aus. In 89:21 erzeugt دكا دكا (Wortwiederholung statt Konsonantenverdopplung) einen aehnlichen Effekt: das wiederholte Stampfen. Beide Verfahren — Konsonantenverdopplung und Wortwiederholung — erzeugen klangliche Intensivierung."
+          "prompt": "Lies 99:1-5 (Sure az-Zalzala). Markiere alle Wörter mit Konsonantenverdopplung (زلزلت, اثقالها). Wie verstärkt die Verdopplung die Bedeutung in jedem Fall? Vergleiche mit 89:21 (دكا دكا).",
+          "hint": "زلزلت: Die Verdopplung z-l-z-l ahmt das wiederholte Beben nach (hin-und-her). اثقالها: Die Schwere des ث und ق drückt die Last aus. In 89:21 erzeugt دكا دكا (Wortwiederholung statt Konsonantenverdopplung) einen ähnlichen Effekt: das wiederholte Stampfen. Beide Verfahren — Konsonantenverdopplung und Wortwiederholung — erzeugen klangliche Intensivierung."
         },
         {
           "type": "verse_group",
-          "prompt": "Vergleiche den Klang der Verse 56:1-6 (الواقعه / اذا وقعت الواقعه — ueber den Juengsten Tag) mit 56:27-34 (واصحب اليمين ما اصحب اليمين — ueber die Menschen des Paradieses). Welche Konsonanten dominieren in jedem Abschnitt und wie unterstuetzt der Klang die Bedeutung?",
-          "hint": "56:1-6: Dominanz harter Laute (ق, ع, ر, ج) — die Beschreibung des erschuetternden Ereignisses. 56:27-34: Weichere Laute mit Nasalen (م, ن) und Liquiden (ل) dominieren in den Paradiesesbeschreibungen (سدر مخضود, طلح منضود, ظل ممدود). Der Klangwechsel markiert den Uebergang vom Schrecken zum Frieden."
+          "prompt": "Vergleiche den Klang der Verse 56:1-6 (الواقعه / اذا وقعت الواقعه — über den Juengsten Tag) mit 56:27-34 (واصحب اليمين ما اصحب اليمين — über die Menschen des Paradieses). Welche Konsonanten dominieren in jedem Abschnitt und wie unterstützt der Klang die Bedeutung?",
+          "hint": "56:1-6: Dominanz harter Laute (ق, ع, ر, ج) — die Beschreibung des erschuetternden Ereignisses. 56:27-34: Weichere Laute mit Nasalen (م, ن) und Liquiden (ل) dominieren in den Paradiesesbeschreibungen (سدر مخضود, طلح منضود, ظل ممدود). Der Klangwechsel markiert den Übergang vom Schrecken zum Frieden."
         }
       ],
       "testContent": {
@@ -1097,16 +1103,16 @@
           {
             "question": "Die Konsonantenkombination ق+ط in Wurzeln wie قطع (abschneiden) und قطر (Tropfen/Teer) erzeugt welchen phonosemantischen Effekt?",
             "options": [
-              "Einen weichen, fliessenden Klang, der Sanftheit ausdrueckt",
+              "Einen weichen, fliessenden Klang, der Sanftheit ausdrückt",
               "Einen abrupten, schneidenden Klang, der zum Bedeutungsfeld 'Abtrennen/Abschneiden' passt",
-              "Einen tiefen, summenden Klang, der Groesse ausdrueckt",
-              "Keinen besonderen Klangeffekt — die Verbindung ist zufaellig"
+              "Einen tiefen, summenden Klang, der Größe ausdrückt",
+              "Keinen besonderen Klangeffekt — die Verbindung ist zufällig"
             ],
             "correct": 1,
-            "explanation": "Die Kombination des uvularen ق (tief im Rachen) mit dem emphatischen ط erzeugt einen abrupten, schneidenden Klangeindruck. Dieser passt zum Bedeutungsfeld des Abtrennens: قطع (abschneiden, 6:45), قطف (pfluecken, 69:23). Phonosemantisch verstaerkt der Klang die Bedeutung."
+            "explanation": "Die Kombination des uvularen ق (tief im Rachen) mit dem emphatischen ط erzeugt einen abrupten, schneidenden Klangeindruck. Dieser passt zum Bedeutungsfeld des Abtrennens: قطع (abschneiden, 6:45), قطف (pfluecken, 69:23). Phonosemantisch verstärkt der Klang die Bedeutung."
           },
           {
-            "question": "In 99:1 steht زلزلت (es wurde erschuettert). Wie verstaerkt die Konsonantenverdopplung (z-l-z-l) die Bedeutung?",
+            "question": "In 99:1 steht زلزلت (es wurde erschuettert). Wie verstärkt die Konsonantenverdopplung (z-l-z-l) die Bedeutung?",
             "options": [
               "Die Verdopplung hat keine besondere Wirkung — sie ist rein grammatisch",
               "Die Wiederholung von z-l ahmt das wiederholte Hin-und-Her-Beben klanglich nach",
@@ -1128,7 +1134,7 @@
           {
             "type": "explanation",
             "title": "Der Quran ist Vortrag",
-            "content": "Das Wort قُرْآن kommt von der Wurzel ق-ر-أ (q-r-ʾ) und bedeutet: Vortrag, Lesung. Der Text richtet sich primaer an ein Hoerpublikum — der Sprecher des Textes verwendet قُلْ (Sprich!), nicht 'Schreib!'. Die Klangstruktur — Rhythmus, Reim, Lautmalerei — ist kein Ornament, sondern Teil der textuellen Komposition. Wer den Quran nur liest, ohne ihn zu hoeren, verpasst eine wesentliche Dimension des Textes."
+            "content": "Das Wort قُرْآن kommt von der Wurzel ق-ر-أ (q-r-ʾ) und bedeutet: Vortrag, Lesung. Der Text richtet sich primär an ein Hoerpublikum — der Sprecher des Textes verwendet قُلْ (Sprich!), nicht 'Schreib!'. Die Klangstruktur — Rhythmus, Reim, Lautmalerei — ist kein Ornament, sondern Teil der textuellen Komposition. Wer den Quran nur liest, ohne ihn zu hören, verpasst eine wesentliche Dimension des Textes."
           },
           {
             "type": "explanation",
@@ -1199,18 +1205,18 @@
         },
         {
           "type": "analysis",
-          "prompt": "Hoere Sure 91 (ash-Shams) und achte auf die Fasila. Die Sure hat 15 Verse. In den ersten 10 Versen enden alle auf -aha (ضحها, تلها, جلها, يغشها, بنها, طحها, سوها, تقوها, زكها, دسها). Dann bricht der Reim ab (Vers 11-15). Was signalisiert dieser Reimbruch inhaltlich?",
-          "hint": "Die ersten 10 Verse sind Schwuere und allgemeine Aussagen — sie bilden eine geschlossene klangliche Einheit mit -aha-Reim. Ab Vers 11 beginnt die Erzaehlung von Thamud — ein neuer inhaltlicher Abschnitt. Der Reimbruch markiert den Uebergang vom Allgemeinen (Schwuere ueber Schoepfung) zum Konkreten (historische Erzaehlung). Form und Inhalt stimmen ueberein."
+          "prompt": "Höre Sure 91 (ash-Shams) und achte auf die Fasila. Die Sure hat 15 Verse. In den ersten 10 Versen enden alle auf -aha (ضحها, تلها, جلها, يغشها, بنها, طحها, سوها, تقوها, زكها, دسها). Dann bricht der Reim ab (Vers 11-15). Was signalisiert dieser Reimbruch inhaltlich?",
+          "hint": "Die ersten 10 Verse sind Schwüre und allgemeine Aussagen — sie bilden eine geschlossene klangliche Einheit mit -aha-Reim. Ab Vers 11 beginnt die Erzählung von Thamud — ein neuer inhaltlicher Abschnitt. Der Reimbruch markiert den Übergang vom Allgemeinen (Schwüre über Schöpfung) zum Konkreten (historische Erzählung). Form und Inhalt stimmen überein."
         },
         {
           "type": "direct_reading",
-          "prompt": "Lies die ersten 5 Verse von Sure 93 (ad-Duha) laut vor: والضحى والليل اذا سجى ما ودعك ربك وما قلى وللاخره خير لك من الاولى ولسوف يعطيك ربك فترضى. Achte auf den Reimlaut -a am Ende jedes Verses. Wie wirkt dieser offene Vokal auf den Hoerer?",
-          "hint": "Der offene -a-Reim (سجى, قلى, الاولى, فترضى) erzeugt einen weichen, offenen Klang — wie ein Ausatmen, ein Seufzen der Erleichterung. Passend zum Ton der Sure, der tröstlich und bekräftigend ist. Vergleiche mit dem harten -d-Reim in Sure 112 (احد, الصمد, يولد) — dort drueckt der geschlossene Konsonant Endgueltigkeit aus."
+          "prompt": "Lies die ersten 5 Verse von Sure 93 (ad-Duha) laut vor: والضحى والليل اذا سجى ما ودعك ربك وما قلى وللاخره خير لك من الاولى ولسوف يعطيك ربك فترضى. Achte auf den Reimlaut -a am Ende jedes Verses. Wie wirkt dieser offene Vokal auf den Hörer?",
+          "hint": "Der offene -a-Reim (سجى, قلى, الاولى, فترضى) erzeugt einen weichen, offenen Klang — wie ein Ausatmen, ein Seufzen der Erleichterung. Passend zum Ton der Sure, der tröstlich und bekräftigend ist. Vergleiche mit dem harten -d-Reim in Sure 112 (احد, الصمد, يولد) — dort drückt der geschlossene Konsonant Endgueltigkeit aus."
         },
         {
           "type": "comparison",
-          "prompt": "Vergleiche die Verslaengen in Sure 2:282 (dem laengsten Vers des Qurans, ueber Schuldenvertraege) mit Sure 108 (der kuerzesten Sure, 3 kurze Verse). Wie unterscheidet sich der Rhythmus und welche Funktion hat die unterschiedliche Laenge?",
-          "hint": "2:282 ist extrem lang — er regelt Vertragsdetails ausfuehrlich und praezise. Der lange Atem des Verses spiegelt die Sorgfalt wider, die Vertraege erfordern. Sure 108 hat drei ultra-kurze Verse — schnell, direkt, emotional. Vertragsrecht braucht Ausfuehrlichkeit, ein Trostwort braucht Praegnanz. Der Rhythmus DIENT dem Inhalt."
+          "prompt": "Vergleiche die Verslaengen in Sure 2:282 (dem längsten Vers des Qurans, über Schuldenvertraege) mit Sure 108 (der kürzesten Sure, 3 kurze Verse). Wie unterscheidet sich der Rhythmus und welche Funktion hat die unterschiedliche Länge?",
+          "hint": "2:282 ist extrem lang — er regelt Vertragsdetails ausführlich und praezise. Der lange Atem des Verses spiegelt die Sorgfalt wider, die Verträge erfordern. Sure 108 hat drei ultra-kurze Verse — schnell, direkt, emotional. Vertragsrecht braucht Ausführlichkeit, ein Trostwort braucht Praegnanz. Der Rhythmus DIENT dem Inhalt."
         }
       ],
       "testContent": {
@@ -1274,12 +1280,12 @@
             "question": "In Sure 91 enden die ersten 10 Verse alle auf -aha, dann bricht der Reim ab (Verse 11-15). Was signalisiert dieser Reimbruch?",
             "options": [
               "Es ist ein Kopierfehler — die Sure sollte einheitlich reimen",
-              "Der Reimbruch markiert den Uebergang vom Allgemeinen (Schwuere ueber die Schoepfung) zum Konkreten (historische Erzaehlung von Thamud)",
+              "Der Reimbruch markiert den Übergang vom Allgemeinen (Schwüre über die Schöpfung) zum Konkreten (historische Erzählung von Thamud)",
               "Der Reimbruch zeigt, dass die Sure aus zwei verschiedenen Offenbarungen besteht",
-              "Der Reimbruch hat keine Bedeutung — er ist rein zufaellig"
+              "Der Reimbruch hat keine Bedeutung — er ist rein zufällig"
             ],
             "correct": 1,
-            "explanation": "Die ersten 10 Verse bilden eine geschlossene klangliche Einheit (Schwuere mit -aha-Reim). Ab Vers 11 beginnt die Thamud-Erzaehlung — ein neuer Inhalt, der durch einen neuen Klang markiert wird. Der Reimbruch ist ein prosodisches Signal fuer den inhaltlichen Wechsel."
+            "explanation": "Die ersten 10 Verse bilden eine geschlossene klangliche Einheit (Schwüre mit -aha-Reim). Ab Vers 11 beginnt die Thamud-Erzählung — ein neuer Inhalt, der durch einen neuen Klang markiert wird. Der Reimbruch ist ein prosodisches Signal für den inhaltlichen Wechsel."
           },
           {
             "question": "Der offene -a-Reim in Sure 93 (سجى, قلى, الاولى, فترضى) erzeugt welchen Klangeffekt?",
@@ -1290,7 +1296,7 @@
               "Einen schnellen, draengenden Rhythmus wie in eschatologischen Passagen"
             ],
             "correct": 1,
-            "explanation": "Der offene -a-Vokal am Versende klingt wie ein Ausatmen, ein Seufzen der Erleichterung. Die Sure troestet den Angesprochenen (dein Herr hat dich nicht verlassen), und der weiche Reim unterstuetzt diesen Trost klanglich. Vergleiche: Sure 112 endet auf hartes -d (Endgueltigkeit), Sure 93 auf offenes -a (Trost und Offenheit)."
+            "explanation": "Der offene -a-Vokal am Versende klingt wie ein Ausatmen, ein Seufzen der Erleichterung. Die Sure troestet den Angesprochenen (dein Herr hat dich nicht verlassen), und der weiche Reim unterstützt diesen Trost klanglich. Vergleiche: Sure 112 endet auf hartes -d (Endgueltigkeit), Sure 93 auf offenes -a (Trost und Offenheit)."
           }
         ]
       }
@@ -1418,7 +1424,7 @@
         {
           "type": "speech_act",
           "prompt": "Lies 2:1–20. Identifiziere den Sprechakt jedes Verses. Welche Handlung vollzieht der Text? Gruppiere die Verse nach Sprechakttypen und beschreibe, wie die Abfolge der Sprechakte den Argumentationsaufbau der Sure-Eröffnung bildet.",
-          "hint": "Verse 1–5: Aufmerksamkeit (الم), Deklaration (ذَلِكَ الْكِتَابُ), Definition der sich Huetenden (الَّذِينَ يُؤْمِنُونَ), Versprechen (أُولَئِكَ عَلَى هُدًى). Verse 6–7: Warnung (إِنَّ الَّذِينَ كَفَرُوا — Information die als Warnung wirkt), Beschreibung (خَتَمَ اللَّهُ). Verse 8–16: Erzählung/Beschreibung der Heuchler — Information die als Warnung dient. Verse 17–20: Zwei Gleichnisse (Argumentation durch Bild). Der Aufbau: positive Gruppe → negative Gruppe → Heuchler → Gleichnisse. Drei Gruppen werden definiert, bevor die Sure fortfährt."
+          "hint": "Verse 1–5: Aufmerksamkeit (الم), Deklaration (ذَلِكَ الْكِتَابُ), Definition der sich Hütenden (الَّذِينَ يُؤْمِنُونَ), Versprechen (أُولَئِكَ عَلَى هُدًى). Verse 6–7: Warnung (إِنَّ الَّذِينَ كَفَرُوا — Information die als Warnung wirkt), Beschreibung (خَتَمَ اللَّهُ). Verse 8–16: Erzählung/Beschreibung der Heuchler — Information die als Warnung dient. Verse 17–20: Zwei Gleichnisse (Argumentation durch Bild). Der Aufbau: positive Gruppe → negative Gruppe → Heuchler → Gleichnisse. Drei Gruppen werden definiert, bevor die Sure fortfährt."
         },
         {
           "type": "speech_act",
@@ -1432,18 +1438,18 @@
         },
         {
           "type": "analysis",
-          "prompt": "Lies 67:1-5. Identifiziere den Sprechakt jedes Verses: (1) تبرك الذى بيده الملك (Segensreich ist der, in dessen Hand die Herrschaft liegt), (2) الذى خلق الموت والحيوه ليبلوكم (der Tod und Leben erschuf, um euch zu pruefen), (3-4) الذى خلق سبع سموت طباقا ... فارجع البصر هل ترى من فطور (der sieben Himmel schuf ... schau nochmals hin, siehst du Risse?). Wie bauen die Sprechakte aufeinander auf?",
-          "hint": "Vers 1: Lobpreis/Feststellung (Deklaration). Vers 2: Information mit verborgenem Versprechen/Warnung (die Pruefung hat ein Ziel). Verse 3-4: Argumentation durch Befehl und rhetorische Frage — der Zuhoerer wird aufgefordert, selbst die Makellosigkeit der Schoepfung zu ueberpruefen. Der Aufbau: Lob → Begruendung → Beweis durch eigene Beobachtung."
+          "prompt": "Lies 67:1-5. Identifiziere den Sprechakt jedes Verses: (1) تبرك الذى بيده الملك (Segensreich ist der, in dessen Hand die Herrschaft liegt), (2) الذى خلق الموت والحيوه ليبلوكم (der Tod und Leben erschuf, um euch zu prüfen), (3-4) الذى خلق سبع سموت طباقا ... فارجع البصر هل ترى من فطور (der sieben Himmel schuf ... schau nochmals hin, siehst du Risse?). Wie bauen die Sprechakte aufeinander auf?",
+          "hint": "Vers 1: Lobpreis/Feststellung (Deklaration). Vers 2: Information mit verborgenem Versprechen/Warnung (die Prüfung hat ein Ziel). Verse 3-4: Argumentation durch Befehl und rhetorische Frage — der Zuhörer wird aufgefordert, selbst die Makellosigkeit der Schöpfung zu ueberpruefen. Der Aufbau: Lob → Begründung → Beweis durch eigene Beobachtung."
         },
         {
           "type": "identification",
           "prompt": "In 2:255 stehen mindestens vier verschiedene Sprechakte in einem Vers. Identifiziere sie: الله لا اله الا هو الحى القيوم ... من ذا الذى يشفع عنده الا باذنه ... ولا يحيطون بشى من علمه الا بما شا ... ولا يوده حفظهما وهو العلى العظيم.",
-          "hint": "1) Feststellung/Deklaration: الله لا اله الا هو (Es gibt keinen Gott ausser Ihm). 2) Argumentation durch rhetorische Frage: من ذا الذى يشفع عنده (Wer koennte bei Ihm Fuersprache einlegen?). 3) Information: يعلم ما بين ايديهم وما خلفهم (Er weiss, was vor ihnen und hinter ihnen ist). 4) Abschlussdeklaration: وهو العلى العظيم (Er ist der Erhabene, der Gewaltige). Der Vers baut eine Argumentation auf: Einheit Gottes → Macht Gottes → Wissen Gottes → zusammenfassende Erhebung."
+          "hint": "1) Feststellung/Deklaration: الله لا اله الا هو (Es gibt keinen Gott ausser Ihm). 2) Argumentation durch rhetorische Frage: من ذا الذى يشفع عنده (Wer könnte bei Ihm Fuersprache einlegen?). 3) Information: يعلم ما بين ايديهم وما خلفهم (Er weiss, was vor ihnen und hinter ihnen ist). 4) Abschlussdeklaration: وهو العلى العظيم (Er ist der Erhabene, der Gewaltige). Der Vers baut eine Argumentation auf: Einheit Gottes → Macht Gottes → Wissen Gottes → zusammenfassende Erhebung."
         },
         {
           "type": "comparison",
-          "prompt": "Vergleiche den Sprechakt von 3:185 (كل نفس ذايقه الموت — Jede Seele wird den Tod kosten) mit 21:35 (كل نفس ذايقه الموت ونبلوكم بالشر والخير فتنه — Jede Seele kostet den Tod, und Wir pruefen euch mit Schlechtem und Gutem als Pruefung). Wie veraendert der Zusatz den Sprechakt?",
-          "hint": "3:185 allein ist eine Information — eine kosmische Tatsache wird mitgeteilt. 21:35 fuegt eine Warnung und eine Erklaerung hinzu: Der Tod ist nicht nur Tatsache, sondern Teil einer Pruefung (فتنه). Der Sprechakt wechselt von 'Informieren' zu 'Informieren + Warnen + Erklaeren'. Derselbe Anfangssatz, aber der Kontext aendert die pragmatische Funktion."
+          "prompt": "Vergleiche den Sprechakt von 3:185 (كل نفس ذايقه الموت — Jede Seele wird den Tod kosten) mit 21:35 (كل نفس ذايقه الموت ونبلوكم بالشر والخير فتنه — Jede Seele kostet den Tod, und Wir prüfen euch mit Schlechtem und Gutem als Prüfung). Wie verändert der Zusatz den Sprechakt?",
+          "hint": "3:185 allein ist eine Information — eine kosmische Tatsache wird mitgeteilt. 21:35 fuegt eine Warnung und eine Erklärung hinzu: Der Tod ist nicht nur Tatsache, sondern Teil einer Prüfung (فتنه). Der Sprechakt wechselt von 'Informieren' zu 'Informieren + Warnen + Erklären'. Derselbe Anfangssatz, aber der Kontext ändert die pragmatische Funktion."
         }
       ],
       "testContent": {
@@ -1559,26 +1565,26 @@
             "correct": 2
           },
           {
-            "question": "In 67:3-4 fordert der Quran den Zuhoerer auf: فارجع البصر هل ترى من فطور (Schaue nochmals hin — siehst du Risse?). Welche Kombination von Sprechakten liegt hier vor?",
+            "question": "In 67:3-4 fordert der Quran den Zuhörer auf: فارجع البصر هل ترى من فطور (Schaue nochmals hin — siehst du Risse?). Welche Kombination von Sprechakten liegt hier vor?",
             "options": [
-              "Nur ein Befehl — der Zuhoerer soll hinsehen",
-              "Befehl (فارجع البصر — Schau hin!) kombiniert mit rhetorischer Frage (هل ترى من فطور — siehst du Risse?) als Argumentation — der Zuhoerer soll durch eigene Beobachtung zur Erkenntnis kommen",
+              "Nur ein Befehl — der Zuhörer soll hinsehen",
+              "Befehl (فارجع البصر — Schau hin!) kombiniert mit rhetorischer Frage (هل ترى من فطور — siehst du Risse?) als Argumentation — der Zuhörer soll durch eigene Beobachtung zur Erkenntnis kommen",
               "Nur eine rhetorische Frage — die Antwort ist vorgegeben",
-              "Nur eine Warnung — der Zuhoerer wird bedroht"
+              "Nur eine Warnung — der Zuhörer wird bedroht"
             ],
             "correct": 1,
-            "explanation": "Der Vers kombiniert zwei Sprechakte: Der Befehl (Schau hin!) aktiviert den Zuhoerer, die rhetorische Frage (Siehst du Risse?) fuehrt ihn zur eigenen Beobachtung. Die beiden Sprechakte zusammen bilden eine rhetorische Struktur: Aufforderung zur Beobachtung gefolgt von einer Frage die den Zuhoerer zum eigenen Urteil zwingt."
+            "explanation": "Der Vers kombiniert zwei Sprechakte: Der Befehl (Schau hin!) aktiviert den Zuhörer, die rhetorische Frage (Siehst du Risse?) führt ihn zur eigenen Beobachtung. Die beiden Sprechakte zusammen bilden eine rhetorische Struktur: Aufforderung zur Beobachtung gefolgt von einer Frage die den Zuhörer zum eigenen Urteil zwingt."
           },
           {
-            "question": "Der Satz كل نفس ذايقه الموت (Jede Seele wird den Tod kosten) erscheint in 3:185 und 21:35. In 21:35 folgt ونبلوكم بالشر والخير فتنه (Wir pruefen euch mit Schlechtem und Gutem als Pruefung). Wie veraendert der Zusatz den Sprechakt?",
+            "question": "Der Satz كل نفس ذايقه الموت (Jede Seele wird den Tod kosten) erscheint in 3:185 und 21:35. In 21:35 folgt ونبلوكم بالشر والخير فتنه (Wir prüfen euch mit Schlechtem und Gutem als Prüfung). Wie verändert der Zusatz den Sprechakt?",
             "options": [
               "Der Sprechakt bleibt gleich — beides ist Informieren",
-              "Der Zusatz macht aus einer reinen Information (kosmische Tatsache) eine Warnung und Erklaerung (der Tod ist Teil einer Pruefung)",
+              "Der Zusatz macht aus einer reinen Information (kosmische Tatsache) eine Warnung und Erklärung (der Tod ist Teil einer Prüfung)",
               "Der Zusatz verwandelt die Information in ein Versprechen",
-              "Der Zusatz ist eine Wiederholung ohne zusaetzliche Funktion"
+              "Der Zusatz ist eine Wiederholung ohne zusätzliche Funktion"
             ],
             "correct": 1,
-            "explanation": "In 3:185 allein ist der Satz eine Information — eine Tatsache. In 21:35 wird durch den Zusatz فتنه (Pruefung) eine Warnung und eine Erklaerung hinzugefuegt: Der Tod ist nicht nur Tatsache, sondern Teil eines groesseren Plans. Derselbe Satz, unterschiedlicher pragmatischer Kontext."
+            "explanation": "In 3:185 allein ist der Satz eine Information — eine Tatsache. In 21:35 wird durch den Zusatz فتنه (Prüfung) eine Warnung und eine Erklärung hinzugefuegt: Der Tod ist nicht nur Tatsache, sondern Teil eines größeren Plans. Derselbe Satz, unterschiedlicher pragmatischer Kontext."
           }
         ]
       }
@@ -1607,7 +1613,7 @@
           {
             "type": "explanation",
             "title": "Der Weg dorthin: Tägliche Praxis",
-            "content": "Direktes Verstehen kommt nicht durch eine einzelne Uebung, sondern durch taegliche Praxis. Empfohlene Routine: 1. Taeglich eine Seite Quran lesen — OHNE Uebersetzung. 2. Markiere Woerter, die du nicht verstehst, und schlage sie nach. 3. Lies dieselbe Seite am naechsten Tag nochmal — die unbekannten Woerter werden weniger. 4. Hoere die Audioaufnahme dazu (langsames Tempo). 5. Nach einer Woche: Lies die Seite nochmals. Du wirst ueberrascht sein, wie viel du jetzt direkt verstehst."
+            "content": "Direktes Verstehen kommt nicht durch eine einzelne Übung, sondern durch taegliche Praxis. Empfohlene Routine: 1. Taeglich eine Seite Quran lesen — OHNE Übersetzung. 2. Markiere Wörter, die du nicht verstehst, und schlage sie nach. 3. Lies dieselbe Seite am nächsten Tag nochmal — die unbekannten Wörter werden weniger. 4. Höre die Audioaufnahme dazu (langsames Tempo). 5. Nach einer Woche: Lies die Seite nochmals. Du wirst ueberrascht sein, wie viel du jetzt direkt verstehst."
           },
           {
             "type": "explanation",
@@ -1627,7 +1633,7 @@
           {
             "type": "explanation",
             "title": "Empfohlene Reihenfolge zum Auswendiglernen",
-            "content": "1. Sure 1 — 7 Verse. Die Eroeffnungssure. Kurz, fundamental. Beginne hier. Lerne sie vom konsonantischen Text, ohne Vokalzeichen. Du wirst feststellen: Wenn du die Morphologie beherrschst, weißt du bei jedem Wort WARUM es so vokalisiert wird — du reproduzierst nicht nur, du verstehst die Struktur. 2. Vers 2:255 — Ein einzelner, langer, syntaktisch anspruchsvoller Vers. Grammatisch anspruchsvoll: Nominalsätze, Relativsätze, rhetorische Frage, Negation. Wer diesen Vers Wort für Wort vom Konsonantentext aus beherrscht, hat eine Musteranalyse für komplexe quranische Syntax internalisiert. 3. Sure 36 — 83 Verse. Verschiedene Sprechakte, wechselnde Themen, rhythmisch einprägsam. Das Auswendiglernen einer ganzen Sure dieser Länge vom Konsonantentext aus ist ein Meilenstein."
+            "content": "1. Sure 1 — 7 Verse. Die Eröffnungssure. Kurz, fundamental. Beginne hier. Lerne sie vom konsonantischen Text, ohne Vokalzeichen. Du wirst feststellen: Wenn du die Morphologie beherrschst, weißt du bei jedem Wort WARUM es so vokalisiert wird — du reproduzierst nicht nur, du verstehst die Struktur. 2. Vers 2:255 — Ein einzelner, langer, syntaktisch anspruchsvoller Vers. Grammatisch anspruchsvoll: Nominalsätze, Relativsätze, rhetorische Frage, Negation. Wer diesen Vers Wort für Wort vom Konsonantentext aus beherrscht, hat eine Musteranalyse für komplexe quranische Syntax internalisiert. 3. Sure 36 — 83 Verse. Verschiedene Sprechakte, wechselnde Themen, rhythmisch einprägsam. Das Auswendiglernen einer ganzen Sure dieser Länge vom Konsonantentext aus ist ein Meilenstein."
           },
           {
             "type": "explanation",
@@ -1637,7 +1643,7 @@
           {
             "type": "explanation",
             "title": "Anzeichen, dass du es erreicht hast",
-            "content": "Du weisst, dass du direktes Verstehen erreicht hast, wenn: 1. Du beim Hoeren einer Audioaufnahme sofort verstehst, worum es geht — ohne Uebersetzung. 2. Du in einem Vers eine Nuance bemerkst, die in keiner Uebersetzung steht. 3. Du dich dabei ertappst, auf Deutsch NICHT formulieren zu koennen, was du auf Arabisch verstanden hast — weil die Bedeutung tiefer geht als Worte. 4. Du beim Lesen NICHT mehr ein deutsches Wort pro arabisches Wort abrufst, sondern ein Gesamtbild entsteht. Das ist das Ende dieses Curriculums."
+            "content": "Du weisst, dass du direktes Verstehen erreicht hast, wenn: 1. Du beim Hören einer Audioaufnahme sofort verstehst, worum es geht — ohne Übersetzung. 2. Du in einem Vers eine Nuance bemerkst, die in keiner Übersetzung steht. 3. Du dich dabei ertappst, auf Deutsch NICHT formulieren zu können, was du auf Arabisch verstanden hast — weil die Bedeutung tiefer geht als Worte. 4. Du beim Lesen NICHT mehr ein deutsches Wort pro arabisches Wort abrufst, sondern ein Gesamtbild entsteht. Das ist das Ende dieses Curriculums."
           },
           {
             "type": "example",
@@ -1693,7 +1699,7 @@
               {
                 "ref": "2:286",
                 "arabic": "لا يكلف الله نفسا الا وسعها لها ما كسبت وعليها ما اكتسبت",
-                "explanation": "Das Ende von Sure 2. Direktes Verstehen bemerkt den Unterschied zwischen كسبت und اكتسبت: Beides kommt von der Wurzel ك-س-ب (erwerben), aber اكتسبت (Form VIII) drückt Anstrengung und Eigeninitiative aus. Für das Gute (لها ما كسبت) reicht einfaches Erwerben — für das Schlechte (وعليها ما اكتسبت) muss man sich aktiv bemühen. Diese Nuance — ein einziger zusaetzlicher Buchstabe (ت der Form VIII) — veraendert die Bedeutung des Satzes. Keine Uebersetzung gibt das wieder."
+                "explanation": "Das Ende von Sure 2. Direktes Verstehen bemerkt den Unterschied zwischen كسبت und اكتسبت: Beides kommt von der Wurzel ك-س-ب (erwerben), aber اكتسبت (Form VIII) drückt Anstrengung und Eigeninitiative aus. Für das Gute (لها ما كسبت) reicht einfaches Erwerben — für das Schlechte (وعليها ما اكتسبت) muss man sich aktiv bemühen. Diese Nuance — ein einziger zusätzlicher Buchstabe (ت der Form VIII) — verändert die Bedeutung des Satzes. Keine Übersetzung gibt das wieder."
               },
               {
                 "ref": "93:1–5",
@@ -1717,7 +1723,7 @@
         },
         {
           "type": "direct_reading",
-          "prompt": "Hoere eine langsame Audioaufnahme von Sure 67 ohne Text und ohne Uebersetzung. Wie viel verstehst du beim ersten Hoeren?",
+          "prompt": "Höre eine langsame Audioaufnahme von Sure 67 ohne Text und ohne Übersetzung. Wie viel verstehst du beim ersten Hören?",
           "hint": "Notiere nach dem Hören, was du verstanden hast. Dann lies den arabischen Text. Dann höre nochmals. Wiederhole das einmal pro Woche."
         },
         {
@@ -1742,18 +1748,18 @@
         },
         {
           "type": "direct_reading",
-          "prompt": "Lies 36:77-83 im Konsonantentext (اولم ير الانسن انا خلقنه من نطفه فاذا هو خصيم مبين ... انما امره اذا اراد شيا ان يقول له كن فيكون). Versuche, die gesamte Passage direkt zu verstehen — ohne innere Uebersetzung. Notiere, welche Woerter du direkt erfasst und wo du noch stockst. Analysiere dann die Passage auf allen Ebenen: Wurzeln, Syntax, Rhetorik, Klang, Sprechakte.",
-          "hint": "Diese Passage ist ein Hoehepunkt des Qurans: Sie beginnt mit einer rhetorischen Frage (Argumentation), fuehrt durch ein Gleichnis (der Mensch vergisst seinen eigenen Ursprung), steigert sich zu einer Klimax (der, der die Knochen belebt, ist der, der sie beim ersten Mal erschuf) und schliesst mit dem maechtigsten Vers: كن فيكون. Direktes Verstehen erfasst alle Ebenen gleichzeitig."
+          "prompt": "Lies 36:77-83 im Konsonantentext (اولم ير الانسن انا خلقنه من نطفه فاذا هو خصيم مبين ... انما امره اذا اراد شيا ان يقول له كن فيكون). Versuche, die gesamte Passage direkt zu verstehen — ohne innere Übersetzung. Notiere, welche Wörter du direkt erfasst und wo du noch stockst. Analysiere dann die Passage auf allen Ebenen: Wurzeln, Syntax, Rhetorik, Klang, Sprechakte.",
+          "hint": "Diese Passage ist ein Höhepunkt des Qurans: Sie beginnt mit einer rhetorischen Frage (Argumentation), führt durch ein Gleichnis (der Mensch vergisst seinen eigenen Ursprung), steigert sich zu einer Klimax (der, der die Knochen belebt, ist der, der sie beim ersten Mal erschuf) und schließt mit dem mächtigsten Vers: كن فيكون. Direktes Verstehen erfasst alle Ebenen gleichzeitig."
         },
         {
           "type": "analysis",
-          "prompt": "Waehle einen Abschnitt von 10 aufeinanderfolgenden Versen aus Sure 2 (z.B. 2:30-39, die Adam-Erzaehlung). Lies den Abschnitt dreimal: (1) Erstes Lesen: nur den arabischen Text, ohne jede Hilfe. Notiere, wie viel Prozent du direkt verstehst. (2) Zweites Lesen: schlage unbekannte Wurzeln nach. (3) Drittes Lesen: lies erneut nur den arabischen Text. Hat sich dein Verstaendnis vertieft?",
-          "hint": "Diese Uebung misst deinen Fortschritt. In Stufe 12 solltest du beim ersten Lesen mindestens 70-80% direkt verstehen. Die Adam-Erzaehlung (2:30-39) enthaelt Schluesselvokabular: خليفه (Stellvertreter), اسما (Namen), سجدوا (sie warfen sich nieder), اهبطوا (steigt herab). Wenn du die Wurzeln aus deinem Root Journal kennst, erschliesst sich der Text zunehmend direkt."
+          "prompt": "Wähle einen Abschnitt von 10 aufeinanderfolgenden Versen aus Sure 2 (z.B. 2:30-39, die Adam-Erzählung). Lies den Abschnitt dreimal: (1) Erstes Lesen: nur den arabischen Text, ohne jede Hilfe. Notiere, wie viel Prozent du direkt verstehst. (2) Zweites Lesen: schlage unbekannte Wurzeln nach. (3) Drittes Lesen: lies erneut nur den arabischen Text. Hat sich dein Verständnis vertieft?",
+          "hint": "Diese Übung misst deinen Fortschritt. In Stufe 12 solltest du beim ersten Lesen mindestens 70-80% direkt verstehen. Die Adam-Erzählung (2:30-39) enthält Schlüsselvokabular: خليفه (Stellvertreter), اسما (Namen), سجدوا (sie warfen sich nieder), اهبطوا (steigt herab). Wenn du die Wurzeln aus deinem Root Journal kennst, erschließt sich der Text zunehmend direkt."
         },
         {
           "type": "direct_reading",
-          "prompt": "Hoere eine Audioaufnahme von Sure 67 (al-Mulk, 30 Verse) bei normaler Geschwindigkeit. Hoere die gesamte Sure einmal ohne Text. Notiere danach: (1) Wie viele der 30 Verse hast du inhaltlich erfasst? (2) Welche Schluesselwoerter hast du sofort erkannt? (3) Wo war der 'Fluss' des Verstehens unterbrochen? Hoere dann ein zweites Mal mit Text. Markiere die Stellen, an denen das Hoeren allein nicht gereicht hat.",
-          "hint": "Sure 67 ist ein idealer Test fuer direktes Verstehen: 30 Verse, klare Struktur (Gottes Macht → Schoepfung → Warnung → Argumentation). Schluesselwoerter: الملك (Herrschaft), خلق (erschuf), الموت والحيوه (Tod und Leben), سبع سموت (sieben Himmel). Wenn du 20+ Verse beim Hoeren erfasst, bist du auf dem Weg zum direkten Verstehen."
+          "prompt": "Höre eine Audioaufnahme von Sure 67 (al-Mulk, 30 Verse) bei normaler Geschwindigkeit. Höre die gesamte Sure einmal ohne Text. Notiere danach: (1) Wie viele der 30 Verse hast du inhaltlich erfasst? (2) Welche Schlüsselwoerter hast du sofort erkannt? (3) Wo war der 'Fluss' des Verstehens unterbrochen? Höre dann ein zweites Mal mit Text. Markiere die Stellen, an denen das Hören allein nicht gereicht hat.",
+          "hint": "Sure 67 ist ein idealer Test für direktes Verstehen: 30 Verse, klare Struktur (Gottes Macht → Schöpfung → Warnung → Argumentation). Schlüsselwoerter: الملك (Herrschaft), خلق (erschuf), الموت والحيوه (Tod und Leben), سبع سموت (sieben Himmel). Wenn du 20+ Verse beim Hören erfasst, bist du auf dem Weg zum direkten Verstehen."
         }
       ],
       "testContent": {
@@ -1808,7 +1814,7 @@
             "options": [
               "Man kann den gesamten Quran auswendig aufsagen",
               "Man kann jeden arabischen Text fehlerfrei vorlesen",
-              "Man versteht beim Hoeren einer Audioaufnahme sofort, worum es geht — ohne Uebersetzung — und bemerkt Nuancen, die in keiner Uebersetzung stehen",
+              "Man versteht beim Hören einer Audioaufnahme sofort, worum es geht — ohne Übersetzung — und bemerkt Nuancen, die in keiner Übersetzung stehen",
               "Man kann arabische Grammatikregeln auf Arabisch erklären"
             ],
             "correct": 2
@@ -1847,26 +1853,26 @@
             "correct": 1
           },
           {
-            "question": "Beim Hoeren von Sure 67 ohne Text: Welches Ergebnis zeigt, dass man auf dem Weg zum direkten Verstehen ist?",
+            "question": "Beim Hören von Sure 67 ohne Text: Welches Ergebnis zeigt, dass man auf dem Weg zum direkten Verstehen ist?",
             "options": [
               "Man erkennt die Melodie der Rezitation, versteht aber kein Wort",
-              "Man kann jeden Vers woertlich ins Deutsche uebersetzen",
-              "Man erfasst mindestens 20 der 30 Verse inhaltlich beim Hoeren und erkennt Schluesselwoerter sofort, ohne innerlich zu uebersetzen",
-              "Man kann die Sure nach dem Hoeren komplett auswendig wiedergeben"
+              "Man kann jeden Vers wörtlich ins Deutsche übersetzen",
+              "Man erfasst mindestens 20 der 30 Verse inhaltlich beim Hören und erkennt Schlüsselwoerter sofort, ohne innerlich zu übersetzen",
+              "Man kann die Sure nach dem Hören komplett auswendig wiedergeben"
             ],
             "correct": 2,
-            "explanation": "Direktes Verstehen zeigt sich darin, dass man den INHALT beim Hoeren erfasst, ohne ihn in eine andere Sprache uebersetzen zu muessen. 20+ von 30 Versen zu erfassen zeigt, dass der arabische Text direkt Bedeutung erzeugt. Perfekte Uebersetzung oder Auswendiglernen sind andere Faehigkeiten."
+            "explanation": "Direktes Verstehen zeigt sich darin, dass man den INHALT beim Hören erfasst, ohne ihn in eine andere Sprache übersetzen zu müssen. 20+ von 30 Versen zu erfassen zeigt, dass der arabische Text direkt Bedeutung erzeugt. Perfekte Übersetzung oder Auswendiglernen sind andere Fähigkeiten."
           },
           {
-            "question": "In 36:77-83 fuehrt der Quran vom Ursprung des Menschen (نطفه — Samentropfen) ueber die Argumentation (من يحيى العظم وهى رميم — wer belebt die Knochen, wenn sie vermodert sind?) bis zu كن فيكون (Sei! Und es ist). Was erfasst direktes Verstehen an dieser Passage, das eine Uebersetzung nicht wiedergibt?",
+            "question": "In 36:77-83 führt der Quran vom Ursprung des Menschen (نطفه — Samentropfen) über die Argumentation (من يحيى العظم وهى رميم — wer belebt die Knochen, wenn sie vermodert sind?) bis zu كن فيكون (Sei! Und es ist). Was erfasst direktes Verstehen an dieser Passage, das eine Übersetzung nicht wiedergibt?",
             "options": [
-              "Nur die woertliche Bedeutung der einzelnen Woerter",
-              "Die rhetorische Klimax (Steigerung von der rhetorischen Frage zum unwiderlegbaren Argument), die phonosemantische Kraft von كن (zwei Buchstaben, die das Sein befehlen), und die syntaktische Reduktion (der gesamte Schoepfungsakt auf zwei Silben verdichtet) — alles gleichzeitig",
+              "Nur die wörtliche Bedeutung der einzelnen Wörter",
+              "Die rhetorische Klimax (Steigerung von der rhetorischen Frage zum unwiderlegbaren Argument), die phonosemantische Kraft von كن (zwei Buchstaben, die das Sein befehlen), und die syntaktische Reduktion (der gesamte Schöpfungsakt auf zwei Silben verdichtet) — alles gleichzeitig",
               "Nur die grammatischen Strukturen",
               "Nur die Reimstruktur der Passage"
             ],
             "correct": 1,
-            "explanation": "Direktes Verstehen erfasst alle Ebenen gleichzeitig: Die rhetorische Steigerung (von der Frage zur Antwort), die morphologische Reduktion (كن = nur zwei Buchstaben fuer den gesamten Schoepfungsbefehl), den phonosemantischen Kontrast (die Kuerze von كن vs. die Unendlichkeit von فيكون), und den Sprechakt (Demonstration absoluter Macht). Keine Uebersetzung kann diese Gleichzeitigkeit transportieren."
+            "explanation": "Direktes Verstehen erfasst alle Ebenen gleichzeitig: Die rhetorische Steigerung (von der Frage zur Antwort), die morphologische Reduktion (كن = nur zwei Buchstaben für den gesamten Schöpfungsbefehl), den phonosemantischen Kontrast (die Kürze von كن vs. die Unendlichkeit von فيكون), und den Sprechakt (Demonstration absoluter Macht). Keine Übersetzung kann diese Gleichzeitigkeit transportieren."
           }
         ]
       }

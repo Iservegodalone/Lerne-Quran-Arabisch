@@ -8,9 +8,9 @@ import ambiguitiesData from '../data/ambiguities.json'
 
 /**
  * ContinuousReader — Fortlaufender Lesemodus
- * Der Lernende liest mehrere Verse / halbe Seite / ganze Seite am Stueck.
- * Hilfe ist auf Nachfrage verfuegbar (Wort antippen zeigt Analyse).
- * Audio-Text-Sync: Wort-fuer-Wort-Highlighting beim Abspielen.
+ * Der Lernende liest mehrere Verse / halbe Seite / ganze Seite am Stück.
+ * Hilfe ist auf Nachfrage verfügbar (Wort antippen zeigt Analyse).
+ * Audio-Text-Sync: Wort-für-Wort-Highlighting beim Abspielen.
  *
  * Large data (morphology DB, vocalized/uthmani/rasm text) is loaded lazily
  * to avoid blocking the initial render with ~10 MB of JSON.
@@ -72,7 +72,7 @@ const VERSES_PER_PAGE = [5, 10, 15, 20, 30]
 // ===== Progressive text layers =====
 const READER_LAYERS = [
   { id: 'vocalized', label: 'Vokalisiert', desc: 'Voll vokalisiert (Tashkil)' },
-  { id: 'adaptive', label: 'Adaptiv', desc: 'Nur unbekannte/mehrdeutige Woerter bleiben vokalisiert' },
+  { id: 'adaptive', label: 'Adaptiv', desc: 'Nur unbekannte/mehrdeutige Wörter bleiben vokalisiert' },
   { id: 'simple', label: 'Konsonantal', desc: 'Konsonanten + I\'jam (Simple Clean)' },
   { id: 'uthmani', label: 'Uthmani', desc: 'Uthmani-Orthographie mit Sonderschreibungen' },
   { id: 'rasm', label: 'Rasm', desc: 'Reiner Rasm ohne Punkte' },
@@ -408,7 +408,7 @@ export default function ContinuousReader({ initialSurah, initialVerse, onClose }
           </select>
         </div>
         <div style={{ display: 'flex', alignItems: 'center', gap: '6px' }}>
-          <label style={{ fontSize: '0.8rem', color: 'var(--text-muted)' }}>Groesse</label>
+          <label style={{ fontSize: '0.8rem', color: 'var(--text-muted)' }}>Größe</label>
           <input type="range" min={20} max={48} value={fontSize}
             onChange={e => setFontSize(parseInt(e.target.value))}
             style={{ width: '80px' }} />
@@ -624,7 +624,7 @@ export default function ContinuousReader({ initialSurah, initialVerse, onClose }
             </>
           ) : (
             <span style={{ fontSize: '0.8rem', color: 'var(--text-muted)' }}>
-              Keine Morphologiedaten verfuegbar
+              Keine Morphologiedaten verfügbar
             </span>
           )}
           <button onClick={() => setSelectedWord(null)} style={{
@@ -647,7 +647,7 @@ export default function ContinuousReader({ initialSurah, initialVerse, onClose }
             color: 'var(--text-primary)', cursor: 'pointer', fontSize: '0.9rem',
             opacity: startVerse <= 1 && surah <= 1 ? 0.4 : 1,
           }}>
-          Zurueck
+          Zurück
         </button>
         <span style={{ fontSize: '0.8rem', color: 'var(--text-muted)', alignSelf: 'center' }}>
           Sure {surah}, Verse {startVerse}-{Math.min(startVerse + versesPerPage - 1, totalVerses)}

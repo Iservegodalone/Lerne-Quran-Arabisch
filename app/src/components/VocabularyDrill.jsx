@@ -4,7 +4,7 @@ import { loadAllRoots } from '../utils/storage.js'
 
 /**
  * VocabularyDrill — Frequenzbasiertes Vokabel-Drilling
- * Nutzt root-meanings.json (Top 300 Wurzeln) fuer aktives Vokabeltraining.
+ * Nutzt root-meanings.json (Top 300 Wurzeln) für aktives Vokabeltraining.
  * Drei Tiers: Top 50, Top 100, Top 300.
  */
 
@@ -79,7 +79,7 @@ export default function VocabularyDrill({ onBack }) {
   if (mode === 'select') {
     return (
       <div style={S.page}>
-        {onBack && <button style={S.backBtn} onClick={onBack}>Zurueck</button>}
+        {onBack && <button style={S.backBtn} onClick={onBack}>Zurück</button>}
         <h2>Vokabel-Drill</h2>
         <p style={{ color: 'var(--text-secondary)', marginBottom: 24 }}>
           Frequenzbasiertes Wurzel-Drilling: Wurzel sehen → Bedeutung erinnern → aufdecken → bewerten.
@@ -115,7 +115,7 @@ export default function VocabularyDrill({ onBack }) {
         </p>
         <div style={{ textAlign: 'center', marginTop: 24 }}>
           <button style={S.btn} onClick={() => startDrill(tier)}>Erneut</button>
-          <button style={S.btnSecondary} onClick={() => setMode('select')}>Tier waehlen</button>
+          <button style={S.btnSecondary} onClick={() => setMode('select')}>Tier wählen</button>
         </div>
       </div>
     )
@@ -127,7 +127,7 @@ export default function VocabularyDrill({ onBack }) {
 
   return (
     <div style={S.page}>
-      <button style={S.backBtn} onClick={() => setMode('select')}>Zurueck zur Auswahl</button>
+      <button style={S.backBtn} onClick={() => setMode('select')}>Zurück zur Auswahl</button>
       <div style={S.progress}>{currentIdx + 1} / {drillRoots.length}</div>
 
       <div style={S.card}>

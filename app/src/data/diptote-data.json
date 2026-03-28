@@ -1,7 +1,12 @@
 {
   "meta": {
     "title": "Diptote und Triptote Deklination",
-    "description": "Unterscheidung zwischen voll deklinierbaren Nomen (triptot, منصرف) und eingeschraenkt deklinierbaren Nomen (diptot, ممنوع من الصرف) im quranischen Arabisch."
+    "description": "Unterscheidung zwischen voll deklinierbaren Nomen (triptot, منصرف) und eingeschränkt deklinierbaren Nomen (diptot, ممنوع من الصرف) im quranischen Arabisch.",
+    "sources": [
+      { "name": "Wright's Grammar Vol I", "url": "https://archive.org/details/grammarofthearab01telerich" },
+      { "name": "Wright's Grammar Vol II", "url": "https://archive.org/details/grammarofthearab02telerich" },
+      { "name": "Quranic Arabic Corpus", "url": "https://corpus.quran.com/" }
+    ]
   },
   "explanation": {
     "triptote": {
@@ -13,14 +18,14 @@
     "diptote": {
       "title": "Diptote Nomen (Mamnu' min as-Sarf)",
       "arabic": "ممنوع من الصرف",
-      "description": "Eingeschraenkte Deklination: Kein Tanwin, und im Genitiv steht Fatha statt Kasra:\n- Nominativ: -u (ـُ) ohne Tanwin\n- Akkusativ: -a (ـَ) ohne Tanwin\n- Genitiv: -a (ـَ) statt -i — das ist der entscheidende Unterschied",
+      "description": "Eingeschränkte Deklination: Kein Tanwin, und im Genitiv steht Fatha statt Kasra:\n- Nominativ: -u (ـُ) ohne Tanwin\n- Akkusativ: -a (ـَ) ohne Tanwin\n- Genitiv: -a (ـَ) statt -i — das ist der entscheidende Unterschied",
       "example": { "word": "ابراهيم", "nom": "إِبْرَاهِيمُ", "acc": "إِبْرَاهِيمَ", "gen": "إِبْرَاهِيمَ" },
-      "note": "Im Genitiv: Fatha statt Kasra. Das ist fuer die Vokalisierungsanalyse direkt relevant — wenn ein diptotes Nomen nach einer Praeposition steht, hat es Fatha (nicht Kasra)."
+      "note": "Im Genitiv: Fatha statt Kasra. Das ist für die Vokalisierungsanalyse direkt relevant — wenn ein diptotes Nomen nach einer Präposition steht, hat es Fatha (nicht Kasra)."
     },
     "diptote_with_article": {
       "title": "Diptote mit Artikel",
-      "description": "Wenn ein diptotes Nomen den bestimmten Artikel (ال) erhaelt, wird es TRIPTOT dekliniert — es bekommt Kasra im Genitiv zurueck. Ebenso in der Idafa (Konstruktverbindung).",
-      "example": "المساجد (die Moscheen): im Genitiv المساجدِ mit Kasra, obwohl مساجد allein diptot waere."
+      "description": "Wenn ein diptotes Nomen den bestimmten Artikel (ال) erhält, wird es TRIPTOT dekliniert — es bekommt Kasra im Genitiv zurück. Ebenso in der Idafa (Konstruktverbindung).",
+      "example": "المساجد (die Moscheen): im Genitiv المساجدِ mit Kasra, obwohl مساجد allein diptot wäre."
     }
   },
   "categories": [
@@ -59,25 +64,25 @@
     {
       "id": "broken_plurals",
       "title": "Bestimmte Broken-Plural-Muster",
-      "description": "Gebrochene Plurale der Muster مفاعل (mafāʿil) und مفاعيل (mafāʿīl) und aehnliche sind diptot.",
+      "description": "Gebrochene Plurale der Muster مفاعل (mafāʿil) und مفاعيل (mafāʿīl) und ähnliche sind diptot.",
       "patterns": [
         { "pattern": "مَفَاعِل", "example": "مساجد", "singular": "مسجد", "meaning": "Moscheen", "locations": ["2:114", "2:187"] },
         { "pattern": "مَفَاعِيل", "example": "مصابيح", "singular": "مصباح", "meaning": "Lampen", "locations": ["67:5"] },
-        { "pattern": "فَعَالِل", "example": "دراهم", "singular": "درهم", "meaning": "Dirham (Waehrung)" },
+        { "pattern": "فَعَالِل", "example": "دراهم", "singular": "درهم", "meaning": "Dirham (Währung)" },
         { "pattern": "أَفَاعِل", "example": "اساور", "singular": "اسوار", "meaning": "Armbaender", "locations": ["18:31", "22:23"] }
       ],
-      "note": "Diese Pluralmuster sind im Quran extrem haeufig. Ihre Diptoie hat direkte Konsequenzen fuer die Vokalisierung: Im Genitiv Fatha statt Kasra (ohne Artikel)."
+      "note": "Diese Pluralmuster sind im Quran extrem häufig. Ihre Diptoie hat direkte Konsequenzen für die Vokalisierung: Im Genitiv Fatha statt Kasra (ohne Artikel)."
     },
     {
       "id": "adjective_af3al",
       "title": "Adjektive auf af'al (Elativ/Komparativ)",
       "description": "Die Elativform أَفْعَل (af'al) ist diptot.",
       "examples": [
-        { "word": "اكبر", "transliteration": "akbar", "meaning": "groesser/groesst", "locations": ["4:153", "9:72", "29:45"] },
-        { "word": "احسن", "transliteration": "aḥsan", "meaning": "besser/schoener", "locations": ["2:138", "4:59", "12:3"] },
+        { "word": "اكبر", "transliteration": "akbar", "meaning": "größer/größt", "locations": ["4:153", "9:72", "29:45"] },
+        { "word": "احسن", "transliteration": "aḥsan", "meaning": "besser/schöner", "locations": ["2:138", "4:59", "12:3"] },
         { "word": "اعلم", "transliteration": "aʿlam", "meaning": "wissender", "locations": ["2:140", "3:36", "6:53"] },
         { "word": "اكثر", "transliteration": "akṯar", "meaning": "mehr/die meisten", "locations": ["2:100", "2:243", "7:17"] },
-        { "word": "ادنى", "transliteration": "adnā", "meaning": "naeher/niedrigster", "locations": ["2:61", "2:282", "30:3"] }
+        { "word": "ادنى", "transliteration": "adnā", "meaning": "näher/niedrigster", "locations": ["2:61", "2:282", "30:3"] }
       ]
     },
     {
@@ -86,14 +91,14 @@
       "description": "Adjektive des Musters فَعْلَان deren Feminin فَعْلَى ist, sind diptot.",
       "examples": [
         { "word": "عطشان", "transliteration": "ʿaṭšān", "meaning": "durstig", "feminine": "عطشى" },
-        { "word": "غضبان", "transliteration": "ġaḍbān", "meaning": "zuernend", "feminine": "غضبى", "locations": ["7:150", "20:86"] },
+        { "word": "غضبان", "transliteration": "ġaḍbān", "meaning": "zürnend", "feminine": "غضبى", "locations": ["7:150", "20:86"] },
         { "word": "سكران", "transliteration": "sakrān", "meaning": "betrunken/berauscht", "feminine": "سكرى", "locations": ["4:43", "22:2"] }
       ]
     },
     {
       "id": "color_defect",
-      "title": "Farb- und Koerperdefekt-Adjektive (af'al/fa'lā')",
-      "description": "Adjektive die Farben oder koerperliche Merkmale beschreiben, Muster أَفْعَل / فَعْلَاء.",
+      "title": "Farb- und Körperdefekt-Adjektive (af'al/fa'lā')",
+      "description": "Adjektive die Farben oder körperliche Merkmale beschreiben, Muster أَفْعَل / فَعْلَاء.",
       "examples": [
         { "word": "ابيض", "transliteration": "abyaḍ", "meaning": "weiss", "feminine": "بيضاء", "locations": ["3:106", "3:107", "12:84"] },
         { "word": "اسود", "transliteration": "aswad", "meaning": "schwarz", "feminine": "سوداء", "locations": ["3:106", "16:58"] },
@@ -105,7 +110,7 @@
     {
       "id": "numerals_mabniyy",
       "title": "Zusammengesetzte Zahlwoerter 11-19 (mabniyy, NICHT diptot)",
-      "description": "ACHTUNG: Die zusammengesetzten Zahlwoerter 11-19 sind mabniyy 'ala l-fath (مَبْنِيّ عَلَى الْفَتْح) — indeklinabel, auf Fatha gebaut. Sie sind KEINE Diptota, da sie ueberhaupt nicht dekliniert werden. Beide Teile sind unveraenderlich auf Fatha fixiert (ausser اثنا عشر, das im Nominativ -āni hat).",
+      "description": "ACHTUNG: Die zusammengesetzten Zahlwoerter 11-19 sind mabniyy 'ala l-fath (مَبْنِيّ عَلَى الْفَتْح) — indeklinabel, auf Fatha gebaut. Sie sind KEINE Diptota, da sie ueberhaupt nicht dekliniert werden. Beide Teile sind unveränderlich auf Fatha fixiert (ausser اثنا عشر, das im Nominativ -āni hat).",
       "examples": [
         { "word": "احد عشر", "transliteration": "aḥada ʿašara", "meaning": "elf", "note": "mabniyy 'ala l-fath — beide Teile indeklinabel" }
       ]
@@ -123,10 +128,10 @@
     {
       "id": "fu3al",
       "title": "Bestimmte Nomen auf fu'al",
-      "description": "Nomen des Musters فُعَل die als Ersatz fuer definite Ausdruecke stehen.",
+      "description": "Nomen des Musters فُعَل die als Ersatz für definite Ausdrücke stehen.",
       "examples": [
         { "word": "اخر", "transliteration": "uḫar", "meaning": "andere (Plural)", "locations": ["2:184", "2:185", "3:7"] },
-        { "word": "جمع", "transliteration": "ǧumaʿ", "meaning": "Freitag" }
+        { "word": "جمع", "transliteration": "ǧumaʿ", "meaning": "Freitage (Plural von جُمُعَة)" }
       ]
     }
   ],
@@ -155,7 +160,7 @@
       "question": "Was passiert wenn ein diptotes Nomen den bestimmten Artikel bekommt?",
       "options": [
         "Es bleibt diptot",
-        "Es wird triptot dekliniert (bekommt Kasra im Genitiv zurueck)",
+        "Es wird triptot dekliniert (bekommt Kasra im Genitiv zurück)",
         "Es verliert den Artikel wieder",
         "Es wird indeklinabel"
       ],
@@ -164,10 +169,10 @@
     },
     {
       "id": "d4",
-      "question": "Welches dieser Woerter ist NICHT diptot?",
-      "options": ["ابراهيم (Abraham)", "مساجد (Moscheen)", "كتاب (Buch)", "اكبر (groesser)"],
+      "question": "Welches dieser Wörter ist NICHT diptot?",
+      "options": ["ابراهيم (Abraham)", "مساجد (Moscheen)", "كتاب (Buch)", "اكبر (größer)"],
       "correct": 2,
-      "explanation": "كتاب ist ein regulaeres triptotes Nomen. Die anderen drei sind diptot (Eigenname, Broken-Plural-Muster, Elativform)."
+      "explanation": "كتاب ist ein reguläres triptotes Nomen. Die anderen drei sind diptot (Eigenname, Broken-Plural-Muster, Elativform)."
     }
   ]
 }

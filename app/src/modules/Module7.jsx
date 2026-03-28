@@ -245,8 +245,8 @@ function TestMode({ stage, onBack, onPass }) {
   if (!questions.length) {
     return (
       <div style={S.content}>
-        <button style={S.backBtn} onClick={onBack}>Zurueck</button>
-        <p>Keine Pruefungsfragen fuer diese Stufe vorhanden.</p>
+        <button style={S.backBtn} onClick={onBack}>Zurück</button>
+        <p>Keine Prüfungsfragen für diese Stufe vorhanden.</p>
       </div>
     );
   }
@@ -255,7 +255,7 @@ function TestMode({ stage, onBack, onPass }) {
     const pct = score.total > 0 ? Math.round((score.correct / score.total) * 100) : 0;
     return (
       <div style={S.content}>
-        <button style={S.backBtn} onClick={onBack}>Zurueck</button>
+        <button style={S.backBtn} onClick={onBack}>Zurück</button>
         <h3>Ergebnis — Stufe {stage.id}: {stage.title}</h3>
         <div style={S.score}>{score.correct} / {score.total}</div>
         <p style={{ textAlign: 'center' }}>
@@ -274,8 +274,8 @@ function TestMode({ stage, onBack, onPass }) {
 
   return (
     <div style={S.content}>
-      <button style={S.backBtn} onClick={onBack}>Zurueck</button>
-      <h3>Pruefung — Stufe {stage.id}: {stage.title}</h3>
+      <button style={S.backBtn} onClick={onBack}>Zurück</button>
+      <h3>Prüfung — Stufe {stage.id}: {stage.title}</h3>
       <div style={S.progress}>{currentIndex + 1} / {questions.length}</div>
       <p style={{ fontSize: '1.05rem', fontWeight: 600, marginBottom: 16 }}>{current.question}</p>
       {!feedback ? (
@@ -314,7 +314,7 @@ function StageDetail({ stage, onBack, onPass }) {
 
   return (
     <div style={S.content}>
-      <button style={S.backBtn} onClick={onBack}>Zurueck zur Uebersicht</button>
+      <button style={S.backBtn} onClick={onBack}>Zurück zur Übersicht</button>
       <h2 style={{ marginBottom: 4 }}>Stufe {stage.id} — {stage.title}</h2>
       <p style={{ color: 'var(--text-secondary)', marginBottom: 20 }}>{stage.description}</p>
 
@@ -324,7 +324,7 @@ function StageDetail({ stage, onBack, onPass }) {
           Aufgaben ({exercises.length})
         </button>
         <button style={S.tab} onClick={() => setMode('test')}>
-          Pruefmodus ({(stage.testContent?.exercises || []).length})
+          Prüfmodus ({(stage.testContent?.exercises || []).length})
         </button>
       </div>
 
@@ -514,7 +514,7 @@ export default function Module7() {
         <div style={{ padding: 40, textAlign: 'center' }}>
           <p style={{ color: 'var(--text-secondary)', marginBottom: 16 }}>Stufe nicht gefunden.</p>
           <button style={{ padding: '8px 20px', borderRadius: 8, background: 'var(--accent-teal)', color: '#fff', border: 'none', cursor: 'pointer' }}
-            onClick={() => setSelectedStage(null)}>Zurueck zur Uebersicht</button>
+            onClick={() => setSelectedStage(null)}>Zurück zur Übersicht</button>
         </div>
       </div>
     );
@@ -544,7 +544,7 @@ export default function Module7() {
             </div>
             <div style={S.cardDesc}>{stage.description}</div>
             <div style={{ marginTop: 8, fontSize: '0.8rem', color: 'var(--text-secondary)' }}>
-              {stage.learnContent?.sections?.length || 0} Sektionen · {stage.exercises?.length || 0} Aufgaben · {stage.testContent?.exercises?.length || 0} Pruefungsfragen
+              {stage.learnContent?.sections?.length || 0} Sektionen · {stage.exercises?.length || 0} Aufgaben · {stage.testContent?.exercises?.length || 0} Prüfungsfragen
             </div>
           </div>
         ))}
@@ -555,7 +555,7 @@ export default function Module7() {
             <div style={{ marginTop: 32, marginBottom: 16 }}>
               <div style={{ ...S.headerTitle, fontSize: '1.3rem' }}>Disambiguation — Mehrdeutigkeiten des Konsonantentextes</div>
               <div style={S.headerSub}>
-                {disambiguationData.meta?.description || 'Systematische Methode zur Entscheidung zwischen multiplen grammatisch moeglichen Lesungen.'}
+                {disambiguationData.meta?.description || 'Systematische Methode zur Entscheidung zwischen multiplen grammatisch möglichen Lesungen.'}
               </div>
             </div>
             {disambiguationStages.map(dStage => (
@@ -572,7 +572,7 @@ export default function Module7() {
                 </div>
                 <div style={S.cardDesc}>{dStage.description || disambiguationData.meta?.description || ''}</div>
                 <div style={{ marginTop: 8, fontSize: '0.8rem', color: 'var(--text-secondary)' }}>
-                  {dStage.learnContent?.sections?.length || 0} Sektionen · {dStage.exercises?.length || 0} Aufgaben · {dStage.testContent?.exercises?.length || 0} Pruefungsfragen
+                  {dStage.learnContent?.sections?.length || 0} Sektionen · {dStage.exercises?.length || 0} Aufgaben · {dStage.testContent?.exercises?.length || 0} Prüfungsfragen
                 </div>
               </div>
             ))}
@@ -583,7 +583,7 @@ export default function Module7() {
         {discourseStages.length > 0 && (
           <>
             <div style={{ marginTop: 32, marginBottom: 16 }}>
-              <div style={{ ...S.headerTitle, fontSize: '1.3rem' }}>Diskursstruktur und Textkohaerenz</div>
+              <div style={{ ...S.headerTitle, fontSize: '1.3rem' }}>Diskursstruktur und Textkohärenz</div>
               <div style={S.headerSub}>
                 {discourseData.meta?.description || 'Wie Partikel und syntaktische Strukturen den Textfluss organisieren.'}
               </div>
@@ -602,7 +602,7 @@ export default function Module7() {
                 </div>
                 <div style={S.cardDesc}>{dStage.description || ''}</div>
                 <div style={{ marginTop: 8, fontSize: '0.8rem', color: 'var(--text-secondary)' }}>
-                  {dStage.learnContent?.sections?.length || 0} Sektionen · {dStage.exercises?.length || 0} Aufgaben · {dStage.testContent?.exercises?.length || 0} Pruefungsfragen
+                  {dStage.learnContent?.sections?.length || 0} Sektionen · {dStage.exercises?.length || 0} Aufgaben · {dStage.testContent?.exercises?.length || 0} Prüfungsfragen
                 </div>
               </div>
             ))}
@@ -632,7 +632,7 @@ export default function Module7() {
                 </div>
                 <div style={S.cardDesc}>{lesson.description}</div>
                 <div style={{ marginTop: 8, fontSize: '0.8rem', color: 'var(--text-secondary)' }}>
-                  {lesson.learnContent?.sections?.length || 0} Sektionen · {lesson.exercises?.length || 0} Aufgaben · {lesson.testContent?.exercises?.length || 0} Pruefungsfragen
+                  {lesson.learnContent?.sections?.length || 0} Sektionen · {lesson.exercises?.length || 0} Aufgaben · {lesson.testContent?.exercises?.length || 0} Prüfungsfragen
                 </div>
               </div>
             ))}
@@ -663,7 +663,7 @@ export default function Module7() {
                 </div>
                 <div style={S.cardDesc}>{lesson.description}</div>
                 <div style={{ marginTop: 8, fontSize: '0.8rem', color: 'var(--text-secondary)' }}>
-                  {lesson.learnContent?.sections?.length || 0} Sektionen · {lesson.exercises?.length || 0} Aufgaben · {lesson.testContent?.exercises?.length || 0} Pruefungsfragen
+                  {lesson.learnContent?.sections?.length || 0} Sektionen · {lesson.exercises?.length || 0} Aufgaben · {lesson.testContent?.exercises?.length || 0} Prüfungsfragen
                 </div>
               </div>
             ))}
@@ -674,9 +674,9 @@ export default function Module7() {
         {tawkidLessons.length > 0 && (
           <>
             <div style={{ marginTop: 32, marginBottom: 16 }}>
-              <div style={{ ...S.headerTitle, fontSize: '1.3rem' }}>Tawkid — Bekraeftigung (التوكيد)</div>
+              <div style={{ ...S.headerTitle, fontSize: '1.3rem' }}>Tawkid — Bekräftigung (التوكيد)</div>
               <div style={S.headerSub}>
-                Woertliche und semantische Bekraeftigung im Quranischen Arabisch. {tawkidLessons.length} Lektionen.
+                Wörtliche und semantische Bekräftigung im Quranischen Arabisch. {tawkidLessons.length} Lektionen.
               </div>
             </div>
             {tawkidLessons.map(lesson => (
@@ -694,7 +694,7 @@ export default function Module7() {
                 </div>
                 <div style={S.cardDesc}>{lesson.description}</div>
                 <div style={{ marginTop: 8, fontSize: '0.8rem', color: 'var(--text-secondary)' }}>
-                  {lesson.learnContent?.sections?.length || 0} Sektionen · {lesson.exercises?.length || 0} Aufgaben · {lesson.testContent?.exercises?.length || 0} Pruefungsfragen
+                  {lesson.learnContent?.sections?.length || 0} Sektionen · {lesson.exercises?.length || 0} Aufgaben · {lesson.testContent?.exercises?.length || 0} Prüfungsfragen
                 </div>
               </div>
             ))}
@@ -703,26 +703,26 @@ export default function Module7() {
 
         {/* Additional Grammar Sections */}
         {[
-          { lessons: conditionalLessons, prefix: 'cond_', title: 'Konditionalsaetze (الشرط)', sub: 'Real vs. irreal, Partikelrektion, Jussiv-Ausloessung.', color: '#00695c' },
+          { lessons: conditionalLessons, prefix: 'cond_', title: 'Konditionalsätze (الشرط)', sub: 'Real vs. irreal, Partikelrektion, Jussiv-Auslössung.', color: '#00695c' },
           { lessons: interrogativeLessons, prefix: 'interr_', title: 'Fragepartikel-System (الاستفهام)', sub: 'أ vs. هل, W-Fragen, rhetorische Frage.', color: '#4527a0' },
-          { lessons: istithnaLessons, prefix: 'istithna_', title: 'Ausnahmesyntax (الاستثناء)', sub: 'إلا, غير, سوى — Kasusregeln in positiven und verneinten Saetzen.', color: '#ad1457' },
+          { lessons: istithnaLessons, prefix: 'istithna_', title: 'Ausnahmesyntax (الاستثناء)', sub: 'إلا, غير, سوى — Kasusregeln in positiven und verneinten Sätzen.', color: '#ad1457' },
           { lessons: qasamLessons, prefix: 'qasam_', title: 'Schwursyntax (القسم)', sub: 'Schwurpartikeln و/ت/ب, Jawab-Marker, kosmische Schwurobjekte.', color: '#1565c0' },
           { lessons: nidaLessons, prefix: 'nida_', title: 'Vokativsyntax (النداء)', sub: 'يا + Munada-Kasusregeln, يا أيها, Anredekonstruktionen.', color: '#e65100' },
           { lessons: taqdimLessons, prefix: 'taqdim_', title: 'Wortstellungsvarianten (التقديم والتأخير)', sub: 'Voranstellung von Objekt, Khabar, PP — Fokus und Restriktion.', color: '#2e7d32' },
-          { lessons: relClauseLessons, prefix: 'relclause_', title: 'Relativsaetze (الجملة الصلة)', sub: 'الذي/التي/ما/من, Wiederaufnahmepronomen, asyndetische Relativsaetze.', color: '#6a1b9a' },
-          { lessons: prepSemanticsLessons, prefix: 'prep_', title: 'Praepositions-Semantik (حروف الجر)', sub: 'Alle Funktionen von مِن، بِ، فِي، عَلَى، لِ، عَنْ، إِلَى، كَ، حَتَّى — systematisch mit Quranbelegen.', color: '#00838f' },
-          { lessons: nisbaLessons, prefix: 'nisba_', title: 'Nisba-Adjektiv (النسبة)', sub: 'Zugehoerigkeitsadjektive und analytische Alternativen.', color: '#bf360c' },
-          { lessons: lanesGuideLessons, prefix: 'lanes_', title: "Lane's Lexicon — Leseanleitung", sub: 'Wie man einen Woerterbuch-Eintrag liest und versteht.', color: '#33691e' },
-          { lessons: syntaxSupplLessons, prefix: 'supp_', title: 'Ergaenzende Grammatik (Koda-Verben, Herz-Verben, Fuenf-Verben-Regel)', sub: 'Kada-Verben (كَادَ/عَسَى), Zanna-Verben mit doppeltem Akkusativ, und die Fuenf-Verben-Regel (الأَفْعَال الْخَمْسَة).', color: '#5d4037' },
+          { lessons: relClauseLessons, prefix: 'relclause_', title: 'Relativsätze (الجملة الصلة)', sub: 'الذي/التي/ما/من, Wiederaufnahmepronomen, asyndetische Relativsätze.', color: '#6a1b9a' },
+          { lessons: prepSemanticsLessons, prefix: 'prep_', title: 'Präpositions-Semantik (حروف الجر)', sub: 'Alle Funktionen von مِن، بِ، فِي، عَلَى، لِ، عَنْ، إِلَى، كَ، حَتَّى — systematisch mit Quranbelegen.', color: '#00838f' },
+          { lessons: nisbaLessons, prefix: 'nisba_', title: 'Nisba-Adjektiv (النسبة)', sub: 'Zugehörigkeitsadjektive und analytische Alternativen.', color: '#bf360c' },
+          { lessons: lanesGuideLessons, prefix: 'lanes_', title: "Lane's Lexicon — Leseanleitung", sub: 'Wie man einen Wörterbuch-Eintrag liest und versteht.', color: '#33691e' },
+          { lessons: syntaxSupplLessons, prefix: 'supp_', title: 'Ergänzende Grammatik (Kada-Verben, Herz-Verben, Fünf-Verben-Regel)', sub: 'Kada-Verben (كَادَ/عَسَى), Zanna-Verben mit doppeltem Akkusativ, und die Fünf-Verben-Regel (الأَفْعَال الْخَمْسَة).', color: '#5d4037' },
           { lessons: halLessons, prefix: 'hal_', title: 'Hal — Zustandsakkusativ (الحال)', sub: 'Hal als Nomen/Partizip, als Verbalsatz (Jumla Haliyya) und Identifikation des Sahib al-Hal.', color: '#00695c' },
           { lessons: tamyizLessons, prefix: 'tamyiz_', title: 'Tamyiz — Spezifikationsakkusativ (التمييز)', sub: 'Tamyiz nach Zahlen (al-Adad) und nach Elativ-Adjektiven (al-Nisbah).', color: '#1565c0' },
-          { lessons: masdarClauseLessons, prefix: 'masdar_', title: 'Masdar-Satz — ان und انّ als Nominalisierung', sub: 'ان + Subjunktiv und انّ + Nominalsatz als Subjekt, Objekt oder nach Praeposition.', color: '#4527a0' },
+          { lessons: masdarClauseLessons, prefix: 'masdar_', title: 'Masdar-Satz — ان und انّ als Nominalisierung', sub: 'ان + Subjunktiv und انّ + Nominalsatz als Subjekt, Objekt oder nach Präposition.', color: '#4527a0' },
           { lessons: badalLessons, prefix: 'badal_', title: 'Badal — Apposition (البدل)', sub: 'Badal kull, Badal ba\'d min kull und Badal al-Ishtimal mit Quranbelegen.', color: '#ad1457' },
-          { lessons: zarfLessons, prefix: 'zarf_', title: 'Zarf — Adverbialer Akkusativ (الظرف)', sub: 'Zarf Zaman und Zarf Makan ohne Praeposition; يَوْمَ + Satz als Satzzarf.', color: '#e65100' },
+          { lessons: zarfLessons, prefix: 'zarf_', title: 'Zarf — Adverbialer Akkusativ (الظرف)', sub: 'Zarf Zaman und Zarf Makan ohne Präposition; يَوْمَ + Satz als Satzzarf.', color: '#e65100' },
           { lessons: mafUlMutlaqLessons, prefix: 'mutlaq_', title: "Maf'ul Mutlaq — Absolutes Objekt (المفعول المطلق)", sub: 'Masdar zur Betonung (توكيد) und zur Typenangabe (نوع); als Verb-Ersatz.', color: '#2e7d32' },
-          { lessons: mafUlLiajlihiLessons, prefix: 'liajlihi_', title: "Maf'ul li-Ajlihi — Kausaler Akkusativ (المفعول لأجله)", sub: 'Masdar im Akkusativ als Grund- oder Zweckangabe ohne Praeposition.', color: '#6a1b9a' },
-          { lessons: wawDisambigLessons, prefix: 'waw_', title: 'Waw-Disambiguierung — die sechs Funktionen von وَ', sub: 'Atf, Hal, Qasam, Ma\'iyya, Ibtida\' — systematisch mit Erkennungsalgorithmus.', color: '#00838f' },
-          { lessons: jumlaFiMahallLessons, prefix: 'jfm_', title: 'Jumla fi Mahall — Satz in Kasusposition (في محل)', sub: 'Saetze in Nominativ-, Akkusativ- und Genitivposition; Silah-Saetze ohne محل.', color: '#bf360c' },
+          { lessons: mafUlLiajlihiLessons, prefix: 'liajlihi_', title: "Maf'ul li-Ajlihi — Kausaler Akkusativ (المفعول لأجله)", sub: 'Masdar im Akkusativ als Grund- oder Zweckangabe ohne Präposition.', color: '#6a1b9a' },
+          { lessons: wawDisambigLessons, prefix: 'waw_', title: 'Waw-Disambiguierung — die sechs Funktionen von وَ', sub: 'Atf, Hal, Qasam, Ma\'iyya, Ibtida\', Rubba — systematisch mit Erkennungsalgorithmus.', color: '#00838f' },
+          { lessons: jumlaFiMahallLessons, prefix: 'jfm_', title: 'Jumla fi Mahall — Satz in Kasusposition (في محل)', sub: 'Sätze in Nominativ-, Akkusativ- und Genitivposition; Silah-Sätze ohne محل.', color: '#bf360c' },
           { lessons: mafUlMaathuLessons, prefix: 'maathu_', title: "Maf'ul Ma'ahu — Begleitobjekt (المفعول معه)", sub: 'Akkusativ nach وَ der Gleichzeitigkeit; Abgrenzung von Waw al-\'Atf.', color: '#33691e' },
         ].filter(s => s.lessons.length > 0).map(section => (
           <div key={section.prefix} style={{ marginTop: 32, marginBottom: 16 }}>
@@ -741,7 +741,7 @@ export default function Module7() {
                 </div>
                 <div style={S.cardDesc}>{lesson.description || ''}</div>
                 <div style={{ marginTop: 8, fontSize: '0.8rem', color: 'var(--text-secondary)' }}>
-                  {lesson.learnContent?.sections?.length || 0} Sektionen · {lesson.exercises?.length || 0} Aufgaben · {lesson.testContent?.exercises?.length || 0} Pruefungsfragen
+                  {lesson.learnContent?.sections?.length || 0} Sektionen · {lesson.exercises?.length || 0} Aufgaben · {lesson.testContent?.exercises?.length || 0} Prüfungsfragen
                 </div>
               </div>
             ))}

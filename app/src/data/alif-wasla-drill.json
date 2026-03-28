@@ -1,17 +1,21 @@
 {
   "meta": {
     "title": "Alif Wasla Drill",
-    "description": "Systematisches Training aller Positionen in denen Hamzat al-Wasl (ٱ) erscheint und in Verbindung verschwindet."
+    "description": "Systematisches Training aller Positionen in denen Hamzat al-Wasl (ٱ) erscheint und in Verbindung verschwindet.",
+    "sources": [
+      { "name": "Wright's Grammar Vol I", "url": "https://archive.org/details/grammarofthearab01telerich" },
+      { "name": "Quranic Arabic Corpus", "url": "https://corpus.quran.com/" }
+    ]
   },
   "categories": [
     {
       "id": "article",
       "title": "Definitartikel ال",
-      "explanation": "Der haeufigste Fall von Alif Wasla. Die Hamza des Artikels wird nur am absoluten Satzanfang gesprochen. In Verbindung faellt sie weg.",
+      "explanation": "Der häufigste Fall von Alif Wasla. Die Hamza des Artikels wird nur am absoluten Satzanfang gesprochen. In Verbindung fällt sie weg.",
       "exercises": [
-        { "isolated": "اَلْكِتَابُ", "connected": "فِي الْكِتَابِ", "note": "Nach Praeposition: Hamza faellt weg, man liest 'fi l-kitābi'", "quranRef": "2:2" },
-        { "isolated": "اَلرَّحْمَنِ", "connected": "بِسْمِ اللَّهِ الرَّحْمَنِ", "note": "Sonnenbuchstabe: Lam assimiliert, Hamza faellt in Verbindung", "quranRef": "1:1" },
-        { "isolated": "اَلْقَمَرِ", "connected": "وَالْقَمَرِ", "note": "Mondbuchstabe: Lam bleibt, Hamza faellt nach wa-", "quranRef": "91:2" }
+        { "isolated": "اَلْكِتَابُ", "connected": "فِي الْكِتَابِ", "note": "Nach Präposition: Hamza fällt weg, man liest 'fi l-kitābi'", "quranRef": "2:2" },
+        { "isolated": "اَلرَّحْمَنِ", "connected": "بِسْمِ اللَّهِ الرَّحْمَنِ", "note": "Sonnenbuchstabe: Lam assimiliert, Hamza fällt in Verbindung", "quranRef": "1:1" },
+        { "isolated": "اَلْقَمَرِ", "connected": "وَالْقَمَرِ", "note": "Mondbuchstabe: Lam bleibt, Hamza fällt nach wa-", "quranRef": "91:2" }
       ]
     },
     {
@@ -19,7 +23,7 @@
       "title": "Form VII (اِنْفَعَلَ)",
       "explanation": "Alle Form-VII-Verben beginnen mit Alif Wasla + Kasra. Im Perfekt und Imperativ sichtbar.",
       "exercises": [
-        { "word": "اِنْقَلَبَ", "root": "ق-ل-ب", "meaning": "sich umwenden", "connected": "فَانْقَلَبُوا", "note": "Nach فَ: Hamza faellt weg", "quranRef": "3:174" },
+        { "word": "اِنْقَلَبَ", "root": "ق-ل-ب", "meaning": "sich umwenden", "connected": "فَانْقَلَبُوا", "note": "Nach فَ: Hamza fällt weg", "quranRef": "3:174" },
         { "word": "اِنْطَلَقَ", "root": "ط-ل-ق", "meaning": "losziehen", "connected": "فَانْطَلَقَا", "note": "Nach فَ: Verbindung", "quranRef": "18:71" }
       ]
     },
@@ -28,9 +32,9 @@
       "title": "Form VIII (اِفْتَعَلَ)",
       "explanation": "Alle Form-VIII-Verben beginnen mit Alif Wasla + Kasra.",
       "exercises": [
-        { "word": "اِخْتَلَفَ", "root": "خ-ل-ف", "meaning": "sich unterscheiden", "connected": "وَاخْتَلَفُوا", "note": "Nach وَ: Hamza faellt weg", "quranRef": "2:213" },
+        { "word": "اِخْتَلَفَ", "root": "خ-ل-ف", "meaning": "sich unterscheiden", "connected": "وَاخْتَلَفُوا", "note": "Nach وَ: Hamza fällt weg", "quranRef": "2:213" },
         { "word": "اِتَّبَعَ", "root": "ت-ب-ع", "meaning": "folgen", "connected": "فَاتَّبِعُونِي", "note": "Form VIII mit Assimilation (ت+ت→تّ)", "quranRef": "3:31" },
-        { "word": "اِتَّقَى", "root": "و-ق-ي", "meaning": "sich hueten, sich in Acht nehmen", "connected": "وَاتَّقُوا اللَّهَ", "note": "Assimiliert+Defektiv in Form VIII", "quranRef": "2:194" }
+        { "word": "اِتَّقَى", "root": "و-ق-ي", "meaning": "sich hüten, sich in Acht nehmen", "connected": "وَاتَّقُوا اللَّهَ", "note": "Assimiliert+Defektiv in Form VIII", "quranRef": "2:194" }
       ]
     },
     {
@@ -38,18 +42,18 @@
       "title": "Form X (اِسْتَفْعَلَ)",
       "explanation": "Alle Form-X-Verben beginnen mit Alif Wasla + Kasra.",
       "exercises": [
-        { "word": "اِسْتَغْفَرَ", "root": "غ-ف-ر", "meaning": "um Vergebung bitten", "connected": "فَاسْتَغْفِرُوا", "note": "Nach فَ: Hamza faellt weg", "quranRef": "4:64" },
+        { "word": "اِسْتَغْفَرَ", "root": "غ-ف-ر", "meaning": "um Vergebung bitten", "connected": "فَاسْتَغْفِرُوا", "note": "Nach فَ: Hamza fällt weg", "quranRef": "4:64" },
         { "word": "اِسْتَقَامَ", "root": "ق-و-م", "meaning": "aufrecht/gerade sein", "connected": "فَاسْتَقِيمُوا", "note": "Hohle Wurzel in Form X", "quranRef": "41:6" }
       ]
     },
     {
       "id": "nouns",
       "title": "Nomen mit Wasla",
-      "explanation": "Einige haeufige Nomen beginnen mit Alif Wasla.",
+      "explanation": "Einige häufige Nomen beginnen mit Alif Wasla.",
       "exercises": [
         { "word": "اِسْمٌ", "root": "س-م-و", "meaning": "Name", "connected": "بِسْمِ اللَّهِ", "note": "Alif und Hamza fallen komplett weg nach بِ", "quranRef": "1:1" },
-        { "word": "اِبْنٌ", "root": "ب-ن-ي", "meaning": "Sohn", "connected": "عِيسَى ابْنَ مَرْيَمَ", "note": "Wasla-Alif faellt in Verbindung weg", "quranRef": "5:46" },
-        { "word": "اِمْرَأَةٌ", "root": "م-ر-أ", "meaning": "Frau", "connected": "وَامْرَأَتُهُ", "note": "Nach وَ: Hamza faellt weg", "quranRef": "111:4" },
+        { "word": "اِبْنٌ", "root": "ب-ن-ي", "meaning": "Sohn", "connected": "عِيسَى ابْنَ مَرْيَمَ", "note": "Wasla-Alif fällt in Verbindung weg", "quranRef": "5:46" },
+        { "word": "اِمْرَأَةٌ", "root": "م-ر-أ", "meaning": "Frau", "connected": "وَامْرَأَتُهُ", "note": "Nach وَ: Hamza fällt weg", "quranRef": "111:4" },
         { "word": "اِثْنَانِ", "root": "ث-ن-ي", "meaning": "zwei", "connected": "وَاثْنَتَيْنِ", "note": "Zahlwort mit Wasla", "quranRef": "4:11" }
       ]
     },

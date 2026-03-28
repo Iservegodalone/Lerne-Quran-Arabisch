@@ -1,24 +1,28 @@
 {
   "meta": {
     "title": "Masdar-Satz — أَنْ und أَنَّ als Nominalisierung",
-    "description": "أَنْ + Verb (Subjunktiv) und أَنَّ + Nominalsatz verwandeln Saetze in Nomen. Sie koennen Subjekt, Objekt oder Genitivergaenzung sein. Dies ist eine der haeufigsten Strukturen im Quran und Grundlage fuer das Verstehen komplexer Satzgefuege."
+    "description": "أَنْ + Verb (Subjunktiv) und أَنَّ + Nominalsatz verwandeln Sätze in Nomen. Sie können Subjekt, Objekt oder Genitivergaenzung sein. Dies ist eine der häufigsten Strukturen im Quran und Grundlage für das Verstehen komplexer Satzgefuege.",
+    "sources": [
+      { "name": "Wright's Arabic Grammar Vol II", "url": "https://archive.org/details/grammarofthearab02telerich" },
+      { "name": "Quranic Arabic Corpus", "url": "https://corpus.quran.com/" }
+    ]
   },
   "lessons": [
     {
       "id": "MAS1",
       "title": "أَنْ + Subjunktiv als Masdar-Ersatz",
-      "description": "أَنْ + Imperfekt im Subjunktiv ist funktional ein Masdar (Verbal-Nomen). Die Phrase kann Subjekt, Objekt oder nach Praeposition stehen.",
+      "description": "أَنْ + Imperfekt im Subjunktiv ist funktional ein Masdar (Verbal-Nomen). Die Phrase kann Subjekt, Objekt oder nach Präposition stehen.",
       "learnContent": {
         "sections": [
           {
             "type": "explanation",
             "title": "Was ist ein Masdar-Satz?",
-            "content": "Im Arabischen gibt es zwei Wege, einen Verbvorgang als Nomen zu benutzen:\n\n1. Das Masdar selbst: قِرَاءَةُ الْقُرْآنِ مُهِمَّةٌ — 'das Lesen des Qurans ist wichtig'\n2. أَنْ + Subjunktiv: أَنْ تَقْرَأَ الْقُرْآنَ مُهِمٌّ — 'dass du den Quran liest, ist wichtig'\n\nBeide sind synonym. Die أَنْ-Konstruktion ist expliziter und ermoeglicht die Angabe von Subjekt, Zeit und Objekt.\n\nGrundprinzip: أَنْ löst den Subjunktiv (Nasb des Verbs) aus. Die gesamte Phrase أَنْ + Verb (+ weitere Elemente) nimmt dann eine Nominalposition ein:\n- Als Subjekt: في محل رفع فاعل / مبتدأ\n- Als Objekt: في محل نصب مفعول به\n- Nach Praeposition: في محل جر"
+            "content": "Im Arabischen gibt es zwei Wege, einen Verbvorgang als Nomen zu benutzen:\n\n1. Das Masdar selbst: قِرَاءَةُ الْقُرْآنِ مُهِمَّةٌ — 'das Lesen des Qurans ist wichtig'\n2. أَنْ + Subjunktiv: أَنْ تَقْرَأَ الْقُرْآنَ مُهِمٌّ — 'dass du den Quran liest, ist wichtig'\n\nBeide sind synonym. Die أَنْ-Konstruktion ist expliziter und ermoeglicht die Angabe von Subjekt, Zeit und Objekt.\n\nGrundprinzip: أَنْ löst den Subjunktiv (Nasb des Verbs) aus. Die gesamte Phrase أَنْ + Verb (+ weitere Elemente) nimmt dann eine Nominalposition ein:\n- Als Subjekt: في محل رفع فاعل / مبتدأ\n- Als Objekt: في محل نصب مفعول به\n- Nach Präposition: في محل جر"
           },
           {
             "type": "explanation",
-            "title": "أَنْ als Objekt — die haeufigste Verwendung",
-            "content": "Nach Verben des Wollens, Befehlens, Hoffens, Fuerchtens steht أَنْ + Subjunktiv als Objekt:\n\nأَرَادَ أَنْ يَفْعَلَ — 'er wollte, dass er tat / er wollte tun'\nأَمَرَ أَنْ يَذْهَبَ — 'er befahl zu gehen'\nخَافَ أَنْ يُعَاقَبَ — 'er fuerchtete bestraft zu werden'\n\nDiese Verben verlangen strukturell ein Nomen-Objekt. Da Verben keine direkten Objekte sein koennen, wird das Verb durch أَنْ nominalisiert.\n\nIM QURAN: nach يُرِيدُ, أَرَادَ, يَشَاءُ, يَاْمُرُ, يَنْهَى, اِسْتَطَاعَ u.v.m."
+            "title": "أَنْ als Objekt — die häufigste Verwendung",
+            "content": "Nach Verben des Wollens, Befehlens, Hoffens, Fürchtens steht أَنْ + Subjunktiv als Objekt:\n\nأَرَادَ أَنْ يَفْعَلَ — 'er wollte, dass er tat / er wollte tun'\nأَمَرَ أَنْ يَذْهَبَ — 'er befahl zu gehen'\nخَافَ أَنْ يُعَاقَبَ — 'er fürchtete bestraft zu werden'\n\nDiese Verben verlangen strukturell ein Nomen-Objekt. Da Verben keine direkten Objekte sein können, wird das Verb durch أَنْ nominalisiert.\n\nIM QURAN: nach يُرِيدُ, أَرَادَ, يَشَاءُ, يَاْمُرُ, يَنْهَى, اِسْتَطَاعَ u.v.m."
           },
           {
             "type": "quranExamples",
@@ -27,7 +31,7 @@
               {
                 "ref": "2:184",
                 "arabic": "وَأَن تَصُومُوا خَيْرٌ لَّكُمْ",
-                "explanation": "أَنْ تَصُومُوا = Masdar-Satz als Subjekt (في محل رفع مبتدأ). 'Dass ihr fastet, ist besser fuer euch.' خَيْرٌ = Khabar (Nominativ). تَصُومُوا = Subjunktiv (Nun fehlt: تَصُومُونَ → تَصُومُوا). Die Phrase als Ganzes nimmt Subjektposition ein."
+                "explanation": "أَنْ تَصُومُوا = Masdar-Satz als Subjekt (في محل رفع مبتدأ). 'Dass ihr fastet, ist besser für euch.' خَيْرٌ = Khabar (Nominativ). تَصُومُوا = Subjunktiv (Nun fehlt: تَصُومُونَ → تَصُومُوا). Die Phrase als Ganzes nimmt Subjektposition ein."
               },
               {
                 "ref": "28:27",
@@ -37,7 +41,7 @@
               {
                 "ref": "39:54",
                 "arabic": "وَأَنِيبُوا إِلَىٰ رَبِّكُمْ وَأَسْلِمُوا لَهُ مِن قَبْلِ أَن يَأْتِيَكُمُ الْعَذَابُ",
-                "explanation": "مِن قَبْلِ أَنْ يَأْتِيَكُمُ = Masdar-Satz nach Praeposition (في محل جر). قَبْلِ = Genitiv nach مِنْ. أَنْ يَأْتِيَكُمُ = Masdar-Phrase als Genitiv-Ergaenzung zu قَبْلِ. 'Bevor die Strafe zu euch kommt.' يَأْتِيَكُمُ = Subjunktiv von أَتَى."
+                "explanation": "مِن قَبْلِ أَنْ يَأْتِيَكُمُ = Masdar-Satz nach Präposition (في محل جر). قَبْلِ = Genitiv nach مِنْ. أَنْ يَأْتِيَكُمُ = Masdar-Phrase als Genitiv-Ergänzung zu قَبْلِ. 'Bevor die Strafe zu euch kommt.' يَأْتِيَكُمُ = Subjunktiv von أَتَى."
               },
               {
                 "ref": "2:180",
@@ -52,7 +56,7 @@
         {
           "type": "identification",
           "question": "يُرِيدُ اللَّهُ أَن يُخَفِّفَ عَنكُمْ (4:28) — Analysiere أَنْ يُخَفِّفَ عَنكُمْ.",
-          "answer": "Masdar-Satz als Objekt von يُرِيدُ (في محل نصب مفعول به). يُخَفِّفَ = Subjunktiv (Form II von خَفَّفَ, Fatha am Ende). 'Gott will Erleichterung fuer euch' (wortl.: 'will, dass er euch erleichtert')."
+          "answer": "Masdar-Satz als Objekt von يُرِيدُ (في محل نصب مفعول به). يُخَفِّفَ = Subjunktiv (Form II von خَفَّفَ, Fatha am Ende). 'Gott will Erleichterung für euch' (wortl.: 'will, dass er euch erleichtert')."
         }
       ],
       "testContent": {
@@ -66,7 +70,7 @@
               "Zarf (Adverbiale)"
             ],
             "correct": 1,
-            "explanation": "أَنْ تَصُومُوا ist Mubtada' (Subjekt in mahall raf'). خَيْرٌ ist das Khabar. 'Dass ihr fastet [= das Fasten] ist besser fuer euch.'"
+            "explanation": "أَنْ تَصُومُوا ist Mubtada' (Subjekt in mahall raf'). خَيْرٌ ist das Khabar. 'Dass ihr fastet [= das Fasten] ist besser für euch.'"
           }
         ]
       }
@@ -74,13 +78,13 @@
     {
       "id": "MAS2",
       "title": "أَنَّ + Nominalsatz als Faktum-Aussage",
-      "description": "أَنَّ (mit Fatha + Shadda) nominalisiert einen Nominalsatz. Es drueckt eine als Faktum prasentierte Aussage aus und steht oft nach Verben des Wissens, Sehens und Sagens.",
+      "description": "أَنَّ (mit Fatha + Shadda) nominalisiert einen Nominalsatz. Es drückt eine als Faktum prasentierte Aussage aus und steht oft nach Verben des Wissens, Sehens und Sagens.",
       "learnContent": {
         "sections": [
           {
             "type": "explanation",
             "title": "أَنَّ vs. أَنْ — der entscheidende Unterschied",
-            "content": "أَنَّ (mit Shadda und Fatha) vs. أَنْ (mit Sukun):\n\nأَنْ + Imperfekt (Subjunktiv): nominalisiert eine HANDLUNG. 'Dass du gehst = das Gehen.'\n\nأَنَّ + Nominalsatz: nominalisiert eine AUSSAGE/TATSACHE. Das Subjekt nach أَنَّ steht im Akkusativ (Ism Inna-Regel).\nStruktur: أَنَّ + Akkusativ (Ism) + Nominativ (Khabar)\nBeispiel: أَعْلَمُ أَنَّ اللَّهَ قَادِرٌ — 'ich weiss, dass Gott allfaehig ist'\n\nاللَّهَ = Akkusativ (Ism anna), قَادِرٌ = Nominativ (Khabar anna)\n\nDie gesamte أَنَّ-Phrase nimmt dann eine nominale Position ein (Objekt, Subjekt, nach Praeposition)."
+            "content": "أَنَّ (mit Shadda und Fatha) vs. أَنْ (mit Sukun):\n\nأَنْ + Imperfekt (Subjunktiv): nominalisiert eine HANDLUNG. 'Dass du gehst = das Gehen.'\n\nأَنَّ + Nominalsatz: nominalisiert eine AUSSAGE/TATSACHE. Das Subjekt nach أَنَّ steht im Akkusativ (Ism Inna-Regel).\nStruktur: أَنَّ + Akkusativ (Ism) + Nominativ (Khabar)\nBeispiel: أَعْلَمُ أَنَّ اللَّهَ قَادِرٌ — 'ich weiss, dass Gott allfaehig ist'\n\nاللَّهَ = Akkusativ (Ism anna), قَادِرٌ = Nominativ (Khabar anna)\n\nDie gesamte أَنَّ-Phrase nimmt dann eine nominale Position ein (Objekt, Subjekt, nach Präposition)."
           },
           {
             "type": "explanation",
@@ -99,7 +103,7 @@
               {
                 "ref": "2:229",
                 "arabic": "فَإِنْ خِفْتُمْ أَلَّا يُقِيمَا حُدُودَ اللَّهِ",
-                "explanation": "أَلَّا = أَنْ + لَا. يُقِيمَا = Dual-Subjunktiv (Nun faellt weg). Masdar-Satz als Objekt von خِفْتُمْ. 'Wenn ihr befuerchtet, dass sie beide die Grenzen Gottes nicht einhalten.' Zeigt: أَنْ kann mit لَا kombiniert werden."
+                "explanation": "أَلَّا = أَنْ + لَا. يُقِيمَا = Dual-Subjunktiv (Nun fällt weg). Masdar-Satz als Objekt von خِفْتُمْ. 'Wenn ihr befürchtet, dass sie beide die Grenzen Gottes nicht einhalten.' Zeigt: أَنْ kann mit لَا kombiniert werden."
               },
               {
                 "ref": "2:197",
@@ -119,7 +123,7 @@
         {
           "type": "distinction",
           "question": "Was ist der grammatische Unterschied zwischen أَنَّ اللَّهَ غَفُورٌ und أَنْ تَغْفِرَ?",
-          "answer": "أَنَّ اللَّهَ غَفُورٌ: Nominalsatz-Nominalisierung. اللَّهَ im Akkusativ (Ism anna), غَفُورٌ im Nominativ (Khabar). Drueckt ein Faktum aus: 'dass Gott vergebend ist.' أَنْ تَغْفِرَ: Handlungs-Nominalisierung. تَغْفِرَ im Subjunktiv. Drueckt eine Handlung aus: 'dass du vergibst / das Vergeben.'"
+          "answer": "أَنَّ اللَّهَ غَفُورٌ: Nominalsatz-Nominalisierung. اللَّهَ im Akkusativ (Ism anna), غَفُورٌ im Nominativ (Khabar). Drückt ein Faktum aus: 'dass Gott vergebend ist.' أَنْ تَغْفِرَ: Handlungs-Nominalisierung. تَغْفِرَ im Subjunktiv. Drückt eine Handlung aus: 'dass du vergibst / das Vergeben.'"
         }
       ],
       "testContent": {
@@ -129,25 +133,25 @@
             "options": [
               "Nominativ — Subjekt des Hauptsatzes",
               "Akkusativ — Ism anna",
-              "Genitiv — nach Praeposition",
+              "Genitiv — nach Präposition",
               "Akkusativ — Maf'ul bihi von أَعْلَمُ direkt"
             ],
             "correct": 1,
-            "explanation": "اللَّهَ steht im Akkusativ als Ism anna (Subjekt des von أَنَّ eingefuehrten Satzes, nach der Inna-Schwester-Regel). قَادِرٌ steht im Nominativ als Khabar anna."
+            "explanation": "اللَّهَ steht im Akkusativ als Ism anna (Subjekt des von أَنَّ eingeführten Satzes, nach der Inna-Schwester-Regel). قَادِرٌ steht im Nominativ als Khabar anna."
           }
         ]
       }
     },
     {
       "id": "MAS3",
-      "title": "أَنْ nach Praeposition — temporale und modale Verbindungen",
-      "description": "أَنْ-Saetze stehen haeufig nach Praepositionen wie قَبْلَ, بَعْدَ, مِنْ, حَتَّى. Diese Verbindungen sind im Quran standard.",
+      "title": "أَنْ nach Präposition — temporale und modale Verbindungen",
+      "description": "أَنْ-Sätze stehen häufig nach Präpositionen wie قَبْلَ, بَعْدَ, مِنْ, حَتَّى. Diese Verbindungen sind im Quran standard.",
       "learnContent": {
         "sections": [
           {
             "type": "explanation",
-            "title": "أَنْ in Praepositionalphrasen",
-            "content": "Da Praepositionen ein Genitiv-Komplement verlangen, und أَنْ-Saetze als Nomen fungieren, koennen sie nach Praepositionen stehen. Die Phrase أَنْ + Verb steht dann في محل جر.\n\nHaeufige Verbindungen:\n- قَبْلَ أَنْ: 'bevor' — قَبْلَ أَن يَاْتِيَ\n- بَعْدَ أَنْ: 'nachdem' — بَعْدَ أَن فَعَلَ\n- مِنْ أَنْ: 'dass / weil' — خَافَ مِنْ أَنْ\n- حَتَّى + أَنْ: 'bis' — سَيَفْعَلُ حَتَّى يَنْتَهِيَ\n- لِ + أَنْ (= لِأَنْ): 'damit / wegen' — جَاءَ لِأَنْ يَعْمَلَ\n\nDie Kontraktion لِئَلَّا = لِ + أَنْ + لَا ist im Quran sehr haeufig."
+            "title": "أَنْ in Präpositionalphrasen",
+            "content": "Da Präpositionen ein Genitiv-Komplement verlangen, und أَنْ-Sätze als Nomen fungieren, können sie nach Präpositionen stehen. Die Phrase أَنْ + Verb steht dann في محل جر.\n\nHaeufige Verbindungen:\n- قَبْلَ أَنْ: 'bevor' — قَبْلَ أَن يَاْتِيَ\n- بَعْدَ أَنْ: 'nachdem' — بَعْدَ أَن فَعَلَ\n- مِنْ أَنْ: 'dass / weil' — خَافَ مِنْ أَنْ\n- حَتَّى + أَنْ: 'bis' — سَيَفْعَلُ حَتَّى يَنْتَهِيَ\n- لِ + أَنْ (= لِأَنْ): 'damit / wegen' — جَاءَ لِأَنْ يَعْمَلَ\n\nDie Kontraktion لِئَلَّا = لِ + أَنْ + لَا ist im Quran sehr häufig."
           },
           {
             "type": "quranExamples",
@@ -156,17 +160,17 @@
               {
                 "ref": "2:233",
                 "arabic": "لِمَنْ أَرَادَ أَن يُتِمَّ الرَّضَاعَةَ",
-                "explanation": "أَنْ يُتِمَّ = Masdar-Satz als Objekt von أَرَادَ. يُتِمَّ = Subjunktiv (Form IV von تَمَّ). 'Fuer den, der die Stillzeit vollstaendig halten will.'"
+                "explanation": "أَنْ يُتِمَّ = Masdar-Satz als Objekt von أَرَادَ. يُتِمَّ = Subjunktiv (Form IV von تَمَّ). 'Für den, der die Stillzeit vollständig halten will.'"
               },
               {
                 "ref": "2:150",
                 "arabic": "لِئَلَّا يَكُونَ لِلنَّاسِ عَلَيْكُمْ حُجَّةٌ",
-                "explanation": "لِئَلَّا = لِ + أَنْ + لَا (Kontraktion). يَكُونَ = Subjunktiv. 'Damit die Menschen keinen Einwand gegen euch haben.' Der gesamte أَنْ-Satz steht nach der Praeposition لِ im Genitiv (في محل جر)."
+                "explanation": "لِئَلَّا = لِ + أَنْ + لَا (Kontraktion). يَكُونَ = Subjunktiv. 'Damit die Menschen keinen Einwand gegen euch haben.' Der gesamte أَنْ-Satz steht nach der Präposition لِ im Genitiv (في محل جر)."
               },
               {
                 "ref": "5:6",
                 "arabic": "مَا يُرِيدُ اللَّهُ لِيَجْعَلَ عَلَيْكُم مِّنْ حَرَجٍ",
-                "explanation": "لِيَجْعَلَ = لِ + Subjunktiv. Eine alternative Konstruktion zu لِأَنْ يَجْعَلَ. Die Praeposition لِ steht direkt vor dem Verb im Subjunktiv ohne explizites أَنْ. Im Quran haeufig: لِ + Subjunktiv = Zweckangabe."
+                "explanation": "لِيَجْعَلَ = لِ + Subjunktiv. Eine alternative Konstruktion zu لِأَنْ يَجْعَلَ. Die Präposition لِ steht direkt vor dem Verb im Subjunktiv ohne explizites أَنْ. Im Quran häufig: لِ + Subjunktiv = Zweckangabe."
               }
             ]
           }
@@ -176,7 +180,7 @@
         {
           "type": "analysis",
           "question": "Analysiere مِن قَبْلِ أَن يَأْتِيَكُمُ الْعَذَابُ (39:54).",
-          "answer": "مِنْ = Praeposition. قَبْلِ = Genitiv nach مِنْ (temporales Nomen: 'vor'). أَنْ يَأْتِيَكُمُ = Masdar-Satz als Genitiv-Ergaenzung zu قَبْلِ (في محل جر). يَأْتِيَكُمُ = Subjunktiv von أَتَى. الْعَذَابُ = Fa'il (Subjekt des Masdar-Satzes, Nominativ). 'Bevor euch die Strafe kommt.'"
+          "answer": "مِنْ = Präposition. قَبْلِ = Genitiv nach مِنْ (temporales Nomen: 'vor'). أَنْ يَأْتِيَكُمُ = Masdar-Satz als Genitiv-Ergänzung zu قَبْلِ (في محل جر). يَأْتِيَكُمُ = Subjunktiv von أَتَى. الْعَذَابُ = Fa'il (Subjekt des Masdar-Satzes, Nominativ). 'Bevor euch die Strafe kommt.'"
         }
       ],
       "testContent": {
@@ -190,7 +194,7 @@
               "لَوْ + لَا"
             ],
             "correct": 2,
-            "explanation": "لِئَلَّا = لِ (Praeposition, Zweck) + أَنْ (Subjunktiv-Partikel) + لَا (Negation). 'Damit... nicht.' Der folgende Verb steht im Subjunktiv."
+            "explanation": "لِئَلَّا = لِ (Präposition, Zweck) + أَنْ (Subjunktiv-Partikel) + لَا (Negation). 'Damit... nicht.' Der folgende Verb steht im Subjunktiv."
           }
         ]
       }

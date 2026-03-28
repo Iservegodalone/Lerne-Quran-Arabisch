@@ -11,7 +11,7 @@ const EXERCISES = [
   // Hamza in der Mitte
   { word: '\u0645\u064F\u0624\u0652\u0645\u0650\u0646', type: 'seat', answer: 2, ref: '2:8', explanation: 'Mittleres Hamza: Vokal davor ist Damma (\u0645\u064F), Hamza hat Sukun → Waw gewinnt. Regel: Damma > Fatha > Kasra > Sukun. Damma = Waw' },
   { word: '\u0633\u064E\u0623\u064E\u0644\u064E', type: 'seat', answer: 0, ref: '2:108', explanation: 'Mittleres Hamza: Vokal davor ist Fatha (\u0633\u064E), Hamza hat Fatha → Alif. Fatha + Fatha = Alif' },
-  { word: '\u0631\u064E\u0626\u0650\u064A\u0633', type: 'seat', answer: 3, ref: '—', explanation: 'Mittleres Hamza: Hamza hat Kasra (\u0650) → Kasra ist der staerkste Vokal → Ya/Nabira (\u0626)' },
+  { word: '\u0631\u064E\u0626\u0650\u064A\u0633', type: 'seat', answer: 3, ref: '—', explanation: 'Mittleres Hamza: Hamza hat Kasra (\u0650) → Kasra ist der stärkste Vokal → Ya/Nabira (\u0626)' },
   { word: '\u0628\u0650\u0626\u0652\u0633\u064E', type: 'seat', answer: 3, ref: '2:177', explanation: 'Mittleres Hamza: Vokal davor ist Kasra (\u0628\u0650), Hamza hat Sukun → Kasra gewinnt → Ya/Nabira (\u0626)' },
   // Hamza am Ende
   { word: '\u0633\u064E\u0645\u064E\u0627\u0621', type: 'seat', answer: 4, ref: '2:19', explanation: 'End-Hamza: Vokal davor ist Langvokal \u0627 → auf der Linie (\u0621). Nach Langvokal/Sukun steht Hamza allein' },
@@ -19,7 +19,7 @@ const EXERCISES = [
   { word: '\u0636\u064E\u0648\u0652\u0621', type: 'seat', answer: 4, ref: '24:35', explanation: 'End-Hamza: Vokal davor ist Sukun (\u0648\u0652) → auf der Linie (\u0621)' },
   { word: '\u0645\u064E\u0644\u0652\u062C\u064E\u0623', type: 'seat', answer: 0, ref: '18:58', explanation: 'End-Hamza: Vokal davor ist Fatha (\u062C\u064E) → auf Alif (\u0623). Fatha = Alif' },
   // Wasl vs. Qat
-  { word: '\u0627\u0633\u0652\u0645', type: 'wasl_qat', answer: 6, ref: '1:1', explanation: 'Hamzat al-Wasl. \u0627\u0633\u0652\u0645 (Nomen) beginnt mit Wasl-Hamza — wird nur am Satzanfang gesprochen, nach Vokal faellt sie weg (bi-smi, nicht bi-ismi)' },
+  { word: '\u0627\u0633\u0652\u0645', type: 'wasl_qat', answer: 6, ref: '1:1', explanation: 'Hamzat al-Wasl. \u0627\u0633\u0652\u0645 (Nomen) beginnt mit Wasl-Hamza — wird nur am Satzanfang gesprochen, nach Vokal fällt sie weg (bi-smi, nicht bi-ismi)' },
   { word: '\u0627\u0628\u0652\u0646', type: 'wasl_qat', answer: 6, ref: '19:34', explanation: 'Hamzat al-Wasl. Eines der 10 Nomen mit Wasl-Hamza' },
   { word: '\u0627\u0647\u0652\u062F\u0650', type: 'wasl_qat', answer: 6, ref: '1:6', explanation: 'Hamzat al-Wasl. Imperativ von Form I (Grundstamm) beginnt immer mit Wasl-Hamza' },
   { word: '\u0627\u0633\u0652\u062A\u064E\u063A\u0652\u0641\u0650\u0631\u0652', type: 'wasl_qat', answer: 6, ref: '47:19', explanation: 'Hamzat al-Wasl. Imperativ von Form X beginnt mit Wasl-Hamza (wie alle Formen VII-X)' },
@@ -27,7 +27,7 @@ const EXERCISES = [
   { word: '\u0625\u0650\u0646\u0651\u064E', type: 'wasl_qat', answer: 1, ref: '2:6', explanation: 'Hamzat al-Qat (\u0625). Partikel \u0625\u0650\u0646\u0651\u064E beginnt mit Qat-Hamza unter Alif. Wird IMMER gesprochen' },
   { word: '\u0623\u064E\u0646\u064E\u0627', type: 'wasl_qat', answer: 0, ref: '20:14', explanation: 'Hamzat al-Qat (\u0623). Pronomen beginnen mit Qat-Hamza. Wird IMMER gesprochen' },
   { word: '\u0625\u0650\u0641\u0652\u0639\u064E\u0627\u0644', type: 'wasl_qat', answer: 1, ref: '—', explanation: 'Hamzat al-Qat (\u0625). Masdar Form IV beginnt mit Qat-Hamza. Wird IMMER gesprochen' },
-  { word: '\u0627\u0646\u0641\u064E\u0639\u064E\u0644\u064E', type: 'wasl_qat', answer: 6, ref: '—', explanation: 'Hamzat al-Wasl. Perfekt Form VII beginnt mit Wasl-Hamza. Faellt nach Vokal weg' },
+  { word: '\u0627\u0646\u0641\u064E\u0639\u064E\u0644\u064E', type: 'wasl_qat', answer: 6, ref: '—', explanation: 'Hamzat al-Wasl. Perfekt Form VII beginnt mit Wasl-Hamza. Fällt nach Vokal weg' },
   { word: '\u0627\u0641\u0652\u062A\u064E\u0639\u064E\u0644\u064E', type: 'wasl_qat', answer: 6, ref: '—', explanation: 'Hamzat al-Wasl. Perfekt Form VIII beginnt mit Wasl-Hamza' },
   { word: '\u0627\u0633\u0652\u062A\u064E\u0641\u0652\u0639\u064E\u0644\u064E', type: 'wasl_qat', answer: 6, ref: '—', explanation: 'Hamzat al-Wasl. Perfekt Form X beginnt mit Wasl-Hamza' },
   // === NEUE ÜBUNGEN: Hamza am Wortanfang ===
@@ -44,7 +44,7 @@ const EXERCISES = [
   { word: '\u0633\u064F\u0624\u064E\u0627\u0644', type: 'seat', answer: 2, ref: '70:1', explanation: 'Mittleres Hamza: Vokal davor ist Damma (\u0633\u064F), Hamza hat Fatha → Damma gewinnt → Waw (\u0624)' },
   { word: '\u0631\u064F\u0624\u064F\u0648\u0633', type: 'seat', answer: 2, ref: '14:43', explanation: 'Mittleres Hamza: Vokal davor ist Damma (\u0631\u064F), Hamza hat Damma → Waw (\u0624)' },
   { word: '\u0641\u064F\u0624\u064E\u0627\u062F', type: 'seat', answer: 2, ref: '28:10', explanation: 'Mittleres Hamza: Vokal davor ist Damma (\u0641\u064F), Hamza hat Fatha → Damma gewinnt → Waw (\u0624)' },
-  { word: '\u064A\u064E\u0626\u0650\u0633\u064F\u0648\u0627', type: 'seat', answer: 3, ref: '13:31', explanation: 'Mittleres Hamza: Hamza hat Kasra → Kasra ist staerkster Vokal → Ya/Nabira (\u0626)' },
+  { word: '\u064A\u064E\u0626\u0650\u0633\u064F\u0648\u0627', type: 'seat', answer: 3, ref: '13:31', explanation: 'Mittleres Hamza: Hamza hat Kasra → Kasra ist stärkster Vokal → Ya/Nabira (\u0626)' },
   { word: '\u0633\u064E\u0626\u0650\u0645\u064E\u062A', type: 'seat', answer: 3, ref: '18:69', explanation: 'Mittleres Hamza: Hamza hat Kasra → Kasra gewinnt → Ya/Nabira (\u0626)' },
   { word: '\u0644\u064F\u0624\u0652\u0644\u064F\u0624', type: 'seat', answer: 2, ref: '56:22', explanation: 'Mittleres Hamza: Vokal davor ist Damma (\u0644\u064F), Hamza hat Sukun → Damma gewinnt → Waw (\u0624)' },
   { word: '\u0645\u064E\u0633\u0652\u0623\u064E\u0644\u064E\u0629', type: 'seat', answer: 0, ref: '5:101', explanation: 'Mittleres Hamza: Vokal davor ist Sukun (\u0633\u0652), Hamza hat Fatha → Fatha gewinnt → Alif (\u0623)' },
@@ -106,7 +106,7 @@ export default function HamzaExercise() {
       <p style={{ color: 'var(--text-secondary)', fontSize: '0.85rem', marginBottom: 16 }}>
         {mode === 'seat'
           ? 'Bestimme wo Hamza sitzt: auf Alif, unter Alif, auf Waw, auf Ya, allein, oder als Madda.'
-          : 'Ist es Hamzat al-Wasl (faellt nach Vokal weg) oder Hamzat al-Qat (wird immer gesprochen)?'}
+          : 'Ist es Hamzat al-Wasl (fällt nach Vokal weg) oder Hamzat al-Qat (wird immer gesprochen)?'}
       </p>
 
       {score.total > 0 && <div style={{ fontSize: '0.8rem', color: 'var(--text-muted)', marginBottom: 12 }}>{score.correct}/{score.total} korrekt</div>}
@@ -131,7 +131,7 @@ export default function HamzaExercise() {
           })}
         </div>
 
-        {!revealed && <button onClick={check} disabled={selected === null} style={{ padding: '10px 28px', borderRadius: 8, border: 'none', background: selected !== null ? 'var(--accent-teal)' : 'var(--text-muted)', color: '#fff', cursor: selected !== null ? 'pointer' : 'default', width: '100%' }}>Pruefen</button>}
+        {!revealed && <button onClick={check} disabled={selected === null} style={{ padding: '10px 28px', borderRadius: 8, border: 'none', background: selected !== null ? 'var(--accent-teal)' : 'var(--text-muted)', color: '#fff', cursor: selected !== null ? 'pointer' : 'default', width: '100%' }}>Prüfen</button>}
 
         {revealed && (
           <div style={{ padding: 12, background: 'var(--bg)', borderRadius: 8, border: '1px solid var(--border)' }}>

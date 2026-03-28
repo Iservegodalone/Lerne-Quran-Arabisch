@@ -185,9 +185,9 @@ describe('Module1 Overview and Section Navigation', () => {
     expect(screen.getByText('Lernmodus')).toBeTruthy()
   })
 
-  it('shows Pruefmodus section heading', () => {
+  it('shows Prüfmodus section heading', () => {
     renderModule1()
-    expect(screen.getByText('Pruefmodus')).toBeTruthy()
+    expect(screen.getByText('Prüfmodus')).toBeTruthy()
   })
 
   it('shows all 5 lesson cards in the Lernmodus section', () => {
@@ -199,7 +199,7 @@ describe('Module1 Overview and Section Navigation', () => {
     expect(screen.getByText('Getrennte Buchstaben')).toBeTruthy()
   })
 
-  it('shows all Pruefmodus test cards (P1..P8, A)', () => {
+  it('shows all Prüfmodus test cards (P1..P8, A)', () => {
     renderModule1()
     expect(screen.getByText('Buchstabenerkennung')).toBeTruthy()
     expect(screen.getByText('Positionserkennung')).toBeTruthy()
@@ -237,13 +237,13 @@ describe('Module1 Overview and Section Navigation', () => {
     })
   })
 
-  it('clicking "Zurueck zur Uebersicht" returns to overview from lesson', async () => {
+  it('clicking "Zurück zur Übersicht" returns to overview from lesson', async () => {
     renderModule1()
     fireEvent.click(screen.getByText('Das Alphabet'))
     await waitFor(() => {
       expect(screen.getByText(/Lektion 1\.1/)).toBeTruthy()
     })
-    fireEvent.click(screen.getByText('Zurueck zur Uebersicht'))
+    fireEvent.click(screen.getByText('Zurück zur Übersicht'))
     await waitFor(() => {
       expect(screen.getByText('Modul 1 — Schrift-Trainer')).toBeTruthy()
     })
@@ -314,7 +314,7 @@ describe('Lesson 1.1 — Letter Grid and Detail', () => {
     await goToLesson11()
     fireEvent.click(screen.getByText('Alif'))
     await waitFor(() => {
-      expect(screen.getByText('Laut anhoeren')).toBeTruthy()
+      expect(screen.getByText('Laut anhören')).toBeTruthy()
       expect(screen.getByText(/Laut abspielen: Alif/)).toBeTruthy()
     })
   })
@@ -396,7 +396,7 @@ describe('Lesson 1.3 — Script Feature tabs', () => {
 
   it('shows multiple section tabs', async () => {
     await goToLesson13()
-    expect(screen.getByText('Hamza und seine Traeger')).toBeTruthy()
+    expect(screen.getByText('Hamza und seine Träger')).toBeTruthy()
     expect(screen.getByText('Ta Marbuta vs. Ta Maftuha')).toBeTruthy()
     expect(screen.getByText('Alif Maqsura vs. Ya')).toBeTruthy()
     expect(screen.getByText('Lam-Alif-Ligatur')).toBeTruthy()
@@ -484,7 +484,7 @@ describe('Lesson 1.5 — Huruf Muqattaat', () => {
 //  7. PRUEFMODUS — Tests require a lesson to have been visited
 // ═════════════════════════════════════════════════════════════════════
 
-describe('Pruefmodus gating — requires lesson visit', () => {
+describe('Prüfmodus gating — requires lesson visit', () => {
   it('shows gating hint when no lessons have been visited', () => {
     renderModule1()
     expect(screen.getByText(/Bearbeite zuerst mindestens eine Lektion/)).toBeTruthy()
@@ -522,19 +522,19 @@ describe('Test — Buchstabenerkennung (Letter Recognition)', () => {
     })
     fireEvent.click(screen.getByText('Buchstabenerkennung'))
     await waitFor(() => {
-      expect(screen.getByText(/Pruefung — Buchstabenerkennung/)).toBeTruthy()
+      expect(screen.getByText(/Prüfung — Buchstabenerkennung/)).toBeTruthy()
     })
   }
 
   it('renders the letter recognition test with a letter and input', async () => {
     await goToLetterTest()
     expect(screen.getByPlaceholderText(/Name oder Transliteration/)).toBeTruthy()
-    expect(screen.getByText('Pruefen')).toBeTruthy()
+    expect(screen.getByText('Prüfen')).toBeTruthy()
     // Progress indicator
     expect(screen.getByText(/1 \//)).toBeTruthy()
   })
 
-  it('typing correct answer and clicking Pruefen shows Richtig', async () => {
+  it('typing correct answer and clicking Prüfen shows Richtig', async () => {
     await goToLetterTest()
     // We need to find which letter is displayed; the test uses shuffled letters.
     // The input accepts the letter name. We can type a partial match.
@@ -546,7 +546,7 @@ describe('Test — Buchstabenerkennung (Letter Recognition)', () => {
     // The component accepts name startsWith(answer) so we type a generic letter name
     // We can't predict the random letter, so we'll type something that triggers wrong to test flow
     await userEvent.type(input, 'alif')
-    fireEvent.click(screen.getByText('Pruefen'))
+    fireEvent.click(screen.getByText('Prüfen'))
 
     // Either Richtig or Nicht ganz will appear
     await waitFor(() => {
@@ -559,7 +559,7 @@ describe('Test — Buchstabenerkennung (Letter Recognition)', () => {
     await goToLetterTest()
     const input = screen.getByPlaceholderText(/Name oder Transliteration/)
     await userEvent.type(input, 'test')
-    fireEvent.click(screen.getByText('Pruefen'))
+    fireEvent.click(screen.getByText('Prüfen'))
 
     await waitFor(() => {
       expect(screen.getByText('Weiter')).toBeTruthy()
@@ -573,7 +573,7 @@ describe('Test — Buchstabenerkennung (Letter Recognition)', () => {
 
   it('empty input does not trigger feedback', async () => {
     await goToLetterTest()
-    fireEvent.click(screen.getByText('Pruefen'))
+    fireEvent.click(screen.getByText('Prüfen'))
     // Feedback should NOT appear
     expect(screen.queryByText('Richtig!')).toBeNull()
     expect(screen.queryByText('Nicht ganz.')).toBeNull()
@@ -594,7 +594,7 @@ describe('Test — Positionserkennung (Position Recognition)', () => {
     })
     fireEvent.click(screen.getByText('Positionserkennung'))
     await waitFor(() => {
-      expect(screen.getByText(/Pruefung — Positionserkennung/)).toBeTruthy()
+      expect(screen.getByText(/Prüfung — Positionserkennung/)).toBeTruthy()
     })
   }
 
@@ -649,7 +649,7 @@ describe('Test — Minimalpaare (Minimal Pairs)', () => {
     })
     fireEvent.click(screen.getByText('Minimalpaare'))
     await waitFor(() => {
-      expect(screen.getByText(/Pruefung — Minimalpaare/)).toBeTruthy()
+      expect(screen.getByText(/Prüfung — Minimalpaare/)).toBeTruthy()
     })
   }
 
@@ -689,7 +689,7 @@ describe('Test — Tashkil-Erkennung', () => {
     })
     fireEvent.click(screen.getByText('Tashkil-Erkennung'))
     await waitFor(() => {
-      expect(screen.getByText(/Pruefung — Tashkil-Erkennung/)).toBeTruthy()
+      expect(screen.getByText(/Prüfung — Tashkil-Erkennung/)).toBeTruthy()
     })
   }
 
@@ -730,7 +730,7 @@ describe('Test — Schriftbesonderheiten', () => {
     })
     fireEvent.click(screen.getByText('Schriftbesonderheiten'))
     await waitFor(() => {
-      expect(screen.getByText(/Pruefung — Schriftbesonderheiten/)).toBeTruthy()
+      expect(screen.getByText(/Prüfung — Schriftbesonderheiten/)).toBeTruthy()
     })
   }
 
@@ -772,7 +772,7 @@ describe('Test — Huruf Muqattaat', () => {
     })
     fireEvent.click(screen.getByText('Huruf Muqattaat'))
     await waitFor(() => {
-      expect(screen.getByText(/Pruefung — Huruf Muqattaat/)).toBeTruthy()
+      expect(screen.getByText(/Prüfung — Huruf Muqattaat/)).toBeTruthy()
     })
   }
 
@@ -815,17 +815,17 @@ describe('Test — Wort-Lesen (Word Reading)', () => {
     })
   }
 
-  it('renders word reading test with input and Pruefen button', async () => {
+  it('renders word reading test with input and Prüfen button', async () => {
     await goToWordReadingTest()
     expect(screen.getByPlaceholderText(/Buchstaben/)).toBeTruthy()
-    expect(screen.getByText('Pruefen')).toBeTruthy()
+    expect(screen.getByText('Prüfen')).toBeTruthy()
   })
 
-  it('typing an answer and clicking Pruefen shows feedback', async () => {
+  it('typing an answer and clicking Prüfen shows feedback', async () => {
     await goToWordReadingTest()
     const input = screen.getByPlaceholderText(/Buchstaben/)
     await userEvent.type(input, 'bsm')
-    fireEvent.click(screen.getByText('Pruefen'))
+    fireEvent.click(screen.getByText('Prüfen'))
     await waitFor(() => {
       const feedbackExists = screen.queryByText('Richtig!') || screen.queryByText('Nicht ganz.')
       expect(feedbackExists).toBeTruthy()
@@ -870,7 +870,7 @@ describe('Test — Abschlusstest Sure 1', () => {
     await goToSurah1Test()
     const input = screen.getByPlaceholderText(/Name des Buchstabens/)
     await userEvent.type(input, 'ba')
-    fireEvent.click(screen.getByText('Pruefen'))
+    fireEvent.click(screen.getByText('Prüfen'))
     await waitFor(() => {
       expect(screen.getByText('Weiter')).toBeTruthy()
     })
@@ -940,13 +940,13 @@ describe('Data-driven lessons (Phonologie / Ijam)', () => {
       const card = phonoCards[0].closest('button')
       fireEvent.click(card)
       await waitFor(() => {
-        // DataDrivenLesson renders with Lernmodus / Pruefmodus tabs
+        // DataDrivenLesson renders with Lernmodus / Prüfmodus tabs
         expect(screen.getByText('Lernmodus')).toBeTruthy()
       })
     }
   })
 
-  it('DataDrivenLesson shows Zurueck zur Uebersicht button', async () => {
+  it('DataDrivenLesson shows Zurück zur Übersicht button', async () => {
     renderModule1()
     const phonoCards = screen.getAllByText(/^1\.\d+$/).filter(el => {
       const num = parseFloat(el.textContent)
@@ -956,10 +956,10 @@ describe('Data-driven lessons (Phonologie / Ijam)', () => {
       const card = phonoCards[0].closest('button')
       fireEvent.click(card)
       await waitFor(() => {
-        expect(screen.getByText('Zurueck zur Uebersicht')).toBeTruthy()
+        expect(screen.getByText('Zurück zur Übersicht')).toBeTruthy()
       })
       // Clicking back returns to overview
-      fireEvent.click(screen.getByText('Zurueck zur Uebersicht'))
+      fireEvent.click(screen.getByText('Zurück zur Übersicht'))
       await waitFor(() => {
         expect(screen.getByText('Modul 1 — Schrift-Trainer')).toBeTruthy()
       })
@@ -981,7 +981,7 @@ describe('Test — Audio-Erkennung', () => {
     })
     fireEvent.click(screen.getByText('Audio-Erkennung'))
     await waitFor(() => {
-      expect(screen.getByText(/Pruefung — Audio-Erkennung/)).toBeTruthy()
+      expect(screen.getByText(/Prüfung — Audio-Erkennung/)).toBeTruthy()
     })
   }
 
@@ -1037,7 +1037,7 @@ describe('Test result screen — score display and restart', () => {
     })
     fireEvent.click(screen.getByText('Tashkil-Erkennung'))
     await waitFor(() => {
-      expect(screen.getByText(/Pruefung — Tashkil-Erkennung/)).toBeTruthy()
+      expect(screen.getByText(/Prüfung — Tashkil-Erkennung/)).toBeTruthy()
     })
 
     // Answer all 9 questions by clicking first option and then Weiter
@@ -1079,7 +1079,7 @@ describe('Test restart functionality', () => {
     })
     fireEvent.click(screen.getByText('Schriftbesonderheiten'))
     await waitFor(() => {
-      expect(screen.getByText(/Pruefung — Schriftbesonderheiten/)).toBeTruthy()
+      expect(screen.getByText(/Prüfung — Schriftbesonderheiten/)).toBeTruthy()
     })
 
     // Answer all 8 questions
@@ -1103,7 +1103,7 @@ describe('Test restart functionality', () => {
     // Click restart
     fireEvent.click(screen.getByText('Erneut versuchen'))
     await waitFor(() => {
-      expect(screen.getByText(/Pruefung — Schriftbesonderheiten/)).toBeTruthy()
+      expect(screen.getByText(/Prüfung — Schriftbesonderheiten/)).toBeTruthy()
       expect(screen.getByText(/1 \//)).toBeTruthy()
     })
   })
@@ -1123,7 +1123,7 @@ describe('Keyboard interaction — Enter key', () => {
     })
     fireEvent.click(screen.getByText('Buchstabenerkennung'))
     await waitFor(() => {
-      expect(screen.getByText(/Pruefung — Buchstabenerkennung/)).toBeTruthy()
+      expect(screen.getByText(/Prüfung — Buchstabenerkennung/)).toBeTruthy()
     })
 
     const input = screen.getByPlaceholderText(/Name oder Transliteration/)

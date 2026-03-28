@@ -98,7 +98,7 @@ export default function PatternRecognitionDrill() {
   const [score, setScore] = useState({ correct: 0, total: 0 })
 
   const data = mode === 'word2pattern' ? WORD_TO_PATTERN : PATTERN_TO_WORDS_MERGED
-  if (!data || data.length === 0) return <div style={{ maxWidth: 700, margin: '0 auto', padding: 24, color: 'var(--text-secondary)' }}>Keine Daten verfuegbar.</div>
+  if (!data || data.length === 0) return <div style={{ maxWidth: 700, margin: '0 auto', padding: 24, color: 'var(--text-secondary)' }}>Keine Daten verfügbar.</div>
   const item = data[idx % data.length]
   if (!item) return null
 
@@ -138,7 +138,7 @@ export default function PatternRecognitionDrill() {
           border: mode === 'pattern2word' ? '2px solid var(--accent-teal)' : '1px solid var(--border)',
           background: mode === 'pattern2word' ? 'rgba(45,212,191,0.1)' : 'var(--bg)',
           color: mode === 'pattern2word' ? 'var(--accent-teal)' : 'var(--text-secondary)',
-        }}>Muster → Woerter</button>
+        }}>Muster → Wörter</button>
       </div>
 
       {score.total > 0 && <div style={{ fontSize: '0.8rem', color: 'var(--text-muted)', marginBottom: 12 }}>{score.correct}/{score.total} korrekt</div>}
@@ -166,16 +166,16 @@ export default function PatternRecognitionDrill() {
               <div style={{ fontSize: '0.9rem', color: 'var(--text-secondary)', marginTop: 4 }}>{item.name}</div>
             </div>
             <p style={{ fontSize: '0.85rem', color: 'var(--text-secondary)', marginBottom: 12 }}>
-              Nenne Quranwoerter die diesem Muster folgen. Klicke auf "Aufloesen" um die Beispiele zu sehen.
+              Nenne Quranwoerter die diesem Muster folgen. Klicke auf "Auflösen" um die Beispiele zu sehen.
             </p>
             <textarea value={input} onChange={e => setInput(e.target.value)} disabled={revealed} rows={3}
-              placeholder="Gib Woerter ein (eines pro Zeile oder mit Komma getrennt)"
+              placeholder="Gib Wörter ein (eines pro Zeile oder mit Komma getrennt)"
               style={{ width: '100%', padding: '10px', borderRadius: 8, border: '1px solid var(--border)', background: 'var(--bg)', color: 'var(--text)', fontFamily: 'var(--font-arabic)', fontSize: '1.1rem', direction: 'rtl', boxSizing: 'border-box', resize: 'vertical' }} />
           </>
         )}
 
         {!revealed && <button onClick={check} style={{ marginTop: 12, padding: '10px 28px', borderRadius: 8, border: 'none', background: 'var(--accent-teal)', color: '#fff', cursor: 'pointer', width: '100%' }}>
-          {mode === 'word2pattern' ? 'Pruefen' : 'Aufloesen'}
+          {mode === 'word2pattern' ? 'Prüfen' : 'Auflösen'}
         </button>}
 
         {revealed && (

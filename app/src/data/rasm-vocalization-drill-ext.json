@@ -1,7 +1,11 @@
 {
   "meta": {
     "title": "Rasm-zu-Vokalisation Drill — Erweiterung",
-    "description": "50 zusaetzliche Uebungen: Vom reinen Konsonantentext zur grammatisch begruendeten Vokalisation in 5 Schritten."
+    "description": "50 zusätzliche Übungen: Vom reinen Konsonantentext zur grammatisch begründeten Vokalisation in 5 Schritten.",
+    "sources": [
+      { "name": "Wright's Grammar Vol I", "url": "https://archive.org/details/grammarofthearab01telerich" },
+      { "name": "Quranic Arabic Corpus", "url": "https://corpus.quran.com/" }
+    ]
   },
   "exercises": [
     {
@@ -15,7 +19,7 @@
         "syntacticRole": "Mudaf ilayh (Genitiv nach لِ in لِلَّهِ)",
         "vocalization": "اللَّهِ"
       },
-      "explanation": "الله (Gott) im Genitiv wegen der Praeposition لِ. Die Schadda auf dem Lam ist ein festes Merkmal des Wortes. Genitiv → Kasra."
+      "explanation": "الله (Gott) im Genitiv wegen der Präposition لِ. Die Schadda auf dem Lam ist ein festes Merkmal des Wortes. Genitiv → Kasra."
     },
     {
       "id": "rv12",
@@ -28,7 +32,7 @@
         "syntacticRole": "Badal/Sifa zu الله (Genitiv)",
         "vocalization": "الرَّحْمَٰنِ"
       },
-      "explanation": "ال + رَحْمَان (der Barmherzige, Muster فَعْلان von ر-ح-م). Genitiv wegen بِسْمِ → Kasra. Das Alif Khanjariyya (ٰ) ueber dem Mim zeigt einen langen Vokal, der im Rasm kein volles Alif hat."
+      "explanation": "ال + رَحْمَان (der Barmherzige, Muster فَعْلان von ر-ح-م). Genitiv wegen بِسْمِ → Kasra. Das Alif Khanjariyya (ٰ) über dem Mim zeigt einen langen Vokal, der im Rasm kein volles Alif hat."
     },
     {
       "id": "rv13",
@@ -38,10 +42,10 @@
         "wordType": "Verb",
         "root": "ع-و-ن",
         "form": "Form X (استفعل), Imperfekt, 1. Person Plural",
-        "syntacticRole": "Fi'l (Verb, Praedikat)",
+        "syntacticRole": "Fi'l (Verb, Prädikat)",
         "vocalization": "نَسْتَعِينُ"
       },
-      "explanation": "نَـ (Imperfekt-Praefix 1.Pl.) + ستعين (Form X von ع-و-ن). Der mittlere Radikal Waw wird zum langen Vokal ii (hohles Verb in Form X). Indikativ → Damma-Endung."
+      "explanation": "نَـ (Imperfekt-Präfix 1.Pl.) + ستعين (Form X von ع-و-ن). Der mittlere Radikal Waw wird zum langen Vokal ii (hohles Verb in Form X). Indikativ → Damma-Endung."
     },
     {
       "id": "rv14",
@@ -64,10 +68,10 @@
         "wordType": "Verb",
         "root": "ا-م-ن",
         "form": "Form IV (أفعل), Imperfekt, 3. Person maskulin Plural",
-        "syntacticRole": "Sila (Relativsatz, Praedikat zu الذين)",
+        "syntacticRole": "Sila (Relativsatz, Prädikat zu الذين)",
         "vocalization": "يُؤْمِنُونَ"
       },
-      "explanation": "يُـ (Praefix 3mp Form IV) + ؤمن (ا-م-ن mit Hamza auf Waw-Sitz). Form IV Imperfekt hat Damma-Praefix. Die Nun am Ende zeigt Indikativ des Plurals."
+      "explanation": "يُـ (Präfix 3mp Form IV) + ؤمن (ا-م-ن mit Hamza auf Waw-Sitz). Form IV Imperfekt hat Damma-Präfix. Die Nun am Ende zeigt Indikativ des Plurals."
     },
     {
       "id": "rv16",
@@ -77,10 +81,10 @@
         "wordType": "Verb",
         "root": "ن-ف-ق",
         "form": "Form IV (أنفق), Imperfekt, 3. Person maskulin Plural",
-        "syntacticRole": "Fi'l im Relativsatz (Praedikat zu الذين)",
+        "syntacticRole": "Fi'l im Relativsatz (Prädikat zu الذين)",
         "vocalization": "يُنفِقُونَ"
       },
-      "explanation": "يُـ (Praefix 3mp Form IV) + نفق. Form IV mit Damma-Praefix und Kasra auf dem zweiten Radikal. Indikativ → Nun am Ende erhalten."
+      "explanation": "يُـ (Präfix 3mp Form IV) + نفق. Form IV mit Damma-Präfix und Kasra auf dem zweiten Radikal. Indikativ → Nun am Ende erhalten."
     },
     {
       "id": "rv17",
@@ -103,7 +107,7 @@
         "wordType": "Verb",
         "root": "خ-ت-م",
         "form": "Form I, Perfekt, 3. Person maskulin Singular",
-        "syntacticRole": "Fi'l (Verb, Praedikat)",
+        "syntacticRole": "Fi'l (Verb, Prädikat)",
         "vocalization": "خَتَمَ"
       },
       "explanation": "خَتَمَ (er versiegelte). Form I Perfekt, Vokalklasse a-i. Aber im Perfekt 3ms sind alle drei Radikale mit Fatha: خَتَمَ. Fa'il ist الله."
@@ -132,7 +136,7 @@
         "syntacticRole": "Jarr/Majrur (Genitiv nach على)",
         "vocalization": "سَمْعِ"
       },
-      "explanation": "سَمْع (Gehoer/Hoeren), Masdar von س-م-ع. Genitiv wegen وَعَلَى سَمْعِهِم. Kasra auf dem Ayn."
+      "explanation": "سَمْع (Gehör/Hören), Masdar von س-م-ع. Genitiv wegen وَعَلَى سَمْعِهِم. Kasra auf dem Ayn."
     },
     {
       "id": "rv21",
@@ -207,7 +211,7 @@
         "wordType": "Nomen (Partizip)",
         "root": "ا-م-ن",
         "form": "Aktives Partizip Form IV, maskulin Plural",
-        "syntacticRole": "Khabar (Praedikat von ما + هم, Nominativ oder Akkusativ)",
+        "syntacticRole": "Khabar (Prädikat von ما + هم, Nominativ oder Akkusativ)",
         "vocalization": "مُؤْمِنِينَ"
       },
       "explanation": "مُؤْمِن (Glaubender/Vertrauender), Partizip Form IV von ا-م-ن. Plural: مُؤْمِنِين. Das Ya+Nun zeigt den maskulinen gesunden Plural im Akkusativ/Genitiv (obliquus)."
@@ -223,7 +227,7 @@
         "syntacticRole": "Fi'l (Verb)",
         "vocalization": "يُخَادِعُونَ"
       },
-      "explanation": "يُخَادِعُون (Form III: sie versuchen zu taeuschen, Gegenseitigkeit). Form III erkennbar am Alif nach dem ersten Radikal und Damma-Praefix. Alternativ: يَخْدَعُون (Form I: sie taeuschen) mit Fatha-Praefix. Ambiguitaet im Rasm."
+      "explanation": "يُخَادِعُون (Form III: sie versuchen zu täuschen, Gegenseitigkeit). Form III erkennbar am Alif nach dem ersten Radikal und Damma-Präfix. Alternativ: يَخْدَعُون (Form I: sie täuschen) mit Fatha-Präfix. Ambiguität im Rasm."
     },
     {
       "id": "rv28",
@@ -249,7 +253,7 @@
         "syntacticRole": "Khabar von كانوا (Verbalsatz)",
         "vocalization": "يَكْذِبُونَ"
       },
-      "explanation": "يَكْذِبُون (sie luegen). Form I von ك-ذ-ب, Vokalklasse a-i (Kasra auf dem zweiten Radikal im Imperfekt). Indikativ → Nun erhalten."
+      "explanation": "يَكْذِبُون (sie lügen). Form I von ك-ذ-ب, Vokalklasse a-i (Kasra auf dem zweiten Radikal im Imperfekt). Indikativ → Nun erhalten."
     },
     {
       "id": "rv30",
@@ -275,7 +279,7 @@
         "syntacticRole": "Nachgestelltes Verb nach لا الناهية",
         "vocalization": "تُفْسِدُوا"
       },
-      "explanation": "تُفْسِدُوا (stiftet Unheil). Form IV von ف-س-د. Damma-Praefix (Form IV). Jussiv nach لا الناهية → Wegfall des Nun (تفسدوا statt تفسدون)."
+      "explanation": "تُفْسِدُوا (stiftet Unheil). Form IV von ف-س-د. Damma-Präfix (Form IV). Jussiv nach لا الناهية → Wegfall des Nun (تفسدوا statt تفسدون)."
     },
     {
       "id": "rv32",
@@ -311,7 +315,7 @@
         "wordType": "Verb",
         "root": "ش-ر-ي",
         "form": "Form VIII (اشترى), Perfekt, 3. Person maskulin Plural",
-        "syntacticRole": "Fi'l (Verb, Relativsatz-Praedikat)",
+        "syntacticRole": "Fi'l (Verb, Relativsatz-Prädikat)",
         "vocalization": "اشْتَرَوُا"
       },
       "explanation": "اشترى (Form VIII: kaufen/eintauschen) + Plural-Waw + Alif al-Wiqaya. Die Wurzel endet auf Ya (schwaches Verb), das im Plural zur Waw wird. Perfekt 3mp."
@@ -337,7 +341,7 @@
         "wordType": "Nomen (Adjektiv)",
         "root": "ص-م-م",
         "form": "Adjektiv, Muster فُعْل (Plural)",
-        "syntacticRole": "Khabar (Praedikat, Nominativ)",
+        "syntacticRole": "Khabar (Prädikat, Nominativ)",
         "vocalization": "صُمٌّ"
       },
       "explanation": "صُمّ (taub, Plural von أَصَمّ). Muster فُعْل mit verdoppeltem letztem Radikal. Nominativ als Khabar → Damma + Tanwin. Die Schadda zeigt den verdoppelten Mim."
@@ -431,7 +435,7 @@
         "syntacticRole": "Genitiv (Mudaf ilayh nach مِنَ)",
         "vocalization": "الثَّمَرَاتِ"
       },
-      "explanation": "الثَّمَرَات (die Fruechte), femininer gesunder Plural von ثَمَرَة. Mit Artikel. Genitiv nach مِنَ → Kasra auf der Ta."
+      "explanation": "الثَّمَرَات (die Früchte), femininer gesunder Plural von ثَمَرَة. Mit Artikel. Genitiv nach مِنَ → Kasra auf der Ta."
     },
     {
       "id": "rv44",
@@ -444,7 +448,7 @@
         "syntacticRole": "Fi'l (Verb)",
         "vocalization": "تَعْلَمُونَ"
       },
-      "explanation": "تَعْلَمُون (ihr wisst). Form I von ع-ل-م, Vokalklasse a-a. Fatha-Praefix (Form I). Indikativ → Nun erhalten."
+      "explanation": "تَعْلَمُون (ihr wisst). Form I von ع-ل-م, Vokalklasse a-a. Fatha-Präfix (Form I). Indikativ → Nun erhalten."
     },
     {
       "id": "rv45",
@@ -509,7 +513,7 @@
         "syntacticRole": "Fi'l Amr (Befehlsverb nach فَ)",
         "vocalization": "فَاتَّقُوا"
       },
-      "explanation": "فَ (Konsequenz) + اتَّقُوا (fuerchtet!/huetet euch!). Form VIII von و-ق-ي. Das Ta des Form-VIII-Infixes wurde verdoppelt (Schadda). Imperativ 2mp mit Waw + Alif al-Wiqaya."
+      "explanation": "فَ (Konsequenz) + اتَّقُوا (fürchtet!/hütet euch!). Form VIII von و-ق-ي. Das Ta des Form-VIII-Infixes wurde verdoppelt (Schadda). Imperativ 2mp mit Waw + Alif al-Wiqaya."
     },
     {
       "id": "rv50",
@@ -519,7 +523,7 @@
         "wordType": "Nomen",
         "root": "ح-ج-ر",
         "form": "Nomen, Muster فِعَالَة",
-        "syntacticRole": "Khabar (Praedikat in Relativsatz oder Sifa)",
+        "syntacticRole": "Khabar (Prädikat in Relativsatz oder Sifa)",
         "vocalization": "حِجَارَتُهَا"
       },
       "explanation": "حِجَارَة (Steine), Nomen von ح-ج-ر. Muster فِعَالَة. Nominativ als Teil des Relativsatzes الَّتِي وَقُودُهَا النَّاسُ وَالْحِجَارَةُ. Das Suffix ها verweist auf النار."
@@ -535,7 +539,7 @@
         "syntacticRole": "Fi'l Amr (Befehlsverb)",
         "vocalization": "بَشِّرِ"
       },
-      "explanation": "بَشِّرْ (verkuende frohe Botschaft!). Form II von ب-ش-ر. Imperativ Form II hat kein Hamza al-Wasla (beginnt direkt mit dem ersten Radikal). Schadda auf dem Shin zeigt die Verdopplung des zweiten Radikals (Form II)."
+      "explanation": "بَشِّرْ (verkünde frohe Botschaft!). Form II von ب-ش-ر. Imperativ Form II hat kein Hamza al-Wasla (beginnt direkt mit dem ersten Radikal). Schadda auf dem Shin zeigt die Verdopplung des zweiten Radikals (Form II)."
     },
     {
       "id": "rv52",
@@ -561,7 +565,7 @@
         "syntacticRole": "Maf'ul bihi (Akkusativ)",
         "vocalization": "جَنَّاتٍ"
       },
-      "explanation": "جَنَّات (Gaerten), Plural von جَنَّة. Die Schadda auf dem Nun zeigt den verdoppelten zweiten Radikal. Akkusativ/Genitiv → Kasra + Tanwin (femininer gesunder Plural: Kasra fuer Akkusativ UND Genitiv)."
+      "explanation": "جَنَّات (Gärten), Plural von جَنَّة. Die Schadda auf dem Nun zeigt den verdoppelten zweiten Radikal. Akkusativ/Genitiv → Kasra + Tanwin (femininer gesunder Plural: Kasra für Akkusativ UND Genitiv)."
     },
     {
       "id": "rv54",
@@ -613,7 +617,7 @@
         "syntacticRole": "Hal (Zustandsakkusativ)",
         "vocalization": "مُتَشَابِهًا"
       },
-      "explanation": "مُتَشَابِه (einander aehnelnd). Partizip Form VI von ش-ب-ه (gegenseitige Aehnlichkeit). Akkusativ als Hal → Fatha + Tanwin. Form VI erkennbar am Muster مُتَفَاعِل."
+      "explanation": "مُتَشَابِه (einander ähnelnd). Partizip Form VI von ش-ب-ه (gegenseitige Ähnlichkeit). Akkusativ als Hal → Fatha + Tanwin. Form VI erkennbar am Muster مُتَفَاعِل."
     },
     {
       "id": "rv58",
@@ -626,7 +630,7 @@
         "syntacticRole": "Mubtada oder Khabar (Nominativ)",
         "vocalization": "أَزْوَاجٌ"
       },
-      "explanation": "أَزْوَاج (Gefaehrtinnen/Paare), Plural von زَوْج. Muster أَفْعَال. Nominativ → Damma + Tanwin (indefinit)."
+      "explanation": "أَزْوَاج (Gefährtinnen/Paare), Plural von زَوْج. Muster أَفْعَال. Nominativ → Damma + Tanwin (indefinit)."
     },
     {
       "id": "rv59",

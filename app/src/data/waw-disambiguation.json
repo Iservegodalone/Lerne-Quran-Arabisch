@@ -1,24 +1,34 @@
 {
   "meta": {
     "title": "Waw-Disambiguierung — die sechs Funktionen von وَ",
-    "description": "Das arabische وَ hat mehrere distinkte syntaktische Funktionen. Im Quran erscheint es auf jeder Seite — meist als Koordination, aber auch als Hal-Einleitung, Schwurpartikel, Begleitmarker und Diskurs-Opener. Falsche Zuweisung fuehrt zu falschen Satzstrukturen."
+    "description": "Das arabische وَ hat mehrere distinkte syntaktische Funktionen. Im Quran erscheint es auf jeder Seite — meist als Koordination, aber auch als Hal-Einleitung, Schwurpartikel, Begleitmarker und Diskurs-Opener. Falsche Zuweisung führt zu falschen Satzstrukturen.",
+    "sources": [
+      {
+        "name": "Wright's Arabic Grammar Vol II",
+        "url": "https://archive.org/details/grammarofthearab02telerich"
+      },
+      {
+        "name": "Quranic Arabic Corpus",
+        "url": "https://corpus.quran.com/"
+      }
+    ]
   },
   "lessons": [
     {
       "id": "WAW1",
-      "title": "Die sechs Funktionen von وَ im Ueberblick",
-      "description": "Systematische Uebersicht und Erkennungsstrategien fuer jede Funktion.",
+      "title": "Die sechs Funktionen von وَ im Überblick",
+      "description": "Systematische Übersicht und Erkennungsstrategien für jede Funktion.",
       "learnContent": {
         "sections": [
           {
             "type": "explanation",
             "title": "Die sechs Funktionen",
-            "content": "وَ im Arabischen hat folgende Hauptfunktionen:\n\n1. WAW AL-'ATF (واو العطف) — KOORDINATION\n   'und' — verbindet zwei gleichartige Elemente\n   Signal: zwei parallele Nomina/Verben folgen\n   يَاكُلُ وَيَشْرَبُ — 'er isst und trinkt'\n\n2. WAW AL-HAL (واو الحال) — UMSTANDSEINLEITUNG\n   'wobei / waehrend' — leitet eine Jumla Haliyya ein\n   Signal: waw + Pronomen + Nomen (Nominalsatz), oder waw + Imperfekt\n   جَاءَ وَهُوَ يَبْكِي — 'er kam, wobei er weinte'\n\n3. WAW AL-QASAM (واو القسم) — SCHWUR\n   'bei...' — Schwurpartikel, nimmt Genitiv\n   Signal: waw + Genitiv-Nomen am Satzanfang ohne Verb\n   وَالْعَصْرِ — 'beim Asr' (Sure 103:1)\n\n4. WAW AL-MA'IYYA (واو المعية) — GLEICHZEITIGKEIT/BEGLEITUNG\n   'zusammen mit' — das folgende Nomen ist Maf'ul ma'ahu (Akkusativ)\n   Signal: waw nach Verb/Adjektiv + Akkusativ-Nomen\n   سِرْتُ وَالنِّيلَ — 'ich reiste am Nil entlang' (mit dem Nil)\n\n5. WAW AL-IBTIDA' (واو الابتداء) — DISKURS-OPENER\n   Nicht konjunktional — eroefffnet eine neue Aussageeinheit ohne syntaktische Bindung\n   Signal: am Satzanfang, kein eindeutiges Bezugsglied\n   Oft nicht von waw al-'atf unterscheidbar ohne Kontext\n\n6. WAW AL-RUBBA (واو رُبَّ) — PARTITIVE WAW\n   Selten. Nach dem waw folgt indefinites Nomen im Genitiv, implizit 'manches...'\n   Im Quran nicht eindeutig belegt."
+            "content": "وَ im Arabischen hat folgende Hauptfunktionen:\n\n1. WAW AL-'ATF (واو العطف) — KOORDINATION\n   'und' — verbindet zwei gleichartige Elemente\n   Signal: zwei parallele Nomina/Verben folgen\n   يَاكُلُ وَيَشْرَبُ — 'er isst und trinkt'\n\n2. WAW AL-HAL (واو الحال) — UMSTANDSEINLEITUNG\n   'wobei / während' — leitet eine Jumla Haliyya ein\n   Signal: waw + Pronomen + Nomen (Nominalsatz), oder waw + Imperfekt\n   جَاءَ وَهُوَ يَبْكِي — 'er kam, wobei er weinte'\n\n3. WAW AL-QASAM (واو القسم) — SCHWUR\n   'bei...' — Schwurpartikel, nimmt Genitiv\n   Signal: waw + Genitiv-Nomen am Satzanfang ohne Verb\n   وَالْعَصْرِ — 'beim Asr' (Sure 103:1)\n\n4. WAW AL-MA'IYYA (واو المعية) — GLEICHZEITIGKEIT/BEGLEITUNG\n   'zusammen mit' — das folgende Nomen ist Maf'ul ma'ahu (Akkusativ)\n   Signal: waw nach Verb/Adjektiv + Akkusativ-Nomen\n   سِرْتُ وَالنِّيلَ — 'ich reiste am Nil entlang' (mit dem Nil)\n\n5. WAW AL-IBTIDA' (واو الابتداء) — DISKURS-OPENER\n   Nicht konjunktional — eroefffnet eine neue Aussageeinheit ohne syntaktische Bindung\n   Signal: am Satzanfang, kein eindeutiges Bezugsglied\n   Oft nicht von waw al-'atf unterscheidbar ohne Kontext\n\n6. WAW AL-RUBBA (واو رُبَّ) — PARTITIVE WAW\n   Selten. Nach dem waw folgt indefinites Nomen im Genitiv, implizit 'manches...'\n   Im Quran nicht eindeutig belegt."
           },
           {
             "type": "explanation",
             "title": "Der Analyse-Algorithmus",
-            "content": "Bei jedem وَ im Quran: diese Fragen der Reihe nach:\n\nFRAGE 1: Steht وَ am absoluten Satzanfang und folgt ein Genitiv ohne Verb?\n→ JA: Waw al-Qasam. ENDE.\n\nFRAGE 2: Folgt ein Nominalsatz (Pronomen + Nomen/Adjektiv) mit Zustandsbedeutung?\n→ JA: Waw al-Hal. ENDE.\n\nFRAGE 3: Folgt ein Akkusativ nach einem Bewegungsverb oder einem Prozessverb, und koennte es 'zusammen mit' bedeuten?\n→ JA: Waw al-Ma'iyya (Maf'ul ma'ahu). ENDE.\n\nFRAGE 4: Verbindet es zwei formal parallele Elemente (Nomina gleichen Kasus, Verben gleicher Form)?\n→ JA: Waw al-'Atf. ENDE.\n\nFRAGE 5: Keines der obigen passt?\n→ Waw al-Ibtida' oder weiterer Kontext noetig."
+            "content": "Bei jedem وَ im Quran: diese Fragen der Reihe nach:\n\nFRAGE 1: Steht وَ am absoluten Satzanfang und folgt ein Genitiv ohne Verb?\n→ JA: Waw al-Qasam. ENDE.\n\nFRAGE 2: Folgt ein Nominalsatz (Pronomen + Nomen/Adjektiv) mit Zustandsbedeutung?\n→ JA: Waw al-Hal. ENDE.\n\nFRAGE 3: Folgt ein Akkusativ nach einem Bewegungsverb oder einem Prozessverb, und könnte es 'zusammen mit' bedeuten?\n→ JA: Waw al-Ma'iyya (Maf'ul ma'ahu). ENDE.\n\nFRAGE 4: Verbindet es zwei formal parallele Elemente (Nomina gleichen Kasus, Verben gleicher Form)?\n→ JA: Waw al-'Atf. ENDE.\n\nFRAGE 5: Keines der obigen passt?\n→ Waw al-Ibtida' oder weiterer Kontext nötig."
           },
           {
             "type": "quranExamples",
@@ -32,7 +42,7 @@
               {
                 "ref": "4:43",
                 "arabic": "لَا تَقْرَبُوا الصَّلَاةَ وَأَنتُمْ سُكَارَىٰ",
-                "explanation": "WAW AL-HAL. Dem وَ folgt ein Pronomen (أَنتُمْ) + Adjektiv (سُكَارَىٰ) — ein Nominalsatz. 'Naehert euch dem Gebet nicht, waehrend ihr betrunken seid.' Test: 'waehrend' passt, 'und' wuerde eine semantisch unmoeglich Reihung ergeben."
+                "explanation": "WAW AL-HAL. Dem وَ folgt ein Pronomen (أَنتُمْ) + Adjektiv (سُكَارَىٰ) — ein Nominalsatz. 'Nähert euch dem Gebet nicht, während ihr betrunken seid.' Test: 'während' passt, 'und' würde eine semantisch unmöglich Reihung ergeben."
               },
               {
                 "ref": "2:2-3",
@@ -42,7 +52,7 @@
               {
                 "ref": "2:148",
                 "arabic": "وَلِكُلٍّ وِجْهَةٌ هُوَ مُوَلِّيهَا فَاسْتَبِقُوا الْخَيْرَاتِ",
-                "explanation": "WAW AL-IBTIDA'. Das waw am Anfang eroefffnet eine neue Aussage: 'Und fuer jeden gibt es eine Richtung, die er einnimmt.' Es verbindet nicht mit einem spezifischen Vorgaengerelement — es markiert den Diskursfortgang."
+                "explanation": "WAW AL-IBTIDA'. Das waw am Anfang eroefffnet eine neue Aussage: 'Und für jeden gibt es eine Richtung, die er einnimmt.' Es verbindet nicht mit einem spezifischen Vorgaengerelement — es markiert den Diskursfortgang."
               }
             ]
           }
@@ -57,13 +67,13 @@
         {
           "type": "classification",
           "question": "وَهُوَ أَهْوَنُ عَلَيْهِ (30:27) — Was ist das وَ?",
-          "answer": "WAW AL-HAL. Dem وَ folgt ein Pronomen (هُوَ) + Adjektiv (أَهْوَنُ) — ein Nominalsatz. 'Und das ist ihm leichter' — aber in seiner Funktion als Hal zur vorhergehenden Handlung: '...waehrend das fuer ihn leichter ist.'"
+          "answer": "WAW AL-HAL. Dem وَ folgt ein Pronomen (هُوَ) + Adjektiv (أَهْوَنُ) — ein Nominalsatz. 'Und das ist ihm leichter' — aber in seiner Funktion als Hal zur vorhergehenden Handlung: '...während das für ihn leichter ist.'"
         }
       ],
       "testContent": {
         "exercises": [
           {
-            "question": "Was ist das sicherste Signal fuer Waw al-Qasam?",
+            "question": "Was ist das sicherste Signal für Waw al-Qasam?",
             "options": [
               "وَ + Imperfektverb",
               "وَ + definites Genitiv-Nomen am Satzanfang, ohne Verb",
@@ -77,7 +87,7 @@
             "question": "Welches Signal unterscheidet Waw al-Hal von Waw al-'Atf in يَبْكُونَ وَهُمْ صَادِقُونَ?",
             "options": [
               "Das zweite Element ist ein Verb",
-              "وَهُمْ صَادِقُونَ ist ein Nominalsatz — kein paralleles Verb, das koordiniert werden koennte",
+              "وَهُمْ صَادِقُونَ ist ein Nominalsatz — kein paralleles Verb, das koordiniert werden könnte",
               "وَ steht nach einem Negationspartikel",
               "Es gibt kein Signal — nur Kontext entscheidet"
             ],
@@ -96,12 +106,12 @@
           {
             "type": "explanation",
             "title": "Waw al-Ma'iyya — der Begleitmarker",
-            "content": "Waw al-Ma'iyya (واو المعية) bedeutet 'zusammen mit'. Das folgende Nomen steht im AKKUSATIV (Maf'ul ma'ahu). Dies unterscheidet es von Waw al-'Atf, nach dem das Nomen im gleichen Kasus wie das vorherige steht.\n\nSignal: Nach einem Bewegungsverb oder einem Verb der Gleichzeitigkeit steht وَ + Akkusativ, obwohl kein direktes Objekt erwartet wird.\n\nKlassisches Beispiel:\nجَاءَ مُحَمَّدٌ وَزَيْدًا — 'Muhammad kam, zusammen mit Zayd'\nHier: زَيْدًا im Akkusativ — Maf'ul ma'ahu. Wenn es زَيْدٌ waere (Nominativ), waere es waw al-'atf ('Muhammad und Zayd kamen').\n\nIm Quran ist dieser Typ selten — die Analyse ist nicht immer eindeutig."
+            "content": "Waw al-Ma'iyya (واو المعية) bedeutet 'zusammen mit'. Das folgende Nomen steht im AKKUSATIV (Maf'ul ma'ahu). Dies unterscheidet es von Waw al-'Atf, nach dem das Nomen im gleichen Kasus wie das vorherige steht.\n\nSignal: Nach einem Bewegungsverb oder einem Verb der Gleichzeitigkeit steht وَ + Akkusativ, obwohl kein direktes Objekt erwartet wird.\n\nKlassisches Beispiel:\nجَاءَ مُحَمَّدٌ وَزَيْدًا — 'Muhammad kam, zusammen mit Zayd'\nHier: زَيْدًا im Akkusativ — Maf'ul ma'ahu. Wenn es زَيْدٌ wäre (Nominativ), wäre es waw al-'atf ('Muhammad und Zayd kamen').\n\nIm Quran ist dieser Typ selten — die Analyse ist nicht immer eindeutig."
           },
           {
             "type": "explanation",
             "title": "Grenzfaelle — wenn die Analyse unklar ist",
-            "content": "Manchmal ist die Funktion des وَ syntaktisch nicht eindeutig bestimmbar. Dies ist kein Fehler — arabische Grammatik erlaubt legitime Ambiguitaet.\n\nPrinzipien fuer unsichere Faelle:\n\n1. KASUS-TEST: Folgt ein Akkusativ, der NICHT durch das Verb gefordert wird? → Verdacht auf Waw al-Ma'iyya oder Waw al-Hal-mit-Akkusativ.\n\n2. SEMANTIK-TEST: Macht 'und' Sinn, oder macht 'wobei/waehrend' mehr Sinn? → Hilft bei Hal-Erkennung.\n\n3. PARALLELISMUS-TEST: Sind die verbundenen Elemente formal parallel? → Eher Waw al-'Atf.\n\n4. Wenn alle Tests versagen: mehrere Analysen nebeneinander notieren — das ist legitime Grammatikarbeit."
+            "content": "Manchmal ist die Funktion des وَ syntaktisch nicht eindeutig bestimmbar. Dies ist kein Fehler — arabische Grammatik erlaubt legitime Ambiguität.\n\nPrinzipien für unsichere Fälle:\n\n1. KASUS-TEST: Folgt ein Akkusativ, der NICHT durch das Verb gefordert wird? → Verdacht auf Waw al-Ma'iyya oder Waw al-Hal-mit-Akkusativ.\n\n2. SEMANTIK-TEST: Macht 'und' Sinn, oder macht 'wobei/während' mehr Sinn? → Hilft bei Hal-Erkennung.\n\n3. PARALLELISMUS-TEST: Sind die verbundenen Elemente formal parallel? → Eher Waw al-'Atf.\n\n4. Wenn alle Tests versagen: mehrere Analysen nebeneinander notieren — das ist legitime Grammatikarbeit."
           },
           {
             "type": "quranExamples",
@@ -110,7 +120,7 @@
               {
                 "ref": "2:282",
                 "arabic": "وَأَشْهِدُوا إِذَا تَبَايَعْتُمْ",
-                "explanation": "Das وَ am Anfang koennte Waw al-'Atf (Koordination mit dem vorherigen Befehl) oder Waw al-Ibtida' (neuer Diskursbeginn) sein. Beide Analysen sind grammatisch vertretbar. Kein eindeutiges Unterscheidungssignal."
+                "explanation": "Das وَ am Anfang könnte Waw al-'Atf (Koordination mit dem vorherigen Befehl) oder Waw al-Ibtida' (neuer Diskursbeginn) sein. Beide Analysen sind grammatisch vertretbar. Kein eindeutiges Unterscheidungssignal."
               },
               {
                 "ref": "18:86",
@@ -125,7 +135,7 @@
         {
           "type": "analysis",
           "question": "فَادْخُلِي فِي عِبَادِي وَادْخُلِي جَنَّتِي (89:29-30) — Was ist das وَ zwischen den beiden Imperativformen?",
-          "answer": "WAW AL-'ATF. Koordiniert zwei Imperative: ادْخُلِي فِي عِبَادِي UND ادْخُلِي جَنَّتِي. Formale Parallelitaet (zwei Imperative, gleiche Form). 'So tritt ein unter meine Diener, und tritt ein in mein Paradies.'"
+          "answer": "WAW AL-'ATF. Koordiniert zwei Imperative: ادْخُلِي فِي عِبَادِي UND ادْخُلِي جَنَّتِي. Formale Parallelität (zwei Imperative, gleiche Form). 'So tritt ein unter meine Diener, und tritt ein in mein Paradies.'"
         }
       ],
       "testContent": {
@@ -134,7 +144,7 @@
             "question": "Nach welcher der folgenden Regeln steht der Maf'ul ma'ahu?",
             "options": [
               "Im Nominativ — als zweites Subjekt",
-              "Im Genitiv — nach der Praeposition وَ",
+              "Im Genitiv — nach der Präposition وَ",
               "Im Akkusativ — nach وَ der Gleichzeitigkeit",
               "Im gleichen Kasus wie das erste Nomen"
             ],

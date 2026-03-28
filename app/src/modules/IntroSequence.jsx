@@ -104,6 +104,11 @@ const STEPS = [
           </div>
         </div>
         <p>
+          (In diesem Beispiel sind die Buchstabenpunkte bereits enthalten — die reine
+          Schicht 1 ohne Punkte wird in Modul 1 behandelt. Hier zeigen wir den
+          konsonantischen Text in seiner heute üblichen Darstellungsform.)
+        </p>
+        <p>
           Nur Konsonanten mit Buchstabenpunkten. Keine Vokalzeichen. Keine Nummern.
           Keine Überschriften. So sieht der konsonantische Grundtext aus.
         </p>
@@ -169,18 +174,20 @@ const STEPS = [
           Zeichen über und unter den Buchstaben hinzugefügt</strong> — die Fatha,
           Damma, Kasra, Sukun, Shadda und Tanwīn die heute in jeder Quran-Ausgabe stehen.
         </p>
-        <p><strong>Wie wurden sie eingefuehrt?</strong></p>
+        <p><strong>Wie wurden sie eingeführt?</strong></p>
         <p>
-          <strong>Erstes System (7. Jh., Basra):</strong> Farbige Punkte — rot fuer Fatha, gruen
-          fuer andere Vokale. Das System wurde mit den Buchstabenpunkten verwechselt und
-          war unpraktisch.
+          <strong>Erstes System (7. Jh., Basra):</strong> Farbige Punkte in verschiedenen
+          Positionen — ein roter Punkt über dem Buchstaben für Fatha, unter dem
+          Buchstaben für Kasra, und neben dem Buchstaben für Damma. Da die Punkte
+          mit den Buchstabenpunkten (Iʿjām) verwechselt werden konnten, war das
+          System unpraktisch.
         </p>
         <p>
           <strong>Zweites System (8. Jh., Basra):</strong> Die farbigen Punkte wurden
           durch kleine Striche und Zeichen ersetzt — die Formen die bis heute verwendet werden.
         </p>
         <p>
-          <strong>Die heute verwendeten Vokalzeichen gehen auf dieses Notationssystem zurueck.</strong>
+          <strong>Die heute verwendeten Vokalzeichen gehen auf dieses Notationssystem zurück.</strong>
         </p>
       </>
     ),
@@ -225,23 +232,22 @@ const STEPS = [
     ),
   },
 
-  // ── Step 6: Beispiel 1 — ملك ──
+  // ── Step 6: Konsonantenskelett und Lesungen ──
   {
     id: 'example-malik',
-    title: 'Beispiel 1 — Sure 1:4',
+    title: 'Konsonantenskelett und Lesungen — Sure 1:4',
     content: (
       <>
         <p>
-          Das Konsonantengerüst <span className="arabic-inline" dir="rtl">ملك</span> kann
-          vokalisiert werden als:
+          In Sure 1:4 gibt es zwei bekannte Lesungen:
         </p>
-        <div className="intro-example-box intro-example-critical">
+        <div className="intro-example-box">
           <div className="arabic-display" dir="rtl">
             <div className="intro-vocalization-row">
               <span className="intro-vocalized intro-vocalized-large">مَلِكِ</span>
               <span className="intro-vocalized-info">(maliki) = König</span>
             </div>
-            <div className="intro-vocalization-divider">oder</div>
+            <div className="intro-vocalization-divider">und</div>
             <div className="intro-vocalization-row">
               <span className="intro-vocalized intro-vocalized-large">مَالِكِ</span>
               <span className="intro-vocalized-info">(māliki) = Besitzer / Eigentümer</span>
@@ -249,17 +255,33 @@ const STEPS = [
           </div>
         </div>
         <p>
-          Beide sind grammatisch korrekt. Beide ergeben Sinn.
+          Auf den ersten Blick scheint dies ein Fall von Vokalambiguität zu sein —
+          aber es ist keiner. <strong>Diese beiden Wörter haben verschiedene
+          Konsonantenskelette:</strong>
+        </p>
+        <div className="intro-example-box">
+          <div className="arabic-display" dir="rtl">
+            <div className="intro-vocalization-row">
+              <span className="intro-vocalized intro-vocalized-large">ملك</span>
+              <span className="intro-vocalized-info">= Skelett von مَلِك (malik)</span>
+            </div>
+            <div className="intro-vocalization-divider">vs.</div>
+            <div className="intro-vocalization-row">
+              <span className="intro-vocalized intro-vocalized-large">مالك</span>
+              <span className="intro-vocalized-info">= Skelett von مَالِك (mālik) — mit Alif</span>
+            </div>
+          </div>
+        </div>
+        <p>
+          Das Alif in <strong>مَالِكِ</strong> ist kein Vokalzeichen — es ist ein
+          Langvokal und damit Teil des Konsonantentextes. Die Unterscheidung ist
+          bereits auf Konsonantenebene sichtbar. Dies ist <strong>keine echte
+          konsonantische Ambiguität</strong>.
         </p>
         <p>
-          <strong>مَلِكِ</strong> (maliki, Muster <em>faʿil</em>) und <strong>مَالِكِ</strong> (māliki,
-          Muster <em>fāʿil</em>) — zwei verschiedene Wörter mit verschiedenem Muster,
-          aus demselben Konsonantengerüst.
-        </p>
-        <p>
-          Beide Vokalisierungen sind grammatisch korrekt. <strong>Das Konsonantengeruest
-          laesst beide zu</strong> — die Morphologie und Syntax allein bestimmen welche
-          Lesungen moeglich sind.
+          Echte Ambiguität zeigt sich bei identischem Konsonantenskelett — wenn
+          dasselbe Gerüst durch verschiedene Vokalisierung verschiedene Bedeutungen
+          ergibt. Das zeigt das nächste Beispiel.
         </p>
       </>
     ),
@@ -727,7 +749,7 @@ const STEPS = [
     content: (
       <>
         <p>
-          So haben wir den Primaertext vorbereitet. Das ist eine <strong>informative
+          So haben wir den Primärtext vorbereitet. Das ist eine <strong>informative
           Dokumentation</strong> — du musst nichts herunterladen, der Text ist bereits in
           der App integriert. Aber du sollst wissen, woher er stammt und wie er aufbereitet wurde.
         </p>
@@ -736,23 +758,23 @@ const STEPS = [
           <div className="intro-download-step">
             <div className="intro-download-step-number">1</div>
             <div>
-              <strong>Seite oeffnen:</strong> tanzil.net/download/
+              <strong>Seite öffnen:</strong> tanzil.net/download/
             </div>
           </div>
           <div className="intro-download-step">
             <div className="intro-download-step-number">2</div>
             <div>
-              <strong>Texttyp waehlen:</strong> Simple (Clean)
+              <strong>Texttyp wählen:</strong> Simple (Clean)
               <p className="intro-download-detail">
                 Das ist der Konsonantentext mit Buchstabenpunkten — Schicht 1+2 ohne Schicht 3.
-                Kein Vokalzeichen, keine Sonderzeichen, keine zusaetzlichen Markierungen.
+                Kein Vokalzeichen, keine Sonderzeichen, keine zusätzlichen Markierungen.
               </p>
             </div>
           </div>
           <div className="intro-download-step">
             <div className="intro-download-step-number">3</div>
             <div>
-              <strong>Dateiformat waehlen:</strong> Text (with aya numbers)
+              <strong>Dateiformat wählen:</strong> Text (with aya numbers)
               <p className="intro-download-detail">
                 Einfache Textdatei mit Versnummern zur Navigation. Unicode-kodiert.
               </p>
@@ -761,7 +783,7 @@ const STEPS = [
           <div className="intro-download-step">
             <div className="intro-download-step-number">4</div>
             <div>
-              <strong>Optionen — was abgewaehlt wird und warum:</strong>
+              <strong>Optionen — was abgewählt wird und warum:</strong>
             </div>
           </div>
         </div>
@@ -782,7 +804,7 @@ const STEPS = [
             <div>
               <strong>Sajda-Zeichen: NEIN</strong>
               <p className="intro-checkbox-reason">
-                Markierungen fuer Niederwerfungsstellen.
+                Markierungen für Niederwerfungsstellen.
                 Im Simple-Clean-Text nicht enthalten.
               </p>
             </div>
@@ -813,7 +835,7 @@ const STEPS = [
               <strong>Sequential Tanweens: Irrelevant bei Simple Clean</strong>
               <p className="intro-checkbox-reason">
                 Betrifft die Reihenfolge der Tanween-Kodierung in vokalisierten Texten.
-                Da Simple Clean keine Vokalzeichen enthaelt, hat diese Option keine Wirkung.
+                Da Simple Clean keine Vokalzeichen enthält, hat diese Option keine Wirkung.
               </p>
             </div>
           </div>
@@ -838,7 +860,7 @@ const STEPS = [
       <>
         <p>
           Aus dem heruntergeladenen Simple-Clean-Text erstellen wir <strong>zwei
-          Versionen</strong> fuer unterschiedliche Zwecke:
+          Versionen</strong> für unterschiedliche Zwecke:
         </p>
 
         <div className="intro-two-columns">
@@ -846,7 +868,7 @@ const STEPS = [
             <h4>Leseversion</h4>
             <p>
               <strong>Nur der Konsonantentext.</strong> Keine Surennummern, keine
-              Versnummern, keine Ueberschriften. Nur der Konsonantentext mit Buchstabenpunkten.
+              Versnummern, keine Überschriften. Nur der Konsonantentext mit Buchstabenpunkten.
               Jede Sure beginnt auf einer neuen Zeile.
             </p>
             <p>
@@ -858,7 +880,7 @@ const STEPS = [
             <h4>Forschungsversion</h4>
             <p>
               <strong>Text mit Nummern-Marginalien.</strong> Surennummern und Versnummern als
-              Navigationshilfe. Keine inhaltlichen Ergaenzungen — nur Koordinaten.
+              Navigationshilfe. Keine inhaltlichen Ergänzungen — nur Koordinaten.
             </p>
             <p>
               Zweck: Gezielt Verse finden, Querverweise verfolgen, systematisch arbeiten.
@@ -906,13 +928,13 @@ const STEPS = [
           </p>
           <p>
             In der Leseversion entsteht dadurch ein Problem: Wenn keine Basmala den Beginn
-            einer neuen Sure markiert, ist der Uebergang von Sure 8 zu Sure 9 unsichtbar.
+            einer neuen Sure markiert, ist der Übergang von Sure 8 zu Sure 9 unsichtbar.
           </p>
           <p>
-            <strong>Loesung:</strong> Ein Seitenumbruch oder ein sichtbarer Leerraum zwischen
-            Sure 8 und Sure 9. Kein hinzugefuegter Text — nur Weissraum als visueller
+            <strong>Lösung:</strong> Ein Seitenumbruch oder ein sichtbarer Leerraum zwischen
+            Sure 8 und Sure 9. Kein hinzugefügter Text — nur Weißraum als visueller
             Separator. Die Forschungsversion hat dieses Problem nicht, da die Surennummern
-            den Uebergang klar markieren.
+            den Übergang klar markieren.
           </p>
         </div>
       </>
@@ -965,9 +987,9 @@ const STEPS = [
         <div className="intro-tool-card">
           <h4>Audioaufnahmen — Phonetische Referenz</h4>
           <p>
-            Langsame Audioaufnahmen des Qurantextes als Material fuer Phonetik und
+            Langsame Audioaufnahmen des Qurantextes als Material für Phonetik und
             Prosodie-Analyse — vergleichbar mit einem Muttersprachler der einen Text
-            vorliest. Hier eingesetzt als phonetische Referenz fuer Aussprache und Prosodie.
+            vorliest. Hier eingesetzt als phonetische Referenz für Aussprache und Prosodie.
           </p>
         </div>
       </>
@@ -1016,21 +1038,21 @@ const STEPS = [
     ),
   },
 
-  // ── Step 17: Verstaendnistest (interaktiv) ──
+  // ── Step 17: Verständnistest (interaktiv) ──
   {
     id: 'quiz',
-    title: 'Kurzer Verstaendnistest',
+    title: 'Kurzer Verständnistest',
     content: (
       <>
         <p>
-          Bevor wir anfangen — fuenf Fragen um sicherzustellen dass die Methodik klar ist.
+          Bevor wir anfangen — fünf Fragen um sicherzustellen dass die Methodik klar ist.
           <strong> Klicke auf eine Frage um die Antwort zu sehen.</strong>
         </p>
         <div className="intro-quiz">
           <details className="intro-quiz-item">
             <summary><strong>1.</strong> Was ist der Konsonantentext (Schicht 1)?</summary>
             <p className="intro-quiz-answer">
-              Das Geruest aus Konsonanten und Langvokalen — die Buchstabenfolge wie sie
+              Das Gerüst aus Konsonanten und Langvokalen — die Buchstabenfolge wie sie
               geschrieben wurde, ohne Vokalzeichen.
             </p>
           </details>
@@ -1038,13 +1060,13 @@ const STEPS = [
             <summary><strong>2.</strong> Warum arbeiten wir mit Simple Clean statt mit einem vokalisierten Text?</summary>
             <p className="intro-quiz-answer">
               Weil wir die Vokalisierung aus der Grammatik ableiten wollen, nicht aus
-              den Vokalzeichen ablesen. Die Vokalzeichen zeigen eine moegliche Lesung —
-              wir wollen eigenstaendig bestimmen koennen welche Lesungen grammatisch
-              moeglich sind.
+              den Vokalzeichen ablesen. Die Vokalzeichen zeigen eine mögliche Lesung —
+              wir wollen eigenständig bestimmen können welche Lesungen grammatisch
+              möglich sind.
             </p>
           </details>
           <details className="intro-quiz-item">
-            <summary><strong>3.</strong> Was ist das Bootstrapping-Problem und wie loesen wir es?</summary>
+            <summary><strong>3.</strong> Was ist das Bootstrapping-Problem und wie lösen wir es?</summary>
             <p className="intro-quiz-answer">
               Man braucht Morphologie um den Text zu lesen, und den Text um Morphologie
               zu lernen. Loesung: Morphologie zuerst abstrakt lernen (mit Transliteration),
@@ -1056,7 +1078,7 @@ const STEPS = [
             grammatisch korrekte Vokalisierungen zulaesst?</summary>
             <p className="intro-quiz-answer">
               Dann ist der Text an dieser Stelle mehrdeutig. Wer die Grammatik beherrscht,
-              kann alle moeglichen Lesungen eigenstaendig ableiten und bewerten.
+              kann alle möglichen Lesungen eigenständig ableiten und bewerten.
             </p>
           </details>
           <details className="intro-quiz-item">
@@ -1068,7 +1090,7 @@ const STEPS = [
           </details>
         </div>
         <p>
-          Wenn du diese fuenf Punkte verstanden hast, bist du bereit fuer den
+          Wenn du diese fünf Punkte verstanden hast, bist du bereit für den
           Schrift-Trainer.
         </p>
       </>

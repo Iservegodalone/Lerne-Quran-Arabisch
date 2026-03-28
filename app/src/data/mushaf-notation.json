@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": "Mushaf-Notation und Gliederungszeichen",
-    "description": "Referenz fuer die Zeichen und Markierungen die in gedruckten Mushaf-Ausgaben erscheinen."
+    "description": "Referenz für die Zeichen und Markierungen die in gedruckten Mushaf-Ausgaben erscheinen."
   },
   "divisions": [
     {
@@ -29,7 +29,7 @@
       "description": "Jeder Hizb ist in vier Viertel (Arba') unterteilt. Der Quran hat somit 240 Rubu'-Markierungen.",
       "symbol": "۞",
       "total": 240,
-      "note": "Das Rubu'-Zeichen (۞) erscheint im Qurantext an der Stelle wo das naechste Viertel beginnt. Es ist das haeufigste Gliederungszeichen im Mushaf."
+      "note": "Das Rubu'-Zeichen (۞) erscheint im Qurantext an der Stelle wo das nächste Viertel beginnt. Es ist das häufigste Gliederungszeichen im Mushaf."
     }
   ],
   "markers": [
@@ -38,19 +38,19 @@
       "name": "Versend-Zeichen",
       "symbol": "۝",
       "description": "Markiert das Ende eines Verses (Aya). Die Versnummer steht innerhalb oder neben dem Zeichen. In den meisten Mushaf-Ausgaben ein dekorierter Kreis.",
-      "note": "Die Gesamtzahl der Verse variiert je nach Zaehlkonvention zwischen 6214 und 6236. Der heutige Standard zaehlt 6236 Verse. Die Abweichungen entstehen nicht durch fehlende Verse, sondern durch unterschiedliche Auffassungen, wo ein Vers endet und der naechste beginnt."
+      "note": "Die Gesamtzahl der Verse variiert je nach Zählkonvention zwischen 6214 und 6236. Der heutige Standard zählt 6236 Verse. Die Abweichungen entstehen nicht durch fehlende Verse, sondern durch unterschiedliche Auffassungen, wo ein Vers endet und der nächste beginnt."
     },
     {
       "id": "basmala",
       "name": "Basmala (بسملة)",
       "symbol": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
-      "description": "Steht vor jeder Sure AUSSER Sure 9 (at-Tawba). In Sure 1 (al-Fatiha) ist sie der erste Vers. In allen anderen Suren steht sie VOR dem ersten Vers und wird nicht als Vers gezaehlt.",
-      "note": "Sure 27:30 enthaelt eine Basmala INNERHALB des Textes (im Brief Salomos). Ob sie als eigener Vers zaehlt, variiert je nach Zaehlsystem."
+      "description": "Steht vor jeder Sure AUSSER Sure 9 (at-Tawba). In Sure 1 (al-Fatiha) ist sie nach der gängigsten Zählkonvention (kufisch) der erste Vers. Andere Zählsysteme (basrisch) zählen sie nicht als eigenen Vers. In allen anderen Suren steht sie VOR dem ersten Vers und wird nicht als Vers gezählt.",
+      "note": "Sure 27:30 enthält eine Basmala INNERHALB des Textes (im Brief Salomos). Ob sie als eigener Vers zählt, variiert je nach Zählsystem."
     },
     {
       "id": "surah_header",
       "name": "Surenname und Verszahl",
-      "description": "Vor jeder Sure steht ein Header mit dem Surennamen (arabisch) und der Verszahl. Diese Angabe ist nicht Teil des Qurantextes — sie ist eine spaetere redaktionelle Ergaenzung.",
+      "description": "Vor jeder Sure steht ein Header mit dem Surennamen (arabisch) und der Verszahl. Diese Angabe ist nicht Teil des Qurantextes — sie ist eine spätere redaktionelle Ergänzung.",
       "note": "Surennamen und Verszahlen dienen der Navigation im Text."
     }
   ]

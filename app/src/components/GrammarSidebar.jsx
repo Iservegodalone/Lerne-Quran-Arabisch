@@ -52,8 +52,8 @@ const CASE_RULES = [
       { label: 'Subjekt (Faa\'il)', arabic: 'فَاعِل', example: 'كَتَبَ الْوَلَدُ', exampleGerman: 'Der Junge schrieb' },
       { label: 'Stellvertreter-Subjekt (Naa\'ib al-Faa\'il)', arabic: 'نَائِبُ الْفَاعِل', example: 'كُتِبَ الْكِتَابُ', exampleGerman: 'Das Buch wurde geschrieben' },
       { label: 'Inchoativ (Mubtada\')', arabic: 'مُبْتَدَأ', example: 'الْوَلَدُ كَبِيرٌ', exampleGerman: 'Der Junge ist gross' },
-      { label: 'Praedikat (Khabar)', arabic: 'خَبَر', example: 'الْوَلَدُ كَبِيرٌ', exampleGerman: 'Der Junge ist gross' },
-      { label: 'Praedikat von inna und Schwestern', arabic: 'خَبَرُ إِنَّ', example: 'إِنَّ اللَّهَ عَلِيمٌ', exampleGerman: 'Gewiss, Gott ist wissend' },
+      { label: 'Prädikat (Khabar)', arabic: 'خَبَر', example: 'الْوَلَدُ كَبِيرٌ', exampleGerman: 'Der Junge ist gross' },
+      { label: 'Prädikat von inna und Schwestern', arabic: 'خَبَرُ إِنَّ', example: 'إِنَّ اللَّهَ عَلِيمٌ', exampleGerman: 'Gewiss, Gott ist wissend' },
     ],
   },
   {
@@ -66,10 +66,10 @@ const CASE_RULES = [
       { label: 'Zustandsakkusativ (Hal)', arabic: 'حَال', example: 'جَاءَ رَاكِبًا', exampleGerman: 'Er kam reitend' },
       { label: 'Adverbiale Bestimmung (Zarf)', arabic: 'ظَرْف', example: 'صُمْتُ يَوْمًا', exampleGerman: 'Ich fastete einen Tag' },
       { label: 'Absolutes Objekt (Maf\'ul mutlaq)', arabic: 'مَفْعُولٌ مُطْلَق', example: 'ضَرَبَ ضَرْبًا', exampleGerman: 'Er schlug ein Schlagen' },
-      { label: 'Spezifikation (Tamyiz)', arabic: 'تَمْيِيز', example: 'عِشْرُونَ كِتَابًا', exampleGerman: 'Zwanzig Buecher' },
+      { label: 'Spezifikation (Tamyiz)', arabic: 'تَمْيِيز', example: 'عِشْرُونَ كِتَابًا', exampleGerman: 'Zwanzig Bücher' },
       { label: 'Ausnahme (Mustathna)', arabic: 'مُسْتَثْنَى', example: 'جَاءُوا إِلَّا زَيْدًا', exampleGerman: 'Sie kamen ausser Zaid' },
       { label: 'Subjekt von inna und Schwestern', arabic: 'اِسْمُ إِنَّ', example: 'إِنَّ اللَّهَ عَلِيمٌ', exampleGerman: 'Gewiss, Gott ist wissend' },
-      { label: 'Praedikat von kaana und Schwestern', arabic: 'خَبَرُ كَانَ', example: 'كَانَ الْجَوُّ جَمِيلًا', exampleGerman: 'Das Wetter war schoen' },
+      { label: 'Prädikat von kaana und Schwestern', arabic: 'خَبَرُ كَانَ', example: 'كَانَ الْجَوُّ جَمِيلًا', exampleGerman: 'Das Wetter war schön' },
     ],
   },
   {
@@ -78,7 +78,7 @@ const CASE_RULES = [
     marker: '-i / -in (Kasra)',
     color: 'var(--accent-teal)',
     rules: [
-      { label: 'Nach Praepositionen', arabic: 'مَجْرُورٌ بِحَرْفِ جَرّ', example: 'فِي الْبَيْتِ', exampleGerman: 'Im Haus' },
+      { label: 'Nach Präpositionen', arabic: 'مَجْرُورٌ بِحَرْفِ جَرّ', example: 'فِي الْبَيْتِ', exampleGerman: 'Im Haus' },
       { label: 'Idafa: zweites Glied (Mudaf ilayhi)', arabic: 'مُضَافٌ إِلَيْهِ', example: 'كِتَابُ الطَّالِبِ', exampleGerman: 'Das Buch des Studenten' },
       { label: 'Adjektiv folgt Genitiv-Nomen', arabic: 'نَعْتُ الْمَجْرُور', example: 'فِي الْبَيْتِ الْكَبِيرِ', exampleGerman: 'Im grossen Haus' },
       { label: 'Apposition zu Genitiv-Nomen', arabic: 'بَدَلٌ مِنَ الْمَجْرُور', example: 'مَرَرْتُ بِزَيْدٍ أَخِيكَ', exampleGerman: 'Ich ging an Zaid, deinem Bruder, vorbei' },
@@ -592,7 +592,7 @@ function KonjugationTab() {
         style={styles.formSelect}
         value={selectedForm}
         onChange={(e) => setSelectedForm(e.target.value)}
-        aria-label="Verbform auswaehlen"
+        aria-label="Verbform auswählen"
       >
         {verbForms.map((f) => (
           <option key={f.form} value={f.form}>
@@ -639,7 +639,7 @@ function KasusTab() {
   return (
     <div>
       <div style={{ fontSize: '0.85rem', color: 'var(--text-secondary)', marginBottom: 16, lineHeight: 1.5 }}>
-        Das Arabische kennt drei grammatische Faelle (Kasus). Die Kasusendung erscheint am
+        Das Arabische kennt drei grammatische Fälle (Kasus). Die Kasusendung erscheint am
         Ende des Nomens und zeigt seine syntaktische Funktion im Satz an.
       </div>
       {CASE_RULES.map((caseData) => (
@@ -795,14 +795,14 @@ function PronomenTab() {
     <div>
       {/* Independent pronouns */}
       <div style={styles.pronounSection}>
-        <div style={styles.pronounSectionTitle}>Unabhaengige Personalpronomen</div>
+        <div style={styles.pronounSectionTitle}>Unabhängige Personalpronomen</div>
         <div style={styles.pronounDescription}>{pronounsData?.independent?.description}</div>
         {renderPronounTable(pronounsData?.independent?.pronouns, independentColumns)}
       </div>
 
       {/* Suffix pronouns */}
       <div style={styles.pronounSection}>
-        <div style={styles.pronounSectionTitle}>Suffixpronomen (angehaengt)</div>
+        <div style={styles.pronounSectionTitle}>Suffixpronomen (angehängt)</div>
         <div style={styles.pronounDescription}>{pronounsData?.suffix?.description}</div>
         {renderPronounTable(pronounsData?.suffix?.pronouns, suffixColumns)}
       </div>
@@ -859,16 +859,16 @@ const REKTION_CATEGORIES = [
   {
     id: 'jarr',
     title: 'حروف الجر — Jarr-Partikeln → Genitiv',
-    description: 'Diese Praepositionen setzen das folgende Nomen in den Genitiv (مجرور).',
+    description: 'Diese Präpositionen setzen das folgende Nomen in den Genitiv (مجرور).',
     color: '#2196f3',
     items: [
       { arabic: 'مِنْ', translit: 'min', german: 'von/aus', quranRef: '2:127', quranArabic: 'رَبَّنَا تَقَبَّلْ مِنَّا' },
       { arabic: 'إِلَى', translit: 'ilā', german: 'zu/hin', quranRef: '17:1', quranArabic: 'مِنَ الْمَسْجِدِ الْحَرَامِ إِلَى الْمَسْجِدِ الْأَقْصَى' },
-      { arabic: 'عَنْ', translit: 'ʿan', german: 'von/weg/ueber', quranRef: '53:3', quranArabic: 'وَمَا يَنْطِقُ عَنِ الْهَوَىٰ' },
-      { arabic: 'عَلَى', translit: 'ʿalā', german: 'auf/ueber', quranRef: '2:5', quranArabic: 'أُولَٰئِكَ عَلَىٰ هُدًى مِنْ رَبِّهِمْ' },
+      { arabic: 'عَنْ', translit: 'ʿan', german: 'von/weg/über', quranRef: '53:3', quranArabic: 'وَمَا يَنْطِقُ عَنِ الْهَوَىٰ' },
+      { arabic: 'عَلَى', translit: 'ʿalā', german: 'auf/über', quranRef: '2:5', quranArabic: 'أُولَٰئِكَ عَلَىٰ هُدًى مِنْ رَبِّهِمْ' },
       { arabic: 'فِي', translit: 'fī', german: 'in', quranRef: '2:10', quranArabic: 'فِي قُلُوبِهِمْ مَرَضٌ' },
       { arabic: 'بِ', translit: 'bi', german: 'mit/durch', quranRef: '1:1', quranArabic: 'بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ' },
-      { arabic: 'لِ', translit: 'li', german: 'fuer/zu', quranRef: '1:2', quranArabic: 'الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ' },
+      { arabic: 'لِ', translit: 'li', german: 'für/zu', quranRef: '1:2', quranArabic: 'الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ' },
       { arabic: 'كَ', translit: 'ka', german: 'wie', quranRef: '2:74', quranArabic: 'فَهِيَ كَالْحِجَارَةِ' },
     ]
   },
@@ -882,14 +882,14 @@ const REKTION_CATEGORIES = [
       { arabic: 'أَنَّ', translit: 'anna', german: 'dass', quranRef: '2:26', quranArabic: 'إِنَّ اللَّهَ لَا يَسْتَحْيِي أَنْ يَضْرِبَ' },
       { arabic: 'كَأَنَّ', translit: 'ka-anna', german: 'als ob', quranRef: '7:149', quranArabic: 'كَأَنَّهُمْ لَمْ يَعْبُدُوهُ' },
       { arabic: 'لٰكِنَّ', translit: 'lākinna', german: 'aber/jedoch', quranRef: '2:12', quranArabic: 'أَلَا إِنَّهُمْ هُمُ الْمُفْسِدُونَ وَلٰكِنْ لَا يَشْعُرُونَ' },
-      { arabic: 'لَيْتَ', translit: 'layta', german: 'waere doch (Wunsch)', quranRef: '4:73', quranArabic: 'يَا لَيْتَنِي كُنْتُ مَعَهُمْ' },
-      { arabic: 'لَعَلَّ', translit: 'laʿalla', german: 'vielleicht/moeglicherweise', quranRef: '2:21', quranArabic: 'لَعَلَّكُمْ تَتَّقُونَ' },
+      { arabic: 'لَيْتَ', translit: 'layta', german: 'wäre doch (Wunsch)', quranRef: '4:73', quranArabic: 'يَا لَيْتَنِي كُنْتُ مَعَهُمْ' },
+      { arabic: 'لَعَلَّ', translit: 'laʿalla', german: 'vielleicht/möglicherweise', quranRef: '2:21', quranArabic: 'لَعَلَّكُمْ تَتَّقُونَ' },
     ]
   },
   {
     id: 'kana',
-    title: 'كان وأخواتها — Kana und Schwestern → Akkusativ des Praedikats',
-    description: 'Diese Verben setzen das Khabar (Praedikat) in den Akkusativ. Das Ism (Subjekt) bleibt im Nominativ.',
+    title: 'كان وأخواتها — Kana und Schwestern → Akkusativ des Prädikats',
+    description: 'Diese Verben setzen das Khabar (Prädikat) in den Akkusativ. Das Ism (Subjekt) bleibt im Nominativ.',
     color: '#795548',
     items: [
       { arabic: 'كَانَ', translit: 'kāna', german: 'war/sein', quranRef: '2:143', quranArabic: 'وَمَا كَانَ اللَّهُ لِيُضِيعَ إِيمَانَكُمْ' },
@@ -1195,7 +1195,7 @@ export default function GrammarSidebar({ visible, onClose }) {
           <button
             style={styles.closeBtn}
             onClick={onClose}
-            aria-label="Seitenleiste schliessen"
+            aria-label="Seitenleiste schließen"
             onMouseEnter={(e) => {
               e.currentTarget.style.background = 'var(--bg-hover)'
               e.currentTarget.style.color = 'var(--text-primary)'

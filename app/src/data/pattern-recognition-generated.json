@@ -1,9 +1,15 @@
 {
   "meta": {
     "title": "Morphologische Mustererkennung (generiert)",
-    "description": "Automatisch generierte Uebungen zur Erkennung arabischer Wortmuster (Aktivpartizip, Passivpartizip, Masdar, Verbformen).",
+    "description": "Automatisch generierte Übungen zur Erkennung arabischer Wortmuster (Aktivpartizip, Passivpartizip, Masdar, Verbformen).",
     "generated": "2026-03-23",
-    "count": 95
+    "count": 95,
+    "sources": [
+      { "name": "Wright's Grammar Vol I", "url": "https://archive.org/details/grammarofthearab01telerich" },
+      { "name": "Wright's Grammar Vol II", "url": "https://archive.org/details/grammarofthearab02telerich" },
+      { "name": "Quranic Arabic Corpus", "url": "https://corpus.quran.com/" },
+      { "name": "Lane's Lexicon", "url": "https://ejtaal.net/aa/" }
+    ]
   },
   "exercises": [
     {
@@ -54,7 +60,7 @@
       "patternId": "ACT_PCPL_V",
       "pattern": "مُتَفَعِّل",
       "patternName": "Aktivpartizip Form V",
-      "description": "Muster مُتَفَعِّل — Aktives Partizip Form V. Praefix مُتَ- und Verdopplung des zweiten Radikals. Reflexiv zu Form II. Von Wurzel ط-و-ع.",
+      "description": "Muster مُتَفَعِّل — Aktives Partizip Form V. Präfix مُتَ- und Verdopplung des zweiten Radikals. Reflexiv zu Form II. Von Wurzel ط-و-ع.",
       "morphology": "ACT|PCPL|(V)|MP|ACC",
       "pos": "N"
     },
@@ -67,7 +73,7 @@
       "patternId": "ACT_PCPL_X",
       "pattern": "مُسْتَفْعِل",
       "patternName": "Aktivpartizip Form X",
-      "description": "Muster مُسْتَفْعِل — Aktives Partizip Form X. Praefix مُسْتَ- kennzeichnet die Verlangen/Erachten-Form. Von Wurzel ق-و-م.",
+      "description": "Muster مُسْتَفْعِل — Aktives Partizip Form X. Präfix مُسْتَ- kennzeichnet die Verlangen/Erachten-Form. Von Wurzel ق-و-م.",
       "morphology": "ACT|PCPL|(X)|M|INDEF|NOM",
       "pos": "N"
     },
@@ -80,7 +86,7 @@
       "patternId": "ACT_PCPL_X",
       "pattern": "مُسْتَفْعِل",
       "patternName": "Aktivpartizip Form X",
-      "description": "Muster مُسْتَفْعِل — Aktives Partizip Form X. Praefix مُسْتَ- kennzeichnet die Verlangen/Erachten-Form. Von Wurzel س-ل-م.",
+      "description": "Muster مُسْتَفْعِل — Aktives Partizip Form X. Präfix مُسْتَ- kennzeichnet die Verlangen/Erachten-Form. Von Wurzel س-ل-م.",
       "morphology": "ACT|PCPL|(X)|MP|NOM",
       "pos": "N"
     },
@@ -106,7 +112,7 @@
       "patternId": "ACT_PCPL_X",
       "pattern": "مُسْتَفْعِل",
       "patternName": "Aktivpartizip Form X",
-      "description": "Muster مُسْتَفْعِل — Aktives Partizip Form X. Praefix مُسْتَ- kennzeichnet die Verlangen/Erachten-Form. Von Wurzel ط-ي-ر.",
+      "description": "Muster مُسْتَفْعِل — Aktives Partizip Form X. Präfix مُسْتَ- kennzeichnet die Verlangen/Erachten-Form. Von Wurzel ط-ي-ر.",
       "morphology": "ACT|PCPL|(X)|M|INDEF|ACC",
       "pos": "N"
     },
@@ -132,7 +138,7 @@
       "patternId": "VN_IV",
       "pattern": "إِفْعَال",
       "patternName": "Masdar Form IV",
-      "description": "Muster إِفْعَال — Masdar der Form IV von Wurzel ص-ل-ح. Regelhaft mit Hamza-Praefix und langem Alif vor dem letzten Radikal.",
+      "description": "Muster إِفْعَال — Masdar der Form IV von Wurzel ص-ل-ح. Regelhaft mit Hamza-Präfix und langem Alif vor dem letzten Radikal.",
       "morphology": "VN|(IV)|M|INDEF|GEN",
       "pos": "N"
     },
@@ -158,7 +164,7 @@
       "patternId": "ACT_PCPL_IV",
       "pattern": "مُفْعِل",
       "patternName": "Aktivpartizip Form IV",
-      "description": "Muster مُفْعِل — Aktives Partizip Form IV. Praefix مُ- mit Sukun auf dem ersten Radikal kennzeichnet Form IV. Von Wurzel ح-ي-ي.",
+      "description": "Muster مُفْعِل — Aktives Partizip Form IV. Präfix مُ- mit Sukun auf dem ersten Radikal kennzeichnet Form IV. Von Wurzel ح-ي-ي.",
       "morphology": "ACT|PCPL|(IV)|M|GEN",
       "pos": "N"
     },
@@ -171,7 +177,7 @@
       "patternId": "VN_I",
       "pattern": "Masdar Form I",
       "patternName": "Verbalsubstantiv Form I",
-      "description": "Masdar (Verbalsubstantiv) der Grundform von Wurzel ق-و-ل. Das Muster des Masdar der Form I ist nicht vorhersagbar und muss fuer jedes Verb gelernt werden (فَعْل, فِعْل, فُعُول u.a.).",
+      "description": "Masdar (Verbalsubstantiv) der Grundform von Wurzel ق-و-ل. Das Muster des Masdar der Form I ist nicht vorhersagbar und muss für jedes Verb gelernt werden (فَعْل, فِعْل, فُعُول u.a.).",
       "morphology": "VN|M|INDEF|ACC",
       "pos": "N"
     },
@@ -184,7 +190,7 @@
       "patternId": "ACT_PCPL_V",
       "pattern": "مُتَفَعِّل",
       "patternName": "Aktivpartizip Form V",
-      "description": "Muster مُتَفَعِّل — Aktives Partizip Form V. Praefix مُتَ- und Verdopplung des zweiten Radikals. Reflexiv zu Form II. Von Wurzel و-س-م.",
+      "description": "Muster مُتَفَعِّل — Aktives Partizip Form V. Präfix مُتَ- und Verdopplung des zweiten Radikals. Reflexiv zu Form II. Von Wurzel و-س-م.",
       "morphology": "ACT|PCPL|(V)|MP|GEN",
       "pos": "N"
     },
@@ -197,7 +203,7 @@
       "patternId": "IMPF_I_PASS",
       "pattern": "يُفْعَلُ",
       "patternName": "Imperfekt Form I (Passiv)",
-      "description": "Imperfekt der Grundform im Passiv von Wurzel ج-ز-ي. 3. Person feminin Singular. Damma auf dem Praefix und Fatha auf dem vorletzten Radikal kennzeichnen das Passiv.",
+      "description": "Imperfekt der Grundform im Passiv von Wurzel ج-ز-ي. 3. Person feminin Singular. Damma auf dem Präfix und Fatha auf dem vorletzten Radikal kennzeichnen das Passiv.",
       "morphology": "IMPF|PASS|3FS",
       "pos": "V"
     },
@@ -210,7 +216,7 @@
       "patternId": "VN_III",
       "pattern": "مُفَاعَلَة / فِعَال",
       "patternName": "Masdar Form III",
-      "description": "Masdar der Form III von Wurzel ر-ا-ي. Zwei haeufige Muster: مُفَاعَلَة oder فِعَال.",
+      "description": "Masdar der Form III von Wurzel ر-ا-ي. Zwei häufige Muster: مُفَاعَلَة oder فِعَال.",
       "morphology": "VN|(III)|M|ACC",
       "pos": "N"
     },
@@ -236,7 +242,7 @@
       "patternId": "ACT_PCPL_VIII",
       "pattern": "مُفْتَعِل",
       "patternName": "Aktivpartizip Form VIII",
-      "description": "Muster مُفْتَعِل — Aktives Partizip Form VIII. Einschub von ت nach dem ersten Radikal ist typisch fuer Form VIII. Von Wurzel ق-ح-م.",
+      "description": "Muster مُفْتَعِل — Aktives Partizip Form VIII. Einschub von ت nach dem ersten Radikal ist typisch für Form VIII. Von Wurzel ق-ح-م.",
       "morphology": "ACT|PCPL|(VIII)|M|INDEF|NOM",
       "pos": "N"
     },
@@ -262,7 +268,7 @@
       "patternId": "VN_IV",
       "pattern": "إِفْعَال",
       "patternName": "Masdar Form IV",
-      "description": "Muster إِفْعَال — Masdar der Form IV von Wurzel ا-م-ن. Regelhaft mit Hamza-Praefix und langem Alif vor dem letzten Radikal.",
+      "description": "Muster إِفْعَال — Masdar der Form IV von Wurzel ا-م-ن. Regelhaft mit Hamza-Präfix und langem Alif vor dem letzten Radikal.",
       "morphology": "VN|(IV)|M|INDEF|GEN",
       "pos": "N"
     },
@@ -288,7 +294,7 @@
       "patternId": "ACT_PCPL_II",
       "pattern": "مُفَعِّل",
       "patternName": "Aktivpartizip Form II",
-      "description": "Muster مُفَعِّل — Aktives Partizip Form II. Praefix مُ- und Verdopplung des zweiten Radikals kennzeichnen Form II. Von Wurzel ع-ذ-ر.",
+      "description": "Muster مُفَعِّل — Aktives Partizip Form II. Präfix مُ- und Verdopplung des zweiten Radikals kennzeichnen Form II. Von Wurzel ع-ذ-ر.",
       "morphology": "ACT|PCPL|(II)|MP|NOM",
       "pos": "N"
     },
@@ -327,7 +333,7 @@
       "patternId": "VN_I",
       "pattern": "Masdar Form I",
       "patternName": "Verbalsubstantiv Form I",
-      "description": "Masdar (Verbalsubstantiv) der Grundform von Wurzel ا-ك-ل. Das Muster des Masdar der Form I ist nicht vorhersagbar und muss fuer jedes Verb gelernt werden (فَعْل, فِعْل, فُعُول u.a.).",
+      "description": "Masdar (Verbalsubstantiv) der Grundform von Wurzel ا-ك-ل. Das Muster des Masdar der Form I ist nicht vorhersagbar und muss für jedes Verb gelernt werden (فَعْل, فِعْل, فُعُول u.a.).",
       "morphology": "VN|M|GEN",
       "pos": "N"
     },
@@ -340,7 +346,7 @@
       "patternId": "PERF_IV",
       "pattern": "أَفْعَلَ",
       "patternName": "Perfekt Form IV",
-      "description": "Perfekt der Form IV von Wurzel ا-ت-ي. Muster أَفْعَلَ — Hamza-Praefix als Kausativzeichen. Sukun auf dem ersten Radikal.",
+      "description": "Perfekt der Form IV von Wurzel ا-ت-ي. Muster أَفْعَلَ — Hamza-Präfix als Kausativzeichen. Sukun auf dem ersten Radikal.",
       "morphology": "PERF|(IV)|3MS",
       "pos": "V"
     },
@@ -353,7 +359,7 @@
       "patternId": "VN_I",
       "pattern": "Masdar Form I",
       "patternName": "Verbalsubstantiv Form I",
-      "description": "Masdar (Verbalsubstantiv) der Grundform von Wurzel ا-خ-ذ. Das Muster des Masdar der Form I ist nicht vorhersagbar und muss fuer jedes Verb gelernt werden (فَعْل, فِعْل, فُعُول u.a.).",
+      "description": "Masdar (Verbalsubstantiv) der Grundform von Wurzel ا-خ-ذ. Das Muster des Masdar der Form I ist nicht vorhersagbar und muss für jedes Verb gelernt werden (فَعْل, فِعْل, فُعُول u.a.).",
       "morphology": "VN|M|NOM",
       "pos": "N"
     },
@@ -379,7 +385,7 @@
       "patternId": "PASS_VERB",
       "pattern": "Passiv (فُعِلَ / يُفْعَلُ)",
       "patternName": "Passivform",
-      "description": "Passiv von Wurzel ا-م-ر. Im Imperfekt: Damma auf dem Praefix, Fatha auf dem vorletzten Radikal.",
+      "description": "Passiv von Wurzel ا-م-ر. Im Imperfekt: Damma auf dem Präfix, Fatha auf dem vorletzten Radikal.",
       "morphology": "IMPF|PASS|2MS",
       "pos": "V"
     },
@@ -392,7 +398,7 @@
       "patternId": "VN_II",
       "pattern": "تَفْعِيل",
       "patternName": "Masdar Form II",
-      "description": "Muster تَفْعِيل — Masdar der Form II von Wurzel ك-ذ-ب. Regelhaft gebildet durch Praefix تَ- und Suffix -ِيل.",
+      "description": "Muster تَفْعِيل — Masdar der Form II von Wurzel ك-ذ-ب. Regelhaft gebildet durch Präfix تَ- und Suffix -ِيل.",
       "morphology": "VN|(II)|M|INDEF|GEN",
       "pos": "N"
     },
@@ -431,7 +437,7 @@
       "patternId": "VN_III",
       "pattern": "مُفَاعَلَة / فِعَال",
       "patternName": "Masdar Form III",
-      "description": "Masdar der Form III von Wurzel ح-س-ب. Zwei haeufige Muster: مُفَاعَلَة oder فِعَال.",
+      "description": "Masdar der Form III von Wurzel ح-س-ب. Zwei häufige Muster: مُفَاعَلَة oder فِعَال.",
       "morphology": "VN|(III)|M|NOM",
       "pos": "N"
     },
@@ -444,7 +450,7 @@
       "patternId": "ACT_PCPL_VIII",
       "pattern": "مُفْتَعِل",
       "patternName": "Aktivpartizip Form VIII",
-      "description": "Muster مُفْتَعِل — Aktives Partizip Form VIII. Einschub von ت nach dem ersten Radikal ist typisch fuer Form VIII. Von Wurzel خ-ل-ف.",
+      "description": "Muster مُفْتَعِل — Aktives Partizip Form VIII. Einschub von ت nach dem ersten Radikal ist typisch für Form VIII. Von Wurzel خ-ل-ف.",
       "morphology": "ACT|PCPL|(VIII)|MP|ACC",
       "pos": "N"
     },
@@ -457,7 +463,7 @@
       "patternId": "ACT_PCPL_II",
       "pattern": "مُفَعِّل",
       "patternName": "Aktivpartizip Form II",
-      "description": "Muster مُفَعِّل — Aktives Partizip Form II. Praefix مُ- und Verdopplung des zweiten Radikals kennzeichnen Form II. Von Wurzel ع-ذ-ب.",
+      "description": "Muster مُفَعِّل — Aktives Partizip Form II. Präfix مُ- und Verdopplung des zweiten Radikals kennzeichnen Form II. Von Wurzel ع-ذ-ب.",
       "morphology": "ACT|PCPL|(II)|MP|NOM",
       "pos": "N"
     },
@@ -470,7 +476,7 @@
       "patternId": "VN_III",
       "pattern": "مُفَاعَلَة / فِعَال",
       "patternName": "Masdar Form III",
-      "description": "Masdar der Form III von Wurzel و-ف-ق. Zwei haeufige Muster: مُفَاعَلَة oder فِعَال.",
+      "description": "Masdar der Form III von Wurzel و-ف-ق. Zwei häufige Muster: مُفَاعَلَة oder فِعَال.",
       "morphology": "VN|(III)|M|INDEF|ACC",
       "pos": "N"
     },
@@ -509,7 +515,7 @@
       "patternId": "ACT_PCPL_III",
       "pattern": "مُفَاعِل",
       "patternName": "Aktivpartizip Form III",
-      "description": "Muster مُفَاعِل — Aktives Partizip Form III. Alif zwischen erstem und zweitem Radikal ist typisch fuer Form III. Von Wurzel ه-ج-ر.",
+      "description": "Muster مُفَاعِل — Aktives Partizip Form III. Alif zwischen erstem und zweitem Radikal ist typisch für Form III. Von Wurzel ه-ج-ر.",
       "morphology": "ACT|PCPL|(III)|M|INDEF|ACC",
       "pos": "N"
     },
@@ -548,7 +554,7 @@
       "patternId": "ACT_PCPL_IV",
       "pattern": "مُفْعِل",
       "patternName": "Aktivpartizip Form IV",
-      "description": "Muster مُفْعِل — Aktives Partizip Form IV. Praefix مُ- mit Sukun auf dem ersten Radikal kennzeichnet Form IV. Von Wurzel ش-ر-ك.",
+      "description": "Muster مُفْعِل — Aktives Partizip Form IV. Präfix مُ- mit Sukun auf dem ersten Radikal kennzeichnet Form IV. Von Wurzel ش-ر-ك.",
       "morphology": "ACT|PCPL|(IV)|FP|ACC",
       "pos": "N"
     },
@@ -587,7 +593,7 @@
       "patternId": "ACT_PCPL_X",
       "pattern": "مُسْتَفْعِل",
       "patternName": "Aktivpartizip Form X",
-      "description": "Muster مُسْتَفْعِل — Aktives Partizip Form X. Praefix مُسْتَ- kennzeichnet die Verlangen/Erachten-Form. Von Wurzel ه-ز-ا.",
+      "description": "Muster مُسْتَفْعِل — Aktives Partizip Form X. Präfix مُسْتَ- kennzeichnet die Verlangen/Erachten-Form. Von Wurzel ه-ز-ا.",
       "morphology": "ACT|PCPL|(X)|MP|ACC",
       "pos": "N"
     },
@@ -613,7 +619,7 @@
       "patternId": "ACT_PCPL_IV",
       "pattern": "مُفْعِل",
       "patternName": "Aktivpartizip Form IV",
-      "description": "Muster مُفْعِل — Aktives Partizip Form IV. Praefix مُ- mit Sukun auf dem ersten Radikal kennzeichnet Form IV. Von Wurzel ا-م-ن.",
+      "description": "Muster مُفْعِل — Aktives Partizip Form IV. Präfix مُ- mit Sukun auf dem ersten Radikal kennzeichnet Form IV. Von Wurzel ا-م-ن.",
       "morphology": "ACT|PCPL|(IV)|FP|INDEF|ACC",
       "pos": "N"
     },
@@ -626,7 +632,7 @@
       "patternId": "PERF_IV",
       "pattern": "أَفْعَلَ",
       "patternName": "Perfekt Form IV",
-      "description": "Perfekt der Form IV von Wurzel و-ج-س. Muster أَفْعَلَ — Hamza-Praefix als Kausativzeichen. Sukun auf dem ersten Radikal.",
+      "description": "Perfekt der Form IV von Wurzel و-ج-س. Muster أَفْعَلَ — Hamza-Präfix als Kausativzeichen. Sukun auf dem ersten Radikal.",
       "morphology": "PERF|(IV)|3MS",
       "pos": "V"
     },
@@ -704,7 +710,7 @@
       "patternId": "ACT_PCPL_X",
       "pattern": "مُسْتَفْعِل",
       "patternName": "Aktivpartizip Form X",
-      "description": "Muster مُسْتَفْعِل — Aktives Partizip Form X. Praefix مُسْتَ- kennzeichnet die Verlangen/Erachten-Form. Von Wurzel ك-ب-ر.",
+      "description": "Muster مُسْتَفْعِل — Aktives Partizip Form X. Präfix مُسْتَ- kennzeichnet die Verlangen/Erachten-Form. Von Wurzel ك-ب-ر.",
       "morphology": "ACT|PCPL|(X)|M|INDEF|ACC",
       "pos": "N"
     },
@@ -743,7 +749,7 @@
       "patternId": "ACT_PCPL_II",
       "pattern": "مُفَعِّل",
       "patternName": "Aktivpartizip Form II",
-      "description": "Muster مُفَعِّل — Aktives Partizip Form II. Praefix مُ- und Verdopplung des zweiten Radikals kennzeichnen Form II. Von Wurzel ب-ش-ر.",
+      "description": "Muster مُفَعِّل — Aktives Partizip Form II. Präfix مُ- und Verdopplung des zweiten Radikals kennzeichnen Form II. Von Wurzel ب-ش-ر.",
       "morphology": "ACT|PCPL|(II)|M|INDEF|ACC",
       "pos": "N"
     },
@@ -756,7 +762,7 @@
       "patternId": "VN_I",
       "pattern": "Masdar Form I",
       "patternName": "Verbalsubstantiv Form I",
-      "description": "Masdar (Verbalsubstantiv) der Grundform von Wurzel ق-و-ل. Das Muster des Masdar der Form I ist nicht vorhersagbar und muss fuer jedes Verb gelernt werden (فَعْل, فِعْل, فُعُول u.a.).",
+      "description": "Masdar (Verbalsubstantiv) der Grundform von Wurzel ق-و-ل. Das Muster des Masdar der Form I ist nicht vorhersagbar und muss für jedes Verb gelernt werden (فَعْل, فِعْل, فُعُول u.a.).",
       "morphology": "VN|M|INDEF|GEN",
       "pos": "N"
     },
@@ -769,7 +775,7 @@
       "patternId": "VN_I",
       "pattern": "Masdar Form I",
       "patternName": "Verbalsubstantiv Form I",
-      "description": "Masdar (Verbalsubstantiv) der Grundform von Wurzel ق-و-ل. Das Muster des Masdar der Form I ist nicht vorhersagbar und muss fuer jedes Verb gelernt werden (فَعْل, فِعْل, فُعُول u.a.).",
+      "description": "Masdar (Verbalsubstantiv) der Grundform von Wurzel ق-و-ل. Das Muster des Masdar der Form I ist nicht vorhersagbar und muss für jedes Verb gelernt werden (فَعْل, فِعْل, فُعُول u.a.).",
       "morphology": "VN|M|ACC",
       "pos": "N"
     },
@@ -782,7 +788,7 @@
       "patternId": "ACT_PCPL_V",
       "pattern": "مُتَفَعِّل",
       "patternName": "Aktivpartizip Form V",
-      "description": "Muster مُتَفَعِّل — Aktives Partizip Form V. Praefix مُتَ- und Verdopplung des zweiten Radikals. Reflexiv zu Form II. Von Wurzel ر-ب-ص.",
+      "description": "Muster مُتَفَعِّل — Aktives Partizip Form V. Präfix مُتَ- und Verdopplung des zweiten Radikals. Reflexiv zu Form II. Von Wurzel ر-ب-ص.",
       "morphology": "ACT|PCPL|(V)|M|INDEF|NOM",
       "pos": "N"
     },
@@ -795,7 +801,7 @@
       "patternId": "ACT_PCPL_III",
       "pattern": "مُفَاعِل",
       "patternName": "Aktivpartizip Form III",
-      "description": "Muster مُفَاعِل — Aktives Partizip Form III. Alif zwischen erstem und zweitem Radikal ist typisch fuer Form III. Von Wurzel ل-ق-ي.",
+      "description": "Muster مُفَاعِل — Aktives Partizip Form III. Alif zwischen erstem und zweitem Radikal ist typisch für Form III. Von Wurzel ل-ق-ي.",
       "morphology": "ACT|PCPL|(III)|MP|NOM",
       "pos": "N"
     },
@@ -821,7 +827,7 @@
       "patternId": "VN_IV",
       "pattern": "إِفْعَال",
       "patternName": "Masdar Form IV",
-      "description": "Muster إِفْعَال — Masdar der Form IV von Wurzel ا-م-ن. Regelhaft mit Hamza-Praefix und langem Alif vor dem letzten Radikal.",
+      "description": "Muster إِفْعَال — Masdar der Form IV von Wurzel ا-م-ن. Regelhaft mit Hamza-Präfix und langem Alif vor dem letzten Radikal.",
       "morphology": "VN|(IV)|M|NOM",
       "pos": "N"
     },
@@ -834,7 +840,7 @@
       "patternId": "VN_II",
       "pattern": "تَفْعِيل",
       "patternName": "Masdar Form II",
-      "description": "Muster تَفْعِيل — Masdar der Form II von Wurzel ا-و-ل. Regelhaft gebildet durch Praefix تَ- und Suffix -ِيل.",
+      "description": "Muster تَفْعِيل — Masdar der Form II von Wurzel ا-و-ل. Regelhaft gebildet durch Präfix تَ- und Suffix -ِيل.",
       "morphology": "VN|(II)|M|GEN",
       "pos": "N"
     },
@@ -847,7 +853,7 @@
       "patternId": "ACT_PCPL_II",
       "pattern": "مُفَعِّل",
       "patternName": "Aktivpartizip Form II",
-      "description": "Muster مُفَعِّل — Aktives Partizip Form II. Praefix مُ- und Verdopplung des zweiten Radikals kennzeichnen Form II. Von Wurzel ط-ه-ر.",
+      "description": "Muster مُفَعِّل — Aktives Partizip Form II. Präfix مُ- und Verdopplung des zweiten Radikals kennzeichnen Form II. Von Wurzel ط-ه-ر.",
       "morphology": "ACT|PCPL|(II)|M|NOM",
       "pos": "N"
     },
@@ -860,7 +866,7 @@
       "patternId": "ACT_PCPL_III",
       "pattern": "مُفَاعِل",
       "patternName": "Aktivpartizip Form III",
-      "description": "Muster مُفَاعِل — Aktives Partizip Form III. Alif zwischen erstem und zweitem Radikal ist typisch fuer Form III. Von Wurzel ع-ج-ز.",
+      "description": "Muster مُفَاعِل — Aktives Partizip Form III. Alif zwischen erstem und zweitem Radikal ist typisch für Form III. Von Wurzel ع-ج-ز.",
       "morphology": "ACT|PCPL|(III)|MP|ACC",
       "pos": "N"
     },
@@ -886,7 +892,7 @@
       "patternId": "PERF_IV",
       "pattern": "أَفْعَلَ",
       "patternName": "Perfekt Form IV",
-      "description": "Perfekt der Form IV von Wurzel ر-و-د. Muster أَفْعَلَ — Hamza-Praefix als Kausativzeichen. Sukun auf dem ersten Radikal.",
+      "description": "Perfekt der Form IV von Wurzel ر-و-د. Muster أَفْعَلَ — Hamza-Präfix als Kausativzeichen. Sukun auf dem ersten Radikal.",
       "morphology": "PERF|(IV)|2MP",
       "pos": "V"
     },
@@ -899,7 +905,7 @@
       "patternId": "ACT_PCPL_II",
       "pattern": "مُفَعِّل",
       "patternName": "Aktivpartizip Form II",
-      "description": "Muster مُفَعِّل — Aktives Partizip Form II. Praefix مُ- und Verdopplung des zweiten Radikals kennzeichnen Form II. Von Wurzel ب-ذ-ر.",
+      "description": "Muster مُفَعِّل — Aktives Partizip Form II. Präfix مُ- und Verdopplung des zweiten Radikals kennzeichnen Form II. Von Wurzel ب-ذ-ر.",
       "morphology": "ACT|PCPL|(II)|MP|ACC",
       "pos": "N"
     },
@@ -951,7 +957,7 @@
       "patternId": "ACT_PCPL_V",
       "pattern": "مُتَفَعِّل",
       "patternName": "Aktivpartizip Form V",
-      "description": "Muster مُتَفَعِّل — Aktives Partizip Form V. Praefix مُتَ- und Verdopplung des zweiten Radikals. Reflexiv zu Form II. Von Wurzel ح-و-ز.",
+      "description": "Muster مُتَفَعِّل — Aktives Partizip Form V. Präfix مُتَ- und Verdopplung des zweiten Radikals. Reflexiv zu Form II. Von Wurzel ح-و-ز.",
       "morphology": "ACT|PCPL|(V)|M|INDEF|ACC",
       "pos": "N"
     },
@@ -964,7 +970,7 @@
       "patternId": "ACT_PCPL_IV",
       "pattern": "مُفْعِل",
       "patternName": "Aktivpartizip Form IV",
-      "description": "Muster مُفْعِل — Aktives Partizip Form IV. Praefix مُ- mit Sukun auf dem ersten Radikal kennzeichnet Form IV. Von Wurzel ص-و-ب.",
+      "description": "Muster مُفْعِل — Aktives Partizip Form IV. Präfix مُ- mit Sukun auf dem ersten Radikal kennzeichnet Form IV. Von Wurzel ص-و-ب.",
       "morphology": "ACT|PCPL|(IV)|F|INDEF|NOM",
       "pos": "N"
     },
@@ -1003,7 +1009,7 @@
       "patternId": "VN_IV",
       "pattern": "إِفْعَال",
       "patternName": "Masdar Form IV",
-      "description": "Muster إِفْعَال — Masdar der Form IV von Wurzel ا-م-ن. Regelhaft mit Hamza-Praefix und langem Alif vor dem letzten Radikal.",
+      "description": "Muster إِفْعَال — Masdar der Form IV von Wurzel ا-م-ن. Regelhaft mit Hamza-Präfix und langem Alif vor dem letzten Radikal.",
       "morphology": "VN|(IV)|M|NOM",
       "pos": "N"
     },
@@ -1016,7 +1022,7 @@
       "patternId": "PERF_IV",
       "pattern": "أَفْعَلَ",
       "patternName": "Perfekt Form IV",
-      "description": "Perfekt der Form IV von Wurzel خ-ل-ص. Muster أَفْعَلَ — Hamza-Praefix als Kausativzeichen. Sukun auf dem ersten Radikal.",
+      "description": "Perfekt der Form IV von Wurzel خ-ل-ص. Muster أَفْعَلَ — Hamza-Präfix als Kausativzeichen. Sukun auf dem ersten Radikal.",
       "morphology": "PERF|(IV)|1P",
       "pos": "V"
     },
@@ -1042,7 +1048,7 @@
       "patternId": "ACT_PCPL_VIII",
       "pattern": "مُفْتَعِل",
       "patternName": "Aktivpartizip Form VIII",
-      "description": "Muster مُفْتَعِل — Aktives Partizip Form VIII. Einschub von ت nach dem ersten Radikal ist typisch fuer Form VIII. Von Wurzel ق-س-م.",
+      "description": "Muster مُفْتَعِل — Aktives Partizip Form VIII. Einschub von ت nach dem ersten Radikal ist typisch für Form VIII. Von Wurzel ق-س-م.",
       "morphology": "ACT|PCPL|(VIII)|MP|GEN",
       "pos": "N"
     },
@@ -1081,7 +1087,7 @@
       "patternId": "VN_III",
       "pattern": "مُفَاعَلَة / فِعَال",
       "patternName": "Masdar Form III",
-      "description": "Masdar der Form III von Wurzel ل-ق-ي. Zwei haeufige Muster: مُفَاعَلَة oder فِعَال.",
+      "description": "Masdar der Form III von Wurzel ل-ق-ي. Zwei häufige Muster: مُفَاعَلَة oder فِعَال.",
       "morphology": "VN|(III)|M|GEN",
       "pos": "N"
     },
@@ -1094,7 +1100,7 @@
       "patternId": "VN_III",
       "pattern": "مُفَاعَلَة / فِعَال",
       "patternName": "Masdar Form III",
-      "description": "Masdar der Form III von Wurzel ل-ق-ي. Zwei haeufige Muster: مُفَاعَلَة oder فِعَال.",
+      "description": "Masdar der Form III von Wurzel ل-ق-ي. Zwei häufige Muster: مُفَاعَلَة oder فِعَال.",
       "morphology": "VN|(III)|M|GEN",
       "pos": "N"
     },
@@ -1120,7 +1126,7 @@
       "patternId": "ACT_PCPL_III",
       "pattern": "مُفَاعِل",
       "patternName": "Aktivpartizip Form III",
-      "description": "Muster مُفَاعِل — Aktives Partizip Form III. Alif zwischen erstem und zweitem Radikal ist typisch fuer Form III. Von Wurzel س-ف-ح.",
+      "description": "Muster مُفَاعِل — Aktives Partizip Form III. Alif zwischen erstem und zweitem Radikal ist typisch für Form III. Von Wurzel س-ف-ح.",
       "morphology": "ACT|PCPL|(III)|MP|GEN",
       "pos": "N"
     },
@@ -1133,7 +1139,7 @@
       "patternId": "ACT_PCPL_IV",
       "pattern": "مُفْعِل",
       "patternName": "Aktivpartizip Form IV",
-      "description": "Muster مُفْعِل — Aktives Partizip Form IV. Praefix مُ- mit Sukun auf dem ersten Radikal kennzeichnet Form IV. Von Wurzel ن-ك-ر.",
+      "description": "Muster مُفْعِل — Aktives Partizip Form IV. Präfix مُ- mit Sukun auf dem ersten Radikal kennzeichnet Form IV. Von Wurzel ن-ك-ر.",
       "morphology": "ACT|PCPL|(IV)|F|INDEF|NOM",
       "pos": "N"
     },
@@ -1146,7 +1152,7 @@
       "patternId": "ACT_PCPL_V",
       "pattern": "مُتَفَعِّل",
       "patternName": "Aktivpartizip Form V",
-      "description": "Muster مُتَفَعِّل — Aktives Partizip Form V. Praefix مُتَ- und Verdopplung des zweiten Radikals. Reflexiv zu Form II. Von Wurzel ك-ب-ر.",
+      "description": "Muster مُتَفَعِّل — Aktives Partizip Form V. Präfix مُتَ- und Verdopplung des zweiten Radikals. Reflexiv zu Form II. Von Wurzel ك-ب-ر.",
       "morphology": "ACT|PCPL|(V)|MP|GEN",
       "pos": "N"
     },
@@ -1159,7 +1165,7 @@
       "patternId": "ACT_PCPL_VIII",
       "pattern": "مُفْتَعِل",
       "patternName": "Aktivpartizip Form VIII",
-      "description": "Muster مُفْتَعِل — Aktives Partizip Form VIII. Einschub von ت nach dem ersten Radikal ist typisch fuer Form VIII. Von Wurzel ذ-ك-ر.",
+      "description": "Muster مُفْتَعِل — Aktives Partizip Form VIII. Einschub von ت nach dem ersten Radikal ist typisch für Form VIII. Von Wurzel ذ-ك-ر.",
       "morphology": "ACT|PCPL|(VIII)|M|INDEF|GEN",
       "pos": "N"
     },
@@ -1185,7 +1191,7 @@
       "patternId": "VN_II",
       "pattern": "تَفْعِيل",
       "patternName": "Masdar Form II",
-      "description": "Muster تَفْعِيل — Masdar der Form II von Wurzel س-ب-ح. Regelhaft gebildet durch Praefix تَ- und Suffix -ِيل.",
+      "description": "Muster تَفْعِيل — Masdar der Form II von Wurzel س-ب-ح. Regelhaft gebildet durch Präfix تَ- und Suffix -ِيل.",
       "morphology": "VN|(II)|M|ACC",
       "pos": "N"
     },
@@ -1198,7 +1204,7 @@
       "patternId": "ACT_PCPL_VIII",
       "pattern": "مُفْتَعِل",
       "patternName": "Aktivpartizip Form VIII",
-      "description": "Muster مُفْتَعِل — Aktives Partizip Form VIII. Einschub von ت nach dem ersten Radikal ist typisch fuer Form VIII. Von Wurzel ف-ر-ي.",
+      "description": "Muster مُفْتَعِل — Aktives Partizip Form VIII. Einschub von ت nach dem ersten Radikal ist typisch für Form VIII. Von Wurzel ف-ر-ي.",
       "morphology": "ACT|PCPL|(VIII)|MP|ACC",
       "pos": "N"
     },
@@ -1211,7 +1217,7 @@
       "patternId": "VN_II",
       "pattern": "تَفْعِيل",
       "patternName": "Masdar Form II",
-      "description": "Muster تَفْعِيل — Masdar der Form II von Wurzel ح-ر-ر. Regelhaft gebildet durch Praefix تَ- und Suffix -ِيل.",
+      "description": "Muster تَفْعِيل — Masdar der Form II von Wurzel ح-ر-ر. Regelhaft gebildet durch Präfix تَ- und Suffix -ِيل.",
       "morphology": "VN|(II)|M|NOM",
       "pos": "N"
     },
@@ -1224,7 +1230,7 @@
       "patternId": "VN_II",
       "pattern": "تَفْعِيل",
       "patternName": "Masdar Form II",
-      "description": "Muster تَفْعِيل — Masdar der Form II von Wurzel ث-ر-ب. Regelhaft gebildet durch Praefix تَ- und Suffix -ِيل.",
+      "description": "Muster تَفْعِيل — Masdar der Form II von Wurzel ث-ر-ب. Regelhaft gebildet durch Präfix تَ- und Suffix -ِيل.",
       "morphology": "VN|(II)|M|ACC",
       "pos": "N"
     },
@@ -1237,7 +1243,7 @@
       "patternId": "VN_IV",
       "pattern": "إِفْعَال",
       "patternName": "Masdar Form IV",
-      "description": "Muster إِفْعَال — Masdar der Form IV von Wurzel ن-ف-ق. Regelhaft mit Hamza-Praefix und langem Alif vor dem letzten Radikal.",
+      "description": "Muster إِفْعَال — Masdar der Form IV von Wurzel ن-ف-ق. Regelhaft mit Hamza-Präfix und langem Alif vor dem letzten Radikal.",
       "morphology": "VN|(IV)|M|GEN",
       "pos": "N"
     }

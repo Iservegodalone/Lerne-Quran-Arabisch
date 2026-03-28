@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": "Tamyiz — Spezifikationsakkusativ (التمييز)",
-    "description": "Der Tamyiz praezisiert eine semantische Mehrdeutigkeit: er gibt an, in Bezug worauf eine Zahl, ein Adjektiv, ein Elativ oder ein Verb gilt. Er steht immer im Akkusativ und ist im Quran vor allem nach Zahlen und Elativ-Adjektiven zu finden.",
+    "description": "Der Tamyiz präzisiert eine semantische Mehrdeutigkeit: er gibt an, in Bezug worauf eine Zahl, ein Adjektiv, ein Elativ oder ein Verb gilt. Er steht immer im Akkusativ und ist im Quran vor allem nach Zahlen und Elativ-Adjektiven zu finden.",
     "sources": [
       {"label": "Wright's Grammar Vol II — Tamyiz (Specification)", "url": "https://archive.org/details/WrightsArabicGrammar2Of2"},
       {"label": "Quranic Arabic Corpus", "url": "https://corpus.quran.com"}
@@ -11,18 +11,18 @@
     {
       "id": "TAM1",
       "title": "Tamyiz al-'Adad — Spezifikation nach Zahlen",
-      "description": "Nach Zahlwoertern steht der gezaehlte Gegenstand als Tamyiz im Akkusativ Singular (oder Genitiv nach bestimmten Zahlen). Dies ist die haeufigste Form des Tamyiz im Quran.",
+      "description": "Nach Zahlwoertern steht der gezählte Gegenstand als Tamyiz im Akkusativ Singular (oder Genitiv nach bestimmten Zahlen). Dies ist die häufigste Form des Tamyiz im Quran.",
       "learnContent": {
         "sections": [
           {
             "type": "explanation",
             "title": "Das Problem der Zahl ohne Bezug",
-            "content": "Eine Zahl allein ist semantisch unvollstaendig: 'zwanzig' — zwanzig WAS? Das Nomen, das die Zahlenangabe praezisiert, heisst Tamyiz al-'Adad.\n\nGrundregel im klassischen Arabisch (Kurzuebersicht):\n\n- Zahlen 3-10: Tamyiz im Genitiv Plural: ثَلَاثَةُ أَيَّامٍ ('drei Tage')\n- Zahlen 11-99: Tamyiz im Akkusativ Singular: عِشْرُونَ كِتَابًا ('zwanzig Buecher')\n- Zahlen 100 und 1000: Tamyiz im Genitiv Singular: مِائَةُ رَجُلٍ ('hundert Maenner')\n\nFuer die Lektuere des Qurans ist entscheidend:\nDer Tamyiz nach den Zahlen 11-99 steht im Akkusativ Singular (Tanwin-Fatha oder Fatha) und NICHT im Plural.\nBeispiel: خَمْسِينَ أَلْفَ سَنَةٍ — hier ist سَنَةٍ im Genitiv, weil es von أَلْف (1000) abhaengt (Idafa-Genitiv)."
+            "content": "Eine Zahl allein ist semantisch unvollständig: 'zwanzig' — zwanzig WAS? Das Nomen, das die Zahlenangabe präzisiert, heißt Tamyiz al-'Adad.\n\nGrundregel im klassischen Arabisch (Kurzuebersicht):\n\n- Zahlen 3-10: Tamyiz im Genitiv Plural: ثَلَاثَةُ أَيَّامٍ ('drei Tage')\n- Zahlen 11-99: Tamyiz im Akkusativ Singular: عِشْرُونَ كِتَابًا ('zwanzig Bücher')\n- Zahlen 100 und 1000: Tamyiz im Genitiv Singular: مِائَةُ رَجُلٍ ('hundert Männer')\n\nFuer die Lektuere des Qurans ist entscheidend:\nDer Tamyiz nach den Zahlen 11-99 steht im Akkusativ Singular (Tanwin-Fatha oder Fatha) und NICHT im Plural.\nBeispiel: خَمْسِينَ أَلْفَ سَنَةٍ — hier ist سَنَةٍ im Genitiv, weil es von أَلْف (1000) abhängt (Idafa-Genitiv)."
           },
           {
             "type": "explanation",
             "title": "Tamyiz vs. Maf'ul bihi",
-            "content": "Ein Akkusativ nach einer Zahl sieht einem direkten Objekt aehnlich. Der Unterschied:\n\nMAF'UL BIHI: direktes Objekt eines transitiven Verbs\nTAMYIZ: Spezifikationsakkusativ — praezisiert die Zahl. Es ist kein Argument des Verbs, sondern ein Zusatz zur Zahl.\n\nTest: Kann man 'was?' fragen und die Zahl als direktes Objekt verstehen? → Maf'ul bihi.\nKann man fragen 'wovon / in Bezug worauf ist die Zahl gemeint?' → Tamyiz.\n\nBeispiel: قَرَأْتُ عِشْرِينَ كِتَابًا\n- عِشْرِينَ = Maf'ul bihi (ich las zwanzig — was?)\n- كِتَابًا = Tamyiz (Buecher — praezisiert عِشْرِينَ)\nOder: عِشْرُونَ كِتَابًا قُرِئَتْ — jetzt ist عِشْرُونَ Subjekt, كِتَابًا Tamyiz."
+            "content": "Ein Akkusativ nach einer Zahl sieht einem direkten Objekt ähnlich. Der Unterschied:\n\nMAF'UL BIHI: direktes Objekt eines transitiven Verbs\nTAMYIZ: Spezifikationsakkusativ — präzisiert die Zahl. Es ist kein Argument des Verbs, sondern ein Zusatz zur Zahl.\n\nTest: Kann man 'was?' fragen und die Zahl als direktes Objekt verstehen? → Maf'ul bihi.\nKann man fragen 'wovon / in Bezug worauf ist die Zahl gemeint?' → Tamyiz.\n\nBeispiel: قَرَأْتُ عِشْرِينَ كِتَابًا\n- عِشْرِينَ = Maf'ul bihi (ich las zwanzig — was?)\n- كِتَابًا = Tamyiz (Bücher — präzisiert عِشْرِينَ)\nOder: عِشْرُونَ كِتَابًا قُرِئَتْ — jetzt ist عِشْرُونَ Subjekt, كِتَابًا Tamyiz."
           },
           {
             "type": "quranExamples",
@@ -31,12 +31,12 @@
               {
                 "ref": "70:4",
                 "arabic": "فِي يَوْمٍ كَانَ مِقْدَارُهُ خَمْسِينَ أَلْفَ سَنَةٍ",
-                "explanation": "خَمْسِينَ = Zahl (50). أَلْفَ = Tamyiz zu خَمْسِينَ (Akkusativ Singular von أَلْف: 'tausend'). سَنَةٍ = Idafa-Genitiv zu أَلْفَ. Gesamtstruktur: '50 [tausend] — tausend wovon? — Jahren.' Beachte: 50.000 wird im Arabischen als 'fuenfzig Tausend' konstruiert, wobei 'Tausend' den Tamyiz von 'fuenfzig' bildet."
+                "explanation": "خَمْسِينَ = Zahl (50). أَلْفَ = Tamyiz zu خَمْسِينَ (Akkusativ Singular von أَلْف: 'tausend'). سَنَةٍ = Idafa-Genitiv zu أَلْفَ. Gesamtstruktur: '50 [tausend] — tausend wovon? — Jahren.' Beachte: 50.000 wird im Arabischen als 'fünfzig Tausend' konstruiert, wobei 'Tausend' den Tamyiz von 'fünfzig' bildet."
               },
               {
                 "ref": "2:261",
                 "arabic": "كَمَثَلِ حَبَّةٍ أَنبَتَتْ سَبْعَ سَنَابِلَ فِي كُلِّ سُنبُلَةٍ مِّائَةُ حَبَّةٍ",
-                "explanation": "سَبْعَ = Zahl 7. سَنَابِلَ = Mudaf ilayhi (Genitiv Plural in Idafa-Konstruktion mit سَبْعَ, da die Zahlen 3-10 mit dem Gezaehlten eine Idafa bilden — hier: سَنَابِلَ ist ein diptotisches Nomen, daher Genitiv auf Fatha statt Kasra). مِائَةُ حَبَّةٍ = 'hundert Koerner' — حَبَّةٍ ist Idafa-Genitiv nach مِائَة. Im Genitiv, weil 100 Genitiv Singular nimmt. Beachte: Tamyiz im Akkusativ Singular gilt nur fuer die Zahlen 11-99."
+                "explanation": "سَبْعَ = Zahl 7. سَنَابِلَ = Mudaf ilayhi (Genitiv Plural in Idafa-Konstruktion mit سَبْعَ, da die Zahlen 3-10 mit dem Gezählten eine Idafa bilden — hier: سَنَابِلَ ist ein diptotisches Nomen, daher Genitiv auf Fatha statt Kasra). مِائَةُ حَبَّةٍ = 'hundert Koerner' — حَبَّةٍ ist Idafa-Genitiv nach مِائَة. Im Genitiv, weil 100 Genitiv Singular nimmt. Beachte: Tamyiz im Akkusativ Singular gilt nur für die Zahlen 11-99."
               },
               {
                 "ref": "12:43",
@@ -51,7 +51,7 @@
         {
           "type": "analysis",
           "question": "وَيَوْمَ نُسَيِّرُ الْجِبَالَ وَتَرَى الْأَرْضَ بَارِزَةً وَحَشَرْنَاهُمْ فَلَمْ نُغَادِرْ مِنْهُمْ أَحَدًا (18:47). Was ist أَحَدًا grammatisch?",
-          "answer": "أَحَدًا ist KEIN Tamyiz, sondern Maf'ul bihi von نُغَادِرْ. 'Wir haben niemanden von ihnen zurueckgelassen.' Direktes Objekt des Verbs."
+          "answer": "أَحَدًا ist KEIN Tamyiz, sondern Maf'ul bihi von نُغَادِرْ. 'Wir haben niemanden von ihnen zurückgelassen.' Direktes Objekt des Verbs."
         }
       ],
       "testContent": {
@@ -73,18 +73,18 @@
     {
       "id": "TAM2",
       "title": "Tamyiz al-Nisbah — Spezifikation nach Adjektiven und Verben",
-      "description": "Der Tamyiz praezisiert nicht nur Zahlen, sondern auch mehrdeutige Adjektive, Elativ-Formen und sogar Verben. Er gibt an, 'in Bezug worauf' die Aussage gilt.",
+      "description": "Der Tamyiz präzisiert nicht nur Zahlen, sondern auch mehrdeutige Adjektive, Elativ-Formen und sogar Verben. Er gibt an, 'in Bezug worauf' die Aussage gilt.",
       "learnContent": {
         "sections": [
           {
             "type": "explanation",
             "title": "Der Tamyiz nach Elativ-Adjektiven",
-            "content": "Das Elativ-Adjektiv (أَفْعَل) bedeutet 'mehr/am meisten X'. Aber: mehr in Bezug worauf? Der Tamyiz praezisiert diesen Aspekt.\n\nStruktur: Elativ + Tamyiz (Akkusativ Singular)\n\nBeispiele:\nهُوَ أَكْبَرُ سِنًّا — 'er ist aelter an Jahren' (سِنًّا = Tamyiz, praezisiert: aelter in Bezug auf das Alter)\nهُمْ أَحْسَنُ أَثَاثًا — 'sie sind besser an Hausrat' (أَثَاثًا = Tamyiz)\nأَيُّ الْفَرِيقَيْنِ خَيْرٌ مَقَامًا — 'welche der zwei Gruppen ist besser an Aufenthaltsort' (مَقَامًا = Tamyiz)\n\nDer Tamyiz nach Elativ beantwortet die Frage: 'besser/schlechter/mehr in welcher Hinsicht?'"
+            "content": "Das Elativ-Adjektiv (أَفْعَل) bedeutet 'mehr/am meisten X'. Aber: mehr in Bezug worauf? Der Tamyiz präzisiert diesen Aspekt.\n\nStruktur: Elativ + Tamyiz (Akkusativ Singular)\n\nBeispiele:\nهُوَ أَكْبَرُ سِنًّا — 'er ist älter an Jahren' (سِنًّا = Tamyiz, präzisiert: älter in Bezug auf das Alter)\nهُمْ أَحْسَنُ أَثَاثًا — 'sie sind besser an Hausrat' (أَثَاثًا = Tamyiz)\nأَيُّ الْفَرِيقَيْنِ خَيْرٌ مَقَامًا — 'welche der zwei Gruppen ist besser an Aufenthaltsort' (مَقَامًا = Tamyiz)\n\nDer Tamyiz nach Elativ beantwortet die Frage: 'besser/schlechter/mehr in welcher Hinsicht?'"
           },
           {
             "type": "explanation",
             "title": "Der verbale Tamyiz (تحويل)",
-            "content": "Ein Verb kann ebenfalls einen Tamyiz bei sich haben, wenn sein Subjekt semantisch mehrdeutig in Bezug auf einen bestimmten Aspekt ist. Dieser Typ heisst Tamyiz al-Nafs (تمييز النفس) oder Tamyiz der Relation.\n\nStruktur: Subjekt + Verb + Tamyiz\n\nKlassisches Beispiel: تَصَبَّبَ زَيْدٌ عَرَقًا — 'Zayd triefte von Schweiss' (wortl.: 'triefte hinsichtlich des Schweisses'). عَرَقًا = Tamyiz, weil das Verb tatsaechlich bedeutet: 'war durchnaesst in Bezug auf den Schweiss'.\n\nIm Quran ist dieser Typ seltener, aber das Verstaendnis des Prinzips hilft bei der Analyse schwieriger Akkusative."
+            "content": "Ein Verb kann ebenfalls einen Tamyiz bei sich haben, wenn sein Subjekt semantisch mehrdeutig in Bezug auf einen bestimmten Aspekt ist. Dieser Typ heißt Tamyiz al-Nafs (تمييز النفس) oder Tamyiz der Relation.\n\nStruktur: Subjekt + Verb + Tamyiz\n\nKlassisches Beispiel: تَصَبَّبَ زَيْدٌ عَرَقًا — 'Zayd triefte von Schweiss' (wortl.: 'triefte hinsichtlich des Schweisses'). عَرَقًا = Tamyiz, weil das Verb tatsächlich bedeutet: 'war durchnaesst in Bezug auf den Schweiss'.\n\nIm Quran ist dieser Typ seltener, aber das Verständnis des Prinzips hilft bei der Analyse schwieriger Akkusative."
           },
           {
             "type": "quranExamples",
@@ -93,12 +93,12 @@
               {
                 "ref": "18:34",
                 "arabic": "أَنَا أَكْثَرُ مِنكَ مَالًا وَأَعَزُّ نَفَرًا",
-                "explanation": "مَالًا = Tamyiz nach Elativ أَكْثَرُ. 'Ich habe mehr als du — in Bezug auf Vermoegen.' Akkusativ Singular. نَفَرًا = Tamyiz nach Elativ أَعَزُّ. 'Ich bin maechtiger in Bezug auf Gefolgschaft.' Beide Tamyize praezisieren, in welcher Hinsicht die Ueberlegenheit gilt."
+                "explanation": "مَالًا = Tamyiz nach Elativ أَكْثَرُ. 'Ich habe mehr als du — in Bezug auf Vermögen.' Akkusativ Singular. نَفَرًا = Tamyiz nach Elativ أَعَزُّ. 'Ich bin mächtiger in Bezug auf Gefolgschaft.' Beide Tamyize präzisieren, in welcher Hinsicht die Überlegenheit gilt."
               },
               {
                 "ref": "25:24",
                 "arabic": "أَصْحَابُ الْجَنَّةِ يَوْمَئِذٍ خَيْرٌ مُّسْتَقَرًّا وَأَحْسَنُ مَقِيلًا",
-                "explanation": "مُّسْتَقَرًّا = Tamyiz nach Elativ خَيْرٌ. Akkusativ Singular. 'Besser an Aufenthaltsort.' مَقِيلًا = Tamyiz nach Elativ أَحْسَنُ. 'Schoenerer Ruheplatz.' Beide sind indefinite Akkusative, die die Vergleichsdimension angeben."
+                "explanation": "مُّسْتَقَرًّا = Tamyiz nach Elativ خَيْرٌ. Akkusativ Singular. 'Besser an Aufenthaltsort.' مَقِيلًا = Tamyiz nach Elativ أَحْسَنُ. 'Schönerer Ruheplatz.' Beide sind indefinite Akkusative, die die Vergleichsdimension angeben."
               },
               {
                 "ref": "12:65",
@@ -108,7 +108,7 @@
               {
                 "ref": "19:74",
                 "arabic": "وَكَمْ أَهْلَكْنَا قَبْلَهُم مِّن قَرْنٍ هُمْ أَحْسَنُ أَثَاثًا وَرِئْيًا",
-                "explanation": "أَثَاثًا = Tamyiz nach Elativ أَحْسَنُ (Hausrat). رِئْيًا = Tamyiz nach Elativ أَحْسَنُ (Anblick/Erscheinungsbild). Beide Akkusative praezisieren den Vergleich."
+                "explanation": "أَثَاثًا = Tamyiz nach Elativ أَحْسَنُ (Hausrat). رِئْيًا = Tamyiz nach Elativ أَحْسَنُ (Anblick/Erscheinungsbild). Beide Akkusative präzisieren den Vergleich."
               }
             ]
           }
@@ -118,7 +118,7 @@
         {
           "type": "contrast",
           "question": "Was ist der Unterschied zwischen Tamyiz und Hal? Beide stehen im Akkusativ.",
-          "answer": "Hal: beschreibt den Zustand des Subjekts/Objekts WAEHREND der Handlung ('wie ist er dabei?'). Steht normalerweise nach Verben. Tamyiz: praezisiert eine quantitative oder qualitative Mehrdeutigkeit ('in Bezug worauf?'). Steht normalerweise nach Zahlen, Elativ-Adjektiven oder bestimmten Verben. Testfrage: 'In welchem Zustand?' → Hal. 'In Bezug worauf / woran gemessen?' → Tamyiz."
+          "answer": "Hal: beschreibt den Zustand des Subjekts/Objekts WAEHREND der Handlung ('wie ist er dabei?'). Steht normalerweise nach Verben. Tamyiz: präzisiert eine quantitative oder qualitative Mehrdeutigkeit ('in Bezug worauf?'). Steht normalerweise nach Zahlen, Elativ-Adjektiven oder bestimmten Verben. Testfrage: 'In welchem Zustand?' → Hal. 'In Bezug worauf / woran gemessen?' → Tamyiz."
         }
       ],
       "testContent": {
@@ -128,11 +128,11 @@
             "options": [
               "Maf'ul bihi (direktes Objekt von أَكْثَر)",
               "Hal (Zustand des Sprechers)",
-              "Tamyiz (praezisiert in welcher Hinsicht 'mehr')",
+              "Tamyiz (präzisiert in welcher Hinsicht 'mehr')",
               "Badal (Apposition zu مِنكَ)"
             ],
             "correct": 2,
-            "explanation": "مَالًا ist Tamyiz nach dem Elativ أَكْثَرُ. Er beantwortet: 'mehr — in Bezug worauf?' Antwort: 'an Vermoegen'. Akkusativ Singular."
+            "explanation": "مَالًا ist Tamyiz nach dem Elativ أَكْثَرُ. Er beantwortet: 'mehr — in Bezug worauf?' Antwort: 'an Vermögen'. Akkusativ Singular."
           }
         ]
       }

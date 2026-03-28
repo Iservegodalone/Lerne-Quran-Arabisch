@@ -22,8 +22,8 @@ const STRAY_CHARS = /[@ٕ]/
 
 /** Theological superlative glosses that should not be used as meanings */
 const THEOLOGICAL_GLOSSES = [
-  'Allwissend', 'Allbarmherzig', 'Allerbarmer', 'Allmächtig', 'Allmaechtig',
-  'Allhörend', 'Allhoerend', 'Allsehend', 'Allvergebend', 'Gottesfürchtig',
+  'Allwissend', 'Allbarmherzig', 'Allerbarmer', 'Allmächtig', 'Allmächtig',
+  'Allhörend', 'Allhörend', 'Allsehend', 'Allvergebend', 'Gottesfürchtig',
   'Gottesfuerchtig', 'Rechtleitung', 'Barmherzigste',
 ]
 

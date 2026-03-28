@@ -130,12 +130,12 @@ export default function SurahMacrostructureDrill() {
           )}
           {drillAnswer && (
             <button onClick={nextDrillQ} style={{ marginTop: 12, padding: '8px 20px', borderRadius: 8, background: 'var(--accent-teal)', color: '#fff', border: 'none', cursor: 'pointer', fontWeight: 600 }}>
-              Naechste Frage
+              Nächste Frage
             </button>
           )}
         </div>
       ) : mode === 'drill' ? (
-        <p style={{ color: 'var(--text-muted)' }}>Keine Fragen verfuegbar.</p>
+        <p style={{ color: 'var(--text-muted)' }}>Keine Fragen verfügbar.</p>
       ) : null}
 
       {mode === 'view' && <>

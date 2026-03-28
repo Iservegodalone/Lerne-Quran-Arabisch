@@ -135,8 +135,8 @@ describe('particles.json', () => {
     expect(Array.isArray(particles.particles)).toBe(true)
   })
 
-  it('has 72 particles', () => {
-    expect(particles.particles).toHaveLength(72)
+  it('has 73 particles', () => {
+    expect(particles.particles).toHaveLength(73)
   })
 
   it('meta.totalCount matches actual count', () => {

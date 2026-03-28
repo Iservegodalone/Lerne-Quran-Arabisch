@@ -1,11 +1,15 @@
 {
   "meta": {
-    "title": "Kongruenz-Drill — Uebereinstimmung in Genus, Numerus und Kasus",
-    "description": "Uebungen zur Kongruenz zwischen Verb und Subjekt, Adjektiv und Nomen, Pronomen und Bezugswort im quranischen Arabisch.",
-    "totalExercises": 73
+    "title": "Kongruenz-Drill — Übereinstimmung in Genus, Numerus und Kasus",
+    "description": "Übungen zur Kongruenz zwischen Verb und Subjekt, Adjektiv und Nomen, Pronomen und Bezugswort im quranischen Arabisch.",
+    "totalExercises": 73,
+    "sources": [
+      {"title": "Wright's Arabic Grammar, Vol. II (Syntax)", "url": "https://archive.org/details/grammarofthearab02telerich"},
+      {"title": "Quranic Arabic Corpus", "url": "https://corpus.quran.com/"}
+    ]
   },
   "rules": [
-    {"id": "R1", "rule": "Verb vor Subjekt → Verb im Singular (unabhaengig vom Numerus des Subjekts)", "ref": "3:32 قَالَ الرُّسُلُ"},
+    {"id": "R1", "rule": "Verb vor Subjekt → Verb im Singular (unabhängig vom Numerus des Subjekts)", "ref": "2:30 قَالَ رَبُّكَ"},
     {"id": "R2", "rule": "Subjekt vor Verb → volle Kongruenz in Person, Genus und Numerus", "ref": "2:8 يَقُولُونَ آمَنَّا"},
     {"id": "R3", "rule": "Gebrochener Plural von Nicht-Personen → behandelt wie Feminin Singular", "ref": "12:4 أَحَدَ عَشَرَ كَوْكَبًا رَأَيْتُهُمْ لِي سَاجِدِينَ"},
     {"id": "R4", "rule": "Adjektiv kongruiert mit Nomen in Genus, Numerus, Kasus UND Definitheit", "ref": "—"},
@@ -46,8 +50,8 @@
       "type": "adjective_noun",
       "ref": "2:2",
       "arabic": "ذَٰلِكَ الْكِتَابُ لَا رَيْبَ فِيهِ هُدًى لِلْمُتَّقِينَ",
-      "question": "الْكِتَابُ ist definit, maskulin, Singular, Nominativ. Welche Form muesste ein Adjektiv haben?",
-      "answer": "Definit + Maskulin + Singular + Nominativ, z.B. الْكَرِيمُ. Vier Kongruenzdimensionen muessen uebereinstimmen.",
+      "question": "الْكِتَابُ ist definit, maskulin, Singular, Nominativ. Welche Form müsste ein Adjektiv haben?",
+      "answer": "Definit + Maskulin + Singular + Nominativ, z.B. الْكَرِيمُ. Vier Kongruenzdimensionen müssen übereinstimmen.",
       "rule": "R4"
     },
     {
@@ -55,8 +59,8 @@
       "type": "adjective_noun",
       "ref": "12:43",
       "arabic": "إِنِّي أَرَىٰ سَبْعَ بَقَرَاتٍ سِمَانٍ يَأْكُلُهُنَّ سَبْعٌ عِجَافٌ",
-      "question": "Warum سِمَان (Feminin Plural) und nicht سَمِينَة (Feminin Singular)?",
-      "answer": "بَقَرَات ist gesunder Feminin-Plural (nicht gebrochen), daher volle Pluralkongruenz: سِمَان. Die Regel R5 gilt nur fuer GEBROCHENE Plurale von Nicht-Personen.",
+      "question": "Warum سِمَان (gebrochener Plural) und nicht سَمِينَة (Feminin Singular)?",
+      "answer": "سِمَان ist ein gebrochener Plural (Muster فِعَال) von سَمِين. بَقَرَات ist gesunder Feminin-Plural (nicht gebrochen), daher volle Pluralkongruenz: das Adjektiv steht ebenfalls im Plural.",
       "rule": "R4"
     },
     {
@@ -65,7 +69,7 @@
       "ref": "27:29",
       "arabic": "قَالَتْ يَا أَيُّهَا الْمَلَأُ إِنِّي أُلْقِيَ إِلَيَّ كِتَابٌ كَرِيمٌ",
       "question": "Warum قَالَتْ mit Ta (Femininmarkierung)?",
-      "answer": "Das implizite Subjekt ist die Koenigin (feminin). Das Verb traegt die obligatorische Femininmarkierung (Regel R6).",
+      "answer": "Das implizite Subjekt ist die Königin (feminin). Das Verb trägt die obligatorische Femininmarkierung (Regel R6).",
       "rule": "R6"
     },
     {
@@ -156,7 +160,7 @@
       "ref": "4:75",
       "arabic": "فِي سَبِيلِ اللَّهِ وَالْمُسْتَضْعَفِينَ مِنَ الرِّجَالِ وَالنِّسَاءِ وَالْوِلْدَانِ الَّذِينَ يَقُولُونَ",
       "question": "الْوِلْدَان ist gebrochener Plural. Warum الَّذِينَ (Maskulin Plural) und nicht الَّتِي (Feminin Singular)?",
-      "answer": "وِلْدَان sind PERSONEN (Kinder). Die Regel 'gebrochener Plural → Feminin Singular' gilt NUR fuer Nicht-Personen. Bei Personen: voller Plural.",
+      "answer": "وِلْدَان sind PERSONEN (Kinder). Die Regel 'gebrochener Plural → Feminin Singular' gilt NUR für Nicht-Personen. Bei Personen: voller Plural.",
       "rule": "R3"
     },
     {
@@ -180,7 +184,7 @@
       "type": "fill_blank",
       "prompt": "السماوات ___ (hoch, Adjektiv)",
       "answer": "عَالِيَة (Feminin Singular) oder عَالِيَات (gesunder Feminin Plural)",
-      "explanation": "سَمَاوَات ist gesunder Feminin-Plural. Beide Formen moeglich, Feminin Singular ist haeufiger im Quran."
+      "explanation": "سَمَاوَات ist gesunder Feminin-Plural. Beide Formen möglich, Feminin Singular ist häufiger im Quran."
     },
     {
       "id": 21,
@@ -197,7 +201,7 @@
       "ref": "12:4",
       "arabic": "إِنِّي رَأَيْتُ أَحَدَ عَشَرَ كَوْكَبًا وَالشَّمْسَ وَالْقَمَرَ رَأَيْتُهُمْ لِي سَاجِدِينَ",
       "question": "كَوَاكِب sind Nicht-Personen. Warum -هُمْ (Maskulin Plural) und سَاجِدِين (Maskulin Plural)?",
-      "answer": "Die Sterne werden hier als handelnde Wesen dargestellt (sie werfen sich nieder) — sie werden daher wie Personen behandelt. Personifikation aendert die Kongruenz.",
+      "answer": "Die Sterne werden hier als handelnde Wesen dargestellt (sie werfen sich nieder) — sie werden daher wie Personen behandelt. Personifikation ändert die Kongruenz.",
       "rule": "R3"
     },
     {
@@ -212,8 +216,8 @@
       "type": "verb_subject",
       "ref": "28:10",
       "arabic": "وَأَصْبَحَ فُؤَادُ أُمِّ مُوسَىٰ فَارِغًا",
-      "question": "أَصْبَحَ ohne Ta-Markierung, obwohl der فُؤَاد der Mutter gehoert. Warum?",
-      "answer": "فُؤَاد selbst ist maskulin. Dass es einer Frau gehoert (Idafa mit أُمّ), aendert nicht das Genus des Wortes فُؤَاد.",
+      "question": "أَصْبَحَ ohne Ta-Markierung, obwohl der فُؤَاد der Mutter gehört. Warum?",
+      "answer": "فُؤَاد selbst ist maskulin. Dass es einer Frau gehört (Idafa mit أُمّ), ändert nicht das Genus des Wortes فُؤَاد.",
       "rule": "R6"
     },
     {
@@ -221,7 +225,7 @@
       "type": "fill_blank",
       "prompt": "أَقَامَ المسلمون ___ (das Gebet, Akkusativ)",
       "answer": "الصَّلَاةَ",
-      "explanation": "Subjekt (المسلمون) vor Verb — volle Kongruenz. أَقَامُوا waere korrekt (nicht أَقَامَ). Die Uebung zeigt: Verb muss bei SVO-Stellung kongruieren."
+      "explanation": "Subjekt (المسلمون) vor Verb — volle Kongruenz. أَقَامُوا wäre korrekt (nicht أَقَامَ). Die Übung zeigt: Verb muss bei SVO-Stellung kongruieren."
     },
     {
       "id": 26,
@@ -237,7 +241,7 @@
       "type": "adjective_noun",
       "ref": "89:14",
       "arabic": "إِنَّ رَبَّكَ لَبِالْمِرْصَادِ",
-      "question": "مِرْصَاد hat kein Adjektiv. Wenn eines hinzugefuegt wuerde, welches Genus?",
+      "question": "مِرْصَاد hat kein Adjektiv. Wenn eines hinzugefuegt würde, welches Genus?",
       "answer": "Maskulin — مِرْصَاد ist maskulin (Ism Makan, Muster مِفْعَال).",
       "rule": "R4"
     },
@@ -246,7 +250,7 @@
       "type": "verb_subject",
       "ref": "16:66",
       "arabic": "وَإِنَّ لَكُمْ فِي الْأَنْعَامِ لَعِبْرَةً نُسْقِيكُم مِمَّا فِي بُطُونِهِ",
-      "question": "بُطُونِهِ — Pronominalsuffix هِ (Maskulin Singular). Warum fuer الْأَنْعَام (Plural)?",
+      "question": "بُطُونِهِ — Pronominalsuffix هِ (Maskulin Singular). Warum für الْأَنْعَام (Plural)?",
       "answer": "أَنْعَام ist ein Kollektivnomen (kein echter Plural) — wird als Singular behandelt. Daher maskulin Singular Suffix.",
       "rule": "R3"
     },
@@ -255,7 +259,7 @@
       "type": "fill_blank",
       "prompt": "جَاءَ ___ الصالحات (die rechtschaffenen Frauen, Nominativ)",
       "answer": "النِّسَاءُ",
-      "explanation": "VSO-Stellung: جَاءَ (ohne Ta!) wenn النساء nach dem Verb steht UND Trennung besteht. Mit Ta: جَاءَتِ النِّسَاءُ waere ebenfalls korrekt."
+      "explanation": "VSO-Stellung: جَاءَ (ohne Ta!) wenn النساء nach dem Verb steht UND Trennung besteht. Mit Ta: جَاءَتِ النِّسَاءُ wäre ebenfalls korrekt."
     },
     {
       "id": 30,
@@ -309,7 +313,7 @@
       "ref": "7:40",
       "arabic": "إِنَّ الَّذِينَ كَذَّبُوا بِآيَاتِنَا وَاسْتَكْبَرُوا عَنْهَا لَا تُفَتَّحُ لَهُمْ أَبْوَابُ السَّمَاءِ",
       "question": "تُفَتَّحُ — warum Feminin-Markierung (تُ)?",
-      "answer": "أَبْوَاب (Tore) ist gebrochener Plural eines Nicht-Personen-Nomens → als Feminin Singular behandelt. Daher تُفَتَّحُ mit femininer Praefixmarkierung.",
+      "answer": "أَبْوَاب (Tore) ist gebrochener Plural eines Nicht-Personen-Nomens → als Feminin Singular behandelt. Daher تُفَتَّحُ mit femininer Präfixmarkierung.",
       "rule": "R3"
     },
     {
@@ -363,7 +367,7 @@
       "type": "adjective_noun",
       "ref": "2:187",
       "arabic": "أُحِلَّ لَكُمْ لَيْلَةَ الصِّيَامِ الرَّفَثُ إِلَىٰ نِسَائِكُمْ",
-      "question": "لَيْلَة ist feminin. Wie wuerde ein Adjektiv dazu aussehen?",
+      "question": "لَيْلَة ist feminin. Wie würde ein Adjektiv dazu aussehen?",
       "answer": "Feminin + Singular + Indefinit + Akkusativ (als Zeitadverb). Z.B. لَيْلَةً مُبَارَكَةً — vierfache Kongruenz.",
       "rule": "R4"
     },
@@ -373,7 +377,7 @@
       "ref": "76:21",
       "arabic": "عَالِيَهُمْ ثِيَابُ سُندُسٍ خُضْرٌ",
       "question": "ثِيَابٌ خُضْرٌ — warum خُضْر (Plural) und nicht خَضْرَاء (Fem. Sg.)?",
-      "answer": "ثِيَاب ist gebrochener Plural. Fuer Nicht-Personen: Feminin Singular ODER gebrochener Plural des Adjektivs. خُضْر ist gebrochener Plural von أَخْضَر — beide Formen sind zulaessig.",
+      "answer": "ثِيَاب ist gebrochener Plural. Für Nicht-Personen: Feminin Singular ODER gebrochener Plural des Adjektivs. خُضْر ist gebrochener Plural von أَخْضَر — beide Formen sind zulässig.",
       "rule": "R5"
     },
     {
@@ -390,7 +394,7 @@
       "type": "adjective_noun",
       "ref": "6:99",
       "arabic": "انظُرُوا إِلَىٰ ثَمَرِهِ إِذَا أَثْمَرَ وَيَنْعِهِ",
-      "question": "ثَمَر — maskulin. Wie muesste ein Adjektiv kongruieren?",
+      "question": "ثَمَر — maskulin. Wie müsste ein Adjektiv kongruieren?",
       "answer": "Maskulin + Singular + entsprechender Kasus und Definitheit. Z.B. ثَمَرٌ نَاضِجٌ. ثَمَر (Kollektivnomen) wird als Maskulin Singular behandelt.",
       "rule": "R4"
     },
@@ -418,7 +422,7 @@
       "ref": "5:114",
       "arabic": "قَالَ عِيسَى ابْنُ مَرْيَمَ اللَّهُمَّ رَبَّنَا أَنزِلْ عَلَيْنَا مَائِدَةً مِنَ السَّمَاءِ تَكُونُ لَنَا عِيدًا لِأَوَّلِنَا وَآخِرِنَا",
       "question": "مَائِدَةً — feminin, indefinit. Wie kongruiert das Verb تَكُونُ?",
-      "answer": "تَكُونُ mit femininer Praefixmarkierung (تَـ) weil مَائِدَة feminin ist. Singular, weil مَائِدَة Singular ist.",
+      "answer": "تَكُونُ mit femininer Präfixmarkierung (تَـ) weil مَائِدَة feminin ist. Singular, weil مَائِدَة Singular ist.",
       "rule": "R6"
     },
     {
@@ -435,7 +439,7 @@
       "type": "adjective_noun",
       "ref": "56:22",
       "arabic": "وَحُورٌ عِينٌ",
-      "question": "حُورٌ عِينٌ — wie kongruieren diese beiden Woerter?",
+      "question": "حُورٌ عِينٌ — wie kongruieren diese beiden Wörter?",
       "answer": "حُور (Plural von حَوْرَاء, feminin) + عِين (Plural von عَيْنَاء, feminin). Beide im gebrochenen Plural, Nominativ, indefinit. Kongruenz in Numerus, Kasus, Definitheit.",
       "rule": "R4"
     },
@@ -463,8 +467,8 @@
       "type": "verb_subject",
       "ref": "28:25",
       "arabic": "فَجَاءَتْهُ إِحْدَاهُمَا تَمْشِي عَلَى اسْتِحْيَاءٍ",
-      "question": "جَاءَتْهُ — warum Ta-Markierung? Und تَمْشِي — warum feminines Praefix?",
-      "answer": "إِحْدَاهُمَا ist feminin (eine der beiden Frauen) → جَاءَتْ mit -تْ. تَمْشِي hat feminines Praefix تَـ. Durchgehende Genuskongruenz.",
+      "question": "جَاءَتْهُ — warum Ta-Markierung? Und تَمْشِي — warum feminines Präfix?",
+      "answer": "إِحْدَاهُمَا ist feminin (eine der beiden Frauen) → جَاءَتْ mit -تْ. تَمْشِي hat feminines Präfix تَـ. Durchgehende Genuskongruenz.",
       "rule": "R6"
     },
     {
@@ -481,7 +485,7 @@
       "type": "verb_subject",
       "ref": "2:102",
       "arabic": "وَمَا كَفَرَ سُلَيْمَانُ وَلَٰكِنَّ الشَّيَاطِينَ كَفَرُوا",
-      "question": "كَفَرَ (Singular) vs. كَفَرُوا (Plural) — erklaere den Unterschied.",
+      "question": "كَفَرَ (Singular) vs. كَفَرُوا (Plural) — erkläre den Unterschied.",
       "answer": "كَفَرَ سُلَيْمَانُ: VSO → Verb im Singular (R1). الشَّيَاطِينَ كَفَرُوا: Ism von لَٰكِنَّ steht VOR dem Verb → volle Pluralkongruenz (R2).",
       "rule": "R1"
     },
@@ -500,7 +504,7 @@
       "ref": "7:160",
       "arabic": "وَقَطَّعْنَاهُمُ اثْنَتَيْ عَشْرَةَ أَسْبَاطًا أُمَمًا",
       "question": "اثْنَتَيْ — warum feminine Zahlform?",
-      "answer": "اثْنَتَيْ (feminin, Dual, Akk./Gen.) weil es sich auf أُمَم (Gemeinschaften, feminin) bezieht. Die Zahl 2 kongruiert im Genus mit dem Gezaehlten (bei 1 und 2: gleiche Genuskongruenz).",
+      "answer": "اثْنَتَيْ (feminin, Dual, Akk./Gen.) weil es sich auf أُمَم (Gemeinschaften, feminin) bezieht. Die Zahl 2 kongruiert im Genus mit dem Gezählten (bei 1 und 2: gleiche Genuskongruenz).",
       "rule": "R4"
     },
     {
@@ -527,7 +531,7 @@
       "ref": "41:11",
       "arabic": "ثُمَّ اسْتَوَىٰ إِلَى السَّمَاءِ وَهِيَ دُخَانٌ فَقَالَ لَهَا وَلِلْأَرْضِ ائْتِيَا طَوْعًا أَوْ كَرْهًا قَالَتَا أَتَيْنَا طَائِعِينَ",
       "question": "ائْتِيَا und قَالَتَا — analysiere die Dualkongruenz mit Genus.",
-      "answer": "Zwei feminine Subjekte (السَّمَاء und الْأَرْض) → Dual Feminin. ائْتِيَا (Imperativ Dual) und قَالَتَا (Perfekt, Dual feminin: -تَا). طَائِعِينَ (mask. Plural) — ueberraschend: maskuliner Plural fuer Personifikation.",
+      "answer": "Zwei feminine Subjekte (السَّمَاء und الْأَرْض) → Dual Feminin. ائْتِيَا (Imperativ Dual) und قَالَتَا (Perfekt, Dual feminin: -تَا). طَائِعِينَ (mask. Plural) — ueberraschend: maskuliner Plural für Personifikation.",
       "rule": "R6"
     },
     {
@@ -564,7 +568,7 @@
       "ref": "18:9",
       "arabic": "أَمْ حَسِبْتَ أَنَّ أَصْحَابَ الْكَهْفِ وَالرَّقِيمِ كَانُوا مِنْ آيَاتِنَا عَجَبًا",
       "question": "كَانُوا (mask. Plural) — warum nicht كَانَتْ (fem. Sg.)?",
-      "answer": "أَصْحَاب (gebrochener Plural) bezieht sich auf PERSONEN → volle Pluralkongruenz (كَانُوا, mask. Plural). Die Regel 'gebr. Plural → Fem. Sg.' gilt NUR fuer Nicht-Personen.",
+      "answer": "أَصْحَاب (gebrochener Plural) bezieht sich auf PERSONEN → volle Pluralkongruenz (كَانُوا, mask. Plural). Die Regel 'gebr. Plural → Fem. Sg.' gilt NUR für Nicht-Personen.",
       "rule": "R3"
     },
     {
@@ -600,7 +604,7 @@
       "ref": "18:45",
       "arabic": "وَاضْرِبْ لَهُم مَثَلَ الْحَيَاةِ الدُّنْيَا كَمَاءٍ أَنزَلْنَاهُ مِنَ السَّمَاءِ فَاخْتَلَطَ بِهِ نَبَاتُ الْأَرْضِ فَأَصْبَحَ هَشِيمًا تَذْرُوهُ الرِّيَاحُ",
       "question": "تَذْرُوهُ الرِّيَاحُ — warum تَذْرُو (Fem.)?",
-      "answer": "الرِّيَاح (Winde) ist gebrochener Plural eines Nicht-Personen-Nomens → als Feminin behandelt. Verb تَذْرُو hat feminines Praefix تَـ.",
+      "answer": "الرِّيَاح (Winde) ist gebrochener Plural eines Nicht-Personen-Nomens → als Feminin behandelt. Verb تَذْرُو hat feminines Präfix تَـ.",
       "rule": "R3"
     },
     {
@@ -637,7 +641,7 @@
       "ref": "5:25",
       "arabic": "قَالَ رَبِّ إِنِّي لَا أَمْلِكُ إِلَّا نَفْسِي وَأَخِي",
       "question": "أَخِي — ist das Dual?",
-      "answer": "Nein. أَخِي ist Singular: أَخ + Possessivsuffix ي (mein Bruder). Der Dual von أَخ waere أَخَوَانِ (Nom.) / أَخَوَيْنِ (Akk./Gen.). Die fuenf besonderen Nomen (أَب، أَخ، حَم، فَم، ذُو) haben im Singular eigene Formen.",
+      "answer": "Nein. أَخِي ist Singular: أَخ + Possessivsuffix ي (mein Bruder). Der Dual von أَخ wäre أَخَوَانِ (Nom.) / أَخَوَيْنِ (Akk./Gen.). Die fünf besonderen Nomen (أَب، أَخ، حَم، فَم، ذُو) haben im Singular eigene Formen.",
       "rule": "R4"
     },
     {

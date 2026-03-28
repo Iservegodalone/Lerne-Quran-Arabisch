@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Syntax-Uebungen mit echten Quran-Versen (Erweitert)",
-    "description": "120 strukturierte Uebungen zur arabischen Syntax, basierend auf realen Quran-Versen (Simple Clean Text). Automatisches Feedback zu jeder Aufgabe. Erweitert um 15 zusaetzliche Kategorien.",
+    "title": "Syntax-Übungen mit echten Quran-Versen (Erweitert)",
+    "description": "120 strukturierte Übungen zur arabischen Syntax, basierend auf realen Quran-Versen (Simple Clean Text). Automatisches Feedback zu jeder Aufgabe. Erweitert um 15 zusätzliche Kategorien.",
     "language": "de",
     "totalExercises": 120,
     "categories": [
@@ -27,6 +27,10 @@
       "verb_mood",
       "coordination",
       "zarf"
+    ],
+    "sources": [
+      { "name": "Quranic Arabic Corpus", "url": "https://corpus.quran.com/" },
+      { "name": "Wright's Grammar Vol II", "url": "https://archive.org/details/grammarofthearab02telerich" }
     ]
   },
   "exercises": [
@@ -52,7 +56,7 @@
       "correctAnswer": {
         "wordIndices": [1, 4],
         "word": "ان كنتم تحبون الله (Shart) / فاتبعونى (Jawab)",
-        "explanation": "ان ist der Bedingungspartikel. كنتم تحبون الله (wenn ihr Gott liebt) ist der Bedingungsteil. فاتبعونى (so folgt mir) ist die Antwort — erkennbar am فَ (Fa al-Jawab), das die Antwort einleitet, weil sie einen Imperativ enthaelt."
+        "explanation": "ان ist der Bedingungspartikel. كنتم تحبون الله (wenn ihr Gott liebt) ist der Bedingungsteil. فاتبعونى (so folgt mir) ist die Antwort — erkennbar am فَ (Fa al-Jawab), das die Antwort einleitet, weil sie einen Imperativ enthält."
       },
       "difficulty": 2
     },
@@ -83,7 +87,7 @@
       ],
       "correctAnswer": {
         "answer": 1,
-        "explanation": "ان ist der Bedingungspartikel (اداه الشرط). Er leitet einen Bedingungssatz ein, der Unsicherheit ausdrueckt: Wenn ihr offenlegt, was in euch ist, oder es verbergt... Die Antwort ist يحاسبكم به الله (Gott wird euch dafuer zur Rechenschaft ziehen)."
+        "explanation": "ان ist der Bedingungspartikel (اداه الشرط). Er leitet einen Bedingungssatz ein, der Unsicherheit ausdrückt: Wenn ihr offenlegt, was in euch ist, oder es verbergt... Die Antwort ist يحاسبكم به الله (Gott wird euch dafuer zur Rechenschaft ziehen)."
       },
       "difficulty": 1
     },
@@ -92,11 +96,11 @@
       "type": "find_element",
       "category": "conditional",
       "verse": { "surah": 22, "ayah": 11, "text": "ومن الناس من يعبد الله على حرف فان اصابه خير اطمان به وان اصابته فتنه انقلب على وجهه" },
-      "question": "Dieser Vers enthaelt zwei parallele Bedingungssaetze. Identifiziere die Bedingungspartikel.",
+      "question": "Dieser Vers enthält zwei parallele Bedingungssätze. Identifiziere die Bedingungspartikel.",
       "correctAnswer": {
         "wordIndices": [6, 12],
         "word": "ان...ان",
-        "explanation": "Der Vers enthaelt zwei mit ان eingeleitete Bedingungssaetze: (1) فان اصابه خير — اطمان به (wenn ihn Gutes trifft — ist er beruhigt) und (2) وان اصابته فتنه — انقلب على وجهه (wenn ihn eine Pruefung trifft — kehrt er sich ab). Die parallele Struktur kontrastiert zwei Reaktionen."
+        "explanation": "Der Vers enthält zwei mit ان eingeleitete Bedingungssätze: (1) فان اصابه خير — اطمان به (wenn ihn Gutes trifft — ist er beruhigt) und (2) وان اصابته فتنه — انقلب على وجهه (wenn ihn eine Prüfung trifft — kehrt er sich ab). Die parallele Struktur kontrastiert zwei Reaktionen."
       },
       "difficulty": 3
     },
@@ -109,7 +113,7 @@
       "correctAnswer": {
         "wordIndices": [3, 5],
         "word": "تنصروا الله (Shart) / ينصركم (Jawab)",
-        "explanation": "ان ist der Bedingungspartikel. تنصروا الله (wenn ihr Gott unterstuetzt) ist die Bedingung — تنصروا steht im Jussiv (Wegfall des ن). ينصركم (Er unterstuetzt euch) ist die Antwort, ebenfalls im Jussiv. ويثبت اقدامكم ist durch عطف an die Antwort angeschlossen."
+        "explanation": "ان ist der Bedingungspartikel. تنصروا الله (wenn ihr Gott unterstützt) ist die Bedingung — تنصروا steht im Jussiv (Wegfall des ن). ينصركم (Er unterstützt euch) ist die Antwort, ebenfalls im Jussiv. ويثبت اقدامكم ist durch عطف an die Antwort angeschlossen."
       },
       "difficulty": 2
     },
@@ -122,7 +126,7 @@
       "correctAnswer": {
         "wordIndices": [1, 2, 3, 4],
         "word": "الذين امنوا وعملوا الصلحت",
-        "explanation": "الذين (diejenigen, die) ist das Relativpronomen fuer Maskulin Plural. Der Relativsatz (صله الموصول) ist امنوا وعملوا الصلحت (glaubten und gute Taten verrichteten). Das Relativpronomen fungiert als Maf'ul bihi (Objekt) von بشر (verkuende frohe Botschaft)."
+        "explanation": "الذين (diejenigen, die) ist das Relativpronomen für Maskulin Plural. Der Relativsatz (صله الموصول) ist امنوا وعملوا الصلحت (glaubten und gute Taten verrichteten). Das Relativpronomen fungiert als Maf'ul bihi (Objekt) von بشر (verkünde frohe Botschaft)."
       },
       "difficulty": 1
     },
@@ -131,11 +135,11 @@
       "type": "find_element",
       "category": "relative_clause",
       "verse": { "surah": 2, "ayah": 62, "text": "ان الذين امنوا والذين هادوا والنصرى والصبين من امن بالله واليوم الاخر وعمل صلحا فلهم اجرهم عند ربهم" },
-      "question": "Wie viele Relativpronomen (الذين) gibt es in diesem Vers? Identifiziere sie und ihre Relativsaetze.",
+      "question": "Wie viele Relativpronomen (الذين) gibt es in diesem Vers? Identifiziere sie und ihre Relativsätze.",
       "correctAnswer": {
         "wordIndices": [1, 3],
         "word": "الذين امنوا / الذين هادوا",
-        "explanation": "Es gibt zwei الذين: (1) الذين امنوا — diejenigen, die glaubten; (2) الذين هادوا — diejenigen, die jüdisch waren. Beide stehen als aufgezaehlte Subjekte in einer Reihe mit والنصرى والصبين. Alle sind Ism Inna (Subjekt von ان)."
+        "explanation": "Es gibt zwei الذين: (1) الذين امنوا — diejenigen, die glaubten; (2) الذين هادوا — diejenigen, die jüdisch waren. Beide stehen als aufgezählte Subjekte in einer Reihe mit والنصرى والصبين. Alle sind Ism Inna (Subjekt von ان)."
       },
       "difficulty": 2
     },
@@ -148,7 +152,7 @@
       "correctAnswer": {
         "wordIndices": [2],
         "word": "الذى استوقد نارا",
-        "explanation": "الذى (derjenige, der) ist das Relativpronomen fuer Maskulin Singular. Der Relativsatz ist استوقد نارا (ein Feuer entzuendete). Das Relativpronomen bezieht sich auf مثل (Gleichnis): Ihr Gleichnis ist wie das desjenigen, der ein Feuer entzuendete."
+        "explanation": "الذى (derjenige, der) ist das Relativpronomen für Maskulin Singular. Der Relativsatz ist استوقد نارا (ein Feuer entzuendete). Das Relativpronomen bezieht sich auf مثل (Gleichnis): Ihr Gleichnis ist wie das desjenigen, der ein Feuer entzuendete."
       },
       "difficulty": 1
     },
@@ -159,7 +163,7 @@
       "verse": { "surah": 22, "ayah": 18, "text": "الم تر ان الله يسجد له من فى السموت ومن فى الارض" },
       "question": "Welche Funktion hat من in من فى السموت?",
       "options": [
-        "Praeposition (von)",
+        "Präposition (von)",
         "Relativpronomen (wer/diejenigen, die)",
         "Bedingungspartikel (wer auch immer)",
         "Fragepronomen (wer?)"
@@ -192,7 +196,7 @@
       "correctAnswer": {
         "wordIndices": [0, 4],
         "word": "الذين (1.) / الذى (2.)",
-        "explanation": "Erstes الذين bezieht sich auf eine vorher genannte Gruppe (diejenigen, die). Zweites الذى bezieht sich auf الرسول النبى الامى (den Gesandten, den schriftunkundigen Propheten). Die Relativsaetze sind: (1) يتبعون الرسول... (sie folgen dem Gesandten) und (2) يجدونه مكتوبا... (sie finden ihn aufgeschrieben)."
+        "explanation": "Erstes الذين bezieht sich auf eine vorher genannte Gruppe (diejenigen, die). Zweites الذى bezieht sich auf الرسول النبى الامى (den Gesandten, den schriftunkundigen Propheten). Die Relativsätze sind: (1) يتبعون الرسول... (sie folgen dem Gesandten) und (2) يجدونه مكتوبا... (sie finden ihn aufgeschrieben)."
       },
       "difficulty": 3
     },
@@ -218,7 +222,7 @@
       "correctAnswer": {
         "wordIndices": [0],
         "word": "والفجر",
-        "explanation": "Das و ist das Schwur-Waw (واو القسم), eine Praeposition fuer Schwuere. الفجر (die Morgendaemmerung) ist das Muqsam bihi und steht im Genitiv (مجرور) wegen des Schwur-Waw. Der Schwur setzt sich in den folgenden Versen fort (وليال عشر — und zehn Naechten)."
+        "explanation": "Das و ist das Schwur-Waw (واو القسم), eine Präposition für Schwüre. الفجر (die Morgendämmerung) ist das Muqsam bihi und steht im Genitiv (مجرور) wegen des Schwur-Waw. Der Schwur setzt sich in den folgenden Versen fort (وليال عشر — und zehn Naechten)."
       },
       "difficulty": 1
     },
@@ -227,11 +231,11 @@
       "type": "find_element",
       "category": "oath",
       "verse": { "surah": 103, "ayah": 1, "text": "والعصر" },
-      "question": "Bestimme den Schwur und finde die Antwort des Schwurs (Jawab al-Qasam) im naechsten Vers (103:2): ان الانسن لفى خسر.",
+      "question": "Bestimme den Schwur und finde die Antwort des Schwurs (Jawab al-Qasam) im nächsten Vers (103:2): ان الانسن لفى خسر.",
       "correctAnswer": {
         "wordIndices": [0],
         "word": "والعصر (Schwur) / ان الانسن لفى خسر (Jawab)",
-        "explanation": "والعصر: Das و ist das Schwur-Waw, العصر (die Zeit/die Nachmittagszeit) ist das Muqsam bihi. Die Antwort des Schwurs (جواب القسم) ist ان الانسن لفى خسر (wahrlich, der Mensch ist in Verlust). Sie ist erkennbar an der Einleitung mit ان und dem bekraeftigenden لَ."
+        "explanation": "والعصر: Das و ist das Schwur-Waw, العصر (die Zeit/die Nachmittagszeit) ist das Muqsam bihi. Die Antwort des Schwurs (جواب القسم) ist ان الانسن لفى خسر (wahrlich, der Mensch ist in Verlust). Sie ist erkennbar an der Einleitung mit ان und dem bekräftigenden لَ."
       },
       "difficulty": 1
     },
@@ -256,13 +260,13 @@
       "question": "Welche Funktion hat das و in والقران?",
       "options": [
         "Koordinierendes و (und)",
-        "Zustandswaw (waehrend)",
+        "Zustandswaw (während)",
         "Schwurwaw (bei)",
         "Wiederaufnehmendes و"
       ],
       "correctAnswer": {
         "answer": 2,
-        "explanation": "Das و ist hier das Schwur-Waw (واو القسم). Es leitet einen Schwur ein: Beim weisen Quran! القران ist das Muqsam bihi und steht im Genitiv wegen der Schwur-Praeposition. الحكيم ist ein Attribut (صفه) im gleichen Kasus."
+        "explanation": "Das و ist hier das Schwur-Waw (واو القسم). Es leitet einen Schwur ein: Beim weisen Quran! القران ist das Muqsam bihi und steht im Genitiv wegen der Schwur-Präposition. الحكيم ist ein Attribut (صفه) im gleichen Kasus."
       },
       "difficulty": 1
     },
@@ -275,7 +279,7 @@
       "correctAnswer": {
         "wordIndices": [0, 1],
         "word": "التين / الزيتون",
-        "explanation": "Das erste و ist das Schwur-Waw. التين (die Feige) und الزيتون (die Olive) sind die beschworenen Elemente. Der Schwur setzt sich in 95:2-3 fort. Die Antwort (جواب القسم) ist in 95:4: لقد خلقنا الانسن فى احسن تقويم — erkennbar am لَ plus قد als Bekraeftigung."
+        "explanation": "Das erste و ist das Schwur-Waw. التين (die Feige) und الزيتون (die Olive) sind die beschworenen Elemente. Der Schwur setzt sich in 95:2-3 fort. Die Antwort (جواب القسم) ist in 95:4: لقد خلقنا الانسن فى احسن تقويم — erkennbar am لَ plus قد als Bekräftigung."
       },
       "difficulty": 2
     },
@@ -288,7 +292,7 @@
       "correctAnswer": {
         "wordIndices": [2, 3],
         "word": "قرنا عربيا",
-        "explanation": "قرنا عربيا (als arabischen Vortrag) ist ein Hal — es beschreibt den Zustand des Objekts (ه — es) zum Zeitpunkt der Herabsendung: Wir sandten es herab, waehrend/wobei es ein arabischer Vortrag war. Das Hal steht im Akkusativ (منصوب). عربيا ist Eigenschaft (صفه) von قرنا."
+        "explanation": "قرنا عربيا (als arabischen Vortrag) ist ein Hal — es beschreibt den Zustand des Objekts (ه — es) zum Zeitpunkt der Herabsendung: Wir sandten es herab, während/wobei es ein arabischer Vortrag war. Das Hal steht im Akkusativ (منصوب). عربيا ist Eigenschaft (صفه) von قرنا."
       },
       "difficulty": 2
     },
@@ -301,7 +305,7 @@
       "correctAnswer": {
         "wordIndices": [3, 4],
         "word": "وانتم سكرى",
-        "explanation": "وانتم سكرى (waehrend ihr berauscht seid) ist ein Hal-Satz (جمله حاليه). Das و ist hier das Zustandswaw (واو الحاليه). Der gesamte Nominalsatz (انتم سكرى) beschreibt den Zustand des Subjekts: Naehert euch nicht dem Gebet, waehrend ihr berauscht seid."
+        "explanation": "وانتم سكرى (während ihr berauscht seid) ist ein Hal-Satz (جمله حاليه). Das و ist hier das Zustandswaw (واو الحاليه). Der gesamte Nominalsatz (انتم سكرى) beschreibt den Zustand des Subjekts: Nähert euch nicht dem Gebet, während ihr berauscht seid."
       },
       "difficulty": 2
     },
@@ -314,7 +318,7 @@
       "correctAnswer": {
         "wordIndices": [2, 3],
         "word": "تضرعا وخفيه",
-        "explanation": "تضرعا وخفيه (flehend und im Verborgenen) sind zwei Hal-Ausdruecke im Akkusativ. Sie beschreiben die Art und Weise des Rufens: Ruft euren Herrn an — in welchem Zustand? — flehend und im Verborgenen. Beide stehen als Masdar im Akkusativ."
+        "explanation": "تضرعا وخفيه (flehend und im Verborgenen) sind zwei Hal-Ausdrücke im Akkusativ. Sie beschreiben die Art und Weise des Rufens: Ruft euren Herrn an — in welchem Zustand? — flehend und im Verborgenen. Beide stehen als Masdar im Akkusativ."
       },
       "difficulty": 2
     },
@@ -327,7 +331,7 @@
       "correctAnswer": {
         "wordIndices": [8],
         "word": "مسلمه",
-        "explanation": "مسلمه (makellos/fehlerfrei) ist ein Hal im Akkusativ. Es beschreibt den Zustand der Kuh (بقره): eine Kuh, die makellos ist. لا شيه فيها (kein Fleck an ihr) ist ein weiterer Hal-Satz, der مسلمه naeher erlaeutert."
+        "explanation": "مسلمه (makellos/fehlerfrei) ist ein Hal im Akkusativ. Es beschreibt den Zustand der Kuh (بقره): eine Kuh, die makellos ist. لا شيه فيها (kein Fleck an ihr) ist ein weiterer Hal-Satz, der مسلمه näher erläutert."
       },
       "difficulty": 3
     },
@@ -340,7 +344,7 @@
       "correctAnswer": {
         "wordIndices": [5],
         "word": "سجدا",
-        "explanation": "سجدا (sich niederwerfend) ist ein Hal im Akkusativ. Es beschreibt den Zustand der Schatten, waehrend sie sich neigen: Ihre Schatten wenden sich von rechts und von links — in welchem Zustand? — sich Gott niederwerfend."
+        "explanation": "سجدا (sich niederwerfend) ist ein Hal im Akkusativ. Es beschreibt den Zustand der Schatten, während sie sich neigen: Ihre Schatten wenden sich von rechts und von links — in welchem Zustand? — sich Gott niederwerfend."
       },
       "difficulty": 2
     },
@@ -353,7 +357,7 @@
       "correctAnswer": {
         "wordIndices": [10, 12],
         "word": "مالا / نفرا",
-        "explanation": "مالا (an Besitz) und نفرا (an Gefolgsleuten) sind Tamyiz — sie spezifizieren den Vergleich: Ich bin mehr als du — worin? — an Besitz. Und maechtiger — worin? — an Gefolgsleuten. Das Tamyiz steht im Akkusativ und hebt die Mehrdeutigkeit des Komparativs auf."
+        "explanation": "مالا (an Besitz) und نفرا (an Gefolgsleuten) sind Tamyiz — sie spezifizieren den Vergleich: Ich bin mehr als du — worin? — an Besitz. Und mächtiger — worin? — an Gefolgsleuten. Das Tamyiz steht im Akkusativ und hebt die Mehrdeutigkeit des Komparativs auf."
       },
       "difficulty": 2
     },
@@ -379,7 +383,7 @@
       "correctAnswer": {
         "wordIndices": [3],
         "word": "كوكبا",
-        "explanation": "كوكبا (Stern/Planet) ist das Tamyiz der zusammengesetzten Zahl احد عشر (elf). Bei Zahlen von 11-99 steht das Tamyiz im Akkusativ Singular: elf Sterne. Das Tamyiz spezifiziert das Gezaehlte: elf — was? — Sterne."
+        "explanation": "كوكبا (Stern/Planet) ist das Tamyiz der zusammengesetzten Zahl احد عشر (elf). Bei Zahlen von 11-99 steht das Tamyiz im Akkusativ Singular: elf Sterne. Das Tamyiz spezifiziert das Gezählte: elf — was? — Sterne."
       },
       "difficulty": 1
     },
@@ -405,7 +409,7 @@
       "correctAnswer": {
         "wordIndices": [8],
         "word": "تراب",
-        "explanation": "تراب (Erde/Staub) steht hier nach der Praeposition من und ist daher Majrur (Genitiv), nicht Tamyiz. Es ist Teil des Praepositionalausdrucks من تراب (aus Erde), der angibt, woraus Adam erschaffen wurde. Nicht jedes spezifizierende Nomen ist ein Tamyiz — die Praeposition bestimmt die Funktion."
+        "explanation": "تراب (Erde/Staub) steht hier nach der Präposition من und ist daher Majrur (Genitiv), nicht Tamyiz. Es ist Teil des Präpositionalausdrucks من تراب (aus Erde), der angibt, woraus Adam erschaffen wurde. Nicht jedes spezifizierende Nomen ist ein Tamyiz — die Präposition bestimmt die Funktion."
       },
       "difficulty": 3
     },
@@ -418,7 +422,7 @@
       "correctAnswer": {
         "wordIndices": [3],
         "word": "تكليما",
-        "explanation": "تكليما ist das Maf'ul Mutlaq — ein Verbalsubstantiv (Masdar) vom selben Stamm wie das Verb كلم (k-l-m). Es verstaerkt und bekraeftigt die Aussage: Gott sprach zu Musa wirklich/tatsaechlich. Das Maf'ul Mutlaq steht im Akkusativ und teilt die Wurzel mit dem Verb."
+        "explanation": "تكليما ist das Maf'ul Mutlaq — ein Verbalsubstantiv (Masdar) vom selben Stamm wie das Verb كلم (k-l-m). Es verstärkt und bekräftigt die Aussage: Gott sprach zu Musa wirklich/tatsächlich. Das Maf'ul Mutlaq steht im Akkusativ und teilt die Wurzel mit dem Verb."
       },
       "difficulty": 1
     },
@@ -431,7 +435,7 @@
       "correctAnswer": {
         "wordIndices": [12],
         "word": "تسليما",
-        "explanation": "تسليما ist das Maf'ul Mutlaq zum Verb سلموا (gruesst). Beide teilen die Wurzel س-ل-م. Es bekraeftigt und verstaerkt die Handlung: gruesst ihn mit einem vollkommenen Gruss. Die Form تفعيل als Masdar des II. Stammes im Akkusativ."
+        "explanation": "تسليما ist das Maf'ul Mutlaq zum Verb سلموا (gruesst). Beide teilen die Wurzel س-ل-م. Es bekräftigt und verstärkt die Handlung: gruesst ihn mit einem vollkommenen Gruss. Die Form تفعيل als Masdar des II. Stammes im Akkusativ."
       },
       "difficulty": 1
     },
@@ -444,7 +448,7 @@
       "correctAnswer": {
         "wordIndices": [3],
         "word": "رجا",
-        "explanation": "رجا ist das Maf'ul Mutlaq zum Verb رجت (sie wurde erschuettert). Beide teilen die Wurzel ر-ج-ج. Es verstaerkt die Bedeutung: Die Erde wurde mit einer (gewaltigen) Erschuetterung erschuettert. Das Masdar im Akkusativ betont die Intensitaet des Geschehens."
+        "explanation": "رجا ist das Maf'ul Mutlaq zum Verb رجت (sie wurde erschuettert). Beide teilen die Wurzel ر-ج-ج. Es verstärkt die Bedeutung: Die Erde wurde mit einer (gewaltigen) Erschuetterung erschuettert. Das Masdar im Akkusativ betont die Intensität des Geschehens."
       },
       "difficulty": 1
     },
@@ -457,7 +461,7 @@
       "correctAnswer": {
         "wordIndices": [],
         "word": "Keines vorhanden",
-        "explanation": "Dieser Vers enthaelt kein Maf'ul Mutlaq. يوما ثقيلا (einen schweren Tag) ist ein Maf'ul bihi (direktes Objekt) von يذرون (sie lassen zurueck). Ein Maf'ul Mutlaq muesste ein Masdar vom selben Stamm wie das Verb sein — يوما teilt nicht die Wurzel mit يذرون."
+        "explanation": "Dieser Vers enthält kein Maf'ul Mutlaq. يوما ثقيلا (einen schweren Tag) ist ein Maf'ul bihi (direktes Objekt) von يذرون (sie lassen zurück). Ein Maf'ul Mutlaq müsste ein Masdar vom selben Stamm wie das Verb sein — يوما teilt nicht die Wurzel mit يذرون."
       },
       "difficulty": 2
     },
@@ -470,7 +474,7 @@
       "correctAnswer": {
         "wordIndices": [3],
         "word": "زلزالها",
-        "explanation": "زلزالها ist das Maf'ul Mutlaq zum Verb زلزلت (sie wurde erschuettert). Beide teilen die Wurzel ز-ل-ز-ل. Das angehaengte ها (ihr) bezieht sich auf الارض. Bedeutung: Wenn die Erde mit ihrer (eigenen) Erschuetterung erschuettert wird — das Possessivpronomen verstaerkt die Zugehoerigkeit."
+        "explanation": "زلزالها ist das Maf'ul Mutlaq zum Verb زلزلت (sie wurde erschuettert). Beide teilen die Wurzel ز-ل-ز-ل. Das angehängte ها (ihr) bezieht sich auf الارض. Bedeutung: Wenn die Erde mit ihrer (eigenen) Erschuetterung erschuettert wird — das Possessivpronomen verstärkt die Zugehörigkeit."
       },
       "difficulty": 2
     },
@@ -483,7 +487,7 @@
       "correctAnswer": {
         "wordIndices": [5, 6],
         "word": "الا ابليس",
-        "explanation": "الا ist der Ausnahmepartikel (اداه الاستثنا). ابليس ist das Mustathna (das Ausgenommene). Da der Satz vollstaendig und bejahend ist (استثنا تام موجب), steht das Mustathna im Akkusativ: Alle warfen sich nieder, ausser Iblis. ابى واستكبر erlaeutert sein Verhalten."
+        "explanation": "الا ist der Ausnahmepartikel (اداه الاستثنا). ابليس ist das Mustathna (das Ausgenommene). Da der Satz vollständig und bejahend ist (استثنا تام موجب), steht das Mustathna im Akkusativ: Alle warfen sich nieder, ausser Iblis. ابى واستكبر erläutert sein Verhalten."
       },
       "difficulty": 1
     },
@@ -496,7 +500,7 @@
       "correctAnswer": {
         "wordIndices": [3],
         "word": "قليلا",
-        "explanation": "الا ist der Ausnahmepartikel. قليلا (wenige) ist das Mustathna im Akkusativ (منصوب). Der Satz ist vollstaendig und bejahend (استثنا تام موجب): Sie tranken davon, ausser wenige von ihnen. منهم ist ein Praepositionalausdruck, der قليلا naeher bestimmt."
+        "explanation": "الا ist der Ausnahmepartikel. قليلا (wenige) ist das Mustathna im Akkusativ (منصوب). Der Satz ist vollständig und bejahend (استثنا تام موجب): Sie tranken davon, ausser wenige von ihnen. منهم ist ein Präpositionalausdruck, der قليلا näher bestimmt."
       },
       "difficulty": 1
     },
@@ -509,7 +513,7 @@
       "correctAnswer": {
         "wordIndices": [14],
         "word": "الا قليلا",
-        "explanation": "الا ist der Ausnahmepartikel. قليلا (wenige) ist das Mustathna im Akkusativ. Die Ausnahme bezieht sich auf ذريته (seine Nachkommen): Ich werde seine Nachkommen verfuehren, ausser wenige. Der Akkusativ ist die Standardform beim vollstaendigen, bejahenden Ausnahmesatz."
+        "explanation": "الا ist der Ausnahmepartikel. قليلا (wenige) ist das Mustathna im Akkusativ. Die Ausnahme bezieht sich auf ذريته (seine Nachkommen): Ich werde seine Nachkommen verfuehren, ausser wenige. Der Akkusativ ist die Standardform beim vollständigen, bejahenden Ausnahmesatz."
       },
       "difficulty": 2
     },
@@ -522,12 +526,12 @@
       "options": [
         "Akkusativ — weil es Mustathna nach bejahtem Satz ist",
         "Nominativ — weil der Satz verneint ist und قليل als Badal (Ersatz) dem Fa'il im Nominativ folgt",
-        "Genitiv — weil es nach einer Praeposition steht",
+        "Genitiv — weil es nach einer Präposition steht",
         "Akkusativ — weil es Hal (Zustandsangabe) ist"
       ],
       "correctAnswer": {
         "answer": 1,
-        "explanation": "قليل steht im Nominativ (مرفوع). Der Satz ist verneint (ما فعلوه — sie taeten es nicht). Bei verneintem, vollstaendigem Satz kann das Mustathna als Badal (Ersatz/Apposition) zum Subjekt stehen und dessen Kasus annehmen. Das Fa'il (verstecktes Pronomen in فعلوه) ist im Nominativ, also folgt قليل im Nominativ."
+        "explanation": "قليل steht im Nominativ (مرفوع). Der Satz ist verneint (ما فعلوه — sie taeten es nicht). Bei verneintem, vollständigem Satz kann das Mustathna als Badal (Ersatz/Apposition) zum Subjekt stehen und dessen Kasus annehmen. Das Fa'il (verstecktes Pronomen in فعلوه) ist im Nominativ, also folgt قليل im Nominativ."
       },
       "difficulty": 3
     },
@@ -540,7 +544,7 @@
       "correctAnswer": {
         "wordIndices": [1],
         "word": "من اتى الله بقلب سليم",
-        "explanation": "الا ist der Ausnahmepartikel. من (wer) ist das Mustathna — hier als Relativpronomen: ausser wer zu Gott mit reinem Herzen kommt. من leitet einen Relativsatz ein (اتى الله بقلب سليم). Der gesamte من-Satz ist das ausgenommene Element. Kasus haengt vom vorhergehenden Kontext ab."
+        "explanation": "الا ist der Ausnahmepartikel. من (wer) ist das Mustathna — hier als Relativpronomen: ausser wer zu Gott mit reinem Herzen kommt. من leitet einen Relativsatz ein (اتى الله بقلب سليم). Der gesamte من-Satz ist das ausgenommene Element. Kasus hängt vom vorhergehenden Kontext ab."
       },
       "difficulty": 2
     },
@@ -566,7 +570,7 @@
       "correctAnswer": {
         "wordIndices": [6],
         "word": "يقوم",
-        "explanation": "يقوم ist eine verkuerzte Form von يا قومى (O mein Volk!). يا ist der Anrufpartikel, قوم ist der Munada im Akkusativ als Mudaf (weil es durch das Possessiv-ى bestimmt wird). Das ى (mein) ist Mudaf ilayhi. Die Kurzform ist typisch fuer den Quran."
+        "explanation": "يقوم ist eine verkürzte Form von يا قومى (O mein Volk!). يا ist der Anrufpartikel, قوم ist der Munada im Akkusativ als Mudaf (weil es durch das Possessiv-ى bestimmt wird). Das ى (mein) ist Mudaf ilayhi. Die Kurzform ist typisch für den Quran."
       },
       "difficulty": 2
     },
@@ -592,7 +596,7 @@
       "correctAnswer": {
         "wordIndices": [],
         "word": "Kein Nida' vorhanden",
-        "explanation": "Dieser Vers enthaelt keinen Vokativ. اركبوا ist ein Imperativ (steigt ein!), aber es fehlt ein Anrufpartikel (يا). Der Befehl richtet sich an eine Gruppe, wird aber ohne Nida'-Konstruktion ausgesprochen. بسم الله ist eine Praepositionalphrase: Im Namen Gottes."
+        "explanation": "Dieser Vers enthält keinen Vokativ. اركبوا ist ein Imperativ (steigt ein!), aber es fehlt ein Anrufpartikel (يا). Der Befehl richtet sich an eine Gruppe, wird aber ohne Nida'-Konstruktion ausgesprochen. بسم الله ist eine Präpositionalphrase: Im Namen Gottes."
       },
       "difficulty": 2
     },
@@ -605,7 +609,7 @@
       "correctAnswer": {
         "wordIndices": [1],
         "word": "اللهم",
-        "explanation": "اللهم ist eine besondere Anrufform, die nur mit dem Wort الله vorkommt. Das angehaengte م ersetzt den Partikel يا — es bedeutet يا الله (O Gott!). Diese Form ist einzigartig in der arabischen Sprache. ملك الملك (Herrscher der Herrschaft) ist eine Apposition oder ein nachfolgendes Attribut."
+        "explanation": "اللهم ist eine besondere Anrufform, die nur mit dem Wort الله vorkommt. Das angehängte م ersetzt den Partikel يا — es bedeutet يا الله (O Gott!). Diese Form ist einzigartig in der arabischen Sprache. ملك الملك (Herrscher der Herrschaft) ist eine Apposition oder ein nachfolgendes Attribut."
       },
       "difficulty": 2
     },
@@ -614,11 +618,11 @@
       "type": "find_element",
       "category": "vocative",
       "verse": { "surah": 5, "ayah": 18, "text": "وقالت اليهود والنصرى نحن ابنو الله واحبوه قل فلم يعذبكم بذنوبكم بل انتم بشر ممن خلق" },
-      "question": "Enthaelt dieser Vers einen Vokativ?",
+      "question": "Enthält dieser Vers einen Vokativ?",
       "correctAnswer": {
         "wordIndices": [],
         "word": "Kein Nida' vorhanden",
-        "explanation": "Der Vers enthaelt keinen Vokativ. قل (sag!) ist ein Imperativ, der berichtete Rede einleitet, aber kein Nida'. Es fehlt ein Anrufpartikel (يا) und ein Munada. Die Form قل leitet eine indirekte Rede ein: Sag: Warum bestraft Er euch dann?"
+        "explanation": "Der Vers enthält keinen Vokativ. قل (sag!) ist ein Imperativ, der berichtete Rede einleitet, aber kein Nida'. Es fehlt ein Anrufpartikel (يا) und ein Munada. Die Form قل leitet eine indirekte Rede ein: Sag: Warum bestraft Er euch dann?"
       },
       "difficulty": 1
     },
@@ -642,9 +646,9 @@
       "verse": { "surah": 112, "ayah": 3, "text": "لم يلد ولم يولد" },
       "question": "Welcher Negationspartikel wird hier verwendet und welche Wirkung hat er auf das Verb?",
       "options": [
-        "لا — negiert Gegenwaertiges, Verb bleibt im Indikativ",
+        "لا — negiert Gegenwärtiges, Verb bleibt im Indikativ",
         "لم — negiert Vergangenes, Verb steht im Jussiv (Majzum)",
-        "ما — negiert Vergangenes, Verb bleibt unveraendert",
+        "ما — negiert Vergangenes, Verb bleibt unverändert",
         "لن — negiert Zukuenftiges, Verb steht im Subjunktiv"
       ],
       "correctAnswer": {
@@ -693,7 +697,7 @@
       "correctAnswer": {
         "wordIndices": [],
         "word": "Keine Negation vorhanden",
-        "explanation": "Dieser Vers enthaelt keine Negation. كل من عليها فان ist ein affirmativer Nominalsatz: Alles/jeder, der auf ihr (der Erde) ist, ist vergaenglich. كل ist Mubtada, من عليها ist Mudaf ilayhi (wer auf ihr ist), und فان ist Khabar."
+        "explanation": "Dieser Vers enthält keine Negation. كل من عليها فان ist ein affirmativer Nominalsatz: Alles/jeder, der auf ihr (der Erde) ist, ist vergänglich. كل ist Mubtada, من عليها ist Mudaf ilayhi (wer auf ihr ist), und فان ist Khabar."
       },
       "difficulty": 1
     },
@@ -702,7 +706,7 @@
       "type": "multiple_choice",
       "category": "negation",
       "verse": { "surah": 2, "ayah": 255, "text": "الله لا اله الا هو الحى القيوم لا تاخذه سنه ولا نوم" },
-      "question": "Wie viele Negationspartikel enthaelt dieser Versteil und welche Typen sind es?",
+      "question": "Wie viele Negationspartikel enthält dieser Versteil und welche Typen sind es?",
       "options": [
         "Einer: لا النافيه للجنس",
         "Zwei: beide لا النافيه للجنس",
@@ -720,11 +724,11 @@
       "type": "find_element",
       "category": "kana_sisters",
       "verse": { "surah": 2, "ayah": 34, "text": "واذ قلنا للملئكه اسجدوا لادم فسجدوا الا ابليس ابى واستكبر وكان من الكفرين" },
-      "question": "Finde كان und bestimme ihr Ism (Subjekt) und Khabar (Praedikat).",
+      "question": "Finde كان und bestimme ihr Ism (Subjekt) und Khabar (Prädikat).",
       "correctAnswer": {
         "wordIndices": [8],
         "word": "كان",
-        "explanation": "كان ist das Verb. Ihr Ism (Subjekt) ist ein verstecktes Pronomen (هو — er), das sich auf ابليس bezieht, im Nominativ. Ihr Khabar ist من الكفرين (von den Unglaeubigen) — ein Praepositionalausdruck. كان setzt das Ism in den Nominativ und das Khabar in den Akkusativ. Bei Praepositionalausdruecken als Khabar ist der Akkusativ nicht sichtbar."
+        "explanation": "كان ist das Verb. Ihr Ism (Subjekt) ist ein verstecktes Pronomen (هو — er), das sich auf ابليس bezieht, im Nominativ. Ihr Khabar ist من الكفرين (von den Unglaeubigen) — ein Präpositionalausdruck. كان setzt das Ism in den Nominativ und das Khabar in den Akkusativ. Bei Präpositionalausdruecken als Khabar ist der Akkusativ nicht sichtbar."
       },
       "difficulty": 1
     },
@@ -737,7 +741,7 @@
       "correctAnswer": {
         "wordIndices": [2, 3],
         "word": "محمد (Ism) / ابا (Khabar)",
-        "explanation": "محمد ist das Ism von كان im Nominativ (مرفوع). ابا احد (Vater irgendeines) ist das Khabar im Akkusativ — ابا ist die Akkusativform von اب (eines der fuenf besonderen Nomen). ما كان negiert: Muhammad war nicht der Vater irgendeines eurer Maenner."
+        "explanation": "محمد ist das Ism von كان im Nominativ (مرفوع). ابا احد (Vater irgendeines) ist das Khabar im Akkusativ — ابا ist die Akkusativform von اب (eines der fünf besonderen Nomen). ما كان negiert: Muhammad war nicht der Vater irgendeines eurer Männer."
       },
       "difficulty": 2
     },
@@ -750,7 +754,7 @@
       "correctAnswer": {
         "wordIndices": [2, 3],
         "word": "الله (Ism) / ليضيع (Khabar)",
-        "explanation": "الله ist das Ism von كان im Nominativ. Das Khabar ist ليضيع ايمنكم — die لام هنا هي لام الجحود (Verneinungslam), die nach ما كان steht und den Subjunktiv verlangt: Gott wuerde niemals euren Glauben verlieren lassen. Diese Konstruktion ist eine verstaerkte Negation."
+        "explanation": "الله ist das Ism von كان im Nominativ. Das Khabar ist ليضيع ايمنكم — die لام هنا هي لام الجحود (Verneinungslam), die nach ما كان steht und den Subjunktiv verlangt: Gott würde niemals euren Glauben verlieren lassen. Diese Konstruktion ist eine verstärkte Negation."
       },
       "difficulty": 3
     },
@@ -768,7 +772,7 @@
       ],
       "correctAnswer": {
         "answer": 0,
-        "explanation": "Das Ism von كنتم ist das angehaengte Pronomen تم (ihr) — es steht im Nominativ (Ism von كان). خير امه (die beste Gemeinschaft) ist das Khabar im Akkusativ: Ihr wart die beste Gemeinschaft. اخرجت للناس (die fuer die Menschen hervorgebracht wurde) ist ein Relativsatz zu امه."
+        "explanation": "Das Ism von كنتم ist das angehängte Pronomen تم (ihr) — es steht im Nominativ (Ism von كان). خير امه (die beste Gemeinschaft) ist das Khabar im Akkusativ: Ihr wart die beste Gemeinschaft. اخرجت للناس (die für die Menschen hervorgebracht wurde) ist ein Relativsatz zu امه."
       },
       "difficulty": 1
     },
@@ -777,11 +781,11 @@
       "type": "find_element",
       "category": "kana_sisters",
       "verse": { "surah": 2, "ayah": 256, "text": "لا اكراه فى الدين قد تبين الرشد من الغى فمن يكفر بالطغوت ويومن بالله فقد استمسك بالعروه الوثقى لا انفصام لها والله سميع عليم" },
-      "question": "Enthaelt dieser Vers eine Form von كان oder ihren Schwestern?",
+      "question": "Enthält dieser Vers eine Form von كان oder ihren Schwestern?",
       "correctAnswer": {
         "wordIndices": [],
         "word": "Keine كان oder Schwester vorhanden",
-        "explanation": "Dieser Vers enthaelt weder كان noch eine ihrer Schwestern (ليس، اصبح، اضحى، ظل، بات، صار، ما زال، ما فتئ، ما برح، ما انفك، ما دام). Die Saetze sind reine Nominal- und Verbalsaetze. والله سميع عليم ist ein Nominalsatz ohne kopulatives Verb."
+        "explanation": "Dieser Vers enthält weder كان noch eine ihrer Schwestern (ليس، اصبح، اضحى، ظل، بات، صار، ما زال، ما فتئ، ما برح، ما انفك، ما دام). Die Sätze sind reine Nominal- und Verbalsätze. والله سميع عليم ist ein Nominalsatz ohne kopulatives Verb."
       },
       "difficulty": 1
     },
@@ -820,7 +824,7 @@
       "correctAnswer": {
         "wordIndices": [1, 2, 3],
         "word": "الانسن (Ism) / لفى خسر (Khabar)",
-        "explanation": "ان ist der Bekraeftigungspartikel. الانسن (der Mensch) ist das Ism von ان im Akkusativ. فى خسر (in Verlust) ist das Khabar — ein Praepositionalausdruck. Das لَ vor فى ist لام المزحلقه (die verschobene Lam) — ein zusaetzliches Bekraeftigungselement, das bei ان ins Khabar verschoben wird."
+        "explanation": "ان ist der Bekräftigungspartikel. الانسن (der Mensch) ist das Ism von ان im Akkusativ. فى خسر (in Verlust) ist das Khabar — ein Präpositionalausdruck. Das لَ vor فى ist لام المزحلقه (die verschobene Lam) — ein zusätzliches Bekräftigungselement, das bei ان ins Khabar verschoben wird."
       },
       "difficulty": 2
     },
@@ -833,7 +837,7 @@
       "correctAnswer": {
         "wordIndices": [5, 6],
         "word": "نا (Ism) / لله (Khabar)",
-        "explanation": "ان ist der Bekraeftigungspartikel. Das angehaengte نا (wir) ist das Ism von ان im Akkusativ. لله (gehoeren Gott) ist das Khabar — ein Praepositionalausdruck. Bedeutung: Wir gehoeren wahrlich Gott. Ebenso in وانا اليه رجعون: نا ist Ism, رجعون ist Khabar (zu Ihm Zurueckkehrende)."
+        "explanation": "ان ist der Bekräftigungspartikel. Das angehängte نا (wir) ist das Ism von ان im Akkusativ. لله (gehören Gott) ist das Khabar — ein Präpositionalausdruck. Bedeutung: Wir gehören wahrlich Gott. Ebenso in وانا اليه رجعون: نا ist Ism, رجعون ist Khabar (zu Ihm Zurückkehrende)."
       },
       "difficulty": 2
     },
@@ -844,14 +848,14 @@
       "verse": { "surah": 4, "ayah": 11, "text": "ولابويه لكل وحد منهما السدس" },
       "question": "Welche der folgenden Aussagen trifft auf diesen Versteil zu?",
       "options": [
-        "Es enthaelt ان oder eine ihrer Schwestern",
+        "Es enthält ان oder eine ihrer Schwestern",
         "Es ist ein reiner Nominalsatz ohne ان-Schwestern",
         "لكل ist eine Form von لكن",
         "السدس ist Ism von ان"
       ],
       "correctAnswer": {
         "answer": 1,
-        "explanation": "Dieser Versteil enthaelt keine ان-Schwester. ولابويه ist ein Praepositionalausdruck (und fuer seine Eltern). لكل وحد منهما السدس ist ein Nominalsatz: Fuer jeden Einzelnen von beiden ist das Sechstel. السدس ist Mubtada (verzoegert), لكل وحد منهما ist vorangestelltes Khabar."
+        "explanation": "Dieser Versteil enthält keine ان-Schwester. ولابويه ist ein Präpositionalausdruck (und für seine Eltern). لكل وحد منهما السدس ist ein Nominalsatz: Für jeden Einzelnen von beiden ist das Sechstel. السدس ist Mubtada (verzoegert), لكل وحد منهما ist vorangestelltes Khabar."
       },
       "difficulty": 2
     },
@@ -864,7 +868,7 @@
       "correctAnswer": {
         "wordIndices": [1, 9],
         "word": "الذين امنوا... (Ism) / فلهم اجرهم (Khabar)",
-        "explanation": "ان ist der Bekraeftigungspartikel. Das Ism ist die gesamte Aufzaehlung: الذين امنوا والذين هادوا والنصرى والصبين. Das Khabar ist فلهم اجرهم عند ربهم (ihnen gebuehrt ihr Lohn bei ihrem Herrn). من امن بالله... ist ein Bedingungssatz, der die Aufzaehlung naeher bestimmt."
+        "explanation": "ان ist der Bekräftigungspartikel. Das Ism ist die gesamte Aufzählung: الذين امنوا والذين هادوا والنصرى والصبين. Das Khabar ist فلهم اجرهم عند ربهم (ihnen gebuehrt ihr Lohn bei ihrem Herrn). من امن بالله... ist ein Bedingungssatz, der die Aufzählung näher bestimmt."
       },
       "difficulty": 3
     },
@@ -877,7 +881,7 @@
       "correctAnswer": {
         "wordIndices": [1, 3],
         "word": "اكرمكم (Ism) / اتقىكم (Khabar)",
-        "explanation": "ان ist der Bekraeftigungspartikel. اكرمكم (der Edelste von euch) ist das Ism im Akkusativ. اتقىكم (der Achtsamste von euch) ist das Khabar im Nominativ. عند الله (bei Gott) ist ein Zarf (adverbiale Bestimmung). Bedeutung: Der Edelste von euch bei Gott ist der Achtsamste von euch."
+        "explanation": "ان ist der Bekräftigungspartikel. اكرمكم (der Edelste von euch) ist das Ism im Akkusativ. اتقىكم (der Achtsamste von euch) ist das Khabar im Nominativ. عند الله (bei Gott) ist ein Zarf (adverbiale Bestimmung). Bedeutung: Der Edelste von euch bei Gott ist der Achtsamste von euch."
       },
       "difficulty": 2
     },
@@ -886,11 +890,11 @@
       "type": "find_element",
       "category": "passive",
       "verse": { "surah": 2, "ayah": 23, "text": "وان كنتم فى ريب مما نزلنا على عبدنا فاتوا بسوره من مثله" },
-      "question": "Ist نزلنا aktiv oder passiv? Was waere die passive Form?",
+      "question": "Ist نزلنا aktiv oder passiv? Was wäre die passive Form?",
       "correctAnswer": {
         "wordIndices": [4],
         "word": "نزلنا",
-        "explanation": "نزلنا (Wir sandten herab) ist aktiv — das Fa'il ist das Pronomen نا (Wir). Die passive Form waere نُزِّلَ (es wurde herabgesandt), wobei das Fa'il wegfaellt und das Maf'ul bihi zum Na'ib al-Fa'il (Stellvertreter des Subjekts) wird. In 2:23 wird bewusst die aktive Form gewaehlt, um den Handelnden zu benennen."
+        "explanation": "نزلنا (Wir sandten herab) ist aktiv — das Fa'il ist das Pronomen نا (Wir). Die passive Form wäre أُنزِلَ (es wurde herabgesandt — Form IV Passiv), wobei das Fa'il wegfaellt und das Maf'ul bihi zum Na'ib al-Fa'il (Stellvertreter des Subjekts) wird. In 2:23 wird bewusst die aktive Form gewählt, um den Handelnden zu benennen."
       },
       "difficulty": 1
     },
@@ -903,7 +907,7 @@
       "correctAnswer": {
         "wordIndices": [3],
         "word": "اخرجت",
-        "explanation": "اخرجت (sie wurde hervorgebracht) ist eine passive Verbform (مبنى للمجهول). Das Na'ib al-Fa'il (Stellvertreter des Subjekts) ist ein verstecktes Pronomen (هى), das sich auf امه (Gemeinschaft) bezieht. للناس (fuer die Menschen) gibt den Zweck an. Der urspruengliche Handelnde wird nicht genannt."
+        "explanation": "اخرجت (sie wurde hervorgebracht) ist eine passive Verbform (مبنى للمجهول). Das Na'ib al-Fa'il (Stellvertreter des Subjekts) ist ein verstecktes Pronomen (هى), das sich auf امه (Gemeinschaft) bezieht. للناس (für die Menschen) gibt den Zweck an. Der urspruengliche Handelnde wird nicht genannt."
       },
       "difficulty": 2
     },
@@ -916,7 +920,7 @@
       "correctAnswer": {
         "wordIndices": [2],
         "word": "كورت",
-        "explanation": "كورت (sie wurde zusammengewickelt/verdunkelt) ist ein Passiv (مبنى للمجهول). Das Na'ib al-Fa'il ist الشمس (die Sonne) — sie steht im Nominativ, obwohl sie vorangestellt ist. Der Handelnde wird bewusst nicht erwaehnt. Die passive Form verstaerkt das kosmische Geschehen."
+        "explanation": "كورت (sie wurde zusammengewickelt/verdunkelt) ist ein Passiv (مبنى للمجهول). Das Na'ib al-Fa'il ist الشمس (die Sonne) — sie steht im Nominativ, obwohl sie vorangestellt ist. Der Handelnde wird bewusst nicht erwähnt. Die passive Form verstärkt das kosmische Geschehen."
       },
       "difficulty": 2
     },
@@ -929,7 +933,7 @@
       "correctAnswer": {
         "wordIndices": [2],
         "word": "فجرت",
-        "explanation": "فجرت (sie wurden zum Ueberfluten gebracht / sie wurden gesprengt) ist Passiv (مبنى للمجهول). البحار (die Meere) ist der Na'ib al-Fa'il im Nominativ. Der Vers beschreibt endzeitliche Ereignisse in passiver Form — der Handelnde (Gott) wird nicht ausdruecklich genannt."
+        "explanation": "فجرت (sie wurden zum Überfluten gebracht / sie wurden gesprengt) ist Passiv (مبنى للمجهول). البحار (die Meere) ist der Na'ib al-Fa'il im Nominativ. Der Vers beschreibt endzeitliche Ereignisse in passiver Form — der Handelnde (Gott) wird nicht ausdrücklich genannt."
       },
       "difficulty": 2
     },
@@ -947,7 +951,7 @@
       ],
       "correctAnswer": {
         "answer": 0,
-        "explanation": "Im Kontext der Sure ist خلق aktiv: Er (der intensiv-Barmherzige, الرحمن aus 55:1) erschuf den Menschen. الانسن ist das Maf'ul bihi (Objekt). Das Fa'il ist ein verstecktes Pronomen (هو), das auf الرحمن zurueckverweist. Die Sure listet Taten des intensiv-Barmherzigen auf: Er lehrte den Quran, erschuf den Menschen..."
+        "explanation": "Im Kontext der Sure ist خلق aktiv: Er (der intensiv-Barmherzige, الرحمن aus 55:1) erschuf den Menschen. الانسن ist das Maf'ul bihi (Objekt). Das Fa'il ist ein verstecktes Pronomen (هو), das auf الرحمن zurückverweist. Die Sure listet Taten des intensiv-Barmherzigen auf: Er lehrte den Quran, erschuf den Menschen..."
       },
       "difficulty": 2
     },
@@ -971,7 +975,7 @@
       "verse": { "surah": 12, "ayah": 2, "text": "انا انزلنه قرنا عربيا لعلكم تعقلون" },
       "question": "In welchem Modus steht تعقلون?",
       "options": [
-        "Indikativ (Marfu') — weil kein Partikel den Modus aendert",
+        "Indikativ (Marfu') — weil kein Partikel den Modus ändert",
         "Subjunktiv (Mansub) — weil لعل den Subjunktiv verlangt",
         "Jussiv (Majzum) — weil es nach لم steht",
         "Imperativ — weil es ein Befehl ist"
@@ -1014,7 +1018,7 @@
       ],
       "correctAnswer": {
         "answer": 1,
-        "explanation": "Nach لن steht das Verb im Subjunktiv (منصوب). Das Zeichen ist der Wegfall des ن bei den fuenf Sonderformen (الافعال الخمسه): تفعلوا statt تفعلون. لن negiert die Zukunft und verlangt den Subjunktiv. Im Vergleich: لم verlangt den Jussiv — zufaellig sehen beide Formen hier gleich aus (تفعلوا), weil bei den Afal al-Khamsa sowohl Jussiv als auch Subjunktiv durch Wegfall des ن markiert werden."
+        "explanation": "Nach لن steht das Verb im Subjunktiv (منصوب). Das Zeichen ist der Wegfall des ن bei den fünf Sonderformen (الافعال الخمسه): تفعلوا statt تفعلون. لن negiert die Zukunft und verlangt den Subjunktiv. Im Vergleich: لم verlangt den Jussiv — zufällig sehen beide Formen hier gleich aus (تفعلوا), weil bei den Afal al-Khamsa sowohl Jussiv als auch Subjunktiv durch Wegfall des ن markiert werden."
       },
       "difficulty": 3
     },
@@ -1032,7 +1036,7 @@
       ],
       "correctAnswer": {
         "answer": 2,
-        "explanation": "يحببكم steht im Jussiv (مجزوم) — erkennbar am Sukun auf dem letzten Radikal (يحببْ). Es ist ein Jawab al-Talab (Antwort auf eine Aufforderung): Folgt mir (Imperativ), dann wird Gott euch lieben (Konsequenz im Jussiv). Der Jussiv nach einem Imperativ drueckt aus: Wenn ihr das tut, geschieht das."
+        "explanation": "يحببكم steht im Jussiv (مجزوم) — erkennbar am Sukun auf dem letzten Radikal (يحببْ). Es ist ein Jawab al-Talab (Antwort auf eine Aufforderung): Folgt mir (Imperativ), dann wird Gott euch lieben (Konsequenz im Jussiv). Der Jussiv nach einem Imperativ drückt aus: Wenn ihr das tut, geschieht das."
       },
       "difficulty": 3
     },
@@ -1050,7 +1054,7 @@
       ],
       "correctAnswer": {
         "answer": 2,
-        "explanation": "اهدنا ist ein Imperativ (فعل امر) vom Verb هدى: Leite uns! Das Hamza am Anfang ist ein Verbindungshamza (همزه وصل). نا ist das angehaengte Objektpronomen (uns). Der Imperativ drueckt eine Bitte an Gott aus. الصرط المستقيم (den geraden Weg) ist das Maf'ul bihi."
+        "explanation": "اهدنا ist ein Imperativ (فعل امر) vom Verb هدى: Leite uns! Das Hamza am Anfang ist ein Verbindungshamza (همزه وصل). نا ist das angehängte Objektpronomen (uns). Der Imperativ drückt eine Bitte an Gott aus. الصرط المستقيم (den geraden Weg) ist das Maf'ul bihi."
       },
       "difficulty": 1
     },
@@ -1063,7 +1067,7 @@
       "correctAnswer": {
         "wordIndices": [5],
         "word": "يقول",
-        "explanation": "يقول steht im Subjunktiv (منصوب) wegen ان المصدريه (das quellbildende An). ان يقول bildet einen Masdar-Ausdruck (dass er sagt / sein Sagen). Erkennbar: يقول statt يقولُ — das Damma faellt weg und wird durch Fatha ersetzt. Der Masdar-Ausdruck ist Khabar von ان (انما امره... ان يقول)."
+        "explanation": "يقول steht im Subjunktiv (منصوب) wegen ان المصدريه (das quellbildende An). ان يقول bildet einen Masdar-Ausdruck (dass er sagt / sein Sagen). Erkennbar: يقول statt يقولُ — das Damma fällt weg und wird durch Fatha ersetzt. Der Masdar-Ausdruck ist Khabar von ان (انما امره... ان يقول)."
       },
       "difficulty": 3
     },
@@ -1085,7 +1089,7 @@
       "type": "find_element",
       "category": "coordination",
       "verse": { "surah": 6, "ayah": 1, "text": "الحمد لله الذى خلق السموت والارض وجعل الظلمت والنور" },
-      "question": "Identifiziere die koordinierten Nomen und pruefe ihre Kasuskongruenz.",
+      "question": "Identifiziere die koordinierten Nomen und prüfe ihre Kasuskongruenz.",
       "correctAnswer": {
         "wordIndices": [3, 4, 6, 7],
         "word": "السموت والارض / الظلمت والنور",
@@ -1116,11 +1120,11 @@
       "type": "find_element",
       "category": "coordination",
       "verse": { "surah": 2, "ayah": 177, "text": "ولكن البر من امن بالله واليوم الاخر والملئكه والكتب والنبيين" },
-      "question": "Identifiziere die koordinierte Aufzaehlung und ihren gemeinsamen Kasus.",
+      "question": "Identifiziere die koordinierte Aufzählung und ihren gemeinsamen Kasus.",
       "correctAnswer": {
         "wordIndices": [4, 5, 6, 7, 8],
         "word": "الله / اليوم الاخر / الملئكه / الكتب / النبيين",
-        "explanation": "Fuenf Nomen sind durch و koordiniert, alle im Genitiv (مجرور) wegen der Praeposition بِ in بالله. Die Praeposition wirkt ueber die Koordination auf alle folgenden Elemente: an Gott UND den Juengsten Tag UND die Engel UND die Buecher UND die Propheten. Das بِ steht nur einmal, gilt aber fuer alle."
+        "explanation": "Fünf Nomen sind durch و koordiniert, alle im Genitiv (مجرور) wegen der Präposition بِ in بالله. Die Präposition wirkt über die Koordination auf alle folgenden Elemente: an Gott UND den Juengsten Tag UND die Engel UND die Bücher UND die Propheten. Das بِ steht nur einmal, gilt aber für alle."
       },
       "difficulty": 2
     },
@@ -1133,7 +1137,7 @@
       "correctAnswer": {
         "wordIndices": [1, 2, 3],
         "word": "فكهه / نخل / رمان",
-        "explanation": "فكهه (Fruechte), نخل (Dattelpalmen) und رمان (Granatapfel) sind durch و koordiniert. Alle stehen im Nominativ (مرفوع) als Mubtada — oder im Nominativ als Fa'il eines impliziten Existenzverbs: In beiden (Gaerten) gibt es Fruechte, Dattelpalmen und Granatapfel. فيهما ist vorangestelltes Khabar."
+        "explanation": "فكهه (Früchte), نخل (Dattelpalmen) und رمان (Granatapfel) sind durch و koordiniert. Alle stehen im Nominativ (مرفوع) als Mubtada — oder im Nominativ als Fa'il eines impliziten Existenzverbs: In beiden (Gärten) gibt es Früchte, Dattelpalmen und Granatapfel. فيهما ist vorangestelltes Khabar."
       },
       "difficulty": 1
     },
@@ -1146,7 +1150,7 @@
       "correctAnswer": {
         "wordIndices": [7, 8, 9, 10, 11],
         "word": "ابرهيم / اسمعيل / اسحق / يعقوب / الاسباط",
-        "explanation": "Fuenf Eigennamen sind durch و koordiniert, alle im Genitiv (مجرور) wegen الى (zu). Die Praeposition الى wirkt auf alle koordinierten Elemente: was herabgesandt wurde zu Abraham UND Ismael UND Isaak UND Jakob UND den Staemmen. Das ist eine typische Quran-Aufzaehlung der Propheten."
+        "explanation": "Fünf Eigennamen sind durch و koordiniert, alle im Genitiv (مجرور) wegen الى (zu). Die Präposition الى wirkt auf alle koordinierten Elemente: was herabgesandt wurde zu Abraham UND Ismael UND Isaak UND Jakob UND den Stämmen. Das ist eine typische Quran-Aufzählung der Propheten."
       },
       "difficulty": 2
     },
@@ -1159,7 +1163,7 @@
       "correctAnswer": {
         "wordIndices": [1],
         "word": "يوم",
-        "explanation": "Hier ist يوم kein Zarf, sondern Mudaf ilayhi (zweites Glied einer Idafa-Kette): مالك يوم الدين = Herrscher des Tages der Abrechnung. يوم steht im Genitiv wegen der Idafa. Als Zarf wuerde يوم im Akkusativ stehen und eine Zeitangabe liefern (z.B. يوما = an einem Tag)."
+        "explanation": "Hier ist يوم kein Zarf, sondern Mudaf ilayhi (zweites Glied einer Idafa-Kette): مالك يوم الدين = Herrscher des Tages der Abrechnung. يوم steht im Genitiv wegen der Idafa. Als Zarf würde يوم im Akkusativ stehen und eine Zeitangabe liefern (z.B. يوما = an einem Tag)."
       },
       "difficulty": 2
     },
@@ -1207,11 +1211,11 @@
       "type": "find_element",
       "category": "zarf",
       "verse": { "surah": 2, "ayah": 115, "text": "ولله المشرق والمغرب فاينما تولوا فثم وجه الله" },
-      "question": "Identifiziere die Zarfs (adverbialen Ausdruecke) in diesem Vers.",
+      "question": "Identifiziere die Zarfs (adverbialen Ausdrücke) in diesem Vers.",
       "correctAnswer": {
         "wordIndices": [4, 6],
         "word": "اينما / ثم",
-        "explanation": "اينما (wohin auch immer) ist ein Zarf Makan fuer Bedingung — es verbindet Ort und Bedingung: Wohin immer ihr euch wendet. ثم (dort) ist ein Zarf Makan, der den Ort angibt: dort ist Gottes Angesicht. Beide sind Ortsadverbiale im Akkusativ. فَ leitet jeweils die Konsequenz ein."
+        "explanation": "اينما (wohin auch immer) ist ein Zarf Makan für Bedingung — es verbindet Ort und Bedingung: Wohin immer ihr euch wendet. ثم (dort) ist ein Zarf Makan, der den Ort angibt: dort ist Gottes Angesicht. Beide sind Ortsadverbiale im Akkusativ. فَ leitet jeweils die Konsequenz ein."
       },
       "difficulty": 2
     },
@@ -1224,7 +1228,7 @@
       "correctAnswer": {
         "wordIndices": [2, 4, 6],
         "word": "يوم ولدت / يوم اموت / يوم ابعث",
-        "explanation": "Drei يوم-Ausdruecke als Zarfs der Zeit (ظرف زمان): (1) يوم ولدت (am Tag, als ich geboren wurde), (2) يوم اموت (am Tag, an dem ich sterbe), (3) يوم ابعث (am Tag, an dem ich auferweckt werde). Alle drei stehen im Akkusativ als Zarf nach der Praeposition على. Jeder يوم ist Mudaf, der folgende Satz ist Mudaf ilayhi."
+        "explanation": "Drei يوم-Ausdrücke als Zarfs der Zeit (ظرف زمان): (1) يوم ولدت (am Tag, als ich geboren wurde), (2) يوم اموت (am Tag, an dem ich sterbe), (3) يوم ابعث (am Tag, an dem ich auferweckt werde). Alle drei stehen im Akkusativ als Zarf nach der Präposition على. Jeder يوم ist Mudaf, der folgende Satz ist Mudaf ilayhi."
       },
       "difficulty": 2
     },
@@ -1237,7 +1241,7 @@
       "correctAnswer": {
         "wordIndices": [],
         "word": "Kein Bedingungssatz",
-        "explanation": "Dieser Vers enthaelt keinen Bedingungssatz mit ان, اذا, لو oder من. اوفوا...اوف ist kein klassischer Bedingungssatz, sondern ein Imperativ mit einer Konsequenz im Jussiv (sog. Jawab al-Talab): Haltet meinen Bund ein, dann halte ich euren ein. Es ist syntaktisch ein Aufforderungssatz mit Konsequenz."
+        "explanation": "Dieser Vers enthält keinen Bedingungssatz mit ان, اذا, لو oder من. اوفوا...اوف ist kein klassischer Bedingungssatz, sondern ein Imperativ mit einer Konsequenz im Jussiv (sog. Jawab al-Talab): Haltet meinen Bund ein, dann halte ich euren ein. Es ist syntaktisch ein Aufforderungssatz mit Konsequenz."
       },
       "difficulty": 2
     },
@@ -1250,7 +1254,7 @@
       "correctAnswer": {
         "wordIndices": [5, 6, 7, 8],
         "word": "لا تظلمون ولا تظلمون",
-        "explanation": "لا تظلمون ولا تظلمون (ihr tut kein Unrecht und euch wird kein Unrecht getan) ist ein Hal-Satz (جمله حاليه). Er beschreibt den Zustand, unter dem die Rueckgabe des Kapitals geschieht: Euch steht euer Kapital zu — in welchem Zustand? — ohne dass ihr Unrecht tut oder euch Unrecht geschieht."
+        "explanation": "لا تظلمون ولا تظلمون (ihr tut kein Unrecht und euch wird kein Unrecht getan) ist ein Hal-Satz (جمله حاليه). Er beschreibt den Zustand, unter dem die Rückgabe des Kapitals geschieht: Euch steht euer Kapital zu — in welchem Zustand? — ohne dass ihr Unrecht tut oder euch Unrecht geschieht."
       },
       "difficulty": 3
     },
@@ -1259,7 +1263,7 @@
       "type": "multiple_choice",
       "category": "tamyiz",
       "verse": { "surah": 2, "ayah": 217, "text": "قل قتال فيه كبير" },
-      "question": "Enthaelt dieser Versteil ein Tamyiz?",
+      "question": "Enthält dieser Versteil ein Tamyiz?",
       "options": [
         "Ja — كبير ist Tamyiz",
         "Ja — قتال ist Tamyiz",
@@ -1268,7 +1272,7 @@
       ],
       "correctAnswer": {
         "answer": 3,
-        "explanation": "Es gibt kein Tamyiz in diesem Versteil. قتال (Kaempfen) ist Mubtada, فيه (darin) ist vorangestelltes Khabar oder متعلق بالخبر, und كبير (gross/schwerwiegend) ist Khabar (oder zweites Khabar). Tamyiz wuerde im Akkusativ stehen und eine Mehrdeutigkeit aufloesen — diese Funktion erfuellt hier keines der Woerter."
+        "explanation": "Es gibt kein Tamyiz in diesem Versteil. قتال (Kämpfen) ist Mubtada, فيه (darin) ist vorangestelltes Khabar oder متعلق بالخبر, und كبير (gross/schwerwiegend) ist Khabar (oder zweites Khabar). Tamyiz würde im Akkusativ stehen und eine Mehrdeutigkeit auflösen — diese Funktion erfüllt hier keines der Wörter."
       },
       "difficulty": 2
     },
@@ -1280,13 +1284,13 @@
       "question": "Wie analysierst du انما الهكم الله syntaktisch?",
       "options": [
         "ان + ما — Ism ist الهكم, Khabar ist الله",
-        "انما ist ein einschraenkender Partikel, der Satz ist ein Nominalsatz: الهكم (Mubtada) الله (Khabar)",
+        "انما ist ein einschränkender Partikel, der Satz ist ein Nominalsatz: الهكم (Mubtada) الله (Khabar)",
         "انما ist ein Verb, الهكم ist Fa'il",
         "الله ist Ism von ان, الهكم ist Khabar"
       ],
       "correctAnswer": {
         "answer": 1,
-        "explanation": "انما ist eine Kombination aus ان + ما الكافه (hemmendes Ma). Das ما hebt die grammatische Wirkung von ان auf — daher folgt kein Akkusativ-Ism. Der Satz wird als normaler Nominalsatz analysiert: الهكم (euer Gott) ist Mubtada, الله ist Khabar. انما fuegt die Bedeutung der Einschraenkung hinzu: Euer Gott ist einzig und allein Gott."
+        "explanation": "انما ist eine Kombination aus ان + ما الكافه (hemmendes Ma). Das ما hebt die grammatische Wirkung von ان auf — daher folgt kein Akkusativ-Ism. Der Satz wird als normaler Nominalsatz analysiert: الهكم (euer Gott) ist Mubtada, الله ist Khabar. انما fuegt die Bedeutung der Einschränkung hinzu: Euer Gott ist einzig und allein Gott."
       },
       "difficulty": 3
     }

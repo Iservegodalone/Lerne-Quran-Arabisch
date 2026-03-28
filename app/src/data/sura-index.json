@@ -1,7 +1,10 @@
 {
   "meta": {
     "description": "Surah index with word counts and root statistics",
-    "totalSurahs": 114
+    "totalSurahs": 114,
+    "sources": [
+      { "name": "Quranic Arabic Corpus", "url": "https://corpus.quran.com/" }
+    ]
   },
   "surahs": [
     {

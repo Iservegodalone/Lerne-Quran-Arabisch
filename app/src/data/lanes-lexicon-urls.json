@@ -8,21 +8,21 @@
     "name": "Lane's Lexicon via Arabic Almanac (ejtaal.net)",
     "baseUrl": "https://ejtaal.net/aa/",
     "urlTemplate": "https://ejtaal.net/aa/#ll={transliteratedRoot}",
-    "description": "Lane's Arabic-English Lexicon (Edward William Lane, 1863-1893) — das umfassendste klassisch-arabische Woerterbuch in englischer Sprache. Vollstaendig digitalisiert als Seitenscans (~3040 Seiten), durchsuchbar nach Wurzelkonsonanten ueber Arabic Almanac auf ejtaal.net.",
+    "description": "Lane's Arabic-English Lexicon (Edward William Lane, 1863-1893) — das umfassendste klassisch-arabische Wörterbuch in englischer Sprache. Vollständig digitalisiert als Seitenscans (~3040 Seiten), durchsuchbar nach Wurzelkonsonanten über Arabic Almanac auf ejtaal.net.",
     "howToUse": {
       "step1": "Bestimme die Wurzel des arabischen Wortes (meist 3 Konsonanten)",
       "step2": "Transliteriere die Wurzel nach Buckwalter-Schema (z.B. ك-ت-ب -> ktb)",
-      "step3": "Oeffne https://ejtaal.net/aa/#ll={transliteratedRoot} — die Lane's-Seite wird direkt angezeigt"
+      "step3": "Öffne https://ejtaal.net/aa/#ll={transliteratedRoot} — die Lane's-Seite wird direkt angezeigt"
     },
     "searchUrl": "https://ejtaal.net/aa/#ll={transliteratedRoot}",
-    "notes": "Der #ll= Parameter in der URL waehlt Lane's Lexicon innerhalb von Arabic Almanac aus. Weitere Woerterbuecher (Hans Wehr, Steingass, Hava) sind parallel verfuegbar."
+    "notes": "Der #ll= Parameter in der URL wählt Lane's Lexicon innerhalb von Arabic Almanac aus. Weitere Wörterbuecher (Hans Wehr, Steingass, Hava) sind parallel verfügbar."
   },
   "alternativeSources": [
     {
       "id": "studyquran_lane",
       "name": "StudyQuran.org – Lane's Lexicon (Volume Scans)",
       "baseUrl": "https://studyquran.org/LaneLexicon/",
-      "description": "Digitalisierte Baende von Lane's Lexicon als Seitenscans. Kein Wurzel-Suchsystem — manuelles Blaettern nach Band erforderlich.",
+      "description": "Digitalisierte Baende von Lane's Lexicon als Seitenscans. Kein Wurzel-Suchsystem — manuelles Blättern nach Band erforderlich.",
       "urlTemplate": "https://studyquran.org/LaneLexicon/Volume{volume}/",
       "volumeStructure": {
         "note": "Lane's Lexicon hat 8 Baende, geordnet nach dem arabischen Alphabet",
@@ -110,17 +110,17 @@
         ]
       },
       "status": "online",
-      "notes": "Fallback fuer manuelle Recherche wenn ejtaal.net nicht erreichbar ist."
+      "notes": "Fallback für manuelle Recherche wenn ejtaal.net nicht erreichbar ist."
     },
     {
       "id": "corpus_quran",
       "name": "Quranic Arabic Corpus (NICHT Lane's Lexicon)",
       "baseUrl": "https://corpus.quran.com",
-      "description": "Morphologische und syntaktische Analyse jedes Quranwortes. ACHTUNG: Das 'Quran Dictionary' auf corpus.quran.com ist ein eigenstaendiges Quran-Woerterbuch, NICHT Lane's Lexicon. Es ist nuetzlich fuer Morphologie, aber kein Ersatz fuer Lane.",
+      "description": "Morphologische und syntaktische Analyse jedes Quranwortes. ACHTUNG: Das 'Quran Dictionary' auf corpus.quran.com ist ein eigenständiges Quran-Wörterbuch, NICHT Lane's Lexicon. Es ist nuetzlich für Morphologie, aber kein Ersatz für Lane.",
       "wordAnalysisUrl": "https://corpus.quran.com/wordmorphology.jsp?location=({surah}:{ayah}:{word})",
       "rootSearchUrl": "https://corpus.quran.com/qurandictionary.jsp?q={root}",
       "features": [
-        "Wort-fuer-Wort-Analyse mit Morphologie",
+        "Wort-für-Wort-Analyse mit Morphologie",
         "Syntaxdiagramme (i'rab)",
         "Wurzelwoerterbuch mit allen Quranvorkommen"
       ],
@@ -128,15 +128,15 @@
         "wordAnalysis": "https://corpus.quran.com/wordmorphology.jsp?location=(2:2:1)",
         "rootSearch": "https://corpus.quran.com/qurandictionary.jsp?q=ktb"
       },
-      "notes": "Nuetzlich als Ergaenzung zu Lane's, aber NICHT Lane's Lexicon selbst."
+      "notes": "Nuetzlich als Ergänzung zu Lane's, aber NICHT Lane's Lexicon selbst."
     },
     {
       "id": "hans_wehr",
-      "name": "Hans Wehr Woerterbuch (via ejtaal.net)",
-      "description": "Das Standardwoerterbuch Arabisch-Deutsch/Englisch fuer modernes Hocharabisch, ebenfalls auf ejtaal.net verfuegbar.",
-      "germanNote": "Das deutsche Original (Arabisches Woerterbuch fuer die Schriftsprache der Gegenwart) ist umfassender als die englische Uebersetzung.",
-      "onlineAccess": "Ueber ejtaal.net/aa/ parallel zu Lane's anzeigbar",
-      "notes": "Fuer quranisches Arabisch sollte Hans Wehr mit Lane's Lexicon ergaenzt werden, da Wehr sich auf modernes Hocharabisch konzentriert."
+      "name": "Hans Wehr Wörterbuch (via ejtaal.net)",
+      "description": "Das Standardwoerterbuch Arabisch-Deutsch/Englisch für modernes Hocharabisch, ebenfalls auf ejtaal.net verfügbar.",
+      "germanNote": "Das deutsche Original (Arabisches Wörterbuch für die Schriftsprache der Gegenwart) ist umfassender als die englische Übersetzung.",
+      "onlineAccess": "Über ejtaal.net/aa/ parallel zu Lane's anzeigbar",
+      "notes": "Für quranisches Arabisch sollte Hans Wehr mit Lane's Lexicon ergänzt werden, da Wehr sich auf modernes Hocharabisch konzentriert."
     }
   ],
   "deadSources": {
@@ -276,7 +276,7 @@
   },
   "frequentRootsWithLaneReferences": {
     "description": "Alle 1642 Wurzeln im Quran mit Direktlinks zu Lane's Lexicon (ejtaal.net) und Corpus Quran Dictionary",
-    "generatedFrom": "quran-morphology-db.json (automatisch extrahiert, sortiert nach Haeufigkeit)",
+    "generatedFrom": "quran-morphology-db.json (automatisch extrahiert, sortiert nach Häufigkeit)",
     "totalRoots": 1642,
     "roots": [
       {
@@ -490,7 +490,7 @@
         "root": "ه-د-ي",
         "rootArabic": "هدي",
         "transliteration": "hdy",
-        "meaning": "rechtleiten, fuehren",
+        "meaning": "rechtleiten, führen",
         "quranOccurrences": 316,
         "corpusUrl": "https://corpus.quran.com/qurandictionary.jsp?q=hdy",
         "lanesLexiconUrl": "https://ejtaal.net/aa/#ll=hdy"
@@ -535,7 +535,7 @@
         "root": "ذ-ك-ر",
         "rootArabic": "ذكر",
         "transliteration": "*kr",
-        "meaning": "erwaehnen, gedenken",
+        "meaning": "erwähnen, gedenken",
         "quranOccurrences": 292,
         "corpusUrl": "https://corpus.quran.com/qurandictionary.jsp?q=*kr",
         "lanesLexiconUrl": "https://ejtaal.net/aa/#ll=*kr"
@@ -553,7 +553,7 @@
         "root": "ك-ذ-ب",
         "rootArabic": "كذب",
         "transliteration": "k*b",
-        "meaning": "luegen, fuer falsch erklaeren",
+        "meaning": "lügen, für falsch erklären",
         "quranOccurrences": 282,
         "corpusUrl": "https://corpus.quran.com/qurandictionary.jsp?q=k*b",
         "lanesLexiconUrl": "https://ejtaal.net/aa/#ll=k*b"
@@ -589,7 +589,7 @@
         "root": "خ-ل-ق",
         "rootArabic": "خلق",
         "transliteration": "xlq",
-        "meaning": "erschaffen, Schoepfung",
+        "meaning": "erschaffen, Schöpfung",
         "quranOccurrences": 261,
         "corpusUrl": "https://corpus.quran.com/qurandictionary.jsp?q=xlq",
         "lanesLexiconUrl": "https://ejtaal.net/aa/#ll=xlq"
@@ -598,7 +598,7 @@
         "root": "و-ق-ي",
         "rootArabic": "وقي",
         "transliteration": "wqy",
-        "meaning": "sich hueten, sich schuetzen",
+        "meaning": "sich hüten, sich schützen",
         "quranOccurrences": 258,
         "corpusUrl": "https://corpus.quran.com/qurandictionary.jsp?q=wqy",
         "lanesLexiconUrl": "https://ejtaal.net/aa/#ll=wqy"
@@ -679,7 +679,7 @@
         "root": "م-ل-ك",
         "rootArabic": "ملك",
         "transliteration": "mlk",
-        "meaning": "besitzen, herrschen, Koenig",
+        "meaning": "besitzen, herrschen, König",
         "quranOccurrences": 206,
         "corpusUrl": "https://corpus.quran.com/qurandictionary.jsp?q=mlk",
         "lanesLexiconUrl": "https://ejtaal.net/aa/#ll=mlk"
@@ -724,7 +724,7 @@
         "root": "ح-س-ن",
         "rootArabic": "حسن",
         "transliteration": "Hsn",
-        "meaning": "schoen, gut, Wohltat",
+        "meaning": "schön, gut, Wohltat",
         "quranOccurrences": 194,
         "corpusUrl": "https://corpus.quran.com/qurandictionary.jsp?q=Hsn",
         "lanesLexiconUrl": "https://ejtaal.net/aa/#ll=Hsn"
@@ -742,7 +742,7 @@
         "root": "س-م-ع",
         "rootArabic": "سمع",
         "transliteration": "smE",
-        "meaning": "hoeren",
+        "meaning": "hören",
         "quranOccurrences": 185,
         "corpusUrl": "https://corpus.quran.com/qurandictionary.jsp?q=smE",
         "lanesLexiconUrl": "https://ejtaal.net/aa/#ll=smE"
@@ -814,7 +814,7 @@
         "root": "ق-ت-ل",
         "rootArabic": "قتل",
         "transliteration": "qtl",
-        "meaning": "toeten",
+        "meaning": "töten",
         "quranOccurrences": 170,
         "corpusUrl": "https://corpus.quran.com/qurandictionary.jsp?q=qtl",
         "lanesLexiconUrl": "https://ejtaal.net/aa/#ll=qtl"
@@ -823,7 +823,7 @@
         "root": "م-ث-ل",
         "rootArabic": "مثل",
         "transliteration": "mvl",
-        "meaning": "Gleichnis, aehnlich",
+        "meaning": "Gleichnis, ähnlich",
         "quranOccurrences": 169,
         "corpusUrl": "https://corpus.quran.com/qurandictionary.jsp?q=mvl",
         "lanesLexiconUrl": "https://ejtaal.net/aa/#ll=mvl"
@@ -841,7 +841,7 @@
         "root": "ش-ر-ك",
         "rootArabic": "شرك",
         "transliteration": "$rk",
-        "meaning": "beigesellen, Goetzendienst",
+        "meaning": "beigesellen, Götzendienst",
         "quranOccurrences": 168,
         "corpusUrl": "https://corpus.quran.com/qurandictionary.jsp?q=$rk",
         "lanesLexiconUrl": "https://ejtaal.net/aa/#ll=$rk"
@@ -877,7 +877,7 @@
         "root": "ك-ب-ر",
         "rootArabic": "كبر",
         "transliteration": "kbr",
-        "meaning": "gross sein, hochmuetig",
+        "meaning": "gross sein, hochmütig",
         "quranOccurrences": 161,
         "corpusUrl": "https://corpus.quran.com/qurandictionary.jsp?q=kbr",
         "lanesLexiconUrl": "https://ejtaal.net/aa/#ll=kbr"
@@ -931,7 +931,7 @@
         "root": "غ-ي-ر",
         "rootArabic": "غير",
         "transliteration": "gyr",
-        "meaning": "anders, nicht, veraendern",
+        "meaning": "anders, nicht, verändern",
         "quranOccurrences": 154,
         "corpusUrl": "https://corpus.quran.com/qurandictionary.jsp?q=gyr",
         "lanesLexiconUrl": "https://ejtaal.net/aa/#ll=gyr"
@@ -1012,7 +1012,7 @@
         "root": "ق-د-ر",
         "rootArabic": "قدر",
         "transliteration": "qdr",
-        "meaning": "bestimmen, faehig sein",
+        "meaning": "bestimmen, fähig sein",
         "quranOccurrences": 132,
         "corpusUrl": "https://corpus.quran.com/qurandictionary.jsp?q=qdr",
         "lanesLexiconUrl": "https://ejtaal.net/aa/#ll=qdr"
@@ -1084,7 +1084,7 @@
         "root": "ا-ه-ل",
         "rootArabic": "اهل",
         "transliteration": "Ahl",
-        "meaning": "Familie, wuerdig",
+        "meaning": "Familie, würdig",
         "quranOccurrences": 127,
         "corpusUrl": "https://corpus.quran.com/qurandictionary.jsp?q=Ahl",
         "lanesLexiconUrl": "https://ejtaal.net/aa/#ll=Ahl"
@@ -1102,7 +1102,7 @@
         "root": "خ-و-ف",
         "rootArabic": "خوف",
         "transliteration": "xwf",
-        "meaning": "fuerchten, Furcht",
+        "meaning": "fürchten, Furcht",
         "quranOccurrences": 124,
         "corpusUrl": "https://corpus.quran.com/qurandictionary.jsp?q=xwf",
         "lanesLexiconUrl": "https://ejtaal.net/aa/#ll=xwf"
@@ -1147,7 +1147,7 @@
         "root": "ع-ز-ز",
         "rootArabic": "عزز",
         "transliteration": "Ezz",
-        "meaning": "maechtig, ehrwuerdig",
+        "meaning": "mächtig, ehrwuerdig",
         "quranOccurrences": 119,
         "corpusUrl": "https://corpus.quran.com/qurandictionary.jsp?q=Ezz",
         "lanesLexiconUrl": "https://ejtaal.net/aa/#ll=Ezz"
@@ -1246,7 +1246,7 @@
         "root": "ر-ج-ع",
         "rootArabic": "رجع",
         "transliteration": "rjE",
-        "meaning": "zurueckkehren",
+        "meaning": "zurückkehren",
         "quranOccurrences": 104,
         "corpusUrl": "https://corpus.quran.com/qurandictionary.jsp?q=rjE",
         "lanesLexiconUrl": "https://ejtaal.net/aa/#ll=rjE"
@@ -1255,7 +1255,7 @@
         "root": "ف-ض-ل",
         "rootArabic": "فضل",
         "transliteration": "fDl",
-        "meaning": "Guete, Vorzug",
+        "meaning": "Güte, Vorzug",
         "quranOccurrences": 104,
         "corpusUrl": "https://corpus.quran.com/qurandictionary.jsp?q=fDl",
         "lanesLexiconUrl": "https://ejtaal.net/aa/#ll=fDl"
@@ -1291,7 +1291,7 @@
         "root": "و-ل-د",
         "rootArabic": "ولد",
         "transliteration": "wld",
-        "meaning": "Kind, gebaeren",
+        "meaning": "Kind, gebären",
         "quranOccurrences": 102,
         "corpusUrl": "https://corpus.quran.com/qurandictionary.jsp?q=wld",
         "lanesLexiconUrl": "https://ejtaal.net/aa/#ll=wld"
@@ -1318,7 +1318,7 @@
         "root": "ص-ح-ب",
         "rootArabic": "صحب",
         "transliteration": "SHb",
-        "meaning": "Gefaehrte, begleiten",
+        "meaning": "Gefährte, begleiten",
         "quranOccurrences": 97,
         "corpusUrl": "https://corpus.quran.com/qurandictionary.jsp?q=SHb",
         "lanesLexiconUrl": "https://ejtaal.net/aa/#ll=SHb"
@@ -1642,7 +1642,7 @@
         "root": "غ-ن-ي",
         "rootArabic": "غني",
         "transliteration": "gny",
-        "meaning": "reich, unabhaengig",
+        "meaning": "reich, unabhängig",
         "quranOccurrences": 73,
         "corpusUrl": "https://corpus.quran.com/qurandictionary.jsp?q=gny",
         "lanesLexiconUrl": "https://ejtaal.net/aa/#ll=gny"
@@ -1687,7 +1687,7 @@
         "root": "ع-ل-و",
         "rootArabic": "علو",
         "transliteration": "Elw",
-        "meaning": "hoch sein, erhoehen",
+        "meaning": "hoch sein, erhöhen",
         "quranOccurrences": 70,
         "corpusUrl": "https://corpus.quran.com/qurandictionary.jsp?q=Elw",
         "lanesLexiconUrl": "https://ejtaal.net/aa/#ll=Elw"
@@ -1759,7 +1759,7 @@
         "root": "و-ف-ي",
         "rootArabic": "وفي",
         "transliteration": "wfy",
-        "meaning": "erfuellen, vollstaendig",
+        "meaning": "erfüllen, vollständig",
         "quranOccurrences": 66,
         "corpusUrl": "https://corpus.quran.com/qurandictionary.jsp?q=wfy",
         "lanesLexiconUrl": "https://ejtaal.net/aa/#ll=wfy"
@@ -1858,7 +1858,7 @@
         "root": "ع-و-د",
         "rootArabic": "عود",
         "transliteration": "Ewd",
-        "meaning": "zurueckkehren",
+        "meaning": "zurückkehren",
         "quranOccurrences": 63,
         "corpusUrl": "https://corpus.quran.com/qurandictionary.jsp?q=Ewd",
         "lanesLexiconUrl": "https://ejtaal.net/aa/#ll=Ewd"
@@ -1903,7 +1903,7 @@
         "root": "ف-ت-ن",
         "rootArabic": "فتن",
         "transliteration": "ftn",
-        "meaning": "pruefen, Versuchung",
+        "meaning": "prüfen, Versuchung",
         "quranOccurrences": 60,
         "corpusUrl": "https://corpus.quran.com/qurandictionary.jsp?q=ftn",
         "lanesLexiconUrl": "https://ejtaal.net/aa/#ll=ftn"
@@ -1912,7 +1912,7 @@
         "root": "ف-ر-ي",
         "rootArabic": "فري",
         "transliteration": "fry",
-        "meaning": "erdichten, Luege",
+        "meaning": "erdichten, Lüge",
         "quranOccurrences": 60,
         "corpusUrl": "https://corpus.quran.com/qurandictionary.jsp?q=fry",
         "lanesLexiconUrl": "https://ejtaal.net/aa/#ll=fry"
@@ -1948,7 +1948,7 @@
         "root": "ر-د-د",
         "rootArabic": "ردد",
         "transliteration": "rdd",
-        "meaning": "zurueckweisen",
+        "meaning": "zurückweisen",
         "quranOccurrences": 59,
         "corpusUrl": "https://corpus.quran.com/qurandictionary.jsp?q=rdd",
         "lanesLexiconUrl": "https://ejtaal.net/aa/#ll=rdd"
@@ -1966,7 +1966,7 @@
         "root": "ع-د-د",
         "rootArabic": "عدد",
         "transliteration": "Edd",
-        "meaning": "zaehlen, Anzahl",
+        "meaning": "zählen, Anzahl",
         "quranOccurrences": 57,
         "corpusUrl": "https://corpus.quran.com/qurandictionary.jsp?q=Edd",
         "lanesLexiconUrl": "https://ejtaal.net/aa/#ll=Edd"
@@ -2020,7 +2020,7 @@
         "root": "د-و-ر",
         "rootArabic": "دور",
         "transliteration": "dwr",
-        "meaning": "Haus, Wohnstaette",
+        "meaning": "Haus, Wohnstätte",
         "quranOccurrences": 55,
         "corpusUrl": "https://corpus.quran.com/qurandictionary.jsp?q=dwr",
         "lanesLexiconUrl": "https://ejtaal.net/aa/#ll=dwr"
@@ -2074,7 +2074,7 @@
         "root": "ح-ل-ل",
         "rootArabic": "حلل",
         "transliteration": "Hll",
-        "meaning": "erlaubt, loesen",
+        "meaning": "erlaubt, lösen",
         "quranOccurrences": 51,
         "corpusUrl": "https://corpus.quran.com/qurandictionary.jsp?q=Hll",
         "lanesLexiconUrl": "https://ejtaal.net/aa/#ll=Hll"
@@ -2119,7 +2119,7 @@
         "root": "س-و-ع",
         "rootArabic": "سوع",
         "transliteration": "swE",
-        "meaning": "schlecht, boese",
+        "meaning": "schlecht, böse",
         "quranOccurrences": 49,
         "corpusUrl": "https://corpus.quran.com/qurandictionary.jsp?q=swE",
         "lanesLexiconUrl": "https://ejtaal.net/aa/#ll=swE"
@@ -2137,7 +2137,7 @@
         "root": "خ-ش-ي",
         "rootArabic": "خشي",
         "transliteration": "x$y",
-        "meaning": "fuerchten, Ehrfurcht",
+        "meaning": "fürchten, Ehrfurcht",
         "quranOccurrences": 48,
         "corpusUrl": "https://corpus.quran.com/qurandictionary.jsp?q=x$y",
         "lanesLexiconUrl": "https://ejtaal.net/aa/#ll=x$y"
@@ -2146,7 +2146,7 @@
         "root": "ا-ث-م",
         "rootArabic": "اثم",
         "transliteration": "Avm",
-        "meaning": "Suende",
+        "meaning": "Sünde",
         "quranOccurrences": 48,
         "corpusUrl": "https://corpus.quran.com/qurandictionary.jsp?q=Avm",
         "lanesLexiconUrl": "https://ejtaal.net/aa/#ll=Avm"
@@ -2227,7 +2227,7 @@
         "root": "و-ذ-ر",
         "rootArabic": "وذر",
         "transliteration": "w*r",
-        "meaning": "lassen, zuruecklassen",
+        "meaning": "lassen, zurücklassen",
         "quranOccurrences": 45,
         "corpusUrl": "https://corpus.quran.com/qurandictionary.jsp?q=w*r",
         "lanesLexiconUrl": "https://ejtaal.net/aa/#ll=w*r"
@@ -2245,7 +2245,7 @@
         "root": "ب-د-ل",
         "rootArabic": "بدل",
         "transliteration": "bdl",
-        "meaning": "aendern, tauschen",
+        "meaning": "ändern, tauschen",
         "quranOccurrences": 44,
         "corpusUrl": "https://corpus.quran.com/qurandictionary.jsp?q=bdl",
         "lanesLexiconUrl": "https://ejtaal.net/aa/#ll=bdl"
@@ -2272,7 +2272,7 @@
         "root": "ح-ف-ظ",
         "rootArabic": "حفظ",
         "transliteration": "HfZ",
-        "meaning": "bewahren, schuetzen",
+        "meaning": "bewahren, schützen",
         "quranOccurrences": 44,
         "corpusUrl": "https://corpus.quran.com/qurandictionary.jsp?q=HfZ",
         "lanesLexiconUrl": "https://ejtaal.net/aa/#ll=HfZ"
@@ -2299,7 +2299,7 @@
         "root": "ف-و-ق",
         "rootArabic": "فوق",
         "transliteration": "fwq",
-        "meaning": "ueber, oberhalb",
+        "meaning": "über, oberhalb",
         "quranOccurrences": 43,
         "corpusUrl": "https://corpus.quran.com/qurandictionary.jsp?q=fwq",
         "lanesLexiconUrl": "https://ejtaal.net/aa/#ll=fwq"
@@ -2335,7 +2335,7 @@
         "root": "م-ك-ر",
         "rootArabic": "مكر",
         "transliteration": "mkr",
-        "meaning": "listen, Raenke",
+        "meaning": "listen, Ränke",
         "quranOccurrences": 43,
         "corpusUrl": "https://corpus.quran.com/qurandictionary.jsp?q=mkr",
         "lanesLexiconUrl": "https://ejtaal.net/aa/#ll=mkr"
@@ -2416,7 +2416,7 @@
         "root": "ج-ه-د",
         "rootArabic": "جهد",
         "transliteration": "jhd",
-        "meaning": "sich bemuehen, Dschihad",
+        "meaning": "sich bemühen, Dschihad",
         "quranOccurrences": 41,
         "corpusUrl": "https://corpus.quran.com/qurandictionary.jsp?q=jhd",
         "lanesLexiconUrl": "https://ejtaal.net/aa/#ll=jhd"
@@ -2452,7 +2452,7 @@
         "root": "م-ل-ا",
         "rootArabic": "ملا",
         "transliteration": "mlA",
-        "meaning": "fuellen, voll",
+        "meaning": "füllen, voll",
         "quranOccurrences": 40,
         "corpusUrl": "https://corpus.quran.com/qurandictionary.jsp?q=mlA",
         "lanesLexiconUrl": "https://ejtaal.net/aa/#ll=mlA"
@@ -2479,7 +2479,7 @@
         "root": "ذ-ن-ب",
         "rootArabic": "ذنب",
         "transliteration": "*nb",
-        "meaning": "Suende, Schuld",
+        "meaning": "Sünde, Schuld",
         "quranOccurrences": 39,
         "corpusUrl": "https://corpus.quran.com/qurandictionary.jsp?q=*nb",
         "lanesLexiconUrl": "https://ejtaal.net/aa/#ll=*nb"
@@ -2506,7 +2506,7 @@
         "root": "ب-ل-و",
         "rootArabic": "بلو",
         "transliteration": "blw",
-        "meaning": "pruefen, Pruefung",
+        "meaning": "prüfen, Prüfung",
         "quranOccurrences": 38,
         "corpusUrl": "https://corpus.quran.com/qurandictionary.jsp?q=blw",
         "lanesLexiconUrl": "https://ejtaal.net/aa/#ll=blw"
@@ -2515,7 +2515,7 @@
         "root": "ف-ت-ح",
         "rootArabic": "فتح",
         "transliteration": "ftH",
-        "meaning": "oeffnen, Sieg",
+        "meaning": "öffnen, Sieg",
         "quranOccurrences": 38,
         "corpusUrl": "https://corpus.quran.com/qurandictionary.jsp?q=ftH",
         "lanesLexiconUrl": "https://ejtaal.net/aa/#ll=ftH"
@@ -2560,7 +2560,7 @@
         "root": "ا-ل-و",
         "rootArabic": "الو",
         "transliteration": "Alw",
-        "meaning": "schwoeren",
+        "meaning": "schwören",
         "quranOccurrences": 37,
         "corpusUrl": "https://corpus.quran.com/qurandictionary.jsp?q=Alw",
         "lanesLexiconUrl": "https://ejtaal.net/aa/#ll=Alw"
@@ -2686,7 +2686,7 @@
         "root": "ك-ي-د",
         "rootArabic": "كيد",
         "transliteration": "kyd",
-        "meaning": "List, Raenke",
+        "meaning": "List, Ränke",
         "quranOccurrences": 35,
         "corpusUrl": "https://corpus.quran.com/qurandictionary.jsp?q=kyd",
         "lanesLexiconUrl": "https://ejtaal.net/aa/#ll=kyd"
@@ -2713,7 +2713,7 @@
         "root": "ج-ن-ح",
         "rootArabic": "جنح",
         "transliteration": "jnH",
-        "meaning": "Fluegel, Seite",
+        "meaning": "Flügel, Seite",
         "quranOccurrences": 34,
         "corpusUrl": "https://corpus.quran.com/qurandictionary.jsp?q=jnH",
         "lanesLexiconUrl": "https://ejtaal.net/aa/#ll=jnH"
@@ -2758,7 +2758,7 @@
         "root": "ك-ف-ي",
         "rootArabic": "كفي",
         "transliteration": "kfy",
-        "meaning": "genuegen",
+        "meaning": "genügen",
         "quranOccurrences": 33,
         "corpusUrl": "https://corpus.quran.com/qurandictionary.jsp?q=kfy",
         "lanesLexiconUrl": "https://ejtaal.net/aa/#ll=kfy"
@@ -2794,7 +2794,7 @@
         "root": "ق-س-م",
         "rootArabic": "قسم",
         "transliteration": "qsm",
-        "meaning": "teilen, schwoeren",
+        "meaning": "teilen, schwören",
         "quranOccurrences": 33,
         "corpusUrl": "https://corpus.quran.com/qurandictionary.jsp?q=qsm",
         "lanesLexiconUrl": "https://ejtaal.net/aa/#ll=qsm"
@@ -2893,7 +2893,7 @@
         "root": "ب-د-و",
         "rootArabic": "بدو",
         "transliteration": "bdw",
-        "meaning": "erscheinen, Wueste",
+        "meaning": "erscheinen, Wüste",
         "quranOccurrences": 31,
         "corpusUrl": "https://corpus.quran.com/qurandictionary.jsp?q=bdw",
         "lanesLexiconUrl": "https://ejtaal.net/aa/#ll=bdw"
@@ -2947,7 +2947,7 @@
         "root": "ش-ر-ر",
         "rootArabic": "شرر",
         "transliteration": "$rr",
-        "meaning": "Uebel, boese",
+        "meaning": "Uebel, böse",
         "quranOccurrences": 31,
         "corpusUrl": "https://corpus.quran.com/qurandictionary.jsp?q=$rr",
         "lanesLexiconUrl": "https://ejtaal.net/aa/#ll=$rr"
@@ -2983,7 +2983,7 @@
         "root": "س-ع-ي",
         "rootArabic": "سعي",
         "transliteration": "sEy",
-        "meaning": "streben, sich bemuehen",
+        "meaning": "streben, sich bemühen",
         "quranOccurrences": 30,
         "corpusUrl": "https://corpus.quran.com/qurandictionary.jsp?q=sEy",
         "lanesLexiconUrl": "https://ejtaal.net/aa/#ll=sEy"
@@ -3001,7 +3001,7 @@
         "root": "ق-ص-ص",
         "rootArabic": "قصص",
         "transliteration": "qSS",
-        "meaning": "erzaehlen, Geschichte",
+        "meaning": "erzählen, Geschichte",
         "quranOccurrences": 30,
         "corpusUrl": "https://corpus.quran.com/qurandictionary.jsp?q=qSS",
         "lanesLexiconUrl": "https://ejtaal.net/aa/#ll=qSS"
@@ -3028,7 +3028,7 @@
         "root": "ا-ف-ك",
         "rootArabic": "افك",
         "transliteration": "Afk",
-        "meaning": "Luege, abwenden",
+        "meaning": "Lüge, abwenden",
         "quranOccurrences": 30,
         "corpusUrl": "https://corpus.quran.com/qurandictionary.jsp?q=Afk",
         "lanesLexiconUrl": "https://ejtaal.net/aa/#ll=Afk"
@@ -3280,7 +3280,7 @@
         "root": "غ-ر-ر",
         "rootArabic": "غرر",
         "transliteration": "grr",
-        "meaning": "taeuschen",
+        "meaning": "täuschen",
         "quranOccurrences": 27,
         "corpusUrl": "https://corpus.quran.com/qurandictionary.jsp?q=grr",
         "lanesLexiconUrl": "https://ejtaal.net/aa/#ll=grr"
@@ -3298,7 +3298,7 @@
         "root": "و-ز-ر",
         "rootArabic": "وزر",
         "transliteration": "wzr",
-        "meaning": "Last, Suende",
+        "meaning": "Last, Sünde",
         "quranOccurrences": 27,
         "corpusUrl": "https://corpus.quran.com/qurandictionary.jsp?q=wzr",
         "lanesLexiconUrl": "https://ejtaal.net/aa/#ll=wzr"
@@ -3343,7 +3343,7 @@
         "root": "ج-ح-م",
         "rootArabic": "جحم",
         "transliteration": "jHm",
-        "meaning": "Hoelle",
+        "meaning": "Hölle",
         "quranOccurrences": 26,
         "corpusUrl": "https://corpus.quran.com/qurandictionary.jsp?q=jHm",
         "lanesLexiconUrl": "https://ejtaal.net/aa/#ll=jHm"
@@ -3361,7 +3361,7 @@
         "root": "ع-ج-ز",
         "rootArabic": "عجز",
         "transliteration": "Ejz",
-        "meaning": "unfaehig sein",
+        "meaning": "unfähig sein",
         "quranOccurrences": 26,
         "corpusUrl": "https://corpus.quran.com/qurandictionary.jsp?q=Ejz",
         "lanesLexiconUrl": "https://ejtaal.net/aa/#ll=Ejz"
@@ -3379,7 +3379,7 @@
         "root": "ح-و-ل",
         "rootArabic": "حول",
         "transliteration": "Hwl",
-        "meaning": "veraendern, Jahr",
+        "meaning": "verändern, Jahr",
         "quranOccurrences": 25,
         "corpusUrl": "https://corpus.quran.com/qurandictionary.jsp?q=Hwl",
         "lanesLexiconUrl": "https://ejtaal.net/aa/#ll=Hwl"
@@ -15061,10 +15061,10 @@
   },
   "usageInApp": {
     "description": "Anleitung zur Nutzung der Lexikon-URLs in der App",
-    "javascript": "function getLanesLexiconUrl(rootConsonants) {\n  // rootConsonants: Array von arabischen Buchstaben, z.B. ['ك', 'ت', 'ب']\n  // Gibt die URL zu Lane's Lexicon auf ejtaal.net zurueck\n  const translitMap = {\n    'ا': 'A', 'ب': 'b', 'ت': 't', 'ث': 'v', 'ج': 'j',\n    'ح': 'H', 'خ': 'x', 'د': 'd', 'ذ': '*', 'ر': 'r',\n    'ز': 'z', 'س': 's', 'ش': '$', 'ص': 'S', 'ض': 'D',\n    'ط': 'T', 'ظ': 'Z', 'ع': 'E', 'غ': 'g', 'ف': 'f',\n    'ق': 'q', 'ك': 'k', 'ل': 'l', 'م': 'm', 'ن': 'n',\n    'ه': 'h', 'و': 'w', 'ي': 'y'\n  };\n  const translitRoot = rootConsonants.map(c => translitMap[c] || c).join('');\n  // #ll= selects Lane's Lexicon within Arabic Almanac\n  return `https://ejtaal.net/aa/#ll=${translitRoot}`;\n}\n\nfunction getCorpusDictUrl(rootConsonants) {\n  // Corpus Quran Dictionary — NOT Lane's Lexicon\n  const translitMap = { /* same map */ };\n  const translitRoot = rootConsonants.map(c => translitMap[c] || c).join('');\n  return `https://corpus.quran.com/qurandictionary.jsp?q=${translitRoot}`;\n}",
+    "javascript": "function getLanesLexiconUrl(rootConsonants) {\n  // rootConsonants: Array von arabischen Buchstaben, z.B. ['ك', 'ت', 'ب']\n  // Gibt die URL zu Lane's Lexicon auf ejtaal.net zurück\n  const translitMap = {\n    'ا': 'A', 'ب': 'b', 'ت': 't', 'ث': 'v', 'ج': 'j',\n    'ح': 'H', 'خ': 'x', 'د': 'd', 'ذ': '*', 'ر': 'r',\n    'ز': 'z', 'س': 's', 'ش': '$', 'ص': 'S', 'ض': 'D',\n    'ط': 'T', 'ظ': 'Z', 'ع': 'E', 'غ': 'g', 'ف': 'f',\n    'ق': 'q', 'ك': 'k', 'ل': 'l', 'م': 'm', 'ن': 'n',\n    'ه': 'h', 'و': 'w', 'ي': 'y'\n  };\n  const translitRoot = rootConsonants.map(c => translitMap[c] || c).join('');\n  // #ll= selects Lane's Lexicon within Arabic Almanac\n  return `https://ejtaal.net/aa/#ll=${translitRoot}`;\n}\n\nfunction getCorpusDictUrl(rootConsonants) {\n  // Corpus Quran Dictionary — NOT Lane's Lexicon\n  const translitMap = { /* same map */ };\n  const translitRoot = rootConsonants.map(c => translitMap[c] || c).join('');\n  return `https://corpus.quran.com/qurandictionary.jsp?q=${translitRoot}`;\n}",
     "notes": [
-      "PRIMAER: Lane's Lexicon wird ueber ejtaal.net/aa/#ll={root} aufgerufen. Der #ll= Parameter waehlt Lane's Lexicon spezifisch aus.",
-      "SEKUNDAER: corpus.quran.com ist ein eigenstaendiges Quran-Woerterbuch (NICHT Lane's). Nuetzlich fuer Morphologie, aber kein Ersatz.",
+      "PRIMAER: Lane's Lexicon wird über ejtaal.net/aa/#ll={root} aufgerufen. Der #ll= Parameter wählt Lane's Lexicon spezifisch aus.",
+      "SEKUNDAER: corpus.quran.com ist ein eigenständiges Quran-Wörterbuch (NICHT Lane's). Nuetzlich für Morphologie, aber kein Ersatz.",
       "Die Transliteration folgt dem Buckwalter-Schema.",
       "Buckwalter-Transliterationsmap: Hamza (ء) wird als Apostroph oder 'O' kodiert."
     ]

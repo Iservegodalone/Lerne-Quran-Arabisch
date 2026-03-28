@@ -1,13 +1,13 @@
 import { useState, useMemo } from 'react'
 import externalVersesData from '../data/verse-synthesis-exercises.json'
 
-const externalVerses = externalVersesData
+const externalVerses = externalVersesData.exercises || externalVersesData
 
 const INLINE_VERSES = [
   {
     ref: '1:1', arabic: '\u0628\u0650\u0633\u0652\u0645\u0650 \u0627\u0644\u0644\u0651\u064E\u0647\u0650 \u0627\u0644\u0631\u0651\u064E\u062D\u0652\u0645\u064E\u0670\u0646\u0650 \u0627\u0644\u0631\u0651\u064E\u062D\u0650\u064A\u0645\u0650',
     words: [
-      { word: '\u0628\u0650\u0633\u0652\u0645\u0650', analysis: '\u0628\u0650 (Praeposition, Genitiv) + \u0627\u0633\u0652\u0645 (Nomen, Wurzel \u0633-\u0645-\u0648, Muster \u0627\u0650\u0641\u0652\u0639\u0650\u0644)' },
+      { word: '\u0628\u0650\u0633\u0652\u0645\u0650', analysis: '\u0628\u0650 (Präposition, Genitiv) + \u0627\u0633\u0652\u0645 (Nomen, Wurzel \u0633-\u0645-\u0648, Muster \u0627\u0650\u0641\u0652\u0639\u0650\u0644)' },
       { word: '\u0627\u0644\u0644\u0651\u064E\u0647\u0650', analysis: 'Eigenname, Genitiv (Mudaf ilayhi)' },
       { word: '\u0627\u0644\u0631\u0651\u064E\u062D\u0652\u0645\u064E\u0670\u0646\u0650', analysis: 'Sifa, Wurzel \u0631-\u062D-\u0645, Muster \u0641\u064E\u0639\u0652\u0644\u064E\u0627\u0646 (Intensivform), Genitiv' },
       { word: '\u0627\u0644\u0631\u0651\u064E\u062D\u0650\u064A\u0645\u0650', analysis: 'Sifa, Wurzel \u0631-\u062D-\u0645, Muster \u0641\u064E\u0639\u0650\u064A\u0644 (dauerhafte Eigenschaft), Genitiv' }
@@ -24,7 +24,7 @@ const INLINE_VERSES = [
       { word: '\u0627\u0644\u0652\u0639\u064E\u0627\u0644\u064E\u0645\u0650\u064A\u0646\u064E', analysis: 'Mudaf ilayhi, Genitiv (gesunder mask. Plural mit -\u064A\u0646), Wurzel \u0639-\u0644-\u0645' }
     ],
     structure: 'Nominalsatz: Mubtada (\u0627\u0644\u0652\u062D\u064E\u0645\u0652\u062F\u064F) + Khabar (\u0644\u0650\u0644\u0651\u064E\u0647\u0650) + Apposition (\u0631\u064E\u0628\u0651\u0650 \u0627\u0644\u0652\u0639\u064E\u0627\u0644\u064E\u0645\u0650\u064A\u0646\u064E)',
-    sampleSynthesis: 'Das Lob gehoert Gott, dem Herrn der Welten/Geschoepfe.'
+    sampleSynthesis: 'Das Lob gehört Gott, dem Herrn der Welten/Geschöpfe.'
   },
   {
     ref: '1:5', arabic: '\u0625\u0650\u064A\u0651\u064E\u0627\u0643\u064E \u0646\u064E\u0639\u0652\u0628\u064F\u062F\u064F \u0648\u064E\u0625\u0650\u064A\u0651\u064E\u0627\u0643\u064E \u0646\u064E\u0633\u0652\u062A\u064E\u0639\u0650\u064A\u0646\u064F',
@@ -34,7 +34,7 @@ const INLINE_VERSES = [
       { word: '\u0648\u064E\u0625\u0650\u064A\u0651\u064E\u0627\u0643\u064E', analysis: '\u0648\u064E (Konjunktion) + \u0625\u0650\u064A\u0651\u064E\u0627\u0643\u064E (Maf\u2019ul bihi vorangestellt)' },
       { word: '\u0646\u064E\u0633\u0652\u062A\u064E\u0639\u0650\u064A\u0646\u064F', analysis: 'Imperfekt 1pl, Wurzel \u0639-\u0648-\u0646, Form X, Indikativ' }
     ],
-    structure: 'Zwei parallele Verbalsaetze mit vorangestelltem Objekt (Taqdim al-Maf\u2019ul): Objekt + Verb || \u0648 + Objekt + Verb',
+    structure: 'Zwei parallele Verbalsätze mit vorangestelltem Objekt (Taqdim al-Maf\u2019ul): Objekt + Verb || \u0648 + Objekt + Verb',
     sampleSynthesis: 'Dich dienen wir und Dich bitten wir um Hilfe.'
   },
   {
@@ -44,13 +44,13 @@ const INLINE_VERSES = [
       { word: '\u0647\u064F\u0648\u064E', analysis: 'Pronomen 3ms, Mubtada oder Damir ash-Sha\u2019n' },
       { word: '\u0627\u0644\u0644\u0651\u064E\u0647\u064F', analysis: 'Mubtada (Nominativ) oder Khabar' },
       { word: '\u0623\u064E\u062D\u064E\u062F\u064C', analysis: 'Khabar (Nominativ + Tanwin), Wurzel \u0648-\u062D-\u062F' },
-      { word: '\u0627\u0644\u0635\u0651\u064E\u0645\u064E\u062F\u064F', analysis: 'Khabar (Nominativ), Wurzel \u0635-\u0645-\u062F, der Bestaendige' },
+      { word: '\u0627\u0644\u0635\u0651\u064E\u0645\u064E\u062F\u064F', analysis: 'Khabar (Nominativ), Wurzel \u0635-\u0645-\u062F, der Beständige' },
       { word: '\u0644\u064E\u0645\u0652 \u064A\u064E\u0644\u0650\u062F\u0652', analysis: '\u0644\u064E\u0645\u0652 + Jussiv, Wurzel \u0648-\u0644-\u062F, er zeugte nicht' },
       { word: '\u0643\u064F\u0641\u064F\u0648\u064B\u0627', analysis: 'Khabar muqaddam von \u064A\u064E\u0643\u064F\u0646 (Akkusativ), Wurzel \u0643-\u0641-\u0621' },
       { word: '\u0623\u064E\u062D\u064E\u062F\u064C', analysis: 'Ism von \u064A\u064E\u0643\u064F\u0646 (Nominativ)' }
     ],
     structure: 'Imperativ + Nominalsatz + Nominalsatz + 2x negierter Verbalsatz + negierter Kana-Satz',
-    sampleSynthesis: 'Sprich: Er ist Gott, Einer. Gott, der Bestaendige. Er zeugte nicht und wurde nicht gezeugt. Und keiner ist ihm ebenbuertig.'
+    sampleSynthesis: 'Sprich: Er ist Gott, Einer. Gott, der Beständige. Er zeugte nicht und wurde nicht gezeugt. Und keiner ist ihm ebenbuertig.'
   }
 ]
 
@@ -67,6 +67,7 @@ export default function VerseSynthesisExercise() {
 
   const v = VERSES[idx]
   if (!v) return null
+  const words = v.words || (v.wordAnalysis ? v.wordAnalysis.map(w => ({ word: w.word, analysis: `${w.role}: ${w.form}, Wurzel ${w.root} — ${w.meaning}` })) : [])
 
   function goTo(newIdx) {
     setIdx(newIdx)
@@ -90,7 +91,7 @@ export default function VerseSynthesisExercise() {
         </button>
         {showWords && (
           <div style={{ padding: 12, background: 'var(--bg)', borderRadius: 8, marginBottom: 12 }}>
-            {v.words.map((w, i) => (
+            {words.map((w, i) => (
               <div key={i} style={{ display: 'flex', gap: 12, marginBottom: 8, alignItems: 'baseline' }}>
                 <span style={{ fontFamily: 'var(--font-arabic)', fontSize: '1.2rem', color: 'var(--accent-teal)', minWidth: 80, textAlign: 'right' }}>{w.word}</span>
                 <span style={{ fontSize: '0.82rem', color: 'var(--text-secondary)' }}>{w.analysis}</span>
@@ -119,7 +120,7 @@ export default function VerseSynthesisExercise() {
         )}
         <div style={{ display: 'flex', gap: 8, marginTop: 8 }}>
           <button onClick={() => goTo((idx - 1 + VERSES.length) % VERSES.length)} style={{ flex: 1, padding: 10, borderRadius: 8, border: '1px solid var(--border)', background: 'var(--bg)', color: 'var(--text)', cursor: 'pointer' }}>Vorheriger</button>
-          <button onClick={() => goTo((idx + 1) % VERSES.length)} style={{ flex: 1, padding: 10, borderRadius: 8, border: 'none', background: 'var(--accent-gold)', color: '#000', cursor: 'pointer' }}>Naechster</button>
+          <button onClick={() => goTo((idx + 1) % VERSES.length)} style={{ flex: 1, padding: 10, borderRadius: 8, border: 'none', background: 'var(--accent-gold)', color: '#000', cursor: 'pointer' }}>Nächster</button>
         </div>
       </div>
     </div>

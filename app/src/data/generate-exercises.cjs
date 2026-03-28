@@ -861,7 +861,19 @@ function generateCaseDerivation() {
   console.log('  Generated ' + exercises.length + ' case-derivation exercises');
   console.log('    NOM: ' + nomPicked.length + ', ACC: ' + accPicked.length + ', GEN: ' + genPicked.length);
 
-  return exercises;
+  return {
+    meta: {
+      title: 'Kasusableitung (generiert) — Syntaktische Funktionen und Kasus',
+      description: 'Automatisch generierte Uebungen zur Kasusbestimmung quranischer Woerter anhand ihrer syntaktischen Rolle.',
+      totalExercises: exercises.length,
+      generated: true,
+      sources: [
+        {title: "Wright's Arabic Grammar, Vol. II (Syntax)", url: 'https://archive.org/details/grammarofthearab02telerich'},
+        {title: 'Quranic Arabic Corpus', url: 'https://corpus.quran.com/'}
+      ]
+    },
+    exercises: exercises
+  };
 }
 
 // ---------------------------------------------------------------------------

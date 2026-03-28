@@ -1,7 +1,11 @@
 {
   "meta": {
     "title": "Maf'ul li-Ajlihi — Kausaler Akkusativ (المفعول لأجله)",
-    "description": "Das Zweck- oder Grundsobjekt benennt den Grund oder Zweck einer Handlung. Es ist ein Masdar im Akkusativ und beantwortet die Frage 'warum?' oder 'wozu?'. Im Quran erscheint er haeufig bei Verben des Handelns und Gebens."
+    "description": "Das Zweck- oder Grundsobjekt benennt den Grund oder Zweck einer Handlung. Es ist ein Masdar im Akkusativ und beantwortet die Frage 'warum?' oder 'wozu?'. Im Quran erscheint er häufig bei Verben des Handelns und Gebens.",
+    "sources": [
+      { "name": "Wright's Arabic Grammar Vol II", "url": "https://archive.org/details/grammarofthearab02telerich" },
+      { "name": "Quranic Arabic Corpus", "url": "https://corpus.quran.com/" }
+    ]
   },
   "lessons": [
     {
@@ -13,7 +17,7 @@
           {
             "type": "explanation",
             "title": "Was ist der Maf'ul li-Ajlihi?",
-            "content": "Der Maf'ul li-Ajlihi (مفعول لأجله — 'Objekt um deswillen') ist ein Masdar im Akkusativ, der den Grund oder Zweck einer Handlung angibt. Er beantwortet: 'warum?' oder 'um... zu'.\n\nSyntaktische Bedingungen:\n1. Es muss ein Masdar (Verbalnomen) sein\n2. Sein Subjekt ist dasselbe wie das Subjekt des Hauptverbs\n3. Es ist gleichzeitig mit der Haupthandlung\n4. Es steht im Akkusativ (kann auch nach لِ + Genitiv stehen — dann ist es kein echter Maf'ul li-Ajlihi, sondern Jarr wa-Majrur)\n\nBeispiel:\nجِئْتُ طَلَبًا لِلْعِلْمِ — 'ich kam in der Absicht des Wissenserwerbs' (طَلَبًا = Maf'ul li-Ajlihi, Akkusativ)\nجِئْتُ لِطَلَبِ الْعِلْمِ — 'ich kam um Wissen zu suchen' (لِطَلَبِ = Praeposition + Genitiv — keine Maf'ul li-Ajlihi-Konstruktion mehr)"
+            "content": "Der Maf'ul li-Ajlihi (مفعول لأجله — 'Objekt um deswillen') ist ein Masdar im Akkusativ, der den Grund oder Zweck einer Handlung angibt. Er beantwortet: 'warum?' oder 'um... zu'.\n\nSyntaktische Bedingungen:\n1. Es muss ein Masdar (Verbalnomen) sein\n2. Sein Subjekt ist dasselbe wie das Subjekt des Hauptverbs\n3. Es ist gleichzeitig mit der Haupthandlung\n4. Es steht im Akkusativ (kann auch nach لِ + Genitiv stehen — dann ist es kein echter Maf'ul li-Ajlihi, sondern Jarr wa-Majrur)\n\nBeispiel:\nجِئْتُ طَلَبًا لِلْعِلْمِ — 'ich kam in der Absicht des Wissenserwerbs' (طَلَبًا = Maf'ul li-Ajlihi, Akkusativ)\nجِئْتُ لِطَلَبِ الْعِلْمِ — 'ich kam um Wissen zu suchen' (لِطَلَبِ = Präposition + Genitiv — keine Maf'ul li-Ajlihi-Konstruktion mehr)"
           },
           {
             "type": "explanation",
@@ -32,17 +36,17 @@
               {
                 "ref": "2:264",
                 "arabic": "كَالَّذِي يُنفِقُ مَالَهُ رِئَاءَ النَّاسِ",
-                "explanation": "رِئَاءَ النَّاسِ = Maf'ul li-Ajlihi. رِئَاءَ = Masdar von رَأَى / رَاءَى (Form III: zur Schau stellen), Akkusativ. النَّاسِ = Genitiv. 'Wie jemand, der sein Vermoegen ausgibt — um von den Menschen gesehen zu werden.' Der Grund des Spendens ist Prahlerei."
+                "explanation": "رِئَاءَ النَّاسِ = Maf'ul li-Ajlihi. رِئَاءَ = Masdar von رَأَى / رَاءَى (Form III: zur Schau stellen), Akkusativ. النَّاسِ = Genitiv. 'Wie jemand, der sein Vermögen ausgibt — um von den Menschen gesehen zu werden.' Der Grund des Spendens ist Prahlerei."
               },
               {
                 "ref": "9:120",
                 "arabic": "ذَٰلِكَ بِأَنَّهُمْ لَا يُصِيبُهُمْ ظَمَأٌ وَلَا نَصَبٌ وَلَا مَخْمَصَةٌ فِي سَبِيلِ اللَّهِ",
-                "explanation": "فِي سَبِيلِ اللَّهِ = Jarr wa-Majrur als adverbiale Angabe ('auf dem Weg Gottes'). Kein Maf'ul li-Ajlihi — Vergleichsbeispiel. Wenn die Kausalangabe mit Praeposition steht, ist es Jarr wa-Majrur."
+                "explanation": "فِي سَبِيلِ اللَّهِ = Jarr wa-Majrur als adverbiale Angabe ('auf dem Weg Gottes'). Kein Maf'ul li-Ajlihi — Vergleichsbeispiel. Wenn die Kausalangabe mit Präposition steht, ist es Jarr wa-Majrur."
               },
               {
                 "ref": "4:160",
                 "arabic": "فَبِظُلْمٍ مِّنَ الَّذِينَ هَادُوا حَرَّمْنَا عَلَيْهِمْ طَيِّبَاتٍ",
-                "explanation": "فَبِظُلْمٍ = Praeposition بِ + Genitiv (Kausalangabe). Kein Maf'ul li-Ajlihi — weil Praeposition vorhanden. 'Wegen des Unrechts derer, die juedschen Glauben hatten, haben wir ihnen Gutes verboten.' Zeigt: mit Praeposition ist es Jarr wa-Majrur."
+                "explanation": "فَبِظُلْمٍ = Präposition بِ + Genitiv (Kausalangabe). Kein Maf'ul li-Ajlihi — weil Präposition vorhanden. 'Wegen des Unrechts derer, die juedschen Glauben hatten, haben wir ihnen Gutes verboten.' Zeigt: mit Präposition ist es Jarr wa-Majrur."
               }
             ]
           }
@@ -52,7 +56,7 @@
         {
           "type": "identification",
           "question": "In خَشْيَةَ الْإِمْلَاقِ (6:151) — was ist خَشْيَةَ grammatisch?",
-          "answer": "Maf'ul li-Ajlihi (wenn im Kontext ein Verb des Handelns steht). خَشْيَةَ = Masdar von خَشِيَ (fuerchten), Akkusativ. الْإِمْلَاقِ = Genitiv (Verarmung). 'Aus Furcht vor Verarmung.' Der Kausalakkusativ gibt den Grund an: warum toeten manche ihre Kinder? Aus Armutsfurcht."
+          "answer": "Maf'ul li-Ajlihi (wenn im Kontext ein Verb des Handelns steht). خَشْيَةَ = Masdar von خَشِيَ (fürchten), Akkusativ. الْإِمْلَاقِ = Genitiv (Verarmung). 'Aus Furcht vor Verarmung.' Der Kausalakkusativ gibt den Grund an: warum töten manche ihre Kinder? Aus Armutsfurcht."
         }
       ],
       "testContent": {
@@ -61,12 +65,12 @@
             "question": "Was unterscheidet den Maf'ul li-Ajlihi von einem Jarr wa-Majrur mit لِ?",
             "options": [
               "Der Maf'ul li-Ajlihi steht im Nominativ",
-              "Der Maf'ul li-Ajlihi steht ohne Praeposition im Akkusativ; mit لِ ist es Jarr wa-Majrur",
+              "Der Maf'ul li-Ajlihi steht ohne Präposition im Akkusativ; mit لِ ist es Jarr wa-Majrur",
               "Es gibt keinen Unterschied",
               "Der Maf'ul li-Ajlihi hat immer Tanwin"
             ],
             "correct": 1,
-            "explanation": "Der echte Maf'ul li-Ajlihi steht praepositionslos im Akkusativ. جِئْتُ طَلَبًا = Maf'ul li-Ajlihi. جِئْتُ لِطَلَبٍ = Jarr wa-Majrur. Beide druecken den Zweck aus, aber die Konstruktion unterscheidet sich."
+            "explanation": "Der echte Maf'ul li-Ajlihi steht praepositionslos im Akkusativ. جِئْتُ طَلَبًا = Maf'ul li-Ajlihi. جِئْتُ لِطَلَبٍ = Jarr wa-Majrur. Beide drücken den Zweck aus, aber die Konstruktion unterscheidet sich."
           }
         ]
       }

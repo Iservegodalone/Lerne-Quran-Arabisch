@@ -9,14 +9,14 @@ const weakVerbTables = weakVerbTablesData
 
 /**
  * PrintableSheet — Druckbare Zusammenfassungen / Cheat-Sheets
- * Generiert druckbare Referenzblaetter fuer Konjugation, Partikeln, Pronomen etc.
+ * Generiert druckbare Referenzblaetter für Konjugation, Partikeln, Pronomen etc.
  */
 
 const SHEET_TYPES = [
   { id: 'conjugation', title: 'Konjugationstabelle', desc: 'Verbformen I-X mit allen Personen/Genera' },
   { id: 'particles', title: 'Partikelliste', desc: 'Alle 72 Partikeln mit Bedeutung und Funktion' },
-  { id: 'pronouns', title: 'Pronomen-Uebersicht', desc: 'Unabhaengige, angehaengte, Demonstrativ-, Relativ- und Fragepronomen' },
-  { id: 'noun_patterns', title: 'Nomenmuster', desc: 'Haeufige Nomenmuster (Awzan) mit Beispielen' },
+  { id: 'pronouns', title: 'Pronomen-Übersicht', desc: 'Unabhängige, angehängte, Demonstrativ-, Relativ- und Fragepronomen' },
+  { id: 'noun_patterns', title: 'Nomenmuster', desc: 'Häufige Nomenmuster (Awzan) mit Beispielen' },
   { id: 'case_rules', title: 'Kasusregeln', desc: 'Wann Nominativ, Akkusativ, Genitiv' },
   ...(weakVerbTables ? [{ id: 'weak_verbs', title: 'Schwache Verben', desc: 'Konjugation aller schwachen Verbtypen (hohl, defektiv, assimiliert, verdoppelt, hamziert)' }] : []),
 ]
@@ -119,8 +119,8 @@ function ParticleSheet() {
 
 function PronounSheet() {
   const sections = [
-    { title: 'Unabhaengige Pronomen', data: pronouns?.independent?.pronouns || [] },
-    { title: 'Suffix-Pronomen (angehaengt)', data: pronouns?.suffix?.pronouns || [] },
+    { title: 'Unabhängige Pronomen', data: pronouns?.independent?.pronouns || [] },
+    { title: 'Suffix-Pronomen (angehängt)', data: pronouns?.suffix?.pronouns || [] },
     { title: 'Demonstrativpronomen (nah)', data: pronouns?.demonstrative?.near?.pronouns || [] },
     { title: 'Demonstrativpronomen (fern)', data: pronouns?.demonstrative?.far?.pronouns || [] },
     { title: 'Relativpronomen', data: pronouns?.relative?.pronouns || [] },
@@ -128,7 +128,7 @@ function PronounSheet() {
   ]
   return (
     <div>
-      <h1>Pronomen-Uebersicht</h1>
+      <h1>Pronomen-Übersicht</h1>
       {sections.map(sec => sec.data.length > 0 && (
         <div key={sec.title} style={{ marginBottom: '16px', pageBreakInside: 'avoid' }}>
           <h2>{sec.title}</h2>
@@ -187,10 +187,10 @@ function CaseRuleSheet() {
         <tbody>
           <tr><td><strong>Fa'il</strong></td><td>Subjekt des Verbalsatzes</td><td className="arabic" dir="rtl">كَتَبَ الرَّجُلُ</td></tr>
           <tr><td><strong>Mubtada'</strong></td><td>Thema des Nominalsatzes</td><td className="arabic" dir="rtl">الرَّجُلُ كَاتِبٌ</td></tr>
-          <tr><td><strong>Khabar</strong></td><td>Praedikat des Nominalsatzes</td><td className="arabic" dir="rtl">الرَّجُلُ كَاتِبٌ</td></tr>
+          <tr><td><strong>Khabar</strong></td><td>Prädikat des Nominalsatzes</td><td className="arabic" dir="rtl">الرَّجُلُ كَاتِبٌ</td></tr>
           <tr><td><strong>Na'ib al-Fa'il</strong></td><td>Stellvertreter-Subjekt (Passiv)</td><td className="arabic" dir="rtl">كُتِبَ الكِتَابُ</td></tr>
           <tr><td><strong>Ism Kana</strong></td><td>Subjekt von kana und Schwestern</td><td className="arabic" dir="rtl">كَانَ الرَّجُلُ</td></tr>
-          <tr><td><strong>Khabar Inna</strong></td><td>Praedikat von inna und Schwestern</td><td className="arabic" dir="rtl">إِنَّ الرَّجُلَ كَاتِبٌ</td></tr>
+          <tr><td><strong>Khabar Inna</strong></td><td>Prädikat von inna und Schwestern</td><td className="arabic" dir="rtl">إِنَّ الرَّجُلَ كَاتِبٌ</td></tr>
         </tbody>
       </table>
       <h2>Akkusativ (Mansub — Fatha)</h2>
@@ -203,7 +203,7 @@ function CaseRuleSheet() {
           <tr><td><strong>Maf'ul lahu</strong></td><td>Kausalobjekt</td><td className="arabic" dir="rtl">جَاءَ طَلَبًا لِلْعِلْمِ</td></tr>
           <tr><td><strong>Maf'ul fihi</strong></td><td>Zeitadverb (Zarf)</td><td className="arabic" dir="rtl">جَاءَ يَوْمَ الجُمُعَةِ</td></tr>
           <tr><td><strong>Ism Inna</strong></td><td>Subjekt von inna und Schwestern</td><td className="arabic" dir="rtl">إِنَّ الرَّجُلَ</td></tr>
-          <tr><td><strong>Khabar Kana</strong></td><td>Praedikat von kana und Schwestern</td><td className="arabic" dir="rtl">كَانَ كَاتِبًا</td></tr>
+          <tr><td><strong>Khabar Kana</strong></td><td>Prädikat von kana und Schwestern</td><td className="arabic" dir="rtl">كَانَ كَاتِبًا</td></tr>
           <tr><td><strong>Munada</strong></td><td>Angerufener (Vokativ)</td><td className="arabic" dir="rtl">يَا رَجُلًا</td></tr>
           <tr><td><strong>Mustathna</strong></td><td>Ausnahme (mit illa)</td><td className="arabic" dir="rtl">جَاءُوا إِلَّا زَيْدًا</td></tr>
         </tbody>
@@ -211,7 +211,7 @@ function CaseRuleSheet() {
       <h2>Genitiv (Majrur — Kasra)</h2>
       <table>
         <tbody>
-          <tr><td><strong>Nach Praeposition</strong></td><td>Jedes Nomen nach min, fi, 'ala, ila, bi, li, etc.</td><td className="arabic" dir="rtl">فِي الكِتَابِ</td></tr>
+          <tr><td><strong>Nach Präposition</strong></td><td>Jedes Nomen nach min, fi, 'ala, ila, bi, li, etc.</td><td className="arabic" dir="rtl">فِي الكِتَابِ</td></tr>
           <tr><td><strong>Mudaf ilayhi</strong></td><td>Zweiter Teil einer Idafa (Genitivverbindung)</td><td className="arabic" dir="rtl">كِتَابُ اللَّهِ</td></tr>
           <tr><td><strong>Tabi'</strong></td><td>Adjektiv/Apposition zu einem Genitiv</td><td className="arabic" dir="rtl">مِنَ الكِتَابِ الكَرِيمِ</td></tr>
         </tbody>
@@ -286,11 +286,11 @@ export default function PrintableSheet({ onBack }) {
           <button onClick={onBack} style={{
             background: 'none', border: 'none', color: 'var(--text-secondary)',
             cursor: 'pointer', fontSize: '0.9rem', padding: '8px 0', marginBottom: '16px',
-          }}>Zurueck</button>
+          }}>Zurück</button>
         )}
         <h2 style={{ marginBottom: '8px' }}>Druckbare Referenzblaetter</h2>
         <p style={{ color: 'var(--text-secondary)', marginBottom: '24px', fontSize: '0.9rem' }}>
-          Waehle ein Referenzblatt zum Anzeigen und Drucken.
+          Wähle ein Referenzblatt zum Anzeigen und Drucken.
         </p>
         <div style={{ display: 'flex', flexDirection: 'column', gap: '10px' }}>
           {SHEET_TYPES.map(s => (
@@ -321,7 +321,7 @@ export default function PrintableSheet({ onBack }) {
           padding: '6px 14px', borderRadius: 'var(--radius-sm)',
           background: 'var(--bg-input)', border: '1px solid var(--border)',
           color: 'var(--text-primary)', cursor: 'pointer', fontSize: '0.85rem',
-        }}>Zurueck</button>
+        }}>Zurück</button>
         <button onClick={handlePrint} style={{
           padding: '6px 14px', borderRadius: 'var(--radius-sm)',
           background: 'var(--accent-teal)', border: 'none',

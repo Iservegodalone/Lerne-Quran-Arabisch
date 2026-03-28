@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": "Uthmani-Text Konfiguration",
-    "description": "Konfiguration fuer die parallele Anzeige von Uthmani-Orthographie neben den anderen Textschichten.",
+    "description": "Konfiguration für die parallele Anzeige von Uthmani-Orthographie neben den anderen Textschichten.",
     "status": "INTEGRIERT — quran-uthmani.json aus tanzil.net/download (Quran Uthmani Format)",
     "source": "https://tanzil.net/download — 'Quran Uthmani' Format, Text Output",
     "format": "JSON mit identischer Struktur wie quran-simple-clean.json, aber mit Uthmani-Orthographie und Tashkil"

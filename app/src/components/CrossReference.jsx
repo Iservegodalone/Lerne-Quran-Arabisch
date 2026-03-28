@@ -314,7 +314,7 @@ export default function CrossReference({ word, root, onNavigate, onClose }) {
       {/* Wildcard hint in form mode */}
       {mode === 'form' && hasWildcard && (
         <div style={{ fontSize: '0.75rem', color: 'var(--accent-teal)', marginBottom: '8px' }}>
-          Platzhaltersuche aktiv: * steht fuer beliebige Zeichen
+          Platzhaltersuche aktiv: * steht für beliebige Zeichen
         </div>
       )}
 

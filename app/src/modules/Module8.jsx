@@ -125,7 +125,7 @@ class LazyErrorBoundary extends Component {
  * - Schreibuebung (WritingExercise)
  * - Druckbare Referenzblaetter (PrintableSheet)
  * - Vokalisierungsuebung (VocalizationExercise)
- * - Ambiguitaetsuebung (AmbiguityExercise)
+ * - Ambiguitätsuebung (AmbiguityExercise)
  * - Konkordanz (CrossReference)
  * - Grammatik-Nachschlagewerk (GrammarSidebar)
  */
@@ -233,7 +233,7 @@ function LayerCompareView({ onBack }) {
   if (!layerData) {
     return (
       <div style={{ maxWidth: '1100px', margin: '0 auto', padding: '40px 0', textAlign: 'center' }}>
-        <button onClick={onBack} style={{ background: 'none', border: 'none', color: 'var(--text-secondary)', cursor: 'pointer', fontSize: '0.9rem', padding: '8px 0', marginBottom: 12 }}>Zurueck</button>
+        <button onClick={onBack} style={{ background: 'none', border: 'none', color: 'var(--text-secondary)', cursor: 'pointer', fontSize: '0.9rem', padding: '8px 0', marginBottom: 12 }}>Zurück</button>
         <p style={{ color: 'var(--text-secondary)' }}>Textschichten werden geladen...</p>
       </div>
     )
@@ -248,10 +248,10 @@ function LayerCompareView({ onBack }) {
 
   return (
     <div style={{ maxWidth: '1100px', margin: '0 auto' }}>
-      <button onClick={onBack} style={{ background: 'none', border: 'none', color: 'var(--text-secondary)', cursor: 'pointer', fontSize: '0.9rem', padding: '8px 0', marginBottom: 12 }}>Zurueck</button>
+      <button onClick={onBack} style={{ background: 'none', border: 'none', color: 'var(--text-secondary)', cursor: 'pointer', fontSize: '0.9rem', padding: '8px 0', marginBottom: 12 }}>Zurück</button>
       <h2 style={{ marginBottom: '4px' }}>Schichten-Vergleich</h2>
       <p style={{ color: 'var(--text-secondary)', marginBottom: '16px', fontSize: '0.9rem' }}>
-        Derselbe Vers in allen 4 historischen Textschichten — vom aeltesten Manuskript (Rasm) bis zur vollen Vokalisierung.
+        Derselbe Vers in allen 4 historischen Textschichten — vom ältesten Manuskript (Rasm) bis zur vollen Vokalisierung.
       </p>
 
       {/* Navigation */}
@@ -280,7 +280,7 @@ function LayerCompareView({ onBack }) {
         <span style={{ fontSize: '0.8rem', color: 'var(--text-muted)' }}>({maxVerse} Verse)</span>
         <div style={{ display: 'flex', gap: '6px', marginLeft: 'auto' }}>
           <button disabled={startVerse <= 1} onClick={() => setStartVerse(Math.max(1, startVerse - versesPerPage))}
-            style={{ padding: '4px 12px', borderRadius: 'var(--radius)', border: '1px solid var(--border)', background: 'var(--bg-input)', color: 'var(--text-primary)', cursor: startVerse <= 1 ? 'default' : 'pointer', opacity: startVerse <= 1 ? 0.4 : 1 }}>Zurueck</button>
+            style={{ padding: '4px 12px', borderRadius: 'var(--radius)', border: '1px solid var(--border)', background: 'var(--bg-input)', color: 'var(--text-primary)', cursor: startVerse <= 1 ? 'default' : 'pointer', opacity: startVerse <= 1 ? 0.4 : 1 }}>Zurück</button>
           <button disabled={endVerse >= maxVerse} onClick={() => setStartVerse(Math.min(maxVerse, startVerse + versesPerPage))}
             style={{ padding: '4px 12px', borderRadius: 'var(--radius)', border: '1px solid var(--border)', background: 'var(--bg-input)', color: 'var(--text-primary)', cursor: endVerse >= maxVerse ? 'default' : 'pointer', opacity: endVerse >= maxVerse ? 0.4 : 1 }}>Weiter</button>
         </div>
@@ -362,10 +362,10 @@ function AnnotationsView({ onBack }) {
 
   return (
     <div style={{ maxWidth: '900px', margin: '0 auto' }}>
-      <button onClick={onBack} style={{ background: 'none', border: 'none', color: 'var(--text-secondary)', cursor: 'pointer', fontSize: '0.9rem', padding: '8px 0', marginBottom: 12 }}>Zurueck</button>
+      <button onClick={onBack} style={{ background: 'none', border: 'none', color: 'var(--text-secondary)', cursor: 'pointer', fontSize: '0.9rem', padding: '8px 0', marginBottom: 12 }}>Zurück</button>
       <h2 style={{ marginBottom: '4px' }}>Vers-Notizen und Lesezeichen</h2>
       <p style={{ color: 'var(--text-secondary)', marginBottom: '20px', fontSize: '0.9rem' }}>
-        Persoenliche Notizen an Quranverse heften. Beobachtungen, Fragen, linguistische Anmerkungen — alles an einem Ort.
+        Persönliche Notizen an Quranverse heften. Beobachtungen, Fragen, linguistische Anmerkungen — alles an einem Ort.
       </p>
 
       {/* Add new */}
@@ -442,7 +442,7 @@ function LayerBuildupDrill({ onBack }) {
   const [showAnswer, setShowAnswer] = useState(false)
   const exercises = layerBuildupDrill.exercises || []
   const ex = exercises[idx]
-  if (!ex) return <div>{onBack && <button onClick={onBack} style={{ background: 'none', border: 'none', color: 'var(--text-secondary)', cursor: 'pointer' }}>Zurueck</button>}<p>Keine Uebungen vorhanden.</p></div>
+  if (!ex) return <div>{onBack && <button onClick={onBack} style={{ background: 'none', border: 'none', color: 'var(--text-secondary)', cursor: 'pointer' }}>Zurück</button>}<p>Keine Übungen vorhanden.</p></div>
 
   const steps = [
     { label: 'Rasm', desc: 'Reines Konsonantenskelett ohne Punkte', text: ex.rasm, color: '#e74c3c' },
@@ -456,10 +456,10 @@ function LayerBuildupDrill({ onBack }) {
 
   return (
     <div style={{ maxWidth: '900px', margin: '0 auto' }}>
-      <button onClick={onBack} style={{ background: 'none', border: 'none', color: 'var(--text-secondary)', cursor: 'pointer', fontSize: '0.9rem', padding: '8px 0', marginBottom: 12 }}>Zurueck</button>
+      <button onClick={onBack} style={{ background: 'none', border: 'none', color: 'var(--text-secondary)', cursor: 'pointer', fontSize: '0.9rem', padding: '8px 0', marginBottom: 12 }}>Zurück</button>
       <h2 style={{ marginBottom: '4px' }}>Progressiver Schichtaufbau</h2>
       <p style={{ color: 'var(--text-secondary)', marginBottom: '16px', fontSize: '0.9rem' }}>
-        Gegeben ist der Rasm. Baue Schicht fuer Schicht auf: Punkte (I'jam) → Uthmani → volle Vokalisierung.
+        Gegeben ist der Rasm. Baue Schicht für Schicht auf: Punkte (I'jam) → Uthmani → volle Vokalisierung.
       </p>
       <div style={{ fontSize: '0.8rem', color: 'var(--text-muted)', marginBottom: '12px' }}>
         Vers {idx + 1}/{exercises.length} — Sure {ex.surah}:{ex.verse}
@@ -491,7 +491,7 @@ function LayerBuildupDrill({ onBack }) {
         <div style={{ marginBottom: '16px' }}>
           <button onClick={() => setShowAnswer(!showAnswer)}
             style={{ padding: '8px 16px', borderRadius: 'var(--radius)', border: '1px solid var(--border)', background: 'var(--bg-card)', color: 'var(--text-primary)', cursor: 'pointer', fontSize: '0.85rem' }}>
-            {showAnswer ? 'Naechste Schicht verbergen' : 'Naechste Schicht anzeigen'}
+            {showAnswer ? 'Nächste Schicht verbergen' : 'Nächste Schicht anzeigen'}
           </button>
           {showAnswer && (
             <div style={{ marginTop: '12px', padding: '16px', background: 'var(--bg-secondary)', borderRadius: 'var(--radius-lg)', borderLeft: `4px solid ${steps[step + 1].color}` }}>
@@ -505,7 +505,7 @@ function LayerBuildupDrill({ onBack }) {
       {/* Navigation */}
       <div style={{ display: 'flex', gap: '8px' }}>
         <button onClick={prevExercise} style={{ padding: '8px 20px', borderRadius: 'var(--radius)', border: '1px solid var(--border)', background: 'var(--bg-input)', color: 'var(--text-primary)', cursor: 'pointer' }}>Vorheriger Vers</button>
-        <button onClick={nextExercise} style={{ padding: '8px 20px', borderRadius: 'var(--radius)', border: '1px solid var(--accent-teal)', background: 'var(--accent-teal)', color: '#fff', cursor: 'pointer', fontWeight: 600 }}>Naechster Vers</button>
+        <button onClick={nextExercise} style={{ padding: '8px 20px', borderRadius: 'var(--radius)', border: '1px solid var(--accent-teal)', background: 'var(--accent-teal)', color: '#fff', cursor: 'pointer', fontWeight: 600 }}>Nächster Vers</button>
       </div>
     </div>
   )
@@ -522,14 +522,14 @@ function RasmLesson({ onBack }) {
       <button onClick={onBack} style={{
         background: 'none', border: 'none', color: 'var(--text-secondary)',
         cursor: 'pointer', fontSize: '0.9rem', padding: '8px 0', marginBottom: '16px',
-      }}>Zurueck zur Uebersicht</button>
+      }}>Zurück zur Übersicht</button>
 
       <h2 style={{ marginBottom: '4px' }}>Orthographie des Konsonantentextes</h2>
       <p style={{ color: 'var(--text-secondary)', marginBottom: '12px', fontSize: '0.9rem' }}>
         {rasmData.meta?.description}
       </p>
       <p style={{ color: 'var(--text-muted)', marginBottom: '20px', fontSize: '0.8rem', fontStyle: 'italic' }}>
-        Siehe auch: Modul 2 → Lektion 2.24 (Uthmani-Orthographie) fuer die lektionsbasierte Aufbereitung mit Tests.
+        Siehe auch: Modul 2 → Lektion 2.24 (Uthmani-Orthographie) für die lektionsbasierte Aufbereitung mit Tests.
       </p>
 
       {/* Category tabs */}
@@ -660,7 +660,7 @@ function RasmTest({ onBack }) {
         <button onClick={onBack} style={{
           background: 'none', border: 'none', color: 'var(--text-secondary)',
           cursor: 'pointer', fontSize: '0.9rem', padding: '8px 0', marginBottom: '16px',
-        }}>Zurueck</button>
+        }}>Zurück</button>
         <h2>Ergebnis — Rasm-Orthographie</h2>
         <div style={{ fontSize: '3rem', fontWeight: 700, color: 'var(--accent-teal)', margin: '24px 0' }}>
           {score.correct} / {score.total}
@@ -679,7 +679,7 @@ function RasmTest({ onBack }) {
       <button onClick={onBack} style={{
         background: 'none', border: 'none', color: 'var(--text-secondary)',
         cursor: 'pointer', fontSize: '0.9rem', padding: '8px 0', marginBottom: '16px',
-      }}>Zurueck</button>
+      }}>Zurück</button>
       <h2>Test — Rasm-Orthographie</h2>
       <div style={{ fontSize: '0.85rem', color: 'var(--text-muted)', marginBottom: '16px', textAlign: 'right' }}>
         {currentIdx + 1} / {questions.length}
@@ -722,16 +722,16 @@ function RasmTest({ onBack }) {
 function LanesGuide({ onBack }) {
   return (
     <div style={{ maxWidth: '800px', margin: '0 auto' }}>
-      <button onClick={onBack} style={{ background: 'none', border: 'none', color: 'var(--text-secondary)', cursor: 'pointer', fontSize: '0.9rem', padding: '8px 0', marginBottom: '16px' }}>Zurueck zur Uebersicht</button>
+      <button onClick={onBack} style={{ background: 'none', border: 'none', color: 'var(--text-secondary)', cursor: 'pointer', fontSize: '0.9rem', padding: '8px 0', marginBottom: '16px' }}>Zurück zur Übersicht</button>
       <h2>Lane's Lexicon — Kurzanleitung</h2>
       <p style={{ color: 'var(--text-secondary)', marginBottom: '20px', fontSize: '0.9rem', lineHeight: 1.7 }}>
-        Lane's Arabic-English Lexicon (Edward William Lane, 1863-1893) ist das gruendlichste arabisch-englische Woerterbuch fuer klassisches Arabisch. Es dokumentiert Wortbedeutungen anhand von Sprachgebrauch und Poesie — die linguistische Rohform. Frei verfuegbar auf ejtaal.net.
+        Lane's Arabic-English Lexicon (Edward William Lane, 1863-1893) ist das gründlichste arabisch-englische Wörterbuch für klassisches Arabisch. Es dokumentiert Wortbedeutungen anhand von Sprachgebrauch und Poesie — die linguistische Rohform. Frei verfügbar auf ejtaal.net.
       </p>
 
       <div style={{ display: 'flex', flexDirection: 'column', gap: '16px' }}>
         <div style={{ padding: '16px', background: 'var(--bg-card)', border: '1px solid var(--border)', borderRadius: 'var(--radius-lg)' }}>
           <h3 style={{ color: 'var(--accent-teal)', marginBottom: '8px', fontSize: '1rem' }}>1. Eine Wurzel nachschlagen</h3>
-          <p style={{ lineHeight: 1.7, fontSize: '0.9rem' }}>Gehe zu <strong>ejtaal.net/aa/</strong>. Gib die Wurzel in lateinischer Transliteration ein (z.B. <code>ktb</code> fuer ك-ت-ب). Das System springt zur entsprechenden Seite in Lane's. Die Wurzel steht als Ueberschrift, darunter alle dokumentierten Ableitungen.</p>
+          <p style={{ lineHeight: 1.7, fontSize: '0.9rem' }}>Gehe zu <strong>ejtaal.net/aa/</strong>. Gib die Wurzel in lateinischer Transliteration ein (z.B. <code>ktb</code> für ك-ت-ب). Das System springt zur entsprechenden Seite in Lane's. Die Wurzel steht als Überschrift, darunter alle dokumentierten Ableitungen.</p>
         </div>
 
         <div style={{ padding: '16px', background: 'var(--bg-card)', border: '1px solid var(--border)', borderRadius: 'var(--radius-lg)' }}>
@@ -740,14 +740,14 @@ function LanesGuide({ onBack }) {
           — <strong>Bedeutungsangaben</strong> auf Englisch, oft mit mehreren Nuancen<br/>
           — <strong>Belegstellen</strong> aus klassischer arabischer Literatur und Poesie<br/>
           — <strong>Grammatische Hinweise</strong>: Verbform, transitiv/intransitiv, Pluralbildung<br/>
-          — <strong>Verwandte Woerter</strong> derselben Wurzel mit Bedeutungsverschiebungen</p>
+          — <strong>Verwandte Wörter</strong> derselben Wurzel mit Bedeutungsverschiebungen</p>
         </div>
 
         <div style={{ padding: '16px', background: 'var(--bg-card)', border: '1px solid var(--border)', borderRadius: 'var(--radius-lg)' }}>
-          <h3 style={{ color: 'var(--accent-teal)', marginBottom: '8px', fontSize: '1rem' }}>3. Haeufige Abkuerzungen</h3>
+          <h3 style={{ color: 'var(--accent-teal)', marginBottom: '8px', fontSize: '1rem' }}>3. Häufige Abkürzungen</h3>
           <p style={{ lineHeight: 1.7, fontSize: '0.9rem' }}>
             <code>inf. n.</code> = Infinitiv (Masdar) | <code>pl.</code> = Plural | <code>fem.</code> = Feminin | <code>sing.</code> = Singular<br/>
-            <code>S</code> = Surah (Quran-Verweis) | <code>K</code> = Kitab (Buch-Verweis) | <code>TA</code> = Taj al-Arus<br/>
+            <code>S</code> = Ṣiḥāḥ (Jawharis Wörterbuch الصحاح) | <code>K</code> = Qāmūs al-Muḥīṭ (Fairuzabadis Wörterbuch القاموس المحيط) | <code>TA</code> = Tāj al-ʿArūs<br/>
             <code>trans.</code> = transitiv | <code>intrans.</code> = intransitiv | <code>contr.</code> = kontraer
           </p>
         </div>
@@ -757,7 +757,7 @@ function LanesGuide({ onBack }) {
           <p style={{ lineHeight: 1.7, fontSize: '0.9rem' }}>
             — Lies nicht den gesamten Eintrag. Suche die Verbform oder das Nomen das du brauchst.<br/>
             — Achte auf die <strong>Grundbedeutung</strong> der Wurzel (steht meist ganz am Anfang) — sie ist der semantische Kern aller Ableitungen.<br/>
-            — Wenn ein Wort mehrere Bedeutungen hat: Der quranische Kontext entscheidet welche zutrifft. Lane's gibt die Moeglichkeiten, der Qurantext zeigt welche relevant ist.<br/>
+            — Wenn ein Wort mehrere Bedeutungen hat: Der quranische Kontext entscheidet welche zutrifft. Lane's gibt die Möglichkeiten, der Qurantext zeigt welche relevant ist.<br/>
             — Lane's ist auf Englisch. Wenn du Arabisch-Arabisch brauchst: Lisan al-Arab (lisaan.net).
           </p>
         </div>
@@ -770,10 +770,10 @@ function LanesGuide({ onBack }) {
 function FirstVerseWalkthrough({ onBack }) {
   return (
     <div style={{ maxWidth: '800px', margin: '0 auto' }}>
-      <button onClick={onBack} style={{ background: 'none', border: 'none', color: 'var(--text-secondary)', cursor: 'pointer', fontSize: '0.9rem', padding: '8px 0', marginBottom: '16px' }}>Zurueck zur Uebersicht</button>
-      <h2>Dein erster Vers — Sure 1:1 Schritt fuer Schritt</h2>
+      <button onClick={onBack} style={{ background: 'none', border: 'none', color: 'var(--text-secondary)', cursor: 'pointer', fontSize: '0.9rem', padding: '8px 0', marginBottom: '16px' }}>Zurück zur Übersicht</button>
+      <h2>Dein erster Vers — Sure 1:1 Schritt für Schritt</h2>
       <p style={{ color: 'var(--text-secondary)', marginBottom: '20px', fontSize: '0.9rem', lineHeight: 1.7 }}>
-        Dieses Tutorial zeigt den kompletten Analyseprozess an einem realen Vers. Danach bist du bereit fuer die Vers-Werkstatt (Modul 3).
+        Dieses Tutorial zeigt den kompletten Analyseprozess an einem realen Vers. Danach bist du bereit für die Vers-Werkstatt (Modul 3).
       </p>
 
       <div className="arabic" dir="rtl" style={{ fontSize: '2rem', textAlign: 'center', padding: '20px', background: 'var(--bg-card)', borderRadius: 'var(--radius-lg)', border: '1px solid var(--border)', marginBottom: '20px', color: 'var(--accent-gold)' }}>
@@ -784,14 +784,14 @@ function FirstVerseWalkthrough({ onBack }) {
         <div style={{ padding: '16px', background: 'var(--bg-card)', border: '1px solid var(--border)', borderRadius: 'var(--radius-lg)' }}>
           <h3 style={{ color: 'var(--accent-gold)', marginBottom: '8px', fontSize: '1rem' }}>Schritt 1: Partikeln erkennen</h3>
           <p style={{ lineHeight: 1.7, fontSize: '0.9rem' }}>Lies den Konsonantentext: <strong>بسم الله الرحمن الرحيم</strong><br/>
-          Partikeln: <span className="arabic" dir="rtl" style={{ color: 'var(--accent-teal)' }}>ب</span> (bi = mit/in/durch) — Praeposition, erzwingt Genitiv auf das folgende Wort.<br/>
+          Partikeln: <span className="arabic" dir="rtl" style={{ color: 'var(--accent-teal)' }}>ب</span> (bi = mit/in/durch) — Präposition, erzwingt Genitiv auf das folgende Wort.<br/>
           <span className="arabic" dir="rtl" style={{ color: 'var(--accent-teal)' }}>ال</span> (al- = der/die/das) — bestimmter Artikel, erscheint dreimal (الله, الرحمن, الرحيم).</p>
         </div>
 
         <div style={{ padding: '16px', background: 'var(--bg-card)', border: '1px solid var(--border)', borderRadius: 'var(--radius-lg)' }}>
           <h3 style={{ color: 'var(--accent-gold)', marginBottom: '8px', fontSize: '1rem' }}>Schritt 2a: Wurzeln extrahieren</h3>
           <p style={{ lineHeight: 1.7, fontSize: '0.9rem' }}>
-          <strong><span className="arabic" dir="rtl">اسم</span></strong> (nachdem ب als Praefix erkannt): Wurzel <span className="arabic" dir="rtl">س-م-و</span> (s-m-w). In Lane's: "name, that by which a thing is known." Muster: اِفْعِل (Masdar/Nomen).<br/><br/>
+          <strong><span className="arabic" dir="rtl">اسم</span></strong> (nachdem ب als Präfix erkannt): Wurzeletymologie umstritten: <span className="arabic" dir="rtl">س-م-و</span> (s-m-w, Basrische Schule: Erhöhung) vs. <span className="arabic" dir="rtl">و-س-م</span> (w-s-m, Kufische Schule: Kennzeichnung). In Lane's: "name, that by which a thing is known." Muster: اِفْع (Nomen, mit elidiertem Endradikal و).<br/><br/>
           <strong><span className="arabic" dir="rtl">الله</span></strong>: Wurzel <span className="arabic" dir="rtl">ا-ل-ه</span> (ʾ-l-h). Grundbedeutung in Lane's: Gottheit, das Angebetete. الله ist der bestimmte Eigenname.<br/><br/>
           <strong><span className="arabic" dir="rtl">رحمن</span></strong> und <strong><span className="arabic" dir="rtl">رحيم</span></strong>: Beide Wurzel <span className="arabic" dir="rtl">ر-ح-م</span> (r-ḥ-m). Lane's: Barmherzigkeit, Mutterschoss, Zartheit. رحمن ist Muster فَعْلَان (Intensivform). رحيم ist Muster فَعِيل (dauerhafte Eigenschaft).</p>
         </div>
@@ -799,16 +799,16 @@ function FirstVerseWalkthrough({ onBack }) {
         <div style={{ padding: '16px', background: 'var(--bg-card)', border: '1px solid var(--border)', borderRadius: 'var(--radius-lg)' }}>
           <h3 style={{ color: 'var(--accent-gold)', marginBottom: '8px', fontSize: '1rem' }}>Schritt 2b-d: Form, Vokalisierung, Bedeutung</h3>
           <p style={{ lineHeight: 1.7, fontSize: '0.9rem' }}>
-          <strong>بسم</strong>: Praeposition ب + Nomen اسم im Genitiv (wegen ب). Vokalisierung: بِسْمِ (bismi).<br/>
+          <strong>بسم</strong>: Präposition ب + Nomen اسم im Genitiv (wegen ب). Das anlautende Alif von اسم ist ein Hamzat al-Waṣl (Verbindungshamza) — es fällt bei Verbindung mit der Präposition weg: ب + اِسْم → بِسْمِ. Vokalisierung: بِسْمِ (bismi).<br/>
           <strong>الله</strong>: Eigenname, Genitiv (wegen Idafa mit اسم). Vokalisierung: اللَّهِ (allāhi).<br/>
-          <strong>الرحمن</strong>: Attribut zu الله, ebenfalls Genitiv. Diptot (Muster فَعْلَان). Vokalisierung: الرَّحْمَنِ (ar-raḥmāni). Beachte: Im Konsonantentext ohne Alif nach Mim geschrieben (الرحمن statt الرحمان — Rasm-Orthographie!).<br/>
+          <strong>الرحمن</strong>: Attribut zu الله, ebenfalls Genitiv. Diptot (Muster فَعْلَان) — hier mit Artikel (ال), daher triptotisch dekliniert (Kasra statt Fatha im Genitiv). Vokalisierung: الرَّحْمَنِ (ar-raḥmāni). Beachte: Im Konsonantentext ohne Alif nach Mim geschrieben (الرحمن statt الرحمان — Rasm-Orthographie!).<br/>
           <strong>الرحيم</strong>: Zweites Attribut, Genitiv. Vokalisierung: الرَّحِيمِ (ar-raḥīmi).</p>
         </div>
 
         <div style={{ padding: '16px', background: 'var(--bg-card)', border: '1px solid var(--border)', borderRadius: 'var(--radius-lg)' }}>
           <h3 style={{ color: 'var(--accent-gold)', marginBottom: '8px', fontSize: '1rem' }}>Schritt 2e: Syntaktische Analyse</h3>
           <p style={{ lineHeight: 1.7, fontSize: '0.9rem' }}>
-          <strong>بسم</strong>: Jarr wa-Majrur (Praeposition + Genitiv). Der Text beginnt mit einer Praepositionalphrase. Syntaktisch muss ein Jarr wa-Majrur an etwas geknuepft sein — hier steht der Kontext: es ist der Anfang des Textes.<br/>
+          <strong>بسم</strong>: Jarr wa-Majrur (Präposition + Genitiv). Der Text beginnt mit einer Präpositionalphrase. Syntaktisch muss ein Jarr wa-Majrur an etwas geknüpft sein — hier steht der Kontext: es ist der Anfang des Textes.<br/>
           <strong>الله</strong>: Mudaf ilayhi (zweites Glied der Genitivverbindung اسم الله).<br/>
           <strong>الرحمن</strong>: Sifa (Attribut) zu الله — kongruent in Kasus (Genitiv) und Definitheit (mit Artikel).<br/>
           <strong>الرحيم</strong>: Zweites Sifa — ebenfalls Genitiv, definit, kongruent.</p>
@@ -817,8 +817,8 @@ function FirstVerseWalkthrough({ onBack }) {
         <div style={{ padding: '16px', background: 'var(--accent-gold-bg)', border: '1px solid var(--accent-gold)', borderRadius: 'var(--radius-lg)' }}>
           <h3 style={{ color: 'var(--accent-gold)', marginBottom: '8px', fontSize: '1rem' }}>Ergebnis</h3>
           <p style={{ lineHeight: 1.7, fontSize: '0.9rem' }}>
-          Ein Vers, vier Woerter. Jedes Wort wurde: vom Konsonantentext gelesen, die Wurzel extrahiert, in Lane's nachgeschlagen, die grammatische Form bestimmt, die Vokalisierung aus der Grammatik abgeleitet, die syntaktische Rolle im Satz bestimmt.<br/><br/>
-          <strong>Das ist der Prozess.</strong> In Modul 3 machst du genau das — Vers fuer Vers, Wort fuer Wort. Mit der Zeit wird es schneller. Die Grammatik wird intuitiv. Die Wurzeln wiederholen sich. Und irgendwann liest du den Text direkt.</p>
+          Ein Vers, vier Wörter. Jedes Wort wurde: vom Konsonantentext gelesen, die Wurzel extrahiert, in Lane's nachgeschlagen, die grammatische Form bestimmt, die Vokalisierung aus der Grammatik abgeleitet, die syntaktische Rolle im Satz bestimmt.<br/><br/>
+          <strong>Das ist der Prozess.</strong> In Modul 3 machst du genau das — Vers für Vers, Wort für Wort. Mit der Zeit wird es schneller. Die Grammatik wird intuitiv. Die Wurzeln wiederholen sich. Und irgendwann liest du den Text direkt.</p>
         </div>
       </div>
     </div>
@@ -860,11 +860,11 @@ function HapaxBrowser({ onBack }) {
   return (
     <div style={{ maxWidth: '900px', margin: '0 auto' }}>
       <button onClick={onBack} style={{ background: 'none', border: 'none', color: 'var(--text-secondary)', cursor: 'pointer', fontSize: '0.9rem', padding: '8px 0', marginBottom: '12px' }}>
-        Zurueck zur Uebersicht
+        Zurück zur Übersicht
       </button>
       <h2 style={{ marginBottom: '4px' }}>Hapax Legomena</h2>
       <p style={{ color: 'var(--text-secondary)', marginBottom: '16px', fontSize: '0.9rem' }}>
-        Wortformen, die in genau dieser Flexionsform nur einmal im Quran vorkommen (Form-Hapax). Viele stammen von haeufigen Wurzeln — die Form selbst ist einmalig, nicht die Wurzel.
+        Wortformen, die in genau dieser Flexionsform nur einmal im Quran vorkommen (Form-Hapax). Viele stammen von häufigen Wurzeln — die Form selbst ist einmalig, nicht die Wurzel.
         Vokalisierte Hapax: {hapaxData.meta?.hapaxByVocalizedForm?.toLocaleString() || '?'} |
         Konsonantale Hapax: {hapaxData.meta?.hapaxByConsonantalForm?.toLocaleString() || '?'}
       </p>
@@ -973,7 +973,7 @@ function LoanwordBrowser({ onBack }) {
   return (
     <div style={{ maxWidth: '900px', margin: '0 auto' }}>
       <button onClick={onBack} style={{ background: 'none', border: 'none', color: 'var(--text-secondary)', cursor: 'pointer', fontSize: '0.9rem', padding: '8px 0', marginBottom: '12px' }}>
-        Zurueck zur Uebersicht
+        Zurück zur Übersicht
       </button>
       <h2 style={{ marginBottom: '4px' }}>Lehnwoerter im Quran</h2>
       <p style={{ color: 'var(--text-secondary)', marginBottom: '16px', fontSize: '0.9rem' }}>
@@ -991,7 +991,7 @@ function LoanwordBrowser({ onBack }) {
         </select>
         <select value={sortBy} onChange={e => setSortBy(e.target.value)}
           style={{ padding: '8px 12px', borderRadius: 'var(--radius)', border: '1px solid var(--border)', background: 'var(--bg-input)', color: 'var(--text-primary)', fontSize: '0.85rem' }}>
-          <option value="frequency">Nach Haeufigkeit</option>
+          <option value="frequency">Nach Häufigkeit</option>
           <option value="alpha">Alphabetisch</option>
         </select>
       </div>
@@ -1074,11 +1074,11 @@ function CollocationBrowser({ onBack }) {
   return (
     <div style={{ maxWidth: '900px', margin: '0 auto' }}>
       <button onClick={onBack} style={{ background: 'none', border: 'none', color: 'var(--text-secondary)', cursor: 'pointer', fontSize: '0.9rem', padding: '8px 0', marginBottom: '12px' }}>
-        Zurueck zur Uebersicht
+        Zurück zur Übersicht
       </button>
       <h2 style={{ marginBottom: '4px' }}>Kollokationen</h2>
       <p style={{ color: 'var(--text-secondary)', marginBottom: '16px', fontSize: '0.9rem' }}>
-        Haeufig gemeinsam auftretende Woerter und Wurzeln im Quran.
+        Häufig gemeinsam auftretende Wörter und Wurzeln im Quran.
         {collocationData.meta?.totalRootPairs ? ` ${collocationData.meta.totalRootPairs} Wurzelpaare,` : ''}
         {collocationData.meta?.totalBigrams ? ` ${collocationData.meta.totalBigrams} Wort-Bigramme.` : ''}
       </p>
@@ -1257,7 +1257,7 @@ function ConsolidatedLexicon({ onBack }) {
   return (
     <div style={{ maxWidth: '900px', margin: '0 auto' }}>
       <button onClick={onBack} style={{ background: 'none', border: 'none', color: 'var(--text-secondary)', cursor: 'pointer', fontSize: '0.9rem', padding: '8px 0', marginBottom: '16px' }}>
-        Zurueck zur Uebersicht
+        Zurück zur Übersicht
       </button>
       <h2 style={{ marginBottom: '8px' }}>Lexikon</h2>
       <p style={{ color: 'var(--text-secondary)', marginBottom: '16px', fontSize: '0.9rem' }}>
@@ -1331,7 +1331,7 @@ function ConsolidatedLexicon({ onBack }) {
             background: 'none', border: 'none', color: 'var(--accent-teal)',
             cursor: 'pointer', fontSize: '0.85rem', marginBottom: '12px',
           }}>
-            Zurueck zu Ergebnissen
+            Zurück zu Ergebnissen
           </button>
           <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '16px' }}>
             <div>
@@ -1397,7 +1397,7 @@ function ConsolidatedLexicon({ onBack }) {
 
       {query.length >= 2 && results.length === 0 && (
         <p style={{ color: 'var(--text-muted)', textAlign: 'center', padding: '24px' }}>
-          Keine Ergebnisse fuer "{query}"
+          Keine Ergebnisse für "{query}"
         </p>
       )}
     </div>
@@ -1453,7 +1453,7 @@ export default function Module8() {
       <button onClick={() => setView(VIEWS.HOME)} style={{
         background: 'none', border: 'none', color: 'var(--text-secondary)',
         cursor: 'pointer', fontSize: '0.9rem', padding: '8px 0', marginBottom: '12px',
-      }}>Zurueck zur Uebersicht</button>
+      }}>Zurück zur Übersicht</button>
       <h2 style={{ marginBottom: '12px' }}>Konkordanz</h2>
       <Suspense fallback={lazyFallback}><CrossReference /></Suspense>
     </div>
@@ -1463,7 +1463,7 @@ export default function Module8() {
       <button onClick={() => setView(VIEWS.HOME)} style={{
         background: 'none', border: 'none', color: 'var(--text-secondary)',
         cursor: 'pointer', fontSize: '0.9rem', padding: '8px 0', marginBottom: '12px',
-      }}>Zurueck zur Uebersicht</button>
+      }}>Zurück zur Übersicht</button>
       <h2 style={{ marginBottom: '12px' }}>Grammatik-Nachschlagewerk</h2>
       <Suspense fallback={lazyFallback}><GrammarSidebar standalone={true} /></Suspense>
     </div>
@@ -1474,41 +1474,41 @@ export default function Module8() {
 
   if (view === VIEWS.DECOMPOSITION) return (
     <div style={{ maxWidth: '900px', margin: '0 auto' }}>
-      <button onClick={() => setView(VIEWS.HOME)} style={{ background: 'none', border: 'none', color: 'var(--text-secondary)', cursor: 'pointer', fontSize: '0.9rem', padding: '8px 0', marginBottom: '16px' }}>Zurueck zur Uebersicht</button>
+      <button onClick={() => setView(VIEWS.HOME)} style={{ background: 'none', border: 'none', color: 'var(--text-secondary)', cursor: 'pointer', fontSize: '0.9rem', padding: '8px 0', marginBottom: '16px' }}>Zurück zur Übersicht</button>
       <Suspense fallback={lazyFallback}><DecompositionExercise /></Suspense>
     </div>
   )
 
   if (view === VIEWS.CASE_DERIVATION) return (
     <div style={{ maxWidth: '900px', margin: '0 auto' }}>
-      <button onClick={() => setView(VIEWS.HOME)} style={{ background: 'none', border: 'none', color: 'var(--text-secondary)', cursor: 'pointer', fontSize: '0.9rem', padding: '8px 0', marginBottom: '16px' }}>Zurueck zur Uebersicht</button>
+      <button onClick={() => setView(VIEWS.HOME)} style={{ background: 'none', border: 'none', color: 'var(--text-secondary)', cursor: 'pointer', fontSize: '0.9rem', padding: '8px 0', marginBottom: '16px' }}>Zurück zur Übersicht</button>
       <Suspense fallback={lazyFallback}><CaseDerivationExercise /></Suspense>
     </div>
   )
 
   if (view === VIEWS.VERSE_SYNTHESIS) return (
     <div style={{ maxWidth: '900px', margin: '0 auto' }}>
-      <button onClick={() => setView(VIEWS.HOME)} style={{ background: 'none', border: 'none', color: 'var(--text-secondary)', cursor: 'pointer', fontSize: '0.9rem', padding: '8px 0', marginBottom: '16px' }}>Zurueck zur Uebersicht</button>
+      <button onClick={() => setView(VIEWS.HOME)} style={{ background: 'none', border: 'none', color: 'var(--text-secondary)', cursor: 'pointer', fontSize: '0.9rem', padding: '8px 0', marginBottom: '16px' }}>Zurück zur Übersicht</button>
       <Suspense fallback={lazyFallback}><VerseSynthesisExercise /></Suspense>
     </div>
   )
 
   if (view === VIEWS.ERROR_CORRECTION) return (
     <div style={{ maxWidth: '900px', margin: '0 auto' }}>
-      <button onClick={() => setView(VIEWS.HOME)} style={{ background: 'none', border: 'none', color: 'var(--text-secondary)', cursor: 'pointer', fontSize: '0.9rem', padding: '8px 0', marginBottom: '16px' }}>Zurueck zur Uebersicht</button>
+      <button onClick={() => setView(VIEWS.HOME)} style={{ background: 'none', border: 'none', color: 'var(--text-secondary)', cursor: 'pointer', fontSize: '0.9rem', padding: '8px 0', marginBottom: '16px' }}>Zurück zur Übersicht</button>
       <Suspense fallback={lazyFallback}><ErrorCorrectionExercise /></Suspense>
     </div>
   )
 
   if (view === VIEWS.CONTEXT_DISAMBIG) return (
     <div style={{ maxWidth: '900px', margin: '0 auto' }}>
-      <button onClick={() => setView(VIEWS.HOME)} style={{ background: 'none', border: 'none', color: 'var(--text-secondary)', cursor: 'pointer', fontSize: '0.9rem', padding: '8px 0', marginBottom: '16px' }}>Zurueck zur Uebersicht</button>
+      <button onClick={() => setView(VIEWS.HOME)} style={{ background: 'none', border: 'none', color: 'var(--text-secondary)', cursor: 'pointer', fontSize: '0.9rem', padding: '8px 0', marginBottom: '16px' }}>Zurück zur Übersicht</button>
       <Suspense fallback={lazyFallback}><ContextDisambiguationExercise /></Suspense>
     </div>
   )
 
   // New drill views
-  const newDrillBack = <button onClick={() => setView(VIEWS.HOME)} style={{ background: 'none', border: 'none', color: 'var(--text-secondary)', cursor: 'pointer', fontSize: '0.9rem', padding: '8px 0', marginBottom: '16px' }}>Zurueck zur Uebersicht</button>
+  const newDrillBack = <button onClick={() => setView(VIEWS.HOME)} style={{ background: 'none', border: 'none', color: 'var(--text-secondary)', cursor: 'pointer', fontSize: '0.9rem', padding: '8px 0', marginBottom: '16px' }}>Zurück zur Übersicht</button>
 
   if (view === VIEWS.IRAB) return (
     <Suspense fallback={lazyFallback}><div style={{ maxWidth: '900px', margin: '0 auto' }}>{newDrillBack}<IrabExercise /></div></Suspense>
@@ -1538,7 +1538,7 @@ export default function Module8() {
     <div style={{ maxWidth: '900px', margin: '0 auto' }}>
       {newDrillBack}
       <h2 style={{ marginBottom: '8px' }}>Rasm → Vokalisation Drill</h2>
-      <p style={{ color: 'var(--text-secondary)', marginBottom: '20px', fontSize: '0.9rem' }}>Vom reinen Konsonantentext zur grammatisch begruendeten Vokalisation in 5 Schritten.</p>
+      <p style={{ color: 'var(--text-secondary)', marginBottom: '20px', fontSize: '0.9rem' }}>Vom reinen Konsonantentext zur grammatisch begründeten Vokalisation in 5 Schritten.</p>
       {rasmVocDrillData.exercises.map((ex) => (
         <div key={ex.id} style={{ background: 'var(--bg-card)', border: '1px solid var(--border)', borderRadius: '8px', padding: '16px 20px', marginBottom: '12px' }}>
           <div style={{ display: 'flex', justifyContent: 'space-between', marginBottom: '8px' }}>
@@ -1565,7 +1565,7 @@ export default function Module8() {
     <div style={{ maxWidth: '900px', margin: '0 auto' }}>
       {newDrillBack}
       <h2 style={{ marginBottom: '8px' }}>Pausalformen-Drill</h2>
-      <p style={{ color: 'var(--text-secondary)', marginBottom: '16px', fontSize: '0.9rem' }}>Wie veraendert sich die Aussprache am Wortende bei einer Pause?</p>
+      <p style={{ color: 'var(--text-secondary)', marginBottom: '16px', fontSize: '0.9rem' }}>Wie verändert sich die Aussprache am Wortende bei einer Pause?</p>
       {pausalFormsDrillData.rules.map(rule => (
         <div key={rule.id} style={{ background: 'var(--bg-card)', border: '1px solid var(--border)', borderRadius: '8px', padding: '16px', marginBottom: '12px' }}>
           <h4 style={{ color: 'var(--accent)', marginBottom: '4px' }}>{rule.rule}</h4>
@@ -1580,7 +1580,7 @@ export default function Module8() {
           ))}
         </div>
       ))}
-      <h3 style={{ marginTop: '24px', marginBottom: '12px' }}>Uebungen</h3>
+      <h3 style={{ marginTop: '24px', marginBottom: '12px' }}>Übungen</h3>
       {pausalFormsDrillData.exercises.map((ex, i) => (
         <div key={i} style={{ background: 'var(--bg-card)', border: '1px solid var(--border)', borderRadius: '8px', padding: '12px 16px', marginBottom: '8px' }}>
           <span style={{ fontFamily: 'var(--font-arabic)', fontSize: '1.3rem' }}>{ex.context_form}</span>
@@ -1628,7 +1628,7 @@ export default function Module8() {
           <h4 style={{ color: 'var(--accent)' }}>{tr.title}</h4>
           <p style={{ fontSize: '0.85rem', marginBottom: '8px' }}>Wurzel: <span style={{ fontFamily: 'var(--font-arabic)' }}>{tr.root}</span> — {tr.meaning}</p>
           <table style={{ width: '100%', borderCollapse: 'collapse', fontSize: '0.85rem' }}>
-            <thead><tr style={{ borderBottom: '1px solid var(--border)' }}><th style={{ textAlign: 'left', padding: '4px' }}>Form</th><th style={{ textAlign: 'right', padding: '4px' }}>Ergebnis</th><th style={{ textAlign: 'left', padding: '4px' }}>Erklaerung</th></tr></thead>
+            <thead><tr style={{ borderBottom: '1px solid var(--border)' }}><th style={{ textAlign: 'left', padding: '4px' }}>Form</th><th style={{ textAlign: 'right', padding: '4px' }}>Ergebnis</th><th style={{ textAlign: 'left', padding: '4px' }}>Erklärung</th></tr></thead>
             <tbody>
               {tr.forms.map((f, j) => (
                 <tr key={j} style={{ borderBottom: '1px solid var(--border)' }}>
@@ -1773,7 +1773,7 @@ export default function Module8() {
       const [score, setScore] = useState({ c: 0, t: 0 })
       const exs = alifInventoryData.exercises || []
       const q = exs[qi]
-      if (!q) return <p style={{ color: 'var(--text-muted)' }}>Keine Uebungen.</p>
+      if (!q) return <p style={{ color: 'var(--text-muted)' }}>Keine Übungen.</p>
       const pick = (oi) => { setAns(oi); setScore(p => ({ c: p.c + (oi === q.correct ? 1 : 0), t: p.t + 1 })) }
       return (
         <div style={{ background: 'var(--bg-card)', borderRadius: 12, padding: 20, border: '1px solid var(--border)', marginBottom: 16 }}>
@@ -1789,7 +1789,7 @@ export default function Module8() {
             })}
           </div>
           {ans !== null && <div style={{ marginTop: 12, padding: '10px 14px', background: 'var(--bg-secondary)', borderRadius: 8, fontSize: '0.85rem', color: 'var(--text-secondary)', lineHeight: 1.6 }}>{q.explanation}</div>}
-          {ans !== null && <button onClick={() => { setQi(i => (i+1)%exs.length); setAns(null) }} style={{ marginTop: 10, padding: '8px 18px', borderRadius: 8, background: 'var(--accent-teal)', color: '#fff', border: 'none', cursor: 'pointer', fontWeight: 600 }}>Naechste</button>}
+          {ans !== null && <button onClick={() => { setQi(i => (i+1)%exs.length); setAns(null) }} style={{ marginTop: 10, padding: '8px 18px', borderRadius: 8, background: 'var(--accent-teal)', color: '#fff', border: 'none', cursor: 'pointer', fontWeight: 600 }}>Nächste</button>}
         </div>
       )
     }
@@ -1839,7 +1839,7 @@ export default function Module8() {
         </div>
         <div style={{ marginTop: '20px', padding: '12px 16px', background: 'var(--bg-secondary)', borderRadius: '8px', fontSize: '0.85rem' }}>
           <strong>Statistik:</strong> 14 verschiedene Buchstaben, 29 Suren, Kombinationen von 1 bis 5 Buchstaben.
-          Die laengste Kombination ist كهيعص (Sure 19). Sure 42 hat als einzige zwei getrennte Gruppen (حم + عسق).
+          Die längste Kombination ist كهيعص (Sure 19). Sure 42 hat als einzige zwei getrennte Gruppen (حم + عسق).
         </div>
       </div>
     )
@@ -1856,9 +1856,9 @@ export default function Module8() {
         <p style={{ color: 'var(--text-secondary)', marginBottom: '16px', fontSize: '0.9rem' }}>{reverseRasmDrillData.meta?.description}</p>
         {ex && (
           <div style={{ background: 'var(--bg-card)', border: '1px solid var(--border)', borderRadius: '8px', padding: '20px', marginBottom: '16px' }}>
-            <div style={{ fontSize: '0.8rem', color: 'var(--text-muted)', marginBottom: '8px' }}>{ex.surah}:{ex.ayah} — Uebung {rrIdx + 1}/{exercises.length}</div>
+            <div style={{ fontSize: '0.8rem', color: 'var(--text-muted)', marginBottom: '8px' }}>{ex.surah}:{ex.ayah} — Übung {rrIdx + 1}/{exercises.length}</div>
             <div className="arabic" dir="rtl" style={{ fontSize: '1.6rem', lineHeight: 2, marginBottom: '12px' }}>{ex.vocalizedText}</div>
-            <p style={{ fontSize: '0.85rem', marginBottom: '12px' }}>Welche Woerter waeren im reinen Rasm mehrdeutig? Klicke sie an.</p>
+            <p style={{ fontSize: '0.85rem', marginBottom: '12px' }}>Welche Wörter wären im reinen Rasm mehrdeutig? Klicke sie an.</p>
             <div style={{ display: 'flex', flexWrap: 'wrap', gap: '8px', marginBottom: '16px', direction: 'rtl' }}>
               {ex.vocalizedText.split(' ').map((w, wi) => {
                 const isAmbiguous = ex.ambiguousWords.some(aw => aw.word === w)
@@ -1872,10 +1872,10 @@ export default function Module8() {
                 )
               })}
             </div>
-            {!rrRevealed && <button onClick={() => setRrRevealed(true)} style={{ padding: '8px 20px', borderRadius: '6px', background: 'var(--accent-teal-bg)', border: '1px solid var(--accent-teal)', color: 'var(--accent-teal)', cursor: 'pointer', fontWeight: 600 }}>Aufloesen</button>}
+            {!rrRevealed && <button onClick={() => setRrRevealed(true)} style={{ padding: '8px 20px', borderRadius: '6px', background: 'var(--accent-teal-bg)', border: '1px solid var(--accent-teal)', color: 'var(--accent-teal)', cursor: 'pointer', fontWeight: 600 }}>Auflösen</button>}
             {rrRevealed && (
               <div>
-                <h4 style={{ marginBottom: '8px', color: '#ff9800' }}>Mehrdeutige Woerter:</h4>
+                <h4 style={{ marginBottom: '8px', color: '#ff9800' }}>Mehrdeutige Wörter:</h4>
                 {(ex.ambiguousWords || []).map((aw, ai) => (
                   <div key={ai} style={{ background: 'var(--bg-secondary)', borderRadius: '6px', padding: '10px', marginBottom: '8px' }}>
                     <div className="arabic" dir="rtl" style={{ fontSize: '1.2rem', color: 'var(--accent-gold)' }}>{aw.word} <span style={{ fontSize: '0.8rem', color: 'var(--text-muted)', fontFamily: 'var(--font-ui)' }}>({aw.consonantal})</span></div>
@@ -1887,7 +1887,7 @@ export default function Module8() {
                   </div>
                 ))}
                 <p style={{ fontSize: '0.85rem', color: 'var(--text-secondary)', marginTop: '8px' }}>{ex.explanation}</p>
-                <button onClick={() => { setRrIdx(i => (i + 1) % exercises.length); setRrRevealed(false); setRrSelected(new Set()) }} style={{ marginTop: '12px', padding: '8px 20px', borderRadius: '6px', background: 'var(--accent-teal-bg)', border: '1px solid var(--accent-teal)', color: 'var(--accent-teal)', cursor: 'pointer', fontWeight: 600 }}>Naechste Uebung</button>
+                <button onClick={() => { setRrIdx(i => (i + 1) % exercises.length); setRrRevealed(false); setRrSelected(new Set()) }} style={{ marginTop: '12px', padding: '8px 20px', borderRadius: '6px', background: 'var(--accent-teal-bg)', border: '1px solid var(--accent-teal)', color: 'var(--accent-teal)', cursor: 'pointer', fontWeight: 600 }}>Nächste Übung</button>
               </div>
             )}
           </div>
@@ -1909,7 +1909,7 @@ export default function Module8() {
               <th style={{ padding: '6px 8px' }}>Name</th>
               <th style={{ padding: '6px 8px' }} className="arabic">عربي</th>
               <th style={{ padding: '6px 8px' }}>Verse</th>
-              <th style={{ padding: '6px 8px' }}>Woerter</th>
+              <th style={{ padding: '6px 8px' }}>Wörter</th>
               <th style={{ padding: '6px 8px' }}>Wurzeln</th>
             </tr>
           </thead>
@@ -1951,7 +1951,7 @@ export default function Module8() {
   if (view === VIEWS.FREQ_PATH && freqPathData) return (
     <div style={{ maxWidth: '900px', margin: '0 auto' }}>
       {newDrillBack}
-      <h2 style={{ marginBottom: '16px' }}>Frequenzgestuetzter Lernpfad</h2>
+      <h2 style={{ marginBottom: '16px' }}>Frequenzgestützter Lernpfad</h2>
       {(freqPathData.tiers || []).map((tier, ti) => (
         <div key={ti} style={{ marginBottom: '20px' }}>
           <h3 style={{ color: 'var(--accent-teal)', marginBottom: '8px' }}>{tier.name || `Stufe ${ti + 1}`} — {tier.cumulativeCoverage || '?'}% Abdeckung</h3>
@@ -1971,7 +1971,7 @@ export default function Module8() {
   if (view === VIEWS.VERB_FREQ && verbFreqData) return (
     <div style={{ maxWidth: '900px', margin: '0 auto' }}>
       {newDrillBack}
-      <h2 style={{ marginBottom: '16px' }}>Verbform-Haeufigkeit im Quran</h2>
+      <h2 style={{ marginBottom: '16px' }}>Verbform-Häufigkeit im Quran</h2>
       {verbFreqData.totalVerbs && <p style={{ marginBottom: '12px', fontSize: '0.9rem' }}>Gesamt: {verbFreqData.totalVerbs} Verben</p>}
       <div style={{ display: 'grid', gap: '8px' }}>
         {(verbFreqData.forms || []).map((f, fi) => (
@@ -2110,7 +2110,7 @@ export default function Module8() {
             <span style={{ flex: 1 }}>
               <span style={{ fontWeight: 600, fontSize: '0.95rem' }}>{g.glyphName}</span>
               <span style={{ color: 'var(--text-muted)', fontSize: '0.8rem', marginLeft: '8px' }}>
-                {g.letters.length === 1 ? 'eindeutig' : `${g.letters.length} moegliche Buchstaben`}
+                {g.letters.length === 1 ? 'eindeutig' : `${g.letters.length} mögliche Buchstaben`}
               </span>
             </span>
           </summary>
@@ -2151,7 +2151,7 @@ export default function Module8() {
       {newDrillBack}
       <h2 style={{ marginBottom: '8px' }}>Rasm-Dekodierung</h2>
       <p style={{ color: 'var(--text-secondary)', marginBottom: '20px', fontSize: '0.9rem' }}>
-        Vom punktlosen Konsonantenskelett alle moeglichen Lesungen ableiten, dann den Kontext zur Disambiguierung nutzen.
+        Vom punktlosen Konsonantenskelett alle möglichen Lesungen ableiten, dann den Kontext zur Disambiguierung nutzen.
       </p>
       {(rasmDecodingData.exercises || []).map((ex, i) => (
         <div key={i} style={{ background: 'var(--bg-card)', border: '1px solid var(--border)', borderRadius: '8px', padding: '16px 20px', marginBottom: '12px' }}>
@@ -2159,10 +2159,10 @@ export default function Module8() {
             {ex.rasm}
           </div>
           <p style={{ fontSize: '0.85rem', color: 'var(--text-secondary)', textAlign: 'center', marginBottom: '12px' }}>
-            Welche Woerter koennen sich hinter diesem Rasm verbergen?
+            Welche Wörter können sich hinter diesem Rasm verbergen?
           </p>
           <details>
-            <summary style={{ cursor: 'pointer', color: 'var(--accent)', fontSize: '0.85rem' }}>Moegliche Lesungen zeigen</summary>
+            <summary style={{ cursor: 'pointer', color: 'var(--accent)', fontSize: '0.85rem' }}>Mögliche Lesungen zeigen</summary>
             <div style={{ marginTop: '8px', display: 'flex', flexWrap: 'wrap', gap: '6px', marginBottom: '8px' }}>
               {(ex.possibleReadings || []).map((r, j) => (
                 <span key={j} style={{
@@ -2285,7 +2285,7 @@ export default function Module8() {
   )
   if (view === VIEWS.HANDWRITING) return (
     <Suspense fallback={lazyFallback}><div style={{ maxWidth: '900px', margin: '0 auto' }}>
-      <button onClick={() => setView(VIEWS.HOME)} style={{ background: 'none', border: 'none', color: 'var(--text-secondary)', cursor: 'pointer', fontSize: '0.9rem', padding: '8px 0', marginBottom: 16 }}>Zurueck</button>
+      <button onClick={() => setView(VIEWS.HOME)} style={{ background: 'none', border: 'none', color: 'var(--text-secondary)', cursor: 'pointer', fontSize: '0.9rem', padding: '8px 0', marginBottom: 16 }}>Zurück</button>
       <HandwritingCanvas />
     </div></Suspense>
   )
@@ -2309,7 +2309,7 @@ export default function Module8() {
       ))}
       {elativDrillData.exercises?.length > 0 && (
         <div style={{ marginTop: '20px' }}>
-          <h3 style={{ marginBottom: '12px' }}>Uebungen ({elativDrillData.exercises.length})</h3>
+          <h3 style={{ marginBottom: '12px' }}>Übungen ({elativDrillData.exercises.length})</h3>
           {elativDrillData.exercises.map((ex, i) => (
             <div key={i} style={{ padding: '12px 16px', marginBottom: '8px', background: 'var(--bg-card)', borderRadius: 'var(--radius)', border: '1px solid var(--border)' }}>
               <div style={{ fontSize: '1.3rem', fontFamily: 'var(--font-arabic)', direction: 'rtl' }}>{ex.word}</div>
@@ -2353,7 +2353,7 @@ export default function Module8() {
       <div style={{ maxWidth: '900px', margin: '0 auto' }}>
         {newDrillBack}
         <h2 style={{ marginBottom: '8px' }}>Phonologie — Vertiefung</h2>
-        <p style={{ color: 'var(--text-secondary)', marginBottom: '16px' }}>Ergaenzende Lektionen zur Lautlehre: Silbenstruktur, Betonungsregeln und weitere phonologische Phaenomene.</p>
+        <p style={{ color: 'var(--text-secondary)', marginBottom: '16px' }}>Ergänzende Lektionen zur Lautlehre: Silbenstruktur, Betonungsregeln und weitere phonologische Phänomene.</p>
         {lessons.map((lesson, li) => (
           <div key={li} style={{ marginBottom: '24px' }}>
             <h3 style={{ color: 'var(--accent-teal)', marginBottom: '8px' }}>{lesson.title}</h3>
@@ -2383,14 +2383,14 @@ export default function Module8() {
     <div className="module-page" style={{ maxWidth: '900px' }}>
       <h2 style={{ marginBottom: '6px' }}>Werkzeuge und Vertiefung</h2>
       <p style={{ color: 'var(--text-secondary)', marginBottom: '12px', fontSize: '0.9rem' }}>
-        Zusaetzliche Lern- und Analysewerkzeuge die das Studium des Konsonantentextes unterstuetzen.
+        Zusaetzliche Lern- und Analysewerkzeuge die das Studium des Konsonantentextes unterstützen.
       </p>
       <div style={{
         padding: '10px 16px', marginBottom: '24px', borderRadius: 'var(--radius)',
         background: 'var(--accent-teal-bg)', border: '1px solid var(--accent-teal)',
         fontSize: '0.85rem', color: 'var(--accent-teal)',
       }}>
-        {'{'}Werkzeuge nach Kategorie sortiert: Einstieg → Schrift → Textanalyse → Nachschlagewerke → Uebungen → Lesen → Referenz{'}'}
+        {'{'}Werkzeuge nach Kategorie sortiert: Einstieg → Schrift → Textanalyse → Nachschlagewerke → Übungen → Lesen → Referenz{'}'}
       </div>
 
       {/* Getting Started Section */}
@@ -2406,7 +2406,7 @@ export default function Module8() {
           }}>
             <div style={{ fontWeight: 600, marginBottom: '4px' }}>Dein erster Vers — Sure 1:1</div>
             <div style={{ fontSize: '0.85rem', color: 'var(--text-secondary)' }}>
-              Gefuehrter Walkthrough: Wie analysiert man einen Vers Schritt fuer Schritt? An بسم الله الرحمن الرحيم gezeigt.
+              Gefuehrter Walkthrough: Wie analysiert man einen Vers Schritt für Schritt? An بسم الله الرحمن الرحيم gezeigt.
             </div>
           </button>
           <button onClick={() => setView(VIEWS.LANES_GUIDE)} style={{
@@ -2416,7 +2416,7 @@ export default function Module8() {
           }}>
             <div style={{ fontWeight: 600, marginBottom: '4px' }}>Lane's Lexicon — Kurzanleitung</div>
             <div style={{ fontSize: '0.85rem', color: 'var(--text-secondary)' }}>
-              Wie navigiert man Lane's? Abkuerzungen, Eintragsstruktur, Praxis-Tipps.
+              Wie navigiert man Lane's? Abkürzungen, Eintragsstruktur, Praxis-Tipps.
             </div>
           </button>
         </div>
@@ -2435,7 +2435,7 @@ export default function Module8() {
           }}>
             <div style={{ fontWeight: 600, marginBottom: '4px', color: 'var(--accent-teal)' }}>Schichten-Vergleich</div>
             <div style={{ fontSize: '0.85rem', color: 'var(--text-secondary)' }}>
-              Alle 4 Textschichten nebeneinander: Rasm, Konsonantal, Uthmani, Vokalisiert — der Weg vom aeltesten Manuskript zum voll vokalisierten Text.
+              Alle 4 Textschichten nebeneinander: Rasm, Konsonantal, Uthmani, Vokalisiert — der Weg vom ältesten Manuskript zum voll vokalisierten Text.
             </div>
           </button>
           <button onClick={() => setView(VIEWS.LAYER_BUILDUP)} style={{
@@ -2445,7 +2445,7 @@ export default function Module8() {
           }}>
             <div style={{ fontWeight: 600, marginBottom: '4px', color: 'var(--accent-teal)' }}>Schichtaufbau-Drill</div>
             <div style={{ fontSize: '0.85rem', color: 'var(--text-secondary)' }}>
-              Vom Rasm aufwaerts: Punkte hinzufuegen, dann Vokale. Der zentrale Weg vom Manuskript zum Lesen. 40 Verse.
+              Vom Rasm aufwaerts: Punkte hinzufügen, dann Vokale. Der zentrale Weg vom Manuskript zum Lesen. 40 Verse.
             </div>
           </button>
           <button onClick={() => setView(VIEWS.RASM)} style={{
@@ -2465,7 +2465,7 @@ export default function Module8() {
           }}>
             <div style={{ fontWeight: 600, marginBottom: '4px' }}>Test: Rasm-Orthographie</div>
             <div style={{ fontSize: '0.85rem', color: 'var(--text-secondary)' }}>
-              Pruefe dein Wissen ueber die orthographischen Besonderheiten
+              Prüfe dein Wissen über die orthographischen Besonderheiten
             </div>
           </button>
           {rasmDecodingData && <button onClick={() => setView(VIEWS.RASM_DECODING)} style={{
@@ -2475,7 +2475,7 @@ export default function Module8() {
           }}>
             <div style={{ fontWeight: 600, marginBottom: '4px' }}>Rasm-Dekodierung</div>
             <div style={{ fontSize: '0.85rem', color: 'var(--text-secondary)' }}>
-              Punktlosen Rasm sehen und alle moeglichen Lesungen ableiten. Kontext disambiguiert.
+              Punktlosen Rasm sehen und alle möglichen Lesungen ableiten. Kontext disambiguiert.
             </div>
           </button>}
           {scriptHistoryData && <button onClick={() => setView(VIEWS.SCRIPT_HISTORY)} style={{
@@ -2504,7 +2504,7 @@ export default function Module8() {
           }}>
             <div style={{ fontWeight: 600, marginBottom: '4px' }}>Vokalisierungsuebung</div>
             <div style={{ fontSize: '0.85rem', color: 'var(--text-secondary)' }}>
-              Konsonantentext → grammatisch abgeleitete Vokalisierung. Wortart, Wurzel, Form, Rolle und Vokalisation Schritt fuer Schritt bestimmen.
+              Konsonantentext → grammatisch abgeleitete Vokalisierung. Wortart, Wurzel, Form, Rolle und Vokalisation Schritt für Schritt bestimmen.
             </div>
           </button>
           <button onClick={() => setView(VIEWS.AMBIGUITY)} style={{
@@ -2512,9 +2512,9 @@ export default function Module8() {
             background: 'var(--bg-card)', border: '1px solid var(--border)', cursor: 'pointer',
             color: 'var(--text-primary)',
           }}>
-            <div style={{ fontWeight: 600, marginBottom: '4px' }}>Ambiguitaetsuebung</div>
+            <div style={{ fontWeight: 600, marginBottom: '4px' }}>Ambiguitätsuebung</div>
             <div style={{ fontSize: '0.85rem', color: 'var(--text-secondary)' }}>
-              Alle grammatisch moeglichen Lesarten einer Konsonantenform erkennen. Gefuehrter und freier Modus.
+              Alle grammatisch möglichen Lesarten einer Konsonantenform erkennen. Gefuehrter und freier Modus.
             </div>
           </button>
         </div>
@@ -2573,7 +2573,7 @@ export default function Module8() {
           }}>
             <div style={{ fontWeight: 600, marginBottom: '4px' }}>Hapax Legomena</div>
             <div style={{ fontSize: '0.85rem', color: 'var(--text-secondary)' }}>
-              Wortformen, die in genau dieser Flexionsform nur einmal im Quran vorkommen (Form-Hapax). Viele stammen von haeufigen Wurzeln — die Form selbst ist einmalig, nicht die Wurzel.
+              Wortformen, die in genau dieser Flexionsform nur einmal im Quran vorkommen (Form-Hapax). Viele stammen von häufigen Wurzeln — die Form selbst ist einmalig, nicht die Wurzel.
             </div>
           </button>
           <button onClick={() => setView(VIEWS.LOANWORDS)} style={{
@@ -2593,7 +2593,7 @@ export default function Module8() {
           }}>
             <div style={{ fontWeight: 600, marginBottom: '4px' }}>Kollokationen</div>
             <div style={{ fontSize: '0.85rem', color: 'var(--text-secondary)' }}>
-              Haeufig gemeinsam auftretende Wurzeln und Wortpaare im Quran — Wurzel-Kollokationen und Wort-Bigramme.
+              Häufig gemeinsam auftretende Wurzeln und Wortpaare im Quran — Wurzel-Kollokationen und Wort-Bigramme.
             </div>
           </button>
         </div>
@@ -2611,7 +2611,7 @@ export default function Module8() {
           </button>}
           {alifInventoryData && <button onClick={() => setView(VIEWS.ALIF_INVENTORY)} style={{ padding: '20px', textAlign: 'left', borderRadius: 'var(--radius-lg)', background: 'var(--bg-card)', border: '1px solid var(--border)', cursor: 'pointer', color: 'var(--text-primary)' }}>
             <div style={{ fontWeight: 600, marginBottom: '4px' }}>Alif-Inventar</div>
-            <div style={{ fontSize: '0.85rem', color: 'var(--text-secondary)' }}>Alle Alif-Varianten: Regulaer, Hamza, Madda, Wasla, Maqsura, Khanjariyya, Wiqaya, Tafriqa.</div>
+            <div style={{ fontSize: '0.85rem', color: 'var(--text-secondary)' }}>Alle Alif-Varianten: Regulär, Hamza, Madda, Wasla, Maqsura, Khanjariyya, Wiqaya, Tafriqa.</div>
           </button>}
           <button onClick={() => setView(VIEWS.MUQATTAAT_REF)} style={{ padding: '20px', textAlign: 'left', borderRadius: 'var(--radius-lg)', background: 'var(--bg-card)', border: '1px solid var(--border)', cursor: 'pointer', color: 'var(--text-primary)' }}>
             <div style={{ fontWeight: 600, marginBottom: '4px' }}>Huruf Muqatta'at</div>
@@ -2623,7 +2623,7 @@ export default function Module8() {
           </button>
           {reverseRasmDrillData && <button onClick={() => setView(VIEWS.REVERSE_RASM)} style={{ padding: '20px', textAlign: 'left', borderRadius: 'var(--radius-lg)', background: 'var(--bg-card)', border: '1px solid var(--border)', cursor: 'pointer', color: 'var(--text-primary)' }}>
             <div style={{ fontWeight: 600, marginBottom: '4px' }}>Reverse-Rasm-Drill</div>
-            <div style={{ fontSize: '0.85rem', color: 'var(--text-secondary)' }}>Vokalisierter Text → erkenne welche Woerter im reinen Rasm mehrdeutig waeren.</div>
+            <div style={{ fontSize: '0.85rem', color: 'var(--text-secondary)' }}>Vokalisierter Text → erkenne welche Wörter im reinen Rasm mehrdeutig wären.</div>
           </button>}
           {rasmGlyphMapping && <button onClick={() => setView(VIEWS.RASM_GLYPH_MAP)} style={{ padding: '20px', textAlign: 'left', borderRadius: 'var(--radius-lg)', background: 'var(--bg-card)', border: '2px solid var(--accent-teal)', cursor: 'pointer', color: 'var(--text-primary)' }}>
             <div style={{ fontWeight: 600, marginBottom: '4px' }}>Rasm-Glyphen-Mapping</div>
@@ -2644,10 +2644,10 @@ export default function Module8() {
           </button>}
           {freqPathData && <button onClick={() => setView(VIEWS.FREQ_PATH)} style={{ padding: '20px', textAlign: 'left', borderRadius: 'var(--radius-lg)', background: 'var(--bg-card)', border: '1px solid var(--border)', cursor: 'pointer', color: 'var(--text-primary)' }}>
             <div style={{ fontWeight: 600, marginBottom: '4px' }}>Frequenz-Lernpfad</div>
-            <div style={{ fontSize: '0.85rem', color: 'var(--text-secondary)' }}>Top 50/100/200/500 Wurzeln nach Haeufigkeit — strukturierter Weg zur maximalen Textabdeckung.</div>
+            <div style={{ fontSize: '0.85rem', color: 'var(--text-secondary)' }}>Top 50/100/200/500 Wurzeln nach Häufigkeit — strukturierter Weg zur maximalen Textabdeckung.</div>
           </button>}
           {verbFreqData && <button onClick={() => setView(VIEWS.VERB_FREQ)} style={{ padding: '20px', textAlign: 'left', borderRadius: 'var(--radius-lg)', background: 'var(--bg-card)', border: '1px solid var(--border)', cursor: 'pointer', color: 'var(--text-primary)' }}>
-            <div style={{ fontWeight: 600, marginBottom: '4px' }}>Verbform-Haeufigkeit</div>
+            <div style={{ fontWeight: 600, marginBottom: '4px' }}>Verbform-Häufigkeit</div>
             <div style={{ fontSize: '0.85rem', color: 'var(--text-secondary)' }}>Wie oft kommt jede Verbform (I-X) im Quran vor? Statistik mit Prozentanteilen.</div>
           </button>}
           {nominalPatternData && <button onClick={() => setView(VIEWS.NOMINAL_PATTERNS)} style={{ padding: '20px', textAlign: 'left', borderRadius: 'var(--radius-lg)', background: 'var(--bg-card)', border: '1px solid var(--border)', cursor: 'pointer', color: 'var(--text-primary)' }}>
@@ -2656,7 +2656,7 @@ export default function Module8() {
           </button>}
           {properNamesData && <button onClick={() => setView(VIEWS.PROPER_NAMES)} style={{ padding: '20px', textAlign: 'left', borderRadius: 'var(--radius-lg)', background: 'var(--bg-card)', border: '1px solid var(--border)', cursor: 'pointer', color: 'var(--text-primary)' }}>
             <div style={{ fontWeight: 600, marginBottom: '4px' }}>Koranische Eigennamen</div>
-            <div style={{ fontSize: '0.85rem', color: 'var(--text-secondary)' }}>Alle Eigennamen im Quran mit Wurzel, Haeufigkeit und Vorkommen.</div>
+            <div style={{ fontSize: '0.85rem', color: 'var(--text-secondary)' }}>Alle Eigennamen im Quran mit Wurzel, Häufigkeit und Vorkommen.</div>
           </button>}
         </div>
       </section>
@@ -2664,7 +2664,7 @@ export default function Module8() {
       {/* Reading & Listening */}
       <section style={{ marginBottom: '28px' }}>
         <h3 style={{ fontSize: '1rem', color: 'var(--accent-teal)', marginBottom: '12px' }}>
-          Lesen und Hoeren
+          Lesen und Hören
         </h3>
         <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fill, minmax(280px, 1fr))', gap: '12px' }}>
           <button onClick={() => setView(VIEWS.READER)} style={{
@@ -2674,7 +2674,7 @@ export default function Module8() {
           }}>
             <div style={{ fontWeight: 600, marginBottom: '4px' }}>Fortlaufendes Lesen</div>
             <div style={{ fontSize: '0.85rem', color: 'var(--text-secondary)' }}>
-              Mehrere Verse am Stueck lesen. Wort antippen fuer Morphologie-Info.
+              Mehrere Verse am Stück lesen. Wort antippen für Morphologie-Info.
             </div>
           </button>
           <button onClick={() => setView(VIEWS.DICTATION)} style={{
@@ -2684,7 +2684,7 @@ export default function Module8() {
           }}>
             <div style={{ fontWeight: 600, marginBottom: '4px' }}>Diktatuebung</div>
             <div style={{ fontSize: '0.85rem', color: 'var(--text-secondary)' }}>
-              Audio hoeren und den Konsonantentext schreiben. Verbindet Hoeren und Schreiben.
+              Audio hören und den Konsonantentext schreiben. Verbindet Hören und Schreiben.
             </div>
           </button>
         </div>
@@ -2693,7 +2693,7 @@ export default function Module8() {
       {/* Practice */}
       <section style={{ marginBottom: '28px' }}>
         <h3 style={{ fontSize: '1rem', color: '#b07aff', marginBottom: '12px' }}>
-          Uebung
+          Übung
         </h3>
         <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fill, minmax(280px, 1fr))', gap: '12px' }}>
           <button onClick={() => setView(VIEWS.WRITING)} style={{
@@ -2713,7 +2713,7 @@ export default function Module8() {
           }}>
             <div style={{ fontWeight: 600, marginBottom: '4px' }}>Lueckentexte</div>
             <div style={{ fontSize: '0.85rem', color: 'var(--text-secondary)' }}>
-              Fehlende Woerter in Quranversen einsetzen — aktive Sprachproduktion. 104 Uebungen in 8 Kategorien.
+              Fehlende Wörter in Quranversen einsetzen — aktive Sprachproduktion. 104 Übungen in 8 Kategorien.
             </div>
           </button>
           <button onClick={() => setView(VIEWS.HANDWRITING)} style={{
@@ -2743,16 +2743,16 @@ export default function Module8() {
           }}>
             <div style={{ fontWeight: 600, marginBottom: '4px' }}>Vers-Notizen und Lesezeichen</div>
             <div style={{ fontSize: '0.85rem', color: 'var(--text-secondary)' }}>
-              Persoenliche Notizen an Quranverse heften — Beobachtungen, Fragen, linguistische Anmerkungen.
+              Persönliche Notizen an Quranverse heften — Beobachtungen, Fragen, linguistische Anmerkungen.
             </div>
           </button>
         </div>
       </section>
 
-      {/* Analyse-Uebungen */}
+      {/* Analyse-Übungen */}
       <section style={{ marginBottom: '28px' }}>
         <h3 style={{ fontSize: '1rem', color: 'var(--accent-teal)', marginBottom: '12px' }}>
-          Analyse-Uebungen
+          Analyse-Übungen
         </h3>
         <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fill, minmax(280px, 1fr))', gap: '12px' }}>
           <button onClick={() => setView(VIEWS.DECOMPOSITION)} style={{
@@ -2762,7 +2762,7 @@ export default function Module8() {
           }}>
             <div style={{ fontWeight: 600, marginBottom: '4px' }}>Morphologische Dekomposition</div>
             <div style={{ fontSize: '0.85rem', color: 'var(--text-secondary)' }}>
-              Zerlege quranische Woerter in Praefix, Wurzel, Muster und Suffix.
+              Zerlege quranische Wörter in Präfix, Wurzel, Muster und Suffix.
             </div>
           </button>
           <button onClick={() => setView(VIEWS.CASE_DERIVATION)} style={{
@@ -2782,7 +2782,7 @@ export default function Module8() {
           }}>
             <div style={{ fontWeight: 600, marginBottom: '4px' }}>Vers-Synthese</div>
             <div style={{ fontSize: '0.85rem', color: 'var(--text-secondary)' }}>
-              Analysiere alle Woerter eines Verses und formuliere die Gesamtbedeutung.
+              Analysiere alle Wörter eines Verses und formuliere die Gesamtbedeutung.
             </div>
           </button>
           <button onClick={() => setView(VIEWS.ERROR_CORRECTION)} style={{
@@ -2816,8 +2816,8 @@ export default function Module8() {
             padding: '20px', textAlign: 'left', borderRadius: 'var(--radius-lg)',
             background: 'var(--bg-card)', border: '1px solid var(--border)', cursor: 'pointer', color: 'var(--text-primary)',
           }}>
-            <div style={{ fontWeight: 600, marginBottom: '4px' }}>Vollstaendiges Irab</div>
-            <div style={{ fontSize: '0.85rem', color: 'var(--text-secondary)' }}>Parse jedes Wort eines Verses — Rolle, Kasus, Begruendung.</div>
+            <div style={{ fontWeight: 600, marginBottom: '4px' }}>Vollständiges Irab</div>
+            <div style={{ fontSize: '0.85rem', color: 'var(--text-secondary)' }}>Parse jedes Wort eines Verses — Rolle, Kasus, Begründung.</div>
           </button>}
           {RootExtractionDrill && <button onClick={() => setView(VIEWS.ROOT_EXTRACTION)} style={{
             padding: '20px', textAlign: 'left', borderRadius: 'var(--radius-lg)',
@@ -2831,14 +2831,14 @@ export default function Module8() {
             background: 'var(--bg-card)', border: '1px solid var(--border)', cursor: 'pointer', color: 'var(--text-primary)',
           }}>
             <div style={{ fontWeight: 600, marginBottom: '4px' }}>Muster-Erkennung (Wazn)</div>
-            <div style={{ fontSize: '0.85rem', color: 'var(--text-secondary)' }}>Erkenne Wortmuster und finde Woerter zu Mustern.</div>
+            <div style={{ fontSize: '0.85rem', color: 'var(--text-secondary)' }}>Erkenne Wortmuster und finde Wörter zu Mustern.</div>
           </button>}
           {PronounSuffixDrill && <button onClick={() => setView(VIEWS.PRONOUN_SUFFIX)} style={{
             padding: '20px', textAlign: 'left', borderRadius: 'var(--radius-lg)',
             background: 'var(--bg-card)', border: '1px solid var(--border)', cursor: 'pointer', color: 'var(--text-primary)',
           }}>
             <div style={{ fontWeight: 600, marginBottom: '4px' }}>Pronominalsuffix-Drill</div>
-            <div style={{ fontSize: '0.85rem', color: 'var(--text-secondary)' }}>Erkenne und dekodiere angehaengte Pronomen.</div>
+            <div style={{ fontSize: '0.85rem', color: 'var(--text-secondary)' }}>Erkenne und dekodiere angehängte Pronomen.</div>
           </button>}
           {VerbModeDrill && <button onClick={() => setView(VIEWS.VERB_MODE)} style={{
             padding: '20px', textAlign: 'left', borderRadius: 'var(--radius-lg)',
@@ -2863,7 +2863,7 @@ export default function Module8() {
           </button>}
           {energetikusData && <button onClick={() => setView(VIEWS.ENERGETIKUS)} style={{ padding: '20px', textAlign: 'left', borderRadius: 'var(--radius-lg)', background: 'var(--bg-card)', border: '2px solid var(--accent-teal)', cursor: 'pointer', color: 'var(--text-primary)' }}>
             <div style={{ fontWeight: 600, marginBottom: '4px' }}>Energetikus-Paradigma (نون التوكيد)</div>
-            <div style={{ fontSize: '0.85rem', color: 'var(--text-secondary)' }}>Schwere und leichte Emphase-Form — vollstaendige Konjugationstabelle mit Quranbeispielen.</div>
+            <div style={{ fontSize: '0.85rem', color: 'var(--text-secondary)' }}>Schwere und leichte Emphase-Form — vollständige Konjugationstabelle mit Quranbeispielen.</div>
           </button>}
         </div>
       </section>
@@ -2871,7 +2871,7 @@ export default function Module8() {
       {/* Erweiterte Drills (P2/P3/P4) */}
       <section style={{ marginBottom: '28px' }}>
         <h3 style={{ fontSize: '1rem', color: '#ff9800', marginBottom: '12px' }}>
-          Erweiterte Uebungen und Referenzen
+          Erweiterte Übungen und Referenzen
         </h3>
         <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fill, minmax(280px, 1fr))', gap: '12px' }}>
           <button onClick={() => setView(VIEWS.RASM_VOCALIZATION)} style={{
@@ -2879,14 +2879,14 @@ export default function Module8() {
             background: 'var(--bg-card)', border: '1px solid var(--border)', cursor: 'pointer', color: 'var(--text-primary)',
           }}>
             <div style={{ fontWeight: 600, marginBottom: '4px' }}>Rasm → Vokalisation</div>
-            <div style={{ fontSize: '0.85rem', color: 'var(--text-secondary)' }}>Vom Konsonantentext zur grammatisch begruendeten Vokalisation in 5 Schritten.</div>
+            <div style={{ fontSize: '0.85rem', color: 'var(--text-secondary)' }}>Vom Konsonantentext zur grammatisch begründeten Vokalisation in 5 Schritten.</div>
           </button>
           <button onClick={() => setView(VIEWS.PAUSAL_FORMS)} style={{
             padding: '20px', textAlign: 'left', borderRadius: 'var(--radius-lg)',
             background: 'var(--bg-card)', border: '1px solid var(--border)', cursor: 'pointer', color: 'var(--text-primary)',
           }}>
             <div style={{ fontWeight: 600, marginBottom: '4px' }}>Pausalformen-Drill</div>
-            <div style={{ fontSize: '0.85rem', color: 'var(--text-secondary)' }}>Wie Wortenden sich beim Pausieren veraendern: Tanwin, Kasus, Ta Marbuta.</div>
+            <div style={{ fontSize: '0.85rem', color: 'var(--text-secondary)' }}>Wie Wortenden sich beim Pausieren verändern: Tanwin, Kasus, Ta Marbuta.</div>
           </button>
           <button onClick={() => setView(VIEWS.ALIF_WASLA)} style={{
             padding: '20px', textAlign: 'left', borderRadius: 'var(--radius-lg)',
@@ -2937,14 +2937,14 @@ export default function Module8() {
             background: 'var(--bg-card)', border: '1px solid var(--border)', cursor: 'pointer', color: 'var(--text-primary)',
           }}>
             <div style={{ fontWeight: 600, marginBottom: '4px' }}>Polysemie-Drill</div>
-            <div style={{ fontSize: '0.85rem', color: 'var(--text-secondary)' }}>Kontextabhaengige Bedeutungsbestimmung — dasselbe Wort, verschiedene Bedeutungen je nach Vers.</div>
+            <div style={{ fontSize: '0.85rem', color: 'var(--text-secondary)' }}>Kontextabhängige Bedeutungsbestimmung — dasselbe Wort, verschiedene Bedeutungen je nach Vers.</div>
           </button>
           <button onClick={() => setView(VIEWS.VERB_FORM_SEMANTICS)} style={{
             padding: '20px', textAlign: 'left', borderRadius: 'var(--radius-lg)',
             background: 'var(--bg-card)', border: '1px solid var(--border)', cursor: 'pointer', color: 'var(--text-primary)',
           }}>
             <div style={{ fontWeight: 600, marginBottom: '4px' }}>Verbform-Semantik</div>
-            <div style={{ fontSize: '0.85rem', color: 'var(--text-secondary)' }}>Wie sich die Bedeutung einer Wurzel durch Formwechsel (I→X) systematisch veraendert.</div>
+            <div style={{ fontSize: '0.85rem', color: 'var(--text-secondary)' }}>Wie sich die Bedeutung einer Wurzel durch Formwechsel (I→X) systematisch verändert.</div>
           </button>
           <button onClick={() => setView(VIEWS.SYNONYM_CONTRAST)} style={{
             padding: '20px', textAlign: 'left', borderRadius: 'var(--radius-lg)',
@@ -2974,14 +2974,14 @@ export default function Module8() {
             background: 'var(--bg-card)', border: '1px solid var(--border)', cursor: 'pointer', color: 'var(--text-primary)',
           }}>
             <div style={{ fontWeight: 600, marginBottom: '4px' }}>Verbvalenz-Drill</div>
-            <div style={{ fontSize: '0.85rem', color: 'var(--text-secondary)' }}>Welches Verb regiert welche Praeposition? 211 Verben mit ihren Rektionsmustern.</div>
+            <div style={{ fontSize: '0.85rem', color: 'var(--text-secondary)' }}>Welches Verb regiert welche Präposition? 211 Verben mit ihren Rektionsmustern.</div>
           </button>
           <button onClick={() => setView(VIEWS.CONGRUENCE)} style={{
             padding: '20px', textAlign: 'left', borderRadius: 'var(--radius-lg)',
             background: 'var(--bg-card)', border: '1px solid var(--border)', cursor: 'pointer', color: 'var(--text-primary)',
           }}>
             <div style={{ fontWeight: 600, marginBottom: '4px' }}>Kongruenz-Drill</div>
-            <div style={{ fontSize: '0.85rem', color: 'var(--text-secondary)' }}>Uebereinstimmung in Genus, Numerus und Kasus — Verb-Subjekt, Adjektiv-Nomen, gebrochene Plurale.</div>
+            <div style={{ fontSize: '0.85rem', color: 'var(--text-secondary)' }}>Übereinstimmung in Genus, Numerus und Kasus — Verb-Subjekt, Adjektiv-Nomen, gebrochene Plurale.</div>
           </button>
           <button onClick={() => setView(VIEWS.MASDAR)} style={{
             padding: '20px', textAlign: 'left', borderRadius: 'var(--radius-lg)',
@@ -3009,7 +3009,7 @@ export default function Module8() {
             background: 'var(--bg-card)', border: '1px solid var(--border)', cursor: 'pointer', color: 'var(--text-primary)',
           }}>
             <div style={{ fontWeight: 600, marginBottom: '4px' }}>Phonologie — Vertiefung</div>
-            <div style={{ fontSize: '0.85rem', color: 'var(--text-secondary)' }}>Silbenstruktur, Betonungsregeln und weitere phonologische Phaenomene des klassischen Arabisch.</div>
+            <div style={{ fontSize: '0.85rem', color: 'var(--text-secondary)' }}>Silbenstruktur, Betonungsregeln und weitere phonologische Phänomene des klassischen Arabisch.</div>
           </button>
         </div>
       </section>
@@ -3025,7 +3025,7 @@ export default function Module8() {
             background: 'var(--bg-card)', border: '1px solid var(--border)', cursor: 'pointer', color: 'var(--text-primary)',
           }}>
             <div style={{ fontWeight: 600, marginBottom: '4px' }}>Suren-Makrostruktur</div>
-            <div style={{ fontSize: '0.85rem', color: 'var(--text-secondary)' }}>Wie sind Suren aufgebaut? Eroeffnung, Segmente, Schluss, Ringstrukturen, Refrains — 7 analysierte Suren.</div>
+            <div style={{ fontSize: '0.85rem', color: 'var(--text-secondary)' }}>Wie sind Suren aufgebaut? Eröffnung, Segmente, Schluss, Ringstrukturen, Refrains — 7 analysierte Suren.</div>
           </button>
         </div>
       </section>

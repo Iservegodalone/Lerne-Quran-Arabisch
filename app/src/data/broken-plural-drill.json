@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Gebrochene Plurale — Uebungsdaten",
-    "description": "Systematische Darstellung der gebrochenen Pluralmuster des klassischen Arabisch mit koranischen Belegen und Uebungen. Rein sprachwissenschaftlich.",
+    "title": "Gebrochene Plurale — Übungsdaten",
+    "description": "Systematische Darstellung der gebrochenen Pluralmuster des klassischen Arabisch mit koranischen Belegen und Übungen. Rein sprachwissenschaftlich.",
     "sources": [
       {
         "name": "Wright's Arabic Grammar (3rd ed.)",
@@ -19,7 +19,7 @@
       "singularPattern": "فَعْل",
       "pluralPattern": "أَفْعُل",
       "frequency": "hoch",
-      "description": "Eines der haeufigsten Muster fuer Nomina mit kurzem Vokal nach dem ersten Radikal.",
+      "description": "Eines der häufigsten Muster für Nomina mit kurzem Vokal nach dem ersten Radikal.",
       "examples": [
         {
           "singular": "نَفْس",
@@ -30,7 +30,7 @@
         {
           "singular": "بَطْن",
           "plural": "بُطُون",
-          "meaning": "Bauch / Baeuche",
+          "meaning": "Bauch / Bäuche",
           "quranicLocation": "37:66",
           "note": "Der Quran verwendet an dieser Stelle بُطُون (Muster فُعُول), nicht أَبْطُن (Paukal)"
         },
@@ -53,7 +53,7 @@
       "singularPattern": "فَعْل",
       "pluralPattern": "فُعُول",
       "frequency": "hoch",
-      "description": "Sehr produktives Muster, besonders fuer einsilbige Nomina.",
+      "description": "Sehr produktives Muster, besonders für einsilbige Nomina.",
       "examples": [
         {
           "singular": "قَلْب",
@@ -64,13 +64,13 @@
         {
           "singular": "بَيْت",
           "plural": "بُيُوت",
-          "meaning": "Haus / Haeuser",
+          "meaning": "Haus / Häuser",
           "quranicLocation": "2:189"
         },
         {
           "singular": "ذَنْب",
           "plural": "ذُنُوب",
-          "meaning": "Suende / Suenden",
+          "meaning": "Sünde / Sünden",
           "quranicLocation": "3:16"
         },
         {
@@ -86,7 +86,7 @@
       "singularPattern": "فُعْلَة",
       "pluralPattern": "فُعَل",
       "frequency": "hoch",
-      "description": "Typisch fuer feminine Nomina mit Damma und Ta-marbuta.",
+      "description": "Typisch für feminine Nomina mit Damma und Ta-marbuta.",
       "examples": [
         {
           "singular": "غُرْفَة",
@@ -116,15 +116,15 @@
     },
     {
       "id": "fu3ul",
-      "singularPattern": "فِعَال",
+      "singularPattern": "verschiedene (فِعَال، فَعُول، فَعِيل u.a.)",
       "pluralPattern": "فُعُل",
       "frequency": "hoch",
-      "description": "Haeufig bei zweisilbigen Nomina mit langem Vokal.",
+      "description": "Häufig bei zweisilbigen Nomina mit langem Vokal. Dieses Pluralmuster nimmt Singulare verschiedener Muster auf.",
       "examples": [
         {
           "singular": "كِتَاب",
           "plural": "كُتُب",
-          "meaning": "Buch / Buecher",
+          "meaning": "Buch / Bücher",
           "quranicLocation": "2:213"
         },
         {
@@ -146,7 +146,7 @@
       "singularPattern": "فَعَل",
       "pluralPattern": "فِعَال",
       "frequency": "hoch",
-      "description": "Produktives Muster fuer Nomina mit zwei kurzen Vokalen.",
+      "description": "Produktives Muster für Nomina mit zwei kurzen Vokalen.",
       "examples": [
         {
           "singular": "جَبَل",
@@ -157,7 +157,7 @@
         {
           "singular": "رَجُل",
           "plural": "رِجَال",
-          "meaning": "Mann / Maenner",
+          "meaning": "Mann / Männer",
           "quranicLocation": "4:34"
         },
         {
@@ -169,7 +169,7 @@
         {
           "singular": "ثَمَر",
           "plural": "ثِمَار",
-          "meaning": "Frucht / Fruechte",
+          "meaning": "Frucht / Früchte",
           "quranicLocation": "2:22"
         }
       ]
@@ -196,13 +196,13 @@
         {
           "singular": "مَال",
           "plural": "أَمْوَال",
-          "meaning": "Vermoegen / Vermoegen (Pl.)",
+          "meaning": "Vermögen / Vermögen (Pl.)",
           "quranicLocation": "2:188"
         },
         {
           "singular": "حَال",
           "plural": "أَحْوَال",
-          "meaning": "Zustand / Zustaende",
+          "meaning": "Zustand / Zustände",
           "quranicLocation": "—"
         }
       ]
@@ -212,7 +212,7 @@
       "singularPattern": "فَاعِل",
       "pluralPattern": "فُعَّال",
       "frequency": "mittel",
-      "description": "Typisch fuer Partizipien (Handelnde) als Pluralform.",
+      "description": "Typisch für Partizipien (Handelnde) als Pluralform.",
       "examples": [
         {
           "singular": "كَافِر",
@@ -245,7 +245,7 @@
       "singularPattern": "فَعِيل",
       "pluralPattern": "فُعَلَاء",
       "frequency": "mittel",
-      "description": "Fuer Adjektive des Musters fa3iil, besonders rationale Plurale.",
+      "description": "Für Adjektive des Musters fa3iil, besonders rationale Plurale.",
       "examples": [
         {
           "singular": "عَلِيم",
@@ -275,10 +275,10 @@
     },
     {
       "id": "fu3alaa_2",
-      "singularPattern": "فَاعِل",
+      "singularPattern": "فَاعِل / فَعِيل",
       "pluralPattern": "فُعَلَاء",
       "frequency": "mittel",
-      "description": "Variante fuer Partizipien, die Zustands-Adjektive ausdruecken.",
+      "description": "Variante für Partizipien, die Zustands-Adjektive ausdrücken.",
       "examples": [
         {
           "singular": "شَاهِد",
@@ -305,7 +305,7 @@
       "singularPattern": "فَعِيل / فَاعِل",
       "pluralPattern": "فِعْلَان",
       "frequency": "mittel",
-      "description": "Typisch fuer junge Wesen und koerperliche Zustands-Adjektive.",
+      "description": "Typisch für junge Wesen und körperliche Zustands-Adjektive.",
       "examples": [
         {
           "singular": "غُلَام",
@@ -322,8 +322,9 @@
         {
           "singular": "فَتًى",
           "plural": "فِتْيَة",
-          "meaning": "junger Mann / junge Maenner",
-          "quranicLocation": "18:13"
+          "meaning": "junger Mann / junge Männer",
+          "quranicLocation": "18:13",
+          "note": "Sonderfall: فِتْيَة ist kein regulärer فِعْلَان-Plural, sondern eine irreguläre Bildung"
         }
       ]
     },
@@ -332,7 +333,7 @@
       "singularPattern": "مَفْعَل / مِفْعَال",
       "pluralPattern": "مَفَاعِل",
       "frequency": "hoch",
-      "description": "Standard-Plural fuer vierradikalige Nomina und Nomina mit Praefix م.",
+      "description": "Standard-Plural für vierradikalige Nomina und Nomina mit Präfix م.",
       "examples": [
         {
           "singular": "مَسْجِد",
@@ -343,13 +344,13 @@
         {
           "singular": "مَدِينَة",
           "plural": "مَدَائِن",
-          "meaning": "Stadt / Staedte",
+          "meaning": "Stadt / Städte",
           "quranicLocation": "7:111"
         },
         {
           "singular": "مِفْتَاح",
           "plural": "مَفَاتِيح",
-          "meaning": "Schluessel / Schluessel (Pl.)",
+          "meaning": "Schlüssel / Schlüssel (Pl.)",
           "quranicLocation": "6:59"
         },
         {
@@ -365,12 +366,12 @@
       "singularPattern": "فَعِيلَة",
       "pluralPattern": "فَعَائِل",
       "frequency": "mittel",
-      "description": "Regulaer fuer feminine Nomina des Musters fa3iila.",
+      "description": "Regulär für feminine Nomina des Musters fa3iila.",
       "examples": [
         {
           "singular": "قَبِيلَة",
           "plural": "قَبَائِل",
-          "meaning": "Stamm / Staemme",
+          "meaning": "Stamm / Stämme",
           "quranicLocation": "49:13"
         },
         {
@@ -388,9 +389,9 @@
         {
           "singular": "صَحِيفَة",
           "plural": "صُحُف",
-          "meaning": "Blatt / Blaetter",
+          "meaning": "Blatt / Blätter",
           "quranicLocation": "87:19",
-          "note": "Pluralmuster ist فُعُل, nicht فَعَائِل"
+          "note": "Anerkannte Ausnahme: Der Plural صُحُف folgt dem Muster فُعُل statt dem erwarteten فَعَائِل (صَحَائِف). Beide Pluralformen sind belegt, der Quran verwendet ausschließlich صُحُف."
         }
       ]
     },
@@ -404,7 +405,7 @@
         {
           "singular": "قِطْعَة",
           "plural": "قِطَع",
-          "meaning": "Stueck / Stuecke",
+          "meaning": "Stück / Stücke",
           "quranicLocation": "13:4"
         },
         {
@@ -426,7 +427,7 @@
       "singularPattern": "فَاعِل",
       "pluralPattern": "فُعَلَة",
       "frequency": "mittel",
-      "description": "Typisch fuer Partizipien, die Berufe oder Handelnde bezeichnen.",
+      "description": "Typisch für Partizipien, die Berufe oder Handelnde bezeichnen.",
       "examples": [
         {
           "singular": "كَاتِب",
@@ -437,7 +438,7 @@
         {
           "singular": "كَاذِب",
           "plural": "كَذَبَة",
-          "meaning": "Luegner / Luegner (Pl.)",
+          "meaning": "Lügner / Lügner (Pl.)",
           "quranicLocation": "—"
         },
         {
@@ -459,7 +460,7 @@
       "singularPattern": "فَعِيل (Adj.)",
       "pluralPattern": "أَفْعِلَاء",
       "frequency": "niedrig",
-      "description": "Fuer bestimmte Adjektive, besonders Koerper- und Geisteszustaende.",
+      "description": "Für bestimmte Adjektive, besonders Körper- und Geisteszustände.",
       "examples": [
         {
           "singular": "قَوِيّ",
@@ -483,10 +484,10 @@
     },
     {
       "id": "fi3aal_2",
-      "singularPattern": "فَعَل",
+      "singularPattern": "فَعَال",
       "pluralPattern": "أَفْعِلَة",
       "frequency": "mittel",
-      "description": "Fuer bestimmte drei- und vierkonsonantige Nomina.",
+      "description": "Für bestimmte drei- und vierkonsonantige Nomina.",
       "examples": [
         {
           "singular": "لِسَان",
@@ -519,18 +520,18 @@
       "singularPattern": "فَعِيل / فَعْل",
       "pluralPattern": "فُعَال",
       "frequency": "niedrig",
-      "description": "Selteneres Muster, kommt aber bei bestimmten koranischen Woertern vor.",
+      "description": "Selteneres Muster, kommt aber bei bestimmten koranischen Wörtern vor.",
       "examples": [
         {
           "singular": "كُبْرَى",
           "plural": "كُبَر",
-          "meaning": "groesste / groesste (Pl.)",
+          "meaning": "größte / größte (Pl.)",
           "quranicLocation": "74:35"
         },
         {
           "singular": "عُظْمَى",
           "plural": "عُظَم",
-          "meaning": "groesste (f.) / groesste (Pl.)",
+          "meaning": "größte (f.) / größte (Pl.)",
           "quranicLocation": "—"
         }
       ]
@@ -540,7 +541,7 @@
       "singularPattern": "فَعِيل",
       "pluralPattern": "فُعُول",
       "frequency": "mittel",
-      "description": "Variation fuer einige fa3iil-Adjektive.",
+      "description": "Variation für einige fa3iil-Adjektive.",
       "examples": [
         {
           "singular": "شَهِيد",
@@ -567,7 +568,7 @@
       "singularPattern": "فَاعِلَة",
       "pluralPattern": "فَوَاعِل",
       "frequency": "mittel",
-      "description": "Standard-Plural fuer feminine aktive Partizipien.",
+      "description": "Standard-Plural für feminine aktive Partizipien.",
       "examples": [
         {
           "singular": "كَاتِبَة",
@@ -600,7 +601,7 @@
       "singularPattern": "فُعْلُوس / فِعْلَال",
       "pluralPattern": "فَعَالِيل",
       "frequency": "niedrig",
-      "description": "Fuer Nomina mit vier oder fuenf Konsonanten.",
+      "description": "Für Nomina mit vier oder fünf Konsonanten.",
       "examples": [
         {
           "singular": "قِنْدِيل",
@@ -617,7 +618,7 @@
         {
           "singular": "سُلْطَان",
           "plural": "سَلَاطِين",
-          "meaning": "Autoritaet / Autoritaeten",
+          "meaning": "Autorität / Autoritäten",
           "quranicLocation": "—"
         },
         {
@@ -633,12 +634,12 @@
       "singularPattern": "مِفْعَال / مِفْعِيل",
       "pluralPattern": "مَفَاعِيل",
       "frequency": "hoch",
-      "description": "Erweitertes Pluralmuster fuer viersilbige Nomen mit langem Vokal — Orts-, Instrument- und Eigenschaftsnomen.",
+      "description": "Erweitertes Pluralmuster für viersilbige Nomen mit langem Vokal — Orts-, Instrument- und Eigenschaftsnomen.",
       "examples": [
         {
           "singular": "مِفْتَاح",
           "plural": "مَفَاتِيح",
-          "meaning": "Schluessel / Schluessel (Pl.)",
+          "meaning": "Schlüssel / Schlüssel (Pl.)",
           "quranicLocation": "6:59"
         },
         {
@@ -660,7 +661,7 @@
       "singularPattern": "فِعَال / فَعَال",
       "pluralPattern": "أَفْعِلَة",
       "frequency": "mittel",
-      "description": "Fuer Nomina mit langem zweiten Vokal und bestimmte Abstrakta.",
+      "description": "Für Nomina mit langem zweiten Vokal und bestimmte Abstrakta.",
       "examples": [
         {
           "singular": "لِسَان",
@@ -677,7 +678,7 @@
         {
           "singular": "إِمَام",
           "plural": "أَئِمَّة",
-          "meaning": "Fuehrer / Fuehrer (Pl.)",
+          "meaning": "Führer / Führer (Pl.)",
           "quranicLocation": "9:12"
         }
       ]
@@ -687,7 +688,7 @@
       "singularPattern": "فَاعِل",
       "pluralPattern": "فُعَّل",
       "frequency": "mittel",
-      "description": "Alternativplural fuer aktive Partizipien — Handelnde Personen.",
+      "description": "Alternativplural für aktive Partizipien — Handelnde Personen.",
       "examples": [
         {
           "singular": "رَاكِع",
@@ -714,7 +715,7 @@
       "singularPattern": "فَعِيل",
       "pluralPattern": "فَعْلَى",
       "frequency": "niedrig",
-      "description": "Kollektivform fuer Adjektive des Zustands — besonders bei koerperlichen und seelischen Zustaenden.",
+      "description": "Kollektivform für Adjektive des Zustands — besonders bei körperlichen und seelischen Zuständen.",
       "examples": [
         {
           "singular": "مَرِيض",
@@ -747,7 +748,7 @@
       "singularPattern": "فُعْل / فُعَال",
       "pluralPattern": "فِعْلَان",
       "frequency": "niedrig",
-      "description": "Sondermuster fuer einige Nomina — besonders Bezeichnungen fuer junge Menschen und Nachbarn.",
+      "description": "Sondermuster für einige Nomina — besonders Bezeichnungen für junge Menschen und Nachbarn.",
       "examples": [
         {
           "singular": "غُلَام",
@@ -776,11 +777,11 @@
       "examples": [
         {
           "singular": "نَفْس → أَنْفُس",
-          "note": "أَفْعُل fuer Paukal (2:48)"
+          "note": "أَفْعُل für Paukal (2:48)"
         },
         {
           "singular": "قَلْب → قُلُوب",
-          "note": "فُعُول fuer Vielzahl (2:7)"
+          "note": "فُعُول für Vielzahl (2:7)"
         },
         {
           "singular": "يَوْم → أَيَّام",
@@ -810,7 +811,7 @@
           "note": "فُعَلَاء bei Personen (6:22)"
         }
       ],
-      "heuristic": "Zweisilbige Nomen mit Langvokal nehmen haeufig فُعُل. Personenbezeichnungen auf فَعِيل nehmen فُعَلَاء."
+      "heuristic": "Zweisilbige Nomen mit Langvokal nehmen häufig فُعُل. Personenbezeichnungen auf فَعِيل nehmen فُعَلَاء."
     },
     {
       "id": "rule_3",
@@ -844,18 +845,18 @@
       "examples": [
         {
           "singular": "غُرْفَة → غُرَف",
-          "note": "Regelmaessig (34:37)"
+          "note": "Regelmäßig (34:37)"
         },
         {
           "singular": "ظُلْمَة → ظُلَم",
-          "note": "Regelmaessig (2:257)"
+          "note": "Regelmäßig (2:257)"
         },
         {
           "singular": "حُجَّة → حُجَج",
-          "note": "Regelmaessig (2:150)"
+          "note": "Regelmäßig (2:150)"
         }
       ],
-      "heuristic": "Feminine Nomen auf فُعْلَة nehmen fast immer فُعَل. Sehr regelmaessig."
+      "heuristic": "Feminine Nomen auf فُعْلَة nehmen fast immer فُعَل. Sehr regelmäßig."
     },
     {
       "id": "rule_5",
@@ -866,15 +867,15 @@
       "examples": [
         {
           "singular": "قَبِيلَة → قَبَائِل",
-          "note": "Regelmaessig (49:13)"
+          "note": "Regelmäßig (49:13)"
         },
         {
           "singular": "رِسَالَة → رَسَائِل",
-          "note": "Regelmaessig (7:79)"
+          "note": "Regelmäßig (7:79)"
         },
         {
           "singular": "فَضِيلَة → فَضَائِل",
-          "note": "Regelmaessig"
+          "note": "Regelmäßig"
         }
       ],
       "heuristic": "Feminine Nomen auf فَعِيلَة und فَعَالَة nehmen fast immer فَعَائِل. Hochgradig vorhersagbar."
@@ -918,7 +919,7 @@
           "note": "Verlust des Ta-marbuta"
         }
       ],
-      "heuristic": "Nomen mit مَـ-Praefix nehmen مَفَاعِل (dreiradikalig) oder مَفَاعِيل (vierradikalig). Hochgradig vorhersagbar."
+      "heuristic": "Nomen mit مَـ-Präfix nehmen مَفَاعِل (dreiradikalig) oder مَفَاعِيل (vierradikalig). Hochgradig vorhersagbar."
     },
     {
       "id": "rule_8",
@@ -983,7 +984,7 @@
           "note": "أَفْعَال (38:10)"
         }
       ],
-      "heuristic": "Nomen auf فَعَل nehmen haeufig فِعَال oder أَفْعَال."
+      "heuristic": "Nomen auf فَعَل nehmen häufig فِعَال oder أَفْعَال."
     }
   ],
   "assignmentExercises": [
@@ -997,7 +998,7 @@
         "أَنْهَار (أَفْعَال)"
       ],
       "correct": 3,
-      "explanation": "نَهْر → أَنْهَار (أَفْعَال). Einsilbige Nomen auf فَعْل nehmen haeufig أَفْعَال. Quranbeleg: 2:25."
+      "explanation": "نَهْر → أَنْهَار (أَفْعَال). Einsilbige Nomen auf فَعْل nehmen häufig أَفْعَال. Quranbeleg: 2:25."
     },
     {
       "type": "predict_plural_pattern",
@@ -1013,7 +1014,7 @@
     },
     {
       "type": "predict_plural_pattern",
-      "given": "مَلِك (Koenig, Muster فَعِل)",
+      "given": "مَلِك (König, Muster فَعِل)",
       "options": [
         "مُلُوك (فُعُول)",
         "أَمْلَاك (أَفْعَال)",
@@ -1057,7 +1058,7 @@
         "نُزُل (فُعُل)"
       ],
       "correct": 0,
-      "explanation": "مَنْزِل → مَنَازِل (مَفَاعِل). Nomen mit مَـ-Praefix nehmen fast immer مَفَاعِل. Quranbeleg: 10:5."
+      "explanation": "مَنْزِل → مَنَازِل (مَفَاعِل). Nomen mit مَـ-Präfix nehmen fast immer مَفَاعِل. Quranbeleg: 10:5."
     },
     {
       "type": "predict_plural_pattern",
@@ -1069,7 +1070,7 @@
         "عَظَائِم (فَعَائِل)"
       ],
       "correct": 0,
-      "explanation": "عَظِيم → عِظَام (فِعَال). Adjektive auf فَعِيل nehmen haeufig فِعَال. Quranbeleg: 3:4."
+      "explanation": "عَظِيم → عِظَام (فِعَال). Adjektive auf فَعِيل nehmen häufig فِعَال. Quranbeleg: 3:4."
     },
     {
       "type": "predict_plural_pattern",
@@ -1077,7 +1078,7 @@
       "options": [
         "خَلَائِف (فَعَائِل)",
         "خُلَفَاء (فُعَلَاء)",
-        "beide moeglich",
+        "beide möglich",
         "خِلَاف (فِعَال)"
       ],
       "correct": 2,

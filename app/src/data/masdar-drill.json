@@ -2,18 +2,23 @@
   "meta": {
     "title": "Masdar-Drill — Verbalsubstantive erkennen und zuordnen",
     "description": "Erkennung von Masdaren in Quranversen, Zuordnung zur Wurzel und Verbform, und Unterscheidung von Partizipien und Nomina.",
-    "totalExercises": 80
+    "totalExercises": 80,
+    "sources": [
+      {"title": "Wright's Arabic Grammar, Vol. I (Morphology)", "url": "https://archive.org/details/grammarofthearab01telerich"},
+      {"title": "Quranic Arabic Corpus", "url": "https://corpus.quran.com/"},
+      {"title": "Lane's Lexicon", "url": "https://ejtaal.net/aa/"}
+    ]
   },
   "patterns": [
     {"form": "I", "commonMasdars": ["فَعْل (قَوْل)", "فِعْل (عِلْم)", "فُعُول (دُخُول)", "فَعَال (جَهَاد)", "فِعَالَة (كِتَابَة)", "فَعِيل (صَرِيخ)", "فُعَال (دُعَاء)", "تَفْعِيل (تَقْدِير — aber Form II!)"], "note": "Form I hat viele verschiedene Masdar-Muster — unvorhersagbar, muss gelernt werden."},
-    {"form": "II", "pattern": "تَفْعِيل", "example": "تَعْلِيم، تَنْزِيل، تَكْبِير", "note": "Regelmaessig: Praefix تَ + Wurzel + ـِيل"},
+    {"form": "II", "pattern": "تَفْعِيل", "example": "تَعْلِيم، تَنْزِيل، تَكْبِير", "note": "Regelmäßig: Präfix تَ + Wurzel + ـِيل"},
     {"form": "III", "pattern": "مُفَاعَلَة / فِعَال", "example": "مُقَاتَلَة / قِتَال، مُجَاهَدَة / جِهَاد", "note": "Zwei Muster: مُفَاعَلَة (produktiv) und فِعَال (klassisch)"},
-    {"form": "IV", "pattern": "إِفْعَال", "example": "إِسْلَام، إِيمَان، إِنزَال", "note": "Regelmaessig: Praefix إِ + Wurzel + ـَال"},
-    {"form": "V", "pattern": "تَفَعُّل", "example": "تَعَلُّم، تَذَكُّر، تَكَبُّر", "note": "Regelmaessig: Praefix تَ + Wurzel mit Shadda + ـُل"},
-    {"form": "VI", "pattern": "تَفَاعُل", "example": "تَوَاصُل، تَشَاوُر", "note": "Regelmaessig"},
-    {"form": "VII", "pattern": "اِنْفِعَال", "example": "اِنْقِلَاب، اِنْفِطَار", "note": "Regelmaessig: Praefix اِنْ + Wurzel + ـَال"},
-    {"form": "VIII", "pattern": "اِفْتِعَال", "example": "اِجْتِمَاع، اِخْتِلَاف، اِبْتِلَاء", "note": "Regelmaessig"},
-    {"form": "X", "pattern": "اِسْتِفْعَال", "example": "اِسْتِغْفَار، اِسْتِكْبَار", "note": "Regelmaessig: Praefix اِسْتِ + Wurzel + ـَال"}
+    {"form": "IV", "pattern": "إِفْعَال", "example": "إِسْلَام، إِيمَان، إِنزَال", "note": "Regelmäßig: Präfix إِ + Wurzel + ـَال"},
+    {"form": "V", "pattern": "تَفَعُّل", "example": "تَعَلُّم، تَذَكُّر، تَكَبُّر", "note": "Regelmäßig: Präfix تَ + Wurzel mit Shadda + ـُل"},
+    {"form": "VI", "pattern": "تَفَاعُل", "example": "تَوَاصُل، تَشَاوُر", "note": "Regelmäßig"},
+    {"form": "VII", "pattern": "اِنْفِعَال", "example": "اِنْقِلَاب، اِنْفِطَار", "note": "Regelmäßig: Präfix اِنْ + Wurzel + ـَال"},
+    {"form": "VIII", "pattern": "اِفْتِعَال", "example": "اِجْتِمَاع، اِخْتِلَاف، اِبْتِلَاء", "note": "Regelmäßig"},
+    {"form": "X", "pattern": "اِسْتِفْعَال", "example": "اِسْتِغْفَار، اِسْتِكْبَار", "note": "Regelmäßig: Präfix اِسْتِ + Wurzel + ـَال"}
   ],
   "exercises": [
     {
@@ -21,21 +26,21 @@
       "arabic": "فَتَلَقَّىٰ آدَمُ مِن رَبِّهِ كَلِمَاتٍ فَتَابَ عَلَيْهِ إِنَّهُ هُوَ التَّوَّابُ الرَّحِيمُ",
       "targetWord": "كَلِمَات", "root": "ك-ل-م", "form": "I",
       "isMasdar": false, "actualType": "Nomen (Plural von كَلِمَة)",
-      "explanation": "كَلِمَة ist ein Nomen, kein Masdar. Der Masdar von كَلَّمَ (Form II) waere تَكْلِيم."
+      "explanation": "كَلِمَة ist ein Nomen, kein Masdar. Der Masdar von كَلَّمَ (Form II) wäre تَكْلِيم."
     },
     {
       "id": 2, "ref": "4:164",
       "arabic": "وَكَلَّمَ اللَّهُ مُوسَىٰ تَكْلِيمًا",
       "targetWord": "تَكْلِيمًا", "root": "ك-ل-م", "form": "II",
       "isMasdar": true, "masdarPattern": "تَفْعِيل",
-      "explanation": "تَكْلِيم ist Masdar von Form II (كَلَّمَ). Hier als Maf'ul mutlaq: er sprach wirkliches Sprechen. Der Masdar bestaetigt die Realitaet der Handlung."
+      "explanation": "تَكْلِيم ist Masdar von Form II (كَلَّمَ). Hier als Maf'ul mutlaq: er sprach wirkliches Sprechen. Der Masdar bestätigt die Realität der Handlung."
     },
     {
       "id": 3, "ref": "2:4",
       "arabic": "وَالَّذِينَ يُؤْمِنُونَ بِمَا أُنزِلَ إِلَيْكَ",
       "targetWord": "أُنزِلَ", "root": "ن-ز-ل", "form": "IV (Passiv)",
       "isMasdar": false, "actualType": "Verb (Passiv Perfekt Form IV)",
-      "explanation": "أُنزِلَ ist ein Verb, kein Masdar. Der Masdar waere إِنْزَال."
+      "explanation": "أُنزِلَ ist ein Verb, kein Masdar. Der Masdar wäre إِنْزَال."
     },
     {
       "id": 4, "ref": "25:25",
@@ -70,14 +75,14 @@
       "arabic": "وَإِن طَائِفَتَانِ مِنَ الْمُؤْمِنِينَ اقْتَتَلُوا فَأَصْلِحُوا بَيْنَهُمَا",
       "targetWord": "اقْتَتَلُوا", "root": "ق-ت-ل", "form": "VIII",
       "isMasdar": false, "actualType": "Verb (Perfekt Form VIII)",
-      "explanation": "اِقْتَتَلَ ist ein Verb. Der Masdar waere اِقْتِتَال."
+      "explanation": "اِقْتَتَلَ ist ein Verb. Der Masdar wäre اِقْتِتَال."
     },
     {
       "id": 9, "ref": "2:190",
       "arabic": "وَقَاتِلُوا فِي سَبِيلِ اللَّهِ الَّذِينَ يُقَاتِلُونَكُمْ",
       "targetWord": "سَبِيل", "root": "س-ب-ل", "form": "—",
       "isMasdar": false, "actualType": "Nomen (Ism Makan/allgemeines Nomen)",
-      "explanation": "سَبِيل ist ein regulaeres Nomen (Weg), kein Masdar."
+      "explanation": "سَبِيل ist ein reguläres Nomen (Weg), kein Masdar."
     },
     {
       "id": 10, "ref": "2:285",
@@ -97,8 +102,8 @@
       "id": 12, "ref": "3:135",
       "arabic": "وَمَن يَغْفِرُ الذُّنُوبَ إِلَّا اللَّهُ",
       "targetWord": "الذُّنُوب", "root": "ذ-ن-ب", "form": "I",
-      "isMasdar": false, "actualType": "Nomen (Plural von ذَنْب = Suende)",
-      "explanation": "ذُنُوب ist Plural von ذَنْب (Nomen), nicht Masdar. Der Masdar von ذَنَبَ waere anders."
+      "isMasdar": false, "actualType": "Nomen (Plural von ذَنْب = Sünde)",
+      "explanation": "ذُنُوب ist Plural von ذَنْب (Nomen), nicht Masdar. Der Masdar von ذَنَبَ wäre anders."
     },
     {
       "id": 13, "ref": "4:106",
@@ -112,7 +117,7 @@
       "arabic": "اسْتَغْفِرُوا رَبَّكُمْ إِنَّهُ كَانَ غَفَّارًا",
       "targetWord": "غَفَّار", "root": "غ-ف-ر", "form": "—",
       "isMasdar": false, "actualType": "Intensivadjektiv (فَعَّال)",
-      "explanation": "غَفَّار ist Intensivadjektiv (der aeusserst Vergebende, فَعَّال-Muster). اِسْتِغْفَار waere der Masdar von Form X."
+      "explanation": "غَفَّار ist Intensivadjektiv (der äußerst Vergebende, فَعَّال-Muster). اِسْتِغْفَار wäre der Masdar von Form X."
     },
     {
       "id": 15, "ref": "2:152",
@@ -133,7 +138,7 @@
       "arabic": "وَالْفِتْنَةُ أَشَدُّ مِنَ الْقَتْلِ",
       "targetWord": "الْقَتْل", "root": "ق-ت-ل", "form": "I",
       "isMasdar": true, "masdarPattern": "فَعْل",
-      "explanation": "قَتْل ist Masdar von Form I (قَتَلَ). Muster فَعْل. Bedeutung: das Toeten."
+      "explanation": "قَتْل ist Masdar von Form I (قَتَلَ). Muster فَعْل. Bedeutung: das Töten."
     },
     {
       "id": 18, "ref": "17:78",
@@ -168,14 +173,14 @@
       "arabic": "فَذَكِّرْ إِنَّمَا أَنتَ مُذَكِّرٌ",
       "targetWord": "مُذَكِّر", "root": "ذ-ك-ر", "form": "II",
       "isMasdar": false, "actualType": "Aktivpartizip Form II (مُفَعِّل)",
-      "explanation": "مُذَكِّر ist Aktivpartizip von Form II, kein Masdar. Der Masdar von Form II waere تَذْكِير."
+      "explanation": "مُذَكِّر ist Aktivpartizip von Form II, kein Masdar. Der Masdar von Form II wäre تَذْكِير."
     },
     {
       "id": 23, "ref": "2:286",
       "arabic": "لَا يُكَلِّفُ اللَّهُ نَفْسًا إِلَّا وُسْعَهَا لَهَا مَا كَسَبَتْ وَعَلَيْهَا مَا اكْتَسَبَتْ",
       "targetWord": "وُسْع", "root": "و-س-ع", "form": "I",
       "isMasdar": true, "masdarPattern": "فُعْل",
-      "explanation": "وُسْع ist Masdar von Form I. Bedeutung: das Vermoegen/die Kapazitaet."
+      "explanation": "وُسْع ist Masdar von Form I. Bedeutung: das Vermögen/die Kapazität."
     },
     {
       "id": 24, "ref": "2:256",
@@ -196,7 +201,7 @@
       "arabic": "إِنَّ أَكْرَمَكُمْ عِندَ اللَّهِ أَتْقَاكُمْ",
       "targetWord": "أَتْقَاكُمْ", "root": "و-ق-ي", "form": "—",
       "isMasdar": false, "actualType": "Elativ (أَفْعَل) + Suffix",
-      "explanation": "أَتْقَى ist Elativ (Superlativ), kein Masdar. Der Masdar waere تَقْوَى."
+      "explanation": "أَتْقَى ist Elativ (Superlativ), kein Masdar. Der Masdar wäre تَقْوَى."
     },
     {
       "id": 27, "ref": "2:197",
@@ -210,7 +215,7 @@
       "arabic": "وَلَا يَأْبَ كَاتِبٌ أَن يَكْتُبَ كَمَا عَلَّمَهُ اللَّهُ",
       "targetWord": "كَاتِب", "root": "ك-ت-ب", "form": "I",
       "isMasdar": false, "actualType": "Aktivpartizip (فَاعِل)",
-      "explanation": "كَاتِب ist Aktivpartizip (der Schreibende), kein Masdar. Der Masdar von Form I waere كِتَابَة."
+      "explanation": "كَاتِب ist Aktivpartizip (der Schreibende), kein Masdar. Der Masdar von Form I wäre كِتَابَة."
     },
 
     {
@@ -274,14 +279,14 @@
       "arabic": "إِنَّ هَٰذَا كَانَ لَكُمْ جَزَاءً وَكَانَ سَعْيُكُم مَشْكُورًا",
       "targetWord": "سَعْي", "root": "س-ع-ي", "form": "I",
       "isMasdar": true, "masdarPattern": "فَعْل",
-      "explanation": "سَعْي ist Masdar von Form I (سَعَى). Muster فَعْل. Bedeutung: das Streben/die Bemuehung."
+      "explanation": "سَعْي ist Masdar von Form I (سَعَى). Muster فَعْل. Bedeutung: das Streben/die Bemühung."
     },
     {
       "id": 38, "ref": "9:60",
       "arabic": "إِنَّمَا الصَّدَقَاتُ لِلْفُقَرَاءِ وَالْمَسَاكِينِ",
       "targetWord": "الصَّدَقَات", "root": "ص-د-ق", "form": "I",
       "isMasdar": false, "actualType": "Nomen (Plural von صَدَقَة — Spende, kein Masdar)",
-      "explanation": "صَدَقَة ist ein konkretes Nomen (Spende/Almosen), nicht das abstrakte Masdar. Der Masdar von صَدَقَ waere صِدْق (Wahrhaftigkeit)."
+      "explanation": "صَدَقَة ist ein konkretes Nomen (Spende/Almosen), nicht das abstrakte Masdar. Der Masdar von صَدَقَ wäre صِدْق (Wahrhaftigkeit)."
     },
     {
       "id": 39, "ref": "7:56",
@@ -302,7 +307,7 @@
       "arabic": "رَبَّنَا وَلَا تُحَمِّلْنَا مَا لَا طَاقَةَ لَنَا بِهِ",
       "targetWord": "طَاقَة", "root": "ط-و-ق", "form": "I",
       "isMasdar": true, "masdarPattern": "فَاعِلَة",
-      "explanation": "طَاقَة ist Masdar von Form I (طَاقَ). Muster فَاعِلَة (mit defektivem Ain). Bedeutung: die Faehigkeit/das Vermoegen."
+      "explanation": "طَاقَة ist Masdar von Form I (طَاقَ). Muster فَاعِلَة (mit defektivem Ain). Bedeutung: die Fähigkeit/das Vermögen."
     },
     {
       "id": 42, "ref": "20:114",
@@ -372,7 +377,7 @@
       "arabic": "وَجَاهِدُوا فِي اللَّهِ حَقَّ جِهَادِهِ",
       "targetWord": "جِهَاد", "root": "ج-ه-د", "form": "III",
       "isMasdar": true, "masdarPattern": "فِعَال",
-      "explanation": "جِهَاد ist Masdar von Form III (جَاهَدَ). Muster فِعَال. Bedeutung: die Anstrengung/das Bemuehen."
+      "explanation": "جِهَاد ist Masdar von Form III (جَاهَدَ). Muster فِعَال. Bedeutung: die Anstrengung/das Bemühen."
     },
     {
       "id": 52, "ref": "8:61",
@@ -400,14 +405,14 @@
       "arabic": "إِذَا تَدَايَنتُم بِدَيْنٍ إِلَىٰ أَجَلٍ مُسَمًّى فَاكْتُبُوهُ",
       "targetWord": "مُسَمًّى", "root": "س-م-و", "form": "II",
       "isMasdar": false, "actualType": "Passivpartizip Form II (مُفَعَّل)",
-      "explanation": "مُسَمًّى ist Passivpartizip von Form II (سَمَّى), nicht Masdar. Der Masdar waere تَسْمِيَة."
+      "explanation": "مُسَمًّى ist Passivpartizip von Form II (سَمَّى), nicht Masdar. Der Masdar wäre تَسْمِيَة."
     },
     {
       "id": 56, "ref": "3:61",
       "arabic": "فَقُلْ تَعَالَوْا نَدْعُ أَبْنَاءَنَا وَأَبْنَاءَكُمْ",
       "targetWord": "أَبْنَاء", "root": "ب-ن-ي", "form": "—",
       "isMasdar": false, "actualType": "Nomen (Plural von ابْن = Sohn)",
-      "explanation": "أَبْنَاء ist ein Plural von ابْن (Nomen). Kein Masdar. Der Masdar von بَنَى waere بِنَاء."
+      "explanation": "أَبْنَاء ist ein Plural von ابْن (Nomen). Kein Masdar. Der Masdar von بَنَى wäre بِنَاء."
     },
     {
       "id": 57, "ref": "2:164",
@@ -442,7 +447,7 @@
       "arabic": "قَد تَبَيَّنَ الرُّشْدُ مِنَ الْغَيِّ",
       "targetWord": "الرُّشْد", "root": "ر-ش-د", "form": "I",
       "isMasdar": true, "masdarPattern": "فُعْل",
-      "explanation": "رُشْد ist Masdar von Form I (رَشَدَ). Muster فُعْل. Bedeutung: die Fuehrung."
+      "explanation": "رُشْد ist Masdar von Form I (رَشَدَ). Muster فُعْل. Bedeutung: die Führung."
     },
     {
       "id": 62, "ref": "10:99",
@@ -526,7 +531,7 @@
       "arabic": "وَسَبِّحُوهُ بُكْرَةً وَأَصِيلًا",
       "targetWord": "بُكْرَة", "root": "ب-ك-ر", "form": "—",
       "isMasdar": false, "actualType": "Nomen (Zeitbezeichnung: Morgen/Fruehe)",
-      "explanation": "بُكْرَة ist ein Zeitnomen (Morgen), kein Masdar. Der Masdar von بَكَّرَ (Form II) waere تَبْكِير."
+      "explanation": "بُكْرَة ist ein Zeitnomen (Morgen), kein Masdar. Der Masdar von بَكَّرَ (Form II) wäre تَبْكِير."
     },
     {
       "id": 74, "ref": "2:208",
@@ -547,7 +552,7 @@
       "arabic": "رَبَّنَا مَا خَلَقْتَ هَٰذَا بَاطِلًا سُبْحَانَكَ فَقِنَا عَذَابَ النَّارِ",
       "targetWord": "سُبْحَان", "root": "س-ب-ح", "form": "I",
       "isMasdar": true, "masdarPattern": "فُعْلَان",
-      "explanation": "سُبْحَان ist Masdar auf dem Muster فُعْلَان. Bedeutung: die Verherrlichung/Erhebung ueber Maengel. Steht fast immer als Maf'ul mutlaq (mit ausgelassenem Verb: أُسَبِّحُ سُبْحَانَكَ)."
+      "explanation": "سُبْحَان ist Masdar auf dem Muster فُعْلَان. Bedeutung: die Verherrlichung/Erhebung über Mängel. Steht permanent im Akkusativ als Maf'ul mutlaq — der Masdar drückt die Handlung der Verherrlichung aus, ohne dass ein finites Verb syntaktisch notwendig ist."
     },
     {
       "id": 77, "ref": "5:105",
@@ -575,7 +580,7 @@
       "arabic": "وَلْتَكُن مِنكُمْ أُمَّةٌ يَدْعُونَ إِلَى الْخَيْرِ وَيَأْمُرُونَ بِالْمَعْرُوفِ وَيَنْهَوْنَ عَنِ الْمُنكَرِ",
       "targetWord": "الْمَعْرُوف", "root": "ع-ر-ف", "form": "—",
       "isMasdar": false, "actualType": "Passivpartizip (مَفْعُول) Form I",
-      "explanation": "مَعْرُوف ist Passivpartizip von Form I (عَرَفَ), kein Masdar. Bedeutung: das Bekannte/Gute. Der Masdar waere عِرْفَان oder مَعْرِفَة."
+      "explanation": "مَعْرُوف ist Passivpartizip von Form I (عَرَفَ), kein Masdar. Bedeutung: das Bekannte/Gute. Der Masdar wäre عِرْفَان oder مَعْرِفَة."
     }
   ]
 }

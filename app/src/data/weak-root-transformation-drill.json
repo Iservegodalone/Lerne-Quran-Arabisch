@@ -1,7 +1,13 @@
 {
   "meta": {
     "title": "Schwache-Wurzel-Transformations-Drill",
-    "description": "Wie و und ي in verschiedenen Formen mutieren, verschmelzen oder verschwinden."
+    "description": "Wie و und ي in verschiedenen Formen mutieren, verschmelzen oder verschwinden.",
+    "sources": [
+      { "name": "Wright's Grammar Vol I", "url": "https://archive.org/details/grammarofthearab01telerich" },
+      { "name": "Wright's Grammar Vol II", "url": "https://archive.org/details/grammarofthearab02telerich" },
+      { "name": "Quranic Arabic Corpus", "url": "https://corpus.quran.com/" },
+      { "name": "Lane's Lexicon", "url": "https://ejtaal.net/aa/" }
+    ]
   },
   "transformations": [
     {
@@ -48,7 +54,7 @@
         { "form": "Perfekt 3ms", "expected": "دَعَا", "note": "Waw → Alif Maqsura/Alif Tawila" },
         { "form": "Perfekt 3mp", "expected": "دَعَوْا", "note": "Waw erscheint wieder vor Waw al-Jama'a" },
         { "form": "Imperfekt 3ms", "expected": "يَدْعُو", "note": "Waw bleibt sichtbar als letzter Radikal" },
-        { "form": "Imperativ 2ms", "expected": "اُدْعُ", "note": "Waw faellt am Wortende weg" },
+        { "form": "Imperativ 2ms", "expected": "اُدْعُ", "note": "Waw fällt am Wortende weg" },
         { "form": "Aktiv-Partizip", "expected": "دَاعٍ", "note": "Waw → Ya, mit Tanwin Kasra (Triptot)" }
       ],
       "quranExamples": [
@@ -63,9 +69,9 @@
       "meaning": "rechtleiten",
       "forms": [
         { "form": "Perfekt 3ms", "expected": "هَدَى", "note": "Ya → Alif Maqsura (ى)" },
-        { "form": "Perfekt 3fs", "expected": "هَدَتْ", "note": "Ya faellt vor Ta-Suffix weg" },
+        { "form": "Perfekt 3fs", "expected": "هَدَتْ", "note": "Ya fällt vor Ta-Suffix weg" },
         { "form": "Imperfekt 3ms", "expected": "يَهْدِي", "note": "Ya bleibt als letzter Radikal" },
-        { "form": "Imperativ 2ms", "expected": "اِهْدِ", "note": "Ya faellt am Ende weg" },
+        { "form": "Imperativ 2ms", "expected": "اِهْدِ", "note": "Ya fällt am Ende weg" },
         { "form": "Masdar", "expected": "هُدًى", "note": "Alif Maqsura + Tanwin Fatha" }
       ],
       "quranExamples": [
@@ -86,7 +92,7 @@
         { "form": "Form IV", "expected": "أَوْعَدَ", "note": "Waw bleibt in abgeleiteten Formen" }
       ],
       "quranExamples": [
-        { "ref": "9:68", "arabic": "وَعَدَ اللَّهُ الْمُنَافِقِينَ وَالْمُنَافِقَاتِ وَالْكُفَّارَ نَارَ جَهَنَّمَ", "form": "Perfekt Form I — Waw bleibt im Perfekt", "note": "Im Imperfekt hingegen faellt das Waw weg: يَعِدُ statt *يَوْعِدُ" },
+        { "ref": "9:68", "arabic": "وَعَدَ اللَّهُ الْمُنَافِقِينَ وَالْمُنَافِقَاتِ وَالْكُفَّارَ نَارَ جَهَنَّمَ", "form": "Perfekt Form I — Waw bleibt im Perfekt", "note": "Im Imperfekt hingegen fällt das Waw weg: يَعِدُ statt *يَوْعِدُ" },
         { "ref": "20:58", "arabic": "فَاجْعَلْ بَيْنَنَا وَبَيْنَكَ مَوْعِدًا", "form": "Ism Zaman/Makan" }
       ]
     },
@@ -102,9 +108,9 @@
         { "form": "Perfekt 1s", "expected": "مَدَدْتُ", "note": "Vor konsonantischem Suffix TRENNT sich die Verdopplung wieder: م-د-د-ت" },
         { "form": "Perfekt 3fp", "expected": "مَدَدْنَ", "note": "Trennung vor konsonantischem Pronominalsuffix: م-د-د-ن" },
         { "form": "Imperfekt 3ms", "expected": "يَمُدُّ", "note": "Verdopplung im Imperfekt, Damma als Stammvokal" },
-        { "form": "Imperfekt 3ms (Jazm)", "expected": "يَمُدَّ / يَمْدُدْ", "note": "Bei Jazm zwei Moeglichkeiten: Verdopplung mit Fatha ODER Trennung mit Sukun" },
-        { "form": "Imperativ 2ms", "expected": "مُدَّ", "note": "Verdopplung bleibt, kein Hamzat al-Wasl noetig" },
-        { "form": "Aktiv-Partizip", "expected": "مَادّ", "note": "Regulaeres Partizip-Muster, Verdopplung bleibt" },
+        { "form": "Imperfekt 3ms (Jazm)", "expected": "يَمُدَّ / يَمْدُدْ", "note": "Bei Jazm zwei Möglichkeiten: Verdopplung mit Fatha ODER Trennung mit Sukun" },
+        { "form": "Imperativ 2ms", "expected": "مُدَّ", "note": "Verdopplung bleibt, kein Hamzat al-Wasl nötig" },
+        { "form": "Aktiv-Partizip", "expected": "مَادّ", "note": "Reguläres Partizip-Muster, Verdopplung bleibt" },
         { "form": "Passiv-Partizip", "expected": "مَمْدُود", "note": "Trennung im Passiv-Partizip: die Radikale erscheinen getrennt" },
         { "form": "Masdar", "expected": "مَدّ", "note": "Masdar gleicht der Perfektform 3ms" }
       ],
@@ -116,7 +122,7 @@
       "additionalRoots": [
         {
           "root": "ر-د-د",
-          "meaning": "zurueckgeben/abweisen",
+          "meaning": "zurückgeben/abweisen",
           "keyForms": [
             { "form": "Perfekt 3ms", "expected": "رَدَّ" },
             { "form": "Imperfekt 3ms", "expected": "يَرُدُّ" },
@@ -162,16 +168,16 @@
       "id": "doubly_weak",
       "title": "Doppelt schwache Wurzeln (zwei schwache Radikale)",
       "root": "و-ق-ي",
-      "meaning": "schuetzen/behueten",
+      "meaning": "schützen/behueten",
       "forms": [
         { "form": "Perfekt 3ms", "expected": "وَقَى", "note": "Waw (1. Radikal) bleibt im Perfekt, Ya (3. Radikal) → Alif Maqsura" },
         { "form": "Perfekt 3mp", "expected": "وَقَوْا", "note": "Ya → Waw vor Waw al-Jama'a" },
-        { "form": "Imperfekt 3ms", "expected": "يَقِي", "note": "Waw (1. Radikal) faellt weg (wie bei assimilierten Wurzeln), Ya bleibt" },
-        { "form": "Imperativ 2ms", "expected": "قِ", "note": "Nur EIN sichtbarer Buchstabe! Waw faellt weg, Ya faellt weg" },
+        { "form": "Imperfekt 3ms", "expected": "يَقِي", "note": "Waw (1. Radikal) fällt weg (wie bei assimilierten Wurzeln), Ya bleibt" },
+        { "form": "Imperativ 2ms", "expected": "قِ", "note": "Nur EIN sichtbarer Buchstabe! Waw fällt weg, Ya fällt weg" },
         { "form": "Aktiv-Partizip", "expected": "وَاقٍ", "note": "Waw bleibt, Ya → Kasra + Tanwin" },
         { "form": "Form VIII (Perfekt)", "expected": "اتَّقَى", "note": "Waw assimiliert zu Ta (و + ت → تّ), Ya → Alif Maqsura" },
         { "form": "Form VIII (Imperfekt)", "expected": "يَتَّقِي", "note": "Doppel-Ta bleibt, Ya als letzter Radikal" },
-        { "form": "Form VIII (Partizip)", "expected": "مُتَّقٍ", "note": "Mim + doppeltes Ta, Ya faellt mit Tanwin-Kasra" }
+        { "form": "Form VIII (Partizip)", "expected": "مُتَّقٍ", "note": "Mim + doppeltes Ta, Ya fällt mit Tanwin-Kasra" }
       ],
       "quranExamples": [
         { "ref": "3:28", "arabic": "إِلَّا أَنْ تَتَّقُوا مِنْهُمْ تُقَاةً", "form": "Form VIII Imperfekt 2mp" },
@@ -181,7 +187,7 @@
       "additionalRoots": [
         {
           "root": "و-ف-ي",
-          "meaning": "erfuellen/voll geben",
+          "meaning": "erfüllen/voll geben",
           "keyForms": [
             { "form": "Perfekt 3ms", "expected": "وَفَى" },
             { "form": "Imperfekt 3ms", "expected": "يَفِي" },
@@ -197,9 +203,9 @@
           "keyForms": [
             { "form": "Perfekt 3ms", "expected": "رَأَى", "note": "Hamza (2. Radikal) auf Alif-Sitz, Ya → Alif Maqsura" },
             { "form": "Perfekt 3mp", "expected": "رَأَوْا", "note": "Ya → Waw vor Waw al-Jama'a" },
-            { "form": "Imperfekt 3ms", "expected": "يَرَى", "note": "Hamza faellt komplett weg! يَرْأَيُ → يَرَى" },
+            { "form": "Imperfekt 3ms", "expected": "يَرَى", "note": "Hamza fällt komplett weg! يَرْأَيُ → يَرَى" },
             { "form": "Imperativ 2ms", "expected": "رَ", "note": "Nur EIN Buchstabe! Hamza und Ya beide weg" },
-            { "form": "Form IV (Perfekt)", "expected": "أَرَى", "note": "Zeigen — Hamza faellt weg in Form IV" },
+            { "form": "Form IV (Perfekt)", "expected": "أَرَى", "note": "Zeigen — Hamza fällt weg in Form IV" },
             { "form": "Form IV (Imperfekt)", "expected": "يُرِي", "note": "Doppelt reduziert" }
           ],
           "quranExample": { "ref": "53:13", "arabic": "وَلَقَدْ رَآهُ نَزْلَةً أُخْرَىٰ", "form": "Perfekt 3ms + Suffix" }
@@ -209,7 +215,7 @@
           "meaning": "nahe sein/verwalten",
           "keyForms": [
             { "form": "Perfekt 3ms", "expected": "وَلِيَ" },
-            { "form": "Imperfekt 3ms", "expected": "يَلِي", "note": "Waw faellt im Imperfekt weg" },
+            { "form": "Imperfekt 3ms", "expected": "يَلِي", "note": "Waw fällt im Imperfekt weg" },
             { "form": "Form II (Perfekt)", "expected": "وَلَّى", "note": "Waw bleibt, Ya → Alif Maqsura" },
             { "form": "Form V (Perfekt)", "expected": "تَوَلَّى", "note": "Waw als Infix, Ya → Alif Maqsura" },
             { "form": "Aktiv-Partizip", "expected": "وَالٍ", "note": "Ya → Tanwin-Kasra" }
@@ -226,7 +232,7 @@
       "forms": [
         { "form": "Perfekt 3ms", "expected": "أَمَرَ", "note": "Hamza als 1. Radikal steht auf Alif-Sitz mit Fatha" },
         { "form": "Imperfekt 3ms", "expected": "يَأْمُرُ", "note": "Hamza auf Alif-Sitz nach Sukun-Position" },
-        { "form": "Imperativ 2ms", "expected": "مُرْ", "note": "Hamza faellt im Imperativ weg! Aus اُؤْمُرْ wird مُرْ durch doppelte Kuerzung" },
+        { "form": "Imperativ 2ms", "expected": "مُرْ", "note": "Hamza fällt im Imperativ weg! Aus اُؤْمُرْ wird مُرْ durch doppelte Kürzung" },
         { "form": "Aktiv-Partizip", "expected": "آمِر", "note": "Zwei Hamza verschmelzen: أَاْمِر → آمِر (Madda)" },
         { "form": "Passiv-Partizip", "expected": "مَأْمُور", "note": "Hamza auf Alif-Sitz nach Sukun" },
         { "form": "Masdar", "expected": "أَمْر", "note": "Hamza bleibt auf Alif-Sitz" },
@@ -256,7 +262,7 @@
           "keyForms": [
             { "form": "Perfekt 3ms", "expected": "سَأَلَ", "note": "Hamza als 2. Radikal auf Alif-Sitz" },
             { "form": "Imperfekt 3ms", "expected": "يَسْأَلُ", "note": "Hamza nach Sukun auf Alif-Sitz" },
-            { "form": "Imperativ 2ms", "expected": "اسْأَلْ / سَلْ", "note": "Zwei Formen: mit Hamza (regulaer) oder ohne (Kuerzung, haeufiger im Quran)" },
+            { "form": "Imperativ 2ms", "expected": "اسْأَلْ / سَلْ", "note": "Zwei Formen: mit Hamza (regulär) oder ohne (Kürzung, häufiger im Quran)" },
             { "form": "Masdar", "expected": "سُؤَال", "note": "Hamza auf Waw-Sitz nach Damma" },
             { "form": "Passiv Perfekt", "expected": "سُئِلَ", "note": "Hamza auf Ya-Sitz nach Damma + Kasra" }
           ],
@@ -268,7 +274,7 @@
           "keyForms": [
             { "form": "Perfekt 3ms", "expected": "أَخَذَ", "note": "Hamza als 1. Radikal auf Alif" },
             { "form": "Imperfekt 3ms", "expected": "يَأْخُذُ", "note": "Hamza auf Alif-Sitz" },
-            { "form": "Imperativ 2ms", "expected": "خُذْ", "note": "Hamza faellt im Imperativ komplett weg (wie bei أَمَرَ)" },
+            { "form": "Imperativ 2ms", "expected": "خُذْ", "note": "Hamza fällt im Imperativ komplett weg (wie bei أَمَرَ)" },
             { "form": "Form VIII (Perfekt)", "expected": "اتَّخَذَ", "note": "Hamza → assimiliert zum Ta: ائتخذ → اتّخذ" },
             { "form": "Masdar", "expected": "أَخْذ", "note": "Hamza bleibt" }
           ],
@@ -280,7 +286,7 @@
           "keyForms": [
             { "form": "Perfekt 3ms", "expected": "أَكَلَ", "note": "Hamza als 1. Radikal auf Alif" },
             { "form": "Imperfekt 3ms", "expected": "يَأْكُلُ", "note": "Hamza auf Alif-Sitz nach Sukun" },
-            { "form": "Imperativ 2ms", "expected": "كُلْ", "note": "Hamza faellt weg! (wie bei أَمَرَ und أَخَذَ)" },
+            { "form": "Imperativ 2ms", "expected": "كُلْ", "note": "Hamza fällt weg! (wie bei أَمَرَ und أَخَذَ)" },
             { "form": "Masdar", "expected": "أَكْل", "note": "Hamza bleibt" }
           ],
           "quranExample": { "ref": "2:35", "arabic": "وَكُلَا مِنْهَا رَغَدًا حَيْثُ شِئْتُمَا", "form": "Imperativ Dual" }

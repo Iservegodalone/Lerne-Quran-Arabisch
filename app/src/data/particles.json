@@ -2,7 +2,7 @@
   "meta": {
     "description": "Arabische Partikeln (Huruf) für den Quranischen Arabisch-Kurs",
     "note": "Partikeln sind unveränderliche Wörter, die keine Konjugation oder Deklination aufweisen.",
-    "totalCount": 72,
+    "totalCount": 73,
     "sources": [
       {"label": "Wright's Grammar Vol II — Particles (Huruf)", "url": "https://archive.org/details/WrightsArabicGrammar2Of2"},
       {"label": "Lane's Lexicon (Particle Semantics)", "url": "https://ejtaal.net/aa/"},
@@ -24,7 +24,8 @@
       "optative",
       "adverb_of_place_time",
       "distributive",
-      "generalized_relative"
+      "generalized_relative",
+      "exhortation"
     ]
   },
   "particles": [
@@ -53,7 +54,7 @@
       "function": "Drückt unmittelbare Folge, Kausalität oder Reihenfolge aus",
       "category": "conjunction",
       "grammaticalEffect": "none",
-      "rektion": "Koordinierende Konjunktion mit Folgebedeutung. Nach Bedingungssatz (Jawab ash-Shart): kann Jussiv einleiten. Als Fa as-Sababiyya vor Imperfekt: loest Subjunktiv (Nasb) aus.",
+      "rektion": "Koordinierende Konjunktion mit Folgebedeutung. Nach Bedingungssatz (Jawab ash-Shart): kann Jussiv einleiten. Als Fa as-Sababiyya vor Imperfekt: löst Subjunktiv (Nasb) aus.",
       "quranExample": {
         "surah": 2,
         "ayah": 37,
@@ -343,7 +344,7 @@
       "quranExample": {
         "surah": 2,
         "ayah": 25,
-        "snippet": "مِنْ قَبْلُ — (Beispiel zeigt مِنْ in temporalem Gebrauch als naechstverwandte Form; مُنْذُ selbst ist im Quran nicht belegt)"
+        "snippet": "مِنْ قَبْلُ — (Beispiel zeigt مِنْ in temporalem Gebrauch als nächstverwandte Form; مُنْذُ selbst ist im Quran nicht belegt)"
       }
     },
     {
@@ -520,10 +521,10 @@
       "arabic": "قَدْ",
       "consonantal": "قد",
       "transliteration": "qad",
-      "german": "bereits; gewiss; moeglicherweise",
+      "german": "bereits; gewiss; möglicherweise",
       "function": "Mit Perfekt: Bestätigung (bereits). Mit Imperfekt: Möglichkeit (vielleicht).",
       "category": "emphatic",
-      "rektion": "Keine Kasusrektion. Vor Perfekt: Bestaetigung/Vergangenheit. Vor Imperfekt: Moeglichkeit. Das Verb bleibt im Indikativ.",
+      "rektion": "Keine Kasusrektion. Vor Perfekt: Bestätigung/Vergangenheit. Vor Imperfekt: Möglichkeit. Das Verb bleibt im Indikativ.",
       "grammaticalEffect": "none",
       "quranExample": {
         "surah": 2,
@@ -689,7 +690,7 @@
       "german": "wenn; sobald (zeitlich/konditional)",
       "function": "Temporale Bedingungspartikel; bezieht sich auf wahrscheinliche Zukunft",
       "category": "conditional",
-      "rektion": "Keine direkte Kasusrektion. Das Verb im Bedingungssatz steht typisch im Perfekt. إِذَا ist ein Zarf (adverbiale Zeitbestimmung) im Akkusativ und wird durch den folgenden Satz naeher bestimmt.",
+      "rektion": "Keine direkte Kasusrektion. Das Verb im Bedingungssatz steht typisch im Perfekt. إِذَا ist ein Zarf (adverbiale Zeitbestimmung) im Akkusativ und wird durch den folgenden Satz näher bestimmt.",
       "grammaticalEffect": "none",
       "quranExample": {
         "surah": 99,
@@ -827,7 +828,7 @@
       "function": "Harf Jarr (Genitivpartikel) mit besonderer Syntax: steht nur satzinitiell und regiert ein indefinites Nomen im Genitiv. Im Quran erscheint nur رُبَمَا (rubba + mā), wobei مَا den Genitiveffekt aufhebt und ein Verb folgen kann.",
       "category": "preposition",
       "grammaticalEffect": "genitive",
-      "notes": "رُبَّ allein (ohne مَا) ist im Quran nicht belegt. Der Quran verwendet رُبَمَا (15:2). رُبَّ ist zwar ein Harf Jarr, verhält sich aber anders als regulaere Praepositionen: kein direktes Regens, nur satzinitiell, regiert ausschliesslich indefinite Nomen.",
+      "notes": "رُبَّ allein (ohne مَا) ist im Quran nicht belegt. Der Quran verwendet رُبَمَا (15:2). رُبَّ ist zwar ein Harf Jarr, verhält sich aber anders als reguläre Präpositionen: kein direktes Regens, nur satzinitiell, regiert ausschließlich indefinite Nomen.",
       "quranExample": {
         "surah": 15,
         "ayah": 2,
@@ -1117,7 +1118,7 @@
       "german": "wenn (irreal/kontrafaktisch)",
       "function": "Irreale Bedingungspartikel; drückt unerfüllte Bedingung aus",
       "category": "conditional",
-      "rektion": "Keine Kasusrektion. Beide Verben (Bedingung und Antwort) stehen typisch im Perfekt. لَوْ kann auch als Masdariyya fungieren (= أَنْ) und dann den Subjunktiv ausloesen.",
+      "rektion": "Keine Kasusrektion. Beide Verben (Bedingung und Antwort) stehen typisch im Perfekt. لَوْ kann auch als Masdariyya fungieren (= أَنْ) und dann den Subjunktiv auslösen.",
       "grammaticalEffect": "none",
       "quranExample": {
         "surah": 2,
@@ -1131,11 +1132,11 @@
       "consonantal": "ليس",
       "transliteration": "laysa",
       "german": "ist nicht / es gibt nicht",
-      "function": "Negation der Gegenwart; syntaktisch wie كَانَ und ihre Schwestern (Subjekt im Nominativ, Praedikat im Akkusativ)",
+      "function": "Negation der Gegenwart; syntaktisch wie كَانَ und ihre Schwestern (Subjekt im Nominativ, Prädikat im Akkusativ)",
       "category": "negation",
       "grammaticalEffect": "nominative_accusative",
-      "rektion": "Subjekt (اسم لَيْسَ) im Nominativ, Praedikat (خبر لَيْسَ) im Akkusativ. Funktioniert syntaktisch wie كَانَ und ihre Schwestern (كَانَ وَأَخَوَاتُهَا), obwohl لَيْسَ morphologisch ein defektives Verb (Perfektform ohne Imperfekt) ist.",
-      "notes": "لَيْسَ ist morphologisch ein Verb (defektiv: nur Perfektformen, kein regulaeres Imperfekt), funktioniert aber syntaktisch wie كَانَ und ihre Schwestern (Subjekt im Nominativ, Praedikat im Akkusativ). Es negiert die Gegenwart oder einen allgemeinen Zustand.",
+      "rektion": "Subjekt (اسم لَيْسَ) im Nominativ, Prädikat (خبر لَيْسَ) im Akkusativ. Funktioniert syntaktisch wie كَانَ und ihre Schwestern (كَانَ وَأَخَوَاتُهَا), obwohl لَيْسَ morphologisch ein defektives Verb (Perfektform ohne Imperfekt) ist.",
+      "notes": "لَيْسَ ist morphologisch ein Verb (defektiv: nur Perfektformen, kein reguläres Imperfekt), funktioniert aber syntaktisch wie كَانَ und ihre Schwestern (Subjekt im Nominativ, Prädikat im Akkusativ). Es negiert die Gegenwart oder einen allgemeinen Zustand.",
       "quranExample": {
         "surah": 2,
         "ayah": 177,

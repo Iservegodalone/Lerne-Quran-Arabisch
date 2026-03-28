@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": "Zarf — Adverbialer Akkusativ (الظرف)",
-    "description": "Der Zarf (Gefaess) ist ein akkusativisches Nomen, das Zeit (Zarf Zaman) oder Ort (Zarf Makan) angibt, ohne eine Praeposition zu benutzen. Im Quran ist der Zarf Zaman besonders frequent — vor allem يَوْمَ als Einleitung zu Nebensaetzen.",
+    "description": "Der Zarf (Gefäß) ist ein akkusativisches Nomen, das Zeit (Zarf Zaman) oder Ort (Zarf Makan) angibt, ohne eine Präposition zu benutzen. Im Quran ist der Zarf Zaman besonders frequent — vor allem يَوْمَ als Einleitung zu Nebensaetzen.",
     "sources": [
       {
         "name": "Wright's Arabic Grammar (3rd ed.)",
@@ -16,19 +16,19 @@
   "lessons": [
     {
       "id": "ZAR1",
-      "title": "Zarf Zaman — Zeitadverbiale ohne Praeposition",
-      "description": "Nomen die Zeitangaben ausdruecken und direkt im Akkusativ stehen, ohne Praeposition.",
+      "title": "Zarf Zaman — Zeitadverbiale ohne Präposition",
+      "description": "Nomen die Zeitangaben ausdrücken und direkt im Akkusativ stehen, ohne Präposition.",
       "learnContent": {
         "sections": [
           {
             "type": "explanation",
             "title": "Was ist ein Zarf Zaman?",
-            "content": "Ein Zarf Zaman (ظرف زمان — Zeitgefaess) ist ein Nomen im Akkusativ, das eine Zeitangabe ausdrueckt. Es beantwortet die Frage 'wann?'. Keine Praeposition noetig — der Akkusativ selbst traegt die adverbiale Funktion.\n\nHaeufige Zarfs im Quran:\n- يَوْمَ ('am Tag von') — sehr haeufig als Einleitung\n- حِينَ ('zu der Zeit als')\n- آنَاءَ اللَّيْلِ ('in den Stunden der Nacht')\n- بُكْرَةً ('morgens')\n- عَشِيًّا ('abends')\n- غُدُوًّا ('fruehmorgens')\n- أَبَدًا ('niemals / fuer immer')\n\nWICHTIG: يَوْمَ als Zarf kann einen ganzen Satz als Genitiv-Ergaenzung nehmen: يَوْمَ يَاْتِي الْعَذَابُ — 'am Tag, da die Strafe kommt'. Hier ist يَوْمَ Zarf + der folgende Satz sein Genitiv (Idafa oder Relative Construction)."
+            "content": "Ein Zarf Zaman (ظرف زمان — Zeitgefäß) ist ein Nomen im Akkusativ, das eine Zeitangabe ausdrückt. Es beantwortet die Frage 'wann?'. Keine Präposition nötig — der Akkusativ selbst trägt die adverbiale Funktion.\n\nHaeufige Zarfs im Quran:\n- يَوْمَ ('am Tag von') — sehr häufig als Einleitung\n- حِينَ ('zu der Zeit als')\n- آنَاءَ اللَّيْلِ ('in den Stunden der Nacht')\n- بُكْرَةً ('morgens')\n- عَشِيًّا ('abends')\n- غُدُوًّا ('fruehmorgens')\n- أَبَدًا ('niemals / für immer')\n\nWICHTIG: يَوْمَ als Zarf kann einen ganzen Satz als Genitiv-Ergänzung nehmen: يَوْمَ يَاْتِي الْعَذَابُ — 'am Tag, da die Strafe kommt'. Hier ist يَوْمَ Zarf + der folgende Satz sein Genitiv (Idafa oder Relative Construction)."
           },
           {
             "type": "explanation",
             "title": "يَوْمَ als Satzzarf",
-            "content": "Im Quran ist يَوْمَ in Verbindung mit einem Folgesatz besonders haeufig. Es gibt zwei Strukturen:\n\n1. يَوْمَ + Verb (Imperfekt): يَوْمَ تَبْيَضُّ وُجُوهٌ — 'am Tag, da Gesichter weiss werden'\nHier ist der Folgesatz im Genitiv (Idafa-Konstruktion: يَوْمَ als Mudaf, der Satz als Mudaf ilayh in mahall jarr)\n\n2. يَوْمَ + الَّذِي / الـ + Verb: definite Relativkonstruktion\n\nDieses يَوْمَ-Muster signalisiert immer eschatologische Zeitangaben im Quran. Es ist keine normale Zeitangabe, sondern eine feierliche Benennung eines spezifischen Tages."
+            "content": "Im Quran ist يَوْمَ in Verbindung mit einem Folgesatz besonders häufig. Es gibt zwei Strukturen:\n\n1. يَوْمَ + Verb (Imperfekt): يَوْمَ تَبْيَضُّ وُجُوهٌ — 'am Tag, da Gesichter weiss werden'\nHier ist der Folgesatz im Genitiv (Idafa-Konstruktion: يَوْمَ als Mudaf, der Satz als Mudaf ilayh in mahall jarr)\n\n2. يَوْمَ + الَّذِي / الـ + Verb: definite Relativkonstruktion\n\nDieses يَوْمَ-Muster signalisiert immer eschatologische Zeitangaben im Quran. Es ist keine normale Zeitangabe, sondern eine feierliche Benennung eines spezifischen Tages."
           },
           {
             "type": "quranExamples",
@@ -42,7 +42,7 @@
               {
                 "ref": "39:9",
                 "arabic": "أَمَّنْ هُوَ قَانِتٌ آنَاءَ اللَّيْلِ سَاجِدًا وَقَائِمًا",
-                "explanation": "آنَاءَ اللَّيْلِ = Zarf Zaman. آنَاءَ ist Akkusativ-Plural von إِنْي / أَنَى (Zeitabschnitt, Periode). Zarf-Akkusativ fuer 'waehrend der Nachtstunden'. اللَّيْلِ = Genitiv (Idafa). Beachte: آنَاءَ steht im Akkusativ und ist ein echter Zarf (keine Praeposition). سَاجِدًا وَقَائِمًا = Hals."
+                "explanation": "آنَاءَ اللَّيْلِ = Zarf Zaman. آنَاءَ ist Akkusativ-Plural von إِنْي / أَنَى (Zeitabschnitt, Periode). Zarf-Akkusativ für 'während der Nachtstunden'. اللَّيْلِ = Genitiv (Idafa). Beachte: آنَاءَ steht im Akkusativ und ist ein echter Zarf (keine Präposition). سَاجِدًا وَقَائِمًا = Hals."
               },
               {
                 "ref": "19:11",
@@ -52,7 +52,7 @@
               {
                 "ref": "17:78",
                 "arabic": "أَقِمِ الصَّلَاةَ لِدُلُوكِ الشَّمْسِ إِلَىٰ غَسَقِ اللَّيْلِ وَقُرْآنَ الْفَجْرِ",
-                "explanation": "لِدُلُوكِ = Praeposition + Genitiv (kein Zarf). قُرْآنَ الْفَجْرِ = Objekt (Akkusativ als Maf'ul bihi), kein echter Zarf. Vergleichsbeispiel: Zeitangaben mit Praeposition sind Jarr wa-Majrur, nicht Zarf."
+                "explanation": "لِدُلُوكِ = Präposition + Genitiv (kein Zarf). قُرْآنَ الْفَجْرِ = Objekt (Akkusativ als Maf'ul bihi), kein echter Zarf. Vergleichsbeispiel: Zeitangaben mit Präposition sind Jarr wa-Majrur, nicht Zarf."
               }
             ]
           }
@@ -62,7 +62,7 @@
         {
           "type": "identification",
           "question": "In أَبَدًا (niemals / ewig) — was ist das grammatisch, und welchen Kasus hat es?",
-          "answer": "Zarf Zaman im Akkusativ (Tanwin-Fatha). Es ist ein lexikalisierter Zarf, der stets im Akkusativ steht und Zeitdauer oder totale Verneinung ausdrueckt. Im Quran haeufig nach Verneinungen: لَا يَفْعَلُهُ أَبَدًا ('er wird es niemals tun')."
+          "answer": "Zarf Zaman im Akkusativ (Tanwin-Fatha). Es ist ein lexikalisierter Zarf, der stets im Akkusativ steht und Zeitdauer oder totale Verneinung ausdrückt. Im Quran häufig nach Verneinungen: لَا يَفْعَلُهُ أَبَدًا ('er wird es niemals tun')."
         }
       ],
       "testContent": {
@@ -70,13 +70,13 @@
           {
             "question": "Was ist die Struktur يَوْمَ تَبْيَضُّ وُجُوهٌ grammatisch?",
             "options": [
-              "يَوْمَ ist Subjekt, تَبْيَضُّ ist Praedikat",
+              "يَوْمَ ist Subjekt, تَبْيَضُّ ist Prädikat",
               "يَوْمَ ist Zarf Zaman (Akkusativ), der Folgesatz تَبْيَضُّ وُجُوهٌ steht als Idafa-Genitiv",
-              "يَوْمَ ist Praeposition, تَبْيَضُّ ist Subjunktiv",
+              "يَوْمَ ist Präposition, تَبْيَضُّ ist Subjunktiv",
               "يَوْمَ ist Relativpronomen"
             ],
             "correct": 1,
-            "explanation": "يَوْمَ ist Zarf Zaman im Akkusativ. Es nimmt den Folgesatz als Genitiv-Ergaenzung (Idafa-Konstruktion): يَوْمَ = Mudaf, تَبْيَضُّ وُجُوهٌ = Mudaf ilayh (Satz in mahall jarr)."
+            "explanation": "يَوْمَ ist Zarf Zaman im Akkusativ. Es nimmt den Folgesatz als Genitiv-Ergänzung (Idafa-Konstruktion): يَوْمَ = Mudaf, تَبْيَضُّ وُجُوهٌ = Mudaf ilayh (Satz in mahall jarr)."
           }
         ]
       }
@@ -84,13 +84,13 @@
     {
       "id": "ZAR2",
       "title": "Zarf Makan und lexikalisierte Zarfs",
-      "description": "Ortsadverbiale ohne Praeposition und die wichtigsten lexikalisierten Zarfs, die stets im Akkusativ stehen.",
+      "description": "Ortsadverbiale ohne Präposition und die wichtigsten lexikalisierten Zarfs, die stets im Akkusativ stehen.",
       "learnContent": {
         "sections": [
           {
             "type": "explanation",
             "title": "Zarf Makan im Quran",
-            "content": "Ein echter Zarf Makan (ظرف مكان) ohne Praeposition ist im Quran seltener als der Zarf Zaman. Die meisten Ortsangaben stehen nach Praepositionen (فِي, عَلَى, تَحْتَ, فَوْقَ usw.).\n\nAber einige Nomen sind LEXIKALISIERT als Zarfs — sie stehen stets im Akkusativ ohne Praeposition:\n- أَمَامَ ('vor' — raeumlich/zeitlich)\n- وَرَاءَ ('hinter')\n- يَمِينًا وَشِمَالًا ('rechts und links')\n- فَوْقَ ('ueber') — kann auch Praeposition sein\n- تَحْتَ ('unter') — kann auch Praeposition sein\n- بَيْنَ ('zwischen') — wird mit Genitiv verbunden\n\nDiese Zarfs koennen weitere Nomen im Genitiv als Ergaenzung nehmen (Idafa): وَرَاءَهُمْ = 'hinter ihnen'."
+            "content": "Ein echter Zarf Makan (ظرف مكان) ohne Präposition ist im Quran seltener als der Zarf Zaman. Die meisten Ortsangaben stehen nach Präpositionen (فِي, عَلَى, تَحْتَ, فَوْقَ usw.).\n\nAber einige Nomen sind LEXIKALISIERT als Zarfs — sie stehen stets im Akkusativ ohne Präposition:\n- أَمَامَ ('vor' — räumlich/zeitlich)\n- وَرَاءَ ('hinter')\n- يَمِينًا وَشِمَالًا ('rechts und links')\n- فَوْقَ ('über') — kann auch Präposition sein\n- تَحْتَ ('unter') — kann auch Präposition sein\n- بَيْنَ ('zwischen') — wird mit Genitiv verbunden\n\nDiese Zarfs können weitere Nomen im Genitiv als Ergänzung nehmen (Idafa): وَرَاءَهُمْ = 'hinter ihnen'."
           },
           {
             "type": "quranExamples",
@@ -109,7 +109,7 @@
               {
                 "ref": "2:255",
                 "arabic": "لَهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ",
-                "explanation": "فِي السَّمَاوَاتِ und فِي الْأَرْضِ = Jarr wa-Majrur (Praeposition + Genitiv), KEINE Zarfs. Vergleichsbeispiel: Ortsangaben mit فِي sind Praepositionalphrasen."
+                "explanation": "فِي السَّمَاوَاتِ und فِي الْأَرْضِ = Jarr wa-Majrur (Präposition + Genitiv), KEINE Zarfs. Vergleichsbeispiel: Ortsangaben mit فِي sind Präpositionalphrasen."
               }
             ]
           }
@@ -128,7 +128,7 @@
             "question": "Welchen Kasus hat يَوْمَ in يَوْمَ تَرَوْنَهَا?",
             "options": [
               "Nominativ — Subjekt",
-              "Genitiv — nach Praeposition",
+              "Genitiv — nach Präposition",
               "Akkusativ — Zarf Zaman",
               "Akkusativ — Maf'ul bihi"
             ],
@@ -140,24 +140,24 @@
     },
     {
       "id": "ZAR3",
-      "title": "Haeufige lexikalisierte Zarfs: عِنْدَ, لَدَى, حَيْثُ",
-      "description": "Drei im Quran besonders haeufige Zarf-Woerter fuer Ort und Naehe, die stets als Zarfs fungieren und ein Genitiv-Komplement nehmen.",
+      "title": "Häufige lexikalisierte Zarfs: عِنْدَ, لَدَى, حَيْثُ",
+      "description": "Drei im Quran besonders häufige Zarf-Wörter für Ort und Nähe, die stets als Zarfs fungieren und ein Genitiv-Komplement nehmen.",
       "learnContent": {
         "sections": [
           {
             "type": "explanation",
-            "title": "عِنْدَ — bei, in der Naehe von",
-            "content": "عِنْدَ ist ein Zarf Makan (Ortsadverbial), das Naehe oder Besitz ausdrueckt. Es steht im Akkusativ als Zarf und nimmt ein Genitiv-Komplement (Idafa).\n\nBedeutungen:\n- Raeumlich: 'bei, in der Naehe von'\n- Uebertragen: 'im Besitz von, nach Ansicht von'\n\nعِنْدَ اللَّهِ = 'bei Gott' (اللَّهِ im Genitiv als Mudaf ilayh).\n\nعِنْدَ kann auch Pronomen-Suffixe tragen: عِنْدَهُ (bei ihm), عِنْدَكُمْ (bei euch), عِنْدَنَا (bei uns)."
+            "title": "عِنْدَ — bei, in der Nähe von",
+            "content": "عِنْدَ ist ein Zarf Makan (Ortsadverbial), das Nähe oder Besitz ausdrückt. Es steht im Akkusativ als Zarf und nimmt ein Genitiv-Komplement (Idafa).\n\nBedeutungen:\n- Räumlich: 'bei, in der Nähe von'\n- Übertragen: 'im Besitz von, nach Ansicht von'\n\nعِنْدَ اللَّهِ = 'bei Gott' (اللَّهِ im Genitiv als Mudaf ilayh).\n\nعِنْدَ kann auch Pronomen-Suffixe tragen: عِنْدَهُ (bei ihm), عِنْدَكُمْ (bei euch), عِنْدَنَا (bei uns)."
           },
           {
             "type": "explanation",
             "title": "لَدَى — bei (synonym zu عِنْدَ)",
-            "content": "لَدَى ist ein Zarf Makan mit derselben Grundbedeutung wie عِنْدَ: 'bei, in der Naehe von'. Es nimmt ebenfalls ein Genitiv-Komplement.\n\nMit Pronomen-Suffixen wird لَدَى zu لَدَيْ-: لَدَيْهِ (bei ihm), لَدَيْنَا (bei uns), لَدَيْكُمْ (bei euch).\n\nIm Quran erscheint لَدَى seltener als عِنْدَ, aber in vergleichbaren Kontexten."
+            "content": "لَدَى ist ein Zarf Makan mit derselben Grundbedeutung wie عِنْدَ: 'bei, in der Nähe von'. Es nimmt ebenfalls ein Genitiv-Komplement.\n\nMit Pronomen-Suffixen wird لَدَى zu لَدَيْ-: لَدَيْهِ (bei ihm), لَدَيْنَا (bei uns), لَدَيْكُمْ (bei euch).\n\nIm Quran erscheint لَدَى seltener als عِنْدَ, aber in vergleichbaren Kontexten."
           },
           {
             "type": "explanation",
             "title": "حَيْثُ — wo",
-            "content": "حَيْثُ ist ein Zarf Makan fuer den Ort: 'wo, wohin, dort wo'. Es ist mabni (unveraenderlich auf Damma) und nimmt einen Folgesatz als Ergaenzung — keinen einfachen Genitiv.\n\nStruktur: حَيْثُ + Verbalsatz oder Nominalsatz.\nDie Phrase حَيْثُ + Satz steht als Ganzes في محل نصب (Akkusativ-Position als Zarf).\n\nIm Quran haeufig in Anweisungen: 'wohin auch immer ihr euch wendet' oder 'wo immer ihr seid'."
+            "content": "حَيْثُ ist ein Zarf Makan für den Ort: 'wo, wohin, dort wo'. Es ist mabni (unveränderlich auf Damma) und nimmt einen Folgesatz als Ergänzung — keinen einfachen Genitiv.\n\nStruktur: حَيْثُ + Verbalsatz oder Nominalsatz.\nDie Phrase حَيْثُ + Satz steht als Ganzes في محل نصب (Akkusativ-Position als Zarf).\n\nIm Quran häufig in Anweisungen: 'wohin auch immer ihr euch wendet' oder 'wo immer ihr seid'."
           },
           {
             "type": "quranExamples",
@@ -166,17 +166,17 @@
               {
                 "ref": "3:14",
                 "arabic": "قُلْ أَؤُنَبِّئُكُم بِخَيْرٍ مِّن ذَٰلِكُمْ لِلَّذِينَ اتَّقَوْا عِندَ رَبِّهِمْ جَنَّاتٌ",
-                "explanation": "عِنْدَ رَبِّهِمْ = Zarf Makan. عِنْدَ = 'bei', رَبِّهِمْ = Genitiv (Idafa). 'Bei ihrem Herrn sind Gaerten.' Das Zarf fungiert hier als vorangestelltes Khabar."
+                "explanation": "عِنْدَ رَبِّهِمْ = Zarf Makan. عِنْدَ = 'bei', رَبِّهِمْ = Genitiv (Idafa). 'Bei ihrem Herrn sind Gärten.' Das Zarf fungiert hier als vorangestelltes Khabar."
               },
               {
                 "ref": "50:22",
                 "arabic": "لَّقَدْ كُنتَ فِي غَفْلَةٍ مِّنْ هَٰذَا فَكَشَفْنَا عَنكَ غِطَاءَكَ فَبَصَرُكَ الْيَوْمَ حَدِيدٌ",
-                "explanation": "Kontext fuer لَدَيْنَا: In 50:18 steht مَّا يَلْفِظُ مِن قَوْلٍ إِلَّا لَدَيْهِ رَقِيبٌ عَتِيدٌ — لَدَيْهِ = Zarf Makan ('bei ihm'). رَقِيبٌ عَتِيدٌ = Mubtada + Sifa. Das Zarf ist vorangestelltes Khabar: 'Bei ihm ist ein bereiter Waechter.'"
+                "explanation": "Kontext für لَدَيْنَا: In 50:18 steht مَّا يَلْفِظُ مِن قَوْلٍ إِلَّا لَدَيْهِ رَقِيبٌ عَتِيدٌ — لَدَيْهِ = Zarf Makan ('bei ihm'). رَقِيبٌ عَتِيدٌ = Mubtada + Sifa. Das Zarf ist vorangestelltes Khabar: 'Bei ihm ist ein bereiter Wächter.'"
               },
               {
                 "ref": "2:150",
                 "arabic": "وَحَيْثُ مَا كُنتُمْ فَوَلُّوا وُجُوهَكُمْ شَطْرَهُ",
-                "explanation": "حَيْثُ مَا كُنتُمْ = Zarf Makan mit konditionaler Nuance. حَيْثُ = 'wo', مَا = verstaerkend, كُنتُمْ = Verbalsatz. 'Und wo immer ihr seid, wendet eure Gesichter in seine Richtung.' حَيْثُ + Satz steht als Ganzes im Akkusativ (Zarf-Position)."
+                "explanation": "حَيْثُ مَا كُنتُمْ = Zarf Makan mit konditionaler Nuance. حَيْثُ = 'wo', مَا = verstärkend, كُنتُمْ = Verbalsatz. 'Und wo immer ihr seid, wendet eure Gesichter in seine Richtung.' حَيْثُ + Satz steht als Ganzes im Akkusativ (Zarf-Position)."
               }
             ]
           }
@@ -186,32 +186,32 @@
         {
           "type": "distinction",
           "question": "Was ist der Unterschied zwischen عِنْدَ und لَدَى?",
-          "answer": "Beide sind Zarfs Makan mit der Bedeutung 'bei, in der Naehe von'. عِنْدَ ist haeufiger im Quran. Beide nehmen ein Genitiv-Komplement (Idafa) oder Pronomen-Suffixe. Es gibt keinen wesentlichen Bedeutungsunterschied."
+          "answer": "Beide sind Zarfs Makan mit der Bedeutung 'bei, in der Nähe von'. عِنْدَ ist häufiger im Quran. Beide nehmen ein Genitiv-Komplement (Idafa) oder Pronomen-Suffixe. Es gibt keinen wesentlichen Bedeutungsunterschied."
         }
       ],
       "testContent": {
         "exercises": [
           {
-            "prompt": "Was ist عِنْدَ اللَّهِ grammatisch?",
+            "question": "Was ist عِنْدَ اللَّهِ grammatisch?",
             "options": [
-              "Jarr wa-Majrur (Praeposition + Genitiv)",
+              "Jarr wa-Majrur (Präposition + Genitiv)",
               "Zarf Makan (Akkusativ) + Genitiv-Komplement (Idafa)",
               "Mubtada + Khabar",
               "Maf'ul bihi"
             ],
-            "answer": "Zarf Makan (Akkusativ) + Genitiv-Komplement (Idafa)",
+            "correct": 1,
             "explanation": "عِنْدَ ist ein lexikalisierter Zarf Makan im Akkusativ. اللَّهِ steht im Genitiv als Mudaf ilayh (Idafa-Konstruktion)."
           },
           {
-            "prompt": "Welchen Satztyp nimmt حَيْثُ als Ergaenzung?",
+            "question": "Welchen Satztyp nimmt حَيْثُ als Ergänzung?",
             "options": [
               "Einen einfachen Genitiv",
               "Einen Folgesatz (Verbal- oder Nominalsatz)",
               "Einen Akkusativ",
-              "Eine Praeposition"
+              "Eine Präposition"
             ],
-            "answer": "Einen Folgesatz (Verbal- oder Nominalsatz)",
-            "explanation": "حَيْثُ nimmt einen Folgesatz als Ergaenzung, keinen einfachen Genitiv. Der gesamte Ausdruck حَيْثُ + Satz steht in Akkusativ-Position als Zarf."
+            "correct": 1,
+            "explanation": "حَيْثُ nimmt einen Folgesatz als Ergänzung, keinen einfachen Genitiv. Der gesamte Ausdruck حَيْثُ + Satz steht in Akkusativ-Position als Zarf."
           }
         ]
       }

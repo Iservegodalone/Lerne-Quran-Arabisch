@@ -222,7 +222,7 @@
       "transliteration": "ḍ",
       "sound": "Emphatisches D — kein deutsches Äquivalent",
       "articulationPoint": "Zungenrand am Seitenzahn + Zungenrücken zum Gaumen (pharyngalisiert)",
-      "articulationDetail": "Historisch rekonstruierte Artikulation: der seitliche Zungenrand beruehrt die oberen Backenzaehne, waehrend die Zunge pharyngalisiert ist — ein lateraler emphatischer Laut. In der modernen Standardaussprache wird Ḍād als pharyngalisierter stimmhafter Plosiv /dˤ/ realisiert, also wie ein emphatisches Dāl. Arabisch heisst 'Sprache des Ḍād' (لغة الضاد) — historisch war dieser Laut extrem selten. Ausserhalb des Arabischen fand er sich nur in einigen suedarabischen Sprachen (z.B. Mehri).",
+      "articulationDetail": "Historisch rekonstruierte Artikulation: der seitliche Zungenrand beruehrt die oberen Backenzähne, während die Zunge pharyngalisiert ist — ein lateraler emphatischer Laut. In der modernen Standardaussprache wird Ḍād als pharyngalisierter stimmhafter Plosiv /dˤ/ realisiert, also wie ein emphatisches Dāl. Arabisch heißt 'Sprache des Ḍād' (لغة الضاد) — historisch war dieser Laut extrem selten. Ausserhalb des Arabischen fand er sich nur in einigen suedarabischen Sprachen (z.B. Mehri).",
       "forms": { "isolated": "ض", "initial": "ضـ", "medial": "ـضـ", "final": "ـض" },
       "connectable": true,
       "group": "Ṣād-Gruppe",
@@ -515,8 +515,8 @@
       "symbol": "ٰ",
       "example": "هٰذَا",
       "sound": "langes ā (historisches Alif)",
-      "position": "ueber dem Buchstaben",
-      "description": "Eine kleine aufrechte Alif ueber dem Buchstaben. Zeigt an, dass hier historisch ein Alif geschrieben wurde, das im uthmanischen Rasm durch dieses Zeichen ersetzt ist. Haeufige Quran-Woerter mit Alif Khanjariyya: هٰذَا (hadha — dieser), رَحْمٰن (Rahman — der Erbarmer), لٰكِن (lakin — aber), إِلٰه (ilah — Gott), ذٰلِك (dhalika — jener), سُبْحٰن (subhan — Lobpreis). In der Simple-Clean-Textdarstellung wird die Alif Khanjariyya oft als regulaeres Alif geschrieben oder weggelassen."
+      "position": "über dem Buchstaben",
+      "description": "Eine kleine aufrechte Alif über dem Buchstaben. Zeigt an, dass hier historisch ein Alif geschrieben wurde, das im uthmanischen Rasm durch dieses Zeichen ersetzt ist. Häufige Quran-Wörter mit Alif Khanjariyya: هٰذَا (hadha — dieser), رَحْمٰن (Rahman — der Erbarmer), لٰكِن (lakin — aber), إِلٰه (ilah — Gott), ذٰلِك (dhalika — jener), سُبْحٰن (subhan — Lobpreis). In der Simple-Clean-Textdarstellung wird die Alif Khanjariyya oft als reguläres Alif geschrieben oder weggelassen."
     }
   ],
   "tashkilCombinations": [
@@ -524,7 +524,7 @@
       "id": "shadda_fatha",
       "combination": "Shadda + Fatha",
       "symbol": "بَّ",
-      "description": "Der Konsonant wird verdoppelt und traegt den Vokal 'a'. Haeufigste Kombination im Quran.",
+      "description": "Der Konsonant wird verdoppelt und trägt den Vokal 'a'. Häufigste Kombination im Quran.",
       "example": "رَبَّ",
       "exampleMeaning": "Herr (Akkusativ)",
       "exampleLocation": "1:2"
@@ -533,7 +533,7 @@
       "id": "shadda_kasra",
       "combination": "Shadda + Kasra",
       "symbol": "بِّ",
-      "description": "Der Konsonant wird verdoppelt und traegt den Vokal 'i'.",
+      "description": "Der Konsonant wird verdoppelt und trägt den Vokal 'i'.",
       "example": "رَبِّ",
       "exampleMeaning": "Herr (Genitiv)",
       "exampleLocation": "1:2"
@@ -542,7 +542,7 @@
       "id": "shadda_damma",
       "combination": "Shadda + Damma",
       "symbol": "بُّ",
-      "description": "Der Konsonant wird verdoppelt und traegt den Vokal 'u'.",
+      "description": "Der Konsonant wird verdoppelt und trägt den Vokal 'u'.",
       "example": "رَبُّ",
       "exampleMeaning": "Herr (Nominativ)",
       "exampleLocation": "1:2"
@@ -610,7 +610,7 @@
       "exampleTransliteration": "karīm",
       "exampleMeaning": "edel/grosszuegig",
       "exampleLocation": "44:49",
-      "rasmNote": "Im Konsonantentext: Ya kann Langvokal ī ODER Konsonant y sein. Nur die grammatische Analyse klaert die Funktion."
+      "rasmNote": "Im Konsonantentext: Ya kann Langvokal ī ODER Konsonant y sein. Nur die grammatische Analyse klärt die Funktion."
     },
     {
       "id": "aw",
@@ -642,39 +642,39 @@
     "explanation": "Tanwin Fatha (ـًا) erfordert in der Regel eine Alif NACH dem Buchstaben: كِتَابًا (kitāban). Diese Alif ist rein orthographisch — sie wird NICHT gesprochen. Sie erscheint NUR bei Tanwin Fatha, NICHT bei Tanwin Damma oder Kasra.",
     "rules": [
       {
-        "rule": "Regulaer: Tanwin Fatha + Alif",
+        "rule": "Regulär: Tanwin Fatha + Alif",
         "example": "كِتَابًا",
         "description": "Die Standardschreibung: Tanwin Fatha steht auf dem letzten Buchstaben, Alif folgt danach."
       },
       {
         "rule": "Nach Ta Marbuta: KEINE Alif",
         "example": "رَحْمَةً",
-        "description": "Nach ة (Ta Marbuta) wird KEINE zusaetzliche Alif geschrieben. Die Ta Marbuta selbst traegt den Tanwin."
+        "description": "Nach ة (Ta Marbuta) wird KEINE zusätzliche Alif geschrieben. Die Ta Marbuta selbst trägt den Tanwin."
       },
       {
         "rule": "Nach Alif Maqsura: KEINE Alif",
         "example": "هُدًى",
-        "description": "Nach ى (Alif Maqsura) wird KEINE zusaetzliche Alif geschrieben. Maqsura endet bereits auf einem Vokaltraeger."
+        "description": "Nach ى (Alif Maqsura) wird KEINE zusätzliche Alif geschrieben. Maqsura endet bereits auf einem Vokalträger."
       },
       {
-        "rule": "Nach langem Alif: KEINE zusaetzliche Alif",
+        "rule": "Nach langem Alif: KEINE zusätzliche Alif",
         "example": "عَصًا",
         "description": "Wenn das Wort bereits auf Alif endet, wird keine zweite Alif hinzugefuegt."
       },
       {
         "rule": "Nach Hamza auf der Zeile: Alif folgt",
         "example": "شَيْئًا",
-        "description": "Nach Hamza auf der Zeile (ء) folgt die regulaere Tanwin-Alif."
+        "description": "Nach Hamza auf der Zeile (ء) folgt die reguläre Tanwin-Alif."
       }
     ]
   },
   "prefixOrthography": {
-    "title": "Praefix-Orthographie — Angehaengte Partikeln erkennen",
-    "explanation": "Im Arabischen werden bestimmte Partikeln graphisch direkt an das folgende Wort angehaengt. Sie sind im Konsonantentext Teil des Wortbilds, muessen aber morphologisch getrennt werden.",
+    "title": "Präfix-Orthographie — Angehängte Partikeln erkennen",
+    "explanation": "Im Arabischen werden bestimmte Partikeln graphisch direkt an das folgende Wort angehängt. Sie sind im Konsonantentext Teil des Wortbilds, müssen aber morphologisch getrennt werden.",
     "prefixes": [
       {
         "prefix": "بِ",
-        "name": "Ba (Praeposition)",
+        "name": "Ba (Präposition)",
         "function": "mit/durch/in",
         "example": "بِسْمِ",
         "analysis": "بِ + اسم (im Namen)",
@@ -682,10 +682,10 @@
       },
       {
         "prefix": "لِ",
-        "name": "Lam (Praeposition)",
-        "function": "fuer/zu/gehoerend",
+        "name": "Lam (Präposition)",
+        "function": "für/zu/gehörend",
         "example": "لِلَّهِ",
-        "analysis": "لِ + الله (fuer Gott / Gottes)",
+        "analysis": "لِ + الله (für Gott / Gottes)",
         "quranRef": "1:2"
       },
       {
@@ -706,7 +706,7 @@
       },
       {
         "prefix": "كَ",
-        "name": "Kaf (Praeposition)",
+        "name": "Kaf (Präposition)",
         "function": "wie/gleich",
         "example": "كَمَثَلِ",
         "analysis": "كَ + مَثَل (wie ein Gleichnis)",
@@ -735,7 +735,7 @@
       "id": "lam_alif",
       "letters": "ل + ا",
       "result": "لا",
-      "description": "Lam gefolgt von Alif verschmilzt zu einer einzigen Zeichenform. Trotzdem sind es ZWEI Buchstaben. Haeufig im Quran: لا (nicht), definiter Artikel (اَلْ + Wort).",
+      "description": "Lam gefolgt von Alif verschmilzt zu einer einzigen Zeichenform. Trotzdem sind es ZWEI Buchstaben. Häufig im Quran: لا (nicht), definiter Artikel (اَلْ + Wort).",
       "exampleWord": "لا",
       "exampleMeaning": "nicht/nein",
       "exampleLocation": "2:2"
@@ -744,7 +744,7 @@
       "id": "lam_alif_hamza_above",
       "letters": "ل + أ",
       "result": "لأ",
-      "description": "Lam + Alif mit Hamza darueber. Die Ligatur bleibt erhalten, Hamza wird ueber der verschmolzenen Form geschrieben.",
+      "description": "Lam + Alif mit Hamza darueber. Die Ligatur bleibt erhalten, Hamza wird über der verschmolzenen Form geschrieben.",
       "exampleWord": "لأنتم",
       "exampleMeaning": "sicherlich ihr",
       "exampleLocation": "3:151"
@@ -755,14 +755,14 @@
       "result": "لإ",
       "description": "Lam + Alif mit Hamza darunter. Selbe Verschmelzung, Hamza unter der Form.",
       "exampleWord": "لإيلف",
-      "exampleMeaning": "fuer die Vertrautheit",
+      "exampleMeaning": "für die Vertrautheit",
       "exampleLocation": "106:1"
     },
     {
       "id": "allah_ligature",
       "letters": "ا + ل + ل + ه",
       "result": "الله",
-      "description": "Das Wort الله (Allah) hat in vielen Schriftarten eine spezielle Ligaturform, bei der Alif-Lam-Lam-Ha zu einem einzigen Schriftbild verschmelzen. Die Shadda ueber dem zweiten Lam und die Alif Khanjariyya (oder Fatha) sind dabei integriert. Morphologisch: Artikel ال + إله (Gott) mit Assimilation.",
+      "description": "Das Wort الله (Allah) hat in vielen Schriftarten eine spezielle Ligaturform, bei der Alif-Lam-Lam-Ha zu einem einzigen Schriftbild verschmelzen. Die Shadda über dem zweiten Lam und die Alif Khanjariyya (oder Fatha) sind dabei integriert. Morphologisch: Artikel ال + إله (Gott) mit Assimilation.",
       "exampleLocation": "1:1"
     }
   ],
@@ -810,7 +810,7 @@
       "example2Word": "ضَلَّ",
       "example2Consonantal": "ضل",
       "example2Meaning": "abirren",
-      "explanation": "Dāl ist ein normales D. Ḍād ist der einzigartigste arabische Laut — emphatisch (pharyngalisiert). Historisch mit seitlicher Zungenartikulation, in moderner Standardaussprache als pharyngalisierter Plosiv /dˤ/ realisiert. Arabisch heisst 'Sprache des Ḍād'."
+      "explanation": "Dāl ist ein normales D. Ḍād ist der einzigartigste arabische Laut — emphatisch (pharyngalisiert). Historisch mit seitlicher Zungenartikulation, in moderner Standardaussprache als pharyngalisierter Plosiv /dˤ/ realisiert. Arabisch heißt 'Sprache des Ḍād'."
     },
     {
       "letter1": "ذ",

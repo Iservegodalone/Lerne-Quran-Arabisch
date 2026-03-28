@@ -128,7 +128,7 @@ export default function VerbRectionDrill() {
         )}
 
         <div style={{ display: 'flex', gap: 8, marginTop: 12 }}>
-          <button onClick={() => setLearnIdx(Math.max(0, learnIdx - 1))} disabled={learnIdx === 0} style={{ ...btnInactive, opacity: learnIdx === 0 ? 0.4 : 1 }}>Zurueck</button>
+          <button onClick={() => setLearnIdx(Math.max(0, learnIdx - 1))} disabled={learnIdx === 0} style={{ ...btnInactive, opacity: learnIdx === 0 ? 0.4 : 1 }}>Zurück</button>
           <button onClick={() => setLearnIdx(Math.min(filteredVerbs.length - 1, learnIdx + 1))} disabled={learnIdx >= filteredVerbs.length - 1} style={{ ...btnInactive, opacity: learnIdx >= filteredVerbs.length - 1 ? 0.4 : 1 }}>Weiter</button>
         </div>
       </div>
@@ -154,7 +154,7 @@ export default function VerbRectionDrill() {
 
       <div style={cardStyle}>
         <div style={{ marginBottom: 12 }}>
-          <div style={{ fontSize: '0.8rem', color: 'var(--text-secondary)', marginBottom: 4 }}>Welche Praeposition regiert dieses Verb in folgender Bedeutung?</div>
+          <div style={{ fontSize: '0.8rem', color: 'var(--text-secondary)', marginBottom: 4 }}>Welche Präposition regiert dieses Verb in folgender Bedeutung?</div>
           <div dir="rtl" style={{ fontFamily: 'var(--font-arabic)', fontSize: '1.6rem', color: 'var(--accent-gold)', marginBottom: 4 }}>{drill.verb.verb}</div>
           <div style={{ fontSize: '0.95rem', color: 'var(--text)', marginBottom: 8 }}>
             Bedeutung: <strong>{drill.correctRection.meaning}</strong>
@@ -218,8 +218,8 @@ export default function VerbRectionDrill() {
 
         <div style={{ display: 'flex', gap: 8 }}>
           {!revealed
-            ? <button onClick={check} disabled={selected === null} style={{ ...btnActive, opacity: selected === null ? 0.4 : 1 }}>Pruefen</button>
-            : <button onClick={next} style={btnActive}>Naechste Frage</button>
+            ? <button onClick={check} disabled={selected === null} style={{ ...btnActive, opacity: selected === null ? 0.4 : 1 }}>Prüfen</button>
+            : <button onClick={next} style={btnActive}>Nächste Frage</button>
           }
         </div>
       </div>

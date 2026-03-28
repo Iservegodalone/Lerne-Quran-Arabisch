@@ -15,12 +15,12 @@
           {
             "type": "explanation",
             "title": "Was ist I'jam?",
-            "content": "Die aelteste arabische Schrift hatte keine Punkte. Der reine Konsonantentext — der Rasm (رَسْم) — bestand nur aus Grundformen. Viele Buchstaben teilten sich dieselbe Grundform und waren nur durch den Kontext unterscheidbar. Das I'jam-System (إِعْجَام, woertlich: 'das Beseitigen von Mehrdeutigkeit') fuegt diakritische Punkte hinzu, um Buchstaben eindeutig zu kennzeichnen. 22 der 28 Buchstaben gehoeren zu Skelettgruppen, in denen Punkte (oder deren Abwesenheit) zur Unterscheidung noetig sind. 15 davon tragen tatsaechlich Punkte, 7 werden durch das Fehlen von Punkten identifiziert. Die uebrigen 6 Buchstaben haben ein einzigartiges Skelett und brauchen keine Punkte.",
+            "content": "Die älteste arabische Schrift hatte keine Punkte. Der reine Konsonantentext — der Rasm (رَسْم) — bestand nur aus Grundformen. Viele Buchstaben teilten sich dieselbe Grundform und waren nur durch den Kontext unterscheidbar. Das I'jam-System (إِعْجَام, wörtlich: 'das Beseitigen von Mehrdeutigkeit') fuegt diakritische Punkte hinzu, um Buchstaben eindeutig zu kennzeichnen. 22 der 28 Buchstaben gehören zu Skelettgruppen, in denen Punkte (oder deren Abwesenheit) zur Unterscheidung nötig sind. 15 davon tragen tatsächlich Punkte, 7 werden durch das Fehlen von Punkten identifiziert. Die uebrigen 6 Buchstaben haben ein einzigartiges Skelett und brauchen keine Punkte.",
             "arabicExamples": [
               {
                 "arabic": "إِعْجَام",
                 "transliteration": "iʿjām",
-                "meaning": "Punktierung — woertlich: 'Beseitigung von Mehrdeutigkeit'"
+                "meaning": "Punktierung — wörtlich: 'Beseitigung von Mehrdeutigkeit'"
               },
               {
                 "arabic": "رَسْم",
@@ -32,7 +32,7 @@
           {
             "type": "explanation",
             "title": "Die Skelettgruppen — 22 Buchstaben in 9 Skelettgruppen",
-            "content": "22 Buchstaben teilen sich 9 Grundskelette. Von diesen 22 tragen 15 tatsaechlich Punkte (die sog. manqūṭa-Buchstaben: ب ت ث ج خ ذ ز ش ض ظ غ ف ق ن ي). 7 weitere (ح د ر س ص ط ع) haben keine Punkte, sind aber durch die Abwesenheit von Punkten von ihren Skelettpartnern zu unterscheiden. Die uebrigen 6 Buchstaben (ا ك ل م ه و) haben ein einzigartiges Skelett und sind ohne Kontext eindeutig. Die folgende Tabelle zeigt alle Gruppen systematisch.",
+            "content": "22 Buchstaben teilen sich 9 Grundskelette. Von diesen 22 tragen 15 tatsächlich Punkte (die sog. manqūṭa-Buchstaben: ب ت ث ج خ ذ ز ش ض ظ غ ف ق ن ي). 7 weitere (ح د ر س ص ط ع) haben keine Punkte, sind aber durch die Abwesenheit von Punkten von ihren Skelettpartnern zu unterscheiden. Die uebrigen 6 Buchstaben (ا ك ل م ه و) haben ein einzigartiges Skelett und sind ohne Kontext eindeutig. Die folgende Tabelle zeigt alle Gruppen systematisch.",
             "table": {
               "headers": ["Skelettgruppe", "Buchstaben", "Punktierung", "Beispielwoerter"],
               "rows": [
@@ -111,7 +111,7 @@
                     {"letter": "ق", "name": "qāf", "dots": "2 Punkte oben (fruehhijazisch: 1 Punkt oben)"}
                   ],
                   "examples": ["فلب / قلب — Herz entsteht durch die richtige Punktierung"],
-                  "note": "In fruehen hijazischen Handschriften war die Konvention umgekehrt: fāʾ hatte einen Punkt unten, qāf einen Punkt oben. Die heutige Konvention (fāʾ oben, qāf zwei oben) setzte sich spaeter durch."
+                  "note": "In fruehen hijazischen Handschriften war die Konvention umgekehrt: fāʾ hatte einen Punkt unten, qāf einen Punkt oben. Die heutige Konvention (fāʾ oben, qāf zwei oben) setzte sich später durch."
                 }
               ]
             }
@@ -119,7 +119,7 @@
           {
             "type": "explanation",
             "title": "6 Buchstaben mit einzigartigem punktlosen Skelett",
-            "content": "Diese sechs Buchstaben des arabischen Alphabets haben ein einzigartiges Grundskelett und benoetigen keine Punkte zur Unterscheidung. Sie sind in jedem Rasm sofort erkennbar.",
+            "content": "Diese sechs Buchstaben des arabischen Alphabets haben ein einzigartiges Grundskelett und benötigen keine Punkte zur Unterscheidung. Sie sind in jedem Rasm sofort erkennbar.",
             "arabicExamples": [
               {"arabic": "ا", "transliteration": "alif", "meaning": "Senkrechter Strich — einzigartig"},
               {"arabic": "و", "transliteration": "wāw", "meaning": "Hakenform — einzigartig"},
@@ -132,12 +132,12 @@
           {
             "type": "explanation",
             "title": "Sonderzeichen und Varianten ohne I'jam-Punkte",
-            "content": "Neben den sechs Kernbuchstaben gibt es weitere Zeichen, die keine I'jam-Punkte im eigentlichen Sinne tragen, aber keine eigenstaendigen Alphabetbuchstaben sind.",
+            "content": "Neben den sechs Kernbuchstaben gibt es weitere Zeichen, die keine I'jam-Punkte im eigentlichen Sinne tragen, aber keine eigenständigen Alphabetbuchstaben sind.",
             "arabicExamples": [
-              {"arabic": "ة", "transliteration": "tāʾ marbūṭa", "meaning": "Variante von ت am Wortende. Traegt zwei Punkte — ist also streng genommen nicht punktlos, sondern eine Positionsvariante von tāʾ."},
-              {"arabic": "ء", "transliteration": "hamza", "meaning": "Eigenstaendiges Zeichen fuer den Glottalverschluss. Kein Alphabetbuchstabe im engeren Sinne, sondern ein diakritisches Zeichen, das auf verschiedenen Traegern (alif, wāw, yāʾ) oder alleinstehend erscheint."},
-              {"arabic": "ى", "transliteration": "alif maqṣūra", "meaning": "Schreibvariante des Alif am Wortende (yāʾ-Skelett ohne Punkte). Kein eigenstaendiger Buchstabe, sondern eine orthographische Variante von Alif."},
-              {"arabic": "ٱ", "transliteration": "alif al-waṣl", "meaning": "Verbindungs-Alif mit waṣla-Zeichen (ٱ). Kein eigenstaendiger Buchstabe, sondern eine funktionale Variante des Alif."}
+              {"arabic": "ة", "transliteration": "tāʾ marbūṭa", "meaning": "Variante von ت am Wortende. Trägt zwei Punkte — ist also streng genommen nicht punktlos, sondern eine Positionsvariante von tāʾ."},
+              {"arabic": "ء", "transliteration": "hamza", "meaning": "Eigenständiges Zeichen für den Glottalverschluss. Kein Alphabetbuchstabe im engeren Sinne, sondern ein diakritisches Zeichen, das auf verschiedenen Trägern (alif, wāw, yāʾ) oder alleinstehend erscheint."},
+              {"arabic": "ى", "transliteration": "alif maqṣūra", "meaning": "Schreibvariante des Alif am Wortende (yāʾ-Skelett ohne Punkte). Kein eigenständiger Buchstabe, sondern eine orthographische Variante von Alif."},
+              {"arabic": "ٱ", "transliteration": "alif al-waṣl", "meaning": "Verbindungs-Alif mit waṣla-Zeichen (ٱ). Kein eigenständiger Buchstabe, sondern eine funktionale Variante des Alif."}
             ]
           },
           {
@@ -147,10 +147,10 @@
               "Nehmen wir das Skelett: ٮحر (ohne Punkte auf dem ersten Buchstaben)",
               "Mit ب (1 Punkt unten): بَحْر (baḥr) = Meer",
               "Mit ن (1 Punkt oben): نَحْر (naḥr) = Schlachten / Brust",
-              "Mit ت (2 Punkte oben): تَحْر — kein gaengiges Wort",
-              "Mit ث (3 Punkte oben): ثَحْر — kein gaengiges Wort",
-              "Mit ي (2 Punkte unten): يَحْر — kein gaengiges Wort",
-              "Ergebnis: Die Punkte auf dem ersten Buchstaben entscheiden zwischen 'Meer' und 'Schlachten'. Die anderen drei Moeglichkeiten fallen weg, weil sie keine existierenden Woerter ergeben."
+              "Mit ت (2 Punkte oben): تَحْر — kein gängiges Wort",
+              "Mit ث (3 Punkte oben): ثَحْر — kein gängiges Wort",
+              "Mit ي (2 Punkte unten): يَحْر — kein gängiges Wort",
+              "Ergebnis: Die Punkte auf dem ersten Buchstaben entscheiden zwischen 'Meer' und 'Schlachten'. Die anderen drei Möglichkeiten fallen weg, weil sie keine existierenden Wörter ergeben."
             ]
           },
           {
@@ -160,12 +160,12 @@
               {
                 "location": "2:10",
                 "word": "يَكْذِبُونَ",
-                "analysis": "Wurzel ك-ذ-ب. Ohne Punkt auf ذ waere es دال (d), und das Wort waere *يَكْدِبُون — das existiert nicht. Die Punkte auf ذ sind hier entscheidend."
+                "analysis": "Wurzel ك-ذ-ب. Ohne Punkt auf ذ wäre es دال (d), und das Wort wäre *يَكْدِبُون — das existiert nicht. Die Punkte auf ذ sind hier entscheidend."
               },
               {
                 "location": "2:26",
                 "word": "بَعُوضَة",
-                "analysis": "Eine Muecke. Ohne Punkt auf ض waere es صاد: *بَعُوصَة — ein anderes (nicht gaengiges) Wort. Der Punkt auf ض unterscheidet die Bedeutung."
+                "analysis": "Eine Muecke. Ohne Punkt auf ض wäre es صاد: *بَعُوصَة — ein anderes (nicht gängiges) Wort. Der Punkt auf ض unterscheidet die Bedeutung."
               },
               {
                 "location": "112:1",
@@ -175,24 +175,24 @@
               {
                 "location": "1:6",
                 "word": "صِرَاطَ",
-                "analysis": "Weg. Ohne Punkt auf ض/ص: ضِرَاطَ waere ein voellig anderes Wort. Die Unterscheidung ص vs. ض ist rein durch den Punkt moeglich."
+                "analysis": "Weg. Ohne Punkt auf ض/ص: ضِرَاطَ wäre ein völlig anderes Wort. Die Unterscheidung ص vs. ض ist rein durch den Punkt möglich."
               },
               {
                 "location": "2:102",
                 "word": "يُعَلِّمُونَ",
-                "analysis": "Sie lehren (Wurzel ع-ل-م). Ohne Punkt auf ع waere es غ: يُغَلِّمُون — das existiert nicht. Aber: ع vs. غ ist im Rasm identisch."
+                "analysis": "Sie lehren (Wurzel ع-ل-م). Ohne Punkt auf ع wäre es غ: يُغَلِّمُون — das existiert nicht. Aber: ع vs. غ ist im Rasm identisch."
               }
             ]
           },
           {
             "type": "explanation",
-            "title": "Uebung: Punktloses Wort — alle Lesungen",
-            "content": "Methode: (1) Identifiziere alle Skelettgruppen im Wort. (2) Liste fuer jeden mehrdeutigen Buchstaben alle Punkt-Moeglichkeiten auf. (3) Bilde alle Kombinationen. (4) Pruefe, welche Kombinationen existierende arabische Woerter ergeben.",
+            "title": "Übung: Punktloses Wort — alle Lesungen",
+            "content": "Methode: (1) Identifiziere alle Skelettgruppen im Wort. (2) Liste für jeden mehrdeutigen Buchstaben alle Punkt-Möglichkeiten auf. (3) Bilde alle Kombinationen. (4) Prüfe, welche Kombinationen existierende arabische Wörter ergeben.",
             "arabicExamples": [
               {
                 "arabic": "ٮحٮ",
                 "transliteration": "?-ḥ-?",
-                "meaning": "Skelett mit zwei mehrdeutigen Positionen. Position 1: ب/ت/ث/ن/ي. Position 3: ب/ت/ث/ن/ي. Das ergibt 5×5 = 25 theoretische Kombinationen. Tatsaechlich existierende Woerter: بَحْث (Suche/Forschung), نَحْت (Meisseln), نَحْب (Schicksal), u.a."
+                "meaning": "Skelett mit zwei mehrdeutigen Positionen. Position 1: ب/ت/ث/ن/ي. Position 3: ب/ت/ث/ن/ي. Das ergibt 5×5 = 25 theoretische Kombinationen. Tatsaechlich existierende Wörter: بَحْث (Suche/Forschung), نَحْت (Meisseln), نَحْب (Schicksal), u.a."
               }
             ]
           }
@@ -214,7 +214,7 @@
           },
           {
             "type": "multiple_choice",
-            "prompt": "Welche Buchstaben gehoeren zur selben Skelettgruppe?",
+            "prompt": "Welche Buchstaben gehören zur selben Skelettgruppe?",
             "options": [
               "ب، ت، ث، ن، ي",
               "ب، ح، خ",
@@ -222,7 +222,7 @@
               "ع، ف، ق"
             ],
             "answer": ["ب، ت، ث، ن، ي"],
-            "explanation": "Diese fuenf Buchstaben teilen in medialer Position dasselbe Grundskelett (Zahnform). Sie werden nur durch die Punkte unterschieden."
+            "explanation": "Diese fünf Buchstaben teilen in medialer Position dasselbe Grundskelett (Zahnform). Sie werden nur durch die Punkte unterschieden."
           },
           {
             "type": "multiple_choice",
@@ -246,11 +246,11 @@
               "ف hatte zwei Punkte, ق einen Punkt"
             ],
             "answer": ["Umgekehrt: ف ein Punkt unten, ق ein Punkt oben"],
-            "explanation": "In fruehen hijazischen Handschriften hatte ف einen Punkt unten und ق einen Punkt oben. Die heutige Konvention (ف oben, ق zwei oben) ist spaeter entstanden."
+            "explanation": "In fruehen hijazischen Handschriften hatte ف einen Punkt unten und ق einen Punkt oben. Die heutige Konvention (ف oben, ق zwei oben) ist später entstanden."
           },
           {
             "type": "identification",
-            "prompt": "Gegeben das punktlose Skelett ٮحر — welche zwei existierenden arabischen Woerter sind moeglich?",
+            "prompt": "Gegeben das punktlose Skelett ٮحر — welche zwei existierenden arabischen Wörter sind möglich?",
             "options": [
               "بَحْر (Meer) und نَحْر (Schlachten)",
               "تَحْر und ثَحْر",
@@ -258,7 +258,7 @@
               "نَحْر und يَحْر"
             ],
             "answer": ["بَحْر (Meer) und نَحْر (Schlachten)"],
-            "explanation": "Von den 5 theoretischen Moeglichkeiten (ب/ت/ث/ن/ي + حر) ergeben nur بَحْر und نَحْر existierende arabische Woerter."
+            "explanation": "Von den 5 theoretischen Möglichkeiten (ب/ت/ث/ن/ي + حر) ergeben nur بَحْر und نَحْر existierende arabische Wörter."
           },
           {
             "type": "multiple_choice",
@@ -270,7 +270,7 @@
               "ث"
             ],
             "answer": ["م"],
-            "explanation": "م (mīm) hat ein einzigartiges Skelett (geschlossener Kreis) und braucht keine Punkte. ب، ن، ث gehoeren alle zur Zahngruppe und brauchen Punkte."
+            "explanation": "م (mīm) hat ein einzigartiges Skelett (geschlossener Kreis) und braucht keine Punkte. ب، ن، ث gehören alle zur Zahngruppe und brauchen Punkte."
           },
           {
             "type": "identification",
@@ -301,18 +301,18 @@
     {
       "id": "1.12",
       "title": "Vom Rasm zum Text — Kontextuelle Disambiguation",
-      "description": "Wie liest man einen Text ohne Punkte? Diese Lektion zeigt, wie morphologische, syntaktische und semantische Constraints die Lesung einschraenken — bis nur eine Moeglichkeit uebrig bleibt.",
+      "description": "Wie liest man einen Text ohne Punkte? Diese Lektion zeigt, wie morphologische, syntaktische und semantische Constraints die Lesung einschränken — bis nur eine Möglichkeit uebrig bleibt.",
       "learnContent": {
         "sections": [
           {
             "type": "explanation",
             "title": "Das Problem: Mehrdeutigkeit im Rasm",
-            "content": "Ein punktloser Rasm ist hochgradig mehrdeutig. Jedes Wort mit punktierten Buchstaben hat theoretisch mehrere Lesungen. Trotzdem konnten fruehe Leser den Text verstehen. Warum? Weil vier Ebenen von Constraints die Moeglichkeiten drastisch einschraenken."
+            "content": "Ein punktloser Rasm ist hochgradig mehrdeutig. Jedes Wort mit punktierten Buchstaben hat theoretisch mehrere Lesungen. Trotzdem konnten fruehe Leser den Text verstehen. Warum? Weil vier Ebenen von Constraints die Möglichkeiten drastisch einschränken."
           },
           {
             "type": "explanation",
             "title": "Ebene 1: Morphologische Constraints",
-            "content": "Arabische Woerter folgen festen Mustern (awzān). Nicht jede Konsonantenkombination ergibt ein gueltiges Muster. Wenn das Skelett nur zu einem einzigen bekannten Wortmuster passt, ist die Lesung eindeutig — unabhaengig von den Punkten.",
+            "content": "Arabische Wörter folgen festen Mustern (awzān). Nicht jede Konsonantenkombination ergibt ein gueltiges Muster. Wenn das Skelett nur zu einem einzigen bekannten Wortmuster passt, ist die Lesung eindeutig — unabhängig von den Punkten.",
             "arabicExamples": [
               {
                 "arabic": "مسٮحد",
@@ -324,19 +324,19 @@
           {
             "type": "explanation",
             "title": "Ebene 2: Syntaktische Constraints",
-            "content": "Die Grammatik eliminiert ungueltige Lesungen. Wenn an einer Stelle im Satz ein Verb stehen muss, fallen alle nominalen Lesungen weg. Wenn ein Subjekt im Plural steht, muss das Praedikat kongruieren — das schraenkt die Moeglichkeiten weiter ein.",
+            "content": "Die Grammatik eliminiert ungueltige Lesungen. Wenn an einer Stelle im Satz ein Verb stehen muss, fallen alle nominalen Lesungen weg. Wenn ein Subjekt im Plural steht, muss das Prädikat kongruieren — das schränkt die Möglichkeiten weiter ein.",
             "arabicExamples": [
               {
                 "arabic": "هم يعلمون",
                 "transliteration": "hum yaʿlamūna",
-                "meaning": "Das Pronomen هم (3. Person Plural) erzwingt die Pluralform يَعْلَمُونَ — eine Singularlesung waere syntaktisch unmoeglich."
+                "meaning": "Das Pronomen هم (3. Person Plural) erzwingt die Pluralform يَعْلَمُونَ — eine Singularlesung wäre syntaktisch unmöglich."
               }
             ]
           },
           {
             "type": "explanation",
             "title": "Ebene 3: Semantische Constraints",
-            "content": "Selbst wenn mehrere Lesungen morphologisch und syntaktisch moeglich waeren, eliminiert der Bedeutungskontext unsinnige Varianten. Ein Wort im Kontext von 'Himmel und Erde' wird anders gelesen als im Kontext von 'Handel und Vertrag'.",
+            "content": "Selbst wenn mehrere Lesungen morphologisch und syntaktisch möglich wären, eliminiert der Bedeutungskontext unsinnige Varianten. Ein Wort im Kontext von 'Himmel und Erde' wird anders gelesen als im Kontext von 'Handel und Vertrag'.",
             "arabicExamples": [
               {
                 "arabic": "السموت والارض",
@@ -348,20 +348,20 @@
           {
             "type": "explanation",
             "title": "Ebene 4: Frequenz und Gebrauchshaeufigkeit",
-            "content": "Haeufige Woerter werden schneller erkannt als seltene. Das Skelett الله (Allāh) ist so haeufig, dass es praktisch nie mehrdeutig ist. Auch Funktionswoerter wie من (min), في (fī), على (ʿalā) sind durch ihre Haeufigkeit sofort identifizierbar — sie haben zudem einzigartige Skelette."
+            "content": "Häufige Wörter werden schneller erkannt als seltene. Das Skelett الله (Allāh) ist so häufig, dass es praktisch nie mehrdeutig ist. Auch Funktionswoerter wie من (min), في (fī), على (ʿalā) sind durch ihre Häufigkeit sofort identifizierbar — sie haben zudem einzigartige Skelette."
           },
           {
             "type": "walkthrough",
             "title": "Durchgearbeitetes Beispiel: Q 2:2 — ذلك الكتاب",
             "steps": [
               "Rasm ohne Punkte: ذلک الکٮاٮ",
-              "Position 1: ذلک — das Skelett ذلک ist eindeutig. ذ braucht den Punkt (vs. د), aber: دلک (dalaka = reiben) waere hier syntaktisch unsinnig. Das demonstrative ذَلِكَ (jenes) ist die einzige syntaktisch gueltige Lesung am Satzanfang.",
+              "Position 1: ذلک — das Skelett ذلک ist eindeutig. ذ braucht den Punkt (vs. د), aber: دلک (dalaka = reiben) wäre hier syntaktisch unsinnig. Das demonstrative ذَلِكَ (jenes) ist die einzige syntaktisch gueltige Lesung am Satzanfang.",
               "Position 2: الکٮاٮ — Skelettanalyse: ال + ک + ٮاٮ",
               "Der Artikel ال ist eindeutig (einzigartige Skelette).",
               "ک ist eindeutig (einzigartiges Skelett = kāf).",
-              "ٮاٮ hat zwei mehrdeutige Positionen (je 5 Moeglichkeiten = 25 Kombinationen).",
-              "Morphologischer Filter: Das Muster فِعَال (mit Artikel: الفِعَال) schraenkt ein. Die Radikale muessen eine existierende Wurzel bilden.",
-              "Existierende Woerter: الكِتَاب (das Buch, Wurzel ك-ت-ب) — die einzige Kombination, die ein bekanntes Wort auf dem Muster فِعَال ergibt.",
+              "ٮاٮ hat zwei mehrdeutige Positionen (je 5 Möglichkeiten = 25 Kombinationen).",
+              "Morphologischer Filter: Das Muster فِعَال (mit Artikel: الفِعَال) schränkt ein. Die Radikale müssen eine existierende Wurzel bilden.",
+              "Existierende Wörter: الكِتَاب (das Buch, Wurzel ك-ت-ب) — die einzige Kombination, die ein bekanntes Wort auf dem Muster فِعَال ergibt.",
               "Ergebnis: Obwohl das Skelett theoretisch 25 Kombinationen zulaesst, bleibt nur eine uebrig: ذَلِكَ الْكِتَابُ — 'Jenes Buch'."
             ]
           },
@@ -372,29 +372,29 @@
               {
                 "location": "1:1",
                 "word": "بِسْمِ",
-                "analysis": "Rasm: ٮسم. Theoretische Lesungen des ersten Buchstabens: ب/ت/ث/ن/ي. 'ٮسم' koennte theoretisch بسم، تسم، ثسم، نسم، يسم sein. Morphologischer Filter: بِسْمِ (bi-smi, 'im Namen') ist eine Praeposition + Nomen-Konstruktion. تسم، ثسم ergeben keine existierenden Woerter. نسم (nasam = Hauch) passt nicht syntaktisch (es fehlt die Kasusmarkierung). يسم koennte ein Verb sein, aber die Position am Satzanfang vor einem Eigennamen spricht fuer die Praeposition. Ergebnis: بِسْمِ."
+                "analysis": "Rasm: ٮسم. Theoretische Lesungen des ersten Buchstabens: ب/ت/ث/ن/ي. 'ٮسم' könnte theoretisch بسم، تسم، ثسم، نسم، يسم sein. Morphologischer Filter: بِسْمِ (bi-smi, 'im Namen') ist eine Präposition + Nomen-Konstruktion. تسم، ثسم ergeben keine existierenden Wörter. نسم (nasam = Hauch) passt nicht syntaktisch (es fehlt die Kasusmarkierung). يسم könnte ein Verb sein, aber die Position am Satzanfang vor einem Eigennamen spricht für die Präposition. Ergebnis: بِسْمِ."
               },
               {
                 "location": "2:3",
                 "word": "يُؤْمِنُونَ",
-                "analysis": "Rasm: ٮومٮون. Der letzte Teil -ون ist ein Pluralsuffix — das schraenkt auf eine Verbform 3. Person Plural ein. Das Praefix ٮ koennte ي/ت/ن/ب/ث sein. Syntaktischer Constraint: Das Subjekt الَّذِينَ (die, welche) ist 3. Person Plural maskulin — das erzwingt das Praefix يـ. Die Wurzel ء-م-ن auf Form IV (يُفْعِلُونَ) ergibt يُؤْمِنُونَ. Andere Wurzeln mit diesem Skelett existieren nicht in dieser Form."
+                "analysis": "Rasm: ٮومٮون. Der letzte Teil -ون ist ein Pluralsuffix — das schränkt auf eine Verbform 3. Person Plural ein. Das Präfix ٮ könnte ي/ت/ن/ب/ث sein. Syntaktischer Constraint: Das Subjekt الَّذِينَ (die, welche) ist 3. Person Plural maskulin — das erzwingt das Präfix يـ. Die Wurzel ء-م-ن auf Form IV (يُفْعِلُونَ) ergibt يُؤْمِنُونَ. Andere Wurzeln mit diesem Skelett existieren nicht in dieser Form."
               },
               {
                 "location": "36:1",
                 "word": "يس",
-                "analysis": "Rasm: ٮس. Dieser Fall ist besonders: Die isolierten Buchstaben (ḥurūf muqaṭṭaʿa) am Beginn einiger Suren sind nicht als Woerter zu lesen. يس wird als Buchstabenfolge yāʾ-sīn gelesen, nicht als Wort. Hier greift kein morphologischer oder syntaktischer Filter — die Lesung ist konventionell."
+                "analysis": "Rasm: ٮس. Dieser Fall ist besonders: Die isolierten Buchstaben (ḥurūf muqaṭṭaʿa) am Beginn einiger Suren sind nicht als Wörter zu lesen. يس wird als Buchstabenfolge yāʾ-sīn gelesen, nicht als Wort. Hier greift kein morphologischer oder syntaktischer Filter — die Lesung ist konventionell."
               },
               {
                 "location": "3:7",
                 "word": "يَعْلَمُ",
-                "analysis": "Rasm: ٮعلم. Der erste Buchstabe koennte ي/ت/ن/ب/ث sein. Syntaktisch: Das Subjekt ist implizit 3. Person Singular maskulin (bezogen auf الله im vorherigen Kontext) — das erzwingt يـ. Morphologisch: يَعْلَمُ (yaʿlamu) ist die Imperfektform von عَلِمَ (wissen). Die Punktierung von ع (vs. غ) wird durch die Wurzel ع-ل-م bestimmt — غلم ergibt keine bekannte Wurzel."
+                "analysis": "Rasm: ٮعلم. Der erste Buchstabe könnte ي/ت/ن/ب/ث sein. Syntaktisch: Das Subjekt ist implizit 3. Person Singular maskulin (bezogen auf الله im vorherigen Kontext) — das erzwingt يـ. Morphologisch: يَعْلَمُ (yaʿlamu) ist die Imperfektform von عَلِمَ (wissen). Die Punktierung von ع (vs. غ) wird durch die Wurzel ع-ل-م bestimmt — غلم ergibt keine bekannte Wurzel."
               }
             ]
           },
           {
             "type": "explanation",
             "title": "Zusammenfassung: Disambiguation-Algorithmus",
-            "content": "Schritt 1: Identifiziere alle mehrdeutigen Skelettgruppen im Wort. Schritt 2: Liste alle theoretischen Punktkombinationen auf. Schritt 3: Eliminiere Kombinationen, die kein existierendes Wort ergeben (morphologischer Filter). Schritt 4: Eliminiere Woerter, die syntaktisch nicht in den Satz passen (syntaktischer Filter). Schritt 5: Eliminiere Woerter, die semantisch keinen Sinn ergeben (semantischer Filter). In den allermeisten Faellen bleibt genau eine Lesung uebrig."
+            "content": "Schritt 1: Identifiziere alle mehrdeutigen Skelettgruppen im Wort. Schritt 2: Liste alle theoretischen Punktkombinationen auf. Schritt 3: Eliminiere Kombinationen, die kein existierendes Wort ergeben (morphologischer Filter). Schritt 4: Eliminiere Wörter, die syntaktisch nicht in den Satz passen (syntaktischer Filter). Schritt 5: Eliminiere Wörter, die semantisch keinen Sinn ergeben (semantischer Filter). In den allermeisten Fällen bleibt genau eine Lesung uebrig."
           }
         ]
       },
@@ -419,14 +419,14 @@
               "Weil es das einzige Wort ist, das morphologisch auf dem Muster فِعَال mit Wurzel ك + zwei mehrdeutigen Radikalen existiert",
               "Weil der Text vokalisiert ist",
               "Weil der Kontext beliebig ist",
-              "Weil alle 25 Kombinationen existierende Woerter sind"
+              "Weil alle 25 Kombinationen existierende Wörter sind"
             ],
             "answer": ["Weil es das einzige Wort ist, das morphologisch auf dem Muster فِعَال mit Wurzel ك + zwei mehrdeutigen Radikalen existiert"],
             "explanation": "Von 25 theoretischen Punktkombinationen ergibt nur كِتَاب (Wurzel ك-ت-ب) ein existierendes Wort auf dem Muster فِعَال."
           },
           {
             "type": "multiple_choice",
-            "prompt": "Ein punktloses Verb hat das Skelett ٮعلم. Das Subjekt ist 3. Person Plural maskulin. Welches Praefix ist syntaktisch erzwungen?",
+            "prompt": "Ein punktloses Verb hat das Skelett ٮعلم. Das Subjekt ist 3. Person Plural maskulin. Welches Präfix ist syntaktisch erzwungen?",
             "options": [
               "يـ (yāʾ)",
               "تـ (tāʾ)",
@@ -434,55 +434,55 @@
               "بـ (bāʾ)"
             ],
             "answer": ["يـ (yāʾ)"],
-            "explanation": "3. Person Plural maskulin verlangt im Imperfekt das Praefix يـ. تـ waere 2. Person oder 3. Person feminin, نـ waere 1. Person Plural."
+            "explanation": "3. Person Plural maskulin verlangt im Imperfekt das Präfix يـ. تـ wäre 2. Person oder 3. Person feminin, نـ wäre 1. Person Plural."
           },
           {
             "type": "multiple_choice",
             "prompt": "Was ist ein morphologischer Constraint?",
             "options": [
-              "Die Konsonanten muessen eine existierende Wurzel bilden und das Wort muss einem gueltigen Wortmuster (wazn) folgen",
+              "Die Konsonanten müssen eine existierende Wurzel bilden und das Wort muss einem gueltigen Wortmuster (wazn) folgen",
               "Das Wort muss am Satzanfang stehen",
               "Das Wort muss einen bestimmten Vokal haben",
-              "Das Wort muss in einem Woerterbuch verzeichnet sein"
+              "Das Wort muss in einem Wörterbuch verzeichnet sein"
             ],
-            "answer": ["Die Konsonanten muessen eine existierende Wurzel bilden und das Wort muss einem gueltigen Wortmuster (wazn) folgen"],
+            "answer": ["Die Konsonanten müssen eine existierende Wurzel bilden und das Wort muss einem gueltigen Wortmuster (wazn) folgen"],
             "explanation": "Morphologische Constraints bedeuten: Nicht jede Konsonantenkombination ergibt eine existierende Wurzel, und nicht jede Wurzel kommt in jedem Muster vor."
           },
           {
             "type": "identification",
             "prompt": "Das Skelett ٮسم am Satzanfang vor einem Eigennamen — welche Lesung ist die wahrscheinlichste und warum?",
             "options": [
-              "بِسْمِ — Praeposition bi + ism (Name), syntaktisch passend vor Eigennamen",
+              "بِسْمِ — Präposition bi + ism (Name), syntaktisch passend vor Eigennamen",
               "نسم — nasam (Hauch), semantisch passend",
               "تسم — keine existierende Form",
-              "يسم — Verb 'er markiert', syntaktisch moeglich"
+              "يسم — Verb 'er markiert', syntaktisch möglich"
             ],
-            "answer": ["بِسْمِ — Praeposition bi + ism (Name), syntaktisch passend vor Eigennamen"],
-            "explanation": "بِسْمِ (bi-smi) ist die Praeposition بِ + das Nomen اسْم im Genitiv. Die Position vor einem Eigennamen und die fehlende Verbstruktur schliessen die anderen Lesungen aus."
+            "answer": ["بِسْمِ — Präposition bi + ism (Name), syntaktisch passend vor Eigennamen"],
+            "explanation": "بِسْمِ (bi-smi) ist die Präposition بِ + das Nomen اسْم im Genitiv. Die Position vor einem Eigennamen und die fehlende Verbstruktur schließen die anderen Lesungen aus."
           },
           {
             "type": "multiple_choice",
             "prompt": "Warum sind isolierte Buchstaben (ḥurūf muqaṭṭaʿa) wie يس ein Sonderfall der Disambiguation?",
             "options": [
-              "Weil sie nicht als Woerter gelesen werden und daher keine morphologischen oder syntaktischen Filter greifen",
+              "Weil sie nicht als Wörter gelesen werden und daher keine morphologischen oder syntaktischen Filter greifen",
               "Weil sie immer eindeutig sind",
               "Weil sie nur in medialer Form vorkommen",
               "Weil sie keine Punkte haben"
             ],
-            "answer": ["Weil sie nicht als Woerter gelesen werden und daher keine morphologischen oder syntaktischen Filter greifen"],
-            "explanation": "Die isolierten Buchstaben werden als Einzelbuchstaben gelesen, nicht als Woerter. Morphologie und Syntax koennen hier nicht zur Disambiguation beitragen."
+            "answer": ["Weil sie nicht als Wörter gelesen werden und daher keine morphologischen oder syntaktischen Filter greifen"],
+            "explanation": "Die isolierten Buchstaben werden als Einzelbuchstaben gelesen, nicht als Wörter. Morphologie und Syntax können hier nicht zur Disambiguation beitragen."
           },
           {
             "type": "identification",
-            "prompt": "Gegeben das Skelett حسٮ — welcher Disambiguationsschritt eliminiert die meisten Moeglichkeiten?",
+            "prompt": "Gegeben das Skelett حسٮ — welcher Disambiguationsschritt eliminiert die meisten Möglichkeiten?",
             "options": [
               "Der morphologische Filter — nur wenige Kombinationen ergeben existierende Wurzeln",
               "Der syntaktische Filter — die Satzstellung ist entscheidend",
               "Der semantische Filter — nur eine Bedeutung passt",
-              "Die Frequenz — das haeufigste Wort wird gewaehlt"
+              "Die Frequenz — das häufigste Wort wird gewählt"
             ],
             "answer": ["Der morphologische Filter — nur wenige Kombinationen ergeben existierende Wurzeln"],
-            "explanation": "Der morphologische Filter ist der staerkste: Er eliminiert alle Konsonantenkombinationen, die keine existierende Wurzel bilden. Von 5 theoretischen Lesungen (حسب، حست، حسث، حسن، حسي) existieren nur حَسْب (genuegend) und حُسْن (Schoenheit, wobei hier ٮ = ن)."
+            "explanation": "Der morphologische Filter ist der stärkste: Er eliminiert alle Konsonantenkombinationen, die keine existierende Wurzel bilden. Von 5 theoretischen Lesungen (حسب، حست، حسث، حسن، حسي) existieren nur حَسْب (genügend) und حُسْن (Schönheit, wobei hier ٮ = ن)."
           }
         ]
       }

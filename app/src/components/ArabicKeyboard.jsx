@@ -214,7 +214,7 @@ export default function ArabicKeyboard({
             ref={translitInputRef}
             type="text"
             className="arabic-keyboard__translit-input"
-            placeholder="Lateinisch eingeben, Enter druecken... (z.B. k-t-b)"
+            placeholder="Lateinisch eingeben, Enter drücken... (z.B. k-t-b)"
             value={translitBuffer}
             onChange={handleTranslitInput}
             onKeyDown={handleTranslitKeyDown}

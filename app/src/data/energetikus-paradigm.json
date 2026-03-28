@@ -1,9 +1,14 @@
 {
   "meta": {
     "title": "Energetikus-Paradigma (نون التوكيد)",
-    "description": "Vollstaendiges Konjugationsparadigma des Energetikus (Modus der Bekraeftigung) mit schwerer und leichter Nun-Form. Der Energetikus wird im Quran nach Schwurpartikeln, in Prohibitivkonstruktionen und in bestimmten Bedingungskontexten verwendet.",
+    "description": "Vollständiges Konjugationsparadigma des Energetikus (Modus der Bekräftigung) mit schwerer und leichter Nun-Form. Der Energetikus wird im Quran nach Schwurpartikeln, in Prohibitivkonstruktionen und in bestimmten Bedingungskontexten verwendet.",
     "rootExample": "ف-ع-ل (fa-'a-la) als Musterwurzel",
-    "personOrder": ["3ms", "3fs", "3md", "3fd", "3mp", "3fp", "2ms", "2fs", "2md", "2mp", "2fp", "1s", "1p"]
+    "personOrder": ["3ms", "3fs", "3md", "3fd", "3mp", "3fp", "2ms", "2fs", "2md", "2mp", "2fp", "1s", "1p"],
+    "sources": [
+      { "name": "Wright's Grammar Vol I", "url": "https://archive.org/details/grammarofthearab01telerich" },
+      { "name": "Wright's Grammar Vol II", "url": "https://archive.org/details/grammarofthearab02telerich" },
+      { "name": "Quranic Arabic Corpus", "url": "https://corpus.quran.com/" }
+    ]
   },
   "heavyForm": {
     "label": "Schwere Form (نون التوكيد الثقيلة — نَّ)",
@@ -37,7 +42,7 @@
       "3fp": {
         "arabic": "يَفْعَلْنَانِّ",
         "transliteration": "yaf'alnanni",
-        "notes": "Nun-al-Niswa bleibt, Alif eingefuegt vor -nni"
+        "notes": "Nun-al-Niswa bleibt, Alif eingefügt vor -nni"
       },
       "2ms": {
         "arabic": "تَفْعَلَنَّ",
@@ -47,7 +52,7 @@
       "2fs": {
         "arabic": "تَفْعَلِنَّ",
         "transliteration": "taf'alinna",
-        "notes": "Ya der femininen Endung faellt weg, Kasra bleibt"
+        "notes": "Ya der femininen Endung fällt weg, Kasra bleibt"
       },
       "2md": {
         "arabic": "تَفْعَلَانِّ",
@@ -62,7 +67,7 @@
       "2fp": {
         "arabic": "تَفْعَلْنَانِّ",
         "transliteration": "taf'alnanni",
-        "notes": "Nun-al-Niswa bleibt, Alif eingefuegt vor -nni"
+        "notes": "Nun-al-Niswa bleibt, Alif eingefügt vor -nni"
       },
       "1s": {
         "arabic": "أَفْعَلَنَّ",
@@ -108,7 +113,7 @@
       "3fp": {
         "arabic": "يَفْعَلْنَانْ",
         "transliteration": "yaf'alnaan",
-        "notes": "Nun-al-Niswa bleibt, Alif eingefuegt"
+        "notes": "Nun-al-Niswa bleibt, Alif eingefügt"
       },
       "2ms": {
         "arabic": "تَفْعَلَنْ",
@@ -118,7 +123,7 @@
       "2fs": {
         "arabic": "تَفْعَلِنْ",
         "transliteration": "taf'alin",
-        "notes": "Ya der femininen Endung faellt weg, Kasra bleibt"
+        "notes": "Ya der femininen Endung fällt weg, Kasra bleibt"
       },
       "2md": {
         "arabic": "تَفْعَلَانْ",
@@ -133,7 +138,7 @@
       "2fp": {
         "arabic": "تَفْعَلْنَانْ",
         "transliteration": "taf'alnaan",
-        "notes": "Nun-al-Niswa bleibt, Alif eingefuegt"
+        "notes": "Nun-al-Niswa bleibt, Alif eingefügt"
       },
       "1s": {
         "arabic": "أَفْعَلَنْ",
@@ -162,7 +167,7 @@
       "person": "1s",
       "formType": "heavy",
       "rootVerb": "كيد",
-      "explanation": "Schwur mit تَاللَّهِ + لَ + Energetikus: 'ich werde ganz gewiss euren Goetzen zusetzen'"
+      "explanation": "Schwur mit تَاللَّهِ + لَ + Energetikus: 'ich werde ganz gewiss euren Götzen zusetzen'"
     },
     {
       "ref": "14:7",
@@ -194,7 +199,7 @@
       "person": "1s",
       "formType": "heavy",
       "rootVerb": "ملأ",
-      "explanation": "Schwurkontext: 'ich werde ganz gewiss die Hoelle mit euch allen fuellen'"
+      "explanation": "Schwurkontext: 'ich werde ganz gewiss die Hölle mit euch allen füllen'"
     },
     {
       "ref": "27:21",
@@ -226,7 +231,7 @@
       "person": "1s",
       "formType": "heavy",
       "rootVerb": "ضلل / مني",
-      "explanation": "Zwei Energetikus-Formen mit Schwur-Lam: 'ich werde sie irrefuehren und Wuensche in ihnen wecken'"
+      "explanation": "Zwei Energetikus-Formen mit Schwur-Lam: 'ich werde sie irrefuehren und Wünsche in ihnen wecken'"
     },
     {
       "ref": "37:68",
@@ -234,7 +239,7 @@
       "person": "—",
       "formType": "—",
       "rootVerb": "—",
-      "explanation": "Kontextvers (kein Energetikus) — لَ hier als Verstaerkungs-Lam bei إِنَّ, nicht Schwur-Lam"
+      "explanation": "Kontextvers (kein Energetikus) — لَ hier als Verstärkungs-Lam bei إِنَّ, nicht Schwur-Lam"
     },
     {
       "ref": "12:73",
@@ -322,23 +327,23 @@
     },
     {
       "context": "Prohibitiv mit لَا + Energetikus",
-      "description": "لَا + Imperfekt-Energetikus als verstaerktes Verbot",
+      "description": "لَا + Imperfekt-Energetikus als verstärktes Verbot",
       "example": "فَلَا تَكُونَنَّ مِنَ الْمُمْتَرِينَ (2:147)"
     },
     {
-      "context": "Verstaerkte Aussage ohne expliziten Schwur",
-      "description": "Energetikus als emphatische Bekraeftigung auch ohne formale Schwurpartikel",
+      "context": "Verstärkte Aussage ohne expliziten Schwur",
+      "description": "Energetikus als emphatische Bekräftigung auch ohne formale Schwurpartikel",
       "example": "لَنَسْفَعًا بِالنَّاصِيَةِ (96:15)"
     }
   ],
   "morphologicalNotes": {
-    "formationPrinciple": "Der Energetikus wird durch Anfuegen von نَّ (schwer) oder نْ (leicht) an den Imperfekt-Stamm gebildet. Die Endungen des Imperfekts veraendern sich dabei systematisch.",
+    "formationPrinciple": "Der Energetikus wird durch Anfuegen von نَّ (schwer) oder نْ (leicht) an den Imperfekt-Stamm gebildet. Die Endungen des Imperfekts verändern sich dabei systematisch.",
     "changes": [
       "Indikativ-Endung -u wird zu -a vor -nna/-n (3ms, 3fs, 2ms, 1s, 1p)",
-      "Dual-Endung -aani: Nun assimiliert sich bei schwerer Form zu -aanni; bei leichter Form faellt das Endungs-Nun",
+      "Dual-Endung -aani: Nun assimiliert sich bei schwerer Form zu -aanni; bei leichter Form fällt das Endungs-Nun",
       "Plural-Endung -uuna: Waw und Nun fallen weg, Damma bleibt als Stammvokal (-unna/-un)",
-      "Feminin-Singular -iina: Ya faellt weg, Kasra bleibt (-inna/-in)",
-      "Feminin-Plural -na (Nun-al-Niswa): bleibt erhalten, Alif wird eingefuegt (-naanni/-naan)"
+      "Feminin-Singular -iina: Ya fällt weg, Kasra bleibt (-inna/-in)",
+      "Feminin-Plural -na (Nun-al-Niswa): bleibt erhalten, Alif wird eingefügt (-naanni/-naan)"
     ],
     "lightFormOrthography": "Die leichte Form نْ wird im Quran gelegentlich als Alif (ا / ً) geschrieben, z.B. لَنَسْفَعًا (96:15)"
   }

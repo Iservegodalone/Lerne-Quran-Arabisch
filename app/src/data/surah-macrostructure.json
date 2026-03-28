@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": "Surenstruktur — Makrostruktur quranischer Suren",
-    "description": "Strukturanalyse fuer ausgewaehlte Suren mit eindeutigen linguistischen Strukturmerkmalen (Refrains, Ringkomposition, Diskursmarker). Weitere Suren werden ergaenzt sobald linguistisch fundierte Analysen vorliegen.",
+    "description": "Strukturanalyse für ausgewählte Suren mit eindeutigen linguistischen Strukturmerkmalen (Refrains, Ringkomposition, Diskursmarker). Weitere Suren werden ergänzt sobald linguistisch fundierte Analysen vorliegen.",
     "status": "selektiv",
     "hinweis": "Nur Suren mit klar beobachtbaren sprachlichen Struktursignalen sind enthalten. Generische Platzhalter-Segmentierungen wurden entfernt.",
     "approach": "Rein auf beobachtbaren sprachlichen Merkmalen basierend: Diskursmarker, Anrede-Wechsel, Refrains, Rahmungsstrukturen, Ringkomposition.",
@@ -13,7 +13,7 @@
     {
       "surahNumber": 1,
       "surahName": "الفاتحة",
-      "germanName": "Die Eroeffnende",
+      "germanName": "Die Eröffnende",
       "totalVerses": 7,
       "structuralFeature": "Ringkomposition",
       "segments": [
@@ -34,8 +34,8 @@
         {
           "label": "A': Bitte",
           "verseRange": "6-7",
-          "function": "Gegenstueck zur Eroeffnung",
-          "description": "Imperative (اهْدِنَا) und Relativsaetze (الَّذِينَ). Ring schliesst sich: Vers 1-3 benennen Attribute, Vers 6-7 formulieren die Konsequenz daraus.",
+          "function": "Gegenstück zur Eröffnung",
+          "description": "Imperative (اهْدِنَا) und Relativsätze (الَّذِينَ). Ring schließt sich: Vers 1-3 benennen Attribute, Vers 6-7 formulieren die Konsequenz daraus.",
           "marker": "Imperativ اهْدِنَا — einziger Imperativ der Sure"
         }
       ]
@@ -51,22 +51,22 @@
           "label": "Rahmen: Einleitung",
           "verseRange": "1-3",
           "function": "Metasprachliche Rahmung",
-          "description": "Huruf Muqattaat (الر) + Selbstbezug des Textes: تِلْكَ آيَاتُ الْكِتَابِ + نَحْنُ نَقُصُّ عَلَيْكَ. Der Text kuendigt sich selbst als Erzaehlung an.",
-          "marker": "نَقُصُّ (wir erzaehlen) — metanarrativer Marker"
+          "description": "Huruf Muqattaat (الر) + Selbstbezug des Textes: تِلْكَ آيَاتُ الْكِتَابِ + نَحْنُ نَقُصُّ عَلَيْكَ. Der Text kündigt sich selbst als Erzählung an.",
+          "marker": "نَقُصُّ (wir erzählen) — metanarrativer Marker"
         },
         {
-          "label": "Erzaehlung",
+          "label": "Erzählung",
           "verseRange": "4-101",
           "function": "Fortlaufende Narration",
-          "description": "Laengste zusammenhaengende Erzaehlung im Quran. Durchgehende narrative Vergangenheitsform (Perfekt-Kette: قَالَ / فَلَمَّا / إِذْ قَالَ). Kein Refrain, kein Anredewechsel — reine Narration.",
+          "description": "Längste zusammenhängende Erzählung im Quran. Durchgehende narrative Vergangenheitsform (Perfekt-Kette: قَالَ / فَلَمَّا / إِذْ قَالَ). Kein Refrain, kein Anredewechsel — reine Narration.",
           "marker": "Ketten von قَالَ (er sagte), فَلَمَّا (als dann), إِذْ (als)"
         },
         {
           "label": "Rahmen: Schluss",
           "verseRange": "102-111",
           "function": "Metasprachliche Schliessung",
-          "description": "Rueckkehr zur Rahmenebene: ذَٰلِكَ مِنْ أَنبَاءِ الْغَيْبِ (102). Der Text kommentiert sich selbst wieder. Ringschluss mit der Einleitung.",
-          "marker": "ذَٰلِكَ مِنْ أَنبَاءِ — Rueckverweis auf نَقُصُّ aus Vers 3"
+          "description": "Rückkehr zur Rahmenebene: ذَٰلِكَ مِنْ أَنبَاءِ الْغَيْبِ (102). Der Text kommentiert sich selbst wieder. Ringschluss mit der Einleitung.",
+          "marker": "ذَٰلِكَ مِنْ أَنبَاءِ — Rückverweis auf نَقُصُّ aus Vers 3"
         }
       ]
     },
@@ -75,7 +75,7 @@
       "surahName": "الشعراء",
       "germanName": "Die Dichter",
       "totalVerses": 227,
-      "structuralFeature": "Wiederholte Erzaehlformel mit Refrain",
+      "structuralFeature": "Wiederholte Erzählformel mit Refrain",
       "segments": [
         {
           "label": "Einleitung",
@@ -85,11 +85,11 @@
           "marker": "طسم"
         },
         {
-          "label": "Prophetenerzaehlungen (7x)",
+          "label": "Prophetenerzählungen (7x)",
           "verseRange": "10-191",
-          "function": "Sieben parallele Erzaehlbloecke mit identischer Struktur",
+          "function": "Sieben parallele Erzählbloecke mit identischer Struktur",
           "description": "Jeder Block folgt demselben Schema: Sendung → Ablehnung → Strafe. Nach jedem Block erscheint der Doppelrefrain إِنَّ فِي ذَٰلِكَ لَآيَةً وَمَا كَانَ أَكْثَرُهُم مُّؤْمِنِينَ / وَإِنَّ رَبَّكَ لَهُوَ الْعَزِيزُ الرَّحِيمُ.",
-          "marker": "Doppelrefrain nach jedem Erzaehlblock (V.8-9, 67-68, 103-104, 121-122, 139-140, 158-159, 174-175, 190-191)"
+          "marker": "Doppelrefrain nach jedem Erzählblock (V.8-9, 67-68, 103-104, 121-122, 139-140, 158-159, 174-175, 190-191)"
         },
         {
           "label": "Schluss: Dichter",
@@ -108,9 +108,9 @@
       "structuralFeature": "Systematischer Refrain",
       "segments": [
         {
-          "label": "Abschnitt 1: Schoepfung und Lehre",
+          "label": "Abschnitt 1: Schöpfung und Lehre",
           "verseRange": "1-13",
-          "function": "Nominale Aufzaehlung",
+          "function": "Nominale Aufzählung",
           "description": "Reine Nominalstrukturen und Perfektverben: عَلَّمَ / خَلَقَ. Nach jedem Abschnittende: Refrain.",
           "marker": "Erster Refrain bei Vers 13"
         },
@@ -122,7 +122,7 @@
           "marker": "Dualformen: رَبُّ الْمَشْرِقَيْنِ، الْبَحْرَيْنِ"
         },
         {
-          "label": "Abschnitt 3: Vergaenglichkeit",
+          "label": "Abschnitt 3: Vergänglichkeit",
           "verseRange": "26-30",
           "function": "Zentrales Kontrastpaar",
           "description": "كُلُّ مَنْ عَلَيْهَا فَانٍ / وَيَبْقَىٰ وَجْهُ رَبِّكَ — Antithese als Strukturzentrum.",
@@ -153,14 +153,14 @@
           "label": "Teil 1: Sendung und Ablehnung",
           "verseRange": "1-32",
           "function": "Narration + Argumentation",
-          "description": "Huruf Muqattaat (يس) + Schwur (وَالْقُرْآنِ الْحَكِيمِ). Dann Erzaehlung (اصحاب القرية). Uebergang markiert durch وَاضْرِبْ لَهُم مَّثَلًا (Vers 13).",
-          "marker": "وَاضْرِبْ لَهُم مَّثَلًا — Imperativ als Erzaehleinleitung"
+          "description": "Huruf Muqattaat (يس) + Schwur (وَالْقُرْآنِ الْحَكِيمِ). Dann Erzählung (اصحاب القرية). Übergang markiert durch وَاضْرِبْ لَهُم مَّثَلًا (Vers 13).",
+          "marker": "وَاضْرِبْ لَهُم مَّثَلًا — Imperativ als Erzähleinleitung"
         },
         {
-          "label": "Teil 2: Schoepfungsargumente",
+          "label": "Teil 2: Schöpfungsargumente",
           "verseRange": "33-50",
-          "function": "Argumentative Aufzaehlung",
-          "description": "Kette von وَآيَةٌ لَّهُمُ (und ein Zeichen fuer sie ist...). Wiederholte Nominalstruktur als Aufzaehlungssignal.",
+          "function": "Argumentative Aufzählung",
+          "description": "Kette von وَآيَةٌ لَّهُمُ (und ein Zeichen für sie ist...). Wiederholte Nominalstruktur als Aufzählungssignal.",
           "marker": "وَآيَةٌ لَّهُمُ — dreimal wiederholte Formel (33, 37, 41)"
         },
         {
@@ -183,7 +183,7 @@
           "label": "Einleitung: Das Ereignis",
           "verseRange": "1-7",
           "function": "Thematische Setzung",
-          "description": "Konditional-Struktur: إِذَا وَقَعَتِ الْوَاقِعَةُ — temporale Rahmung. Dreiteilung angekuendigt: أَزْوَاجًا ثَلَاثَةً (Vers 7). Verse 8-9 nennen die erste und dritte Gruppe kurz als rhetorische Fragen.",
+          "description": "Konditional-Struktur: إِذَا وَقَعَتِ الْوَاقِعَةُ — temporale Rahmung. Dreiteilung angekündigt: أَزْوَاجًا ثَلَاثَةً (Vers 7). Verse 8-9 nennen die erste und dritte Gruppe kurz als rhetorische Fragen.",
           "marker": "أَزْوَاجًا ثَلَاثَةً — expliziter Gliederungshinweis"
         },
         {
@@ -210,7 +210,7 @@
         {
           "label": "Schluss: Argumentation",
           "verseRange": "57-96",
-          "function": "Schoepfungsargumente + Schwur",
+          "function": "Schöpfungsargumente + Schwur",
           "description": "أَفَرَأَيْتُمْ-Kette (Habt ihr gesehen?) viermal wiederholt (58, 63, 68, 71). Abschluss mit فَلَا أُقْسِمُ (75) — Schwurformel.",
           "marker": "أَفَرَأَيْتُمْ — vierfache rhetorische Frage als Argumentationskette"
         }

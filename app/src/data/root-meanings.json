@@ -1,15 +1,15 @@
 {
   "meta": {
     "title": "Wurzelbedeutungen — Alle 1642 Quran-Wurzeln",
-    "description": "Grundbedeutungen, semantische Felder und Schluesselderivate fuer alle quranischen Wurzeln.",
+    "description": "Grundbedeutungen, semantische Felder und Schlüsselderivate für alle quranischen Wurzeln.",
     "totalRoots": 1642,
-    "withFullMeaning": 1642,
-    "withDerivativesOnly": 0,
+    "withFullMeaning": 1250,
+    "withDerivativesOnly": 392,
     "externalSources": {
       "lanesLexicon": "https://ejtaal.net/aa/",
       "lisanAlArab": "https://www.lisaan.net/",
       "quranCorpus": "https://corpus.quran.com/qurandictionary.jsp",
-      "note": "Lane's Lexicon ist die primaere Referenz fuer Wurzelbedeutungen. Lisan al-Arab dient als arabisch-arabische Gegenquelle."
+      "note": "Lane's Lexicon ist die primäre Referenz für Wurzelbedeutungen. Lisan al-Arab dient als arabisch-arabische Gegenquelle."
     }
   },
   "roots": [
@@ -36,7 +36,7 @@
     {
       "root": "ق و ل",
       "frequency": 1722,
-      "meaning": "sagen, sprechen — Grundbedeutung der sprachlichen Aeusserung",
+      "meaning": "sagen, sprechen — Grundbedeutung der sprachlichen Äußerung",
       "semanticField": "Sprache und Rede",
       "keyDerivatives": [
         {
@@ -89,7 +89,8 @@
         },
         {
           "form": "رُبُوبِيَّة",
-          "meaning": "Herrschaft (abstrakt)"
+          "meaning": "Herrschaft (abstrakt)",
+          "note": "Nicht im Quran belegt."
         }
       ]
     },
@@ -137,7 +138,7 @@
       "root": "ق و م",
       "frequency": 660,
       "meaning": "stehen, aufstehen, bestehen — Grundbedeutung des Aufrechtstehens",
-      "semanticField": "Stehen und Bestaendigkeit",
+      "semanticField": "Stehen und Beständigkeit",
       "keyDerivatives": [
         {
           "form": "قَوْم",
@@ -201,7 +202,7 @@
       "keyDerivatives": [
         {
           "form": "بَيْن",
-          "meaning": "zwischen (Praeposition)"
+          "meaning": "zwischen (Präposition)"
         },
         {
           "form": "بَيِّنَة",
@@ -316,8 +317,8 @@
     {
       "root": "س م و",
       "frequency": 381,
-      "meaning": "hoch sein, sich erheben — Grundbedeutung der Hoehe",
-      "semanticField": "Hoehe und Himmel",
+      "meaning": "hoch sein, sich erheben — Grundbedeutung der Höhe",
+      "semanticField": "Höhe und Himmel",
       "keyDerivatives": [
         {
           "form": "سَمَاء",
@@ -356,7 +357,7 @@
     {
       "root": "ع ذ ب",
       "frequency": 373,
-      "meaning": "suess/frisch (Wasser); peinigen, strafen — primaere physische Bedeutung: عَذْب = suesses/frisches Wasser; davon uebertragen: Strafe, Qual",
+      "meaning": "suess/frisch (Wasser); peinigen, strafen — primäre physische Bedeutung: عَذْب = suesses/frisches Wasser; davon uebertragen: Strafe, Qual",
       "semanticField": "Strafe und Pein",
       "keyDerivatives": [
         {
@@ -480,16 +481,16 @@
     {
       "root": "ه د ي",
       "frequency": 316,
-      "meaning": "leiten, fuehren, den Weg zeigen — Grundbedeutung der Fuehrung",
-      "semanticField": "Leitung und Fuehrung",
+      "meaning": "leiten, führen, den Weg zeigen — Grundbedeutung der Führung",
+      "semanticField": "Leitung und Führung",
       "keyDerivatives": [
         {
           "form": "هُدًى",
-          "meaning": "Fuehrung, Fuehrung"
+          "meaning": "Führung"
         },
         {
           "form": "هَدَى",
-          "meaning": "er leitete / fuehrte"
+          "meaning": "er leitete / führte"
         },
         {
           "form": "هَدْي",
@@ -540,7 +541,7 @@
     {
       "root": "ق ب ل",
       "frequency": 294,
-      "meaning": "gegenueber sein, empfangen, annehmen — Grundbedeutung des Entgegenkommens",
+      "meaning": "gegenüber sein, empfangen, annehmen — Grundbedeutung des Entgegenkommens",
       "semanticField": "Empfang und Zuwendung",
       "keyDerivatives": [
         {
@@ -580,20 +581,20 @@
     {
       "root": "ذ ك ر",
       "frequency": 292,
-      "meaning": "erwaehnen, erinnern, gedenken — Grundbedeutung des Erinnerns",
-      "semanticField": "Erinnerung und Erwaehnung",
+      "meaning": "erwähnen, erinnern, gedenken — Grundbedeutung des Erinnerns",
+      "semanticField": "Erinnerung und Erwähnung",
       "keyDerivatives": [
         {
           "form": "ذِكْر",
-          "meaning": "Erinnerung, Erwaehnung"
+          "meaning": "Erinnerung, Erwähnung"
         },
         {
           "form": "ذَكَرَ",
-          "meaning": "er erwaehnte / erinnerte sich"
+          "meaning": "er erwähnte / erinnerte sich"
         },
         {
           "form": "ذَكَر",
-          "meaning": "maennlich"
+          "meaning": "männlich"
         }
       ]
     },
@@ -609,19 +610,19 @@
         },
         {
           "form": "حَقِيق",
-          "meaning": "wahr, wuerdig"
+          "meaning": "wahr, würdig"
         },
         {
           "form": "أَحَقّ",
-          "meaning": "berechtigter, wuerdiger (Elativ)"
+          "meaning": "berechtigter, würdiger (Elativ)"
         }
       ]
     },
     {
       "root": "ك ذ ب",
       "frequency": 282,
-      "meaning": "luegen, als Luege bezeichnen — Grundbedeutung der Unwahrheit",
-      "semanticField": "Luege und Leugnung",
+      "meaning": "lügen, als Lüge bezeichnen — Grundbedeutung der Unwahrheit",
+      "semanticField": "Lüge und Leugnung",
       "keyDerivatives": [
         {
           "form": "كَذَبَ",
@@ -629,11 +630,11 @@
         },
         {
           "form": "كَذِب",
-          "meaning": "Luege"
+          "meaning": "Lüge"
         },
         {
           "form": "مُكَذِّب",
-          "meaning": "Luegenstrafender (Partizip II)"
+          "meaning": "Lügenstrafender (Partizip II)"
         }
       ]
     },
@@ -701,7 +702,7 @@
       "root": "خ ل ق",
       "frequency": 261,
       "meaning": "erschaffen, formen — Grundbedeutung des Erschaffens und Formens",
-      "semanticField": "Schoepfung und Gestaltung",
+      "semanticField": "Schöpfung und Gestaltung",
       "keyDerivatives": [
         {
           "form": "خَلَقَ",
@@ -709,7 +710,7 @@
         },
         {
           "form": "خَلْق",
-          "meaning": "Schoepfung, Erschaffung"
+          "meaning": "Schöpfung, Erschaffung"
         },
         {
           "form": "خَالِق",
@@ -720,12 +721,12 @@
     {
       "root": "و ق ي",
       "frequency": 258,
-      "meaning": "sich hueten, schuetzen — Grundbedeutung des Schutzes und der Achtsamkeit",
+      "meaning": "sich hüten, schützen — Grundbedeutung des Schutzes und der Achtsamkeit",
       "semanticField": "Schutz und Achtsamkeit",
       "keyDerivatives": [
         {
           "form": "اتَّقَى",
-          "meaning": "er huetete sich / war achtsam (VIII)"
+          "meaning": "er hütete sich / war achtsam (VIII)"
         },
         {
           "form": "تَقْوَى",
@@ -740,7 +741,7 @@
     {
       "root": "ا خ ر",
       "frequency": 250,
-      "meaning": "anderer, spaeterer, letzter — Grundbedeutung des Anderen/Letzten",
+      "meaning": "anderer, späterer, letzter — Grundbedeutung des Anderen/Letzten",
       "semanticField": "Andersheit und Letztheit",
       "keyDerivatives": [
         {
@@ -840,8 +841,8 @@
     {
       "root": "و ل ي",
       "frequency": 232,
-      "meaning": "nahe sein, folgen, Schutzherr sein — Grundbedeutung der Naehe und Zustaendigkeit",
-      "semanticField": "Naehe und Schutzherrschaft",
+      "meaning": "nahe sein, folgen, Schutzherr sein — Grundbedeutung der Nähe und Zuständigkeit",
+      "semanticField": "Nähe und Schutzherrschaft",
       "keyDerivatives": [
         {
           "form": "وَلِيّ",
@@ -900,20 +901,21 @@
     {
       "root": "م ل ك",
       "frequency": 206,
-      "meaning": "besitzen, herrschen, koenig sein — Grundbedeutung des Besitzens und Herrschens",
-      "semanticField": "Besitz und Koenigtum",
+      "meaning": "besitzen, herrschen, könig sein — Grundbedeutung des Besitzens und Herrschens",
+      "semanticField": "Besitz und Königtum",
       "keyDerivatives": [
         {
           "form": "مَلِك",
-          "meaning": "Koenig"
+          "meaning": "König"
         },
         {
           "form": "مُلْك",
-          "meaning": "Herrschaft, Koenigtum"
+          "meaning": "Herrschaft, Königtum"
         },
         {
           "form": "مَلَائِكَة",
-          "meaning": "Engel (Boten)"
+          "meaning": "Engel (Boten)",
+          "note": "Etymologie umstritten: مَلَك wird von vielen Linguisten (u.a. Lane) von ل-أ-ك (senden) abgeleitet, nicht von م-ل-ك."
         }
       ]
     },
@@ -925,7 +927,7 @@
       "keyDerivatives": [
         {
           "form": "جَنَّة",
-          "meaning": "Garten (von Baeumen bedeckt)"
+          "meaning": "Garten (von Bäumen bedeckt)"
         },
         {
           "form": "جِنّ",
@@ -940,12 +942,12 @@
     {
       "root": "ع ن د",
       "frequency": 201,
-      "meaning": "bei, neben — Grundbedeutung der raeumlichen Naehe/Anwesenheit",
-      "semanticField": "Naehe und Anwesenheit",
+      "meaning": "bei, neben — Grundbedeutung der räumlichen Nähe/Anwesenheit",
+      "semanticField": "Nähe und Anwesenheit",
       "keyDerivatives": [
         {
           "form": "عِنْد",
-          "meaning": "bei, in der Naehe von"
+          "meaning": "bei, in der Nähe von"
         },
         {
           "form": "عَنِيد",
@@ -961,7 +963,7 @@
       "root": "خ ي ر",
       "frequency": 196,
       "meaning": "gut sein, vorziehen — Grundbedeutung des Guten und der Wahl",
-      "semanticField": "Guete und Wahl",
+      "semanticField": "Güte und Wahl",
       "keyDerivatives": [
         {
           "form": "خَيْر",
@@ -973,7 +975,7 @@
         },
         {
           "form": "اخْتَارَ",
-          "meaning": "er waehlte aus (VIII)"
+          "meaning": "er wählte aus (VIII)"
         }
       ]
     },
@@ -996,12 +998,12 @@
     {
       "root": "ح س ن",
       "frequency": 194,
-      "meaning": "schoen sein, gut sein — Grundbedeutung der Schoenheit und Guete",
-      "semanticField": "Schoenheit und Guete",
+      "meaning": "schön sein, gut sein — Grundbedeutung der Schönheit und Güte",
+      "semanticField": "Schönheit und Güte",
       "keyDerivatives": [
         {
           "form": "حَسَن",
-          "meaning": "schoen, gut"
+          "meaning": "schön, gut"
         },
         {
           "form": "حَسَنَة",
@@ -1009,7 +1011,7 @@
         },
         {
           "form": "إِحْسَان",
-          "meaning": "Wohltun, Guete (IV)"
+          "meaning": "Wohltun, Güte (IV)"
         }
       ]
     },
@@ -1029,27 +1031,27 @@
         },
         {
           "form": "مُضِلّ",
-          "meaning": "in die Irre fuehrend (Partizip IV)"
+          "meaning": "in die Irre führend (Partizip IV)"
         }
       ]
     },
     {
       "root": "س م ع",
       "frequency": 185,
-      "meaning": "hoeren, zuhoeren — Grundbedeutung des Hoerens",
-      "semanticField": "Hoeren und Zuhoeren",
+      "meaning": "hören, zuhören — Grundbedeutung des Hörens",
+      "semanticField": "Hören und Zuhören",
       "keyDerivatives": [
         {
           "form": "سَمِعَ",
-          "meaning": "er hoerte"
+          "meaning": "er hörte"
         },
         {
           "form": "سَمِيع",
-          "meaning": "hoerend (Intensivform)"
+          "meaning": "hörend (Intensivform)"
         },
         {
           "form": "سَمْع",
-          "meaning": "Gehoer, Hoervermögen"
+          "meaning": "Gehör, Hoervermögen"
         }
       ]
     },
@@ -1089,7 +1091,7 @@
         },
         {
           "form": "بَنِي",
-          "meaning": "Soehne von (Konstruktzustand)"
+          "meaning": "Söhne von (Konstruktzustand)"
         }
       ]
     },
@@ -1149,7 +1151,7 @@
         },
         {
           "form": "ابْنُ السَّبِيل",
-          "meaning": "Reisender (woertl.: Sohn des Weges)"
+          "meaning": "Reisender (wörtl.: Sohn des Weges)"
         }
       ]
     },
@@ -1196,7 +1198,7 @@
     {
       "root": "ق ت ل",
       "frequency": 170,
-      "meaning": "toeten — Grundbedeutung des Toetens",
+      "meaning": "töten — Grundbedeutung des Tötens",
       "semanticField": "Toetung und Kampf",
       "keyDerivatives": [
         {
@@ -1216,8 +1218,8 @@
     {
       "root": "م ث ل",
       "frequency": 169,
-      "meaning": "gleichen, Gleichnis — Grundbedeutung der Aehnlichkeit",
-      "semanticField": "Gleichnis und Aehnlichkeit",
+      "meaning": "gleichen, Gleichnis — Grundbedeutung der Ähnlichkeit",
+      "semanticField": "Gleichnis und Ähnlichkeit",
       "keyDerivatives": [
         {
           "form": "مَثَل",
@@ -1289,7 +1291,7 @@
         },
         {
           "form": "كَوْثَر",
-          "meaning": "Fuelle, Ueberfluss"
+          "meaning": "Fülle, Überfluss"
         }
       ]
     },
@@ -1336,8 +1338,8 @@
     {
       "root": "ك ب ر",
       "frequency": 161,
-      "meaning": "gross sein, aelter sein — Grundbedeutung der Groesse",
-      "semanticField": "Groesse und Hoheit",
+      "meaning": "gross sein, älter sein — Grundbedeutung der Größe",
+      "semanticField": "Größe und Hoheit",
       "keyDerivatives": [
         {
           "form": "كَبِير",
@@ -1345,11 +1347,11 @@
         },
         {
           "form": "أَكْبَر",
-          "meaning": "groesser, am groessten (Elativ)"
+          "meaning": "größer, am größten (Elativ)"
         },
         {
           "form": "كِبْر",
-          "meaning": "Hochmut, Groesse"
+          "meaning": "Hochmut, Größe"
         }
       ]
     },
@@ -1376,12 +1378,12 @@
     {
       "root": "ن ب ا",
       "frequency": 160,
-      "meaning": "verkuenden, Nachricht bringen — Grundbedeutung der Nachricht/Prophetie",
+      "meaning": "verkünden, Nachricht bringen — Grundbedeutung der Nachricht/Prophetie",
       "semanticField": "Nachricht und Prophetie",
       "keyDerivatives": [
         {
           "form": "نَبِيّ",
-          "meaning": "Prophet (Verkuender)"
+          "meaning": "Prophet (Verkünder)"
         },
         {
           "form": "نَبَأ",
@@ -1465,11 +1467,11 @@
         },
         {
           "form": "غَيَّرَ",
-          "meaning": "er veraenderte (II)"
+          "meaning": "er veränderte (II)"
         },
         {
           "form": "تَغَيَّرَ",
-          "meaning": "er veraenderte sich (V)"
+          "meaning": "er veränderte sich (V)"
         }
       ]
     },
@@ -1565,7 +1567,7 @@
         },
         {
           "form": "دُونِ",
-          "meaning": "ausser (Praeposition)"
+          "meaning": "ausser (Präposition)"
         }
       ]
     },
@@ -1612,8 +1614,8 @@
     {
       "root": "د ن و",
       "frequency": 133,
-      "meaning": "nahe sein, sich naehern — Grundbedeutung der Naehe",
-      "semanticField": "Naehe und Diesseitigkeit",
+      "meaning": "nahe sein, sich nähern — Grundbedeutung der Nähe",
+      "semanticField": "Nähe und Diesseitigkeit",
       "keyDerivatives": [
         {
           "form": "دُنْيَا",
@@ -1621,7 +1623,7 @@
         },
         {
           "form": "أَدْنَى",
-          "meaning": "naeher, niedrigster (Elativ)"
+          "meaning": "näher, niedrigster (Elativ)"
         },
         {
           "form": "دَانِي",
@@ -1632,7 +1634,7 @@
     {
       "root": "ق د ر",
       "frequency": 132,
-      "meaning": "faehig sein, bemessen — Grundbedeutung des Masses und Vermoegens",
+      "meaning": "fähig sein, bemessen — Grundbedeutung des Masses und Vermögens",
       "semanticField": "Mass und Fähigkeit",
       "keyDerivatives": [
         {
@@ -1641,7 +1643,7 @@
         },
         {
           "form": "قَدِير",
-          "meaning": "faehig, maechtig"
+          "meaning": "fähig, mächtig"
         },
         {
           "form": "قَدْر",
@@ -1772,7 +1774,7 @@
     {
       "root": "خ ل ف",
       "frequency": 127,
-      "meaning": "nachfolgen, zurueckbleiben — Grundbedeutung des Nachfolgens/Hinten-Seins",
+      "meaning": "nachfolgen, zurückbleiben — Grundbedeutung des Nachfolgens/Hinten-Seins",
       "semanticField": "Nachfolge und Stellvertretung",
       "keyDerivatives": [
         {
@@ -1792,8 +1794,8 @@
     {
       "root": "ا ه ل",
       "frequency": 127,
-      "meaning": "Angehoerige, Familie, Leute — Grundbedeutung der Zugehoerigkeit",
-      "semanticField": "Familie und Zugehoerigkeit",
+      "meaning": "Angehoerige, Familie, Leute — Grundbedeutung der Zugehörigkeit",
+      "semanticField": "Familie und Zugehörigkeit",
       "keyDerivatives": [
         {
           "form": "أَهْل",
@@ -1805,7 +1807,7 @@
         },
         {
           "form": "أَهَّلَ",
-          "meaning": "er machte wuerdig (II)"
+          "meaning": "er machte würdig (II)"
         }
       ]
     },
@@ -1832,12 +1834,12 @@
     {
       "root": "خ و ف",
       "frequency": 124,
-      "meaning": "fuerchten, Angst haben — Grundbedeutung der Furcht",
+      "meaning": "fürchten, Angst haben — Grundbedeutung der Furcht",
       "semanticField": "Furcht und Angst",
       "keyDerivatives": [
         {
           "form": "خَافَ",
-          "meaning": "er fuerchtete"
+          "meaning": "er fürchtete"
         },
         {
           "form": "خَوْف",
@@ -1845,7 +1847,7 @@
         },
         {
           "form": "يَخَافُ",
-          "meaning": "er fuerchtet"
+          "meaning": "er fürchtet"
         }
       ]
     },
@@ -1901,11 +1903,11 @@
         },
         {
           "form": "أَيْدِي",
-          "meaning": "Haende (Plural)"
+          "meaning": "Hände (Plural)"
         },
         {
           "form": "بَيْنَ يَدَيْ",
-          "meaning": "vor (woertl.: zwischen den Haenden von)"
+          "meaning": "vor (wörtl.: zwischen den Händen von)"
         }
       ]
     },
@@ -1925,27 +1927,27 @@
         },
         {
           "form": "إِمَام",
-          "meaning": "Vorbeter, Anfuehrer, Vorbild"
+          "meaning": "Vorbeter, Anführer, Vorbild"
         }
       ]
     },
     {
       "root": "ع ز ز",
       "frequency": 119,
-      "meaning": "maechtig/stark sein — Grundbedeutung der Staerke und Macht",
-      "semanticField": "Macht und Staerke",
+      "meaning": "mächtig/stark sein — Grundbedeutung der Stärke und Macht",
+      "semanticField": "Macht und Stärke",
       "keyDerivatives": [
         {
           "form": "عَزِيز",
-          "meaning": "maechtig, stark, ehrwuerdig"
+          "meaning": "mächtig, stark, ehrwuerdig"
         },
         {
           "form": "عِزَّة",
-          "meaning": "Macht, Staerke, Ehre"
+          "meaning": "Macht, Stärke, Ehre"
         },
         {
           "form": "أَعَزّ",
-          "meaning": "maechtiger (Elativ)"
+          "meaning": "mächtiger (Elativ)"
         }
       ]
     },
@@ -2045,15 +2047,15 @@
         },
         {
           "form": "أُكُل",
-          "meaning": "Fruechte, Ertrag"
+          "meaning": "Früchte, Ertrag"
         }
       ]
     },
     {
       "root": "ح س ب",
       "frequency": 109,
-      "meaning": "rechnen, meinen, genuegen — Grundbedeutung des Rechnens",
-      "semanticField": "Rechnung und Genuegen",
+      "meaning": "rechnen, meinen, genügen — Grundbedeutung des Rechnens",
+      "semanticField": "Rechnung und Genügen",
       "keyDerivatives": [
         {
           "form": "حَسِبَ",
@@ -2065,7 +2067,7 @@
         },
         {
           "form": "حَسْب",
-          "meaning": "genuegend"
+          "meaning": "genügend"
         }
       ]
     },
@@ -2132,8 +2134,8 @@
     {
       "root": "ع د و",
       "frequency": 106,
-      "meaning": "feindlich sein, ueberschreiten — Grundbedeutung der Feindschaft/Uebertretung",
-      "semanticField": "Feindschaft und Uebertretung",
+      "meaning": "feindlich sein, ueberschreiten — Grundbedeutung der Feindschaft/Übertretung",
+      "semanticField": "Feindschaft und Übertretung",
       "keyDerivatives": [
         {
           "form": "عَدُوّ",
@@ -2141,7 +2143,7 @@
         },
         {
           "form": "عُدْوَان",
-          "meaning": "Uebertretung, Feindseligkeit"
+          "meaning": "Übertretung, Feindseligkeit"
         },
         {
           "form": "اعْتَدَى",
@@ -2152,20 +2154,20 @@
     {
       "root": "ر ج ع",
       "frequency": 104,
-      "meaning": "zurueckkehren — Grundbedeutung der Rueckkehr",
-      "semanticField": "Rueckkehr und Umkehr",
+      "meaning": "zurückkehren — Grundbedeutung der Rückkehr",
+      "semanticField": "Rückkehr und Umkehr",
       "keyDerivatives": [
         {
           "form": "رَجَعَ",
-          "meaning": "er kehrte zurueck"
+          "meaning": "er kehrte zurück"
         },
         {
           "form": "مَرْجِع",
-          "meaning": "Rueckkehrort"
+          "meaning": "Rückkehrort"
         },
         {
           "form": "يُرْجَعُونَ",
-          "meaning": "sie werden zurueckgebracht"
+          "meaning": "sie werden zurückgebracht"
         }
       ]
     },
@@ -2177,7 +2179,7 @@
       "keyDerivatives": [
         {
           "form": "فَضْل",
-          "meaning": "Vorzug, Gunst, Ueberfluss"
+          "meaning": "Vorzug, Gunst, Überfluss"
         },
         {
           "form": "فَضَّلَ",
@@ -2212,12 +2214,12 @@
     {
       "root": "ا ذ ن",
       "frequency": 102,
-      "meaning": "erlauben, Gehoer schenken, Ohr — Grundbedeutung des Erlaubens/Hoerens",
-      "semanticField": "Erlaubnis und Gehoer",
+      "meaning": "erlauben, Gehör schenken, Ohr — Grundbedeutung des Erlaubens/Hörens",
+      "semanticField": "Erlaubnis und Gehör",
       "keyDerivatives": [
         {
           "form": "أَذِنَ",
-          "meaning": "er erlaubte / hoerte zu"
+          "meaning": "er erlaubte / hörte zu"
         },
         {
           "form": "إِذْن",
@@ -2232,8 +2234,8 @@
     {
       "root": "ش د د",
       "frequency": 102,
-      "meaning": "stark/heftig sein, festziehen — Grundbedeutung der Staerke/Heftigkeit",
-      "semanticField": "Staerke und Heftigkeit",
+      "meaning": "stark/heftig sein, festziehen — Grundbedeutung der Stärke/Heftigkeit",
+      "semanticField": "Stärke und Heftigkeit",
       "keyDerivatives": [
         {
           "form": "شَدِيد",
@@ -2241,18 +2243,18 @@
         },
         {
           "form": "أَشَدّ",
-          "meaning": "heftiger, staerker (Elativ)"
+          "meaning": "heftiger, stärker (Elativ)"
         },
         {
           "form": "شَدَّ",
-          "meaning": "er zog fest / verstaerkte"
+          "meaning": "er zog fest / verstärkte"
         }
       ]
     },
     {
       "root": "و ل د",
       "frequency": 102,
-      "meaning": "gebaeren, zeugen — Grundbedeutung der Zeugung und Geburt",
+      "meaning": "gebären, zeugen — Grundbedeutung der Zeugung und Geburt",
       "semanticField": "Geburt und Nachkommenschaft",
       "keyDerivatives": [
         {
@@ -2312,16 +2314,16 @@
     {
       "root": "ص ح ب",
       "frequency": 97,
-      "meaning": "begleiten, Gefaehrte sein — Grundbedeutung der Begleitung",
+      "meaning": "begleiten, Gefährte sein — Grundbedeutung der Begleitung",
       "semanticField": "Begleitung und Genossenschaft",
       "keyDerivatives": [
         {
           "form": "صَاحِب",
-          "meaning": "Begleiter, Gefaehrte"
+          "meaning": "Begleiter, Gefährte"
         },
         {
           "form": "أَصْحَاب",
-          "meaning": "Begleiter, Gefaehrten (Plural)"
+          "meaning": "Begleiter, Gefährten (Plural)"
         },
         {
           "form": "صُحْبَة",
@@ -2352,8 +2354,8 @@
     {
       "root": "ق ر ب",
       "frequency": 96,
-      "meaning": "nahe sein, sich naehern — Grundbedeutung der Naehe",
-      "semanticField": "Naehe und Verwandtschaft",
+      "meaning": "nahe sein, sich nähern — Grundbedeutung der Nähe",
+      "semanticField": "Nähe und Verwandtschaft",
       "keyDerivatives": [
         {
           "form": "قَرِيب",
@@ -2361,7 +2363,7 @@
         },
         {
           "form": "قُرْبَى",
-          "meaning": "Verwandtschaft, Naehe"
+          "meaning": "Verwandtschaft, Nähe"
         },
         {
           "form": "قُرْبَان",
@@ -2373,7 +2375,7 @@
       "root": "ب غ ي",
       "frequency": 96,
       "meaning": "begehren, uebertreiben, suchen — Grundbedeutung des Begehrens/Strebens",
-      "semanticField": "Begehren und Uebertretung",
+      "semanticField": "Begehren und Übertretung",
       "keyDerivatives": [
         {
           "form": "بَغَى",
@@ -2381,7 +2383,7 @@
         },
         {
           "form": "بَغْي",
-          "meaning": "Uebertretung, Begehren"
+          "meaning": "Übertretung, Begehren"
         },
         {
           "form": "ابْتَغَى",
@@ -2392,8 +2394,8 @@
     {
       "root": "ا خ و",
       "frequency": 96,
-      "meaning": "Bruder — Grundbedeutung der Bruederlichkeit",
-      "semanticField": "Bruederlichkeit und Verwandtschaft",
+      "meaning": "Bruder — Grundbedeutung der Brüderlichkeit",
+      "semanticField": "Brüderlichkeit und Verwandtschaft",
       "keyDerivatives": [
         {
           "form": "أَخ",
@@ -2401,7 +2403,7 @@
         },
         {
           "form": "إِخْوَان",
-          "meaning": "Brueder (Plural)"
+          "meaning": "Brüder (Plural)"
         },
         {
           "form": "أُخْت",
@@ -2553,7 +2555,7 @@
       "root": "خ ل د",
       "frequency": 87,
       "meaning": "ewig bleiben, verweilen — Grundbedeutung der Ewigkeit und des Bleibens",
-      "semanticField": "Ewigkeit und Bestaendigkeit",
+      "semanticField": "Ewigkeit und Beständigkeit",
       "keyDerivatives": [
         {
           "form": "خَلَدَ",
@@ -2592,12 +2594,12 @@
     {
       "root": "م و ل",
       "frequency": 86,
-      "meaning": "Besitz, Vermoegen — Grundbedeutung des Vermoegens",
-      "semanticField": "Besitz und Vermoegen",
+      "meaning": "Besitz, Vermögen — Grundbedeutung des Vermögens",
+      "semanticField": "Besitz und Vermögen",
       "keyDerivatives": [
         {
           "form": "مَال",
-          "meaning": "Besitz, Vermoegen, Geld"
+          "meaning": "Besitz, Vermögen, Geld"
         },
         {
           "form": "أَمْوَال",
@@ -2645,7 +2647,7 @@
         },
         {
           "form": "نَجْوَى",
-          "meaning": "vertrauliches Gespraech"
+          "meaning": "vertrauliches Gespräch"
         }
       ]
     },
@@ -2821,7 +2823,7 @@
         },
         {
           "form": "مُصِيبَة",
-          "meaning": "Unglueck, Heimsuchung"
+          "meaning": "Unglück, Heimsuchung"
         },
         {
           "form": "صَوَاب",
@@ -2833,7 +2835,7 @@
       "root": "ب ل غ",
       "frequency": 77,
       "meaning": "erreichen, gelangen — Grundbedeutung des Erreichens",
-      "semanticField": "Erreichen und Uebermittlung",
+      "semanticField": "Erreichen und Übermittlung",
       "keyDerivatives": [
         {
           "form": "بَلَغَ",
@@ -2841,7 +2843,7 @@
         },
         {
           "form": "بَلَاغ",
-          "meaning": "Uebermittlung, Botschaft"
+          "meaning": "Übermittlung, Botschaft"
         },
         {
           "form": "بَالِغ",
@@ -2952,12 +2954,12 @@
     {
       "root": "ب ا س",
       "frequency": 73,
-      "meaning": "stark/tapfer sein, Elend — Grundbedeutung der Haerte/Tapferkeit",
-      "semanticField": "Haerte und Tapferkeit",
+      "meaning": "stark/tapfer sein, Elend — Grundbedeutung der Härte/Tapferkeit",
+      "semanticField": "Härte und Tapferkeit",
       "keyDerivatives": [
         {
           "form": "بَأْس",
-          "meaning": "Staerke, Haerte, Kampfkraft"
+          "meaning": "Stärke, Härte, Kampfkraft"
         },
         {
           "form": "بَئِيس",
@@ -3001,7 +3003,7 @@
         },
         {
           "form": "بُيُوت",
-          "meaning": "Haeuser (Plural)"
+          "meaning": "Häuser (Plural)"
         },
         {
           "form": "بَاتَ",
@@ -3021,7 +3023,7 @@
         },
         {
           "form": "رِجَال",
-          "meaning": "Maenner (Plural)"
+          "meaning": "Männer (Plural)"
         },
         {
           "form": "رِجْل",
@@ -3032,8 +3034,8 @@
     {
       "root": "غ ن ي",
       "frequency": 73,
-      "meaning": "reich/genuegend sein, entbehren — Grundbedeutung des Reichseins",
-      "semanticField": "Reichtum und Genuegen",
+      "meaning": "reich/genügend sein, entbehren — Grundbedeutung des Reichseins",
+      "semanticField": "Reichtum und Genügen",
       "keyDerivatives": [
         {
           "form": "غَنِيّ",
@@ -3041,11 +3043,11 @@
         },
         {
           "form": "أَغْنَى",
-          "meaning": "er machte reich / genuegend (IV)"
+          "meaning": "er machte reich / genügend (IV)"
         },
         {
           "form": "اسْتَغْنَى",
-          "meaning": "er hielt sich fuer genuegend (X)"
+          "meaning": "er hielt sich für genügend (X)"
         }
       ]
     },
@@ -3132,8 +3134,8 @@
     {
       "root": "ع ل و",
       "frequency": 70,
-      "meaning": "hoch sein, sich erheben — Grundbedeutung der Hoehe",
-      "semanticField": "Hoehe und Erhabenheit",
+      "meaning": "hoch sein, sich erheben — Grundbedeutung der Höhe",
+      "semanticField": "Höhe und Erhabenheit",
       "keyDerivatives": [
         {
           "form": "عَلِيّ",
@@ -3145,7 +3147,7 @@
         },
         {
           "form": "أَعْلَى",
-          "meaning": "hoeher, hoechst (Elativ)"
+          "meaning": "höher, höchst (Elativ)"
         }
       ]
     },
@@ -3161,7 +3163,7 @@
         },
         {
           "form": "وَكِيل",
-          "meaning": "Sachwalter, Bevollmaechtigter"
+          "meaning": "Sachwalter, Bevollmächtigter"
         },
         {
           "form": "تَوَكُّل",
@@ -3181,7 +3183,7 @@
         },
         {
           "form": "مَسْكَن",
-          "meaning": "Wohnung, Wohnstaette"
+          "meaning": "Wohnung, Wohnstätte"
         },
         {
           "form": "سَكِينَة",
@@ -3292,20 +3294,20 @@
     {
       "root": "و ف ي",
       "frequency": 66,
-      "meaning": "voll sein, erfuellen — Grundbedeutung der Fuelle und Erfuellung",
-      "semanticField": "Erfuellung und Vollstaendigkeit",
+      "meaning": "voll sein, erfüllen — Grundbedeutung der Fülle und Erfüllung",
+      "semanticField": "Erfüllung und Vollständigkeit",
       "keyDerivatives": [
         {
           "form": "وَفَّى",
-          "meaning": "er erfuellte vollstaendig (II)"
+          "meaning": "er erfüllte vollständig (II)"
         },
         {
           "form": "أَوْفَى",
-          "meaning": "er erfuellte (IV)"
+          "meaning": "er erfüllte (IV)"
         },
         {
           "form": "تَوَفَّى",
-          "meaning": "er nahm vollstaendig / starb (V)"
+          "meaning": "er nahm vollständig / starb (V)"
         }
       ]
     },
@@ -3313,7 +3315,7 @@
       "root": "ج ر م",
       "frequency": 66,
       "meaning": "abschneiden, suendigen — Grundbedeutung des Abschneidens/Vergehens",
-      "semanticField": "Vergehen und Suende",
+      "semanticField": "Vergehen und Sünde",
       "keyDerivatives": [
         {
           "form": "مُجْرِم",
@@ -3321,7 +3323,7 @@
         },
         {
           "form": "جُرْم",
-          "meaning": "Vergehen, Suende"
+          "meaning": "Vergehen, Sünde"
         },
         {
           "form": "أَجْرَمَ",
@@ -3381,7 +3383,7 @@
         },
         {
           "form": "تَجْرِي",
-          "meaning": "sie fliesst / sie laeuft"
+          "meaning": "sie fliesst / sie läuft"
         },
         {
           "form": "مَجْرَى",
@@ -3405,7 +3407,7 @@
         },
         {
           "form": "حَمَّالَة",
-          "meaning": "Traegerin"
+          "meaning": "Trägerin"
         }
       ]
     },
@@ -3441,7 +3443,7 @@
         },
         {
           "form": "مِيَاه",
-          "meaning": "Gewaesser (Plural)"
+          "meaning": "Gewässer (Plural)"
         },
         {
           "form": "مَائِيّ",
@@ -3461,7 +3463,7 @@
         },
         {
           "form": "يَتْلُو",
-          "meaning": "er traegt vor"
+          "meaning": "er trägt vor"
         },
         {
           "form": "تِلَاوَة",
@@ -3472,8 +3474,8 @@
     {
       "root": "س ح ر",
       "frequency": 63,
-      "meaning": "verzaubern, Fruehe des Morgens — Grundbedeutung der Taeuschung/Zauberei",
-      "semanticField": "Zauberei und Taeuschung",
+      "meaning": "verzaubern, Fruehe des Morgens — Grundbedeutung der Täuschung/Zauberei",
+      "semanticField": "Zauberei und Täuschung",
       "keyDerivatives": [
         {
           "form": "سِحْر",
@@ -3512,20 +3514,20 @@
     {
       "root": "ع و د",
       "frequency": 63,
-      "meaning": "zurueckkehren, wiederholen — Grundbedeutung der Wiederkehr",
+      "meaning": "zurückkehren, wiederholen — Grundbedeutung der Wiederkehr",
       "semanticField": "Wiederkehr und Wiederholung",
       "keyDerivatives": [
         {
           "form": "عَادَ",
-          "meaning": "er kehrte zurueck"
+          "meaning": "er kehrte zurück"
         },
         {
           "form": "يَعُودُ",
-          "meaning": "er kehrt zurueck"
+          "meaning": "er kehrt zurück"
         },
         {
           "form": "عَوْد",
-          "meaning": "Rueckkehr"
+          "meaning": "Rückkehr"
         }
       ]
     },
@@ -3565,7 +3567,7 @@
         },
         {
           "form": "مَزِيد",
-          "meaning": "mehr, zusaetzlich"
+          "meaning": "mehr, zusätzlich"
         }
       ]
     },
@@ -3612,16 +3614,16 @@
     {
       "root": "ف ت ن",
       "frequency": 60,
-      "meaning": "pruefen, in Versuchung fuehren — Grundbedeutung der Pruefung",
-      "semanticField": "Pruefung und Versuchung",
+      "meaning": "prüfen, in Versuchung führen — Grundbedeutung der Prüfung",
+      "semanticField": "Prüfung und Versuchung",
       "keyDerivatives": [
         {
           "form": "فِتْنَة",
-          "meaning": "Pruefung, Versuchung, Zwietracht"
+          "meaning": "Prüfung, Versuchung, Zwietracht"
         },
         {
           "form": "فَتَنَ",
-          "meaning": "er pruefte / verfuehrte"
+          "meaning": "er prüfte / verfuehrte"
         },
         {
           "form": "مَفْتُون",
@@ -3641,7 +3643,7 @@
         },
         {
           "form": "فِرْيَة",
-          "meaning": "Erdichtung, Luege"
+          "meaning": "Erdichtung, Lüge"
         },
         {
           "form": "مُفْتَرٍ",
@@ -3657,7 +3659,7 @@
       "keyDerivatives": [
         {
           "form": "زَكَاة",
-          "meaning": "Laeuterungsabgabe, Reinigung"
+          "meaning": "Läuterungsabgabe, Reinigung"
         },
         {
           "form": "زَكَّى",
@@ -3692,8 +3694,8 @@
     {
       "root": "ظ ه ر",
       "frequency": 59,
-      "meaning": "erscheinen, sichtbar werden, Ruecken — Grundbedeutung des Sichtbarwerdens",
-      "semanticField": "Erscheinung und Aeusseres",
+      "meaning": "erscheinen, sichtbar werden, Rücken — Grundbedeutung des Sichtbarwerdens",
+      "semanticField": "Erscheinung und Äußeres",
       "keyDerivatives": [
         {
           "form": "ظَهَرَ",
@@ -3701,31 +3703,31 @@
         },
         {
           "form": "ظَاهِر",
-          "meaning": "sichtbar, aeusserlich"
+          "meaning": "sichtbar, äußerlich"
         },
         {
           "form": "ظَهْر",
-          "meaning": "Ruecken"
+          "meaning": "Rücken"
         }
       ]
     },
     {
       "root": "ر د د",
       "frequency": 59,
-      "meaning": "zurueckweisen, zurueckgeben — Grundbedeutung des Zurueckgebens",
-      "semanticField": "Zurueckweisung und Rueckgabe",
+      "meaning": "zurückweisen, zurückgeben — Grundbedeutung des Zurückgebens",
+      "semanticField": "Zurückweisung und Rückgabe",
       "keyDerivatives": [
         {
           "form": "رَدَّ",
-          "meaning": "er wies zurueck / gab zurueck"
+          "meaning": "er wies zurück / gab zurück"
         },
         {
           "form": "يَرُدّ",
-          "meaning": "er weist zurueck"
+          "meaning": "er weist zurück"
         },
         {
           "form": "مَرَدّ",
-          "meaning": "Rueckkehr, Zufluchtsort"
+          "meaning": "Rückkehr, Zufluchtsort"
         }
       ]
     },
@@ -3752,8 +3754,8 @@
     {
       "root": "ع د د",
       "frequency": 57,
-      "meaning": "zaehlen, vorbereiten — Grundbedeutung des Zaehlens",
-      "semanticField": "Zaehlung und Vorbereitung",
+      "meaning": "zählen, vorbereiten — Grundbedeutung des Zählens",
+      "semanticField": "Zählung und Vorbereitung",
       "keyDerivatives": [
         {
           "form": "عَدَد",
@@ -3781,7 +3783,7 @@
         },
         {
           "form": "قُرًى",
-          "meaning": "Staedte/Doerfer (Plural)"
+          "meaning": "Städte/Doerfer (Plural)"
         },
         {
           "form": "قَرَوِيّ",
@@ -3845,7 +3847,7 @@
         },
         {
           "form": "انْتَهَى",
-          "meaning": "er hoerte auf (VIII)"
+          "meaning": "er hörte auf (VIII)"
         }
       ]
     },
@@ -3861,7 +3863,7 @@
         },
         {
           "form": "آجِل",
-          "meaning": "aufgeschoben, spaeter"
+          "meaning": "aufgeschoben, später"
         },
         {
           "form": "مُؤَجَّل",
@@ -3873,15 +3875,15 @@
       "root": "د و ر",
       "frequency": 55,
       "meaning": "sich drehen, Kreislauf, Haus — Grundbedeutung der Drehung/des Wohnens",
-      "semanticField": "Drehung und Wohnstaette",
+      "semanticField": "Drehung und Wohnstätte",
       "keyDerivatives": [
         {
           "form": "دَار",
-          "meaning": "Haus, Wohnstaette"
+          "meaning": "Haus, Wohnstätte"
         },
         {
           "form": "دِيَار",
-          "meaning": "Wohnstaetten (Plural)"
+          "meaning": "Wohnstätten (Plural)"
         },
         {
           "form": "دَائِرَة",
@@ -3952,8 +3954,8 @@
     {
       "root": "ض ع ف",
       "frequency": 52,
-      "meaning": "schwach sein, verdoppeln — Grundbedeutung der Schwaeche/Verdoppelung",
-      "semanticField": "Schwaeche und Verdoppelung",
+      "meaning": "schwach sein, verdoppeln — Grundbedeutung der Schwäche/Verdoppelung",
+      "semanticField": "Schwäche und Verdoppelung",
       "keyDerivatives": [
         {
           "form": "ضَعِيف",
@@ -3965,7 +3967,7 @@
         },
         {
           "form": "اسْتَضْعَفَ",
-          "meaning": "er hielt fuer schwach (X)"
+          "meaning": "er hielt für schwach (X)"
         }
       ]
     },
@@ -3992,12 +3994,12 @@
     {
       "root": "ح ل ل",
       "frequency": 51,
-      "meaning": "erlaubt sein, sich niederlassen, loesen — Grundbedeutung des Erlaubtseins/Loesens",
+      "meaning": "erlaubt sein, sich niederlassen, lösen — Grundbedeutung des Erlaubtseins/Loesens",
       "semanticField": "Erlaubnis und Loesung",
       "keyDerivatives": [
         {
           "form": "حَلَّ",
-          "meaning": "er loeste / liess sich nieder"
+          "meaning": "er löste / liess sich nieder"
         },
         {
           "form": "حَلَال",
@@ -4032,7 +4034,7 @@
     {
       "root": "ط ي ب",
       "frequency": 50,
-      "meaning": "gut/rein sein, angenehm — Grundbedeutung der Reinheit und Guete",
+      "meaning": "gut/rein sein, angenehm — Grundbedeutung der Reinheit und Güte",
       "semanticField": "Reinheit und Angenehmheit",
       "keyDerivatives": [
         {
@@ -4132,12 +4134,12 @@
     {
       "root": "خ ش ي",
       "frequency": 48,
-      "meaning": "fuerchten, Ehrfurcht haben — Grundbedeutung der Ehrfurcht/Furcht",
+      "meaning": "fürchten, Ehrfurcht haben — Grundbedeutung der Ehrfurcht/Furcht",
       "semanticField": "Furcht und Ehrfurcht",
       "keyDerivatives": [
         {
           "form": "خَشِيَ",
-          "meaning": "er fuerchtete"
+          "meaning": "er fürchtete"
         },
         {
           "form": "خَشْيَة",
@@ -4145,19 +4147,19 @@
         },
         {
           "form": "يَخْشَى",
-          "meaning": "er fuerchtet"
+          "meaning": "er fürchtet"
         }
       ]
     },
     {
       "root": "ا ث م",
       "frequency": 48,
-      "meaning": "suendigen, Schuld — Grundbedeutung der Suende/Verfehlung",
-      "semanticField": "Suende und Verfehlung",
+      "meaning": "suendigen, Schuld — Grundbedeutung der Sünde/Verfehlung",
+      "semanticField": "Sünde und Verfehlung",
       "keyDerivatives": [
         {
           "form": "إِثْم",
-          "meaning": "Suende, Verfehlung"
+          "meaning": "Sünde, Verfehlung"
         },
         {
           "form": "آثِم",
@@ -4225,14 +4227,14 @@
         },
         {
           "form": "كَرَامَة",
-          "meaning": "Wuerde, Ehre"
+          "meaning": "Würde, Ehre"
         }
       ]
     },
     {
       "root": "ع ه د",
       "frequency": 46,
-      "meaning": "beauftragen, Bund schliessen — Grundbedeutung des Bundes/Auftrags",
+      "meaning": "beauftragen, Bund schließen — Grundbedeutung des Bundes/Auftrags",
       "semanticField": "Bund und Verpflichtung",
       "keyDerivatives": [
         {
@@ -4245,7 +4247,7 @@
         },
         {
           "form": "عُهُود",
-          "meaning": "Buende, Vertraege (Plural)"
+          "meaning": "Buende, Verträge (Plural)"
         }
       ]
     },
@@ -4292,12 +4294,12 @@
     {
       "root": "ص ر ط",
       "frequency": 45,
-      "meaning": "Weg, Strasse — Grundbedeutung des geraden Weges",
-      "semanticField": "Weg und Strasse",
+      "meaning": "Weg, Straße — Grundbedeutung des geraden Weges",
+      "semanticField": "Weg und Straße",
       "keyDerivatives": [
         {
           "form": "صِرَاط",
-          "meaning": "Weg, Strasse, Pfad"
+          "meaning": "Weg, Straße, Pfad"
         },
         {
           "form": "الصِّرَاط الْمُسْتَقِيم",
@@ -4333,7 +4335,7 @@
       "root": "و ذ ر",
       "frequency": 45,
       "meaning": "lassen, uebriglassen — Grundbedeutung des Lassens",
-      "semanticField": "Lassen und Ueberlassen",
+      "semanticField": "Lassen und Überlassen",
       "keyDerivatives": [
         {
           "form": "ذَرْ",
@@ -4341,7 +4343,7 @@
         },
         {
           "form": "يَذَرُ",
-          "meaning": "er laesst"
+          "meaning": "er lässt"
         },
         {
           "form": "وَذَرَ",
@@ -4385,7 +4387,7 @@
         },
         {
           "form": "تَبْدِيل",
-          "meaning": "Veraenderung, Austausch"
+          "meaning": "Veränderung, Austausch"
         }
       ]
     },
@@ -4432,12 +4434,12 @@
     {
       "root": "ح ف ظ",
       "frequency": 44,
-      "meaning": "bewahren, schuetzen, hueten — Grundbedeutung des Bewahrens",
+      "meaning": "bewahren, schützen, hüten — Grundbedeutung des Bewahrens",
       "semanticField": "Bewahrung und Schutz",
       "keyDerivatives": [
         {
           "form": "حَفِظَ",
-          "meaning": "er bewahrte / schuetzte"
+          "meaning": "er bewahrte / schützte"
         },
         {
           "form": "حَافِظ",
@@ -4465,23 +4467,23 @@
         },
         {
           "form": "دُبُر",
-          "meaning": "hinterer Teil, Ruecken"
+          "meaning": "hinterer Teil, Rücken"
         }
       ]
     },
     {
       "root": "ت ر ك",
       "frequency": 43,
-      "meaning": "lassen, zuruecklassen — Grundbedeutung des Zuruecklassens",
-      "semanticField": "Zuruecklassung und Aufgabe",
+      "meaning": "lassen, zurücklassen — Grundbedeutung des Zurücklassens",
+      "semanticField": "Zurücklassung und Aufgabe",
       "keyDerivatives": [
         {
           "form": "تَرَكَ",
-          "meaning": "er liess / liess zurueck"
+          "meaning": "er liess / liess zurück"
         },
         {
           "form": "يَتْرُكُ",
-          "meaning": "er laesst"
+          "meaning": "er lässt"
         },
         {
           "form": "تَرِكَة",
@@ -4492,16 +4494,16 @@
     {
       "root": "ف و ق",
       "frequency": 43,
-      "meaning": "ueber, oberhalb — Grundbedeutung des Darueber-Seins",
-      "semanticField": "Oben und Ueberlegenheit",
+      "meaning": "über, oberhalb — Grundbedeutung des Darueber-Seins",
+      "semanticField": "Oben und Überlegenheit",
       "keyDerivatives": [
         {
           "form": "فَوْق",
-          "meaning": "ueber, oberhalb"
+          "meaning": "über, oberhalb"
         },
         {
           "form": "فَوْقَ",
-          "meaning": "oberhalb (Praeposition)"
+          "meaning": "oberhalb (Präposition)"
         },
         {
           "form": "تَفَوَّقَ",
@@ -4525,7 +4527,7 @@
         },
         {
           "form": "اسْتَجَابَ",
-          "meaning": "er erhoerte / antwortete (X)"
+          "meaning": "er erhörte / antwortete (X)"
         }
       ]
     },
@@ -4565,7 +4567,7 @@
         },
         {
           "form": "مُفَصَّل",
-          "meaning": "ausfuehrlich dargelegt (Partizip II)"
+          "meaning": "ausführlich dargelegt (Partizip II)"
         }
       ]
     },
@@ -4632,8 +4634,8 @@
     {
       "root": "ق و ي",
       "frequency": 42,
-      "meaning": "stark sein, Kraft haben — Grundbedeutung der Staerke",
-      "semanticField": "Staerke und Kraft",
+      "meaning": "stark sein, Kraft haben — Grundbedeutung der Stärke",
+      "semanticField": "Stärke und Kraft",
       "keyDerivatives": [
         {
           "form": "قَوِيّ",
@@ -4641,11 +4643,11 @@
         },
         {
           "form": "قُوَّة",
-          "meaning": "Kraft, Staerke"
+          "meaning": "Kraft, Stärke"
         },
         {
           "form": "أَقْوَى",
-          "meaning": "staerker (Elativ)"
+          "meaning": "stärker (Elativ)"
         }
       ]
     },
@@ -4681,7 +4683,7 @@
         },
         {
           "form": "يَصُدّ",
-          "meaning": "er haelt ab"
+          "meaning": "er hält ab"
         },
         {
           "form": "صُدُود",
@@ -4725,7 +4727,7 @@
         },
         {
           "form": "طُوفَان",
-          "meaning": "Sintflut, Ueberschwemmung"
+          "meaning": "Sintflut, Überschwemmung"
         }
       ]
     },
@@ -4745,23 +4747,23 @@
         },
         {
           "form": "مَكْرُوه",
-          "meaning": "verabscheut, unerwuenscht"
+          "meaning": "verabscheut, unerwünscht"
         }
       ]
     },
     {
       "root": "ج ه د",
       "frequency": 41,
-      "meaning": "sich anstrengen, sich bemuehen — Grundbedeutung der Anstrengung",
-      "semanticField": "Anstrengung und Bemuehung",
+      "meaning": "sich anstrengen, sich bemühen — Grundbedeutung der Anstrengung",
+      "semanticField": "Anstrengung und Bemühung",
       "keyDerivatives": [
         {
           "form": "جَاهَدَ",
-          "meaning": "er strengte sich an / kaempfte (III)"
+          "meaning": "er strengte sich an / kämpfte (III)"
         },
         {
           "form": "جِهَاد",
-          "meaning": "Anstrengung, Bemuehung"
+          "meaning": "Anstrengung, Bemühung"
         },
         {
           "form": "جُهْد",
@@ -4785,7 +4787,7 @@
         },
         {
           "form": "جِبِلَّة",
-          "meaning": "Geschoepf, Wesen"
+          "meaning": "Geschöpf, Wesen"
         }
       ]
     },
@@ -4832,8 +4834,8 @@
     {
       "root": "م ل ا",
       "frequency": 40,
-      "meaning": "fuellen, voll sein — Grundbedeutung der Fuelle",
-      "semanticField": "Fuelle und Anfuellung",
+      "meaning": "füllen, voll sein — Grundbedeutung der Fülle",
+      "semanticField": "Fülle und Anfuellung",
       "keyDerivatives": [
         {
           "form": "مَلَأَ",
@@ -4841,19 +4843,19 @@
         },
         {
           "form": "مَلَأ",
-          "meaning": "Vornehme, Angesehene (die Versammlung Fuellende)"
+          "meaning": "Vornehme, Angesehene (die Versammlung Füllende)"
         },
         {
           "form": "مِلْء",
-          "meaning": "Fuelle, Fuellmenge"
+          "meaning": "Fülle, Fuellmenge"
         }
       ]
     },
     {
       "root": "ط غ ي",
       "frequency": 39,
-      "meaning": "uebermass treiben, Grenzen ueberschreiten — Grundbedeutung des Uebermasses",
-      "semanticField": "Uebermass und Tyrannei",
+      "meaning": "uebermass treiben, Grenzen ueberschreiten — Grundbedeutung des Übermasses",
+      "semanticField": "Übermass und Tyrannei",
       "keyDerivatives": [
         {
           "form": "طَغَى",
@@ -4861,11 +4863,11 @@
         },
         {
           "form": "طُغْيَان",
-          "meaning": "Uebermass, Tyrannei"
+          "meaning": "Übermass, Tyrannei"
         },
         {
           "form": "طَاغِية",
-          "meaning": "Tyrann, Uebertreter"
+          "meaning": "Tyrann, Übertreter"
         }
       ]
     },
@@ -4917,7 +4919,7 @@
       "keyDerivatives": [
         {
           "form": "سُلْطَان",
-          "meaning": "Macht, Autoritaet, Beweis"
+          "meaning": "Macht, Autorität, Beweis"
         },
         {
           "form": "سَلَّطَ",
@@ -4952,16 +4954,16 @@
     {
       "root": "ب ل و",
       "frequency": 38,
-      "meaning": "pruefen, erproben — Grundbedeutung der Pruefung/Erprobung",
-      "semanticField": "Pruefung und Erprobung",
+      "meaning": "prüfen, erproben — Grundbedeutung der Prüfung/Erprobung",
+      "semanticField": "Prüfung und Erprobung",
       "keyDerivatives": [
         {
           "form": "بَلَا",
-          "meaning": "er pruefte / erprobte"
+          "meaning": "er prüfte / erprobte"
         },
         {
           "form": "بَلَاء",
-          "meaning": "Pruefung, Erprobung"
+          "meaning": "Prüfung, Erprobung"
         },
         {
           "form": "ابْتَلَى",
@@ -4972,20 +4974,20 @@
     {
       "root": "ف ت ح",
       "frequency": 38,
-      "meaning": "oeffnen, eroeffnen, Sieg verleihen — Grundbedeutung des Oeffnens",
-      "semanticField": "Oeffnung und Sieg",
+      "meaning": "öffnen, eröffnen, Sieg verleihen — Grundbedeutung des Öffnens",
+      "semanticField": "Öffnung und Sieg",
       "keyDerivatives": [
         {
           "form": "فَتَحَ",
-          "meaning": "er oeffnete"
+          "meaning": "er öffnete"
         },
         {
           "form": "فَتْح",
-          "meaning": "Oeffnung, Sieg"
+          "meaning": "Öffnung, Sieg"
         },
         {
           "form": "مِفْتَاح",
-          "meaning": "Schluessel"
+          "meaning": "Schlüssel"
         }
       ]
     },
@@ -5014,6 +5016,7 @@
       "frequency": 38,
       "meaning": "Frau, streiten — Grundbedeutung der Frau / des Streitens",
       "semanticField": "Frau und Streit",
+      "note": "In der Morphologie-Datenbank zusammengefasst. Historisch zwei getrennte Wurzeln: م-ر-أ (Mensch/Frau) und م-ر-ي (streiten).",
       "keyDerivatives": [
         {
           "form": "امْرَأَة",
@@ -5085,7 +5088,8 @@
         },
         {
           "form": "آلَاء",
-          "meaning": "Gnaden, Wohltaten"
+          "meaning": "Gnaden, Wohltaten",
+          "note": "آلَاء (Gaben) wird von einigen Lexikographen einer eigenen Wurzel zugeordnet."
         }
       ]
     },
@@ -5141,7 +5145,7 @@
         },
         {
           "form": "قِطْعَة",
-          "meaning": "Stueck, Abschnitt"
+          "meaning": "Stück, Abschnitt"
         },
         {
           "form": "انْقَطَعَ",
@@ -5152,7 +5156,7 @@
     {
       "root": "ب ط ل",
       "frequency": 36,
-      "meaning": "nichtig sein, fuer nichtig erklaeren — Grundbedeutung der Nichtigkeit",
+      "meaning": "nichtig sein, für nichtig erklären — Grundbedeutung der Nichtigkeit",
       "semanticField": "Nichtigkeit und Falschheit",
       "keyDerivatives": [
         {
@@ -5172,12 +5176,12 @@
     {
       "root": "ح د ث",
       "frequency": 36,
-      "meaning": "geschehen, neu sein, erzaehlen — Grundbedeutung des Geschehens/Neuseins",
-      "semanticField": "Geschehen und Erzaehlung",
+      "meaning": "geschehen, neu sein, erzählen — Grundbedeutung des Geschehens/Neuseins",
+      "semanticField": "Geschehen und Erzählung",
       "keyDerivatives": [
         {
           "form": "حَدِيث",
-          "meaning": "Erzaehlung, Bericht, Rede"
+          "meaning": "Erzählung, Bericht, Rede"
         },
         {
           "form": "أَحْدَثَ",
@@ -5192,16 +5196,16 @@
     {
       "root": "ا ن ي",
       "frequency": 36,
-      "meaning": "Gefaess, Zeit — Grundbedeutung des Gefaesses/der Zeitbestimmung",
-      "semanticField": "Gefaess und Zeit",
+      "meaning": "Gefäß, Zeit — Grundbedeutung des Gefäßes/der Zeitbestimmung",
+      "semanticField": "Gefäß und Zeit",
       "keyDerivatives": [
         {
           "form": "آنِيَة",
-          "meaning": "Gefaess, Behaelter"
+          "meaning": "Gefäß, Behälter"
         },
         {
           "form": "إِنَاء",
-          "meaning": "Gefaess"
+          "meaning": "Gefäß"
         },
         {
           "form": "آن",
@@ -5352,7 +5356,7 @@
     {
       "root": "ك ي د",
       "frequency": 35,
-      "meaning": "planen, listen, intrigieren — Grundbedeutung der List/Raenke",
+      "meaning": "planen, listen, intrigieren — Grundbedeutung der List/Ränke",
       "semanticField": "List und Intrige",
       "keyDerivatives": [
         {
@@ -5361,7 +5365,7 @@
         },
         {
           "form": "كَيْد",
-          "meaning": "List, Raenke, Plan"
+          "meaning": "List, Ränke, Plan"
         },
         {
           "form": "يَكِيدُ",
@@ -5405,23 +5409,23 @@
         },
         {
           "form": "وَثِيق",
-          "meaning": "fest, zuverlaessig"
+          "meaning": "fest, zuverlässig"
         }
       ]
     },
     {
       "root": "ج ن ح",
       "frequency": 34,
-      "meaning": "sich neigen, Fluegel, Seite — Grundbedeutung des Neigens/der Seite",
+      "meaning": "sich neigen, Flügel, Seite — Grundbedeutung des Neigens/der Seite",
       "semanticField": "Neigung und Seite",
       "keyDerivatives": [
         {
           "form": "جَنَاح",
-          "meaning": "Fluegel, Seite"
+          "meaning": "Flügel, Seite"
         },
         {
           "form": "جُنَاح",
-          "meaning": "Suende, Vergehen"
+          "meaning": "Sünde, Vergehen"
         },
         {
           "form": "جَنَحَ",
@@ -5512,20 +5516,20 @@
     {
       "root": "ك ف ي",
       "frequency": 33,
-      "meaning": "genuegen, ausreichen — Grundbedeutung des Genuegend-Seins",
-      "semanticField": "Genuegen und Ausreichendheit",
+      "meaning": "genügen, ausreichen — Grundbedeutung des Genügend-Seins",
+      "semanticField": "Genügen und Ausreichendheit",
       "keyDerivatives": [
         {
           "form": "كَفَى",
-          "meaning": "er/es genuegt"
+          "meaning": "er/es genügt"
         },
         {
           "form": "كَافٍ",
-          "meaning": "genuegend (Partizip)"
+          "meaning": "genügend (Partizip)"
         },
         {
           "form": "كِفَايَة",
-          "meaning": "Genuege, Ausreichendheit"
+          "meaning": "Genüge, Ausreichendheit"
         }
       ]
     },
@@ -5592,7 +5596,7 @@
     {
       "root": "ق س م",
       "frequency": 33,
-      "meaning": "teilen, schwoeren — Grundbedeutung der Teilung und des Schwurs",
+      "meaning": "teilen, schwören — Grundbedeutung der Teilung und des Schwurs",
       "semanticField": "Teilung und Schwur",
       "keyDerivatives": [
         {
@@ -5625,19 +5629,19 @@
         },
         {
           "form": "أَمَدَّ",
-          "meaning": "er versorgte / unterstuetzte (IV)"
+          "meaning": "er versorgte / unterstützte (IV)"
         }
       ]
     },
     {
       "root": "ب ر ر",
       "frequency": 32,
-      "meaning": "fromm/gut sein, Guete — Grundbedeutung der Guete und Aufrichtigkeit",
-      "semanticField": "Guete und Aufrichtigkeit",
+      "meaning": "fromm/gut sein, Güte — Grundbedeutung der Güte und Aufrichtigkeit",
+      "semanticField": "Güte und Aufrichtigkeit",
       "keyDerivatives": [
         {
           "form": "بِرّ",
-          "meaning": "Guete, Aufrichtigkeit, Frommheit"
+          "meaning": "Güte, Aufrichtigkeit, Frommheit"
         },
         {
           "form": "بَرّ",
@@ -5672,7 +5676,7 @@
     {
       "root": "و ر ي",
       "frequency": 32,
-      "meaning": "hinter, zurueck — Grundbedeutung des Dahinter-Seins",
+      "meaning": "hinter, zurück — Grundbedeutung des Dahinter-Seins",
       "semanticField": "Hintergrund und Jenseits",
       "keyDerivatives": [
         {
@@ -5733,7 +5737,7 @@
       "root": "ث ل ث",
       "frequency": 32,
       "meaning": "drei — Grundbedeutung der Zahl Drei",
-      "semanticField": "Zahl und Quantitaet",
+      "semanticField": "Zahl und Quantität",
       "keyDerivatives": [
         {
           "form": "ثَلَاثَة",
@@ -5765,14 +5769,14 @@
         },
         {
           "form": "أَنْصَاب",
-          "meaning": "aufgerichtete Steine, Goetzenaltaere"
+          "meaning": "aufgerichtete Steine, Götzenaltaere"
         }
       ]
     },
     {
       "root": "ب ر ك",
       "frequency": 32,
-      "meaning": "sich niederlassen, knien (Kamel); segnen, Segen — primaere physische Bedeutung: بَرَكَ = das Kamel kniete nieder; davon uebertragen: Segen, Gedeihen",
+      "meaning": "sich niederlassen, knien (Kamel); segnen, Segen — primäre physische Bedeutung: بَرَكَ = das Kamel kniete nieder; davon uebertragen: Segen, Gedeihen",
       "semanticField": "Segen und Gedeihen",
       "keyDerivatives": [
         {
@@ -5932,20 +5936,20 @@
     {
       "root": "ش ر ر",
       "frequency": 31,
-      "meaning": "boese sein, Uebel — Grundbedeutung des Boesen/Ueblen",
+      "meaning": "böse sein, Uebel — Grundbedeutung des Bösen/Ueblen",
       "semanticField": "Uebel und Bosheit",
       "keyDerivatives": [
         {
           "form": "شَرّ",
-          "meaning": "Uebel, Boeses"
+          "meaning": "Uebel, Böses"
         },
         {
           "form": "أَشْرَار",
-          "meaning": "Boesewichte (Plural)"
+          "meaning": "Bösewichte (Plural)"
         },
         {
           "form": "شَرِير",
-          "meaning": "boese, uebel"
+          "meaning": "böse, uebel"
         }
       ]
     },
@@ -5972,8 +5976,8 @@
     {
       "root": "غ ل ب",
       "frequency": 31,
-      "meaning": "besiegen, ueberwinden — Grundbedeutung des Ueberwindens/Besiegens",
-      "semanticField": "Sieg und Ueberwindung",
+      "meaning": "besiegen, ueberwinden — Grundbedeutung des Überwindens/Besiegens",
+      "semanticField": "Sieg und Überwindung",
       "keyDerivatives": [
         {
           "form": "غَلَبَ",
@@ -5981,7 +5985,7 @@
         },
         {
           "form": "غَالِب",
-          "meaning": "Sieger, Ueberwindender (Partizip)"
+          "meaning": "Sieger, Überwindender (Partizip)"
         },
         {
           "form": "مَغْلُوب",
@@ -6012,7 +6016,7 @@
     {
       "root": "س ع ي",
       "frequency": 30,
-      "meaning": "streben, sich bemuehen",
+      "meaning": "streben, sich bemühen",
       "semanticField": "Bewegung und Reise",
       "keyDerivatives": [
         {
@@ -6068,8 +6072,8 @@
     {
       "root": "ق ص ص",
       "frequency": 30,
-      "meaning": "erzaehlen, Geschichte",
-      "semanticField": "Recht und Vertraege",
+      "meaning": "erzählen, Geschichte",
+      "semanticField": "Recht und Verträge",
       "keyDerivatives": [
         {
           "form": "نَقُصُّ",
@@ -6152,7 +6156,7 @@
     {
       "root": "ا ف ك",
       "frequency": 30,
-      "meaning": "Luege, abwenden",
+      "meaning": "Lüge, abwenden",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -6272,7 +6276,7 @@
           "count": 5
         },
         {
-          "form": "وَدُّوا@",
+          "form": "وَدُّوا",
           "count": 3
         },
         {
@@ -6377,7 +6381,7 @@
       "root": "ط ي ر",
       "frequency": 29,
       "meaning": "Vogel, fliegen",
-      "semanticField": "Schoepfung und Natur",
+      "semanticField": "Schöpfung und Natur",
       "keyDerivatives": [
         {
           "form": "ٱلطَّيْرِ",
@@ -6392,7 +6396,7 @@
           "count": 3
         },
         {
-          "form": "طَيْرً[ا",
+          "form": "طَيْرًا",
           "count": 2
         },
         {
@@ -6480,7 +6484,7 @@
           "count": 2
         },
         {
-          "form": "يَقِينً[ا",
+          "form": "يَقِينًا",
           "count": 1
         }
       ]
@@ -6496,7 +6500,7 @@
           "count": 13
         },
         {
-          "form": "خَلَوْا@",
+          "form": "خَلَوْا",
           "count": 7
         },
         {
@@ -6508,7 +6512,7 @@
           "count": 2
         },
         {
-          "form": "فَخَلُّوا@",
+          "form": "فَخَلُّوا",
           "count": 1
         }
       ]
@@ -6532,7 +6536,7 @@
           "count": 2
         },
         {
-          "form": "لَمُحِيطَةٌ[",
+          "form": "لَمُحِيطَةٌ",
           "count": 2
         },
         {
@@ -6573,7 +6577,7 @@
       "root": "ع د ل",
       "frequency": 28,
       "meaning": "gerecht, Gerechtigkeit",
-      "semanticField": "Recht und Vertraege",
+      "semanticField": "Recht und Verträge",
       "keyDerivatives": [
         {
           "form": "بِٱلْعَدْلِ",
@@ -6584,7 +6588,7 @@
           "count": 5
         },
         {
-          "form": "تَعْدِلُوا@",
+          "form": "تَعْدِلُوا",
           "count": 4
         },
         {
@@ -6604,7 +6608,7 @@
       "semanticField": "",
       "keyDerivatives": [
         {
-          "form": "شِقَاقٍ]",
+          "form": "شِقَاقٍ",
           "count": 3
         },
         {
@@ -6612,7 +6616,7 @@
           "count": 2
         },
         {
-          "form": "شَإقُّوا@",
+          "form": "شَإقُّوا",
           "count": 2
         },
         {
@@ -6636,7 +6640,7 @@
           "count": 26
         },
         {
-          "form": "أَبَدً[ا",
+          "form": "أَبَدًا",
           "count": 2
         }
       ]
@@ -6680,7 +6684,7 @@
           "count": 11
         },
         {
-          "form": "يَرْجُوا@",
+          "form": "يَرْجُوا",
           "count": 4
         },
         {
@@ -6729,7 +6733,7 @@
       "root": "ن ش ا",
       "frequency": 28,
       "meaning": "erschaffen, aufwachsen",
-      "semanticField": "Schoepfung und Natur",
+      "semanticField": "Schöpfung und Natur",
       "keyDerivatives": [
         {
           "form": "أَنشَأَكُم",
@@ -6757,7 +6761,7 @@
       "root": "ش ج ر",
       "frequency": 27,
       "meaning": "Baum",
-      "semanticField": "Schoepfung und Natur",
+      "semanticField": "Schöpfung und Natur",
       "keyDerivatives": [
         {
           "form": "ٱلشَّجَرَةِ",
@@ -6916,7 +6920,7 @@
           "count": 2
         },
         {
-          "form": "فَإِمْسَاكٌ[",
+          "form": "فَإِمْسَاكٌ",
           "count": 1
         }
       ]
@@ -6924,7 +6928,7 @@
     {
       "root": "غ ر ر",
       "frequency": 27,
-      "meaning": "taeuschen",
+      "meaning": "täuschen",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -6956,15 +6960,15 @@
       "semanticField": "Bewegung und Reise",
       "keyDerivatives": [
         {
-          "form": "يَسِيرُوا@",
+          "form": "يَسِيرُوا",
           "count": 7
         },
         {
-          "form": "سِيرُوا@",
+          "form": "سِيرُوا",
           "count": 5
         },
         {
-          "form": "فَسِيرُوا@",
+          "form": "فَسِيرُوا",
           "count": 2
         },
         {
@@ -6980,7 +6984,7 @@
     {
       "root": "و ز ر",
       "frequency": 27,
-      "meaning": "Last, Suende",
+      "meaning": "Last, Sünde",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -7037,18 +7041,18 @@
       "root": "ن ب ت",
       "frequency": 26,
       "meaning": "wachsen, Pflanze",
-      "semanticField": "Schoepfung und Natur",
+      "semanticField": "Schöpfung und Natur",
       "keyDerivatives": [
         {
-          "form": "فَأَن[بَتْنَا",
+          "form": "فَأَنبَتْنَا",
           "count": 4
         },
         {
-          "form": "وَأَن[بَتْنَا",
+          "form": "وَأَنبَتْنَا",
           "count": 3
         },
         {
-          "form": "تُن[بِتُ",
+          "form": "تُنبِتُ",
           "count": 2
         },
         {
@@ -7181,7 +7185,7 @@
     {
       "root": "ع ج ز",
       "frequency": 26,
-      "meaning": "unfaehig sein",
+      "meaning": "unfähig sein",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -7213,7 +7217,7 @@
       "semanticField": "Handel und Wirtschaft",
       "keyDerivatives": [
         {
-          "form": "ٱشْتَرَوُا@",
+          "form": "ٱشْتَرَوُا",
           "count": 4
         },
         {
@@ -7221,11 +7225,11 @@
           "count": 4
         },
         {
-          "form": "تَشْتَرُوا@",
+          "form": "تَشْتَرُوا",
           "count": 3
         },
         {
-          "form": "ٱشْتَرَوْا@",
+          "form": "ٱشْتَرَوْا",
           "count": 2
         },
         {
@@ -7237,7 +7241,7 @@
     {
       "root": "ح و ل",
       "frequency": 25,
-      "meaning": "veraendern, Jahr",
+      "meaning": "verändern, Jahr",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -7378,7 +7382,7 @@
       "root": "ب ط ن",
       "frequency": 25,
       "meaning": "Bauch, verborgen",
-      "semanticField": "Koerper und Gesundheit",
+      "semanticField": "Körper und Gesundheit",
       "keyDerivatives": [
         {
           "form": "بُطُونِ",
@@ -7406,7 +7410,7 @@
       "root": "ح د د",
       "frequency": 25,
       "meaning": "Grenze, Eisen, entgegentreten",
-      "semanticField": "Recht und Vertraege",
+      "semanticField": "Recht und Verträge",
       "keyDerivatives": [
         {
           "form": "حُدُودُ",
@@ -7449,7 +7453,7 @@
           "count": 1
         },
         {
-          "form": "يَبْسُطُوٕا@",
+          "form": "يَبْسُطُوٕا",
           "count": 1
         },
         {
@@ -7462,7 +7466,7 @@
       "root": "ق س ط",
       "frequency": 25,
       "meaning": "gerecht sein, Gerechtigkeit",
-      "semanticField": "Recht und Vertraege",
+      "semanticField": "Recht und Verträge",
       "keyDerivatives": [
         {
           "form": "بِٱلْقِسْطِ",
@@ -7481,7 +7485,7 @@
           "count": 2
         },
         {
-          "form": "تُقْسِطُوا@",
+          "form": "تُقْسِطُوا",
           "count": 1
         }
       ]
@@ -7573,7 +7577,7 @@
     {
       "root": "غ ض ب",
       "frequency": 24,
-      "meaning": "zuernen, Zorn",
+      "meaning": "zürnen, Zorn",
       "semanticField": "Wahrnehmung und Emotion",
       "keyDerivatives": [
         {
@@ -7602,7 +7606,7 @@
       "root": "م ر ض",
       "frequency": 24,
       "meaning": "krank sein",
-      "semanticField": "Koerper und Gesundheit",
+      "semanticField": "Körper und Gesundheit",
       "keyDerivatives": [
         {
           "form": "مَّرَضٌ",
@@ -7637,7 +7641,7 @@
           "count": 6
         },
         {
-          "form": "كَادُوا@",
+          "form": "كَادُوا",
           "count": 4
         },
         {
@@ -7714,7 +7718,7 @@
       "root": "ذ ل ل",
       "frequency": 24,
       "meaning": "niedrig sein, Erniedrigung",
-      "semanticField": "Macht und Autoritaet",
+      "semanticField": "Macht und Autorität",
       "keyDerivatives": [
         {
           "form": "ذِلَّةٌ",
@@ -7865,7 +7869,7 @@
           "count": 4
         },
         {
-          "form": "وَأُوذُوا@",
+          "form": "وَأُوذُوا",
           "count": 2
         },
         {
@@ -7893,11 +7897,11 @@
           "count": 3
         },
         {
-          "form": "وَاقِعٌ[",
+          "form": "وَاقِعٌ",
           "count": 2
         },
         {
-          "form": "فَقَعُوا@",
+          "form": "فَقَعُوا",
           "count": 2
         },
         {
@@ -7925,7 +7929,7 @@
           "count": 2
         },
         {
-          "form": "مَّشَوْا@",
+          "form": "مَّشَوْا",
           "count": 1
         },
         {
@@ -7957,7 +7961,7 @@
           "count": 2
         },
         {
-          "form": "تَلْبِسُوا@",
+          "form": "تَلْبِسُوا",
           "count": 1
         }
       ]
@@ -8053,7 +8057,7 @@
       "semanticField": "Familie und Verwandtschaft",
       "keyDerivatives": [
         {
-          "form": "تَنكِحُوا@",
+          "form": "تَنكِحُوا",
           "count": 2
         },
         {
@@ -8069,7 +8073,7 @@
           "count": 2
         },
         {
-          "form": "تُنكِحُوا@",
+          "form": "تُنكِحُوا",
           "count": 1
         }
       ]
@@ -8097,7 +8101,7 @@
           "count": 2
         },
         {
-          "form": "ٱنطَلِقُوٕا@",
+          "form": "ٱنطَلِقُوٕا",
           "count": 2
         }
       ]
@@ -8113,7 +8117,7 @@
           "count": 7
         },
         {
-          "form": "تُسْرِفُوٕا@",
+          "form": "تُسْرِفُوٕا",
           "count": 2
         },
         {
@@ -8145,7 +8149,7 @@
           "count": 6
         },
         {
-          "form": "وَزِنُوا@",
+          "form": "وَزِنُوا",
           "count": 2
         },
         {
@@ -8189,7 +8193,7 @@
     {
       "root": "خ ط ا",
       "frequency": 22,
-      "meaning": "verfehlen, Suende, Fehler",
+      "meaning": "verfehlen, Sünde, Fehler",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -8245,7 +8249,7 @@
     {
       "root": "ت م م",
       "frequency": 22,
-      "meaning": "vollenden, vervollstaendigen",
+      "meaning": "vollenden, vervollständigen",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -8265,7 +8269,7 @@
           "count": 1
         },
         {
-          "form": "أَتِمُّوا@",
+          "form": "أَتِمُّوا",
           "count": 1
         }
       ]
@@ -8274,7 +8278,7 @@
       "root": "غ و ي",
       "frequency": 22,
       "meaning": "irregehen",
-      "semanticField": "Fuehrung und Irrtum",
+      "semanticField": "Führung und Irrtum",
       "keyDerivatives": [
         {
           "form": "ٱلْغَىِّ",
@@ -8333,7 +8337,7 @@
       "semanticField": "Wahrnehmung und Emotion",
       "keyDerivatives": [
         {
-          "form": "فَرِحُوا@",
+          "form": "فَرِحُوا",
           "count": 3
         },
         {
@@ -8349,7 +8353,7 @@
           "count": 2
         },
         {
-          "form": "وَفَرِحُوا@",
+          "form": "وَفَرِحُوا",
           "count": 2
         }
       ]
@@ -8385,7 +8389,7 @@
     {
       "root": "ح ذ ر",
       "frequency": 21,
-      "meaning": "sich hueten, warnen, Vorsicht",
+      "meaning": "sich hüten, warnen, Vorsicht",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -8453,7 +8457,7 @@
           "count": 5
         },
         {
-          "form": "وَتَكْتُمُوا@",
+          "form": "وَتَكْتُمُوا",
           "count": 1
         },
         {
@@ -8473,7 +8477,7 @@
       "semanticField": "",
       "keyDerivatives": [
         {
-          "form": "هَادُوا@",
+          "form": "هَادُوا",
           "count": 9
         },
         {
@@ -8497,11 +8501,11 @@
     {
       "root": "م ن ي",
       "frequency": 21,
-      "meaning": "wuenschen, Wunsch",
+      "meaning": "wünschen, Wunsch",
       "semanticField": "",
       "keyDerivatives": [
         {
-          "form": "فَتَمَنَّوُا@",
+          "form": "فَتَمَنَّوُا",
           "count": 2
         },
         {
@@ -8729,7 +8733,7 @@
           "count": 3
         },
         {
-          "form": "فَٱنتَشِرُوا@",
+          "form": "فَٱنتَشِرُوا",
           "count": 2
         },
         {
@@ -8837,11 +8841,11 @@
       "semanticField": "Handel und Wirtschaft",
       "keyDerivatives": [
         {
-          "form": "ٱلرِّبَوٰا@",
+          "form": "ٱلرِّبَوٰا",
           "count": 5
         },
         {
-          "form": "ٱلرِّبَوٰٕا@",
+          "form": "ٱلرِّبَوٰٕا",
           "count": 2
         },
         {
@@ -8957,7 +8961,7 @@
           "count": 3
         },
         {
-          "form": "لِّيَتَفَقَّهُوا@",
+          "form": "لِّيَتَفَقَّهُوا",
           "count": 1
         },
         {
@@ -8981,7 +8985,7 @@
           "count": 5
         },
         {
-          "form": "صَنَعُوا@",
+          "form": "صَنَعُوا",
           "count": 3
         },
         {
@@ -9017,7 +9021,7 @@
           "count": 3
         },
         {
-          "form": "حِزْبٍ]",
+          "form": "حِزْبٍ",
           "count": 2
         },
         {
@@ -9049,7 +9053,7 @@
           "count": 2
         },
         {
-          "form": "وَيَلْعَبُوا@",
+          "form": "وَيَلْعَبُوا",
           "count": 2
         }
       ]
@@ -9058,7 +9062,7 @@
       "root": "ف ط ر",
       "frequency": 20,
       "meaning": "erschaffen, spalten, Urschoepfung",
-      "semanticField": "Schoepfung und Natur",
+      "semanticField": "Schöpfung und Natur",
       "keyDerivatives": [
         {
           "form": "فَاطِرِ",
@@ -9129,7 +9133,7 @@
           "count": 1
         },
         {
-          "form": "بِثَمَنٍ]",
+          "form": "بِثَمَنٍ",
           "count": 1
         },
         {
@@ -9198,7 +9202,7 @@
       "root": "ر ش د",
       "frequency": 19,
       "meaning": "rechtgeleitet sein, Besonnenheit",
-      "semanticField": "Fuehrung und Irrtum",
+      "semanticField": "Führung und Irrtum",
       "keyDerivatives": [
         {
           "form": "رَشَدًا",
@@ -9226,7 +9230,7 @@
       "root": "ص و ر",
       "frequency": 19,
       "meaning": "formen, gestalten",
-      "semanticField": "Schoepfung und Natur",
+      "semanticField": "Schöpfung und Natur",
       "keyDerivatives": [
         {
           "form": "ٱلصُّورِ",
@@ -9281,7 +9285,7 @@
     {
       "root": "س ع ر",
       "frequency": 19,
-      "meaning": "entfachen, Flamme, Hoellenfeuer",
+      "meaning": "entfachen, Flamme, Höllenfeuer",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -9394,7 +9398,7 @@
       "root": "د ب ب",
       "frequency": 18,
       "meaning": "kriechen, Lebewesen, Tier",
-      "semanticField": "Schoepfung und Natur",
+      "semanticField": "Schöpfung und Natur",
       "keyDerivatives": [
         {
           "form": "دَإبَّةٍ",
@@ -9422,7 +9426,7 @@
       "root": "ر ا س",
       "frequency": 18,
       "meaning": "Kopf, Haupt",
-      "semanticField": "Koerper und Gesundheit",
+      "semanticField": "Körper und Gesundheit",
       "keyDerivatives": [
         {
           "form": "رُءُوسِهِمْ",
@@ -9489,7 +9493,7 @@
           "count": 3
         },
         {
-          "form": "يَتَفَكَّرُوا@",
+          "form": "يَتَفَكَّرُوا",
           "count": 2
         },
         {
@@ -9497,7 +9501,7 @@
           "count": 1
         },
         {
-          "form": "تَتَفَكَّرُوا@",
+          "form": "تَتَفَكَّرُوا",
           "count": 1
         }
       ]
@@ -9525,7 +9529,7 @@
           "count": 1
         },
         {
-          "form": "فَثَبِّتُوا@",
+          "form": "فَثَبِّتُوا",
           "count": 1
         }
       ]
@@ -9561,7 +9565,7 @@
     {
       "root": "ح ص ن",
       "frequency": 18,
-      "meaning": "befestigen, schuetzen",
+      "meaning": "befestigen, schützen",
       "semanticField": "Krieg und Frieden",
       "keyDerivatives": [
         {
@@ -9597,11 +9601,11 @@
           "count": 4
         },
         {
-          "form": "ٱنفِرُوا@",
+          "form": "ٱنفِرُوا",
           "count": 3
         },
         {
-          "form": "تَنفِرُوا@",
+          "form": "تَنفِرُوا",
           "count": 2
         },
         {
@@ -9609,7 +9613,7 @@
           "count": 2
         },
         {
-          "form": "فَٱنفِرُوا@",
+          "form": "فَٱنفِرُوا",
           "count": 1
         }
       ]
@@ -9693,7 +9697,7 @@
           "count": 1
         },
         {
-          "form": "تَسَوَّرُوا@",
+          "form": "تَسَوَّرُوا",
           "count": 1
         }
       ]
@@ -9729,7 +9733,7 @@
     {
       "root": "ب و ا",
       "frequency": 17,
-      "meaning": "zurueckkehren, Aufenthaltsort",
+      "meaning": "zurückkehren, Aufenthaltsort",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -9869,7 +9873,7 @@
     {
       "root": "ص ف و",
       "frequency": 17,
-      "meaning": "rein, auserwaehlen",
+      "meaning": "rein, auserwählen",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -9901,7 +9905,7 @@
       "semanticField": "",
       "keyDerivatives": [
         {
-          "form": "فَتَرَبَّصُوا@",
+          "form": "فَتَرَبَّصُوا",
           "count": 3
         },
         {
@@ -9953,7 +9957,7 @@
     {
       "root": "ا و ب",
       "frequency": 17,
-      "meaning": "zurueckkehren, Rueckkehr",
+      "meaning": "zurückkehren, Rückkehr",
       "semanticField": "Bewegung und Reise",
       "keyDerivatives": [
         {
@@ -10057,7 +10061,7 @@
     {
       "root": "ج ه ر",
       "frequency": 16,
-      "meaning": "laut sein, oeffentlich",
+      "meaning": "laut sein, öffentlich",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -10085,7 +10089,7 @@
     {
       "root": "ع ل ن",
       "frequency": 16,
-      "meaning": "oeffentlich machen, verkuenden",
+      "meaning": "öffentlich machen, verkünden",
       "semanticField": "Sprache und Kommunikation",
       "keyDerivatives": [
         {
@@ -10430,18 +10434,18 @@
       "root": "ص م م",
       "frequency": 15,
       "meaning": "taub, fest",
-      "semanticField": "Koerper und Gesundheit",
+      "semanticField": "Körper und Gesundheit",
       "keyDerivatives": [
         {
           "form": "ٱلصُّمَّ",
           "count": 4
         },
         {
-          "form": "صُمٌّ[",
+          "form": "صُمٌّ",
           "count": 2
         },
         {
-          "form": "وَصَمُّوا@",
+          "form": "وَصَمُّوا",
           "count": 2
         },
         {
@@ -10513,7 +10517,7 @@
     {
       "root": "ك ف ف",
       "frequency": 15,
-      "meaning": "zurueckhalten, Hand, insgesamt",
+      "meaning": "zurückhalten, Hand, insgesamt",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -10525,7 +10529,7 @@
           "count": 2
         },
         {
-          "form": "كُفُّوٕا@",
+          "form": "كُفُّوٕا",
           "count": 1
         },
         {
@@ -10533,7 +10537,7 @@
           "count": 1
         },
         {
-          "form": "وَيَكُفُّوٕا@",
+          "form": "وَيَكُفُّوٕا",
           "count": 1
         }
       ]
@@ -10557,7 +10561,7 @@
           "count": 1
         },
         {
-          "form": "ٱرْكَبُوا@",
+          "form": "ٱرْكَبُوا",
           "count": 1
         },
         {
@@ -10665,7 +10669,7 @@
       "semanticField": "",
       "keyDerivatives": [
         {
-          "form": "يَبْدَؤُا@",
+          "form": "يَبْدَؤُا",
           "count": 6
         },
         {
@@ -10689,8 +10693,8 @@
     {
       "root": "ح ر ث",
       "frequency": 14,
-      "meaning": "pfluegen, Feld",
-      "semanticField": "Schoepfung und Natur",
+      "meaning": "pflügen, Feld",
+      "semanticField": "Schöpfung und Natur",
       "keyDerivatives": [
         {
           "form": "حَرْثَ",
@@ -10729,7 +10733,7 @@
           "count": 1
         },
         {
-          "form": "تَصُومُوا@",
+          "form": "تَصُومُوا",
           "count": 1
         },
         {
@@ -10942,7 +10946,7 @@
       "root": "ز ر ع",
       "frequency": 14,
       "meaning": "saeen",
-      "semanticField": "Schoepfung und Natur",
+      "semanticField": "Schöpfung und Natur",
       "keyDerivatives": [
         {
           "form": "زَرْعًا",
@@ -11009,15 +11013,15 @@
           "count": 2
         },
         {
-          "form": "يُعْطُوا@",
+          "form": "يُعْطُوا",
           "count": 1
         },
         {
-          "form": "أُعْطُوا@",
+          "form": "أُعْطُوا",
           "count": 1
         },
         {
-          "form": "يُعْطَوْا@",
+          "form": "يُعْطَوْا",
           "count": 1
         }
       ]
@@ -11093,11 +11097,11 @@
           "count": 2
         },
         {
-          "form": "ٱرْكَعُوا@",
+          "form": "ٱرْكَعُوا",
           "count": 2
         },
         {
-          "form": "وَٱرْكَعُوا@",
+          "form": "وَٱرْكَعُوا",
           "count": 1
         },
         {
@@ -11117,7 +11121,7 @@
           "count": 2
         },
         {
-          "form": "لَٱفْتَدَوْا@",
+          "form": "لَٱفْتَدَوْا",
           "count": 2
         },
         {
@@ -11177,7 +11181,7 @@
           "count": 4
         },
         {
-          "form": "رَءُوفٌ[",
+          "form": "رَءُوفٌ",
           "count": 2
         },
         {
@@ -11241,7 +11245,7 @@
           "count": 1
         },
         {
-          "form": "وَأَقْرَضُوا@",
+          "form": "وَأَقْرَضُوا",
           "count": 1
         }
       ]
@@ -11297,7 +11301,7 @@
           "count": 1
         },
         {
-          "form": "وَٱطْمَأَنُّوا@",
+          "form": "وَٱطْمَأَنُّوا",
           "count": 1
         }
       ]
@@ -11389,7 +11393,7 @@
     {
       "root": "ح و ر",
       "frequency": 13,
-      "meaning": "zurueckkehren, weiss",
+      "meaning": "zurückkehren, weiss",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -11417,15 +11421,15 @@
     {
       "root": "ع ص م",
       "frequency": 13,
-      "meaning": "festhalten, schuetzen, Schutz",
+      "meaning": "festhalten, schützen, Schutz",
       "semanticField": "",
       "keyDerivatives": [
         {
-          "form": "وَٱعْتَصِمُوا@",
+          "form": "وَٱعْتَصِمُوا",
           "count": 2
         },
         {
-          "form": "وَٱعْتَصَمُوا@",
+          "form": "وَٱعْتَصَمُوا",
           "count": 2
         },
         {
@@ -11445,7 +11449,7 @@
     {
       "root": "ف و ه",
       "frequency": 13,
-      "meaning": "Mund, Muender",
+      "meaning": "Mund, Münder",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -11501,7 +11505,7 @@
     {
       "root": "ج و ر",
       "frequency": 13,
-      "meaning": "Nachbar, schuetzen, Schutz gewaehren",
+      "meaning": "Nachbar, schützen, Schutz gewähren",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -11530,7 +11534,7 @@
       "root": "ج ل د",
       "frequency": 13,
       "meaning": "Haut, geisseln",
-      "semanticField": "Koerper und Gesundheit",
+      "semanticField": "Körper und Gesundheit",
       "keyDerivatives": [
         {
           "form": "جُلُودُهُم",
@@ -11549,7 +11553,7 @@
           "count": 1
         },
         {
-          "form": "فَٱجْلِدُوا@",
+          "form": "فَٱجْلِدُوا",
           "count": 1
         }
       ]
@@ -11557,8 +11561,8 @@
     {
       "root": "ح ل ف",
       "frequency": 13,
-      "meaning": "schwoeren",
-      "semanticField": "Recht und Vertraege",
+      "meaning": "schwören",
+      "semanticField": "Recht und Verträge",
       "keyDerivatives": [
         {
           "form": "يَحْلِفُونَ",
@@ -11593,7 +11597,7 @@
           "count": 2
         },
         {
-          "form": "يَئِسُوا@",
+          "form": "يَئِسُوا",
           "count": 2
         },
         {
@@ -11601,11 +11605,11 @@
           "count": 1
         },
         {
-          "form": "ٱسْتَيْـَِسُوا@",
+          "form": "ٱسْتَيْـَِسُوا",
           "count": 1
         },
         {
-          "form": "تَا@يْـَِسُوا@",
+          "form": "تَايْـَِسُوا",
           "count": 1
         }
       ]
@@ -11613,7 +11617,7 @@
     {
       "root": "ب غ ت",
       "frequency": 13,
-      "meaning": "ueberraschen, ploetzlich",
+      "meaning": "ueberraschen, plötzlich",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -11729,7 +11733,7 @@
           "count": 1
         },
         {
-          "form": "نَصَحُوا@",
+          "form": "نَصَحُوا",
           "count": 1
         }
       ]
@@ -11761,7 +11765,7 @@
     {
       "root": "ش ب ه",
       "frequency": 12,
-      "meaning": "aehneln",
+      "meaning": "ähneln",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -11817,7 +11821,7 @@
     {
       "root": "ر ه ب",
       "frequency": 12,
-      "meaning": "fuerchten, Ehrfurcht",
+      "meaning": "fürchten, Ehrfurcht",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -11949,7 +11953,7 @@
           "count": 1
         },
         {
-          "form": "فَٱن[بِذْ",
+          "form": "فَٱنبِذْ",
           "count": 1
         }
       ]
@@ -11961,7 +11965,7 @@
       "semanticField": "",
       "keyDerivatives": [
         {
-          "form": "يَنَالُوا@",
+          "form": "يَنَالُوا",
           "count": 2
         },
         {
@@ -11969,7 +11973,7 @@
           "count": 1
         },
         {
-          "form": "تَنَالُوا@",
+          "form": "تَنَالُوا",
           "count": 1
         },
         {
@@ -11985,7 +11989,7 @@
     {
       "root": "ح ن ف",
       "frequency": 12,
-      "meaning": "Monotheist, sich neigen",
+      "meaning": "sich neigen, abweichen",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -12077,7 +12081,7 @@
           "count": 1
         },
         {
-          "form": "أَسْفَارً[ا",
+          "form": "أَسْفَارًا",
           "count": 1
         }
       ]
@@ -12169,7 +12173,7 @@
     {
       "root": "ك ن ن",
       "frequency": 12,
-      "meaning": "verbergen, schuetzen",
+      "meaning": "verbergen, schützen",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -12253,7 +12257,7 @@
           "count": 3
         },
         {
-          "form": "بَخِلُوا@",
+          "form": "بَخِلُوا",
           "count": 2
         },
         {
@@ -12265,7 +12269,7 @@
           "count": 2
         },
         {
-          "form": "تَبْخَلُوا@",
+          "form": "تَبْخَلُوا",
           "count": 1
         }
       ]
@@ -12321,7 +12325,7 @@
           "count": 1
         },
         {
-          "form": "أَوْدِيَةٌ[",
+          "form": "أَوْدِيَةٌ",
           "count": 1
         }
       ]
@@ -12333,7 +12337,7 @@
       "semanticField": "",
       "keyDerivatives": [
         {
-          "form": "يَخُوضُوا@",
+          "form": "يَخُوضُوا",
           "count": 4
         },
         {
@@ -12369,11 +12373,11 @@
           "count": 3
         },
         {
-          "form": "جَحَدُوا@",
+          "form": "جَحَدُوا",
           "count": 1
         },
         {
-          "form": "وَجَحَدُوا@",
+          "form": "وَجَحَدُوا",
           "count": 1
         }
       ]
@@ -12445,7 +12449,7 @@
           "count": 2
         },
         {
-          "form": "خَرُّوا@",
+          "form": "خَرُّوا",
           "count": 2
         },
         {
@@ -12453,7 +12457,7 @@
           "count": 2
         },
         {
-          "form": "وَخَرُّوا@",
+          "form": "وَخَرُّوا",
           "count": 1
         },
         {
@@ -12469,7 +12473,7 @@
       "semanticField": "",
       "keyDerivatives": [
         {
-          "form": "تَعْتَذِرُوا@",
+          "form": "تَعْتَذِرُوا",
           "count": 3
         },
         {
@@ -12493,7 +12497,7 @@
     {
       "root": "ش ق و",
       "frequency": 12,
-      "meaning": "elend, ungluecklich",
+      "meaning": "elend, unglücklich",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -12509,7 +12513,7 @@
           "count": 1
         },
         {
-          "form": "شَقُوا@",
+          "form": "شَقُوا",
           "count": 1
         },
         {
@@ -12629,7 +12633,7 @@
       "semanticField": "",
       "keyDerivatives": [
         {
-          "form": "ٱسْتَعِينُوا@",
+          "form": "ٱسْتَعِينُوا",
           "count": 2
         },
         {
@@ -12641,11 +12645,11 @@
           "count": 1
         },
         {
-          "form": "وَٱسْتَعِينُوا@",
+          "form": "وَٱسْتَعِينُوا",
           "count": 1
         },
         {
-          "form": "عَوَانٌ[",
+          "form": "عَوَانٌ",
           "count": 1
         }
       ]
@@ -12673,7 +12677,7 @@
           "count": 1
         },
         {
-          "form": "سَفَهً[ا",
+          "form": "سَفَهًا",
           "count": 1
         }
       ]
@@ -12697,7 +12701,7 @@
           "count": 1
         },
         {
-          "form": "أَوْقَدُوا@",
+          "form": "أَوْقَدُوا",
           "count": 1
         },
         {
@@ -12753,7 +12757,7 @@
           "count": 1
         },
         {
-          "form": "غَمًّ[ا",
+          "form": "غَمًّا",
           "count": 1
         },
         {
@@ -12793,7 +12797,7 @@
     {
       "root": "ا ي د",
       "frequency": 11,
-      "meaning": "stuetzen, staerken",
+      "meaning": "stützen, stärken",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -12861,11 +12865,11 @@
           "count": 1
         },
         {
-          "form": "تَسُبُّوا@",
+          "form": "تَسُبُّوا",
           "count": 1
         },
         {
-          "form": "فَيَسُبُّوا@",
+          "form": "فَيَسُبُّوا",
           "count": 1
         },
         {
@@ -12897,7 +12901,7 @@
           "count": 1
         },
         {
-          "form": "وَٱلْغَوْا@",
+          "form": "وَٱلْغَوْا",
           "count": 1
         }
       ]
@@ -12917,7 +12921,7 @@
           "count": 1
         },
         {
-          "form": "تَسْتَرْضِعُوٕا@",
+          "form": "تَسْتَرْضِعُوٕا",
           "count": 1
         },
         {
@@ -12997,11 +13001,11 @@
           "count": 7
         },
         {
-          "form": "فَتَيَمَّمُوا@",
+          "form": "فَتَيَمَّمُوا",
           "count": 2
         },
         {
-          "form": "تَيَمَّمُوا@",
+          "form": "تَيَمَّمُوا",
           "count": 1
         },
         {
@@ -13097,7 +13101,7 @@
     {
       "root": "ز ب ر",
       "frequency": 11,
-      "meaning": "Stueck, Schrift",
+      "meaning": "Stück, Schrift",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -13133,7 +13137,7 @@
           "count": 3
         },
         {
-          "form": "تَقْصُرُوا@",
+          "form": "تَقْصُرُوا",
           "count": 1
         },
         {
@@ -13182,7 +13186,7 @@
       "root": "ط ر ق",
       "frequency": 11,
       "meaning": "Weg, klopfen, naechtlich",
-      "semanticField": "Fuehrung und Irrtum",
+      "semanticField": "Führung und Irrtum",
       "keyDerivatives": [
         {
           "form": "طَرِيقًا",
@@ -13209,7 +13213,7 @@
     {
       "root": "ج م ل",
       "frequency": 11,
-      "meaning": "schoen, Kamel",
+      "meaning": "schön, Kamel",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -13265,7 +13269,7 @@
     {
       "root": "و ك ا",
       "frequency": 11,
-      "meaning": "sich stuetzen, lehnen",
+      "meaning": "sich stützen, lehnen",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -13281,7 +13285,7 @@
           "count": 1
         },
         {
-          "form": "أَتَوَكَّؤُا@",
+          "form": "أَتَوَكَّؤُا",
           "count": 1
         },
         {
@@ -13293,7 +13297,7 @@
     {
       "root": "ح ص ي",
       "frequency": 11,
-      "meaning": "zaehlen, erfassen",
+      "meaning": "zählen, erfassen",
       "semanticField": "Zahlen und Mengen",
       "keyDerivatives": [
         {
@@ -13341,7 +13345,7 @@
           "count": 1
         },
         {
-          "form": "فَفِرُّوٕا@",
+          "form": "فَفِرُّوٕا",
           "count": 1
         }
       ]
@@ -13378,7 +13382,7 @@
       "root": "د م و",
       "frequency": 10,
       "meaning": "Blut",
-      "semanticField": "Koerper und Gesundheit",
+      "semanticField": "Körper und Gesundheit",
       "keyDerivatives": [
         {
           "form": "وَٱلدَّمَ",
@@ -13461,7 +13465,7 @@
     {
       "root": "ر ع ي",
       "frequency": 10,
-      "meaning": "hueten, weiden",
+      "meaning": "hüten, weiden",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -13477,7 +13481,7 @@
           "count": 1
         },
         {
-          "form": "وَٱرْعَوْا@",
+          "form": "وَٱرْعَوْا",
           "count": 1
         },
         {
@@ -13509,7 +13513,7 @@
           "count": 1
         },
         {
-          "form": "أَضَاعُوا@",
+          "form": "أَضَاعُوا",
           "count": 1
         }
       ]
@@ -13533,7 +13537,7 @@
           "count": 1
         },
         {
-          "form": "تَنقُصُوا@",
+          "form": "تَنقُصُوا",
           "count": 1
         },
         {
@@ -13573,7 +13577,7 @@
     {
       "root": "ز ي ل",
       "frequency": 10,
-      "meaning": "aufhoeren, trennen",
+      "meaning": "aufhören, trennen",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -13601,11 +13605,11 @@
     {
       "root": "ع ز ل",
       "frequency": 10,
-      "meaning": "sich zurueckziehen, absondern",
+      "meaning": "sich zurückziehen, absondern",
       "semanticField": "",
       "keyDerivatives": [
         {
-          "form": "فَٱعْتَزِلُوا@",
+          "form": "فَٱعْتَزِلُوا",
           "count": 1
         },
         {
@@ -13629,7 +13633,7 @@
     {
       "root": "د ف ع",
       "frequency": 10,
-      "meaning": "abstossen, zurueckweisen",
+      "meaning": "abstossen, zurückweisen",
       "semanticField": "Krieg und Frieden",
       "keyDerivatives": [
         {
@@ -13641,11 +13645,11 @@
           "count": 2
         },
         {
-          "form": "ٱدْفَعُوا@",
+          "form": "ٱدْفَعُوا",
           "count": 1
         },
         {
-          "form": "فَٱدْفَعُوٕا@",
+          "form": "فَٱدْفَعُوٕا",
           "count": 1
         },
         {
@@ -13661,23 +13665,23 @@
       "semanticField": "",
       "keyDerivatives": [
         {
-          "form": "مِا@ئَةَ",
+          "form": "مِائَةَ",
           "count": 3
         },
         {
-          "form": "مِا@ئَتَيْنِ",
+          "form": "مِائَتَيْنِ",
           "count": 2
         },
         {
-          "form": "مِّا@ئَةٌ",
+          "form": "مِّائَةٌ",
           "count": 2
         },
         {
-          "form": "مِّا@ئَةُ",
+          "form": "مِّائَةُ",
           "count": 1
         },
         {
-          "form": "مِا@ئَةٍ",
+          "form": "مِائَةٍ",
           "count": 1
         }
       ]
@@ -13713,7 +13717,7 @@
     {
       "root": "م ل و",
       "frequency": 10,
-      "meaning": "Frist gewaehren, lang",
+      "meaning": "Frist gewähren, lang",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -13797,8 +13801,8 @@
     {
       "root": "ج ب ر",
       "frequency": 10,
-      "meaning": "zwingen, maechtig",
-      "semanticField": "Macht und Autoritaet",
+      "meaning": "zwingen, mächtig",
+      "semanticField": "Macht und Autorität",
       "keyDerivatives": [
         {
           "form": "جَبَّارٍ",
@@ -13870,7 +13874,7 @@
       "root": "ق ه ر",
       "frequency": 10,
       "meaning": "bezwingen",
-      "semanticField": "Macht und Autoritaet",
+      "semanticField": "Macht und Autorität",
       "keyDerivatives": [
         {
           "form": "ٱلْقَهَّارُ",
@@ -13905,11 +13909,11 @@
           "count": 2
         },
         {
-          "form": "وَعَتَوْا@",
+          "form": "وَعَتَوْا",
           "count": 1
         },
         {
-          "form": "عَتَوْا@",
+          "form": "عَتَوْا",
           "count": 1
         },
         {
@@ -14017,7 +14021,7 @@
           "count": 3
         },
         {
-          "form": "فَلْيَضْحَكُوا@",
+          "form": "فَلْيَضْحَكُوا",
           "count": 1
         },
         {
@@ -14093,7 +14097,7 @@
     {
       "root": "ج د د",
       "frequency": 10,
-      "meaning": "(Quranische Formen: جَدِيدٍ, جَدِيدًا, جَدِيدٍ], جُدَدٌ[, جَدُّ)",
+      "meaning": "(Quranische Formen: جَدِيدٍ, جَدِيدًا, جَدِيدٍ, جُدَدٌ, جَدُّ)",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -14105,11 +14109,11 @@
           "count": 2
         },
         {
-          "form": "جَدِيدٍ]",
+          "form": "جَدِيدٍ",
           "count": 1
         },
         {
-          "form": "جُدَدٌ[",
+          "form": "جُدَدٌ",
           "count": 1
         },
         {
@@ -14161,7 +14165,7 @@
           "count": 2
         },
         {
-          "form": "تَنقُضُوا@",
+          "form": "تَنقُضُوا",
           "count": 1
         },
         {
@@ -14177,7 +14181,7 @@
     {
       "root": "ذ ب ح",
       "frequency": 9,
-      "meaning": "(Quranische Formen: يُذَبِّحُونَ, تَذْبَحُوا@, فَذَبَحُوهَا, ذُبِحَ, وَيُذَبِّحُونَ)",
+      "meaning": "(Quranische Formen: يُذَبِّحُونَ, تَذْبَحُوا, فَذَبَحُوهَا, ذُبِحَ, وَيُذَبِّحُونَ)",
       "semanticField": "Essen und Trinken",
       "keyDerivatives": [
         {
@@ -14185,7 +14189,7 @@
           "count": 1
         },
         {
-          "form": "تَذْبَحُوا@",
+          "form": "تَذْبَحُوا",
           "count": 1
         },
         {
@@ -14234,7 +14238,7 @@
       "root": "ب ق ر",
       "frequency": 9,
       "meaning": "(Quranische Formen: بَقَرَةٌ, ٱلْبَقَرِ, بَقَرَٰتٍ, بَقَرَةً, ٱلْبَقَرَ)",
-      "semanticField": "Schoepfung und Natur",
+      "semanticField": "Schöpfung und Natur",
       "keyDerivatives": [
         {
           "form": "بَقَرَةٌ",
@@ -14289,7 +14293,7 @@
     {
       "root": "ع ك ف",
       "frequency": 9,
-      "meaning": "sich zurueckziehen, widmen",
+      "meaning": "sich zurückziehen, widmen",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -14337,7 +14341,7 @@
           "count": 1
         },
         {
-          "form": "مُّن[بَثًّا",
+          "form": "مُّنبَثًّا",
           "count": 1
         }
       ]
@@ -14349,7 +14353,7 @@
       "semanticField": "",
       "keyDerivatives": [
         {
-          "form": "أَفِيضُوا@",
+          "form": "أَفِيضُوا",
           "count": 2
         },
         {
@@ -14373,7 +14377,7 @@
     {
       "root": "ع ز م",
       "frequency": 9,
-      "meaning": "(Quranische Formen: عَزْمِ, عَزَمُوا@, تَعْزِمُوا@, عَزَمْتَ, عَزْمًا)",
+      "meaning": "(Quranische Formen: عَزْمِ, عَزَمُوا, تَعْزِمُوا, عَزَمْتَ, عَزْمًا)",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -14381,11 +14385,11 @@
           "count": 3
         },
         {
-          "form": "عَزَمُوا@",
+          "form": "عَزَمُوا",
           "count": 1
         },
         {
-          "form": "تَعْزِمُوا@",
+          "form": "تَعْزِمُوا",
           "count": 1
         },
         {
@@ -14433,11 +14437,11 @@
       "semanticField": "",
       "keyDerivatives": [
         {
-          "form": "بَرَزُوا@",
+          "form": "بَرَزُوا",
           "count": 2
         },
         {
-          "form": "وَبَرَزُوا@",
+          "form": "وَبَرَزُوا",
           "count": 2
         },
         {
@@ -14538,7 +14542,7 @@
       "root": "ز ي غ",
       "frequency": 9,
       "meaning": "(Quranische Formen: زَيْغٌ, تُزِغْ, يَزِيغُ, زَاغَتِ, يَزِغْ)",
-      "semanticField": "Fuehrung und Irrtum",
+      "semanticField": "Führung und Irrtum",
       "keyDerivatives": [
         {
           "form": "زَيْغٌ",
@@ -14585,7 +14589,7 @@
           "count": 1
         },
         {
-          "form": "فَٱعْتَبِرُوا@",
+          "form": "فَٱعْتَبِرُوا",
           "count": 1
         }
       ]
@@ -14593,7 +14597,7 @@
     {
       "root": "ف ض ض",
       "frequency": 9,
-      "meaning": "sich aufloesen, Silber",
+      "meaning": "sich auflösen, Silber",
       "semanticField": "Kleidung und Schmuck",
       "keyDerivatives": [
         {
@@ -14605,7 +14609,7 @@
           "count": 1
         },
         {
-          "form": "لَٱنفَضُّوا@",
+          "form": "لَٱنفَضُّوا",
           "count": 1
         },
         {
@@ -14613,7 +14617,7 @@
           "count": 1
         },
         {
-          "form": "ٱنفَضُّوٕا@",
+          "form": "ٱنفَضُّوٕا",
           "count": 1
         }
       ]
@@ -14649,7 +14653,7 @@
     {
       "root": "د و م",
       "frequency": 9,
-      "meaning": "(Quranische Formen: دُمْتُ, دَامَتِ, دُمْتَ, دَامُوا@, دُمْتُمْ)",
+      "meaning": "(Quranische Formen: دُمْتُ, دَامَتِ, دُمْتَ, دَامُوا, دُمْتُمْ)",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -14665,7 +14669,7 @@
           "count": 1
         },
         {
-          "form": "دَامُوا@",
+          "form": "دَامُوا",
           "count": 1
         },
         {
@@ -14705,7 +14709,7 @@
       "semanticField": "",
       "keyDerivatives": [
         {
-          "form": "وَهَمُّوا@",
+          "form": "وَهَمُّوا",
           "count": 2
         },
         {
@@ -14733,11 +14737,11 @@
       "semanticField": "",
       "keyDerivatives": [
         {
-          "form": "تَهِنُوا@",
+          "form": "تَهِنُوا",
           "count": 3
         },
         {
-          "form": "وَهَنُوا@",
+          "form": "وَهَنُوا",
           "count": 1
         },
         {
@@ -14926,7 +14930,7 @@
       "root": "ع ن ق",
       "frequency": 9,
       "meaning": "Hals",
-      "semanticField": "Koerper und Gesundheit",
+      "semanticField": "Körper und Gesundheit",
       "keyDerivatives": [
         {
           "form": "أَعْنَٰقِهِمْ",
@@ -15153,7 +15157,7 @@
       "semanticField": "",
       "keyDerivatives": [
         {
-          "form": "ٱهْبِطُوا@",
+          "form": "ٱهْبِطُوا",
           "count": 4
         },
         {
@@ -15177,11 +15181,11 @@
     {
       "root": "ص ف ح",
       "frequency": 8,
-      "meaning": "(Quranische Formen: وَٱصْفَحُوا@, وَٱصْفَحْ, فَٱصْفَحِ, ٱلصَّفْحَ, وَلْيَصْفَحُوٕا@)",
+      "meaning": "(Quranische Formen: وَٱصْفَحُوا, وَٱصْفَحْ, فَٱصْفَحِ, ٱلصَّفْحَ, وَلْيَصْفَحُوٕا)",
       "semanticField": "",
       "keyDerivatives": [
         {
-          "form": "وَٱصْفَحُوا@",
+          "form": "وَٱصْفَحُوا",
           "count": 1
         },
         {
@@ -15197,7 +15201,7 @@
           "count": 1
         },
         {
-          "form": "وَلْيَصْفَحُوٕا@",
+          "form": "وَلْيَصْفَحُوٕا",
           "count": 1
         }
       ]
@@ -15229,7 +15233,7 @@
     {
       "root": "ر غ ب",
       "frequency": 8,
-      "meaning": "wuenschen",
+      "meaning": "wünschen",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -15245,7 +15249,7 @@
           "count": 1
         },
         {
-          "form": "يَرْغَبُوا@",
+          "form": "يَرْغَبُوا",
           "count": 1
         },
         {
@@ -15369,7 +15373,7 @@
           "count": 1
         },
         {
-          "form": "فَعَقَرُوا@",
+          "form": "فَعَقَرُوا",
           "count": 1
         },
         {
@@ -15453,7 +15457,7 @@
           "count": 1
         },
         {
-          "form": "يُصَلَّبُوٕا@",
+          "form": "يُصَلَّبُوٕا",
           "count": 1
         },
         {
@@ -15493,7 +15497,7 @@
     {
       "root": "ض ر ع",
       "frequency": 8,
-      "meaning": "(Quranische Formen: تَضَرُّعًا, يَتَضَرَّعُونَ, تَضَرَّعُوا@, يَضَّرَّعُونَ, ضَرِيعٍ)",
+      "meaning": "(Quranische Formen: تَضَرُّعًا, يَتَضَرَّعُونَ, تَضَرَّعُوا, يَضَّرَّعُونَ, ضَرِيعٍ)",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -15505,7 +15509,7 @@
           "count": 2
         },
         {
-          "form": "تَضَرَّعُوا@",
+          "form": "تَضَرَّعُوا",
           "count": 1
         },
         {
@@ -15521,7 +15525,7 @@
     {
       "root": "س ق ط",
       "frequency": 8,
-      "meaning": "(Quranische Formen: تَسْقُطُ, سُقِطَ, سَقَطُوا@, تُسْقِطَ, تُسَٰقِطْ)",
+      "meaning": "(Quranische Formen: تَسْقُطُ, سُقِطَ, سَقَطُوا, تُسْقِطَ, تُسَٰقِطْ)",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -15533,7 +15537,7 @@
           "count": 1
         },
         {
-          "form": "سَقَطُوا@",
+          "form": "سَقَطُوا",
           "count": 1
         },
         {
@@ -15597,7 +15601,7 @@
           "count": 1
         },
         {
-          "form": "لَطِيفٌ[",
+          "form": "لَطِيفٌ",
           "count": 1
         }
       ]
@@ -15801,7 +15805,7 @@
     {
       "root": "ت ر ف",
       "frequency": 8,
-      "meaning": "(Quranische Formen: مُتْرَفُوهَإ, أُتْرِفُوا@, مُتْرَفِيهَا, أُتْرِفْتُمْ, وَأَتْرَفْنَٰهُمْ)",
+      "meaning": "(Quranische Formen: مُتْرَفُوهَإ, أُتْرِفُوا, مُتْرَفِيهَا, أُتْرِفْتُمْ, وَأَتْرَفْنَٰهُمْ)",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -15809,7 +15813,7 @@
           "count": 2
         },
         {
-          "form": "أُتْرِفُوا@",
+          "form": "أُتْرِفُوا",
           "count": 1
         },
         {
@@ -16009,7 +16013,7 @@
     {
       "root": "ف ي ا",
       "frequency": 7,
-      "meaning": "Schatten, zurueckkehren",
+      "meaning": "Schatten, zurückkehren",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -16021,7 +16025,7 @@
           "count": 1
         },
         {
-          "form": "يَتَفَيَّؤُا@",
+          "form": "يَتَفَيَّؤُا",
           "count": 1
         },
         {
@@ -16065,7 +16069,7 @@
     {
       "root": "س ر ح",
       "frequency": 7,
-      "meaning": "(Quranische Formen: سَرَاحًا, تَسْرِيحٌ[, سَرِّحُوهُنَّ, تَسْرَحُونَ, وَأُسَرِّحْكُنَّ)",
+      "meaning": "(Quranische Formen: سَرَاحًا, تَسْرِيحٌ, سَرِّحُوهُنَّ, تَسْرَحُونَ, وَأُسَرِّحْكُنَّ)",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -16073,7 +16077,7 @@
           "count": 2
         },
         {
-          "form": "تَسْرِيحٌ[",
+          "form": "تَسْرِيحٌ",
           "count": 1
         },
         {
@@ -16094,7 +16098,7 @@
       "root": "ع ق د",
       "frequency": 7,
       "meaning": "binden, Vertrag",
-      "semanticField": "Recht und Vertraege",
+      "semanticField": "Recht und Verträge",
       "keyDerivatives": [
         {
           "form": "عُقْدَةَ",
@@ -16121,7 +16125,7 @@
     {
       "root": "ن ص ف",
       "frequency": 7,
-      "meaning": "Haelfte",
+      "meaning": "Hälfte",
       "semanticField": "Zahlen und Mengen",
       "keyDerivatives": [
         {
@@ -16149,7 +16153,7 @@
     {
       "root": "غ ر ف",
       "frequency": 7,
-      "meaning": "(Quranische Formen: غُرَفٌ, ٱغْتَرَفَ, غُرْفَةً[, ٱلْغُرْفَةَ, غُرَفًا)",
+      "meaning": "(Quranische Formen: غُرَفٌ, ٱغْتَرَفَ, غُرْفَةً, ٱلْغُرْفَةَ, غُرَفًا)",
       "semanticField": "Bauen und Wohnen",
       "keyDerivatives": [
         {
@@ -16161,7 +16165,7 @@
           "count": 1
         },
         {
-          "form": "غُرْفَةً[",
+          "form": "غُرْفَةً",
           "count": 1
         },
         {
@@ -16177,11 +16181,11 @@
     {
       "root": "ب خ س",
       "frequency": 7,
-      "meaning": "(Quranische Formen: تَبْخَسُوا@, يَبْخَسْ, يُبْخَسُونَ, بَخْسٍ, بَخْسًا)",
+      "meaning": "(Quranische Formen: تَبْخَسُوا, يَبْخَسْ, يُبْخَسُونَ, بَخْسٍ, بَخْسًا)",
       "semanticField": "",
       "keyDerivatives": [
         {
-          "form": "تَبْخَسُوا@",
+          "form": "تَبْخَسُوا",
           "count": 3
         },
         {
@@ -16281,7 +16285,7 @@
     {
       "root": "ب ر ج",
       "frequency": 7,
-      "meaning": "(Quranische Formen: بُرُوجًا, بُرُوجٍ, مُتَبَرِّجَٰتٍ], تَبَرَّجْنَ, تَبَرُّجَ)",
+      "meaning": "(Quranische Formen: بُرُوجًا, بُرُوجٍ, مُتَبَرِّجَٰتٍ, تَبَرَّجْنَ, تَبَرُّجَ)",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -16293,7 +16297,7 @@
           "count": 1
         },
         {
-          "form": "مُتَبَرِّجَٰتٍ]",
+          "form": "مُتَبَرِّجَٰتٍ",
           "count": 1
         },
         {
@@ -16333,7 +16337,7 @@
     {
       "root": "ع ل ق",
       "frequency": 7,
-      "meaning": "haengen, Blutegel",
+      "meaning": "hängen, Blutegel",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -16361,7 +16365,7 @@
     {
       "root": "ا س و",
       "frequency": 7,
-      "meaning": "(Quranische Formen: أُسْوَةٌ, تَأْسَ, ءَاسَىٰ, تَأْسَوْا@)",
+      "meaning": "(Quranische Formen: أُسْوَةٌ, تَأْسَ, ءَاسَىٰ, تَأْسَوْا)",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -16377,7 +16381,7 @@
           "count": 1
         },
         {
-          "form": "تَأْسَوْا@",
+          "form": "تَأْسَوْا",
           "count": 1
         }
       ]
@@ -16489,7 +16493,7 @@
     {
       "root": "ن ك ث",
       "frequency": 7,
-      "meaning": "(Quranische Formen: يَنكُثُونَ, نَّكَثُوٕا@, أَنكَٰثًا, نَّكَثَ, يَنكُثُ)",
+      "meaning": "(Quranische Formen: يَنكُثُونَ, نَّكَثُوٕا, أَنكَٰثًا, نَّكَثَ, يَنكُثُ)",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -16497,7 +16501,7 @@
           "count": 2
         },
         {
-          "form": "نَّكَثُوٕا@",
+          "form": "نَّكَثُوٕا",
           "count": 2
         },
         {
@@ -16546,14 +16550,14 @@
       "root": "ب ك ي",
       "frequency": 7,
       "meaning": "weinen",
-      "semanticField": "Koerper und Gesundheit",
+      "semanticField": "Körper und Gesundheit",
       "keyDerivatives": [
         {
           "form": "يَبْكُونَ",
           "count": 2
         },
         {
-          "form": "وَلْيَبْكُوا@",
+          "form": "وَلْيَبْكُوا",
           "count": 1
         },
         {
@@ -16629,7 +16633,7 @@
     {
       "root": "ب ض ع",
       "frequency": 7,
-      "meaning": "einige, Stueck",
+      "meaning": "einige, Stück",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -16685,11 +16689,11 @@
     {
       "root": "م ك ث",
       "frequency": 7,
-      "meaning": "(Quranische Formen: ٱمْكُثُوٕا@, فَيَمْكُثُ, مُكْثٍ, مَّٰكِثِينَ, فَمَكَثَ)",
+      "meaning": "(Quranische Formen: ٱمْكُثُوٕا, فَيَمْكُثُ, مُكْثٍ, مَّٰكِثِينَ, فَمَكَثَ)",
       "semanticField": "",
       "keyDerivatives": [
         {
-          "form": "ٱمْكُثُوٕا@",
+          "form": "ٱمْكُثُوٕا",
           "count": 2
         },
         {
@@ -16770,7 +16774,7 @@
       "root": "ب ك م",
       "frequency": 6,
       "meaning": "stumm",
-      "semanticField": "Koerper und Gesundheit",
+      "semanticField": "Körper und Gesundheit",
       "keyDerivatives": [
         {
           "form": "بُكْمٌ",
@@ -16825,7 +16829,7 @@
     {
       "root": "ف ر ش",
       "frequency": 6,
-      "meaning": "(Quranische Formen: فِرَٰشًا, وَفَرْشًا, فَرَشْنَٰهَا, فُرُشٍ], وَفُرُشٍ)",
+      "meaning": "(Quranische Formen: فِرَٰشًا, وَفَرْشًا, فَرَشْنَٰهَا, فُرُشٍ, وَفُرُشٍ)",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -16841,7 +16845,7 @@
           "count": 1
         },
         {
-          "form": "فُرُشٍ]",
+          "form": "فُرُشٍ",
           "count": 1
         },
         {
@@ -16941,7 +16945,7 @@
     {
       "root": "ا د ي",
       "frequency": 6,
-      "meaning": "(Quranische Formen: يُؤَدِّهِ.ٕ, وَأَدَإءٌ, فَلْيُؤَدِّ, تُؤَدُّوا@, أَدُّوٕا@)",
+      "meaning": "(Quranische Formen: يُؤَدِّهِ.ٕ, وَأَدَإءٌ, فَلْيُؤَدِّ, تُؤَدُّوا, أَدُّوٕا)",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -16957,11 +16961,11 @@
           "count": 1
         },
         {
-          "form": "تُؤَدُّوا@",
+          "form": "تُؤَدُّوا",
           "count": 1
         },
         {
-          "form": "أَدُّوٕا@",
+          "form": "أَدُّوٕا",
           "count": 1
         }
       ]
@@ -16969,7 +16973,7 @@
     {
       "root": "ث ق ف",
       "frequency": 6,
-      "meaning": "(Quranische Formen: ثَقِفْتُمُوهُمْ, ثُقِفُوٕا@, تَثْقَفَنَّهُمْ, يَثْقَفُوكُمْ)",
+      "meaning": "(Quranische Formen: ثَقِفْتُمُوهُمْ, ثُقِفُوٕا, تَثْقَفَنَّهُمْ, يَثْقَفُوكُمْ)",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -16977,7 +16981,7 @@
           "count": 2
         },
         {
-          "form": "ثُقِفُوٕا@",
+          "form": "ثُقِفُوٕا",
           "count": 2
         },
         {
@@ -16993,7 +16997,7 @@
     {
       "root": "ح ص ر",
       "frequency": 6,
-      "meaning": "(Quranische Formen: أُحْصِرْتُمْ, أُحْصِرُوا@, وَحَصُورًا, حَصِرَتْ, وَٱحْصُرُوهُمْ)",
+      "meaning": "(Quranische Formen: أُحْصِرْتُمْ, أُحْصِرُوا, وَحَصُورًا, حَصِرَتْ, وَٱحْصُرُوهُمْ)",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -17001,7 +17005,7 @@
           "count": 1
         },
         {
-          "form": "أُحْصِرُوا@",
+          "form": "أُحْصِرُوا",
           "count": 1
         },
         {
@@ -17025,7 +17029,7 @@
       "semanticField": "",
       "keyDerivatives": [
         {
-          "form": "وَزُلْزِلُوا@",
+          "form": "وَزُلْزِلُوا",
           "count": 2
         },
         {
@@ -17065,7 +17069,7 @@
           "count": 1
         },
         {
-          "form": "خَلَطُوا@",
+          "form": "خَلَطُوا",
           "count": 1
         },
         {
@@ -17157,7 +17161,7 @@
     {
       "root": "ح س س",
       "frequency": 6,
-      "meaning": "(Quranische Formen: أَحَسَّ, تَحُسُّونَهُم, فَتَحَسَّسُوا@, تُحِسُّ, أَحَسُّوا@)",
+      "meaning": "(Quranische Formen: أَحَسَّ, تَحُسُّونَهُم, فَتَحَسَّسُوا, تُحِسُّ, أَحَسُّوا)",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -17169,7 +17173,7 @@
           "count": 1
         },
         {
-          "form": "فَتَحَسَّسُوا@",
+          "form": "فَتَحَسَّسُوا",
           "count": 1
         },
         {
@@ -17177,7 +17181,7 @@
           "count": 1
         },
         {
-          "form": "أَحَسُّوا@",
+          "form": "أَحَسُّوا",
           "count": 1
         }
       ]
@@ -17185,7 +17189,7 @@
     {
       "root": "د ر س",
       "frequency": 6,
-      "meaning": "(Quranische Formen: تَدْرُسُونَ, دَرَسْتَ, دِرَاسَتِهِمْ, وَدَرَسُوا@, يَدْرُسُونَهَا)",
+      "meaning": "(Quranische Formen: تَدْرُسُونَ, دَرَسْتَ, دِرَاسَتِهِمْ, وَدَرَسُوا, يَدْرُسُونَهَا)",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -17201,7 +17205,7 @@
           "count": 1
         },
         {
-          "form": "وَدَرَسُوا@",
+          "form": "وَدَرَسُوا",
           "count": 1
         },
         {
@@ -17213,7 +17217,7 @@
     {
       "root": "ص ر ر",
       "frequency": 6,
-      "meaning": "(Quranische Formen: صِرٌّ, يُصِرُّوا@, يُصِرُّ, صَرَّةٍ, يُصِرُّونَ)",
+      "meaning": "(Quranische Formen: صِرٌّ, يُصِرُّوا, يُصِرُّ, صَرَّةٍ, يُصِرُّونَ)",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -17221,7 +17225,7 @@
           "count": 1
         },
         {
-          "form": "يُصِرُّوا@",
+          "form": "يُصِرُّوا",
           "count": 1
         },
         {
@@ -17269,7 +17273,7 @@
       "semanticField": "",
       "keyDerivatives": [
         {
-          "form": "يَلْحَقُوا@",
+          "form": "يَلْحَقُوا",
           "count": 2
         },
         {
@@ -17337,7 +17341,7 @@
       "semanticField": "",
       "keyDerivatives": [
         {
-          "form": "تَمِيلُوا@",
+          "form": "تَمِيلُوا",
           "count": 2
         },
         {
@@ -17361,7 +17365,7 @@
     {
       "root": "ف خ ر",
       "frequency": 6,
-      "meaning": "(Quranische Formen: فَخُورٍ, فَخُورًا, فَخُورٌ, كَٱلْفَخَّارِ, وَتَفَاخُرٌ[)",
+      "meaning": "(Quranische Formen: فَخُورٍ, فَخُورًا, فَخُورٌ, كَٱلْفَخَّارِ, وَتَفَاخُرٌ)",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -17381,7 +17385,7 @@
           "count": 1
         },
         {
-          "form": "وَتَفَاخُرٌ[",
+          "form": "وَتَفَاخُرٌ",
           "count": 1
         }
       ]
@@ -17389,7 +17393,7 @@
     {
       "root": "ص ي د",
       "frequency": 6,
-      "meaning": "(Quranische Formen: ٱلصَّيْدِ, صَيْدُ, فَٱصْطَادُوا@, ٱلصَّيْدَ)",
+      "meaning": "(Quranische Formen: ٱلصَّيْدِ, صَيْدُ, فَٱصْطَادُوا, ٱلصَّيْدَ)",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -17401,7 +17405,7 @@
           "count": 2
         },
         {
-          "form": "فَٱصْطَادُوا@",
+          "form": "فَٱصْطَادُوا",
           "count": 1
         },
         {
@@ -17601,7 +17605,7 @@
     {
       "root": "ت ب ر",
       "frequency": 6,
-      "meaning": "(Quranische Formen: تَتْبِيرًا, مُتَبَّرٌ, وَلِيُتَبِّرُوا@, تَبَّرْنَا, تَبَارً[ا)",
+      "meaning": "(Quranische Formen: تَتْبِيرًا, مُتَبَّرٌ, وَلِيُتَبِّرُوا, تَبَّرْنَا, تَبَارًا)",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -17613,7 +17617,7 @@
           "count": 1
         },
         {
-          "form": "وَلِيُتَبِّرُوا@",
+          "form": "وَلِيُتَبِّرُوا",
           "count": 1
         },
         {
@@ -17621,7 +17625,7 @@
           "count": 1
         },
         {
-          "form": "تَبَارً[ا",
+          "form": "تَبَارًا",
           "count": 1
         }
       ]
@@ -17657,7 +17661,7 @@
     {
       "root": "ل ح د",
       "frequency": 6,
-      "meaning": "(Quranische Formen: يُلْحِدُونَ, مُلْتَحَدًا, بِإِلْحَادٍ])",
+      "meaning": "(Quranische Formen: يُلْحِدُونَ, مُلْتَحَدًا, بِإِلْحَادٍ)",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -17669,7 +17673,7 @@
           "count": 2
         },
         {
-          "form": "بِإِلْحَادٍ]",
+          "form": "بِإِلْحَادٍ",
           "count": 1
         }
       ]
@@ -17730,7 +17734,7 @@
       "root": "ش ف ي",
       "frequency": 6,
       "meaning": "heilen",
-      "semanticField": "Koerper und Gesundheit",
+      "semanticField": "Körper und Gesundheit",
       "keyDerivatives": [
         {
           "form": "وَشِفَإءٌ",
@@ -17753,11 +17757,11 @@
     {
       "root": "و ط ا",
       "frequency": 6,
-      "meaning": "(Quranische Formen: لِّيُوَاطِـُِوا@, يَطَـُِونَ, مَوْطِئًا, تَطَـُِوهَا, تَطَـُِوهُمْ)",
+      "meaning": "(Quranische Formen: لِّيُوَاطِـُِوا, يَطَـُِونَ, مَوْطِئًا, تَطَـُِوهَا, تَطَـُِوهُمْ)",
       "semanticField": "",
       "keyDerivatives": [
         {
-          "form": "لِّيُوَاطِـُِوا@",
+          "form": "لِّيُوَاطِـُِوا",
           "count": 1
         },
         {
@@ -17877,7 +17881,7 @@
           "count": 1
         },
         {
-          "form": "تَقْنَطُوا@",
+          "form": "تَقْنَطُوا",
           "count": 1
         },
         {
@@ -17933,7 +17937,7 @@
     {
       "root": "م ه ل",
       "frequency": 6,
-      "meaning": "Frist gewaehren",
+      "meaning": "Frist gewähren",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -17977,7 +17981,7 @@
           "count": 1
         },
         {
-          "form": "فَزِعُوا@",
+          "form": "فَزِعُوا",
           "count": 1
         }
       ]
@@ -18061,7 +18065,7 @@
     {
       "root": "ز ج ر",
       "frequency": 6,
-      "meaning": "schelten, zurueckhalten",
+      "meaning": "schelten, zurückhalten",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -18142,10 +18146,10 @@
       "root": "ع ث و",
       "frequency": 5,
       "meaning": "Unheil stiften",
-      "semanticField": "Fuehrung und Irrtum",
+      "semanticField": "Führung und Irrtum",
       "keyDerivatives": [
         {
-          "form": "تَعْثَوْا@",
+          "form": "تَعْثَوْا",
           "count": 5
         }
       ]
@@ -18221,7 +18225,7 @@
     {
       "root": "ث و ر",
       "frequency": 5,
-      "meaning": "(Quranische Formen: فَتُثِيرُ, تُثِيرُ, وَأَثَارُوا@, فَأَثَرْنَ)",
+      "meaning": "(Quranische Formen: فَتُثِيرُ, تُثِيرُ, وَأَثَارُوا, فَأَثَرْنَ)",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -18233,7 +18237,7 @@
           "count": 1
         },
         {
-          "form": "وَأَثَارُوا@",
+          "form": "وَأَثَارُوا",
           "count": 1
         },
         {
@@ -18245,7 +18249,7 @@
     {
       "root": "د ر ا",
       "frequency": 5,
-      "meaning": "(Quranische Formen: وَيَدْرَءُونَ, فَٱدَّٰرَِْٰتُمْ, فَٱدْرَءُوا@, وَيَدْرَؤُا@)",
+      "meaning": "(Quranische Formen: وَيَدْرَءُونَ, فَٱدَّٰرَِْٰتُمْ, فَٱدْرَءُوا, وَيَدْرَؤُا)",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -18257,11 +18261,11 @@
           "count": 1
         },
         {
-          "form": "فَٱدْرَءُوا@",
+          "form": "فَٱدْرَءُوا",
           "count": 1
         },
         {
-          "form": "وَيَدْرَؤُا@",
+          "form": "وَيَدْرَؤُا",
           "count": 1
         }
       ]
@@ -18393,7 +18397,7 @@
     {
       "root": "ش ط ر",
       "frequency": 5,
-      "meaning": "Haelfte, Richtung",
+      "meaning": "Hälfte, Richtung",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -18481,11 +18485,11 @@
     {
       "root": "ك م ل",
       "frequency": 5,
-      "meaning": "(Quranische Formen: وَلِتُكْمِلُوا@, كَامِلَةٌ, كَامِلَيْنِ, أَكْمَلْتُ, كَامِلَةً)",
+      "meaning": "(Quranische Formen: وَلِتُكْمِلُوا, كَامِلَةٌ, كَامِلَيْنِ, أَكْمَلْتُ, كَامِلَةً)",
       "semanticField": "",
       "keyDerivatives": [
         {
-          "form": "وَلِتُكْمِلُوا@",
+          "form": "وَلِتُكْمِلُوا",
           "count": 1
         },
         {
@@ -18509,7 +18513,7 @@
     {
       "root": "ع ن ت",
       "frequency": 5,
-      "meaning": "Muehe, Haerte",
+      "meaning": "Muehe, Härte",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -18561,7 +18565,7 @@
     {
       "root": "ق ت ر",
       "frequency": 5,
-      "meaning": "(Quranische Formen: ٱلْمُقْتِرِ, قَتَرٌ, قَتُورًا, يَقْتُرُوا@, قَتَرَةٌ)",
+      "meaning": "(Quranische Formen: ٱلْمُقْتِرِ, قَتَرٌ, قَتُورًا, يَقْتُرُوا, قَتَرَةٌ)",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -18577,7 +18581,7 @@
           "count": 1
         },
         {
-          "form": "يَقْتُرُوا@",
+          "form": "يَقْتُرُوا",
           "count": 1
         },
         {
@@ -18621,7 +18625,7 @@
           "count": 3
         },
         {
-          "form": "خَاوِيَةً[",
+          "form": "خَاوِيَةً",
           "count": 1
         },
         {
@@ -18633,7 +18637,7 @@
     {
       "root": "ن ش ز",
       "frequency": 5,
-      "meaning": "(Quranische Formen: نُنشِزُهَا, نُشُوزَهُنَّ, نُشُوزًا, ٱنشُزُوا@, فَٱنشُزُوا@)",
+      "meaning": "(Quranische Formen: نُنشِزُهَا, نُشُوزَهُنَّ, نُشُوزًا, ٱنشُزُوا, فَٱنشُزُوا)",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -18649,11 +18653,11 @@
           "count": 1
         },
         {
-          "form": "ٱنشُزُوا@",
+          "form": "ٱنشُزُوا",
           "count": 1
         },
         {
-          "form": "فَٱنشُزُوا@",
+          "form": "فَٱنشُزُوا",
           "count": 1
         }
       ]
@@ -18661,11 +18665,11 @@
     {
       "root": "س ن ب ل",
       "frequency": 5,
-      "meaning": "(Quranische Formen: سُن[بُلَٰتٍ, سَنَابِلَ, سُن[بُلَةٍ, سُن[بُلِهِ.ٕ)",
+      "meaning": "(Quranische Formen: سُنبُلَٰتٍ, سَنَابِلَ, سُنبُلَةٍ, سُنبُلِهِ.ٕ)",
       "semanticField": "",
       "keyDerivatives": [
         {
-          "form": "سُن[بُلَٰتٍ",
+          "form": "سُنبُلَٰتٍ",
           "count": 2
         },
         {
@@ -18673,11 +18677,11 @@
           "count": 1
         },
         {
-          "form": "سُن[بُلَةٍ",
+          "form": "سُنبُلَةٍ",
           "count": 1
         },
         {
-          "form": "سُن[بُلِهِ.ٕ",
+          "form": "سُنبُلِهِ.ٕ",
           "count": 1
         }
       ]
@@ -18713,7 +18717,7 @@
     {
       "root": "ل و ي",
       "frequency": 5,
-      "meaning": "(Quranische Formen: يَلْوُ,نَ, تَلْوُ,نَ, لَيًّ[ا, تَلْوُ,ٕا@, لَوَّوْا@)",
+      "meaning": "(Quranische Formen: يَلْوُ,نَ, تَلْوُ,نَ, لَيًّا, تَلْوُ,ٕا, لَوَّوْا)",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -18725,15 +18729,15 @@
           "count": 1
         },
         {
-          "form": "لَيًّ[ا",
+          "form": "لَيًّا",
           "count": 1
         },
         {
-          "form": "تَلْوُ,ٕا@",
+          "form": "تَلْوُ,ٕا",
           "count": 1
         },
         {
-          "form": "لَوَّوْا@",
+          "form": "لَوَّوْا",
           "count": 1
         }
       ]
@@ -18877,7 +18881,7 @@
       "semanticField": "",
       "keyDerivatives": [
         {
-          "form": "وَرَابِطُوا@",
+          "form": "وَرَابِطُوا",
           "count": 1
         },
         {
@@ -18957,7 +18961,7 @@
           "count": 1
         },
         {
-          "form": "فَٱلْتَمِسُوا@",
+          "form": "فَٱلْتَمِسُوا",
           "count": 1
         },
         {
@@ -19021,7 +19025,7 @@
     {
       "root": "م ر د",
       "frequency": 5,
-      "meaning": "(Quranische Formen: مَّرِيدًا, مَرَدُوا@, مَّرِيدٍ, مُّمَرَّدٌ, مَّارِدٍ)",
+      "meaning": "(Quranische Formen: مَّرِيدًا, مَرَدُوا, مَّرِيدٍ, مُّمَرَّدٌ, مَّارِدٍ)",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -19029,7 +19033,7 @@
           "count": 1
         },
         {
-          "form": "مَرَدُوا@",
+          "form": "مَرَدُوا",
           "count": 1
         },
         {
@@ -19085,7 +19089,7 @@
     {
       "root": "ش ر ع",
       "frequency": 5,
-      "meaning": "(Quranische Formen: شِرْعَةً, شُرَّعًا, شَرَعَ, شَرَعُوا@, شَرِيعَةٍ)",
+      "meaning": "(Quranische Formen: شِرْعَةً, شُرَّعًا, شَرَعَ, شَرَعُوا, شَرِيعَةٍ)",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -19101,7 +19105,7 @@
           "count": 1
         },
         {
-          "form": "شَرَعُوا@",
+          "form": "شَرَعُوا",
           "count": 1
         },
         {
@@ -19269,7 +19273,7 @@
       "semanticField": "",
       "keyDerivatives": [
         {
-          "form": "وَلِيَقْتَرِفُوا@",
+          "form": "وَلِيَقْتَرِفُوا",
           "count": 1
         },
         {
@@ -19422,7 +19426,7 @@
       "root": "ح و ت",
       "frequency": 5,
       "meaning": "Fisch, Wal",
-      "semanticField": "Schoepfung und Natur",
+      "semanticField": "Schöpfung und Natur",
       "keyDerivatives": [
         {
           "form": "حِيتَانُهُمْ",
@@ -19481,11 +19485,11 @@
           "count": 1
         },
         {
-          "form": "يَسْتَغِيثُوا@",
+          "form": "يَسْتَغِيثُوا",
           "count": 1
         },
         {
-          "form": "يُغَاثُوا@",
+          "form": "يُغَاثُوا",
           "count": 1
         },
         {
@@ -19509,7 +19513,7 @@
           "count": 1
         },
         {
-          "form": "وَٱمْضُوا@",
+          "form": "وَٱمْضُوا",
           "count": 1
         },
         {
@@ -19529,7 +19533,7 @@
     {
       "root": "ق ص و",
       "frequency": 5,
-      "meaning": "fern, aeusserster",
+      "meaning": "fern, äußerster",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -19613,7 +19617,7 @@
           "count": 1
         },
         {
-          "form": "لِزَامً[ا",
+          "form": "لِزَامًا",
           "count": 1
         },
         {
@@ -19813,7 +19817,7 @@
     {
       "root": "ص د ع",
       "frequency": 5,
-      "meaning": "spalten, verkuenden",
+      "meaning": "spalten, verkünden",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -19849,7 +19853,7 @@
           "count": 3
         },
         {
-          "form": "يَسْتَعْتِبُوا@",
+          "form": "يَسْتَعْتِبُوا",
           "count": 1
         },
         {
@@ -19861,7 +19865,7 @@
     {
       "root": "ن ف د",
       "frequency": 5,
-      "meaning": "erschoepft sein",
+      "meaning": "erschöpft sein",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -19905,7 +19909,7 @@
     {
       "root": "ك س ف",
       "frequency": 5,
-      "meaning": "Stueck, bedecken",
+      "meaning": "Stück, bedecken",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -19969,7 +19973,7 @@
     {
       "root": "ط و ي",
       "frequency": 5,
-      "meaning": "(Quranische Formen: طُوًى, نَطْوِى, كَطَىِّ, مَطْوِيَّٰتٌ[)",
+      "meaning": "(Quranische Formen: طُوًى, نَطْوِى, كَطَىِّ, مَطْوِيَّٰتٌ)",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -19985,7 +19989,7 @@
           "count": 1
         },
         {
-          "form": "مَطْوِيَّٰتٌ[",
+          "form": "مَطْوِيَّٰتٌ",
           "count": 1
         }
       ]
@@ -20069,7 +20073,7 @@
           "count": 1
         },
         {
-          "form": "صُبُّوا@",
+          "form": "صُبُّوا",
           "count": 1
         },
         {
@@ -20177,7 +20181,7 @@
     {
       "root": "خ س ا",
       "frequency": 4,
-      "meaning": "(Quranische Formen: خَٰسِـِِينَ, ٱخْسَـُِوا@, خَاسِئًا)",
+      "meaning": "(Quranische Formen: خَٰسِـِِينَ, ٱخْسَـُِوا, خَاسِئًا)",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -20185,7 +20189,7 @@
           "count": 2
         },
         {
-          "form": "ٱخْسَـُِوا@",
+          "form": "ٱخْسَـُِوا",
           "count": 1
         },
         {
@@ -20241,11 +20245,11 @@
     {
       "root": "ه ا ت",
       "frequency": 4,
-      "meaning": "(Quranische Formen: هَاتُوا@)",
+      "meaning": "(Quranische Formen: هَاتُوا)",
       "semanticField": "",
       "keyDerivatives": [
         {
-          "form": "هَاتُوا@",
+          "form": "هَاتُوا",
           "count": 4
         }
       ]
@@ -20293,11 +20297,11 @@
     {
       "root": "د ل و",
       "frequency": 4,
-      "meaning": "(Quranische Formen: وَتُدْلُوا@, فَأَدْلَىٰ, دَلْوَهُ,, فَتَدَلَّىٰ)",
+      "meaning": "(Quranische Formen: وَتُدْلُوا, فَأَدْلَىٰ, دَلْوَهُ,, فَتَدَلَّىٰ)",
       "semanticField": "",
       "keyDerivatives": [
         {
-          "form": "وَتُدْلُوا@",
+          "form": "وَتُدْلُوا",
           "count": 1
         },
         {
@@ -20425,7 +20429,7 @@
     {
       "root": "ا م د",
       "frequency": 4,
-      "meaning": "(Quranische Formen: أَمَدًا, أَمَدً[ا, ٱلْأَمَدُ)",
+      "meaning": "(Quranische Formen: أَمَدًا, أَمَدًا, ٱلْأَمَدُ)",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -20433,7 +20437,7 @@
           "count": 2
         },
         {
-          "form": "أَمَدً[ا",
+          "form": "أَمَدًا",
           "count": 1
         },
         {
@@ -20490,7 +20494,7 @@
       "root": "ن م ل",
       "frequency": 4,
       "meaning": "Ameise",
-      "semanticField": "Schoepfung und Natur",
+      "semanticField": "Schöpfung und Natur",
       "keyDerivatives": [
         {
           "form": "ٱلْأَنَامِلَ",
@@ -20513,7 +20517,7 @@
     {
       "root": "ف ش ل",
       "frequency": 4,
-      "meaning": "(Quranische Formen: تَفْشَلَا, فَشِلْتُمْ, لَّفَشِلْتُمْ, فَتَفْشَلُوا@)",
+      "meaning": "(Quranische Formen: تَفْشَلَا, فَشِلْتُمْ, لَّفَشِلْتُمْ, فَتَفْشَلُوا)",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -20529,7 +20533,7 @@
           "count": 1
         },
         {
-          "form": "فَتَفْشَلُوا@",
+          "form": "فَتَفْشَلُوا",
           "count": 1
         }
       ]
@@ -20593,7 +20597,7 @@
           "count": 1
         },
         {
-          "form": "وَٱمْتَٰزُوا@",
+          "form": "وَٱمْتَٰزُوا",
           "count": 1
         },
         {
@@ -20605,11 +20609,11 @@
     {
       "root": "ه ن ا",
       "frequency": 4,
-      "meaning": "(Quranische Formen: هَنِيٕـًِ[ا, هَنِيٕـًِا)",
+      "meaning": "(Quranische Formen: هَنِيٕـًِا, هَنِيٕـًِا)",
       "semanticField": "",
       "keyDerivatives": [
         {
-          "form": "هَنِيٕـًِ[ا",
+          "form": "هَنِيٕـًِا",
           "count": 3
         },
         {
@@ -20665,19 +20669,19 @@
     {
       "root": "غ س ل",
       "frequency": 4,
-      "meaning": "(Quranische Formen: تَغْتَسِلُوا@, فَٱغْسِلُوا@, مُغْتَسَلٌ[, غِسْلِينٍ)",
+      "meaning": "(Quranische Formen: تَغْتَسِلُوا, فَٱغْسِلُوا, مُغْتَسَلٌ, غِسْلِينٍ)",
       "semanticField": "",
       "keyDerivatives": [
         {
-          "form": "تَغْتَسِلُوا@",
+          "form": "تَغْتَسِلُوا",
           "count": 1
         },
         {
-          "form": "فَٱغْسِلُوا@",
+          "form": "فَٱغْسِلُوا",
           "count": 1
         },
         {
-          "form": "مُغْتَسَلٌ[",
+          "form": "مُغْتَسَلٌ",
           "count": 1
         },
         {
@@ -20689,19 +20693,19 @@
     {
       "root": "م س ح",
       "frequency": 4,
-      "meaning": "(Quranische Formen: فَٱمْسَحُوا@, وَٱمْسَحُوا@, مَسْحً[ا)",
+      "meaning": "(Quranische Formen: فَٱمْسَحُوا, وَٱمْسَحُوا, مَسْحًا)",
       "semanticField": "",
       "keyDerivatives": [
         {
-          "form": "فَٱمْسَحُوا@",
+          "form": "فَٱمْسَحُوا",
           "count": 2
         },
         {
-          "form": "وَٱمْسَحُوا@",
+          "form": "وَٱمْسَحُوا",
           "count": 1
         },
         {
-          "form": "مَسْحً[ا",
+          "form": "مَسْحًا",
           "count": 1
         }
       ]
@@ -20773,7 +20777,7 @@
     {
       "root": "ج ر ح",
       "frequency": 4,
-      "meaning": "(Quranische Formen: ٱلْجَوَارِحِ, وَٱلْجُرُوحَ, جَرَحْتُم, ٱجْتَرَحُوا@)",
+      "meaning": "(Quranische Formen: ٱلْجَوَارِحِ, وَٱلْجُرُوحَ, جَرَحْتُم, ٱجْتَرَحُوا)",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -20789,7 +20793,7 @@
           "count": 1
         },
         {
-          "form": "ٱجْتَرَحُوا@",
+          "form": "ٱجْتَرَحُوا",
           "count": 1
         }
       ]
@@ -20861,7 +20865,7 @@
       "semanticField": "",
       "keyDerivatives": [
         {
-          "form": "وُقِفُوا@",
+          "form": "وُقِفُوا",
           "count": 2
         },
         {
@@ -21021,7 +21025,7 @@
       "semanticField": "",
       "keyDerivatives": [
         {
-          "form": "وَخَرَقُوا@",
+          "form": "وَخَرَقُوا",
           "count": 1
         },
         {
@@ -21197,7 +21201,7 @@
     {
       "root": "ر ح ب",
       "frequency": 4,
-      "meaning": "(Quranische Formen: رَحُبَتْ, مَرْحَبً[ا)",
+      "meaning": "(Quranische Formen: رَحُبَتْ, مَرْحَبًا)",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -21205,7 +21209,7 @@
           "count": 2
         },
         {
-          "form": "مَرْحَبً[ا",
+          "form": "مَرْحَبًا",
           "count": 2
         }
       ]
@@ -21245,7 +21249,7 @@
           "count": 1
         },
         {
-          "form": "تَلْمِزُوٕا@",
+          "form": "تَلْمِزُوٕا",
           "count": 1
         },
         {
@@ -21257,7 +21261,7 @@
     {
       "root": "ج د ر",
       "frequency": 4,
-      "meaning": "(Quranische Formen: وَأَجْدَرُ, جِدَارًا, ٱلْجِدَارُ, جُدُرٍ])",
+      "meaning": "(Quranische Formen: وَأَجْدَرُ, جِدَارًا, ٱلْجِدَارُ, جُدُرٍ)",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -21273,7 +21277,7 @@
           "count": 1
         },
         {
-          "form": "جُدُرٍ]",
+          "form": "جُدُرٍ",
           "count": 1
         }
       ]
@@ -21385,7 +21389,7 @@
     {
       "root": "ر ك ن",
       "frequency": 4,
-      "meaning": "(Quranische Formen: رُكْنٍ, تَرْكَنُوٕا@, تَرْكَنُ, بِرُكْنِهِ.)",
+      "meaning": "(Quranische Formen: رُكْنٍ, تَرْكَنُوٕا, تَرْكَنُ, بِرُكْنِهِ.)",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -21393,7 +21397,7 @@
           "count": 1
         },
         {
-          "form": "تَرْكَنُوٕا@",
+          "form": "تَرْكَنُوٕا",
           "count": 1
         },
         {
@@ -21409,7 +21413,7 @@
     {
       "root": "س ج ل",
       "frequency": 4,
-      "meaning": "Aufzeichnung, Stueck",
+      "meaning": "Aufzeichnung, Stück",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -21561,11 +21565,11 @@
     {
       "root": "س ر ب",
       "frequency": 4,
-      "meaning": "(Quranische Formen: وَسَارِبٌ[, سَرَبًا, كَسَرَابٍ], سَرَابًا)",
+      "meaning": "(Quranische Formen: وَسَارِبٌ, سَرَبًا, كَسَرَابٍ, سَرَابًا)",
       "semanticField": "",
       "keyDerivatives": [
         {
-          "form": "وَسَارِبٌ[",
+          "form": "وَسَارِبٌ",
           "count": 1
         },
         {
@@ -21573,7 +21577,7 @@
           "count": 1
         },
         {
-          "form": "كَسَرَابٍ]",
+          "form": "كَسَرَابٍ",
           "count": 1
         },
         {
@@ -21769,7 +21773,7 @@
     {
       "root": "ر ق ي",
       "frequency": 4,
-      "meaning": "(Quranische Formen: تَرْقَىٰ, لِرُقِيِّكَ, فَلْيَرْتَقُوا@, رَاقٍ)",
+      "meaning": "(Quranische Formen: تَرْقَىٰ, لِرُقِيِّكَ, فَلْيَرْتَقُوا, رَاقٍ)",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -21781,7 +21785,7 @@
           "count": 1
         },
         {
-          "form": "فَلْيَرْتَقُوا@",
+          "form": "فَلْيَرْتَقُوا",
           "count": 1
         },
         {
@@ -21793,11 +21797,11 @@
     {
       "root": "د ح ض",
       "frequency": 4,
-      "meaning": "(Quranische Formen: لِيُدْحِضُوا@, ٱلْمُدْحَضِينَ, دَاحِضَةٌ)",
+      "meaning": "(Quranische Formen: لِيُدْحِضُوا, ٱلْمُدْحَضِينَ, دَاحِضَةٌ)",
       "semanticField": "",
       "keyDerivatives": [
         {
-          "form": "لِيُدْحِضُوا@",
+          "form": "لِيُدْحِضُوا",
           "count": 2
         },
         {
@@ -21897,11 +21901,11 @@
     {
       "root": "ل ج ج",
       "frequency": 4,
-      "meaning": "(Quranische Formen: لَّلَجُّوا@, لُّجِّىٍّ, لُجَّةً, لَّجُّوا@)",
+      "meaning": "(Quranische Formen: لَّلَجُّوا, لُّجِّىٍّ, لُجَّةً, لَّجُّوا)",
       "semanticField": "",
       "keyDerivatives": [
         {
-          "form": "لَّلَجُّوا@",
+          "form": "لَّلَجُّوا",
           "count": 1
         },
         {
@@ -21913,7 +21917,7 @@
           "count": 1
         },
         {
-          "form": "لَّجُّوا@",
+          "form": "لَّجُّوا",
           "count": 1
         }
       ]
@@ -21921,11 +21925,11 @@
     {
       "root": "غ ض ض",
       "frequency": 4,
-      "meaning": "(Quranische Formen: يَغُضُّوا@, يَغْضُضْنَ, وَٱغْضُضْ, يَغُضُّونَ)",
+      "meaning": "(Quranische Formen: يَغُضُّوا, يَغْضُضْنَ, وَٱغْضُضْ, يَغُضُّونَ)",
       "semanticField": "",
       "keyDerivatives": [
         {
-          "form": "يَغُضُّوا@",
+          "form": "يَغُضُّوا",
           "count": 1
         },
         {
@@ -22225,7 +22229,7 @@
     {
       "root": "ل ف و",
       "frequency": 3,
-      "meaning": "(Quranische Formen: أَلْفَيْنَا, وَأَلْفَيَا, أَلْفَوْا@)",
+      "meaning": "(Quranische Formen: أَلْفَيْنَا, وَأَلْفَيَا, أَلْفَوْا)",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -22237,7 +22241,7 @@
           "count": 1
         },
         {
-          "form": "أَلْفَوْا@",
+          "form": "أَلْفَوْا",
           "count": 1
         }
       ]
@@ -22265,11 +22269,11 @@
     {
       "root": "ح ل ق",
       "frequency": 3,
-      "meaning": "(Quranische Formen: تَحْلِقُوا@, مُحَلِّقِينَ, ٱلْحُلْقُومَ)",
+      "meaning": "(Quranische Formen: تَحْلِقُوا, مُحَلِّقِينَ, ٱلْحُلْقُومَ)",
       "semanticField": "",
       "keyDerivatives": [
         {
-          "form": "تَحْلِقُوا@",
+          "form": "تَحْلِقُوا",
           "count": 1
         },
         {
@@ -22337,11 +22341,11 @@
     {
       "root": "س ا م",
       "frequency": 3,
-      "meaning": "(Quranische Formen: تَسْـَِمُوٕا@, يَسْـَِمُونَ, يَسْـَِمُ)",
+      "meaning": "(Quranische Formen: تَسْـَِمُوٕا, يَسْـَِمُونَ, يَسْـَِمُ)",
       "semanticField": "",
       "keyDerivatives": [
         {
-          "form": "تَسْـَِمُوٕا@",
+          "form": "تَسْـَِمُوٕا",
           "count": 1
         },
         {
@@ -22405,7 +22409,7 @@
           "count": 1
         },
         {
-          "form": "كُبِتُوا@",
+          "form": "كُبِتُوا",
           "count": 1
         },
         {
@@ -22501,7 +22505,7 @@
     {
       "root": "ن ك ف",
       "frequency": 3,
-      "meaning": "(Quranische Formen: يَسْتَنكِفَ, يَسْتَنكِفْ, ٱسْتَنكَفُوا@)",
+      "meaning": "(Quranische Formen: يَسْتَنكِفَ, يَسْتَنكِفْ, ٱسْتَنكَفُوا)",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -22513,7 +22517,7 @@
           "count": 1
         },
         {
-          "form": "ٱسْتَنكَفُوا@",
+          "form": "ٱسْتَنكَفُوا",
           "count": 1
         }
       ]
@@ -22565,7 +22569,7 @@
           "count": 1
         },
         {
-          "form": "فَنَقَّبُوا@",
+          "form": "فَنَقَّبُوا",
           "count": 1
         }
       ]
@@ -22614,7 +22618,7 @@
       "root": "ا ن ف",
       "frequency": 3,
       "meaning": "(Quranische Formen: وَٱلْأَنفَ, بِٱلْأَنفِ, ءَانِفًا)",
-      "semanticField": "Koerper und Gesundheit",
+      "semanticField": "Körper und Gesundheit",
       "keyDerivatives": [
         {
           "form": "وَٱلْأَنفَ",
@@ -22633,7 +22637,7 @@
     {
       "root": "ط ف ا",
       "frequency": 3,
-      "meaning": "(Quranische Formen: أَطْفَأَهَا, يُطْفِـُِوا@, لِيُطْفِـُِوا@)",
+      "meaning": "(Quranische Formen: أَطْفَأَهَا, يُطْفِـُِوا, لِيُطْفِـُِوا)",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -22641,11 +22645,11 @@
           "count": 1
         },
         {
-          "form": "يُطْفِـُِوا@",
+          "form": "يُطْفِـُِوا",
           "count": 1
         },
         {
-          "form": "لِيُطْفِـُِوا@",
+          "form": "لِيُطْفِـُِوا",
           "count": 1
         }
       ]
@@ -22754,7 +22758,7 @@
       "root": "م ت ن",
       "frequency": 3,
       "meaning": "(Quranische Formen: مَتِينٌ, ٱلْمَتِينُ)",
-      "semanticField": "Macht und Autoritaet",
+      "semanticField": "Macht und Autorität",
       "keyDerivatives": [
         {
           "form": "مَتِينٌ",
@@ -22829,11 +22833,11 @@
     {
       "root": "س ي ح",
       "frequency": 3,
-      "meaning": "(Quranische Formen: فَسِيحُوا@, ٱلسَّٰٕئِحُونَ, سَٰٕئِحَٰتٍ)",
+      "meaning": "(Quranische Formen: فَسِيحُوا, ٱلسَّٰٕئِحُونَ, سَٰٕئِحَٰتٍ)",
       "semanticField": "",
       "keyDerivatives": [
         {
-          "form": "فَسِيحُوا@",
+          "form": "فَسِيحُوا",
           "count": 1
         },
         {
@@ -22885,7 +22889,7 @@
     {
       "root": "ظ م ا",
       "frequency": 3,
-      "meaning": "(Quranische Formen: ظَمَأٌ, تَظْمَؤُا@, ٱلظَّمْـَِانُ)",
+      "meaning": "(Quranische Formen: ظَمَأٌ, تَظْمَؤُا, ٱلظَّمْـَِانُ)",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -22893,7 +22897,7 @@
           "count": 1
         },
         {
-          "form": "تَظْمَؤُا@",
+          "form": "تَظْمَؤُا",
           "count": 1
         },
         {
@@ -22925,7 +22929,7 @@
       "semanticField": "",
       "keyDerivatives": [
         {
-          "form": "وَأَخْبَتُوٕا@",
+          "form": "وَأَخْبَتُوٕا",
           "count": 1
         },
         {
@@ -23121,11 +23125,11 @@
     {
       "root": "ش ك و",
       "frequency": 3,
-      "meaning": "(Quranische Formen: أَشْكُوا@, كَمِشْكَوٰةٍ, وَتَشْتَكِىٕ)",
+      "meaning": "(Quranische Formen: أَشْكُوا, كَمِشْكَوٰةٍ, وَتَشْتَكِىٕ)",
       "semanticField": "",
       "keyDerivatives": [
         {
-          "form": "أَشْكُوا@",
+          "form": "أَشْكُوا",
           "count": 1
         },
         {
@@ -23177,11 +23181,11 @@
     {
       "root": "م ح و",
       "frequency": 3,
-      "meaning": "ausloeschen",
+      "meaning": "auslöschen",
       "semanticField": "",
       "keyDerivatives": [
         {
-          "form": "يَمْحُوا@",
+          "form": "يَمْحُوا",
           "count": 1
         },
         {
@@ -23265,7 +23269,7 @@
           "count": 1
         },
         {
-          "form": "تَجْـَِرُوا@",
+          "form": "تَجْـَِرُوا",
           "count": 1
         }
       ]
@@ -23453,7 +23457,7 @@
           "count": 1
         },
         {
-          "form": "مُّؤْصَدَةٌ[",
+          "form": "مُّؤْصَدَةٌ",
           "count": 1
         },
         {
@@ -23597,7 +23601,7 @@
     {
       "root": "ر ك ض",
       "frequency": 3,
-      "meaning": "(Quranische Formen: يَرْكُضُونَ, تَرْكُضُوا@, ٱرْكُضْ)",
+      "meaning": "(Quranische Formen: يَرْكُضُونَ, تَرْكُضُوا, ٱرْكُضْ)",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -23605,7 +23609,7 @@
           "count": 1
         },
         {
-          "form": "تَرْكُضُوا@",
+          "form": "تَرْكُضُوا",
           "count": 1
         },
         {
@@ -23633,15 +23637,15 @@
     {
       "root": "ن ك س",
       "frequency": 3,
-      "meaning": "(Quranische Formen: نُكِسُوا@, نَاكِسُوا@, نُنَكِّسْهُ)",
+      "meaning": "(Quranische Formen: نُكِسُوا, نَاكِسُوا, نُنَكِّسْهُ)",
       "semanticField": "",
       "keyDerivatives": [
         {
-          "form": "نُكِسُوا@",
+          "form": "نُكِسُوا",
           "count": 1
         },
         {
-          "form": "نَاكِسُوا@",
+          "form": "نَاكِسُوا",
           "count": 1
         },
         {
@@ -23653,7 +23657,7 @@
     {
       "root": "م ض غ",
       "frequency": 3,
-      "meaning": "kauen, Kaustueck",
+      "meaning": "kauen, Kaustück",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -23985,7 +23989,7 @@
     {
       "root": "س ل س ل",
       "frequency": 3,
-      "meaning": "(Quranische Formen: وَٱلسَّلَٰسِلُ, سِلْسِلَةٍ, سَلَٰسِلَا@)",
+      "meaning": "(Quranische Formen: وَٱلسَّلَٰسِلُ, سِلْسِلَةٍ, سَلَٰسِلَا)",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -23997,7 +24001,7 @@
           "count": 1
         },
         {
-          "form": "سَلَٰسِلَا@",
+          "form": "سَلَٰسِلَا",
           "count": 1
         }
       ]
@@ -24117,11 +24121,11 @@
       "semanticField": "",
       "keyDerivatives": [
         {
-          "form": "تَنفُذُوا@",
+          "form": "تَنفُذُوا",
           "count": 1
         },
         {
-          "form": "فَٱنفُذُوا@",
+          "form": "فَٱنفُذُوا",
           "count": 1
         },
         {
@@ -24161,15 +24165,15 @@
     {
       "root": "ف س ح",
       "frequency": 3,
-      "meaning": "(Quranische Formen: تَفَسَّحُوا@, فَٱفْسَحُوا@, يَفْسَحِ)",
+      "meaning": "(Quranische Formen: تَفَسَّحُوا, فَٱفْسَحُوا, يَفْسَحِ)",
       "semanticField": "",
       "keyDerivatives": [
         {
-          "form": "تَفَسَّحُوا@",
+          "form": "تَفَسَّحُوا",
           "count": 1
         },
         {
-          "form": "فَٱفْسَحُوا@",
+          "form": "فَٱفْسَحُوا",
           "count": 1
         },
         {
@@ -24345,7 +24349,7 @@
       "semanticField": "",
       "keyDerivatives": [
         {
-          "form": "غُلْفٌ[",
+          "form": "غُلْفٌ",
           "count": 2
         }
       ]
@@ -24417,11 +24421,11 @@
     {
       "root": "ز و د",
       "frequency": 2,
-      "meaning": "(Quranische Formen: وَتَزَوَّدُوا@, ٱلزَّادِ)",
+      "meaning": "(Quranische Formen: وَتَزَوَّدُوا, ٱلزَّادِ)",
       "semanticField": "",
       "keyDerivatives": [
         {
-          "form": "وَتَزَوَّدُوا@",
+          "form": "وَتَزَوَّدُوا",
           "count": 1
         },
         {
@@ -24621,7 +24625,7 @@
       "semanticField": "",
       "keyDerivatives": [
         {
-          "form": "عَضُّوا@",
+          "form": "عَضُّوا",
           "count": 1
         },
         {
@@ -24633,7 +24637,7 @@
     {
       "root": "د و ل",
       "frequency": 2,
-      "meaning": "(Quranische Formen: نُدَاوِلُهَا, دُولَةً[)",
+      "meaning": "(Quranische Formen: نُدَاوِلُهَا, دُولَةً)",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -24641,7 +24645,7 @@
           "count": 1
         },
         {
-          "form": "دُولَةً[",
+          "form": "دُولَةً",
           "count": 1
         }
       ]
@@ -24649,7 +24653,7 @@
     {
       "root": "م ح ص",
       "frequency": 2,
-      "meaning": "pruefen, reinigen",
+      "meaning": "prüfen, reinigen",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -24661,11 +24665,11 @@
     {
       "root": "ك ي ن",
       "frequency": 2,
-      "meaning": "(Quranische Formen: ٱسْتَكَانُوا@)",
+      "meaning": "(Quranische Formen: ٱسْتَكَانُوا)",
       "semanticField": "",
       "keyDerivatives": [
         {
-          "form": "ٱسْتَكَانُوا@",
+          "form": "ٱسْتَكَانُوا",
           "count": 2
         }
       ]
@@ -24690,7 +24694,7 @@
       "root": "ن ح ل",
       "frequency": 2,
       "meaning": "Biene, schenken",
-      "semanticField": "Schoepfung und Natur",
+      "semanticField": "Schöpfung und Natur",
       "keyDerivatives": [
         {
           "form": "نِحْلَةً",
@@ -24729,7 +24733,7 @@
     {
       "root": "ط ع ن",
       "frequency": 2,
-      "meaning": "(Quranische Formen: وَطَعْنًا, وَطَعَنُوا@)",
+      "meaning": "(Quranische Formen: وَطَعْنًا, وَطَعَنُوا)",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -24737,7 +24741,7 @@
           "count": 1
         },
         {
-          "form": "وَطَعَنُوا@",
+          "form": "وَطَعَنُوا",
           "count": 1
         }
       ]
@@ -24777,7 +24781,7 @@
     {
       "root": "ر ك س",
       "frequency": 2,
-      "meaning": "zurueckfallen",
+      "meaning": "zurückfallen",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -24785,7 +24789,7 @@
           "count": 1
         },
         {
-          "form": "أُرْكِسُوا@",
+          "form": "أُرْكِسُوا",
           "count": 1
         }
       ]
@@ -24825,7 +24829,7 @@
       "semanticField": "",
       "keyDerivatives": [
         {
-          "form": "تَغْلُوا@",
+          "form": "تَغْلُوا",
           "count": 2
         }
       ]
@@ -24985,7 +24989,7 @@
     {
       "root": "ب س ل",
       "frequency": 2,
-      "meaning": "(Quranische Formen: تُبْسَلَ, أُبْسِلُوا@)",
+      "meaning": "(Quranische Formen: تُبْسَلَ, أُبْسِلُوا)",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -24993,7 +24997,7 @@
           "count": 1
         },
         {
-          "form": "أُبْسِلُوا@",
+          "form": "أُبْسِلُوا",
           "count": 1
         }
       ]
@@ -25109,7 +25113,7 @@
     {
       "root": "خ ص ف",
       "frequency": 2,
-      "meaning": "zusammenfuegen, flicken",
+      "meaning": "zusammenfüegen, flicken",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -25177,15 +25181,15 @@
     {
       "root": "ن ص ت",
       "frequency": 2,
-      "meaning": "(Quranische Formen: وَأَنصِتُوا@, أَنصِتُوا@)",
+      "meaning": "(Quranische Formen: وَأَنصِتُوا, أَنصِتُوا)",
       "semanticField": "",
       "keyDerivatives": [
         {
-          "form": "وَأَنصِتُوا@",
+          "form": "وَأَنصِتُوا",
           "count": 1
         },
         {
-          "form": "أَنصِتُوا@",
+          "form": "أَنصِتُوا",
           "count": 1
         }
       ]
@@ -25194,7 +25198,7 @@
       "root": "ب ن ن",
       "frequency": 2,
       "meaning": "(Quranische Formen: بَنَانٍ, بَنَانَهُ,)",
-      "semanticField": "Koerper und Gesundheit",
+      "semanticField": "Körper und Gesundheit",
       "keyDerivatives": [
         {
           "form": "بَنَانٍ",
@@ -25241,7 +25245,7 @@
     {
       "root": "ن ك ص",
       "frequency": 2,
-      "meaning": "zurueckweichen",
+      "meaning": "zurückweichen",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -25405,7 +25409,7 @@
     {
       "root": "ر ف د",
       "frequency": 2,
-      "meaning": "stuetzen, helfen",
+      "meaning": "stützen, helfen",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -25421,7 +25425,7 @@
     {
       "root": "س ع د",
       "frequency": 2,
-      "meaning": "(Quranische Formen: وَسَعِيدٌ, سُعِدُوا@)",
+      "meaning": "(Quranische Formen: وَسَعِيدٌ, سُعِدُوا)",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -25429,7 +25433,7 @@
           "count": 1
         },
         {
-          "form": "سُعِدُوا@",
+          "form": "سُعِدُوا",
           "count": 1
         }
       ]
@@ -25453,7 +25457,7 @@
     {
       "root": "ج ذ ذ",
       "frequency": 2,
-      "meaning": "Stuecke schneiden",
+      "meaning": "Stücke schneiden",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -25705,7 +25709,7 @@
           "count": 1
         },
         {
-          "form": "كَلَمْحٍ]",
+          "form": "كَلَمْحٍ",
           "count": 1
         }
       ]
@@ -25829,7 +25833,7 @@
       "semanticField": "Wasser und Regen",
       "keyDerivatives": [
         {
-          "form": "يَن[بُوعًا",
+          "form": "يَنبُوعًا",
           "count": 1
         },
         {
@@ -26077,7 +26081,7 @@
     {
       "root": "ض م م",
       "frequency": 2,
-      "meaning": "zusammenfuegen",
+      "meaning": "zusammenfüegen",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -26089,7 +26093,7 @@
     {
       "root": "ا ز ر",
       "frequency": 2,
-      "meaning": "stuetzen, Ruecken",
+      "meaning": "stützen, Rücken",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -26241,7 +26245,7 @@
     {
       "root": "ع ر ر",
       "frequency": 2,
-      "meaning": "(Quranische Formen: وَٱلْمُعْتَرَّ, مَّعَرَّةٌ[)",
+      "meaning": "(Quranische Formen: وَٱلْمُعْتَرَّ, مَّعَرَّةٌ)",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -26249,7 +26253,7 @@
           "count": 1
         },
         {
-          "form": "مَّعَرَّةٌ[",
+          "form": "مَّعَرَّةٌ",
           "count": 1
         }
       ]
@@ -26385,7 +26389,7 @@
     {
       "root": "م ل ح",
       "frequency": 2,
-      "meaning": "Salz, schoen",
+      "meaning": "Salz, schön",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -26398,7 +26402,7 @@
       "root": "خ ض ع",
       "frequency": 2,
       "meaning": "sich unterwerfen",
-      "semanticField": "Macht und Autoritaet",
+      "semanticField": "Macht und Autorität",
       "keyDerivatives": [
         {
           "form": "خَٰضِعِينَ",
@@ -26445,7 +26449,7 @@
     {
       "root": "ح ج ز",
       "frequency": 2,
-      "meaning": "zurueckhalten, Schranke",
+      "meaning": "zurückhalten, Schranke",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -26549,7 +26553,7 @@
     {
       "root": "س ب غ",
       "frequency": 2,
-      "meaning": "reichlich machen, vollstaendig",
+      "meaning": "reichlich machen, vollständig",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -26657,7 +26661,7 @@
     {
       "root": "ن ز ف",
       "frequency": 2,
-      "meaning": "berauscht werden, erschoepft",
+      "meaning": "berauscht werden, erschöpft",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -26685,7 +26689,7 @@
     {
       "root": "ح ن ث",
       "frequency": 2,
-      "meaning": "Eidbruch, Suende",
+      "meaning": "Eidbruch, Sünde",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -26793,7 +26797,7 @@
       "semanticField": "",
       "keyDerivatives": [
         {
-          "form": "أَبْرَمُوٕا@",
+          "form": "أَبْرَمُوٕا",
           "count": 1
         },
         {
@@ -26829,7 +26833,7 @@
           "count": 1
         },
         {
-          "form": "عُتُلٍّ]",
+          "form": "عُتُلٍّ",
           "count": 1
         }
       ]
@@ -26853,7 +26857,7 @@
     {
       "root": "ع ي ي",
       "frequency": 2,
-      "meaning": "ermueden, unfaehig sein",
+      "meaning": "ermueden, unfähig sein",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -26885,7 +26889,7 @@
     {
       "root": "م ح ن",
       "frequency": 2,
-      "meaning": "pruefen, erproben",
+      "meaning": "prüfen, erproben",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -26901,7 +26905,7 @@
     {
       "root": "ش ع ب",
       "frequency": 2,
-      "meaning": "Voelker, Staemme",
+      "meaning": "Völker, Stämme",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -27045,7 +27049,7 @@
     {
       "root": "ع ه ن",
       "frequency": 2,
-      "meaning": "gefaerbte Wolle",
+      "meaning": "gefärbte Wolle",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -27137,7 +27141,7 @@
     {
       "root": "خ ن س",
       "frequency": 2,
-      "meaning": "sich zurueckziehen, verborgen",
+      "meaning": "sich zurückziehen, verborgen",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -27185,7 +27189,7 @@
     {
       "root": "و س ق",
       "frequency": 2,
-      "meaning": "zusammenfuegen, umfassen",
+      "meaning": "zusammenfüegen, umfassen",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -27201,7 +27205,7 @@
     {
       "root": "ف ك ك",
       "frequency": 2,
-      "meaning": "loesen, befreien",
+      "meaning": "lösen, befreien",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -27361,7 +27365,7 @@
     {
       "root": "س ن ه",
       "frequency": 1,
-      "meaning": "sich veraendern (Wasser)",
+      "meaning": "sich verändern (Wasser)",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -27401,7 +27405,7 @@
       "semanticField": "",
       "keyDerivatives": [
         {
-          "form": "تُغْمِضُوا@",
+          "form": "تُغْمِضُوا",
           "count": 1
         }
       ]
@@ -27505,7 +27509,7 @@
     {
       "root": "ح و ب",
       "frequency": 1,
-      "meaning": "Suende, Vergehen",
+      "meaning": "Sünde, Vergehen",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -27521,7 +27525,7 @@
       "semanticField": "",
       "keyDerivatives": [
         {
-          "form": "تَعُولُوا@",
+          "form": "تَعُولُوا",
           "count": 1
         }
       ]
@@ -27553,7 +27557,7 @@
     {
       "root": "ج ب ت",
       "frequency": 1,
-      "meaning": "Goetzenbild, falscher Kult",
+      "meaning": "Götzenbild, falscher Kult",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -27605,7 +27609,7 @@
       "semanticField": "",
       "keyDerivatives": [
         {
-          "form": "أَذَاعُوا@",
+          "form": "أَذَاعُوا",
           "count": 1
         }
       ]
@@ -27617,7 +27621,7 @@
       "semanticField": "",
       "keyDerivatives": [
         {
-          "form": "يَسْتَن[بِطُونَهُ,",
+          "form": "يَسْتَنبِطُونَهُ,",
           "count": 1
         }
       ]
@@ -27737,7 +27741,7 @@
       "semanticField": "",
       "keyDerivatives": [
         {
-          "form": "يُنفَوْا@",
+          "form": "يُنفَوْا",
           "count": 1
         }
       ]
@@ -28001,7 +28005,7 @@
       "semanticField": "",
       "keyDerivatives": [
         {
-          "form": "فَٱن[بَجَسَتْ",
+          "form": "فَٱنبَجَسَتْ",
           "count": 1
         }
       ]
@@ -28105,7 +28109,7 @@
     {
       "root": "و ط ن",
       "frequency": 1,
-      "meaning": "Staetten, Orte",
+      "meaning": "Stätten, Orte",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -28129,7 +28133,7 @@
     {
       "root": "ض ه ا",
       "frequency": 1,
-      "meaning": "nachahmen, aehneln",
+      "meaning": "nachahmen, ähneln",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -28165,7 +28169,7 @@
     {
       "root": "ث ب ط",
       "frequency": 1,
-      "meaning": "zurueckhalten, hemmen",
+      "meaning": "zurückhalten, hemmen",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -28225,7 +28229,7 @@
     {
       "root": "ق ل ع",
       "frequency": 1,
-      "meaning": "aufhoeren, nachlassen",
+      "meaning": "aufhören, nachlassen",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -28381,7 +28385,7 @@
     {
       "root": "ص و ع",
       "frequency": 1,
-      "meaning": "Becher, Trinkgefaess",
+      "meaning": "Becher, Trinkgefäß",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -28393,11 +28397,11 @@
     {
       "root": "ف ت ا",
       "frequency": 1,
-      "meaning": "aufhoeren, nachlassen",
+      "meaning": "aufhören, nachlassen",
       "semanticField": "",
       "keyDerivatives": [
         {
-          "form": "تَفْتَؤُا@",
+          "form": "تَفْتَؤُا",
           "count": 1
         }
       ]
@@ -28417,7 +28421,7 @@
     {
       "root": "ف ن د",
       "frequency": 1,
-      "meaning": "fuer toericht erklaeren",
+      "meaning": "für toericht erklären",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -28429,7 +28433,7 @@
     {
       "root": "م ح ل",
       "frequency": 1,
-      "meaning": "List, Raenke",
+      "meaning": "List, Ränke",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -28525,7 +28529,7 @@
     {
       "root": "ع ض و",
       "frequency": 1,
-      "meaning": "in Stuecke teilen",
+      "meaning": "in Stücke teilen",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -28645,7 +28649,7 @@
     {
       "root": "و ك د",
       "frequency": 1,
-      "meaning": "bekraeftigen, bestaetigen",
+      "meaning": "bekräftigen, bestaetigen",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -28673,7 +28677,7 @@
       "semanticField": "",
       "keyDerivatives": [
         {
-          "form": "فَجَاسُوا@",
+          "form": "فَجَاسُوا",
           "count": 1
         }
       ]
@@ -28705,7 +28709,7 @@
     {
       "root": "و ف ر",
       "frequency": 1,
-      "meaning": "reichlich, vollstaendig",
+      "meaning": "reichlich, vollständig",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -28765,7 +28769,7 @@
     {
       "root": "ف ج و",
       "frequency": 1,
-      "meaning": "weite Oeffnung, Hoehle",
+      "meaning": "weite Öffnung, Höhle",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -28973,7 +28977,7 @@
       "semanticField": "",
       "keyDerivatives": [
         {
-          "form": "رِكْزً[ا",
+          "form": "رِكْزًا",
           "count": 1
         }
       ]
@@ -29017,7 +29021,7 @@
     {
       "root": "ه ش ش",
       "frequency": 1,
-      "meaning": "herunterschlagen (Blaetter)",
+      "meaning": "herunterschlagen (Blätter)",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -29041,7 +29045,7 @@
     {
       "root": "و ن ي",
       "frequency": 1,
-      "meaning": "nachlassen, traege sein",
+      "meaning": "nachlassen, träge sein",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -29185,7 +29189,7 @@
     {
       "root": "ف ت ق",
       "frequency": 1,
-      "meaning": "oeffnen, auftrennen",
+      "meaning": "öffnen, auftrennen",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -29245,7 +29249,7 @@
     {
       "root": "ح د ب",
       "frequency": 1,
-      "meaning": "Huegel, Erhoehung",
+      "meaning": "Huegel, Erhöhung",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -29365,7 +29369,7 @@
     {
       "root": "ه د م",
       "frequency": 1,
-      "meaning": "niederreissen, zerstoeren",
+      "meaning": "niederreissen, zerstören",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -29509,7 +29513,7 @@
     {
       "root": "ف س ر",
       "frequency": 1,
-      "meaning": "erklaeren, auslegen",
+      "meaning": "erklären, auslegen",
       "semanticField": "Schrift und Offenbarung",
       "keyDerivatives": [
         {
@@ -29525,7 +29529,7 @@
       "semanticField": "",
       "keyDerivatives": [
         {
-          "form": "يَعْبَؤُا@",
+          "form": "يَعْبَؤُا",
           "count": 1
         }
       ]
@@ -29573,7 +29577,7 @@
       "semanticField": "",
       "keyDerivatives": [
         {
-          "form": "فَكُبْكِبُوا@",
+          "form": "فَكُبْكِبُوا",
           "count": 1
         }
       ]
@@ -29641,7 +29645,7 @@
     {
       "root": "ع ف ر",
       "frequency": 1,
-      "meaning": "Ifrit, maechtiger Dschinn",
+      "meaning": "Ifrit, mächtiger Dschinn",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -29737,7 +29741,7 @@
     {
       "root": "ر د ا",
       "frequency": 1,
-      "meaning": "Helfer, Unterstuetzung",
+      "meaning": "Helfer, Unterstützung",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -29797,7 +29801,7 @@
     {
       "root": "ص ع ر",
       "frequency": 1,
-      "meaning": "Wange abwenden, hochmuetig",
+      "meaning": "Wange abwenden, hochmütig",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -30017,7 +30021,7 @@
       "semanticField": "",
       "keyDerivatives": [
         {
-          "form": "لَّازِبٍ]",
+          "form": "لَّازِبٍ",
           "count": 1
         }
       ]
@@ -30241,7 +30245,7 @@
     {
       "root": "ف و ض",
       "frequency": 1,
-      "meaning": "uebergeben, anvertrauen",
+      "meaning": "übergeeben, anvertrauen",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -30377,7 +30381,7 @@
       "semanticField": "",
       "keyDerivatives": [
         {
-          "form": "تَنَابَزُوا@",
+          "form": "تَنَابَزُوا",
           "count": 1
         }
       ]
@@ -30401,7 +30405,7 @@
       "semanticField": "",
       "keyDerivatives": [
         {
-          "form": "تَجَسَّسُوا@",
+          "form": "تَجَسَّسُوا",
           "count": 1
         }
       ]
@@ -30409,7 +30413,7 @@
     {
       "root": "ل ي ت",
       "frequency": 1,
-      "meaning": "verkuerzen, vermindern",
+      "meaning": "verkürzen, vermindern",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -30433,7 +30437,7 @@
     {
       "root": "ل ف ظ",
       "frequency": 1,
-      "meaning": "aussprechen, aeussern",
+      "meaning": "aussprechen, äußern",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -30493,7 +30497,7 @@
     {
       "root": "ر ق ق",
       "frequency": 1,
-      "meaning": "duennes Pergament",
+      "meaning": "dünnes Pergament",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -30565,7 +30569,7 @@
     {
       "root": "ق ن ي",
       "frequency": 1,
-      "meaning": "reich machen, genuegen",
+      "meaning": "reich machen, genügen",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -30577,7 +30581,7 @@
     {
       "root": "س م د",
       "frequency": 1,
-      "meaning": "hochmuetig singen",
+      "meaning": "hochmütig singen",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -30637,7 +30641,7 @@
     {
       "root": "ا ن م",
       "frequency": 1,
-      "meaning": "Geschoepfe, Menschheit",
+      "meaning": "Geschöpfe, Menschheit",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -30649,7 +30653,7 @@
     {
       "root": "ف ن ي",
       "frequency": 1,
-      "meaning": "vergehen, vergaenglich",
+      "meaning": "vergehen, vergänglich",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -30829,7 +30833,7 @@
     {
       "root": "خ ش ب",
       "frequency": 1,
-      "meaning": "Hoelzer, Holzstuecke",
+      "meaning": "Hoelzer, Holzstücke",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -30841,7 +30845,7 @@
     {
       "root": "س ن د",
       "frequency": 1,
-      "meaning": "angelehnt, gestuetzt",
+      "meaning": "angelehnt, gestützt",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -30853,7 +30857,7 @@
     {
       "root": "غ ب ن",
       "frequency": 1,
-      "meaning": "gegenseitige Uebervorteilung",
+      "meaning": "gegenseitige Übervorteilung",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -31009,7 +31013,7 @@
     {
       "root": "ن س ر",
       "frequency": 1,
-      "meaning": "Adler (Goetze Nasr)",
+      "meaning": "Adler (Götze Nasr)",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -31049,7 +31053,7 @@
       "semanticField": "",
       "keyDerivatives": [
         {
-          "form": "تَحَرَّوْا@",
+          "form": "تَحَرَّوْا",
           "count": 1
         }
       ]
@@ -31133,7 +31137,7 @@
       "semanticField": "",
       "keyDerivatives": [
         {
-          "form": "قَسْوَرَةٍ]",
+          "form": "قَسْوَرَةٍ",
           "count": 1
         }
       ]
@@ -31153,7 +31157,7 @@
     {
       "root": "ت ر ق",
       "frequency": 1,
-      "meaning": "Schluesselbeinknochen",
+      "meaning": "Schlüsselbeinknochen",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -31213,7 +31217,7 @@
     {
       "root": "ز م ه ر",
       "frequency": 1,
-      "meaning": "beissende Kaelte",
+      "meaning": "beissende Kälte",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -31309,7 +31313,7 @@
     {
       "root": "س م ك",
       "frequency": 1,
-      "meaning": "Hoehe, emporheben",
+      "meaning": "Höhe, emporheben",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -31429,7 +31433,7 @@
     {
       "root": "ك ش ط",
       "frequency": 1,
-      "meaning": "abziehen, abloesen",
+      "meaning": "abziehen, ablösen",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -31465,7 +31469,7 @@
     {
       "root": "ض ن ن",
       "frequency": 1,
-      "meaning": "geizig, zurueckhaltend",
+      "meaning": "geizig, zurückhaltend",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -31477,7 +31481,7 @@
     {
       "root": "ط ف ف",
       "frequency": 1,
-      "meaning": "Mass verkuerzen, betruegen",
+      "meaning": "Mass verkürzen, betruegen",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -31681,7 +31685,7 @@
     {
       "root": "د م د م",
       "frequency": 1,
-      "meaning": "vernichtend ueber sie kommen",
+      "meaning": "vernichtend über sie kommen",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -31733,7 +31737,7 @@
       "semanticField": "",
       "keyDerivatives": [
         {
-          "form": "لَنَسْفَعً[ا",
+          "form": "لَنَسْفَعًا",
           "count": 1
         }
       ]
@@ -31741,7 +31745,7 @@
     {
       "root": "ز ب ن",
       "frequency": 1,
-      "meaning": "Hoellenschergen, Waechter",
+      "meaning": "Höllenschergen, Wächter",
       "semanticField": "",
       "keyDerivatives": [
         {
@@ -31901,7 +31905,7 @@
       "semanticField": "",
       "keyDerivatives": [
         {
-          "form": "مَّسَدٍ]",
+          "form": "مَّسَدٍ",
           "count": 1
         }
       ]
@@ -31914,14 +31918,15 @@
       "keyDerivatives": [
         {
           "form": "ٱلصَّمَدُ",
-          "count": 1
+          "count": 1,
+          "meaning": "der Undurchdringliche, Beständige, an den man sich in Beduerfnissen wendet (Lane's Lexicon)"
         }
       ]
     },
     {
       "root": "ك ف ا",
       "frequency": 1,
-      "meaning": "genuegen, gleich sein",
+      "meaning": "genügen, gleich sein",
       "semanticField": "",
       "keyDerivatives": [
         {

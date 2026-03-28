@@ -82,7 +82,7 @@
         "1s": "أَفْعَلُ",
         "1p": "نَفْعَلُ"
       },
-      "imperfectNote": "Die Tabelle zeigt nur die a-Klasse (يَفْعَلُ). Form I hat drei Vokalklassen im Imperfekt, die den Stammvokal betreffen:\n\n1. يَفْعَلُ (Fatha — a-Klasse): z.B. يَفْتَحُ (oeffnen, Wurzel ف-ت-ح)\n2. يَفْعِلُ (Kasra — i-Klasse): z.B. يَضْرِبُ (schlagen, Wurzel ض-ر-ب)\n3. يَفْعُلُ (Damma — u-Klasse): z.B. يَكْتُبُ (schreiben, Wurzel ك-ت-ب)\n\nDie Vokalklasse ist lexikalisch festgelegt und muss fuer jedes Verb einzeln gelernt werden. Sie ist nicht aus dem Perfektstamm vorhersagbar.",
+      "imperfectNote": "Die Tabelle zeigt nur die a-Klasse (يَفْعَلُ). Form I hat drei Vokalklassen im Imperfekt, die den Stammvokal betreffen:\n\n1. يَفْعَلُ (Fatha — a-Klasse): z.B. يَفْتَحُ (öffnen, Wurzel ف-ت-ح)\n2. يَفْعِلُ (Kasra — i-Klasse): z.B. يَضْرِبُ (schlagen, Wurzel ض-ر-ب)\n3. يَفْعُلُ (Damma — u-Klasse): z.B. يَكْتُبُ (schreiben, Wurzel ك-ت-ب)\n\nDie Vokalklasse ist lexikalisch festgelegt und muss für jedes Verb einzeln gelernt werden. Sie ist nicht aus dem Perfektstamm vorhersagbar.",
       "imperative": {
         "2ms": "اِفْعَلْ",
         "2fs": "اِفْعَلِي",
@@ -186,7 +186,7 @@
           {
             "arabic": "تِفْعَال",
             "transliteration": "tif'āl",
-            "example": "تِبْيَان (tibyān, Erklärung) — unregelmaessige Variante mit Kasra statt des erwarteten Fatha"
+            "example": "تِبْيَان (tibyān, Erklärung) — unregelmäßige Variante mit Kasra statt des erwarteten Fatha"
           },
           {
             "arabic": "مَفْعَل",
@@ -577,7 +577,7 @@
         "2mp": "تَفَعَّلُوا",
         "2fp": "تَفَعَّلْنَ"
       },
-      "passiveCaveat": "Formen V und VI bilden theoretisch ein Passiv, aber diese Paradigmen sind im Quran und im klassischen Arabisch kaum belegt. Form V/VI sind intrinsisch reflexiv/reziprok; ein Passiv ist grammatisch moeglich, aber selten realisiert.",
+      "passiveCaveat": "Formen V und VI bilden theoretisch ein Passiv, aber diese Paradigmen sind im Quran und im klassischen Arabisch kaum belegt. Form V/VI sind intrinsisch reflexiv/reziprok; ein Passiv ist grammatisch möglich, aber selten realisiert.",
       "perfectPassive": {
         "3ms": "تُفُعِّلَ",
         "3fs": "تُفُعِّلَتْ",
@@ -679,7 +679,7 @@
         "2mp": "تَفَاعَلُوا",
         "2fp": "تَفَاعَلْنَ"
       },
-      "passiveCaveat": "Form VI bildet theoretisch ein Passiv, aber diese Paradigmen sind im Quran und im klassischen Arabisch kaum belegt. Form VI ist intrinsisch reziprok/reflexiv; ein Passiv ist grammatisch moeglich, aber selten realisiert.",
+      "passiveCaveat": "Form VI bildet theoretisch ein Passiv, aber diese Paradigmen sind im Quran und im klassischen Arabisch kaum belegt. Form VI ist intrinsisch reziprok/reflexiv; ein Passiv ist grammatisch möglich, aber selten realisiert.",
       "perfectPassive": {
         "3ms": "تُفُوعِلَ",
         "3fs": "تُفُوعِلَتْ",
@@ -783,7 +783,7 @@
       },
       "perfectPassive": null,
       "imperfectPassive": null,
-      "passiveNote": "Form VII (Reflexiv/Medial) bildet kein Passiv — die reflexive Bedeutung schliesst ein Passiv aus.",
+      "passiveNote": "Form VII (Reflexiv/Medial) bildet kein Passiv — die reflexive Bedeutung schließt ein Passiv aus.",
       "activeParticiple": {
         "arabic": "مُنْفَعِل",
         "transliteration": "munfa'il",
@@ -957,7 +957,7 @@
         "2md": "اِفْعَلَّا",
         "2mp": "اِفْعَلُّوا",
         "2fp": "اِفْعَلِلْنَ",
-        "_note": "2ms und 2fp zeigen Fakk al-Idgham (فَكّ الإدغام): Wenn Sukun folgt, wird die Gemination aufgeloest — اِفْعَلِلْ statt اِفْعَلَّ. Die Kasra ist der sogenannte 'Kasrat at-Tamkin' (stuetzender Vokal). 2fs/2md/2mp behalten die Shadda, weil ein Vokal folgt."
+        "_note": "2ms und 2fp zeigen Fakk al-Idgham (فَكّ الإدغام): Wenn Sukun folgt, wird die Gemination aufgelöst — اِفْعَلِلْ statt اِفْعَلَّ. Die Kasra ist der sogenannte 'Kasrat at-Tamkin' (stützender Vokal). 2fs/2md/2mp behalten die Shadda, weil ein Vokal folgt."
       },
       "perfectPassive": null,
       "imperfectPassive": null,
@@ -1197,7 +1197,7 @@
           {
             "arabic": "عَلَّام",
             "transliteration": "'allām",
-            "german": "aeusserst Wissender"
+            "german": "äußerst Wissender"
           }
         ]
       },
@@ -2355,13 +2355,13 @@
     ]
   },
   "rareVerbForms": {
-    "description": "Seltene Verbformen XI-XV. Kommen im Quran nicht vor. Hier dokumentiert, damit sie bei Begegnung in Woerterbuechern eingeordnet werden koennen.",
+    "description": "Seltene Verbformen XI-XV. Kommen im Quran nicht vor. Hier dokumentiert, damit sie bei Begegnung in Wörterbuechern eingeordnet werden können.",
     "forms": [
       {
         "form": "XI",
         "pattern": "if'alla",
         "patternArabic": "افعلّ",
-        "description": "Intensivform von IX. Farb-/Eigenschaftsbedeutung verstaerkt. Aeusserst selten.",
+        "description": "Intensivform von IX. Farb-/Eigenschaftsbedeutung verstärkt. Äußerst selten.",
         "example": "احمارّ (wurde intensiv rot)"
       },
       {
@@ -2375,7 +2375,7 @@
         "form": "XIII",
         "pattern": "if'awwala",
         "patternArabic": "افعوّل",
-        "description": "Aehnlich wie XII, mit Verdopplung statt Wiederholung. Praktisch nicht belegt.",
+        "description": "Ähnlich wie XII, mit Verdopplung statt Wiederholung. Praktisch nicht belegt.",
         "example": "theoretisch: اقطوّط"
       },
       {
@@ -2389,10 +2389,10 @@
         "form": "XV",
         "pattern": "if'anlā",
         "patternArabic": "افعنلى",
-        "description": "Variante von XIV mit schwachem Endradikal. Rein theoretisch in den meisten Faellen.",
+        "description": "Variante von XIV mit schwachem Endradikal. Rein theoretisch in den meisten Fällen.",
         "example": "احرنبى (richtete sich steif auf)"
       }
     ],
-    "note": "Diese Formen sind fuer das Studium des Qurantextes nicht notwendig. Sie werden hier dokumentiert, damit sie bei Begegnung in Woerterbuechern eingeordnet werden koennen."
+    "note": "Diese Formen sind für das Studium des Qurantextes nicht notwendig. Sie werden hier dokumentiert, damit sie bei Begegnung in Wörterbuechern eingeordnet werden können."
   }
 }

@@ -1,8 +1,12 @@
 {
   "meta": {
     "title": "Polysemie-Drill — Bedeutung im Kontext",
-    "description": "Training zur kontextabhaengigen Bedeutungsbestimmung polysemer Woerter im Quran. Der Leser waehlt die richtige Bedeutung basierend auf dem Vers-Kontext.",
-    "totalEntries": 78
+    "description": "Training zur kontextabhängigen Bedeutungsbestimmung polysemer Wörter im Quran. Der Leser wählt die richtige Bedeutung basierend auf dem Vers-Kontext.",
+    "totalEntries": 78,
+    "sources": [
+      {"title": "Lane's Lexicon", "url": "https://ejtaal.net/aa/"},
+      {"title": "Quranic Arabic Corpus", "url": "https://corpus.quran.com/"}
+    ]
   },
   "entries": [
     {
@@ -11,7 +15,7 @@
       "root": "ض-ر-ب",
       "meanings": [
         "schlagen/treffen",
-        "praegen/aufstellen",
+        "prägen/aufstellen",
         "reisen/losziehen",
         "ein Gleichnis anführen",
         "auferlegen"
@@ -20,25 +24,25 @@
         {
           "ref": "2:26",
           "arabic": "إِنَّ اللَّهَ لَا يَسْتَحْيِي أَن يَضْرِبَ مَثَلًا",
-          "correctMeaning": "ein Gleichnis anfuehren",
-          "context": "Maf'ul bihi ist مَثَلًا (Gleichnis) — das Verb bedeutet hier 'anfuehren/praesentieren', nicht 'schlagen'."
+          "correctMeaning": "ein Gleichnis anführen",
+          "context": "Maf'ul bihi ist مَثَلًا (Gleichnis) — das Verb bedeutet hier 'anführen/präsentieren', nicht 'schlagen'."
         },
         {
           "ref": "2:273",
           "arabic": "لَا يَسْتَطِيعُونَ ضَرْبًا فِي الْأَرْضِ",
           "correctMeaning": "reisen/losziehen",
-          "context": "ضَرْب فِي الْأَرْضِ = Reisen im Land. Praeposition فِي zeigt raeumliche Bewegung."
+          "context": "ضَرْب فِي الْأَرْضِ = Reisen im Land. Präposition فِي zeigt räumliche Bewegung."
         },
         {
           "ref": "8:12",
           "arabic": "فَاضْرِبُوا فَوْقَ الْأَعْنَاقِ",
           "correctMeaning": "schlagen/treffen",
-          "context": "Direkter Imperativ mit Koerperteil als Ziel — physisches Schlagen."
+          "context": "Direkter Imperativ mit Körperteil als Ziel — physisches Schlagen."
         },
         {
           "ref": "43:58",
           "arabic": "مَا ضَرَبُوهُ لَكَ إِلَّا جَدَلًا",
-          "correctMeaning": "anfuehren/vorbringen",
+          "correctMeaning": "anführen/vorbringen",
           "context": "Tamyiz جَدَلًا (Streit) zeigt: es geht um Argumentation, nicht physische Handlung."
         }
       ]
@@ -48,7 +52,7 @@
       "word": "هَدَى",
       "root": "ه-د-ي",
       "meanings": [
-        "rechtleiten/fuehren",
+        "rechtleiten/führen",
         "Geschenk geben (Opfertier)",
         "den Weg zeigen"
       ],
@@ -56,8 +60,8 @@
         {
           "ref": "1:6",
           "arabic": "اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ",
-          "correctMeaning": "rechtleiten/fuehren",
-          "context": "Doppelter Akkusativ (uns + den Weg) — Bitte um Fuehrung."
+          "correctMeaning": "rechtleiten/führen",
+          "context": "Doppelter Akkusativ (uns + den Weg) — Bitte um Führung."
         },
         {
           "ref": "2:198",
@@ -69,7 +73,7 @@
           "ref": "2:196",
           "arabic": "فَمَا اسْتَيْسَرَ مِنَ الْهَدْيِ",
           "correctMeaning": "Opfertier (هَدْي)",
-          "context": "الْهَدْي = das Opfertier, Nomen von derselben Wurzel ه-د-ي. Hier in der Bedeutung 'Opfergabe', nicht 'Fuehrung'."
+          "context": "الْهَدْي = das Opfertier, Nomen von derselben Wurzel ه-د-ي. Hier in der Bedeutung 'Opfergabe', nicht 'Führung'."
         }
       ]
     },
@@ -108,29 +112,29 @@
       "word": "فَتَنَ",
       "root": "ف-ت-ن",
       "meanings": [
-        "pruefen/testen",
-        "verfuehren/in Versuchung fuehren",
+        "prüfen/testen",
+        "verfuehren/in Versuchung führen",
         "verfolgen/bedraengen",
-        "Zwietracht/Pruefung"
+        "Zwietracht/Prüfung"
       ],
       "exercises": [
         {
           "ref": "29:2",
           "arabic": "أَحَسِبَ النَّاسُ أَن يُتْرَكُوا أَن يَقُولُوا آمَنَّا وَهُمْ لَا يُفْتَنُونَ",
           "correctMeaning": "geprueft werden",
-          "context": "Passiv يُفْتَنُونَ nach Glaubensbekenntnis — Pruefung des Glaubens."
+          "context": "Passiv يُفْتَنُونَ nach Glaubensbekenntnis — Prüfung des Glaubens."
         },
         {
           "ref": "2:191",
           "arabic": "وَالْفِتْنَةُ أَشَدُّ مِنَ الْقَتْلِ",
           "correctMeaning": "Verfolgung/Bedraengnis",
-          "context": "Vergleich mit القتل (Toetung) — muss schwerer als Toetung sein: Verfuehrung/Verfolgung/Pruefung."
+          "context": "Vergleich mit القتل (Toetung) — muss schwerer als Toetung sein: Verfuehrung/Verfolgung/Prüfung."
         },
         {
           "ref": "8:28",
           "arabic": "أَنَّمَا أَمْوَالُكُمْ وَأَوْلَادُكُمْ فِتْنَةٌ",
-          "correctMeaning": "Pruefung/Versuchung",
-          "context": "Besitz und Kinder als Pruefung — keine Verfolgung, sondern Versuchung."
+          "correctMeaning": "Prüfung/Versuchung",
+          "context": "Besitz und Kinder als Prüfung — keine Verfolgung, sondern Versuchung."
         }
       ]
     },
@@ -149,7 +153,7 @@
           "ref": "17:85",
           "arabic": "وَيَسْأَلُونَكَ عَنِ الرُّوحِ",
           "correctMeaning": "Geist/Seele",
-          "context": "Frage ueber das Wesen des Ruuh — allgemeine Frage."
+          "context": "Frage über das Wesen des Ruuh — allgemeine Frage."
         },
         {
           "ref": "16:2",
@@ -185,7 +189,7 @@
           "ref": "2:164",
           "arabic": "إِنَّ فِي خَلْقِ السَّمَاوَاتِ وَالْأَرْضِ... لَآيَاتٍ",
           "correctMeaning": "Zeichen/Beweise",
-          "context": "Plural آيَات nach Naturphaenomenen — beobachtbare Zeichen."
+          "context": "Plural آيَات nach Naturphänomenen — beobachtbare Zeichen."
         },
         {
           "ref": "17:101",
@@ -209,7 +213,7 @@
           "ref": "18:109",
           "arabic": "لَوْ كَانَ الْبَحْرُ مِدَادًا لِكَلِمَاتِ رَبِّي",
           "correctMeaning": "Wort/Aussage",
-          "context": "مِدَاد (Tinte) — woertliche Bedeutung: Woerter aufschreiben."
+          "context": "مِدَاد (Tinte) — wörtliche Bedeutung: Wörter aufschreiben."
         },
         {
           "ref": "10:33",
@@ -221,7 +225,7 @@
           "ref": "3:45",
           "arabic": "إِنَّ اللَّهَ يُبَشِّرُكِ بِكَلِمَةٍ مِنْهُ اسْمُهُ الْمَسِيحُ",
           "correctMeaning": "Versprechen/Dekret",
-          "context": "Ankuendigung einer Person mit Namen — كَلِمَة als textuelle Ankuendigung."
+          "context": "Ankündigung einer Person mit Namen — كَلِمَة als textuelle Ankündigung."
         }
       ]
     },
@@ -252,7 +256,7 @@
           "ref": "36:7",
           "arabic": "لَقَدْ حَقَّ الْقَوْلُ عَلَىٰ أَكْثَرِهِمْ",
           "correctMeaning": "sich bewahrheiten/in Kraft treten",
-          "context": "Verb حَقَّ + عَلَى — das Urteil hat sich an ihnen erfuellt."
+          "context": "Verb حَقَّ + عَلَى — das Urteil hat sich an ihnen erfüllt."
         }
       ]
     },
@@ -293,26 +297,26 @@
       "meanings": [
         "Weg/Pfad",
         "Sache/Zweck (fi sabil Allah)",
-        "Mittel/Moeglichkeit"
+        "Mittel/Möglichkeit"
       ],
       "exercises": [
         {
           "ref": "2:154",
           "arabic": "وَلَا تَقُولُوا لِمَن يُقْتَلُ فِي سَبِيلِ اللَّهِ",
           "correctMeaning": "Sache/Zweck",
-          "context": "فِي سَبِيلِ اللَّهِ — feste Wendung: fuer die Sache Gottes."
+          "context": "فِي سَبِيلِ اللَّهِ — feste Wendung: für die Sache Gottes."
         },
         {
           "ref": "25:27",
           "arabic": "يَا لَيْتَنِي اتَّخَذْتُ مَعَ الرَّسُولِ سَبِيلًا",
           "correctMeaning": "Weg/Pfad",
-          "context": "اتَّخَذْتُ (ich haette genommen) — einen Weg eingeschlagen."
+          "context": "اتَّخَذْتُ (ich hätte genommen) — einen Weg eingeschlagen."
         },
         {
           "ref": "4:141",
           "arabic": "فَلَن يَجْعَلَ اللَّهُ لِلْكَافِرِينَ عَلَى الْمُؤْمِنِينَ سَبِيلًا",
-          "correctMeaning": "Mittel/Moeglichkeit",
-          "context": "عَلَى (gegen) — kein Mittel/Zugang gegen die Glaeubigen."
+          "correctMeaning": "Mittel/Möglichkeit",
+          "context": "عَلَى (gegen) — kein Mittel/Zugang gegen die Gläubigen."
         }
       ]
     },
@@ -321,16 +325,16 @@
       "word": "فَتَحَ",
       "root": "ف-ت-ح",
       "meanings": [
-        "oeffnen",
-        "erobern/zum Sieg fuehren",
+        "öffnen",
+        "erobern/zum Sieg führen",
         "entscheiden/richten"
       ],
       "exercises": [
         {
           "ref": "54:11",
           "arabic": "فَفَتَحْنَا أَبْوَابَ السَّمَاءِ",
-          "correctMeaning": "oeffnen",
-          "context": "أَبْوَاب (Tore) — woertliches Oeffnen."
+          "correctMeaning": "öffnen",
+          "context": "أَبْوَاب (Tore) — wörtliches Öffnen."
         },
         {
           "ref": "48:1",
@@ -351,28 +355,28 @@
       "word": "بَلَاء",
       "root": "ب-ل-و",
       "meanings": [
-        "Pruefung/Test",
+        "Prüfung/Test",
         "Gnade/Wohltat",
-        "Leid/Unglueck"
+        "Leid/Unglück"
       ],
       "exercises": [
         {
           "ref": "2:49",
           "arabic": "وَفِي ذَٰلِكُم بَلَاءٌ مِنْ رَبِّكُمْ عَظِيمٌ",
-          "correctMeaning": "Pruefung",
-          "context": "Nach Rettung und Bestrafung — beides war eine grosse Pruefung."
+          "correctMeaning": "Prüfung",
+          "context": "Nach Rettung und Bestrafung — beides war eine grosse Prüfung."
         },
         {
           "ref": "8:17",
           "arabic": "وَلِيُبْلِيَ الْمُؤْمِنِينَ مِنْهُ بَلَاءً حَسَنًا",
           "correctMeaning": "Gnade/Wohltat",
-          "context": "حَسَنًا (gut/schoen) — eine gute Gabe, Gnade."
+          "context": "حَسَنًا (gut/schön) — eine gute Gabe, Gnade."
         },
         {
           "ref": "44:33",
           "arabic": "وَآتَيْنَاهُم مِنَ الْآيَاتِ مَا فِيهِ بَلَاءٌ مُبِينٌ",
-          "correctMeaning": "Pruefung",
-          "context": "مُبِينٌ (klar/deutlich) + Zeichen — deutliche Pruefung."
+          "correctMeaning": "Prüfung",
+          "context": "مُبِينٌ (klar/deutlich) + Zeichen — deutliche Prüfung."
         }
       ]
     },
@@ -383,14 +387,14 @@
       "meanings": [
         "Schutzherr/Beschuetzer",
         "Freund/Verbuendeter",
-        "Naher/Zustaendiger"
+        "Naher/Zuständiger"
       ],
       "exercises": [
         {
           "ref": "2:257",
           "arabic": "اللَّهُ وَلِيُّ الَّذِينَ آمَنُوا",
           "correctMeaning": "Schutzherr/Beschuetzer",
-          "context": "Idafa mit الَّذِينَ آمَنُوا — Gott als Beschuetzer der Glaeubigen."
+          "context": "Idafa mit الَّذِينَ آمَنُوا — Gott als Beschuetzer der Gläubigen."
         },
         {
           "ref": "45:19",
@@ -412,8 +416,8 @@
       "root": "س-ل-ط",
       "meanings": [
         "Beweis/Beweiskraft",
-        "Macht/Autoritaet",
-        "Ermaechtigung"
+        "Macht/Autorität",
+        "Ermächtigung"
       ],
       "exercises": [
         {
@@ -425,14 +429,14 @@
         {
           "ref": "14:22",
           "arabic": "وَمَا كَانَ لِيَ عَلَيْكُم مِن سُلْطَانٍ",
-          "correctMeaning": "Macht/Autoritaet",
-          "context": "عَلَيْكُمْ (ueber euch) — keine Gewalt ueber euch."
+          "correctMeaning": "Macht/Autorität",
+          "context": "عَلَيْكُمْ (über euch) — keine Gewalt über euch."
         },
         {
           "ref": "17:33",
           "arabic": "فَقَدْ جَعَلْنَا لِوَلِيِّهِ سُلْطَانًا",
-          "correctMeaning": "Ermaechtigung",
-          "context": "جَعَلْنَا لِـ (wir gaben dem) — rechtliche Ermaechtigung."
+          "correctMeaning": "Ermächtigung",
+          "context": "جَعَلْنَا لِـ (wir gaben dem) — rechtliche Ermächtigung."
         }
       ]
     },
@@ -472,8 +476,8 @@
       "root": "ف-ض-ل",
       "meanings": [
         "Gnade/Gunst",
-        "Ueberschuss/Ueberfluss",
-        "Vorzug/Ueberlegenheit"
+        "Überschuss/Überfluss",
+        "Vorzug/Überlegenheit"
       ],
       "exercises": [
         {
@@ -486,7 +490,7 @@
           "ref": "2:253",
           "arabic": "فَضَّلْنَا بَعْضَهُمْ عَلَىٰ بَعْضٍ",
           "correctMeaning": "Vorzug geben",
-          "context": "بَعْضَ ... عَلَىٰ بَعْضٍ — einige ueber andere bevorzugen."
+          "context": "بَعْضَ ... عَلَىٰ بَعْضٍ — einige über andere bevorzugen."
         },
         {
           "ref": "57:21",
@@ -516,7 +520,7 @@
           "ref": "5:32",
           "arabic": "مَن قَتَلَ نَفْسًا بِغَيْرِ نَفْسٍ",
           "correctMeaning": "Person/Mensch",
-          "context": "قَتَلَ (toeten) — eine Person toeten."
+          "context": "قَتَلَ (töten) — eine Person töten."
         },
         {
           "ref": "12:53",
@@ -540,7 +544,7 @@
           "ref": "54:14",
           "arabic": "تَجْرِي بِأَعْيُنِنَا",
           "correctMeaning": "unter Unserer Aufsicht",
-          "context": "تَجْرِي (sie laeuft/faehrt) — die Arche faehrt unter Gottes Augen/Aufsicht."
+          "context": "تَجْرِي (sie läuft/faehrt) — die Arche faehrt unter Gottes Augen/Aufsicht."
         },
         {
           "ref": "2:60",
@@ -592,7 +596,7 @@
       "root": "ق-د-ر",
       "meanings": [
         "bestimmen/vorherbestimmen",
-        "faehig sein/vermögen",
+        "fähig sein/vermögen",
         "eng machen/bemessen"
       ],
       "exercises": [
@@ -606,13 +610,13 @@
           "ref": "2:236",
           "arabic": "عَلَى الْمُوسِعِ قَدَرُهُ وَعَلَى الْمُقْتِرِ قَدَرُهُ",
           "correctMeaning": "bemessener Anteil",
-          "context": "الْمُوسِع vs. الْمُقْتِر (der Wohlhabende vs. der Beschraenkte) — nach Vermoegen."
+          "context": "الْمُوسِع vs. الْمُقْتِر (der Wohlhabende vs. der Beschränkte) — nach Vermögen."
         },
         {
           "ref": "36:81",
           "arabic": "أَوَلَيْسَ الَّذِي خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ بِقَادِرٍ",
-          "correctMeaning": "faehig sein",
-          "context": "Partizip قَادِر — Faehigkeit zur Neuerschaffung."
+          "correctMeaning": "fähig sein",
+          "context": "Partizip قَادِر — Fähigkeit zur Neuerschaffung."
         }
       ]
     },
@@ -635,7 +639,7 @@
           "ref": "49:12",
           "arabic": "اجْتَنِبُوا كَثِيرًا مِنَ الظَّنِّ إِنَّ بَعْضَ الظَّنِّ إِثْمٌ",
           "correctMeaning": "Vermutung/Annahme",
-          "context": "إِثْمٌ (Suende) — unbelegte Vermutung ist suendhaft."
+          "context": "إِثْمٌ (Sünde) — unbelegte Vermutung ist suendhaft."
         }
       ]
     },
@@ -665,7 +669,7 @@
           "ref": "14:45",
           "arabic": "وَقَدْ ضَرَبْنَا لَكُمُ الْأَمْثَالَ",
           "correctMeaning": "Beispiele",
-          "context": "ضَرَبَ (anfuehren) — Beispiele zur Belehrung."
+          "context": "ضَرَبَ (anführen) — Beispiele zur Belehrung."
         }
       ]
     },
@@ -674,28 +678,28 @@
       "word": "عَرَضَ",
       "root": "ع-ر-ض",
       "meanings": [
-        "vorzeigen/praesentieren",
+        "vorzeigen/präsentieren",
         "vorbeigehen/sich abwenden",
-        "Gebrauchsgut/vergaengliches Gut"
+        "Gebrauchsgut/vergängliches Gut"
       ],
       "exercises": [
         {
           "ref": "2:31",
           "arabic": "ثُمَّ عَرَضَهُمْ عَلَى الْمَلَائِكَةِ",
-          "correctMeaning": "vorzeigen/praesentieren",
-          "context": "عَلَى (den Engeln) — Praesentation vor den Engeln."
+          "correctMeaning": "vorzeigen/präsentieren",
+          "context": "عَلَى (den Engeln) — Präsentation vor den Engeln."
         },
         {
-          "ref": "7:138",
-          "arabic": "وَجَاوَزْنَا بِبَنِي إِسْرَائِيلَ الْبَحْرَ",
-          "correctMeaning": "vorbeigehen (verwandtes Konzept)",
-          "context": "جَاوَزَ (ueberqueren) — raeumliche Passage."
+          "ref": "7:46",
+          "arabic": "وَعَلَى الْأَعْرَافِ رِجَالٌ يَعْرِفُونَ كُلًّا بِسِيمَاهُمْ",
+          "correctMeaning": "die Erhöhungen / die Anhoehen",
+          "context": "الْأَعْرَاف (die Erhöhungen, Plural von عُرْف) — räumlich erhöhte Position. Verwandte Wurzel ع-ر-ف, hier als Ortsbezeichnung."
         },
         {
           "ref": "8:67",
           "arabic": "تُرِيدُونَ عَرَضَ الدُّنْيَا",
-          "correctMeaning": "vergaengliches Gut",
-          "context": "الدُّنْيَا (das Diesseits) — vergaengliche Gueter."
+          "correctMeaning": "vergängliches Gut",
+          "context": "الدُّنْيَا (das Diesseits) — vergängliche Güter."
         }
       ]
     },
@@ -729,8 +733,8 @@
       "root": "ن-و-ر",
       "meanings": [
         "Licht (physisch)",
-        "Fuehrung/Erhellung",
-        "Schrift/Fuehrung"
+        "Führung/Erhellung",
+        "Schrift/Führung"
       ],
       "exercises": [
         {
@@ -742,8 +746,8 @@
         {
           "ref": "5:15",
           "arabic": "قَدْ جَاءَكُم مِنَ اللَّهِ نُورٌ وَكِتَابٌ مُبِينٌ",
-          "correctMeaning": "Schrift/Fuehrung",
-          "context": "Koordiniert mit كِتَاب — Licht als Metapher fuer die Schrift."
+          "correctMeaning": "Schrift/Führung",
+          "context": "Koordiniert mit كِتَاب — Licht als Metapher für die Schrift."
         },
         {
           "ref": "57:12",
@@ -772,7 +776,7 @@
         {
           "ref": "10:21",
           "arabic": "لَهُ مَكْرٌ فِي الْبَرِّ وَالْبَحْرِ",
-          "correctMeaning": "List/Taeuschung",
+          "correctMeaning": "List/Täuschung",
           "context": "Im Kontext menschlicher Bosheit."
         }
       ]
@@ -797,13 +801,13 @@
           "ref": "12:52",
           "arabic": "ذَٰلِكَ لِيَعْلَمَ أَنِّي لَمْ أَخُنْهُ بِالْغَيْبِ",
           "correctMeaning": "in seiner Abwesenheit",
-          "context": "لَمْ أَخُنْهُ (ich habe ihn nicht verraten) — waehrend seiner Abwesenheit."
+          "context": "لَمْ أَخُنْهُ (ich habe ihn nicht verraten) — während seiner Abwesenheit."
         },
         {
           "ref": "6:59",
           "arabic": "وَعِندَهُ مَفَاتِحُ الْغَيْبِ لَا يَعْلَمُهَا إِلَّا هُوَ",
           "correctMeaning": "unzugaengliches Wissen",
-          "context": "مَفَاتِحُ (Schluessel) — Zugang zu verborgenem Wissen."
+          "context": "مَفَاتِحُ (Schlüssel) — Zugang zu verborgenem Wissen."
         }
       ]
     },
@@ -863,7 +867,7 @@
         {
           "ref": "16:120",
           "arabic": "إِنَّ إِبْرَاهِيمَ كَانَ أُمَّةً قَانِتًا لِلَّهِ",
-          "correctMeaning": "Vorbild/Anfuehrer",
+          "correctMeaning": "Vorbild/Anführer",
           "context": "Ein Einzelner (Ibrahim) wird als أُمَّة bezeichnet — er allein war ein Vorbild/eine ganze Institution."
         },
         {
@@ -888,19 +892,19 @@
           "ref": "2:143",
           "arabic": "وَيَكُونَ الرَّسُولُ عَلَيْكُمْ شَهِيدًا",
           "correctMeaning": "Zeuge",
-          "context": "Der Gesandte bezeugt ueber die Gemeinschaft — Zeugenfunktion."
+          "context": "Der Gesandte bezeugt über die Gemeinschaft — Zeugenfunktion."
         },
         {
           "ref": "4:166",
           "arabic": "لَٰكِنِ اللَّهُ يَشْهَدُ بِمَا أَنزَلَ إِلَيْكَ",
           "correctMeaning": "Zeuge/Bezeugender",
-          "context": "Gott bezeugt die Herabsendung — Bestaetigungsfunktion."
+          "context": "Gott bezeugt die Herabsendung — Bestätigungsfunktion."
         },
         {
           "ref": "3:140",
           "arabic": "وَيَتَّخِذَ مِنكُمْ شُهَدَاءَ",
           "correctMeaning": "Zeuge (im Kampfkontext)",
-          "context": "Kontext des Kampfes (قَاتَلُوا/قُتِلُوا) — Gott nimmt sich Zeugen aus den Kaempfenden."
+          "context": "Kontext des Kampfes (قَاتَلُوا/قُتِلُوا) — Gott nimmt sich Zeugen aus den Kämpfenden."
         },
         {
           "ref": "5:117",
@@ -930,13 +934,13 @@
           "ref": "8:29",
           "arabic": "إِن تَتَّقُوا اللَّهَ يَجْعَل لَّكُمْ فُرْقَانًا",
           "correctMeaning": "Rettung/Ausweg",
-          "context": "Konditional mit تَتَّقُوا — als Resultat der Gottesfurcht wird ein Ausweg/eine Rettung gewaehrt."
+          "context": "Konditional mit تَتَّقُوا — als Resultat der Gottesfurcht wird ein Ausweg/eine Rettung gewährt."
         },
         {
           "ref": "25:1",
           "arabic": "تَبَارَكَ الَّذِي نَزَّلَ الْفُرْقَانَ عَلَىٰ عَبْدِهِ",
           "correctMeaning": "die Unterscheidungsschrift",
-          "context": "نَزَّلَ (herabgesandt) + عَلَىٰ عَبْدِهِ — Bezeichnung fuer die herabgesandte Schrift."
+          "context": "نَزَّلَ (herabgesandt) + عَلَىٰ عَبْدِهِ — Bezeichnung für die herabgesandte Schrift."
         }
       ]
     },
@@ -948,7 +952,7 @@
         "Erinnerung/Gedenken",
         "Ermahnung/Botschaft",
         "Ruhm/Ansehen",
-        "Erwaehnung"
+        "Erwähnung"
       ],
       "exercises": [
         {
@@ -967,7 +971,7 @@
           "ref": "21:10",
           "arabic": "لَقَدْ أَنزَلْنَا إِلَيْكُمْ كِتَابًا فِيهِ ذِكْرُكُمْ",
           "correctMeaning": "Ruhm/Ansehen",
-          "context": "ذِكْرُكُمْ (euer Ruhm/eure Erwaehnung) — das Buch enthaelt ihren Ruhm."
+          "context": "ذِكْرُكُمْ (euer Ruhm/eure Erwähnung) — das Buch enthält ihren Ruhm."
         },
         {
           "ref": "38:32",
@@ -997,7 +1001,7 @@
           "ref": "3:48",
           "arabic": "وَيُعَلِّمُهُ الْكِتَابَ وَالْحِكْمَةَ وَالتَّوْرَاةَ وَالْإِنجِيلَ",
           "correctMeaning": "Prophetie/Schrift",
-          "context": "Aufzaehlung neben الْكِتَاب und التَّوْرَاة — prophetisches Wissen."
+          "context": "Aufzählung neben الْكِتَاب und التَّوْرَاة — prophetisches Wissen."
         },
         {
           "ref": "31:12",
@@ -1033,7 +1037,7 @@
           "ref": "9:103",
           "arabic": "وَصَلِّ عَلَيْهِمْ إِنَّ صَلَاتَكَ سَكَنٌ لَّهُمْ",
           "correctMeaning": "Zuwendung/Fuerbitten",
-          "context": "سَكَنٌ لَّهُمْ (Beruhigung fuer sie) — صَلَاتَكَ (deine Zuwendung) beruhigt die Angesprochenen."
+          "context": "سَكَنٌ لَّهُمْ (Beruhigung für sie) — صَلَاتَكَ (deine Zuwendung) beruhigt die Angesprochenen."
         }
       ]
     },
@@ -1043,7 +1047,7 @@
       "root": "ف-ط-ر",
       "meanings": [
         "natuerliche Anlage/Urnatur",
-        "Schoepfungsart",
+        "Schöpfungsart",
         "Spaltung/Bruch"
       ],
       "exercises": [
@@ -1057,7 +1061,7 @@
           "ref": "6:79",
           "arabic": "إِنِّي وَجَّهْتُ وَجْهِيَ لِلَّذِي فَطَرَ السَّمَاوَاتِ وَالْأَرْضَ",
           "correctMeaning": "erschaffen/ins Dasein bringen",
-          "context": "فَطَرَ السَّمَاوَاتِ (er spaltete/erschuf die Himmel) — Schoepfungsakt."
+          "context": "فَطَرَ السَّمَاوَاتِ (er spaltete/erschuf die Himmel) — Schöpfungsakt."
         },
         {
           "ref": "82:1",
@@ -1074,7 +1078,7 @@
       "meanings": [
         "Nachfolger/Nachfolgend",
         "Stellvertreter",
-        "Bevollmaechtigter auf Erden"
+        "Bevollmächtigter auf Erden"
       ],
       "exercises": [
         {
@@ -1086,8 +1090,8 @@
         {
           "ref": "38:26",
           "arabic": "يَا دَاوُودُ إِنَّا جَعَلْنَاكَ خَلِيفَةً فِي الْأَرْضِ",
-          "correctMeaning": "Bevollmaechtigter/Herrscher auf Erden",
-          "context": "Dawud als Koenig — er soll auf Erden richten (فَاحْكُم بَيْنَ النَّاسِ)."
+          "correctMeaning": "Bevollmächtigter/Herrscher auf Erden",
+          "context": "Dawud als König — er soll auf Erden richten (فَاحْكُم بَيْنَ النَّاسِ)."
         },
         {
           "ref": "6:165",
@@ -1111,7 +1115,7 @@
           "ref": "2:157",
           "arabic": "أُولَٰئِكَ عَلَيْهِمْ صَلَوَاتٌ مِّن رَّبِّهِمْ وَرَحْمَةٌ",
           "correctMeaning": "Barmherzigkeit/Gnade",
-          "context": "Von dem Herrn kommend fuer die Geduldigen — رَحْمَة als Zuwendung im Text."
+          "context": "Von dem Herrn kommend für die Geduldigen — رَحْمَة als Zuwendung im Text."
         },
         {
           "ref": "30:46",
@@ -1123,13 +1127,13 @@
           "ref": "21:107",
           "arabic": "وَمَا أَرْسَلْنَاكَ إِلَّا رَحْمَةً لِّلْعَالَمِينَ",
           "correctMeaning": "Barmherzigkeit (personifiziert)",
-          "context": "Der Gesandte selbst wird als رَحْمَة fuer die Welten bezeichnet."
+          "context": "Der Gesandte selbst wird als رَحْمَة für die Welten bezeichnet."
         },
         {
           "ref": "43:32",
           "arabic": "أَهُمْ يَقْسِمُونَ رَحْمَتَ رَبِّكَ",
           "correctMeaning": "Gabe/Versorgung",
-          "context": "يَقْسِمُونَ (verteilen sie?) — Gottes Gaben koennen nicht von Menschen aufgeteilt werden."
+          "context": "يَقْسِمُونَ (verteilen sie?) — Gottes Gaben können nicht von Menschen aufgeteilt werden."
         }
       ]
     },
@@ -1148,7 +1152,7 @@
           "ref": "2:124",
           "arabic": "قَالَ لَا يَنَالُ عَهْدِي الظَّالِمِينَ",
           "correctMeaning": "Bund/Vertrag",
-          "context": "Gottes عَهْد an Ibrahim — ein Bund, der nicht fuer Ungerechte gilt."
+          "context": "Gottes عَهْد an Ibrahim — ein Bund, der nicht für Ungerechte gilt."
         },
         {
           "ref": "36:60",
@@ -1190,7 +1194,7 @@
           "ref": "7:34",
           "arabic": "وَلِكُلِّ أُمَّةٍ أَجَلٌ فَإِذَا جَاءَ أَجَلُهُمْ",
           "correctMeaning": "festgelegter Zeitpunkt (des Untergangs)",
-          "context": "لِكُلِّ أُمَّةٍ (fuer jedes Volk) — der vorbestimmte Zeitpunkt ihres Endes."
+          "context": "لِكُلِّ أُمَّةٍ (für jedes Volk) — der vorbestimmte Zeitpunkt ihres Endes."
         },
         {
           "ref": "63:10",
@@ -1232,7 +1236,7 @@
           "ref": "11:73",
           "arabic": "رَحْمَتُ اللَّهِ وَبَرَكَاتُهُ عَلَيْكُمْ أَهْلَ الْبَيْتِ",
           "correctMeaning": "Segen/Gnadenerweis",
-          "context": "Zusammen mit رَحْمَة genannt — Gottes Segen ueber die Hausleute."
+          "context": "Zusammen mit رَحْمَة genannt — Gottes Segen über die Hausleute."
         }
       ]
     },
@@ -1242,7 +1246,7 @@
       "root": "ح-س-ب",
       "meanings": [
         "Abrechnung/Rechenschaft",
-        "Genuege/Ausreichendes",
+        "Genüge/Ausreichendes",
         "Menge/Zahl"
       ],
       "exercises": [
@@ -1268,7 +1272,7 @@
           "ref": "65:8",
           "arabic": "فَحَاسَبْنَاهَا حِسَابًا شَدِيدًا",
           "correctMeaning": "Abrechnung (strenge)",
-          "context": "حِسَابًا شَدِيدًا (strenge Abrechnung) — Maf'ul mutlaq betont die Haerte."
+          "context": "حِسَابًا شَدِيدًا (strenge Abrechnung) — Maf'ul mutlaq betont die Härte."
         }
       ]
     },
@@ -1292,7 +1296,7 @@
           "ref": "47:11",
           "arabic": "ذَٰلِكَ بِأَنَّ اللَّهَ مَوْلَى الَّذِينَ آمَنُوا وَأَنَّ الْكَافِرِينَ لَا مَوْلَىٰ لَهُمْ",
           "correctMeaning": "Beschuetzer/Beistand",
-          "context": "Gegensatz: Glaeubige haben einen مَوْلَى, Nichtglaeubige keinen — Schutz und Beistand."
+          "context": "Gegensatz: Gläubige haben einen مَوْلَى, Nichtglaeubige keinen — Schutz und Beistand."
         },
         {
           "ref": "22:78",
@@ -1303,7 +1307,7 @@
         {
           "ref": "57:15",
           "arabic": "فَالْيَوْمَ لَا يُؤْخَذُ مِنكُمْ فِدْيَةٌ وَلَا مِنَ الَّذِينَ كَفَرُوا مَأْوَاكُمُ النَّارُ هِيَ مَوْلَاكُمْ",
-          "correctMeaning": "passendster Ort/Zugehoerigkeit",
+          "correctMeaning": "passendster Ort/Zugehörigkeit",
           "context": "Das Feuer als ihr مَوْلَى — ironisch: der Ort, dem sie am meisten zugehoerig sind."
         }
       ]
@@ -1385,28 +1389,28 @@
       "word": "رُشْد",
       "root": "ر-ش-د",
       "meanings": [
-        "Reife/Muendigkeit",
-        "Fuehrung",
+        "Reife/Mündigkeit",
+        "Führung",
         "Vernunft/Besonnenheit"
       ],
       "exercises": [
         {
           "ref": "4:6",
           "arabic": "فَإِنْ آنَسْتُم مِّنْهُمْ رُشْدًا فَادْفَعُوا إِلَيْهِمْ أَمْوَالَهُمْ",
-          "correctMeaning": "Reife/Muendigkeit",
-          "context": "آنَسْتُم (ihr nehmt wahr) — Pruefung der Reife von Waisen, bevor man ihnen ihr Vermoegen gibt."
+          "correctMeaning": "Reife/Mündigkeit",
+          "context": "آنَسْتُم (ihr nehmt wahr) — Prüfung der Reife von Waisen, bevor man ihnen ihr Vermögen gibt."
         },
         {
           "ref": "2:256",
           "arabic": "قَد تَّبَيَّنَ الرُّشْدُ مِنَ الْغَيِّ",
-          "correctMeaning": "Fuehrung",
-          "context": "Gegensatz zu الْغَيّ (Verirrung) — die Fuehrung hat sich von der Verirrung abgehoben."
+          "correctMeaning": "Führung",
+          "context": "Gegensatz zu الْغَيّ (Verirrung) — die Führung hat sich von der Verirrung abgehoben."
         },
         {
           "ref": "18:66",
           "arabic": "هَلْ أَتَّبِعُكَ عَلَىٰ أَن تُعَلِّمَنِ مِمَّا عُلِّمْتَ رُشْدًا",
           "correctMeaning": "rechte Erkenntnis/Vernunft",
-          "context": "تُعَلِّمَنِ (du lehrst mich) + رُشْدًا — Wissen, das zur Vernunft fuehrt."
+          "context": "تُعَلِّمَنِ (du lehrst mich) + رُشْدًا — Wissen, das zur Vernunft führt."
         }
       ]
     },
@@ -1424,7 +1428,7 @@
           "ref": "9:60",
           "arabic": "إِنَّمَا الصَّدَقَاتُ لِلْفُقَرَاءِ وَالْمَسَاكِينِ",
           "correctMeaning": "Pflichtabgabe",
-          "context": "إِنَّمَا (ausschliesslich) + Aufzaehlung der acht Kategorien — dies ist eine gesetzliche Regelung."
+          "context": "إِنَّمَا (ausschließlich) + Aufzählung der acht Kategorien — dies ist eine gesetzliche Regelung."
         },
         {
           "ref": "9:104",
@@ -1466,13 +1470,13 @@
           "ref": "18:32",
           "arabic": "وَاضْرِبْ لَهُم مَّثَلًا رَّجُلَيْنِ جَعَلْنَا لِأَحَدِهِمَا جَنَّتَيْنِ مِنْ أَعْنَابٍ",
           "correctMeaning": "Garten (irdisch)",
-          "context": "جَنَّتَيْنِ مِنْ أَعْنَابٍ (zwei Gaerten aus Trauben) — landwirtschaftliche Gaerten."
+          "context": "جَنَّتَيْنِ مِنْ أَعْنَابٍ (zwei Gärten aus Trauben) — landwirtschaftliche Gärten."
         },
         {
           "ref": "55:46",
           "arabic": "وَلِمَنْ خَافَ مَقَامَ رَبِّهِ جَنَّتَانِ",
           "correctMeaning": "Paradies (eschatologisch)",
-          "context": "مَقَام رَبِّهِ — zwei Gaerten fuer den, der das Stehen vor Gott fuerchtet."
+          "context": "مَقَام رَبِّهِ — zwei Gärten für den, der das Stehen vor Gott fürchtet."
         }
       ]
     },
@@ -1561,8 +1565,8 @@
         {
           "ref": "4:78",
           "arabic": "وَإِن تُصِبْهُمْ حَسَنَةٌ يَقُولُوا هَٰذِهِ مِنْ عِندِ اللَّهِ وَإِن تُصِبْهُمْ سَيِّئَةٌ",
-          "correctMeaning": "Glueck/Erfolg",
-          "context": "Gegensatz zu سَيِّئَة — wenn ihnen Glueck widerfahert vs. Unglueck."
+          "correctMeaning": "Glück/Erfolg",
+          "context": "Gegensatz zu سَيِّئَة — wenn ihnen Glück widerfahert vs. Unglück."
         },
         {
           "ref": "27:89",
@@ -1574,7 +1578,7 @@
           "ref": "3:120",
           "arabic": "إِن تَمْسَسْكُمْ حَسَنَةٌ تَسُؤْهُمْ",
           "correctMeaning": "Erfolg/Sieg",
-          "context": "تَسُؤْهُمْ (es missfaellt ihnen) — militaerischer Kontext, Erfolg der Glaeubigen."
+          "context": "تَسُؤْهُمْ (es missfaellt ihnen) — militaerischer Kontext, Erfolg der Gläubigen."
         }
       ]
     },
@@ -1592,7 +1596,7 @@
           "ref": "31:13",
           "arabic": "إِنَّ الشِّرْكَ لَظُلْمٌ عَظِيمٌ",
           "correctMeaning": "Beigesellung als Unrecht",
-          "context": "الشِّرْك wird explizit als ظُلْم عَظِيم identifiziert — die groesste Falschplatzierung."
+          "context": "الشِّرْك wird explizit als ظُلْم عَظِيم identifiziert — die größte Falschplatzierung."
         },
         {
           "ref": "2:281",
@@ -1603,14 +1607,14 @@
         {
           "ref": "18:33",
           "arabic": "كِلْتَا الْجَنَّتَيْنِ آتَتْ أُكُلَهَا وَلَمْ تَظْلِم مِّنْهُ شَيْئًا",
-          "correctMeaning": "schmaelern/verkuerzen",
-          "context": "Die Gaerten trugen vollen Ertrag — لَمْ تَظْلِم = sie schmaelerten nichts davon."
+          "correctMeaning": "schmaelern/verkürzen",
+          "context": "Die Gärten trugen vollen Ertrag — لَمْ تَظْلِم = sie schmaelerten nichts davon."
         },
         {
           "ref": "4:40",
           "arabic": "إِنَّ اللَّهَ لَا يَظْلِمُ مِثْقَالَ ذَرَّةٍ",
-          "correctMeaning": "Unrecht tun/verkuerzen",
-          "context": "مِثْقَالَ ذَرَّةٍ (auch nicht das Gewicht eines Staeubchens) — nicht das Geringste wird verkuerzt."
+          "correctMeaning": "Unrecht tun/verkürzen",
+          "context": "مِثْقَالَ ذَرَّةٍ (auch nicht das Gewicht eines Stäubchens) — nicht das Geringste wird verkürzt."
         }
       ]
     },
@@ -1633,13 +1637,13 @@
         {
           "ref": "38:34",
           "arabic": "وَلَقَدْ فَتَنَّا سُلَيْمَانَ وَأَلْقَيْنَا عَلَىٰ كُرْسِيِّهِ جَسَدًا",
-          "correctMeaning": "Thron/Sitz (woertlich)",
-          "context": "عَلَىٰ كُرْسِيِّهِ (auf seinen Thron) — ein Koerper wurde auf Sulaimans Thron geworfen."
+          "correctMeaning": "Thron/Sitz (wörtlich)",
+          "context": "عَلَىٰ كُرْسِيِّهِ (auf seinen Thron) — ein Körper wurde auf Sulaimans Thron geworfen."
         },
         {
           "ref": "2:255",
           "arabic": "اللَّهُ لَا إِلَٰهَ إِلَّا هُوَ الْحَيُّ الْقَيُّومُ",
-          "correctMeaning": "Herrschaft/Autoritaet",
+          "correctMeaning": "Herrschaft/Autorität",
           "context": "Im Gesamtkontext von 2:255 — die Attribute الْحَيّ الْقَيُّوم deuten auf umfassende Herrschaft."
         }
       ]
@@ -1658,25 +1662,25 @@
           "ref": "2:125",
           "arabic": "وَإِذْ جَعَلْنَا الْبَيْتَ مَثَابَةً لِّلنَّاسِ وَأَمْنًا",
           "correctMeaning": "Tempel/Gebetsstätte (Kaaba)",
-          "context": "مَثَابَةً لِّلنَّاسِ (Zufluchtsort fuer die Menschen) — das Haus Gottes in Mekka."
+          "context": "مَثَابَةً لِّلنَّاسِ (Zufluchtsort für die Menschen) — das Haus Gottes in Mekka."
         },
         {
           "ref": "33:33",
           "arabic": "وَقَرْنَ فِي بُيُوتِكُنَّ",
           "correctMeaning": "Haus/Wohnung",
-          "context": "بُيُوتِكُنَّ (eure Haeuser) mit Possessivsuffix — woertliche Wohnhaeuser."
+          "context": "بُيُوتِكُنَّ (eure Häuser) mit Possessivsuffix — wörtliche Wohnhaeuser."
         },
         {
           "ref": "33:33",
           "arabic": "إِنَّمَا يُرِيدُ اللَّهُ لِيُذْهِبَ عَنكُمُ الرِّجْسَ أَهْلَ الْبَيْتِ",
           "correctMeaning": "Familie/Haushalt",
-          "context": "أَهْلَ الْبَيْتِ (Leute des Hauses) — Bezeichnung fuer die Familie."
+          "context": "أَهْلَ الْبَيْتِ (Leute des Hauses) — Bezeichnung für die Familie."
         },
         {
           "ref": "2:189",
           "arabic": "وَلَيْسَ الْبِرُّ بِأَن تَأْتُوا الْبُيُوتَ مِن ظُهُورِهَا",
-          "correctMeaning": "Haus (woertlich)",
-          "context": "مِن ظُهُورِهَا (von ihren Rueckseiten) — physische Haeuser mit Eingaengen."
+          "correctMeaning": "Haus (wörtlich)",
+          "context": "مِن ظُهُورِهَا (von ihren Rückseiten) — physische Häuser mit Eingaengen."
         }
       ]
     },
@@ -1700,7 +1704,7 @@
           "ref": "4:75",
           "arabic": "رَبَّنَا أَخْرِجْنَا مِنْ هَٰذِهِ الْقَرْيَةِ الظَّالِمِ أَهْلُهَا",
           "correctMeaning": "Stadt (mit Bewohnern)",
-          "context": "الظَّالِمِ أَهْلُهَا — die Stadt, deren Bewohner ungerecht sind. قَرْيَة steht fuer den Ort."
+          "context": "الظَّالِمِ أَهْلُهَا — die Stadt, deren Bewohner ungerecht sind. قَرْيَة steht für den Ort."
         },
         {
           "ref": "21:11",
@@ -1753,7 +1757,7 @@
       "meanings": [
         "Namen",
         "Attribute/Bezeichnungen",
-        "blosse Benennungen (ohne Realitaet)"
+        "blosse Benennungen (ohne Realität)"
       ],
       "exercises": [
         {
@@ -1766,19 +1770,19 @@
           "ref": "7:180",
           "arabic": "وَلِلَّهِ الْأَسْمَاءُ الْحُسْنَىٰ فَادْعُوهُ بِهَا",
           "correctMeaning": "Attribute/Namen (Gottes)",
-          "context": "الْحُسْنَىٰ (die schoensten) — Gottes schoene Namen/Attribute."
+          "context": "الْحُسْنَىٰ (die schönsten) — Gottes schöne Namen/Attribute."
         },
         {
           "ref": "12:40",
           "arabic": "مَا تَعْبُدُونَ مِن دُونِهِ إِلَّا أَسْمَاءً سَمَّيْتُمُوهَا",
-          "correctMeaning": "blosse Benennungen (ohne Realitaet)",
-          "context": "سَمَّيْتُمُوهَا (die ihr benannt habt) — der Text bestreitet die Realitaet hinter diesen Benennungen."
+          "correctMeaning": "blosse Benennungen (ohne Realität)",
+          "context": "سَمَّيْتُمُوهَا (die ihr benannt habt) — der Text bestreitet die Realität hinter diesen Benennungen."
         },
         {
           "ref": "53:23",
           "arabic": "إِنْ هِيَ إِلَّا أَسْمَاءٌ سَمَّيْتُمُوهَا أَنتُمْ وَآبَاؤُكُم",
           "correctMeaning": "blosse Benennungen (ohne Substanz)",
-          "context": "Gleiche Struktur — die Goetzen sind nur selbsterfundene Namen."
+          "context": "Gleiche Struktur — die Götzen sind nur selbsterfundene Namen."
         }
       ]
     },
@@ -1796,25 +1800,25 @@
           "ref": "1:7",
           "arabic": "غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ",
           "correctMeaning": "Abirren/Verirrung",
-          "context": "الضَّالِّين als Gegensatz zur Fuehrung (الصِّرَاطَ الْمُسْتَقِيمَ) — die Verirrten."
+          "context": "الضَّالِّين als Gegensatz zur Führung (الصِّرَاطَ الْمُسْتَقِيمَ) — die Verirrten."
         },
         {
           "ref": "12:8",
           "arabic": "إِنَّ أَبَانَا لَفِي ضَلَالٍ مُّبِينٍ",
           "correctMeaning": "Irrtum/Fehleinschaetzung",
-          "context": "Die Brueder Yusufs ueber ihren Vater — er sei in offensichtlichem Irrtum."
+          "context": "Die Brüder Yusufs über ihren Vater — er sei in offensichtlichem Irrtum."
         },
         {
           "ref": "93:7",
           "arabic": "وَوَجَدَكَ ضَالًّا فَهَدَىٰ",
           "correctMeaning": "suchend/ohne Orientierung",
-          "context": "ضَالًّا im Kontrast zu فَهَدَىٰ (und er leitete dich) — Zustand vor der Fuehrung."
+          "context": "ضَالًّا im Kontrast zu فَهَدَىٰ (und er leitete dich) — Zustand vor der Führung."
         },
         {
           "ref": "26:20",
           "arabic": "قَالَ فَعَلْتُهَا إِذًا وَأَنَا مِنَ الضَّالِّينَ",
           "correctMeaning": "Unwissenheit/Unbeabsichtigtheit",
-          "context": "Musa ueber seine Tat — er handelte in Unwissenheit, nicht mit Absicht."
+          "context": "Musa über seine Tat — er handelte in Unwissenheit, nicht mit Absicht."
         }
       ]
     },
@@ -1825,7 +1829,7 @@
       "meanings": [
         "Ort/Standort",
         "Rang/Stellung",
-        "Aufenthalt/Wohnstaette"
+        "Aufenthalt/Wohnstätte"
       ],
       "exercises": [
         {
@@ -1849,8 +1853,8 @@
         {
           "ref": "44:26",
           "arabic": "وَزُرُوعٍ وَمَقَامٍ كَرِيمٍ",
-          "correctMeaning": "Aufenthaltsort/Wohnstaette",
-          "context": "مَقَامٍ كَرِيمٍ (edler Aufenthalt) — die praechtige Wohnstaette, die sie zurueckliessen."
+          "correctMeaning": "Aufenthaltsort/Wohnstätte",
+          "context": "مَقَامٍ كَرِيمٍ (edler Aufenthalt) — die praechtige Wohnstätte, die sie zurückliessen."
         }
       ]
     },
@@ -1859,15 +1863,15 @@
       "word": "بَاطِل",
       "root": "ب-ط-ل",
       "meanings": [
-        "Falschheit/Luege",
+        "Falschheit/Lüge",
         "Nichtiges/Wertloses",
-        "Vergaengliches"
+        "Vergängliches"
       ],
       "exercises": [
         {
           "ref": "2:42",
           "arabic": "وَلَا تَلْبِسُوا الْحَقَّ بِالْبَاطِلِ",
-          "correctMeaning": "Falschheit/Luege",
+          "correctMeaning": "Falschheit/Lüge",
           "context": "Gegensatz zu الْحَقّ — die Wahrheit nicht mit Falschheit vermischen."
         },
         {
@@ -1879,14 +1883,14 @@
         {
           "ref": "17:81",
           "arabic": "وَقُلْ جَاءَ الْحَقُّ وَزَهَقَ الْبَاطِلُ إِنَّ الْبَاطِلَ كَانَ زَهُوقًا",
-          "correctMeaning": "das Vergaengliche/Nichtige",
-          "context": "زَهَقَ (vergehen/verschwinden) + زَهُوقًا — das Nichtige ist seiner Natur nach vergaenglich."
+          "correctMeaning": "das Vergängliche/Nichtige",
+          "context": "زَهَقَ (vergehen/verschwinden) + زَهُوقًا — das Nichtige ist seiner Natur nach vergänglich."
         },
         {
           "ref": "4:29",
           "arabic": "لَا تَأْكُلُوا أَمْوَالَكُم بَيْنَكُم بِالْبَاطِلِ",
           "correctMeaning": "auf unrechtmaessige Weise",
-          "context": "بِالْبَاطِلِ — als Adverbial: auf nichtige/unrechtmaessige Weise Vermoegen verzehren."
+          "context": "بِالْبَاطِلِ — als Adverbial: auf nichtige/unrechtmaessige Weise Vermögen verzehren."
         }
       ]
     },
@@ -1916,13 +1920,13 @@
           "ref": "5:2",
           "arabic": "وَتَعَاوَنُوا عَلَى الْبِرِّ وَالتَّقْوَىٰ",
           "correctMeaning": "Froemmigkeit/Pflichtbewusstsein",
-          "context": "Parallel zu الْبِرّ (Guete) — Zusammenarbeit in Guete und pflichtbewusster Achtsamkeit."
+          "context": "Parallel zu الْبِرّ (Güte) — Zusammenarbeit in Güte und pflichtbewusster Achtsamkeit."
         },
         {
           "ref": "91:8",
           "arabic": "فَأَلْهَمَهَا فُجُورَهَا وَتَقْوَاهَا",
-          "correctMeaning": "Schutz/Bewahrung (vor Suende)",
-          "context": "Gegensatz zu فُجُور (Frevel) — die Faehigkeit, sich vor Suende zu schuetzen."
+          "correctMeaning": "Schutz/Bewahrung (vor Sünde)",
+          "context": "Gegensatz zu فُجُور (Frevel) — die Fähigkeit, sich vor Sünde zu schützen."
         }
       ]
     },
@@ -1931,22 +1935,22 @@
       "word": "سَيِّئَة",
       "root": "س-و-ا",
       "meanings": [
-        "schlechte Tat/Suende",
-        "Unglueck/Widerwärtigkeit",
+        "schlechte Tat/Sünde",
+        "Unglück/Widerwärtigkeit",
         "Strafe/Vergeltung"
       ],
       "exercises": [
         {
           "ref": "42:25",
           "arabic": "وَيَعْفُو عَنِ السَّيِّئَاتِ",
-          "correctMeaning": "schlechte Taten/Suenden",
-          "context": "يَعْفُو عَن (er vergibt) — Vergebung von Suenden."
+          "correctMeaning": "schlechte Taten/Sünden",
+          "context": "يَعْفُو عَن (er vergibt) — Vergebung von Sünden."
         },
         {
           "ref": "4:78",
           "arabic": "وَإِن تُصِبْهُمْ سَيِّئَةٌ يَقُولُوا هَٰذِهِ مِنْ عِندِكَ",
-          "correctMeaning": "Unglueck/Widerwärtigkeit",
-          "context": "تُصِبْهُمْ (trifft sie) — Gegensatz zu حَسَنَة, etwas das einen trifft: Unglueck."
+          "correctMeaning": "Unglück/Widerwärtigkeit",
+          "context": "تُصِبْهُمْ (trifft sie) — Gegensatz zu حَسَنَة, etwas das einen trifft: Unglück."
         },
         {
           "ref": "13:6",
@@ -1957,7 +1961,7 @@
         {
           "ref": "17:7",
           "arabic": "وَإِنْ أَسَأْتُمْ فَلَهَا",
-          "correctMeaning": "Boeses/Schlechtes tun",
+          "correctMeaning": "Böses/Schlechtes tun",
           "context": "Verb أَسَاءَ — wenn ihr schlecht handelt, ist es zu eurem Nachteil."
         }
       ]
@@ -1967,9 +1971,9 @@
       "word": "فَاحِشَة",
       "root": "ف-ح-ش",
       "meanings": [
-        "Unsittlichkeit/Obszoenitaet",
+        "Unsittlichkeit/Obszoenität",
         "Ehebruch/Unzucht",
-        "Uebermass/Ungeheuerlichkeit"
+        "Übermass/Ungeheuerlichkeit"
       ],
       "exercises": [
         {
@@ -1981,8 +1985,8 @@
         {
           "ref": "7:80",
           "arabic": "أَتَأْتُونَ الْفَاحِشَةَ مَا سَبَقَكُم بِهَا مِنْ أَحَدٍ",
-          "correctMeaning": "Unsittlichkeit/Obszoenitaet",
-          "context": "Luts Volk — مَا سَبَقَكُم (niemand hat euch darin vorangetan): eine beispiellose Obszoenitaet."
+          "correctMeaning": "Unsittlichkeit/Obszoenität",
+          "context": "Luts Volk — مَا سَبَقَكُم (niemand hat euch darin vorangetan): eine beispiellose Obszoenität."
         },
         {
           "ref": "2:169",
@@ -2003,17 +2007,17 @@
       "word": "إِمَام",
       "root": "ا-م-م",
       "meanings": [
-        "Anfuehrer/Leiter",
+        "Anführer/Leiter",
         "Buch/Verzeichnis",
-        "Weg/Strasse",
+        "Weg/Straße",
         "Vorbild"
       ],
       "exercises": [
         {
           "ref": "2:124",
           "arabic": "قَالَ إِنِّي جَاعِلُكَ لِلنَّاسِ إِمَامًا",
-          "correctMeaning": "Vorbild/Anfuehrer",
-          "context": "جَاعِلُكَ (ich mache dich) + لِلنَّاسِ — Ibrahim als Vorbild fuer die Menschen."
+          "correctMeaning": "Vorbild/Anführer",
+          "context": "جَاعِلُكَ (ich mache dich) + لِلنَّاسِ — Ibrahim als Vorbild für die Menschen."
         },
         {
           "ref": "36:12",
@@ -2024,14 +2028,14 @@
         {
           "ref": "15:79",
           "arabic": "وَإِنَّهُمَا لَبِإِمَامٍ مُّبِينٍ",
-          "correctMeaning": "Weg/Strasse",
-          "context": "لَبِإِمَامٍ مُّبِينٍ — beide (Staedte) liegen an einem klaren Weg/einer deutlichen Strasse."
+          "correctMeaning": "Weg/Straße",
+          "context": "لَبِإِمَامٍ مُّبِينٍ — beide (Städte) liegen an einem klaren Weg/einer deutlichen Straße."
         },
         {
           "ref": "25:74",
           "arabic": "وَاجْعَلْنَا لِلْمُتَّقِينَ إِمَامًا",
-          "correctMeaning": "Vorbild/Anfuehrer",
-          "context": "Bittgebet — mach uns zu Vorbildern fuer die Gottesbewussten."
+          "correctMeaning": "Vorbild/Anführer",
+          "context": "Bittgebet — mach uns zu Vorbildern für die Gottesbewussten."
         }
       ]
     },
@@ -2055,7 +2059,7 @@
           "ref": "58:19",
           "arabic": "اسْتَحْوَذَ عَلَيْهِمُ الشَّيْطَانُ فَأَنسَاهُمْ ذِكْرَ اللَّهِ أُولَٰئِكَ حِزْبُ الشَّيْطَانِ",
           "correctMeaning": "Partei (des Satans)",
-          "context": "حِزْبُ الشَّيْطَانِ — die Partei des Teufels als Gegenstueck zu حِزْب اللَّهِ."
+          "context": "حِزْبُ الشَّيْطَانِ — die Partei des Teufels als Gegenstück zu حِزْب اللَّهِ."
         },
         {
           "ref": "33:20",
@@ -2067,7 +2071,7 @@
           "ref": "23:53",
           "arabic": "فَتَقَطَّعُوا أَمْرَهُم بَيْنَهُمْ زُبُرًا كُلُّ حِزْبٍ بِمَا لَدَيْهِمْ فَرِحُونَ",
           "correctMeaning": "Gruppe/Sekte",
-          "context": "كُلُّ حِزْبٍ (jede Gruppe) — jede Gruppe freut sich ueber das, was sie hat."
+          "context": "كُلُّ حِزْبٍ (jede Gruppe) — jede Gruppe freut sich über das, was sie hat."
         }
       ]
     },
@@ -2078,32 +2082,32 @@
       "meanings": [
         "Verfahrensweise/Gesetzmässigkeit",
         "Brauch/Gewohnheit",
-        "Gottes Vorgehen (mit frueheren Voelkern)"
+        "Gottes Vorgehen (mit frueheren Völkern)"
       ],
       "exercises": [
         {
           "ref": "33:62",
           "arabic": "سُنَّةَ اللَّهِ فِي الَّذِينَ خَلَوْا مِن قَبْلُ وَلَن تَجِدَ لِسُنَّةِ اللَّهِ تَبْدِيلًا",
           "correctMeaning": "Gottes Verfahrensweise",
-          "context": "لَن تَجِدَ تَبْدِيلًا (du wirst keine Aenderung finden) — Gottes unveraenderliche Vorgehensweise."
+          "context": "لَن تَجِدَ تَبْدِيلًا (du wirst keine Änderung finden) — Gottes unveränderliche Vorgehensweise."
         },
         {
           "ref": "35:43",
           "arabic": "فَلَن تَجِدَ لِسُنَّتِ اللَّهِ تَبْدِيلًا وَلَن تَجِدَ لِسُنَّتِ اللَّهِ تَحْوِيلًا",
           "correctMeaning": "Gesetzmässigkeit Gottes",
-          "context": "تَبْدِيلًا/تَحْوِيلًا — weder Aenderung noch Abweichung: feste Gesetzmässigkeit."
+          "context": "تَبْدِيلًا/تَحْوِيلًا — weder Änderung noch Abweichung: feste Gesetzmässigkeit."
         },
         {
           "ref": "8:38",
           "arabic": "قُل لِّلَّذِينَ كَفَرُوا إِن يَنتَهُوا يُغْفَرْ لَهُم مَّا قَدْ سَلَفَ وَإِن يَعُودُوا فَقَدْ مَضَتْ سُنَّتُ الْأَوَّلِينَ",
           "correctMeaning": "Verfahrensweise (mit den Frueheren)",
-          "context": "سُنَّتُ الْأَوَّلِينَ — die Vorgehensweise gegenueber den frueheren Voelkern ist bereits ergangen."
+          "context": "سُنَّتُ الْأَوَّلِينَ — die Vorgehensweise gegenüber den frueheren Völkern ist bereits ergangen."
         },
         {
           "ref": "15:13",
           "arabic": "وَقَدْ خَلَتْ سُنَّةُ الْأَوَّلِينَ",
           "correctMeaning": "Brauch/Verfahren der Frueheren",
-          "context": "خَلَتْ (vergangen) — das Beispiel/Verfahren der frueheren Voelker ist bereits geschehen."
+          "context": "خَلَتْ (vergangen) — das Beispiel/Verfahren der frueheren Völker ist bereits geschehen."
         }
       ]
     },
@@ -2127,13 +2131,13 @@
           "ref": "55:29",
           "arabic": "كُلَّ يَوْمٍ هُوَ فِي شَأْنٍ",
           "correctMeaning": "Angelegenheit/Wirken",
-          "context": "Jeden Tag ist Er in einer (neuen) Angelegenheit — شَأْن als Ausdruck fortwaehrender Aktivitaet."
+          "context": "Jeden Tag ist Er in einer (neuen) Angelegenheit — شَأْن als Ausdruck fortwaehrender Aktivität."
         },
         {
           "ref": "80:37",
           "arabic": "لِكُلِّ امْرِئٍ مِّنْهُمْ يَوْمَئِذٍ شَأْنٌ يُغْنِيهِ",
-          "correctMeaning": "Zustand/Angelegenheit (die ihn beschaeftigt)",
-          "context": "شَأْنٌ يُغْنِيهِ — jeder hat an jenem Tag eine Angelegenheit, die ihn voellig in Anspruch nimmt."
+          "correctMeaning": "Zustand/Angelegenheit (die ihn beschäftigt)",
+          "context": "شَأْنٌ يُغْنِيهِ — jeder hat an jenem Tag eine Angelegenheit, die ihn völlig in Anspruch nimmt."
         }
       ]
     },
@@ -2151,7 +2155,7 @@
           "ref": "2:22",
           "arabic": "وَأَنزَلَ مِنَ السَّمَاءِ مَاءً فَأَخْرَجَ بِهِ مِنَ الثَّمَرَاتِ رِزْقًا لَّكُمْ",
           "correctMeaning": "Nahrung/Speise",
-          "context": "مِنَ الثَّمَرَات (von den Fruechten) — konkrete Nahrung als Versorgung."
+          "context": "مِنَ الثَّمَرَات (von den Früchten) — konkrete Nahrung als Versorgung."
         },
         {
           "ref": "17:30",
@@ -2179,7 +2183,7 @@
       "root": "ك-س-ب",
       "meanings": [
         "erwerben/verdienen",
-        "begehen (Suende)",
+        "begehen (Sünde)",
         "sich zuziehen"
       ],
       "exercises": [
@@ -2187,12 +2191,12 @@
           "ref": "2:134",
           "arabic": "لَهَا مَا كَسَبَتْ وَلَكُم مَّا كَسَبْتُمْ",
           "correctMeaning": "erwerben/verdienen",
-          "context": "Jeder traegt, was er erworben hat — allgemeines Erwerben von Taten."
+          "context": "Jeder trägt, was er erworben hat — allgemeines Erwerben von Taten."
         },
         {
           "ref": "2:81",
           "arabic": "بَلَىٰ مَن كَسَبَ سَيِّئَةً وَأَحَاطَتْ بِهِ خَطِيئَتُهُ",
-          "correctMeaning": "begehen (Suende)",
+          "correctMeaning": "begehen (Sünde)",
           "context": "كَسَبَ سَيِّئَةً — eine schlechte Tat begehen; خَطِيئَة umschliesst ihn."
         },
         {
@@ -2223,7 +2227,7 @@
           "ref": "2:124",
           "arabic": "قَالَ وَمِن ذُرِّيَّتِي قَالَ لَا يَنَالُ عَهْدِي الظَّالِمِينَ",
           "correctMeaning": "Nachkommenschaft",
-          "context": "Ibrahim fragt nach seinen Nachkommen — ob der Bund auch fuer sie gilt."
+          "context": "Ibrahim fragt nach seinen Nachkommen — ob der Bund auch für sie gilt."
         },
         {
           "ref": "19:58",
@@ -2240,8 +2244,8 @@
         {
           "ref": "7:172",
           "arabic": "وَإِذْ أَخَذَ رَبُّكَ مِن بَنِي آدَمَ مِن ظُهُورِهِمْ ذُرِّيَّتَهُمْ",
-          "correctMeaning": "Nachkommen (aus den Ruecken)",
-          "context": "مِن ظُهُورِهِمْ (aus ihren Ruecken) — die Nachkommen wurden aus den Lenden genommen."
+          "correctMeaning": "Nachkommen (aus den Rücken)",
+          "context": "مِن ظُهُورِهِمْ (aus ihren Rücken) — die Nachkommen wurden aus den Lenden genommen."
         }
       ]
     },
@@ -2252,7 +2256,7 @@
       "meanings": [
         "Reue/Umkehr (des Menschen)",
         "Vergebung/Zuwendung (von Gott)",
-        "Rueckkehr"
+        "Rückkehr"
       ],
       "exercises": [
         {
@@ -2276,8 +2280,8 @@
         {
           "ref": "4:18",
           "arabic": "وَلَيْسَتِ التَّوْبَةُ لِلَّذِينَ يَعْمَلُونَ السَّيِّئَاتِ",
-          "correctMeaning": "Reue/Moeglichkeit zur Umkehr",
-          "context": "Negation — die Reue gilt nicht fuer diejenigen, die bis zum Tod suendigen."
+          "correctMeaning": "Reue/Möglichkeit zur Umkehr",
+          "context": "Negation — die Reue gilt nicht für diejenigen, die bis zum Tod suendigen."
         }
       ]
     },
@@ -2288,7 +2292,7 @@
       "meanings": [
         "Gruppe/Truppe",
         "Schar/Partei",
-        "Stuetzgruppe"
+        "Stützgruppe"
       ],
       "exercises": [
         {
@@ -2306,8 +2310,8 @@
         {
           "ref": "28:81",
           "arabic": "فَمَا كَانَ لَهُ مِن فِئَةٍ يَنصُرُونَهُ مِن دُونِ اللَّهِ",
-          "correctMeaning": "Stuetzgruppe/Helfer",
-          "context": "يَنصُرُونَهُ (die ihm helfen) — Qarun hatte keine Stuetzgruppe, die ihm beistand."
+          "correctMeaning": "Stützgruppe/Helfer",
+          "context": "يَنصُرُونَهُ (die ihm helfen) — Qarun hatte keine Stützgruppe, die ihm beistand."
         }
       ]
     },
@@ -2316,7 +2320,7 @@
       "word": "شِفَاء",
       "root": "ش-ف-ي",
       "meanings": [
-        "Heilung (koerperlich)",
+        "Heilung (körperlich)",
         "Heilung (seelisch/geistig)",
         "Heilmittel"
       ],
@@ -2325,19 +2329,19 @@
           "ref": "10:57",
           "arabic": "يَا أَيُّهَا النَّاسُ قَدْ جَاءَتْكُم مَّوْعِظَةٌ مِّن رَّبِّكُمْ وَشِفَاءٌ لِّمَا فِي الصُّدُورِ",
           "correctMeaning": "Heilung (seelisch)",
-          "context": "لِّمَا فِي الصُّدُورِ (fuer das, was in den Bruesten ist) — Heilung fuer innere Krankheiten."
+          "context": "لِّمَا فِي الصُّدُورِ (für das, was in den Bruesten ist) — Heilung für innere Krankheiten."
         },
         {
           "ref": "16:69",
           "arabic": "يَخْرُجُ مِن بُطُونِهَا شَرَابٌ مُّخْتَلِفٌ أَلْوَانُهُ فِيهِ شِفَاءٌ لِّلنَّاسِ",
-          "correctMeaning": "Heilmittel (koerperlich)",
+          "correctMeaning": "Heilmittel (körperlich)",
           "context": "شَرَابٌ (Getraenk) aus Bienen — Honig als physisches Heilmittel."
         },
         {
           "ref": "17:82",
           "arabic": "وَنُنَزِّلُ مِنَ الْقُرْآنِ مَا هُوَ شِفَاءٌ وَرَحْمَةٌ لِّلْمُؤْمِنِينَ",
           "correctMeaning": "Heilung (geistig/spirituell)",
-          "context": "مِنَ الْقُرْآنِ — der Quran als Schifa, Heilung fuer die Glaeubigen."
+          "context": "مِنَ الْقُرْآنِ — der Quran als Schifa, Heilung für die Gläubigen."
         }
       ]
     },
@@ -2348,20 +2352,20 @@
       "meanings": [
         "Gutes/das Gute",
         "besser (Komparativ)",
-        "Vermoegen/Reichtum"
+        "Vermögen/Reichtum"
       ],
       "exercises": [
         {
           "ref": "2:180",
           "arabic": "كُتِبَ عَلَيْكُمْ إِذَا حَضَرَ أَحَدَكُمُ الْمَوْتُ إِن تَرَكَ خَيْرًا",
-          "correctMeaning": "Vermoegen/Reichtum",
-          "context": "إِن تَرَكَ خَيْرًا — wenn er Vermoegen hinterlaesst. Im Erbrechts-Kontext = materieller Besitz."
+          "correctMeaning": "Vermögen/Reichtum",
+          "context": "إِن تَرَكَ خَيْرًا — wenn er Vermögen hinterlaesst. Im Erbrechts-Kontext = materieller Besitz."
         },
         {
           "ref": "2:184",
           "arabic": "وَأَن تَصُومُوا خَيْرٌ لَّكُمْ",
           "correctMeaning": "besser (Komparativ)",
-          "context": "خَيْرٌ لَّكُمْ — Fasten ist besser fuer euch. Vergleich."
+          "context": "خَيْرٌ لَّكُمْ — Fasten ist besser für euch. Vergleich."
         },
         {
           "ref": "3:26",
@@ -2382,7 +2386,7 @@
       "word": "شَرّ",
       "root": "ش-ر-ر",
       "meanings": [
-        "Uebel/Boeses",
+        "Uebel/Böses",
         "schlimmer (Komparativ)",
         "Schaden/Unheil"
       ],
@@ -2390,14 +2394,14 @@
         {
           "ref": "113:2",
           "arabic": "مِن شَرِّ مَا خَلَقَ",
-          "correctMeaning": "Uebel/Boeses",
+          "correctMeaning": "Uebel/Böses",
           "context": "مِن شَرِّ (vor dem Uebel) — Zufluchtsuche vor dem Uebel des Geschaffenen."
         },
         {
           "ref": "2:216",
           "arabic": "وَعَسَىٰ أَن تُحِبُّوا شَيْئًا وَهُوَ شَرٌّ لَّكُمْ",
-          "correctMeaning": "schlecht/schaedlich (fuer euch)",
-          "context": "شَرٌّ لَّكُمْ — etwas ist schlecht/schaedlich fuer euch, obwohl ihr es liebt."
+          "correctMeaning": "schlecht/schaedlich (für euch)",
+          "context": "شَرٌّ لَّكُمْ — etwas ist schlecht/schaedlich für euch, obwohl ihr es liebt."
         },
         {
           "ref": "8:22",
@@ -2409,7 +2413,7 @@
           "ref": "98:6",
           "arabic": "أُولَٰئِكَ هُمْ شَرُّ الْبَرِيَّةِ",
           "correctMeaning": "die Schlimmsten (Superlativ)",
-          "context": "شَرُّ الْبَرِيَّةِ — die Schlimmsten der Geschoepfe."
+          "context": "شَرُّ الْبَرِيَّةِ — die Schlimmsten der Geschöpfe."
         }
       ]
     },
@@ -2428,13 +2432,13 @@
           "ref": "1:2",
           "arabic": "الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ",
           "correctMeaning": "Herr/Gebieter",
-          "context": "رَبِّ الْعَالَمِينَ — Herr aller Welten/Geschoepfe."
+          "context": "رَبِّ الْعَالَمِينَ — Herr aller Welten/Geschöpfe."
         },
         {
           "ref": "12:42",
           "arabic": "اذْكُرْنِي عِندَ رَبِّكَ فَأَنسَاهُ الشَّيْطَانُ ذِكْرَ رَبِّهِ",
-          "correctMeaning": "Herr/Gebieter (irdisch: Koenig)",
-          "context": "عِندَ رَبِّكَ — erwaehne mich bei deinem Herrn (dem Koenig Aegyptens)."
+          "correctMeaning": "Herr/Gebieter (irdisch: König)",
+          "context": "عِندَ رَبِّكَ — erwähne mich bei deinem Herrn (dem König Aegyptens)."
         },
         {
           "ref": "26:18",
@@ -2482,7 +2486,7 @@
           "ref": "51:56",
           "arabic": "وَمَا خَلَقْتُ الْجِنَّ وَالْإِنسَ إِلَّا لِيَعْبُدُونِ",
           "correctMeaning": "anbeten/dienen",
-          "context": "إِلَّا لِيَعْبُدُونِ — der Zweck der Schoepfung: Anbetung/Dienst."
+          "context": "إِلَّا لِيَعْبُدُونِ — der Zweck der Schöpfung: Anbetung/Dienst."
         }
       ]
     },
@@ -2500,7 +2504,7 @@
           "ref": "6:34",
           "arabic": "وَلَقَدْ جَاءَكَ مِن نَّبَإِ الْمُرْسَلِينَ",
           "correctMeaning": "Geschichte/Bericht",
-          "context": "نَّبَإِ الْمُرْسَلِينَ — Berichte ueber die frueheren Gesandten."
+          "context": "نَّبَإِ الْمُرْسَلِينَ — Berichte über die frueheren Gesandten."
         },
         {
           "ref": "78:2",
@@ -2527,8 +2531,8 @@
       "word": "حَدِيث",
       "root": "ح-د-ث",
       "meanings": [
-        "Rede/Gespraech",
-        "Erzaehlung/Geschichte",
+        "Rede/Gespräch",
+        "Erzählung/Geschichte",
         "Neuigkeit/neue Sache"
       ],
       "exercises": [
@@ -2541,26 +2545,26 @@
         {
           "ref": "20:9",
           "arabic": "وَهَلْ أَتَاكَ حَدِيثُ مُوسَىٰ",
-          "correctMeaning": "Geschichte/Erzaehlung",
-          "context": "حَدِيثُ مُوسَىٰ — die Geschichte Moses, die erzaehlt wird."
+          "correctMeaning": "Geschichte/Erzählung",
+          "context": "حَدِيثُ مُوسَىٰ — die Geschichte Moses, die erzählt wird."
         },
         {
           "ref": "12:111",
           "arabic": "مَا كَانَ حَدِيثًا يُفْتَرَىٰ",
-          "correctMeaning": "Erzaehlung/Bericht",
-          "context": "حَدِيثًا يُفْتَرَىٰ (eine erfundene Erzaehlung) — der Quran ist keine erfundene Geschichte."
+          "correctMeaning": "Erzählung/Bericht",
+          "context": "حَدِيثًا يُفْتَرَىٰ (eine erfundene Erzählung) — der Quran ist keine erfundene Geschichte."
         },
         {
           "ref": "66:3",
           "arabic": "وَإِذْ أَسَرَّ النَّبِيُّ إِلَىٰ بَعْضِ أَزْوَاجِهِ حَدِيثًا",
-          "correctMeaning": "Gespraech/vertrauliche Rede",
-          "context": "أَسَرَّ (er vertraute an) — ein vertrauliches Gespraech."
+          "correctMeaning": "Gespräch/vertrauliche Rede",
+          "context": "أَسَرَّ (er vertraute an) — ein vertrauliches Gespräch."
         },
         {
           "ref": "93:11",
           "arabic": "وَأَمَّا بِنِعْمَةِ رَبِّكَ فَحَدِّثْ",
-          "correctMeaning": "berichten/erzaehlen (Verb)",
-          "context": "فَحَدِّثْ (so berichte!) — II. Stamm als Imperativ: ueber Gottes Gabe erzaehlen."
+          "correctMeaning": "berichten/erzählen (Verb)",
+          "context": "فَحَدِّثْ (so berichte!) — II. Stamm als Imperativ: über Gottes Gabe erzählen."
         }
       ]
     }

@@ -1,7 +1,12 @@
 {
   "meta": {
     "title": "Schwache Verben in abgeleiteten Formen (II-X)",
-    "description": "Konjugationstabellen und Partizipien/Masdar schwacher Verben in hoeheren Formen. Rein sprachwissenschaftlich."
+    "description": "Konjugationstabellen und Partizipien/Masdar schwacher Verben in höheren Formen. Rein sprachwissenschaftlich.",
+    "sources": [
+      { "name": "Wright's Grammar Vol I", "url": "https://archive.org/details/grammarofthearab01telerich" },
+      { "name": "Wright's Grammar Vol II", "url": "https://archive.org/details/grammarofthearab02telerich" },
+      { "name": "Quranic Arabic Corpus", "url": "https://corpus.quran.com/" }
+    ]
   },
   "entries": [
     {
@@ -29,7 +34,7 @@
       "perfect3ms": "أَجَابَ", "imperfect3ms": "يُجِيبُ", "imperative2ms": "أَجِبْ",
       "activeParticiple": "مُجِيب", "passiveParticiple": "مُجَاب", "masdar": "إِجَابَة",
       "quranicExamples": [
-        {"word": "يُجِيبُ", "location": "27:62", "meaning": "er erhoert"},
+        {"word": "يُجِيبُ", "location": "27:62", "meaning": "er erhört"},
         {"word": "أَجِيبُوا", "location": "8:24", "meaning": "antwortet!"}
       ]
     },
@@ -44,32 +49,32 @@
       ]
     },
     {
-      "weakType": "hollow_waw", "form": "X", "root": "ج و ب", "meaning": "um Antwort bitten, erhoeren",
+      "weakType": "hollow_waw", "form": "X", "root": "ج و ب", "meaning": "um Antwort bitten, erhören",
       "perfect3ms": "اِسْتَجَابَ", "imperfect3ms": "يَسْتَجِيبُ", "imperative2ms": "اِسْتَجِبْ",
       "activeParticiple": "مُسْتَجِيب", "passiveParticiple": "مُسْتَجَاب", "masdar": "اِسْتِجَابَة",
       "quranicExamples": [
-        {"word": "ٱسْتَجَابَ", "location": "2:186", "meaning": "er erhoerte"},
+        {"word": "ٱسْتَجَابَ", "location": "2:186", "meaning": "er erhörte"},
         {"word": "ٱسْتَجِيبُوا", "location": "8:24", "meaning": "antwortet/gehorcht!"},
-        {"word": "يَسْتَجِيبُونَ", "location": "42:38", "meaning": "sie erhoeren/antworten"}
+        {"word": "يَسْتَجِيبُونَ", "location": "42:38", "meaning": "sie erhören/antworten"}
       ]
     },
     {
-      "weakType": "hollow_waw", "form": "X", "root": "ط و ع", "meaning": "koennen, vermoegen",
+      "weakType": "hollow_waw", "form": "X", "root": "ط و ع", "meaning": "können, vermögen",
       "perfect3ms": "اِسْتَطَاعَ", "imperfect3ms": "يَسْتَطِيعُ", "imperative2ms": "—",
       "activeParticiple": "مُسْتَطِيع", "passiveParticiple": "مُسْتَطَاع", "masdar": "اِسْتِطَاعَة",
       "quranicExamples": [
-        {"word": "يَسْتَطِيعُونَ", "location": "2:217", "meaning": "sie koennen"},
+        {"word": "يَسْتَطِيعُونَ", "location": "2:217", "meaning": "sie können"},
         {"word": "ٱسْتَطَاعُوا", "location": "18:97", "meaning": "sie konnten"},
         {"word": "ٱسْتَطَعْتَ", "location": "18:78", "meaning": "du konntest"}
       ]
     },
     {
-      "weakType": "defective_waw", "form": "II", "root": "ز ك و", "meaning": "laeutern, reinigen",
+      "weakType": "defective_waw", "form": "II", "root": "ز ك و", "meaning": "läutern, reinigen",
       "perfect3ms": "زَكَّى", "imperfect3ms": "يُزَكِّي", "imperative2ms": "زَكِّ",
       "activeParticiple": "مُزَكٍّ", "passiveParticiple": "مُزَكًّى", "masdar": "تَزْكِيَة",
       "quranicExamples": [
-        {"word": "يُزَكِّيهِمْ", "location": "2:129", "meaning": "er laeutert sie"},
-        {"word": "زَكَّاهَا", "location": "91:9", "meaning": "er laeuterte sie"}
+        {"word": "يُزَكِّيهِمْ", "location": "2:129", "meaning": "er läutert sie"},
+        {"word": "زَكَّاهَا", "location": "91:9", "meaning": "er läuterte sie"}
       ]
     },
     {
@@ -112,22 +117,22 @@
       ]
     },
     {
-      "weakType": "defective_ya", "form": "V", "root": "و ف ي", "meaning": "vollstaendig nehmen/sterben lassen",
+      "weakType": "defective_ya", "form": "V", "root": "و ف ي", "meaning": "vollständig nehmen/sterben lassen",
       "perfect3ms": "تَوَفَّى", "imperfect3ms": "يَتَوَفَّى", "imperative2ms": "—",
       "activeParticiple": "مُتَوَفٍّ", "passiveParticiple": "مُتَوَفًّى", "masdar": "تَوَفٍّ",
       "quranicExamples": [
         {"word": "تَوَفَّاهُمُ", "location": "4:97", "meaning": "er nahm sie (im Tod)"},
         {"word": "يَتَوَفَّاكُم", "location": "6:61", "meaning": "er nimmt euch (im Tod)"},
-        {"word": "مُتَوَفِّيكَ", "location": "3:55", "meaning": "dich vollstaendig nehmend"}
+        {"word": "مُتَوَفِّيكَ", "location": "3:55", "meaning": "dich vollständig nehmend"}
       ]
     },
     {
-      "weakType": "defective_ya", "form": "VIII", "root": "ه د ي", "meaning": "Fuehrung finden",
+      "weakType": "defective_ya", "form": "VIII", "root": "ه د ي", "meaning": "Führung finden",
       "perfect3ms": "اِهْتَدَى", "imperfect3ms": "يَهْتَدِي", "imperative2ms": "اِهْتَدِ",
       "activeParticiple": "مُهْتَدٍ", "passiveParticiple": "—", "masdar": "اِهْتِدَاء",
       "quranicExamples": [
-        {"word": "ٱهْتَدَوْا", "location": "2:16", "meaning": "sie fanden Fuehrung"},
-        {"word": "يَهْتَدِي", "location": "10:35", "meaning": "er findet Fuehrung"},
+        {"word": "ٱهْتَدَوْا", "location": "2:16", "meaning": "sie fanden Führung"},
+        {"word": "يَهْتَدِي", "location": "10:35", "meaning": "er findet Führung"},
         {"word": "ٱلْمُهْتَدِينَ", "location": "7:30", "meaning": "die Rechtgeleiteten"}
       ]
     },
@@ -152,13 +157,13 @@
       ]
     },
     {
-      "weakType": "assimilated_waw", "form": "VIII", "root": "و ق ي", "meaning": "sich hueten, sich schuetzen",
+      "weakType": "assimilated_waw", "form": "VIII", "root": "و ق ي", "meaning": "sich hüten, sich schützen",
       "perfect3ms": "اِتَّقَى", "imperfect3ms": "يَتَّقِي", "imperative2ms": "اِتَّقِ",
       "activeParticiple": "مُتَّقٍ", "passiveParticiple": "—", "masdar": "تَقْوَى / اِتِّقَاء",
       "quranicExamples": [
-        {"word": "ٱتَّقَوْا", "location": "2:103", "meaning": "sie hueteten sich"},
-        {"word": "ٱتَّقُوا", "location": "2:189", "meaning": "huetet euch!"},
-        {"word": "ٱلْمُتَّقِينَ", "location": "2:2", "meaning": "die sich Huetenden"}
+        {"word": "ٱتَّقَوْا", "location": "2:103", "meaning": "sie hüteten sich"},
+        {"word": "ٱتَّقُوا", "location": "2:189", "meaning": "hütet euch!"},
+        {"word": "ٱلْمُتَّقِينَ", "location": "2:2", "meaning": "die sich Hütenden"}
       ],
       "note": "Waw assimiliert zu Ta (Idgham): und-qaiy → ittaqay. Daher das doppelte Ta."
     },

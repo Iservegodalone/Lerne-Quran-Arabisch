@@ -214,6 +214,7 @@ const MOODS = [
   { value: 'indicative', label: 'Indikativ (Marfu\u02BB)' },
   { value: 'subjunctive', label: 'Subjunktiv (Mansub)' },
   { value: 'jussive', label: 'Jussiv (Majzum)' },
+  { value: 'energetic', label: 'Energetikus (Modus der Bekräftigung)' },
 ]
 const PERSONS = [
   { value: '1s', label: '1. Person Singular' },
@@ -273,28 +274,30 @@ const ERROR_LESSON_MAP = {
 }
 
 const SYNTACTIC_ROLES = [
-  { value: 'fa3il', label: 'Fa\u02BBil (Subjekt des Verbalsatzes)', case: 'nominativ', caseExplanation: 'Das Subjekt (Fa\u02BBil) steht im Nominativ (Marfu\u02BB) — es traegt Damma.' },
+  { value: 'fa3il', label: 'Fa\u02BBil (Subjekt des Verbalsatzes)', case: 'nominativ', caseExplanation: 'Das Subjekt (Fa\u02BBil) steht im Nominativ (Marfu\u02BB) — es trägt Damma.' },
   { value: 'mubtada', label: 'Mubtada\u02BB (Thema des Nominalsatzes)', case: 'nominativ', caseExplanation: 'Das Thema (Mubtada\u02BB) steht im Nominativ (Marfu\u02BB).' },
-  { value: 'khabar', label: 'Khabar (Praedikat)', case: 'nominativ', caseExplanation: 'Das Praedikat (Khabar) steht im Nominativ (Marfu\u02BB).' },
-  { value: 'object', label: 'Maf\u02BBul bihi (direktes Objekt)', case: 'akkusativ', caseExplanation: 'Das direkte Objekt (Maf\u02BBul bihi) steht im Akkusativ (Mansub) — es traegt Fatha.' },
-  { value: 'hal', label: 'Hal (Zustandsakkusativ)', case: 'akkusativ', caseExplanation: 'Der Hal steht im Akkusativ (Mansub) — er beschreibt den Zustand des Subjekts oder Objekts waehrend der Handlung.' },
-  { value: 'tamyiz', label: 'Tamyiz (Spezifikation)', case: 'akkusativ', caseExplanation: 'Der Tamyiz steht im Akkusativ (Mansub) — er praezisiert eine Mehrdeutigkeit.' },
-  { value: 'mudaf_ilayh', label: 'Mudaf ilayh (Idafa-Genitiv)', case: 'genitiv', caseExplanation: 'Das zweite Glied einer Idafa steht im Genitiv (Majrur) — es traegt Kasra.' },
-  { value: 'jarr_majrur', label: 'Majrur (nach Praeposition)', case: 'genitiv', caseExplanation: 'Nach einer Praeposition steht das Nomen im Genitiv (Majrur) — es traegt Kasra.' },
+  { value: 'khabar', label: 'Khabar (Prädikat)', case: 'nominativ', caseExplanation: 'Das Prädikat (Khabar) steht im Nominativ (Marfu\u02BB).' },
+  { value: 'object', label: 'Maf\u02BBul bihi (direktes Objekt)', case: 'akkusativ', caseExplanation: 'Das direkte Objekt (Maf\u02BBul bihi) steht im Akkusativ (Mansub) — es trägt Fatha.' },
+  { value: 'hal', label: 'Hal (Zustandsakkusativ)', case: 'akkusativ', caseExplanation: 'Der Hal steht im Akkusativ (Mansub) — er beschreibt den Zustand des Subjekts oder Objekts während der Handlung.' },
+  { value: 'tamyiz', label: 'Tamyiz (Spezifikation)', case: 'akkusativ', caseExplanation: 'Der Tamyiz steht im Akkusativ (Mansub) — er präzisiert eine Mehrdeutigkeit.' },
+  { value: 'mudaf_ilayh', label: 'Mudaf ilayh (Idafa-Genitiv)', case: 'genitiv', caseExplanation: 'Das zweite Glied einer Idafa steht im Genitiv (Majrur) — es trägt Kasra.' },
+  { value: 'jarr_majrur', label: 'Majrur (nach Präposition)', case: 'genitiv', caseExplanation: 'Nach einer Präposition steht das Nomen im Genitiv (Majrur) — es trägt Kasra.' },
   { value: 'sifa', label: 'Sifa (Attribut)', case: 'folgt_bezugswort', caseExplanation: 'Das Attribut (Sifa) folgt dem Bezugswort in Kasus, Genus, Numerus und Definitheit.' },
   { value: 'badal', label: 'Badal (Apposition)', case: 'folgt_bezugswort', caseExplanation: 'Die Apposition (Badal) folgt dem Bezugswort im Kasus.' },
-  { value: 'munada', label: 'Munada (Vokativ)', case: 'akkusativ', caseExplanation: 'Der Angerufene (Munada) steht im Akkusativ — ausser wenn er definit und nicht in Idafa ist.' },
+  { value: 'atf', label: 'Atf (Ma\'tuf — koordiniertes Element)', case: 'folgt_bezugswort', caseExplanation: 'Koordiniertes Element nach Konjunktion (wa, fa, thumma etc.) — folgt dem Bezugswort im Kasus.' },
+  { value: 'tawkid', label: 'Tawkid (Bekräftigung)', case: 'folgt_bezugswort', caseExplanation: 'Bekräftigungswort (nafs, \'ayn, kull, jami\', kila/kilta) — folgt dem Bezugswort im Kasus.' },
+  { value: 'munada', label: 'Munada (Vokativ)', case: 'akkusativ', caseExplanation: 'Der Angerufene (Munada) steht im Akkusativ — ausser bei Mufrad ʿAlam (Eigenname) und Nakira Maqsuda (bestimmte unbestimmte Anrede): diese werden auf Damma aufgebaut (mabniyy ʿala d-damm).' },
   { value: 'na3ib_fa3il', label: 'Na\u02BBib al-Fa\u02BBil (Passiv-Subjekt)', case: 'nominativ', caseExplanation: 'Das Passiv-Subjekt steht im Nominativ (Marfu\u02BB) — es nimmt die Stelle des Fa\u02BBil ein.' },
-  { value: 'maf_ul_mutlaq', label: 'Maf\u02BBul Mutlaq (absolutes Objekt)', case: 'akkusativ', caseExplanation: 'Das absolute Objekt (Maf\u02BBul Mutlaq) ist ein Masdar das die Handlung seines Verbs verstaerkt oder naeher bestimmt. Immer Akkusativ (Mansub).' },
+  { value: 'maf_ul_mutlaq', label: 'Maf\u02BBul Mutlaq (absolutes Objekt)', case: 'akkusativ', caseExplanation: 'Das absolute Objekt (Maf\u02BBul Mutlaq) ist ein Masdar das die Handlung seines Verbs verstärkt oder näher bestimmt. Immer Akkusativ (Mansub).' },
   { value: 'maf_ul_liajlihi', label: 'Maf\u02BBul li-Ajlihi (Zweckobjekt)', case: 'akkusativ', caseExplanation: 'Das Zweckobjekt (Maf\u02BBul li-Ajlihi) ist ein Masdar das den Grund der Handlung angibt. Akkusativ (Mansub).' },
   { value: 'maf_ul_maahu', label: 'Maf\u02BBul Ma\u02BBahu (Begleitobjekt)', case: 'akkusativ', caseExplanation: 'Das Begleitobjekt steht nach و (wa) der Gleichzeitigkeit. Akkusativ (Mansub).' },
   { value: 'zarf_zaman', label: 'Zarf Zaman (Zeitadverbiale)', case: 'akkusativ', caseExplanation: 'Die Zeitangabe steht im adverbialen Akkusativ (Mansub).' },
   { value: 'zarf_makan', label: 'Zarf Makan (Ortsadverbiale)', case: 'akkusativ', caseExplanation: 'Die Ortsangabe steht im adverbialen Akkusativ (Mansub).' },
   { value: 'ism_inna', label: 'Ism Inna (Subjekt nach Inna)', case: 'akkusativ', caseExplanation: 'Nach إِنَّ und ihren Schwestern (أَنَّ، كَأَنَّ، لٰكِنَّ، لَيْتَ، لَعَلَّ) steht das Subjekt im Akkusativ (Mansub).' },
-  { value: 'khabar_inna', label: 'Khabar Inna (Praedikat nach Inna)', case: 'nominativ', caseExplanation: 'Das Praedikat nach إِنَّ und Schwestern bleibt im Nominativ (Marfu\u02BB).' },
+  { value: 'khabar_inna', label: 'Khabar Inna (Prädikat nach Inna)', case: 'nominativ', caseExplanation: 'Das Prädikat nach إِنَّ und Schwestern bleibt im Nominativ (Marfu\u02BB).' },
   { value: 'ism_kana', label: 'Ism Kana (Subjekt nach Kana)', case: 'nominativ', caseExplanation: 'Nach كَانَ und ihren Schwestern (صَارَ، أَصْبَحَ، لَيْسَ usw.) bleibt das Subjekt im Nominativ (Marfu\u02BB).' },
-  { value: 'khabar_kana', label: 'Khabar Kana (Praedikat nach Kana)', case: 'akkusativ', caseExplanation: 'Das Praedikat nach كَانَ und Schwestern steht im Akkusativ (Mansub).' },
-  { value: 'istithna', label: 'Mustathna (Ausgenommenes nach Illa)', case: 'akkusativ', caseExplanation: 'Das ausgenommene Element nach إِلَّا steht in den meisten Faellen im Akkusativ (Mansub).' },
+  { value: 'khabar_kana', label: 'Khabar Kana (Prädikat nach Kana)', case: 'akkusativ', caseExplanation: 'Das Prädikat nach كَانَ und Schwestern steht im Akkusativ (Mansub).' },
+  { value: 'istithna', label: 'Mustathna (Ausgenommenes nach Illa)', case: 'akkusativ', caseExplanation: 'Das ausgenommene Element nach إِلَّا steht in den meisten Fällen im Akkusativ (Mansub).' },
   { value: 'harf', label: 'Harf (Partikel)', case: 'keine', caseExplanation: 'Partikeln sind nicht deklinierbar — sie haben keinen Kasus.' },
   { value: 'fi3l', label: 'Fi\u02BBl (Verb)', case: 'keine', caseExplanation: 'Verben werden nicht nach Kasus, sondern nach Modus (Indikativ/Subjunktiv/Jussiv) flektiert.' },
   { value: 'other', label: 'Andere', case: 'keine', caseExplanation: '' },
@@ -306,34 +309,34 @@ const QUICK_WIN_SURAHS = [112, 113, 114, 1]
 // Guided learning path — recommended surah order for learners
 const GUIDED_PATH = [
   { phase: 'Einstieg — Kurze Suren mit einfacher Struktur', surahs: [
-    { surah: 112, name: 'al-Ikhlas', verses: 4, reason: '4 kurze Verse, klare Nominalsaetze, grundlegende Syntax' },
-    { surah: 113, name: 'al-Falaq', verses: 5, reason: 'Imperative, Idafa-Ketten, Relativsaetze' },
+    { surah: 112, name: 'al-Ikhlas', verses: 4, reason: '4 kurze Verse, klare Nominalsätze, grundlegende Syntax' },
+    { surah: 113, name: 'al-Falaq', verses: 5, reason: 'Imperative, Idafa-Ketten, Relativsätze' },
     { surah: 114, name: 'an-Nas', verses: 6, reason: 'Wiederholungsstruktur, Idafa, Sifa' },
-    { surah: 1, name: 'al-Fatiha', verses: 7, reason: 'Nominalsaetze, Idafa, Relativsatz, Verbalsatz' },
+    { surah: 1, name: 'al-Fatiha', verses: 7, reason: 'Nominalsätze, Idafa, Relativsatz, Verbalsatz' },
   ]},
   { phase: 'Grundlagen — Verbale und nominale Strukturen', surahs: [
-    { surah: 111, name: 'al-Masad', verses: 5, reason: 'Verbalsaetze Perfekt, Nominalsaetze, Hal' },
-    { surah: 108, name: 'al-Kauthar', verses: 3, reason: 'Kuerzeste Sure — Imperativ, Inna-Konstruktion' },
+    { surah: 111, name: 'al-Masad', verses: 5, reason: 'Verbalsätze Perfekt, Nominalsätze, Hal' },
+    { surah: 108, name: 'al-Kauthar', verses: 3, reason: 'Kürzeste Sure — Imperativ, Inna-Konstruktion' },
     { surah: 110, name: 'an-Nasr', verses: 3, reason: 'Bedingungssatz (idha), Imperativ, Masdar' },
     { surah: 109, name: 'al-Kafirun', verses: 6, reason: 'Negation, Relativsatz, Wiederholung' },
     { surah: 105, name: 'al-Fil', verses: 5, reason: 'Fragepartikel, Relativsatz, Verbalkette' },
   ]},
-  { phase: 'Mittelstufe — Laengere Suren mit komplexerer Syntax', surahs: [
-    { surah: 96, name: 'al-Alaq', verses: 19, reason: 'Imperativ, Relativsaetze, Bedingung, kurze Verse' },
+  { phase: 'Mittelstufe — Längere Suren mit komplexerer Syntax', surahs: [
+    { surah: 96, name: 'al-Alaq', verses: 19, reason: 'Imperativ, Relativsätze, Bedingung, kurze Verse' },
     { surah: 91, name: 'ash-Shams', verses: 15, reason: 'Schwursatz-Kette, Saja-Struktur, Relativsatz' },
     { surah: 55, name: 'ar-Rahman', verses: 78, reason: 'Refrain-Struktur, Dual, Vergleiche, Rhetorik' },
     { surah: 36, name: 'Ya-Sin', verses: 83, reason: 'Huruf Muqattaat, narrative Struktur, Gleichnisse' },
     { surah: 67, name: 'al-Mulk', verses: 30, reason: 'Bedingung, Schwur, Fragen, komplexe Syntax' },
   ]},
   { phase: 'Fortgeschritten — Lange Suren mit vielschichtiger Syntax', surahs: [
-    { surah: 2, name: 'al-Baqara', verses: 286, reason: 'Laengste Sure — alle syntaktischen Strukturen vertreten' },
+    { surah: 2, name: 'al-Baqara', verses: 286, reason: 'Längste Sure — alle syntaktischen Strukturen vertreten' },
     { surah: 3, name: 'Al Imran', verses: 200, reason: 'Komplexe Argumentation, verschachtelte Strukturen' },
     { surah: 12, name: 'Yusuf', verses: 111, reason: 'Narrativ — Dialog, Zeitformen, indirekte Rede' },
     { surah: 18, name: 'al-Kahf', verses: 110, reason: 'Vier Narrative, Bedingung, Vergleich, Rhetorik' },
   ]},
 ]
 
-const AUDIO_DISCLAIMER = `Die Audioaufnahme veranschaulicht die Aussprache der Buchstaben und Woerter im Kontext des Verses.`
+const AUDIO_DISCLAIMER = `Die Audioaufnahme veranschaulicht die Aussprache der Buchstaben und Wörter im Kontext des Verses.`
 
 // ============================================================
 // Helper: get ordered list of audio URLs for a verse (primary + fallbacks)
@@ -818,11 +821,11 @@ function Step1ParticleMarking({ words, onComplete, surah, verse }) {
     <div style={S.card}>
       <div style={S.cardTitle}>Schritt 1: Partikeln und Pronomen markieren</div>
       <p style={{ ...S.muted, marginBottom: '8px' }}>
-        Klicke auf alle Woerter, die du als Partikeln oder Pronomen erkennst.
+        Klicke auf alle Wörter, die du als Partikeln oder Pronomen erkennst.
         So legst du die Satzstruktur frei, bevor du die Vollwoerter analysierst.
       </p>
       <p style={{ ...S.muted, fontSize: '0.75rem', marginBottom: '12px', fontStyle: 'italic' }}>
-        Tipp: Nutze die Grammatik-Referenz (Tab "Partikeln") fuer die vollstaendige Liste.
+        Tipp: Nutze die Grammatik-Referenz (Tab "Partikeln") für die vollständige Liste.
         Falls du die Partikeln noch nicht gelernt hast: Modul 2 → Syntax-Track → Lektionen 4.1-4.7.
       </p>
 
@@ -867,7 +870,7 @@ function Step1ParticleMarking({ words, onComplete, surah, verse }) {
           )}
           {results.missed.length > 0 && (
             <div style={S.feedback('error')}>
-              Uebersehen ({results.missed.length}):
+              Übersehen ({results.missed.length}):
               {results.missed.map(idx => {
                 const info = getParticleInfo(words[idx]) || getPronounInfo(words[idx])
                 return (
@@ -907,7 +910,7 @@ function Step1ParticleMarking({ words, onComplete, surah, verse }) {
       <div style={{ ...S.flexRow, marginTop: '12px', justifyContent: 'flex-end' }}>
         {!submitted ? (
           <button style={S.btn('primary')} onClick={handleSubmit}>
-            Pruefen
+            Prüfen
           </button>
         ) : (
           <button style={S.btn('primary')} onClick={handleContinue}>
@@ -931,7 +934,7 @@ function LernmodusPanel({ word, surah, verse, wordIndex, allWordsInVerse }) {
 
   return (
     <div style={{ ...S.card, border: '1px solid var(--accent-gold)', background: 'var(--accent-gold-bg)' }}>
-      <div style={{ ...S.cardTitle, color: 'var(--accent-gold)' }}>Lernmodus: Erklaerung</div>
+      <div style={{ ...S.cardTitle, color: 'var(--accent-gold)' }}>Lernmodus: Erklärung</div>
 
       <div style={{ fontSize: '0.85rem', color: 'var(--text-primary)', lineHeight: 1.7 }}>
         <p style={{ marginBottom: '8px' }}>
@@ -942,7 +945,7 @@ function LernmodusPanel({ word, surah, verse, wordIndex, allWordsInVerse }) {
 
         {candidate.prefix && (
           <p style={{ marginBottom: '8px' }}>
-            Wenn wir das Praefix <span className="arabic" style={{ color: 'var(--ambiguous)' }}>{candidate.prefix}</span> abstreifen
+            Wenn wir das Präfix <span className="arabic" style={{ color: 'var(--ambiguous)' }}>{candidate.prefix}</span> abstreifen
             {candidate.suffix ? (<> und das Suffix <span className="arabic" style={{ color: 'var(--ambiguous)' }}>{candidate.suffix}</span></>) : null}
             , bleiben die Wurzelkonsonanten:
             <span className="arabic" style={{ fontSize: '1.3rem', color: 'var(--correct)', marginLeft: '6px' }}>
@@ -953,7 +956,7 @@ function LernmodusPanel({ word, surah, verse, wordIndex, allWordsInVerse }) {
 
         {!candidate.prefix && !candidate.suffix && (
           <p style={{ marginBottom: '8px' }}>
-            Dieses Wort hat kein erkennbares Praefix oder Suffix. Die moeglichen Wurzelkonsonanten sind:
+            Dieses Wort hat kein erkennbares Präfix oder Suffix. Die möglichen Wurzelkonsonanten sind:
             <span className="arabic" style={{ fontSize: '1.3rem', color: 'var(--correct)', marginLeft: '6px' }}>
               {candidate.formatted || rootLetters.join('-')}
             </span>
@@ -964,14 +967,14 @@ function LernmodusPanel({ word, surah, verse, wordIndex, allWordsInVerse }) {
           <p style={{ marginBottom: '8px' }}>
             Nachschlagen:{' '}
             <a href={lanesUrl} target="_blank" rel="noopener noreferrer" style={S.link}>
-              Lane&apos;s Lexikon oeffnen
+              Lane&apos;s Lexikon öffnen
             </a>
             {' | '}
             <a href={corpusUrl} target="_blank" rel="noopener noreferrer" style={S.link}>
-              Corpus-Woerterbuch
+              Corpus-Wörterbuch
             </a>
             {' | '}
-            <span style={{ ...S.link, opacity: 0.6 }} title="Querverweis im Hauptmodus verfuegbar">
+            <span style={{ ...S.link, opacity: 0.6 }} title="Querverweis im Hauptmodus verfügbar">
               Querverweis (alle Vorkommen)
             </span>
           </p>
@@ -996,8 +999,8 @@ function LernmodusPanel({ word, surah, verse, wordIndex, allWordsInVerse }) {
         {/* Morphology tables lookup for pattern info */}
         {morphologyTables.verbForms && (
           <p style={{ marginBottom: '8px', color: 'var(--text-muted)', fontSize: '0.8rem' }}>
-            Pruefe: Entspricht das Wortmuster einer der Formen I-X?
-            Das Praefix-/Suffix-Muster kann auf die Form hinweisen.
+            Prüfe: Entspricht das Wortmuster einer der Formen I-X?
+            Das Präfix-/Suffix-Muster kann auf die Form hinweisen.
           </p>
         )}
 
@@ -1005,7 +1008,7 @@ function LernmodusPanel({ word, surah, verse, wordIndex, allWordsInVerse }) {
         {ambiguity && ambiguity.options && ambiguity.options.length > 1 && (
           <div style={{ marginTop: '10px', padding: '10px', background: 'var(--ambiguous-bg)', borderRadius: 'var(--radius)', border: '1px solid var(--ambiguous)' }}>
             <p style={{ fontWeight: 600, marginBottom: '6px', color: 'var(--ambiguous)' }}>
-              Dieses Wort hat mehrere moegliche Lesungen:
+              Dieses Wort hat mehrere mögliche Lesungen:
             </p>
             {ambiguity.options.map((opt, i) => (
               <div key={i} style={{ marginBottom: '6px', fontSize: '0.83rem' }}>
@@ -1094,7 +1097,7 @@ function WordAnalysisPanel({
     if (corpusEntry && corpusEntry.r) {
       const inputKey = parsed.join(' ')
       if (corpusEntry.r.trim() === inputKey) {
-        setRootFeedback({ type: 'correct', msg: 'Richtig! Diese Wurzel ist durch die Corpus-Datenbank bestaetigt.' })
+        setRootFeedback({ type: 'correct', msg: 'Richtig! Diese Wurzel ist durch die Corpus-Datenbank bestätigt.' })
         setRootVerified(true)
         setSubStep('form')
         return
@@ -1109,7 +1112,7 @@ function WordAnalysisPanel({
         return opt.root.trim() === inputKey
       })
       if (match) {
-        setRootFeedback({ type: 'correct', msg: 'Richtig! Diese Wurzel ist in unserer Datenbank bestaetigt.' })
+        setRootFeedback({ type: 'correct', msg: 'Richtig! Diese Wurzel ist in unserer Datenbank bestätigt.' })
         setRootVerified(true)
         setSubStep('form')
         return
@@ -1120,7 +1123,7 @@ function WordAnalysisPanel({
     const candidateKey = rootLetters.join(' ')
     const inputKey = parsed.join(' ')
     if (candidateKey === inputKey) {
-      setRootFeedback({ type: 'correct', msg: 'Richtig! Diese Wurzel stimmt mit unserer Analyse ueberein.' })
+      setRootFeedback({ type: 'correct', msg: 'Richtig! Diese Wurzel stimmt mit unserer Analyse überein.' })
       setRootVerified(true)
       setSubStep('form')
       return
@@ -1131,7 +1134,7 @@ function WordAnalysisPanel({
       // Plausible and known but different from our extraction - could be right
       setRootFeedback({
         type: 'ambiguous',
-        msg: `Diese Wurzel (${parsed.join('-')}) ist in unserer Datenbank vorhanden, aber unsere automatische Analyse dieses Wortes ergibt ${rootLetters.join('-')}. Beides ist moeglich. Pruefe in Lane's Lexikon.`
+        msg: `Diese Wurzel (${parsed.join('-')}) ist in unserer Datenbank vorhanden, aber unsere automatische Analyse dieses Wortes ergibt ${rootLetters.join('-')}. Beides ist möglich. Prüfe in Lane's Lexikon.`
       })
       setRootVerified(true)
       setSubStep('form')
@@ -1147,7 +1150,7 @@ function WordAnalysisPanel({
       if (userMatch) {
         setRootFeedback({
           type: 'ambiguous',
-          msg: `Diese Wurzel (${parsed.join('-')}) wurde von dir oder einem anderen Lernenden als Alternative vorgeschlagen. Pruefe in Lane's Lexikon.`,
+          msg: `Diese Wurzel (${parsed.join('-')}) wurde von dir oder einem anderen Lernenden als Alternative vorgeschlagen. Prüfe in Lane's Lexikon.`,
         })
         setRootVerified(true)
         setSubStep('form')
@@ -1170,14 +1173,14 @@ function WordAnalysisPanel({
       setShowFlagPrompt(true)
       setRootFeedback({
         type: 'info',
-        msg: `Diese Wurzel ist nicht in unserer Datenbank. Das kann bedeuten: (a) Deine Extraktion ist fehlerhaft \u2014 pruefe nochmal. (b) Unsere Datenbank hat an dieser Stelle eine andere Zuordnung. Oeffne Lane\u2019s Lexikon und pruefe selbst.`
+        msg: `Diese Wurzel ist nicht in unserer Datenbank. Das kann bedeuten: (a) Deine Extraktion ist fehlerhaft \u2014 prüfe nochmal. (b) Unsere Datenbank hat an dieser Stelle eine andere Zuordnung. Öffne Lane\u2019s Lexikon und prüfe selbst.`
       })
       // Do NOT mark as verified yet - let user try again or proceed
       return
     }
 
     setFirstTryCorrect(prev => ({ ...prev, root: false }))
-    setRootFeedback({ type: 'error', msg: 'Pruefe nochmal. Die eingegebenen Konsonanten ergeben keine gueltige Wurzel.' })
+    setRootFeedback({ type: 'error', msg: 'Prüfe nochmal. Die eingegebenen Konsonanten ergeben keine gueltige Wurzel.' })
   }
 
   const handleForceAcceptRoot = useCallback(() => {
@@ -1238,7 +1241,7 @@ function WordAnalysisPanel({
       if (matches.length > 0) {
         setFormFeedback({
           type: 'correct',
-          msg: 'Deine Bestimmung stimmt mit mindestens einer moeglichen Analyse ueberein.',
+          msg: 'Deine Bestimmung stimmt mit mindestens einer möglichen Analyse überein.',
           matches,
         })
         setFormVerified(true)
@@ -1262,7 +1265,7 @@ function WordAnalysisPanel({
     // Basic acceptance - we cannot fully verify without complete morphology matching
     setFormFeedback({
       type: 'info',
-      msg: 'Deine Angabe wurde gespeichert. Eine vollstaendige Verifikation gegen alle Formen ist nicht moeglich. Pruefe in Lane\'s Lexikon.',
+      msg: 'Deine Angabe wurde gespeichert. Eine vollständige Verifikation gegen alle Formen ist nicht möglich. Prüfe in Lane\'s Lexikon.',
     })
     setFormVerified(true)
     setSubStep('vocalization')
@@ -1285,7 +1288,7 @@ function WordAnalysisPanel({
         )
       )
       if (matches.length > 0) {
-        setVocFeedback({ type: 'correct', msg: 'Deine Vokalisierung stimmt ueberein!' })
+        setVocFeedback({ type: 'correct', msg: 'Deine Vokalisierung stimmt überein!' })
         setVocVerified(true)
         setSubStep('meaning')
         return
@@ -1295,7 +1298,7 @@ function WordAnalysisPanel({
       if (ambiguity.options.length > 1) {
         setVocFeedback({
           type: 'ambiguous',
-          msg: 'Moegliche Vokalisierungen fuer dieses Wort:',
+          msg: 'Mögliche Vokalisierungen für dieses Wort:',
           options: ambiguity.options,
         })
         setVocVerified(true)
@@ -1305,7 +1308,7 @@ function WordAnalysisPanel({
     }
 
     // Accept and move on
-    setVocFeedback({ type: 'info', msg: 'Vokalisierung gespeichert. Pruefe gegen Lane\'s Lexikon.' })
+    setVocFeedback({ type: 'info', msg: 'Vokalisierung gespeichert. Prüfe gegen Lane\'s Lexikon.' })
     setVocVerified(true)
     setSubStep('meaning')
   }, [vocalizationInput, ambiguity])
@@ -1380,7 +1383,7 @@ function WordAnalysisPanel({
         <LernmodusPanel word={word} surah={surah} verse={verse} wordIndex={wordIndex} allWordsInVerse={allWordsInVerse} />
         <div style={{ ...S.flexRow, justifyContent: 'space-between', marginTop: '8px' }}>
           <button style={S.btn('secondary')} onClick={() => setMode('test')}>
-            Zurueck zum Pruefmodus
+            Zurück zum Prüfmodus
           </button>
           <button style={S.btn('primary')} onClick={handleCompleteWord}>
             Wort abschliessen (Lernmodus)
@@ -1405,7 +1408,7 @@ function WordAnalysisPanel({
       {/* Switch to Lernmodus button */}
       <div style={{ textAlign: 'right', marginBottom: '10px' }}>
         <button style={S.btn('gold')} onClick={() => setMode('learn')}>
-          Erklaer mir dieses Wort
+          Erklär mir dieses Wort
         </button>
       </div>
 
@@ -1453,7 +1456,7 @@ function WordAnalysisPanel({
                   Moechtest du diese Wurzel ({flaggedAlternative.rootFormatted}) als Alternative vorschlagen?
                 </p>
                 <p style={{ fontSize: '0.8rem', marginBottom: '8px', color: 'var(--text-secondary)' }}>
-                  Wenn du glaubst, dass diese Analyse korrekt sein koennte, speichern wir sie.
+                  Wenn du glaubst, dass diese Analyse korrekt sein könnte, speichern wir sie.
                   Sie wird kuenftig als Option angezeigt, wenn dasselbe Wort wieder vorkommt.
                 </p>
                 <div style={{ ...S.flexRow, gap: '8px' }}>
@@ -1491,7 +1494,7 @@ function WordAnalysisPanel({
               <div style={S.flexRow}>
                 {lanesUrl && (
                   <a href={lanesUrl} target="_blank" rel="noopener noreferrer" style={S.link}>
-                    Lane&apos;s oeffnen
+                    Lane&apos;s öffnen
                   </a>
                 )}
               </div>
@@ -1502,7 +1505,7 @@ function WordAnalysisPanel({
                   </button>
                 )}
                 <button style={S.btn('primary')} onClick={handleCheckRoot}>
-                  Pruefen
+                  Prüfen
                 </button>
               </div>
             </div>
@@ -1523,7 +1526,7 @@ function WordAnalysisPanel({
             <div style={{ marginBottom: '8px' }}>
               <label style={S.label}>Worttyp:</label>
               <select style={S.select} value={wordType} onChange={(e) => setWordType(e.target.value)}>
-                <option value="">-- Worttyp waehlen --</option>
+                <option value="">-- Worttyp wählen --</option>
                 {WORD_TYPES.map(t => <option key={t.value} value={t.value}>{t.label}</option>)}
               </select>
             </div>
@@ -1533,7 +1536,7 @@ function WordAnalysisPanel({
                 <div style={{ marginBottom: '8px' }}>
                   <label style={S.label}>Form (I-X):</label>
                   <select style={S.select} value={verbForm} onChange={(e) => setVerbForm(e.target.value)}>
-                    <option value="">-- Form waehlen --</option>
+                    <option value="">-- Form wählen --</option>
                     {VERB_FORMS.map(f => {
                       const formData = morphologyTables.verbForms.find(vf => vf.form === f)
                       return (
@@ -1547,7 +1550,7 @@ function WordAnalysisPanel({
                 <div style={{ marginBottom: '8px' }}>
                   <label style={S.label}>Tempus:</label>
                   <select style={S.select} value={tense} onChange={(e) => setTense(e.target.value)}>
-                    <option value="">-- Tempus waehlen --</option>
+                    <option value="">-- Tempus wählen --</option>
                     {TENSES.map(t => <option key={t.value} value={t.value}>{t.label}</option>)}
                   </select>
                 </div>
@@ -1555,7 +1558,7 @@ function WordAnalysisPanel({
                   <div style={{ marginBottom: '8px' }}>
                     <label style={S.label}>Modus:</label>
                     <select style={S.select} value={mood} onChange={(e) => setMood(e.target.value)}>
-                      <option value="">-- Modus waehlen --</option>
+                      <option value="">-- Modus wählen --</option>
                       {MOODS.map(m => <option key={m.value} value={m.value}>{m.label}</option>)}
                     </select>
                   </div>
@@ -1563,14 +1566,14 @@ function WordAnalysisPanel({
                 <div style={{ marginBottom: '8px' }}>
                   <label style={S.label}>Person / Genus / Numerus:</label>
                   <select style={S.select} value={person} onChange={(e) => setPerson(e.target.value)}>
-                    <option value="">-- Person waehlen --</option>
+                    <option value="">-- Person wählen --</option>
                     {PERSONS.map(p => <option key={p.value} value={p.value}>{p.label}</option>)}
                   </select>
                 </div>
                 <div style={{ marginBottom: '8px' }}>
                   <label style={S.label}>Diathese:</label>
                   <select style={S.select} value={voice} onChange={(e) => setVoice(e.target.value)}>
-                    <option value="">-- Diathese waehlen --</option>
+                    <option value="">-- Diathese wählen --</option>
                     {VOICES.map(v => <option key={v.value} value={v.value}>{v.label}</option>)}
                   </select>
                 </div>
@@ -1595,7 +1598,7 @@ function WordAnalysisPanel({
 
             <div style={{ ...S.flexRow, marginTop: '10px', justifyContent: 'flex-end' }}>
               <button style={S.btn('primary')} onClick={handleCheckForm}>
-                Pruefen
+                Prüfen
               </button>
             </div>
           </>
@@ -1643,7 +1646,7 @@ function WordAnalysisPanel({
 
             <div style={{ ...S.flexRow, marginTop: '10px', justifyContent: 'flex-end' }}>
               <button style={S.btn('primary')} onClick={handleCheckVocalization}>
-                Pruefen
+                Prüfen
               </button>
             </div>
           </>
@@ -1660,7 +1663,7 @@ function WordAnalysisPanel({
         {subStep === 'meaning' && (
           <>
             <div style={{ marginBottom: '8px' }}>
-              <label style={S.label}>Deine Uebersetzung / Bedeutung (Freitext):</label>
+              <label style={S.label}>Deine Übersetzung / Bedeutung (Freitext):</label>
               <textarea
                 value={meaningInput}
                 onChange={(e) => setMeaningInput(e.target.value)}
@@ -1670,12 +1673,12 @@ function WordAnalysisPanel({
               />
             </div>
             <p style={{ ...S.muted, marginBottom: '8px' }}>
-              Es gibt hier kein &quot;richtig&quot; oder &quot;falsch&quot; &mdash; vergleiche deine Uebersetzung mit Lane&apos;s Lexikon.
+              Es gibt hier kein &quot;richtig&quot; oder &quot;falsch&quot; &mdash; vergleiche deine Übersetzung mit Lane&apos;s Lexikon.
             </p>
             {lanesUrl && (
               <div style={{ marginBottom: '10px' }}>
                 <a href={lanesUrl} target="_blank" rel="noopener noreferrer" style={S.link}>
-                  Lane&apos;s Lexikon oeffnen zum Vergleich
+                  Lane&apos;s Lexikon öffnen zum Vergleich
                 </a>
               </div>
             )}
@@ -1707,11 +1710,11 @@ function WordAnalysisPanel({
               <div style={{ marginBottom: '8px' }}>
                 <label style={S.label}>Syntaktische Funktion im Satz:</label>
                 <select style={S.select} value={syntaxRole} onChange={(e) => setSyntaxRole(e.target.value)}>
-                  <option value="">-- Rolle waehlen --</option>
+                  <option value="">-- Rolle wählen --</option>
                   {SYNTACTIC_ROLES.map(r => <option key={r.value} value={r.value}>{r.label}</option>)}
                 </select>
               </div>
-              {/* Kasus-Feedback basierend auf gewaehlter Rolle */}
+              {/* Kasus-Feedback basierend auf gewählter Rolle */}
               {syntaxRole && (() => {
                 const role = SYNTACTIC_ROLES.find(r => r.value === syntaxRole)
                 if (!role || !role.caseExplanation) return null
@@ -1964,7 +1967,7 @@ export default function Module3({ quranData, settings }) {
     }))
 
     // Notify user that an SRS card was saved to Module 5
-    setSrsNotification('\u2713 SRS-Karte fuer Modul 5 gespeichert')
+    setSrsNotification('\u2713 SRS-Karte für Modul 5 gespeichert')
     setTimeout(() => setSrsNotification(null), 2500)
 
     // Move to next remaining word
@@ -2001,7 +2004,7 @@ export default function Module3({ quranData, settings }) {
       if (mapping && next[key] >= 3) {
         const queryParam = mapping.stufe === 'syntax' ? `lesson=${mapping.lessonId}&stufe=syntax` : `lesson=${mapping.lessonId}`
         setAdaptiveHint({
-          msg: `Du hast wiederholt Schwierigkeiten mit "${mapping.label}". Zurueck zur Lektion?`,
+          msg: `Du hast wiederholt Schwierigkeiten mit "${mapping.label}". Zurück zur Lektion?`,
           linkTo: `/module/2?${queryParam}`,
           linkLabel: `Zu Lektion ${mapping.lessonId}: ${mapping.label}`,
         })
@@ -2043,7 +2046,7 @@ export default function Module3({ quranData, settings }) {
 
     // All sources exhausted
     setAudioStatus(null)
-    setAudioError('Audio konnte nicht geladen werden. Alle Audioquellen und alternativen Server (everyayah.com, QuranicAudio, verses.quran.com) wurden versucht. Pruefe deine Internetverbindung.')
+    setAudioError('Audio konnte nicht geladen werden. Alle Audioquellen und alternativen Server (everyayah.com, QuranicAudio, verses.quran.com) wurden versucht. Prüfe deine Internetverbindung.')
   }, [])
 
   const handlePlayAudio = useCallback(() => {
@@ -2133,7 +2136,7 @@ export default function Module3({ quranData, settings }) {
           <div style={{ display: 'flex', gap: '4px', marginLeft: '8px' }}>
             <button
               onClick={() => setShowGrammarSidebar(true)}
-              title="Grammatik-Referenz oeffnen"
+              title="Grammatik-Referenz öffnen"
               style={{ padding: '3px 8px', borderRadius: '4px', background: 'var(--bg-input)', border: '1px solid var(--border)', color: 'var(--text-secondary)', cursor: 'pointer', fontSize: '0.7rem' }}
             >Grammatik</button>
             <button
@@ -2143,7 +2146,7 @@ export default function Module3({ quranData, settings }) {
             >I'rab</button>
             <button
               onClick={() => setShowSyntaxExercises(s => !s)}
-              title="Syntax-Uebungen am Text"
+              title="Syntax-Übungen am Text"
               style={{ padding: '3px 8px', borderRadius: '4px', background: showSyntaxExercises ? 'var(--accent-gold-bg)' : 'var(--bg-input)', border: `1px solid ${showSyntaxExercises ? 'var(--accent-gold)' : 'var(--border)'}`, color: showSyntaxExercises ? 'var(--accent-gold)' : 'var(--text-secondary)', cursor: 'pointer', fontSize: '0.7rem' }}
             >Syntax</button>
           </div>
@@ -2244,7 +2247,7 @@ export default function Module3({ quranData, settings }) {
               <div key={s} style={{ display: 'flex', alignItems: 'center' }}>
                 <span style={S.stepBadge(step === s)}>{s}</span>
                 <span style={{ fontSize: '0.75rem', color: step === s ? 'var(--accent-teal)' : 'var(--text-muted)', marginRight: '12px' }}>
-                  {s === 1 ? 'Markieren' : s === 2 ? 'Analysieren' : s === 3 ? 'Fertig' : 'Hoeren'}
+                  {s === 1 ? 'Markieren' : s === 2 ? 'Analysieren' : s === 3 ? 'Fertig' : 'Hören'}
                 </span>
               </div>
             ))}
@@ -2275,7 +2278,7 @@ export default function Module3({ quranData, settings }) {
             <div>
               {/* Remaining words selector */}
               <div style={{ ...S.card, padding: '10px 14px' }}>
-                <div style={{ ...S.muted, marginBottom: '6px' }}>Verbleibende Woerter (klicke zum Wechseln):</div>
+                <div style={{ ...S.muted, marginBottom: '6px' }}>Verbleibende Wörter (klicke zum Wechseln):</div>
                 <div style={{ direction: 'rtl', display: 'flex', flexWrap: 'wrap', gap: '6px', justifyContent: 'flex-end' }}>
                   {step1Result?.remainingIndices?.map(idx => (
                     <span
@@ -2315,7 +2318,7 @@ export default function Module3({ quranData, settings }) {
               <div style={{ ...S.cardTitle, color: 'var(--correct)' }}>Vers bearbeitet!</div>
 
               <div style={S.feedback('correct')}>
-                Alle Woerter in Vers {currentVerse} von Sure {currentSurah} wurden analysiert.
+                Alle Wörter in Vers {currentVerse} von Sure {currentSurah} wurden analysiert.
               </div>
 
               {scoreText && (
@@ -2329,10 +2332,10 @@ export default function Module3({ quranData, settings }) {
                   style={S.btn(verseCompleted ? 'primary' : 'secondary')}
                   onClick={() => { setStep(4); handlePlayAudio() }}
                 >
-                  Vers anhoeren
+                  Vers anhören
                 </button>
                 <button style={S.btn('secondary')} onClick={handleNextVerse}>
-                  Naechster Vers
+                  Nächster Vers
                 </button>
               </div>
             </div>
@@ -2341,7 +2344,7 @@ export default function Module3({ quranData, settings }) {
           {/* === STEP 4: Listen === */}
           {step === 4 && (
             <div style={S.card}>
-              <div style={S.cardTitle}>Schritt 4: Vers anhoeren</div>
+              <div style={S.cardTitle}>Schritt 4: Vers anhören</div>
 
               {/* Audio disclaimer modal */}
               {showAudioDisclaimer && (
@@ -2391,10 +2394,10 @@ export default function Module3({ quranData, settings }) {
 
                   <div style={{ ...S.flexRow, gap: '10px', marginTop: '16px' }}>
                     <button style={S.btn('secondary')} onClick={() => { setStep(5); setRasmLayer(0); setRasmComparison(null); setRasmUserInput(''); }}>
-                      Rasm-Uebung (optional)
+                      Rasm-Übung (optional)
                     </button>
                     <button style={S.btn('secondary')} onClick={handleNextVerse}>
-                      Naechster Vers
+                      Nächster Vers
                     </button>
                   </div>
                 </>
@@ -2416,7 +2419,7 @@ export default function Module3({ quranData, settings }) {
                   <div className="arabic" dir="rtl" style={{ fontSize: '1.8rem', padding: '16px', background: 'var(--bg-secondary)', borderRadius: '8px', textAlign: 'center', marginBottom: '12px', color: 'var(--accent-gold, #e6a817)' }}>
                     {verse.text}
                   </div>
-                  <p style={S.muted}>Konsonantentext mit I'jam (Buchstabenpunkte). Lies den Vers und praege ihn dir ein.</p>
+                  <p style={S.muted}>Konsonantentext mit I'jam (Buchstabenpunkte). Lies den Vers und präge ihn dir ein.</p>
                   <div style={{ ...S.flexRow, gap: '10px', marginTop: '12px' }}>
                     <button style={S.btn('primary')} onClick={() => setRasmLayer(1)}>
                       I'jam entfernen
@@ -2449,7 +2452,7 @@ export default function Module3({ quranData, settings }) {
                   <div className="arabic" dir="rtl" style={{ fontSize: '1.5rem', padding: '12px', background: 'var(--bg-secondary)', borderRadius: '8px', textAlign: 'center', marginBottom: '12px', color: 'var(--text-muted)' }}>
                     {stripIjam(verse.text)}
                   </div>
-                  <p style={S.muted}>Schreibe den Vers mit Buchstabenpunkten (I'jam) zurueck. Versuche aus dem Rasm den originalen Konsonantentext zu rekonstruieren.</p>
+                  <p style={S.muted}>Schreibe den Vers mit Buchstabenpunkten (I'jam) zurück. Versuche aus dem Rasm den originalen Konsonantentext zu rekonstruieren.</p>
                   <textarea
                     dir="rtl"
                     value={rasmUserInput}
@@ -2467,14 +2470,14 @@ export default function Module3({ quranData, settings }) {
                       Vergleichen
                     </button>
                     <button style={S.btn('secondary')} onClick={() => setRasmLayer(0)}>
-                      Zurueck
+                      Zurück
                     </button>
                   </div>
 
                   {rasmComparison && (
                     <div style={{ marginTop: '12px', padding: '12px', borderRadius: '8px', background: rasmComparison.match ? 'var(--correct-bg, #e8f5e9)' : 'var(--incorrect-bg, #fce4ec)', border: `1px solid ${rasmComparison.match ? 'var(--correct, #4caf50)' : 'var(--incorrect, #e53935)'}` }}>
                       <p style={{ fontWeight: 600, marginBottom: '8px' }}>
-                        {rasmComparison.match ? 'Korrekt! Du hast den Vers vollstaendig rekonstruiert.' : 'Nicht ganz. Vergleiche:'}
+                        {rasmComparison.match ? 'Korrekt! Du hast den Vers vollständig rekonstruiert.' : 'Nicht ganz. Vergleiche:'}
                       </p>
                       {!rasmComparison.match && (
                         <div>
@@ -2495,10 +2498,10 @@ export default function Module3({ quranData, settings }) {
 
               <div style={{ ...S.flexRow, gap: '10px', marginTop: '16px', borderTop: '1px solid var(--border)', paddingTop: '12px' }}>
                 <button style={S.btn('secondary')} onClick={() => { setStep(4); setRasmLayer(0); setRasmComparison(null); }}>
-                  Zurueck zu Schritt 4
+                  Zurück zu Schritt 4
                 </button>
                 <button style={S.btn('secondary')} onClick={handleNextVerse}>
-                  Naechster Vers
+                  Nächster Vers
                 </button>
               </div>
             </div>
@@ -2507,7 +2510,7 @@ export default function Module3({ quranData, settings }) {
           {/* No verse selected placeholder */}
           {words.length === 0 && (
             <div style={{ textAlign: 'center', padding: '40px', color: 'var(--text-muted)' }}>
-              <p>Waehle eine Sure und einen Vers, um mit der Analyse zu beginnen.</p>
+              <p>Wähle eine Sure und einen Vers, um mit der Analyse zu beginnen.</p>
             </div>
           )}
         </div>

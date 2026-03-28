@@ -575,7 +575,7 @@ function LearnMode({ lesson }) {
     <div style={S.content} className="fade-in">
       {lesson.learnContent?.sections?.map((sec, i) => (
         <SectionRenderer key={i} section={sec} />
-      )) || <div style={{ padding: 20, color: 'var(--text-muted)' }}>Kein Lerninhalt verfuegbar.</div>}
+      )) || <div style={{ padding: 20, color: 'var(--text-muted)' }}>Kein Lerninhalt verfügbar.</div>}
     </div>
   );
 }
@@ -1313,7 +1313,7 @@ function BrokenPluralDrill({ onBack }) {
   return (
     <div style={{ maxWidth: '900px', margin: '0 auto', padding: '24px' }}>
       <button onClick={onBack} style={{ background: 'none', border: 'none', color: 'var(--text-secondary)', cursor: 'pointer', fontSize: '0.9rem', padding: '8px 0', marginBottom: '16px' }}>
-        Zurueck zur Uebersicht
+        Zurück zur Übersicht
       </button>
       <h2 style={{ marginBottom: '4px' }}>Gebrochene Plurale — Drill</h2>
       <p style={{ color: 'var(--text-secondary)', marginBottom: '16px', fontSize: '0.9rem' }}>
@@ -1355,7 +1355,7 @@ function BrokenPluralDrill({ onBack }) {
         <div>
           <h3 style={{ color: '#a855f7', marginBottom: '12px' }}>Welcher Singular nimmt welchen Plural?</h3>
           <p style={{ color: 'var(--text-secondary)', fontSize: '0.85rem', marginBottom: '16px' }}>
-            Gebrochene Plurale sind nicht voellig unvorhersagbar. Es gibt Heuristiken die in der Mehrheit der Faelle zutreffen.
+            Gebrochene Plurale sind nicht völlig unvorhersagbar. Es gibt Heuristiken die in der Mehrheit der Fälle zutreffen.
           </p>
           {assignmentRules.map(rule => (
             <div key={rule.id} style={{ background: 'var(--card-bg)', border: '1px solid var(--border)', borderRadius: '12px', padding: '16px', marginBottom: '12px' }}>
@@ -1382,7 +1382,7 @@ function BrokenPluralDrill({ onBack }) {
 
       {mode === 'predict' && (() => {
         const pe = assignmentExercises[predictIdx];
-        if (!pe) return <div style={{ color: 'var(--text-muted)' }}>Keine Vorhersage-Uebungen vorhanden.</div>;
+        if (!pe) return <div style={{ color: 'var(--text-muted)' }}>Keine Vorhersage-Übungen vorhanden.</div>;
         return (
           <div>
             <h3 style={{ color: '#f43f5e', marginBottom: '4px' }}>Plural-Muster vorhersagen</h3>
@@ -1403,7 +1403,7 @@ function BrokenPluralDrill({ onBack }) {
                   }}>{opt}</button>
                 ))}
               </div>
-              {!predictRevealed && <button onClick={() => { if (predictSelected === null) return; setPredictRevealed(true); setPredictScore(s => ({ correct: s.correct + (predictSelected === pe.correct ? 1 : 0), total: s.total + 1 })); }} disabled={predictSelected === null} style={{ padding: '10px 28px', borderRadius: '8px', border: 'none', background: predictSelected !== null ? 'var(--accent-teal)' : 'var(--text-muted)', color: '#fff', cursor: predictSelected !== null ? 'pointer' : 'default', width: '100%' }}>Pruefen</button>}
+              {!predictRevealed && <button onClick={() => { if (predictSelected === null) return; setPredictRevealed(true); setPredictScore(s => ({ correct: s.correct + (predictSelected === pe.correct ? 1 : 0), total: s.total + 1 })); }} disabled={predictSelected === null} style={{ padding: '10px 28px', borderRadius: '8px', border: 'none', background: predictSelected !== null ? 'var(--accent-teal)' : 'var(--text-muted)', color: '#fff', cursor: predictSelected !== null ? 'pointer' : 'default', width: '100%' }}>Prüfen</button>}
               {predictRevealed && (
                 <div style={{ padding: '12px', background: 'var(--bg)', borderRadius: '8px', border: '1px solid var(--border)', marginTop: '8px' }}>
                   <div style={{ fontSize: '0.85rem', color: 'var(--text-secondary)' }}>{pe.explanation}</div>
@@ -1492,7 +1492,7 @@ function BrokenPluralDrill({ onBack }) {
                     autoFocus />
                   <button onClick={checkQuiz} disabled={!quizInput.trim()} style={{
                     padding: '8px 16px', borderRadius: 'var(--radius)', background: 'var(--accent-teal)', color: '#fff', border: 'none', cursor: 'pointer', fontWeight: 600, opacity: quizInput.trim() ? 1 : 0.5,
-                  }}>Pruefen</button>
+                  }}>Prüfen</button>
                 </div>
               ) : (
                 <div style={{
@@ -1567,7 +1567,7 @@ function NominalDeclensionDrill({ onBack }) {
   return (
     <div style={{ maxWidth: '900px', margin: '0 auto', padding: '24px' }}>
       <button onClick={onBack} style={{ background: 'none', border: 'none', color: 'var(--text-secondary)', cursor: 'pointer', fontSize: '0.9rem', padding: '8px 0', marginBottom: '16px' }}>
-        Zurueck zur Uebersicht
+        Zurück zur Übersicht
       </button>
       <h2 style={{ marginBottom: '4px' }}>Nominalflexion — Drill</h2>
       <p style={{ color: 'var(--text-secondary)', marginBottom: '16px', fontSize: '0.9rem' }}>
@@ -1931,7 +1931,7 @@ export default function Module2() {
             Morphologie-Grundlagen abgeschlossen
           </div>
           <p style={{ fontSize: '0.9rem', margin: 0 }}>
-            Du hast die Morphologie-Grundlagen (2.1-2.11) gelernt. <strong>Wechsle jetzt zu Modul 3 (Vers-Werkstatt)</strong> um dein Wissen am echten Qurantext anzuwenden. Die Lektionen ab 2.12 sind Vertiefungen — du kannst sie parallel zur Textarbeit bearbeiten wenn du in Modul 3 auf bestimmte Themen stoesst.
+            Du hast die Morphologie-Grundlagen (2.1-2.11) gelernt. <strong>Wechsle jetzt zu Modul 3 (Vers-Werkstatt)</strong> um dein Wissen am echten Qurantext anzuwenden. Die Lektionen ab 2.12 sind Vertiefungen — du kannst sie parallel zur Textarbeit bearbeiten wenn du in Modul 3 auf bestimmte Themen stößt.
           </p>
           <p style={{ fontSize: '0.85rem', margin: '8px 0 0', color: 'var(--text-secondary)' }}>
             Wichtig: Bevor du Modul 3 startest, lerne die Partikeln (wechsle oben zu "Syntax und Partikeln", Lektionen 4.1-4.7). Modul 3 setzt Partikelwissen voraus.

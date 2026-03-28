@@ -2,8 +2,8 @@ import { useState, useCallback, useMemo } from 'react'
 import { splitIntoWords } from '../utils/arabic.js'
 
 /**
- * SyntaxExercises — Strukturierte Syntax-Uebungen am echten Qurantext
- * Laedt Uebungen aus syntax-exercises.json und prueft Antworten automatisch.
+ * SyntaxExercises — Strukturierte Syntax-Übungen am echten Qurantext
+ * Laedt Übungen aus syntax-exercises.json und prüft Antworten automatisch.
  */
 
 import syntaxBase from '../data/syntax-exercises.json'
@@ -131,7 +131,7 @@ export default function SyntaxExercises({ onClose }) {
   if (!exerciseData?.exercises || exerciseData.exercises.length === 0) {
     return (
       <div style={{ padding: '20px', color: 'var(--text-muted)', textAlign: 'center' }}>
-        Syntax-Uebungsdaten werden geladen...
+        Syntax-Übungsdaten werden geladen...
       </div>
     )
   }
@@ -140,12 +140,12 @@ export default function SyntaxExercises({ onClose }) {
     const pct = score.total > 0 ? Math.round((score.correct / score.total) * 100) : 0
     return (
       <div style={{ padding: '20px', textAlign: 'center' }}>
-        <h3>Ergebnis — Syntax-Uebungen</h3>
+        <h3>Ergebnis — Syntax-Übungen</h3>
         <div style={{ fontSize: '2.5rem', fontWeight: 700, color: pct >= 80 ? 'var(--correct)' : 'var(--accent-gold)', margin: '16px 0' }}>
           {score.correct} / {score.total} ({pct}%)
         </div>
         <p style={{ color: 'var(--text-secondary)', marginBottom: '16px' }}>
-          {pct >= 80 ? 'Sehr gut! Du erkennst syntaktische Strukturen zuverlaessig.' :
+          {pct >= 80 ? 'Sehr gut! Du erkennst syntaktische Strukturen zuverlässig.' :
            pct >= 50 ? 'Guter Anfang. Wiederhole die Syntax-Lektionen zu den Themen die dir schwergefallen sind.' :
            'Arbeite die Syntax-Lektionen (3.1-3.38) in Modul 2 durch und versuche es erneut.'}
         </p>
@@ -167,7 +167,7 @@ export default function SyntaxExercises({ onClose }) {
     <div style={{ background: 'var(--bg-card)', border: '1px solid var(--border)', borderRadius: 'var(--radius-lg)', padding: '20px' }}>
       {/* Header */}
       <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '12px' }}>
-        <h3 style={{ margin: 0, fontSize: '1rem', color: 'var(--text-heading)' }}>Syntax-Uebung am Text</h3>
+        <h3 style={{ margin: 0, fontSize: '1rem', color: 'var(--text-heading)' }}>Syntax-Übung am Text</h3>
         {onClose && <button onClick={onClose} style={{ background: 'none', border: '1px solid var(--border)', borderRadius: 'var(--radius-sm)', padding: '4px 10px', cursor: 'pointer', color: 'var(--text-secondary)', fontSize: '0.75rem' }}>Schliessen</button>}
       </div>
 
@@ -251,7 +251,7 @@ export default function SyntaxExercises({ onClose }) {
             color: (current.type === 'find_element' ? selectedWords.size > 0 : selectedOption !== null) ? '#fff' : 'var(--text-muted)',
             border: 'none', cursor: 'pointer',
           }}>
-          Pruefen
+          Prüfen
         </button>
       ) : (
         <div style={{

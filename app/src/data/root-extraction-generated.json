@@ -1,9 +1,15 @@
 {
   "meta": {
     "title": "Wurzelextraktion (generiert)",
-    "description": "Automatisch generierte Uebungen zur Extraktion der Wurzel aus flektierten und affigierten Wortformen.",
+    "description": "Automatisch generierte Übungen zur Extraktion der Wurzel aus flektierten und affigierten Wortformen.",
     "generated": "2026-03-23",
-    "count": 84
+    "count": 84,
+    "sources": [
+      { "name": "Wright's Grammar Vol I", "url": "https://archive.org/details/grammarofthearab01telerich" },
+      { "name": "Wright's Grammar Vol II", "url": "https://archive.org/details/grammarofthearab02telerich" },
+      { "name": "Quranic Arabic Corpus", "url": "https://corpus.quran.com/" },
+      { "name": "Lane's Lexicon", "url": "https://ejtaal.net/aa/" }
+    ]
   },
   "exercises": [
     {
@@ -47,7 +53,7 @@
       ],
       "pos": "Nomen",
       "morphology": "M|GEN",
-      "hint": "بِ ist eine Praeposition (entfernen). Endung كَ ist ein Pronominalsuffix (entfernen). Die drei Wurzelkonsonanten ي-م-ن bleiben."
+      "hint": "بِ ist eine Präposition (entfernen). Endung كَ ist ein Pronominalsuffix (entfernen). Die drei Wurzelkonsonanten ي-م-ن bleiben."
     },
     {
       "id": "re003",
@@ -87,7 +93,7 @@
       "suffixes": [],
       "pos": "Verb",
       "morphology": "IMPF|3MS",
-      "hint": "ي ist das Imperfekt-Praefix (zeigt Person an, gehoert nicht zur Wurzel). Die drei Wurzelkonsonanten م-ح-و bleiben. Imperfekt Form I."
+      "hint": "ي ist das Imperfekt-Präfix (zeigt Person an, gehört nicht zur Wurzel). Die drei Wurzelkonsonanten م-ح-و bleiben. Imperfekt Form I."
     },
     {
       "id": "re005",
@@ -148,7 +154,7 @@
       ],
       "pos": "Verb",
       "morphology": "PERF|(IV)|3MS",
-      "hint": "أَ ist das Praefix der Form IV (entfernen). Endung ه ist ein Pronominalsuffix (entfernen). Die drei Wurzelkonsonanten د-ر-ك bleiben. Perfekt Form IV."
+      "hint": "أَ ist das Präfix der Form IV (entfernen). Endung ه ist ein Pronominalsuffix (entfernen). Die drei Wurzelkonsonanten د-ر-ك bleiben. Perfekt Form IV."
     },
     {
       "id": "re008",
@@ -186,7 +192,7 @@
       "suffixes": [],
       "pos": "Nomen",
       "morphology": "M|INDEF|GEN",
-      "hint": "بِ ist eine Praeposition (entfernen). Die drei Wurzelkonsonanten د-ي-ن bleiben."
+      "hint": "بِ ist eine Präposition (entfernen). Die drei Wurzelkonsonanten د-ي-ن bleiben."
     },
     {
       "id": "re010",
@@ -205,7 +211,7 @@
       ],
       "pos": "Verb",
       "morphology": "PERF|1P",
-      "hint": "Endung نا ist ein Pronominalsuffix (entfernen). فَ ist KEIN Praefix, sondern der erste Radikal der Wurzel ف-ت-ح. Die drei Wurzelkonsonanten ف-ت-ح bleiben. Perfekt Form I."
+      "hint": "Endung نا ist ein Pronominalsuffix (entfernen). فَ ist KEIN Präfix, sondern der erste Radikal der Wurzel ف-ت-ح. Die drei Wurzelkonsonanten ف-ت-ح bleiben. Perfekt Form I."
     },
     {
       "id": "re011",
@@ -224,7 +230,7 @@
       ],
       "pos": "Verb",
       "morphology": "PERF|3MS",
-      "hint": "Endung نا ist ein Pronominalsuffix (entfernen). وَ ist KEIN Praefix, sondern der erste Radikal der Wurzel و-ع-د. Die drei Wurzelkonsonanten و-ع-د bleiben. Perfekt Form I."
+      "hint": "Endung نا ist ein Pronominalsuffix (entfernen). وَ ist KEIN Präfix, sondern der erste Radikal der Wurzel و-ع-د. Die drei Wurzelkonsonanten و-ع-د bleiben. Perfekt Form I."
     },
     {
       "id": "re012",
@@ -243,7 +249,7 @@
       "suffixes": [],
       "pos": "Nomen",
       "morphology": "MP|INDEF|GEN",
-      "hint": "بِ ist eine Praeposition (entfernen). Die drei Wurzelkonsonanten ر-س-ل bleiben."
+      "hint": "بِ ist eine Präposition (entfernen). Die drei Wurzelkonsonanten ر-س-ل bleiben."
     },
     {
       "id": "re014",
@@ -325,7 +331,7 @@
       ],
       "pos": "Verb",
       "morphology": "IMPF|2MP|MOOD:JUS",
-      "hint": "ت ist das Imperfekt-Praefix (zeigt Person an, gehoert nicht zur Wurzel). Endung وا ist die Personalendung des Imperfekts 2. Person mask. Plural (entfernen). Die drei Wurzelkonsonanten و-ه-ن bleiben. Imperfekt Form I (Jussiv)."
+      "hint": "ت ist das Imperfekt-Präfix (zeigt Person an, gehört nicht zur Wurzel). Endung وا ist die Personalendung des Imperfekts 2. Person mask. Plural (entfernen). Die drei Wurzelkonsonanten و-ه-ن bleiben. Imperfekt Form I (Jussiv)."
     },
     {
       "id": "re018",
@@ -368,7 +374,7 @@
       ],
       "pos": "Verb",
       "morphology": "IMPF|3MP",
-      "hint": "لَ ist ein Bekraeftigungspartikel (entfernen). ي ist das Imperfekt-Praefix (zeigt Person an, gehoert nicht zur Wurzel). Endung ون ist das Pluralsuffix (gesunder mask. Plural, entfernen). Die drei Wurzelkonsonanten ا-ك-ل bleiben. Imperfekt Form I."
+      "hint": "لَ ist ein Bekräftigungspartikel (entfernen). ي ist das Imperfekt-Präfix (zeigt Person an, gehört nicht zur Wurzel). Endung ون ist das Pluralsuffix (gesunder mask. Plural, entfernen). Die drei Wurzelkonsonanten ا-ك-ل bleiben. Imperfekt Form I."
     },
     {
       "id": "re020",
@@ -390,7 +396,7 @@
       ],
       "pos": "Verb",
       "morphology": "PERF|(IV)|2MP",
-      "hint": "أَ ist das Praefix der Form IV (entfernen). Endung تُمُونِ besteht aus der Personalendung تُمُ (Perfekt 2mp) und dem Objektsuffix ونِ (1. Person Singular). Die drei Wurzelkonsonanten ش-ر-ك bleiben. Perfekt Form IV."
+      "hint": "أَ ist das Präfix der Form IV (entfernen). Endung تُمُونِ besteht aus der Personalendung تُمُ (Perfekt 2mp) und dem Objektsuffix ونِ (1. Person Singular). Die drei Wurzelkonsonanten ش-ر-ك bleiben. Perfekt Form IV."
     },
     {
       "id": "re021",
@@ -409,7 +415,7 @@
       "suffixes": [],
       "pos": "Verb",
       "morphology": "IMPF|(II)|3MS",
-      "hint": "ي ist das Imperfekt-Praefix (zeigt Person an, gehoert nicht zur Wurzel). Die drei Wurzelkonsonanten ذ-ب-ح bleiben. Imperfekt Form II."
+      "hint": "ي ist das Imperfekt-Präfix (zeigt Person an, gehört nicht zur Wurzel). Die drei Wurzelkonsonanten ذ-ب-ح bleiben. Imperfekt Form II."
     },
     {
       "id": "re022",
@@ -430,7 +436,7 @@
       ],
       "pos": "Verb",
       "morphology": "PERF|PASS|(IV)|3MP",
-      "hint": "أُ ist das Praefix der Form IV im Passiv (entfernen). Endung وا ist die Personalendung des Perfekts (entfernen). Die drei Wurzelkonsonanten ب-س-ل bleiben. Perfekt Form IV (Passiv)."
+      "hint": "أُ ist das Präfix der Form IV im Passiv (entfernen). Endung وا ist die Personalendung des Perfekts (entfernen). Die drei Wurzelkonsonanten ب-س-ل bleiben. Perfekt Form IV (Passiv)."
     },
     {
       "id": "re023",
@@ -451,7 +457,7 @@
       ],
       "pos": "Verb",
       "morphology": "IMPF|2MS|MOOD:JUS",
-      "hint": "ت ist das Imperfekt-Praefix (zeigt Person an, gehoert nicht zur Wurzel). Endung هم ist ein Pronominalsuffix (entfernen). Die drei Wurzelkonsonanten ا-ت-ي bleiben. Imperfekt Form I."
+      "hint": "ت ist das Imperfekt-Präfix (zeigt Person an, gehört nicht zur Wurzel). Endung هم ist ein Pronominalsuffix (entfernen). Die drei Wurzelkonsonanten ا-ت-ي bleiben. Imperfekt Form I."
     },
     {
       "id": "re024",
@@ -470,7 +476,7 @@
       "suffixes": [],
       "pos": "Verb",
       "morphology": "IMPF|3MS",
-      "hint": "ي ist das Imperfekt-Praefix (zeigt Person an, gehoert nicht zur Wurzel). Die drei Wurzelkonsonanten ن-ي-ل bleiben. Imperfekt Form I."
+      "hint": "ي ist das Imperfekt-Präfix (zeigt Person an, gehört nicht zur Wurzel). Die drei Wurzelkonsonanten ن-ي-ل bleiben. Imperfekt Form I."
     },
     {
       "id": "re025",
@@ -491,7 +497,7 @@
       ],
       "pos": "Verb",
       "morphology": "IMPF|PASS|3MP",
-      "hint": "ي ist das Imperfekt-Praefix (zeigt Person an, gehoert nicht zur Wurzel). Endung ون ist das Pluralsuffix (gesunder mask. Plural, entfernen). Die drei Wurzelkonsonanten ر-د-د bleiben. Imperfekt Form I."
+      "hint": "ي ist das Imperfekt-Präfix (zeigt Person an, gehört nicht zur Wurzel). Endung ون ist das Pluralsuffix (gesunder mask. Plural, entfernen). Die drei Wurzelkonsonanten ر-د-د bleiben. Imperfekt Form I."
     },
     {
       "id": "re026",
@@ -529,7 +535,7 @@
       "suffixes": [],
       "pos": "Nomen",
       "morphology": "MP|INDEF|GEN",
-      "hint": "أَفْنَان ist ein gebrochener Plural (Muster أَفْعَال). Das أ gehoert zum Pluralmuster, nicht zur Wurzel. Die drei Wurzelkonsonanten ف-ن-ن bleiben."
+      "hint": "أَفْنَان ist ein gebrochener Plural (Muster أَفْعَال). Das أ gehört zum Pluralmuster, nicht zur Wurzel. Die drei Wurzelkonsonanten ف-ن-ن bleiben."
     },
     {
       "id": "re028",
@@ -546,7 +552,7 @@
       "suffixes": [],
       "pos": "Nomen",
       "morphology": "MS|INDEF|ACC",
-      "hint": "ي ist KEIN Praefix, sondern der erste Radikal der Wurzel ي-س-ر. Die drei Wurzelkonsonanten ي-س-ر bleiben."
+      "hint": "ي ist KEIN Präfix, sondern der erste Radikal der Wurzel ي-س-ر. Die drei Wurzelkonsonanten ي-س-ر bleiben."
     },
     {
       "id": "re029",
@@ -623,7 +629,7 @@
       "suffixes": [],
       "pos": "Verb",
       "morphology": "IMPF|(II)|3MS|MOOD:SUBJ",
-      "hint": "لِ ist eine Praeposition (entfernen). ي ist das Imperfekt-Praefix (zeigt Person an, gehoert nicht zur Wurzel). Die drei Wurzelkonsonanten ث-ب-ت bleiben. Imperfekt Form II (Subjunktiv)."
+      "hint": "لِ ist eine Präposition (entfernen). ي ist das Imperfekt-Präfix (zeigt Person an, gehört nicht zur Wurzel). Die drei Wurzelkonsonanten ث-ب-ت bleiben. Imperfekt Form II (Subjunktiv)."
     },
     {
       "id": "re033",
@@ -644,7 +650,7 @@
       ],
       "pos": "Nomen",
       "morphology": "MS|GEN",
-      "hint": "لِ ist eine Praeposition (entfernen). Endung هِ ist ein Pronominalsuffix (entfernen). Die drei Wurzelkonsonanten ا-خ-و bleiben."
+      "hint": "لِ ist eine Präposition (entfernen). Endung هِ ist ein Pronominalsuffix (entfernen). Die drei Wurzelkonsonanten ا-خ-و bleiben."
     },
     {
       "id": "re034",
@@ -666,7 +672,7 @@
       ],
       "pos": "Verb",
       "morphology": "IMPF|(II)|2MP|MOOD:SUBJ",
-      "hint": "وَ ist eine Konjunktion (entfernen). ت ist das Imperfekt-Praefix (zeigt Person an, gehoert nicht zur Wurzel). Endung ه ist ein Pronominalsuffix (entfernen). Die drei Wurzelkonsonanten ع-ز-ر bleiben. Imperfekt Form II."
+      "hint": "وَ ist eine Konjunktion (entfernen). ت ist das Imperfekt-Präfix (zeigt Person an, gehört nicht zur Wurzel). Endung ه ist ein Pronominalsuffix (entfernen). Die drei Wurzelkonsonanten ع-ز-ر bleiben. Imperfekt Form II."
     },
     {
       "id": "re035",
@@ -708,7 +714,7 @@
       "suffixes": [],
       "pos": "Verb",
       "morphology": "IMPF|(IV)|3MS",
-      "hint": "وَ ist eine Konjunktion (entfernen). ي ist das Imperfekt-Praefix (zeigt Person an, gehoert nicht zur Wurzel). Die drei Wurzelkonsonanten م-و-ت bleiben. Imperfekt Form IV."
+      "hint": "وَ ist eine Konjunktion (entfernen). ي ist das Imperfekt-Präfix (zeigt Person an, gehört nicht zur Wurzel). Die drei Wurzelkonsonanten م-و-ت bleiben. Imperfekt Form IV."
     },
     {
       "id": "re037",
@@ -729,7 +735,7 @@
       ],
       "pos": "Nomen",
       "morphology": "M|GEN",
-      "hint": "بِ ist eine Praeposition (entfernen). Endung هِ ist ein Pronominalsuffix (entfernen). Die drei Wurzelkonsonanten ع-ل-م bleiben."
+      "hint": "بِ ist eine Präposition (entfernen). Endung هِ ist ein Pronominalsuffix (entfernen). Die drei Wurzelkonsonanten ع-ل-م bleiben."
     },
     {
       "id": "re038",
@@ -752,7 +758,7 @@
       ],
       "pos": "Verb",
       "morphology": "IMPF|(X)|3MP",
-      "hint": "وَ ist eine Konjunktion (entfernen). ي ist das Imperfekt-Praefix (zeigt Person an, gehoert nicht zur Wurzel). Endung ون ist das Pluralsuffix (entfernen). Endung ه ist ein Pronominalsuffix (entfernen). Die drei Wurzelkonsonanten غ-ف-ر bleiben. Imperfekt Form X."
+      "hint": "وَ ist eine Konjunktion (entfernen). ي ist das Imperfekt-Präfix (zeigt Person an, gehört nicht zur Wurzel). Endung ون ist das Pluralsuffix (entfernen). Endung ه ist ein Pronominalsuffix (entfernen). Die drei Wurzelkonsonanten غ-ف-ر bleiben. Imperfekt Form X."
     },
     {
       "id": "re039",
@@ -851,7 +857,7 @@
       ],
       "pos": "Nomen",
       "morphology": "MP|ACC",
-      "hint": "أَبْنَاء ist ein gebrochener Plural (Muster أَفْعَال). Das أ gehoert zum Pluralmuster, nicht zur Wurzel. Endung نا ist ein Pronominalsuffix (entfernen). Die drei Wurzelkonsonanten ب-ن-ي bleiben."
+      "hint": "أَبْنَاء ist ein gebrochener Plural (Muster أَفْعَال). Das أ gehört zum Pluralmuster, nicht zur Wurzel. Endung نا ist ein Pronominalsuffix (entfernen). Die drei Wurzelkonsonanten ب-ن-ي bleiben."
     },
     {
       "id": "re044",
@@ -874,7 +880,7 @@
       ],
       "pos": "Verb",
       "morphology": "IMPF|(IV)|3MP",
-      "hint": "وَ ist eine Konjunktion (entfernen). ي ist das Imperfekt-Praefix (zeigt Person an, gehoert nicht zur Wurzel). Endung ون ist das Pluralsuffix (entfernen). Endung ه ist ein Pronominalsuffix (entfernen). Die drei Wurzelkonsonanten ح-ب-ب bleiben. Imperfekt Form IV."
+      "hint": "وَ ist eine Konjunktion (entfernen). ي ist das Imperfekt-Präfix (zeigt Person an, gehört nicht zur Wurzel). Endung ون ist das Pluralsuffix (entfernen). Endung ه ist ein Pronominalsuffix (entfernen). Die drei Wurzelkonsonanten ح-ب-ب bleiben. Imperfekt Form IV."
     },
     {
       "id": "re045",
@@ -936,7 +942,7 @@
       ],
       "pos": "Nomen",
       "morphology": "FP|GEN",
-      "hint": "بِ ist eine Praeposition (entfernen). Endung هِ ist ein Pronominalsuffix (entfernen). Die drei Wurzelkonsonanten ك-ل-م bleiben."
+      "hint": "بِ ist eine Präposition (entfernen). Endung هِ ist ein Pronominalsuffix (entfernen). Die drei Wurzelkonsonanten ك-ل-م bleiben."
     },
     {
       "id": "re048",
@@ -976,7 +982,7 @@
       ],
       "pos": "Verb",
       "morphology": "IMPF|3MP",
-      "hint": "ي ist das Imperfekt-Praefix (zeigt Person an, gehoert nicht zur Wurzel). Endung ون ist das Pluralsuffix (gesunder mask. Plural, entfernen). Die drei Wurzelkonsonanten ط-م-ع bleiben. Imperfekt Form I."
+      "hint": "ي ist das Imperfekt-Präfix (zeigt Person an, gehört nicht zur Wurzel). Endung ون ist das Pluralsuffix (gesunder mask. Plural, entfernen). Die drei Wurzelkonsonanten ط-م-ع bleiben. Imperfekt Form I."
     },
     {
       "id": "re050",
@@ -997,7 +1003,7 @@
       ],
       "pos": "Verb",
       "morphology": "IMPF|2MP",
-      "hint": "ت ist das Imperfekt-Praefix (zeigt Person an, gehoert nicht zur Wurzel). Endung ون ist das Pluralsuffix (gesunder mask. Plural, entfernen). Die drei Wurzelkonsonanten ر-ك-ب bleiben. Imperfekt Form I."
+      "hint": "ت ist das Imperfekt-Präfix (zeigt Person an, gehört nicht zur Wurzel). Endung ون ist das Pluralsuffix (gesunder mask. Plural, entfernen). Die drei Wurzelkonsonanten ر-ك-ب bleiben. Imperfekt Form I."
     },
     {
       "id": "re051",
@@ -1079,7 +1085,7 @@
       ],
       "pos": "Verb",
       "morphology": "IMPF|1S",
-      "hint": "أ ist das Imperfekt-Praefix der 1. Person Singular (zeigt Person an, gehoert nicht zur Wurzel). Endung كم ist ein Pronominalsuffix (entfernen). Die drei Wurzelkonsonanten ب-غ-ي bleiben. Imperfekt Form I."
+      "hint": "أ ist das Imperfekt-Präfix der 1. Person Singular (zeigt Person an, gehört nicht zur Wurzel). Endung كم ist ein Pronominalsuffix (entfernen). Die drei Wurzelkonsonanten ب-غ-ي bleiben. Imperfekt Form I."
     },
     {
       "id": "re055",
@@ -1118,7 +1124,7 @@
       "suffixes": [],
       "pos": "Adjektiv",
       "morphology": "MS|INDEF|GEN",
-      "hint": "ي ist KEIN Praefix, sondern der erste Radikal der Wurzel ي-ق-ن. Die drei Wurzelkonsonanten ي-ق-ن bleiben."
+      "hint": "ي ist KEIN Präfix, sondern der erste Radikal der Wurzel ي-ق-ن. Die drei Wurzelkonsonanten ي-ق-ن bleiben."
     },
     {
       "id": "re057",
@@ -1195,7 +1201,7 @@
       ],
       "pos": "Nomen",
       "morphology": "NOM",
-      "hint": "ن ist KEIN Praefix, sondern der erste Radikal der Wurzel ن-ز-ل. Endung هم ist ein Pronominalsuffix (entfernen). Die drei Wurzelkonsonanten ن-ز-ل bleiben."
+      "hint": "ن ist KEIN Präfix, sondern der erste Radikal der Wurzel ن-ز-ل. Endung هم ist ein Pronominalsuffix (entfernen). Die drei Wurzelkonsonanten ن-ز-ل bleiben."
     },
     {
       "id": "re061",
@@ -1238,7 +1244,7 @@
       ],
       "pos": "Verb",
       "morphology": "IMPF|(III)|3MP",
-      "hint": "ي ist das Imperfekt-Praefix (zeigt Person an, gehoert nicht zur Wurzel). Endung ون ist das Pluralsuffix (entfernen). Endung كَ ist ein Pronominalsuffix (entfernen). Die drei Wurzelkonsonanten ب-ي-ع bleiben. Imperfekt Form III."
+      "hint": "ي ist das Imperfekt-Präfix (zeigt Person an, gehört nicht zur Wurzel). Endung ون ist das Pluralsuffix (entfernen). Endung كَ ist ein Pronominalsuffix (entfernen). Die drei Wurzelkonsonanten ب-ي-ع bleiben. Imperfekt Form III."
     },
     {
       "id": "re063",
@@ -1281,7 +1287,7 @@
       ],
       "pos": "Nomen",
       "morphology": "M|GEN",
-      "hint": "أَ ist eine Fragepartikel (entfernen). لِ ist eine Praeposition (entfernen). Endung ك ist ein Pronominalsuffix (entfernen). Die drei Wurzelkonsonanten ر-ب-ب bleiben."
+      "hint": "أَ ist eine Fragepartikel (entfernen). لِ ist eine Präposition (entfernen). Endung ك ist ein Pronominalsuffix (entfernen). Die drei Wurzelkonsonanten ر-ب-ب bleiben."
     },
     {
       "id": "re065",
@@ -1300,7 +1306,7 @@
       ],
       "pos": "Nomen",
       "morphology": "M|NOM",
-      "hint": "ن ist KEIN Praefix, sondern der erste Radikal der Wurzel ن-ص-ر. Endung نا ist ein Pronominalsuffix (entfernen). Die drei Wurzelkonsonanten ن-ص-ر bleiben."
+      "hint": "ن ist KEIN Präfix, sondern der erste Radikal der Wurzel ن-ص-ر. Endung نا ist ein Pronominalsuffix (entfernen). Die drei Wurzelkonsonanten ن-ص-ر bleiben."
     },
     {
       "id": "re066",
@@ -1340,7 +1346,7 @@
       ],
       "pos": "Verb",
       "morphology": "PERF|(IV)|1S",
-      "hint": "أَ ist das Praefix der Form IV (entfernen). Endung تُ ist die Personalendung des Perfekts 1. Person Singular (entfernen). Die drei Wurzelkonsonanten م-ل-و bleiben. Perfekt Form IV."
+      "hint": "أَ ist das Präfix der Form IV (entfernen). Endung تُ ist die Personalendung des Perfekts 1. Person Singular (entfernen). Die drei Wurzelkonsonanten م-ل-و bleiben. Perfekt Form IV."
     },
     {
       "id": "re068",
@@ -1359,7 +1365,7 @@
       "suffixes": [],
       "pos": "Nomen",
       "morphology": "M|GEN",
-      "hint": "بِ ist eine Praeposition und ال der Definitartikel (beide entfernen). Die drei Wurzelkonsonanten ص-د-ق bleiben."
+      "hint": "بِ ist eine Präposition und ال der Definitartikel (beide entfernen). Die drei Wurzelkonsonanten ص-د-ق bleiben."
     },
     {
       "id": "re069",
@@ -1376,7 +1382,7 @@
       "suffixes": [],
       "pos": "Nomen",
       "morphology": "MS|NOM",
-      "hint": "أَقْرَب ist ein Elativ (Muster أَفْعَل). Das أ gehoert zum Elativmuster, nicht zur Wurzel. Die drei Wurzelkonsonanten ق-ر-ب bleiben."
+      "hint": "أَقْرَب ist ein Elativ (Muster أَفْعَل). Das أ gehört zum Elativmuster, nicht zur Wurzel. Die drei Wurzelkonsonanten ق-ر-ب bleiben."
     },
     {
       "id": "re070",
@@ -1558,7 +1564,7 @@
       ],
       "pos": "Nomen",
       "morphology": "ACT|PCPL|MP|GEN",
-      "hint": "وَ ist eine Konjunktion (entfernen). لِ ist eine Praeposition und ال der Definitartikel (beide entfernen). Endung ين ist das Pluralsuffix (gesunder mask. Plural, entfernen). Die drei Wurzelkonsonanten ك-ف-ر bleiben. Muster: فَاعِل (Aktivpartizip Form I)."
+      "hint": "وَ ist eine Konjunktion (entfernen). لِ ist eine Präposition und ال der Definitartikel (beide entfernen). Endung ين ist das Pluralsuffix (gesunder mask. Plural, entfernen). Die drei Wurzelkonsonanten ك-ف-ر bleiben. Muster: فَاعِل (Aktivpartizip Form I)."
     },
     {
       "id": "re079",
@@ -1580,7 +1586,7 @@
       ],
       "pos": "Nomen",
       "morphology": "M|GEN",
-      "hint": "وَ ist eine Konjunktion (entfernen). بِ ist eine Praeposition (entfernen). Endung هِ ist ein Pronominalsuffix (entfernen). Die drei Wurzelkonsonanten ر-س-ل bleiben."
+      "hint": "وَ ist eine Konjunktion (entfernen). بِ ist eine Präposition (entfernen). Endung هِ ist ein Pronominalsuffix (entfernen). Die drei Wurzelkonsonanten ر-س-ل bleiben."
     },
     {
       "id": "re080",
@@ -1601,7 +1607,7 @@
       ],
       "pos": "Verb",
       "morphology": "IMPF|3FP",
-      "hint": "ي ist das Imperfekt-Praefix (zeigt Person an, gehoert nicht zur Wurzel). Endung نَ ist die Personalendung des Imperfekts 3. Person fem. Plural (entfernen). Die drei Wurzelkonsonanten ك-ت-م bleiben. Imperfekt Form I."
+      "hint": "ي ist das Imperfekt-Präfix (zeigt Person an, gehört nicht zur Wurzel). Endung نَ ist die Personalendung des Imperfekts 3. Person fem. Plural (entfernen). Die drei Wurzelkonsonanten ك-ت-م bleiben. Imperfekt Form I."
     },
     {
       "id": "re081",
@@ -1643,7 +1649,7 @@
       ],
       "pos": "Verb",
       "morphology": "IMPF|3MS",
-      "hint": "ي ist das Imperfekt-Praefix (zeigt Person an, gehoert nicht zur Wurzel). Endung كم ist ein Pronominalsuffix (entfernen). Die drei Wurzelkonsonanten ض-ر-ر bleiben. Imperfekt Form I."
+      "hint": "ي ist das Imperfekt-Präfix (zeigt Person an, gehört nicht zur Wurzel). Endung كم ist ein Pronominalsuffix (entfernen). Die drei Wurzelkonsonanten ض-ر-ر bleiben. Imperfekt Form I."
     },
     {
       "id": "re083",
@@ -1664,7 +1670,7 @@
       ],
       "pos": "Verb",
       "morphology": "IMPF|3MP",
-      "hint": "ي ist das Imperfekt-Praefix (zeigt Person an, gehoert nicht zur Wurzel). Endung ون ist das Pluralsuffix (gesunder mask. Plural, entfernen). Die drei Wurzelkonsonanten ف-ر-ح bleiben. Imperfekt Form I."
+      "hint": "ي ist das Imperfekt-Präfix (zeigt Person an, gehört nicht zur Wurzel). Endung ون ist das Pluralsuffix (gesunder mask. Plural, entfernen). Die drei Wurzelkonsonanten ف-ر-ح bleiben. Imperfekt Form I."
     },
     {
       "id": "re084",
@@ -1706,7 +1712,7 @@
       ],
       "pos": "Verb",
       "morphology": "IMPF|(III)|3MP",
-      "hint": "ي ist das Imperfekt-Praefix (zeigt Person an, gehoert nicht zur Wurzel). Endung ون ist das Pluralsuffix (gesunder mask. Plural, entfernen). Die drei Wurzelkonsonanten ج-د-ل bleiben. Imperfekt Form III."
+      "hint": "ي ist das Imperfekt-Präfix (zeigt Person an, gehört nicht zur Wurzel). Endung ون ist das Pluralsuffix (gesunder mask. Plural, entfernen). Die drei Wurzelkonsonanten ج-د-ل bleiben. Imperfekt Form III."
     }
   ]
 }

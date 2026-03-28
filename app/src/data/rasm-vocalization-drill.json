@@ -1,7 +1,11 @@
 {
   "meta": {
     "title": "Rasm-zu-Vokalisation Drill",
-    "description": "Interaktive Uebung: Vom reinen Konsonantentext zur grammatisch begruendeten Vokalisation in 5 Schritten."
+    "description": "Interaktive Übung: Vom reinen Konsonantentext zur grammatisch begründeten Vokalisation in 5 Schritten.",
+    "sources": [
+      { "name": "Wright's Grammar Vol I", "url": "https://archive.org/details/grammarofthearab01telerich" },
+      { "name": "Quranic Arabic Corpus", "url": "https://corpus.quran.com/" }
+    ]
   },
   "exercises": [
     {
@@ -12,10 +16,10 @@
         "wordType": "Nomen",
         "root": "س-م-و",
         "form": "Nomen auf Muster اِفْعِل (ism)",
-        "syntacticRole": "Jarr/Majrur (nach der Praeposition بِ)",
+        "syntacticRole": "Jarr/Majrur (nach der Präposition بِ)",
         "vocalization": "بِسْمِ"
       },
-      "explanation": "بِ (Praeposition, Genitiv) + اسم (Nomen, Muster اِفْعِل von س-م-و). Das Hamza von اسم faellt nach Praeposition weg (Wasla). Genitiv wegen بِ → Kasra auf Mim."
+      "explanation": "بِ (Präposition, Genitiv) + اسم (Nomen, Muster اِفْعِل von س-م-و). Das Hamza von اسم fällt nach Präposition weg (Wasla). Genitiv wegen بِ → Kasra auf Mim."
     },
     {
       "id": "rv02",
@@ -50,11 +54,11 @@
       "steps": {
         "wordType": "Nomen oder Adjektiv",
         "root": "م-ل-ك",
-        "form": "Muster فَعِل (Adjektiv/Nomen) ODER مَلِك (Koenig) ODER مَالِك (Besitzer, Partizip)",
+        "form": "Muster فَعِل (Adjektiv/Nomen) ODER مَلِك (König) ODER مَالِك (Besitzer, Partizip)",
         "syntacticRole": "Badal/Sifa zu الله (Genitiv)",
         "vocalization": "مَلِكِ oder مَالِكِ"
       },
-      "explanation": "Ambiguitaet: Der Konsonantentext ملك laesst mehrere Lesungen zu — مَلِك (Koenig) und مَالِك (Besitzer/Herrscher). Beide sind grammatisch korrekt. Genitiv in jedem Fall (Kasra) wegen Idafa mit يوم."
+      "explanation": "Ambiguität: Der Konsonantentext ملك lässt mehrere Lesungen zu — مَلِك (König) und مَالِك (Besitzer/Herrscher). Beide sind grammatisch korrekt. Genitiv in jedem Fall (Kasra) wegen Idafa mit يوم."
     },
     {
       "id": "rv05",
@@ -77,10 +81,10 @@
         "wordType": "Verb",
         "root": "ع-ب-د",
         "form": "Form I, Imperfekt, 1. Person Plural",
-        "syntacticRole": "Fi'l (Verb, Praedikat)",
+        "syntacticRole": "Fi'l (Verb, Prädikat)",
         "vocalization": "نَعْبُدُ"
       },
-      "explanation": "نَـ (Imperfekt-Praefix 1.Pl.) + ع-ب-د (Form I). Vokalklasse a–u → Imperfekt mit Damma auf dem 2. Radikal. Indikativ → Damma-Endung."
+      "explanation": "نَـ (Imperfekt-Präfix 1.Pl.) + ع-ب-د (Form I). Vokalklasse a–u → Imperfekt mit Damma auf dem 2. Radikal. Indikativ → Damma-Endung."
     },
     {
       "id": "rv07",
@@ -116,10 +120,10 @@
         "wordType": "Nomen (Masdar)",
         "root": "ه-د-ي",
         "form": "Masdar Form I, Muster فُعَل (mit Alif Maqsura weil defektive Wurzel)",
-        "syntacticRole": "Khabar/Praedikat (Nominativ) oder Hal (Akkusativ)",
+        "syntacticRole": "Khabar/Prädikat (Nominativ) oder Hal (Akkusativ)",
         "vocalization": "هُدًى"
       },
-      "explanation": "هُدًى (Fuehrung) von ه-د-ي. Die Alif Maqsura zeigt den schwachen letzten Radikal. Tanwin Fatha zeigt Indefinitheit + Akkusativ/Nominativ (bei Diptoten und defektiven Nomen unsichtbar)."
+      "explanation": "هُدًى (Führung) von ه-د-ي. Die Alif Maqsura zeigt den schwachen letzten Radikal. Tanwin Fatha zeigt Indefinitheit + Akkusativ/Nominativ (bei Diptoten und defektiven Nomen unsichtbar)."
     },
     {
       "id": "rv10",

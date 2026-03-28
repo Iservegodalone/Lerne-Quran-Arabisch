@@ -28,7 +28,7 @@ export const VOWEL_MARKS = {
  */
 export async function computeSHA256(text) {
   if (!crypto?.subtle?.digest) {
-    console.warn('Web Crypto API nicht verfuegbar — Integritaetspruefung uebersprungen')
+    console.warn('Web Crypto API nicht verfügbar — Integritaetspruefung uebersprungen')
     return null
   }
   const encoder = new TextEncoder()
@@ -123,7 +123,7 @@ export async function verifyQuranIntegrity(quranData) {
         surahCount,
         totalVerses,
         textLength: concatenated.length,
-        note: 'Crypto API nicht verfuegbar — nur Strukturpruefung',
+        note: 'Crypto API nicht verfügbar — nur Strukturpruefung',
       },
     }
   }

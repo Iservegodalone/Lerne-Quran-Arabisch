@@ -1,33 +1,38 @@
 {
   "meta": {
     "title": "Nominalmuster im quranischen Arabisch (أَوْزَان الْأَسْمَاء)",
-    "description": "Systematisches Inventar aller Nominalbildungsmuster des quranischen Arabisch — organisiert nach arabischen Awzan mit Funktion, Quranbeispielen und Haeufigkeit. Rein sprachwissenschaftlich: der Text und die Morphologie.",
+    "description": "Systematisches Inventar aller Nominalbildungsmuster des quranischen Arabisch — organisiert nach arabischen Awzan mit Funktion, Quranbeispielen und Häufigkeit. Rein sprachwissenschaftlich: der Text und die Morphologie.",
     "totalCategories": 9,
-    "note": "Jedes Muster (وَزْن) wird mit der فعل-Schablone dargestellt: ف = 1. Radikal, ع = 2. Radikal, ل = 3. Radikal. Die Vokale und Zusatzbuchstaben des Musters zeigen die Bildungsregel."
+    "note": "Jedes Muster (وَزْن) wird mit der فعل-Schablone dargestellt: ف = 1. Radikal, ع = 2. Radikal, ل = 3. Radikal. Die Vokale und Zusatzbuchstaben des Musters zeigen die Bildungsregel.",
+    "sources": [
+      { "name": "Wright's Grammar Vol I", "url": "https://archive.org/details/grammarofthearab01telerich" },
+      { "name": "Quranic Arabic Corpus", "url": "https://corpus.quran.com/" },
+      { "name": "Lane's Lexicon", "url": "https://ejtaal.net/aa/" }
+    ]
   },
   "categories": [
     {
       "id": "basic_nouns",
       "title": "Grundmuster der Nominalbildung (Form I)",
-      "description": "Die haeufigsten Nominalbildungsmuster aus der Grundform (Form I). Diese Muster bilden die Mehrheit aller Nomen im Quran.",
+      "description": "Die häufigsten Nominalbildungsmuster aus der Grundform (Form I). Diese Muster bilden die Mehrheit aller Nomen im Quran.",
       "patterns": [
         {
           "pattern": "فَعْل",
           "transliteration": "fa'l",
-          "function": "Handlungsnomen, abstrakte Konzepte. Das haeufigste Grundmuster.",
+          "function": "Handlungsnomen, abstrakte Konzepte. Das häufigste Grundmuster.",
           "examples": [
             {"vocalized": "حَمْد", "root": "ح-م-د", "meaning": "Lob, Preis", "ref": "1:2"},
             {"vocalized": "نَصْر", "root": "ن-ص-ر", "meaning": "Hilfe, Sieg", "ref": "110:1"},
-            {"vocalized": "ذَنْب", "root": "ذ-ن-ب", "meaning": "Schuld, Suende", "ref": "3:16"},
+            {"vocalized": "ذَنْب", "root": "ذ-ن-ب", "meaning": "Schuld, Sünde", "ref": "3:16"},
             {"vocalized": "قَوْل", "root": "ق-و-ل", "meaning": "Rede, Wort", "ref": "2:235"},
             {"vocalized": "أَمْر", "root": "ا-م-ر", "meaning": "Sache, Befehl, Angelegenheit", "ref": "2:210"}
           ],
-          "frequencyNote": "Sehr haeufig — hunderte Belege"
+          "frequencyNote": "Sehr häufig — hunderte Belege"
         },
         {
           "pattern": "فِعْل",
           "transliteration": "fi'l",
-          "function": "Nomen fuer Zustaende, Eigenschaften und abstrakte Konzepte. Kasra unter dem 1. Radikal.",
+          "function": "Nomen für Zustände, Eigenschaften und abstrakte Konzepte. Kasra unter dem 1. Radikal.",
           "examples": [
             {"vocalized": "عِلْم", "root": "ع-ل-م", "meaning": "Wissen", "ref": "2:120"},
             {"vocalized": "حِلْم", "root": "ح-ل-م", "meaning": "Nachsicht, Sanftmut", "ref": "9:114"},
@@ -35,25 +40,25 @@
             {"vocalized": "سِلْم", "root": "س-ل-م", "meaning": "Friede", "ref": "2:208"},
             {"vocalized": "جِنّ", "root": "ج-ن-ن", "meaning": "Dschinn (verborgene Wesen)", "ref": "72:1"}
           ],
-          "frequencyNote": "Haeufig"
+          "frequencyNote": "Häufig"
         },
         {
           "pattern": "فُعْل",
           "transliteration": "fu'l",
-          "function": "Nomen fuer Resultate, Zustaende. Damma unter dem 1. Radikal.",
+          "function": "Nomen für Resultate, Zustände. Damma unter dem 1. Radikal.",
           "examples": [
             {"vocalized": "حُكْم", "root": "ح-ك-م", "meaning": "Urteil, Weisheit", "ref": "6:62"},
             {"vocalized": "شُكْر", "root": "ش-ك-ر", "meaning": "Dank", "ref": "2:52"},
             {"vocalized": "كُفْر", "root": "ك-ف-ر", "meaning": "Undankbarkeit, Leugnung", "ref": "2:108"},
             {"vocalized": "عُذْر", "root": "ع-ذ-ر", "meaning": "Entschuldigung", "ref": "7:164"},
-            {"vocalized": "مُلْك", "root": "م-ل-ك", "meaning": "Koenigreich, Herrschaft", "ref": "2:247"}
+            {"vocalized": "مُلْك", "root": "م-ل-ك", "meaning": "Königreich, Herrschaft", "ref": "2:247"}
           ],
-          "frequencyNote": "Haeufig"
+          "frequencyNote": "Häufig"
         },
         {
           "pattern": "فَعَل",
           "transliteration": "fa'al",
-          "function": "Nomen fuer Handlungen, Resultate und konkrete Dinge. Beide Silben offen mit Fatha.",
+          "function": "Nomen für Handlungen, Resultate und konkrete Dinge. Beide Silben offen mit Fatha.",
           "examples": [
             {"vocalized": "عَمَل", "root": "ع-م-ل", "meaning": "Tat, Handlung", "ref": "2:167"},
             {"vocalized": "سَبَب", "root": "س-ب-ب", "meaning": "Mittel, Ursache", "ref": "18:84"},
@@ -61,7 +66,7 @@
             {"vocalized": "أَجَل", "root": "ا-ج-ل", "meaning": "Frist, Termin", "ref": "6:2"},
             {"vocalized": "فَرَح", "root": "ف-ر-ح", "meaning": "Freude", "ref": "30:36"}
           ],
-          "frequencyNote": "Haeufig"
+          "frequencyNote": "Häufig"
         },
         {
           "pattern": "فَعْلَة",
@@ -73,39 +78,39 @@
             {"vocalized": "سَيِّئَة", "root": "س-و-ا", "meaning": "schlechte Tat", "ref": "2:81", "note": "Eigentliches Muster ist فَيْعِلَة (aus hohler Wurzel س-و-أ, das Waw wird zu Ya und verdoppelt sich)"},
             {"vocalized": "شَجَرَة", "root": "ش-ج-ر", "meaning": "Baum", "ref": "2:35"}
           ],
-          "frequencyNote": "Sehr haeufig"
+          "frequencyNote": "Sehr häufig"
         },
         {
           "pattern": "فِعْلَة",
           "transliteration": "fi'la",
-          "function": "Nomen fuer Art und Weise (Ism al-Hay'a) oder allgemeines feminines Nomen.",
+          "function": "Nomen für Art und Weise (Ism al-Hay'a) oder allgemeines feminines Nomen.",
           "examples": [
             {"vocalized": "نِعْمَة", "root": "ن-ع-م", "meaning": "Gnade, Wohltat", "ref": "2:231"},
             {"vocalized": "قِبْلَة", "root": "ق-ب-ل", "meaning": "Gebetsrichtung", "ref": "2:142"},
             {"vocalized": "فِطْرَة", "root": "ف-ط-ر", "meaning": "natuerliche Anlage", "ref": "30:30"},
-            {"vocalized": "قِطْعَة", "root": "ق-ط-ع", "meaning": "Stueck", "ref": "13:4"},
-            {"vocalized": "فِتْنَة", "root": "ف-ت-ن", "meaning": "Pruefung, Versuchung", "ref": "2:191"},
+            {"vocalized": "قِطْعَة", "root": "ق-ط-ع", "meaning": "Stück", "ref": "13:4"},
+            {"vocalized": "فِتْنَة", "root": "ف-ت-ن", "meaning": "Prüfung, Versuchung", "ref": "2:191"},
             {"vocalized": "سِدْرَة", "root": "س-د-ر", "meaning": "Lotusbaum", "ref": "53:14"}
           ],
-          "frequencyNote": "Haeufig"
+          "frequencyNote": "Häufig"
         },
         {
           "pattern": "فُعْلَة",
           "transliteration": "fu'la",
-          "function": "Feminines Nomen mit Damma, oft fuer Gruppen oder abstrakte Konzepte.",
+          "function": "Feminines Nomen mit Damma, oft für Gruppen oder abstrakte Konzepte.",
           "examples": [
             {"vocalized": "غُرْفَة", "root": "غ-ر-ف", "meaning": "Gemach, Obergeschoss", "ref": "25:75"},
             {"vocalized": "أُمَّة", "root": "ا-م-م", "meaning": "Gemeinschaft, Volk", "ref": "2:128", "note": "Technisch Muster فُعَّة (mit Schadda auf dem verdoppelten 2. Radikal), hier unter فُعْلَة eingeordnet"},
             {"vocalized": "حُجَّة", "root": "ح-ج-ج", "meaning": "Beweis, Argument", "ref": "2:150", "note": "Technisch Muster فُعَّة"},
             {"vocalized": "سُنَّة", "root": "س-ن-ن", "meaning": "Verfahrensweise, Brauch", "ref": "3:137", "note": "Technisch Muster فُعَّة"},
-            {"vocalized": "قُوَّة", "root": "ق-و-ي", "meaning": "Kraft, Staerke", "ref": "2:165", "note": "Technisch Muster فُعَّة"}
+            {"vocalized": "قُوَّة", "root": "ق-و-ي", "meaning": "Kraft, Stärke", "ref": "2:165", "note": "Technisch Muster فُعَّة"}
           ],
-          "frequencyNote": "Haeufig"
+          "frequencyNote": "Häufig"
         },
         {
           "pattern": "فِعَال",
           "transliteration": "fi'āl",
-          "function": "Abstrakte Handlungsnomen, Masdar-Variante fuer Form I, auch Pluralmuster.",
+          "function": "Abstrakte Handlungsnomen, Masdar-Variante für Form I, auch Pluralmuster.",
           "examples": [
             {"vocalized": "كِتَاب", "root": "ك-ت-ب", "meaning": "Buch, Schrift", "ref": "2:2"},
             {"vocalized": "حِسَاب", "root": "ح-س-ب", "meaning": "Abrechnung", "ref": "2:202"},
@@ -113,12 +118,12 @@
             {"vocalized": "صِرَاط", "root": "ص-ر-ط", "meaning": "Weg, Pfad", "ref": "1:6"},
             {"vocalized": "عِبَاد", "root": "ع-ب-د", "meaning": "Diener (Plural)", "ref": "2:90"}
           ],
-          "frequencyNote": "Sehr haeufig"
+          "frequencyNote": "Sehr häufig"
         },
         {
           "pattern": "فَعَال",
           "transliteration": "fa'āl",
-          "function": "Abstrakte Nomen, oft fuer Zustaende und Resultate.",
+          "function": "Abstrakte Nomen, oft für Zustände und Resultate.",
           "examples": [
             {"vocalized": "سَلَام", "root": "س-ل-م", "meaning": "Friede, Gruss", "ref": "6:54"},
             {"vocalized": "كَلَام", "root": "ك-ل-م", "meaning": "Rede, Worte", "ref": "2:75"},
@@ -126,28 +131,28 @@
             {"vocalized": "ثَوَاب", "root": "ث-و-ب", "meaning": "Belohnung", "ref": "3:148"},
             {"vocalized": "مَتَاع", "root": "م-ت-ع", "meaning": "Nutzen, Genuss", "ref": "2:36"}
           ],
-          "frequencyNote": "Sehr haeufig"
+          "frequencyNote": "Sehr häufig"
         },
         {
           "pattern": "فُعُول",
           "transliteration": "fu'ūl",
-          "function": "Masdar-Variante fuer Form I, auch haeufiges Pluralmuster.",
+          "function": "Masdar-Variante für Form I, auch häufiges Pluralmuster.",
           "examples": [
             {"vocalized": "دُخُول", "root": "د-خ-ل", "meaning": "Eintreten", "ref": "110:2"},
             {"vocalized": "خُرُوج", "root": "خ-ر-ج", "meaning": "Herausgehen", "ref": "50:11"},
             {"vocalized": "قُلُوب", "root": "ق-ل-ب", "meaning": "Herzen (Plural)", "ref": "2:7"},
             {"vocalized": "عُيُون", "root": "ع-ي-ن", "meaning": "Augen/Quellen (Plural)", "ref": "26:134"},
-            {"vocalized": "بُيُوت", "root": "ب-ي-ت", "meaning": "Haeuser (Plural)", "ref": "2:189"}
+            {"vocalized": "بُيُوت", "root": "ب-ي-ت", "meaning": "Häuser (Plural)", "ref": "2:189"}
           ],
-          "frequencyNote": "Sehr haeufig"
+          "frequencyNote": "Sehr häufig"
         },
         {
           "pattern": "فُعْلَان",
           "transliteration": "fu'lān",
-          "function": "Abstrakte Nomen, oft fuer Autoritaet, Macht oder Zustaende.",
+          "function": "Abstrakte Nomen, oft für Autorität, Macht oder Zustände.",
           "examples": [
             {"vocalized": "سُلْطَان", "root": "س-ل-ط", "meaning": "Vollmacht, Beweis", "ref": "4:91"},
-            {"vocalized": "بُنْيَان", "root": "ب-ن-ي", "meaning": "Bauwerk, Gebaeude", "ref": "9:109"},
+            {"vocalized": "بُنْيَان", "root": "ب-ن-ي", "meaning": "Bauwerk, Gebäude", "ref": "9:109"},
             {"vocalized": "قُرْآن", "root": "ق-ر-ا", "meaning": "Lesung, Rezitation", "ref": "2:185"},
             {"vocalized": "بُهْتَان", "root": "ب-ه-ت", "meaning": "Verleumdung", "ref": "4:20"},
             {"vocalized": "كُفْرَان", "root": "ك-ف-ر", "meaning": "Undankbarkeit", "ref": "14:22"}
@@ -157,7 +162,7 @@
         {
           "pattern": "فَعِيل",
           "transliteration": "fa'īl",
-          "function": "Intensivadjektiv, eines der haeufigsten Adjektivmuster. Drueckt bestaendige Eigenschaft aus.",
+          "function": "Intensivadjektiv, eines der häufigsten Adjektivmuster. Drückt beständige Eigenschaft aus.",
           "examples": [
             {"vocalized": "رَحِيم", "root": "ر-ح-م", "meaning": "barmherzig", "ref": "1:1"},
             {"vocalized": "عَظِيم", "root": "ع-ظ-م", "meaning": "gewaltig", "ref": "2:7"},
@@ -165,12 +170,12 @@
             {"vocalized": "حَكِيم", "root": "ح-ك-م", "meaning": "weise", "ref": "2:32"},
             {"vocalized": "كَرِيم", "root": "ك-ر-م", "meaning": "edel, grosszuegig", "ref": "27:29"}
           ],
-          "frequencyNote": "Extrem haeufig — eines der haeufigsten Muster ueberhaupt"
+          "frequencyNote": "Extrem häufig — eines der häufigsten Muster ueberhaupt"
         },
         {
           "pattern": "فَعُول",
           "transliteration": "fa'ūl",
-          "function": "Intensivadjektiv, staerker als فَعِيل. Drueckt habituelle/intensive Eigenschaft aus.",
+          "function": "Intensivadjektiv, stärker als فَعِيل. Drückt habituelle/intensive Eigenschaft aus.",
           "examples": [
             {"vocalized": "غَفُور", "root": "غ-ف-ر", "meaning": "viel vergebend", "ref": "2:173"},
             {"vocalized": "شَكُور", "root": "ش-ك-ر", "meaning": "viel dankend", "ref": "35:30"},
@@ -178,37 +183,37 @@
             {"vocalized": "كَفُور", "root": "ك-ف-ر", "meaning": "sehr undankbar", "ref": "17:27"},
             {"vocalized": "رَسُول", "root": "ر-س-ل", "meaning": "Gesandter (einer der gesandt wird)", "ref": "2:87"}
           ],
-          "frequencyNote": "Sehr haeufig"
+          "frequencyNote": "Sehr häufig"
         },
         {
           "pattern": "فَعَّال",
           "transliteration": "fa''āl",
-          "function": "Maximal-Intensivadjektiv, drueckt hoechste Intensitaet oder habituelle Handlung aus. Shadda ueber dem 2. Radikal.",
+          "function": "Maximal-Intensivadjektiv, drückt höchste Intensität oder habituelle Handlung aus. Shadda über dem 2. Radikal.",
           "examples": [
             {"vocalized": "غَفَّار", "root": "غ-ف-ر", "meaning": "unaufhoerlich vergebend", "ref": "20:82"},
             {"vocalized": "تَوَّاب", "root": "ت-و-ب", "meaning": "immerfort vergebend", "ref": "2:37"},
-            {"vocalized": "فَعَّال", "root": "ف-ع-ل", "meaning": "staendig handelnd", "ref": "11:107"},
+            {"vocalized": "فَعَّال", "root": "ف-ع-ل", "meaning": "ständig handelnd", "ref": "11:107"},
             {"vocalized": "قَهَّار", "root": "ق-ه-ر", "meaning": "allbezwingend", "ref": "13:16"},
             {"vocalized": "وَهَّاب", "root": "و-ه-ب", "meaning": "unaufhoerlich gebend", "ref": "3:8"}
           ],
-          "frequencyNote": "Mittel — typisch fuer Intensitaetsattribute"
+          "frequencyNote": "Mittel — typisch für Intensitätsattribute"
         },
         {
           "pattern": "فَعْلَان",
           "transliteration": "fa'lān",
-          "function": "Zustandsadjektiv, drueckt voruebergehenden koerperlichen oder emotionalen Zustand aus. Diptotisch.",
+          "function": "Zustandsadjektiv, drückt voruebergehenden körperlichen oder emotionalen Zustand aus. Diptotisch.",
           "examples": [
             {"vocalized": "غَضْبَان", "root": "غ-ض-ب", "meaning": "zornig", "ref": "7:150"},
             {"vocalized": "عَطْشَان", "root": "ع-ط-ش", "meaning": "durstig (implizit im Sprachsystem)"},
             {"vocalized": "سَكْرَان", "root": "س-ك-ر", "meaning": "berauscht", "ref": "4:43"},
-            {"vocalized": "كَسْلَان", "root": "ك-س-ل", "meaning": "traege (implizit im Sprachsystem)"}
+            {"vocalized": "كَسْلَان", "root": "ك-س-ل", "meaning": "träge (implizit im Sprachsystem)"}
           ],
           "frequencyNote": "Selten im Quran, wichtig im Sprachsystem"
         },
         {
           "pattern": "فَعِل",
           "transliteration": "fa'il",
-          "function": "Adjektiv fuer voruebergehende Zustaende. Kasra unter dem 2. Radikal.",
+          "function": "Adjektiv für voruebergehende Zustände. Kasra unter dem 2. Radikal.",
           "examples": [
             {"vocalized": "فَرِح", "root": "ف-ر-ح", "meaning": "froh", "ref": "30:36"},
             {"vocalized": "حَذِر", "root": "ح-ذ-ر", "meaning": "vorsichtig", "ref": "2:19"},
@@ -221,7 +226,7 @@
     {
       "id": "active_participles",
       "title": "Aktivpartizipien (اسم الفاعل)",
-      "description": "Das Aktivpartizip bezeichnet den Ausfuehrenden einer Handlung. Jede Verbform (I-X) hat ein eigenes Muster.",
+      "description": "Das Aktivpartizip bezeichnet den Ausführenden einer Handlung. Jede Verbform (I-X) hat ein eigenes Muster.",
       "patterns": [
         {
           "pattern": "فَاعِل",
@@ -232,16 +237,16 @@
             {"vocalized": "كَاتِب", "root": "ك-ت-ب", "meaning": "Schreibender", "ref": "2:282"},
             {"vocalized": "عَالِم", "root": "ع-ل-م", "meaning": "Wissender", "ref": "6:73"},
             {"vocalized": "صَادِق", "root": "ص-د-ق", "meaning": "Wahrhaftiger", "ref": "9:119"},
-            {"vocalized": "خَالِق", "root": "خ-ل-ق", "meaning": "Schoepfer", "ref": "59:24"},
+            {"vocalized": "خَالِق", "root": "خ-ل-ق", "meaning": "Schöpfer", "ref": "59:24"},
             {"vocalized": "كَافِر", "root": "ك-ف-ر", "meaning": "Leugnender", "ref": "2:19"},
             {"vocalized": "ظَالِم", "root": "ظ-ل-م", "meaning": "Unrecht-Tuender", "ref": "2:35"}
           ],
-          "frequencyNote": "Extrem haeufig — tausende Belege"
+          "frequencyNote": "Extrem häufig — tausende Belege"
         },
         {
           "pattern": "مُفَعِّل",
           "transliteration": "mufa''il",
-          "function": "Aktivpartizip Form II. Praefix مُـ + Shadda ueber dem 2. Radikal + Kasra.",
+          "function": "Aktivpartizip Form II. Präfix مُـ + Shadda über dem 2. Radikal + Kasra.",
           "formation": "مُـ + C1 + C2 (mit Shadda) + Kasra + C3",
           "examples": [
             {"vocalized": "مُعَلِّم", "root": "ع-ل-م", "meaning": "Lehrender"},
@@ -250,24 +255,24 @@
             {"vocalized": "مُصَدِّق", "root": "ص-د-ق", "meaning": "Bestaetigender", "ref": "3:39"},
             {"vocalized": "مُذَكِّر", "root": "ذ-ك-ر", "meaning": "Erinnernder", "ref": "88:21"}
           ],
-          "frequencyNote": "Haeufig"
+          "frequencyNote": "Häufig"
         },
         {
           "pattern": "مُفَاعِل",
           "transliteration": "mufā'il",
-          "function": "Aktivpartizip Form III. Praefix مُـ + Alif nach dem 1. Radikal.",
+          "function": "Aktivpartizip Form III. Präfix مُـ + Alif nach dem 1. Radikal.",
           "formation": "مُـ + C1 + Alif + C2 + Kasra + C3",
           "examples": [
             {"vocalized": "مُنَافِق", "root": "ن-ف-ق", "meaning": "Heuchler", "ref": "9:67"},
             {"vocalized": "مُجَاهِد", "root": "ج-ه-د", "meaning": "sich Anstrengender", "ref": "4:95"},
-            {"vocalized": "مُقَاتِل", "root": "ق-ت-ل", "meaning": "Kaempfender", "ref": "3:146"}
+            {"vocalized": "مُقَاتِل", "root": "ق-ت-ل", "meaning": "Kämpfender", "ref": "3:146"}
           ],
           "frequencyNote": "Mittel"
         },
         {
           "pattern": "مُفْعِل",
           "transliteration": "muf'il",
-          "function": "Aktivpartizip Form IV. Praefix مُـ + Sukun ueber dem 1. Radikal + Kasra unter dem 2.",
+          "function": "Aktivpartizip Form IV. Präfix مُـ + Sukun über dem 1. Radikal + Kasra unter dem 2.",
           "formation": "مُـ + C1 (Sukun) + C2 + Kasra + C3",
           "examples": [
             {"vocalized": "مُؤْمِن", "root": "ا-م-ن", "meaning": "Glaubender", "ref": "2:8"},
@@ -276,34 +281,34 @@
             {"vocalized": "مُشْرِك", "root": "ش-ر-ك", "meaning": "Beigesellender", "ref": "2:105"},
             {"vocalized": "مُنْذِر", "root": "ن-ذ-ر", "meaning": "Warner", "ref": "38:4"}
           ],
-          "frequencyNote": "Sehr haeufig — die haeufigsten Form-IV-Partizipien im Quran"
+          "frequencyNote": "Sehr häufig — die häufigsten Form-IV-Partizipien im Quran"
         },
         {
           "pattern": "مُتَفَعِّل",
           "transliteration": "mutafa''il",
-          "function": "Aktivpartizip Form V. Praefix مُتَـ + Shadda ueber dem 2. Radikal + Kasra.",
+          "function": "Aktivpartizip Form V. Präfix مُتَـ + Shadda über dem 2. Radikal + Kasra.",
           "formation": "مُـ + تَ + C1 + C2 (mit Shadda) + Kasra + C3",
           "examples": [
             {"vocalized": "مُتَوَكِّل", "root": "و-ك-ل", "meaning": "Sich-Anvertrauender", "ref": "3:159"},
-            {"vocalized": "مُتَّقٍ", "root": "و-ق-ي", "meaning": "sich Huetender", "ref": "2:2", "note": "Gehoert zu Form VIII (اتَّقَى, Muster مُفْتَعِل), nicht Form V. Hier aufgefuehrt wegen der aeusseren Aehnlichkeit mit مُتَفَعِّل."},
-            {"vocalized": "مُتَكَبِّر", "root": "ك-ب-ر", "meaning": "Hochmuetiger / der Erhabene", "ref": "59:23"}
+            {"vocalized": "مُتَّقٍ", "root": "و-ق-ي", "meaning": "sich Hütender", "ref": "2:2", "note": "Gehört zu Form VIII (اتَّقَى, Muster مُفْتَعِل), nicht Form V. Hier aufgefuehrt wegen der äußeren Ähnlichkeit mit مُتَفَعِّل."},
+            {"vocalized": "مُتَكَبِّر", "root": "ك-ب-ر", "meaning": "Hochmütiger / der Erhabene", "ref": "59:23"}
           ],
           "frequencyNote": "Mittel"
         },
         {
           "pattern": "مُتَفَاعِل",
           "transliteration": "mutafā'il",
-          "function": "Aktivpartizip Form VI. Praefix مُتَـ + Alif nach dem 1. Radikal.",
+          "function": "Aktivpartizip Form VI. Präfix مُتَـ + Alif nach dem 1. Radikal.",
           "formation": "مُـ + تَ + C1 + Alif + C2 + Kasra + C3",
           "examples": [
-            {"vocalized": "مُتَشَابِه", "root": "ش-ب-ه", "meaning": "einander aehnlich, mehrdeutig", "ref": "3:7"}
+            {"vocalized": "مُتَشَابِه", "root": "ش-ب-ه", "meaning": "einander ähnlich, mehrdeutig", "ref": "3:7"}
           ],
           "frequencyNote": "Selten im Quran"
         },
         {
           "pattern": "مُنْفَعِل",
           "transliteration": "munfa'il",
-          "function": "Aktivpartizip Form VII. Praefix مُنْـ.",
+          "function": "Aktivpartizip Form VII. Präfix مُنْـ.",
           "formation": "مُـ + نْ + C1 + C2 + Kasra + C3",
           "examples": [
             {"vocalized": "مُنْقَلِب", "root": "ق-ل-ب", "meaning": "Sich-Umwendender", "ref": "3:144"},
@@ -318,21 +323,20 @@
           "formation": "مُـ + C1 + تَ + C2 + Kasra + C3",
           "examples": [
             {"vocalized": "مُخْتَلِف", "root": "خ-ل-ف", "meaning": "Verschieden-Seiender", "ref": "35:27"},
-            {"vocalized": "مُعْتَدٍ", "root": "ع-د-و", "meaning": "Uebertreter", "ref": "2:190"},
+            {"vocalized": "مُعْتَدٍ", "root": "ع-د-و", "meaning": "Übertreter", "ref": "2:190"},
             {"vocalized": "مُهْتَدٍ", "root": "ه-د-ي", "meaning": "Rechtgeleiteter", "ref": "7:178"},
-            {"vocalized": "مُتَّقٍ", "root": "و-ق-ي", "meaning": "sich Huetender", "ref": "2:2", "note": "Von اتَّقَى (Form VIII). Das تاء der Form VIII assimiliert sich mit dem و der Wurzel."}
+            {"vocalized": "مُتَّقٍ", "root": "و-ق-ي", "meaning": "sich Hütender", "ref": "2:2", "note": "Von اتَّقَى (Form VIII). Das تاء der Form VIII assimiliert sich mit dem و der Wurzel."}
           ],
           "frequencyNote": "Mittel"
         },
         {
           "pattern": "مُسْتَفْعِل",
           "transliteration": "mustaf'il",
-          "function": "Aktivpartizip Form X. Praefix مُسْتَـ. Die laengste regulaere Partizipform.",
+          "function": "Aktivpartizip Form X. Präfix مُسْتَـ. Die längste reguläre Partizipform.",
           "formation": "مُـ + سْتَ + C1 + C2 + Kasra + C3",
           "examples": [
             {"vocalized": "مُسْتَقِيم", "root": "ق-و-م", "meaning": "gerade, aufrecht", "ref": "1:6"},
-            {"vocalized": "مُسْتَكْبِر", "root": "ك-ب-ر", "meaning": "Sich-fuer-gross-Haltender", "ref": "40:56"},
-            {"vocalized": "مُسْتَضْعَف", "root": "ض-ع-ف", "meaning": "Unterdrueckter (passiv!)", "ref": "4:97"},
+            {"vocalized": "مُسْتَكْبِر", "root": "ك-ب-ر", "meaning": "Sich-für-gross-Haltender", "ref": "40:56"},
             {"vocalized": "مُسْتَغْفِر", "root": "غ-ف-ر", "meaning": "um-Vergebung-Bittender", "ref": "3:17"}
           ],
           "frequencyNote": "Mittel"
@@ -347,7 +351,7 @@
         {
           "pattern": "مَفْعُول",
           "transliteration": "maf'ūl",
-          "function": "Passivpartizip der Grundform (I). Praefix مَـ + Waw nach dem 2. Radikal.",
+          "function": "Passivpartizip der Grundform (I). Präfix مَـ + Waw nach dem 2. Radikal.",
           "formation": "مَـ + C1 + C2 + ُول + C3",
           "examples": [
             {"vocalized": "مَعْلُوم", "root": "ع-ل-م", "meaning": "bekannt", "ref": "15:4"},
@@ -356,12 +360,12 @@
             {"vocalized": "مَسْجُون", "root": "س-ج-ن", "meaning": "eingesperrt (implizit)"},
             {"vocalized": "مَوْعُود", "root": "و-ع-د", "meaning": "versprochen", "ref": "11:65"}
           ],
-          "frequencyNote": "Haeufig"
+          "frequencyNote": "Häufig"
         },
         {
           "pattern": "مُفَعَّل",
           "transliteration": "mufa''al",
-          "function": "Passivpartizip Form II. Praefix مُـ + Shadda ueber dem 2. Radikal + Fatha.",
+          "function": "Passivpartizip Form II. Präfix مُـ + Shadda über dem 2. Radikal + Fatha.",
           "formation": "مُـ + C1 + C2 (Shadda + Fatha) + C3",
           "examples": [
             {"vocalized": "مُحَمَّد", "root": "ح-م-د", "meaning": "vielfach Gelobter (Eigenname)", "ref": "3:144"},
@@ -370,12 +374,12 @@
             {"vocalized": "مُسَوَّم", "root": "س-و-م", "meaning": "gekennzeichnet", "ref": "3:14"},
             {"vocalized": "مُبَارَك", "root": "ب-ر-ك", "meaning": "gesegnet", "ref": "3:96"}
           ],
-          "frequencyNote": "Haeufig"
+          "frequencyNote": "Häufig"
         },
         {
           "pattern": "مُفْعَل",
           "transliteration": "muf'al",
-          "function": "Passivpartizip Form IV. Praefix مُـ + Sukun ueber dem 1. Radikal + Fatha unter dem 2.",
+          "function": "Passivpartizip Form IV. Präfix مُـ + Sukun über dem 1. Radikal + Fatha unter dem 2.",
           "formation": "مُـ + C1 (Sukun) + C2 (Fatha) + C3",
           "examples": [
             {"vocalized": "مُرْسَل", "root": "ر-س-ل", "meaning": "entsandt", "ref": "36:52"},
@@ -387,10 +391,10 @@
         {
           "pattern": "مُسْتَفْعَل",
           "transliteration": "mustaf'al",
-          "function": "Passivpartizip Form X. Praefix مُسْتَـ + Fatha unter dem 2. Radikal.",
+          "function": "Passivpartizip Form X. Präfix مُسْتَـ + Fatha unter dem 2. Radikal.",
           "formation": "مُـ + سْتَ + C1 + C2 (Fatha) + C3",
           "examples": [
-            {"vocalized": "مُسْتَضْعَف", "root": "ض-ع-ف", "meaning": "unterdrueckt, fuer-schwach-gehalten", "ref": "4:97"},
+            {"vocalized": "مُسْتَضْعَف", "root": "ض-ع-ف", "meaning": "unterdrueckt, für-schwach-gehalten", "ref": "4:97"},
             {"vocalized": "مُسْتَقَرّ", "root": "ق-ر-ر", "meaning": "Ruheplatz, feststehend", "ref": "6:98"}
           ],
           "frequencyNote": "Selten"
@@ -405,25 +409,25 @@
         {
           "pattern": "تَفْعِيل",
           "transliteration": "taf'īl",
-          "function": "Masdar der Form II. Praefix تَـ + Kasra unter dem 2. Radikal + Ya.",
+          "function": "Masdar der Form II. Präfix تَـ + Kasra unter dem 2. Radikal + Ya.",
           "verbForm": "II",
           "examples": [
             {"vocalized": "تَنْزِيل", "root": "ن-ز-ل", "meaning": "Herabsendung", "ref": "26:192"},
             {"vocalized": "تَعْلِيم", "root": "ع-ل-م", "meaning": "Unterrichtung"},
-            {"vocalized": "تَصْدِيق", "root": "ص-د-ق", "meaning": "Bestaetigung", "ref": "10:37"},
+            {"vocalized": "تَصْدِيق", "root": "ص-د-ق", "meaning": "Bestätigung", "ref": "10:37"},
             {"vocalized": "تَسْبِيح", "root": "س-ب-ح", "meaning": "Lobpreisung", "ref": "21:87"},
-            {"vocalized": "تَكْذِيب", "root": "ك-ذ-ب", "meaning": "fuer-Luege-Erklaerung", "ref": "40:5"}
+            {"vocalized": "تَكْذِيب", "root": "ك-ذ-ب", "meaning": "für-Lüge-Erklärung", "ref": "40:5"}
           ],
-          "frequencyNote": "Sehr haeufig"
+          "frequencyNote": "Sehr häufig"
         },
         {
           "pattern": "تَفْعِلَة",
           "transliteration": "taf'ila",
-          "function": "Alternative Masdar-Form II fuer Verben mit schwachem 3. Radikal.",
+          "function": "Alternative Masdar-Form II für Verben mit schwachem 3. Radikal.",
           "verbForm": "II",
           "examples": [
             {"vocalized": "تَوْبَة", "root": "ت-و-ب", "meaning": "Reue, Umkehr", "ref": "9:104"},
-            {"vocalized": "تَزْكِيَة", "root": "ز-ك-و", "meaning": "Reinigung, Laeuterung", "ref": "2:129"},
+            {"vocalized": "تَزْكِيَة", "root": "ز-ك-و", "meaning": "Reinigung, Läuterung", "ref": "2:129"},
             {"vocalized": "تَسْمِيَة", "root": "س-م-و", "meaning": "Benennung"}
           ],
           "frequencyNote": "Mittel"
@@ -431,34 +435,34 @@
         {
           "pattern": "مُفَاعَلَة / فِعَال",
           "transliteration": "mufā'ala / fi'āl",
-          "function": "Masdar der Form III. Zwei gaengige Muster. مُفَاعَلَة fuer konkretere, فِعَال fuer abstraktere Bedeutung.",
+          "function": "Masdar der Form III. Zwei gängige Muster. مُفَاعَلَة für konkretere, فِعَال für abstraktere Bedeutung.",
           "verbForm": "III",
           "examples": [
-            {"vocalized": "مُقَاتَلَة", "root": "ق-ت-ل", "meaning": "Kaempfen"},
+            {"vocalized": "مُقَاتَلَة", "root": "ق-ت-ل", "meaning": "Kämpfen"},
             {"vocalized": "جِهَاد", "root": "ج-ه-د", "meaning": "Anstrengung", "ref": "9:24"},
             {"vocalized": "قِتَال", "root": "ق-ت-ل", "meaning": "Kampf", "ref": "2:216"},
             {"vocalized": "نِفَاق", "root": "ن-ف-ق", "meaning": "Heuchelei", "ref": "9:77"}
           ],
-          "frequencyNote": "Haeufig"
+          "frequencyNote": "Häufig"
         },
         {
           "pattern": "إِفْعَال",
           "transliteration": "if'āl",
-          "function": "Masdar der Form IV. Praefix إِ + Sukun ueber dem 1. Radikal.",
+          "function": "Masdar der Form IV. Präfix إِ + Sukun über dem 1. Radikal.",
           "verbForm": "IV",
           "examples": [
             {"vocalized": "إِسْلَام", "root": "س-ل-م", "meaning": "Ergebung, Hingabe", "ref": "3:19"},
             {"vocalized": "إِيمَان", "root": "ا-م-ن", "meaning": "Glaube, Vertrauen", "ref": "2:93"},
             {"vocalized": "إِحْسَان", "root": "ح-س-ن", "meaning": "gutes Tun", "ref": "16:90"},
             {"vocalized": "إِنْزَال", "root": "ن-ز-ل", "meaning": "Herabsendung", "ref": "2:22"},
-            {"vocalized": "إِنْفَاق", "root": "ن-ف-ق", "meaning": "Ausgeben (von Vermoegen)", "ref": "2:3"}
+            {"vocalized": "إِنْفَاق", "root": "ن-ف-ق", "meaning": "Ausgeben (von Vermögen)", "ref": "2:3"}
           ],
-          "frequencyNote": "Sehr haeufig"
+          "frequencyNote": "Sehr häufig"
         },
         {
           "pattern": "تَفَعُّل",
           "transliteration": "tafa''ul",
-          "function": "Masdar der Form V. Praefix تَـ + Shadda ueber dem 2. Radikal.",
+          "function": "Masdar der Form V. Präfix تَـ + Shadda über dem 2. Radikal.",
           "verbForm": "V",
           "examples": [
             {"vocalized": "تَوَكُّل", "root": "و-ك-ل", "meaning": "Sich-Anvertrauen, Gottvertrauen", "ref": "3:159"},
@@ -469,7 +473,7 @@
         {
           "pattern": "تَفَاعُل",
           "transliteration": "tafā'ul",
-          "function": "Masdar der Form VI. Praefix تَـ + Alif nach dem 1. Radikal.",
+          "function": "Masdar der Form VI. Präfix تَـ + Alif nach dem 1. Radikal.",
           "verbForm": "VI",
           "examples": [
             {"vocalized": "تَوَاصٍ", "root": "و-ص-ي", "meaning": "gegenseitiges Ermahnen", "ref": "103:3"}
@@ -479,7 +483,7 @@
         {
           "pattern": "اِنْفِعَال",
           "transliteration": "infi'āl",
-          "function": "Masdar der Form VII. Praefix اِنْـ.",
+          "function": "Masdar der Form VII. Präfix اِنْـ.",
           "verbForm": "VII",
           "examples": [
             {"vocalized": "اِنْقِلَاب", "root": "ق-ل-ب", "meaning": "Umkehrung, Umwendung", "ref": "3:144"},
@@ -495,17 +499,17 @@
           "examples": [
             {"vocalized": "اِفْتِرَاء", "root": "ف-ر-ي", "meaning": "Erdichtung, Verleumdung", "ref": "6:21"},
             {"vocalized": "اِخْتِلَاف", "root": "خ-ل-ف", "meaning": "Verschiedenheit, Streit", "ref": "2:164"},
-            {"vocalized": "اِبْتِلَاء", "root": "ب-ل-و", "meaning": "Pruefung", "ref": "2:124"}
+            {"vocalized": "اِبْتِلَاء", "root": "ب-ل-و", "meaning": "Prüfung", "ref": "2:124"}
           ],
           "frequencyNote": "Mittel"
         },
         {
           "pattern": "اِسْتِفْعَال",
           "transliteration": "istif'āl",
-          "function": "Masdar der Form X. Praefix اِسْتِـ.",
+          "function": "Masdar der Form X. Präfix اِسْتِـ.",
           "verbForm": "X",
           "examples": [
-            {"vocalized": "اِسْتِكْبَار", "root": "ك-ب-ر", "meaning": "Hochmut, Sich-fuer-gross-Halten", "ref": "40:56"},
+            {"vocalized": "اِسْتِكْبَار", "root": "ك-ب-ر", "meaning": "Hochmut, Sich-für-gross-Halten", "ref": "40:56"},
             {"vocalized": "اِسْتِغْفَار", "root": "غ-ف-ر", "meaning": "Bitte-um-Vergebung", "ref": "4:106"},
             {"vocalized": "اِسْتِقَامَة", "root": "ق-و-م", "meaning": "Aufrichtigkeit, Geradheit", "ref": "41:6"}
           ],
@@ -516,14 +520,14 @@
     {
       "id": "place_time_nouns",
       "title": "Orts- und Zeitnomen (اسم المكان / اسم الزمان)",
-      "description": "Nomen die den Ort oder die Zeit einer Handlung bezeichnen. Gebildet mit dem Praefix مَـ.",
+      "description": "Nomen die den Ort oder die Zeit einer Handlung bezeichnen. Gebildet mit dem Präfix مَـ.",
       "patterns": [
         {
           "pattern": "مَفْعَل",
           "transliteration": "maf'al",
           "function": "Ort oder Zeit der Handlung. Mit Fatha unter dem 2. Radikal — bei Verben mit Fatha/Damma im Imperfekt.",
           "examples": [
-            {"vocalized": "مَسْكَن", "root": "س-ك-ن", "meaning": "Wohnstaette", "ref": "34:15"},
+            {"vocalized": "مَسْكَن", "root": "س-ك-ن", "meaning": "Wohnstätte", "ref": "34:15"},
             {"vocalized": "مَطْلَع", "root": "ط-ل-ع", "meaning": "Aufgangsort", "ref": "18:90"},
             {"vocalized": "مَغْرِب", "root": "غ-ر-ب", "meaning": "Ort des Untergangs, Westen", "ref": "2:115"},
             {"vocalized": "مَشْرِق", "root": "ش-ر-ق", "meaning": "Ort des Aufgangs, Osten", "ref": "2:115"}
@@ -545,7 +549,7 @@
         {
           "pattern": "مَفْعَلَة",
           "transliteration": "maf'ala",
-          "function": "Ort der Handlung, feminine Form. Oft fuer Orte mit vielen Objekten der Handlung.",
+          "function": "Ort der Handlung, feminine Form. Oft für Orte mit vielen Objekten der Handlung.",
           "examples": [
             {"vocalized": "مَدْرَسَة", "root": "د-ر-س", "meaning": "Ort des Studiums (im Sprachsystem)"},
             {"vocalized": "مَقْبَرَة", "root": "ق-ب-ر", "meaning": "Grabestaette", "ref": "102:2"}
@@ -557,12 +561,12 @@
     {
       "id": "instrument_nouns",
       "title": "Instrumentennomen (اسم الآلة)",
-      "description": "Nomen die das Werkzeug oder Mittel einer Handlung bezeichnen. Gebildet mit dem Praefix مِـ (Kasra).",
+      "description": "Nomen die das Werkzeug oder Mittel einer Handlung bezeichnen. Gebildet mit dem Präfix مِـ (Kasra).",
       "patterns": [
         {
           "pattern": "مِفْعَل",
           "transliteration": "mif'al",
-          "function": "Werkzeug / Instrument der Handlung. Praefix مِـ (mit Kasra).",
+          "function": "Werkzeug / Instrument der Handlung. Präfix مِـ (mit Kasra).",
           "examples": [
             {"vocalized": "مِنْبَر", "root": "ن-ب-ر", "meaning": "Kanzel (im Sprachsystem)"},
             {"vocalized": "مِحْرَاب", "root": "ح-ر-ب", "meaning": "Gebetsnische", "ref": "3:37"}
@@ -572,9 +576,9 @@
         {
           "pattern": "مِفْعَال",
           "transliteration": "mif'āl",
-          "function": "Werkzeug / Instrument. Praefix مِـ + Alif vor dem 3. Radikal.",
+          "function": "Werkzeug / Instrument. Präfix مِـ + Alif vor dem 3. Radikal.",
           "examples": [
-            {"vocalized": "مِفْتَاح", "root": "ف-ت-ح", "meaning": "Schluessel", "ref": "6:59"},
+            {"vocalized": "مِفْتَاح", "root": "ف-ت-ح", "meaning": "Schlüssel", "ref": "6:59"},
             {"vocalized": "مِيزَان", "root": "و-ز-ن", "meaning": "Waage", "ref": "55:7"},
             {"vocalized": "مِصْبَاح", "root": "ص-ب-ح", "meaning": "Lampe", "ref": "24:35"},
             {"vocalized": "مِنْهَاج", "root": "ن-ه-ج", "meaning": "Methode, Weg", "ref": "5:48"}
@@ -586,7 +590,7 @@
           "transliteration": "mif'ala",
           "function": "Werkzeug / Instrument, feminine Form.",
           "examples": [
-            {"vocalized": "مِشْكَاة", "root": "ش-ك-و", "meaning": "Nische (fuer Licht)", "ref": "24:35"}
+            {"vocalized": "مِشْكَاة", "root": "ش-ك-و", "meaning": "Nische (für Licht)", "ref": "24:35"}
           ],
           "frequencyNote": "Selten im Quran"
         }
@@ -602,77 +606,77 @@
           "transliteration": "af'al",
           "function": "Elativ (Komparativ/Superlativ) ODER Farb-/Defektadjektiv. Diptotisch (kein Tanwin, kein Kasra).",
           "examples": [
-            {"vocalized": "أَكْبَر", "root": "ك-ب-ر", "meaning": "groesser / am groessten", "ref": "4:153"},
+            {"vocalized": "أَكْبَر", "root": "ك-ب-ر", "meaning": "größer / am größten", "ref": "4:153"},
             {"vocalized": "أَعْلَم", "root": "ع-ل-م", "meaning": "wissender / am meisten wissend", "ref": "6:117"},
             {"vocalized": "أَحْسَن", "root": "ح-س-ن", "meaning": "besser / am besten", "ref": "12:3"},
             {"vocalized": "أَحْمَر", "root": "ح-م-ر", "meaning": "rot", "ref": "35:27"},
             {"vocalized": "أَعْمَى", "root": "ع-م-ي", "meaning": "blind", "ref": "17:72"}
           ],
-          "frequencyNote": "Sehr haeufig"
+          "frequencyNote": "Sehr häufig"
         },
         {
           "pattern": "فُعْلَى",
           "transliteration": "fu'lā",
           "function": "Femininum des Elativs. Auch diptotisch.",
           "examples": [
-            {"vocalized": "كُبْرَى", "root": "ك-ب-ر", "meaning": "die groesste", "ref": "74:35"},
-            {"vocalized": "أُولَى", "root": "و-ل-ي", "meaning": "die erste / naehere", "ref": "53:50"},
+            {"vocalized": "كُبْرَى", "root": "ك-ب-ر", "meaning": "die größte", "ref": "74:35"},
+            {"vocalized": "أُولَى", "root": "و-ل-ي", "meaning": "die erste / nähere", "ref": "53:50"},
             {"vocalized": "أُخْرَى", "root": "ا-خ-ر", "meaning": "die andere", "ref": "2:282"},
-            {"vocalized": "حُسْنَى", "root": "ح-س-ن", "meaning": "die beste / schoenste", "ref": "4:95"},
-            {"vocalized": "دُنْيَا", "root": "د-ن-و", "meaning": "die naehere (= diesseits)", "ref": "2:85"}
+            {"vocalized": "حُسْنَى", "root": "ح-س-ن", "meaning": "die beste / schönste", "ref": "4:95"},
+            {"vocalized": "دُنْيَا", "root": "د-ن-و", "meaning": "die nähere (= diesseits)", "ref": "2:85"}
           ],
-          "frequencyNote": "Haeufig"
+          "frequencyNote": "Häufig"
         }
       ]
     },
     {
       "id": "broken_plurals",
       "title": "Gebrochene Pluralmuster (جمع التكسير)",
-      "description": "Arabisch bildet Plurale haeufig durch innere Umformung statt durch Endungen. Diese 'gebrochenen' Plurale haben eigene Muster.",
+      "description": "Arabisch bildet Plurale häufig durch innere Umformung statt durch Endungen. Diese 'gebrochenen' Plurale haben eigene Muster.",
       "patterns": [
         {
           "pattern": "أَفْعَال",
           "transliteration": "af'āl",
-          "function": "Einer der haeufigsten gebrochenen Plurale. Praefix أَ + Alif vor dem 3. Radikal. Typisch fuer فَعْل-Singulare.",
+          "function": "Einer der häufigsten gebrochenen Plurale. Präfix أَ + Alif vor dem 3. Radikal. Typisch für فَعْل-Singulare.",
           "examples": [
             {"vocalized": "أَعْمَال", "root": "ع-م-ل", "meaning": "Taten (Sg. عَمَل)", "ref": "2:167"},
-            {"vocalized": "أَمْوَال", "root": "م-و-ل", "meaning": "Vermoegen (Sg. مَال)", "ref": "2:155"},
+            {"vocalized": "أَمْوَال", "root": "م-و-ل", "meaning": "Vermögen (Sg. مَال)", "ref": "2:155"},
             {"vocalized": "أَنْهَار", "root": "ن-ه-ر", "meaning": "Fluesse (Sg. نَهْر)", "ref": "2:25"},
             {"vocalized": "أَقْوَال", "root": "ق-و-ل", "meaning": "Worte (Sg. قَوْل)"},
             {"vocalized": "أَهْل", "root": "ا-ه-ل", "meaning": "Angehoerige", "ref": "2:105"}
           ],
-          "frequencyNote": "Sehr haeufig"
+          "frequencyNote": "Sehr häufig"
         },
         {
           "pattern": "فُعُول",
           "transliteration": "fu'ūl",
-          "function": "Haeufiger gebrochener Plural. Typisch fuer فَعْل-Singulare. Auch als Masdar verwendet.",
+          "function": "Häufiger gebrochener Plural. Typisch für فَعْل-Singulare. Auch als Masdar verwendet.",
           "examples": [
             {"vocalized": "قُلُوب", "root": "ق-ل-ب", "meaning": "Herzen (Sg. قَلْب)", "ref": "2:7"},
             {"vocalized": "عُيُون", "root": "ع-ي-ن", "meaning": "Augen/Quellen (Sg. عَيْن)", "ref": "26:134"},
-            {"vocalized": "بُيُوت", "root": "ب-ي-ت", "meaning": "Haeuser (Sg. بَيْت)", "ref": "2:189"},
+            {"vocalized": "بُيُوت", "root": "ب-ي-ت", "meaning": "Häuser (Sg. بَيْت)", "ref": "2:189"},
             {"vocalized": "جُنُود", "root": "ج-ن-د", "meaning": "Heerscharen (Sg. جُنْد)", "ref": "36:75"},
             {"vocalized": "شُهُود", "root": "ش-ه-د", "meaning": "Zeugen (Sg. شَاهِد)", "ref": "85:7"}
           ],
-          "frequencyNote": "Sehr haeufig"
+          "frequencyNote": "Sehr häufig"
         },
         {
           "pattern": "فِعَال",
           "transliteration": "fi'āl",
-          "function": "Gebrochener Plural. Typisch fuer فَعْل- und فَعْلَة-Singulare.",
+          "function": "Gebrochener Plural. Typisch für فَعْل- und فَعْلَة-Singulare.",
           "examples": [
             {"vocalized": "جِبَال", "root": "ج-ب-ل", "meaning": "Berge (Sg. جَبَل)", "ref": "13:3"},
-            {"vocalized": "رِجَال", "root": "ر-ج-ل", "meaning": "Maenner (Sg. رَجُل)", "ref": "2:282"},
+            {"vocalized": "رِجَال", "root": "ر-ج-ل", "meaning": "Männer (Sg. رَجُل)", "ref": "2:282"},
             {"vocalized": "دِيَار", "root": "د-و-ر", "meaning": "Heimstaetten (Sg. دَار)", "ref": "2:84"},
             {"vocalized": "نِسَاء", "root": "ن-س-و", "meaning": "Frauen", "ref": "2:222"},
             {"vocalized": "كِتَاب", "root": "ك-ت-ب", "meaning": "(auch Plural von كُتُب)"}
           ],
-          "frequencyNote": "Sehr haeufig"
+          "frequencyNote": "Sehr häufig"
         },
         {
           "pattern": "فُعَّال",
           "transliteration": "fu''āl",
-          "function": "Gebrochener Plural fuer فَاعِل-Singulare. Shadda ueber dem 2. Radikal.",
+          "function": "Gebrochener Plural für فَاعِل-Singulare. Shadda über dem 2. Radikal.",
           "examples": [
             {"vocalized": "كُفَّار", "root": "ك-ف-ر", "meaning": "Leugnende (Sg. كَافِر)", "ref": "2:191"},
             {"vocalized": "تُجَّار", "root": "ت-ج-ر", "meaning": "Haendler (Sg. تَاجِر)", "ref": "4:29"},
@@ -684,9 +688,9 @@
         {
           "pattern": "فَوَاعِل",
           "transliteration": "fawā'il",
-          "function": "Gebrochener Plural fuer feminine فَاعِلَة-Singulare und einige maskuline Formen.",
+          "function": "Gebrochener Plural für feminine فَاعِلَة-Singulare und einige maskuline Formen.",
           "examples": [
-            {"vocalized": "فَوَاكِه", "root": "ف-ك-ه", "meaning": "Fruechte (Sg. فَاكِهَة)", "ref": "36:57"},
+            {"vocalized": "فَوَاكِه", "root": "ف-ك-ه", "meaning": "Früchte (Sg. فَاكِهَة)", "ref": "36:57"},
             {"vocalized": "خَوَاتِم", "root": "خ-ت-م", "meaning": "Siegel/Enden"},
             {"vocalized": "كَوَاكِب", "root": "ك-و-ك-ب", "meaning": "Sterne (Sg. كَوْكَب)", "ref": "6:76"}
           ],
@@ -695,7 +699,7 @@
         {
           "pattern": "مَفَاعِل",
           "transliteration": "mafā'il",
-          "function": "Gebrochener Plural fuer مَفْعَل/مَفْعِل-Singulare (Orts-/Zeitnomen).",
+          "function": "Gebrochener Plural für مَفْعَل/مَفْعِل-Singulare (Orts-/Zeitnomen).",
           "examples": [
             {"vocalized": "مَسَاجِد", "root": "س-ج-د", "meaning": "Gebetsstaetten (Sg. مَسْجِد)", "ref": "2:187"},
             {"vocalized": "مَنَازِل", "root": "ن-ز-ل", "meaning": "Stationen (Sg. مَنْزِل)", "ref": "10:5"},
@@ -707,9 +711,9 @@
         {
           "pattern": "مَفَاعِيل",
           "transliteration": "mafā'īl",
-          "function": "Gebrochener Plural fuer مِفْعَال-Singulare (Instrumentennomen) und vierbuchstabige Nomen.",
+          "function": "Gebrochener Plural für مِفْعَال-Singulare (Instrumentennomen) und vierbuchstabige Nomen.",
           "examples": [
-            {"vocalized": "مَفَاتِيح", "root": "ف-ت-ح", "meaning": "Schluessel (Sg. مِفْتَاح)", "ref": "6:59"},
+            {"vocalized": "مَفَاتِيح", "root": "ف-ت-ح", "meaning": "Schlüssel (Sg. مِفْتَاح)", "ref": "6:59"},
             {"vocalized": "مَصَابِيح", "root": "ص-ب-ح", "meaning": "Lampen (Sg. مِصْبَاح)", "ref": "41:12"},
             {"vocalized": "مَسَاكِين", "root": "س-ك-ن", "meaning": "Beduerftige (Sg. مِسْكِين)", "ref": "2:83"}
           ],
@@ -718,21 +722,21 @@
         {
           "pattern": "فَعَائِل",
           "transliteration": "fa'ā'il",
-          "function": "Gebrochener Plural fuer فَعِيلَة-Singulare.",
+          "function": "Gebrochener Plural für فَعِيلَة-Singulare.",
           "examples": [
             {"vocalized": "رَسَائِل", "root": "ر-س-ل", "meaning": "Botschaften (Sg. رِسَالَة)", "ref": "7:62"},
-            {"vocalized": "صَحَائِف", "root": "ص-ح-ف", "meaning": "Blaetter (Sg. صَحِيفَة)", "ref": "87:18"},
-            {"vocalized": "قَبَائِل", "root": "ق-ب-ل", "meaning": "Staemme (Sg. قَبِيلَة)", "ref": "49:13"}
+            {"vocalized": "صَحَائِف", "root": "ص-ح-ف", "meaning": "Blätter (Sg. صَحِيفَة)", "ref": "87:18"},
+            {"vocalized": "قَبَائِل", "root": "ق-ب-ل", "meaning": "Stämme (Sg. قَبِيلَة)", "ref": "49:13"}
           ],
           "frequencyNote": "Mittel"
         },
         {
           "pattern": "أَفْعِلَة",
           "transliteration": "af'ila",
-          "function": "Gebrochener Plural fuer einige فِعَال- und فَعِيل-Singulare.",
+          "function": "Gebrochener Plural für einige فِعَال- und فَعِيل-Singulare.",
           "examples": [
             {"vocalized": "أَلْسِنَة", "root": "ل-س-ن", "meaning": "Zungen (Sg. لِسَان)", "ref": "16:116"},
-            {"vocalized": "أَئِمَّة", "root": "ا-م-م", "meaning": "Anfuehrer (Sg. إِمَام)", "ref": "9:12"},
+            {"vocalized": "أَئِمَّة", "root": "ا-م-م", "meaning": "Anführer (Sg. إِمَام)", "ref": "9:12"},
             {"vocalized": "أَنْعَام", "root": "ن-ع-م", "meaning": "Vieh", "ref": "6:136"}
           ],
           "frequencyNote": "Mittel"
@@ -740,7 +744,7 @@
         {
           "pattern": "أَفْعِلَاء",
           "transliteration": "af'ilā'",
-          "function": "Gebrochener Plural fuer فَعِيل-Singulare (oft Personenbezeichnungen).",
+          "function": "Gebrochener Plural für فَعِيل-Singulare (oft Personenbezeichnungen).",
           "examples": [
             {"vocalized": "أَنْبِيَاء", "root": "ن-ب-ا", "meaning": "Propheten (Sg. نَبِيّ)", "ref": "2:61"},
             {"vocalized": "أَوْلِيَاء", "root": "و-ل-ي", "meaning": "Verbuendete, Nahestehende (Sg. وَلِيّ)", "ref": "2:257"},
@@ -751,7 +755,7 @@
         {
           "pattern": "فُعَلَاء",
           "transliteration": "fu'alā'",
-          "function": "Gebrochener Plural fuer فَعِيل-Singulare.",
+          "function": "Gebrochener Plural für فَعِيل-Singulare.",
           "examples": [
             {"vocalized": "عُلَمَاء", "root": "ع-ل-م", "meaning": "Wissende (Sg. عَلِيم)", "ref": "26:197"},
             {"vocalized": "شُهَدَاء", "root": "ش-ه-د", "meaning": "Zeugen (Sg. شَهِيد)", "ref": "2:23"},
@@ -765,7 +769,7 @@
     {
       "id": "diminutive",
       "title": "Diminutiv (التصغير)",
-      "description": "Der Diminutiv drueckt Verkleinerung, Verniedlichung oder Naehebestimmung aus.",
+      "description": "Der Diminutiv drückt Verkleinerung, Verniedlichung oder Nähebestimmung aus.",
       "patterns": [
         {
           "pattern": "فُعَيْل",
@@ -774,7 +778,7 @@
           "examples": [
             {"vocalized": "بُنَيّ", "root": "ب-ن-ي", "meaning": "Soehnchen (Sg. اِبْن)", "ref": "11:42"},
             {"vocalized": "قُرَيْش", "root": "ق-ر-ش", "meaning": "Quraisch (Eigenname, morphologisch Diminutiv)", "ref": "106:1"},
-            {"vocalized": "كُتَيِّب", "root": "ك-ت-ب", "meaning": "Buechlein (Sg. كِتَاب, im Sprachsystem)"}
+            {"vocalized": "كُتَيِّب", "root": "ك-ت-ب", "meaning": "Büchlein (Sg. كِتَاب, im Sprachsystem)"}
           ],
           "frequencyNote": "Selten im Quran"
         }
@@ -783,19 +787,19 @@
     {
       "id": "sound_plurals_dual",
       "title": "Gesunde Plurale und Dual",
-      "description": "Neben den gebrochenen Pluralen gibt es regulaere Pluralendungen und den Dual.",
+      "description": "Neben den gebrochenen Pluralen gibt es reguläre Pluralendungen und den Dual.",
       "patterns": [
         {
           "pattern": "فَاعِلُون / ـون",
           "transliteration": "-ūna / -īna",
-          "function": "Gesunder maskuliner Plural. Endung ـون (Nominativ) / ـين (Akkusativ/Genitiv). Nur fuer belebte maskuline Nomen/Adjektive.",
+          "function": "Gesunder maskuliner Plural. Endung ـون (Nominativ) / ـين (Akkusativ/Genitiv). Nur für belebte maskuline Nomen/Adjektive.",
           "examples": [
             {"vocalized": "مُؤْمِنُون", "root": "ا-م-ن", "meaning": "Glaubende", "ref": "2:285"},
             {"vocalized": "مُسْلِمُون", "root": "س-ل-م", "meaning": "Sich-Ergebende", "ref": "2:132"},
             {"vocalized": "صَالِحُون", "root": "ص-ل-ح", "meaning": "Rechtschaffene", "ref": "7:168"},
             {"vocalized": "ظَالِمِين", "root": "ظ-ل-م", "meaning": "Unrechttuende (Akk./Gen.)", "ref": "2:35"}
           ],
-          "frequencyNote": "Extrem haeufig"
+          "frequencyNote": "Extrem häufig"
         },
         {
           "pattern": "فَاعِلَات / ـات",
@@ -807,20 +811,20 @@
             {"vocalized": "آيَات", "root": "ا-ي-ي", "meaning": "Zeichen", "ref": "2:39"},
             {"vocalized": "صَالِحَات", "root": "ص-ل-ح", "meaning": "rechtschaffene (Taten)", "ref": "2:25"}
           ],
-          "frequencyNote": "Extrem haeufig",
-          "note": "ACHTUNG: Der Akkusativ des gesunden femininen Plurals wird mit Kasra markiert (ـاتِ), NICHT mit Fatha. Dies ist eine der haeufigsten Fehlerquellen."
+          "frequencyNote": "Extrem häufig",
+          "note": "ACHTUNG: Der Akkusativ des gesunden femininen Plurals wird mit Kasra markiert (ـاتِ), NICHT mit Fatha. Dies ist eine der häufigsten Fehlerquellen."
         },
         {
           "pattern": "فَاعِلَان / ـان / ـَيْن",
           "transliteration": "-āni / -ayni",
-          "function": "Dual. Endung ـان (Nominativ) / ـَيْن (Akkusativ/Genitiv). Fuer genau zwei.",
+          "function": "Dual. Endung ـان (Nominativ) / ـَيْن (Akkusativ/Genitiv). Für genau zwei.",
           "examples": [
-            {"vocalized": "رَجُلَان", "root": "ر-ج-ل", "meaning": "zwei Maenner", "ref": "5:23"},
-            {"vocalized": "يَدَيْهِ", "root": "ي-د-ي", "meaning": "seine beiden Haende (Akk./Gen.)", "ref": "5:64"},
+            {"vocalized": "رَجُلَان", "root": "ر-ج-ل", "meaning": "zwei Männer", "ref": "5:23"},
+            {"vocalized": "يَدَيْهِ", "root": "ي-د-ي", "meaning": "seine beiden Hände (Akk./Gen.)", "ref": "5:64"},
             {"vocalized": "بَحْرَيْنِ", "root": "ب-ح-ر", "meaning": "zwei Meere (Akk./Gen.)", "ref": "18:60"},
             {"vocalized": "وَالِدَيْنِ", "root": "و-ل-د", "meaning": "zwei Eltern (Akk./Gen.)", "ref": "2:83"}
           ],
-          "frequencyNote": "Haeufig"
+          "frequencyNote": "Häufig"
         }
       ]
     }

@@ -1,9 +1,13 @@
 {
   "meta": {
     "title": "Rasm-zu-Vokalisation Drill (generiert)",
-    "description": "Automatisch generierte Uebungen: Vom reinen Konsonantentext zur grammatisch begruendeten Vokalisation. Quelle: Quranic Arabic Corpus Morphologie-DB.",
+    "description": "Automatisch generierte Übungen: Vom reinen Konsonantentext zur grammatisch begründeten Vokalisation. Quelle: Quranic Arabic Corpus Morphologie-DB.",
     "generated": "2026-03-23",
-    "count": 200
+    "count": 200,
+    "sources": [
+      { "name": "Wright's Grammar Vol I", "url": "https://archive.org/details/grammarofthearab01telerich" },
+      { "name": "Quranic Arabic Corpus", "url": "https://corpus.quran.com/" }
+    ]
   },
   "exercises": [
     {

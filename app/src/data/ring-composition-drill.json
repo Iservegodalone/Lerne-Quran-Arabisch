@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": "Ringkomposition und Chiasmus im Quran",
-    "description": "Uebung zum Erkennen symmetrischer Textstrukturen: A-B-C-B'-A' Muster und andere rhetorische Anordnungen.",
+    "description": "Übung zum Erkennen symmetrischer Textstrukturen: A-B-C-B'-A' Muster und andere rhetorische Anordnungen.",
     "sources": [
       {
         "name": "Quranic Arabic Corpus",
@@ -9,7 +9,7 @@
       }
     ]
   },
-  "explanation": "Ringkomposition (auch Chiasmus oder Inklusion genannt) ist eine Textstruktur bei der Elemente am Anfang und Ende eines Abschnitts einander spiegeln. Die Struktur laesst sich rein linguistisch nachweisen: gleiche Woerter, Wurzeln, syntaktische Strukturen oder semantische Felder an symmetrischen Positionen.",
+  "explanation": "Ringkomposition (auch Chiasmus oder Inklusion genannt) ist eine Textstruktur bei der Elemente am Anfang und Ende eines Abschnitts einander spiegeln. Die Struktur lässt sich rein linguistisch nachweisen: gleiche Wörter, Wurzeln, syntaktische Strukturen oder semantische Felder an symmetrischen Positionen.",
   "exercises": [
     {
       "id": "ring01",
@@ -119,7 +119,7 @@
           "theme": "Gottes Erhabenheit (korrespondiert mit A)"
         }
       ],
-      "analysis": "A beginnt mit Gottes Attributen, A' schliesst mit Attributen. B und B' formulieren Negationen. C ist das Zentrum: der universale Besitz.",
+      "analysis": "A beginnt mit Gottes Attributen, A' schließt mit Attributen. B und B' formulieren Negationen. C ist das Zentrum: der universale Besitz.",
       "task": "Ordnen Sie die Negations-Elemente (B, B') und die Attributs-Elemente (A, A') einander zu."
     },
     {
@@ -143,7 +143,7 @@
           "label": "A'",
           "verses": "5:3c",
           "content": "وَرَضِيتُ لَكُمُ الْإِسْلَامَ دِينًا",
-          "theme": "Din (Rueckbezug auf A, nun benannt)"
+          "theme": "Din (Rückbezug auf A, nun benannt)"
         }
       ],
       "analysis": "A und A' rahmen das Thema Din: zuerst 'vollendet', dann 'benannt als Islam'. B steht im Zentrum als Scharnier: die Gnade verbindet Vollendung und Zustimmung. Drei verschiedene Verben beschreiben den Vorgang (akmaltu, atmamtu, raditu).",
@@ -164,7 +164,7 @@
           "label": "B",
           "verses": "24:35b",
           "content": "مَثَلُ نُورِهِ كَمِشْكَاةٍ فِيهَا مِصْبَاحٌ",
-          "theme": "Gleichnis-Eroeffnung: Nische + Lampe"
+          "theme": "Gleichnis-Eröffnung: Nische + Lampe"
         },
         {
           "label": "C",
@@ -182,15 +182,15 @@
           "label": "A'",
           "verses": "24:35e",
           "content": "نُورٌ عَلَى نُورٍ يَهْدِي اللَّهُ لِنُورِهِ مَنْ يَشَاءُ",
-          "theme": "Licht auf Licht (Rueckkehr zum kosmischen Thema)"
+          "theme": "Licht auf Licht (Rückkehr zum kosmischen Thema)"
         }
       ],
       "analysis": "A und A' teilen نُور (Licht) als Leitwort. B und B' beschreiben die materielle Quelle (Nische/Lampe vs. Oelbaum). C ist das Zentrum: der leuchtende Kristall als Bildhoehepunkt.",
-      "task": "Zaehlen Sie die Vorkommen der Wurzel ن-و-ر in diesem Vers und markieren Sie die Positionen A und A'."
+      "task": "Zählen Sie die Vorkommen der Wurzel ن-و-ر in diesem Vers und markieren Sie die Positionen A und A'."
     },
     {
       "id": "ring06",
-      "title": "Sure 67:1-4 — Eroeffnung von al-Mulk",
+      "title": "Sure 67:1-4 — Eröffnung von al-Mulk",
       "surah": 67,
       "structure": [
         {
@@ -203,19 +203,19 @@
           "label": "B",
           "verses": "67:2",
           "content": "الَّذِي خَلَقَ الْمَوْتَ وَالْحَيَاةَ لِيَبْلُوَكُمْ أَيُّكُمْ أَحْسَنُ عَمَلًا",
-          "theme": "Schoepfungszweck: Pruefung"
+          "theme": "Schöpfungszweck: Prüfung"
         },
         {
           "label": "C",
           "verses": "67:3",
           "content": "الَّذِي خَلَقَ سَبْعَ سَمَاوَاتٍ طِبَاقًا مَا تَرَى فِي خَلْقِ الرَّحْمَنِ مِنْ تَفَاوُتٍ",
-          "theme": "ZENTRUM: Vollkommenheit der Schoepfung"
+          "theme": "ZENTRUM: Vollkommenheit der Schöpfung"
         },
         {
           "label": "B'",
           "verses": "67:3b",
           "content": "فَارْجِعِ الْبَصَرَ هَلْ تَرَى مِنْ فُطُورٍ",
-          "theme": "Aufforderung zur Pruefung (korrespondiert mit B)"
+          "theme": "Aufforderung zur Prüfung (korrespondiert mit B)"
         },
         {
           "label": "A'",
@@ -224,7 +224,7 @@
           "theme": "Ohnmacht des Blicks (kontrastiert mit Macht in A)"
         }
       ],
-      "analysis": "A (Gottes Macht) und A' (Ohnmacht des Betrachters) bilden den Rahmenkontrast. B (Pruefung durch Schoepfung) und B' (Pruefung durch Betrachtung) korrespondieren. C ist das Zentrum: die makellose Schoepfung. Alle vier Verse beginnen mit الَّذِي (Relativpronomen).",
+      "analysis": "A (Gottes Macht) und A' (Ohnmacht des Betrachters) bilden den Rahmenkontrast. B (Prüfung durch Schöpfung) und B' (Prüfung durch Betrachtung) korrespondieren. C ist das Zentrum: die makellose Schöpfung. Alle vier Verse beginnen mit الَّذِي (Relativpronomen).",
       "task": "Identifizieren Sie das anaphorische الَّذِي-Muster und den Kontrast Macht (A) vs. Ohnmacht (A')."
     },
     {
@@ -236,7 +236,7 @@
           "label": "A",
           "verses": "55:1-4",
           "content": "الرَّحْمَنُ عَلَّمَ الْقُرْآنَ خَلَقَ الْإِنْسَانَ عَلَّمَهُ الْبَيَانَ",
-          "theme": "Gnade: Lehre und Schoepfung"
+          "theme": "Gnade: Lehre und Schöpfung"
         },
         {
           "label": "B",
@@ -248,7 +248,7 @@
           "label": "C",
           "verses": "55:10-12",
           "content": "وَالْأَرْضَ وَضَعَهَا لِلْأَنَامِ فِيهَا فَاكِهَةٌ وَالنَّخْلُ ذَاتُ الْأَكْمَامِ وَالْحَبُّ ذُو الْعَصْفِ وَالرَّيْحَانُ",
-          "theme": "Irdische Gaben: Fruechte und Korn"
+          "theme": "Irdische Gaben: Früchte und Korn"
         },
         {
           "label": "R",
@@ -257,19 +257,19 @@
           "theme": "REFRAIN: Welche Gaben leugnet ihr?"
         }
       ],
-      "analysis": "Der Refrain فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ wird in Sure 55 insgesamt 31 Mal wiederholt. Er markiert jeweils das Ende eines thematischen Blocks. Die Abfolge A→B→C bewegt sich vom Abstrakten (Lehre) ueber das Kosmische (Himmel) zum Konkreten (Erde).",
-      "task": "Zaehlen Sie bei Lektuere der gesamten Sure, wie viele thematische Bloecke durch den Refrain abgegrenzt werden."
+      "analysis": "Der Refrain فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ wird in Sure 55 insgesamt 31 Mal wiederholt. Er markiert jeweils das Ende eines thematischen Blocks. Die Abfolge A→B→C bewegt sich vom Abstrakten (Lehre) über das Kosmische (Himmel) zum Konkreten (Erde).",
+      "task": "Zählen Sie bei Lektuere der gesamten Sure, wie viele thematische Bloecke durch den Refrain abgegrenzt werden."
     },
     {
       "id": "ring08",
-      "title": "Sure 2:1-5 — Eroeffnung der Baqara",
+      "title": "Sure 2:1-5 — Eröffnung der Baqara",
       "surah": 2,
       "structure": [
         {
           "label": "A",
           "verses": "2:1-2",
           "content": "الم ذَلِكَ الْكِتَابُ لَا رَيْبَ فِيهِ هُدًى لِلْمُتَّقِينَ",
-          "theme": "Das Buch als Fuehrung"
+          "theme": "Das Buch als Führung"
         },
         {
           "label": "B",
@@ -287,11 +287,11 @@
           "label": "A'",
           "verses": "2:5",
           "content": "أُولَئِكَ عَلَى هُدًى مِنْ رَبِّهِمْ وَأُولَئِكَ هُمُ الْمُفْلِحُونَ",
-          "theme": "Fuehrung (هُدًى wie in A) + Erfolg"
+          "theme": "Führung (هُدًى wie in A) + Erfolg"
         }
       ],
-      "analysis": "A und A' teilen das Wort هُدًى (Fuehrung). B und B' beschreiben beide die Glaeubigen mit الَّذِينَ يُؤْمِنُونَ, aber B fokussiert auf Handlungen, B' auf Glaubensinhalte.",
-      "task": "Markieren Sie das Leitwort هُدًى und die parallelen Relativsaetze الَّذِينَ يُؤْمِنُونَ."
+      "analysis": "A und A' teilen das Wort هُدًى (Führung). B und B' beschreiben beide die Gläubigen mit الَّذِينَ يُؤْمِنُونَ, aber B fokussiert auf Handlungen, B' auf Glaubensinhalte.",
+      "task": "Markieren Sie das Leitwort هُدًى und die parallelen Relativsätze الَّذِينَ يُؤْمِنُونَ."
     },
     {
       "id": "ring09",
@@ -317,7 +317,7 @@
           "theme": "Ausnahme: vier Bedingungen gegen Verlust"
         }
       ],
-      "analysis": "B (Verlust) und B' (Ausnahme vom Verlust) bilden ein kontrastierendes Paar. B' hat selbst eine innere Struktur: zwei individuelle Handlungen (Glauben, gute Werke) gefolgt von zwei gemeinschaftlichen (gegenseitiges Ermahnen zu Wahrheit und Geduld). Die wachsende Verslänge spiegelt die Komplexitaet.",
+      "analysis": "B (Verlust) und B' (Ausnahme vom Verlust) bilden ein kontrastierendes Paar. B' hat selbst eine innere Struktur: zwei individuelle Handlungen (Glauben, gute Werke) gefolgt von zwei gemeinschaftlichen (gegenseitiges Ermahnen zu Wahrheit und Geduld). Die wachsende Verslänge spiegelt die Komplexität.",
       "task": "Analysieren Sie die 4 Elemente in B' und deren Steigerung von individuell zu gemeinschaftlich."
     },
     {
@@ -329,13 +329,13 @@
           "label": "A",
           "verses": "2:285a",
           "content": "آمَنَ الرَّسُولُ بِمَا أُنْزِلَ إِلَيْهِ مِنْ رَبِّهِ وَالْمُؤْمِنُونَ",
-          "theme": "Glaube des Gesandten und der Glaeubigen"
+          "theme": "Glaube des Gesandten und der Gläubigen"
         },
         {
           "label": "B",
           "verses": "2:285b",
           "content": "كُلٌّ آمَنَ بِاللَّهِ وَمَلَائِكَتِهِ وَكُتُبِهِ وَرُسُلِهِ",
-          "theme": "Aufzaehlung der Glaubensinhalte"
+          "theme": "Aufzählung der Glaubensinhalte"
         },
         {
           "label": "C",
@@ -347,7 +347,7 @@
           "label": "B'",
           "verses": "2:286a",
           "content": "لَا يُكَلِّفُ اللَّهُ نَفْسًا إِلَّا وُسْعَهَا لَهَا مَا كَسَبَتْ وَعَلَيْهَا مَا اكْتَسَبَتْ",
-          "theme": "Gottes Gerechtigkeit: nur im Rahmen der Faehigkeit"
+          "theme": "Gottes Gerechtigkeit: nur im Rahmen der Fähigkeit"
         },
         {
           "label": "A'",
@@ -356,7 +356,7 @@
           "theme": "Bitten an Gott (Echo der Bitte in C)"
         }
       ],
-      "analysis": "A (Glaubensbekenntnis) und A' (Bitten) rahmen den Abschnitt als Dialog zwischen Glaube und Bitte. B (Aufzaehlung) und B' (Gerechtigkeit) behandeln Gottes Ordnung. C ist der Wendepunkt: 'Wir hoeren und gehorchen'.",
+      "analysis": "A (Glaubensbekenntnis) und A' (Bitten) rahmen den Abschnitt als Dialog zwischen Glaube und Bitte. B (Aufzählung) und B' (Gerechtigkeit) behandeln Gottes Ordnung. C ist der Wendepunkt: 'Wir hören und gehorchen'.",
       "task": "Vergleichen Sie die Anrede رَبَّنَا in C und A' — wie entwickelt sich der Ton von Bekenntnis zu Bitte?"
     },
     {
@@ -395,12 +395,12 @@
           "theme": "Befehl zur Qibla — gegen Einwaende der Menschen"
         }
       ],
-      "analysis": "A und A' rahmen den Abschnitt mit dem Thema 'Einwaende der Menschen' (النَّاسِ). B und B' betonen Gottes Bestimmung der Gemeinschaft und Richtung. C ist das Zentrum: die Festlegung der neuen Qibla. Die Wurzel و-ل-ي erscheint in allen fuenf Positionen.",
+      "analysis": "A und A' rahmen den Abschnitt mit dem Thema 'Einwaende der Menschen' (النَّاسِ). B und B' betonen Gottes Bestimmung der Gemeinschaft und Richtung. C ist das Zentrum: die Festlegung der neuen Qibla. Die Wurzel و-ل-ي erscheint in allen fünf Positionen.",
       "task": "Identifizieren Sie die Vorkommen der Wurzel و-ل-ي in jeder Position und deren semantische Verschiebung."
     },
     {
       "id": "ring12",
-      "title": "Sure 5:1-5 — Eroeffnung al-Ma'ida",
+      "title": "Sure 5:1-5 — Eröffnung al-Ma'ida",
       "surah": 5,
       "structure": [
         {
@@ -413,7 +413,7 @@
           "label": "B",
           "verses": "5:2",
           "content": "وَتَعَاوَنُوا عَلَى الْبِرِّ وَالتَّقْوَىٰ وَلَا تَعَاوَنُوا عَلَى الْإِثْمِ وَالْعُدْوَانِ",
-          "theme": "Kooperation im Guten, nicht im Boesen"
+          "theme": "Kooperation im Guten, nicht im Bösen"
         },
         {
           "label": "C",
@@ -434,7 +434,7 @@
           "theme": "Halal: erlaubte Nahrung erweitert"
         }
       ],
-      "analysis": "A und A' rahmen mit dem Thema Halal (أُحِلَّتْ/أُحِلَّ). B und B' behandeln ethische Normen. C steht als Haram-Katalog im Zentrum. Die Bewegung geht von allgemeiner Erlaubnis (A) ueber Ethik (B) zum Verbot (C) zurueck zur Erlaubnis (A').",
+      "analysis": "A und A' rahmen mit dem Thema Halal (أُحِلَّتْ/أُحِلَّ). B und B' behandeln ethische Normen. C steht als Haram-Katalog im Zentrum. Die Bewegung geht von allgemeiner Erlaubnis (A) über Ethik (B) zum Verbot (C) zurück zur Erlaubnis (A').",
       "task": "Markieren Sie die Wurzel ح-ل-ل in den Positionen A, B', A' und kontrastieren Sie sie mit der Wurzel ح-ر-م im Zentrum."
     },
     {
@@ -452,7 +452,7 @@
           "label": "B",
           "verses": "12:7-20",
           "content": "لَقَدْ كَانَ فِي يُوسُفَ وَإِخْوَتِهِ آيَاتٌ لِلسَّائِلِينَ ... وَجَاءُوا عَلَىٰ قَمِيصِهِ بِدَمٍ كَذِبٍ",
-          "theme": "Brueder trennen Yusuf vom Vater — Hemd mit falschem Blut"
+          "theme": "Brüder trennen Yusuf vom Vater — Hemd mit falschem Blut"
         },
         {
           "label": "C",
@@ -464,16 +464,16 @@
           "label": "B'",
           "verses": "12:58-93",
           "content": "وَلَمَّا دَخَلُوا عَلَىٰ يُوسُفَ ... اذْهَبُوا بِقَمِيصِي هَٰذَا فَأَلْقُوهُ عَلَىٰ وَجْهِ أَبِي يَأْتِ بَصِيرًا",
-          "theme": "Brueder kommen zu Yusuf — Hemd bringt Heilung"
+          "theme": "Brüder kommen zu Yusuf — Hemd bringt Heilung"
         },
         {
           "label": "A'",
           "verses": "12:99-101",
           "content": "وَرَفَعَ أَبَوَيْهِ عَلَى الْعَرْشِ وَخَرُّوا لَهُ سُجَّدًا ... هَٰذَا تَأْوِيلُ رُؤْيَايَ مِنْ قَبْلُ",
-          "theme": "Yusufs Traum erfuellt — Ende der Geschichte"
+          "theme": "Yusufs Traum erfüllt — Ende der Geschichte"
         }
       ],
-      "analysis": "A und A' bilden den Traumrahmen: A erwaehnt den Traum, A' seine Erfuellung. B und B' spiegeln sich durch das Motiv des Hemdes (قَمِيص): in B ein Hemd mit falschem Blut (Trennung), in B' ein Hemd das Heilung bringt (Wiedervereinigung). C ist der Wendepunkt.",
+      "analysis": "A und A' bilden den Traumrahmen: A erwähnt den Traum, A' seine Erfüllung. B und B' spiegeln sich durch das Motiv des Hemdes (قَمِيص): in B ein Hemd mit falschem Blut (Trennung), in B' ein Hemd das Heilung bringt (Wiedervereinigung). C ist der Wendepunkt.",
       "task": "Identifizieren Sie das Hemd-Motiv (قَمِيص) als Spiegelelement in B und B'."
     },
     {
@@ -491,7 +491,7 @@
           "label": "B",
           "verses": "18:74",
           "content": "فَانْطَلَقَا حَتَّىٰ إِذَا لَقِيَا غُلَامًا فَقَتَلَهُ",
-          "theme": "Junge getoetet — groesster Schaden"
+          "theme": "Junge getötet — größter Schaden"
         },
         {
           "label": "C",
@@ -503,23 +503,23 @@
           "label": "A'",
           "verses": "18:79",
           "content": "أَمَّا السَّفِينَةُ فَكَانَتْ لِمَسَاكِينَ يَعْمَلُونَ فِي الْبَحْرِ",
-          "theme": "Erklaerung Schiff: Schutz vor dem Koenig"
+          "theme": "Erklärung Schiff: Schutz vor dem König"
         },
         {
           "label": "B'",
           "verses": "18:80-81",
           "content": "وَأَمَّا الْغُلَامُ فَكَانَ أَبَوَاهُ مُؤْمِنَيْنِ فَخَشِينَا أَنْ يُرْهِقَهُمَا",
-          "theme": "Erklaerung Junge: Schutz der Eltern"
+          "theme": "Erklärung Junge: Schutz der Eltern"
         },
         {
           "label": "C'",
           "verses": "18:82",
           "content": "وَأَمَّا الْجِدَارُ فَكَانَ لِغُلَامَيْنِ يَتِيمَيْنِ فِي الْمَدِينَةِ",
-          "theme": "Erklaerung Mauer: Schutz des Schatzes fuer Waisen"
+          "theme": "Erklärung Mauer: Schutz des Schatzes für Waisen"
         }
       ],
-      "analysis": "Die drei Episoden (A-B-C) werden in den Versen 18:79-82 erklaert. Die Erklaerungsreihenfolge ist jedoch nicht chiastisch umgekehrt, sondern beginnt mit der Mauer (C', Vers 82), dann der Junge (B', Vers 80-81), dann das Schiff (A', Vers 79) — tatsaechlich aber nennt der Text in 18:79 zuerst das Schiff, in 18:80-81 den Jungen und in 18:82 die Mauer. Die Erklaerungen folgen also derselben Reihenfolge wie die Handlungen (Schiff → Junge → Mauer), eingeleitet jeweils durch أَمَّا. Es handelt sich um eine lineare Nacherzaehlung mit verzoegerter Erklaerung, nicht um eine chiastische Umkehrung.",
-      "task": "Ordnen Sie jede Handlung ihrer Erklaerung zu und beachten Sie die Reihenfolge der Erklaerungen."
+      "analysis": "Die drei Episoden (A-B-C) werden in den Versen 18:79-82 erklärt. Die Erklärungsreihenfolge ist jedoch nicht chiastisch umgekehrt, sondern beginnt mit der Mauer (C', Vers 82), dann der Junge (B', Vers 80-81), dann das Schiff (A', Vers 79) — tatsächlich aber nennt der Text in 18:79 zuerst das Schiff, in 18:80-81 den Jungen und in 18:82 die Mauer. Die Erklärungen folgen also derselben Reihenfolge wie die Handlungen (Schiff → Junge → Mauer), eingeleitet jeweils durch أَمَّا. Es handelt sich um eine lineare Nacherzaehlung mit verzoegerter Erklärung, nicht um eine chiastische Umkehrung.",
+      "task": "Ordnen Sie jede Handlung ihrer Erklärung zu und beachten Sie die Reihenfolge der Erklärungen."
     },
     {
       "id": "ring15",
@@ -536,7 +536,7 @@
           "label": "B",
           "verses": "19:7-10",
           "content": "يَا زَكَرِيَّا إِنَّا نُبَشِّرُكَ بِغُلَامٍ اسْمُهُ يَحْيَىٰ ... قَالَ آيَتُكَ أَلَّا تُكَلِّمَ النَّاسَ ثَلَاثَ لَيَالٍ سَوِيًّا",
-          "theme": "Verkuendigung: Zeichen (آيَة) — Schweigen"
+          "theme": "Verkündigung: Zeichen (آيَة) — Schweigen"
         },
         {
           "label": "C",
@@ -548,7 +548,7 @@
           "label": "A'",
           "verses": "19:16-21",
           "content": "وَاذْكُرْ فِي الْكِتَابِ مَرْيَمَ ... إِنَّمَا أَنَا رَسُولُ رَبِّكِ لِأَهَبَ لَكِ غُلَامًا زَكِيًّا",
-          "theme": "Maryam: Verkuendigung eines Kindes — Jungfraeulichkeit"
+          "theme": "Maryam: Verkündigung eines Kindes — Jungfraeulichkeit"
         },
         {
           "label": "B'",
@@ -563,8 +563,8 @@
           "theme": "Isa: Geburt, Leben, Tod — Salam (Parallele zu Yahya)"
         }
       ],
-      "analysis": "Zwei parallele Geburtsgeschichten bilden eine Spiegelstruktur. A und A' sind Verkuendigungen (Zakariyya/Maryam). B und B' teilen das Motiv des Schweigens (Nicht-Sprechen). C und C' enden beide mit dem fast identischen Salam-Vers ueber Geburt und Tod.",
-      "task": "Vergleichen Sie die Salam-Formeln in C (19:15) und C' (19:33) — welche Woerter sind identisch?"
+      "analysis": "Zwei parallele Geburtsgeschichten bilden eine Spiegelstruktur. A und A' sind Verkündigungen (Zakariyya/Maryam). B und B' teilen das Motiv des Schweigens (Nicht-Sprechen). C und C' enden beide mit dem fast identischen Salam-Vers über Geburt und Tod.",
+      "task": "Vergleichen Sie die Salam-Formeln in C (19:15) und C' (19:33) — welche Wörter sind identisch?"
     },
     {
       "id": "ring16",
@@ -602,12 +602,12 @@
           "theme": "SCHLUSS: Euch eure Religion, mir meine"
         }
       ],
-      "analysis": "A und A' verneinen die Anbetung des Sprechers (mit Verbform bzw. Partizip). B und B' verneinen die Anbetung der Angesprochenen — B' wiederholt B woertlich. C ist das Ergebnis der Symmetrie: vollstaendige Trennung. Der Wechsel zwischen Verbform (أَعْبُدُ) und Partizip (عَابِدٌ) markiert den Unterschied zwischen A und A'.",
+      "analysis": "A und A' verneinen die Anbetung des Sprechers (mit Verbform bzw. Partizip). B und B' verneinen die Anbetung der Angesprochenen — B' wiederholt B wörtlich. C ist das Ergebnis der Symmetrie: vollständige Trennung. Der Wechsel zwischen Verbform (أَعْبُدُ) und Partizip (عَابِدٌ) markiert den Unterschied zwischen A und A'.",
       "task": "Analysieren Sie den grammatischen Unterschied zwischen لَا أَعْبُدُ (A) und لَا أَنَا عَابِدٌ (A')."
     },
     {
       "id": "ring17",
-      "title": "Sure 36:1-12 — Eroeffnung Ya Sin",
+      "title": "Sure 36:1-12 — Eröffnung Ya Sin",
       "surah": 36,
       "structure": [
         {
@@ -642,11 +642,11 @@
         }
       ],
       "analysis": "A und A' rahmen den Abschnitt mit Gottes Aufzeichnung (الْقُرْآن الْحَكِيم / إِمَام مُبِين). B und B' teilen die Wurzel ن-ذ-ر (warnen). C ist das Zentrum: die Versiegelung derer, die nicht glauben.",
-      "task": "Zaehlen Sie die Vorkommen der Wurzel ن-ذ-ر in B und B'."
+      "task": "Zählen Sie die Vorkommen der Wurzel ن-ذ-ر in B und B'."
     },
     {
       "id": "ring18",
-      "title": "Sure 55:1-30 — Gaben-Aufzaehlung mit Refrain",
+      "title": "Sure 55:1-30 — Gaben-Aufzählung mit Refrain",
       "surah": 55,
       "structure": [
         {
@@ -665,7 +665,7 @@
           "label": "C",
           "verses": "55:14-16",
           "content": "خَلَقَ الْإِنْسَانَ مِنْ صَلْصَالٍ كَالْفَخَّارِ وَخَلَقَ الْجَانَّ مِنْ مَارِجٍ مِنْ نَارٍ",
-          "theme": "ZENTRUM: Schoepfung der beiden Wesen (Mensch und Dschinn)"
+          "theme": "ZENTRUM: Schöpfung der beiden Wesen (Mensch und Dschinn)"
         },
         {
           "label": "B'",
@@ -677,10 +677,10 @@
           "label": "A'",
           "verses": "55:26-27",
           "content": "كُلُّ مَنْ عَلَيْهَا فَانٍ وَيَبْقَىٰ وَجْهُ رَبِّكَ ذُو الْجَلَالِ وَالْإِكْرَامِ",
-          "theme": "Permanenz vs. Vergaenglichkeit"
+          "theme": "Permanenz vs. Vergänglichkeit"
         }
       ],
-      "analysis": "A und A' kontrastieren Gottes Gaben (Lehre) mit Gottes Bleiben (Vergaenglichkeit alles anderen). B und B' beschreiben kosmische Dualitaeten (Sonne/Mond vs. Osten/Westen, Himmel/Erde vs. zwei Meere). C ist das Zentrum: die Schoepfung der beiden Adressaten (رَبِّكُمَا). Durchgehend Dual-Motive, passend zum Dual in تُكَذِّبَانِ.",
+      "analysis": "A und A' kontrastieren Gottes Gaben (Lehre) mit Gottes Bleiben (Vergänglichkeit alles anderen). B und B' beschreiben kosmische Dualitaeten (Sonne/Mond vs. Osten/Westen, Himmel/Erde vs. zwei Meere). C ist das Zentrum: die Schöpfung der beiden Adressaten (رَبِّكُمَا). Durchgehend Dual-Motive, passend zum Dual in تُكَذِّبَانِ.",
       "task": "Identifizieren Sie die Dual-Formen in der gesamten Passage und verbinden Sie sie mit den beiden Adressaten (Mensch und Dschinn)."
     },
     {
@@ -698,19 +698,19 @@
           "label": "B",
           "verses": "67:1b",
           "content": "وَهُوَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ",
-          "theme": "Allumfassende Faehigkeit"
+          "theme": "Allumfassende Fähigkeit"
         },
         {
           "label": "C",
           "verses": "67:2",
           "content": "الَّذِي خَلَقَ الْمَوْتَ وَالْحَيَاةَ لِيَبْلُوَكُمْ أَيُّكُمْ أَحْسَنُ عَمَلًا",
-          "theme": "ZENTRUM: Schoepfung als Pruefung"
+          "theme": "ZENTRUM: Schöpfung als Prüfung"
         },
         {
           "label": "B'",
           "verses": "67:3",
           "content": "الَّذِي خَلَقَ سَبْعَ سَمَاوَاتٍ طِبَاقًا مَا تَرَىٰ فِي خَلْقِ الرَّحْمَنِ مِنْ تَفَاوُتٍ",
-          "theme": "Makellose Schoepfung — Faehigkeit demonstriert"
+          "theme": "Makellose Schöpfung — Fähigkeit demonstriert"
         },
         {
           "label": "A'",
@@ -719,28 +719,28 @@
           "theme": "Gottes Macht: Himmelsverzierung und Schutz"
         }
       ],
-      "analysis": "A und A': Gottes Herrschaft manifestiert sich kosmisch. B und B': Seine Faehigkeit zeigt sich in makelloser Schoepfung. C: Tod und Leben als Pruefungszweck bilden das konzentrische Zentrum. Die drei الَّذِي-Relativsaetze (A, C, B') erzeugen eine anaphorische Kette.",
-      "task": "Markieren Sie die drei الَّذِي-Saetze und analysieren Sie die Steigerung vom Abstrakten (Herrschaft) zum Konkreten (Sterne)."
+      "analysis": "A und A': Gottes Herrschaft manifestiert sich kosmisch. B und B': Seine Fähigkeit zeigt sich in makelloser Schöpfung. C: Tod und Leben als Prüfungszweck bilden das konzentrische Zentrum. Die drei الَّذِي-Relativsätze (A, C, B') erzeugen eine anaphorische Kette.",
+      "task": "Markieren Sie die drei الَّذِي-Sätze und analysieren Sie die Steigerung vom Abstrakten (Herrschaft) zum Konkreten (Sterne)."
     },
     {
       "id": "ring20",
-      "title": "Sure 24:30-31 — Blicksenkung: Maenner und Frauen",
+      "title": "Sure 24:30-31 — Blicksenkung: Männer und Frauen",
       "surah": 24,
       "structure": [
         {
           "label": "A",
           "verses": "24:30",
           "content": "قُلْ لِلْمُؤْمِنِينَ يَغُضُّوا مِنْ أَبْصَارِهِمْ وَيَحْفَظُوا فُرُوجَهُمْ",
-          "theme": "Anweisung an die glaeubigen Maenner: Blick senken"
+          "theme": "Anweisung an die gläubigen Männer: Blick senken"
         },
         {
           "label": "A'",
           "verses": "24:31",
           "content": "وَقُلْ لِلْمُؤْمِنَاتِ يَغْضُضْنَ مِنْ أَبْصَارِهِنَّ وَيَحْفَظْنَ فُرُوجَهُنَّ",
-          "theme": "Anweisung an die glaeubigen Frauen: Blick senken"
+          "theme": "Anweisung an die gläubigen Frauen: Blick senken"
         }
       ],
-      "analysis": "Eine einfache A-A' Inklusion: beide Verse beginnen mit قُلْ لِ + Partizip-Plural und verwenden identische Verben (يَغُضُّ / يَحْفَظُ). Der Wechsel betrifft nur Genus (مُؤْمِنِينَ → مُؤْمِنَاتِ) und Pronomen (هِمْ → هِنَّ). Die syntaktische Parallelitaet ist nahezu vollkommen.",
+      "analysis": "Eine einfache A-A' Inklusion: beide Verse beginnen mit قُلْ لِ + Partizip-Plural und verwenden identische Verben (يَغُضُّ / يَحْفَظُ). Der Wechsel betrifft nur Genus (مُؤْمِنِينَ → مُؤْمِنَاتِ) und Pronomen (هِمْ → هِنَّ). Die syntaktische Parallelität ist nahezu vollkommen.",
       "task": "Listen Sie die identischen Elemente in beiden Versen auf und markieren Sie nur die Genus-Unterschiede."
     },
     {
@@ -767,7 +767,7 @@
           "theme": "Gedenkt Meiner Gnade + Bevorzugung"
         }
       ],
-      "analysis": "A und A' sind fast identische Eroeffnungen (يَا بَنِي إِسْرَائِيلَ اذْكُرُوا نِعْمَتِيَ الَّتِي أَنْعَمْتُ عَلَيْكُمْ). Sie rahmen die Imperativ-Kette in B. Diese Inklusion wird in Sure 2 mehrfach wiederholt (auch 2:122).",
+      "analysis": "A und A' sind fast identische Eröffnungen (يَا بَنِي إِسْرَائِيلَ اذْكُرُوا نِعْمَتِيَ الَّتِي أَنْعَمْتُ عَلَيْكُمْ). Sie rahmen die Imperativ-Kette in B. Diese Inklusion wird in Sure 2 mehrfach wiederholt (auch 2:122).",
       "task": "Vergleichen Sie den Wortlaut von A und A' und identifizieren Sie die minimalen Unterschiede."
     },
     {
@@ -779,7 +779,7 @@
           "label": "A",
           "verses": "2:30",
           "content": "وَإِذْ قَالَ رَبُّكَ لِلْمَلَائِكَةِ إِنِّي جَاعِلٌ فِي الْأَرْضِ خَلِيفَةً",
-          "theme": "Ankuendigung des Stellvertreters — Erde"
+          "theme": "Ankündigung des Stellvertreters — Erde"
         },
         {
           "label": "B",
@@ -797,16 +797,16 @@
           "label": "B'",
           "verses": "2:35-36",
           "content": "وَقُلْنَا يَا آدَمُ اسْكُنْ أَنْتَ وَزَوْجُكَ الْجَنَّةَ ... فَأَزَلَّهُمَا الشَّيْطَانُ عَنْهَا",
-          "theme": "Adams Fall — Wissen genuegt nicht gegen Verfuehrung"
+          "theme": "Adams Fall — Wissen genügt nicht gegen Verfuehrung"
         },
         {
           "label": "A'",
           "verses": "2:38-39",
           "content": "قُلْنَا اهْبِطُوا مِنْهَا جَمِيعًا فَإِمَّا يَأْتِيَنَّكُمْ مِنِّي هُدًى",
-          "theme": "Herabsendung zur Erde — Fuehrung"
+          "theme": "Herabsendung zur Erde — Führung"
         }
       ],
-      "analysis": "A und A' rahmen mit dem Erde-Motiv: in A wird der Stellvertreter angekuendigt, in A' wird er zur Erde herabgesandt. B und B' kontrastieren Adams Wissen mit seinem Fall. C (Iblis' Weigerung) ist der Wendepunkt, der alles Folgende ausloest.",
+      "analysis": "A und A' rahmen mit dem Erde-Motiv: in A wird der Stellvertreter angekündigt, in A' wird er zur Erde herabgesandt. B und B' kontrastieren Adams Wissen mit seinem Fall. C (Iblis' Weigerung) ist der Wendepunkt, der alles Folgende auslöst.",
       "task": "Identifizieren Sie das Leitwort الْأَرْض in A und den Herabstieg (اهْبِطُوا) in A' als semantische Bruecke."
     },
     {
@@ -845,7 +845,7 @@
           "label": "A",
           "verses": "2:124",
           "content": "وَإِذِ ابْتَلَىٰ إِبْرَاهِيمَ رَبُّهُ بِكَلِمَاتٍ فَأَتَمَّهُنَّ قَالَ إِنِّي جَاعِلُكَ لِلنَّاسِ إِمَامًا",
-          "theme": "Ibrahim als Imam fuer die Menschen"
+          "theme": "Ibrahim als Imam für die Menschen"
         },
         {
           "label": "B",
@@ -869,11 +869,11 @@
           "label": "A'",
           "verses": "2:129",
           "content": "رَبَّنَا وَابْعَثْ فِيهِمْ رَسُولًا مِنْهُمْ يَتْلُو عَلَيْهِمْ آيَاتِكَ وَيُعَلِّمُهُمُ الْكِتَابَ وَالْحِكْمَةَ",
-          "theme": "Bitte um einen Gesandten fuer die Menschen"
+          "theme": "Bitte um einen Gesandten für die Menschen"
         }
       ],
-      "analysis": "A und A': Fuehrung fuer die Menschen (إِمَامًا / رَسُولًا). B und B': Haus und Gemeinschaft (مَثَابَةً / أُمَّةً). C: der Bau selbst als Zentrum. Die Bewegung geht von der Person (Ibrahim) ueber den Ort (Haus) zum Akt des Bauens und zurueck.",
-      "task": "Identifizieren Sie die Parallelitaet zwischen إِمَامًا (A) und رَسُولًا (A') als Fuehrungsfiguren."
+      "analysis": "A und A': Führung für die Menschen (إِمَامًا / رَسُولًا). B und B': Haus und Gemeinschaft (مَثَابَةً / أُمَّةً). C: der Bau selbst als Zentrum. Die Bewegung geht von der Person (Ibrahim) über den Ort (Haus) zum Akt des Bauens und zurück.",
+      "task": "Identifizieren Sie die Parallelität zwischen إِمَامًا (A) und رَسُولًا (A') als Führungsfiguren."
     },
     {
       "id": "ring25",
@@ -884,7 +884,7 @@
           "label": "A",
           "verses": "36:33-35",
           "content": "وَآيَةٌ لَهُمُ الْأَرْضُ الْمَيْتَةُ أَحْيَيْنَاهَا وَأَخْرَجْنَا مِنْهَا حَبًّا فَمِنْهُ يَأْكُلُونَ",
-          "theme": "Zeichen: Tote Erde → Fruechte (Erde)"
+          "theme": "Zeichen: Tote Erde → Früchte (Erde)"
         },
         {
           "label": "B",
@@ -902,7 +902,7 @@
           "label": "B'",
           "verses": "36:42",
           "content": "وَخَلَقْنَا لَهُمْ مِنْ مِثْلِهِ مَا يَرْكَبُونَ",
-          "theme": "Aehnliches zum Reiten (Transportmittel)"
+          "theme": "Ähnliches zum Reiten (Transportmittel)"
         },
         {
           "label": "A'",
@@ -911,7 +911,7 @@
           "theme": "Gnade als Rettung — zeitlich begrenzt"
         }
       ],
-      "analysis": "Drei وَآيَةٌ لَهُمُ-Eroeffnungen (A, B, C) markieren den Aufbau. A: Erde (horizontal). B: Himmel (vertikal). C: Meer (dazwischen). Die Struktur bewegt sich von der Erde zum Himmel zum Meer und zurueck. A' schliesst mit dem Motiv der Vergaenglichkeit.",
+      "analysis": "Drei وَآيَةٌ لَهُمُ-Eröffnungen (A, B, C) markieren den Aufbau. A: Erde (horizontal). B: Himmel (vertikal). C: Meer (dazwischen). Die Struktur bewegt sich von der Erde zum Himmel zum Meer und zurück. A' schließt mit dem Motiv der Vergänglichkeit.",
       "task": "Markieren Sie die drei وَآيَةٌ لَهُمُ-Formeln und ordnen Sie ihnen die kosmischen Bereiche zu."
     },
     {
@@ -923,7 +923,7 @@
           "label": "A",
           "verses": "18:32-34",
           "content": "وَاضْرِبْ لَهُمْ مَثَلًا رَجُلَيْنِ جَعَلْنَا لِأَحَدِهِمَا جَنَّتَيْنِ ... وَكَانَ لَهُ ثَمَرٌ",
-          "theme": "Eroeffnung: Zwei Maenner, zwei Gaerten, Reichtum"
+          "theme": "Eröffnung: Zwei Männer, zwei Gärten, Reichtum"
         },
         {
           "label": "B",
@@ -947,15 +947,15 @@
           "label": "A'",
           "verses": "18:42-44",
           "content": "وَأُحِيطَ بِثَمَرِهِ فَأَصْبَحَ يُقَلِّبُ كَفَّيْهِ عَلَىٰ مَا أَنْفَقَ فِيهَا ... هُنَالِكَ الْوَلَايَةُ لِلَّهِ الْحَقِّ",
-          "theme": "Schluss: Fruechte zerstoert, Reue, Gottes Herrschaft"
+          "theme": "Schluss: Früchte zerstört, Reue, Gottes Herrschaft"
         }
       ],
-      "analysis": "A und A' rahmen mit dem Motiv ثَمَر (Fruechte): in A Reichtum, in A' Verlust. B und B' kontrastieren Hochmut (er betritt den Garten) mit der Warnung (haette er beim Betreten gesagt...). C ist das Zentrum: das Bekenntnis des armen Gefaehrten.",
+      "analysis": "A und A' rahmen mit dem Motiv ثَمَر (Früchte): in A Reichtum, in A' Verlust. B und B' kontrastieren Hochmut (er betritt den Garten) mit der Warnung (hätte er beim Betreten gesagt...). C ist das Zentrum: das Bekenntnis des armen Gefährten.",
       "task": "Verfolgen Sie das Wort ثَمَر/ثَمَرَة durch die Struktur und seinen Bedeutungswandel von Wohlstand zu Verlust."
     },
     {
       "id": "ring27",
-      "title": "Sure 2:163-167 — Einheit Gottes und Schoepfungszeichen",
+      "title": "Sure 2:163-167 — Einheit Gottes und Schöpfungszeichen",
       "surah": 2,
       "structure": [
         {
@@ -968,13 +968,13 @@
           "label": "B",
           "verses": "2:164",
           "content": "إِنَّ فِي خَلْقِ السَّمَاوَاتِ وَالْأَرْضِ وَاخْتِلَافِ اللَّيْلِ وَالنَّهَارِ ... لَآيَاتٍ لِقَوْمٍ يَعْقِلُونَ",
-          "theme": "Schoepfungszeichen fuer Verstaendige"
+          "theme": "Schöpfungszeichen für Verständige"
         },
         {
           "label": "C",
           "verses": "2:165",
           "content": "وَمِنَ النَّاسِ مَنْ يَتَّخِذُ مِنْ دُونِ اللَّهِ أَنْدَادًا يُحِبُّونَهُمْ كَحُبِّ اللَّهِ وَالَّذِينَ آمَنُوا أَشَدُّ حُبًّا لِلَّهِ",
-          "theme": "ZENTRUM: Goetzendiener vs. Glaeubige — Liebe"
+          "theme": "ZENTRUM: Götzendiener vs. Gläubige — Liebe"
         },
         {
           "label": "B'",
@@ -986,11 +986,11 @@
           "label": "A'",
           "verses": "2:167",
           "content": "وَقَالَ الَّذِينَ اتَّبَعُوا لَوْ أَنَّ لَنَا كَرَّةً فَنَتَبَرَّأَ مِنْهُمْ كَمَا تَبَرَّءُوا مِنَّا",
-          "theme": "Wunsch nach Rueckkehr — Reue ueber die falschen Goetter"
+          "theme": "Wunsch nach Rückkehr — Reue über die falschen Goetter"
         }
       ],
-      "analysis": "A und A': Einheit Gottes (A) kontrastiert mit der Reue ueber falschen Polytheismus (A'). B und B': Schoepfungszeichen (B) kontrastieren mit Zeichen am Juengsten Tag (B'). C ist das Zentrum: die fundamentale Wahl zwischen Gott und Goetzen.",
-      "task": "Kontrastieren Sie die آيَات (Zeichen) in B (Schoepfung) mit den Zeichen in B' (Jenseits)."
+      "analysis": "A und A': Einheit Gottes (A) kontrastiert mit der Reue über falschen Polytheismus (A'). B und B': Schöpfungszeichen (B) kontrastieren mit Zeichen am Juengsten Tag (B'). C ist das Zentrum: die fundamentale Wahl zwischen Gott und Götzen.",
+      "task": "Kontrastieren Sie die آيَات (Zeichen) in B (Schöpfung) mit den Zeichen in B' (Jenseits)."
     },
     {
       "id": "ring28",
@@ -1007,28 +1007,28 @@
           "label": "B",
           "verses": "55:54-58",
           "content": "مُتَّكِئِينَ عَلَىٰ فُرُشٍ بَطَائِنُهَا مِنْ إِسْتَبْرَقٍ ... لَمْ يَطْمِثْهُنَّ إِنْسٌ قَبْلَهُمْ وَلَا جَانٌّ",
-          "theme": "Beschreibung: Polster aus Brokat, Gefaehrtinnen"
+          "theme": "Beschreibung: Polster aus Brokat, Gefährtinnen"
         },
         {
           "label": "C",
           "verses": "55:60",
           "content": "هَلْ جَزَاءُ الْإِحْسَانِ إِلَّا الْإِحْسَانُ",
-          "theme": "ZENTRUM: Ist der Lohn fuer Gutes anderes als Gutes?"
+          "theme": "ZENTRUM: Ist der Lohn für Gutes anderes als Gutes?"
         },
         {
           "label": "B'",
           "verses": "55:70-74",
           "content": "فِيهِنَّ خَيْرَاتٌ حِسَانٌ ... حُورٌ مَقْصُورَاتٌ فِي الْخِيَامِ ... لَمْ يَطْمِثْهُنَّ إِنْسٌ قَبْلَهُمْ وَلَا جَانٌّ",
-          "theme": "Beschreibung: Schoene Gefaehrtinnen — wiederholt B"
+          "theme": "Beschreibung: Schöne Gefährtinnen — wiederholt B"
         },
         {
           "label": "A'",
           "verses": "55:62-68",
           "content": "وَمِنْ دُونِهِمَا جَنَّتَانِ ... مُدْهَامَّتَانِ ... فِيهِمَا عَيْنَانِ نَضَّاخَتَانِ ... فِيهِمَا فَاكِهَةٌ وَنَخْلٌ وَرُمَّانٌ",
-          "theme": "Zweites Gartenpaar: dunkelgruen, sprudelnde Quellen, Fruechte"
+          "theme": "Zweites Gartenpaar: dunkelgruen, sprudelnde Quellen, Früchte"
         }
       ],
-      "analysis": "Zwei Gartenpaare (A, A') spiegeln sich mit leichten Variationen: تَجْرِيَانِ (fliessend) vs. نَضَّاخَتَانِ (sprudelnd). B und B' teilen die identische Formel لَمْ يَطْمِثْهُنَّ إِنْسٌ قَبْلَهُمْ وَلَا جَانٌّ. C ist das Kernprinzip: Lohn fuer Gutes ist Gutes.",
+      "analysis": "Zwei Gartenpaare (A, A') spiegeln sich mit leichten Variationen: تَجْرِيَانِ (fliessend) vs. نَضَّاخَتَانِ (sprudelnd). B und B' teilen die identische Formel لَمْ يَطْمِثْهُنَّ إِنْسٌ قَبْلَهُمْ وَلَا جَانٌّ. C ist das Kernprinzip: Lohn für Gutes ist Gutes.",
       "task": "Vergleichen Sie die Beschreibungen der Quellen (عَيْنَانِ) in A und A' — welche Adjektive variieren?"
     },
     {
