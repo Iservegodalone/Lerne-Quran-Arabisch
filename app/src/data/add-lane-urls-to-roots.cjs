@@ -30,7 +30,7 @@ const lookup = new Map();
 for (const entry of lanesRoots) {
   const key = normalizeRoot(entry.root);
   lookup.set(key, {
-    lanesUrl: entry.lanesLexiconUrl,
+    lanesUrl: entry.lanesUrl,
     corpusUrl: entry.corpusUrl
   });
 }

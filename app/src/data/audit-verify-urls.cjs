@@ -109,6 +109,7 @@ function traverse(val, stats, parentHasVerifyUrl = false) {
   if (val.verifyUrl) stats.verifyUrls++;
   if (val.corpusUrl) stats.corpusUrls++;
   if (val.lanesUrl) stats.lanesUrls++;
+  if (val.wrightUrl) stats.wrightUrls++;
   if (val.externalUrl) stats.externalUrls++;
 
   const thisHasVerifyUrl = !!(val.verifyUrl) || parentHasVerifyUrl;
@@ -165,6 +166,7 @@ function analyzeFile(filePath) {
     verifyUrls: 0,
     corpusUrls: 0,
     lanesUrls: 0,
+    wrightUrls: 0,
     externalUrls: 0,
     missingFromRefField: 0,
     missingFromSurahVerse: 0,
@@ -192,6 +194,8 @@ const grandTotals = {
   verifyUrls: 0,
   corpusUrls: 0,
   lanesUrls: 0,
+  lanesLexiconUrls: 0,
+  wrightUrls: 0,
   externalUrls: 0,
   missingFromRefField: 0,
   missingFromSurahVerse: 0,
@@ -208,6 +212,7 @@ for (const file of jsonFiles) {
   grandTotals.verifyUrls += stats.verifyUrls;
   grandTotals.corpusUrls += stats.corpusUrls;
   grandTotals.lanesUrls += stats.lanesUrls;
+  grandTotals.wrightUrls += stats.wrightUrls;
   grandTotals.externalUrls += stats.externalUrls;
   grandTotals.missingFromRefField += stats.missingFromRefField;
   grandTotals.missingFromSurahVerse += stats.missingFromSurahVerse;
@@ -277,7 +282,8 @@ console.log(`  Total verifyUrls present:                 ${grandTotals.verifyUrl
 console.log(`  Total corpusUrls present:                 ${grandTotals.corpusUrls}`);
 console.log(`  Total lanesUrls present:                  ${grandTotals.lanesUrls}`);
 console.log(`  Total externalUrls present:               ${grandTotals.externalUrls}`);
-console.log(`  Total ALL URLs combined:                  ${grandTotals.verifyUrls + grandTotals.corpusUrls + grandTotals.lanesUrls + grandTotals.externalUrls}`);
+console.log(`  Total wrightUrls present:                 ${grandTotals.wrightUrls}`);
+console.log(`  Total ALL URLs combined:                  ${grandTotals.verifyUrls + grandTotals.corpusUrls + grandTotals.lanesUrls + grandTotals.wrightUrls + grandTotals.externalUrls}`);
 console.log('');
 console.log(`  Missing (verse ref field, no verifyUrl):  ${grandTotals.missingFromRefField}`);
 console.log(`  Missing (surah+verse fields, no URL):     ${grandTotals.missingFromSurahVerse}`);

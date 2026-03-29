@@ -918,13 +918,13 @@ describe('lanes-lexicon-urls.json', () => {
     expect(section.roots.length).toBeGreaterThan(0)
   })
 
-  it('roots entries have root, lanesLexiconUrl, corpusUrl', () => {
+  it('roots entries have root, lanesUrl, corpusUrl', () => {
     const sample = lanesLexiconUrls.frequentRootsWithLaneReferences.roots.slice(0, 10)
     for (const r of sample) {
       expect(r).toHaveProperty('root')
-      expect(r).toHaveProperty('lanesLexiconUrl')
+      expect(r).toHaveProperty('lanesUrl')
       expect(r).toHaveProperty('corpusUrl')
-      expect(r.lanesLexiconUrl).toMatch(/^https?:\/\//)
+      expect(r.lanesUrl).toMatch(/^https?:\/\//)
       expect(r.corpusUrl).toMatch(/^https?:\/\//)
     }
   })

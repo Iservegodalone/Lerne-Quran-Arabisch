@@ -466,7 +466,8 @@
       "definition": "Ein Verb, dessen Wurzel aus vier Konsonanten besteht. Im Quran selten. Muster der Grundform: fa'lala. Hat eigene Erweiterungsformen (tafa'lala, if'anlala). Beispiel: زَلْزَلَ (zalzala, erschuettern) von der Wurzel z-l-z-l.",
       "category": "morphology",
       "lesson": "2.2",
-      "externalUrl": "https://en.wikipedia.org/wiki/Arabic_morphology"
+      "externalUrl": "https://en.wikipedia.org/wiki/Arabic_morphology",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=99&verse=1"
     },
     {
       "arabic": "مَزِيد",
@@ -520,7 +521,8 @@
       "definition": "Ein Nomen, das den Ort einer Handlung bezeichnet. In Form I auf dem Muster maf'al oder maf'il gebildet. Beispiel: مَسْجِد (masjid, Ort der Niederwerfung) von der Wurzel s-j-d. In den erweiterten Formen formgleich mit dem Passivpartizip.",
       "category": "morphology",
       "lesson": "2.11",
-      "externalUrl": "https://en.wikipedia.org/wiki/Arabic_morphology"
+      "externalUrl": "https://en.wikipedia.org/wiki/Arabic_morphology",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=17&verse=1"
     },
     {
       "arabic": "اِسْم الزَّمَان",
@@ -610,7 +612,8 @@
       "definition": "Die Zweizahlform, gebildet durch die Endung -ani (Nominativ) / -ayni (Akkusativ/Genitiv). Existiert bei Nomina, Verben und Pronomen. Im Quran häufig. Beispiel: يَدَانِ (zwei Hände, Nominativ), يَدَيْنِ (zwei Hände, Akkusativ/Genitiv).",
       "category": "morphology",
       "lesson": "2.12",
-      "externalUrl": "https://en.wikipedia.org/wiki/Arabic_morphology"
+      "externalUrl": "https://en.wikipedia.org/wiki/Arabic_morphology",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=5&verse=64"
     },
     {
       "arabic": "مُعْتَلّ",
@@ -625,7 +628,7 @@
       "arabic": "صَحِيح",
       "transliteration": "ṣaḥīḥ",
       "german": "gesundes Verb / starkes Verb",
-      "definition": "Ein Verb, dessen alle drei Wurzelkonsonanten starke (nicht-schwache) Konsonanten sind — also weder Waw, Ya noch Hamza enthalten. Diese Verben folgen den regulären Konjugationsmustern ohne Sonderregeln. Gegenbegriff zu mu'tall.",
+      "definition": "Ein Verb, dessen alle drei Wurzelkonsonanten starke (nicht-schwache) Konsonanten sind — also weder Waw noch Ya enthalten. Sahih umfasst drei Unterarten: salim (ohne jede Besonderheit), mahmuz (mit Hamza als Radikal) und muda''af (mit identischem 2. und 3. Radikal). Gegenbegriff zu mu'tall.",
       "category": "morphology",
       "lesson": "2.10",
       "externalUrl": "https://en.wikipedia.org/wiki/Arabic_morphology"
@@ -673,7 +676,8 @@
       "definition": "Ein Verb, dessen zweiter und dritter Wurzelkonsonant identisch sind. In bestimmten Konjugationsformen verschmelzen die beiden identischen Konsonanten zu einem verdoppelten Laut mit Schadda. Beispiel: مَدَّ (madda, ausstrecken, Wurzel m-d-d).",
       "category": "morphology",
       "lesson": "2.10",
-      "externalUrl": "https://en.wikipedia.org/wiki/Arabic_morphology"
+      "externalUrl": "https://en.wikipedia.org/wiki/Arabic_morphology",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=13&verse=3"
     },
     {
       "arabic": "أَفْعَل التَّفْضِيل",
@@ -682,7 +686,8 @@
       "definition": "Das Muster af'al zur Bildung von Komparativ und Superlativ. Ohne Artikel und mit min: Komparativ (akbar min, größer als). Mit Artikel: Superlativ (al-akbar, der größte). Immer diptot. Feminin: fu'la. Im Quran extrem häufig.",
       "category": "morphology",
       "lesson": "2.15",
-      "externalUrl": "https://en.wikipedia.org/wiki/Arabic_morphology"
+      "externalUrl": "https://en.wikipedia.org/wiki/Arabic_morphology",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=29&verse=45"
     },
     {
       "arabic": "مَبْنِيّ لِلْمَعْلُوم",
@@ -862,7 +867,8 @@
       "definition": "Ein kleines hochgestelltes Alif (ٰ) über einem Konsonanten, das einen langen a-Vokal anzeigt, der im Konsonantentext (Rasm) nicht als volles Alif geschrieben ist. Erscheint in häufigen Wörtern wie هٰذَا (hadha, dieser), رَحْمٰن (rahman), لٰكِنْ (lakin). Eine Besonderheit der quranischen Orthographie.",
       "category": "script",
       "lesson": "1.11",
-      "externalUrl": "https://en.wikipedia.org/wiki/Arabic_script"
+      "externalUrl": "https://en.wikipedia.org/wiki/Arabic_script",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=3"
     },
     {
       "arabic": "أَلِف وَصْل",
@@ -871,7 +877,8 @@
       "definition": "Ein Alif am Wortanfang, das nur am absoluten Satzanfang oder nach Pause mit Stimmritzenverschluss gesprochen wird, in fliessender Rede aber elidiert. Trägt kein Hamza-Zeichen. Erscheint im Artikel (ال), im Imperativ von Form I, im Perfekt und Masdar der Formen VII–X, und in bestimmten Nomina (ibn, ism, imra'a).",
       "category": "script",
       "lesson": "1.9",
-      "externalUrl": "https://en.wikipedia.org/wiki/Hamzat_al-wasl"
+      "externalUrl": "https://en.wikipedia.org/wiki/Hamzat_al-wasl",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=1"
     },
     {
       "arabic": "أَلِف مَقْصُورَة",
@@ -880,7 +887,8 @@
       "definition": "Ein Alif am Wortende, das in der Form eines Ya ohne Punkte geschrieben wird (ى). Repräsentiert einen langen a-Vokal, der auf ein urspruengliches Ya zurückgeht. Erscheint in Wörtern wie هُدًى (hudan), مُوسَى (Musa), عَلَى (ala). Kein i-Vokal trotz der Ya-Form.",
       "category": "script",
       "lesson": "1.6",
-      "externalUrl": "https://en.wikipedia.org/wiki/Arabic_script"
+      "externalUrl": "https://en.wikipedia.org/wiki/Arabic_script",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=2"
     },
     {
       "arabic": "حُرُوف مُقَطَّعَة",
@@ -889,7 +897,8 @@
       "definition": "Einzelne arabische Buchstaben oder Buchstabenkombinationen, die am Anfang von 29 Suren stehen (z.B. الم, حم, يس, ق). Sie werden als einzelne Buchstabennamen gesprochen, nicht als Wort gelesen. Ihre syntaktische und semantische Funktion ist ungeklärt — der Text selbst gibt keine Erklärung.",
       "category": "script",
       "lesson": "1.11",
-      "externalUrl": "https://en.wikipedia.org/wiki/Muqatta%27at"
+      "externalUrl": "https://en.wikipedia.org/wiki/Muqatta%27at",
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=1"
     }
   ]
 }

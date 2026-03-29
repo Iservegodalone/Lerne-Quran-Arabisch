@@ -1,9 +1,9 @@
 {
   "meta": {
     "module": 6,
-    "title": "Fortgeschrittene Stufen (5–12)",
+    "title": "Fortgeschrittene Stufen (5-12)",
     "description": "Acht fortgeschrittene Stufen: von semantischen Feldern bis zum direkten Verstehen ohne innere Übersetzung.",
-    "prerequisite": "Stufen 1–4 (Alphabet, Morphologie, Syntax, Vokabular) abgeschlossen",
+    "prerequisite": "Stufen 1-4 (Alphabet, Morphologie, Syntax, Vokabular) abgeschlossen",
     "sources": [
       {
         "name": "Wright's Grammar Vol I",
@@ -38,7 +38,7 @@
           {
             "type": "explanation",
             "title": "Das Wurzel-Notizbuch (Root Journal)",
-            "content": "Lege dir ein Notizbuch an, in dem jede Seite einer Wurzel gewidmet ist. Oben: Die Wurzel und ihr Grundbedeutungsfeld aus Lane's. Darunter: Alle Formen, die im Quran vorkommen, mit Vers-Angabe. Ganz unten: Deine eigenen Beobachtungen — welche Muster siehst du? Welche Bedeutungsnuance passt wo? Dieses Notizbuch wird dein wichtigstes Werkzeug für die Stufen 5–12."
+            "content": "Lege dir ein Notizbuch an, in dem jede Seite einer Wurzel gewidmet ist. Oben: Die Wurzel und ihr Grundbedeutungsfeld aus Lane's. Darunter: Alle Formen, die im Quran vorkommen, mit Vers-Angabe. Ganz unten: Deine eigenen Beobachtungen — welche Muster siehst du? Welche Bedeutungsnuance passt wo? Dieses Notizbuch wird dein wichtigstes Werkzeug für die Stufen 5-12."
           },
           {
             "type": "example",
@@ -541,7 +541,7 @@
               {
                 "arabic": "وَالْفَجْرِ ∙ وَلَيَالٍ عَشْرٍ",
                 "transliteration": "wa-l-fajr · wa-layālin ʿashr",
-                "ref": "89:1–2",
+                "ref": "89:1-2",
                 "meaning": "Beim Morgengrauen! Und bei zehn Nächten!",
                 "analysis": "Was wird geschworen? Die Antwort auf den Schwur (جَوَاب القَسَم) wird ausgelassen. Der Zuhörer muss selbst herausfinden, worauf der Schwur abzielt — das erzeugt Spannung und tiefes Nachdenken.",
                 "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=89&verse=1"
@@ -565,9 +565,9 @@
               {
                 "arabic": "الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ … إِيَّاكَ نَعْبُدُ",
                 "transliteration": "al-ḥamdu li-llāhi rabbi l-ʿālamīn … iyyāka naʿbudu",
-                "ref": "1:2–5",
+                "ref": "1:2-5",
                 "meaning": "Lob sei Gott (3. Person) … Dir dienen wir (2. Person)",
-                "analysis": "In den Versen 2–4 wird ÜBER Gott gesprochen (3. Person: Er ist der Herr der Welten). In Vers 5 wechselt es plötzlich ZU Gott (2. Person: Dir dienen wir). Der Iltifāt markiert den Übergang vom Loben zum direkten Gegenüberstehen — vom Reden über Gott zum Reden mit Gott.",
+                "analysis": "In den Versen 2-4 wird ÜBER Gott gesprochen (3. Person: Er ist der Herr der Welten). In Vers 5 wechselt es plötzlich ZU Gott (2. Person: Dir dienen wir). Der Iltifāt markiert den Übergang vom Loben zum direkten Gegenüberstehen — vom Reden über Gott zum Reden mit Gott.",
                 "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=2"
               }
             ],
@@ -620,7 +620,7 @@
             "arabicExamples": [
               {
                 "arabic": "Sure 2 — Gesamtstruktur",
-                "analysis": "Sure 2 folgt einer großen Ringkomposition: A (1–20): Glaubende vs. Leugnende. B (21–39): Schöpfung Adams. C (40–103): Geschichte Israels. D (104–141): Richtungswechsel der Qibla — ZENTRUM. C' (142–253): Neue Gemeinschaft. B' (254–284): Gehorsamkeit. A' (285–286): Glaubensbekenntnis. Das Zentrum (Qibla-Wechsel) bildet das strukturelle Zentrum der konzentrischen Anordnung."
+                "analysis": "Sure 2 folgt einer großen Ringkomposition: A (1-20): Glaubende vs. Leugnende. B (21-39): Schöpfung Adams. C (40-103): Geschichte Israels. D (104-141): Richtungswechsel der Qibla — ZENTRUM. C' (142-253): Neue Gemeinschaft. B' (254-284): Gehorsamkeit. A' (285-286): Glaubensbekenntnis. Das Zentrum (Qibla-Wechsel) bildet das strukturelle Zentrum der konzentrischen Anordnung."
               },
               {
                 "arabic": "يُخْرِجُ الْحَيَّ مِنَ الْمَيِّتِ وَيُخْرِجُ الْمَيِّتَ مِنَ الْحَيِّ",
@@ -637,20 +637,20 @@
       "exercises": [
         {
           "type": "rhetoric_identify",
-          "prompt": "Lies 12:4–5. Welches rhetorische Mittel verwendet Yusuf's Vater, als er sagt: 'Erzähle deine Vision nicht deinen Brüdern'?",
+          "prompt": "Lies 12:4-5. Welches rhetorische Mittel verwendet Yusuf's Vater, als er sagt: 'Erzähle deine Vision nicht deinen Brüdern'?",
           "hint": "Hadhf (Auslassung): Er nennt nicht explizit, WAS die Brüder tun werden. Er sagt nur: 'Sie könnten dir eine List planen.' Die Vagheit verstärkt die Bedrohung.",
           "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=12&verse=4"
         },
         {
           "type": "rhetoric_identify",
-          "prompt": "In 2:6–7 wechselt der Quran von der zweiten Person zur dritten Person (über die Leugner). Identifiziere den Iltifāt und erkläre seine Funktion.",
+          "prompt": "In 2:6-7 wechselt der Quran von der zweiten Person zur dritten Person (über die Leugner). Identifiziere den Iltifāt und erkläre seine Funktion.",
           "hint": "Der Perspektivwechsel schafft Distanz: Über die Leugner wird gesprochen, nicht mit ihnen — sie sind abgeschnitten vom Dialog.",
           "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=6"
         },
         {
           "type": "rhetoric_identify",
-          "prompt": "Finde in Sure 2:17–20 zwei verschiedene Gleichnisse (Amthāl). Was ist das gemeinsame Thema?",
-          "hint": "Gleichnis 1: Feuer (Vers 17). Gleichnis 2: Gewitter (Verse 19–20). Beide beschreiben die Heuchler — Licht und Dunkelheit als Leitmetapher.",
+          "prompt": "Finde in Sure 2:17-20 zwei verschiedene Gleichnisse (Amthāl). Was ist das gemeinsame Thema?",
+          "hint": "Gleichnis 1: Feuer (Vers 17). Gleichnis 2: Gewitter (Verse 19-20). Beide beschreiben die Heuchler — Licht und Dunkelheit als Leitmetapher.",
           "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=17"
         },
         {
@@ -1187,7 +1187,7 @@
         },
         {
           "type": "phonosemantic",
-          "prompt": "Vergleiche die Klangatmosphäre von 55:46–78 (Gartenbeschreibung) mit 101:1–11 (Jüngster Tag). Welche Konsonanten dominieren jeweils?",
+          "prompt": "Vergleiche die Klangatmosphäre von 55:46-78 (Gartenbeschreibung) mit 101:1-11 (Jüngster Tag). Welche Konsonanten dominieren jeweils?",
           "hint": "Sure 55: weiche Laute (ن, م, ل, ر) dominieren — fließend und friedlich. Sure 101: harte Laute (ق, ط, ك, ع) dominieren — hart und erschütternd.",
           "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=55&verse=46"
         },
@@ -1319,7 +1319,7 @@
               {
                 "arabic": "الرَّحْمَٰنُ ∙ عَلَّمَ الْقُرْآنَ ∙ خَلَقَ الْإِنسَانَ ∙ عَلَّمَهُ الْبَيَانَ ∙ الشَّمْسُ وَالْقَمَرُ بِحُسْبَانٍ",
                 "transliteration": "ar-Raḥmān · ʿallama l-Qurʾān · khalaqa l-insān · ʿallamahu l-bayān · ash-shamsu wa-l-qamaru bi-ḥusbān",
-                "ref": "55:1–5",
+                "ref": "55:1-5",
                 "analysis": "Jeder Vers endet auf -ān: الرَّحْمَٰنُ, الْقُرْآنَ, الْإِنسَانَ, الْبَيَانَ, حُسْبَانٍ. Dieser durchgängige -ān-Reim erzeugt einen Rhythmus, der die gesamte Sure durchzieht. Die Sure hat 78 Verse — fast alle enden auf -ān. Dazwischen der Refrain: فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ (ebenfalls -ān). Der Reim verbindet alle Themen der Sure zu einer klanglichen Einheit.",
                 "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=55&verse=1"
               }
@@ -1333,7 +1333,7 @@
               {
                 "arabic": "قُلْ هُوَ اللَّهُ أَحَدٌ ∙ اللَّهُ الصَّمَدُ ∙ لَمْ يَلِدْ وَلَمْ يُولَدْ ∙ وَلَمْ يَكُن لَّهُ كُفُوًا أَحَدٌ",
                 "transliteration": "qul huwa Allāhu aḥad · Allāhu ṣ-ṣamad · lam yalid wa-lam yūlad · wa-lam yakun lahū kufuwan aḥad",
-                "ref": "112:1–4",
+                "ref": "112:1-4",
                 "analysis": "Die Fāṣila ist -d (أَحَدٌ, الصَّمَدُ, يُولَدْ, أَحَدٌ). Der Laut د (d) ist ein harter, abschließender Konsonant — er 'schließt ab', wie ein Punkt. Jeder Vers ist eine definitive Aussage über Gottes Einheit. Der d-Laut unterstreicht diese Endgültigkeit. Beachte: Die Sure beginnt und endet mit أَحَدٌ — eine klangliche Ringkomposition.",
                 "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=112&verse=1"
               }
@@ -1362,8 +1362,8 @@
         },
         {
           "type": "prosody",
-          "prompt": "Vergleiche den Rhythmus von Sure 2:255 mit Sure 101:1–5. Welcher ist schneller? Warum?",
-          "hint": "101:1–5 ist schnell und staccato-artig — passend zur Beschreibung des schockierenden Jüngsten Tages. 2:255 ist lang und fließend — passend zur majestätischen Beschreibung des Kursī.",
+          "prompt": "Vergleiche den Rhythmus von Sure 2:255 mit Sure 101:1-5. Welcher ist schneller? Warum?",
+          "hint": "101:1-5 ist schnell und staccato-artig — passend zur Beschreibung des schockierenden Jüngsten Tages. 2:255 ist lang und fließend — passend zur majestätischen Beschreibung des Kursī.",
           "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=255"
         },
         {
@@ -1378,7 +1378,7 @@
         },
         {
           "type": "prosody",
-          "prompt": "Aufgabe: Höre Sure 36 (Yā-Sīn) an und lies den Konsonantentext mit. Achte auf: (1) Den Wechsel zwischen langen und kurzen Versen — wo beschleunigt der Rhythmus, wo verlangsamt er? (2) Die Fāṣila (Versendreime) — welche Reimmuster erkennst du? (3) Die klangliche Verdichtung in den Passagen über den Jüngsten Tag (36:49–65). (4) Wie der Klang die Bedeutung unterstützt — z.B. die Abruptheit von صَيْحَةً (36:29, 36:49, 36:53).",
+          "prompt": "Aufgabe: Höre Sure 36 (Yā-Sīn) an und lies den Konsonantentext mit. Achte auf: (1) Den Wechsel zwischen langen und kurzen Versen — wo beschleunigt der Rhythmus, wo verlangsamt er? (2) Die Fāṣila (Versendreime) — welche Reimmuster erkennst du? (3) Die klangliche Verdichtung in den Passagen über den Jüngsten Tag (36:49-65). (4) Wie der Klang die Bedeutung unterstützt — z.B. die Abruptheit von صَيْحَةً (36:29, 36:49, 36:53).",
           "hint": "Sure 36 hat 83 Verse mit wechselnden Rhythmen. Die Eröffnung (يس, وَالْقُرْآنِ الْحَكِيمِ) ist langsam und feierlich. Die Erzählung beschleunigt mit kurzen Versen. Die Passagen über die Auferstehung (36:77-83) enden mit schnellen, drängenden Fragen. Die Fāṣila wechselt zwischen -īn/-ūn-Reimen und offenen Endungen.",
           "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=36&verse=49"
         },
@@ -1581,7 +1581,7 @@
                 "type": "argue",
                 "arabic": "أَمْ خُلِقُوا مِنْ غَيْرِ شَيْءٍ أَمْ هُمُ الْخَالِقُونَ ∙ أَمْ خَلَقُوا السَّمَاوَاتِ وَالْأَرْضَ بَل لَّا يُوقِنُونَ",
                 "transliteration": "am khuliqū min ghayri shayʾin am humu l-khāliqūn · am khalaqū s-samāwāti wa-l-arḍa bal lā yūqinūn",
-                "ref": "52:35–36",
+                "ref": "52:35-36",
                 "analysis": "Sprechakt: Argumentation. Der Vers ARGUMENTIERT durch eine Kette rhetorischer Fragen: Wurden sie aus dem Nichts geschaffen? Oder sind sie selbst die Schöpfer? Jede Frage schließt eine Möglichkeit aus — bis nur eine übrig bleibt: Gott hat sie geschaffen.",
                 "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=52&verse=35"
               }
@@ -1605,7 +1605,7 @@
           },
           {
             "type": "explanation",
-            "title": "Fallstudie: 2:21–22 — Mehrere Sprechakte in einem Abschnitt",
+            "title": "Fallstudie: 2:21-22 — Mehrere Sprechakte in einem Abschnitt",
             "content": "يَا أَيُّهَا النَّاسُ اعْبُدُوا رَبَّكُمُ الَّذِي خَلَقَكُمْ وَالَّذِينَ مِن قَبْلِكُمْ لَعَلَّكُمْ تَتَّقُونَ ∙ الَّذِي جَعَلَ لَكُمُ الْأَرْضَ فِرَاشًا وَالسَّمَاءَ بِنَاءً وَأَنزَلَ مِنَ السَّمَاءِ مَاءً فَأَخْرَجَ بِهِ مِنَ الثَّمَرَاتِ رِزْقًا لَّكُمْ فَلَا تَجْعَلُوا لِلَّهِ أَندَادًا وَأَنتُمْ تَعْلَمُونَ — Analyse der Sprechakte: (1) Befehl: اعْبُدُوا رَبَّكُمُ (Dient eurem Herrn!). (2) Argumentation: الَّذِي خَلَقَكُمْ (Der euch erschuf — Begründung für den Befehl). (3) Information: جَعَلَ لَكُمُ الْأَرْضَ فِرَاشًا (Er machte euch die Erde zum Bett — Aufzählung der Gaben). (4) Verbot: فَلَا تَجْعَلُوا لِلَّهِ أَندَادًا (Setzt Gott keine Gleichgestellten bei!). (5) Warnung: وَأَنتُمْ تَعْلَمُونَ (während ihr wisst — ihr könnt euch nicht herausreden). Fünf Sprechakte in zwei Versen — Befehl, Argument, Information, Verbot, Warnung."
           },
           {
@@ -1619,13 +1619,13 @@
       "exercises": [
         {
           "type": "speech_act",
-          "prompt": "Lies 2:1–20. Identifiziere den Sprechakt jedes Verses. Welche Handlung vollzieht der Text? Gruppiere die Verse nach Sprechakttypen und beschreibe, wie die Abfolge der Sprechakte den Argumentationsaufbau der Sure-Eröffnung bildet.",
-          "hint": "Verse 1–5: Aufmerksamkeit (الم), Deklaration (ذَلِكَ الْكِتَابُ), Definition der sich Hütenden (الَّذِينَ يُؤْمِنُونَ), Versprechen (أُولَئِكَ عَلَى هُدًى). Verse 6–7: Warnung (إِنَّ الَّذِينَ كَفَرُوا — Information die als Warnung wirkt), Beschreibung (خَتَمَ اللَّهُ). Verse 8–16: Erzählung/Beschreibung der Heuchler — Information die als Warnung dient. Verse 17–20: Zwei Gleichnisse (Argumentation durch Bild). Der Aufbau: positive Gruppe → negative Gruppe → Heuchler → Gleichnisse. Drei Gruppen werden definiert, bevor die Sure fortfährt.",
+          "prompt": "Lies 2:1-20. Identifiziere den Sprechakt jedes Verses. Welche Handlung vollzieht der Text? Gruppiere die Verse nach Sprechakttypen und beschreibe, wie die Abfolge der Sprechakte den Argumentationsaufbau der Sure-Eröffnung bildet.",
+          "hint": "Verse 1-5: Aufmerksamkeit (الم), Deklaration (ذَلِكَ الْكِتَابُ), Definition der sich Hütenden (الَّذِينَ يُؤْمِنُونَ), Versprechen (أُولَئِكَ عَلَى هُدًى). Verse 6-7: Warnung (إِنَّ الَّذِينَ كَفَرُوا — Information die als Warnung wirkt), Beschreibung (خَتَمَ اللَّهُ). Verse 8-16: Erzählung/Beschreibung der Heuchler — Information die als Warnung dient. Verse 17-20: Zwei Gleichnisse (Argumentation durch Bild). Der Aufbau: positive Gruppe → negative Gruppe → Heuchler → Gleichnisse. Drei Gruppen werden definiert, bevor die Sure fortfährt.",
           "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=1"
         },
         {
           "type": "speech_act",
-          "prompt": "Analysiere 36:1–12 (Beginn von Sure 36). Welche Sprechakte findest du und in welcher Reihenfolge?",
+          "prompt": "Analysiere 36:1-12 (Beginn von Sure 36). Welche Sprechakte findest du und in welcher Reihenfolge?",
           "hint": "Aufmerksamkeitserzeugung (يس), Schwur (وَالْقُرْآنِ الْحَكِيمِ), Feststellung (إِنَّكَ لَمِنَ الْمُرْسَلِينَ), Warnung (لِتُنذِرَ قَوْمًا), Erzählung. Die Reihenfolge baut Autorität auf, bevor die Warnung kommt.",
           "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=36&verse=1"
         },
@@ -1816,7 +1816,7 @@
           {
             "type": "explanation",
             "title": "Warum ist das wichtig?",
-            "content": "Jede Übersetzung wählt aus dem Bedeutungsspektrum eines Wortes eine Facette aus. Wer den Quran im Original liest, sieht das volle Spektrum — und die Nuancen, die keine Übersetzung einfangen kann. Direktes Verstehen bedeutet: Du stehst dem Text ohne Vermittler gegenüber. Du bemerkst Nuancen, die kein Übersetzer wiedergeben kann: die Wortwahl, die Wortstellung, den Klang, die Partikel, die Auslassung. All das, was du in den Stufen 1–11 gelernt hast, fließt zusammen."
+            "content": "Jede Übersetzung wählt aus dem Bedeutungsspektrum eines Wortes eine Facette aus. Wer den Quran im Original liest, sieht das volle Spektrum — und die Nuancen, die keine Übersetzung einfangen kann. Direktes Verstehen bedeutet: Du stehst dem Text ohne Vermittler gegenüber. Du bemerkst Nuancen, die kein Übersetzer wiedergeben kann: die Wortwahl, die Wortstellung, den Klang, die Partikel, die Auslassung. All das, was du in den Stufen 1-11 gelernt hast, fließt zusammen."
           },
           {
             "type": "explanation",
@@ -1864,7 +1864,7 @@
             "title": "Direktes Verstehen in der Praxis — Verse, in denen alles zusammenfließt",
             "examples": [
               {
-                "ref": "1:1–4",
+                "ref": "1:1-4",
                 "arabic": "بسم الله الرحمن الرحيم الحمد لله رب العالمين الرحمن الرحيم مالك يوم الدين",
                 "explanation": "Die Eröffnung des Qurans. Wer direkt versteht, hört nicht vier getrennte Sätze, sondern eine Einheit: Benennung (بسم الله), Lobpreis (الحمد لله), Beschreibung (رب العالمين / الرحمن الرحيم), und Herrschaft (مالك يوم الدين). Die Wurzel ر-ح-م erscheint dreifach (الرحمن / الرحيم in 1:1, الرحيم in 1:3) — bei direktem Verstehen erfasst du diese dreifache Wiederholung unmittelbar, ohne das Wort im Kopf zu formulieren.",
                 "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=1"
@@ -1876,7 +1876,7 @@
                 "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=255"
               },
               {
-                "ref": "55:1–4",
+                "ref": "55:1-4",
                 "arabic": "الرحمن علم القران خلق الانسن علمه البين",
                 "explanation": "Der Beginn von Sure ar-Raḥmān. Vier kurze Sätze, jeder ein Verbalsatz mit Gott als Subjekt. Direktes Verstehen erfasst die Klimax: الرحمن (Wer?) → علم القران (Was tat Er zuerst? Lehrte den Quran!) → خلق الانسن (Dann erst: erschuf den Menschen) → علمه البين (Und lehrte ihn den Ausdruck). Die Reihenfolge ist auffällig: Das Lehren des Qurans kommt VOR der Erschaffung des Menschen. Das kann keine Übersetzung transportieren — man muss es direkt im Arabischen sehen.",
                 "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=55&verse=1"
@@ -1926,7 +1926,7 @@
                 "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=286"
               },
               {
-                "ref": "93:1–5",
+                "ref": "93:1-5",
                 "arabic": "والضحى والليل اذا سجى ما ودعك ربك وما قلى ولللاخره خير لك من الاولى ولسوف يعطيك ربك فترضى",
                 "explanation": "Sure aḍ-Ḍuḥā. Direktes Verstehen erfasst die emotionale Architektur: (1) Der Schwur beim Morgenlicht und der stillen Nacht — Gegensätze, die Geborgenheit erzeugen. (2) Die Verneinung ما ودعك (Er hat dich nicht verlassen) — der Trost kommt als Negation der Angst. (3) Die Steigerung: Nicht-Verlassen → das Spätere (الْآخِرَة — wörtl. das Spätere/Letzte, konventionell 'Jenseits') ist besser → Er wird dir geben, bis du zufrieden bist (فترضى). (4) Der Rhythmus: Kurze Verse, Reimendung auf ā — wie ein beruhigender Atem. All diese Ebenen gleichzeitig wahrzunehmen, ohne eine davon ins Deutsche übersetzen zu müssen — das ist direktes Verstehen.",
                 "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=93&verse=1"
@@ -2065,7 +2065,7 @@
           },
           {
             "type": "identification",
-            "question": "In 55:1–4 (الرحمن علم القران خلق الانسن علمه البين) — welche Reihenfolge wählt der Quran, und warum ist das für direktes Verstehen bedeutsam?",
+            "question": "In 55:1-4 (الرحمن علم القران خلق الانسن علمه البين) — welche Reihenfolge wählt der Quran, und warum ist das für direktes Verstehen bedeutsam?",
             "options": [
               "Erst Erschaffung des Menschen, dann Lehren des Qurans — die natürliche Reihenfolge",
               "Erst Lehren des Qurans (علم القران), dann Erschaffung des Menschen (خلق الانسن) — das Lehren kommt vor der Erschaffung, was keine Übersetzung transportieren kann",

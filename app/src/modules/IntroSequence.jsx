@@ -31,8 +31,10 @@ const STEPS = [
           in der Art wie es verwendet wird — über den gesamten Text hinweg.
         </p>
         <p>
-          Der Quran enthält ca. 77.000 Wörter, abgeleitet von ca. 1.800 einzigartigen
-          Wurzeln. Die 300 häufigsten Wurzeln decken über 80% des Textes ab.
+          Der Quran enthält ca. 77.000 Wörter, abgeleitet von ca. 1.640 einzigartigen
+          Wurzeln. Die 50 häufigsten Wurzeln decken bereits knapp 30% aller Wörter ab —
+          zusammen mit den Funktionswörtern (Partikeln, Pronomen) ergibt sich schnell
+          ein hoher Abdeckungsgrad.
           Das ist ein geschlossener Textkorpus. <strong>Das Ziel ist erreichbar.</strong>{' '}
           <span style={{ fontSize: '0.8em', color: 'var(--text-muted)' }}>(Datengrundlage: Quranic Arabic Corpus, corpus.quran.com)</span>
         </p>

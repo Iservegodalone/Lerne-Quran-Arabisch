@@ -59,17 +59,17 @@
       "verse": {
         "surah": 2,
         "ayah": 3,
-        "text": "الذين يومنون بالغيب ويقيمون الصلوه ومما رزقنهم ينفقون",
+        "text": "الذين يومنون بالغيب ويقيمون الصلوه ومما رزقناهم ينفقون",
         "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=3"
       },
-      "question": "Im Satzteil ومما رزقنهم ينفقون — welches Element wurde vorangestellt und was bewirkt das?",
+      "question": "Im Satzteil ومما رزقناهم ينفقون — welches Element wurde vorangestellt und was bewirkt das?",
       "correctAnswer": {
         "wordIndices": [
           0,
           1
         ],
-        "word": "مما رزقنهم",
-        "explanation": "Die Präpositionalphrase مما رزقنهم (von dem, was Wir ihnen gaben) wurde dem Verb ينفقون (sie geben aus) vorangestellt. Normalstellung wäre: ينفقون مما رزقنهم. Die Voranstellung betont die Quelle des Ausgebens — es ist das, was ihnen gegeben wurde, also kein eigener Verdienst.",
+        "word": "مما رزقناهم",
+        "explanation": "Die Präpositionalphrase مما رزقناهم (von dem, was Wir ihnen gaben) wurde dem Verb ينفقون (sie geben aus) vorangestellt. Normalstellung wäre: ينفقون مما رزقناهم. Die Voranstellung betont die Quelle des Ausgebens — es ist das, was ihnen gegeben wurde, also kein eigener Verdienst.",
         "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=3"
       },
       "difficulty": 2,
@@ -738,11 +738,11 @@
         "text": "فصبر جميل",
         "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=12&verse=18"
       },
-      "question": "Dieser Ausdruck ist ein vollständiger Satz mit Ellipse. Welches Element wurde ausgelassen?",
+      "question": "Analysiere die syntaktische Struktur von فصبر جميل.",
       "correctAnswer": {
-        "wordIndices": [],
-        "word": "(ausgelassenes Mubtada oder Khabar)",
-        "explanation": "Es liegt eine Ellipse vor. Zwei Analysen sind möglich: (1) صبر جميل ist Khabar, das Mubtada صبرى (mein Ausharren) ist ausgelassen: mein Ausharren ist ein schönes Ausharren. (2) صبر جميل ist Mubtada, das Khabar (z.B. اجمل — ist am besten) ist ausgelassen. Die erste Analyse ist verbreiteter: Schönes Gedulden (ist mein Weg).",
+        "wordIndices": [0, 1],
+        "word": "صبر جميل",
+        "explanation": "صبر (Mubtada, Nominativ) + جميل (Sifa/Khabar, Nominativ): 'ein schönes Gedulden'. Der Satz ist syntaktisch komplett als Nominalsatz — صبر ist das Mubtada und جميل das Khabar. Es ist kein implizites Element syntaktisch notwendig.",
         "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=12&verse=18"
       },
       "difficulty": 2,
@@ -758,11 +758,11 @@
         "text": "فمن كان منكم مريضا او على سفر فعده من ايام اخر",
         "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=184"
       },
-      "question": "Im Satzteil فعده من ايام اخر — welches Element wurde ausgelassen?",
+      "question": "Im Satzteil فعده من ايام اخر — bestimme Mubtada und Khabar.",
       "correctAnswer": {
-        "wordIndices": [],
-        "word": "(ausgelassenes Khabar: فعليه عده)",
-        "explanation": "Es liegt eine Ellipse des Khabar-Prädikats vor. Vollständig: فعليه عده من ايام اخر — dann obliegt ihm eine Anzahl (von Tagen) aus anderen Tagen. Das عليه (auf ihm / ihm obliegt) wurde ausgelassen. عده ist das Mubtada, und das Khabar (die Verpflichtung) ist impliziert.",
+        "wordIndices": [0, 1],
+        "word": "عده (Mubtada) / من ايام اخر (Khabar)",
+        "explanation": "عده ist das Mubtada (Nominativ): 'eine Anzahl'. من ايام اخر ist das Khabar (Präpositionalphrase): 'aus anderen Tagen'. Der Satz ist syntaktisch komplett: 'dann (gilt) eine Anzahl aus anderen Tagen.' Die Präpositionalphrase من ايام اخر fungiert als Khabar — kein implizites Element ist syntaktisch notwendig.",
         "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=184"
       },
       "difficulty": 2,
@@ -771,18 +771,18 @@
     {
       "id": "syn_153",
       "type": "find_element",
-      "category": "ellipsis",
+      "category": "pronoun_reference",
       "verse": {
         "surah": 111,
         "ayah": 1,
         "text": "تبت يدا ابى لهب وتب",
         "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=111&verse=1"
       },
-      "question": "Im letzten Wort وتب — welches Element wurde ausgelassen?",
+      "question": "Im letzten Wort وتب — wie wird das Subjekt ausgedrückt?",
       "correctAnswer": {
-        "wordIndices": [],
-        "word": "(ausgelassenes Fa'il: هو)",
-        "explanation": "Das Fa'il von تب (zugrunde ging) ist ein verstecktes Pronomen هو (er), das sich auf ابى لهب bezieht. Streng genommen ist dies kein Fall von Ellipse, sondern ein im Verb eingebettetes Pronomen (ضمير مستتر). Die Wiederholung des Verbs (تبت ... وتب) verstärkt die Aussage.",
+        "wordIndices": [4],
+        "word": "تب",
+        "explanation": "Das Fa'il von تب (zugrunde ging) ist ein im Verb eingebettetes Pronomen (ضمير مستتر — هو), das sich auf ابى لهب bezieht. Dies ist KEINE Ellipse, sondern Standard-Morphologie: Jedes finite Verb der 3. Person Singular enthält sein Subjekt als verdecktes Pronomen. Die Wiederholung des Verbs (تبت ... وتب) verstärkt die Aussage.",
         "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=111&verse=1"
       },
       "difficulty": 1,
@@ -791,18 +791,18 @@
     {
       "id": "syn_154",
       "type": "find_element",
-      "category": "ellipsis",
+      "category": "negation",
       "verse": {
         "surah": 38,
         "ayah": 3,
         "text": "كم اهلكنا من قبلهم من قرن فنادوا ولات حين مناص",
         "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=38&verse=3"
       },
-      "question": "Im Ausdruck ولات حين مناص — welches Element fehlt?",
+      "question": "Im Ausdruck ولات حين مناص — analysiere die Funktion von لات.",
       "correctAnswer": {
-        "wordIndices": [],
-        "word": "(ausgelassenes Khabar von لات: حينُ مناص ist Ism, Khabar ist ausgelassen)",
-        "explanation": "لات arbeitet wie ليس (es ist nicht). حين مناص (Zeit der Flucht) ist der Ism von لات. Das Khabar (z.B. لهم — für sie) ist ausgelassen. Vollständig: ولات حينُ مناصٍ لهم — und es war nicht die Zeit der Flucht für sie. Die Ellipse verschärft die Endgueltigkeit.",
+        "wordIndices": [4, 5],
+        "word": "ل��ت حين مناص",
+        "explanation": "لات ist eine Negationspartikel, die die Existenz von etwas verneint (ähnlich wie لا النافية للجنس). حين مناص (Zeit der Flucht) ist ihr Ism. Der Satz ist eine negative existentielle Aussage: 'und es war keine Zeit der Flucht.' Der Satz ist syntaktisch komplett — die Negation der Existenz von حين مناص bildet eine vollständige Prädikation.",
         "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=38&verse=3"
       },
       "difficulty": 3,
@@ -883,11 +883,11 @@
         "text": "فمن الناس من يقول ربنا اتنا فى الدنيا وما له فى الاخره من خلق",
         "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=200"
       },
-      "question": "Im Bittgebet ربنا اتنا فى الدنيا — was fehlt als Objekt von اتنا?",
+      "question": "Im Bittgebet ربنا اتنا فى الدنيا — welche syntaktische Struktur liegt vor?",
       "correctAnswer": {
-        "wordIndices": [],
-        "word": "(ausgelassenes zweites Maf'ul bihi — WAS Er geben soll)",
-        "explanation": "Das Verb اتنا (gib uns) verlangt ein zweites Objekt: Was soll gegeben werden? Dieses ist ausgelassen — sie sagen nur 'gib uns im Diesseits', ohne zu spezifizieren was. Im Gegensatz zu 2:201, wo ausdrücklich حسنه (Gutes) genannt wird. Grammatisch liegt eine Ellipse des zweiten Maf'ul bihi vor.",
+        "wordIndices": [0, 1, 2],
+        "word": "ربنا (Munada) / اتنا (Verb + Maf'ul bihi) / فى الدنيا (Jarr wa-Majrur)",
+        "explanation": "ربنا = Vokativ (Munada, Akkusativ). اتنا = Verb (Imperativ) + نَا (Maf'ul bihi, 1. Objekt). فى الدنيا = Jarr wa-Majrur (adverbiale Bestimmung). Das Verb آتى nimmt hier ein Objekt (uns) und eine adverbiale Bestimmung (im Diesseits). Der Satz ist syntaktisch so vollständig wie er dasteht — was genau gegeben werden soll, wird nicht spezifiziert. Zum Vergleich: In 2:201 wird حسنه (Gutes) ausdrücklich genannt.",
         "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=200"
       },
       "difficulty": 3,
@@ -1049,7 +1049,7 @@
           0
         ],
         "word": "لوطا",
-        "explanation": "لوطا steht im Akkusativ als vorangestelltes Maf'ul bihi (Taqdim) oder als Maf'ul bihi eines ausgelassenen Verbs (z.B. اذكر لوطا — erwähne Lot). Das ه in ءاتينه ist dann ein resumptives Pronomen, das auf لوطا zurückverweist. Die Doppel-Objekt-Struktur: ءاتينه (WEM: ihm=Lot) حكما وعلما (WAS: Urteil und Wissen).",
+        "explanation": "لوطا steht im Akkusativ als vorangestelltes Maf'ul bihi (Taqdim). Das ه in ءاتينه ist ein resumptives Pronomen, das auf لوطا zurückverweist — es nimmt die Stelle des ersten Objekts ein, die لوطا durch die Voranstellung freigemacht hat. Die Doppel-Objekt-Struktur: ءاتينه (WEM: ihm=Lot) حكما وعلما (WAS: Urteil und Wissen). Der Akkusativ von لوطا erklärt sich durch die Rektion des folgenden Verbs via Resumptiv-Pronomen — kein implizites Verb notwendig.",
         "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=21&verse=74"
       },
       "difficulty": 3,
@@ -1215,7 +1215,7 @@
       "verse": {
         "surah": 2,
         "ayah": 3,
-        "text": "الذين يومنون بالغيب ويقيمون الصلوه ومما رزقنهم ينفقون",
+        "text": "الذين يومنون بالغيب ويقيمون الصلوه ومما رزقناهم ينفقون",
         "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=3"
       },
       "question": "Identifiziere die drei koordinierten Verbalsätze innerhalb des Relativsatzes.",
@@ -1230,8 +1230,8 @@
           6,
           7
         ],
-        "word": "يومنون بالغيب | يقيمون الصلوه | مما رزقنهم ينفقون",
-        "explanation": "Der Relativsatz (eingeleitet durch الذين) enthält drei koordinierte Verbalsätze: (1) يومنون بالغيب — sie glauben an das Verborgene. (2) ويقيمون الصلوه — und sie verrichten die Zuwendung. (3) ومما رزقنهم ينفقون — und von dem, was Wir ihnen gaben, geben sie aus. Alle drei beschreiben Eigenschaften derselben Gruppe.",
+        "word": "يومنون بالغيب | يقيمون الصلوه | مما رزقناهم ينفقون",
+        "explanation": "Der Relativsatz (eingeleitet durch الذين) enthält drei koordinierte Verbalsätze: (1) يومنون بالغيب — sie glauben an das Verborgene. (2) ويقيمون الصلوه — und sie verrichten die Zuwendung. (3) ومما رزقناهم ينفقون — und von dem, was Wir ihnen gaben, geben sie aus. Alle drei beschreiben Eigenschaften derselben Gruppe.",
         "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=3"
       },
       "difficulty": 2,

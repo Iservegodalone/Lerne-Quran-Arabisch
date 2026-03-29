@@ -83,6 +83,7 @@
       "function": "Drückt zeitliche Abfolge mit Verzögerung aus",
       "category": "conjunction",
       "grammaticalEffect": "none",
+      "rektion": "Koordinierend — das folgende Element übernimmt den Kasus des vorhergehenden (wie وَ und فَ)",
       "quranExample": {
         "surah": 2,
         "ayah": 28,
@@ -301,8 +302,8 @@
       "consonantal": "عند",
       "transliteration": "'inda",
       "german": "bei; in der Nähe von",
-      "function": "Adverbiale Präposition der Nähe (Zarf)",
-      "category": "preposition",
+      "function": "Zarf Makan — Ortsangabe der Nähe. Nimmt das Folgenomen im Genitiv (Idafa). Technisch ein Ism (Nomen), kein Harf.",
+      "category": "adverb_of_place_time",
       "grammaticalEffect": "genitive",
       "quranExample": {
         "surah": 2,
@@ -318,8 +319,8 @@
       "consonantal": "بين",
       "transliteration": "bayna",
       "german": "zwischen",
-      "function": "Adverbiale Präposition der Lage zwischen zwei Dingen (Zarf)",
-      "category": "preposition",
+      "function": "Zarf Makan — Ortsangabe der Lage zwischen zwei Dingen. Nimmt das Folgenomen im Genitiv (Idafa). Technisch ein Ism (Nomen), kein Harf.",
+      "category": "adverb_of_place_time",
       "grammaticalEffect": "genitive",
       "quranExample": {
         "surah": 2,
