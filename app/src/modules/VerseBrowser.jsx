@@ -50,7 +50,7 @@ const POS_DE = {
   DET:  'Artikel (ال)',
   COND: 'Konditionalkonstituente',
   VOC:  'Vokativpartikel (يا)',
-  ACC:  'Verstärkungspartikel',
+  ACC:  'Akkusativpartikel',
   RES:  'Ausnahmepartikel (إلا)',
   ANS:  'Antwortpartikel',
   FUT:  'Futurpartikel (س/سوف)',
@@ -99,8 +99,8 @@ function decodeMorphology(pos, m) {
   if (formMatch) result.push({ label: 'Verbform', value: `Form ${formMatch[1]}` })
 
   // Tense / aspect
-  if (features.includes('PERF')) result.push({ label: 'Tempus', value: 'Perfekt' })
-  else if (features.includes('IMPF')) result.push({ label: 'Tempus', value: 'Imperfekt' })
+  if (features.includes('PERF')) result.push({ label: 'Aspekt', value: 'Perfekt' })
+  else if (features.includes('IMPF')) result.push({ label: 'Aspekt', value: 'Imperfekt' })
   else if (features.includes('IMPV')) result.push({ label: 'Modus', value: 'Imperativ' })
 
   // Voice
@@ -135,7 +135,7 @@ function decodeMorphology(pos, m) {
 
   // Definiteness
   if (features.includes('DEF'))   result.push({ label: 'Definitheit', value: 'Definit' })
-  if (features.includes('INDEF')) result.push({ label: 'Definitheit', value: 'Indefinit (Tanwīn)' })
+  if (features.includes('INDEF')) result.push({ label: 'Definitheit', value: 'Indefinit' })
 
   // Special nominal types
   if (features.includes('PCPL')) {

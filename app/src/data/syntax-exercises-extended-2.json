@@ -1141,7 +1141,7 @@
       "verse": {
         "surah": 67,
         "ayah": 1,
-        "text": "تبرك الذى بيده الملك وهو على كل شى قدير",
+        "text": "تبارك الذى بيده الملك وهو على كل شى قدير",
         "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=67&verse=1"
       },
       "question": "Wo liegt die Hauptsatzgrenze in diesem Vers?",
@@ -1150,7 +1150,7 @@
           2
         ],
         "word": "Grenze vor وهو",
-        "explanation": "Die Hauptsatzgrenze liegt vor وهو. (1) تبرك الذى بيده الملك — Verbalsatz: Gesegnet ist der, in dessen Hand die Herrschaft liegt. Darin ist بيده الملك ein Relativsatz (Nominalsatz: الملك Mubtada, بيده Khabar). (2) وهو على كل شى قدير — neuer Nominalsatz, mit و eingeleitet: Und Er ist über alles mächtig.",
+        "explanation": "Die Hauptsatzgrenze liegt vor وهو. (1) تبارك الذى بيده الملك — Verbalsatz: Gesegnet ist der, in dessen Hand die Herrschaft liegt. Darin ist بيده الملك ein Relativsatz (Nominalsatz: الملك Mubtada, بيده Khabar). (2) وهو على كل شى قدير — neuer Nominalsatz, mit و eingeleitet: Und Er ist über alles mächtig.",
         "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=67&verse=1"
       },
       "difficulty": 1,
@@ -1774,7 +1774,7 @@
       "verse": {
         "surah": 67,
         "ayah": 1,
-        "text": "تبرك الذى بيده الملك",
+        "text": "تبارك الذى بيده الملك",
         "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=67&verse=1"
       },
       "question": "Im Relativsatz بيده الملك — welcher Khabar-Typ liegt vor? (Mubtada: الملك)",
@@ -2334,14 +2334,14 @@
       "verse": {
         "surah": 67,
         "ayah": 1,
-        "text": "تبرك الذى بيده الملك وهو على كل شى قدير",
+        "text": "تبارك الذى بيده الملك وهو على كل شى قدير",
         "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=67&verse=1"
       },
       "question": "Analysiere die syntaktische Funktion jedes Wortes.",
       "correctAnswer": {
         "analysis": [
           {
-            "word": "تبرك",
+            "word": "تبارك",
             "role": "fi'l madi",
             "case": "-",
             "explanation": "Verb im Perfekt, 3. Person maskulin Singular: Gesegnet ist / Erhaben ist. Das Fa'il ist der folgende Relativsatz الذى...",
@@ -2351,7 +2351,7 @@
             "word": "الذى",
             "role": "fa'il (ism mawsul)",
             "case": "nominative",
-            "explanation": "Relativpronomen als Fa'il von تبرك: derjenige, der. Nominativ.",
+            "explanation": "Relativpronomen als Fa'il von تبارك: derjenige, der. Nominativ.",
             "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=67&verse=1"
           },
           {
@@ -2477,7 +2477,7 @@
       "verse": {
         "surah": 12,
         "ayah": 2,
-        "text": "انا انزلنه قرنا عربيا لعلكم تعقلون",
+        "text": "انا انزلنه قرانا عربيا لعلكم تعقلون",
         "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=12&verse=2"
       },
       "question": "Analysiere die syntaktische Funktion jedes Wortes.",
@@ -2498,7 +2498,7 @@
             "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=12&verse=2"
           },
           {
-            "word": "قرنا",
+            "word": "قرانا",
             "role": "hal",
             "case": "accusative",
             "explanation": "Hal (Zustandsakkusativ): als einen Vortrag / in der Form eines Vortrags. Beschreibt den Zustand des Objekts bei der Herabsendung.",
@@ -2508,7 +2508,7 @@
             "word": "عربيا",
             "role": "sifa",
             "case": "accusative",
-            "explanation": "Sifa (Attribut) zu قرنا: einen arabischen (Vortrag). Kongruent: maskulin Singular, indefinit, Akkusativ.",
+            "explanation": "Sifa (Attribut) zu قرانا: einen arabischen (Vortrag). Kongruent: maskulin Singular, indefinit, Akkusativ.",
             "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=12&verse=2"
           },
           {

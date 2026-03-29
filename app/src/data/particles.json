@@ -390,7 +390,8 @@
       "function": "Präposition der Zeitdauer",
       "category": "preposition",
       "grammaticalEffect": "genitive",
-      "notes": "مُنْذُ kommt im Quran nicht vor. Der Quran verwendet stattdessen مِنْ mit temporaler Bedeutung (z.B. مِنْ قَبْلُ 'von vorher/seit') oder andere Zeitkonstruktionen. مُنْذُ ist jedoch eine wichtige Partikel des klassischen Arabisch.",
+      "quranic": false,
+      "notes": "Nicht im Quran belegt — ergaenzend fuer das Gesamtbild der arabischen Partikeln aufgefuehrt. Der Quran verwendet stattdessen مِنْ mit temporaler Bedeutung (z.B. مِنْ قَبْلُ 'von vorher/seit') oder andere Zeitkonstruktionen.",
       "quranExample": null
     },
     {
@@ -1058,7 +1059,8 @@
       "function": "Verallgemeinerndes Modalpronomen; bedingt den Jussiv (umstritten)",
       "category": "generalized_relative",
       "grammaticalEffect": "jussive",
-      "notes": "Im Quran nicht belegt. Die Basisform كَيْفَ (kayfa, 'wie') kommt im Quran vor (z.B. 2:28), aber die erweiterte Form كَيْفَمَا mit Jussiv-Rektion ist im Qurantext nicht nachweisbar.",
+      "quranic": false,
+      "notes": "Nicht im Quran belegt — ergaenzend fuer das Gesamtbild der arabischen Partikeln aufgefuehrt. Die Basisform كَيْفَ (kayfa, 'wie') kommt im Quran vor (z.B. 2:28), aber die erweiterte Form كَيْفَمَا mit Jussiv-Rektion ist im Qurantext nicht nachweisbar.",
       "quranExample": {
         "surah": 2,
         "ayah": 28,
@@ -1082,7 +1084,8 @@
         "snippet": "لَوْلَا إِذْ سَمِعْتُمُوهُ — (Beispiel zeigt لَوْلَا im Tahḍīḍ-Gebrauch; هَلَّا selbst ist im Quran nicht belegt)",
         "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=24&verse=12"
       },
-      "notes": "هَلَّا ist im Quran nicht belegt. Im Quran übernimmt لَوْلَا (lawlā) die Tahḍīḍ-Funktion (z.B. 24:12).",
+      "quranic": false,
+      "notes": "Nicht im Quran belegt — ergaenzend fuer das Gesamtbild der arabischen Partikeln aufgefuehrt. Im Quran uebernimmt لَوْلَا (lawlā) die Tahḍīḍ-Funktion (z.B. 24:12).",
       "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=24&verse=12"
     },
     {
@@ -1228,9 +1231,10 @@
       "transliteration": "qul",
       "german": "sprich! sag!",
       "function": "Imperativform von qāla (sagen); streng genommen ein Verb, aber funktional wie eine Diskurspartikel im Quran",
-      "category": "emphatic",
+      "category": "discourse_marker",
       "grammaticalEffect": "none",
-      "notes": "Technisch ein Verb (Imperativ von قال), aber im Quran funktional wie ein Diskursmarker verwendet: leitet berichtete Rede ein, die dem Sprecher des Textes zugeschrieben wird. Kommt ca. 332 Mal im Quran vor.",
+      "isVerb": true,
+      "notes": "Kein Partikel (حَرْف) im engeren Sinne, sondern Imperativ des Verbs قال. Hier als diskursstrukturierendes Element aufgefuehrt, da es im Quran funktional wie ein Diskursmarker verwendet wird: leitet berichtete Rede ein. Kommt ca. 332 Mal im Quran vor.",
       "quranExample": {
         "surah": 112,
         "ayah": 1,
@@ -1285,7 +1289,8 @@
       "category": "negation",
       "grammaticalEffect": "nominative_accusative",
       "rektion": "Subjekt (اسم لَيْسَ) im Nominativ, Prädikat (خبر لَيْسَ) im Akkusativ. Funktioniert syntaktisch wie كَانَ und ihre Schwestern (كَانَ وَأَخَوَاتُهَا), obwohl لَيْسَ morphologisch ein defektives Verb (Perfektform ohne Imperfekt) ist.",
-      "notes": "لَيْسَ ist morphologisch ein Verb (defektiv: nur Perfektformen, kein reguläres Imperfekt), funktioniert aber syntaktisch wie كَانَ und ihre Schwestern (Subjekt im Nominativ, Prädikat im Akkusativ). Es negiert die Gegenwart oder einen allgemeinen Zustand.",
+      "isVerb": true,
+      "notes": "Morphologisch ein Verb (defektiv: nur Perfektformen, kein regulaeres Imperfekt), syntaktisch wie كَانَ und ihre Schwestern. Hier funktional unter Negation aufgefuehrt. Es negiert die Gegenwart oder einen allgemeinen Zustand.",
       "quranExample": {
         "surah": 2,
         "ayah": 177,

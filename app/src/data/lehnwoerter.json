@@ -2,7 +2,7 @@
   "meta": {
     "title": "Lehnwoerter im quranischen Arabisch",
     "description": "Sprachwissenschaftlich anerkannte Lehnwoerter mit Herkunftssprache, Etymologie und quranischer Verwendung.",
-    "totalEntries": 77,
+    "totalEntries": 76,
     "note": "Basierend auf vergleichender semitischer Sprachwissenschaft und historischer Linguistik. Zuordnungen folgen dem aktuellen Stand der Etymologieforschung; bei strittigen Fällen ist dies vermerkt.",
     "sources": [
       {
@@ -75,7 +75,7 @@
         "67:22"
       ],
       "frequency": 45,
-      "category": "griechisch",
+      "category": "lateinisch",
       "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=6"
     },
     {
@@ -85,9 +85,9 @@
       "transliteration": "qisṭās",
       "meaning": "Waage, gerechte Waage",
       "sourceLanguage": "griechisch",
-      "sourceWord": "ξεστής / κίστα",
-      "sourceTransliteration": "xestēs / kista",
-      "etymologicalNote": "Wahrscheinlich aus griechisch entlehnt, wobei die genaue Quellform umstritten ist. Manche Forscher verbinden es mit lateinisch sextarius (Masseinheit), andere mit griechisch κίστα (Behälter) oder σταθμός (Waage). Die emphatischen Konsonanten zeigen arabische Lautadaption.",
+      "sourceWord": "lat. sextarius / gr. κόσταξ",
+      "sourceTransliteration": "sextarius / kostax",
+      "etymologicalNote": "Genaue Herkunft umstritten. Nach Jeffery und Fraenkel am ehesten aus lateinisch sextarius (Masseinheit) oder griechisch κόσταξ (Waage). Die emphatischen Konsonanten zeigen arabische Lautadaption.",
       "quranicLocations": [
         "17:35",
         "26:182"
@@ -292,11 +292,11 @@
       "consonantal": "سرابيل",
       "root": "—",
       "transliteration": "sarābīl",
-      "meaning": "Kleider, Hemden, Gewandung",
+      "meaning": "Oberbekleidung, Hemden, Panzergewandung",
       "sourceLanguage": "persisch",
-      "sourceWord": "شلوار / سراویل",
-      "sourceTransliteration": "šalwār / sarāwīl",
-      "etymologicalNote": "Aus dem Persischen sarāwīl (Beinkleider, Hosen), das seinerseits möglicherweise auf eine noch ältere Quelle zurückgeht. Im Arabischen hat sich die Bedeutung zu allgemeiner Bekleidung erweitert. Im Quran in zwei verschiedenen Kontexten: Schutzbekleidung im Krieg und Gartengewandung.",
+      "sourceWord": "—",
+      "sourceTransliteration": "—",
+      "etymologicalNote": "Wahrscheinlich persischen Ursprungs, genaue Quellform ungeklaert. NICHT identisch mit sarāwīl (سراويل, Hosen/Beinkleider) — sarābīl bezeichnet Oberbekleidung und Hemden. Im Quran in zwei Kontexten: Panzergewandung im Krieg (16:81) und Gewandung allgemein (14:50).",
       "quranicLocations": [
         "14:50",
         "16:81"
@@ -311,10 +311,10 @@
       "root": "—",
       "transliteration": "yāqūt",
       "meaning": "Rubin, Edelstein",
-      "sourceLanguage": "persisch",
-      "sourceWord": "یاکند",
-      "sourceTransliteration": "yākand",
-      "etymologicalNote": "Aus dem Persischen yākand (Rubin, Hyazinth), letztlich wohl verwandt mit griechisch ὑάκινθος (hyakinthos). Ein Wanderwort des Edelsteinhandels, das über verschiedene Vermittlungsstufen ins Arabische gelangte.",
+      "sourceLanguage": "griechisch",
+      "sourceWord": "ὑάκινθος (hyakinthos)",
+      "sourceTransliteration": "hyakinthos",
+      "etymologicalNote": "Letztlich aus griechisch ὑάκινθος (Hyazinth, ein Edelstein), ueber syrisch-aramaeische Vermittlung ins Arabische gelangt. Die persische Form yākand ist ein Parallelreflex desselben griechischen Quellworts, nicht die direkte Quelle.",
       "quranicLocations": [
         "55:58"
       ],
@@ -463,7 +463,7 @@
       "sourceLanguage": "syrisch-aramäisch",
       "sourceWord": "ܡܰܠܟܽܘܬ݂ܳܐ",
       "sourceTransliteration": "malkūtā",
-      "etymologicalNote": "Das Bildungsmuster -ūt ist kein genuines arabisches Morphem, sondern aus dem Aramäischen entlehnt. In Syrisch-Aramäisch ist malkūtā das Standardwort für Königreich (vgl. neutestamentlich: Königreich Gottes). Die arabische Wurzel m-l-k existiert zwar, aber die Derivation auf -ūt folgt aramäischem Wortbildungsmuster.",
+      "etymologicalNote": "Lehnwortstatus umstritten — die Wurzel m-l-k ist gemeinsemitisch. Das Bildungsmuster -ūt ist kein genuines arabisches Morphem, sondern aus dem Aramäischen entlehnt. In Syrisch-Aramäisch ist malkūtā das Standardwort für Königreich. Die arabische Wurzel m-l-k existiert, aber die Derivation auf -ūt folgt aramäischem Wortbildungsmuster. Moeglicherweise nur morphologischer Einfluss, keine vollstaendige Entlehnung.",
       "quranicLocations": [
         "6:75",
         "7:185",
@@ -822,7 +822,7 @@
       "sourceLanguage": "syrisch-aramäisch",
       "sourceWord": "—",
       "sourceTransliteration": "manhāgā",
-      "etymologicalNote": "Die Wurzel n-h-j ist im Arabischen vorhanden, aber die spezifische Bildung minhāj als 'vorgezeichneter Weg, Methode' zeigt syrisch-aramäischen Einfluss auf das religioese und rechtliche Vokabular.",
+      "etymologicalNote": "Lehnwortstatus umstritten — die Wurzel n-h-j ist im Arabischen vorhanden und die Form minhāj folgt dem regulaeren arabischen mif'āl-Muster. Moeglicherweise nur semantischer Einfluss aus dem syrisch-aramaeischen religioesen und rechtlichen Vokabular, keine direkte Entlehnung.",
       "quranicLocations": [
         "5:48"
       ],
@@ -1384,7 +1384,7 @@
       "sourceLanguage": "syrisch-aramäisch",
       "sourceWord": "ܟܳܣܳܐ / כוס",
       "sourceTransliteration": "kāsā / kōs",
-      "etymologicalNote": "Verwandt mit hebräisch kōs und aramäisch kāsā (Becher). Die Wurzel ist gemeinsemitisch, aber die spezifische Verwendung für den Weinbecher im Gartenkontext zeigt den Einfluss des aramäischen und hebräischen literarischen Gebrauchs. Manche Forscher sehen auch griechischen Einfluss (κύαθος, kyathos).",
+      "etymologicalNote": "Lehnwortstatus umstritten — die Wurzel ist gemeinsemitisch. Verwandt mit hebräisch kōs und aramäisch kāsā (Becher). Die spezifische Verwendung fuer den Weinbecher im Gartenkontext zeigt moeglicherweise den Einfluss des aramaeischen und hebraeischen literarischen Gebrauchs. Moeglicherweise nur semantischer Einfluss, keine direkte Entlehnung.",
       "quranicLocations": [
         "37:45",
         "52:23",
@@ -1426,7 +1426,7 @@
       "sourceLanguage": "andere",
       "sourceWord": "—",
       "sourceTransliteration": "—",
-      "etymologicalNote": "Umstritten: Manche Linguisten sehen dies als genuein arabisch von der Wurzel ḥ-w-r (weiss sein). Andere verbinden es mit mittelpersisch hurīk (licht, strahlend) oder syrisch-aramäisch ḥewyārā (weiss). Die Luxenberg-These einer syrischen Herleitung als 'weisse Trauben' (ḥūr = ḥewwōr, 'Ins) ist linguistisch umstritten. Die arabische Wurzel ḥ-w-r existiert, die Fremdwort-Hypothese ist nicht gesichert.",
+      "etymologicalNote": "FREMDWORT-HYPOTHESE NICHT GESICHERT. Die arabische Wurzel ḥ-w-r (weiss sein) existiert und erklaert die Form vollstaendig. Manche Linguisten verbinden es mit mittelpersisch hurīk (licht, strahlend) oder syrisch-aramäisch ḥewyārā (weiss). Die Luxenberg-These einer syrischen Herleitung als 'weisse Trauben' ist linguistisch umstritten.",
       "quranicLocations": [
         "44:54",
         "52:20",
@@ -1533,7 +1533,7 @@
       "sourceLanguage": "akkadisch",
       "sourceWord": "ṭīdu / ṭīṭu",
       "sourceTransliteration": "ṭīdu",
-      "etymologicalNote": "Umstritten: Manche Linguisten sehen dies als genuein arabisch (gemeinsemitisch). Andere vermuten eine fruehe Entlehnung aus dem Sumerischen (im) über akkadisch ṭīdu (Lehm, Ton). Die weite Verbreitung in den semitischen Sprachen könnte auf gemeinsemitisches Erbe oder auf fruehe mesopotamische Kulturvermittlung deuten.",
+      "etymologicalNote": "Lehnwortstatus umstritten — die Wurzel ist gemeinsemitisch. Manche Linguisten vermuten eine fruehe Entlehnung aus dem Sumerischen (im) über akkadisch ṭīdu (Lehm, Ton). Die weite Verbreitung in den semitischen Sprachen koennte auf gemeinsemitisches Erbe deuten. Moeglicherweise kein Lehnwort, sondern gemeinsemitisches Erbwort.",
       "quranicLocations": [
         "6:2",
         "7:12",
@@ -1716,9 +1716,9 @@
       "transliteration": "salwā",
       "meaning": "Wachtel(n)",
       "sourceLanguage": "andere",
-      "sourceWord": "σελήνη / שְׂלָו",
-      "sourceTransliteration": "selēnē / śəlāv",
-      "etymologicalNote": "Umstritten: Manche Linguisten sehen dies als genuein arabisch von s-l-w (troesten, vergessen). Andere verbinden es mit hebräisch śəlāv (Wachtel, in Exodus 16:13 und Numeri 11:31-32). Eine griechische Herleitung von σελήνη ist weniger wahrscheinlich. Die Verbindung mit dem hebräischen Exodus-Kontext legt semitische Vermittlung nahe.",
+      "sourceWord": "שְׂלָו",
+      "sourceTransliteration": "śəlāv",
+      "etymologicalNote": "Umstritten: Manche Linguisten sehen dies als genuein arabisch von s-l-w (troesten, vergessen). Andere verbinden es mit hebräisch śəlāv (Wachtel, in Exodus 16:13 und Numeri 11:31-32). Die Verbindung mit dem hebräischen Exodus-Kontext legt semitische Vermittlung nahe.",
       "quranicLocations": [
         "2:57",
         "7:160",
@@ -1729,20 +1729,6 @@
       "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=57"
     },
     {
-      "arabic": "آمِين",
-      "consonantal": "امين",
-      "root": "—",
-      "transliteration": "āmīn",
-      "meaning": "Amen, so sei es",
-      "sourceLanguage": "hebräisch",
-      "sourceWord": "אָמֵן",
-      "sourceTransliteration": "'āmēn",
-      "etymologicalNote": "Aus hebräisch 'āmēn (wahrlich, so sei es), von der Wurzel '-m-n (fest sein, verlässlich sein). Ein liturgisches Lehnwort, das über juedische und christliche liturgische Praxis in die arabische Sprache kam. Im quranischen Rasm nicht geschrieben. Die arabische Wurzel '-m-n existiert mit verwandter Semantik (sicher sein, glauben).",
-      "quranicLocations": [],
-      "frequency": 0,
-      "category": "hebräisch"
-    },
-    {
       "arabic": "تَوْبَة",
       "consonantal": "توبة",
       "root": "ت-و-ب",
@@ -1751,7 +1737,7 @@
       "sourceLanguage": "syrisch-aramäisch",
       "sourceWord": "ܬܝܒܘܬܐ / תשובה",
       "sourceTransliteration": "tyāḇūtā / təšūḇā",
-      "etymologicalNote": "Umstritten: Manche Linguisten sehen dies als genuein arabisch von t-w-b (zurückkehren). Die Wurzel ist zwar gemeinsemitisch, aber die spezifische religioese Bedeutung 'Reue als Umkehr zu Gott' ist ein semantisches Lehnkonzept aus dem hebräisch-aramäischen Sprachraum (hebräisch təšūḇā, aramäisch tyāḇūtā). Die Frage ist, ob nur die Semantik oder auch die Form entlehnt ist.",
+      "etymologicalNote": "Lehnwortstatus umstritten — die Wurzel t-w-b (zurueckkehren) ist gemeinsemitisch und die Form tawba folgt regulaerem arabischem Wortbildungsmuster. Die spezifische religioese Bedeutung 'Reue als Umkehr' ist moeglicherweise ein semantisches Lehnkonzept aus dem hebraeisch-aramaeischen Sprachraum (hebraeisch təšūḇā, aramaeisch tyāḇūtā). Moeglicherweise nur semantischer Einfluss, keine direkte Entlehnung.",
       "quranicLocations": [
         "2:37",
         "2:54",

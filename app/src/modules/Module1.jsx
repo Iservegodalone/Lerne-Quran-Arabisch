@@ -517,8 +517,7 @@ function Lesson13({ onBack }) {
                 ))}
               </div>
               <p className="m1-detail-small">
-                14 Buchstaben. Merkhilfe: Alle Buchstaben die mit der Zungenspitze oder
-                dem vorderen Zungenruecken artikuliert werden.
+                14 Buchstaben. Merkhilfe: Alle koronalen Konsonanten (Zungenspitze und Zungenblatt am Zahndamm oder dahinter) sind Sonnenbuchstaben — das Lam des Artikels assimiliert sich an diese.
               </p>
             </div>
             <div className="m1-moon-box">

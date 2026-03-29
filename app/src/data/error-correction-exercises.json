@@ -435,7 +435,7 @@
       "wrong": "الْحَجُّ أَشْهُرٌ مَعْلُومَةٌ",
       "errorWord": "مَعْلُومَةٌ",
       "correctedWord": "مَعْلُومَاتٌ",
-      "explanation": "أَشْهُر ist ein gebrochener Plural von شَهْر (maskulin, Nicht-Person). Nach der Regel könnte Fem. Sg. stehen — ABER hier steht der gesunde Fem. Plural مَعْلُومَات, was ebenfalls korrekt ist. Der Fehler ist مَعْلُومَة (Singular), was nicht zum Plural أَشْهُر passt.",
+      "explanation": "Der Qurantext verwendet مَعْلُومَاتٌ (gesunder Fem. Plural). Grammatisch waere auch مَعْلُومَةٌ (Fem. Sg. bei nicht-rationalem gebrochenen Plural) korrekt — diese Uebung prueft die Texttreue zum tatsaechlichen Wortlaut, nicht eine Grammatikregel.",
       "errorType": "adjective_plural_agreement",
       "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=197"
     },
@@ -525,7 +525,7 @@
       "wrong": "وَلَا يَجِدُونَ فِي صُدُورِهِمْ حَاجَةً مِمَّا أُوتُوا وَيُؤْثِرُونَ عَلَىٰ أَنفُسِهِمْ وَلَوْ كَانَ بِهِمْ خَصَاصَةَ",
       "errorWord": "خَصَاصَةَ",
       "correctedWord": "خَصَاصَةٌ",
-      "explanation": "خَصَاصَةٌ ist Fa'il von كَانَ (existentielle Verwendung: auch wenn bei ihnen Mangel herrscht) und steht im Nominativ (Tanwin-Damma). Fatha wäre Akkusativ.",
+      "explanation": "خَصَاصَةٌ ist Ism كَانَ (existentielle Verwendung: auch wenn bei ihnen Mangel herrscht) und steht im Nominativ (Tanwin-Damma). Fatha waere Akkusativ.",
       "errorType": "fa'il_case",
       "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=59&verse=9"
     },

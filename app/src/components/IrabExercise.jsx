@@ -88,7 +88,7 @@ const INLINE_EXERCISES = [
     arabic: '\u0642\u064F\u0644\u0652 \u0647\u064F\u0648\u064E \u0627\u0644\u0644\u0651\u064E\u0647\u064F \u0623\u064E\u062D\u064E\u062F\u064C',
     words: [
       { word: '\u0642\u064F\u0644\u0652', role: "Fi'l (Verb)", case: 'Indeklinabel', explanation: 'Imperativ 2ms, Wurzel \u0642-\u0648-\u0644 (hohl)' },
-      { word: '\u0647\u064F\u0648\u064E', role: 'Mubtada', case: 'Indeklinabel', explanation: 'Pronomen 3ms als Thema oder Damir ash-Sha\u02BFn' },
+      { word: '\u0647\u064F\u0648\u064E', role: 'Mubtada', case: 'Indeklinabel', explanation: 'Pronomen 3ms — syntaktische Funktion umstritten: eigenstaendiges Mubtada\u02BC oder vorausweisend auf den folgenden Satz' },
       { word: '\u0627\u0644\u0644\u0651\u064E\u0647\u064F', role: 'Mubtada', case: 'Nominativ (Raf\')', explanation: 'Zweites Mubtada (oder Khabar zu \u0647\u064F\u0648\u064E). Damma' },
       { word: '\u0623\u064E\u062D\u064E\u062F\u064C', role: 'Khabar', case: 'Nominativ (Raf\')', explanation: 'Prädikat. Nominativ mit Tanwin' }
     ]
@@ -122,7 +122,7 @@ const INLINE_EXERCISES = [
       { word: '\u0644\u064E\u0627', role: 'Harf (Partikel)', case: 'Indeklinabel', explanation: '\u0644\u064E\u0627 \u0627\u0644\u0646\u0627\u0641\u064A\u0629 \u0644\u0644\u062C\u0646\u0633 — generische Negation' },
       { word: '\u0625\u0650\u0644\u064E\u0670\u0647\u064E', role: 'Ism inna', case: 'Akkusativ (Nasb)', explanation: 'Ism von \u0644\u064E\u0627 — Fatha ohne Tanwin (mabni)' },
       { word: '\u0625\u0650\u0644\u0651\u064E\u0627', role: 'Harf (Partikel)', case: 'Indeklinabel', explanation: 'Ausnahmepartikel' },
-      { word: '\u0647\u064F\u0648\u064E', role: 'Badal', case: 'Nominativ (Raf\')', explanation: 'Ersetzende Apposition (Badal) zum impliziten Khabar. Oder: Khabar' }
+      { word: '\u0647\u064F\u0648\u064E', role: 'Badal', case: 'Nominativ (Raf\')', explanation: 'Badal — syntaktische Ersetzung im Kontext des Nominalsatzes. Oder: Khabar' }
     ]
   },
   {
@@ -441,7 +441,7 @@ const INLINE_EXERCISES = [
       { word: '\u0645\u064E\u0627', role: 'Harf (Partikel)', case: 'Indeklinabel', explanation: 'Negationspartikel' },
       { word: '\u0641\u064E\u0639\u064E\u0644\u064F\u0648\u0647\u064F', role: "Fi'l (Verb)", case: 'Indeklinabel', explanation: 'Perfekt 3mp + Suffix \u0647\u064F als Objekt' },
       { word: '\u0625\u0650\u0644\u0651\u064E\u0627', role: 'Harf (Partikel)', case: 'Indeklinabel', explanation: 'Ausnahmepartikel' },
-      { word: '\u0642\u064E\u0644\u0650\u064A\u0644\u064C', role: 'Mustathna (Ausgenommenes)', case: 'Nominativ (Raf\')', explanation: 'Mustathna in negiertem Satz — Badal-Variante (Nominativ, wie das implizite Subjekt). Damma mit Tanwin' }
+      { word: '\u0642\u064E\u0644\u0650\u064A\u0644\u064C', role: 'Mustathna (Ausgenommenes)', case: 'Nominativ (Raf\')', explanation: 'Mustathna in negiertem Satz — Badal-Variante, Nominativ kongruent mit dem Subjekt des Satzes. Damma mit Tanwin' }
     ]
   },
   {
@@ -463,7 +463,7 @@ const INLINE_EXERCISES = [
       { word: '\u0644\u064E\u0627', role: 'Harf (Partikel)', case: 'Indeklinabel', explanation: 'Negationspartikel' },
       { word: '\u062A\u064E\u0639\u0652\u0628\u064F\u062F\u064F\u0648\u0646\u064E', role: "Fi'l (Verb)", case: 'Indeklinabel', explanation: 'Imperfekt 2mp, Indikativ (mit \u0648\u0646\u064E)' },
       { word: '\u0625\u0650\u0644\u0651\u064E\u0627', role: 'Harf (Partikel)', case: 'Indeklinabel', explanation: 'Ausnahmepartikel' },
-      { word: '\u0627\u0644\u0644\u0651\u064E\u0647\u064E', role: 'Mustathna (Ausgenommenes)', case: 'Akkusativ (Nasb)', explanation: 'Mustathna nach negiertem Satz. Akkusativ (als Badal des impliziten Objekts oder als eigentlichen Mustathna). Fatha' }
+      { word: '\u0627\u0644\u0644\u0651\u064E\u0647\u064E', role: 'Mustathna (Ausgenommenes)', case: 'Akkusativ (Nasb)', explanation: 'Mustathna nach negiertem Satz. Akkusativ als Mustathna (Ausnahme-Akkusativ). Fatha' }
     ]
   },
   {
@@ -603,7 +603,7 @@ const INLINE_EXERCISES = [
     arabic: '\u0623\u064F\u0648\u062D\u0650\u064A\u064E \u0625\u0650\u0644\u064E\u064A\u0651\u064E',
     words: [
       { word: '\u0623\u064F\u0648\u062D\u0650\u064A\u064E', role: "Fi'l (Verb)", case: 'Indeklinabel', explanation: 'Passiv Perfekt 3ms, Form IV, Wurzel \u0648-\u062D-\u064A' },
-      { word: '\u0625\u0650\u0644\u064E\u064A\u0651\u064E', role: 'Majrur', case: 'Genitiv (Jarr)', explanation: 'Präposition + Suffix \u064A\u064E (mir). Zu mir wurde offenbart (Na\u02BFib al-Fa\u02BFil ist hier der implizite Masdar-Satz)' }
+      { word: '\u0625\u0650\u0644\u064E\u064A\u0651\u064E', role: 'Majrur', case: 'Genitiv (Jarr)', explanation: 'Präposition + Suffix \u064A\u064E (mir). Jar-Majrur als Adverbiale zum passiven Verb' }
     ]
   }
 ]

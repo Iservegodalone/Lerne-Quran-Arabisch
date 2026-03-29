@@ -89,7 +89,7 @@ function hasInlineVerseRef(obj) {
  * Check if this object or any ancestor has a verifyUrl
  */
 function hasAnyUrl(obj) {
-  return !!(obj.verifyUrl || obj.corpusUrl || obj.externalUrl);
+  return !!(obj.verifyUrl || obj.corpusUrl || obj.externalUrl || obj.lanesUrl || obj.laneReference || obj.wrightUrl);
 }
 
 /**

@@ -193,7 +193,7 @@
       "ref": "3:49",
       "type": "seat",
       "answer": 3,
-      "explanation": "Sukun (Ya) vor Hamza, Fatha auf Hamza → Ya-Sitz (spezieller Fall nach Ya)",
+      "explanation": "Sukun (Ya) vor Hamza, Fatha auf Hamza → Ya-Sitz. Sonderregel: Nach Ya nimmt Hamza immer einen Ya-Sitz, unabhaengig von der Vokal-Hierarchie. Nach der Standardhierarchie wuerde Fatha (auf Hamza) > Sukun (auf Ya) einen Alif-Sitz ergeben — die Ya-Sonderregel ueberschreibt dies.",
       "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=49"
     },
     {
@@ -217,7 +217,7 @@
       "ref": "5:31",
       "type": "seat",
       "answer": 0,
-      "explanation": "Nach Waw mit Sukun, Fatha auf Hamza → auf der Zeile. Hinweis: Dies ist eine orthographische Besonderheit im utmanischen Rasm — nach den Standardregeln würde Fatha > Sukun einen Alif-Sitz ergeben, doch im Mushaf steht Hamza auf der Zeile nach Waw+Sukun.",
+      "explanation": "Nach Waw mit Sukun, Fatha auf Hamza → auf der Zeile. Hinweis: Dies ist eine orthographische Besonderheit im utmanischen Rasm — nach den Standardregeln würde Fatha > Sukun einen Alif-Sitz ergeben, doch im Mushaf steht Hamza auf der Zeile nach Waw+Sukun. Achtung: Im Uthmani-Rasm steht Hamza hier auf der Zeile. Nach den allgemeinen Regeln waere ein Alif-Sitz zu erwarten. Die Mushaf-Orthographie weicht hier von den Standardregeln ab.",
       "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=5&verse=31"
     },
     {

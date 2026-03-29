@@ -33,7 +33,7 @@ const ADVANCED_STAGES = [
   { stufe: 7, name: 'Rhetorische Struktur (Balagha)', desc: 'Chiasmus, Inklusion, Ringkomposition und andere rhetorische Figuren im Qurantext erkennen.' },
   { stufe: 8, name: 'Partikel-Sensitivität', desc: 'Feine Bedeutungsunterschiede zwischen ähnlichen Partikeln verstehen, kontextabhängige Funktionen erkennen.' },
   { stufe: 9, name: 'Phonosemantik', desc: 'Klang-Bedeutungs-Korrelationen in Wurzeln und Wörtern wahrnehmen, lautmalerische Muster erkennen.' },
-  { stufe: 10, name: 'Prosodie und Klang', desc: 'Rhythmische Muster, Reim, Sajc und klangliche Strukturen in Versen hören und analysieren.' },
+  { stufe: 10, name: 'Prosodie und Klang', desc: 'Rhythmische Muster, Reim, Saj' und klangliche Strukturen in Versen hören und analysieren.' },
   { stufe: 11, name: 'Pragmatik und Sprechakt', desc: 'Frage, Befehl, Schwur, Bedingung und andere Sprechakte im Qurantext identifizieren und ihre Wirkung verstehen.' },
   { stufe: 12, name: 'Direktes Verstehen', desc: 'Den arabischen Qurantext lesen und seinen Inhalt unmittelbar erfassen - ohne Übersetzung, ohne bewusste Analyse.' },
 ]

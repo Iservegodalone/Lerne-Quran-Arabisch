@@ -142,8 +142,8 @@
       "id": 7,
       "name": "Khāʾ",
       "transliteration": "kh",
-      "sound": "Stimmloser velarer Frikativ /x/ (konventionelle Transkription; phonetisch leicht weiter hinten als typisch velar) — annaehernd wie deutsches CH in 'Bach'",
-      "articulationPoint": "Hinterer Gaumen (velar; konventionelle Einordnung — phonetisch leicht weiter hinten)",
+      "sound": "Stimmloser uvularer Frikativ /x/ — annaehernd wie deutsches CH in 'Bach'",
+      "articulationPoint": "Zaepfchen (uvular)",
       "articulationDetail": "Der hintere Zungenrücken nähert sich dem Zäpfchen. Luft strömt mit Reibung durch. Ähnlich dem deutschen CH in 'Bach' oder 'Kuchen', aber etwas weiter hinten.",
       "forms": {
         "isolated": "خ",
@@ -394,8 +394,8 @@
       "id": 19,
       "name": "Ghayn",
       "transliteration": "gh",
-      "sound": "Stimmhafter velarer Frikativ /ɣ/ (konventionelle Transkription; phonetisch leicht weiter hinten als typisch velar) — wie französisches R in 'Paris'",
-      "articulationPoint": "Hinterer Gaumen (velar; konventionelle Einordnung — phonetisch leicht weiter hinten)",
+      "sound": "Stimmhafter uvularer Frikativ /ɣ/ — wie franzoesisches R in 'Paris'",
+      "articulationPoint": "Zaepfchen (uvular)",
       "articulationDetail": "Der hintere Zungenrücken nähert sich dem Zäpfchen, Luft strömt mit Reibung durch, und die Stimmbänder vibrieren. Ähnlich dem französischen R. NICHT verwechseln mit Khāʾ (خ) — Ghayn ist stimmhaft, Khāʾ ist stimmlos.",
       "forms": {
         "isolated": "غ",
@@ -563,7 +563,7 @@
       "name": "Wāw",
       "transliteration": "w / ū",
       "sound": "Stimmhafter labio-velarer Approximant oder Langvokal ū",
-      "articulationPoint": "Lippen (gerundet)",
+      "articulationPoint": "Lippen + hinterer Gaumen (labio-velar)",
       "articulationDetail": "Die Lippen werden gerundet. Als Konsonant wie englisches W. Als Langvokal wie langes U. Auch als Konjunktion 'und' (و) sehr häufig.",
       "forms": {
         "isolated": "و",
@@ -690,7 +690,7 @@
       "example": "هٰذَا",
       "sound": "langes ā (historisches Alif)",
       "position": "über dem Buchstaben",
-      "description": "Eine kleine aufrechte Alif über dem Buchstaben. Zeigt an, dass hier historisch ein Alif geschrieben wurde, das im uthmanischen Rasm durch dieses Zeichen ersetzt ist. Häufige Quran-Wörter mit Alif Khanjariyya: هٰذَا (hadha — dieser), رَحْمٰن (Rahman — der intensiv-Barmherzige), لٰكِن (lakin — aber), إِلٰه (ilah — Gott), ذٰلِك (dhalika — jener), سُبْحٰن (subhan — Lobpreis). In der Simple-Clean-Textdarstellung wird die Alif Khanjariyya oft als reguläres Alif geschrieben oder weggelassen."
+      "description": "Eine kleine aufrechte Alif ueber dem Buchstaben. Zeigt einen langen /aa/-Vokal an, der im Rasm nicht als volles Alif geschrieben wird. Die Khanjariyya wurde spaeter als Lesehilfe ergaenzt. Haeufige Quran-Woerter mit Alif Khanjariyya: هٰذَا (hadha — dieser), رَحْمٰن (Rahman), لٰكِن (lakin — aber), إِلٰه (ilah), ذٰلِك (dhalika — jener), سُبْحٰن (subhan). In der Simple-Clean-Textdarstellung wird die Alif Khanjariyya oft als regulaeres Alif geschrieben oder weggelassen."
     }
   ],
   "tashkilCombinations": [

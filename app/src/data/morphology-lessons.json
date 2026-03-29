@@ -473,7 +473,7 @@
               {
                 "form": "IV",
                 "arabic": "أَسْلَمَ",
-                "meaning": "er ergab sich / er unterwarf sich — Islām"
+                "meaning": "er uebergab / er ergab sich / er gab sich hin (Masdar: إِسْلَام)"
               },
               {
                 "form": "V",
@@ -1345,7 +1345,7 @@
           },
           {
             "type": "multiple_choice",
-            "prompt": "Welche Imperfektformen sind im Arabischen identisch und nur durch Kontext unterscheidbar?",
+            "prompt": "Nenne ein Paar von Imperfektformen, die im Arabischen identisch sind und nur durch Kontext unterscheidbar.",
             "options": [
               "3.f.du. (تَفْعَلَانِ) und 2.du. (تَفْعَلَانِ)",
               "3.m.sg. (يَفْعَلُ) und 3.f.sg. (تَفْعَلُ)",
@@ -1354,7 +1354,8 @@
             ],
             "answer": [
               "3.f.du. (تَفْعَلَانِ) und 2.du. (تَفْعَلَانِ)"
-            ]
+            ],
+            "note": "Auch 3.f.sg. (تَفْعَلُ) und 2.m.sg. (تَفْعَلُ) sind identisch — ein weiteres mehrdeutiges Paar."
           },
           {
             "type": "reverse",
@@ -2918,7 +2919,7 @@
                 "VIII",
                 "مُفْتَعِل",
                 "مُفْتَعَل",
-                "مُتَّقِينَ (sich Hütende, Pl.)"
+                "مُتَّقِينَ (sich Hütende, Pl. — Waw→Ta-Assimilation, s. Lektion 2.37)"
               ],
               [
                 "IX",
@@ -3237,7 +3238,7 @@
                 "fuʿūlah",
                 "أُبُوَّة",
                 "Vaterschaft",
-                "—"
+                "— (nicht im Quran belegt, ergaenzend aufgefuehrt)"
               ],
               [
                 "مَفْعِل",
@@ -4863,7 +4864,7 @@
             "answer": [
               "Der Einer-Teil hat umgekehrte Kongruenz, der Zehner-Teil kongruiert normal"
             ],
-            "explanation": "Bei 13–19: Der Einer (3–9) hat umgekehrte Kongruenz, عَشَرَ/عَشْرَةَ kongruiert normal. Das Gezählte steht im Akkusativ Singular."
+            "explanation": "Bei 13–19: Der Einer (3–9) hat umgekehrte Kongruenz, عَشَرَ/عَشْرَةَ kongruiert normal. ACHTUNG: 11 und 12 sind Ausnahmen — bei diesen kongruieren BEIDE Teile direkt mit dem Gezaehlten (keine umgekehrte Kongruenz). Das Gezaehlte steht im Akkusativ Singular."
           },
           {
             "type": "multiple_choice",
@@ -6455,9 +6456,9 @@
               ],
               [
                 "Zusätzliches Alif",
-                "لَا أَذْبَحَنَّهُوا",
-                "—",
-                "Alif nach Wāw"
+                "لَأَذْبَحَنَّهُۥٓ (27:21)",
+                "لَأَذْبَحَنَّهُ",
+                "Zusaetzliches Alif nach Waw am Wortende — orthographische Besonderheit des Rasm"
               ],
               [
                 "Fehlendes Alif",
@@ -7599,7 +7600,7 @@
                 "56:50"
               ],
               [
-                "فَعَالَة",
+                "فِعَالَة",
                 "تِجَارَة",
                 "ت-ج-ر",
                 "Handel",
@@ -8455,7 +8456,7 @@
                 "يَفْعِلُ",
                 "جَلَسَ / يَجْلِسُ",
                 "sitzen",
-                "implizit"
+                "nicht im Qurantext belegt"
               ],
               [
                 "a–a",

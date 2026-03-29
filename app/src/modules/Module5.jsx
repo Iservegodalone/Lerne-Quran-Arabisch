@@ -145,7 +145,7 @@ const ARABIC_LETTERS = [
   { letter: 'ا', name: 'Alif', sound: 'a / Vokalträger', transliteration: 'ā' },
   { letter: 'ب', name: 'Ba', sound: 'b', transliteration: 'b' },
   { letter: 'ت', name: 'Ta', sound: 't', transliteration: 't' },
-  { letter: 'ث', name: 'Tha', sound: 'th (engl.)', transliteration: 'ṯ' },
+  { letter: 'ث', name: 'Tha', sound: 'th (engl. think, stimmlos)', transliteration: 'ṯ' },
   { letter: 'ج', name: 'Dschim', sound: 'dsch', transliteration: 'ǧ' },
   { letter: 'ح', name: 'Ḥā (pharyngal)', sound: 'stimmloser Kehllaut', transliteration: 'ḥ' },
   { letter: 'خ', name: 'Cha', sound: 'ch (wie in Bach)', transliteration: 'ḫ' },
