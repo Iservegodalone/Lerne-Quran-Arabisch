@@ -12,8 +12,7 @@
       },
       {
         "label": "Quranic Arabic Corpus — Morphology Search",
-        "url": "https://corpus.quran.com/wordmorphology.jsp",
-        "verifyUrl": "https://corpus.quran.com/wordbyword.jsp"
+        "url": "https://corpus.quran.com/wordmorphology.jsp"
       },
       {
         "label": "Lane's Lexicon (Root Semantics)",
@@ -3442,6 +3441,7 @@
             "hint": "Präfix مُـ + Alif nach dem 1. Radikal + Kasra unter dem 2. Radikal = Form III aktives Partizip."
           },
           {
+            "type": "multiple_choice",
             "options": [
               "فَعْل",
               "فِعْل",
@@ -3453,6 +3453,7 @@
             "answer": "فِعْل"
           },
           {
+            "type": "multiple_choice",
             "options": [
               "Weil er immer gleich ist",
               "Weil es für Form I keine einheitliche Regel gibt — es existieren über ein Dutzend verschiedene Muster",

@@ -34,6 +34,18 @@
             "title": "Nisba-Adjektive im Quran",
             "examples": [
               {
+                "ref": "12:2",
+                "arabic": "إِنَّا أَنزَلْنَاهُ قُرْآنًا عَرَبِيًّا",
+                "explanation": "عَرَبِيّ — Nisba von عَرَب (Araber): 'arabisch'. Akkusativ (عَرَبِيًّا) als Attribut zu قُرْآنًا. Regulaere Nisba-Bildung: Stamm + ـِيّ.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=12&verse=2"
+              },
+              {
+                "ref": "7:157",
+                "arabic": "النَّبِيَّ الْأُمِّيَّ",
+                "explanation": "أُمِّيّ — Nisba, Etymologie umstritten: von أُمّ (Mutter, d.h. 'im Mutterzustand, unbelesen') oder von أُمَّة (Volk). Akkusativ (الْأُمِّيَّ) als Attribut zu النَّبِيَّ.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=7&verse=157"
+              },
+              {
                 "ref": "3:20",
                 "arabic": "وَالْأُمِّيِّينَ",
                 "explanation": "أُمِّيّ — von أُمَّة (Volk/Gemeinschaft) oder أُمّ (Mutter): 'unbelesen / der Schrift unkundig'. Maskuliner Plural auf -ين (Genitiv/Akkusativ nach Präposition).",

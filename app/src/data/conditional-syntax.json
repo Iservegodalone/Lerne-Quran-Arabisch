@@ -671,6 +671,107 @@
           }
         ]
       }
+    },
+    {
+      "id": "CS6",
+      "title": "إِذْ vs. إِذَا — temporale Unterscheidung",
+      "learnContent": {
+        "sections": [
+          {
+            "type": "explanation",
+            "title": "إِذْ — vergangene Zeit",
+            "content": "إِذْ ist ein Zarf Zaman (Zeitadverb) für die Vergangenheit: 'als, damals als'. Es leitet einen Rückblick auf ein vergangenes Ereignis ein.\n\nSyntaktisch:\n- إِذْ + Perfekt (häufigster Fall): إِذْ قَالَ ('als er sagte')\n- إِذْ + Nominalsatz: إِذْ هُمَا فِي الْغَارِ ('als sie beide in der Höhle waren', 9:40)\n\nإِذْ steht in der Position eines Zarfs (في محل نصب — Akkusativ-Position). Es ist mabni (unveränderlich auf Sukun).\n\nIm Quran wird إِذْ häufig mit وَ eingeleitet (وَإِذْ), um eine neue Episode in einer Erzählung einzuführen: 'Und als...' — dies ist ein narratives Strukturmittel."
+          },
+          {
+            "type": "explanation",
+            "title": "إِذَا — zukünftige oder habituelle Zeit",
+            "content": "إِذَا ist ein Zarf Zaman für die Zukunft oder für habituell wiederkehrende Ereignisse: 'wenn, sobald'. Es stellt das Ereignis als erwartet oder sicher eintretend dar.\n\nSyntaktisch:\n- إِذَا + Perfekt (morphologisch, aber mit Zukunftsbezug): إِذَا وَقَعَتِ الْوَاقِعَةُ ('wenn das Eintretende eintritt')\n- Die Apodosis steht NICHT im Jussiv — إِذَا ist kein Jazm-Partikel\n\nDer entscheidende Unterschied zu إِذْ:\n- إِذْ = Rückblick (Vergangenheit)\n- إِذَا = Vorausblick (Zukunft/Habituelles)\n\nDieser Zeitbezug ist grammatisch fest und nicht austauschbar."
+          },
+          {
+            "type": "explanation",
+            "title": "Verwechslungsgefahr und Erkennungshilfe",
+            "content": "إِذْ und إِذَا unterscheiden sich nur durch die Endung, haben aber völlig verschiedene Zeitbezüge. Erkennungshilfen:\n\n1. Kontext prüfen: Wird von einem vergangenen Ereignis erzählt? → إِذْ. Wird eine zukünftige oder allgemeingültige Situation beschrieben? → إِذَا.\n\n2. Typische Muster im Quran:\n   - وَإِذْ قَالَ رَبُّكَ / وَإِذْ قَالَ مُوسَى / وَإِذْ قَالَ إِبْرَاهِيمُ → narrative Rückblicke (إِذْ)\n   - إِذَا جَاءَ / إِذَا وَقَعَتْ / إِذَا الشَّمْسُ كُوِّرَتْ → eschatologische oder zukünftige Ereignisse (إِذَا)\n\n3. إِذْ steht oft am Satzanfang mit وَ als narrativer Übergang. إِذَا steht oft als Konditionalpartikel mit erwarteter Bedingung."
+          },
+          {
+            "type": "quranExamples",
+            "title": "Quranbeispiele",
+            "examples": [
+              {
+                "ref": "2:30",
+                "arabic": "وَإِذْ قَالَ رَبُّكَ لِلْمَلَائِكَةِ إِنِّي جَاعِلٌ فِي الْأَرْضِ خَلِيفَةً",
+                "explanation": "وَإِذْ = 'Und als' — Rückblick auf ein vergangenes Ereignis. قَالَ = Perfekt. إِذْ leitet die Erzählung von Gottes Ansprache an die Engel ein. Der gesamte إِذْ-Satz steht als Zarf Zaman in Akkusativ-Position.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=30"
+              },
+              {
+                "ref": "56:1",
+                "arabic": "إِذَا وَقَعَتِ الْوَاقِعَةُ",
+                "explanation": "إِذَا = 'Wenn' — Vorausblick auf ein zukünftiges Ereignis (die eschatologische Stunde). وَقَعَتِ = morphologisch Perfekt, aber mit Zukunftsbezug nach إِذَا. Die Apodosis folgt in den nächsten Versen.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=56&verse=1"
+              },
+              {
+                "ref": "18:60",
+                "arabic": "وَإِذْ قَالَ مُوسَىٰ لِفَتَاهُ لَا أَبْرَحُ حَتَّىٰ أَبْلُغَ مَجْمَعَ الْبَحْرَيْنِ",
+                "explanation": "وَإِذْ = 'Und als' — vergangenes Ereignis. Der Vers leitet die Erzählung von Musa und seinem Gefährten ein. Typisches quranisches Muster: وَإِذْ قَالَ + Eigenname als narrativer Einstieg.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=18&verse=60"
+              },
+              {
+                "ref": "84:1",
+                "arabic": "إِذَا السَّمَاءُ انشَقَّتْ",
+                "explanation": "إِذَا = Zukunft (eschatologisch). السَّمَاءُ = Subjekt im Nominativ (vorangestellt). انشَقَّتْ = Perfekt. Vergleiche mit إِذْ-Stellen: Hier wird kein vergangenes Ereignis erzählt, sondern ein zukünftiges angekündigt. 'Wenn der Himmel sich spaltet.'",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=84&verse=1"
+              }
+            ]
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "distinction",
+          "prompt": "Vergleiche وَإِذْ قَالَ رَبُّكَ (2:30) mit إِذَا جَاءَ نَصْرُ اللَّهِ (110:1). Bestimme den Zeitbezug beider Partikeln und erkläre den Unterschied.",
+          "hint": "إِذْ blickt zurück auf ein vergangenes Ereignis (Gottes Rede an die Engel). إِذَا blickt voraus auf ein zukünftiges Ereignis (das Kommen der Hilfe Gottes).",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=30"
+        },
+        {
+          "type": "identification",
+          "prompt": "Lies 2:124-127. Wie oft erscheint وَإِذْ? Welche Funktion hat es in dieser Textpassage?",
+          "hint": "وَإِذْ erscheint mehrfach als narrativer Übergang, der verschiedene Episoden aus Ibrahims Geschichte einleitet. Jedes وَإِذْ eröffnet einen neuen Rückblick.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=124"
+        },
+        {
+          "type": "analysis",
+          "prompt": "In 9:40 steht إِذْ هُمَا فِي الْغَارِ. Welcher Satztyp folgt hier auf إِذْ — ein Verbalsatz oder ein Nominalsatz? Was ist die grammatische Funktion des gesamten إِذْ-Satzes?",
+          "hint": "هُمَا فِي الْغَارِ ist ein Nominalsatz (Mubtada + Khabar). Der gesamte إِذْ-Satz steht als Zarf Zaman in Akkusativ-Position (في محل نصب).",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=9&verse=40"
+        }
+      ],
+      "testContent": {
+        "exercises": [
+          {
+            "question": "Was ist der grundlegende Zeitbezug von إِذْ im Vergleich zu إِذَا?",
+            "options": [
+              "Beide beziehen sich auf die Zukunft",
+              "إِذْ = Vergangenheit ('als'), إِذَا = Zukunft/Habituelles ('wenn, sobald')",
+              "إِذْ = Zukunft, إِذَا = Vergangenheit",
+              "Kein Unterschied — rein stilistische Variation"
+            ],
+            "correct": 1,
+            "explanation": "إِذْ ist ein Zarf Zaman für die Vergangenheit ('als, damals als'). إِذَا ist ein Zarf Zaman für die Zukunft oder für habituell erwartete Ereignisse ('wenn, sobald'). Der Zeitbezug ist grammatisch fest.",
+            "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=30"
+          },
+          {
+            "question": "In وَإِذْ قَالَ مُوسَى (18:60) — welche Funktion hat إِذْ im Satz?",
+            "options": [
+              "Konditionalpartikel ('falls')",
+              "Zarf Zaman in Akkusativ-Position — leitet einen narrativen Rückblick ein",
+              "Relativpronomen ('der, welcher')",
+              "Negationspartikel"
+            ],
+            "correct": 1,
+            "explanation": "إِذْ ist ein Zarf Zaman (Zeitadverb) für die Vergangenheit. Es leitet einen narrativen Rückblick ein: 'Und als Musa sagte...' Der gesamte إِذْ-Satz steht في محل نصب (in Akkusativ-Position als Zarf).",
+            "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=18&verse=60"
+          }
+        ]
+      }
     }
   ]
 }

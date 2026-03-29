@@ -536,14 +536,14 @@
       },
       "question": "Ist معلومت eine Sifa zu اشهر? Prüfe die Kongruenz.",
       "options": [
-        "Ja — feminin Plural gebrochen kongruent mit maskulin Plural gebrochen, indefinit, Genitiv",
-        "Ja — femininer gesunder Plural als Sifa zu gebrochenem Plural, beide indefinit, Genitiv",
+        "Ja — feminin Plural gebrochen kongruent mit maskulin Plural gebrochen, indefinit, Nominativ",
+        "Ja — femininer gesunder Plural als Sifa zu gebrochenem Plural, beide indefinit, Nominativ (als Khabar von الحج)",
         "Nein — die Kongruenz stimmt nicht, es muss eine andere Funktion sein",
         "Ja — aber nur in Kasus und Indefinitheit, nicht in Genus"
       ],
       "correctAnswer": {
         "answer": 1,
-        "explanation": "معلومت ist eine Sifa zu اشهر. Der gebrochene Plural nichtmenschlicher Substantive wird grammatisch wie femininer Singular behandelt, deshalb kann eine feminine Pluralform als Sifa stehen. Kongruenz: indefinit — indefinit, Genitiv — Genitiv (als Khabar im Sinne eines Zeitraums oder als Akhbar). Die Kongruenz ist grammatisch korrekt.",
+        "explanation": "معلومات ist eine Sifa zu أَشْهُرٌ. Der Satz الْحَجُّ أَشْهُرٌ مَعْلُومَاتٌ ist ein Nominalsatz: الحج = Mubtada' (Nominativ), أشهر = Khabar (Nominativ), معلومات = Sifa zu أشهر (Nominativ). Der gebrochene Plural nichtmenschlicher Substantive wird wie femininer Singular behandelt, deshalb steht die feminine Pluralform als Sifa. Kongruenz: indefinit — indefinit, Nominativ — Nominativ.",
         "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=197"
       },
       "difficulty": 3,
@@ -1813,7 +1813,7 @@
       ],
       "correctAnswer": {
         "answer": 2,
-        "explanation": "لا اله الا هو ist ein Khabar Jumla Ismiyya — ein vollständiger Nominalsatz als Khabar. Der Nominalsatz besteht aus: لا (Negationspartikel für die Gattung) + اله (Ism von لا) + Khabar ausgelassen (موجود) + الا هو (Ausnahme). Der gesamte Satz 'es gibt keinen Gott ausser Ihm' ist Khabar zu الله.",
+        "explanation": "لا اله الا هو ist ein Khabar Jumla Ismiyya — ein vollständiger Nominalsatz als Khabar. Der Nominalsatz besteht aus: لا (Gattungsnegation) + اله (Ism von لا, Akkusativ). الا ist Ausnahme-Partikel, هو steht als Badal vom Ism von لا im Nominativ (da die Negation aufgehoben wird). Der gesamte Satz ist Khabar zu الله.",
         "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=255"
       },
       "difficulty": 2,

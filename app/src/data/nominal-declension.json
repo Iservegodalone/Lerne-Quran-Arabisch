@@ -878,10 +878,10 @@
     },
     {
       "type": "identify_case",
-      "word": "مَسَاجِدَ",
-      "context": "أَنْ يُذْكَرَ فِيهَا اسْمُهُ وَمَسَاجِدَ (22:40)",
-      "expected": "genitive",
-      "explanation": "مَسَاجِدَ im Genitiv (Funktion). Als Diptot: Fatha statt Kasra im Genitiv.",
+      "word": "مَسَاجِدُ",
+      "context": "لَهُدِّمَتْ صَوَامِعُ وَبِيَعٌ وَصَلَوَاتٌ وَمَسَاجِدُ (22:40)",
+      "expected": "nominative",
+      "explanation": "مَسَاجِدُ steht im Nominativ als Na'ib al-Fa'il des Passivverbs هُدِّمَتْ, koordiniert mit صَوَامِعُ, بِيَعٌ und صَلَوَاتٌ. Als Diptot zeigt es regulaer Damma im Nominativ.",
       "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=22&verse=40"
     },
     {

@@ -225,6 +225,182 @@
           }
         ]
       }
+    },
+    {
+      "id": "ZAR4",
+      "title": "بَيْنَ als Zarf",
+      "description": "بَيْنَ als räumlich-zeitlicher Zarf im Akkusativ, stets als Mudaf mit Genitiv-Komplement.",
+      "learnContent": {
+        "sections": [
+          {
+            "type": "explanation",
+            "title": "بَيْنَ — zwischen (Zarf Makan/Zaman)",
+            "content": "بَيْنَ ist ein lexikalisierter Zarf, der sowohl räumlich ('zwischen') als auch zeitlich ('in der Zwischenzeit') verwendet wird. Grammatische Eigenschaften:\n\n1. Kasus: Stets im Akkusativ (Nasb) als Zarf\n2. Idafa: بَيْنَ ist IMMER Mudaf — es braucht ein Genitiv-Komplement (Mudaf ilayh). Es kann nicht allein stehen.\n3. Komplement-Typen:\n   - Nomen im Genitiv: بَيْنَ أَيْدِيهِمْ ('vor ihnen', wörtl.: 'zwischen ihren Händen')\n   - Pronomen-Suffix: بَيْنَنَا ('zwischen uns'), بَيْنَهُمْ ('zwischen ihnen')\n   - Zwei koordinierte Genitive: بَيْنَنَا وَبَيْنَهُمْ ('zwischen uns und ihnen')\n\nWenn بَيْنَ nach einer Präposition steht (مِنْ بَيْنِ), wechselt es in den Genitiv — es ist dann kein Zarf mehr, sondern Jarr wa-Majrur."
+          },
+          {
+            "type": "explanation",
+            "title": "بَيْنَ أَيْدِيهِمْ — eine feste Wendung",
+            "content": "Die Wendung بَيْنَ أَيْدِيهِمْ (wörtl.: 'zwischen ihren Händen') bedeutet im Quran 'vor ihnen' (räumlich oder zeitlich: was ihnen vorausgeht, was vor ihnen liegt). Sie wird häufig mit وَمَا خَلْفَهُمْ ('und was hinter ihnen liegt') gepaart.\n\nStruktur: بَيْنَ (Zarf, Akkusativ, Mudaf) + أَيْدِي (Genitiv, Mudaf) + هِمْ (Pronomen-Suffix, Mudaf ilayh).\n\nDiese doppelte Idafa (بَيْنَ → أَيْدِي → هِمْ) ist ein typisches quranisches Muster."
+          },
+          {
+            "type": "quranExamples",
+            "title": "Quranbeispiele",
+            "examples": [
+              {
+                "ref": "2:255",
+                "arabic": "يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ",
+                "explanation": "بَيْنَ = Zarf Makan (Akkusativ), Mudaf. أَيْدِيهِمْ = Mudaf ilayh (Genitiv). خَلْفَهُمْ = paralleler Zarf ('hinter ihnen'). مَا = Relativpronomen ('das, was'). 'Er kennt, was vor ihnen liegt und was hinter ihnen liegt.'",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=255"
+              },
+              {
+                "ref": "18:94",
+                "arabic": "فَاجْعَلْ بَيْنَنَا وَبَيْنَهُمْ سَدًّا",
+                "explanation": "بَيْنَنَا وَبَيْنَهُمْ = doppeltes بَيْنَ mit zwei Pronomen-Suffixen. Erste بَيْنَ: Mudaf + نَا (Mudaf ilayh). Zweite بَيْنَ: Mudaf + هُمْ (Mudaf ilayh). Beide stehen im Akkusativ als Zarfs. سَدًّا = Maf'ul bihi (Akkusativ). 'So mache zwischen uns und ihnen eine Barriere.'",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=18&verse=94"
+              },
+              {
+                "ref": "36:9",
+                "arabic": "وَجَعَلْنَا مِن بَيْنِ أَيْدِيهِمْ سَدًّا وَمِنْ خَلْفِهِمْ سَدًّا",
+                "explanation": "مِنْ بَيْنِ — hier steht بَيْنِ im Genitiv nach der Präposition مِنْ. Es ist KEIN Zarf mehr, sondern Teil einer Jarr-wa-Majrur-Phrase. Vergleiche mit 2:255, wo بَيْنَ direkt als Zarf im Akkusativ steht. 'Wir setzten von vor ihnen eine Barriere und von hinter ihnen eine Barriere.'",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=36&verse=9"
+              }
+            ]
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "distinction",
+          "question": "Vergleiche بَيْنَ أَيْدِيهِمْ (2:255) mit مِن بَيْنِ أَيْدِيهِمْ (36:9). Was ist der grammatische Unterschied?",
+          "answer": "In 2:255 steht بَيْنَ im Akkusativ als Zarf Makan (adverbiale Funktion ohne Präposition). In 36:9 steht بَيْنِ im Genitiv nach der Präposition مِنْ — es ist keine Zarf-Konstruktion, sondern Jarr wa-Majrur. Die Fatha (بَيْنَ) zeigt den Zarf-Akkusativ, die Kasra (بَيْنِ) den Genitiv nach Präposition."
+        },
+        {
+          "type": "identification",
+          "question": "In 18:94 (فَاجْعَلْ بَيْنَنَا وَبَيْنَهُمْ سَدًّا) — warum wird بَيْنَ wiederholt?",
+          "answer": "Jedes بَيْنَ ist Mudaf und braucht sein eigenes Genitiv-Komplement. بَيْنَنَا hat das Suffix نَا, بَيْنَهُمْ hat das Suffix هُمْ. Die Wiederholung ist syntaktisch notwendig, weil بَيْنَ als Mudaf nicht zwei separate Genitive gleichzeitig nehmen kann — die Koordination erfordert die Wiederholung des Mudaf."
+        },
+        {
+          "type": "analysis",
+          "question": "In بَيْنَ أَيْدِيهِمْ liegt eine doppelte Idafa vor. Identifiziere alle drei Stufen der Kette.",
+          "answer": "Stufe 1: بَيْنَ = Mudaf (Akkusativ als Zarf). Stufe 2: أَيْدِي = Mudaf ilayh zu بَيْنَ (Genitiv) und gleichzeitig Mudaf zu هِمْ. Stufe 3: هِمْ = Pronomen-Suffix als Mudaf ilayh zu أَيْدِي. Die gesamte Kette: بَيْنَ ← أَيْدِي ← هِمْ."
+        }
+      ],
+      "testContent": {
+        "exercises": [
+          {
+            "question": "In welchem Kasus steht بَيْنَ in يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ (2:255)?",
+            "options": [
+              "Nominativ — Subjekt",
+              "Genitiv — nach Präposition",
+              "Akkusativ — Zarf Makan",
+              "Akkusativ — Maf'ul bihi"
+            ],
+            "correct": 2,
+            "explanation": "بَيْنَ steht im Akkusativ als Zarf Makan. Es ist Mudaf, أَيْدِيهِمْ ist Mudaf ilayh im Genitiv. Keine Präposition nötig — der Akkusativ selbst trägt die adverbiale Funktion.",
+            "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=255"
+          },
+          {
+            "question": "Was passiert mit بَيْنَ, wenn eine Präposition davorsteht (z.B. مِنْ بَيْنِ)?",
+            "options": [
+              "Es bleibt im Akkusativ als Zarf",
+              "Es wechselt in den Genitiv und ist kein Zarf mehr, sondern Teil einer Jarr-wa-Majrur-Phrase",
+              "Es wird mabni (unveränderlich)",
+              "Es verliert seine Idafa-Funktion"
+            ],
+            "correct": 1,
+            "explanation": "Nach einer Präposition wechselt بَيْنِ in den Genitiv. Es fungiert dann nicht mehr als Zarf (adverbialer Akkusativ), sondern als majrur (Genitivobjekt der Präposition). Die Idafa-Funktion bleibt erhalten: مِنْ بَيْنِ أَيْدِيهِمْ.",
+            "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=36&verse=9"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ZAR5",
+      "title": "قَبْلُ / بَعْدُ als temporale Zarfs",
+      "description": "Die temporalen Zarfs قَبْلُ und بَعْدُ: Verhalten in Idafa und bei abgetrennter Idafa (mabni 'ala d-damm).",
+      "learnContent": {
+        "sections": [
+          {
+            "type": "explanation",
+            "title": "قَبْلَ und بَعْدَ als Zarfs Zaman",
+            "content": "قَبْلَ ('vor, vorher') und بَعْدَ ('nach, nachher') sind lexikalisierte Zarfs Zaman. Sie stehen im Akkusativ und nehmen ein Genitiv-Komplement (Idafa):\n\n- مِن قَبْلِ الْفَتْحِ ('vor der Eroberung'): قَبْلِ im Genitiv nach مِنْ\n- بَعْدَ ذَٰلِكَ ('danach'): بَعْدَ im Akkusativ als Zarf\n\nWie بَيْنَ sind قَبْلَ und بَعْدَ stets Mudaf — sie brauchen ein Genitiv-Komplement, um vollständig zu sein."
+          },
+          {
+            "type": "explanation",
+            "title": "Abgetrennte Idafa: مِنْ قَبْلُ / مِنْ بَعْدُ (mabni 'ala d-damm)",
+            "content": "Wenn قَبْلَ oder بَعْدَ OHNE explizites Mudaf ilayh stehen — also das Genitiv-Komplement aus dem Kontext erschlossen wird —, werden sie mabni 'ala d-damm (unveränderlich auf Damma gebaut):\n\n- مِنْ قَبْلُ = 'von vorher' (das Bezugswort fehlt, wird aus dem Kontext ergänzt)\n- مِنْ بَعْدُ = 'von nachher'\n\nDieses Damma ist KEIN Nominativ — es ist ein Zeichen für mabni (unveränderlich). Die Grammatiker erklären es als Resultat der abgetrennten Idafa (الظرف المقطوع عن الإضافة): Wenn das Mudaf ilayh wegfällt, wird das Wort mabni.\n\nMit explizitem Mudaf ilayh folgen sie den normalen Kasusregeln: مِنْ قَبْلِ الْفَتْحِ (Genitiv nach مِنْ)."
+          },
+          {
+            "type": "quranExamples",
+            "title": "Quranbeispiele",
+            "examples": [
+              {
+                "ref": "30:4",
+                "arabic": "لِلَّهِ الْأَمْرُ مِن قَبْلُ وَمِن بَعْدُ",
+                "explanation": "مِنْ قَبْلُ وَمِنْ بَعْدُ — beide mit Damma: mabni 'ala d-damm, weil das Mudaf ilayh fehlt. Das Bezugswort (der Sieg/die Niederlage der Römer) wird aus dem Kontext erschlossen. 'Gott gehoert die Verfügung vorher und nachher.'",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=30&verse=4"
+              },
+              {
+                "ref": "57:10",
+                "arabic": "لَا يَسْتَوِي مِنكُم مَّنْ أَنفَقَ مِن قَبْلِ الْفَتْحِ وَقَاتَلَ",
+                "explanation": "مِنْ قَبْلِ الْفَتْحِ — قَبْلِ im Genitiv nach مِنْ, mit explizitem Mudaf ilayh (الْفَتْحِ). Vergleiche mit 30:4 (مِنْ قَبْلُ ohne Mudaf ilayh → Damma). Der Kasus-Unterschied zeigt den Idafa-Status: Kasra bei vorhandener Idafa, Damma bei fehlender.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=57&verse=10"
+              },
+              {
+                "ref": "48:15",
+                "arabic": "كَذَٰلِكَ قَالَ الَّذِينَ مِن قَبْلُ",
+                "explanation": "مِنْ قَبْلُ — wieder mabni 'ala d-damm. Das Mudaf ilayh fehlt, der Kontext liefert den Bezug ('vor ihnen / vor eurer Zeit'). 'So sprachen diejenigen von vorher.'",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=48&verse=15"
+              }
+            ]
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "distinction",
+          "question": "Warum steht in 30:4 (مِنْ قَبْلُ) ein Damma auf قَبْلُ, aber in 57:10 (مِنْ قَبْلِ الْفَتْحِ) eine Kasra auf قَبْلِ?",
+          "answer": "In 57:10 ist قَبْلِ regulaer im Genitiv nach der Präposition مِنْ — die Kasra zeigt den Genitiv. Das Mudaf ilayh (الْفَتْحِ) ist explizit vorhanden. In 30:4 fehlt das Mudaf ilayh: قَبْلُ wird mabni 'ala d-damm (unveränderlich auf Damma). Das Damma ist kein Kasus, sondern ein Zeichen für die abgetrennte Idafa."
+        },
+        {
+          "type": "identification",
+          "question": "In 48:15 (قَالَ الَّذِينَ مِن قَبْلُ) — was ist das implizite Mudaf ilayh von قَبْلُ?",
+          "answer": "Das Mudaf ilayh ist aus dem Kontext zu erschliessen: 'vor ihnen / vor eurer Zeit'. Der Vers spricht von frueheren Menschen, die dasselbe sagten. Weil das Bezugswort nicht explizit genannt wird, steht قَبْلُ mit Damma (mabni 'ala d-damm)."
+        },
+        {
+          "type": "morphology",
+          "question": "Ist das Damma in مِنْ قَبْلُ ein Nominativ (Raf')? Begründe.",
+          "answer": "Nein. قَبْلُ steht nach der Präposition مِنْ — diese regiert den Genitiv. Das Damma ist KEIN Kasus-Zeichen, sondern ein Zeichen für mabni (unveränderlich gebaut). Es tritt auf, weil die Idafa abgetrennt wurde (das Mudaf ilayh fehlt). Grammatischer Terminus: مبني على الضم في محل جر (mabni auf Damma, in der Position des Genitivs)."
+        }
+      ],
+      "testContent": {
+        "exercises": [
+          {
+            "question": "Wann werden قَبْلُ und بَعْدُ mabni 'ala d-damm?",
+            "options": [
+              "Immer",
+              "Wenn sie im Nominativ stehen",
+              "Wenn das Mudaf ilayh (Genitiv-Komplement) fehlt und aus dem Kontext ergänzt wird",
+              "Wenn sie nach einer Präposition stehen"
+            ],
+            "correct": 2,
+            "explanation": "قَبْلُ und بَعْدُ werden mabni 'ala d-damm, wenn ihr Mudaf ilayh nicht explizit genannt wird. Mit explizitem Mudaf ilayh folgen sie normalen Kasusregeln: قَبْلِ الْفَتْحِ (Genitiv nach Präposition).",
+            "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=30&verse=4"
+          },
+          {
+            "question": "Welcher Kasus liegt in مِنْ قَبْلِ الْفَتْحِ (57:10) vor — und warum?",
+            "options": [
+              "Akkusativ — قَبْلَ ist Zarf",
+              "Genitiv — قَبْلِ steht nach der Präposition مِنْ, mit Kasra",
+              "Damma — mabni wegen fehlender Idafa",
+              "Nominativ — قَبْلُ ist Subjekt"
+            ],
+            "correct": 1,
+            "explanation": "قَبْلِ steht im Genitiv (Kasra) nach der Präposition مِنْ. Das Mudaf ilayh الْفَتْحِ ist explizit vorhanden, daher folgt قَبْلِ den normalen Kasusregeln — kein mabni.",
+            "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=57&verse=10"
+          }
+        ]
+      }
     }
   ]
 }

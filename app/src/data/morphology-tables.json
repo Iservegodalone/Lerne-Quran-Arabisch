@@ -1512,10 +1512,10 @@
       },
       {
         "id": "mafa_il",
-        "singularPattern": "مَفْعِل / مِفْعَال",
+        "singularPattern": "مَفْعِل / مِفْعَل",
         "pluralPattern": "مَفَاعِل",
         "pluralTransliteration": "mafā'il",
-        "meaning": "Plural für vierradikalige Muster mit mīm-Präfix",
+        "meaning": "Plural für dreiradikalige Muster mit mīm-Präfix",
         "examples": [
           {
             "singular": "مَسْجِد (masjid)",
@@ -1523,14 +1523,23 @@
             "german": "Moscheen"
           },
           {
-            "singular": "مِفْتَاح (miftāḥ)",
-            "plural": "مَفَاتِيح (mafātīḥ)",
-            "german": "Schlüssel"
-          },
-          {
             "singular": "مَلَك (malak)",
             "plural": "مَلَائِكَة (malā'ika)",
             "german": "Engel"
+          }
+        ]
+      },
+      {
+        "id": "mafa_iil",
+        "singularPattern": "مِفْعَال / مِفْعِيل",
+        "pluralPattern": "مَفَاعِيل",
+        "pluralTransliteration": "mafā'īl",
+        "meaning": "Plural für vierradikalige Muster mit mīm-Präfix (mit Langvokal)",
+        "examples": [
+          {
+            "singular": "مِفْتَاح (miftāḥ)",
+            "plural": "مَفَاتِيح (mafātīḥ)",
+            "german": "Schlüssel"
           }
         ]
       },

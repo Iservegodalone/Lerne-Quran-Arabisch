@@ -142,7 +142,7 @@
         {
           "type": "comparison",
           "prompt": "Vergleiche die Wurzel ع-ل-م (wissen) in 2:255 (يعلم ما بين ايديهم وما خلفهم) mit 55:2 (علم القران). Welche unterschiedlichen Formen und Bedeutungsfacetten zeigt die gleiche Wurzel?",
-          "hint": "In 2:255 steht يعلم (Er weiss — intransitives Wissen, Form I), in 55:2 steht علم (Er lehrte — transitives Lehren, Form II mit Verdopplung). Dieselbe Wurzel, aber zwei verschiedene Formen: Gottes Wissen vs. Gottes Lehren.",
+          "hint": "In 2:255 steht يَعْلَمُ (Er weiss — transitives Wissen, Form I, mit Maf'ul bihi: مَا بَيْنَ أَيْدِيهِمْ), in 55:2 steht عَلَّمَ (Er lehrte — kausativ-transitives Lehren, Form II mit Verdopplung, nimmt doppelten Akkusativ). Dieselbe Wurzel, aber zwei verschiedene Formen mit unterschiedlicher Valenz.",
           "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=255"
         },
         {
@@ -469,7 +469,7 @@
           {
             "type": "explanation",
             "title": "Was ist Balāgha?",
-            "content": "Balāgha (بَلَاغَة) ist die arabische Rhetorik — die Wissenschaft davon, wie Sprache wirkt. In dieser Stufe lernst du acht zentrale rhetorische Mittel, die der Quran durchgehend verwendet. Jedes Mittel hat eine Funktion: Es erzeugt Bedeutung, die über den Wortlaut hinausgeht."
+            "content": "Balāgha (بَلَاغَة) ist die arabische Rhetorik — die Wissenschaft davon, wie Sprache wirkt. In dieser Stufe lernst du acht zentrale rhetorische Mittel, die der Quran durchgehend verwendet. Jedes Mittel hat eine Funktion: Es erzeugt Bedeutung durch sprachliche Struktur."
           },
           {
             "type": "explanation",
@@ -519,7 +519,7 @@
                 "transliteration": "khutima ʿalā qulūbihim",
                 "ref": "2:7",
                 "meaning": "Es wurde versiegelt über ihren Herzen",
-                "analysis": "Wer versiegelt? Das Passiv lässt den Akteur offen — der Fokus liegt auf dem Ergebnis: Die Herzen sind versiegelt. Wer der Akteur ist, muss aus dem Kontext erschlossen werden.",
+                "analysis": "In 2:7 steht die Aktivform خَتَمَ اللَّهُ عَلَىٰ قُلُوبِهِمْ mit explizitem Subjekt. Der Fokus der Analyse liegt auf der syntaktischen Struktur: Verb (خَتَمَ) + Fa'il (اللَّهُ) + Jarr wa-Majrur (عَلَىٰ قُلُوبِهِمْ).",
                 "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=7"
               },
               {

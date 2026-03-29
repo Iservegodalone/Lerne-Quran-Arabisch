@@ -136,5 +136,413 @@
       "rule": "Kettenbildung",
       "explanation": "Idafa-Ketten können mehrgliedrig sein: كِتَابُ عِلْمِ اللَّهِ (das Buch des Wissens Gottes). Jedes Glied ausser dem letzten ist Mudaf zum nächsten."
     }
+  ],
+  "lessons": [
+    {
+      "id": "IDA1",
+      "title": "Idafa Tamlik — Besitz und Zugehörigkeit",
+      "learnContent": {
+        "sections": [
+          {
+            "type": "explanation",
+            "title": "Was ist die Besitz-Idafa?",
+            "content": "Die Idafa Tamlik (إضافة تمليكية) drueckt Besitz oder Zugehoerigkeit aus. Das Mudaf (erstes Glied) gehoert dem Mudaf ilayh (zweites Glied). Dies ist der haeufigste Idafa-Typ im Quran.\n\nStruktur: Mudaf (verliert Tanwin, kein Artikel) + Mudaf ilayh (Genitiv).\n\nWichtig: Wenn das Mudaf ilayh definit ist (Eigenname oder mit Artikel), wird das gesamte Konstrukt definit — auch ohne Artikel auf dem Mudaf. Das ist eine Kernregel der Tamlik-Idafa."
+          },
+          {
+            "type": "quranExamples",
+            "title": "Besitz-Idafa im Quran",
+            "examples": [
+              {
+                "ref": "2:101",
+                "arabic": "كِتَابُ اللَّهِ",
+                "explanation": "كِتَاب (Mudaf, Nominativ) + اللَّه (Mudaf ilayh, Genitiv). Das Buch gehoert Gott. Das Mudaf traegt keinen Artikel und keinen Tanwin, ist aber durch die Idafa mit dem Eigennamen اللَّه definit.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=101"
+              },
+              {
+                "ref": "2:125",
+                "arabic": "بَيْتِيَ",
+                "explanation": "بَيْت (Mudaf) + ي (Mudaf ilayh, Pronominalsuffix 1. Person). Mein Haus. Das Pronominalsuffix ist eine Sonderform des Mudaf ilayh — es ersetzt ein eigenstaendiges Wort im Genitiv.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=125"
+              }
+            ]
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "multiple_choice",
+          "prompt": "In كِتَابُ اللَّهِ (2:101) — welche Beziehung drueckt die Idafa aus?",
+          "options": [
+            "Das Buch besteht aus Gott (Material)",
+            "Das Buch gehoert Gott (Besitz)",
+            "Das Buch beschreibt Gott (Erklaerung)",
+            "Das Buch ist bei Gott (Ort)"
+          ],
+          "correct": 1,
+          "explanation": "كِتَابُ اللَّهِ ist eine Besitz-Idafa (Tamlik): Das Buch gehoert Gott. اللَّه im Genitiv ist der Besitzer.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=101"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Warum traegt كِتَاب in كِتَابُ اللَّهِ keinen Artikel, ist aber trotzdem definit?",
+          "options": [
+            "Weil jedes Nomen ohne Artikel automatisch definit ist",
+            "Weil das Mudaf in einer Idafa nie einen Artikel tragen darf und durch ein definites Mudaf ilayh definit wird",
+            "Weil كِتَاب ein Eigenname ist",
+            "Weil der Artikel hier weggelassen wurde — es ist eigentlich indefinit"
+          ],
+          "correct": 1,
+          "explanation": "In der Idafa verliert das Mudaf seinen Artikel und seinen Tanwin. Wenn das Mudaf ilayh definit ist (hier: der Eigenname اللَّه), wird das gesamte Konstrukt definit.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=101"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "In بَيْتِيَ (2:125) — was ist das Mudaf ilayh?",
+          "options": [
+            "بَيْت (Haus)",
+            "Das Pronominalsuffix ي (mein)",
+            "Es gibt kein Mudaf ilayh, weil kein zweites Wort folgt",
+            "Der gesamte Ausdruck ist ein einzelnes Wort ohne Idafa"
+          ],
+          "correct": 1,
+          "explanation": "Das Pronominalsuffix ي (mein) steht in der Position des Mudaf ilayh. Es ersetzt ein eigenstaendiges Genitivwort. بَيْت ist das Mudaf, ي ist das Mudaf ilayh.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=125"
+        }
+      ],
+      "testContent": {
+        "exercises": [
+          {
+            "question": "Welcher Idafa-Typ liegt in كِتَابُ اللَّهِ (2:101) vor?",
+            "options": [
+              "Idafa Bayan (Erklaerung)",
+              "Idafa Tamlik (Besitz)",
+              "Idafa Sifa (Adjektiv)",
+              "Idafa Zarfiyya (zeitlich/oertlich)"
+            ],
+            "correct": 1,
+            "explanation": "كِتَابُ اللَّهِ drueckt Besitz aus: Das Buch gehoert Gott. Das Mudaf (كِتَاب) steht in einem Zugehoerigkeitsverhaeltnis zum Mudaf ilayh (اللَّه).",
+            "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=101"
+          },
+          {
+            "question": "In welchem Kasus steht اللَّهِ in كِتَابُ اللَّهِ?",
+            "options": [
+              "Nominativ (Marfu')",
+              "Akkusativ (Mansub)",
+              "Genitiv (Majrur)",
+              "Der Kasus ist nicht bestimmbar"
+            ],
+            "correct": 2,
+            "explanation": "Das Mudaf ilayh steht IMMER im Genitiv (Majrur). Das gilt fuer jeden Idafa-Typ ohne Ausnahme. Die Kasra auf dem he (اللَّهِ) zeigt den Genitiv an.",
+            "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=101"
+          }
+        ]
+      }
+    },
+    {
+      "id": "IDA2",
+      "title": "Idafa Bayan — Erklaerung und Spezifikation",
+      "learnContent": {
+        "sections": [
+          {
+            "type": "explanation",
+            "title": "Was ist die Erklaerung-Idafa?",
+            "content": "Die Idafa Bayan (إضافة بيانية) erklaert die Art, das Material oder die Beschaffenheit des Mudaf durch das Mudaf ilayh. Die Aufloesung lautet: 'Mudaf das aus/von Mudaf-ilayh besteht' oder 'Mudaf das Mudaf-ilayh ist'.\n\nDer Unterschied zur Tamlik-Idafa: Es geht nicht um Besitz, sondern um eine inhaltliche Erklaerung. Das Mudaf ilayh benennt, was das Mudaf IST oder woraus es besteht.\n\nWie bei der Tamlik-Idafa wird auch hier das Mudaf durch ein definites Mudaf ilayh definit."
+          },
+          {
+            "type": "quranExamples",
+            "title": "Erklaerung-Idafa im Quran",
+            "examples": [
+              {
+                "ref": "9:72",
+                "arabic": "جَنَّاتُ عَدْنٍ",
+                "explanation": "جَنَّات (Mudaf, Gaerten) + عَدْن (Mudaf ilayh, ewiges Verweilen). Die Gaerten bestehen aus ewigem Verweilen — das Mudaf ilayh erklaert die Art der Gaerten. عَدْن ist indefinit, daher bleibt das Gesamtkonstrukt indefinit.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=9&verse=72"
+              },
+              {
+                "ref": "50:16",
+                "arabic": "حَبْلِ الْوَرِيدِ",
+                "explanation": "حَبْل (Mudaf, Seil/Strang) + الْوَرِيد (Mudaf ilayh, die Halsader). Das 'Seil' wird durch 'Halsader' erklaert — es ist das Seil, das die Halsader IST. Die Idafa erklaert die Art des Strangs.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=50&verse=16"
+              }
+            ]
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "multiple_choice",
+          "prompt": "In جَنَّاتُ عَدْنٍ (9:72) — was erklaert عَدْن ueber die Gaerten?",
+          "options": [
+            "Wem die Gaerten gehoeren (Besitz)",
+            "Wo die Gaerten liegen (Ort)",
+            "Woraus die Gaerten bestehen / was sie ausmacht (Art)",
+            "Wie gross die Gaerten sind (Eigenschaft)"
+          ],
+          "correct": 2,
+          "explanation": "Dies ist eine Bayan-Idafa: عَدْن erklaert die Art der Gaerten. Sie bestehen aus ewigem Verweilen. Das Mudaf ilayh spezifiziert, was das Mudaf inhaltlich ist.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=9&verse=72"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "In حَبْلِ الْوَرِيدِ (50:16) — warum ist dies eine Bayan-Idafa und keine Tamlik-Idafa?",
+          "options": [
+            "Weil das Mudaf ilayh im Genitiv steht",
+            "Weil das Seil nicht der Halsader GEHOERT, sondern die Halsader die ART des Seils erklaert",
+            "Weil kein Artikel auf dem Mudaf steht",
+            "Weil das Mudaf ein Koerperteil ist"
+          ],
+          "correct": 1,
+          "explanation": "Das Seil (حَبْل) gehoert nicht der Halsader — die Halsader erklaert, welche Art von Strang gemeint ist. Das Mudaf ilayh benennt das Material bzw. die Identitaet des Mudaf.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=50&verse=16"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Ist جَنَّاتُ عَدْنٍ (9:72) definit oder indefinit?",
+          "options": [
+            "Definit, weil jede Idafa das Mudaf definit macht",
+            "Indefinit, weil عَدْنٍ (mit Tanwin) indefinit ist und die Bayan-Idafa dieselben Definitheitsregeln wie die Tamlik-Idafa hat",
+            "Definit, weil جَنَّات einen versteckten Artikel traegt",
+            "Weder definit noch indefinit — das ist bei Idafa nicht bestimmbar"
+          ],
+          "correct": 1,
+          "explanation": "Das Tanwin auf عَدْنٍ zeigt, dass das Mudaf ilayh indefinit ist. Da die Bayan-Idafa (wie die Tamlik-Idafa) die Definitheit vom Mudaf ilayh ableitet, bleibt das Gesamtkonstrukt indefinit.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=9&verse=72"
+        }
+      ],
+      "testContent": {
+        "exercises": [
+          {
+            "question": "Welcher Idafa-Typ liegt in حَبْلِ الْوَرِيدِ (50:16) vor?",
+            "options": [
+              "Idafa Tamlik (Besitz)",
+              "Idafa Bayan (Erklaerung)",
+              "Idafa Sifa (Adjektiv)",
+              "Idafa Zarfiyya (zeitlich/oertlich)"
+            ],
+            "correct": 1,
+            "explanation": "حَبْلِ الْوَرِيدِ ist eine Bayan-Idafa. الْوَرِيد (Halsader) erklaert die ART des حَبْل (Strang/Seil). Es geht nicht um Besitz, sondern um Identifikation.",
+            "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=50&verse=16"
+          },
+          {
+            "question": "Wie loest man eine Bayan-Idafa auf?",
+            "options": [
+              "Mudaf GEHOERT dem Mudaf ilayh",
+              "Mudaf das aus/von Mudaf ilayh BESTEHT",
+              "Mudaf ist SCHNELL/STARK im Mudaf ilayh",
+              "Mudaf findet ZUR ZEIT des Mudaf ilayh statt"
+            ],
+            "correct": 1,
+            "explanation": "Die Bayan-Idafa loest sich auf als 'Mudaf das aus/von Mudaf ilayh besteht' oder 'Mudaf das Mudaf ilayh ist'. Bei جَنَّاتُ عَدْنٍ: Gaerten die aus ewigem Verweilen bestehen.",
+            "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=9&verse=72"
+          }
+        ]
+      }
+    },
+    {
+      "id": "IDA3",
+      "title": "Idafa Sifa — Adjektivische Verbindung",
+      "learnContent": {
+        "sections": [
+          {
+            "type": "explanation",
+            "title": "Was ist die Adjektiv-Idafa?",
+            "content": "Die Idafa Sifa (إضافة لفظية / صفة) liegt vor, wenn das Mudaf ein Adjektiv oder Partizip ist und das Mudaf ilayh sein logisches Objekt oder seine Spezifikation darstellt.\n\nKritische Besonderheit: Anders als bei der Tamlik- und Bayan-Idafa macht die Sifa-Idafa das Mudaf NICHT definit. Das Adjektiv bleibt indefinit, obwohl es in einer Idafa-Konstruktion steht. Der Grund: Die Verbindung ist rein adjektivisch — sie drueckt aus, worin das Adjektiv gilt, nicht wem etwas gehoert.\n\nDas Mudaf verliert trotzdem seinen Tanwin — das ist eine formale Regel, die fuer JEDEN Idafa-Typ gilt."
+          },
+          {
+            "type": "quranExamples",
+            "title": "Adjektiv-Idafa im Quran",
+            "examples": [
+              {
+                "ref": "2:202",
+                "arabic": "سَرِيعُ الْحِسَابِ",
+                "explanation": "سَرِيع (Adjektiv, Mudaf) + الْحِسَاب (Mudaf ilayh, Genitiv). Schnell im Abrechnen. Das Adjektiv wird durch das Mudaf ilayh spezifiziert: worin ist er schnell? Im Abrechnen.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=202"
+              },
+              {
+                "ref": "2:196",
+                "arabic": "شَدِيدُ الْعِقَابِ",
+                "explanation": "شَدِيد (Adjektiv, Mudaf) + الْعِقَاب (Mudaf ilayh, Genitiv). Streng in der Bestrafung. Obwohl الْعِقَاب definit ist (mit Artikel), bleibt شَدِيد indefinit — das ist die Sonderregel der Sifa-Idafa.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=196"
+              }
+            ]
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "multiple_choice",
+          "prompt": "Was ist die entscheidende Besonderheit der Sifa-Idafa gegenueber der Tamlik- und Bayan-Idafa?",
+          "options": [
+            "Das Mudaf ilayh steht nicht im Genitiv",
+            "Das Mudaf bleibt indefinit, auch wenn das Mudaf ilayh definit ist",
+            "Das Mudaf behaelt seinen Tanwin",
+            "Das Mudaf muss ein Verb sein"
+          ],
+          "correct": 1,
+          "explanation": "Bei der Sifa-Idafa wird das Mudaf (Adjektiv/Partizip) NICHT durch ein definites Mudaf ilayh definit gemacht. شَدِيدُ الْعِقَابِ: شَدِيد bleibt indefinit, obwohl الْعِقَاب den Artikel traegt.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=196"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "In سَرِيعُ الْحِسَابِ (2:202) — was drueckt die Idafa-Beziehung aus?",
+          "options": [
+            "Der Schnelle gehoert der Abrechnung (Besitz)",
+            "Die Schnelligkeit besteht aus Abrechnung (Erklaerung)",
+            "Das Adjektiv 'schnell' wird spezifiziert: schnell WORIN? — im Abrechnen",
+            "Die Abrechnung findet schnell statt (zeitlich)"
+          ],
+          "correct": 2,
+          "explanation": "Die Sifa-Idafa spezifiziert das Adjektiv: سَرِيع (schnell) wird durch الْحِسَاب (die Abrechnung) eingegrenzt. Die Frage ist: schnell worin? Antwort: im Abrechnen.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=202"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Warum traegt شَدِيد in شَدِيدُ الْعِقَابِ (2:196) keinen Tanwin?",
+          "options": [
+            "Weil شَدِيد definit ist",
+            "Weil شَدِيد als Mudaf in einer Idafa steht — und das Mudaf verliert in JEDER Idafa seinen Tanwin",
+            "Weil شَدِيد ein Diptote ist",
+            "Weil der Tanwin nur bei Verben vorkommt"
+          ],
+          "correct": 1,
+          "explanation": "Das Mudaf verliert in jeder Idafa seinen Tanwin — das gilt auch fuer die Sifa-Idafa. Obwohl شَدِيد indefinit bleibt, faellt der Tanwin weg, weil es als Mudaf fungiert.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=196"
+        }
+      ],
+      "testContent": {
+        "exercises": [
+          {
+            "question": "Ist شَدِيدُ الْعِقَابِ (2:196) definit oder indefinit?",
+            "options": [
+              "Definit, weil الْعِقَاب den Artikel traegt",
+              "Indefinit, weil die Sifa-Idafa das Mudaf nicht definit macht",
+              "Definit, weil jede Idafa das Mudaf definit macht",
+              "Weder noch — Adjektive haben keine Definitheit"
+            ],
+            "correct": 1,
+            "explanation": "Die Sifa-Idafa ist die Ausnahme: Sie macht das Mudaf NICHT definit. شَدِيد bleibt indefinit, obwohl الْعِقَاب definit ist. Die Verbindung ist rein adjektivisch.",
+            "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=196"
+          },
+          {
+            "question": "Welcher Idafa-Typ liegt in سَرِيعُ الْحِسَابِ (2:202) vor?",
+            "options": [
+              "Idafa Tamlik (Besitz)",
+              "Idafa Bayan (Erklaerung)",
+              "Idafa Sifa (Adjektiv)",
+              "Idafa Zarfiyya (zeitlich/oertlich)"
+            ],
+            "correct": 2,
+            "explanation": "سَرِيع ist ein Adjektiv (fa'il-Muster), الْحِسَاب spezifiziert, worin die Schnelligkeit gilt. Das ist die typische Sifa-Idafa: Adjektiv + Spezifikation.",
+            "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=202"
+          }
+        ]
+      }
+    },
+    {
+      "id": "IDA4",
+      "title": "Idafa Zarfiyya — Zeitliche und oertliche Spezifikation",
+      "learnContent": {
+        "sections": [
+          {
+            "type": "explanation",
+            "title": "Was ist die Zarf-Idafa?",
+            "content": "Die Idafa Zarfiyya (إضافة ظرفية) liegt vor, wenn das Mudaf ein Zarf (Zeit- oder Ortsangabe) ist. Das Mudaf ilayh spezifiziert die Zeit oder den Ort naeher.\n\nZwei Untertypen:\n1. Zarf Zaman (Zeitangabe): يَوْم (Tag), لَيْلَة (Nacht), سَاعَة (Stunde) etc.\n2. Zarf Makan (Ortsangabe): عِنْدَ (bei), بَيْنَ (zwischen), فَوْقَ (ueber) etc.\n\nDie Idafa traegt hier adverbiale Funktion: Sie beantwortet die Frage 'wann?' oder 'wo?'. Viele Zarfiyya-Idafa-Konstruktionen stehen im Akkusativ als adverbiale Bestimmung."
+          },
+          {
+            "type": "quranExamples",
+            "title": "Zarf-Idafa im Quran",
+            "examples": [
+              {
+                "ref": "2:85",
+                "arabic": "يَوْمَ الْقِيَامَةِ",
+                "explanation": "يَوْم (Mudaf, Zarf Zaman — Zeitangabe, Akkusativ) + الْقِيَامَة (Mudaf ilayh, Genitiv). Der Tag wird durch das Ereignis spezifiziert. Am Tag der Auferstehung. Adverbiale Funktion: wann?",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=85"
+              },
+              {
+                "ref": "34:33",
+                "arabic": "مَكْرَ اللَّيْلِ",
+                "explanation": "مَكْر (Mudaf) + اللَّيْل (Mudaf ilayh, Genitiv). Die Nacht fungiert als zeitliche Spezifikation: die List, die IN der Nacht geschieht. Zarf Zaman.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=34&verse=33"
+              },
+              {
+                "ref": "3:14",
+                "arabic": "عِنْدَ اللَّهِ",
+                "explanation": "عِنْدَ (Mudaf, Zarf Makan — Ortsangabe, nicht flektierbar) + اللَّه (Mudaf ilayh, Genitiv). Bei Gott. عِنْدَ ist ein Zarf der stets als Mudaf steht und nie allein vorkommt.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=14"
+              }
+            ]
+          }
+        ]
+      },
+      "exercises": [
+        {
+          "type": "multiple_choice",
+          "prompt": "In يَوْمَ الْقِيَامَةِ (2:85) — welche Funktion hat die Idafa im Satz?",
+          "options": [
+            "Sie drueckt Besitz aus: der Tag gehoert der Auferstehung",
+            "Sie erklaert die Art: der Tag besteht aus Auferstehung",
+            "Sie hat adverbiale Funktion: sie beantwortet die Frage 'wann?'",
+            "Sie ist eine Adjektiv-Verbindung: der auferstehende Tag"
+          ],
+          "correct": 2,
+          "explanation": "يَوْمَ الْقِيَامَةِ ist eine Zarfiyya-Idafa mit adverbialer Funktion. يَوْم ist ein Zarf Zaman (Zeitangabe), der im Akkusativ steht und die Frage 'wann?' beantwortet: am Tag der Auferstehung.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=85"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "In عِنْدَ اللَّهِ (3:14) — welcher Zarf-Untertyp liegt vor?",
+          "options": [
+            "Zarf Zaman (Zeitangabe)",
+            "Zarf Makan (Ortsangabe)",
+            "Zarf Sifa (Eigenschaftsangabe)",
+            "Kein Zarf — عِنْدَ ist eine Praeposition"
+          ],
+          "correct": 1,
+          "explanation": "عِنْدَ ist ein Zarf Makan (Ortsangabe), kein Zarf Zaman. Es beantwortet die Frage 'wo?': bei Gott. عِنْدَ ist ein nicht-flektierbarer Zarf, der immer als Mudaf fungiert.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=14"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "In مَكْرَ اللَّيْلِ (34:33) — warum ist dies eine Zarfiyya-Idafa und keine Tamlik-Idafa?",
+          "options": [
+            "Weil اللَّيْل keinen Artikel hat",
+            "Weil die Nacht nicht die List BESITZT, sondern die Zeit spezifiziert, IN der die List stattfindet",
+            "Weil مَكْر ein Adjektiv ist",
+            "Weil das Mudaf ilayh indefinit ist"
+          ],
+          "correct": 1,
+          "explanation": "Die Nacht besitzt nicht die List. Stattdessen gibt اللَّيْل die zeitliche Eingrenzung an: die List die IN der Nacht geschieht. Das Mudaf ilayh hat hier zeitlich-spezifizierende Funktion (Zarf Zaman).",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=34&verse=33"
+        }
+      ],
+      "testContent": {
+        "exercises": [
+          {
+            "question": "Welcher Idafa-Typ liegt in يَوْمَ الْقِيَامَةِ (2:85) vor?",
+            "options": [
+              "Idafa Tamlik (Besitz)",
+              "Idafa Bayan (Erklaerung)",
+              "Idafa Sifa (Adjektiv)",
+              "Idafa Zarfiyya (zeitlich/oertlich)"
+            ],
+            "correct": 3,
+            "explanation": "يَوْم ist ein Zarf Zaman (Zeitangabe). الْقِيَامَة spezifiziert, WELCHER Tag gemeint ist. Die Idafa hat adverbiale Funktion und beantwortet die Frage 'wann?'.",
+            "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=85"
+          },
+          {
+            "question": "Welche zwei Untertypen hat die Idafa Zarfiyya?",
+            "options": [
+              "Tamlik und Bayan",
+              "Definit und Indefinit",
+              "Zarf Zaman (Zeit) und Zarf Makan (Ort)",
+              "Aktiv und Passiv"
+            ],
+            "correct": 2,
+            "explanation": "Die Zarfiyya-Idafa hat zwei Untertypen: Zarf Zaman (Zeitangabe, z.B. يَوْمَ الْقِيَامَةِ) und Zarf Makan (Ortsangabe, z.B. عِنْدَ اللَّهِ).",
+            "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=85"
+          }
+        ]
+      }
+    }
   ]
 }
