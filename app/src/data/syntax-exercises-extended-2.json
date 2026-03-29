@@ -199,11 +199,9 @@
       },
       "question": "Wurde in diesem Satz etwas vorangestellt? Wenn ja, was?",
       "correctAnswer": {
-        "wordIndices": [
-          0
-        ],
-        "word": "رحمتى",
-        "explanation": "Das Mubtada رحمتى (meine Barmherzigkeit) steht zwar am Satzanfang, aber der Satz وسعت كل شى (sie umfasste jedes Ding) ist ein Verbalsatz als Khabar. Hier fällt auf, dass das Thema (رحمتى) vorangestellt ist, um es als Gegenstand der Aussage zu etablieren, bevor die Handlung folgt.",
+        "wordIndices": [],
+        "word": "—",
+        "explanation": "Keine Voranstellung (kein Taqdim). رحمتى ist Mubtada in seiner Default-Position (Satzanfang), وسعت كل شى ist ein Verbalsatz als Khabar. Das ist die unmarkierte Nominalsatz-Struktur: Mubtada — Khabar. Der Mubtada steht dort, wo er hingehört.",
         "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=7&verse=156"
       },
       "difficulty": 2,
@@ -225,7 +223,7 @@
           2
         ],
         "word": "رب العالمين",
-        "explanation": "رب العالمين (Herr der Welten) ist ein Badal kull min kull (vollständige Apposition) zu الله. Die Apposition erläutert das Bezugswort vollständig — Gott IST der Herr der Welten. Der Badal folgt dem Kasus des Bezugswortes: الله steht im Genitiv (nach ل), also steht auch ربِّ im Genitiv.",
+        "explanation": "رب العالمين (Herr der Welten) folgt الله im selben Kasus (Genitiv, nach لِ). Zwei gültige Analysen: (1) Badal kull min kull (vollständige Apposition) — Gott IST der Herr der Welten. (2) Na't/Sifa (Attribut) — رب als beschreibende Eigenschaft von الله. Beide Analysen sind grammatisch tragfähig. Der Kasus (Genitiv) ist bei beiden identisch.",
         "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=2"
       },
       "difficulty": 1,

@@ -35,7 +35,7 @@
           "word": "فَ",
           "role": "Konjunktion",
           "case": "—",
-          "explanation": "Anknüpfende Konjunktion (Fa al-fa'sihiyya).",
+          "explanation": "Anknüpfende Konjunktion. Analyse als Fa al-fa'sihiyya (impliziert eine elidierte Bedingung) oder als einfache Fa al-'atf (koordinierend, leitet die Konsequenz des vorhergehenden Kontexts ein). Beide Analysen sind grammatisch vertretbar.",
           "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=175"
         },
         {
@@ -209,7 +209,7 @@
     {
       "id": "syn_305",
       "type": "parse",
-      "category": "ta'ajjub",
+      "category": "negation",
       "verse": "فَمَا أَغْنَىٰ عَنْهُمْ سَمْعُهُمْ وَلَا أَبْصَارُهُمْ وَلَا أَفْئِدَتُهُمْ مِنْ شَيْءٍ",
       "surah": 46,
       "ayah": 26,
@@ -224,9 +224,9 @@
         },
         {
           "word": "مَا",
-          "role": "Negationspartikel / Ta'ajjub",
+          "role": "Negationspartikel (ما النافية)",
           "case": "—",
-          "explanation": "Hier als Negation (ما النافية) lesbar: 'ihr Gehör nuetzte ihnen nichts'. Auch eine exklamative Konnotation ist möglich.",
+          "explanation": "ما النافية (Negationspartikel): 'ihr Gehör nuetzte ihnen nichts'. Die Struktur beweist Negation, nicht Ta'ajjub: سمعهم steht im Nominativ als Fa'il — bei ما التعجبية (Exklamativ) müsste das Objekt im Akkusativ stehen (Muster: ما أَفْعَلَهُ).",
           "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=46&verse=26"
         },
         {

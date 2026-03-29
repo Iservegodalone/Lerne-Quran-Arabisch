@@ -24,7 +24,7 @@ const STRAY_CHARS = /[@ٕ]/
 const THEOLOGICAL_GLOSSES = [
   'Allwissend', 'Allbarmherzig', 'Allerbarmer', 'Allmächtig', 'Allmächtig',
   'Allhörend', 'Allhörend', 'Allsehend', 'Allvergebend',
-  'Rechtleitung', 'Barmherzigste',
+  'Barmherzigste',
 ]
 
 const THEOLOGICAL_RE = new RegExp(THEOLOGICAL_GLOSSES.join('|'))
