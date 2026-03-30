@@ -3,7 +3,10 @@
     "description": "Surah index with word counts and root statistics",
     "totalSurahs": 114,
     "sources": [
-      { "name": "Quranic Arabic Corpus", "url": "https://corpus.quran.com/" }
+      {
+        "name": "Quranic Arabic Corpus",
+        "url": "https://corpus.quran.com/"
+      }
     ]
   },
   "surahs": [
@@ -35,7 +38,8 @@
           "root": "ح م د",
           "count": 1
         }
-      ]
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=1"
     },
     {
       "number": 2,
@@ -65,7 +69,8 @@
           "root": "ك و ن",
           "count": 78
         }
-      ]
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=1"
     },
     {
       "number": 3,
@@ -95,7 +100,8 @@
           "root": "ك ف ر",
           "count": 43
         }
-      ]
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=1"
     },
     {
       "number": 4,
@@ -125,7 +131,8 @@
           "root": "ك ف ر",
           "count": 38
         }
-      ]
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=1"
     },
     {
       "number": 5,
@@ -155,7 +162,8 @@
           "root": "ك و ن",
           "count": 32
         }
-      ]
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=5&verse=1"
     },
     {
       "number": 6,
@@ -185,7 +193,8 @@
           "root": "ع ل م",
           "count": 44
         }
-      ]
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=6&verse=1"
     },
     {
       "number": 7,
@@ -215,7 +224,8 @@
           "root": "ق و م",
           "count": 55
         }
-      ]
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=7&verse=1"
     },
     {
       "number": 8,
@@ -245,7 +255,8 @@
           "root": "ك ف ر",
           "count": 17
         }
-      ]
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=8&verse=1"
     },
     {
       "number": 9,
@@ -275,7 +286,8 @@
           "root": "ع ل م",
           "count": 32
         }
-      ]
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=9&verse=1"
     },
     {
       "number": 10,
@@ -305,7 +317,8 @@
           "root": "ر ب ب",
           "count": 24
         }
-      ]
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=10&verse=1"
     },
     {
       "number": 11,
@@ -335,7 +348,8 @@
           "root": "ك و ن",
           "count": 33
         }
-      ]
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=11&verse=1"
     },
     {
       "number": 12,
@@ -365,7 +379,8 @@
           "root": "ا ب و",
           "count": 28
         }
-      ]
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=12&verse=1"
     },
     {
       "number": 13,
@@ -395,7 +410,8 @@
           "root": "ك ل ل",
           "count": 10
         }
-      ]
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=13&verse=1"
     },
     {
       "number": 14,
@@ -425,7 +441,8 @@
           "root": "ر س ل",
           "count": 10
         }
-      ]
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=14&verse=1"
     },
     {
       "number": 15,
@@ -455,7 +472,8 @@
           "root": "ا ت ي",
           "count": 7
         }
-      ]
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=15&verse=1"
     },
     {
       "number": 16,
@@ -485,7 +503,8 @@
           "root": "ش ي ا",
           "count": 19
         }
-      ]
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=16&verse=1"
     },
     {
       "number": 17,
@@ -515,7 +534,8 @@
           "root": "ج ع ل",
           "count": 15
         }
-      ]
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=17&verse=1"
     },
     {
       "number": 18,
@@ -545,7 +565,8 @@
           "root": "ج ع ل",
           "count": 15
         }
-      ]
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=18&verse=1"
     },
     {
       "number": 19,
@@ -575,7 +596,8 @@
           "root": "ي و م",
           "count": 13
         }
-      ]
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=19&verse=1"
     },
     {
       "number": 20,
@@ -605,7 +627,8 @@
           "root": "ق و م",
           "count": 12
         }
-      ]
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=20&verse=1"
     },
     {
       "number": 21,
@@ -635,7 +658,8 @@
           "root": "ر ب ب",
           "count": 14
         }
-      ]
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=21&verse=1"
     },
     {
       "number": 22,
@@ -665,7 +689,8 @@
           "root": "ك ل ل",
           "count": 12
         }
-      ]
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=22&verse=1"
     },
     {
       "number": 23,
@@ -695,7 +720,8 @@
           "root": "ق و م",
           "count": 13
         }
-      ]
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=23&verse=1"
     },
     {
       "number": 24,
@@ -725,7 +751,8 @@
           "root": "ب ي ت",
           "count": 14
         }
-      ]
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=24&verse=1"
     },
     {
       "number": 25,
@@ -755,7 +782,8 @@
           "root": "ا ل ه",
           "count": 12
         }
-      ]
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=25&verse=1"
     },
     {
       "number": 26,
@@ -785,7 +813,8 @@
           "root": "ع ل م",
           "count": 25
         }
-      ]
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=26&verse=1"
     },
     {
       "number": 27,
@@ -815,7 +844,8 @@
           "root": "ق و م",
           "count": 16
         }
-      ]
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=27&verse=1"
     },
     {
       "number": 28,
@@ -845,7 +875,8 @@
           "root": "ر ب ب",
           "count": 19
         }
-      ]
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=28&verse=1"
     },
     {
       "number": 29,
@@ -875,7 +906,8 @@
           "root": "ا م ن",
           "count": 18
         }
-      ]
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=29&verse=1"
     },
     {
       "number": 30,
@@ -905,7 +937,8 @@
           "root": "ا ر ض",
           "count": 14
         }
-      ]
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=30&verse=1"
     },
     {
       "number": 31,
@@ -935,7 +968,8 @@
           "root": "ر ا ي",
           "count": 6
         }
-      ]
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=31&verse=1"
     },
     {
       "number": 32,
@@ -965,7 +999,8 @@
           "root": "ي و م",
           "count": 5
         }
-      ]
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=32&verse=1"
     },
     {
       "number": 33,
@@ -995,7 +1030,8 @@
           "root": "ن ب ا",
           "count": 18
         }
-      ]
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=33&verse=1"
     },
     {
       "number": 34,
@@ -1025,7 +1061,8 @@
           "root": "ا م ن",
           "count": 11
         }
-      ]
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=34&verse=1"
     },
     {
       "number": 35,
@@ -1055,7 +1092,8 @@
           "root": "س م و",
           "count": 9
         }
-      ]
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=35&verse=1"
     },
     {
       "number": 36,
@@ -1085,7 +1123,8 @@
           "root": "ب ي ن",
           "count": 9
         }
-      ]
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=36&verse=1"
     },
     {
       "number": 37,
@@ -1115,7 +1154,8 @@
           "root": "ع ب د",
           "count": 14
         }
-      ]
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=37&verse=1"
     },
     {
       "number": 38,
@@ -1145,7 +1185,8 @@
           "root": "ا ل ه",
           "count": 7
         }
-      ]
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=38&verse=1"
     },
     {
       "number": 39,
@@ -1175,7 +1216,8 @@
           "root": "ع ب د",
           "count": 16
         }
-      ]
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=39&verse=1"
     },
     {
       "number": 40,
@@ -1205,7 +1247,8 @@
           "root": "د ع و",
           "count": 18
         }
-      ]
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=40&verse=1"
     },
     {
       "number": 41,
@@ -1235,7 +1278,8 @@
           "root": "ع م ل",
           "count": 11
         }
-      ]
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=41&verse=1"
     },
     {
       "number": 42,
@@ -1265,7 +1309,8 @@
           "root": "ا م ن",
           "count": 9
         }
-      ]
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=42&verse=1"
     },
     {
       "number": 43,
@@ -1295,7 +1340,8 @@
           "root": "ج ع ل",
           "count": 12
         }
-      ]
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=43&verse=1"
     },
     {
       "number": 44,
@@ -1325,7 +1371,8 @@
           "root": "ق و م",
           "count": 6
         }
-      ]
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=44&verse=1"
     },
     {
       "number": 45,
@@ -1355,7 +1402,8 @@
           "root": "ع ل م",
           "count": 8
         }
-      ]
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=45&verse=1"
     },
     {
       "number": 46,
@@ -1385,7 +1433,8 @@
           "root": "ب ي ن",
           "count": 9
         }
-      ]
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=46&verse=1"
     },
     {
       "number": 47,
@@ -1415,7 +1464,8 @@
           "root": "ق و ل",
           "count": 6
         }
-      ]
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=47&verse=1"
     },
     {
       "number": 48,
@@ -1445,7 +1495,8 @@
           "root": "ك ف ر",
           "count": 8
         }
-      ]
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=48&verse=1"
     },
     {
       "number": 49,
@@ -1475,7 +1526,8 @@
           "root": "ب ي ن",
           "count": 5
         }
-      ]
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=49&verse=1"
     },
     {
       "number": 50,
@@ -1505,7 +1557,8 @@
           "root": "ك ل ل",
           "count": 6
         }
-      ]
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=50&verse=1"
     },
     {
       "number": 51,
@@ -1535,7 +1588,8 @@
           "root": "ر ب ب",
           "count": 5
         }
-      ]
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=51&verse=1"
     },
     {
       "number": 52,
@@ -1565,7 +1619,8 @@
           "root": "ي و م",
           "count": 4
         }
-      ]
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=52&verse=1"
     },
     {
       "number": 53,
@@ -1595,7 +1650,8 @@
           "root": "س م و",
           "count": 6
         }
-      ]
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=53&verse=1"
     },
     {
       "number": 54,
@@ -1625,7 +1681,8 @@
           "root": "ك ل ل",
           "count": 6
         }
-      ]
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=54&verse=1"
     },
     {
       "number": 55,
@@ -1655,7 +1712,8 @@
           "root": "ا ن س",
           "count": 6
         }
-      ]
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=55&verse=1"
     },
     {
       "number": 56,
@@ -1685,7 +1743,8 @@
           "root": "ا و ل",
           "count": 5
         }
-      ]
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=56&verse=1"
     },
     {
       "number": 57,
@@ -1715,7 +1774,8 @@
           "root": "س م و",
           "count": 7
         }
-      ]
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=57&verse=1"
     },
     {
       "number": 58,
@@ -1745,7 +1805,8 @@
           "root": "ق و ل",
           "count": 8
         }
-      ]
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=58&verse=1"
     },
     {
       "number": 59,
@@ -1775,7 +1836,8 @@
           "root": "ن ص ر",
           "count": 5
         }
-      ]
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=59&verse=1"
     },
     {
       "number": 60,
@@ -1805,7 +1867,8 @@
           "root": "ع د و",
           "count": 5
         }
-      ]
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=60&verse=1"
     },
     {
       "number": 61,
@@ -1835,7 +1898,8 @@
           "root": "ب ن ي",
           "count": 5
         }
-      ]
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=61&verse=1"
     },
     {
       "number": 62,
@@ -1865,7 +1929,8 @@
           "root": "ف ض ل",
           "count": 3
         }
-      ]
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=62&verse=1"
     },
     {
       "number": 63,
@@ -1895,7 +1960,8 @@
           "root": "غ ف ر",
           "count": 4
         }
-      ]
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=63&verse=1"
     },
     {
       "number": 64,
@@ -1925,7 +1991,8 @@
           "root": "ع م ل",
           "count": 4
         }
-      ]
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=64&verse=1"
     },
     {
       "number": 65,
@@ -1955,7 +2022,8 @@
           "root": "خ ر ج",
           "count": 4
         }
-      ]
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=65&verse=1"
     },
     {
       "number": 66,
@@ -1985,7 +2053,8 @@
           "root": "ر ب ب",
           "count": 5
         }
-      ]
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=66&verse=1"
     },
     {
       "number": 67,
@@ -2015,7 +2084,8 @@
           "root": "ك و ن",
           "count": 5
         }
-      ]
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=67&verse=1"
     },
     {
       "number": 68,
@@ -2045,7 +2115,8 @@
           "root": "ج ن ن",
           "count": 4
         }
-      ]
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=68&verse=1"
     },
     {
       "number": 69,
@@ -2075,7 +2146,8 @@
           "root": "ك ت ب",
           "count": 4
         }
-      ]
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=69&verse=1"
     },
     {
       "number": 70,
@@ -2105,7 +2177,8 @@
           "root": "ص ل و",
           "count": 3
         }
-      ]
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=70&verse=1"
     },
     {
       "number": 71,
@@ -2135,7 +2208,8 @@
           "root": "ر ب ب",
           "count": 5
         }
-      ]
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=71&verse=1"
     },
     {
       "number": 72,
@@ -2165,7 +2239,8 @@
           "root": "ك و ن",
           "count": 6
         }
-      ]
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=72&verse=1"
     },
     {
       "number": 73,
@@ -2195,7 +2270,8 @@
           "root": "ق ر ا",
           "count": 4
         }
-      ]
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=73&verse=1"
     },
     {
       "number": 74,
@@ -2225,7 +2301,8 @@
           "root": "ب ش ر",
           "count": 4
         }
-      ]
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=74&verse=1"
     },
     {
       "number": 75,
@@ -2255,7 +2332,8 @@
           "root": "ق ر ا",
           "count": 3
         }
-      ]
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=75&verse=1"
     },
     {
       "number": 76,
@@ -2285,7 +2363,8 @@
           "root": "ك ف ر",
           "count": 4
         }
-      ]
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=76&verse=1"
     },
     {
       "number": 77,
@@ -2315,7 +2394,8 @@
           "root": "ق د ر",
           "count": 3
         }
-      ]
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=77&verse=1"
     },
     {
       "number": 78,
@@ -2345,7 +2425,8 @@
           "root": "ر ب ب",
           "count": 3
         }
-      ]
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=78&verse=1"
     },
     {
       "number": 79,
@@ -2375,7 +2456,8 @@
           "root": "ر ا ي",
           "count": 3
         }
-      ]
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=79&verse=1"
     },
     {
       "number": 80,
@@ -2405,7 +2487,8 @@
           "root": "غ ن ي",
           "count": 2
         }
-      ]
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=80&verse=1"
     },
     {
       "number": 81,
@@ -2435,7 +2518,8 @@
           "root": "ق و ل",
           "count": 2
         }
-      ]
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=81&verse=1"
     },
     {
       "number": 82,
@@ -2465,7 +2549,8 @@
           "root": "ع ل م",
           "count": 2
         }
-      ]
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=82&verse=1"
     },
     {
       "number": 83,
@@ -2495,7 +2580,8 @@
           "root": "ق و ل",
           "count": 3
         }
-      ]
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=83&verse=1"
     },
     {
       "number": 84,
@@ -2525,7 +2611,8 @@
           "root": "ك د ح",
           "count": 2
         }
-      ]
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=84&verse=1"
     },
     {
       "number": 85,
@@ -2555,7 +2642,8 @@
           "root": "ف ع ل",
           "count": 2
         }
-      ]
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=85&verse=1"
     },
     {
       "number": 86,
@@ -2585,7 +2673,8 @@
           "root": "ر ج ع",
           "count": 2
         }
-      ]
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=86&verse=1"
     },
     {
       "number": 87,
@@ -2615,7 +2704,8 @@
           "root": "ح ي ي",
           "count": 2
         }
-      ]
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=87&verse=1"
     },
     {
       "number": 88,
@@ -2645,7 +2735,8 @@
           "root": "ل ي س",
           "count": 2
         }
-      ]
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=88&verse=1"
     },
     {
       "number": 89,
@@ -2675,7 +2766,8 @@
           "root": "د ك ك",
           "count": 3
         }
-      ]
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=89&verse=1"
     },
     {
       "number": 90,
@@ -2705,7 +2797,8 @@
           "root": "ع ق ب",
           "count": 2
         }
-      ]
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=90&verse=1"
     },
     {
       "number": 91,
@@ -2735,7 +2828,8 @@
           "root": "ض ح و",
           "count": 1
         }
-      ]
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=91&verse=1"
     },
     {
       "number": 92,
@@ -2765,7 +2859,8 @@
           "root": "ك ذ ب",
           "count": 2
         }
-      ]
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=92&verse=1"
     },
     {
       "number": 93,
@@ -2795,7 +2890,8 @@
           "root": "ل ي ل",
           "count": 1
         }
-      ]
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=93&verse=1"
     },
     {
       "number": 94,
@@ -2825,7 +2921,8 @@
           "root": "و ض ع",
           "count": 1
         }
-      ]
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=94&verse=1"
     },
     {
       "number": 95,
@@ -2855,7 +2952,8 @@
           "root": "ز ي ت",
           "count": 1
         }
-      ]
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=95&verse=1"
     },
     {
       "number": 96,
@@ -2885,7 +2983,8 @@
           "root": "ق ر ا",
           "count": 2
         }
-      ]
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=96&verse=1"
     },
     {
       "number": 97,
@@ -2915,7 +3014,8 @@
           "root": "خ ي ر",
           "count": 1
         }
-      ]
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=97&verse=1"
     },
     {
       "number": 98,
@@ -2945,7 +3045,8 @@
           "root": "ك ف ر",
           "count": 2
         }
-      ]
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=98&verse=1"
     },
     {
       "number": 99,
@@ -2975,7 +3076,8 @@
           "root": "ا ر ض",
           "count": 2
         }
-      ]
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=99&verse=1"
     },
     {
       "number": 100,
@@ -3005,7 +3107,8 @@
           "root": "ق د ح",
           "count": 1
         }
-      ]
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=100&verse=1"
     },
     {
       "number": 101,
@@ -3035,7 +3138,8 @@
           "root": "ي و م",
           "count": 1
         }
-      ]
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=101&verse=1"
     },
     {
       "number": 102,
@@ -3065,7 +3169,8 @@
           "root": "ك ث ر",
           "count": 1
         }
-      ]
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=102&verse=1"
     },
     {
       "number": 103,
@@ -3095,7 +3200,8 @@
           "root": "ا م ن",
           "count": 1
         }
-      ]
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=103&verse=1"
     },
     {
       "number": 104,
@@ -3125,7 +3231,8 @@
           "root": "ل م ز",
           "count": 1
         }
-      ]
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=104&verse=1"
     },
     {
       "number": 105,
@@ -3155,7 +3262,8 @@
           "root": "ر ب ب",
           "count": 1
         }
-      ]
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=105&verse=1"
     },
     {
       "number": 106,
@@ -3185,7 +3293,8 @@
           "root": "ع ب د",
           "count": 1
         }
-      ]
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=106&verse=1"
     },
     {
       "number": 107,
@@ -3215,7 +3324,8 @@
           "root": "د ع ع",
           "count": 1
         }
-      ]
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=107&verse=1"
     },
     {
       "number": 108,
@@ -3245,7 +3355,8 @@
           "root": "ن ح ر",
           "count": 1
         }
-      ]
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=108&verse=1"
     },
     {
       "number": 109,
@@ -3271,7 +3382,8 @@
           "root": "ك ف ر",
           "count": 1
         }
-      ]
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=109&verse=1"
     },
     {
       "number": 110,
@@ -3301,7 +3413,8 @@
           "root": "ر ا ي",
           "count": 1
         }
-      ]
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=110&verse=1"
     },
     {
       "number": 111,
@@ -3331,7 +3444,8 @@
           "root": "غ ن ي",
           "count": 1
         }
-      ]
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=111&verse=1"
     },
     {
       "number": 112,
@@ -3361,7 +3475,8 @@
           "root": "ص م د",
           "count": 1
         }
-      ]
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=112&verse=1"
     },
     {
       "number": 113,
@@ -3391,7 +3506,8 @@
           "root": "ر ب ب",
           "count": 1
         }
-      ]
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=113&verse=1"
     },
     {
       "number": 114,
@@ -3421,7 +3537,8 @@
           "root": "ر ب ب",
           "count": 1
         }
-      ]
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=114&verse=1"
     }
   ]
 }

@@ -21,12 +21,14 @@
     {
       "type": "explanation",
       "title": "Phase 1: Das reine Konsonantenskelett (Rasm)",
-      "content": "Die frueheste arabische Schrift notierte nur das Konsonantenskelett eines Wortes. Vokale wurden nicht geschrieben, diakritische Punkte fehlten. Dieses Skelett heißt Rasm (رَسْم, wörtlich: Zeichnung/Spur). Ein und dieselbe Buchstabenform konnte für mehrere Konsonanten stehen. Der Leser musste aus Kontext, Sprachkompetenz und Wortkenntnis erschließen, welches Wort gemeint war. Dieses System war funktional, weil die arabische Morphologie auf Konsonantenwurzeln basiert: Wer die Wurzel erkennt, kann oft das gemeinte Wort ableiten."
+      "content": "Die frueheste arabische Schrift notierte nur das Konsonantenskelett eines Wortes. Vokale wurden nicht geschrieben, diakritische Punkte fehlten. Dieses Skelett heißt Rasm (رَسْم, wörtlich: Zeichnung/Spur). Ein und dieselbe Buchstabenform konnte für mehrere Konsonanten stehen. Der Leser musste aus Kontext, Sprachkompetenz und Wortkenntnis erschließen, welches Wort gemeint war. Dieses System war funktional, weil die arabische Morphologie auf Konsonantenwurzeln basiert: Wer die Wurzel erkennt, kann oft das gemeinte Wort ableiten.",
+      "verifyUrl": "https://corpus.quran.com/qurantext.jsp"
     },
     {
       "type": "explanation",
       "title": "Homographie im fruehen Rasm",
-      "content": "Im punktlosen Rasm fallen zahlreiche Buchstaben zusammen, weil sie dieselbe Grundform (Skelettform) teilen. Die wichtigsten Gruppen:\n\n1. ب ت ث ن (ى am Wortende) — alle als eine Grundform mit einem, zwei, drei oder keinem Punkt\n2. ج ح خ — alle als eine Grundform\n3. د ذ — gleiche Grundform\n4. ر ز — gleiche Grundform\n5. س ش — gleiche Grundform\n6. ص ض — gleiche Grundform\n7. ط ظ — gleiche Grundform\n8. ع غ — gleiche Grundform\n9. ف ق — ähnliche Grundform (regional verschieden)\n\nDas bedeutet: 28 Konsonantenphoneme werden auf nur ca. 15-18 unterscheidbare Grundformen abgebildet. Die Mehrdeutigkeit ist erheblich — ein Wort wie ٮٮٮ könnte theoretisch Dutzende verschiedene Konsonantenfolgen darstellen."
+      "content": "Im punktlosen Rasm fallen zahlreiche Buchstaben zusammen, weil sie dieselbe Grundform (Skelettform) teilen. Die wichtigsten Gruppen:\n\n1. ب ت ث ن (ى am Wortende) — alle als eine Grundform mit einem, zwei, drei oder keinem Punkt\n2. ج ح خ — alle als eine Grundform\n3. د ذ — gleiche Grundform\n4. ر ز — gleiche Grundform\n5. س ش — gleiche Grundform\n6. ص ض — gleiche Grundform\n7. ط ظ — gleiche Grundform\n8. ع غ — gleiche Grundform\n9. ف ق — ähnliche Grundform (regional verschieden)\n\nDas bedeutet: 28 Konsonantenphoneme werden auf nur ca. 15-18 unterscheidbare Grundformen abgebildet. Die Mehrdeutigkeit ist erheblich — ein Wort wie ٮٮٮ könnte theoretisch Dutzende verschiedene Konsonantenfolgen darstellen.",
+      "verifyUrl": "https://corpus.quran.com/qurantext.jsp"
     },
     {
       "type": "explanation",
@@ -36,12 +38,14 @@
     {
       "type": "explanation",
       "title": "Phase 2: Hinzufuegung der diakritischen Punkte (I'jam)",
-      "content": "Die diakritischen Punkte (I'jam, إِعْجَام) wurden eingeführt, um die Mehrdeutigkeit der Grundformen aufzulösen. Die Einführung geschah schrittweise:\n\nBereits in vorqurannischen Texten tauchen vereinzelt Punkte auf, aber unsystematisch. Die systematische Verwendung setzte sich im Laufe des 1. Jahrhunderts der Hidschra (7./8. Jh. n. Chr.) durch. Die Systematisierung der Punktierung (I'jam) erfolgte in den ersten Jahrhunderten der arabischen Schriftkultur.\n\nDas System ist oekonomisch: Maximal drei Punkte reichen aus, um alle Ambiguitäten aufzulösen. Die Punkte stehen über oder unter dem Buchstaben:\n\n- ب (ein Punkt unten), ت (zwei Punkte oben), ث (drei Punkte oben), ن (ein Punkt oben)\n- ج (ein Punkt unten), ح (kein Punkt), خ (ein Punkt oben)\n- د (kein Punkt), ذ (ein Punkt oben)\n- ر (kein Punkt), ز (ein Punkt oben)\n- س (kein Punkt), ش (drei Punkte oben)\n- ص (kein Punkt), ض (ein Punkt oben)\n- ط (kein Punkt), ظ (ein Punkt oben)\n- ع (kein Punkt), غ (ein Punkt oben)\n- ف (ein Punkt oben), ق (zwei Punkte oben) — in manchen Regionen umgekehrt"
+      "content": "Die diakritischen Punkte (I'jam, إِعْجَام) wurden eingeführt, um die Mehrdeutigkeit der Grundformen aufzulösen. Die Einführung geschah schrittweise:\n\nBereits in vorqurannischen Texten tauchen vereinzelt Punkte auf, aber unsystematisch. Die systematische Verwendung setzte sich im Laufe des 1. Jahrhunderts der Hidschra (7./8. Jh. n. Chr.) durch. Die Systematisierung der Punktierung (I'jam) erfolgte in den ersten Jahrhunderten der arabischen Schriftkultur.\n\nDas System ist oekonomisch: Maximal drei Punkte reichen aus, um alle Ambiguitäten aufzulösen. Die Punkte stehen über oder unter dem Buchstaben:\n\n- ب (ein Punkt unten), ت (zwei Punkte oben), ث (drei Punkte oben), ن (ein Punkt oben)\n- ج (ein Punkt unten), ح (kein Punkt), خ (ein Punkt oben)\n- د (kein Punkt), ذ (ein Punkt oben)\n- ر (kein Punkt), ز (ein Punkt oben)\n- س (kein Punkt), ش (drei Punkte oben)\n- ص (kein Punkt), ض (ein Punkt oben)\n- ط (kein Punkt), ظ (ein Punkt oben)\n- ع (kein Punkt), غ (ein Punkt oben)\n- ف (ein Punkt oben), ق (zwei Punkte oben) — in manchen Regionen umgekehrt",
+      "verifyUrl": "https://corpus.quran.com/qurantext.jsp"
     },
     {
       "type": "explanation",
       "title": "Phase 3: Hinzufuegung der Vokalzeichen (Tashkil)",
-      "content": "Die Vokalzeichen (Tashkil, تَشْكِيل) bilden die dritte Schicht über dem Konsonantenskelett. Ihre Einführung war ein separater Prozess:\n\nFruehes System: farbige Punkte über/unter den Buchstaben zur Vokalmarkierung (ab ca. 1. Jh. H.): Farbige Punkte in verschiedenen Positionen — rot für Fatha (oben), Kasra (unten), Damma (davor). Dieses System verwendete Punkte, die mit den später eingeführten Konsonantenpunkten verwechselt werden konnten.\n\nSpaeteres System: die heute verwendeten Tashkil-Zeichen (ab ca. 2. Jh. H.): Die heute bekannten Formen — Fatha (kleiner Strich oben: ◌َ), Kasra (kleiner Strich unten: ◌ِ), Damma (kleines Waw oben: ◌ُ), Sukun (kleiner Kreis oben: ◌ْ), Schadda (W-foermiges Zeichen oben: ◌ّ für Verdopplung), Tanwin (doppeltes Vokalzeichen: ◌ً ◌ٍ ◌ٌ).\n\nDieses System setzte sich durch, weil es visuell klar von den Konsonantenpunkten unterscheidbar ist."
+      "content": "Die Vokalzeichen (Tashkil, تَشْكِيل) bilden die dritte Schicht über dem Konsonantenskelett. Ihre Einführung war ein separater Prozess:\n\nFruehes System: farbige Punkte über/unter den Buchstaben zur Vokalmarkierung (ab ca. 1. Jh. H.): Farbige Punkte in verschiedenen Positionen — rot für Fatha (oben), Kasra (unten), Damma (davor). Dieses System verwendete Punkte, die mit den später eingeführten Konsonantenpunkten verwechselt werden konnten.\n\nSpaeteres System: die heute verwendeten Tashkil-Zeichen (ab ca. 2. Jh. H.): Die heute bekannten Formen — Fatha (kleiner Strich oben: ◌َ), Kasra (kleiner Strich unten: ◌ِ), Damma (kleines Waw oben: ◌ُ), Sukun (kleiner Kreis oben: ◌ْ), Schadda (W-foermiges Zeichen oben: ◌ّ für Verdopplung), Tanwin (doppeltes Vokalzeichen: ◌ً ◌ٍ ◌ٌ).\n\nDieses System setzte sich durch, weil es visuell klar von den Konsonantenpunkten unterscheidbar ist.",
+      "verifyUrl": "https://corpus.quran.com/qurantext.jsp"
     },
     {
       "type": "explanation",
@@ -51,7 +55,8 @@
     {
       "type": "explanation",
       "title": "Warum der Rasm konserviert wurde",
-      "content": "Der Rasm des Qurantextes wurde historisch als unveränderlich behandelt. Die Konsonantenskelette der fruehesten Abschriften wurden beibehalten, auch wenn sie von der später standardisierten Orthographie abweichen. Beispiele für solche Rasm-Eigenheiten:\n\n- الصلوة statt الصلاة (mit Waw statt Alif)\n- الزكوة statt الزكاة\n- الحيوة statt الحياة\n- السموت — Rasm-Schreibung für السماوات (ohne Alif nach dem Waw)\n- بسم statt باسم (ohne Alif)\n\nDiese Schreibungen reflektieren möglicherweise ältere orthographische Konventionen oder regionale Schreibvarianten. Sie wurden nicht korrigiert, weil der Rasm als fixiert galt. Die später hinzugefuegten Schichten (Punkte und Vokale) wurden auf den bestehenden Rasm aufgesetzt, ohne ihn zu verändern. Dies macht den Rasm zu einem konservativen Zeugnis der fruehen arabischen Schriftpraxis."
+      "content": "Der Rasm des Qurantextes wurde historisch als unveränderlich behandelt. Die Konsonantenskelette der fruehesten Abschriften wurden beibehalten, auch wenn sie von der später standardisierten Orthographie abweichen. Beispiele für solche Rasm-Eigenheiten:\n\n- الصلوة statt الصلاة (mit Waw statt Alif)\n- الزكوة statt الزكاة\n- الحيوة statt الحياة\n- السموت — Rasm-Schreibung für السماوات (ohne Alif nach dem Waw)\n- بسم statt باسم (ohne Alif)\n\nDiese Schreibungen reflektieren möglicherweise ältere orthographische Konventionen oder regionale Schreibvarianten. Sie wurden nicht korrigiert, weil der Rasm als fixiert galt. Die später hinzugefuegten Schichten (Punkte und Vokale) wurden auf den bestehenden Rasm aufgesetzt, ohne ihn zu verändern. Dies macht den Rasm zu einem konservativen Zeugnis der fruehen arabischen Schriftpraxis.",
+      "verifyUrl": "https://corpus.quran.com/qurantext.jsp"
     }
   ],
   "testContent": {
@@ -65,7 +70,8 @@
           "ق und ك"
         ],
         "correct": 1,
-        "explanation": "ب, ت, ث und ن (sowie ى am Wortende) haben dieselbe Grundform im punktlosen Rasm. Erst die diakritischen Punkte unterscheiden sie."
+        "explanation": "ب, ت, ث und ن (sowie ى am Wortende) haben dieselbe Grundform im punktlosen Rasm. Erst die diakritischen Punkte unterscheiden sie.",
+        "verifyUrl": "https://corpus.quran.com/qurantext.jsp"
       },
       {
         "question": "Welche Schicht des arabischen Schriftsystems wurde zuerst hinzugefuegt?",
@@ -76,7 +82,8 @@
           "Tanwin (Nunation)"
         ],
         "correct": 1,
-        "explanation": "Die diakritischen Punkte (I'jam) zur Unterscheidung der Konsonanten wurden vor dem vollständigen Vokalisierungssystem (Tashkil) systematisch eingeführt. Hinweis: Die relative Chronologie ist in der Forschung nicht eindeutig geklärt. Vereinzelte Konsonantenpunkte erscheinen bereits in vorqurannischen Texten, während fruehe Vokalisierungspunkte ebenfalls schon im 1. Jh. H. belegt sind."
+        "explanation": "Die diakritischen Punkte (I'jam) zur Unterscheidung der Konsonanten wurden vor dem vollständigen Vokalisierungssystem (Tashkil) systematisch eingeführt. Hinweis: Die relative Chronologie ist in der Forschung nicht eindeutig geklärt. Vereinzelte Konsonantenpunkte erscheinen bereits in vorqurannischen Texten, während fruehe Vokalisierungspunkte ebenfalls schon im 1. Jh. H. belegt sind.",
+        "verifyUrl": "https://corpus.quran.com/qurantext.jsp"
       },
       {
         "question": "Was ist eine Abdschad?",
@@ -87,7 +94,8 @@
           "Ein Schriftsystem mit Logogrammen"
         ],
         "correct": 1,
-        "explanation": "Eine Abdschad ist ein Schriftsystem, das primär Konsonanten notiert. Vokale werden entweder gar nicht oder durch optionale Zusatzzeichen dargestellt. Das arabische Schriftsystem ist eine Abdschad."
+        "explanation": "Eine Abdschad ist ein Schriftsystem, das primär Konsonanten notiert. Vokale werden entweder gar nicht oder durch optionale Zusatzzeichen dargestellt. Das arabische Schriftsystem ist eine Abdschad.",
+        "verifyUrl": "https://corpus.quran.com/qurantext.jsp"
       },
       {
         "question": "Warum schreibt der Qurantext الصلوة statt الصلاة?",
@@ -98,7 +106,8 @@
           "Es handelt sich um ein anderes Wort"
         ],
         "correct": 1,
-        "explanation": "Der Rasm des Qurantextes wurde konserviert. Abweichungen von der später standardisierten Orthographie reflektieren ältere Schreibkonventionen und wurden nicht korrigiert."
+        "explanation": "Der Rasm des Qurantextes wurde konserviert. Abweichungen von der später standardisierten Orthographie reflektieren ältere Schreibkonventionen und wurden nicht korrigiert.",
+        "verifyUrl": "https://corpus.quran.com/qurantext.jsp"
       },
       {
         "question": "Welches visuelle System ging dem heutigen Tashkil voraus?",
@@ -109,7 +118,8 @@
           "Zahlen zur Vokalmarkierung"
         ],
         "correct": 1,
-        "explanation": "Das fruehe System verwendete farbige Punkte zur Vokalmarkierung. Das spätere, heute verwendete System besteht aus den Tashkil-Zeichen (Fatha, Damma, Kasra usw.)."
+        "explanation": "Das fruehe System verwendete farbige Punkte zur Vokalmarkierung. Das spätere, heute verwendete System besteht aus den Tashkil-Zeichen (Fatha, Damma, Kasra usw.).",
+        "verifyUrl": "https://corpus.quran.com/qurantext.jsp"
       },
       {
         "question": "Aus wie vielen Informationsschichten besteht ein voll vokalisierter arabischer Text?",
@@ -120,7 +130,8 @@
           "Eine einzige homogene Schicht"
         ],
         "correct": 1,
-        "explanation": "Drei Schichten: (1) Rasm — das Konsonantenskelett, (2) I'jam — die diakritischen Punkte zur Konsonantenunterscheidung, (3) Tashkil — die Vokalzeichen. Jede Schicht wurde historisch separat entwickelt und hinzugefuegt."
+        "explanation": "Drei Schichten: (1) Rasm — das Konsonantenskelett, (2) I'jam — die diakritischen Punkte zur Konsonantenunterscheidung, (3) Tashkil — die Vokalzeichen. Jede Schicht wurde historisch separat entwickelt und hinzugefuegt.",
+        "verifyUrl": "https://corpus.quran.com/qurantext.jsp"
       },
       {
         "question": "Wie viele unterscheidbare Grundformen hat der punktlose Rasm ungefaehr?",
@@ -131,7 +142,8 @@
           "10"
         ],
         "correct": 2,
-        "explanation": "Die 28 Konsonantenphoneme des Arabischen werden im punktlosen Rasm auf nur ca. 15-18 unterscheidbare Grundformen abgebildet. Die Mehrdeutigkeit wird erst durch die diakritischen Punkte aufgelöst."
+        "explanation": "Die 28 Konsonantenphoneme des Arabischen werden im punktlosen Rasm auf nur ca. 15-18 unterscheidbare Grundformen abgebildet. Die Mehrdeutigkeit wird erst durch die diakritischen Punkte aufgelöst.",
+        "verifyUrl": "https://corpus.quran.com/qurantext.jsp"
       }
     ]
   }

@@ -3,9 +3,16 @@
     "title": "Lane's Lexicon — Leseanleitung",
     "description": "Wie man einen Eintrag in Lane's Arabic-English Lexicon liest, versteht und die richtige Bedeutung extrahiert.",
     "sources": [
-      {"label": "Lane's Lexicon via Arabic Almanac (ejtaal.net)", "url": "https://ejtaal.net/aa/"},
-      {"label": "StudyQuran.org — Lane's Lexicon Volume Scans", "url": "https://studyquran.org/LaneLexicon/"}
-    ]
+      {
+        "label": "Lane's Lexicon via Arabic Almanac (ejtaal.net)",
+        "url": "https://ejtaal.net/aa/"
+      },
+      {
+        "label": "StudyQuran.org — Lane's Lexicon Volume Scans",
+        "url": "https://studyquran.org/LaneLexicon/"
+      }
+    ],
+    "verifyUrl": "https://ejtaal.net/aa/"
   },
   "lessons": [
     {
@@ -53,17 +60,32 @@
         "exercises": [
           {
             "question": "Was bedeutet die Abkürzung 'inf. n.' in Lane's Lexicon?",
-            "options": ["Infinitiv Nomen (= Masdar)", "Infinitiv Numerus", "Information Nomen", "Indefinites Nomen"],
+            "options": [
+              "Infinitiv Nomen (= Masdar)",
+              "Infinitiv Numerus",
+              "Information Nomen",
+              "Indefinites Nomen"
+            ],
             "correct": 0
           },
           {
             "question": "Womit beginnt Lane typischerweise einen Wurzeleintrag?",
-            "options": ["Mit der abstraktesten Bedeutung", "Mit der quranischen Bedeutung", "Mit der sinnlichsten/konkretesten Grundbedeutung", "Mit der grammatischen Form"],
+            "options": [
+              "Mit der abstraktesten Bedeutung",
+              "Mit der quranischen Bedeutung",
+              "Mit der sinnlichsten/konkretesten Grundbedeutung",
+              "Mit der grammatischen Form"
+            ],
             "correct": 2
           },
           {
             "question": "Was bedeutet 'S' als Quellenabkürzung?",
-            "options": ["Sihah (al-Jawhari)", "Supplement", "Singular", "Sura"],
+            "options": [
+              "Sihah (al-Jawhari)",
+              "Supplement",
+              "Singular",
+              "Sura"
+            ],
             "correct": 0
           }
         ]

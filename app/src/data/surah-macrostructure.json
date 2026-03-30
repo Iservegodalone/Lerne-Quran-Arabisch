@@ -6,7 +6,10 @@
     "hinweis": "Nur Suren mit klar beobachtbaren sprachlichen Struktursignalen sind enthalten. Generische Platzhalter-Segmentierungen wurden entfernt.",
     "approach": "Rein auf beobachtbaren sprachlichen Merkmalen basierend: Diskursmarker, Anrede-Wechsel, Refrains, Rahmungsstrukturen, Ringkomposition.",
     "sources": [
-      {"name": "Quranic Arabic Corpus", "url": "https://corpus.quran.com/"}
+      {
+        "name": "Quranic Arabic Corpus",
+        "url": "https://corpus.quran.com/"
+      }
     ]
   },
   "surahs": [
@@ -38,7 +41,8 @@
           "description": "Imperative (اهْدِنَا) und Relativsätze (الَّذِينَ). Ring schließt sich: Vers 1-3 benennen Attribute, Vers 6-7 formulieren die Konsequenz daraus.",
           "marker": "Imperativ اهْدِنَا — einziger Imperativ der Sure"
         }
-      ]
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=1"
     },
     {
       "surahNumber": 12,
@@ -68,7 +72,8 @@
           "description": "Rückkehr zur Rahmenebene: ذَٰلِكَ مِنْ أَنبَاءِ الْغَيْبِ (102). Der Text kommentiert sich selbst wieder. Ringschluss mit der Einleitung.",
           "marker": "ذَٰلِكَ مِنْ أَنبَاءِ — Rückverweis auf نَقُصُّ aus Vers 3"
         }
-      ]
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=12&verse=1"
     },
     {
       "surahNumber": 26,
@@ -98,7 +103,8 @@
           "description": "Wechsel von Narration zu Argumentation. Kontraststruktur: Dichter (الشعراء) vs. Glaubende (إِلَّا الَّذِينَ آمَنُوا). Ausnahme-Konstruktion (إِلَّا) als Schlussmarker.",
           "marker": "وَالشُّعَرَاءُ — Nominalsatz als Themenwechsel"
         }
-      ]
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=26&verse=1"
     },
     {
       "surahNumber": 55,
@@ -147,7 +153,8 @@
         "text": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
         "count": 31,
         "function": "Strukturierender Refrain — teilt die Sure in thematische Abschnitte. Die Dualform -كُمَا verweist auf die Anrede an zwei Gruppen (الثقلان)."
-      }
+      },
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=55&verse=1"
     },
     {
       "surahNumber": 36,
@@ -177,7 +184,8 @@
           "description": "Strukturwechsel durch وَنُفِخَ فِي الصُّورِ (51). Dann Kontrastpaare: Garten-Bewohner (55-58) vs. andere (59-65). Abschluss: rhetorische Fragen + Lobformel.",
           "marker": "وَنُفِخَ فِي الصُّورِ — Passiv-Konstruktion als Szenenwechsel"
         }
-      ]
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=36&verse=1"
     },
     {
       "surahNumber": 56,
@@ -221,7 +229,8 @@
           "description": "أَفَرَأَيْتُمْ-Kette (Habt ihr gesehen?) viermal wiederholt (58, 63, 68, 71). Abschluss mit فَلَا أُقْسِمُ (75) — Schwurformel.",
           "marker": "أَفَرَأَيْتُمْ — vierfache rhetorische Frage als Argumentationskette"
         }
-      ]
+      ],
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=56&verse=1"
     }
   ]
 }
