@@ -39,7 +39,7 @@
     {
       "form": "I",
       "formArabic": "الأول",
-      "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n100",
+      "verifyUrl": "https://archive.org/details/WrightsArabicGrammar1Of2/page/n100",
       "pattern": {
         "arabic": "فَعَلَ",
         "transliteration": "fa'ala",
@@ -210,12 +210,42 @@
             "example": "طَلَب (ṭalab, Suche/Verlangen)"
           }
         ]
+      },
+      "subjunctive": {
+        "3ms": "يَفْعَلَ",
+        "3fs": "تَفْعَلَ",
+        "3md": "يَفْعَلَا",
+        "3fd": "تَفْعَلَا",
+        "3mp": "يَفْعَلُوا",
+        "3fp": "يَفْعَلْنَ",
+        "2ms": "تَفْعَلَ",
+        "2fs": "تَفْعَلِي",
+        "2md": "تَفْعَلَا",
+        "2mp": "تَفْعَلُوا",
+        "2fp": "تَفْعَلْنَ",
+        "1s": "أَفْعَلَ",
+        "1p": "نَفْعَلَ"
+      },
+      "jussive": {
+        "3ms": "يَفْعَلْ",
+        "3fs": "تَفْعَلْ",
+        "3md": "يَفْعَلَا",
+        "3fd": "تَفْعَلَا",
+        "3mp": "يَفْعَلُوا",
+        "3fp": "يَفْعَلْنَ",
+        "2ms": "تَفْعَلْ",
+        "2fs": "تَفْعَلِي",
+        "2md": "تَفْعَلَا",
+        "2mp": "تَفْعَلُوا",
+        "2fp": "تَفْعَلْنَ",
+        "1s": "أَفْعَلْ",
+        "1p": "نَفْعَلْ"
       }
     },
     {
       "form": "II",
       "formArabic": "الثاني",
-      "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n104",
+      "verifyUrl": "https://archive.org/details/WrightsArabicGrammar1Of2/page/n104",
       "pattern": {
         "arabic": "فَعَّلَ",
         "transliteration": "fa''ala",
@@ -317,12 +347,42 @@
           "transliteration": "taf'ila",
           "example": "تَذْكِرَة (tadhkira) = Erinnerung"
         }
+      },
+      "subjunctive": {
+        "3ms": "يُفَعِّلَ",
+        "3fs": "تُفَعِّلَ",
+        "3md": "يُفَعِّلَا",
+        "3fd": "تُفَعِّلَا",
+        "3mp": "يُفَعِّلُوا",
+        "3fp": "يُفَعِّلْنَ",
+        "2ms": "تُفَعِّلَ",
+        "2fs": "تُفَعِّلِي",
+        "2md": "تُفَعِّلَا",
+        "2mp": "تُفَعِّلُوا",
+        "2fp": "تُفَعِّلْنَ",
+        "1s": "أُفَعِّلَ",
+        "1p": "نُفَعِّلَ"
+      },
+      "jussive": {
+        "3ms": "يُفَعِّلْ",
+        "3fs": "تُفَعِّلْ",
+        "3md": "يُفَعِّلَا",
+        "3fd": "تُفَعِّلَا",
+        "3mp": "يُفَعِّلُوا",
+        "3fp": "يُفَعِّلْنَ",
+        "2ms": "تُفَعِّلْ",
+        "2fs": "تُفَعِّلِي",
+        "2md": "تُفَعِّلَا",
+        "2mp": "تُفَعِّلُوا",
+        "2fp": "تُفَعِّلْنَ",
+        "1s": "أُفَعِّلْ",
+        "1p": "نُفَعِّلْ"
       }
     },
     {
       "form": "III",
       "formArabic": "الثالث",
-      "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n106",
+      "verifyUrl": "https://archive.org/details/WrightsArabicGrammar1Of2/page/n106",
       "pattern": {
         "arabic": "فَاعَلَ",
         "transliteration": "fā'ala",
@@ -373,6 +433,7 @@
         "2mp": "فَاعِلُوا",
         "2fp": "فَاعِلْنَ"
       },
+      "imperativeNote": "Der Imperativ von Form III beginnt mit فَا (einem Konsonant + Vokal), nicht mit einem Konsonantencluster. Daher ist kein Hamzat al-waṣl als Anlautvokal nötig — im Gegensatz zu Form I (اِفْعَلْ), VII (اِنْفَعِلْ) und VIII (اِفْتَعِلْ), wo der Imperativstamm mit zwei Konsonanten beginnt.",
       "perfectPassive": {
         "3ms": "فُوعِلَ",
         "3fs": "فُوعِلَتْ",
@@ -424,12 +485,42 @@
           "transliteration": "fi'āl",
           "example": "قِتَال (qitāl) = Kampf"
         }
+      },
+      "subjunctive": {
+        "3ms": "يُفَاعِلَ",
+        "3fs": "تُفَاعِلَ",
+        "3md": "يُفَاعِلَا",
+        "3fd": "تُفَاعِلَا",
+        "3mp": "يُفَاعِلُوا",
+        "3fp": "يُفَاعِلْنَ",
+        "2ms": "تُفَاعِلَ",
+        "2fs": "تُفَاعِلِي",
+        "2md": "تُفَاعِلَا",
+        "2mp": "تُفَاعِلُوا",
+        "2fp": "تُفَاعِلْنَ",
+        "1s": "أُفَاعِلَ",
+        "1p": "نُفَاعِلَ"
+      },
+      "jussive": {
+        "3ms": "يُفَاعِلْ",
+        "3fs": "تُفَاعِلْ",
+        "3md": "يُفَاعِلَا",
+        "3fd": "تُفَاعِلَا",
+        "3mp": "يُفَاعِلُوا",
+        "3fp": "يُفَاعِلْنَ",
+        "2ms": "تُفَاعِلْ",
+        "2fs": "تُفَاعِلِي",
+        "2md": "تُفَاعِلَا",
+        "2mp": "تُفَاعِلُوا",
+        "2fp": "تُفَاعِلْنَ",
+        "1s": "أُفَاعِلْ",
+        "1p": "نُفَاعِلْ"
       }
     },
     {
       "form": "IV",
       "formArabic": "الرابع",
-      "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n108",
+      "verifyUrl": "https://archive.org/details/WrightsArabicGrammar1Of2/page/n108",
       "pattern": {
         "arabic": "أَفْعَلَ",
         "transliteration": "af'ala",
@@ -526,12 +617,42 @@
           "transliteration": "if'āl",
           "example": "إِسْلَام (islām) = Ergebung"
         }
+      },
+      "subjunctive": {
+        "3ms": "يُفْعِلَ",
+        "3fs": "تُفْعِلَ",
+        "3md": "يُفْعِلَا",
+        "3fd": "تُفْعِلَا",
+        "3mp": "يُفْعِلُوا",
+        "3fp": "يُفْعِلْنَ",
+        "2ms": "تُفْعِلَ",
+        "2fs": "تُفْعِلِي",
+        "2md": "تُفْعِلَا",
+        "2mp": "تُفْعِلُوا",
+        "2fp": "تُفْعِلْنَ",
+        "1s": "أُفْعِلَ",
+        "1p": "نُفْعِلَ"
+      },
+      "jussive": {
+        "3ms": "يُفْعِلْ",
+        "3fs": "تُفْعِلْ",
+        "3md": "يُفْعِلَا",
+        "3fd": "تُفْعِلَا",
+        "3mp": "يُفْعِلُوا",
+        "3fp": "يُفْعِلْنَ",
+        "2ms": "تُفْعِلْ",
+        "2fs": "تُفْعِلِي",
+        "2md": "تُفْعِلَا",
+        "2mp": "تُفْعِلُوا",
+        "2fp": "تُفْعِلْنَ",
+        "1s": "أُفْعِلْ",
+        "1p": "نُفْعِلْ"
       }
     },
     {
       "form": "V",
       "formArabic": "الخامس",
-      "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n110",
+      "verifyUrl": "https://archive.org/details/WrightsArabicGrammar1Of2/page/n110",
       "pattern": {
         "arabic": "تَفَعَّلَ",
         "transliteration": "tafa''ala",
@@ -582,6 +703,7 @@
         "2mp": "تَفَعَّلُوا",
         "2fp": "تَفَعَّلْنَ"
       },
+      "imperativeNote": "Der Imperativ von Form V beginnt mit تَ (ta-Präfix + Vokal). Da der Stamm mit einem Konsonant + Vokal beginnt, ist kein Hamzat al-waṣl nötig.",
       "passiveCaveat": "Formen V und VI bilden theoretisch ein Passiv, aber diese Paradigmen sind im Quran und im klassischen Arabisch kaum belegt. Form V/VI sind intrinsisch reflexiv/reziprok; ein Passiv ist grammatisch möglich, aber selten realisiert.",
       "perfectPassive": {
         "3ms": "تُفُعِّلَ",
@@ -629,12 +751,42 @@
           "transliteration": "tafa''ul",
           "example": "تَعَلُّم (ta'allum) = das Lernen"
         }
+      },
+      "subjunctive": {
+        "3ms": "يَتَفَعَّلَ",
+        "3fs": "تَتَفَعَّلَ",
+        "3md": "يَتَفَعَّلَا",
+        "3fd": "تَتَفَعَّلَا",
+        "3mp": "يَتَفَعَّلُوا",
+        "3fp": "يَتَفَعَّلْنَ",
+        "2ms": "تَتَفَعَّلَ",
+        "2fs": "تَتَفَعَّلِي",
+        "2md": "تَتَفَعَّلَا",
+        "2mp": "تَتَفَعَّلُوا",
+        "2fp": "تَتَفَعَّلْنَ",
+        "1s": "أَتَفَعَّلَ",
+        "1p": "نَتَفَعَّلَ"
+      },
+      "jussive": {
+        "3ms": "يَتَفَعَّلْ",
+        "3fs": "تَتَفَعَّلْ",
+        "3md": "يَتَفَعَّلَا",
+        "3fd": "تَتَفَعَّلَا",
+        "3mp": "يَتَفَعَّلُوا",
+        "3fp": "يَتَفَعَّلْنَ",
+        "2ms": "تَتَفَعَّلْ",
+        "2fs": "تَتَفَعَّلِي",
+        "2md": "تَتَفَعَّلَا",
+        "2mp": "تَتَفَعَّلُوا",
+        "2fp": "تَتَفَعَّلْنَ",
+        "1s": "أَتَفَعَّلْ",
+        "1p": "نَتَفَعَّلْ"
       }
     },
     {
       "form": "VI",
       "formArabic": "السادس",
-      "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n112",
+      "verifyUrl": "https://archive.org/details/WrightsArabicGrammar1Of2/page/n112",
       "pattern": {
         "arabic": "تَفَاعَلَ",
         "transliteration": "tafā'ala",
@@ -685,6 +837,7 @@
         "2mp": "تَفَاعَلُوا",
         "2fp": "تَفَاعَلْنَ"
       },
+      "imperativeNote": "Der Imperativ von Form VI beginnt mit تَ (ta-Präfix + Vokal). Da der Stamm mit einem Konsonant + Vokal beginnt, ist kein Hamzat al-waṣl nötig.",
       "passiveCaveat": "Form VI bildet theoretisch ein Passiv, aber diese Paradigmen sind im Quran und im klassischen Arabisch kaum belegt. Form VI ist intrinsisch reziprok/reflexiv; ein Passiv ist grammatisch möglich, aber selten realisiert.",
       "perfectPassive": {
         "3ms": "تُفُوعِلَ",
@@ -732,12 +885,42 @@
           "transliteration": "tafā'ul",
           "example": "تَسَاؤُل (tasā'ul) = gegenseitiges Fragen"
         }
+      },
+      "subjunctive": {
+        "3ms": "يَتَفَاعَلَ",
+        "3fs": "تَتَفَاعَلَ",
+        "3md": "يَتَفَاعَلَا",
+        "3fd": "تَتَفَاعَلَا",
+        "3mp": "يَتَفَاعَلُوا",
+        "3fp": "يَتَفَاعَلْنَ",
+        "2ms": "تَتَفَاعَلَ",
+        "2fs": "تَتَفَاعَلِي",
+        "2md": "تَتَفَاعَلَا",
+        "2mp": "تَتَفَاعَلُوا",
+        "2fp": "تَتَفَاعَلْنَ",
+        "1s": "أَتَفَاعَلَ",
+        "1p": "نَتَفَاعَلَ"
+      },
+      "jussive": {
+        "3ms": "يَتَفَاعَلْ",
+        "3fs": "تَتَفَاعَلْ",
+        "3md": "يَتَفَاعَلَا",
+        "3fd": "تَتَفَاعَلَا",
+        "3mp": "يَتَفَاعَلُوا",
+        "3fp": "يَتَفَاعَلْنَ",
+        "2ms": "تَتَفَاعَلْ",
+        "2fs": "تَتَفَاعَلِي",
+        "2md": "تَتَفَاعَلَا",
+        "2mp": "تَتَفَاعَلُوا",
+        "2fp": "تَتَفَاعَلْنَ",
+        "1s": "أَتَفَاعَلْ",
+        "1p": "نَتَفَاعَلْ"
       }
     },
     {
       "form": "VII",
       "formArabic": "السابع",
-      "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n114",
+      "verifyUrl": "https://archive.org/details/WrightsArabicGrammar1Of2/page/n114",
       "pattern": {
         "arabic": "اِنْفَعَلَ",
         "transliteration": "infa'ala",
@@ -808,12 +991,42 @@
           "example": "اِنْكِسَار (inkisār) = das Zerbrechen"
         }
       },
-      "notes": "Form VII hat keinen passiven Stamm, da sie selbst passivisch/reflexiv ist."
+      "notes": "Form VII hat keinen passiven Stamm, da sie selbst passivisch/reflexiv ist.",
+      "subjunctive": {
+        "3ms": "يَنْفَعِلَ",
+        "3fs": "تَنْفَعِلَ",
+        "3md": "يَنْفَعِلَا",
+        "3fd": "تَنْفَعِلَا",
+        "3mp": "يَنْفَعِلُوا",
+        "3fp": "يَنْفَعِلْنَ",
+        "2ms": "تَنْفَعِلَ",
+        "2fs": "تَنْفَعِلِي",
+        "2md": "تَنْفَعِلَا",
+        "2mp": "تَنْفَعِلُوا",
+        "2fp": "تَنْفَعِلْنَ",
+        "1s": "أَنْفَعِلَ",
+        "1p": "نَنْفَعِلَ"
+      },
+      "jussive": {
+        "3ms": "يَنْفَعِلْ",
+        "3fs": "تَنْفَعِلْ",
+        "3md": "يَنْفَعِلَا",
+        "3fd": "تَنْفَعِلَا",
+        "3mp": "يَنْفَعِلُوا",
+        "3fp": "يَنْفَعِلْنَ",
+        "2ms": "تَنْفَعِلْ",
+        "2fs": "تَنْفَعِلِي",
+        "2md": "تَنْفَعِلَا",
+        "2mp": "تَنْفَعِلُوا",
+        "2fp": "تَنْفَعِلْنَ",
+        "1s": "أَنْفَعِلْ",
+        "1p": "نَنْفَعِلْ"
+      }
     },
     {
       "form": "VIII",
       "formArabic": "الثامن",
-      "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n116",
+      "verifyUrl": "https://archive.org/details/WrightsArabicGrammar1Of2/page/n116",
       "pattern": {
         "arabic": "اِفْتَعَلَ",
         "transliteration": "ifta'ala",
@@ -911,12 +1124,42 @@
           "example": "اِجْتِمَاع (ijtimā') = Versammlung"
         }
       },
-      "notes": "Das ta-Infix assimiliert mit bestimmten Konsonanten: ط→اطّ, د→ادّ, ز→ازد, ص→اصط etc."
+      "notes": "Das ta-Infix assimiliert mit bestimmten Konsonanten: ط→اطّ, د→ادّ, ز→ازد, ص→اصط etc.",
+      "subjunctive": {
+        "3ms": "يَفْتَعِلَ",
+        "3fs": "تَفْتَعِلَ",
+        "3md": "يَفْتَعِلَا",
+        "3fd": "تَفْتَعِلَا",
+        "3mp": "يَفْتَعِلُوا",
+        "3fp": "يَفْتَعِلْنَ",
+        "2ms": "تَفْتَعِلَ",
+        "2fs": "تَفْتَعِلِي",
+        "2md": "تَفْتَعِلَا",
+        "2mp": "تَفْتَعِلُوا",
+        "2fp": "تَفْتَعِلْنَ",
+        "1s": "أَفْتَعِلَ",
+        "1p": "نَفْتَعِلَ"
+      },
+      "jussive": {
+        "3ms": "يَفْتَعِلْ",
+        "3fs": "تَفْتَعِلْ",
+        "3md": "يَفْتَعِلَا",
+        "3fd": "تَفْتَعِلَا",
+        "3mp": "يَفْتَعِلُوا",
+        "3fp": "يَفْتَعِلْنَ",
+        "2ms": "تَفْتَعِلْ",
+        "2fs": "تَفْتَعِلِي",
+        "2md": "تَفْتَعِلَا",
+        "2mp": "تَفْتَعِلُوا",
+        "2fp": "تَفْتَعِلْنَ",
+        "1s": "أَفْتَعِلْ",
+        "1p": "نَفْتَعِلْ"
+      }
     },
     {
       "form": "IX",
       "formArabic": "التاسع",
-      "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n118",
+      "verifyUrl": "https://archive.org/details/WrightsArabicGrammar1Of2/page/n118",
       "pattern": {
         "arabic": "اِفْعَلَّ",
         "transliteration": "if'alla",
@@ -988,12 +1231,42 @@
           "example": "اِحْمِرَار (iḥmirār) = das Erröten"
         }
       },
-      "notes": "Form IX ist im Quran selten. Sie wird fast ausschließlich für Farben und körperliche Eigenschaften verwendet."
+      "notes": "Form IX ist im Quran selten. Sie wird fast ausschließlich für Farben und körperliche Eigenschaften verwendet.",
+      "subjunctive": {
+        "3ms": "يَفْعَلَّ",
+        "3fs": "تَفْعَلَّ",
+        "3md": "يَفْعَلَّا",
+        "3fd": "تَفْعَلَّا",
+        "3mp": "يَفْعَلُّوا",
+        "3fp": "يَفْعَلِلْنَ",
+        "2ms": "تَفْعَلَّ",
+        "2fs": "تَفْعَلِّي",
+        "2md": "تَفْعَلَّا",
+        "2mp": "تَفْعَلُّوا",
+        "2fp": "يَفْعَلِلْنَ",
+        "1s": "أَفْعَلَّ",
+        "1p": "نَفْعَلَّ"
+      },
+      "jussive": {
+        "3ms": "يَفْعَلِلْ",
+        "3fs": "تَفْعَلِلْ",
+        "3md": "يَفْعَلَّا",
+        "3fd": "تَفْعَلَّا",
+        "3mp": "يَفْعَلُّوا",
+        "3fp": "يَفْعَلِلْنَ",
+        "2ms": "تَفْعَلِلْ",
+        "2fs": "تَفْعَلِّي",
+        "2md": "تَفْعَلَّا",
+        "2mp": "تَفْعَلُّوا",
+        "2fp": "يَفْعَلِلْنَ",
+        "1s": "أَفْعَلِلْ",
+        "1p": "نَفْعَلِلْ"
+      }
     },
     {
       "form": "X",
       "formArabic": "العاشر",
-      "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n120",
+      "verifyUrl": "https://archive.org/details/WrightsArabicGrammar1Of2/page/n120",
       "pattern": {
         "arabic": "اِسْتَفْعَلَ",
         "transliteration": "istaf'ala",
@@ -1090,6 +1363,36 @@
           "transliteration": "istif'āl",
           "example": "اِسْتِغْفَار (istighfār) = Bitte um Vergebung"
         }
+      },
+      "subjunctive": {
+        "3ms": "يَسْتَفْعِلَ",
+        "3fs": "تَسْتَفْعِلَ",
+        "3md": "يَسْتَفْعِلَا",
+        "3fd": "تَسْتَفْعِلَا",
+        "3mp": "يَسْتَفْعِلُوا",
+        "3fp": "يَسْتَفْعِلْنَ",
+        "2ms": "تَسْتَفْعِلَ",
+        "2fs": "تَسْتَفْعِلِي",
+        "2md": "تَسْتَفْعِلَا",
+        "2mp": "تَسْتَفْعِلُوا",
+        "2fp": "تَسْتَفْعِلْنَ",
+        "1s": "أَسْتَفْعِلَ",
+        "1p": "نَسْتَفْعِلَ"
+      },
+      "jussive": {
+        "3ms": "يَسْتَفْعِلْ",
+        "3fs": "تَسْتَفْعِلْ",
+        "3md": "يَسْتَفْعِلَا",
+        "3fd": "تَسْتَفْعِلَا",
+        "3mp": "يَسْتَفْعِلُوا",
+        "3fp": "يَسْتَفْعِلْنَ",
+        "2ms": "تَسْتَفْعِلْ",
+        "2fs": "تَسْتَفْعِلِي",
+        "2md": "تَسْتَفْعِلَا",
+        "2mp": "تَسْتَفْعِلُوا",
+        "2fp": "تَسْتَفْعِلْنَ",
+        "1s": "أَسْتَفْعِلْ",
+        "1p": "نَسْتَفْعِلْ"
       }
     }
   ],
@@ -1317,7 +1620,7 @@
           {
             "arabic": "أَعْلَم",
             "transliteration": "a'lam",
-            "german": "wissender; der Wissenste"
+            "german": "wissender; der Wissendste"
           },
           {
             "arabic": "أَحْسَن",

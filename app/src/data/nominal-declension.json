@@ -181,14 +181,17 @@
         }
       },
       "diptoteConditions": [
-        "Eigennamen über drei Buchstaben oder weibliche Eigennamen",
+        "Fremdsprachige Eigennamen mit mehr als drei Buchstaben: إِبْرَاهِيمُ, إِسْمَاعِيلُ, يَعْقُوبُ",
+        "Feminine Eigennamen (auch arabische): مَرْيَمُ, فَاطِمَةُ — aber dreisilbige mit mittlerem Sukun wie هِنْدُ sind triptot",
+        "Arabische Eigennamen auf Muster فُعَل: عُمَرُ (von عَامِر), زُفَرُ",
+        "Arabische Eigennamen mit Endung -ān: عُثْمَانُ, سُفْيَانُ",
+        "Zusammengesetzte Eigennamen: بَعْلَبَكُّ, حَضْرَمَوْتُ",
         "Farbadjektive: أَحْمَرُ (rot), أَخْضَرُ (gruen), أَصْفَرُ (gelb)",
         "Elativ/Komparativ: أَكْبَرُ (größer), أَحْسَنُ (besser/schöner)",
         "Feminine Muster auf -aa: صَحْرَاءُ (Wüste), حَمْرَاءُ (rote)",
         "Adjektive auf -aan: عَطْشَانُ (durstig), غَضْبَانُ (zornig)",
         "Gebrochene Plurale der Muster مَفَاعِل und مَفَاعِيل",
-        "Fremdsprachige Eigennamen mit mehr als 3 Buchstaben: فِرْعَوْنُ (Pharao, endet auf -awn)",
-        "Fremdwoerter bestimmter Muster: إِبْرَاهِيمُ"
+        "Nomen auf Muster فُعَل: أُخَرُ (andere)"
       ],
       "quranicExamples": [
         {
