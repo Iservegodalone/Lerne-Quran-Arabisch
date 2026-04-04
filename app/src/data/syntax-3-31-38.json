@@ -150,7 +150,8 @@
             "Das Selbst von allen"
           ],
           "answer": "Jedes einzelne Selbst",
-          "explanation": "كُلّ mit einem Singular-Nomen hat distributive Bedeutung: jede einzelne. Bei einem Plural-Nomen oder Suffixpronomen wäre es kollektiv (alle zusammen)."
+          "explanation": "كُلّ mit einem Singular-Nomen hat distributive Bedeutung: jede einzelne. Bei einem Plural-Nomen oder Suffixpronomen wäre es kollektiv (alle zusammen).",
+          "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n242"
         },
         {
           "type": "identification",
@@ -171,7 +172,8 @@
             "jeder einzelne",
             "alle zusammen"
           ],
-          "explanation": "كُلُّ نَفْسٍ = jedes einzelne Selbst (distributiv). كُلُّهُمْ = sie alle zusammen (kollektiv)."
+          "explanation": "كُلُّ نَفْسٍ = jedes einzelne Selbst (distributiv). كُلُّهُمْ = sie alle zusammen (kollektiv).",
+          "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n242"
         },
         {
           "type": "sentence_analysis",
@@ -190,7 +192,8 @@
             "Weil es ein Objekt ist"
           ],
           "answer": "Weil es das zweite Glied einer Iḍāfa ist",
-          "explanation": "كُلُّ نَفْسٍ ist eine Iḍāfa-Konstruktion. كُلّ ist das erste Glied (Muḍāf) und نَفْسٍ das zweite (Muḍāf ilayh). Das zweite Glied steht immer im Genitiv."
+          "explanation": "كُلُّ نَفْسٍ ist eine Iḍāfa-Konstruktion. كُلّ ist das erste Glied (Muḍāf) und نَفْسٍ das zweite (Muḍāf ilayh). Das zweite Glied steht immer im Genitiv.",
+          "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n242"
         },
         {
           "type": "matching",
@@ -216,7 +219,8 @@
               "item": "كُلَّ شَيْءٍ",
               "match": "jede Sache (Akkusativ)"
             }
-          ]
+          ],
+          "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n242"
         }
       ]
     },
@@ -350,7 +354,8 @@
             "Weil كَفَرُوا im Plural steht"
           ],
           "answer": "Weil das Verb vor dem Subjekt steht",
-          "explanation": "Im Arabischen bleibt das Verb im Singular, wenn es vor dem Subjekt steht, unabhängig vom Numerus des Subjekts."
+          "explanation": "Im Arabischen bleibt das Verb im Singular, wenn es vor dem Subjekt steht, unabhängig vom Numerus des Subjekts.",
+          "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n260"
         },
         {
           "type": "identification",
@@ -362,19 +367,22 @@
             "Beide Nominalsätze"
           ],
           "answer": "(1) Verbalsatz, (2) Nominalsatz",
-          "explanation": "In (1) steht das Verb قَالَ vor dem Subjekt الرِّجَالُ → Verbalsatz. In (2) steht das Subjekt الرِّجَالُ vor dem Verb قَالُوا → Nominalsatz-Struktur."
+          "explanation": "In (1) steht das Verb قَالَ vor dem Subjekt الرِّجَالُ → Verbalsatz. In (2) steht das Subjekt الرِّجَالُ vor dem Verb قَالُوا → Nominalsatz-Struktur.",
+          "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n260"
         },
         {
           "type": "fill_in",
           "prompt": "Ergänze das korrekte Verb: ______ الْمُسْلِمُونَ (Die Muslime gingen hinaus) — Verb VOR dem Subjekt.",
           "answer": "خَرَجَ",
-          "explanation": "Da das Verb vor dem Subjekt الْمُسْلِمُونَ (Plural) steht, bleibt es im Singular: خَرَجَ (er-ging-hinaus), nicht خَرَجُوا."
+          "explanation": "Da das Verb vor dem Subjekt الْمُسْلِمُونَ (Plural) steht, bleibt es im Singular: خَرَجَ (er-ging-hinaus), nicht خَرَجُوا.",
+          "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n260"
         },
         {
           "type": "sentence_analysis",
           "prompt": "Erkläre den Unterschied: جَاءَ الطُّلَّابُ vs. الطُّلَّابُ جَاءُوا",
           "answer": "Beide bedeuten 'die Studenten kamen'. In جَاءَ الطُّلَّابُ steht das Verb vor dem Subjekt → Singular-Verb. In الطُّلَّابُ جَاءُوا steht das Subjekt vor dem Verb → Plural-Kongruenz (جَاءُوا mit واو).",
-          "explanation": "Die Numerus-Kongruenz des Verbs hängt von der Wortstellung ab: V-S = Singular, S-V = volle Kongruenz."
+          "explanation": "Die Numerus-Kongruenz des Verbs hängt von der Wortstellung ab: V-S = Singular, S-V = volle Kongruenz.",
+          "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n260"
         },
         {
           "type": "multiple_choice",
@@ -386,7 +394,8 @@
             "يَقُولُونَ الْمُؤْمِنُونَ"
           ],
           "answer": "قَالَ الْمُؤْمِنُونَ",
-          "explanation": "Im Verbalsatz steht das Verb zuerst und bleibt im Singular: قَالَ (nicht قَالُوا) + الْمُؤْمِنُونَ."
+          "explanation": "Im Verbalsatz steht das Verb zuerst und bleibt im Singular: قَالَ (nicht قَالُوا) + الْمُؤْمِنُونَ.",
+          "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n260"
         },
         {
           "type": "matching",
@@ -408,7 +417,8 @@
               "item": "النِّسَاءُ _____ (S-V: die Frauen kamen)",
               "match": "جِئْنَ (Plural feminin)"
             }
-          ]
+          ],
+          "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n260"
         }
       ]
     },
@@ -555,7 +565,8 @@
             "Nur im Imperfekt"
           ],
           "answer": "Nur wenn das feminine Subjekt direkt nach dem Verb steht",
-          "explanation": "Wenn das feminine Subjekt direkt (ohne Trennung) auf das Verb folgt, ist die Feminin-Markierung Pflicht. Bei Trennung ist sie optional."
+          "explanation": "Wenn das feminine Subjekt direkt (ohne Trennung) auf das Verb folgt, ist die Feminin-Markierung Pflicht. Bei Trennung ist sie optional.",
+          "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n260"
         },
         {
           "type": "identification",
@@ -567,7 +578,8 @@
             "Weil jeder Plural feminin ist"
           ],
           "answer": "Weil gebrochene Plurale von Nicht-Personen als feminin Singular behandelt werden",
-          "explanation": "Im Arabischen werden gebrochene Plurale nicht-menschlicher Nomen grammatisch als Feminin Singular behandelt — eine der wichtigsten Kongruenz-Regeln."
+          "explanation": "Im Arabischen werden gebrochene Plurale nicht-menschlicher Nomen grammatisch als Feminin Singular behandelt — eine der wichtigsten Kongruenz-Regeln.",
+          "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n260"
         },
         {
           "type": "multiple_choice",
@@ -579,7 +591,8 @@
             "قَالَتَا امْرَأَةُ (Dual, Subjekt direkt)"
           ],
           "answer": "قَالَتِ امْرَأَةُ (mit تْ, Subjekt direkt)",
-          "explanation": "Da das feminine Subjekt امْرَأَةُ direkt nach dem Verb steht, ist die Feminin-Markierung تْ obligatorisch."
+          "explanation": "Da das feminine Subjekt امْرَأَةُ direkt nach dem Verb steht, ist die Feminin-Markierung تْ obligatorisch.",
+          "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n260"
         },
         {
           "type": "fill_in",
@@ -588,7 +601,8 @@
             "feminin",
             "Singular"
           ],
-          "explanation": "Das ist eine Kernregel: الْكُتُبُ (Bücher), الْأَيَّامُ (Tage), الْجِبَالُ (Berge) — alle werden als feminin Singular behandelt."
+          "explanation": "Das ist eine Kernregel: الْكُتُبُ (Bücher), الْأَيَّامُ (Tage), الْجِبَالُ (Berge) — alle werden als feminin Singular behandelt.",
+          "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n260"
         },
         {
           "type": "sentence_analysis",
@@ -729,7 +743,8 @@
             "ثُمَّ"
           ],
           "answer": "فَ",
-          "explanation": "أَمَّا verlangt immer فَ (fāʾ al-jazāʾ) vor dem Kommentar (Hauptsatz). Diese فَ ist nicht optional."
+          "explanation": "أَمَّا verlangt immer فَ (fāʾ al-jazāʾ) vor dem Kommentar (Hauptsatz). Diese فَ ist nicht optional.",
+          "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n242"
         },
         {
           "type": "identification",
@@ -751,7 +766,8 @@
             "Topik",
             "Kommentar"
           ],
-          "explanation": "Die feste Struktur ist: أَمَّا (was betrifft) + Topik (hervorgehobenes Thema) + فَ (obligatorisch) + Kommentar (Aussage über das Topik)."
+          "explanation": "Die feste Struktur ist: أَمَّا (was betrifft) + Topik (hervorgehobenes Thema) + فَ (obligatorisch) + Kommentar (Aussage über das Topik).",
+          "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n242"
         },
         {
           "type": "sentence_analysis",
@@ -770,7 +786,8 @@
             "Das Schiff und die Armen"
           ],
           "answer": "Was das Schiff betrifft — so gehörte es Armen",
-          "explanation": "أَمَّا markiert Topikalisierung = 'was ... betrifft'. Die فَ leitet den Kommentar ein = 'so ...'."
+          "explanation": "أَمَّا markiert Topikalisierung = 'was ... betrifft'. Die فَ leitet den Kommentar ein = 'so ...'.",
+          "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n242"
         },
         {
           "type": "multiple_choice",
@@ -782,7 +799,8 @@
             "Um Wiederholung zu erzeugen"
           ],
           "answer": "Um zwei Gruppen oder Situationen zu kontrastieren",
-          "explanation": "Die paarweise Verwendung kontrastiert typischerweise Vertrauende vs. Leugnende, Garten vs. Feuer, oder verschiedene Szenarien."
+          "explanation": "Die paarweise Verwendung kontrastiert typischerweise Vertrauende vs. Leugnende, Garten vs. Feuer, oder verschiedene Szenarien.",
+          "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n242"
         }
       ]
     },
@@ -936,7 +954,8 @@
             "Es steht immer im Genitiv"
           ],
           "answer": "Es übernimmt den Kasus des vorangehenden koordinierten Nomens",
-          "explanation": "ʿAṭf-Regel: Das koordinierte Element (Maʿṭūf) übernimmt den Kasus des Elements, an das es angereiht wird (Maʿṭūf ʿalayh)."
+          "explanation": "ʿAṭf-Regel: Das koordinierte Element (Maʿṭūf) übernimmt den Kasus des Elements, an das es angereiht wird (Maʿṭūf ʿalayh).",
+          "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n242"
         },
         {
           "type": "identification",
@@ -971,7 +990,8 @@
               "item": "أَوْ",
               "match": "oder (Alternative)"
             }
-          ]
+          ],
+          "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n242"
         },
         {
           "type": "fill_in",
@@ -980,7 +1000,8 @@
             "الْمَعْطُوف",
             "الْمَعْطُوف عَلَيْهِ"
           ],
-          "explanation": "الْمَعْطُوف (al-maʿṭūf) = das angehängte/koordinierte Element. الْمَعْطُوف عَلَيْهِ (al-maʿṭūf ʿalayh) = das Element, auf das koordiniert wird."
+          "explanation": "الْمَعْطُوف (al-maʿṭūf) = das angehängte/koordinierte Element. الْمَعْطُوف عَلَيْهِ (al-maʿṭūf ʿalayh) = das Element, auf das koordiniert wird.",
+          "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n242"
         },
         {
           "type": "sentence_analysis",
@@ -999,7 +1020,8 @@
             "وَ verbindet Nomen, ثُمَّ verbindet Verben"
           ],
           "answer": "وَ impliziert Gleichzeitigkeit, ثُمَّ impliziert zeitlichen Abstand",
-          "explanation": "وَ ist neutral (und), während ثُمَّ einen zeitlichen Abstand impliziert (dann, nach einer Weile). Im Quran ist dieser Unterschied bedeutsam."
+          "explanation": "وَ ist neutral (und), während ثُمَّ einen zeitlichen Abstand impliziert (dann, nach einer Weile). Im Quran ist dieser Unterschied bedeutsam.",
+          "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n242"
         }
       ]
     },
@@ -1133,7 +1155,8 @@
             "Jussiv (Jazm)"
           ],
           "answer": "Akkusativ (Naṣb)",
-          "explanation": "Der Maṣdar steht im Akkusativ, weil er als Mafʿūl muṭlaq (absolutes Objekt) des ausgelassenen Verbs fungiert."
+          "explanation": "Der Maṣdar steht im Akkusativ, weil er als Mafʿūl muṭlaq (absolutes Objekt) des ausgelassenen Verbs fungiert.",
+          "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n242"
         },
         {
           "type": "identification",
@@ -1145,7 +1168,8 @@
             "صَابِر (geduldig seiend)"
           ],
           "answer": "اِصْبِرْ (sei geduldig!)",
-          "explanation": "Der Maṣdar صَبْرًا ersetzt den Imperativ اِصْبِرْ. Das implizierte Verb steht in der Imperativ-Form, weil die Funktion eine Aufforderung ist."
+          "explanation": "Der Maṣdar صَبْرًا ersetzt den Imperativ اِصْبِرْ. Das implizierte Verb steht in der Imperativ-Form, weil die Funktion eine Aufforderung ist.",
+          "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n242"
         },
         {
           "type": "fill_in",
@@ -1154,7 +1178,8 @@
             "مَفْعُول",
             "مُطْلَق"
           ],
-          "explanation": "مَفْعُول مُطْلَق (Mafʿūl muṭlaq) ist die grammatische Bezeichnung für das absolute Objekt — ein Maṣdar im Akkusativ, der das Verb verstärkt oder ersetzt."
+          "explanation": "مَفْعُول مُطْلَق (Mafʿūl muṭlaq) ist die grammatische Bezeichnung für das absolute Objekt — ein Maṣdar im Akkusativ, der das Verb verstärkt oder ersetzt.",
+          "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n242"
         },
         {
           "type": "sentence_analysis",
@@ -1173,7 +1198,8 @@
             "Es gibt keinen Unterschied"
           ],
           "answer": "Es stellt die Handlung als absoluten Befehl ohne Adressatenmarkierung dar — nicht an eine bestimmte Person gerichtet",
-          "explanation": "Der Maṣdar allein als Imperativ wirkt wie ein universeller Ausruf. Das fehlende Verb macht die Aufforderung allgemein und absolut — ohne Personen- oder Zeitmarkierung."
+          "explanation": "Der Maṣdar allein als Imperativ wirkt wie ein universeller Ausruf. Das fehlende Verb macht die Aufforderung allgemein und absolut — ohne Personen- oder Zeitmarkierung.",
+          "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n242"
         },
         {
           "type": "matching",
@@ -1195,7 +1221,8 @@
               "item": "ضَرْبَ الرِّقَابِ (Schlagen der Nacken!)",
               "match": "اِضْرِبُوا (schlagt!)"
             }
-          ]
+          ],
+          "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n242"
         }
       ]
     },
@@ -1350,7 +1377,8 @@
           "answer": [
             "حَذْف"
           ],
-          "explanation": "حَذْف (ḥadhf) = Auslassung / Ellipse. Es ist ein zentrales Konzept der arabischen Rhetorik (بَلَاغَة)."
+          "explanation": "حَذْف (ḥadhf) = Auslassung / Ellipse. Es ist ein zentrales Konzept der arabischen Rhetorik (بَلَاغَة).",
+          "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n260"
         },
         {
           "type": "sentence_analysis",
@@ -1369,7 +1397,8 @@
             "Weil Verben in Antworten optional sind"
           ],
           "answer": "Um unnötige Wiederholung zu vermeiden und die Antwort rhetorisch knapper und eindringlicher zu machen",
-          "explanation": "Die Verb-Ellipse ist eine bewusste rhetorische Technik (بَلَاغَة). Sie vermeidet Redundanz und macht die Antwort wirkungsvoller."
+          "explanation": "Die Verb-Ellipse ist eine bewusste rhetorische Technik (بَلَاغَة). Sie vermeidet Redundanz und macht die Antwort wirkungsvoller.",
+          "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n260"
         },
         {
           "type": "multiple_choice",
@@ -1381,7 +1410,8 @@
             "Der Kasus variiert beliebig"
           ],
           "answer": "Akkusativ, weil es Objekt des ausgelassenen Verbs ist",
-          "explanation": "Das Antwort-Nomen steht im Akkusativ, weil es das Objekt (Mafʿūl bih) des aus der Frage implizierten Verbs ist."
+          "explanation": "Das Antwort-Nomen steht im Akkusativ, weil es das Objekt (Mafʿūl bih) des aus der Frage implizierten Verbs ist.",
+          "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n260"
         }
       ]
     },
@@ -1541,7 +1571,8 @@
             "Im Genitiv, weil er ein Attribut ist"
           ],
           "answer": "Im selben Kasus wie das Mubdal minhu, weil er grammatisch an dessen Stelle steht",
-          "explanation": "Der Badal übernimmt den Kasus des Mubdal minhu (des Elements, für das er steht), weil er syntaktisch dieselbe Position einnimmt."
+          "explanation": "Der Badal übernimmt den Kasus des Mubdal minhu (des Elements, für das er steht), weil er syntaktisch dieselbe Position einnimmt.",
+          "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n242"
         },
         {
           "type": "matching",
@@ -1559,7 +1590,8 @@
               "item": "اشْتِمَال (inkludierend)",
               "match": "Das Zweite ist ein Aspekt oder Merkmal des Ersten"
             }
-          ]
+          ],
+          "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n242"
         },
         {
           "type": "sentence_analysis",
@@ -1578,7 +1610,8 @@
             "Der teilweise Badal ist häufiger"
           ],
           "answer": "Beim teilweisen ist das Zweite ein physischer/konkreter Teil, beim inkludierenden ein Aspekt oder Merkmal",
-          "explanation": "بَعْض مِنْ كُلّ: Das Zweite ist ein konkreter Teil des Ersten (z.B. einige Menschen von allen Menschen). اشْتِمَال: Das Zweite ist ein Aspekt oder enthaltenes Merkmal (z.B. Kampf als Aspekt des eingeschränkten Monats, حَرَام = verboten/eingeschränkt)."
+          "explanation": "بَعْض مِنْ كُلّ: Das Zweite ist ein konkreter Teil des Ersten (z.B. einige Menschen von allen Menschen). اشْتِمَال: Das Zweite ist ein Aspekt oder enthaltenes Merkmal (z.B. Kampf als Aspekt des eingeschränkten Monats, حَرَام = verboten/eingeschränkt).",
+          "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n242"
         },
         {
           "type": "fill_in",
@@ -1587,7 +1620,8 @@
             "مُبْدَل",
             "مِنْهُ"
           ],
-          "explanation": "مُبْدَل مِنْهُ (mubdal minhu) = 'das, wovon ersetzt wird' — das Bezugsnomen, dem der Badal folgt und dessen Kasus er übernimmt."
+          "explanation": "مُبْدَل مِنْهُ (mubdal minhu) = 'das, wovon ersetzt wird' — das Bezugsnomen, dem der Badal folgt und dessen Kasus er übernimmt.",
+          "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n242"
         },
         {
           "type": "sentence_analysis",

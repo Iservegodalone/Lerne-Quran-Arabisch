@@ -124,21 +124,24 @@
             "Jussiv (Jazm)"
           ],
           "answer": "Nominativ (Rafʿ)",
-          "explanation": "Das Subjekt eines Nominalsatzes (Mubtadaʼ) steht immer im Nominativ (Rafʿ), angezeigt durch Ḍamma (ـُ)."
+          "explanation": "Das Subjekt eines Nominalsatzes (Mubtadaʼ) steht immer im Nominativ (Rafʿ), angezeigt durch Ḍamma (ـُ).",
+          "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n242"
         },
         {
           "type": "case_determination",
           "prompt": "Bestimme den Kasus von اللَّهَ in: إِنَّ اللَّهَ غَفُورٌ رَّحِيمٌ",
           "word": "اللَّهَ",
           "answer": "Akkusativ (Naṣb)",
-          "hint": "Achte auf die Endung -a (Fatḥa). Warum steht das Subjekt hier im Akkusativ?"
+          "hint": "Achte auf die Endung -a (Fatḥa). Warum steht das Subjekt hier im Akkusativ?",
+          "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n242"
         },
         {
           "type": "identification",
           "prompt": "Welche Endung zeigt den Genitiv (Jarr) bei bestimmten Nomen an?",
           "word": "الرَّجُلِ",
           "answer": "Kasra (ـِ)",
-          "hint": "Schau auf den letzten kurzen Vokal des Wortes."
+          "hint": "Schau auf den letzten kurzen Vokal des Wortes.",
+          "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n242"
         },
         {
           "type": "matching",
@@ -164,7 +167,8 @@
               "left": "Zweites Glied der Iḍāfa",
               "right": "Genitiv (Jarr)"
             }
-          ]
+          ],
+          "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n242"
         },
         {
           "type": "multiple_choice",
@@ -176,14 +180,16 @@
             "Weil es Attribut ist"
           ],
           "answer": "Weil es direktes Objekt des Verbs خَلَقَ ist",
-          "explanation": "السَّمَاوَاتِ ist das direkte Objekt (Mafʿūl bihi) von خَلَقَ. Das Kasra hier täuscht — es ist ein gesunder femininer Plural (جَمْع مُؤَنَّث سَالِم). Dieser Pluraltyp zeigt Kasra sowohl im Genitiv als auch im Akkusativ — das ist sein reguläres Flexionsverhalten, keine Diptotie."
+          "explanation": "السَّمَاوَاتِ ist das direkte Objekt (Mafʿūl bihi) von خَلَقَ. Das Kasra hier täuscht — es ist ein gesunder femininer Plural (جَمْع مُؤَنَّث سَالِم). Dieser Pluraltyp zeigt Kasra sowohl im Genitiv als auch im Akkusativ — das ist sein reguläres Flexionsverhalten, keine Diptotie.",
+          "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n242"
         },
         {
           "type": "sentence_analysis",
           "prompt": "Analysiere den Kasus jedes Nomens in: الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ",
           "word": "الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ",
           "answer": "الْحَمْدُ = Nominativ (Mubtadaʼ), لِلَّهِ = Genitiv (nach Präposition لِ), رَبِّ = Genitiv (Attribut/Badal zu اللَّه), الْعَالَمِينَ = Genitiv (zweites Glied der Iḍāfa)",
-          "hint": "Bestimme zuerst das Mubtadaʼ, dann identifiziere die Präposition und die Genitivkette."
+          "hint": "Bestimme zuerst das Mubtadaʼ, dann identifiziere die Präposition und die Genitivkette.",
+          "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n242"
         }
       ]
     },
@@ -333,14 +339,16 @@
             "Schwursatz (Jumla qasamiyya)"
           ],
           "answer": "Nominalsatz (Jumla ismiyya)",
-          "explanation": "Der Nominalsatz (الجُمْلَة الاِسْمِيَّة) beginnt definitionsgemäß mit einem Nomen oder Pronomen und ist tempusneutral — er drückt einen Zustand ohne Zeitmarkierung aus."
+          "explanation": "Der Nominalsatz (الجُمْلَة الاِسْمِيَّة) beginnt definitionsgemäß mit einem Nomen oder Pronomen und ist tempusneutral — er drückt einen Zustand ohne Zeitmarkierung aus.",
+          "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n280"
         },
         {
           "type": "identification",
           "prompt": "Bestimme den Satztyp: خَلَقَ اللَّهُ الْإِنسَانَ",
           "word": "خَلَقَ اللَّهُ الْإِنسَانَ",
           "answer": "Verbalsatz (Jumla fiʿliyya)",
-          "hint": "Mit welchem Wort beginnt der Satz — Nomen oder Verb?"
+          "hint": "Mit welchem Wort beginnt der Satz — Nomen oder Verb?",
+          "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n280"
         },
         {
           "type": "multiple_choice",
@@ -352,14 +360,16 @@
             "Je nach Kontext unterschiedlich"
           ],
           "answer": "Nominativ (Rafʿ)",
-          "explanation": "Sowohl Mubtadaʼ als auch Khabar stehen im Nominativ (Rafʿ). Das ändert sich erst, wenn Partikeln wie إِنَّ oder كَانَ eingreifen."
+          "explanation": "Sowohl Mubtadaʼ als auch Khabar stehen im Nominativ (Rafʿ). Das ändert sich erst, wenn Partikeln wie إِنَّ oder كَانَ eingreifen.",
+          "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n280"
         },
         {
           "type": "identification",
           "prompt": "Bestimme Mubtadaʼ und Khabar in: اللَّهُ أَكْبَرُ",
           "word": "اللَّهُ أَكْبَرُ",
           "answer": "Mubtadaʼ: اللَّهُ, Khabar: أَكْبَرُ",
-          "hint": "Das erste Nomen ist das Subjekt, das zweite ist das Prädikat."
+          "hint": "Das erste Nomen ist das Subjekt, das zweite ist das Prädikat.",
+          "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n280"
         },
         {
           "type": "matching",
@@ -381,14 +391,16 @@
               "left": "قَالَ رَبُّكَ لِلْمَلَائِكَةِ",
               "right": "Verbalsatz"
             }
-          ]
+          ],
+          "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n280"
         },
         {
           "type": "sentence_analysis",
           "prompt": "Analysiere den Satz vollständig: قَالَ اللَّهُ الْحَقَّ — Bestimme Satztyp, Subjekt, Objekt und deren Kasus.",
           "word": "قَالَ اللَّهُ الْحَقَّ",
           "answer": "Verbalsatz. قَالَ = Verb (Perfekt). اللَّهُ = Fāʿil/Subjekt im Nominativ (Ḍamma). الْحَقَّ = Mafʿūl bihi/Objekt im Akkusativ (Fatḥa). Bedeutung: Gott sprach die Wahrheit.",
-          "hint": "Der Satz beginnt mit einem Verb — welcher Satztyp ist das?"
+          "hint": "Der Satz beginnt mit einem Verb — welcher Satztyp ist das?",
+          "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n280"
         }
       ]
     },
@@ -547,14 +559,16 @@
             "Hängt von der Satzfunktion ab"
           ],
           "answer": "Genitiv (Jarr)",
-          "explanation": "Das Muḍāf ilayhi steht ausnahmslos im Genitiv (Jarr). Das ist die Grundregel der Iḍāfa."
+          "explanation": "Das Muḍāf ilayhi steht ausnahmslos im Genitiv (Jarr). Das ist die Grundregel der Iḍāfa.",
+          "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n242"
         },
         {
           "type": "identification",
           "prompt": "Identifiziere Muḍāf und Muḍāf ilayhi in: رَسُولُ اللَّهِ",
           "word": "رَسُولُ اللَّهِ",
           "answer": "Muḍāf: رَسُولُ, Muḍāf ilayhi: اللَّهِ",
-          "hint": "Das erste Nomen ist das Muḍāf, das zweite (im Genitiv) ist das Muḍāf ilayhi."
+          "hint": "Das erste Nomen ist das Muḍāf, das zweite (im Genitiv) ist das Muḍāf ilayhi.",
+          "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n242"
         },
         {
           "type": "multiple_choice",
@@ -566,13 +580,15 @@
             "Es ist ein Fehler im Text"
           ],
           "answer": "Das Muḍāf verliert in der Iḍāfa seinen Artikel und sein Tanwīn",
-          "explanation": "In einer Iḍāfa darf das erste Nomen (Muḍāf) weder Artikel noch Tanwīn tragen. Es wird trotzdem als bestimmt betrachtet, wenn das Muḍāf ilayhi bestimmt ist."
+          "explanation": "In einer Iḍāfa darf das erste Nomen (Muḍāf) weder Artikel noch Tanwīn tragen. Es wird trotzdem als bestimmt betrachtet, wenn das Muḍāf ilayhi bestimmt ist.",
+          "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n242"
         },
         {
           "type": "fill_in",
           "prompt": "Vervollständige die Iḍāfa: بَابُ _____ (die Tür der Moschee). Das Wort für Moschee ist مَسْجِد. In welchem Kasus muss es stehen?",
           "answer": "الْمَسْجِدِ",
-          "hint": "Das Muḍāf ilayhi steht immer im Genitiv. Wie lautet die Genitivform von المسجد?"
+          "hint": "Das Muḍāf ilayhi steht immer im Genitiv. Wie lautet die Genitivform von المسجد?",
+          "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n242"
         },
         {
           "type": "matching",
@@ -598,7 +614,8 @@
               "left": "سَبِيلُ اللَّهِ",
               "right": "Der Weg Gottes"
             }
-          ]
+          ],
+          "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n242"
         },
         {
           "type": "sentence_analysis",
@@ -767,14 +784,16 @@
             "Es fällt weg"
           ],
           "answer": "Es wechselt in den Akkusativ",
-          "explanation": "كَانَ und ihre Schwestern setzen das Khabar in den Akkusativ (Naṣb), während das Ism (= ehemaliges Mubtadaʼ) im Nominativ bleibt."
+          "explanation": "كَانَ und ihre Schwestern setzen das Khabar in den Akkusativ (Naṣb), während das Ism (= ehemaliges Mubtadaʼ) im Nominativ bleibt.",
+          "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n242"
         },
         {
           "type": "identification",
           "prompt": "Identifiziere das Ism und das Khabar von كَانَ in: كَانَ اللَّهُ غَفُورًا رَّحِيمًا",
           "word": "كَانَ اللَّهُ غَفُورًا رَّحِيمًا",
           "answer": "Ism von kāna: اللَّهُ (Nominativ), Khabar von kāna: غَفُورًا رَّحِيمًا (Akkusativ)",
-          "hint": "Das Wort mit Ḍamma ist das Ism, die Wörter mit Fatḥa/Tanwīn-Fatḥa sind das Khabar."
+          "hint": "Das Wort mit Ḍamma ist das Ism, die Wörter mit Fatḥa/Tanwīn-Fatḥa sind das Khabar.",
+          "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n242"
         },
         {
           "type": "multiple_choice",
@@ -786,13 +805,15 @@
             "مَا دَامَ"
           ],
           "answer": "لَيْسَ",
-          "explanation": "لَيْسَ (ist nicht) negiert den Nominalsatz. Das Ism bleibt im Nominativ, das Khabar geht in den Akkusativ (oder mit بِ in den Genitiv)."
+          "explanation": "لَيْسَ (ist nicht) negiert den Nominalsatz. Das Ism bleibt im Nominativ, das Khabar geht in den Akkusativ (oder mit بِ in den Genitiv).",
+          "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n242"
         },
         {
           "type": "fill_in",
           "prompt": "Setze das Khabar in den richtigen Kasus: كَانَ الرَّجُلُ _____ (صَالِح — rechtschaffen). Welche Endung bekommt صالح?",
           "answer": "صَالِحًا",
-          "hint": "Das Khabar von كَانَ steht im Akkusativ. Wie lautet die Akkusativendung mit Tanwīn?"
+          "hint": "Das Khabar von كَانَ steht im Akkusativ. Wie lautet die Akkusativendung mit Tanwīn?",
+          "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n242"
         },
         {
           "type": "matching",
@@ -838,7 +859,8 @@
               "left": "مَا دَامَ",
               "right": "solange"
             }
-          ]
+          ],
+          "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n242"
         },
         {
           "type": "sentence_analysis",
@@ -999,14 +1021,16 @@
             "Es fällt weg"
           ],
           "answer": "Es wechselt in den Akkusativ",
-          "explanation": "إِنَّ und ihre Schwestern setzen das Mubtadaʼ (jetzt 'Ism von inna') in den Akkusativ, während das Khabar im Nominativ bleibt — genau umgekehrt zu كَانَ."
+          "explanation": "إِنَّ und ihre Schwestern setzen das Mubtadaʼ (jetzt 'Ism von inna') in den Akkusativ, während das Khabar im Nominativ bleibt — genau umgekehrt zu كَانَ.",
+          "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n140"
         },
         {
           "type": "case_determination",
           "prompt": "Bestimme den Kasus von اللَّهَ und عَلِيمٌ in: إِنَّ اللَّهَ عَلِيمٌ",
           "word": "إِنَّ اللَّهَ عَلِيمٌ",
           "answer": "اللَّهَ = Akkusativ (Ism von inna), عَلِيمٌ = Nominativ (Khabar von inna)",
-          "hint": "إِنَّ wirkt auf das Subjekt — was passiert mit dem Kasus?"
+          "hint": "إِنَّ wirkt auf das Subjekt — was passiert mit dem Kasus?",
+          "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n140"
         },
         {
           "type": "matching",
@@ -1036,7 +1060,8 @@
               "left": "لَيْتَ",
               "right": "Wunsch (wenn doch nur)"
             }
-          ]
+          ],
+          "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n140"
         },
         {
           "type": "multiple_choice",
@@ -1048,13 +1073,15 @@
             "Es gibt keinen Unterschied"
           ],
           "answer": "إِنَّ setzt das Ism in den Akkusativ, كَانَ setzt das Khabar in den Akkusativ",
-          "explanation": "Die Wirkung ist genau umgekehrt: Bei إِنَّ wird das Subjekt Akkusativ, bei كَانَ wird das Prädikat Akkusativ."
+          "explanation": "Die Wirkung ist genau umgekehrt: Bei إِنَّ wird das Subjekt Akkusativ, bei كَانَ wird das Prädikat Akkusativ.",
+          "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n140"
         },
         {
           "type": "fill_in",
           "prompt": "Setze das Ism von إِنَّ in den richtigen Kasus: إِنَّ _____ سَمِيعٌ بَصِيرٌ (اللَّه). Welche Endung bekommt اللَّه?",
           "answer": "اللَّهَ",
-          "hint": "Das Ism von إِنَّ steht im Akkusativ. Wie lautet die Fatḥa-Endung von اللَّه?"
+          "hint": "Das Ism von إِنَّ steht im Akkusativ. Wie lautet die Fatḥa-Endung von اللَّه?",
+          "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n140"
         },
         {
           "type": "sentence_analysis",
@@ -1254,14 +1281,16 @@
             "لَوْلَا"
           ],
           "answer": "إِنْ",
-          "explanation": "Nur إِنْ (ungewisse Bedingung) setzt beide Verben — Bedingung und Antwort — in den Jussiv (Jazm). Die anderen Partikeln verwenden Perfekt oder andere Formen."
+          "explanation": "Nur إِنْ (ungewisse Bedingung) setzt beide Verben — Bedingung und Antwort — in den Jussiv (Jazm). Die anderen Partikeln verwenden Perfekt oder andere Formen.",
+          "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n242"
         },
         {
           "type": "identification",
           "prompt": "Welche Art von Bedingung drückt لَوْ aus?",
           "word": "لَوْ",
           "answer": "Irreale Bedingung (etwas, das nicht eingetreten ist / Gegenteil der Realität)",
-          "hint": "لَوْ drückt aus, was hätte sein können, aber nicht war."
+          "hint": "لَوْ drückt aus, was hätte sein können, aber nicht war.",
+          "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n242"
         },
         {
           "type": "multiple_choice",
@@ -1273,7 +1302,8 @@
             "Imperativ (Amr)"
           ],
           "answer": "Perfekt (Māḍī)",
-          "explanation": "Bei إِذَا steht die Bedingung im Perfekt (Māḍī), obwohl die Bedeutung oft futurisch ist. إِذَا drückt eine gewisse/erwartete Bedingung aus."
+          "explanation": "Bei إِذَا steht die Bedingung im Perfekt (Māḍī), obwohl die Bedeutung oft futurisch ist. إِذَا drückt eine gewisse/erwartete Bedingung aus.",
+          "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n242"
         },
         {
           "type": "matching",
@@ -1295,7 +1325,8 @@
               "left": "لَوْلَا",
               "right": "Gäbe es nicht / Wenn nicht"
             }
-          ]
+          ],
+          "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n242"
         },
         {
           "type": "sentence_analysis",
@@ -1458,14 +1489,16 @@
             "Nie — Arabisch hat keine Relativpronomen"
           ],
           "answer": "Nur bei bestimmten Bezugswörtern",
-          "explanation": "Das Relativpronomen steht nur, wenn das Bezugswort bestimmt ist (mit Artikel oder Eigenname). Bei unbestimmten Bezugswörtern wird der Relativsatz direkt angeschlossen."
+          "explanation": "Das Relativpronomen steht nur, wenn das Bezugswort bestimmt ist (mit Artikel oder Eigenname). Bei unbestimmten Bezugswörtern wird der Relativsatz direkt angeschlossen.",
+          "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n242"
         },
         {
           "type": "identification",
           "prompt": "Identifiziere das Relativpronomen und das Rückbezugspronomen in: الْكِتَابُ الَّذِي أَنزَلْنَاهُ",
           "word": "الْكِتَابُ الَّذِي أَنزَلْنَاهُ",
           "answer": "Relativpronomen: الَّذِي, Rückbezugspronomen: هُ (in أَنزَلْنَاهُ)",
-          "hint": "Das Rückbezugspronomen verweist zurück auf das Bezugswort — welches Suffix bezieht sich auf الْكِتَاب?"
+          "hint": "Das Rückbezugspronomen verweist zurück auf das Bezugswort — welches Suffix bezieht sich auf الْكِتَاب?",
+          "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n242"
         },
         {
           "type": "matching",
@@ -1487,7 +1520,8 @@
               "left": "اللَّتَانِ",
               "right": "Feminin Dual"
             }
-          ]
+          ],
+          "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n242"
         },
         {
           "type": "multiple_choice",
@@ -1499,13 +1533,15 @@
             "Weil es sich um einen Hauptsatz handelt"
           ],
           "answer": "Weil كِتَابٌ unbestimmt ist (Tanwīn)",
-          "explanation": "Bei unbestimmten Bezugswörtern fällt das Relativpronomen weg. Der Relativsatz wird direkt angeschlossen. Das Rückbezugspronomen هُ bleibt aber erhalten."
+          "explanation": "Bei unbestimmten Bezugswörtern fällt das Relativpronomen weg. Der Relativsatz wird direkt angeschlossen. Das Rückbezugspronomen هُ bleibt aber erhalten.",
+          "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n242"
         },
         {
           "type": "fill_in",
           "prompt": "Ergänze das passende Relativpronomen: الْمُؤْمِنَاتُ _____ هَاجَرْنَ (die gläubigen Frauen, die ausgewandert sind)",
           "answer": "اللَّاتِي",
-          "hint": "الْمُؤْمِنَاتُ ist Feminin Plural und bestimmt. Welches Relativpronomen passt?"
+          "hint": "الْمُؤْمِنَاتُ ist Feminin Plural und bestimmt. Welches Relativpronomen passt?",
+          "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n242"
         },
         {
           "type": "sentence_analysis",
@@ -1661,14 +1697,16 @@
             "Jussiv (Jazm)"
           ],
           "answer": "Genitiv (Jarr)",
-          "explanation": "Nach einer Schwurpartikel steht das Nomen immer im Genitiv (Jarr). وَالْفَجْرِ — الْفَجْرِ hat Kasra."
+          "explanation": "Nach einer Schwurpartikel steht das Nomen immer im Genitiv (Jarr). وَالْفَجْرِ — الْفَجْرِ hat Kasra.",
+          "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n140"
         },
         {
           "type": "identification",
           "prompt": "Identifiziere den Schwur und die Antwort in: وَالْعَصْرِ ، إِنَّ الْإِنسَانَ لَفِي خُسْرٍ",
           "word": "وَالْعَصْرِ ، إِنَّ الْإِنسَانَ لَفِي خُسْرٍ",
           "answer": "Schwur: وَالْعَصْرِ (Bei der Zeit). Antwort: إِنَّ الْإِنسَانَ لَفِي خُسْرٍ (Wahrlich, der Mensch ist in Verlust).",
-          "hint": "Die Antwort beginnt oft mit إِنَّ oder لَ."
+          "hint": "Die Antwort beginnt oft mit إِنَّ oder لَ.",
+          "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n140"
         },
         {
           "type": "multiple_choice",
@@ -1680,7 +1718,8 @@
             "لَ"
           ],
           "answer": "وَ",
-          "explanation": "وَ ist die bei weitem häufigste Schwurpartikel im Quran. Sie leitet zahlreiche Suren ein (89, 91, 93, 95, 100, 103 u.v.m.)."
+          "explanation": "وَ ist die bei weitem häufigste Schwurpartikel im Quran. Sie leitet zahlreiche Suren ein (89, 91, 93, 95, 100, 103 u.v.m.).",
+          "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n140"
         },
         {
           "type": "matching",
@@ -1711,13 +1750,15 @@
               "right": "Die Zeit",
               "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=103&verse=1"
             }
-          ]
+          ],
+          "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n140"
         },
         {
           "type": "fill_in",
           "prompt": "In Sure 91 werden elf Schwurobjekte aufgezählt. Die Antwort kommt erst in Vers 9: قَدْ أَفْلَحَ مَن _____. (Wohl dem, der sie rein hält). Ergänze das fehlende Verb.",
           "answer": "زَكَّاهَا",
-          "hint": "Das Verb bedeutet 'rein halten/läutern' und hat ein feminines Objektpronomen (bezieht sich auf النَّفْس)."
+          "hint": "Das Verb bedeutet 'rein halten/läutern' und hat ein feminines Objektpronomen (bezieht sich auf النَّفْس).",
+          "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n140"
         },
         {
           "type": "sentence_analysis",
@@ -1869,14 +1910,16 @@
             "Er folgt dem Kasus des Bezugswortes"
           ],
           "answer": "Akkusativ (Naṣb)",
-          "explanation": "Der Ḥāl steht ausnahmslos im Akkusativ (Naṣb), unabhängig vom Kasus seines Bezugswortes. Zudem ist er immer unbestimmt."
+          "explanation": "Der Ḥāl steht ausnahmslos im Akkusativ (Naṣb), unabhängig vom Kasus seines Bezugswortes. Zudem ist er immer unbestimmt.",
+          "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n310"
         },
         {
           "type": "identification",
           "prompt": "Identifiziere den Ḥāl in: خَلَقَ الْإِنسَانَ ضَعِيفًا",
           "word": "خَلَقَ الْإِنسَانَ ضَعِيفًا",
           "answer": "ضَعِيفًا (schwach-seiend) — Ḥāl im Akkusativ, beschreibt den Zustand des Menschen bei der Erschaffung",
-          "hint": "Welches Wort ist unbestimmt und steht im Akkusativ, obwohl es kein direktes Objekt ist?"
+          "hint": "Welches Wort ist unbestimmt und steht im Akkusativ, obwohl es kein direktes Objekt ist?",
+          "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n310"
         },
         {
           "type": "multiple_choice",
@@ -1888,13 +1931,15 @@
             "Der Ḥāl ist immer bestimmt"
           ],
           "answer": "Der Ḥāl ist immer unbestimmt und im Akkusativ; das Adjektiv stimmt mit dem Bezugswort überein",
-          "explanation": "Das Adjektiv folgt dem Bezugswort in Kasus, Genus, Numerus und Bestimmtheit. Der Ḥāl hingegen ist IMMER unbestimmt und IMMER im Akkusativ."
+          "explanation": "Das Adjektiv folgt dem Bezugswort in Kasus, Genus, Numerus und Bestimmtheit. Der Ḥāl hingegen ist IMMER unbestimmt und IMMER im Akkusativ.",
+          "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n310"
         },
         {
           "type": "fill_in",
           "prompt": "Ergänze den Ḥāl: فَخَرَجَ مِنْهَا _____ (خَائِف — fürchtend). In welcher Form muss خَائِف stehen?",
           "answer": "خَائِفًا",
-          "hint": "Der Ḥāl steht im Akkusativ mit Tanwīn (unbestimmt)."
+          "hint": "Der Ḥāl steht im Akkusativ mit Tanwīn (unbestimmt).",
+          "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n310"
         },
         {
           "type": "matching",
@@ -1916,7 +1961,8 @@
               "left": "الرَّجُلُ الْخَائِفُ خَرَجَ",
               "right": "Adjektiv (Nom., bestimmt)"
             }
-          ]
+          ],
+          "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n310"
         },
         {
           "type": "sentence_analysis",
@@ -2073,7 +2119,8 @@
             "Er verbindet zwei Sätze"
           ],
           "answer": "Er präzisiert eine allgemeine oder mehrdeutige Aussage",
-          "explanation": "Der Tamyīz (Spezifikationsakkusativ) beantwortet die Frage 'In welcher Hinsicht?' und macht eine allgemeine Aussage konkreter."
+          "explanation": "Der Tamyīz (Spezifikationsakkusativ) beantwortet die Frage 'In welcher Hinsicht?' und macht eine allgemeine Aussage konkreter.",
+          "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n315"
         },
         {
           "type": "identification",
@@ -2093,13 +2140,15 @@
             "Es gibt keinen Unterschied"
           ],
           "answer": "Tamyīz präzisiert den Bereich/die Art, Ḥāl beschreibt den Zustand",
-          "explanation": "Beide stehen im Akkusativ und sind unbestimmt. Aber der Ḥāl beschreibt den Zustand einer Person/Sache (Wie?), während der Tamyīz den Bereich oder die Art einer Aussage präzisiert (In welcher Hinsicht?)."
+          "explanation": "Beide stehen im Akkusativ und sind unbestimmt. Aber der Ḥāl beschreibt den Zustand einer Person/Sache (Wie?), während der Tamyīz den Bereich oder die Art einer Aussage präzisiert (In welcher Hinsicht?).",
+          "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n315"
         },
         {
           "type": "fill_in",
           "prompt": "Ergänze den Tamyīz: إِنِّي رَأَيْتُ أَحَدَ عَشَرَ _____ (كَوْكَب — Stern). In welcher Form muss das Wort stehen?",
           "answer": "كَوْكَبًا",
-          "hint": "Nach Zahlen 11-99 steht der Tamyīz im Singular Akkusativ mit Tanwīn."
+          "hint": "Nach Zahlen 11-99 steht der Tamyīz im Singular Akkusativ mit Tanwīn.",
+          "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n315"
         },
         {
           "type": "matching",
@@ -2121,7 +2170,8 @@
               "left": "وَفَجَّرْنَا الْأَرْضَ عُيُونًا",
               "right": "Tamyīz (Art der Spaltung)"
             }
-          ]
+          ],
+          "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n315"
         },
         {
           "type": "sentence_analysis",

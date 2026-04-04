@@ -171,14 +171,16 @@
             "prompt": "Bestimme die Wurzel des folgenden Wortes:",
             "word": "كِتَاب",
             "answer": "ك-ت-ب",
-            "hint": "Entferne das Muster فِعَال — was bleibt sind die drei Wurzelkonsonanten."
+            "hint": "Entferne das Muster فِعَال — was bleibt sind die drei Wurzelkonsonanten.",
+            "verifyUrl": "https://corpus.quran.com/qurandictionary.jsp?q=ktb"
           },
           {
             "type": "root_extraction",
             "prompt": "Bestimme die Wurzel des folgenden Wortes:",
             "word": "عَالِم",
             "answer": "ع-ل-م",
-            "hint": "Muster فَاعِل — der Alif nach dem ersten Konsonanten gehört zum Muster, nicht zur Wurzel."
+            "hint": "Muster فَاعِل — der Alif nach dem ersten Konsonanten gehört zum Muster, nicht zur Wurzel.",
+            "verifyUrl": "https://corpus.quran.com/qurandictionary.jsp?q=Elm"
           },
           {
             "type": "pattern_recognition",
@@ -190,7 +192,8 @@
               "فَعِيل",
               "فِعَال"
             ],
-            "answer": "مَفْعُول"
+            "answer": "مَفْعُول",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n80"
           },
           {
             "type": "multiple_choice",
@@ -205,7 +208,8 @@
             "answer": [
               "كَبِير"
             ],
-            "explanation": "كَبِير hat die Wurzel ك-ب-ر (groß sein), nicht ك-ت-ب."
+            "explanation": "كَبِير hat die Wurzel ك-ب-ر (groß sein), nicht ك-ت-ب.",
+            "verifyUrl": "https://corpus.quran.com/qurandictionary.jsp?q=ktb"
           },
           {
             "type": "matching",
@@ -231,28 +235,32 @@
                 "word": "حَامِد",
                 "root": "ح-م-د"
               }
-            ]
+            ],
+            "verifyUrl": "https://corpus.quran.com/qurandictionary.jsp?q=Elm"
           },
           {
             "type": "root_extraction",
             "prompt": "Bestimme die Wurzel des folgenden Wortes:",
             "word": "مَعْلُوم",
             "answer": "ع-ل-م",
-            "hint": "Entferne das Muster مَفْعُول — die drei Wurzelkonsonanten bleiben übrig."
+            "hint": "Entferne das Muster مَفْعُول — die drei Wurzelkonsonanten bleiben übrig.",
+            "verifyUrl": "https://corpus.quran.com/qurandictionary.jsp?q=Elm"
           },
           {
             "type": "root_extraction",
             "prompt": "Bestimme die Wurzel des folgenden Wortes:",
             "word": "الرَّحْمَن",
             "answer": "ر-ح-م",
-            "hint": "Das Muster ist فَعْلَان (Intensivform). Entferne Muster und Artikel — drei Konsonanten bleiben."
+            "hint": "Das Muster ist فَعْلَان (Intensivform). Entferne Muster und Artikel — drei Konsonanten bleiben.",
+            "verifyUrl": "https://corpus.quran.com/qurandictionary.jsp?q=rHm"
           },
           {
             "type": "root_extraction",
             "prompt": "Bestimme die Wurzel des folgenden Wortes:",
             "word": "الْحَمْد",
             "answer": "ح-م-د",
-            "hint": "Entferne den Artikel الـ. Das Muster ist فَعْل (Masdar)."
+            "hint": "Entferne den Artikel الـ. Das Muster ist فَعْل (Masdar).",
+            "verifyUrl": "https://corpus.quran.com/qurandictionary.jsp?q=Hmd"
           },
           {
             "type": "pattern_recognition",
@@ -264,7 +272,8 @@
               "مَفْعُول",
               "فِعَال"
             ],
-            "answer": "فَاعِل"
+            "answer": "فَاعِل",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n80"
           },
           {
             "type": "pattern_recognition",
@@ -276,7 +285,8 @@
               "فَعَّال",
               "مَفْعُول"
             ],
-            "answer": "فَعِيل"
+            "answer": "فَعِيل",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n80"
           },
           {
             "type": "multiple_choice",
@@ -290,7 +300,8 @@
             "answer": [
               "Das Muster (wazn)"
             ],
-            "explanation": "Die Wurzel trägt die Kernbedeutung, das Muster (wazn / وَزْن) bestimmt die grammatische Funktion — Verb, Nomen, Partizip, Ort, Instrument."
+            "explanation": "Die Wurzel trägt die Kernbedeutung, das Muster (wazn / وَزْن) bestimmt die grammatische Funktion — Verb, Nomen, Partizip, Ort, Instrument.",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n80"
           },
           {
             "type": "multiple_choice",
@@ -304,7 +315,8 @@
             "answer": [
               "Ein abstraktes Muster: ف = 1. Radikal, ع = 2. Radikal, ل = 3. Radikal"
             ],
-            "explanation": "ف-ع-ل dient als abstraktes Muster: ف steht für den ersten, ع für den zweiten, ل für den dritten Wurzelkonsonanten."
+            "explanation": "ف-ع-ل dient als abstraktes Muster: ف steht für den ersten, ع für den zweiten, ل für den dritten Wurzelkonsonanten.",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n80"
           },
           {
             "type": "matching",
@@ -326,7 +338,8 @@
                 "word": "نَاصِر",
                 "pattern": "فَاعِل"
               }
-            ]
+            ],
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n80"
           }
         ]
       },
@@ -611,7 +624,8 @@
             "answer": {
               "form": "X"
             },
-            "hint": "Präfix اِسْتَـ = Form X (Suchen/Erbitten)"
+            "hint": "Präfix اِسْتَـ = Form X (Suchen/Erbitten)",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n120"
           },
           {
             "type": "pattern_recognition",
@@ -620,7 +634,8 @@
             "answer": {
               "form": "V"
             },
-            "hint": "Präfix تَـ + Verdopplung des 2. Radikals = Form V"
+            "hint": "Präfix تَـ + Verdopplung des 2. Radikals = Form V",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n110"
           },
           {
             "type": "matching",
@@ -646,13 +661,15 @@
                 "form": "X اِسْتَفْعَلَ",
                 "meaning": "Suchen / Erbitten"
               }
-            ]
+            ],
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n100"
           },
           {
             "type": "reverse",
             "prompt": "Bilde Form IV Perfekt von der Wurzel س-ل-م (nach dem Muster أَفْعَلَ):",
             "answer": "أَسْلَمَ",
-            "hint": "Form IV: أ + erster Radikal (sukūn) + zweiter Radikal + dritter Radikal"
+            "hint": "Form IV: أ + erster Radikal (sukūn) + zweiter Radikal + dritter Radikal",
+            "verifyUrl": "https://corpus.quran.com/qurandictionary.jsp?q=slm"
           },
           {
             "type": "multiple_choice",
@@ -666,7 +683,8 @@
             ],
             "answer": [
               "Suchen / Erbitten"
-            ]
+            ],
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n120"
           },
           {
             "type": "pattern_recognition",
@@ -675,7 +693,8 @@
             "answer": {
               "form": "VI"
             },
-            "hint": "Präfix تَـ + Alif nach dem 1. Radikal (فَاعَلَ-Struktur) = Form VI (Reziprok-Reflexiv)"
+            "hint": "Präfix تَـ + Alif nach dem 1. Radikal (فَاعَلَ-Struktur) = Form VI (Reziprok-Reflexiv)",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n112"
           },
           {
             "type": "pattern_recognition",
@@ -684,7 +703,8 @@
             "answer": {
               "form": "VIII"
             },
-            "hint": "Ein ت zwischen dem 1. und 2. Radikal = Form VIII (Reflexiv mit Eigeninitiative)"
+            "hint": "Ein ت zwischen dem 1. und 2. Radikal = Form VIII (Reflexiv mit Eigeninitiative)",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n116"
           },
           {
             "type": "pattern_recognition",
@@ -693,7 +713,8 @@
             "answer": {
               "form": "IX"
             },
-            "hint": "Verdopplung des 3. Radikals ohne Präfix-ت = Form IX (Farben / Körpereigenschaften)"
+            "hint": "Verdopplung des 3. Radikals ohne Präfix-ت = Form IX (Farben / Körpereigenschaften)",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n100"
           },
           {
             "type": "pattern_recognition",
@@ -702,7 +723,8 @@
             "answer": {
               "form": "IV"
             },
-            "hint": "Präfix أَـ + Sukūn auf dem 1. Radikal = Form IV (Kausativ)"
+            "hint": "Präfix أَـ + Sukūn auf dem 1. Radikal = Form IV (Kausativ)",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n108"
           },
           {
             "type": "pattern_recognition",
@@ -711,7 +733,8 @@
             "answer": {
               "form": "VII"
             },
-            "hint": "Präfix اِنْـ = Form VII (Passiv / Reflexiv)"
+            "hint": "Präfix اِنْـ = Form VII (Passiv / Reflexiv)",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n114"
           },
           {
             "type": "pattern_recognition",
@@ -720,19 +743,22 @@
             "answer": {
               "form": "VIII"
             },
-            "hint": "Ein ت zwischen dem 1. und 2. Radikal = Form VIII (Reflexiv mit Eigeninitiative)"
+            "hint": "Ein ت zwischen dem 1. und 2. Radikal = Form VIII (Reflexiv mit Eigeninitiative)",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n116"
           },
           {
             "type": "reverse",
             "prompt": "Bilde Form II Perfekt von der Wurzel ع-ل-م (nach dem Muster فَعَّلَ):",
             "answer": "عَلَّمَ",
-            "hint": "Form II: Verdopplung des zweiten Radikals. ع + لّ + م"
+            "hint": "Form II: Verdopplung des zweiten Radikals. ع + لّ + م",
+            "verifyUrl": "https://corpus.quran.com/qurandictionary.jsp?q=Elm"
           },
           {
             "type": "reverse",
             "prompt": "Bilde Form X Perfekt von der Wurzel غ-ف-ر (nach dem Muster اِسْتَفْعَلَ):",
             "answer": "اِسْتَغْفَرَ",
-            "hint": "Form X: اِسْتَـ + die drei Radikale → اِسْتَغْفَرَ"
+            "hint": "Form X: اِسْتَـ + die drei Radikale → اِسْتَغْفَرَ",
+            "verifyUrl": "https://corpus.quran.com/qurandictionary.jsp?q=gfr"
           },
           {
             "type": "multiple_choice",
@@ -746,7 +772,8 @@
             ],
             "answer": [
               "Reziprok (gegenseitige Handlung)"
-            ]
+            ],
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n106"
           },
           {
             "type": "multiple_choice",
@@ -760,7 +787,8 @@
             "answer": [
               "I, II, IV, V, VIII, X"
             ],
-            "explanation": "Im Quran sind die Formen I, II, IV, V, VIII und X am häufigsten."
+            "explanation": "Im Quran sind die Formen I, II, IV, V, VIII und X am häufigsten.",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n100"
           },
           {
             "type": "pattern_recognition",
@@ -770,7 +798,8 @@
               "form": "V",
               "tense": "Imperfekt"
             },
-            "hint": "Präfix يَتَـ + Verdopplung des zweiten Radikals = Form V Imperfekt"
+            "hint": "Präfix يَتَـ + Verdopplung des zweiten Radikals = Form V Imperfekt",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n110"
           }
         ]
       },
@@ -969,7 +998,8 @@
                 "person": "1.pl.",
                 "answer": "كَتَبْنَا"
               }
-            ]
+            ],
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n100"
           },
           {
             "type": "pattern_recognition",
@@ -980,7 +1010,8 @@
               "gender": "m",
               "number": "pl"
             },
-            "explanation": "Die Endung ـْتُمْ = 2. Person maskulin Plural."
+            "explanation": "Die Endung ـْتُمْ = 2. Person maskulin Plural.",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n100"
           },
           {
             "type": "pattern_recognition",
@@ -991,7 +1022,8 @@
               "gender": "c",
               "number": "pl"
             },
-            "explanation": "Die Endung ـْنَا = 1. Person Plural (wir)."
+            "explanation": "Die Endung ـْنَا = 1. Person Plural (wir).",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n100"
           },
           {
             "type": "multiple_choice",
@@ -1004,12 +1036,14 @@
             ],
             "answer": [
               "فَعَلْنَ = sie (f.pl.) / فَعَلْنَا = wir"
-            ]
+            ],
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n100"
           },
           {
             "type": "reverse",
             "prompt": "Bilde die 3.f.sg. Perfektform von نَصَرَ (helfen):",
-            "answer": "نَصَرَتْ"
+            "answer": "نَصَرَتْ",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n100"
           },
           {
             "type": "pattern_recognition",
@@ -1020,7 +1054,8 @@
               "gender": "m",
               "number": "du"
             },
-            "explanation": "Die Endung ـَا = 3. Person maskulin Dual (sie beide m. taten)."
+            "explanation": "Die Endung ـَا = 3. Person maskulin Dual (sie beide m. taten).",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n100"
           },
           {
             "type": "pattern_recognition",
@@ -1031,7 +1066,8 @@
               "gender": "f",
               "number": "du"
             },
-            "explanation": "Die Endung ـَتَا = 3. Person feminin Dual (sie beide f. taten)."
+            "explanation": "Die Endung ـَتَا = 3. Person feminin Dual (sie beide f. taten).",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n100"
           },
           {
             "type": "pattern_recognition",
@@ -1042,7 +1078,8 @@
               "gender": "f",
               "number": "sg"
             },
-            "explanation": "Die Endung ـْتِ = 2. Person feminin Singular (du f. tatest)."
+            "explanation": "Die Endung ـْتِ = 2. Person feminin Singular (du f. tatest).",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n100"
           },
           {
             "type": "pattern_recognition",
@@ -1053,7 +1090,8 @@
               "gender": "c",
               "number": "du"
             },
-            "explanation": "Die Endung ـْتُمَا = 2. Person Dual (ihr beide tatet)."
+            "explanation": "Die Endung ـْتُمَا = 2. Person Dual (ihr beide tatet).",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n100"
           },
           {
             "type": "pattern_recognition",
@@ -1064,7 +1102,8 @@
               "gender": "f",
               "number": "pl"
             },
-            "explanation": "Die Endung ـْتُنَّ = 2. Person feminin Plural (ihr f. tatet)."
+            "explanation": "Die Endung ـْتُنَّ = 2. Person feminin Plural (ihr f. tatet).",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n100"
           }
         ]
       },
@@ -1273,7 +1312,8 @@
                 "person": "2.f.sg.",
                 "answer": "تَكْتُبِينَ"
               }
-            ]
+            ],
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n100"
           },
           {
             "type": "pattern_recognition",
@@ -1284,7 +1324,8 @@
               "gender": "m",
               "number": "pl"
             },
-            "explanation": "Präfix يـ = 3. Person, Suffix ـُونَ = maskulin Plural."
+            "explanation": "Präfix يـ = 3. Person, Suffix ـُونَ = maskulin Plural.",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n100"
           },
           {
             "type": "pattern_recognition",
@@ -1295,7 +1336,8 @@
               "gender": "f",
               "number": "sg"
             },
-            "explanation": "Präfix تـ + Suffix ـِينَ = 2.f.sg."
+            "explanation": "Präfix تـ + Suffix ـِينَ = 2.f.sg.",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n100"
           },
           {
             "type": "multiple_choice",
@@ -1308,12 +1350,14 @@
             ],
             "answer": [
               "أَ"
-            ]
+            ],
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n100"
           },
           {
             "type": "reverse",
             "prompt": "Bilde die 3.m.pl. Imperfektform von نَصَرَ (helfen):",
-            "answer": "يَنْصُرُونَ"
+            "answer": "يَنْصُرُونَ",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n100"
           },
           {
             "type": "pattern_recognition",
@@ -1324,7 +1368,8 @@
               "gender": "m",
               "number": "du"
             },
-            "explanation": "Präfix يـ = 3. Person, Suffix ـَانِ = Dual maskulin. Sie beide (m.) tun."
+            "explanation": "Präfix يـ = 3. Person, Suffix ـَانِ = Dual maskulin. Sie beide (m.) tun.",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n100"
           },
           {
             "type": "pattern_recognition",
@@ -1335,13 +1380,15 @@
               "gender": "f/c",
               "number": "du"
             },
-            "explanation": "Präfix تـ + Suffix ـَانِ = Dual. Kann 3.f.du. (sie beide f.) oder 2.du. (ihr beide) sein — nur der Kontext unterscheidet."
+            "explanation": "Präfix تـ + Suffix ـَانِ = Dual. Kann 3.f.du. (sie beide f.) oder 2.du. (ihr beide) sein — nur der Kontext unterscheidet.",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n100"
           },
           {
             "type": "reverse",
             "prompt": "Bilde die 2.f.sg. Imperfektform von نَصَرَ (helfen):",
             "answer": "تَنْصُرِينَ",
-            "hint": "Präfix تـ + Suffix ـِينَ = 2.f.sg."
+            "hint": "Präfix تـ + Suffix ـِينَ = 2.f.sg.",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n100"
           },
           {
             "type": "multiple_choice",
@@ -1355,14 +1402,16 @@
             "answer": [
               "3.f.du. (تَفْعَلَانِ) und 2.du. (تَفْعَلَانِ)"
             ],
-            "note": "Auch 3.f.sg. (تَفْعَلُ) und 2.m.sg. (تَفْعَلُ) sind identisch — ein weiteres mehrdeutiges Paar."
+            "note": "Auch 3.f.sg. (تَفْعَلُ) und 2.m.sg. (تَفْعَلُ) sind identisch — ein weiteres mehrdeutiges Paar.",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n100"
           },
           {
             "type": "reverse",
             "prompt": "Bilde die 1. Person Plural Imperfekt von فعل:",
             "root": "ف-ع-ل",
             "answer": "نَفْعَلُ",
-            "hint": "1. Person Plural: Präfix نَـ"
+            "hint": "1. Person Plural: Präfix نَـ",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n100"
           }
         ]
       },
@@ -1503,7 +1552,8 @@
                 "person": "2.m.pl.",
                 "answer": "اُكْتُبُوا"
               }
-            ]
+            ],
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n100"
           },
           {
             "type": "pattern_recognition",
@@ -1513,13 +1563,15 @@
               "person": 2,
               "gender": "m",
               "number": "pl"
-            }
+            },
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n100"
           },
           {
             "type": "reverse",
             "prompt": "Wie lautet der Imperativ 2.m.sg. von قَالَ (sagen)?",
             "answer": "قُلْ",
-            "hint": "Hohles Verb: Der Langvokal verschwindet im Jussiv/Imperativ."
+            "hint": "Hohles Verb: Der Langvokal verschwindet im Jussiv/Imperativ.",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n100"
           },
           {
             "type": "multiple_choice",
@@ -1532,26 +1584,30 @@
             ],
             "answer": [
               "Weil der Stamm mit einem Vokal (Damma) beginnt"
-            ]
+            ],
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n100"
           },
           {
             "type": "root_extraction",
             "prompt": "Bestimme die Wurzel von اعْبُدُوا:",
             "word": "اعْبُدُوا",
             "answer": "ع-ب-د",
-            "hint": "Entferne das Hilfs-Alif am Anfang und das Pluralsuffix ـُوا."
+            "hint": "Entferne das Hilfs-Alif am Anfang und das Pluralsuffix ـُوا.",
+            "verifyUrl": "https://corpus.quran.com/qurandictionary.jsp?q=Ebd"
           },
           {
             "type": "conjugation_drill",
             "prompt": "Bilde den Imperativ 2.f.sg. von فَعَلَ (tun):",
             "answer": "اِفْعَلِي",
-            "hint": "Feminine Singular-Endung ـِي wird an den Stamm angehängt: اِفْعَلِي"
+            "hint": "Feminine Singular-Endung ـِي wird an den Stamm angehängt: اِفْعَلِي",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n100"
           },
           {
             "type": "conjugation_drill",
             "prompt": "Bilde den Imperativ 2.m.pl. von كَتَبَ (schreiben):",
             "answer": "اُكْتُبُوا",
-            "hint": "Plural-Suffix ـُوا. Der Vokal auf dem Hilfs-Alif richtet sich nach dem Stammvokal."
+            "hint": "Plural-Suffix ـُوا. Der Vokal auf dem Hilfs-Alif richtet sich nach dem Stammvokal.",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n100"
           },
           {
             "type": "multiple_choice",
@@ -1565,21 +1621,24 @@
             "answer": [
               "Durch Entfernen des Präfix تـ vom Jussiv und ggf. Hilfs-Alif"
             ],
-            "explanation": "Der Imperativ wird gebildet, indem das Präfix تـ vom Jussiv entfernt wird. Beginnt der Stamm dann mit einem Konsonant-Cluster, wird ein Hilfs-Alif (Hamzat al-Wasl) vorangestellt."
+            "explanation": "Der Imperativ wird gebildet, indem das Präfix تـ vom Jussiv entfernt wird. Beginnt der Stamm dann mit einem Konsonant-Cluster, wird ein Hilfs-Alif (Hamzat al-Wasl) vorangestellt.",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n100"
           },
           {
             "type": "pattern_recognition",
             "prompt": "Bestimme Person und Numerus von كُلُوا:",
             "word": "كُلُوا",
             "answer": "2.m.pl. Imperativ",
-            "hint": "Suffix ـُوا = maskuliner Plural. Von أَكَلَ (essen) — Hamza-Verb."
+            "hint": "Suffix ـُوا = maskuliner Plural. Von أَكَلَ (essen) — Hamza-Verb.",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n100"
           },
           {
             "type": "reverse",
             "prompt": "Bilde den Imperativ Dual (ihr beide) von كتب:",
             "root": "ك-ت-ب",
             "answer": "اكْتُبَا",
-            "hint": "Dual-Imperativ: Jussiv-Stamm + Alif (ـَا)"
+            "hint": "Dual-Imperativ: Jussiv-Stamm + Alif (ـَا)",
+            "verifyUrl": "https://corpus.quran.com/qurandictionary.jsp?q=ktb"
           }
         ]
       },
@@ -1737,7 +1796,8 @@
             ],
             "answer": [
               "Subjunktiv (Naṣb)"
-            ]
+            ],
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n100"
           },
           {
             "type": "multiple_choice",
@@ -1749,7 +1809,8 @@
             ],
             "answer": [
               "Jussiv (Jazm)"
-            ]
+            ],
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n100"
           },
           {
             "type": "pattern_recognition",
@@ -1758,13 +1819,15 @@
             "answer": {
               "mood": "Indikativ"
             },
-            "explanation": "Endung ـُ (Damma) = Indikativ (Rafʿ). Standardform ohne Partikel."
+            "explanation": "Endung ـُ (Damma) = Indikativ (Rafʿ). Standardform ohne Partikel.",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n100"
           },
           {
             "type": "reverse",
             "prompt": "Setze يَكْتُبُ in den Jussiv:",
             "answer": "يَكْتُبْ",
-            "hint": "Ersetze die Damma-Endung (ـُ) durch Sukūn (ـْ)."
+            "hint": "Ersetze die Damma-Endung (ـُ) durch Sukūn (ـْ).",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n100"
           },
           {
             "type": "matching",
@@ -1790,14 +1853,16 @@
                 "particle": "كَيْ",
                 "mood": "Subjunktiv"
               }
-            ]
+            ],
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n100"
           },
           {
             "type": "reverse",
             "prompt": "Setze يَكْتُبُ in den Subjunktiv:",
             "root": "ك-ت-ب",
             "answer": "يَكْتُبَ",
-            "hint": "Subjunktiv: Damma (ـُ) wird zu Fatha (ـَ)"
+            "hint": "Subjunktiv: Damma (ـُ) wird zu Fatha (ـَ)",
+            "verifyUrl": "https://corpus.quran.com/qurandictionary.jsp?q=ktb"
           },
           {
             "type": "multiple_choice",
@@ -1811,7 +1876,8 @@
             "answer": [
               "Sukun (ـْ)"
             ],
-            "explanation": "Der Jussiv zeigt Sukun (ـْ) als Endung: يَفْعَلْ."
+            "explanation": "Der Jussiv zeigt Sukun (ـْ) als Endung: يَفْعَلْ.",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n100"
           }
         ]
       },
@@ -1936,12 +2002,14 @@
           {
             "type": "reverse",
             "prompt": "Bilde das Perfekt Passiv von كَتَبَ (schreiben):",
-            "answer": "كُتِبَ"
+            "answer": "كُتِبَ",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n100"
           },
           {
             "type": "reverse",
             "prompt": "Bilde das Imperfekt Passiv von يَفْعَلُ:",
-            "answer": "يُفْعَلُ"
+            "answer": "يُفْعَلُ",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n100"
           },
           {
             "type": "pattern_recognition",
@@ -1950,7 +2018,8 @@
             "answer": {
               "voice": "Passiv"
             },
-            "explanation": "Das Damma am Anfang (أُ) und die Kasra vor dem letzten Radikal (ـِ) zeigen Passiv an. Aktiv wäre أَنْزَلَ."
+            "explanation": "Das Damma am Anfang (أُ) und die Kasra vor dem letzten Radikal (ـِ) zeigen Passiv an. Aktiv wäre أَنْزَلَ.",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n100"
           },
           {
             "type": "multiple_choice",
@@ -1963,24 +2032,28 @@
             ],
             "answer": [
               "Durch Vokalwechsel im Stamm"
-            ]
+            ],
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n100"
           },
           {
             "type": "reverse",
             "prompt": "Bilde das Perfekt Passiv von أَنْزَلَ (Form IV, herabsenden):",
-            "answer": "أُنْزِلَ"
+            "answer": "أُنْزِلَ",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n108"
           },
           {
             "type": "reverse",
             "prompt": "Bilde das Imperfekt Passiv von يُنْزِلُ (Form IV, herabsenden):",
             "answer": "يُنْزَلُ",
-            "hint": "Im Imperfekt Passiv: Präfix-Vokal bleibt Damma, der Vokal vor dem letzten Radikal wird zu Fatha."
+            "hint": "Im Imperfekt Passiv: Präfix-Vokal bleibt Damma, der Vokal vor dem letzten Radikal wird zu Fatha.",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n108"
           },
           {
             "type": "reverse",
             "prompt": "Bilde das Perfekt Passiv von عَلَّمَ (Form II, lehren):",
             "answer": "عُلِّمَ",
-            "hint": "Erster Vokal wird Damma, vorletzter wird Kasra. Die Verdopplung (Schadda) bleibt."
+            "hint": "Erster Vokal wird Damma, vorletzter wird Kasra. Die Verdopplung (Schadda) bleibt.",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n104"
           },
           {
             "type": "pattern_recognition",
@@ -1989,7 +2062,8 @@
             "answer": {
               "voice": "Passiv"
             },
-            "explanation": "Das Damma am Anfang (كُ) und die Kasra vor dem letzten Radikal (تِ) zeigen Passiv an. Aktiv wäre كَتَبَ."
+            "explanation": "Das Damma am Anfang (كُ) und die Kasra vor dem letzten Radikal (تِ) zeigen Passiv an. Aktiv wäre كَتَبَ.",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n100"
           },
           {
             "type": "multiple_choice",
@@ -2003,7 +2077,8 @@
             "answer": [
               "الْكِتَابُ"
             ],
-            "explanation": "Im Passiv wird das Objekt zum نائب الفاعل (Nominativ): الْكِتَابُ steht im Nominativ als Stellvertreter-Subjekt."
+            "explanation": "Im Passiv wird das Objekt zum نائب الفاعل (Nominativ): الْكِتَابُ steht im Nominativ als Stellvertreter-Subjekt.",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n100"
           }
         ]
       },
@@ -2127,13 +2202,15 @@
             ],
             "answer": [
               "Durch Anwesenheit oder Abwesenheit des Nūn (ن)"
-            ]
+            ],
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n100"
           },
           {
             "type": "reverse",
             "prompt": "Setze يَفْعَلُونَ in den Jussiv (nach لَمْ):",
             "answer": "يَفْعَلُوا",
-            "hint": "Das Nūn fällt weg."
+            "hint": "Das Nūn fällt weg.",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n100"
           },
           {
             "type": "pattern_recognition",
@@ -2142,7 +2219,8 @@
             "answer": {
               "mood": "Indikativ"
             },
-            "explanation": "Das Nūn ist vorhanden → Indikativ."
+            "explanation": "Das Nūn ist vorhanden → Indikativ.",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n100"
           },
           {
             "type": "pattern_recognition",
@@ -2151,7 +2229,8 @@
             "answer": {
               "mood": "Jussiv"
             },
-            "explanation": "Das Nūn fehlt (wäre يَكُونُونَ im Indikativ) → Jussiv/Subjunktiv. Nach لَمْ: Jussiv."
+            "explanation": "Das Nūn fehlt (wäre يَكُونُونَ im Indikativ) → Jussiv/Subjunktiv. Nach لَمْ: Jussiv.",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n100"
           },
           {
             "type": "multiple_choice",
@@ -2167,19 +2246,22 @@
               "يَفْعَلُونَ",
               "تَفْعَلَانِ",
               "تَفْعَلِينَ"
-            ]
+            ],
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n100"
           },
           {
             "type": "reverse",
             "prompt": "Setze تَفْعَلِينَ (2.f.sg.) in den Subjunktiv (nach أَنْ):",
             "answer": "تَفْعَلِي",
-            "hint": "Das Nūn fällt weg, der Rest bleibt."
+            "hint": "Das Nūn fällt weg, der Rest bleibt.",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n100"
           },
           {
             "type": "reverse",
             "prompt": "Setze تَفْعَلَانِ (Dual) in den Jussiv (nach لَمْ):",
             "answer": "تَفْعَلَا",
-            "hint": "Das Nūn fällt weg. Die Endung ـَانِ wird zu ـَا."
+            "hint": "Das Nūn fällt weg. Die Endung ـَانِ wird zu ـَا.",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n100"
           },
           {
             "type": "pattern_recognition",
@@ -2188,7 +2270,8 @@
             "answer": {
               "mood": "Jussiv"
             },
-            "explanation": "Das Nūn fehlt (Vollform wäre تَحْزَنُونَ). Nach لَا الناهية: Jussiv (Verbot)."
+            "explanation": "Das Nūn fehlt (Vollform wäre تَحْزَنُونَ). Nach لَا الناهية: Jussiv (Verbot).",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n100"
           }
         ]
       },
@@ -2286,7 +2369,8 @@
             ],
             "answer": [
               "سَـ = nahe Zukunft, سَوْفَ = fernere/betontere Zukunft"
-            ]
+            ],
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n100"
           },
           {
             "type": "pattern_recognition",
@@ -2296,25 +2380,29 @@
               "tense": "Zukunft (nah)",
               "marker": "سَـ"
             },
-            "explanation": "Das Präfix سَـ zeigt nahe Zukunft an."
+            "explanation": "Das Präfix سَـ zeigt nahe Zukunft an.",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n100"
           },
           {
             "type": "reverse",
             "prompt": "Setze يَعْلَمُونَ (sie wissen) in die betonte Zukunft:",
-            "answer": "سَوْفَ يَعْلَمُونَ"
+            "answer": "سَوْفَ يَعْلَمُونَ",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n100"
           },
           {
             "type": "root_extraction",
             "prompt": "Bestimme die Wurzel von سَيَقُولُ:",
             "word": "سَيَقُولُ",
             "answer": "ق-و-ل",
-            "hint": "سَـ ist Futurpartikel, يـ ist Imperfekt-Präfix. Der Stamm ist قُولُ mit Wurzel ق-و-ل."
+            "hint": "سَـ ist Futurpartikel, يـ ist Imperfekt-Präfix. Der Stamm ist قُولُ mit Wurzel ق-و-ل.",
+            "verifyUrl": "https://corpus.quran.com/qurandictionary.jsp?q=qwl"
           },
           {
             "type": "reverse",
             "prompt": "Setze يَقُولُ (er sagt) in die nahe Zukunft:",
             "answer": "سَيَقُولُ",
-            "hint": "Nahe Zukunft: Präfix سَـ direkt an das Imperfekt anhängen."
+            "hint": "Nahe Zukunft: Präfix سَـ direkt an das Imperfekt anhängen.",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n100"
           }
         ]
       },
@@ -2518,7 +2606,8 @@
                 "location": "—",
                 "word": "قَائِلٌ",
                 "root": "ق-و-ل",
-                "analysis": "Hohles Verb. Aktives Partizip Form I auf dem Muster فَاعِل. Das و der Wurzel wird zu Alif (قَوَلَ → قَالَ → قَائِل). Als isolierte Form im Quran nicht belegt."
+                "analysis": "Hohles Verb. Aktives Partizip Form I auf dem Muster فَاعِل. Das و der Wurzel wird zu Alif (قَوَلَ → قَالَ → قَائِل). Als isolierte Form im Quran nicht belegt.",
+                "verifyUrl": "https://corpus.quran.com/qurandictionary.jsp?q=qwl"
               },
               {
                 "location": "112:3",
@@ -2571,27 +2660,31 @@
                 "word": "أَكَلَ (أ-ك-ل)",
                 "type": "Hamza-Verb"
               }
-            ]
+            ],
+            "verifyUrl": "https://corpus.quran.com/qurandictionary.jsp?q=qwl"
           },
           {
             "type": "root_extraction",
             "prompt": "Bestimme die Wurzel von يَعِدُ (er verspricht):",
             "word": "يَعِدُ",
             "answer": "و-ع-د",
-            "hint": "Assimiliertes Verb — das و am Anfang der Wurzel ist im Imperfekt verschwunden."
+            "hint": "Assimiliertes Verb — das و am Anfang der Wurzel ist im Imperfekt verschwunden.",
+            "verifyUrl": "https://corpus.quran.com/qurandictionary.jsp?q=wEd"
           },
           {
             "type": "root_extraction",
             "prompt": "Bestimme die Wurzel von يَقُولُ (er sagt):",
             "word": "يَقُولُ",
             "answer": "ق-و-ل",
-            "hint": "Hohles Verb — der Langvokal ū ersetzt das و der Wurzel."
+            "hint": "Hohles Verb — der Langvokal ū ersetzt das و der Wurzel.",
+            "verifyUrl": "https://corpus.quran.com/qurandictionary.jsp?q=qwl"
           },
           {
             "type": "reverse",
             "prompt": "Wie lautet der Jussiv von يَكُونُ (er ist/wird sein)?",
             "answer": "يَكُنْ",
-            "hint": "Bei hohlen Verben verkürzt sich der Langvokal im Jussiv."
+            "hint": "Bei hohlen Verben verkürzt sich der Langvokal im Jussiv.",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n130"
           },
           {
             "type": "multiple_choice",
@@ -2604,21 +2697,24 @@
             ],
             "answer": [
               "Der Langvokal verkürzt sich"
-            ]
+            ],
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n130"
           },
           {
             "type": "root_extraction",
             "prompt": "Bestimme die Wurzel von قَالَ (er sagte):",
             "word": "قَالَ",
             "answer": "ق-و-ل",
-            "hint": "Hohles Verb — das Alif ersetzt das و der Wurzel im Perfekt."
+            "hint": "Hohles Verb — das Alif ersetzt das و der Wurzel im Perfekt.",
+            "verifyUrl": "https://corpus.quran.com/qurandictionary.jsp?q=qwl"
           },
           {
             "type": "root_extraction",
             "prompt": "Bestimme die Wurzel von يَلِدْ (er gebärt, Jussiv):",
             "word": "يَلِدْ",
             "answer": "و-ل-د",
-            "hint": "Assimiliertes Verb — das و am Anfang der Wurzel fehlt im Imperfekt."
+            "hint": "Assimiliertes Verb — das و am Anfang der Wurzel fehlt im Imperfekt.",
+            "verifyUrl": "https://corpus.quran.com/qurandictionary.jsp?q=wld"
           },
           {
             "type": "multiple_choice",
@@ -2631,19 +2727,22 @@
             ],
             "answer": [
               "Der erste Radikal (و) fällt weg"
-            ]
+            ],
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n130"
           },
           {
             "type": "reverse",
             "prompt": "Wie lautet der Jussiv von يَقُولُ (er sagt)?",
             "answer": "يَقُلْ",
-            "hint": "Bei hohlen Verben verkürzt sich der Langvokal ū im Jussiv."
+            "hint": "Bei hohlen Verben verkürzt sich der Langvokal ū im Jussiv.",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n130"
           },
           {
             "type": "reverse",
             "prompt": "Wie lautet der Imperativ von يَقُولُ (er sagt)?",
             "answer": "قُلْ",
-            "hint": "Imperativ des hohlen Verbs — Langvokal verkürzt, Imperfekt-Präfix entfällt."
+            "hint": "Imperativ des hohlen Verbs — Langvokal verkürzt, Imperfekt-Präfix entfällt.",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n130"
           },
           {
             "type": "multiple_choice",
@@ -2656,21 +2755,24 @@
             ],
             "answer": [
               "Ein Verb dessen 3. Radikal و oder ي ist"
-            ]
+            ],
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n130"
           },
           {
             "type": "root_extraction",
             "prompt": "Bestimme die Wurzel von دَعَا (er rief):",
             "word": "دَعَا",
             "answer": "د-ع-و",
-            "hint": "Defektes Verb — das Alif am Ende ersetzt das و der Wurzel."
+            "hint": "Defektes Verb — das Alif am Ende ersetzt das و der Wurzel.",
+            "verifyUrl": "https://corpus.quran.com/qurandictionary.jsp?q=dEw"
           },
           {
             "type": "root_extraction",
             "prompt": "Bestimme die Wurzel von هَدَى (er führte):",
             "word": "هَدَى",
             "answer": "ه-د-ي",
-            "hint": "Defektes Verb — das ى am Ende ersetzt das ي der Wurzel."
+            "hint": "Defektes Verb — das ى am Ende ersetzt das ي der Wurzel.",
+            "verifyUrl": "https://corpus.quran.com/qurandictionary.jsp?q=hdy"
           },
           {
             "type": "multiple_choice",
@@ -2684,7 +2786,8 @@
             "answer": [
               "Die identischen Konsonanten trennen sich"
             ],
-            "explanation": "Beispiel: رَدَّ → رَدَدْتُ (ich brachte zurück). Vor vokalischem Suffix bleiben sie verschmolzen: يَرُدُّ."
+            "explanation": "Beispiel: رَدَّ → رَدَدْتُ (ich brachte zurück). Vor vokalischem Suffix bleiben sie verschmolzen: يَرُدُّ.",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n130"
           },
           {
             "type": "matching",
@@ -2710,47 +2813,54 @@
                 "perfekt": "رَدَّ",
                 "imperfekt": "يَرُدُّ"
               }
-            ]
+            ],
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n130"
           },
           {
             "type": "identification",
             "prompt": "Welcher Typ schwaches Verb ist كَانَ (Wurzel ك-و-ن)?",
             "word": "كَانَ",
             "answer": "Hohl (2. Radikal schwach)",
-            "explanation": "Der mittlere Radikal و macht es zu einem hohlen Verb. Im Perfekt wird و zu Alif (كَانَ), im Imperfekt zu Langvokal ū (يَكُونُ)."
+            "explanation": "Der mittlere Radikal و macht es zu einem hohlen Verb. Im Perfekt wird و zu Alif (كَانَ), im Imperfekt zu Langvokal ū (يَكُونُ).",
+            "verifyUrl": "https://corpus.quran.com/qurandictionary.jsp?q=kwn"
           },
           {
             "type": "root_extraction",
             "prompt": "Bestimme die Wurzel von سَأَلَ (er fragte):",
             "word": "سَأَلَ",
             "answer": "س-أ-ل",
-            "hint": "Hamza-Verb — das Hamza steht in der Mitte der Wurzel (2. Radikal)."
+            "hint": "Hamza-Verb — das Hamza steht in der Mitte der Wurzel (2. Radikal).",
+            "verifyUrl": "https://corpus.quran.com/qurandictionary.jsp?q=sl"
           },
           {
             "type": "reverse",
             "prompt": "Wie lautet die 1. Person Singular Perfekt von كَانَ (Wurzel ك-و-ن)?",
             "answer": "كُنْتُ",
-            "hint": "Bei hohlen Verben verschwindet der Langvokal vor konsonantischem Suffix."
+            "hint": "Bei hohlen Verben verschwindet der Langvokal vor konsonantischem Suffix.",
+            "verifyUrl": "https://corpus.quran.com/qurandictionary.jsp?q=kwn"
           },
           {
             "type": "root_extraction",
             "prompt": "Bestimme die Wurzel von ضَلَّ (er irrte ab):",
             "word": "ضَلَّ",
             "answer": "ض-ل-ل",
-            "hint": "Geminiertes Verb — der 2. und 3. Radikal sind identisch und hier verschmolzen."
+            "hint": "Geminiertes Verb — der 2. und 3. Radikal sind identisch und hier verschmolzen.",
+            "verifyUrl": "https://corpus.quran.com/qurandictionary.jsp?q=Dll"
           },
           {
             "type": "conjugation_drill",
             "prompt": "Konjugiere قَالَ (Wurzel ق-و-ل) in der 3. Person maskulin Plural Perfekt:",
             "answer": "قَالُوا",
-            "hint": "Hohles Verb — das Alif bleibt, und das Plural-Suffix وا wird angefügt."
+            "hint": "Hohles Verb — das Alif bleibt, und das Plural-Suffix وا wird angefügt.",
+            "verifyUrl": "https://corpus.quran.com/qurandictionary.jsp?q=qwl"
           },
           {
             "type": "reverse",
             "prompt": "Konjugiere سَأَلَ im Imperfekt 3. Person maskulin Singular:",
             "root": "س-أ-ل",
             "answer": "يَسْأَلُ",
-            "hint": "Hamza-Verb: Hamza bleibt auf der Zeile im Imperfekt"
+            "hint": "Hamza-Verb: Hamza bleibt auf der Zeile im Imperfekt",
+            "verifyUrl": "https://corpus.quran.com/qurandictionary.jsp?q=sl"
           }
         ]
       },
@@ -3284,7 +3394,8 @@
                 "word": "مِفْتَاح",
                 "type": "Instrumentenname (مِفْعَال)"
               }
-            ]
+            ],
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n86"
           },
           {
             "type": "pattern_recognition",
@@ -3294,19 +3405,22 @@
               "form": "IV",
               "type": "Aktives Partizip"
             },
-            "explanation": "Muster مُفْعِل = Aktives Partizip Form IV. Wurzel س-ل-م."
+            "explanation": "Muster مُفْعِل = Aktives Partizip Form IV. Wurzel س-ل-م.",
+            "verifyUrl": "https://corpus.quran.com/qurandictionary.jsp?q=slm"
           },
           {
             "type": "root_extraction",
             "prompt": "Bestimme die Wurzel von مُسْتَقِيم:",
             "word": "مُسْتَقِيم",
             "answer": "ق-و-م",
-            "hint": "مُسْتَـ ist das Partizip-Präfix Form X. Das ي ersetzt das و der hohlen Wurzel."
+            "hint": "مُسْتَـ ist das Partizip-Präfix Form X. Das ي ersetzt das و der hohlen Wurzel.",
+            "verifyUrl": "https://corpus.quran.com/qurandictionary.jsp?q=qwm"
           },
           {
             "type": "reverse",
             "prompt": "Bilde das aktive Partizip Form I von der Wurzel ن-ص-ر (helfen) nach dem Muster فَاعِل:",
-            "answer": "نَاصِر"
+            "answer": "نَاصِر",
+            "verifyUrl": "https://corpus.quran.com/qurandictionary.jsp?q=nSr"
           },
           {
             "type": "multiple_choice",
@@ -3319,7 +3433,8 @@
             ],
             "answer": [
               "إِفْعَال"
-            ]
+            ],
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n108"
           },
           {
             "type": "pattern_recognition",
@@ -3329,7 +3444,8 @@
               "pattern": "مَفْعُول",
               "type": "Passives Partizip Form I"
             },
-            "explanation": "Muster مَفْعُول = Passives Partizip Form I. Wurzel ك-ت-ب. Bedeutung: Geschriebenes."
+            "explanation": "Muster مَفْعُول = Passives Partizip Form I. Wurzel ك-ت-ب. Bedeutung: Geschriebenes.",
+            "verifyUrl": "https://corpus.quran.com/qurandictionary.jsp?q=ktb"
           },
           {
             "type": "pattern_recognition",
@@ -3339,46 +3455,53 @@
               "form": "II",
               "type": "Aktives Partizip"
             },
-            "explanation": "Muster مُفَعِّل = Aktives Partizip Form II. Wurzel ع-ل-م. Bedeutung: Lehrender."
+            "explanation": "Muster مُفَعِّل = Aktives Partizip Form II. Wurzel ع-ل-م. Bedeutung: Lehrender.",
+            "verifyUrl": "https://corpus.quran.com/qurandictionary.jsp?q=Elm"
           },
           {
             "type": "reverse",
             "prompt": "Bilde das Maṣdar Form IV (Muster إِفْعَال) von der Wurzel س-ل-م:",
             "answer": "إِسْلَام",
-            "hint": "Form IV Maṣdar: إ + 1. Radikal (sukūn) + 2. Radikal + ا + 3. Radikal."
+            "hint": "Form IV Maṣdar: إ + 1. Radikal (sukūn) + 2. Radikal + ا + 3. Radikal.",
+            "verifyUrl": "https://corpus.quran.com/qurandictionary.jsp?q=slm"
           },
           {
             "type": "pattern_recognition",
             "prompt": "Bestimme den Mustertyp von غَفَّار:",
             "word": "غَفَّار",
             "answer": "Intensivform (فَعَّال)",
-            "hint": "Verdopplung des zweiten Radikals + Alif = فَعَّال (Intensivform)."
+            "hint": "Verdopplung des zweiten Radikals + Alif = فَعَّال (Intensivform).",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n86"
           },
           {
             "type": "pattern_recognition",
             "prompt": "Bestimme den Mustertyp von مَسْجِد:",
             "word": "مَسْجِد",
             "answer": "Ortsname (مَفْعِل)",
-            "hint": "Präfix مَـ mit Kasra unter dem 2. Radikal = Ortsnomen."
+            "hint": "Präfix مَـ mit Kasra unter dem 2. Radikal = Ortsnomen.",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n86"
           },
           {
             "type": "pattern_recognition",
             "prompt": "Bestimme den Mustertyp von مِفْتَاح:",
             "word": "مِفْتَاح",
             "answer": "Instrumentenname (مِفْعَال)",
-            "hint": "Präfix مِـ (mit Kasra) = Instrumentennomen. Schlüssel = Werkzeug des Öffnens."
+            "hint": "Präfix مِـ (mit Kasra) = Instrumentennomen. Schlüssel = Werkzeug des Öffnens.",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n86"
           },
           {
             "type": "reverse",
             "prompt": "Bilde das aktive Partizip Form IV (Muster مُفْعِل) von der Wurzel ء-م-ن:",
             "answer": "مُؤْمِن",
-            "hint": "Form IV Partizip: مُـ + 1. Radikal (Sukūn) + 2. Radikal (Kasra) + 3. Radikal"
+            "hint": "Form IV Partizip: مُـ + 1. Radikal (Sukūn) + 2. Radikal (Kasra) + 3. Radikal",
+            "verifyUrl": "https://corpus.quran.com/qurandictionary.jsp?q='mn"
           },
           {
             "type": "reverse",
             "prompt": "Bilde das Maṣdar Form II (Muster تَفْعِيل) von der Wurzel ع-ل-م:",
             "answer": "تَعْلِيم",
-            "hint": "Form II Maṣdar: تَـ + 1. Radikal (Sukūn) + 2. Radikal (Kasra) + يل"
+            "hint": "Form II Maṣdar: تَـ + 1. Radikal (Sukūn) + 2. Radikal (Kasra) + يل",
+            "verifyUrl": "https://corpus.quran.com/qurandictionary.jsp?q=Elm"
           },
           {
             "type": "multiple_choice",
@@ -3392,7 +3515,8 @@
             "answer": [
               "فَعِيل"
             ],
-            "explanation": "Das Muster فَعِيل drückt eine dauerhafte, intensive Eigenschaft aus (z.B. عَلِيم, رَحِيم, سَمِيع). Es kommt im Quran hunderte Male vor."
+            "explanation": "Das Muster فَعِيل drückt eine dauerhafte, intensive Eigenschaft aus (z.B. عَلِيم, رَحِيم, سَمِيع). Es kommt im Quran hunderte Male vor.",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n86"
           },
           {
             "type": "matching",
@@ -3418,7 +3542,8 @@
                 "word": "خَبِير",
                 "meaning": "kundig"
               }
-            ]
+            ],
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n86"
           },
           {
             "type": "multiple_choice",
@@ -3432,14 +3557,16 @@
             "answer": [
               "اِسْتِفْعَال"
             ],
-            "explanation": "Form X Maṣdar folgt dem Muster اِسْتِفْعَال, z.B. اِسْتِغْفَار (Vergebungssuche) von der Wurzel غ-ف-ر."
+            "explanation": "Form X Maṣdar folgt dem Muster اِسْتِفْعَال, z.B. اِسْتِغْفَار (Vergebungssuche) von der Wurzel غ-ف-ر.",
+            "verifyUrl": "https://corpus.quran.com/qurandictionary.jsp?q=gfr"
           },
           {
             "type": "pattern_recognition",
             "prompt": "Bestimme Form und Partizip-Typ von مُنَافِق:",
             "word": "مُنَافِق",
             "answer": "Aktives Partizip Form III (مُفَاعِل)",
-            "hint": "Präfix مُـ + Alif nach dem 1. Radikal + Kasra unter dem 2. Radikal = Form III aktives Partizip."
+            "hint": "Präfix مُـ + Alif nach dem 1. Radikal + Kasra unter dem 2. Radikal = Form III aktives Partizip.",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n106"
           },
           {
             "type": "multiple_choice",
@@ -3451,7 +3578,8 @@
             ],
             "explanation": "عِلْم folgt dem Muster فِعْل (fi'l) — Kasra auf dem ersten Radikal, Sukun auf dem zweiten.",
             "prompt": "Welches Masdar-Muster hat عِلْم (Wissen)?",
-            "answer": "فِعْل"
+            "answer": "فِعْل",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n86"
           },
           {
             "type": "multiple_choice",
@@ -3463,7 +3591,8 @@
             ],
             "explanation": "Form I hat kein einheitliches Masdar-Muster (anders als Stämme II–X). Der Masdar muss für jedes Verb einzeln im Lexikon (z.B. Lane's) nachgeschlagen werden.",
             "prompt": "Warum muss man den Form-I-Masdar immer im Lexikon nachschlagen?",
-            "answer": "Weil es für Form I keine einheitliche Regel gibt — es existieren über ein Dutzend verschiedene Muster"
+            "answer": "Weil es für Form I keine einheitliche Regel gibt — es existieren über ein Dutzend verschiedene Muster",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n100"
           }
         ]
       },
@@ -3576,12 +3705,14 @@
           {
             "type": "reverse",
             "prompt": "Bilde den Elativ (أَفْعَل) von der Wurzel ك-ب-ر (groß):",
-            "answer": "أَكْبَر"
+            "answer": "أَكْبَر",
+            "verifyUrl": "https://corpus.quran.com/qurandictionary.jsp?q=kbr"
           },
           {
             "type": "reverse",
             "prompt": "Bilde den Elativ (أَفْعَل) von der Wurzel ق-ر-ب (nah):",
-            "answer": "أَقْرَب"
+            "answer": "أَقْرَب",
+            "verifyUrl": "https://corpus.quran.com/qurandictionary.jsp?q=qrb"
           },
           {
             "type": "multiple_choice",
@@ -3594,7 +3725,8 @@
             ],
             "answer": [
               "Wenn مِنْ (als) folgt"
-            ]
+            ],
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n86"
           },
           {
             "type": "pattern_recognition",
@@ -3604,7 +3736,8 @@
               "pattern": "أَفْعَل",
               "type": "Elativ"
             },
-            "explanation": "Muster أَفْعَل = Elativ (Komparativ/Superlativ). Wurzel ع-ل-م."
+            "explanation": "Muster أَفْعَل = Elativ (Komparativ/Superlativ). Wurzel ع-ل-م.",
+            "verifyUrl": "https://corpus.quran.com/qurandictionary.jsp?q=Elm"
           },
           {
             "type": "multiple_choice",
@@ -3616,7 +3749,8 @@
             ],
             "answer": [
               "خَيْر und شَرّ"
-            ]
+            ],
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n86"
           },
           {
             "type": "pattern_recognition",
@@ -3628,13 +3762,15 @@
               "أُفْعُلَة"
             ],
             "answer": "فُعْلَى",
-            "hint": "Die feminine Entsprechung von أَفْعَل ist فُعْلَى."
+            "hint": "Die feminine Entsprechung von أَفْعَل ist فُعْلَى.",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n86"
           },
           {
             "type": "reverse",
             "prompt": "Bilde den Elativ (أَفْعَل) von der Wurzel ح-س-ن (schön/gut):",
             "answer": "أَحْسَن",
-            "hint": "أَ + 1. Radikal (Sukūn) + 2. Radikal (Fatha) + 3. Radikal = أَحْسَن"
+            "hint": "أَ + 1. Radikal (Sukūn) + 2. Radikal (Fatha) + 3. Radikal = أَحْسَن",
+            "verifyUrl": "https://corpus.quran.com/qurandictionary.jsp?q=Hsn"
           },
           {
             "type": "multiple_choice",
@@ -3648,7 +3784,8 @@
             "answer": [
               "الأَكْبَرُ (mit Artikel)"
             ],
-            "explanation": "Der Superlativ wird durch Hinzufügen des Artikels ال oder durch Iḍāfa gebildet: الأَكْبَرُ = der Größte."
+            "explanation": "Der Superlativ wird durch Hinzufügen des Artikels ال oder durch Iḍāfa gebildet: الأَكْبَرُ = der Größte.",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n86"
           }
         ]
       },
@@ -3841,7 +3978,8 @@
           {
             "type": "reverse",
             "prompt": "Bilde den gesunden Maskulin-Plural (Nominativ) von مُسْلِم:",
-            "answer": "مُسْلِمُونَ"
+            "answer": "مُسْلِمُونَ",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n86"
           },
           {
             "type": "matching",
@@ -3867,7 +4005,8 @@
                 "singular": "مَسْجِد",
                 "plural": "مَسَاجِد"
               }
-            ]
+            ],
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n86"
           },
           {
             "type": "multiple_choice",
@@ -3880,7 +4019,8 @@
             ],
             "answer": [
               "فُعُل"
-            ]
+            ],
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n86"
           },
           {
             "type": "pattern_recognition",
@@ -3889,12 +4029,14 @@
             "answer": {
               "case": "Akkusativ/Genitiv"
             },
-            "explanation": "Gesunder Maskulin-Plural: ـُونَ = Nominativ, ـِينَ = Akkusativ/Genitiv."
+            "explanation": "Gesunder Maskulin-Plural: ـُونَ = Nominativ, ـِينَ = Akkusativ/Genitiv.",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n86"
           },
           {
             "type": "reverse",
             "prompt": "Bilde den gesunden Feminin-Plural von مُسْلِمَة:",
-            "answer": "مُسْلِمَات"
+            "answer": "مُسْلِمَات",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n86"
           },
           {
             "type": "multiple_choice",
@@ -3908,7 +4050,8 @@
             "answer": [
               "أَفْعَال"
             ],
-            "explanation": "أَحْمَال folgt dem Muster أَفْعَال. Singular: حَمْل (Last)."
+            "explanation": "أَحْمَال folgt dem Muster أَفْعَال. Singular: حَمْل (Last).",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n86"
           },
           {
             "type": "pattern_recognition",
@@ -3917,7 +4060,8 @@
             "answer": {
               "pattern": "فُعَلَاء"
             },
-            "explanation": "عُلَمَاء folgt dem Muster فُعَلَاء. Singular: عَالِم (Gelehrter). Typisch für فَاعِل-Partizipien."
+            "explanation": "عُلَمَاء folgt dem Muster فُعَلَاء. Singular: عَالِم (Gelehrter). Typisch für فَاعِل-Partizipien.",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n86"
           },
           {
             "type": "multiple_choice",
@@ -3931,7 +4075,8 @@
             "answer": [
               "Genitiv (Kasra + Tanwin)"
             ],
-            "explanation": "Der gesunde Feminin-Plural zeigt im Genitiv Kasra + Tanwin: مُسْلِمَاتٍ. Anders als der Maskulin-Plural (ـِينَ) behält er die Standard-Kasusendung."
+            "explanation": "Der gesunde Feminin-Plural zeigt im Genitiv Kasra + Tanwin: مُسْلِمَاتٍ. Anders als der Maskulin-Plural (ـِينَ) behält er die Standard-Kasusendung.",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n86"
           },
           {
             "options": [
@@ -3942,7 +4087,8 @@
             ],
             "explanation": "مَفَاتِيح folgt dem Muster مَفَاعِيل — typisch für Singulare auf مِفْعَال (Instrumentalnomen wie مِفْتَاح).",
             "prompt": "Welches Bruchplural-Muster hat مَفَاتِيح (Schlüssel)?",
-            "answer": "مَفَاعِيل"
+            "answer": "مَفَاعِيل",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n86"
           },
           {
             "options": [
@@ -3953,7 +4099,8 @@
             ],
             "explanation": "نَبِيّ hat den Bruchplural أَنْبِيَاء auf dem Muster أَفْعِلَاء.",
             "prompt": "Wie lautet der Bruchplural von نَبِيّ (Nabi/Verkünder)?",
-            "answer": "أَنْبِيَاء"
+            "answer": "أَنْبِيَاء",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n86"
           }
         ]
       },
@@ -4073,12 +4220,14 @@
           {
             "type": "reverse",
             "prompt": "Bilde den Dual (Nominativ) von كِتَاب:",
-            "answer": "كِتَابَانِ"
+            "answer": "كِتَابَانِ",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n86"
           },
           {
             "type": "reverse",
             "prompt": "Bilde den Dual (Akkusativ/Genitiv) von كِتَاب:",
-            "answer": "كِتَابَيْنِ"
+            "answer": "كِتَابَيْنِ",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n86"
           },
           {
             "type": "multiple_choice",
@@ -4091,7 +4240,8 @@
             ],
             "answer": [
               "Zwei Gärten"
-            ]
+            ],
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n86"
           },
           {
             "type": "pattern_recognition",
@@ -4101,7 +4251,8 @@
               "number": "Dual",
               "case": "Akkusativ/Genitiv"
             },
-            "explanation": "Endung ـَيْنِ = Dual im Akkusativ oder Genitiv."
+            "explanation": "Endung ـَيْنِ = Dual im Akkusativ oder Genitiv.",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n86"
           },
           {
             "type": "multiple_choice",
@@ -4114,14 +4265,16 @@
             ],
             "answer": [
               "ـَانِ"
-            ]
+            ],
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n86"
           },
           {
             "type": "reverse",
             "prompt": "Wie lautet das Imperfekt 3. Person maskulin Dual von كتب?",
             "root": "ك-ت-ب",
             "answer": "يَكْتُبَانِ",
-            "hint": "Dual-Imperfekt 3md: Präfix يَـ + Stamm + Suffix ـَانِ"
+            "hint": "Dual-Imperfekt 3md: Präfix يَـ + Stamm + Suffix ـَانِ",
+            "verifyUrl": "https://corpus.quran.com/qurandictionary.jsp?q=ktb"
           }
         ]
       },
@@ -4253,7 +4406,8 @@
               "أَرْض",
               "شَمْس",
               "نَفْس"
-            ]
+            ],
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n86"
           },
           {
             "type": "multiple_choice",
@@ -4266,7 +4420,8 @@
             ],
             "answer": [
               "Feminin Singular"
-            ]
+            ],
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n86"
           },
           {
             "type": "pattern_recognition",
@@ -4278,7 +4433,8 @@
               "الَّذِينَ"
             ],
             "answer": "الَّتِي",
-            "explanation": "Gebrochener Plural von Nicht-Personen → feminin Singular → الَّتِي."
+            "explanation": "Gebrochener Plural von Nicht-Personen → feminin Singular → الَّتِي.",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n86"
           },
           {
             "type": "matching",
@@ -4304,7 +4460,8 @@
                 "word": "نَار",
                 "gender": "feminin"
               }
-            ]
+            ],
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n86"
           },
           {
             "type": "multiple_choice",
@@ -4321,7 +4478,8 @@
               "يَد",
               "شَمْس"
             ],
-            "explanation": "نَار (Feuer), يَد (Hand) und شَمْس (Sonne) sind feminin ohne die Endung ة."
+            "explanation": "نَار (Feuer), يَد (Hand) und شَمْس (Sonne) sind feminin ohne die Endung ة.",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n86"
           },
           {
             "type": "multiple_choice",
@@ -4335,7 +4493,8 @@
             "answer": [
               "Tāʾ Marbūṭa (ة)"
             ],
-            "explanation": "Die häufigste Feminin-Markierung ist Tāʾ Marbūṭa (ة), z.B. مَدِينَة (Stadt)."
+            "explanation": "Die häufigste Feminin-Markierung ist Tāʾ Marbūṭa (ة), z.B. مَدِينَة (Stadt).",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n86"
           },
           {
             "type": "pattern_recognition",
@@ -4347,7 +4506,8 @@
               "3.f.pl. (ـْنَ)"
             ],
             "answer": "3.f.sg. (ـَتْ)",
-            "hint": "Gebrochene Plurale von Nicht-Personen werden als feminin Singular behandelt."
+            "hint": "Gebrochene Plurale von Nicht-Personen werden als feminin Singular behandelt.",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n86"
           },
           {
             "type": "matching",
@@ -4373,7 +4533,8 @@
                 "word": "قَمَر",
                 "genus": "maskulin"
               }
-            ]
+            ],
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n86"
           },
           {
             "type": "multiple_choice",
@@ -4387,7 +4548,8 @@
             "answer": [
               "الَّتِي"
             ],
-            "explanation": "Gebrochene Plurale von Nicht-Personen werden als feminin Singular behandelt → Relativpronomen الَّتِي."
+            "explanation": "Gebrochene Plurale von Nicht-Personen werden als feminin Singular behandelt → Relativpronomen الَّتِي.",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n86"
           },
           {
             "type": "multiple_choice",
@@ -4401,7 +4563,8 @@
             "answer": [
               "كَرِيمَةٌ (feminin Singular)"
             ],
-            "explanation": "Gebrochene Plurale von Nicht-Personen werden grammatisch als feminin Singular behandelt: الْكُتُبُ الْكَرِيمَةُ."
+            "explanation": "Gebrochene Plurale von Nicht-Personen werden grammatisch als feminin Singular behandelt: الْكُتُبُ الْكَرِيمَةُ.",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n86"
           }
         ]
       },
@@ -4482,7 +4645,8 @@
                 "collective": "تَمْر",
                 "unit": "تَمْرَة"
               }
-            ]
+            ],
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n86"
           },
           {
             "type": "multiple_choice",
@@ -4495,14 +4659,16 @@
             ],
             "answer": [
               "Das Einheitsnomen hat eine Tāʾ Marbūṭa (ة)"
-            ]
+            ],
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n86"
           },
           {
             "type": "pattern_recognition",
             "prompt": "Ist شَجَر ein Kollektiv oder ein Einheitsnomen?",
             "word": "شَجَر",
             "answer": "Kollektivnomen",
-            "explanation": "Ohne ة = Kollektiv (Bäume als Gattung). Mit ة (شَجَرَة) = ein einzelner Baum."
+            "explanation": "Ohne ة = Kollektiv (Bäume als Gattung). Mit ة (شَجَرَة) = ein einzelner Baum.",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n86"
           }
         ]
       },
@@ -4613,7 +4779,8 @@
             ],
             "answer": [
               "Kein Tanwīn und Fatha im Genitiv"
-            ]
+            ],
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n86"
           },
           {
             "type": "multiple_choice",
@@ -4629,20 +4796,23 @@
               "أَكْبَر",
               "إِبْرَاهِيم",
               "مَسَاجِد"
-            ]
+            ],
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n86"
           },
           {
             "type": "pattern_recognition",
             "prompt": "Was passiert wenn ein Diptot den Artikel ال bekommt?",
             "word": "الأَكْبَر",
             "answer": "Es wird triptotisch",
-            "explanation": "Mit Artikel verhält sich das Wort normal — Kasra im Genitiv wird möglich."
+            "explanation": "Mit Artikel verhält sich das Wort normal — Kasra im Genitiv wird möglich.",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n86"
           },
           {
             "type": "reverse",
             "prompt": "Wie lautet der Genitiv von أَحْسَن (ohne Artikel)?",
             "answer": "أَحْسَنَ",
-            "hint": "Diptot — Genitiv hat Fatha statt Kasra."
+            "hint": "Diptot — Genitiv hat Fatha statt Kasra.",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n86"
           },
           {
             "type": "multiple_choice",
@@ -4656,20 +4826,23 @@
             "answer": [
               "Weil es ein nicht-arabischer Eigenname ist"
             ],
-            "explanation": "Nicht-arabische Eigennamen (mehr als 3 Buchstaben) sind diptotisch. Sie nehmen kein Tanwīn und haben Fatha im Genitiv."
+            "explanation": "Nicht-arabische Eigennamen (mehr als 3 Buchstaben) sind diptotisch. Sie nehmen kein Tanwīn und haben Fatha im Genitiv.",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n86"
           },
           {
             "type": "reverse",
             "prompt": "Wie lautet der Genitiv von الأَكْبَرُ (mit Artikel)?",
             "answer": "الأَكْبَرِ",
-            "hint": "Mit Artikel wird ein Diptot wieder triptotisch — Genitiv bekommt Kasra."
+            "hint": "Mit Artikel wird ein Diptot wieder triptotisch — Genitiv bekommt Kasra.",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n86"
           },
           {
             "type": "identification",
             "prompt": "Ist مَسَاجِد (Moscheen) triptotisch oder diptotisch?",
             "word": "مَسَاجِد",
             "answer": "Diptotisch",
-            "explanation": "Bestimmte Pluralmuster (مَفَاعِل, مَفَاعِيل) sind diptotisch — kein Tanwīn, Fatha im Genitiv."
+            "explanation": "Bestimmte Pluralmuster (مَفَاعِل, مَفَاعِيل) sind diptotisch — kein Tanwīn, Fatha im Genitiv.",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n86"
           },
           {
             "type": "multiple_choice",
@@ -4686,7 +4859,8 @@
               "أَسْوَد (schwarz)",
               "أَبْيَض (weiß)"
             ],
-            "explanation": "Farbwörter auf dem Muster أَفْعَل sind diptotisch."
+            "explanation": "Farbwörter auf dem Muster أَفْعَل sind diptotisch.",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n86"
           }
         ]
       },
@@ -4818,13 +4992,15 @@
             ],
             "answer": [
               "Maskulines Gezähltes bekommt feminine Zahl und umgekehrt"
-            ]
+            ],
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n86"
           },
           {
             "type": "reverse",
             "prompt": "Bilde 'drei Tage' (يَوْم ist maskulin):",
             "answer": "ثَلَاثَةُ أَيَّامٍ",
-            "hint": "Umgekehrte Kongruenz: m. Gezähltes → feminine Zahl (mit ة). Gezähltes im Genitiv Plural."
+            "hint": "Umgekehrte Kongruenz: m. Gezähltes → feminine Zahl (mit ة). Gezähltes im Genitiv Plural.",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n86"
           },
           {
             "type": "multiple_choice",
@@ -4837,7 +5013,8 @@
             ],
             "answer": [
               "Genitiv Plural"
-            ]
+            ],
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n86"
           },
           {
             "type": "multiple_choice",
@@ -4850,7 +5027,8 @@
             ],
             "answer": [
               "Genitiv Singular"
-            ]
+            ],
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n86"
           },
           {
             "type": "multiple_choice",
@@ -4864,7 +5042,8 @@
             "answer": [
               "Der Einer-Teil hat umgekehrte Kongruenz, der Zehner-Teil kongruiert normal"
             ],
-            "explanation": "Bei 13–19: Der Einer (3–9) hat umgekehrte Kongruenz, عَشَرَ/عَشْرَةَ kongruiert normal. ACHTUNG: 11 und 12 sind Ausnahmen — bei diesen kongruieren BEIDE Teile direkt mit dem Gezaehlten (keine umgekehrte Kongruenz). Das Gezaehlte steht im Akkusativ Singular."
+            "explanation": "Bei 13–19: Der Einer (3–9) hat umgekehrte Kongruenz, عَشَرَ/عَشْرَةَ kongruiert normal. ACHTUNG: 11 und 12 sind Ausnahmen — bei diesen kongruieren BEIDE Teile direkt mit dem Gezaehlten (keine umgekehrte Kongruenz). Das Gezaehlte steht im Akkusativ Singular.",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n86"
           },
           {
             "type": "multiple_choice",
@@ -4878,13 +5057,15 @@
             "answer": [
               "Akkusativ Singular"
             ],
-            "explanation": "Bei 20–99 ist die Zahl invariabel (keine Genus-Veränderung) und das Gezählte steht im Akkusativ Singular. Beispiel: ثَلَاثِينَ لَيْلَةً."
+            "explanation": "Bei 20–99 ist die Zahl invariabel (keine Genus-Veränderung) und das Gezählte steht im Akkusativ Singular. Beispiel: ثَلَاثِينَ لَيْلَةً.",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n86"
           },
           {
             "type": "reverse",
             "prompt": "Bilde 'drei Nächte' (لَيْلَة ist feminin):",
             "answer": "ثَلَاثُ لَيَالٍ",
-            "hint": "Umgekehrte Kongruenz: f. Gezähltes → maskuline Zahl (OHNE ة). Gezähltes im Genitiv Plural."
+            "hint": "Umgekehrte Kongruenz: f. Gezähltes → maskuline Zahl (OHNE ة). Gezähltes im Genitiv Plural.",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n86"
           },
           {
             "type": "multiple_choice",
@@ -4897,7 +5078,8 @@
             ],
             "answer": [
               "Normale Kongruenz (Zahl stimmt im Genus mit dem Gezählten überein)"
-            ]
+            ],
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n86"
           },
           {
             "type": "identification",
@@ -4911,7 +5093,8 @@
             "type": "analysis",
             "prompt": "Warum steht in ثَلَاثَةِ أَيَّامٍ (drei Tage) die ة an der Zahl?",
             "answer": "Weil يَوْم maskulin ist und bei Zahlen 3–10 die umgekehrte Genus-Kongruenz gilt: maskulines Gezähltes bekommt eine feminine Zahl (mit ة).",
-            "hint": "Umgekehrte Kongruenz: die Zahl hat das gegenteilige Genus des Gezählten."
+            "hint": "Umgekehrte Kongruenz: die Zahl hat das gegenteilige Genus des Gezählten.",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n86"
           },
           {
             "type": "reverse",
@@ -5307,7 +5490,8 @@
                 "suffix": "ـكُمْ",
                 "meaning": "euer / euch"
               }
-            ]
+            ],
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n86"
           },
           {
             "type": "multiple_choice",
@@ -5320,7 +5504,8 @@
             ],
             "answer": [
               "Sie dienen der Betonung"
-            ]
+            ],
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n86"
           },
           {
             "type": "pattern_recognition",
@@ -5332,7 +5517,8 @@
               "gender": "m",
               "number": "sg"
             },
-            "explanation": "Demonstrativpronomen der Nähe, maskulin Singular: dieser."
+            "explanation": "Demonstrativpronomen der Nähe, maskulin Singular: dieser.",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n86"
           },
           {
             "type": "pattern_recognition",
@@ -5343,14 +5529,16 @@
               "gender": "m",
               "number": "pl"
             },
-            "explanation": "Relativpronomen maskulin Plural: diejenigen welche."
+            "explanation": "Relativpronomen maskulin Plural: diejenigen welche.",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n86"
           },
           {
             "type": "root_extraction",
             "prompt": "Zerlege عَلَيْهِمْ in seine Bestandteile:",
             "word": "عَلَيْهِمْ",
             "answer": "عَلَى + هِمْ",
-            "hint": "Präposition عَلَى (auf/über) + Suffixpronomen 3.m.pl."
+            "hint": "Präposition عَلَى (auf/über) + Suffixpronomen 3.m.pl.",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n86"
           },
           {
             "type": "pattern_recognition",
@@ -5362,7 +5550,8 @@
               "gender": "m",
               "number": "sg"
             },
-            "explanation": "Selbstständiges Personalpronomen 3.m.sg.: er."
+            "explanation": "Selbstständiges Personalpronomen 3.m.sg.: er.",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n86"
           },
           {
             "type": "pattern_recognition",
@@ -5374,7 +5563,8 @@
               "gender": "f",
               "number": "sg"
             },
-            "explanation": "Selbstständiges Personalpronomen 3.f.sg.: sie."
+            "explanation": "Selbstständiges Personalpronomen 3.f.sg.: sie.",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n86"
           },
           {
             "type": "pattern_recognition",
@@ -5386,7 +5576,8 @@
               "gender": "m",
               "number": "sg"
             },
-            "explanation": "Selbstständiges Personalpronomen 2.m.sg.: du (m.)."
+            "explanation": "Selbstständiges Personalpronomen 2.m.sg.: du (m.).",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n86"
           },
           {
             "type": "pattern_recognition",
@@ -5398,7 +5589,8 @@
               "gender": "m",
               "number": "sg"
             },
-            "explanation": "Suffixpronomen 2.m.sg.: dein / dich."
+            "explanation": "Suffixpronomen 2.m.sg.: dein / dich.",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n86"
           },
           {
             "type": "pattern_recognition",
@@ -5410,7 +5602,8 @@
               "gender": "m",
               "number": "sg"
             },
-            "explanation": "Suffixpronomen 3.m.sg.: sein / ihn."
+            "explanation": "Suffixpronomen 3.m.sg.: sein / ihn.",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n86"
           },
           {
             "type": "pattern_recognition",
@@ -5422,7 +5615,8 @@
               "gender": "c",
               "number": "pl"
             },
-            "explanation": "Suffixpronomen 1.pl.: unser / uns."
+            "explanation": "Suffixpronomen 1.pl.: unser / uns.",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n86"
           },
           {
             "type": "pattern_recognition",
@@ -5434,7 +5628,8 @@
               "gender": "m",
               "number": "sg"
             },
-            "explanation": "Demonstrativpronomen der Ferne, maskulin Singular: jener."
+            "explanation": "Demonstrativpronomen der Ferne, maskulin Singular: jener.",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n86"
           },
           {
             "type": "multiple_choice",
@@ -5447,7 +5642,8 @@
             ],
             "answer": [
               "Demonstrativpronomen der Nähe, feminin Singular"
-            ]
+            ],
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n86"
           },
           {
             "type": "multiple_choice",
@@ -5460,7 +5656,8 @@
             ],
             "answer": [
               "الَّذِي = Relativpronomen m.sg. / الَّتِي = Relativpronomen f.sg."
-            ]
+            ],
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n86"
           },
           {
             "type": "matching",
@@ -5482,49 +5679,56 @@
                 "word": "هُمْ",
                 "meaning": "sie (m.pl.)"
               }
-            ]
+            ],
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n86"
           },
           {
             "type": "pattern_recognition",
             "prompt": "Was ist أَنْتِ?",
             "word": "أَنْتِ",
             "answer": "Selbstständiges Pronomen, 2.f.sg. (du, feminin)",
-            "hint": "Kasra am Ende (ـِ) markiert das feminine Gegenstück zu أَنْتَ."
+            "hint": "Kasra am Ende (ـِ) markiert das feminine Gegenstück zu أَنْتَ.",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n86"
           },
           {
             "type": "pattern_recognition",
             "prompt": "Welches Suffixpronomen ist ـهَا?",
             "word": "ـهَا",
             "answer": "3.f.sg. (ihr/sie)",
-            "hint": "ـهَا = 3. Person feminin Singular."
+            "hint": "ـهَا = 3. Person feminin Singular.",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n86"
           },
           {
             "type": "pattern_recognition",
             "prompt": "Welches Suffixpronomen ist ـهُمْ?",
             "word": "ـهُمْ",
             "answer": "3.m.pl. (ihnen/sie)",
-            "hint": "ـهُمْ = 3. Person maskulin Plural."
+            "hint": "ـهُمْ = 3. Person maskulin Plural.",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n86"
           },
           {
             "type": "pattern_recognition",
             "prompt": "Was ist تِلْكَ?",
             "word": "تِلْكَ",
             "answer": "Demonstrativpronomen der Ferne, f.sg. (jene)",
-            "hint": "تِلْكَ ist das feminine Gegenstück zu ذَلِكَ."
+            "hint": "تِلْكَ ist das feminine Gegenstück zu ذَلِكَ.",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n86"
           },
           {
             "type": "pattern_recognition",
             "prompt": "Was ist هَؤُلَاءِ?",
             "word": "هَؤُلَاءِ",
             "answer": "Demonstrativpronomen der Nähe, Plural (diese)",
-            "hint": "هَؤُلَاءِ = Plural-Demonstrativpronomen der Nähe."
+            "hint": "هَؤُلَاءِ = Plural-Demonstrativpronomen der Nähe.",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n86"
           },
           {
             "type": "pattern_recognition",
             "prompt": "Was ist الَّتِي?",
             "word": "الَّتِي",
             "answer": "Relativpronomen, f.sg. (die welche)",
-            "hint": "الَّتِي ist die feminine Entsprechung von الَّذِي."
+            "hint": "الَّتِي ist die feminine Entsprechung von الَّذِي.",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n86"
           },
           {
             "type": "multiple_choice",
@@ -5538,14 +5742,16 @@
             "answer": [
               "مَنْ / مَا"
             ],
-            "explanation": "مَنْ (wer) und مَا (was) sind allgemeine Relativpronomen ohne Genus- oder Numerusunterscheidung."
+            "explanation": "مَنْ (wer) und مَا (was) sind allgemeine Relativpronomen ohne Genus- oder Numerusunterscheidung.",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n86"
           },
           {
             "type": "root_extraction",
             "prompt": "Zerlege لَهُمْ in seine Bestandteile:",
             "word": "لَهُمْ",
             "answer": "لَ (Präposition: für) + ـهُمْ (Suffixpronomen 3.m.pl.: ihnen)",
-            "hint": "لَـ = Präposition, ـهُمْ = Suffixpronomen der 3. Person maskulin Plural."
+            "hint": "لَـ = Präposition, ـهُمْ = Suffixpronomen der 3. Person maskulin Plural.",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n86"
           },
           {
             "type": "multiple_choice",
@@ -5559,7 +5765,8 @@
             "answer": [
               "diese beiden (maskulin Dual)"
             ],
-            "explanation": "هَذَانِ ist das Demonstrativpronomen der Nähe im maskulinen Dual (Nominativ). Akkusativ/Genitiv: هَذَيْنِ."
+            "explanation": "هَذَانِ ist das Demonstrativpronomen der Nähe im maskulinen Dual (Nominativ). Akkusativ/Genitiv: هَذَيْنِ.",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n86"
           }
         ]
       },
@@ -5717,7 +5924,8 @@
                 "person": "Genitiv",
                 "answer": "أَبِيهِ"
               }
-            ]
+            ],
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n86"
           },
           {
             "type": "pattern_recognition",
@@ -5726,7 +5934,8 @@
             "answer": {
               "case": "Genitiv"
             },
-            "explanation": "ذِي = Genitiv von ذُو. Langvokal ī zeigt den Genitiv."
+            "explanation": "ذِي = Genitiv von ذُو. Langvokal ī zeigt den Genitiv.",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n86"
           },
           {
             "type": "multiple_choice",
@@ -5739,7 +5948,8 @@
             ],
             "answer": [
               "Nur in der Iḍāfa (mit Suffix oder folgendem Genitiv)"
-            ]
+            ],
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n86"
           },
           {
             "type": "matching",
@@ -5765,7 +5975,8 @@
                 "word": "حَم",
                 "meaning": "Schwiegervater"
               }
-            ]
+            ],
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n86"
           },
           {
             "type": "conjugation_drill",
@@ -5784,7 +5995,8 @@
                 "person": "Genitiv",
                 "answer": "أَخِيهِ"
               }
-            ]
+            ],
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n86"
           },
           {
             "type": "multiple_choice",
@@ -5798,7 +6010,8 @@
             "answer": [
               "Nominativ — Langvokal ū zeigt den Nominativ"
             ],
-            "explanation": "ذُو = Nominativ. Die drei Kasusformen: ذُو (Nom.), ذَا (Akk.), ذِي (Gen.). Der Langvokal zeigt den Kasus."
+            "explanation": "ذُو = Nominativ. Die drei Kasusformen: ذُو (Nom.), ذَا (Akk.), ذِي (Gen.). Der Langvokal zeigt den Kasus.",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n86"
           },
           {
             "type": "conjugation_drill",
@@ -5808,7 +6021,8 @@
               "Nominativ": "فُوهُ",
               "Akkusativ": "فَاهُ",
               "Genitiv": "فِيهِ"
-            }
+            },
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n86"
           }
         ]
       },
@@ -5968,7 +6182,8 @@
           {
             "type": "reverse",
             "prompt": "Bilde die feminine Form von أَحْمَر (rot):",
-            "answer": "حَمْرَاء"
+            "answer": "حَمْرَاء",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n86"
           },
           {
             "type": "matching",
@@ -5986,7 +6201,8 @@
                 "masculine": "أَخْضَر",
                 "feminine": "خَضْرَاء"
               }
-            ]
+            ],
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n86"
           },
           {
             "type": "multiple_choice",
@@ -5999,20 +6215,23 @@
             ],
             "answer": [
               "Zugehörigkeit"
-            ]
+            ],
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n86"
           },
           {
             "type": "pattern_recognition",
             "prompt": "Ist أَكْبَر hier ein Farbwort oder ein Elativ?",
             "word": "اللَّهُ أَكْبَرُ",
             "answer": "Elativ (Komparativ/Superlativ)",
-            "explanation": "Kontext: Gott ist größer. كَبِير = groß. أَكْبَر = größer/am größten."
+            "explanation": "Kontext: Gott ist größer. كَبِير = groß. أَكْبَر = größer/am größten.",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n86"
           },
           {
             "type": "reverse",
             "prompt": "Bilde die feminine Form von أَسْوَد (schwarz):",
             "answer": "سَوْدَاء",
-            "hint": "Farbmuster: maskulin أَفْعَل → feminin فَعْلَاء. أَسْوَد → سَوْدَاء."
+            "hint": "Farbmuster: maskulin أَفْعَل → feminin فَعْلَاء. أَسْوَد → سَوْدَاء.",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n86"
           },
           {
             "type": "multiple_choice",
@@ -6026,7 +6245,8 @@
             "answer": [
               "فُعَيْل"
             ],
-            "explanation": "Das Muster فُعَيْل dient der Verkleinerung, z.B. بُنَيّ (Söhnchen) von اِبْن (Sohn)."
+            "explanation": "Das Muster فُعَيْل dient der Verkleinerung, z.B. بُنَيّ (Söhnchen) von اِبْن (Sohn).",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n86"
           },
           {
             "type": "multiple_choice",
@@ -6040,7 +6260,8 @@
             "answer": [
               "Nein, sie sind diptotisch"
             ],
-            "explanation": "Alle Wörter auf dem Muster أَفْعَل (Farben/körperliche Eigenschaften) sind diptotisch (الممنوع من الصرف)."
+            "explanation": "Alle Wörter auf dem Muster أَفْعَل (Farben/körperliche Eigenschaften) sind diptotisch (الممنوع من الصرف).",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n86"
           },
           {
             "type": "matching",
@@ -6058,7 +6279,8 @@
                 "word": "أَعْمَى",
                 "feminine": "عَمْيَاء"
               }
-            ]
+            ],
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n86"
           },
           {
             "type": "pattern_recognition",
@@ -6068,7 +6290,8 @@
               "pattern": "فَعُول",
               "meaning": "Intensivform — dauerhaft/wiederholt Vergebender"
             },
-            "hint": "فَعُول drückt eine dauerhafte, intensive Eigenschaft aus"
+            "hint": "فَعُول drückt eine dauerhafte, intensive Eigenschaft aus",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n86"
           },
           {
             "type": "pattern_recognition",
@@ -6078,7 +6301,8 @@
               "pattern": "فَعَّال",
               "meaning": "Intensivform — immerwährend Vergebender"
             },
-            "hint": "فَعَّال drückt intensive, wiederholte Handlung als Eigenschaft aus"
+            "hint": "فَعَّال drückt intensive, wiederholte Handlung als Eigenschaft aus",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n86"
           }
         ]
       },
@@ -6185,7 +6409,8 @@
             "prompt": "Bestimme die Wurzel von زَلْزَلَة:",
             "word": "زَلْزَلَة",
             "answer": "ز-ل-ز-ل",
-            "hint": "Vier Konsonanten — kein dreikonsonantiges Muster passt."
+            "hint": "Vier Konsonanten — kein dreikonsonantiges Muster passt.",
+            "verifyUrl": "https://corpus.quran.com/qurandictionary.jsp?q=zlzl"
           },
           {
             "type": "multiple_choice",
@@ -6198,7 +6423,8 @@
             ],
             "answer": [
               "Vier"
-            ]
+            ],
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n100"
           },
           {
             "type": "pattern_recognition",
@@ -6209,12 +6435,14 @@
               "tense": "Perfekt",
               "person": "3.f.sg."
             },
-            "explanation": "Passiv (Vokalwechsel u-i), Perfekt, 3.f.sg. (Suffix ـَتِ). Die Erde wurde erschüttert."
+            "explanation": "Passiv (Vokalwechsel u-i), Perfekt, 3.f.sg. (Suffix ـَتِ). Die Erde wurde erschüttert.",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n100"
           },
           {
             "type": "reverse",
             "prompt": "Bilde das Maṣdar von وَسْوَسَ (nach dem Muster فَعْلَلَة):",
-            "answer": "وَسْوَسَة"
+            "answer": "وَسْوَسَة",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n100"
           },
           {
             "type": "pattern_recognition",
@@ -6226,14 +6454,16 @@
               "يَفْعِلُ"
             ],
             "answer": "يُفَعْلِلُ",
-            "hint": "Quadriliterale folgen im Imperfekt dem Muster يُفَعْلِلُ, z.B. يُزَلْزِلُ."
+            "hint": "Quadriliterale folgen im Imperfekt dem Muster يُفَعْلِلُ, z.B. يُزَلْزِلُ.",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n100"
           },
           {
             "type": "root_extraction",
             "prompt": "Bestimme die Wurzel von بُعْثِرَ:",
             "word": "بُعْثِرَ",
             "answer": "ب-ع-ث-ر",
-            "hint": "Vier Wurzelkonsonanten: ب + ع + ث + ر. Perfekt Passiv eines quadriliteralen Verbs."
+            "hint": "Vier Wurzelkonsonanten: ب + ع + ث + ر. Perfekt Passiv eines quadriliteralen Verbs.",
+            "verifyUrl": "https://corpus.quran.com/qurandictionary.jsp?q=bEvr"
           }
         ]
       },
@@ -6341,13 +6571,15 @@
             ],
             "answer": [
               "Es fällt weg"
-            ]
+            ],
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n80"
           },
           {
             "type": "reverse",
             "prompt": "Wie klingt رَحْمَةً in der Pausalform?",
             "answer": "raḥmah",
-            "hint": "Tāʾ Marbūṭa wird zu h, Tanwīn fällt weg."
+            "hint": "Tāʾ Marbūṭa wird zu h, Tanwīn fällt weg.",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n80"
           },
           {
             "type": "multiple_choice",
@@ -6360,20 +6592,23 @@
             ],
             "answer": [
               "Das Alif bleibt hörbar"
-            ]
+            ],
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n80"
           },
           {
             "type": "pattern_recognition",
             "prompt": "Wie klingt كِتَابٌ am Versende?",
             "word": "كِتَابٌ",
             "answer": "kitāb (ohne -un)",
-            "explanation": "Das Tanwīn (-un) fällt in der Pausalform weg."
+            "explanation": "Das Tanwīn (-un) fällt in der Pausalform weg.",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n80"
           },
           {
             "type": "reverse",
             "prompt": "Wie klingt عَلِيمًا in der Pausalform?",
             "answer": "ʿalīmā",
-            "hint": "Tanwīn al-Fatḥ: Das Tanwīn fällt weg, aber das Alif bleibt hörbar."
+            "hint": "Tanwīn al-Fatḥ: Das Tanwīn fällt weg, aber das Alif bleibt hörbar.",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n80"
           },
           {
             "type": "pattern_recognition",
@@ -6395,7 +6630,8 @@
             "answer": [
               "Sie wird zu einem stummen h"
             ],
-            "explanation": "In der Pausalform wird ة nicht als -tun/-tin/-tan gesprochen, sondern als stilles h: رَحْمَةٌ → raḥmah."
+            "explanation": "In der Pausalform wird ة nicht als -tun/-tin/-tan gesprochen, sondern als stilles h: رَحْمَةٌ → raḥmah.",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n80"
           }
         ]
       },
@@ -6545,7 +6781,8 @@
             ],
             "answer": [
               "Ein kleines Alif über einem Buchstaben das einen langen ā-Vokal anzeigt"
-            ]
+            ],
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n80"
           },
           {
             "type": "matching",
@@ -6567,7 +6804,8 @@
                 "uthmani": "الزَّكوٰة",
                 "modern": "الزَّكَاة"
               }
-            ]
+            ],
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n80"
           },
           {
             "type": "multiple_choice",
@@ -6580,14 +6818,16 @@
             ],
             "answer": [
               "Das Alif-Wasla von اسم fällt nach der Präposition ب weg"
-            ]
+            ],
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n80"
           },
           {
             "type": "pattern_recognition",
             "prompt": "Wie wird الرَّحْمٰن ausgesprochen?",
             "word": "الرَّحْمٰن",
             "answer": "ar-raḥmān",
-            "explanation": "Das Dolch-Alif wird wie ein normales langes ā ausgesprochen. Identisch mit الرَّحْمَان."
+            "explanation": "Das Dolch-Alif wird wie ein normales langes ā ausgesprochen. Identisch mit الرَّحْمَان.",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n80"
           },
           {
             "type": "pattern_recognition",
@@ -6599,7 +6839,8 @@
               "Ein Tanwīn-Zeichen"
             ],
             "answer": "Ein kleines Alif über dem vorherigen Buchstaben, das einen langen ā-Vokal markiert",
-            "hint": "Das Dolch-Alif (Alif khanjariyya) ersetzt ein normales langes Alif (ا) in der Uthmani-Schreibung."
+            "hint": "Das Dolch-Alif (Alif khanjariyya) ersetzt ein normales langes Alif (ا) in der Uthmani-Schreibung.",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n80"
           },
           {
             "type": "matching",
@@ -6621,7 +6862,8 @@
                 "uthmani": "الصَّلوٰة",
                 "modern": "الصَّلَاة"
               }
-            ]
+            ],
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n80"
           },
           {
             "type": "multiple_choice",
@@ -6635,14 +6877,16 @@
             "answer": [
               "Die Aussprache ist identisch — der Unterschied ist rein orthographisch"
             ],
-            "explanation": "Die Uthmani-Orthographie weicht nur in der Schreibung ab. Die Aussprache ist identisch mit der modernen Schreibung."
+            "explanation": "Die Uthmani-Orthographie weicht nur in der Schreibung ab. Die Aussprache ist identisch mit der modernen Schreibung.",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n80"
           },
           {
             "type": "pattern_recognition",
             "prompt": "Wie wird الصَّلوٰة ausgesprochen?",
             "word": "الصَّلوٰة",
             "answer": "aṣ-ṣalāh — wie الصَّلَاة",
-            "hint": "Das Dolch-Alif über dem Wāw markiert denselben langen ā-Vokal wie ein normales Alif."
+            "hint": "Das Dolch-Alif über dem Wāw markiert denselben langen ā-Vokal wie ein normales Alif.",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n80"
           },
           {
             "type": "multiple_choice",
@@ -6656,14 +6900,16 @@
             "answer": [
               "Weil gedruckte Muṣḥaf-Ausgaben diese Schreibkonventionen verwenden"
             ],
-            "explanation": "Wer einen gedruckten Mushaf oder die Uthmani-Textversion öffnet, sieht diese Schreibkonventionen. Ohne dieses Wissen könnte man denken, es fehlt ein Vokal."
+            "explanation": "Wer einen gedruckten Mushaf oder die Uthmani-Textversion öffnet, sieht diese Schreibkonventionen. Ohne dieses Wissen könnte man denken, es fehlt ein Vokal.",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n80"
           },
           {
             "type": "pattern_recognition",
             "prompt": "Was ist die Besonderheit von ذٰلِكَ in der Uthmani-Schreibung?",
             "word": "ذٰلِكَ",
             "answer": "Dolch-Alif über dem ذ — in moderner Schreibung: ذَالِكَ mit normalem Alif",
-            "hint": "Das kleine Alif-Zeichen über dem Dhāl ersetzt das normale lange Alif."
+            "hint": "Das kleine Alif-Zeichen über dem Dhāl ersetzt das normale lange Alif.",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n80"
           }
         ]
       },
@@ -6801,7 +7047,8 @@
             ],
             "explanation": "Das Energetische Nun (نون التوكيد) wird an Imperfektverben gehängt um Nachdruck auszudruecken.",
             "prompt": "Was ist das Energetische Nun?",
-            "answer": "Ein Suffix zur Bekräftigung an Imperfektverben"
+            "answer": "Ein Suffix zur Bekräftigung an Imperfektverben",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n100"
           },
           {
             "options": [
@@ -6812,7 +7059,8 @@
             ],
             "explanation": "Das Modus-Nun fällt weg, das Waw des Plurals bleibt erhalten, und das Bekräftigungs-Nun tritt an: يَفْعَلُونَّ.",
             "prompt": "Was passiert mit der Endung يَفْعَلُونَ wenn schweres Nun angefuegt wird?",
-            "answer": "Modus-Nun fällt weg, Waw bleibt: يَفْعَلُونَّ"
+            "answer": "Modus-Nun fällt weg, Waw bleibt: يَفْعَلُونَّ",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n100"
           },
           {
             "options": [
@@ -6981,7 +7229,8 @@
             ],
             "explanation": "Der Vokalwechsel zwischen Aktiv und Passiv verändert nur die Vokale, nicht die Konsonanten. Im unvokalisierten Text sind beide identisch.",
             "prompt": "Warum ist das Passiv für den Konsonantentext ein zentrales Problem?",
-            "answer": "Weil Aktiv und Passiv im Konsonantentext identisch aussehen"
+            "answer": "Weil Aktiv und Passiv im Konsonantentext identisch aussehen",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n100"
           },
           {
             "options": [
@@ -6992,7 +7241,8 @@
             ],
             "explanation": "Im Passiv fällt der Fāʿil weg. Das ehemalige Objekt (Mafʿūl bihi) wird zum Nāʾib al-Fāʿil und steht im Nominativ.",
             "prompt": "Wie erkennst du im Kontext, ob ein Verb passiv ist?",
-            "answer": "Am fehlenden Subjekt (Fāʿil) — das ehemalige Objekt wird Nāʾib al-Fāʿil"
+            "answer": "Am fehlenden Subjekt (Fāʿil) — das ehemalige Objekt wird Nāʾib al-Fāʿil",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n100"
           },
           {
             "options": [
@@ -7003,7 +7253,8 @@
             ],
             "explanation": "Form IV Passiv Perfekt: Präfix-Alif bekommt Damma, vorletzter Vokal wird Kasra: أُنزِلَ (unzila).",
             "prompt": "Was ist die Passivform von أَنزَلَ (anzala, Form IV)?",
-            "answer": "أُنزِلَ"
+            "answer": "أُنزِلَ",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n108"
           },
           {
             "options": [
@@ -7014,7 +7265,8 @@
             ],
             "explanation": "Stamm VII ist selbst schon passiv/reflexiv in der Bedeutung. Er hat daher keine eigene Passivform.",
             "prompt": "Welcher Stamm hat KEIN Passiv?",
-            "answer": "Stamm VII (اِنْفَعَلَ)"
+            "answer": "Stamm VII (اِنْفَعَلَ)",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n100"
           },
           {
             "options": [
@@ -7025,7 +7277,8 @@
             ],
             "explanation": "كتب kann sein: كَتَبَ (kataba, Aktiv), كُتِبَ (kutiba, Passiv), oder كُتُب (kutub, Bücher). Der Kontext entscheidet.",
             "prompt": "Im Konsonantentext steht كتب. Welche Lesungen sind grammatisch möglich?",
-            "answer": "kataba ODER kutiba ODER kutub"
+            "answer": "kataba ODER kutiba ODER kutub",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n100"
           },
           {
             "options": [
@@ -7036,7 +7289,8 @@
             ],
             "explanation": "Der Nāʾib al-Fāʿil (Stellvertreter des Subjekts) ist das ehemalige Mafʿūl bihi, das im Passivsatz Nominativ bekommt.",
             "prompt": "Was ist der Nāʾib al-Fāʿil?",
-            "answer": "Das Objekt das im Passivsatz die Subjektrolle uebernimmt und Nominativ bekommt"
+            "answer": "Das Objekt das im Passivsatz die Subjektrolle uebernimmt und Nominativ bekommt",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n100"
           }
         ]
       },
@@ -7179,7 +7433,8 @@
             ],
             "explanation": "In der Idafa-Konstruktion wird das Mudaf durch das definite Mudaf ilayhi definit. Das Mudaf selbst trägt dabei keinen Artikel.",
             "prompt": "Warum ist كتاب in كتاب الله definit obwohl es keinen Artikel trägt?",
-            "answer": "Weil es Mudaf in einer Idafa-Konstruktion ist — das definite Mudaf ilayhi macht das Mudaf definit"
+            "answer": "Weil es Mudaf in einer Idafa-Konstruktion ist — das definite Mudaf ilayhi macht das Mudaf definit",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n86"
           },
           {
             "options": [
@@ -7190,7 +7445,8 @@
             ],
             "explanation": "Tanwin (-un, -an, -in) ist der Marker der Indefinitheit. Es zeigt an, dass ein Nomen unbestimmt ist.",
             "prompt": "Was markiert Tanwin?",
-            "answer": "Indefinitheit (Unbestimmtheit)"
+            "answer": "Indefinitheit (Unbestimmtheit)",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n86"
           },
           {
             "options": [
@@ -7201,7 +7457,8 @@
             ],
             "explanation": "الحمد ist definit durch den Artikel ال und steht in Satzanfangsposition — daher Mubtada'. Der Mubtada' ist normalerweise definit.",
             "prompt": "Welches Wort in الحمد لله رب العالمين ist der Mubtada'?",
-            "answer": "الحمد — weil es definit ist (Artikel)"
+            "answer": "الحمد — weil es definit ist (Artikel)",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n86"
           },
           {
             "options": [
@@ -7224,7 +7481,8 @@
             ],
             "explanation": "Tanwin (Indefinitheit) und Artikel ال (Definitheit) sind gegensätzliche Marker. Sie können nie gleichzeitig an demselben Wort auftreten.",
             "prompt": "Können Tanwin und Artikel gleichzeitig am selben Wort stehen?",
-            "answer": "Nein — sie schließen sich gegenseitig aus"
+            "answer": "Nein — sie schließen sich gegenseitig aus",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n86"
           },
           {
             "options": [
@@ -7235,7 +7493,8 @@
             ],
             "explanation": "Das Mudaf trägt in der Idafa nie einen Artikel. Seine Definitheit ergibt sich aus der Definitheit des Mudaf ilayhi: ist das Mudaf ilayhi definit, ist auch das Mudaf definit.",
             "prompt": "Wie erkennt man in der Idafa ob das Mudaf definit ist?",
-            "answer": "Durch die Definitheit des Mudaf ilayhi — das Mudaf selbst trägt keinen Artikel"
+            "answer": "Durch die Definitheit des Mudaf ilayhi — das Mudaf selbst trägt keinen Artikel",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n86"
           },
           {
             "type": "matching",
@@ -7261,7 +7520,8 @@
                 "item": "هذا",
                 "match": "definit"
               }
-            ]
+            ],
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n86"
           },
           {
             "options": [
@@ -7272,7 +7532,8 @@
             ],
             "explanation": "Der Hal muss indefinit sein. Er beschreibt den Zustand des Subjekts oder Objekts und steht im Akkusativ ohne Artikel: جاء الرجلُ ماشيًا.",
             "prompt": "Was muss der Hal (Zustandsakkusativ) bezueglich Definitheit sein?",
-            "answer": "Indefinit"
+            "answer": "Indefinit",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n86"
           }
         ]
       },
@@ -7375,7 +7636,8 @@
             ],
             "explanation": "Das Ism al-Marra von Form I folgt dem Muster فَعْلَة mit Fatha auf dem ersten Radikal.",
             "prompt": "Auf welchem Muster wird das Ism al-Marra (Nomen des einmaligen Geschehens) von Form I gebildet?",
-            "answer": "فَعْلَة"
+            "answer": "فَعْلَة",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n100"
           },
           {
             "options": [
@@ -7386,7 +7648,8 @@
             ],
             "explanation": "فَعْلَة (Fatha) = Ism al-Marra (ein einziger Blick). فِعْلَة (Kasra) = Ism al-Hay'a (die Art des Blickens).",
             "prompt": "Was unterscheidet نَظْرَة (nazrah) von نِظْرَة (nizrah)?",
-            "answer": "Fatha = einmaliges Geschehen, Kasra = Art und Weise"
+            "answer": "Fatha = einmaliges Geschehen, Kasra = Art und Weise",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n86"
           },
           {
             "options": [
@@ -7397,7 +7660,8 @@
             ],
             "explanation": "Alle drei Ism-al-Ala-Muster beginnen mit مِ: مِفْعَل, مِفْعَال, مِفْعَلَة.",
             "prompt": "Welches Präfix ist charakteristisch für das Ism al-Ala?",
-            "answer": "Mim mit Kasra (مِ-)"
+            "answer": "Mim mit Kasra (مِ-)",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n86"
           },
           {
             "options": [
@@ -7408,7 +7672,8 @@
             ],
             "explanation": "Die Nun al-Wiqaya gehört weder zum Verb noch zum Pronomen. Sie verhindert, dass عَلَّمِي (Imperativ feminin) mit عَلَّمَنِي (er lehrte mich) verwechselt wird.",
             "prompt": "Was ist die Funktion der Nun al-Wiqaya in عَلَّمَنِي?",
-            "answer": "Sie schützt die Verbendung vor lautlicher Kollision mit -ي"
+            "answer": "Sie schützt die Verbendung vor lautlicher Kollision mit -ي",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n86"
           },
           {
             "options": [
@@ -7419,7 +7684,8 @@
             ],
             "explanation": "Die Alif nach Waw al-Jama'a ist stumm und rein orthographisch. Sie unterscheidet die Pluralform von anderen Waw-Endungen.",
             "prompt": "Warum steht in كَتَبُوا eine Alif am Ende?",
-            "answer": "Sie ist eine rein orthographische Schutz-Alif (Alif al-Wiqaya)"
+            "answer": "Sie ist eine rein orthographische Schutz-Alif (Alif al-Wiqaya)",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n86"
           },
           {
             "type": "free_text",
@@ -7428,7 +7694,8 @@
               "darbah"
             ],
             "explanation": "ضَرْبَة auf dem Muster فَعْلَة — ein einziger Schlag.",
-            "prompt": "Bilde das Ism al-Marra von der Wurzel ض-ر-ب (schlagen):"
+            "prompt": "Bilde das Ism al-Marra von der Wurzel ض-ر-ب (schlagen):",
+            "verifyUrl": "https://corpus.quran.com/qurandictionary.jsp?q=Drb"
           },
           {
             "options": [
@@ -7451,7 +7718,8 @@
             ],
             "explanation": "كَتَبُوا (sie schrieben) → كَتَبُوهُ (sie schrieben es). Die Schutz-Alif verschwindet vor dem Suffix.",
             "prompt": "Was passiert mit der Alif al-Wiqaya, wenn ein Suffix-Pronomen folgt?",
-            "answer": "Sie fällt weg"
+            "answer": "Sie fällt weg",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n86"
           }
         ]
       },
@@ -7709,7 +7977,8 @@
             ],
             "explanation": "عِلْم folgt dem Muster فِعْل (Kasra + Sukun + letzter Radikal).",
             "prompt": "Welches Masdar-Muster hat das Wort عِلْم?",
-            "answer": "فِعْل"
+            "answer": "فِعْل",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n96"
           },
           {
             "options": [
@@ -7720,7 +7989,8 @@
             ],
             "explanation": "دُخُول ist der Masdar von دَخَلَ (eintreten), Wurzel د-خ-ل, auf dem Muster فُعُول.",
             "prompt": "Von welcher Wurzel kommt das Masdar دُخُول?",
-            "answer": "د-خ-ل"
+            "answer": "د-خ-ل",
+            "verifyUrl": "https://corpus.quran.com/qurandictionary.jsp?q=dxl"
           },
           {
             "options": [
@@ -7731,7 +8001,8 @@
             ],
             "explanation": "Bewegungsverben tendieren zum Muster فُعُول: دُخُول, خُرُوج, نُزُول, صُعُود.",
             "prompt": "Welches Muster tendieren Verben der Bewegung anzunehmen?",
-            "answer": "فُعُول"
+            "answer": "فُعُول",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n96"
           },
           {
             "options": [
@@ -7742,7 +8013,8 @@
             ],
             "explanation": "قِتَال folgt dem Muster فِعَال mit Kasra unter dem ersten Radikal.",
             "prompt": "Was ist das Masdar-Muster von قِتَال (Kampf)?",
-            "answer": "فِعَال"
+            "answer": "فِعَال",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n96"
           },
           {
             "type": "free_text",
@@ -7763,7 +8035,8 @@
             ],
             "explanation": "Alle drei folgen dem Muster فُعْلَان: سُلْطَان (Autorität), غُفْرَان (Vergebung), قُرْآن (Lesung/Rezitation).",
             "prompt": "Welches Wort ist ein Masdar auf dem Muster فُعْلَان?",
-            "answer": "Alle drei"
+            "answer": "Alle drei",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n96"
           },
           {
             "options": [
@@ -7774,7 +8047,8 @@
             ],
             "explanation": "Form I hat über 15 Masdar-Muster. Im Gegensatz zu den Formen II–X gibt es keine einheitliche Bildungsregel.",
             "prompt": "Warum muss das Form-I-Masdar im Wörterbuch nachgeschlagen werden?",
-            "answer": "Weil über 15 verschiedene Muster existieren und keine feste Regel die Wahl bestimmt"
+            "answer": "Weil über 15 verschiedene Muster existieren und keine feste Regel die Wahl bestimmt",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n100"
           },
           {
             "options": [
@@ -7785,7 +8059,8 @@
             ],
             "explanation": "Das Muster فِعَالَة erscheint bei Berufs-/Handwerksverben: تِجَارَة (Handel), زِرَاعَة (Landwirtschaft), صِنَاعَة (Handwerk).",
             "prompt": "Welches Masdar-Muster ist typisch für Berufe und Handwerk?",
-            "answer": "فِعَالَة"
+            "answer": "فِعَالَة",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n96"
           }
         ]
       },
@@ -7942,7 +8217,8 @@
             ],
             "explanation": "Form IV: Aktivpartizip مُفْعِل (z.B. مُسْلِم von أَسْلَمَ).",
             "prompt": "Wie lautet das Aktivpartizip von Form IV?",
-            "answer": "مُفْعِل"
+            "answer": "مُفْعِل",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n108"
           },
           {
             "options": [
@@ -7953,7 +8229,8 @@
             ],
             "explanation": "Kasra unter dem vorletzten Radikal = Aktivpartizip. Fatha = Passivpartizip. Im Konsonantentext identisch.",
             "prompt": "Was unterscheidet مُعَلِّم (Lehrender) von مُعَلَّم (Gelehrtes)?",
-            "answer": "Kasra = Aktiv, Fatha = Passiv"
+            "answer": "Kasra = Aktiv, Fatha = Passiv",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n92"
           },
           {
             "options": [
@@ -7964,7 +8241,8 @@
             ],
             "explanation": "Form X: Masdar اِسْتِفْعَال (z.B. اِسْتِغْفَار — um Vergebung bitten).",
             "prompt": "Wie lautet der Masdar von Form X?",
-            "answer": "اِسْتِفْعَال"
+            "answer": "اِسْتِفْعَال",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n120"
           },
           {
             "options": [
@@ -7975,7 +8253,8 @@
             ],
             "explanation": "Alle Partizipien der abgeleiteten Formen beginnen mit مُ.",
             "prompt": "Welches Präfix tragen ALLE Partizipien der Formen II–X?",
-            "answer": "مُ (Mim mit Damma)"
+            "answer": "مُ (Mim mit Damma)",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n92"
           },
           {
             "type": "free_text",
@@ -7984,7 +8263,8 @@
               "islam"
             ],
             "explanation": "إِسْلَام — Ergebung/Hingabe. Form IV Masdar von س-ل-م.",
-            "prompt": "Bilden Sie den Masdar von Form IV (إِفْعَال) für die Wurzel س-ل-م:"
+            "prompt": "Bilden Sie den Masdar von Form IV (إِفْعَال) für die Wurzel س-ل-م:",
+            "verifyUrl": "https://corpus.quran.com/qurandictionary.jsp?q=slm"
           },
           {
             "options": [
@@ -7995,7 +8275,8 @@
             ],
             "explanation": "Das Präfix مُسْتَـ zeigt Form X an. مُسْتَقِيم = Aktivpartizip X von ق-و-م.",
             "prompt": "مُسْتَقِيم ist ein Partizip welcher Form?",
-            "answer": "Form X"
+            "answer": "Form X",
+            "verifyUrl": "https://corpus.quran.com/qurandictionary.jsp?q=qwm"
           },
           {
             "options": [
@@ -8006,7 +8287,8 @@
             ],
             "explanation": "Form II: Masdar تَفْعِيل (z.B. تَعْلِيم, تَسْبِيح, تَكْبِير).",
             "prompt": "Welcher Masdar gehört zu Form II?",
-            "answer": "تَفْعِيل"
+            "answer": "تَفْعِيل",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n104"
           },
           {
             "options": [
@@ -8017,7 +8299,8 @@
             ],
             "explanation": "مُعَلِّم und مُعَلَّم haben identische Konsonanten. Nur die Vokalisierung (Kasra vs. Fatha) unterscheidet sie.",
             "prompt": "Warum ist die Aktiv/Passiv-Unterscheidung bei abgeleiteten Partizipien eine Ambiguität des Konsonantentextes?",
-            "answer": "Weil beide Partizipien im Konsonantentext identisch aussehen"
+            "answer": "Weil beide Partizipien im Konsonantentext identisch aussehen",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n92"
           }
         ]
       },
@@ -8160,7 +8443,8 @@
             ],
             "explanation": "Zeit-/Ortsnomen beginnen mit مَ (Fatha). Instrumentennomen beginnen mit مِ (Kasra).",
             "prompt": "Mit welchem Präfix beginnen Zeit- und Ortsnomen?",
-            "answer": "مَ (Mim + Fatha)"
+            "answer": "مَ (Mim + Fatha)",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n86"
           },
           {
             "options": [
@@ -8171,7 +8455,8 @@
             ],
             "explanation": "مَسْجِد kommt von der Wurzel س-ج-د (sich niederwerfen). Muster مَفْعِل = Ort der Handlung.",
             "prompt": "Was bedeutet مَسْجِد wörtlich?",
-            "answer": "Ort der Niederwerfung"
+            "answer": "Ort der Niederwerfung",
+            "verifyUrl": "https://corpus.quran.com/qurandictionary.jsp?q=sjd"
           },
           {
             "options": [
@@ -8182,7 +8467,8 @@
             ],
             "explanation": "مَشْرِق folgt dem Muster مَفْعِل (Kasra auf dem zweiten Radikal).",
             "prompt": "Welches Muster hat مَشْرِق (Osten)?",
-            "answer": "مَفْعِل"
+            "answer": "مَفْعِل",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n86"
           },
           {
             "type": "free_text",
@@ -8192,7 +8478,8 @@
               "q-w-m"
             ],
             "explanation": "مَقَام von ق-و-م (stehen). Hohle Wurzel: das Waw wird zu langem Alif (مَقْوَم → مَقَام).",
-            "prompt": "Von welcher Wurzel kommt مَقَام (Standort)?"
+            "prompt": "Von welcher Wurzel kommt مَقَام (Standort)?",
+            "verifyUrl": "https://corpus.quran.com/qurandictionary.jsp?q=qwm"
           },
           {
             "options": [
@@ -8203,7 +8490,8 @@
             ],
             "explanation": "Die Muster مَفْعَل/مَفْعِل können Ortsnomen, Zeitnomen oder Masdar sein. Der Kontext entscheidet.",
             "prompt": "Warum können مَفْعَل/مَفْعِل-Formen mehrdeutig sein?",
-            "answer": "Weil sie Ort, Zeit ODER Masdar bedeuten können"
+            "answer": "Weil sie Ort, Zeit ODER Masdar bedeuten können",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n86"
           },
           {
             "options": [
@@ -8214,7 +8502,8 @@
             ],
             "explanation": "مَفْعَل beginnt mit مَ (Fatha) = Ort/Zeit. مِفْعَال beginnt mit مِ (Kasra) = Instrument.",
             "prompt": "Was unterscheidet مَفْعَل (Ort/Zeit) von مِفْعَال (Instrument)?",
-            "answer": "Der Vokal auf Mim: Fatha (مَ) vs. Kasra (مِ)"
+            "answer": "Der Vokal auf Mim: Fatha (مَ) vs. Kasra (مِ)",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n86"
           }
         ]
       },
@@ -8274,7 +8563,8 @@
             ],
             "explanation": "Ta Marbuta fällt weg: مَدِينَة → مَدَنِيّ.",
             "prompt": "Wie wird die Nisba von مَدِينَة (Stadt/Medina) gebildet?",
-            "answer": "مَدَنِيّ"
+            "answer": "مَدَنِيّ",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n86"
           },
           {
             "options": [
@@ -8285,7 +8575,8 @@
             ],
             "explanation": "Das Nisba-Suffix ist ـِيّ (Ya Mushaddada mit Kasra).",
             "prompt": "Welches Suffix markiert die maskuline Nisba?",
-            "answer": "ـِيّ"
+            "answer": "ـِيّ",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n86"
           },
           {
             "options": [
@@ -8296,7 +8587,8 @@
             ],
             "explanation": "Nach langem Alif wird وِ eingefügt und Hamza fällt: سَمَاء → سَمَاوِيّ.",
             "prompt": "Was passiert bei der Nisba-Bildung von سَمَاء?",
-            "answer": "Hamza fällt weg, Waw wird eingefügt: سَمَاوِيّ"
+            "answer": "Hamza fällt weg, Waw wird eingefügt: سَمَاوِيّ",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n86"
           },
           {
             "type": "free_text",
@@ -8305,7 +8597,8 @@
               "arabi"
             ],
             "explanation": "عَرَبِيّ — arabisch. Reguläre Nisba-Bildung.",
-            "prompt": "Bilden Sie die Nisba von عَرَب:"
+            "prompt": "Bilden Sie die Nisba von عَرَب:",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n86"
           },
           {
             "options": [
@@ -8316,7 +8609,8 @@
             ],
             "explanation": "رَبّ → رَبَّانِيّ hat eine zusätzliche ان-Silbe vor dem Nisba-Suffix.",
             "prompt": "Was ist die morphologische Besonderheit von رَبَّانِيّ?",
-            "answer": "Nisba mit ان-Erweiterung vor dem Suffix"
+            "answer": "Nisba mit ان-Erweiterung vor dem Suffix",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n86"
           }
         ]
       },
@@ -8365,7 +8659,8 @@
             ],
             "explanation": "Das Diminutiv dreikonsonantiger Nomen folgt dem Muster فُعَيْل.",
             "prompt": "Welches Muster hat das Diminutiv von dreikonsonantigen Nomen?",
-            "answer": "فُعَيْل"
+            "answer": "فُعَيْل",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n86"
           },
           {
             "options": [
@@ -8376,7 +8671,8 @@
             ],
             "explanation": "Der erste Radikal erhält immer Damma bei der Diminutiv-Bildung.",
             "prompt": "Was geschieht mit dem ersten Radikal bei der Diminutiv-Bildung?",
-            "answer": "Er erhält Damma"
+            "answer": "Er erhält Damma",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n86"
           },
           {
             "options": [
@@ -8387,7 +8683,8 @@
             ],
             "explanation": "قُرَيْش ist das Diminutiv von قِرْش (Hai) auf dem Muster فُعَيْل.",
             "prompt": "قُرَيْش ist morphologisch ein Diminutiv von:",
-            "answer": "قِرْش"
+            "answer": "قِرْش",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n86"
           },
           {
             "type": "free_text",
@@ -8396,7 +8693,8 @@
               "kulayb"
             ],
             "explanation": "كُلَيْب — Huendchen. Muster فُعَيْل: Damma auf Kaf, Fatha auf Lam, Ya eingefügt.",
-            "prompt": "Bilden Sie das Diminutiv von كَلْب (Hund):"
+            "prompt": "Bilden Sie das Diminutiv von كَلْب (Hund):",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n86"
           }
         ]
       },
@@ -8534,7 +8832,8 @@
             ],
             "explanation": "كَتَبَ hat Fatha (a) im Perfekt, يَكْتُبُ hat Damma (u) im Imperfekt → Klasse a–u.",
             "prompt": "Welche Vokalklasse hat كَتَبَ / يَكْتُبُ?",
-            "answer": "a–u"
+            "answer": "a–u",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n100"
           },
           {
             "options": [
@@ -8545,7 +8844,8 @@
             ],
             "explanation": "Klasse u–u (فَعُلَ/يَفْعُلُ) ist immer stativ: كَبُرَ (gross sein), حَسُنَ (schön sein).",
             "prompt": "Welche Vokalklasse beschreibt IMMER eine Eigenschaft (stativ)?",
-            "answer": "u–u"
+            "answer": "u–u",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n100"
           },
           {
             "options": [
@@ -8556,7 +8856,8 @@
             ],
             "explanation": "عَلِمَ hat Kasra (i) im Perfekt, يَعْلَمُ hat Fatha (a) im Imperfekt → Klasse i–a.",
             "prompt": "Welche Klasse hat عَلِمَ / يَعْلَمُ?",
-            "answer": "i–a"
+            "answer": "i–a",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n100"
           },
           {
             "options": [
@@ -8567,7 +8868,8 @@
             ],
             "explanation": "Der Konsonantentext zeigt nur die Konsonanten. Die Vokale auf dem zweiten Radikal — die die Klasse definieren — sind nicht sichtbar.",
             "prompt": "Warum kann die Vokalklasse nicht vom Konsonantentext abgelesen werden?",
-            "answer": "Weil Vokale im Rasm nicht geschrieben werden"
+            "answer": "Weil Vokale im Rasm nicht geschrieben werden",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n100"
           },
           {
             "options": [
@@ -8578,7 +8880,8 @@
             ],
             "explanation": "Klasse a–a tritt häufig bei Verben mit emphatischen oder gutturalen Konsonanten auf.",
             "prompt": "Bei welcher Klasse tritt die Fatha-Fatha-Kombination häufig wegen gutturaler Radikale auf?",
-            "answer": "a–a"
+            "answer": "a–a",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n100"
           },
           {
             "type": "free_text",
@@ -8588,7 +8891,8 @@
               "ai"
             ],
             "explanation": "ضَرَبَ (Fatha/a) + يَضْرِبُ (Kasra/i) = Klasse a–i.",
-            "prompt": "Welche Vokalklasse hat ضَرَبَ / يَضْرِبُ?"
+            "prompt": "Welche Vokalklasse hat ضَرَبَ / يَضْرِبُ?",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n100"
           }
         ]
       },
@@ -8715,7 +9019,8 @@
             ],
             "explanation": "رَأَى hat Hamza als mittleren Radikal (أ) und Ya als letzten Radikal (ي) → Hamza + Defektiv.",
             "prompt": "Welcher Typ doppelt-schwaches Verb ist رَأَى?",
-            "answer": "Hamza + Defektiv"
+            "answer": "Hamza + Defektiv",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n130"
           },
           {
             "options": [
@@ -8726,7 +9031,8 @@
             ],
             "explanation": "يَرَى — die Hamza verschwindet vollständig im Imperfekt.",
             "prompt": "Wie lautet der Imperfekt 3ms von رَأَى?",
-            "answer": "يَرَى"
+            "answer": "يَرَى",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n130"
           },
           {
             "options": [
@@ -8737,7 +9043,8 @@
             ],
             "explanation": "قِ — beide schwachen Radikale (Waw und Ya) fallen weg. Nur Qaf mit Kasra bleibt.",
             "prompt": "Was passiert beim Imperativ von وَقَى (schützen)?",
-            "answer": "قِ"
+            "answer": "قِ",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n130"
           },
           {
             "options": [
@@ -8748,7 +9055,8 @@
             ],
             "explanation": "حَيِيَ hat die Wurzel ح-ي-ي — der 2. und 3. Radikal sind beide Ya.",
             "prompt": "Welche Wurzel hat das Verb حَيِيَ (leben)?",
-            "answer": "ح-ي-ي"
+            "answer": "ح-ي-ي",
+            "verifyUrl": "https://corpus.quran.com/qurandictionary.jsp?q=Hyy"
           },
           {
             "type": "free_text",
@@ -8757,7 +9065,8 @@
               "yuhyi"
             ],
             "explanation": "يُحْيِي — Form IV Imperfekt von ح-ي-ي. Das doppelte Ya erzeugt die Form يُحْيِي.",
-            "prompt": "Wie lautet die Form IV (أَفْعَلَ) von ح-ي-ي (beleben) im Imperfekt 3ms?"
+            "prompt": "Wie lautet die Form IV (أَفْعَلَ) von ح-ي-ي (beleben) im Imperfekt 3ms?",
+            "verifyUrl": "https://corpus.quran.com/qurandictionary.jsp?q=Hyy"
           },
           {
             "options": [
@@ -8768,7 +9077,8 @@
             ],
             "explanation": "Beide schwachen Radikale verursachen eigene Lautveraenderungen, die sich gegenseitig beeinflussen und zu stark verkürzten Formen führen können.",
             "prompt": "Warum sind doppelt-schwache Verben besonders schwierig?",
-            "answer": "Weil sich die Unregelmäßigkeiten zweier schwacher Radikale kumulieren"
+            "answer": "Weil sich die Unregelmäßigkeiten zweier schwacher Radikale kumulieren",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n130"
           }
         ]
       },
@@ -8846,7 +9156,8 @@
             ],
             "explanation": "Hohle Verben in Form IV bilden das Imperfekt nach يُفِيلُ: يُقِيمُ, يُرِيدُ, يُجِيبُ. Das Perfekt hat langen A-Vokal (أَقَامَ), das Imperfekt langen I-Vokal.",
             "prompt": "Was ist das charakteristische Muster eines hohlen Verbs im Form-IV-Imperfekt?",
-            "answer": "يُفِيلُ — langer I-Vokal an der Stelle des mittleren Radikals"
+            "answer": "يُفِيلُ — langer I-Vokal an der Stelle des mittleren Radikals",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n108"
           },
           {
             "options": [
@@ -8857,7 +9168,8 @@
             ],
             "explanation": "Form X folgt demselben Muster: Perfekt mit langem A (اِسْتَقَامَ), Imperfekt mit langem I (يَسْتَقِيمُ). Das Aktivpartizip ist مُسْتَقِيم (Form مُسْتَفْعِل).",
             "prompt": "Welche Aussage gilt für hohle Verben in Form X?",
-            "answer": "Sie folgen demselben A/I-Muster wie Form IV"
+            "answer": "Sie folgen demselben A/I-Muster wie Form IV",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n120"
           },
           {
             "options": [
@@ -8884,7 +9196,8 @@
           {
             "type": "derivation",
             "answer": "يُقِيمُ — das lange A im Perfekt (أَقَامَ) wird zu langem I im Imperfekt (يُقِيمُ). Muster: أَفَالَ → يُفِيلُ.",
-            "prompt": "أَقَامَ ist Form IV Perfekt von ق-و-م. Wie lautet das Imperfekt 3ms?"
+            "prompt": "أَقَامَ ist Form IV Perfekt von ق-و-م. Wie lautet das Imperfekt 3ms?",
+            "verifyUrl": "https://corpus.quran.com/qurandictionary.jsp?q=qwm"
           },
           {
             "type": "identification",
@@ -8974,7 +9287,8 @@
             ],
             "explanation": "Defektive Verben bilden das Imperfekt mit Kasra + Ya: يُعْطِي, يُوحِي, يُلْقِي, يُزَكِّي. Das Perfekt hat dagegen Alif Maqsura: أَعْطَى, أَوْحَى.",
             "prompt": "Wie lautet das Imperfekt-Muster für defektive Verben in abgeleiteten Formen (z.B. Form IV)?",
-            "answer": "يُفْعِي — Kasra + Ya an Stelle des letzten Radikals"
+            "answer": "يُفْعِي — Kasra + Ya an Stelle des letzten Radikals",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n108"
           },
           {
             "options": [
@@ -8985,7 +9299,8 @@
             ],
             "explanation": "Das Taschdid auf dem Ta zeigt die Assimilation: اِتَّقَى, يَتَّقِي, مُتَّقٍ. Das Waw des ersten Radikals ist phonologisch in das Ta des Form-VIII-Infixes verschmolzen.",
             "prompt": "Was ist das visuelle Signal dafuer, dass ein Verb Form VIII eines assimilierten Waw-Verbs ist?",
-            "answer": "Taschdid auf dem Ta nach dem Präfix اِ"
+            "answer": "Taschdid auf dem Ta nach dem Präfix اِ",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n116"
           },
           {
             "options": [
@@ -9072,7 +9387,8 @@
               {
                 "ref": "—",
                 "arabic": "يُقَالُ",
-                "explanation": "يُقَالُ (es wird gesagt) ist das Imperfekt Passiv von قَالَ. Muster: يُفَالُ. Der mittlere Waw erscheint als langer ā-Vokal, das Präfix hat Damma (nicht ya-Fatha des Aktivs)."
+                "explanation": "يُقَالُ (es wird gesagt) ist das Imperfekt Passiv von قَالَ. Muster: يُفَالُ. Der mittlere Waw erscheint als langer ā-Vokal, das Präfix hat Damma (nicht ya-Fatha des Aktivs).",
+                "verifyUrl": "https://corpus.quran.com/qurandictionary.jsp?q=qwl"
               },
               {
                 "ref": "12:31",
@@ -9095,7 +9411,8 @@
             ],
             "explanation": "قِيلَ — die Kontraktion des Waw ergibt Kasra + langen ī. Die Form *قُوِلَ existiert nicht.",
             "prompt": "Wie lautet das Passiv Perfekt 3ms des hohlen Verbs قَالَ (ق-و-ل)?",
-            "answer": "قِيلَ"
+            "answer": "قِيلَ",
+            "verifyUrl": "https://corpus.quran.com/qurandictionary.jsp?q=qwl"
           },
           {
             "options": [
@@ -9106,7 +9423,8 @@
             ],
             "explanation": "Passiv Perfekt defektiver Verben endet auf ـِيَ: قُضِيَ, دُعِيَ, رُجِيَ. Der erste Radikal hat Damma (allgemeine Passiv-Regel), der dritte Radikal wird zu langem ī.",
             "prompt": "Welches Signal zeigt den Passiv Perfekt eines defektiven Verbs an?",
-            "answer": "Damma auf dem ersten Radikal und Endung ـِيَ"
+            "answer": "Damma auf dem ersten Radikal und Endung ـِيَ",
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n130"
           },
           {
             "options": [
@@ -9117,7 +9435,8 @@
             ],
             "explanation": "يُقَالُ — Damma auf dem Präfix (Passiv-Signal), langer ā-Vokal als mittlerer Radikal. Das ist das Imperfekt-Passiv-Muster für hohle Verben: يُفَالُ.",
             "prompt": "Was ist das Imperfekt Passiv des hohlen Verbs قَالَ (ق-و-ل)?",
-            "answer": "يُقَالُ"
+            "answer": "يُقَالُ",
+            "verifyUrl": "https://corpus.quran.com/qurandictionary.jsp?q=qwl"
           },
           {
             "options": [
@@ -9138,12 +9457,14 @@
               "yudʿā"
             ],
             "explanation": "يُدْعَى — Präfix-Damma (Passiv), dann Stamm, dann Alif Maqsura (typisch für defektives Imperfekt Passiv). Signal: Präfix-Damma + ـَى am Ende.",
-            "prompt": "دَعَا hat Wurzel د-ع-و (defektiv). Wie lautet das Imperfekt Passiv 3ms?"
+            "prompt": "دَعَا hat Wurzel د-ع-و (defektiv). Wie lautet das Imperfekt Passiv 3ms?",
+            "verifyUrl": "https://corpus.quran.com/qurandictionary.jsp?q=dEw"
           },
           {
             "type": "derivation",
             "answer": "قِيلَ — Kasra auf dem ersten Radikal, langer ī-Vokal, dann letzter Radikal. Die Kontraktion des Waw zwischen zwei Vokalen ergibt das lange ī. Das ist die feste Form, keine Ausnahme.",
-            "prompt": "قَالَ ist ein hohles Verb (ق-و-ل). Wie lautet das Passiv Perfekt 3ms (nicht *قُوِلَ)?"
+            "prompt": "قَالَ ist ein hohles Verb (ق-و-ل). Wie lautet das Passiv Perfekt 3ms (nicht *قُوِلَ)?",
+            "verifyUrl": "https://corpus.quran.com/qurandictionary.jsp?q=qwl"
           },
           {
             "type": "identification",

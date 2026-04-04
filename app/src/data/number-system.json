@@ -34,52 +34,62 @@
               {
                 "arabic": "وَاحِد / وَاحِدَة",
                 "transliteration": "waahid / waahidah",
-                "meaning": "1 (m/f) — kongruiert normal"
+                "meaning": "1 (m/f) — kongruiert normal",
+                "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n148"
               },
               {
                 "arabic": "اثْنَانِ / اثْنَتَانِ",
                 "transliteration": "ithnaani / ithnataan",
-                "meaning": "2 (m/f) — kongruiert normal, Dual"
+                "meaning": "2 (m/f) — kongruiert normal, Dual",
+                "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n148"
               },
               {
                 "arabic": "ثَلَاثَة / ثَلَاث",
                 "transliteration": "thalaathah / thalaath",
-                "meaning": "3 — MIT Ta Marbuta für maskulin, OHNE für feminin"
+                "meaning": "3 — MIT Ta Marbuta für maskulin, OHNE für feminin",
+                "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n148"
               },
               {
                 "arabic": "أَرْبَعَة / أَرْبَع",
                 "transliteration": "arba'ah / arba'",
-                "meaning": "4"
+                "meaning": "4",
+                "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n148"
               },
               {
                 "arabic": "خَمْسَة / خَمْس",
                 "transliteration": "khamsah / khams",
-                "meaning": "5"
+                "meaning": "5",
+                "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n148"
               },
               {
                 "arabic": "سِتَّة / سِتّ",
                 "transliteration": "sittah / sitt",
-                "meaning": "6"
+                "meaning": "6",
+                "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n148"
               },
               {
                 "arabic": "سَبْعَة / سَبْع",
                 "transliteration": "sab'ah / sab'",
-                "meaning": "7"
+                "meaning": "7",
+                "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n148"
               },
               {
                 "arabic": "ثَمَانِيَة / ثَمَانِ",
                 "transliteration": "thamaaniyah / thamaani",
-                "meaning": "8"
+                "meaning": "8",
+                "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n148"
               },
               {
                 "arabic": "تِسْعَة / تِسْع",
                 "transliteration": "tis'ah / tis'",
-                "meaning": "9"
+                "meaning": "9",
+                "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n148"
               },
               {
                 "arabic": "عَشَرَة / عَشْر",
                 "transliteration": "'asharah / 'ashr",
-                "meaning": "10"
+                "meaning": "10",
+                "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n148"
               }
             ]
           },
@@ -199,7 +209,8 @@
             "Singular Genitiv"
           ],
           "correct": 2,
-          "explanation": "Bei 3–10: Tamyiz = Plural Genitiv (جمع مجرور)."
+          "explanation": "Bei 3–10: Tamyiz = Plural Genitiv (جمع مجرور).",
+          "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n148"
         }
       ],
       "testContent": {
@@ -212,7 +223,8 @@
               "خَمْسَة رَجُلًا",
               "خَمْس رَجُلٍ"
             ],
-            "correct": 0
+            "correct": 0,
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n148"
           },
           {
             "question": "Was ist die korrekte Form für 'vier Frauen' (امرأة ist feminin)?",
@@ -222,7 +234,8 @@
               "أَرْبَعَة نِسْوَةٍ",
               "أَرْبَع نِسْوَةٍ"
             ],
-            "correct": 3
+            "correct": 3,
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n148"
           },
           {
             "question": "In 9:36: اثْنَا عَشَرَ شَهْرًا — warum steht شهرا im Singular Akkusativ?",
@@ -247,7 +260,8 @@
             "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=18&verse=25"
           }
         ]
-      }
+      },
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=196"
     },
     {
       "id": "N2",
@@ -331,7 +345,8 @@
             "Plural Akkusativ"
           ],
           "correct": 1,
-          "explanation": "Bei 11–99: Tamyiz = Singular Akkusativ (مفرد منصوب)."
+          "explanation": "Bei 11–99: Tamyiz = Singular Akkusativ (مفرد منصوب).",
+          "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n148"
         },
         {
           "type": "multiple_choice",
@@ -343,7 +358,8 @@
             "Plural Akkusativ"
           ],
           "correct": 2,
-          "explanation": "Nach 100 und 1000: Tamyiz = Singular Genitiv (Idafa)."
+          "explanation": "Nach 100 und 1000: Tamyiz = Singular Genitiv (Idafa).",
+          "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n148"
         }
       ],
       "testContent": {
@@ -367,7 +383,8 @@
               "عِشْرِينَ لَيْلَةً",
               "عِشْرَة لَيَالٍ"
             ],
-            "correct": 0
+            "correct": 0,
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n148"
           },
           {
             "question": "In 29:14: أَلْفَ سَنَةٍ — warum Singular Genitiv?",
@@ -381,7 +398,8 @@
             "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=29&verse=14"
           }
         ]
-      }
+      },
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=12&verse=4"
     },
     {
       "id": "N3",
@@ -425,7 +443,8 @@
             "Es gibt keine Regel"
           ],
           "correct": 1,
-          "explanation": "Ordinalzahlen kongruieren normal: رَابِع für maskulin, رَابِعَة für feminin."
+          "explanation": "Ordinalzahlen kongruieren normal: رَابِع für maskulin, رَابِعَة für feminin.",
+          "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n148"
         }
       ],
       "testContent": {
@@ -449,10 +468,12 @@
               "Ordinalzahlen zeigen umgekehrtes Geschlecht",
               "Beide zeigen umgekehrtes Geschlecht"
             ],
-            "correct": 1
+            "correct": 1,
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n148"
           }
         ]
-      }
+      },
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=18&verse=22"
     },
     {
       "id": "N4",
@@ -496,7 +517,8 @@
             "Halb, Drittel, Viertel"
           ],
           "correct": 1,
-          "explanation": "Distributivzahlen drücken Verteilung aus: مَثْنَىٰ (je zwei), ثُلَاثَ (je drei), رُبَاعَ (je vier)."
+          "explanation": "Distributivzahlen drücken Verteilung aus: مَثْنَىٰ (je zwei), ثُلَاثَ (je drei), رُبَاعَ (je vier).",
+          "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n148"
         },
         {
           "type": "multiple_choice",
@@ -508,7 +530,8 @@
             "Weil sie Eigennamen sind"
           ],
           "correct": 1,
-          "explanation": "Diese Formen folgen besonderen Wortmustern (مَفْعَل / فُعَال) und sind daher diptotisch — kein Tanwin, im Genitiv Fatha statt Kasra."
+          "explanation": "Diese Formen folgen besonderen Wortmustern (مَفْعَل / فُعَال) und sind daher diptotisch — kein Tanwin, im Genitiv Fatha statt Kasra.",
+          "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n148"
         },
         {
           "type": "multiple_choice",
@@ -534,7 +557,8 @@
               "فُعُل",
               "فَعِيل"
             ],
-            "correct": 1
+            "correct": 1,
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n148"
           },
           {
             "question": "Welche Kasusendung nehmen Distributivzahlen im Genitiv an?",
@@ -544,7 +568,8 @@
               "Damma wie im Nominativ",
               "Sukun weil sie indeklinabel sind"
             ],
-            "correct": 1
+            "correct": 1,
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n148"
           },
           {
             "question": "Was unterscheidet ثَلَاثَة (Kardinalzahl) von ثُلَاثَ (Distributivzahl) semantisch?",
@@ -554,7 +579,8 @@
               "ثَلَاثَة ist maskulin, ثُلَاثَ ist feminin",
               "ثَلَاثَة ist bestimmt, ثُلَاثَ ist unbestimmt"
             ],
-            "correct": 1
+            "correct": 1,
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n148"
           }
         ]
       },
@@ -578,37 +604,44 @@
               {
                 "arabic": "نِصْف",
                 "transliteration": "nisf",
-                "meaning": "Hälfte (1/2) — Muster فِعْل. Plural: أَنْصَاف"
+                "meaning": "Hälfte (1/2) — Muster فِعْل. Plural: أَنْصَاف",
+                "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n148"
               },
               {
                 "arabic": "ثُلُث",
                 "transliteration": "thuluth",
-                "meaning": "Drittel (1/3) — Muster فُعُل. Plural: أَثْلَاث"
+                "meaning": "Drittel (1/3) — Muster فُعُل. Plural: أَثْلَاث",
+                "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n148"
               },
               {
                 "arabic": "رُبُع",
                 "transliteration": "rubu'",
-                "meaning": "Viertel (1/4) — Muster فُعُل. Plural: أَرْبَاع"
+                "meaning": "Viertel (1/4) — Muster فُعُل. Plural: أَرْبَاع",
+                "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n148"
               },
               {
                 "arabic": "خُمُس",
                 "transliteration": "khumus",
-                "meaning": "Fünftel (1/5) — Muster فُعُل. Plural: أَخْمَاس"
+                "meaning": "Fünftel (1/5) — Muster فُعُل. Plural: أَخْمَاس",
+                "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n148"
               },
               {
                 "arabic": "سُدُس",
                 "transliteration": "sudus",
-                "meaning": "Sechstel (1/6) — Muster فُعُل. Plural: أَسْدَاس"
+                "meaning": "Sechstel (1/6) — Muster فُعُل. Plural: أَسْدَاس",
+                "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n148"
               },
               {
                 "arabic": "ثُمُن",
                 "transliteration": "thumun",
-                "meaning": "Achtel (1/8) — Muster فُعُل. Plural: أَثْمَان"
+                "meaning": "Achtel (1/8) — Muster فُعُل. Plural: أَثْمَان",
+                "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n148"
               },
               {
                 "arabic": "عُشْر",
                 "transliteration": "'ushr",
-                "meaning": "Zehntel (1/10) — Muster فُعْل. Plural: أَعْشَار. Nicht im Quran als Bruchzahl belegt, aber das Ordinalzahlmuster عِشْرُونَ (zwanzig) zeigt dieselbe Wurzel ع-ش-ر."
+                "meaning": "Zehntel (1/10) — Muster فُعْل. Plural: أَعْشَار. Nicht im Quran als Bruchzahl belegt, aber das Ordinalzahlmuster عِشْرُونَ (zwanzig) zeigt dieselbe Wurzel ع-ش-ر.",
+                "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n148"
               }
             ]
           },
@@ -678,7 +711,8 @@
             "مَفْعَل"
           ],
           "correct": 1,
-          "explanation": "Die Bruchzahlen von 1/3 bis 1/9 folgen dem Muster فُعُل (fu'ul) mit Damma auf dem ersten und zweiten Radikal."
+          "explanation": "Die Bruchzahlen von 1/3 bis 1/9 folgen dem Muster فُعُل (fu'ul) mit Damma auf dem ersten und zweiten Radikal.",
+          "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n148"
         },
         {
           "type": "multiple_choice",
@@ -716,7 +750,8 @@
             "Als Sifa: اللَّيْلُ النِّصْفُ"
           ],
           "correct": 1,
-          "explanation": "Bruchzahlen bilden eine Idafa-Konstruktion mit dem Bezugsnomen: نِصْفُ اللَّيْلِ (die Hälfte der Nacht)."
+          "explanation": "Bruchzahlen bilden eine Idafa-Konstruktion mit dem Bezugsnomen: نِصْفُ اللَّيْلِ (die Hälfte der Nacht).",
+          "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n148"
         }
       ],
       "testContent": {
@@ -729,7 +764,8 @@
               "رُبُع",
               "خُمُس"
             ],
-            "correct": 1
+            "correct": 1,
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n148"
           },
           {
             "question": "In 4:12 steht الرُّبُعُ und الثُّمُنُ. In welchem Kasus stehen beide?",
@@ -761,10 +797,12 @@
               "ثَلَاثَات",
               "ثَوَالِث"
             ],
-            "correct": 1
+            "correct": 1,
+            "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n148"
           }
         ]
-      }
+      },
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=73&verse=20"
     }
   ],
   "summaryTable": {

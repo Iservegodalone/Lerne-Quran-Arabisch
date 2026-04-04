@@ -161,7 +161,8 @@
             "Zeitbestimmend"
           ],
           "answer": "Artbestimmend (bayān an-nawʿ)",
-          "explanation": "Das Masdar قَبُولًا wird durch das Adjektiv حَسَنًا näher bestimmt. Es beschreibt die ART der Handlung: ein 'schönes' Annehmen. Das macht es zu einem artbestimmenden absoluten Akkusativ."
+          "explanation": "Das Masdar قَبُولًا wird durch das Adjektiv حَسَنًا näher bestimmt. Es beschreibt die ART der Handlung: ein 'schönes' Annehmen. Das macht es zu einem artbestimmenden absoluten Akkusativ.",
+          "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n260"
         },
         {
           "type": "fill_in",
@@ -170,7 +171,8 @@
             "Masdar",
             "Wurzel"
           ],
-          "explanation": "Das Masdar (Verbal-Nomen) muss von derselben Wurzel (oder einer bedeutungsverwandten Wurzel) wie das Verb im Satz stammen. Das unterscheidet den absoluten Akkusativ von anderen Akkusativ-Ergänzungen."
+          "explanation": "Das Masdar (Verbal-Nomen) muss von derselben Wurzel (oder einer bedeutungsverwandten Wurzel) wie das Verb im Satz stammen. Das unterscheidet den absoluten Akkusativ von anderen Akkusativ-Ergänzungen.",
+          "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n260"
         },
         {
           "type": "sentence_analysis",
@@ -189,7 +191,8 @@
             "Es ist eine Iḍāfa-Konstruktion"
           ],
           "answer": "Es ist ein Masdar im absoluten Akkusativ mit exklamatorischer Funktion (Verb-Ersatz)",
-          "explanation": "سُبْحَانَ ist ein Masdar im absoluten Akkusativ mit exklamatorischer Funktion (Verb-Ersatz). Es ist kein Verb noetig — der Masdar selbst hat Verb-Ersatz-Funktion."
+          "explanation": "سُبْحَانَ ist ein Masdar im absoluten Akkusativ mit exklamatorischer Funktion (Verb-Ersatz). Es ist kein Verb noetig — der Masdar selbst hat Verb-Ersatz-Funktion.",
+          "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n260"
         }
       ]
     },
@@ -350,13 +353,15 @@
             "Es muss den Grund angeben"
           ],
           "answer": "Es muss von derselben Wurzel wie das Verb stammen",
-          "explanation": "Dass das Masdar von derselben Wurzel stammt, ist ein Merkmal des ABSOLUTEN Akkusativs, nicht des Akkusativs des Grundes. Beim Akkusativ des Grundes stammt das Masdar typischerweise von einer anderen Wurzel als das Verb."
+          "explanation": "Dass das Masdar von derselben Wurzel stammt, ist ein Merkmal des ABSOLUTEN Akkusativs, nicht des Akkusativs des Grundes. Beim Akkusativ des Grundes stammt das Masdar typischerweise von einer anderen Wurzel als das Verb.",
+          "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n260"
         },
         {
           "type": "case_determination",
           "prompt": "In welchem Kasus steht خَشْيَةَ in خَشْيَةَ إِمْلَاقٍ und warum hat es kein Tanwīn?",
           "answer": "Akkusativ (Fatḥa). Es hat kein Tanwīn, weil es der erste Teil einer Iḍāfa-Verbindung (Muḍāf) ist, und das Muḍāf niemals Tanwīn trägt.",
-          "explanation": "Das Masdar خَشْيَة steht im Akkusativ als Akkusativ des Grundes. Die Fatḥa auf dem Tāʾ Marbūṭa zeigt den Akkusativ. Das fehlende Tanwīn erklärt sich durch die Iḍāfa mit إِمْلَاقٍ."
+          "explanation": "Das Masdar خَشْيَة steht im Akkusativ als Akkusativ des Grundes. Die Fatḥa auf dem Tāʾ Marbūṭa zeigt den Akkusativ. Das fehlende Tanwīn erklärt sich durch die Iḍāfa mit إِمْلَاقٍ.",
+          "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n260"
         },
         {
           "type": "multiple_choice",
@@ -368,7 +373,8 @@
             "Es gibt keinen Unterschied"
           ],
           "answer": "Der Akkusativ des Grundes gibt den Grund an, der absolute Akkusativ verstärkt die Handlung",
-          "explanation": "Beide sind Masdar-Formen im Akkusativ, aber ihre Funktion unterscheidet sich: ضَرَبَهُ ضَرْبًا (absoluter Akkusativ: verstärkt das Schlagen) vs. ضَرَبَهُ تَأْدِيبًا (Akkusativ des Grundes: gibt den Grund 'Erziehung' an)."
+          "explanation": "Beide sind Masdar-Formen im Akkusativ, aber ihre Funktion unterscheidet sich: ضَرَبَهُ ضَرْبًا (absoluter Akkusativ: verstärkt das Schlagen) vs. ضَرَبَهُ تَأْدِيبًا (Akkusativ des Grundes: gibt den Grund 'Erziehung' an).",
+          "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n260"
         }
       ]
     },
@@ -537,7 +543,8 @@
             "Sie steht immer nach einer Konjunktion"
           ],
           "answer": "Sie übernimmt den Kasus des Bezugsworts und kann es ersetzen",
-          "explanation": "Das Kernmerkmal der Apposition ist die Kasusübernahme. Wenn man das Bezugswort entfernt, funktioniert der Satz mit der Apposition allein weiterhin grammatisch. Anders als ein Adjektiv muss die Apposition nicht in Genus, Numerus und Definitheit übereinstimmen."
+          "explanation": "Das Kernmerkmal der Apposition ist die Kasusübernahme. Wenn man das Bezugswort entfernt, funktioniert der Satz mit der Apposition allein weiterhin grammatisch. Anders als ein Adjektiv muss die Apposition nicht in Genus, Numerus und Definitheit übereinstimmen.",
+          "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n242"
         },
         {
           "type": "multiple_choice",
@@ -549,7 +556,8 @@
             "Es gibt keinen Unterschied"
           ],
           "answer": "Die Apposition muss nur im Kasus übereinstimmen, das Adjektiv in vier Kategorien",
-          "explanation": "Ein Adjektiv muss in Definitheit, Genus, Numerus UND Kasus mit dem Nomen übereinstimmen. Bei der Apposition muss nur der Kasus gleich sein. Außerdem kann die Apposition das Bezugswort ersetzen — ein Adjektiv kann das nicht."
+          "explanation": "Ein Adjektiv muss in Definitheit, Genus, Numerus UND Kasus mit dem Nomen übereinstimmen. Bei der Apposition muss nur der Kasus gleich sein. Außerdem kann die Apposition das Bezugswort ersetzen — ein Adjektiv kann das nicht.",
+          "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n242"
         },
         {
           "type": "sentence_analysis",
@@ -704,7 +712,8 @@
             "Weil es ein Eigenname ist"
           ],
           "answer": "Weil es der Kasus nach Satzfunktion in einem verneinten, unvollständigen Satz ist",
-          "explanation": "Die Struktur لَا + Ism + إِلَّا ist syntaktisch vollstaendig als Genus-Negation mit Ausnahme. اللَّهُ steht im Nominativ als Badal (Apposition) zum Ism von لَا oder weil es in einem verneinten Satz dem Kasus nach Satzfunktion folgt. Ein explizites Khabar ist syntaktisch nicht zwingend erforderlich."
+          "explanation": "Die Struktur لَا + Ism + إِلَّا ist syntaktisch vollstaendig als Genus-Negation mit Ausnahme. اللَّهُ steht im Nominativ als Badal (Apposition) zum Ism von لَا oder weil es in einem verneinten Satz dem Kasus nach Satzfunktion folgt. Ein explizites Khabar ist syntaktisch nicht zwingend erforderlich.",
+          "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n242"
         },
         {
           "type": "case_determination",
@@ -723,7 +732,8 @@
             "Mubtadaʾ, Ḫabar, Ḥāl"
           ],
           "answer": "Bezugswort, Ausnahmepartikel, Ausgenommenes",
-          "explanation": "Die drei Bestandteile sind: المستثنى منه (Bezugswort), أداة الاستثناء (Ausnahmepartikel wie إِلَّا) und المستثنى (das Ausgenommene). Der Kasus des Ausgenommenen hängt davon ab, ob der Satz bejaht/verneint und vollständig/unvollständig ist."
+          "explanation": "Die drei Bestandteile sind: المستثنى منه (Bezugswort), أداة الاستثناء (Ausnahmepartikel wie إِلَّا) und المستثنى (das Ausgenommene). Der Kasus des Ausgenommenen hängt davon ab, ob der Satz bejaht/verneint und vollständig/unvollständig ist.",
+          "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n242"
         },
         {
           "type": "fill_in",
@@ -731,7 +741,8 @@
           "answer": [
             "Akkusativ"
           ],
-          "explanation": "Bei bejahten, vollständigen Sätzen ist der Akkusativ für das Ausgenommene obligatorisch: جَاءَ الْقَوْمُ إِلَّا زَيْدًا. Nur bei verneinten Sätzen gibt es eine Wahlmöglichkeit."
+          "explanation": "Bei bejahten, vollständigen Sätzen ist der Akkusativ für das Ausgenommene obligatorisch: جَاءَ الْقَوْمُ إِلَّا زَيْدًا. Nur bei verneinten Sätzen gibt es eine Wahlmöglichkeit.",
+          "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n242"
         },
         {
           "type": "sentence_analysis",
@@ -750,7 +761,8 @@
             "إِلَّا steht nur am Satzanfang"
           ],
           "answer": "إِلَّا ist eine Partikel, غَيْرُ funktioniert wie ein Nomen (mit Kasusflexion und Iḍāfa)",
-          "explanation": "إِلَّا ist eine unveränderliche Partikel. غَيْرُ dagegen flektiert wie ein Nomen (غَيْرُ/غَيْرَ/غَيْرِ) und bildet eine Iḍāfa mit dem folgenden Nomen: غَيْرُ اللَّهِ (außer Gott)."
+          "explanation": "إِلَّا ist eine unveränderliche Partikel. غَيْرُ dagegen flektiert wie ein Nomen (غَيْرُ/غَيْرَ/غَيْرِ) und bildet eine Iḍāfa mit dem folgenden Nomen: غَيْرُ اللَّهِ (außer Gott).",
+          "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n242"
         }
       ]
     },
@@ -911,13 +923,15 @@
             "Weil يَا nur mit Eigennamen verwendet wird"
           ],
           "answer": "Weil يَا nicht direkt mit dem bestimmten Artikel الـ kombiniert werden kann",
-          "explanation": "Die Vokativpartikel يَا kann nicht direkt vor einem Nomen mit Artikel stehen. Stattdessen wird أَيُّهَا / أَيَّتُهَا als Vermittler eingesetzt: يَا أَيُّهَا النَّاسُ. Diese Regel ist fundamental für das Verständnis der Quran-Sprache."
+          "explanation": "Die Vokativpartikel يَا kann nicht direkt vor einem Nomen mit Artikel stehen. Stattdessen wird أَيُّهَا / أَيَّتُهَا als Vermittler eingesetzt: يَا أَيُّهَا النَّاسُ. Diese Regel ist fundamental für das Verständnis der Quran-Sprache.",
+          "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n242"
         },
         {
           "type": "case_determination",
           "prompt": "In welchem Kasus steht آدَمُ in يَا آدَمُ und warum?",
           "answer": "آدَمُ ist 'auf Ḍamma gebaut' (مَبْنِيّ عَلَى الضَّمِّ). Als Eigenname im Vokativ wird es nicht dekliniert, sondern auf Ḍamma fixiert — ohne Tanwīn.",
-          "explanation": "Einzelne Eigennamen im Vokativ sind مَبْنِيّ عَلَى الضَّمِّ (auf Ḍamma gebaut). Sie sehen aus wie Nominativ, sind es aber technisch nicht — sie sind indeklinabel an der Stelle des Akkusativs."
+          "explanation": "Einzelne Eigennamen im Vokativ sind مَبْنِيّ عَلَى الضَّمِّ (auf Ḍamma gebaut). Sie sehen aus wie Nominativ, sind es aber technisch nicht — sie sind indeklinabel an der Stelle des Akkusativs.",
+          "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n242"
         },
         {
           "type": "identification",
@@ -936,7 +950,8 @@
             "Es bedeutet 'wahrlich Gott' und مَّ ist eine Bekräftigung"
           ],
           "answer": "Es bedeutet 'O Gott!' und مَّ ersetzt die Vokativpartikel يَا",
-          "explanation": "اللَّهُمَّ ist eine einzigartige Vokativform, die nur beim Wort اللَّه vorkommt. Das angehängte مَّ ersetzt يَا. Man sagt اللَّهُمَّ statt يَا اللَّهُ (was grammatisch nicht möglich wäre wegen des Artikels)."
+          "explanation": "اللَّهُمَّ ist eine einzigartige Vokativform, die nur beim Wort اللَّه vorkommt. Das angehängte مَّ ersetzt يَا. Man sagt اللَّهُمَّ statt يَا اللَّهُ (was grammatisch nicht möglich wäre wegen des Artikels).",
+          "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n242"
         },
         {
           "type": "multiple_choice",
@@ -948,7 +963,8 @@
             "Beide stehen im Akkusativ"
           ],
           "answer": "نُوحُ ist auf Ḍamma gebaut (Eigenname), عَبْدَ steht im Akkusativ (Iḍāfa)",
-          "explanation": "Ein Eigenname als Einzelwort im Vokativ wird auf Ḍamma gebaut (ohne Tanwīn). Eine Iḍāfa-Verbindung im Vokativ dagegen steht im regulären Akkusativ: عَبْدَ mit Fatḥa."
+          "explanation": "Ein Eigenname als Einzelwort im Vokativ wird auf Ḍamma gebaut (ohne Tanwīn). Eine Iḍāfa-Verbindung im Vokativ dagegen steht im regulären Akkusativ: عَبْدَ mit Fatḥa.",
+          "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n242"
         },
         {
           "type": "sentence_analysis",
@@ -1195,7 +1211,8 @@
             "Es hat keinen Kasus"
           ],
           "answer": "Akkusativ",
-          "explanation": "لَيْسَ funktioniert wie كَانَ: Das Subjekt (اسم) steht im Nominativ, das Prädikat (خبر) im Akkusativ. In لَيْسَ كَمِثْلِهِ شَيْءٌ ist die Präpositionalphrase كَمِثْلِهِ an der Stelle des Akkusativs."
+          "explanation": "لَيْسَ funktioniert wie كَانَ: Das Subjekt (اسم) steht im Nominativ, das Prädikat (خبر) im Akkusativ. In لَيْسَ كَمِثْلِهِ شَيْءٌ ist die Präpositionalphrase كَمِثْلِهِ an der Stelle des Akkusativs.",
+          "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n242"
         },
         {
           "type": "identification",
@@ -1214,7 +1231,8 @@
             "لَا wird nur in Fragen verwendet"
           ],
           "answer": "لَا رَيْبَ verneint die gesamte Gattung (absolut), مَا فِيهِ رَيْبٌ ist eine einfache Verneinung",
-          "explanation": "Die Gattungsverneinung mit لَا ist die stärkste Form der Verneinung: Sie verneint JEDE Art von Zweifel. Die einfache Verneinung mit مَا verneint nur einen bestimmten Zweifel. Der Quran wählt bewusst die stärkere Form."
+          "explanation": "Die Gattungsverneinung mit لَا ist die stärkste Form der Verneinung: Sie verneint JEDE Art von Zweifel. Die einfache Verneinung mit مَا verneint nur einen bestimmten Zweifel. Der Quran wählt bewusst die stärkere Form.",
+          "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n242"
         },
         {
           "type": "case_determination",
@@ -1397,7 +1415,8 @@
             "Zukunft"
           ],
           "answer": "Bekräftigung (die Handlung hat gewiss stattgefunden)",
-          "explanation": "قَدْ + Perfekt = Bekräftigung/Bestätigung: 'wahrhaftig', 'gewiss'. قَدْ أَفْلَحَ = 'wahrhaftig war erfolgreich'. Nur vor dem Imperfekt bedeutet قَدْ 'manchmal/möglicherweise'."
+          "explanation": "قَدْ + Perfekt = Bekräftigung/Bestätigung: 'wahrhaftig', 'gewiss'. قَدْ أَفْلَحَ = 'wahrhaftig war erfolgreich'. Nur vor dem Imperfekt bedeutet قَدْ 'manchmal/möglicherweise'.",
+          "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n242"
         },
         {
           "type": "multiple_choice",
@@ -1409,7 +1428,8 @@
             "Es hat keinen grammatischen Effekt"
           ],
           "answer": "Das Subjekt wird Akkusativ, das Prädikat bleibt Nominativ",
-          "explanation": "إِنَّ setzt das Nomen (اسم إِنَّ) in den Akkusativ und lässt das Prädikat (خبر إِنَّ) im Nominativ: إِنَّ اللَّهَ (Akk.) غَفُورٌ (Nom.) — 'Wahrlich, Gott ist vergebend.'"
+          "explanation": "إِنَّ setzt das Nomen (اسم إِنَّ) in den Akkusativ und lässt das Prädikat (خبر إِنَّ) im Nominativ: إِنَّ اللَّهَ (Akk.) غَفُورٌ (Nom.) — 'Wahrlich, Gott ist vergebend.'",
+          "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n242"
         },
         {
           "type": "identification",
@@ -1428,13 +1448,15 @@
             "Die schwere Nūn wird nur in Fragen verwendet"
           ],
           "answer": "Die schwere Nūn hat Šadda und ist stärker in der Bekräftigung",
-          "explanation": "Die schwere Nūn (ـَنَّ mit Šadda) ist die häufigere und stärkere Form. Die leichte Nūn (ـَنْ ohne Šadda) ist seltener und etwas schwächer in der Bekräftigung. Beide werden an das Imperfekt-Verb angehängt."
+          "explanation": "Die schwere Nūn (ـَنَّ mit Šadda) ist die häufigere und stärkere Form. Die leichte Nūn (ـَنْ ohne Šadda) ist seltener und etwas schwächer in der Bekräftigung. Beide werden an das Imperfekt-Verb angehängt.",
+          "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n242"
         },
         {
           "type": "case_determination",
           "prompt": "Bestimme den Kasus von اللَّهَ in إِنَّ اللَّهَ غَفُورٌ und erkläre warum.",
           "answer": "اللَّهَ steht im Akkusativ (Fatḥa). Es ist اسم إِنَّ — das Nomen von إِنَّ wird in den Akkusativ gesetzt.",
-          "explanation": "إِنَّ regiert das folgende Nomen in den Akkusativ. اللَّهَ mit Fatḥa ist اسم إِنَّ. Das Prädikat غَفُورٌ bleibt im Nominativ als خبر إِنَّ."
+          "explanation": "إِنَّ regiert das folgende Nomen in den Akkusativ. اللَّهَ mit Fatḥa ist اسم إِنَّ. Das Prädikat غَفُورٌ bleibt im Nominativ als خبر إِنَّ.",
+          "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n242"
         },
         {
           "type": "sentence_analysis",
@@ -1606,7 +1628,8 @@
             "Das zweite ist im Genitiv"
           ],
           "answer": "Das erste ist attributiv (Phrase), das zweite prädikativ (Satz)",
-          "explanation": "الْكِتَابُ الْكَرِيمُ — beide definit = attributiv (das edle Buch, eine Phrase). الْكِتَابُ كَرِيمٌ — definit + indefinit = prädikativ (das Buch IST edel, ein Satz). Die Definitheitsübereinstimmung ist der Schlüssel."
+          "explanation": "الْكِتَابُ الْكَرِيمُ — beide definit = attributiv (das edle Buch, eine Phrase). الْكِتَابُ كَرِيمٌ — definit + indefinit = prädikativ (das Buch IST edel, ein Satz). Die Definitheitsübereinstimmung ist der Schlüssel.",
+          "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n242"
         },
         {
           "type": "fill_in",
@@ -1617,7 +1640,8 @@
             "Numerus",
             "Kasus"
           ],
-          "explanation": "Die vierfache Kongruenz (Definitheit, Genus, Numerus, Kasus) ist die Grundregel des arabischen Adjektivs. Bei prädikativem Gebrauch fehlt die Definitheitskongruenz."
+          "explanation": "Die vierfache Kongruenz (Definitheit, Genus, Numerus, Kasus) ist die Grundregel des arabischen Adjektivs. Bei prädikativem Gebrauch fehlt die Definitheitskongruenz.",
+          "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n242"
         },
         {
           "type": "multiple_choice",
@@ -1629,13 +1653,15 @@
             "كَبِيرَاتٌ (femininer Plural)"
           ],
           "answer": "كَبِيرَةٌ (femininer Singular)",
-          "explanation": "Gebrochene Plurale von Nicht-Personen (wie كُتُب = Bücher) nehmen ein Adjektiv im FEMININEN SINGULAR: كُتُبٌ كَبِيرَةٌ (große Bücher). Dies ist eine der wichtigsten Sonderregeln der arabischen Grammatik."
+          "explanation": "Gebrochene Plurale von Nicht-Personen (wie كُتُب = Bücher) nehmen ein Adjektiv im FEMININEN SINGULAR: كُتُبٌ كَبِيرَةٌ (große Bücher). Dies ist eine der wichtigsten Sonderregeln der arabischen Grammatik.",
+          "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n242"
         },
         {
           "type": "case_determination",
           "prompt": "Bestimme den Kasus und die Kongruenz von كَرِيمٍ in كِتَابٍ كَرِيمٍ.",
           "answer": "كَرِيمٍ steht im Genitiv (Kasra + Tanwīn), weil es als Adjektiv den Kasus seines Nomens كِتَابٍ übernimmt. Kongruenz: indefinit (Tanwīn), maskulin, Singular, Genitiv — stimmt in allen vier Kategorien mit كِتَابٍ überein.",
-          "explanation": "Das Adjektiv folgt seinem Nomen in allen vier Kategorien. كِتَابٍ steht im Genitiv (z.B. nach einer Präposition), also muss كَرِيمٍ ebenfalls im Genitiv stehen. Beide sind indefinit, maskulin und Singular."
+          "explanation": "Das Adjektiv folgt seinem Nomen in allen vier Kategorien. كِتَابٍ steht im Genitiv (z.B. nach einer Präposition), also muss كَرِيمٍ ebenfalls im Genitiv stehen. Beide sind indefinit, maskulin und Singular.",
+          "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n242"
         },
         {
           "type": "multiple_choice",
@@ -1647,7 +1673,8 @@
             "الرَّجُلَ الْكَبِيرَ"
           ],
           "answer": "الرَّجُلُ كَبِيرٌ",
-          "explanation": "الرَّجُلُ (definit) + كَبِيرٌ (indefinit) = prädikativ = 'Der Mann IST groß' (Nominalsatz). الرَّجُلُ الْكَبِيرُ wäre 'der große Mann' (attributive Phrase, kein Satz)."
+          "explanation": "الرَّجُلُ (definit) + كَبِيرٌ (indefinit) = prädikativ = 'Der Mann IST groß' (Nominalsatz). الرَّجُلُ الْكَبِيرُ wäre 'der große Mann' (attributive Phrase, kein Satz).",
+          "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n242"
         },
         {
           "type": "sentence_analysis",
@@ -1817,7 +1844,8 @@
             "أَعْطَى (geben)"
           ],
           "answer": "ذَهَبَ (gehen)",
-          "explanation": "ذَهَبَ (gehen) ist ein intransitives Verb und nimmt gar kein Objekt. جَعَلَ, حَسِبَ und أَعْطَى gehören alle zu Verben, die zwei Objekte im Akkusativ regieren."
+          "explanation": "ذَهَبَ (gehen) ist ein intransitives Verb und nimmt gar kein Objekt. جَعَلَ, حَسِبَ und أَعْطَى gehören alle zu Verben, die zwei Objekte im Akkusativ regieren.",
+          "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n260"
         },
         {
           "type": "identification",
@@ -1836,7 +1864,8 @@
             "جَعَلَ-Verben stehen nur im Perfekt"
           ],
           "answer": "جَعَلَ-Verben bewirken eine tatsächliche Verwandlung, حَسِبَ-Verben drücken eine Meinung/Überzeugung aus",
-          "explanation": "جَعَلَ اللَّيْلَ لِبَاسًا — die Nacht WURDE tatsächlich zur Hülle (reale Verwandlung). حَسِبَهُمْ أَغْنِيَاءَ — er DACHTE, sie seien reich (subjektive Meinung, keine Verwandlung). Der Unterschied liegt in der Realität vs. Wahrnehmung."
+          "explanation": "جَعَلَ اللَّيْلَ لِبَاسًا — die Nacht WURDE tatsächlich zur Hülle (reale Verwandlung). حَسِبَهُمْ أَغْنِيَاءَ — er DACHTE, sie seien reich (subjektive Meinung, keine Verwandlung). Der Unterschied liegt in der Realität vs. Wahrnehmung.",
+          "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n260"
         },
         {
           "type": "sentence_analysis",
@@ -1864,7 +1893,8 @@
           "answer": [
             "أَنَّ"
           ],
-          "explanation": "Statt حَسِبَهُمْ أَغْنِيَاءَ kann man auch sagen: حَسِبَ أَنَّهُمْ أَغْنِيَاءُ (er dachte, dass sie reich seien). Der أَنَّ-Satz ersetzt die zwei Akkusative. Im Quran kommen beide Konstruktionen vor."
+          "explanation": "Statt حَسِبَهُمْ أَغْنِيَاءَ kann man auch sagen: حَسِبَ أَنَّهُمْ أَغْنِيَاءُ (er dachte, dass sie reich seien). Der أَنَّ-Satz ersetzt die zwei Akkusative. Im Quran kommen beide Konstruktionen vor.",
+          "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n260"
         }
       ]
     },
@@ -2032,7 +2062,8 @@
             "عَسَى steht nur im Perfekt"
           ],
           "answer": "Bei كَادَ steht das Prädikat-Verb ohne أَنْ, bei عَسَى mit أَنْ",
-          "explanation": "يَكَادُ يَخْطَفُ (ohne أَنْ) vs. عَسَى أَنْ يَأْتِيَ (mit أَنْ). Das ist die Grundregel: كَادَ → ohne أَنْ, عَسَى → mit أَنْ + Konjunktiv."
+          "explanation": "يَكَادُ يَخْطَفُ (ohne أَنْ) vs. عَسَى أَنْ يَأْتِيَ (mit أَنْ). Das ist die Grundregel: كَادَ → ohne أَنْ, عَسَى → mit أَنْ + Konjunktiv.",
+          "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n260"
         },
         {
           "type": "identification",
@@ -2051,7 +2082,8 @@
             "Imperativ"
           ],
           "answer": "Subjunktiv nach أَنْ (Mansub)",
-          "explanation": "عَسَى verlangt sein Prädikat-Verb im Subjunktiv, eingeleitet durch أَنْ. Beispiel: عَسَى اللَّهُ أَنْ يَأْتِيَ — يَأْتِيَ steht im Subjunktiv nach أَنْ."
+          "explanation": "عَسَى verlangt sein Prädikat-Verb im Subjunktiv, eingeleitet durch أَنْ. Beispiel: عَسَى اللَّهُ أَنْ يَأْتِيَ — يَأْتِيَ steht im Subjunktiv nach أَنْ.",
+          "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n260"
         },
         {
           "type": "sentence_analysis",
@@ -2070,7 +2102,8 @@
             "Verben des Machens (التَّحْوِيل)"
           ],
           "answer": "Verben des Anfangens (الشُّرُوع)",
-          "explanation": "جَعَلَ يَبْكِي — hier ist جَعَلَ ein Verb des Anfangens (nicht 'machen'!). Es drückt den Beginn der Handlung aus. Das Prädikat-Verb (يَبْكِي) steht ohne أَنْ. Andere Verben des Anfangens: أَخَذَ, شَرَعَ, بَدَأَ."
+          "explanation": "جَعَلَ يَبْكِي — hier ist جَعَلَ ein Verb des Anfangens (nicht 'machen'!). Es drückt den Beginn der Handlung aus. Das Prädikat-Verb (يَبْكِي) steht ohne أَنْ. Andere Verben des Anfangens: أَخَذَ, شَرَعَ, بَدَأَ.",
+          "verifyUrl": "https://archive.org/details/ArabicGrammar.WilliamWright/page/n260"
         }
       ]
     },
