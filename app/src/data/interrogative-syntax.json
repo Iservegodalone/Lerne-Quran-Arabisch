@@ -115,7 +115,8 @@
               "Keine von beiden"
             ],
             "correct": 1,
-            "explanation": "أَ kann vor jedem Satzglied stehen — Nomen, Verben, Partikeln. هَلْ steht nur vor Verben."
+            "explanation": "أَ kann vor jedem Satzglied stehen — Nomen, Verben, Partikeln. هَلْ steht nur vor Verben.",
+            "verifyUrl": "https://archive.org/details/WrightsArabicGrammar/page/n87"
           },
           {
             "question": "Welche Kombination ist syntaktisch unmöglich?",
@@ -126,7 +127,8 @@
               "أَفَعَلَ"
             ],
             "correct": 2,
-            "explanation": "هَلْ kann nicht vor Negationspartikeln stehen. *هَلْ لَمْ ist unmöglich. Die korrekte Form wäre أَلَمْ."
+            "explanation": "هَلْ kann nicht vor Negationspartikeln stehen. *هَلْ لَمْ ist unmöglich. Die korrekte Form wäre أَلَمْ.",
+            "verifyUrl": "https://archive.org/details/WrightsArabicGrammar/page/n87"
           },
           {
             "question": "Was ist die Funktion von أَمْ in أَأَنذَرْتَهُمْ أَمْ لَمْ تُنذِرْهُمْ (2:6)?",
@@ -269,7 +271,8 @@
               "مَنْ steht nur als Subjekt, مَا nur als Objekt"
             ],
             "correct": 1,
-            "explanation": "مَنْ referiert auf Personen (belebte Wesen), مَا auf Sachen, Sachverhalte und Unbelebtes. Beide können Subjekt, Objekt oder Präpositional-Ergänzung sein."
+            "explanation": "مَنْ referiert auf Personen (belebte Wesen), مَا auf Sachen, Sachverhalte und Unbelebtes. Beide können Subjekt, Objekt oder Präpositional-Ergänzung sein.",
+            "verifyUrl": "https://archive.org/details/WrightsArabicGrammar/page/n87"
           }
         ]
       }
@@ -399,7 +402,8 @@
               "كَيْفَ ist multifunktional, أَنَّى nur 'wie'"
             ],
             "correct": 2,
-            "explanation": "أَنَّى kann je nach Kontext 'woher', 'wie' oder 'wo' bedeuten. كَيْفَ bedeutet ausschließlich 'wie' (Art und Weise / Zustand)."
+            "explanation": "أَنَّى kann je nach Kontext 'woher', 'wie' oder 'wo' bedeuten. كَيْفَ bedeutet ausschließlich 'wie' (Art und Weise / Zustand).",
+            "verifyUrl": "https://archive.org/details/WrightsArabicGrammar/page/n87"
           },
           {
             "question": "In مَتَى نَصْرُ اللَّهِ (2:214) — welche syntaktische Rolle hat مَتَى?",
@@ -506,7 +510,8 @@
               "Nur berichtendes كَمْ kommt im Quran vor"
             ],
             "correct": 1,
-            "explanation": "Interrogatives كَمْ nimmt ein Tamyiz im Singular Akkusativ (كَمْ كِتَابًا). Berichtendes كَمْ steht typisch mit مِنْ + Genitiv (كَمْ مِن قَرْيَةٍ) und drückt eine grosse Menge aus."
+            "explanation": "Interrogatives كَمْ nimmt ein Tamyiz im Singular Akkusativ (كَمْ كِتَابًا). Berichtendes كَمْ steht typisch mit مِنْ + Genitiv (كَمْ مِن قَرْيَةٍ) und drückt eine grosse Menge aus.",
+            "verifyUrl": "https://archive.org/details/WrightsArabicGrammar/page/n87"
           },
           {
             "question": "أَيُّ الْفَرِيقَيْنِ (19:73) — welche Konstruktion liegt vor?",
@@ -541,7 +546,8 @@
               "Alle drei sind unveränderlich"
             ],
             "correct": 1,
-            "explanation": "أَيّ zeigt sichtbare Kasusflexion: أَيُّ (Nominativ), أَيَّ (Akkusativ), أَيِّ (Genitiv). مَنْ und مَا haben eine feste Form unabhängig von der syntaktischen Funktion (مبني)."
+            "explanation": "أَيّ zeigt sichtbare Kasusflexion: أَيُّ (Nominativ), أَيَّ (Akkusativ), أَيِّ (Genitiv). مَنْ und مَا haben eine feste Form unabhängig von der syntaktischen Funktion (مبني).",
+            "verifyUrl": "https://archive.org/details/WrightsArabicGrammar/page/n87"
           }
         ]
       }
@@ -615,7 +621,8 @@
         {
           "type": "analysis",
           "prompt": "Erkläre den Mechanismus: Warum ergibt أَ + Negation (أَلَمْ, أَلَيْسَ) eine positive Aussage? Denke an die Logik: Frage ('Ist es nicht X?') → erwartete Antwort ('Doch, es ist X').",
-          "hint": "Die Frage enthält eine Negation. Die erwartete Antwort negiert die Negation → positiv. 'Hast du nicht gesehen?' → 'Doch, ich habe gesehen.' Doppelte Negation = Affirmation."
+          "hint": "Die Frage enthält eine Negation. Die erwartete Antwort negiert die Negation → positiv. 'Hast du nicht gesehen?' → 'Doch, ich habe gesehen.' Doppelte Negation = Affirmation.",
+          "verifyUrl": "https://archive.org/details/WrightsArabicGrammar/page/n87"
         },
         {
           "type": "identification",
@@ -653,7 +660,8 @@
               "لَا + Verb"
             ],
             "correct": 1,
-            "explanation": "أَفَلَا ('denkt ihr denn nicht nach?', 'seht ihr denn nicht?') kombiniert Frage (أَ) + Konsequenz (فَ) + Negation (لَا) und drückt typisch Tadel aus."
+            "explanation": "أَفَلَا ('denkt ihr denn nicht nach?', 'seht ihr denn nicht?') kombiniert Frage (أَ) + Konsequenz (فَ) + Negation (لَا) und drückt typisch Tadel aus.",
+            "verifyUrl": "https://archive.org/details/WrightsArabicGrammar/page/n87"
           },
           {
             "question": "In 10:59 steht آللَّهُ أَذِنَ لَكُمْ أَمْ عَلَى اللَّهِ تَفْتَرُونَ. Welche Antwort wird erwartet?",
@@ -676,7 +684,8 @@
               "Es erzeugt keine Bekräftigung, sondern eine Verneinung"
             ],
             "correct": 1,
-            "explanation": "Die Frage enthält eine Negation. Die erwartete Antwort verneint diese Negation: 'Hast du nicht gesehen?' → 'Doch!' Die doppelte Negation ergibt eine positive Bekräftigung."
+            "explanation": "Die Frage enthält eine Negation. Die erwartete Antwort verneint diese Negation: 'Hast du nicht gesehen?' → 'Doch!' Die doppelte Negation ergibt eine positive Bekräftigung.",
+            "verifyUrl": "https://archive.org/details/WrightsArabicGrammar/page/n87"
           }
         ]
       }

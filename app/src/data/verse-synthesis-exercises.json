@@ -18,7 +18,7 @@
     {
       "ref": "1:1",
       "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ",
-      "words": [
+      "wordAnalysis": [
         {
           "word": "بِسْمِ",
           "analysis": "بِ (Präposition, Genitiv) + اسْم (Nomen, Wurzel س-م-و, Muster اِفْع)",
@@ -41,13 +41,13 @@
         }
       ],
       "structure": "Jarr wa-Majrur (بِسْمِ) + Idafa (اسْمِ ٱللَّهِ) + zwei Sifat",
-      "sampleSynthesis": "Mit/Im Namen Gottes, des intensiv Barmherzigen, des dauerhaft Barmherzigen.",
+      "synthesis": "Mit/Im Namen Gottes, des intensiv Barmherzigen, des dauerhaft Barmherzigen.",
       "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=1"
     },
     {
       "ref": "1:2",
       "arabic": "ٱلْحَمْدُ لِلَّهِ رَبِّ ٱلْعَٰلَمِينَ",
-      "words": [
+      "wordAnalysis": [
         {
           "word": "ٱلْحَمْدُ",
           "analysis": "Mubtada (Nominativ), Wurzel ح-م-د, Masdar, definit",
@@ -70,13 +70,13 @@
         }
       ],
       "structure": "Nominalsatz: Mubtada (ٱلْحَمْدُ) + Khabar (لِلَّهِ) + Apposition (رَبِّ ٱلْعَٰلَمِينَ)",
-      "sampleSynthesis": "Das Lob gehört Gott, dem Herrn der Welten/Geschöpfe.",
+      "synthesis": "Das Lob gehört Gott, dem Herrn der Welten/Geschöpfe.",
       "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=2"
     },
     {
       "ref": "1:3",
       "arabic": "ٱلرَّحْمَٰنِ ٱلرَّحِيمِ",
-      "words": [
+      "wordAnalysis": [
         {
           "word": "ٱلرَّحْمَٰنِ",
           "analysis": "Sifa/Badal zu الله, Genitiv, Wurzel ر-ح-م, Intensivmuster فَعْلَان",
@@ -89,13 +89,13 @@
         }
       ],
       "structure": "Zwei Attribute im Genitiv, kongruent mit dem Bezugswort الله",
-      "sampleSynthesis": "Des intensiv Barmherzigen, des dauerhaft Barmherzigen.",
+      "synthesis": "Des intensiv Barmherzigen, des dauerhaft Barmherzigen.",
       "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=3"
     },
     {
       "ref": "1:4",
       "arabic": "مَٰلِكِ يَوْمِ ٱلدِّينِ",
-      "words": [
+      "wordAnalysis": [
         {
           "word": "مَٰلِكِ",
           "analysis": "Sifa/Badal zu الله, Genitiv, Wurzel م-ل-ك, aktives Partizip فَاعِل",
@@ -113,13 +113,13 @@
         }
       ],
       "structure": "Idafa-Kette: مَٰلِكِ + يَوْمِ + ٱلدِّينِ (drei Glieder, alle Genitiv)",
-      "sampleSynthesis": "Besitzer/König des Tages der Abrechnung. (Konsonantentext lässt beide Lesungen zu: مَالِك oder مَلِك)",
+      "synthesis": "Besitzer/König des Tages der Abrechnung. (Konsonantentext lässt beide Lesungen zu: مَالِك oder مَلِك)",
       "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=4"
     },
     {
       "ref": "1:5",
       "arabic": "إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ",
-      "words": [
+      "wordAnalysis": [
         {
           "word": "إِيَّاكَ",
           "analysis": "Maf'ul bihi (vorangestellt), Akkusativ, Pronomen 2ms",
@@ -142,13 +142,13 @@
         }
       ],
       "structure": "Zwei parallele Verbalsätze mit vorangestelltem Objekt (Taqdim): Objekt + Verb",
-      "sampleSynthesis": "Dich dienen wir und Dich bitten wir um Hilfe.",
+      "synthesis": "Dich dienen wir und Dich bitten wir um Hilfe.",
       "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=5"
     },
     {
       "ref": "1:6",
       "arabic": "ٱهْدِنَا ٱلصِّرَٰطَ ٱلْمُسْتَقِيمَ",
-      "words": [
+      "wordAnalysis": [
         {
           "word": "ٱهْدِنَا",
           "analysis": "Imperativ 2ms + Objektsuffix نَا (uns), Wurzel ه-د-ي",
@@ -166,13 +166,13 @@
         }
       ],
       "structure": "Imperativ + direktes Objekt + Attribut",
-      "sampleSynthesis": "Leite uns den geraden Weg.",
+      "synthesis": "Leite uns den geraden Weg.",
       "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=6"
     },
     {
       "ref": "1:7",
       "arabic": "صِرَٰطَ ٱلَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ ٱلْمَغْضُوبِ عَلَيْهِمْ وَلَا ٱلضَّآلِّينَ",
-      "words": [
+      "wordAnalysis": [
         {
           "word": "صِرَٰطَ",
           "analysis": "Badal zu ٱلصِّرَٰطَ, Akkusativ",
@@ -215,13 +215,13 @@
         }
       ],
       "structure": "Badal + Relativsatz + Ausnahme/Näherbestimmung",
-      "sampleSynthesis": "Den Weg derer, denen du Gunst erwiesen hast, nicht derer über die gezürnt wurde, und nicht der Abirrenden.",
+      "synthesis": "Den Weg derer, denen du Gunst erwiesen hast, nicht derer über die gezürnt wurde, und nicht der Abirrenden.",
       "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=7"
     },
     {
       "ref": "112:1-4",
       "arabic": "قُلْ هُوَ ٱللَّهُ أَحَدٌ ٱللَّهُ ٱلصَّمَدُ لَمْ يَلِدْ وَلَمْ يُولَدْ وَلَمْ يَكُن لَّهُ كُفُوًا أَحَدٌ",
-      "words": [
+      "wordAnalysis": [
         {
           "word": "قُلْ",
           "analysis": "Imperativ 2ms, Wurzel ق-و-ل (hohl)",
@@ -269,13 +269,13 @@
         }
       ],
       "structure": "Imperativ + Nominalsatz + Nominalsatz + 2x negierter Verbalsatz + negierter Kana-Satz",
-      "sampleSynthesis": "Sprich: Er ist Gott, Einer. Gott, der Beständige. Er zeugte nicht und wurde nicht gezeugt. Und keiner ist ihm ebenbuertig.",
+      "synthesis": "Sprich: Er ist Gott, Einer. Gott, der Beständige. Er zeugte nicht und wurde nicht gezeugt. Und keiner ist ihm ebenbuertig.",
       "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=112&verse=1"
     },
     {
       "ref": "113:1-5",
       "arabic": "قُلْ أَعُوذُ بِرَبِّ ٱلْفَلَقِ مِن شَرِّ مَا خَلَقَ وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ وَمِن شَرِّ ٱلنَّفَّٰثَٰتِ فِى ٱلْعُقَدِ وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ",
-      "words": [
+      "wordAnalysis": [
         {
           "word": "أَعُوذُ",
           "analysis": "Imperfekt 1s, Wurzel ع-و-ذ, Indikativ",
@@ -308,13 +308,13 @@
         }
       ],
       "structure": "Imperativ + Verbalsatz (Imperfekt 1s) + 4x parallele Jarr wa-Majrur mit مِن شَرِّ",
-      "sampleSynthesis": "Sprich: Ich suche Zuflucht beim Herrn der Morgendämmerung, vor dem Uebel dessen was er erschuf, vor dem Uebel des Dunklen wenn es hereinbricht, vor dem Uebel der in die Knoten Blasenden, und vor dem Uebel des Neiders wenn er neidet.",
+      "synthesis": "Sprich: Ich suche Zuflucht beim Herrn der Morgendämmerung, vor dem Uebel dessen was er erschuf, vor dem Uebel des Dunklen wenn es hereinbricht, vor dem Uebel der in die Knoten Blasenden, und vor dem Uebel des Neiders wenn er neidet.",
       "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=113&verse=1"
     },
     {
       "ref": "114:1-6",
       "arabic": "قُلْ أَعُوذُ بِرَبِّ ٱلنَّاسِ مَلِكِ ٱلنَّاسِ إِلَٰهِ ٱلنَّاسِ مِن شَرِّ ٱلْوَسْوَاسِ ٱلْخَنَّاسِ ٱلَّذِى يُوَسْوِسُ فِى صُدُورِ ٱلنَّاسِ مِنَ ٱلْجِنَّةِ وَٱلنَّاسِ",
-      "words": [
+      "wordAnalysis": [
         {
           "word": "أَعُوذُ",
           "analysis": "Imperfekt 1s, Wurzel ع-و-ذ",
@@ -347,13 +347,13 @@
         }
       ],
       "structure": "Imperativ + 3 parallele Appositionen (رَبِّ/مَلِكِ/إِلَٰهِ) + Jarr wa-Majrur + Relativsatz",
-      "sampleSynthesis": "Sprich: Ich suche Zuflucht beim Herrn der Menschen, dem König der Menschen, dem Gott der Menschen, vor dem Uebel des zurückweichenden Einfluesterers, der in die Herzen der Menschen einfluestert — von den Jinn und den Menschen.",
+      "synthesis": "Sprich: Ich suche Zuflucht beim Herrn der Menschen, dem König der Menschen, dem Gott der Menschen, vor dem Uebel des zurückweichenden Einfluesterers, der in die Herzen der Menschen einfluestert — von den Jinn und den Menschen.",
       "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=114&verse=1"
     },
     {
       "ref": "2:1-2",
       "arabic": "الم ذَٰلِكَ ٱلْكِتَابُ لَا رَيْبَ فِيهِ هُدًى لِلْمُتَّقِينَ",
-      "words": [
+      "wordAnalysis": [
         {
           "word": "الم",
           "analysis": "Huruf Muqatta'at (isolierte Buchstaben)",
@@ -396,13 +396,13 @@
         }
       ],
       "structure": "Huruf Muqatta'at + Nominalsatz + la-Satz + Hal/weiteres Khabar",
-      "sampleSynthesis": "Alif-Lam-Mim. Jenes ist das Buch — kein Zweifel darin — Führung für die sich Hütenden.",
+      "synthesis": "Alif-Lam-Mim. Jenes ist das Buch — kein Zweifel darin — Führung für die sich Hütenden.",
       "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=1"
     },
     {
       "ref": "2:3",
       "arabic": "ٱلَّذِينَ يُؤْمِنُونَ بِٱلْغَيْبِ وَيُقِيمُونَ ٱلصَّلَوٰةَ وَمِمَّا رَزَقْنَٰهُمْ يُنفِقُونَ",
-      "words": [
+      "wordAnalysis": [
         {
           "word": "ٱلَّذِينَ",
           "analysis": "Relativpronomen, Sifa zu ٱلْمُتَّقِينَ",
@@ -440,13 +440,13 @@
         }
       ],
       "structure": "Relativsatz mit drei koordinierten Prädikaten: يُؤْمِنُونَ + يُقِيمُونَ + يُنفِقُونَ",
-      "sampleSynthesis": "Die an das Verborgene vertrauen, die Zuwendung (صَلَاة — wörtl. Zuwendung/Hinwendung, konventionell 'Gebet') verrichten, und von dem was wir ihnen an Versorgung gaben, spenden.",
+      "synthesis": "Die an das Verborgene vertrauen, die Zuwendung (صَلَاة — wörtl. Zuwendung/Hinwendung, konventionell 'Gebet') verrichten, und von dem was wir ihnen an Versorgung gaben, spenden.",
       "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=3"
     },
     {
       "ref": "2:255",
       "arabic": "ٱللَّهُ لَآ إِلَٰهَ إِلَّا هُوَ ٱلْحَىُّ ٱلْقَيُّومُ",
-      "words": [
+      "wordAnalysis": [
         {
           "word": "ٱللَّهُ",
           "analysis": "Mubtada, Nominativ",
@@ -484,13 +484,13 @@
         }
       ],
       "structure": "Mubtada + la-Satz mit Ausnahme + zwei Attribute",
-      "sampleSynthesis": "Gott — keine Gottheit ausser ihm — der Lebendige, der Beständige.",
+      "synthesis": "Gott — keine Gottheit ausser ihm — der Lebendige, der Beständige.",
       "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=255"
     },
     {
       "ref": "96:1-5",
       "arabic": "ٱقْرَأْ بِٱسْمِ رَبِّكَ ٱلَّذِى خَلَقَ خَلَقَ ٱلْإِنسَٰنَ مِنْ عَلَقٍ ٱقْرَأْ وَرَبُّكَ ٱلْأَكْرَمُ ٱلَّذِى عَلَّمَ بِٱلْقَلَمِ عَلَّمَ ٱلْإِنسَٰنَ مَا لَمْ يَعْلَمْ",
-      "words": [
+      "wordAnalysis": [
         {
           "word": "ٱقْرَأْ",
           "analysis": "Imperativ 2ms, Wurzel ق-ر-أ",
@@ -548,13 +548,13 @@
         }
       ],
       "structure": "Imperativ + Verbalsätze + Nominalsatz + Relativsatz",
-      "sampleSynthesis": "Trag vor im Namen deines Herrn, der erschuf — erschuf den Menschen aus einem Anhaftenden. Trag vor! Und dein Herr ist der Edelste, der lehrte mit dem Schreibrohr, lehrte den Menschen was er nicht wusste.",
+      "synthesis": "Trag vor im Namen deines Herrn, der erschuf — erschuf den Menschen aus einem Anhaftenden. Trag vor! Und dein Herr ist der Edelste, der lehrte mit dem Schreibrohr, lehrte den Menschen was er nicht wusste.",
       "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=96&verse=1"
     },
     {
       "ref": "103:1-3",
       "arabic": "وَٱلْعَصْرِ إِنَّ ٱلْإِنسَٰنَ لَفِى خُسْرٍ إِلَّا ٱلَّذِينَ ءَامَنُوا وَعَمِلُوا ٱلصَّٰلِحَٰتِ وَتَوَاصَوْا بِٱلْحَقِّ وَتَوَاصَوْا بِٱلصَّبْرِ",
-      "words": [
+      "wordAnalysis": [
         {
           "word": "وَٱلْعَصْرِ",
           "analysis": "وَ (Schwur-Waw) + ٱلْعَصْرِ (Genitiv nach Schwur-Waw), Wurzel ع-ص-ر",
@@ -612,13 +612,13 @@
         }
       ],
       "structure": "Schwur + inna-Satz + Ausnahme mit 4 koordinierten Verben",
-      "sampleSynthesis": "Bei der Zeit! Der Mensch ist wahrlich in Verlust — ausser denen, die glaubten, Rechtschaffenes taten, und einander Wahrheit und einander Geduld empfahlen.",
+      "synthesis": "Bei der Zeit! Der Mensch ist wahrlich in Verlust — ausser denen, die glaubten, Rechtschaffenes taten, und einander Wahrheit und einander Geduld empfahlen.",
       "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=103&verse=1"
     },
     {
       "ref": "108:1-3",
       "arabic": "إِنَّآ أَعْطَيْنَٰكَ ٱلْكَوْثَرَ فَصَلِّ لِرَبِّكَ وَٱنْحَرْ إِنَّ شَانِئَكَ هُوَ ٱلْأَبْتَرُ",
-      "words": [
+      "wordAnalysis": [
         {
           "word": "إِنَّا",
           "analysis": "إِنَّ + نَا (Suffix 1pl)",
@@ -661,13 +661,13 @@
         }
       ],
       "structure": "inna-Satz + 2 Imperative + inna-Satz mit Damir al-Fasl",
-      "sampleSynthesis": "Wir gaben dir wahrlich die Fülle. So bete zu deinem Herrn und opfere. Dein Hasser — er ist der Abgeschnittene.",
+      "synthesis": "Wir gaben dir wahrlich die Fülle. So bete zu deinem Herrn und opfere. Dein Hasser — er ist der Abgeschnittene.",
       "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=108&verse=1"
     },
     {
       "ref": "109:1-6",
       "arabic": "قُلْ يَٰٓأَيُّهَا ٱلْكَٰفِرُونَ لَآ أَعْبُدُ مَا تَعْبُدُونَ وَلَآ أَنتُمْ عَٰبِدُونَ مَآ أَعْبُدُ وَلَآ أَنَا۠ عَابِدٌ مَّا عَبَدتُّمْ وَلَآ أَنتُمْ عَٰبِدُونَ مَآ أَعْبُدُ لَكُمْ دِينُكُمْ وَلِىَ دِينِ",
-      "words": [
+      "wordAnalysis": [
         {
           "word": "قُلْ",
           "analysis": "Imperativ 2ms, Wurzel ق-و-ل",
@@ -710,13 +710,13 @@
         }
       ],
       "structure": "Imperativ + Vokativ + 4 parallele Negationen + 2 Nominalsätze",
-      "sampleSynthesis": "Sprich: O ihr Verdeckenden! Ich diene nicht dem, dem ihr dient. Und ihr dient nicht dem, dem ich diene. Und ich werde nicht dem dienen, dem ihr dientet. Und ihr werdet nicht dem dienen, dem ich diene. Euch eure Lebensweise, und mir meine Lebensweise.",
+      "synthesis": "Sprich: O ihr Verdeckenden! Ich diene nicht dem, dem ihr dient. Und ihr dient nicht dem, dem ich diene. Und ich werde nicht dem dienen, dem ihr dientet. Und ihr werdet nicht dem dienen, dem ich diene. Euch eure Lebensweise, und mir meine Lebensweise.",
       "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=109&verse=1"
     },
     {
       "ref": "110:1-3",
       "arabic": "إِذَا جَآءَ نَصْرُ ٱللَّهِ وَٱلْفَتْحُ وَرَأَيْتَ ٱلنَّاسَ يَدْخُلُونَ فِى دِينِ ٱللَّهِ أَفْوَاجًا فَسَبِّحْ بِحَمْدِ رَبِّكَ وَٱسْتَغْفِرْهُ إِنَّهُ كَانَ تَوَّابًا",
-      "words": [
+      "wordAnalysis": [
         {
           "word": "إِذَا",
           "analysis": "Zeitpartikel: wenn/als",
@@ -769,13 +769,13 @@
         }
       ],
       "structure": "Bedingungssatz (إِذَا + Perfekt) + Jawab (فَ + Imperativ) + inna-Begründung",
-      "sampleSynthesis": "Wenn die Hilfe Gottes und die Öffnung kommt, und du die Menschen scharenweise in den Weg Gottes eintreten siehst, dann preise mit dem Lob deines Herrn und bitte ihn um Vergebung. Er war wahrlich ein oft Vergebender.",
+      "synthesis": "Wenn die Hilfe Gottes und die Öffnung kommt, und du die Menschen scharenweise in den Weg Gottes eintreten siehst, dann preise mit dem Lob deines Herrn und bitte ihn um Vergebung. Er war wahrlich ein oft Vergebender.",
       "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=110&verse=1"
     },
     {
       "ref": "111:1-5",
       "arabic": "تَبَّتْ يَدَآ أَبِى لَهَبٍ وَتَبَّ مَآ أَغْنَىٰ عَنْهُ مَالُهُ وَمَا كَسَبَ سَيَصْلَىٰ نَارًا ذَاتَ لَهَبٍ وَٱمْرَأَتُهُ حَمَّالَةَ ٱلْحَطَبِ فِى جِيدِهَا حَبْلٌ مِّن مَّسَدٍ",
-      "words": [
+      "wordAnalysis": [
         {
           "word": "تَبَّتْ",
           "analysis": "Perfekt 3fs, Wurzel ت-ب-ب (verdoppelt), Form I",
@@ -833,13 +833,13 @@
         }
       ],
       "structure": "Verbalsatz (Dual-Subjekt) + Negationssatz + Futur-Verbalsatz + Nominalsatz",
-      "sampleSynthesis": "Zugrunde gingen die beiden Hände des Vaters der Flamme, und er ging zugrunde. Nicht nuetzte ihm sein Besitz und was er erwarb. Er wird ein Feuer mit Flamme betreten. Und seine Frau — Trägerin des Brennholzes — an ihrem Hals ein Seil aus Palmfasern.",
+      "synthesis": "Zugrunde gingen die beiden Hände des Vaters der Flamme, und er ging zugrunde. Nicht nuetzte ihm sein Besitz und was er erwarb. Er wird ein Feuer mit Flamme betreten. Und seine Frau — Trägerin des Brennholzes — an ihrem Hals ein Seil aus Palmfasern.",
       "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=111&verse=1"
     },
     {
       "ref": "99:1-8",
       "arabic": "إِذَا زُلْزِلَتِ ٱلْأَرْضُ زِلْزَالَهَا وَأَخْرَجَتِ ٱلْأَرْضُ أَثْقَالَهَا وَقَالَ ٱلْإِنسَٰنُ مَا لَهَا يَوْمَئِذٍ تُحَدِّثُ أَخْبَارَهَا بِأَنَّ رَبَّكَ أَوْحَىٰ لَهَا يَوْمَئِذٍ يَصْدُرُ ٱلنَّاسُ أَشْتَاتًا لِّيُرَوْا أَعْمَٰلَهُمْ فَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًا يَرَهُ وَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ شَرًّا يَرَهُ",
-      "words": [
+      "wordAnalysis": [
         {
           "word": "زُلْزِلَتِ",
           "analysis": "Perfekt Passiv 3fs, Wurzel ز-ل-ز-ل (quadrilateral)",
@@ -902,13 +902,13 @@
         }
       ],
       "structure": "Bedingungssatz (إِذَا) + 3 koordinierte Verbalsätze + 2 parallele Bedingungssätze (مَن)",
-      "sampleSynthesis": "Wenn die Erde mit ihrem Beben gebebt wird und die Erde ihre Lasten herauswirft und der Mensch sagt 'Was ist mit ihr?' — an jenem Tag berichtet sie ihre Nachrichten, weil dein Herr ihr eingab. An jenem Tag gehen die Menschen verstreut hervor, damit ihnen ihre Taten gezeigt werden. Wer das Gewicht eines Stäubchens an Gutem tut, sieht es. Und wer das Gewicht eines Stäubchens an Ueblem tut, sieht es.",
+      "synthesis": "Wenn die Erde mit ihrem Beben gebebt wird und die Erde ihre Lasten herauswirft und der Mensch sagt 'Was ist mit ihr?' — an jenem Tag berichtet sie ihre Nachrichten, weil dein Herr ihr eingab. An jenem Tag gehen die Menschen verstreut hervor, damit ihnen ihre Taten gezeigt werden. Wer das Gewicht eines Stäubchens an Gutem tut, sieht es. Und wer das Gewicht eines Stäubchens an Ueblem tut, sieht es.",
       "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=99&verse=1"
     },
     {
       "ref": "91:1-10",
       "arabic": "وَٱلشَّمْسِ وَضُحَىٰهَا وَٱلْقَمَرِ إِذَا تَلَىٰهَا وَٱلنَّهَارِ إِذَا جَلَّىٰهَا وَٱلَّيْلِ إِذَا يَغْشَىٰهَا وَٱلسَّمَآءِ وَمَا بَنَىٰهَا وَٱلْأَرْضِ وَمَا طَحَىٰهَا وَنَفْسٍ وَمَا سَوَّىٰهَا فَأَلْهَمَهَا فُجُورَهَا وَتَقْوَىٰهَا قَدْ أَفْلَحَ مَن زَكَّىٰهَا وَقَدْ خَابَ مَن دَسَّىٰهَا",
-      "words": [
+      "wordAnalysis": [
         {
           "word": "وَٱلشَّمْسِ",
           "analysis": "وَ (Schwur-Waw) + ٱلشَّمْسِ (Genitiv), Wurzel ش-م-س",
@@ -956,13 +956,13 @@
         }
       ],
       "structure": "7 parallele Schwüre (وَ + Genitiv) + Jawab al-Qasam (قَدْ أَفْلَحَ) + Gegensatz (قَدْ خَابَ)",
-      "sampleSynthesis": "Bei der Sonne und ihrem Vormittagslicht, bei dem Mond wenn er ihr folgt, bei dem Tag wenn er sie erhellt, bei der Nacht wenn sie sie verhuellt, bei dem Himmel und was ihn erbaute, bei der Erde und was sie ausbreitete, bei einem Selbst und was es gestaltete und ihr dann ihr Ausschweifendes und ihr Achtsames eingab — erfolgreich ist wer sie läuterte, und gescheitert ist wer sie verbarg.",
+      "synthesis": "Bei der Sonne und ihrem Vormittagslicht, bei dem Mond wenn er ihr folgt, bei dem Tag wenn er sie erhellt, bei der Nacht wenn sie sie verhuellt, bei dem Himmel und was ihn erbaute, bei der Erde und was sie ausbreitete, bei einem Selbst und was es gestaltete und ihr dann ihr Ausschweifendes und ihr Achtsames eingab — erfolgreich ist wer sie läuterte, und gescheitert ist wer sie verbarg.",
       "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=91&verse=1"
     },
     {
       "ref": "93:1-11",
       "arabic": "وَٱلضُّحَىٰ وَٱلَّيْلِ إِذَا سَجَىٰ مَا وَدَّعَكَ رَبُّكَ وَمَا قَلَىٰ وَلَلْءَاخِرَةُ خَيْرٌ لَّكَ مِنَ ٱلْأُولَىٰ وَلَسَوْفَ يُعْطِيكَ رَبُّكَ فَتَرْضَىٰٓ أَلَمْ يَجِدْكَ يَتِيمًا فَـَٔاوَىٰ وَوَجَدَكَ ضَآلًّا فَهَدَىٰ وَوَجَدَكَ عَآئِلًا فَأَغْنَىٰ فَأَمَّا ٱلْيَتِيمَ فَلَا تَقْهَرْ وَأَمَّا ٱلسَّآئِلَ فَلَا تَنْهَرْ وَأَمَّا بِنِعْمَةِ رَبِّكَ فَحَدِّثْ",
-      "words": [
+      "wordAnalysis": [
         {
           "word": "وَٱلضُّحَىٰ",
           "analysis": "وَ (Schwur) + الضُّحَى (Genitiv), Wurzel ض-ح-و",
@@ -1025,7 +1025,7 @@
         }
       ],
       "structure": "2 Schwüre + Jawab (Negation) + 3x وَجَدَكَ-Sätze + 3x أَمَّا-فَ-Sätze",
-      "sampleSynthesis": "Bei dem Vormittag und bei der Nacht wenn sie still wird: Dein Herr hat dich nicht verlassen und nicht gehasst. Und wahrlich das Spätere ist besser für dich als das Fruehere. Und dein Herr wird dir geben sodass du zufrieden bist. Fand er dich nicht als Waise und gab dir Zuflucht? Und fand dich suchend und leitete recht? Und fand dich arm und machte reich? Was den Waisen betrifft: unterdruecke nicht. Was den Fragenden betrifft: weise nicht ab. Und was die Gunst deines Herrn betrifft: berichte!",
+      "synthesis": "Bei dem Vormittag und bei der Nacht wenn sie still wird: Dein Herr hat dich nicht verlassen und nicht gehasst. Und wahrlich das Spätere ist besser für dich als das Fruehere. Und dein Herr wird dir geben sodass du zufrieden bist. Fand er dich nicht als Waise und gab dir Zuflucht? Und fand dich suchend und leitete recht? Und fand dich arm und machte reich? Was den Waisen betrifft: unterdruecke nicht. Was den Fragenden betrifft: weise nicht ab. Und was die Gunst deines Herrn betrifft: berichte!",
       "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=93&verse=1"
     },
     {

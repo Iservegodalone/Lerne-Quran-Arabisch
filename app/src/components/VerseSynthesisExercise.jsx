@@ -6,40 +6,40 @@ const externalVerses = externalVersesData.exercises || externalVersesData
 const INLINE_VERSES = [
   {
     ref: '1:1', arabic: '\u0628\u0650\u0633\u0652\u0645\u0650 \u0627\u0644\u0644\u0651\u064E\u0647\u0650 \u0627\u0644\u0631\u0651\u064E\u062D\u0652\u0645\u064E\u0670\u0646\u0650 \u0627\u0644\u0631\u0651\u064E\u062D\u0650\u064A\u0645\u0650',
-    words: [
+    wordAnalysis: [
       { word: '\u0628\u0650\u0633\u0652\u0645\u0650', analysis: '\u0628\u0650 (Präposition, Genitiv) + \u0627\u0633\u0652\u0645 (Nomen, Wurzel \u0633-\u0645-\u0648, Muster \u0627\u0650\u0641\u0652\u0639\u0650\u0644)' },
       { word: '\u0627\u0644\u0644\u0651\u064E\u0647\u0650', analysis: 'Eigenname, Genitiv (Mudaf ilayhi)' },
       { word: '\u0627\u0644\u0631\u0651\u064E\u062D\u0652\u0645\u064E\u0670\u0646\u0650', analysis: 'Sifa, Wurzel \u0631-\u062D-\u0645, Muster \u0641\u064E\u0639\u0652\u0644\u064E\u0627\u0646 (Intensivform), Genitiv' },
       { word: '\u0627\u0644\u0631\u0651\u064E\u062D\u0650\u064A\u0645\u0650', analysis: 'Sifa, Wurzel \u0631-\u062D-\u0645, Muster \u0641\u064E\u0639\u0650\u064A\u0644 (dauerhafte Eigenschaft), Genitiv' }
     ],
     structure: 'Jarr wa-Majrur (\u0628\u0650\u0633\u0652\u0645\u0650) + Idafa (\u0627\u0633\u0652\u0645\u0650 \u0627\u0644\u0644\u0651\u064E\u0647\u0650) + zwei Sifat (\u0627\u0644\u0631\u0651\u064E\u062D\u0652\u0645\u064E\u0670\u0646\u0650 \u0627\u0644\u0631\u0651\u064E\u062D\u0650\u064A\u0645\u0650)',
-    sampleSynthesis: 'Mit/Im Namen Gottes, des intensiv Barmherzigen, des dauerhaft Barmherzigen.'
+    synthesis: 'Mit/Im Namen Gottes, des intensiv Barmherzigen, des dauerhaft Barmherzigen.'
   },
   {
     ref: '1:2', arabic: '\u0627\u0644\u0652\u062D\u064E\u0645\u0652\u062F\u064F \u0644\u0650\u0644\u0651\u064E\u0647\u0650 \u0631\u064E\u0628\u0651\u0650 \u0627\u0644\u0652\u0639\u064E\u0627\u0644\u064E\u0645\u0650\u064A\u0646\u064E',
-    words: [
+    wordAnalysis: [
       { word: '\u0627\u0644\u0652\u062D\u064E\u0645\u0652\u062F\u064F', analysis: 'Mubtada (Nominativ), Wurzel \u062D-\u0645-\u062F, Masdar (Lob/Preis), definit' },
       { word: '\u0644\u0650\u0644\u0651\u064E\u0647\u0650', analysis: 'Khabar (Jarr wa-Majrur), \u0644\u0650 + \u0627\u0644\u0644\u0651\u064E\u0647 im Genitiv' },
       { word: '\u0631\u064E\u0628\u0651\u0650', analysis: 'Badal/Sifa zu \u0627\u0644\u0644\u0651\u064E\u0647, Genitiv, Wurzel \u0631-\u0628-\u0628' },
       { word: '\u0627\u0644\u0652\u0639\u064E\u0627\u0644\u064E\u0645\u0650\u064A\u0646\u064E', analysis: 'Mudaf ilayhi, Genitiv (gesunder mask. Plural mit -\u064A\u0646), Wurzel \u0639-\u0644-\u0645' }
     ],
     structure: 'Nominalsatz: Mubtada (\u0627\u0644\u0652\u062D\u064E\u0645\u0652\u062F\u064F) + Khabar (\u0644\u0650\u0644\u0651\u064E\u0647\u0650) + Apposition (\u0631\u064E\u0628\u0651\u0650 \u0627\u0644\u0652\u0639\u064E\u0627\u0644\u064E\u0645\u0650\u064A\u0646\u064E)',
-    sampleSynthesis: 'Das Lob gehört Gott, dem Herrn der Welten/Geschöpfe.'
+    synthesis: 'Das Lob gehört Gott, dem Herrn der Welten/Geschöpfe.'
   },
   {
     ref: '1:5', arabic: '\u0625\u0650\u064A\u0651\u064E\u0627\u0643\u064E \u0646\u064E\u0639\u0652\u0628\u064F\u062F\u064F \u0648\u064E\u0625\u0650\u064A\u0651\u064E\u0627\u0643\u064E \u0646\u064E\u0633\u0652\u062A\u064E\u0639\u0650\u064A\u0646\u064F',
-    words: [
+    wordAnalysis: [
       { word: '\u0625\u0650\u064A\u0651\u064E\u0627\u0643\u064E', analysis: 'Maf\u2019ul bihi (vorangestellt), Pronomen 2ms Akkusativ' },
       { word: '\u0646\u064E\u0639\u0652\u0628\u064F\u062F\u064F', analysis: 'Imperfekt 1pl, Wurzel \u0639-\u0628-\u062F, Form I, Indikativ' },
       { word: '\u0648\u064E\u0625\u0650\u064A\u0651\u064E\u0627\u0643\u064E', analysis: '\u0648\u064E (Konjunktion) + \u0625\u0650\u064A\u0651\u064E\u0627\u0643\u064E (Maf\u2019ul bihi vorangestellt)' },
       { word: '\u0646\u064E\u0633\u0652\u062A\u064E\u0639\u0650\u064A\u0646\u064F', analysis: 'Imperfekt 1pl, Wurzel \u0639-\u0648-\u0646, Form X, Indikativ' }
     ],
     structure: 'Zwei parallele Verbalsätze mit vorangestelltem Objekt (Taqdim al-Maf\u2019ul): Objekt + Verb || \u0648 + Objekt + Verb',
-    sampleSynthesis: 'Dich dienen wir und Dich bitten wir um Hilfe.'
+    synthesis: 'Dich dienen wir und Dich bitten wir um Hilfe.'
   },
   {
     ref: '112:1-4', arabic: '\u0642\u064F\u0644\u0652 \u0647\u064F\u0648\u064E \u0627\u0644\u0644\u0651\u064E\u0647\u064F \u0623\u064E\u062D\u064E\u062F\u064C \u0627\u0644\u0644\u0651\u064E\u0647\u064F \u0627\u0644\u0635\u0651\u064E\u0645\u064E\u062F\u064F \u0644\u064E\u0645\u0652 \u064A\u064E\u0644\u0650\u062F\u0652 \u0648\u064E\u0644\u064E\u0645\u0652 \u064A\u064F\u0648\u0644\u064E\u062F\u0652 \u0648\u064E\u0644\u064E\u0645\u0652 \u064A\u064E\u0643\u064F\u0646 \u0644\u0651\u064E\u0647\u064F \u0643\u064F\u0641\u064F\u0648\u064B\u0627 \u0623\u064E\u062D\u064E\u062F\u064C',
-    words: [
+    wordAnalysis: [
       { word: '\u0642\u064F\u0644\u0652', analysis: 'Imperativ, Wurzel \u0642-\u0648-\u0644, Form I, 2ms' },
       { word: '\u0647\u064F\u0648\u064E', analysis: 'Pronomen 3ms, Mubtada oder Damir ash-Sha\u2019n' },
       { word: '\u0627\u0644\u0644\u0651\u064E\u0647\u064F', analysis: 'Mubtada (Nominativ) oder Khabar' },
@@ -50,7 +50,7 @@ const INLINE_VERSES = [
       { word: '\u0623\u064E\u062D\u064E\u062F\u064C', analysis: 'Ism von \u064A\u064E\u0643\u064F\u0646 (Nominativ)' }
     ],
     structure: 'Imperativ + Nominalsatz + Nominalsatz + 2x negierter Verbalsatz + negierter Kana-Satz',
-    sampleSynthesis: 'Sprich: Er ist Gott, Einer. Gott, der Beständige. Er zeugte nicht und wurde nicht gezeugt. Und keiner ist ihm ebenbuertig.'
+    synthesis: 'Sprich: Er ist Gott, Einer. Gott, der Beständige. Er zeugte nicht und wurde nicht gezeugt. Und keiner ist ihm ebenbuertig.'
   }
 ]
 
@@ -67,7 +67,7 @@ export default function VerseSynthesisExercise() {
 
   const v = VERSES[idx]
   if (!v) return null
-  const words = v.words || (v.wordAnalysis ? v.wordAnalysis.map(w => ({ word: w.word, analysis: `${w.role}: ${w.form}, Wurzel ${w.root} — ${w.meaning}` })) : [])
+  const words = v.wordAnalysis ? (v.wordAnalysis[0]?.analysis ? v.wordAnalysis : v.wordAnalysis.map(w => ({ word: w.word, analysis: `${w.role}: ${w.form}, Wurzel ${w.root} — ${w.meaning}` }))) : []
 
   function goTo(newIdx) {
     setIdx(newIdx)
@@ -116,7 +116,7 @@ export default function VerseSynthesisExercise() {
           {showSample ? 'Beispielsynthese verbergen' : 'Beispielsynthese anzeigen'}
         </button>
         {showSample && (
-          <div style={{ padding: 12, background: 'var(--bg)', borderRadius: 8, marginBottom: 12, fontSize: '0.9rem', color: 'var(--correct)', fontStyle: 'italic' }}>{v.sampleSynthesis}</div>
+          <div style={{ padding: 12, background: 'var(--bg)', borderRadius: 8, marginBottom: 12, fontSize: '0.9rem', color: 'var(--correct)', fontStyle: 'italic' }}>{v.synthesis || v.sampleSynthesis}</div>
         )}
         <div style={{ display: 'flex', gap: 8, marginTop: 8 }}>
           <button onClick={() => goTo((idx - 1 + VERSES.length) % VERSES.length)} style={{ flex: 1, padding: 10, borderRadius: 8, border: '1px solid var(--border)', background: 'var(--bg)', color: 'var(--text)', cursor: 'pointer' }}>Vorheriger</button>

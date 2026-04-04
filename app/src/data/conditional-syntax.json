@@ -104,7 +104,8 @@
               "Konjunktiv in beiden"
             ],
             "correct": 2,
-            "explanation": "إِنْ regiert den Jussiv (مجزوم) in Protasis und Apodosis. Nur wenn die Apodosis kein Imperfektverb ist (Nominalsatz, Imperativ etc.), tritt فَ an die Stelle des Jussiv."
+            "explanation": "إِنْ regiert den Jussiv (مجزوم) in Protasis und Apodosis. Nur wenn die Apodosis kein Imperfektverb ist (Nominalsatz, Imperativ etc.), tritt فَ an die Stelle des Jussiv.",
+            "verifyUrl": "https://archive.org/details/WrightsArabicGrammar/page/n87"
           },
           {
             "question": "Wann wird فَ (fa al-jazaa') in der Apodosis nach إِنْ obligatorisch?",
@@ -115,7 +116,8 @@
               "Nur bei Nominalsätzen"
             ],
             "correct": 1,
-            "explanation": "فَ ist obligatorisch, wenn die Apodosis nicht direkt mit einem Jussiv-Verb beginnt — also bei Nominalsätzen, Imperativen und Sätzen mit Partikeln wie قَدْ, سَوْفَ, لَنْ."
+            "explanation": "فَ ist obligatorisch, wenn die Apodosis nicht direkt mit einem Jussiv-Verb beginnt — also bei Nominalsätzen, Imperativen und Sätzen mit Partikeln wie قَدْ, سَوْفَ, لَنْ.",
+            "verifyUrl": "https://archive.org/details/WrightsArabicGrammar/page/n87"
           },
           {
             "question": "In وَإِنْ أَحَدٌ مِّنَ الْمُشْرِكِينَ اسْتَجَارَكَ فَأَجِرْهُ (9:6) — was ist die syntaktische Funktion von أَحَدٌ?",
@@ -201,7 +203,8 @@
         {
           "type": "identification",
           "prompt": "Lies Sure 99 (az-Zalzala) komplett. Wie viele إِذَا-Protasen gibt es? Wo beginnt die Apodosis? In welchem Modus steht das Verb der Apodosis?",
-          "hint": "Sure 99 beginnt mit إِذَا زُلْزِلَتِ الْأَرْضُ. Zähle die إِذَا-Sätze. Die Apodosis kommt spät — achte auf يَوْمَئِذٍ."
+          "hint": "Sure 99 beginnt mit إِذَا زُلْزِلَتِ الْأَرْضُ. Zähle die إِذَا-Sätze. Die Apodosis kommt spät — achte auf يَوْمَئِذٍ.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=99&verse=1"
         },
         {
           "type": "analysis",
@@ -212,7 +215,8 @@
         {
           "type": "analysis",
           "prompt": "Vergleiche die إِذَا-Ketten in Sure 81 und Sure 84. Welche Gemeinsamkeiten gibt es in der Struktur? Welche Rolle spielt die verzoegerte Apodosis?",
-          "hint": "Beide verwenden إِذَا + Nomen + Perfekt (oft Passiv). Die Apodosis wird über mehrere Verse hinweg aufgeschoben. Dieser Aufschub erzeugt Spannung."
+          "hint": "Beide verwenden إِذَا + Nomen + Perfekt (oft Passiv). Die Apodosis wird über mehrere Verse hinweg aufgeschoben. Dieser Aufschub erzeugt Spannung.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=81&verse=1"
         }
       ],
       "testContent": {
@@ -226,7 +230,8 @@
               "Imperativ"
             ],
             "correct": 2,
-            "explanation": "إِذَا ist kein Jazm-Partikel. Das Verb nach إِذَا steht im Perfekt (ماضٍ). Die Apodosis steht nicht im Jussiv."
+            "explanation": "إِذَا ist kein Jazm-Partikel. Das Verb nach إِذَا steht im Perfekt (ماضٍ). Die Apodosis steht nicht im Jussiv.",
+            "verifyUrl": "https://archive.org/details/WrightsArabicGrammar/page/n87"
           },
           {
             "question": "Was signalisiert die Wahl von إِذَا (statt إِنْ)?",
@@ -237,7 +242,8 @@
               "Kein Bedeutungsunterschied zu إِنْ"
             ],
             "correct": 1,
-            "explanation": "إِذَا stellt die Bedingung als erwartet, wahrscheinlich oder wiederkehrend dar. إِنْ stellt sie als offen und neutral dar."
+            "explanation": "إِذَا stellt die Bedingung als erwartet, wahrscheinlich oder wiederkehrend dar. إِنْ stellt sie als offen und neutral dar.",
+            "verifyUrl": "https://archive.org/details/WrightsArabicGrammar/page/n87"
           },
           {
             "question": "In 81:1-14 folgen mehrere إِذَا-Sätze aufeinander. Wo steht die Apodosis?",
@@ -344,7 +350,8 @@
               "Eine temporale Bedingung"
             ],
             "correct": 2,
-            "explanation": "لَوْ drückt eine kontrafaktische Bedingung aus: Die Bedingung ist nicht erfüllt, und die Folge ist ebenfalls nicht eingetreten."
+            "explanation": "لَوْ drückt eine kontrafaktische Bedingung aus: Die Bedingung ist nicht erfüllt, und die Folge ist ebenfalls nicht eingetreten.",
+            "verifyUrl": "https://archive.org/details/WrightsArabicGrammar/page/n87"
           },
           {
             "question": "Welche typische Struktur hat die Apodosis nach لَوْ?",
@@ -355,7 +362,8 @@
               "Imperativ mit فَ"
             ],
             "correct": 1,
-            "explanation": "Die affirmative Apodosis nach لَوْ steht typisch mit لَ + Perfekt (لَفَعَلَ). Die negierte Apodosis verwendet مَا + Perfekt."
+            "explanation": "Die affirmative Apodosis nach لَوْ steht typisch mit لَ + Perfekt (لَفَعَلَ). Die negierte Apodosis verwendet مَا + Perfekt.",
+            "verifyUrl": "https://archive.org/details/WrightsArabicGrammar/page/n87"
           },
           {
             "question": "In وَلَوْ تَرَىٰ إِذْ وُقِفُوا عَلَى النَّارِ (6:27) — wo ist die Apodosis?",
@@ -468,7 +476,8 @@
               "Alle drei"
             ],
             "correct": 1,
-            "explanation": "Nur إِنْ ist ein Jazm-Partikel. إِذَا und لَوْ nehmen das Perfekt, nicht den Jussiv."
+            "explanation": "Nur إِنْ ist ein Jazm-Partikel. إِذَا und لَوْ nehmen das Perfekt, nicht den Jussiv.",
+            "verifyUrl": "https://archive.org/details/WrightsArabicGrammar/page/n87"
           },
           {
             "question": "Welche Aussage ist korrekt?",
@@ -479,7 +488,8 @@
               "Alle drei sind bedeutungsgleich"
             ],
             "correct": 2,
-            "explanation": "إِنْ stellt die Bedingung als offen dar, إِذَا als erwartet, لَوْ als kontrafaktisch (nicht erfüllt). Die Partikelwahl signalisiert die Sprecherperspektive."
+            "explanation": "إِنْ stellt die Bedingung als offen dar, إِذَا als erwartet, لَوْ als kontrafaktisch (nicht erfüllt). Die Partikelwahl signalisiert die Sprecherperspektive.",
+            "verifyUrl": "https://archive.org/details/WrightsArabicGrammar/page/n87"
           },
           {
             "question": "Was wäre der syntaktische Unterschied zwischen إِنْ يَشَأ und لَوْ شَاءَ?",
@@ -490,7 +500,8 @@
               "Beide nehmen den Subjunktiv"
             ],
             "correct": 1,
-            "explanation": "إِنْ regiert den Jussiv (يَشَأْ) und stellt die Bedingung als mögliche Realität dar. لَوْ nimmt das Perfekt (شَاءَ) und stellt die Bedingung als kontrafaktisch dar."
+            "explanation": "إِنْ regiert den Jussiv (يَشَأْ) und stellt die Bedingung als mögliche Realität dar. لَوْ nimmt das Perfekt (شَاءَ) und stellt die Bedingung als kontrafaktisch dar.",
+            "verifyUrl": "https://archive.org/details/WrightsArabicGrammar/page/n87"
           }
         ]
       }
@@ -644,7 +655,8 @@
               "Temporale Bedingung mit إِذَا"
             ],
             "correct": 2,
-            "explanation": "مَنْ ('wer auch immer') leitet eine generalisierte Bedingung ein. Es vereint Bedingungspartikel und Pronomen in einem Wort. Das Verb steht im Jussiv."
+            "explanation": "مَنْ ('wer auch immer') leitet eine generalisierte Bedingung ein. Es vereint Bedingungspartikel und Pronomen in einem Wort. Das Verb steht im Jussiv.",
+            "verifyUrl": "https://archive.org/details/WrightsArabicGrammar/page/n87"
           },
           {
             "question": "Was unterscheidet كُلَّمَا syntaktisch von مَا als Konditionalpartikel?",
@@ -655,7 +667,8 @@
               "Beide regieren den Subjunktiv"
             ],
             "correct": 2,
-            "explanation": "مَا als Konditionalpartikel regiert den Jussiv (wie إِنْ). كُلَّمَا ('jedes Mal wenn') ist iterativ und nimmt das Perfekt — es ist kein Jazm-Partikel."
+            "explanation": "مَا als Konditionalpartikel regiert den Jussiv (wie إِنْ). كُلَّمَا ('jedes Mal wenn') ist iterativ und nimmt das Perfekt — es ist kein Jazm-Partikel.",
+            "verifyUrl": "https://archive.org/details/WrightsArabicGrammar/page/n87"
           },
           {
             "question": "In 4:78 steht أَيْنَمَا تَكُونُوا يُدْرِككُّمُ الْمَوْتُ وَلَوْ كُنتُمْ فِي بُرُوجٍ مُّشَيَّدَةٍ. Was ist die Funktion von وَلَوْ hier?",

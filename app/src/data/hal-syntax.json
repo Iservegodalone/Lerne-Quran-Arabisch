@@ -87,7 +87,8 @@
               "Akkusativ, immer definit, unmittelbar nach dem Subjekt"
             ],
             "correct": 1,
-            "explanation": "Der Hal steht im Akkusativ (Nasb), ist normalerweise indefinit (tanwin), und steht nach dem Verb und dem Sahib al-Hal."
+            "explanation": "Der Hal steht im Akkusativ (Nasb), ist normalerweise indefinit (tanwin), und steht nach dem Verb und dem Sahib al-Hal.",
+            "verifyUrl": "https://archive.org/details/WrightsArabicGrammar/page/n87"
           },
           {
             "question": "In وَادْخُلُوا الْبَابَ سُجَّدًا — was ist der Sahib al-Hal?",
@@ -98,7 +99,8 @@
               "Das Verb ادْخُلُوا"
             ],
             "correct": 1,
-            "explanation": "Sahib al-Hal ist das implizite Subjekt der Befehlsform ادْخُلُوا ('ihr'). سُجَّدًا beschreibt den Zustand dieses Subjekts: sie sollen eintreten, während sie sich niederwerfen."
+            "explanation": "Sahib al-Hal ist das implizite Subjekt der Befehlsform ادْخُلُوا ('ihr'). سُجَّدًا beschreibt den Zustand dieses Subjekts: sie sollen eintreten, während sie sich niederwerfen.",
+            "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=58"
           }
         ]
       }
@@ -138,7 +140,7 @@
               {
                 "ref": "4:43",
                 "arabic": "لَا تَقْرَبُوا الصَّلَاةَ وَأَنتُمْ سُكَارَىٰ",
-                "explanation": "وَأَنتُمْ سُكَارَىٰ = nominale Jumla Haliyya. وَ = waw al-hal. أَنتُمْ = Mubtada. سُكَارَىٰ = Khabar (Plural von سَكْرَان, Nasb des Hals aber innerhalb des Nominalsatzes Khabar im Nominativ). 'Nähert euch der Zuwendung (صَلَاة — wörtl. Zuwendung/Hinwendung, konventionell 'Gebet') nicht, während ihr betrunken seid.'",
+                "explanation": "وَأَنتُمْ سُكَارَىٰ = nominale Jumla Haliyya. وَ = waw al-hal. أَنتُمْ = Mubtada. سُكَارَىٰ = Khabar des Nominalsatzes وَأَنتُمْ سُكَارَىٰ (Plural von سَكْرَان). Zwei Ebenen: (1) Morphologischer Kasus: سُكَارَىٰ traegt Nominativ (Raf'), weil es Khabar des Nominalsatzes ist. (2) Syntaktische Position: Die gesamte Jumla Haliyya وَأَنتُمْ سُكَارَىٰ steht in mahall nasb als Hal — nicht das einzelne Wort سُكَارَىٰ, sondern der ganze Satz nimmt die Akkusativposition ein. 'Naehert euch der Zuwendung (صَلَاة — woertl. Zuwendung/Hinwendung, konventionell 'Gebet') nicht, waehrend ihr betrunken seid.'",
                 "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=43"
               },
               {
@@ -161,7 +163,8 @@
         {
           "type": "distinction",
           "question": "Was ist der Unterschied zwischen وَ in وَجَاءُوا وَيَبْكُونَ (hypothetisch) vs. وَجَاءُوا وَهُمْ يَبْكُونَ?",
-          "answer": "In beiden Fällen waw al-hal. Aber: ohne Pronomen (وَيَبْكُونَ) handelt es sich um eine verbale Hal-Phrase (das Verb hat das Subjekt eingebaut). Mit Pronomen (وَهُمْ يَبْكُونَ) handelt es sich um eine nominale Jumla Haliyya (هُمْ = Mubtada, يَبْكُونَ = Khabar)."
+          "answer": "In beiden Fällen waw al-hal. Aber: ohne Pronomen (وَيَبْكُونَ) handelt es sich um eine verbale Hal-Phrase (das Verb hat das Subjekt eingebaut). Mit Pronomen (وَهُمْ يَبْكُونَ) handelt es sich um eine nominale Jumla Haliyya (هُمْ = Mubtada, يَبْكُونَ = Khabar).",
+          "verifyUrl": "https://archive.org/details/WrightsArabicGrammar/page/n87"
         }
       ],
       "testContent": {
@@ -175,7 +178,8 @@
               "Es steht immer am Satzbeginn"
             ],
             "correct": 1,
-            "explanation": "Waw al-hal signalisiert eine Hal-Phrase (Umstandsangabe der Gleichzeitigkeit). Der semantische Test: 'während/wobei' passt — 'und' würde eine unpassende Reihung ergeben."
+            "explanation": "Waw al-hal signalisiert eine Hal-Phrase (Umstandsangabe der Gleichzeitigkeit). Der semantische Test: 'während/wobei' passt — 'und' würde eine unpassende Reihung ergeben.",
+            "verifyUrl": "https://archive.org/details/WrightsArabicGrammar/page/n87"
           },
           {
             "question": "In فَنَادَتْهُ الْمَلَائِكَةُ وَهُوَ قَائِمٌ — welchen Kasus hat قَائِمٌ tatsächlich?",
@@ -186,7 +190,8 @@
               "Indeklinabel"
             ],
             "correct": 1,
-            "explanation": "قَائِمٌ hat den Nominativ (Damma), weil es das Khabar des Nominalsatzes هُوَ قَائِمٌ ist. Die GESAMTE Phrase وَهُوَ قَائِمٌ steht aber 'in mahall nasb' — sie nimmt die syntaktische Position des Hal-Akkusativs ein, auch wenn ihre internen Elemente nach den Regeln des Nominalsatzes flektiert werden."
+            "explanation": "قَائِمٌ hat den Nominativ (Damma), weil es das Khabar des Nominalsatzes هُوَ قَائِمٌ ist. Die GESAMTE Phrase وَهُوَ قَائِمٌ steht aber 'in mahall nasb' — sie nimmt die syntaktische Position des Hal-Akkusativs ein, auch wenn ihre internen Elemente nach den Regeln des Nominalsatzes flektiert werden.",
+            "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=39"
           }
         ]
       }
@@ -252,7 +257,8 @@
               "هُوَ الْقَائِمُ"
             ],
             "correct": 1,
-            "explanation": "وَقَدْ فَعَلَ ist eine verbale Jumla Haliyya eingeleitet durch وَ + قَدْ + Perfekt. Dieses Muster signalisiert, dass die Handlung des Hal-Satzes abgeschlossen ist (Perfekt) während die Haupthandlung (جَاءَ) stattfindet."
+            "explanation": "وَقَدْ فَعَلَ ist eine verbale Jumla Haliyya eingeleitet durch وَ + قَدْ + Perfekt. Dieses Muster signalisiert, dass die Handlung des Hal-Satzes abgeschlossen ist (Perfekt) während die Haupthandlung (جَاءَ) stattfindet.",
+            "verifyUrl": "https://archive.org/details/WrightsArabicGrammar/page/n87"
           }
         ]
       }

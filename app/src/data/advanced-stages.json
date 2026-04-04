@@ -163,7 +163,8 @@
               "Verfehlen, Fehler machen",
               "Vergessen, vernachlässigen"
             ],
-            "correct": 0
+            "correct": 0,
+            "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=57&verse=20"
           },
           {
             "type": "multiple_choice",
@@ -174,7 +175,8 @@
               "Weil er auf dem Feld arbeitet",
               "Weil er Gottes Gaben erntet"
             ],
-            "correct": 1
+            "correct": 1,
+            "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=57&verse=20"
           },
           {
             "type": "identification",
@@ -185,7 +187,8 @@
               "1) sich unterwerfen – 2) weggehen – 3) Unrecht begehen",
               "1) sich ergeben – 2) trennen – 3) verdunkeln"
             ],
-            "correct": 0
+            "correct": 0,
+            "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=112"
           },
           {
             "type": "multiple_choice",
@@ -196,7 +199,8 @@
               "Lane's Lexikon",
               "Lisān al-ʿArab"
             ],
-            "correct": 2
+            "correct": 2,
+            "verifyUrl": "https://archive.org/details/WrightsArabicGrammar/page/n87"
           },
           {
             "type": "matching",
@@ -207,7 +211,8 @@
               "Wurzel s-l-m = gehorchen. إِسْلَام ist Form II Masdar = der Gehorsam",
               "Wurzel s-l-m = glauben. إِسْلَام ist Form I Nomen = der Glaube"
             ],
-            "correct": 0
+            "correct": 0,
+            "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=112"
           },
           {
             "question": "Die Wurzel ح-ي-ي hat die Grundbedeutung 'lebendig sein'. Welche Form erscheint im Quran als Attribut الحيّ (der Lebende)?",
@@ -397,7 +402,8 @@
               "Nur die erste Offenbarung eines Begriffs gibt die richtige Bedeutung",
               "Verschiedene Suren widersprechen sich und müssen abgeglichen werden"
             ],
-            "correct": 1
+            "correct": 1,
+            "verifyUrl": "https://archive.org/details/WrightsArabicGrammar/page/n87"
           },
           {
             "type": "identification",
@@ -408,7 +414,8 @@
               "5:95 — هَدْيًا بَالِغَ الْكَعْبَةِ",
               "20:123 — فَإِمَّا يَأْتِيَنَّكُم مِّنِّي هُدًى"
             ],
-            "correct": 0
+            "correct": 0,
+            "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=2"
           },
           {
             "type": "multiple_choice",
@@ -419,7 +426,8 @@
               "Sich auf eine einzige Übersetzung zu verlassen, ohne die Tiefe des arabischen Originals zu erforschen",
               "Zu viele verschiedene Übersetzungen zu vergleichen"
             ],
-            "correct": 2
+            "correct": 2,
+            "verifyUrl": "https://archive.org/details/WrightsArabicGrammar/page/n87"
           },
           {
             "type": "matching",
@@ -430,7 +438,8 @@
               "Das Herz wird im Quran nur metaphorisch verwendet",
               "Das Herz hat im Quran keine besondere Bedeutung"
             ],
-            "correct": 0
+            "correct": 0,
+            "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=7&verse=179"
           },
           {
             "question": "Das Wort فتنه kommt im Quran in mehreren Kontexten vor. Welche Grundbedeutung der Wurzel ف-ت-ن verbindet alle Verwendungen?",
@@ -706,7 +715,8 @@
               "Nominalsätze haben immer ein explizites Subjekt, Verbalsätze nie",
               "Es gibt keinen bedeutsamen Unterschied"
             ],
-            "correct": 1
+            "correct": 1,
+            "verifyUrl": "https://archive.org/details/WrightsArabicGrammar/page/n87"
           },
           {
             "type": "matching",
@@ -717,7 +727,8 @@
               "Taqdīm (Voranstellung) — ein Satzteil wird nach vorn gestellt",
               "Istifhām (Rhetorische Frage) — eine Frage ohne erwartete Antwort"
             ],
-            "correct": 0
+            "correct": 0,
+            "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=2"
           },
           {
             "type": "multiple_choice",
@@ -740,7 +751,8 @@
               "Ein Reimschema, bei dem jeder zweite Vers sich reimt",
               "Eine Aufzählung von Gleichnissen in aufsteigender Reihenfolge"
             ],
-            "correct": 1
+            "correct": 1,
+            "verifyUrl": "https://archive.org/details/WrightsArabicGrammar/page/n87"
           },
           {
             "type": "multiple_choice",
@@ -751,11 +763,12 @@
               "Eine Abkürzung für bekannte Phrasen",
               "Eine Konstruktion nur im Passiv-Modus"
             ],
-            "correct": 1
+            "correct": 1,
+            "verifyUrl": "https://archive.org/details/WrightsArabicGrammar/page/n87"
           },
           {
             "type": "multiple_choice",
-            "question": "In 2:17 steht مَثَلُهُمْ كَمَثَلِ الَّذِي اسْتَوْقَدَ نَارًا (Ihr Gleichnis ist wie einer, der ein Feuer entzündete). Welches rhetorische Mittel wird hier verwendet?",
+            "question": "In 2:17 steht مَثَلُهُمْ كَمَثَ��ِ الَّذِي اسْتَوْقَدَ نَارًا (Ihr Gleichnis ist wie einer, der ein Feuer entzündete). Welches rhetorische Mittel wird hier verwendet?",
             "options": [
               "Taqdīm (Voranstellung)",
               "Iltifāt (Perspektivwechsel)",
@@ -774,7 +787,8 @@
               "Der Wechsel zwischen langen und kurzen Versen",
               "Der Wechsel zwischen Nominalsätzen und Verbalsätzen"
             ],
-            "correct": 1
+            "correct": 1,
+            "verifyUrl": "https://archive.org/details/WrightsArabicGrammar/page/n87"
           },
           {
             "question": "In 93:3 steht ما ودعك ربك وما قلى — im zweiten Teil fehlt das Pronomen 'dich' (قلاك). Welches rhetorische Mittel ist das und welche Funktion hat es?",
@@ -995,7 +1009,8 @@
               "Es gibt keinen Unterschied — beide bedeuten 'in'",
               "فِي wird nur mit Personen verwendet, بِ nur mit Sachen"
             ],
-            "correct": 1
+            "correct": 1,
+            "verifyUrl": "https://archive.org/details/WrightsArabicGrammar/page/n87"
           },
           {
             "type": "identification",
@@ -1006,7 +1021,8 @@
               "Weil إِذَا grammatisch einfacher ist",
               "Weil إِنْ nur in der Funktion einer Bedingung ohne Zeitbezug steht"
             ],
-            "correct": 0
+            "correct": 0,
+            "verifyUrl": "https://archive.org/details/WrightsArabicGrammar/page/n87"
           },
           {
             "type": "matching",
@@ -1029,7 +1045,8 @@
               "Beide haben dieselbe Bedeutung, nur verschiedene Schreibweisen",
               "أَنْ steht nur am Satzanfang, أَنَّ nur in der Satzmitte"
             ],
-            "correct": 0
+            "correct": 0,
+            "verifyUrl": "https://archive.org/details/WrightsArabicGrammar/page/n87"
           },
           {
             "type": "multiple_choice",
@@ -1040,7 +1057,8 @@
               "Schwur-وَ steht typisch am Suren-/Abschnittsbeginn, gefolgt von einem Nomen im Genitiv, oft mit weiteren Schwüren",
               "Es gibt keinen erkennbaren Unterschied"
             ],
-            "correct": 2
+            "correct": 2,
+            "verifyUrl": "https://archive.org/details/WrightsArabicGrammar/page/n87"
           },
           {
             "question": "In 2:255 steht الا باذنه (ausser mit Seiner Erlaubnis). Welche Funktion hat die Partikel الا hier?",
@@ -1221,7 +1239,8 @@
               "Die Geschichte der arabischen Schrift",
               "Die verschiedenen Dialekte des Arabischen"
             ],
-            "correct": 1
+            "correct": 1,
+            "verifyUrl": "https://archive.org/details/WrightsArabicGrammar/page/n87"
           },
           {
             "type": "identification",
@@ -1232,7 +1251,8 @@
               "Sie haben alle drei Konsonanten aus dem vorderen Mundraum",
               "Sie enden alle auf denselben Konsonanten"
             ],
-            "correct": 0
+            "correct": 0,
+            "verifyUrl": "https://archive.org/details/WrightsArabicGrammar/page/n87"
           },
           {
             "type": "matching",
@@ -1255,7 +1275,8 @@
               "In beiden Fällen werden dieselben Konsonanten verwendet",
               "Garten: Vokale dominieren — Jüngster Tag: Konsonanten dominieren"
             ],
-            "correct": 1
+            "correct": 1,
+            "verifyUrl": "https://archive.org/details/WrightsArabicGrammar/page/n87"
           },
           {
             "type": "multiple_choice",
@@ -1266,7 +1287,8 @@
               "Aushauch, Entweichen (z.B. نَفَسَ = atmen, نَفْس = Selbst/Atem, نَفْخ = blasen)",
               "Druck, Schlag, Kraft"
             ],
-            "correct": 2
+            "correct": 2,
+            "verifyUrl": "https://archive.org/details/WrightsArabicGrammar/page/n87"
           },
           {
             "question": "Die Konsonantenkombination ق+ط in Wurzeln wie قطع (abschneiden) und قطر (Tropfen/Teer) erzeugt welchen phonosemantischen Effekt?",
@@ -1410,7 +1432,8 @@
               "Vortrag, Lesung",
               "Gesetzestext / Kodex"
             ],
-            "correct": 2
+            "correct": 2,
+            "verifyUrl": "https://archive.org/details/WrightsArabicGrammar/page/n87"
           },
           {
             "type": "identification",
@@ -1421,7 +1444,8 @@
               "Ein besonderes Zeichen im Manuskript",
               "Der Titel einer Sure"
             ],
-            "correct": 0
+            "correct": 0,
+            "verifyUrl": "https://archive.org/details/WrightsArabicGrammar/page/n87"
           },
           {
             "type": "multiple_choice",
@@ -1432,7 +1456,8 @@
               "Er hat keine besondere Wirkung",
               "Er erzeugt einen fragenden Ton"
             ],
-            "correct": 1
+            "correct": 1,
+            "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=112&verse=1"
           },
           {
             "type": "matching",
@@ -1443,7 +1468,8 @@
               "Kurze Verse waren leichter zu merken für die frühen Muslime",
               "Lange Verse enthalten mehr Informationen und kurze weniger"
             ],
-            "correct": 0
+            "correct": 0,
+            "verifyUrl": "https://archive.org/details/WrightsArabicGrammar/page/n87"
           },
           {
             "type": "multiple_choice",
@@ -1454,7 +1480,8 @@
               "31 Mal",
               "55 Mal"
             ],
-            "correct": 2
+            "correct": 2,
+            "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=55&verse=13"
           },
           {
             "question": "In Sure 91 enden die ersten 10 Verse alle auf -aha, dann bricht der Reim ab (Verse 11-15). Was signalisiert dieser Reimbruch?",
@@ -1465,7 +1492,8 @@
               "Der Reimbruch hat keine Bedeutung — er ist rein zufällig"
             ],
             "correct": 1,
-            "explanation": "Die ersten 10 Verse bilden eine geschlossene klangliche Einheit (Schwüre mit -aha-Reim). Ab Vers 11 beginnt die Thamud-Erzählung — ein neuer Inhalt, der durch einen neuen Klang markiert wird. Der Reimbruch ist ein prosodisches Signal für den inhaltlichen Wechsel."
+            "explanation": "Die ersten 10 Verse bilden eine geschlossene klangliche Einheit (Schwüre mit -aha-Reim). Ab Vers 11 beginnt die Thamud-Erzählung — ein neuer Inhalt, der durch einen neuen Klang markiert wird. Der Reimbruch ist ein prosodisches Signal für den inhaltlichen Wechsel.",
+            "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=91&verse=1"
           },
           {
             "question": "Der offene -a-Reim in Sure 93 (سجى, قلى, الاولى, فترضى) erzeugt welchen Klangeffekt?",
@@ -1476,7 +1504,8 @@
               "Einen schnellen, draengenden Rhythmus wie in eschatologischen Passagen"
             ],
             "correct": 1,
-            "explanation": "Der offene -a-Vokal am Versende klingt wie ein Ausatmen, ein Seufzen der Erleichterung. Die Sure troestet den Angesprochenen (dein Herr hat dich nicht verlassen), und der weiche Reim unterstützt diesen Trost klanglich. Vergleiche: Sure 112 endet auf hartes -d (Endgueltigkeit), Sure 93 auf offenes -a (Trost und Offenheit)."
+            "explanation": "Der offene -a-Vokal am Versende klingt wie ein Ausatmen, ein Seufzen der Erleichterung. Die Sure troestet den Angesprochenen (dein Herr hat dich nicht verlassen), und der weiche Reim unterstützt diesen Trost klanglich. Vergleiche: Sure 112 endet auf hartes -d (Endgueltigkeit), Sure 93 auf offenes -a (Trost und Offenheit).",
+            "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=93&verse=1"
           }
         ]
       },
@@ -1677,7 +1706,8 @@
               "7: Informieren, Befehlen, Fragen, Warnen, Versprechen, Argumentieren, Erzählen",
               "10: Es gibt keine feste Anzahl"
             ],
-            "correct": 2
+            "correct": 2,
+            "verifyUrl": "https://archive.org/details/WrightsArabicGrammar/page/n87"
           },
           {
             "type": "matching",
@@ -1712,7 +1742,8 @@
               "Es ist nur für Linguisten relevant",
               "Es hilft, den Quran schneller zu lesen"
             ],
-            "correct": 1
+            "correct": 1,
+            "verifyUrl": "https://archive.org/details/WrightsArabicGrammar/page/n87"
           },
           {
             "type": "multiple_choice",
@@ -2005,7 +2036,8 @@
               "Den Quran nur auf Arabisch zu lesen, ohne ihn zu verstehen",
               "Einen externen Kommentar zu lesen"
             ],
-            "correct": 1
+            "correct": 1,
+            "verifyUrl": "https://archive.org/details/WrightsArabicGrammar/page/n87"
           },
           {
             "type": "identification",
@@ -2016,7 +2048,8 @@
               "Stufe C: Nur bei komplexen Sätzen übersetzen",
               "Stufe D: Den Text direkt verstehen und erst beim Erzählen auf Deutsch merken, dass man 'übersetzen' muss"
             ],
-            "correct": 3
+            "correct": 3,
+            "verifyUrl": "https://archive.org/details/WrightsArabicGrammar/page/n87"
           },
           {
             "type": "matching",
@@ -2027,7 +2060,8 @@
               "Die längsten Suren zuerst, dann die kürzesten",
               "Es spielt keine Rolle — man kann in beliebiger Reihenfolge lesen"
             ],
-            "correct": 0
+            "correct": 0,
+            "verifyUrl": "https://archive.org/details/WrightsArabicGrammar/page/n87"
           },
           {
             "type": "multiple_choice",
@@ -2038,7 +2072,8 @@
               "Weil die schriftlichen Vokalzeichen historisch nach dem Konsonantentext eingeführt wurden",
               "Weil es einfacher ist"
             ],
-            "correct": 1
+            "correct": 1,
+            "verifyUrl": "https://archive.org/details/WrightsArabicGrammar/page/n87"
           },
           {
             "type": "multiple_choice",
@@ -2049,7 +2084,8 @@
               "Man versteht beim Hören einer Audioaufnahme sofort, worum es geht — ohne Übersetzung — und bemerkt Nuancen, die in keiner Übersetzung stehen",
               "Man kann arabische Grammatikregeln auf Arabisch erklären"
             ],
-            "correct": 2
+            "correct": 2,
+            "verifyUrl": "https://archive.org/details/WrightsArabicGrammar/page/n87"
           },
           {
             "type": "multiple_choice",
@@ -2096,7 +2132,8 @@
               "Man kann die Sure nach dem Hören komplett auswendig wiedergeben"
             ],
             "correct": 2,
-            "explanation": "Direktes Verstehen zeigt sich darin, dass man den INHALT beim Hören erfasst, ohne ihn in eine andere Sprache übersetzen zu müssen. 20+ von 30 Versen zu erfassen zeigt, dass der arabische Text direkt Bedeutung erzeugt. Perfekte Übersetzung oder Auswendiglernen sind andere Fähigkeiten."
+            "explanation": "Direktes Verstehen zeigt sich darin, dass man den INHALT beim Hören erfasst, ohne ihn in eine andere Sprache übersetzen zu müssen. 20+ von 30 Versen zu erfassen zeigt, dass der arabische Text direkt Bedeutung erzeugt. Perfekte Übersetzung oder Auswendiglernen sind andere Fähigkeiten.",
+            "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=67&verse=1"
           },
           {
             "question": "In 36:77-83 führt der Quran vom Ursprung des Menschen (نطفه — Samentropfen) über die Argumentation (من يحيى العظم وهى رميم — wer belebt die Knochen, wenn sie vermodert sind?) bis zu كن فيكون (Sei! Und es ist). Was erfasst direktes Verstehen an dieser Passage, das eine Übersetzung nicht wiedergibt?",

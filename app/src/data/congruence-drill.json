@@ -161,28 +161,32 @@
       "type": "fill_blank",
       "prompt": "الرجال ___ (kamen, Perfekt von أ-ت-ي, VSO-Stellung)",
       "answer": "أَتَى",
-      "explanation": "Verb vor Subjekt → Maskulin Singular, auch wenn das Subjekt Plural ist."
+      "explanation": "Verb vor Subjekt → Maskulin Singular, auch wenn das Subjekt Plural ist.",
+      "verifyUrl": "https://archive.org/details/WrightsArabicGrammar/page/n87"
     },
     {
       "id": 12,
       "type": "fill_blank",
       "prompt": "النساء ___ (sagten, Perfekt von ق-و-ل, VSO-Stellung)",
       "answer": "قَالَتْ",
-      "explanation": "Verb vor Subjekt → Singular, ABER Femininmarkierung (-ت) weil das Subjekt feminin ist."
+      "explanation": "Verb vor Subjekt → Singular, ABER Femininmarkierung (-ت) weil das Subjekt feminin ist.",
+      "verifyUrl": "https://archive.org/details/WrightsArabicGrammar/page/n87"
     },
     {
       "id": 13,
       "type": "fill_blank",
       "prompt": "الكتب ___ (gute, Adjektiv)",
       "answer": "جَيِّدَة (Feminin Singular)",
-      "explanation": "كُتُب ist gebrochener Plural eines Nicht-Personen-Nomens → Adjektiv im Feminin Singular."
+      "explanation": "كُتُب ist gebrochener Plural eines Nicht-Personen-Nomens → Adjektiv im Feminin Singular.",
+      "verifyUrl": "https://archive.org/details/WrightsArabicGrammar/page/n87"
     },
     {
       "id": 14,
       "type": "fill_blank",
       "prompt": "المؤمنون ___ (gute, Adjektiv)",
       "answer": "صَالِحُونَ (Maskulin Plural)",
-      "explanation": "مُؤْمِنُون ist gesunder Maskulin-Plural von PERSONEN → volle Pluralkongruenz."
+      "explanation": "مُؤْمِنُون ist gesunder Maskulin-Plural von PERSONEN → volle Pluralkongruenz.",
+      "verifyUrl": "https://archive.org/details/WrightsArabicGrammar/page/n87"
     },
     {
       "id": 15,
@@ -229,14 +233,16 @@
       "type": "fill_blank",
       "prompt": "الأيام ___ (vergingen, Perfekt von م-ض-ي)",
       "answer": "مَضَتْ (Feminin Singular)",
-      "explanation": "أَيَّام ist gebrochener Plural von يَوْم (Nicht-Person) → Verb im Feminin Singular."
+      "explanation": "أَيَّام ist gebrochener Plural von يَوْم (Nicht-Person) → Verb im Feminin Singular.",
+      "verifyUrl": "https://archive.org/details/WrightsArabicGrammar/page/n87"
     },
     {
       "id": 20,
       "type": "fill_blank",
       "prompt": "السماوات ___ (hoch, Adjektiv)",
       "answer": "عَالِيَة (Feminin Singular) oder عَالِيَات (gesunder Feminin Plural)",
-      "explanation": "سَمَاوَات ist gesunder Feminin-Plural. Beide Formen möglich, Feminin Singular ist häufiger im Quran."
+      "explanation": "سَمَاوَات ist gesunder Feminin-Plural. Beide Formen möglich, Feminin Singular ist häufiger im Quran.",
+      "verifyUrl": "https://archive.org/details/WrightsArabicGrammar/page/n87"
     },
     {
       "id": 21,
@@ -263,7 +269,8 @@
       "type": "fill_blank",
       "prompt": "المساجد ___ (alt, Adjektiv)",
       "answer": "قَدِيمَة (Feminin Singular)",
-      "explanation": "مَسَاجِد ist gebrochener Plural eines Nicht-Personen-Nomens → Feminin Singular."
+      "explanation": "مَسَاجِد ist gebrochener Plural eines Nicht-Personen-Nomens → Feminin Singular.",
+      "verifyUrl": "https://archive.org/details/WrightsArabicGrammar/page/n87"
     },
     {
       "id": 24,
@@ -280,7 +287,8 @@
       "type": "fill_blank",
       "prompt": "المسلمون ___ الصَّلَاةَ (أَقَامَ, Perfekt — konjugiere passend zum Subjekt)",
       "answer": "أَقَامُوا",
-      "explanation": "SVO-Stellung: Subjekt (المسلمون, maskulin Plural) steht VOR dem Verb → volle Kongruenz in Person, Genus und Numerus erforderlich (Regel R2). أَقَامَ (3. Person maskulin Singular) wäre nur korrekt in VSO-Stellung (أَقَامَ المسلمونَ). Hier muss das Verb im Plural stehen: أَقَامُوا."
+      "explanation": "SVO-Stellung: Subjekt (المسلمون, maskulin Plural) steht VOR dem Verb → volle Kongruenz in Person, Genus und Numerus erforderlich (Regel R2). أَقَامَ (3. Person maskulin Singular) wäre nur korrekt in VSO-Stellung (أَقَامَ المسلمونَ). Hier muss das Verb im Plural stehen: أَقَامُوا.",
+      "verifyUrl": "https://archive.org/details/WrightsArabicGrammar/page/n87"
     },
     {
       "id": 26,
@@ -318,7 +326,8 @@
       "prompt": "جَاءَ ___ الصالحات (die rechtschaffenen Frauen, Nominativ)",
       "answer": "النِّسَاءُ",
       "explanation": "VSO-Stellung: جَاءَ (ohne Ta) wenn النساء nach dem Verb steht. نِسَاء ist ein gebrochener Feminin-Plural. Bei solchen Formen ist die Ta-Markierung am Verb im Klassischen Arabisch optional.",
-      "note": "Beide Formen sind akzeptabel: جَاءَ النِّسَاءُ (ohne Ta-Markierung) und جَاءَتِ النِّسَاءُ (mit Ta-Markierung). Weder die eine noch die andere Form ist 'richtiger' — bei gebrochenen Pluralen und Kollektiva ist die Genuswahl am Verb frei."
+      "note": "Beide Formen sind akzeptabel: جَاءَ النِّسَاءُ (ohne Ta-Markierung) und جَاءَتِ النِّسَاءُ (mit Ta-Markierung). Weder die eine noch die andere Form ist 'richtiger' — bei gebrochenen Pluralen und Kollektiva ist die Genuswahl am Verb frei.",
+      "verifyUrl": "https://archive.org/details/WrightsArabicGrammar/page/n87"
     },
     {
       "id": 30,

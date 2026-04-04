@@ -71,7 +71,8 @@
         {
           "type": "analysis",
           "prompt": "Im Quran steht fast immer يَا als Vokativpartikel. Nenne zwei syntaktische Eigenschaften, die يَا von anderen Vokativpartikeln unterscheiden.",
-          "hint": "1. يَا kann vor أَيُّهَا stehen (andere Partikeln nicht). 2. يَا kann sowohl ferne als auch nahe Adressaten ansprechen."
+          "hint": "1. يَا kann vor أَيُّهَا stehen (andere Partikeln nicht). 2. يَا kann sowohl ferne als auch nahe Adressaten ansprechen.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=11&verse=42"
         }
       ],
       "testContent": {
@@ -85,7 +86,8 @@
               "هَيَا"
             ],
             "correct": 1,
-            "explanation": "Im Quran wird ausschließlich يَا als Vokativpartikel verwendet. Andere Partikeln wie أَيْ, أَيَا, هَيَا kommen nicht vor."
+            "explanation": "Im Quran wird ausschließlich يَا als Vokativpartikel verwendet. Andere Partikeln wie أَيْ, أَيَا, هَيَا kommen nicht vor.",
+            "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=11&verse=42"
           },
           {
             "question": "Was ist der Munada syntaktisch?",
@@ -96,7 +98,8 @@
               "Tamyiz (Spezifikation)"
             ],
             "correct": 2,
-            "explanation": "Der Munada steht syntaktisch im Akkusativ (مَنصوب). Die Kasuszuweisung erfolgt durch die Vokativpartikel يَا selbst."
+            "explanation": "Der Munada steht syntaktisch im Akkusativ (مَنصوب). Die Kasuszuweisung erfolgt durch die Vokativpartikel يَا selbst.",
+            "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=11&verse=42"
           }
         ]
       }
@@ -209,7 +212,8 @@
               "Tanwin (Nunation)"
             ],
             "correct": 2,
-            "explanation": "Ein einzelner Eigenname als Munada wird auf Damma aufgebaut (مبنيّ على الضمّ في محلّ نصب). Er trägt weder Tanwin noch Fatha."
+            "explanation": "Ein einzelner Eigenname als Munada wird auf Damma aufgebaut (مبنيّ على الضمّ في محلّ نصب). Er trägt weder Tanwin noch Fatha.",
+            "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=11&verse=46"
           },
           {
             "question": "Warum steht der Eigenname als Munada auf Damma und nicht auf Fatha?",
@@ -220,7 +224,8 @@
               "Weil يَا den Nominativ regiert"
             ],
             "correct": 1,
-            "explanation": "Der Damma-Aufbau erklärt sich durch die Abgeschlossenheit des Munada: Er braucht keine Ergänzung (keine Idafa, keine Beschreibung), daher wird er nicht voll flektiert, sondern auf Damma aufgebaut."
+            "explanation": "Der Damma-Aufbau erklärt sich durch die Abgeschlossenheit des Munada: Er braucht keine Ergänzung (keine Idafa, keine Beschreibung), daher wird er nicht voll flektiert, sondern auf Damma aufgebaut.",
+            "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=11&verse=46"
           }
         ]
       }
@@ -264,7 +269,8 @@
         {
           "type": "analysis",
           "prompt": "Erkläre den Unterschied zwischen يَا رَجُلُ und يَا رَجُلًا. Welcher Typ liegt jeweils vor?",
-          "hint": "يَا رَجُلُ — Nakira Maqsuda: Ein bestimmter Mann wird angesprochen (Damma). يَا رَجُلًا — Nakira Ghayr Maqsuda: Ein unbestimmter, nicht identifizierter Mann (Akkusativ mit Tanwin)."
+          "hint": "يَا رَجُلُ — Nakira Maqsuda: Ein bestimmter Mann wird angesprochen (Damma). يَا رَجُلًا — Nakira Ghayr Maqsuda: Ein unbestimmter, nicht identifizierter Mann (Akkusativ mit Tanwin).",
+          "verifyUrl": "https://archive.org/details/WrightsArabicGrammar/page/n87"
         },
         {
           "type": "multiple_choice",
@@ -276,7 +282,8 @@
             "Mufrad Alam und Mudaf"
           ],
           "correct": 1,
-          "explanation": "Mufrad Alam (Eigenname) und Nakira Maqsuda (bestimmt gemeinte Nakira) werden beide auf Damma aufgebaut. Beide sind abgeschlossen und durch den Nida' definit."
+          "explanation": "Mufrad Alam (Eigenname) und Nakira Maqsuda (bestimmt gemeinte Nakira) werden beide auf Damma aufgebaut. Beide sind abgeschlossen und durch den Nida' definit.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=36&verse=20"
         }
       ],
       "testContent": {
@@ -290,7 +297,8 @@
               "Weil sie einen Artikel trägt"
             ],
             "correct": 1,
-            "explanation": "Die Nakira Maqsuda wird durch die Anrede definit — der Angesprochene ist identifiziert. Da sie keine syntaktische Ergänzung braucht, wird sie wie der Eigenname auf Damma aufgebaut."
+            "explanation": "Die Nakira Maqsuda wird durch die Anrede definit — der Angesprochene ist identifiziert. Da sie keine syntaktische Ergänzung braucht, wird sie wie der Eigenname auf Damma aufgebaut.",
+            "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=36&verse=20"
           }
         ]
       }
@@ -392,7 +400,8 @@
               "Nominativ (مرفوع)"
             ],
             "correct": 1,
-            "explanation": "Der Mudaf-Munada steht im Akkusativ (منصوب), weil er nicht abgeschlossen ist — er braucht sein Mudaf ilayhi zur Vervollständigung."
+            "explanation": "Der Mudaf-Munada steht im Akkusativ (منصوب), weil er nicht abgeschlossen ist — er braucht sein Mudaf ilayhi zur Vervollständigung.",
+            "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=40"
           },
           {
             "question": "Was ist die grammatische Analyse von يَا بَنِي إِسْرَائِيلَ?",
@@ -403,7 +412,8 @@
               "يَا = Konjunktion, بَنِي = Mubtada', إِسْرَائِيلَ = Khabar"
             ],
             "correct": 1,
-            "explanation": "بَنِي ist Munada mansub als Mudaf, إِسْرَائِيلَ ist Mudaf ilayhi im Genitiv (diptotisch, daher Fatha statt Kasra)."
+            "explanation": "بَنِي ist Munada mansub als Mudaf, إِسْرَائِيلَ ist Mudaf ilayhi im Genitiv (diptotisch, daher Fatha statt Kasra).",
+            "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=40"
           }
         ]
       }
@@ -483,7 +493,8 @@
         {
           "type": "analysis",
           "prompt": "Warum sagt man يَا أَيُّهَا النَّاسُ und nicht *يَا النَّاسُ? Was ist der syntaktische Grund?",
-          "hint": "Ein Nomen mit Artikel (ال) kann im Arabischen nicht direkt nach يَا stehen. أَيُّهَا dient als Bruecke: أَيُّ ist der eigentliche Munada, das Nomen mit ال steht als Attribut."
+          "hint": "Ein Nomen mit Artikel (ال) kann im Arabischen nicht direkt nach يَا stehen. أَيُّهَا dient als Bruecke: أَيُّ ist der eigentliche Munada, das Nomen mit ال steht als Attribut.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=21"
         },
         {
           "type": "identification",
@@ -494,7 +505,8 @@
         {
           "type": "identification",
           "prompt": "Wie oft kommt يَا أَيُّهَا الَّذِينَ آمَنُوا im Quran ungefaehr vor? Was folgt typischerweise darauf?",
-          "hint": "Über 80 Mal. Typischerweise folgt ein Imperativ (Befehl) oder لَا + Jussiv (Verbot) oder ein إِنَّ-Satz."
+          "hint": "Über 80 Mal. Typischerweise folgt ein Imperativ (Befehl) oder لَا + Jussiv (Verbot) oder ein إِنَّ-Satz.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=104"
         },
         {
           "type": "multiple_choice",
@@ -506,7 +518,8 @@
             "Unflektierbar (مبنيّ)"
           ],
           "correct": 2,
-          "explanation": "النَّبِيُّ steht im Nominativ (Damma) als Attribut (Badal oder 'Atf Bayan) zu أَيُّ. Da أَيُّ auf Damma aufgebaut ist, folgt das Attribut im Nominativ."
+          "explanation": "النَّبِيُّ steht im Nominativ (Damma) als Attribut (Badal oder 'Atf Bayan) zu أَيُّ. Da أَيُّ auf Damma aufgebaut ist, folgt das Attribut im Nominativ.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=33&verse=45"
         }
       ],
       "testContent": {
@@ -520,7 +533,8 @@
               "Relativpronomen"
             ],
             "correct": 2,
-            "explanation": "هَا ist eine ueberzaehlige Partikel (زائدة) zur Verstärkung der Aufmerksamkeit. Sie hat keine eigenständige syntaktische Funktion."
+            "explanation": "هَا ist eine ueberzaehlige Partikel (زائدة) zur Verstärkung der Aufmerksamkeit. Sie hat keine eigenständige syntaktische Funktion.",
+            "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=21"
           },
           {
             "question": "Warum kann man nicht *يَا النَّاسُ sagen?",
@@ -531,7 +545,8 @@
               "Weil يَا nur vor Eigennamen steht"
             ],
             "correct": 1,
-            "explanation": "Im Arabischen ist die Kombination يَا + ال direkt auf dem Munada nicht zulässig. Die Brueckenkonstruktion يَا أَيُّهَا + Nomen mit ال löst dieses Problem."
+            "explanation": "Im Arabischen ist die Kombination يَا + ال direkt auf dem Munada nicht zulässig. Die Brueckenkonstruktion يَا أَيُّهَا + Nomen mit ال löst dieses Problem.",
+            "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=21"
           },
           {
             "question": "Was ist أَيُّ in der Konstruktion يَا أَيُّهَا النَّاسُ?",
@@ -542,7 +557,8 @@
               "Mudaf ilayhi"
             ],
             "correct": 2,
-            "explanation": "أَيُّ ist der eigentliche Munada, auf Damma aufgebaut. Das Nomen mit ال (النَّاسُ) ist sein Attribut."
+            "explanation": "أَيُّ ist der eigentliche Munada, auf Damma aufgebaut. Das Nomen mit ال (النَّاسُ) ist sein Attribut.",
+            "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=21"
           }
         ]
       }
@@ -604,7 +620,8 @@
         {
           "type": "analysis",
           "prompt": "Was unterscheidet den Shabih bil-Mudaf syntaktisch vom echten Mudaf? Gib je ein Beispiel.",
-          "hint": "Mudaf: Nomen + Nomen im Genitiv (Idafa), z.B. يَا عَبْدَ اللَّهِ. Shabih bil-Mudaf: Nomen + andere Ergänzung (Objekt, Präpositionalphrase), z.B. يَا طَالِعًا جَبَلًا. Beide stehen im Akkusativ."
+          "hint": "Mudaf: Nomen + Nomen im Genitiv (Idafa), z.B. يَا عَبْدَ اللَّهِ. Shabih bil-Mudaf: Nomen + andere Ergänzung (Objekt, Präpositionalphrase), z.B. يَا طَالِعًا جَبَلًا. Beide stehen im Akkusativ.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=18&verse=49"
         },
         {
           "type": "analysis",
@@ -624,7 +641,8 @@
               "Ein femininer Munada"
             ],
             "correct": 1,
-            "explanation": "Der Shabih bil-Mudaf ist ein Munada, der nicht durch Idafa, sondern durch eine andere syntaktische Ergänzung (Objekt, Präpositionalphrase etc.) vervollständigt wird. Daher Akkusativ."
+            "explanation": "Der Shabih bil-Mudaf ist ein Munada, der nicht durch Idafa, sondern durch eine andere syntaktische Ergänzung (Objekt, Präpositionalphrase etc.) vervollständigt wird. Daher Akkusativ.",
+            "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=18&verse=49"
           },
           {
             "question": "Welcher Munada-Typ trägt Tanwin?",
@@ -635,7 +653,8 @@
               "Mudaf"
             ],
             "correct": 2,
-            "explanation": "Nur die Nakira Ghayr Maqsuda (unbestimmt, nicht identifiziert) trägt Tanwin im Akkusativ (z.B. يَا رَجُلًا). Alle anderen Typen haben entweder Damma ohne Tanwin oder Fatha ohne Tanwin."
+            "explanation": "Nur die Nakira Ghayr Maqsuda (unbestimmt, nicht identifiziert) trägt Tanwin im Akkusativ (z.B. يَا رَجُلًا). Alle anderen Typen haben entweder Damma ohne Tanwin oder Fatha ohne Tanwin.",
+            "verifyUrl": "https://archive.org/details/WrightsArabicGrammar/page/n87"
           }
         ]
       }
@@ -715,7 +734,8 @@
         {
           "type": "morphology",
           "prompt": "Zerlege يَا بُنَيَّ in seine morphologischen Bestandteile. Welches Muster liegt dem Diminutiv zugrunde?",
-          "hint": "يَا = Vokativpartikel. بُنَيّ = Diminutiv von اِبْن auf dem Muster فُعَيْل. Das doppelte Ya' (Shadda) entsteht durch Verschmelzung: ي des Diminutivs + ي des Possessivsuffixes 1.Sg."
+          "hint": "يَا = Vokativpartikel. بُنَيّ = Diminutiv von اِبْن auf dem Muster فُعَيْل. Das doppelte Ya' (Shadda) entsteht durch Verschmelzung: ي des Diminutivs + ي des Possessivsuffixes 1.Sg.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=31&verse=13"
         },
         {
           "type": "analysis",
@@ -741,7 +761,8 @@
               "Durch Idgham des Lam in Ya'"
             ],
             "correct": 1,
-            "explanation": "بُنَيِّي hat zwei aufeinanderfolgende Ya': das Ya' des Diminutivmusters (فُعَيْل) und das Ya' des Possessivsuffixes 1.Sg. Diese verschmelzen zu einem Ya' mit Shadda."
+            "explanation": "بُنَيِّي hat zwei aufeinanderfolgende Ya': das Ya' des Diminutivmusters (فُعَيْل) und das Ya' des Possessivsuffixes 1.Sg. Diese verschmelzen zu einem Ya' mit Shadda.",
+            "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=31&verse=13"
           },
           {
             "question": "Was ersetzt die ت in يَا أَبَتِ?",
@@ -752,7 +773,8 @@
               "Das Tanwin"
             ],
             "correct": 1,
-            "explanation": "In يَا أَبَتِ ersetzt die ت das Possessivsuffix ي der 1. Person Singular. Diese Ersetzung kommt nur im Nida' vor. Vollform: يَا أَبِي."
+            "explanation": "In يَا أَبَتِ ersetzt die ت das Possessivsuffix ي der 1. Person Singular. Diese Ersetzung kommt nur im Nida' vor. Vollform: يَا أَبِي.",
+            "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=12&verse=4"
           }
         ]
       }
@@ -872,7 +894,8 @@
               "Sonderkonstruktion mit أَيُّهَا"
             ],
             "correct": 1,
-            "explanation": "أَهْلَ ist Mudaf zu الْكِتَابِ (Idafa). Daher Akkusativ (Fatha auf أَهْلَ)."
+            "explanation": "أَهْلَ ist Mudaf zu الْكِتَابِ (Idafa). Daher Akkusativ (Fatha auf أَهْلَ).",
+            "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=64"
           },
           {
             "question": "Welche Faustregel bestimmt Damma vs. Akkusativ beim Munada?",
@@ -883,7 +906,8 @@
               "Singular = Damma, Plural = Akkusativ"
             ],
             "correct": 1,
-            "explanation": "Abgeschlossen + definit (Eigenname, Nakira Maqsuda) = Damma. Nicht abgeschlossen (Mudaf, Shabih bil-Mudaf) oder unbestimmt (Nakira Ghayr Maqsuda) = Akkusativ."
+            "explanation": "Abgeschlossen + definit (Eigenname, Nakira Maqsuda) = Damma. Nicht abgeschlossen (Mudaf, Shabih bil-Mudaf) oder unbestimmt (Nakira Ghayr Maqsuda) = Akkusativ.",
+            "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=11&verse=46"
           },
           {
             "question": "In يَا أَيُّهَا الَّذِينَ آمَنُوا: Was ist الَّذِينَ syntaktisch?",
@@ -894,7 +918,8 @@
               "Mudaf ilayhi"
             ],
             "correct": 2,
-            "explanation": "الَّذِينَ ist Attribut zu أَيُّ (entweder Badal oder 'Atf Bayan). أَيُّ ist der eigentliche Munada."
+            "explanation": "الَّذِينَ ist Attribut zu أَيُّ (entweder Badal oder 'Atf Bayan). أَيُّ ist der eigentliche Munada.",
+            "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=104"
           },
           {
             "question": "Wie viele Munada-Typen gibt es, und wie viele davon stehen auf Damma?",
@@ -905,7 +930,8 @@
               "4 Typen, davon 2 auf Damma"
             ],
             "correct": 1,
-            "explanation": "Es gibt 5 Munada-Typen: Mufrad Alam und Nakira Maqsuda stehen auf Damma (2). Mudaf, Shabih bil-Mudaf und Nakira Ghayr Maqsuda stehen im Akkusativ (3)."
+            "explanation": "Es gibt 5 Munada-Typen: Mufrad Alam und Nakira Maqsuda stehen auf Damma (2). Mudaf, Shabih bil-Mudaf und Nakira Ghayr Maqsuda stehen im Akkusativ (3).",
+            "verifyUrl": "https://archive.org/details/WrightsArabicGrammar/page/n87"
           }
         ]
       }

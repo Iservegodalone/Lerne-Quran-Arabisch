@@ -87,7 +87,8 @@
               "Der Satz steht nach einer Präposition"
             ],
             "correct": 1,
-            "explanation": "في محل نصب حال bedeutet: Die gesamte Phrase nimmt virtuelle Akkusativ-Position (als Hal) ein. Intern folgt der Satz seinen eigenen Regeln — ein Nominalsatz hat Nominative Kasus für Mubtada und Khabar. Aber nach aussen hin ist die ganze Phrase ein Hal."
+            "explanation": "في محل نصب حال bedeutet: Die gesamte Phrase nimmt virtuelle Akkusativ-Position (als Hal) ein. Intern folgt der Satz seinen eigenen Regeln — ein Nominalsatz hat Nominative Kasus für Mubtada und Khabar. Aber nach aussen hin ist die ganze Phrase ein Hal.",
+            "verifyUrl": "https://archive.org/details/WrightsArabicGrammar/page/n87"
           }
         ]
       }
@@ -133,7 +134,8 @@
         {
           "type": "distinction",
           "question": "Was ist der Unterschied zwischen الَّذِينَ يُؤْمِنُونَ und رَجُلٌ يُؤْمِنُ in Bezug auf das محل des Satzes?",
-          "answer": "الَّذِينَ يُؤْمِنُونَ: يُؤْمِنُونَ ist Silah (لا محل له — kein محل). Das Relativpronomen الَّذِينَ trägt die grammatische Position. رَجُلٌ يُؤْمِنُ: يُؤْمِنُ ist Sifa eines indefiniten Nomens — في محل رفع صفة لـ رَجُل (weil رَجُلٌ im Nominativ steht). Der Satz hat hier ein محل als Attribut."
+          "answer": "الَّذِينَ يُؤْمِنُونَ: يُؤْمِنُونَ ist Silah (لا محل له — kein محل). Das Relativpronomen الَّذِينَ trägt die grammatische Position. رَجُلٌ يُؤْمِنُ: يُؤْمِنُ ist Sifa eines indefiniten Nomens — في محل رفع صفة لـ رَجُل (weil رَجُلٌ im Nominativ steht). Der Satz hat hier ein محل als Attribut.",
+          "verifyUrl": "https://archive.org/details/WrightsArabicGrammar/page/n87"
         }
       ],
       "testContent": {
@@ -147,7 +149,8 @@
               "Weil Relativsätze generell keine Grammatikfunktion haben"
             ],
             "correct": 1,
-            "explanation": "Das Relativpronomen (الَّذِي, الَّذِينَ, مَا, مَنْ) nimmt die grammatische Position (Subjekt, Objekt etc.) ein. Der Relativsatz danach ist seine 'Silah' — er erklärt, WEN das Pronomen meint. Daher hat der Satz selbst kein eigenes محل."
+            "explanation": "Das Relativpronomen (الَّذِي, الَّذِينَ, مَا, مَنْ) nimmt die grammatische Position (Subjekt, Objekt etc.) ein. Der Relativsatz danach ist seine 'Silah' — er erklärt, WEN das Pronomen meint. Daher hat der Satz selbst kein eigenes محل.",
+            "verifyUrl": "https://archive.org/details/WrightsArabicGrammar/page/n87"
           }
         ]
       }
@@ -232,7 +235,8 @@
               "Nur يَكْذِبُونَ"
             ],
             "correct": 1,
-            "explanation": "مَا als Relativpronomen steht في محل جر nach der Praeposition بِ. Der Relativsatz كَانُوا يَكْذِبُونَ ist die Silah und hat لا محل له. Die grammatische Position (Genitiv) traegt das Pronomen مَا."
+            "explanation": "مَا als Relativpronomen steht في محل جر nach der Praeposition بِ. Der Relativsatz كَانُوا يَكْذِبُونَ ist die Silah und hat لا محل له. Die grammatische Position (Genitiv) traegt das Pronomen مَا.",
+            "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=10"
           },
           {
             "question": "In مِنْ حَيْثُ خَرَجْتَ — welches Element regiert den Satz خَرَجْتَ im Genitiv?",
@@ -243,7 +247,8 @@
               "خَرَجْتَ steht في محل نصب als Maf'ul bihi"
             ],
             "correct": 1,
-            "explanation": "حَيْثُ ist ein Zarf, das als Mudaf fungiert. Der folgende Satz خَرَجْتَ ist Mudaf ilayh und steht في محل جر. Die Praeposition مِنْ regiert حَيْثُ, nicht den Satz direkt. Es liegt eine zweistufige Rektion vor: مِنْ → حَيْثُ → خَرَجْتَ."
+            "explanation": "حَيْثُ ist ein Zarf, das als Mudaf fungiert. Der folgende Satz خَرَجْتَ ist Mudaf ilayh und steht في محل جر. Die Praeposition مِنْ regiert حَيْثُ, nicht den Satz direkt. Es liegt eine zweistufige Rektion vor: مِنْ → حَيْثُ → خَرَجْتَ.",
+            "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=149"
           }
         ]
       }
@@ -322,7 +327,8 @@
               "لا محل له (keine Position)"
             ],
             "correct": 1,
-            "explanation": "Der zitierte Satz nach Verben des Sagens steht في محل نصب als Maf'ul bihi (direktes Objekt) bzw. Maqul al-Qawl (das Gesagte). Dies gilt unabhaengig davon, ob das Zitat ein Nominalsatz, Verbalsatz, Imperativ oder Fragesatz ist."
+            "explanation": "Der zitierte Satz nach Verben des Sagens steht في محل نصب als Maf'ul bihi (direktes Objekt) bzw. Maqul al-Qawl (das Gesagte). Dies gilt unabhaengig davon, ob das Zitat ein Nominalsatz, Verbalsatz, Imperativ oder Fragesatz ist.",
+            "verifyUrl": "https://archive.org/details/WrightsArabicGrammar/page/n87"
           },
           {
             "question": "In قَالَ أَنَا خَيْرٌ مِنْهُ (7:12) — wie verhaelt sich der interne Kasus des Satzes zu seiner externen Position?",
