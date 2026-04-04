@@ -308,7 +308,7 @@
     {
       "id": "syn_307",
       "type": "parse",
-      "category": "ism_fi'l",
+      "category": "interrogative",
       "verse": "وَقَالُوا لِجُلُودِهِمْ لِمَ شَهِدْتُمْ عَلَيْنَا",
       "surah": 41,
       "ayah": 21,
@@ -1009,6 +1009,7 @@
       "verse": "مَهْ",
       "surah": 0,
       "ayah": 0,
+      "nonQuranic": true,
       "note": "Nicht-koranisches Beispiel. مَهْ ist ein klassisches Paradigma fuer Ism Fi'l Amr, das im Quran nicht vorkommt, aber zum grammatischen System gehoert.",
       "verifyUrl": "https://archive.org/details/WrightsArabicGrammar/page/n293",
       "words": [

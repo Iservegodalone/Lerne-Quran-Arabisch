@@ -25,21 +25,24 @@
           "verseRange": "1-4",
           "function": "Thematische Rahmung",
           "description": "Vier Satzteile in Nominalstruktur: بسم الله / رب العالمين / الرحمن الرحيم / مالك يوم الدين. Rein praedikativ, kein Verb.",
-          "marker": "Nominalphrasen ohne Verb — reine Zuschreibung"
+          "marker": "Nominalphrasen ohne Verb — reine Zuschreibung",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=1"
         },
         {
           "label": "B: Zentrum (Wendepunkt)",
           "verseRange": "5",
           "function": "Sprechaktwechsel: von Beschreibung (3. Person) zu Anrede (2. Person)",
           "description": "إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ — Iltifat (Personenwechsel) von 3. zu 2. Person. Vorangestelltes Objekt (Taqdim) als Struktursignal.",
-          "marker": "Iltifat (3. → 2. Person), Taqdim des Objekts إِيَّاكَ"
+          "marker": "Iltifat (3. → 2. Person), Taqdim des Objekts إِيَّاكَ",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=5"
         },
         {
           "label": "A': Bitte",
           "verseRange": "6-7",
           "function": "Gegenstück zur Eröffnung",
           "description": "Imperative (اهْدِنَا) und Relativsätze (الَّذِينَ). Ring schließt sich: Vers 1-3 benennen Attribute, Vers 6-7 formulieren die Konsequenz daraus.",
-          "marker": "Imperativ اهْدِنَا — einziger Imperativ der Sure"
+          "marker": "Imperativ اهْدِنَا — einziger Imperativ der Sure",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=6"
         }
       ],
       "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=1"
@@ -56,21 +59,24 @@
           "verseRange": "1-3",
           "function": "Metasprachliche Rahmung",
           "description": "Huruf Muqattaat (الر) + Selbstbezug des Textes: تِلْكَ آيَاتُ الْكِتَابِ + نَحْنُ نَقُصُّ عَلَيْكَ. Der Text kündigt sich selbst als Erzählung an.",
-          "marker": "نَقُصُّ (wir erzählen) — metanarrativer Marker"
+          "marker": "نَقُصُّ (wir erzählen) — metanarrativer Marker",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=12&verse=1"
         },
         {
           "label": "Erzählung",
           "verseRange": "4-101",
           "function": "Fortlaufende Narration",
           "description": "Längste zusammenhängende Erzählung im Quran. Durchgehende narrative Vergangenheitsform (Perfekt-Kette: قَالَ / فَلَمَّا / إِذْ قَالَ). Kein Refrain, kein Anredewechsel — reine Narration.",
-          "marker": "Ketten von قَالَ (er sagte), فَلَمَّا (als dann), إِذْ (als)"
+          "marker": "Ketten von قَالَ (er sagte), فَلَمَّا (als dann), إِذْ (als)",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=12&verse=4"
         },
         {
           "label": "Rahmen: Schluss",
           "verseRange": "102-111",
           "function": "Metasprachliche Schliessung",
           "description": "Rückkehr zur Rahmenebene: ذَٰلِكَ مِنْ أَنبَاءِ الْغَيْبِ (102). Der Text kommentiert sich selbst wieder. Ringschluss mit der Einleitung.",
-          "marker": "ذَٰلِكَ مِنْ أَنبَاءِ — Rückverweis auf نَقُصُّ aus Vers 3"
+          "marker": "ذَٰلِكَ مِنْ أَنبَاءِ — Rückverweis auf نَقُصُّ aus Vers 3",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=12&verse=102"
         }
       ],
       "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=12&verse=1"
@@ -87,21 +93,24 @@
           "verseRange": "1-9",
           "function": "Rahmung",
           "description": "Huruf Muqattaat + Textthema.",
-          "marker": "طسم"
+          "marker": "طسم",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=26&verse=1"
         },
         {
           "label": "Verkündererzählungen (7x)",
           "verseRange": "10-191",
           "function": "Sieben parallele Erzählbloecke mit identischer Struktur",
           "description": "Jeder Block folgt demselben Schema: Sendung → Ablehnung → Strafe. Der Doppelrefrain إِنَّ فِي ذَٰلِكَ لَآيَةً وَمَا كَانَ أَكْثَرُهُم مُّؤْمِنِينَ / وَإِنَّ رَبَّكَ لَهُوَ الْعَزِيزُ الرَّحِيمُ erscheint nach jedem Block. Das erste Vorkommen (V.8-9) steht nach der Einleitung (V.1-7), noch vor dem ersten Erzählblock.",
-          "marker": "Doppelrefrain (V.8-9 nach Einleitung, dann 67-68, 103-104, 121-122, 139-140, 158-159, 174-175, 190-191 nach den Erzählbloecken)"
+          "marker": "Doppelrefrain (V.8-9 nach Einleitung, dann 67-68, 103-104, 121-122, 139-140, 158-159, 174-175, 190-191 nach den Erzählbloecken)",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=26&verse=10"
         },
         {
           "label": "Schluss: Dichter",
           "verseRange": "192-227",
           "function": "Thematischer Kontrast",
           "description": "Wechsel von Narration zu Argumentation. Kontraststruktur: Dichter (الشعراء) vs. Glaubende (إِلَّا الَّذِينَ آمَنُوا). Ausnahme-Konstruktion (إِلَّا) als Schlussmarker.",
-          "marker": "وَالشُّعَرَاءُ — Nominalsatz als Themenwechsel"
+          "marker": "وَالشُّعَرَاءُ — Nominalsatz als Themenwechsel",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=26&verse=192"
         }
       ],
       "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=26&verse=1"
@@ -118,35 +127,40 @@
           "verseRange": "1-13",
           "function": "Nominale Aufzählung",
           "description": "Reine Nominalstrukturen und Perfektverben: عَلَّمَ / خَلَقَ. Nach jedem Abschnittende: Refrain.",
-          "marker": "Erster Refrain bei Vers 13"
+          "marker": "Erster Refrain bei Vers 13",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=55&verse=1"
         },
         {
           "label": "Abschnitt 2: Kosmische Strukturen",
           "verseRange": "14-25",
           "function": "Parallele Schöpfungspaare",
           "description": "Kontrastpaare: الثقلان (Menschen und Jinn), المشرقين (die beiden Osten). Duale Formen als Struktursignal.",
-          "marker": "Dualformen: رَبُّ الْمَشْرِقَيْنِ، الْبَحْرَيْنِ"
+          "marker": "Dualformen: رَبُّ الْمَشْرِقَيْنِ، الْبَحْرَيْنِ",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=55&verse=14"
         },
         {
           "label": "Abschnitt 3: Vergänglichkeit",
           "verseRange": "26-30",
           "function": "Zentrales Kontrastpaar",
           "description": "كُلُّ مَنْ عَلَيْهَا فَانٍ / وَيَبْقَىٰ وَجْهُ رَبِّكَ — Antithese als Strukturzentrum.",
-          "marker": "فَانٍ vs. يَبْقَىٰ — antithetischer Kern"
+          "marker": "فَانٍ vs. يَبْقَىٰ — antithetischer Kern",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=55&verse=26"
         },
         {
           "label": "Abschnitt 4: Anrede an die Thaqalain — Rechenschaft und Strafe",
           "verseRange": "31-45",
           "function": "Direkte Anrede und Drohungssequenz",
           "description": "Direkte Anrede an Menschen und Jinn (سَنَفْرُغُ لَكُمْ أَيُّهَ الثَّقَلَانِ, Vers 31). Beschreibung der Konsequenzen: Flucht ohne Entkommen (يُرْسَلُ عَلَيْكُمَا شُوَاظٌ, Vers 35), kosmische Zeichen (انشَقَّتِ السَّمَاءُ, Vers 37), Identifikation der Sünder (يُعْرَفُ الْمُجْرِمُونَ بِسِيمَاهُمْ, Vers 41). Jeder Unterabschnitt wird durch den Refrain فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ gegliedert (Verse 32, 34, 36, 38, 40, 42, 44, 45).",
-          "marker": "أَيُّهَ الثَّقَلَانِ (Vers 31) — explizite Doppelanrede; achtmaliger Refrain"
+          "marker": "أَيُّهَ الثَّقَلَانِ (Vers 31) — explizite Doppelanrede; achtmaliger Refrain",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=55&verse=31"
         },
         {
           "label": "Abschnitt 5-6: Zwei Gartenpaare",
           "verseRange": "46-78",
           "function": "Symmetrische Beschreibungen",
           "description": "Zwei Gartenpaare (46-61 und 62-78) mit parallelen Beschreibungsketten. Syntaktische Parallelismen: فِيهِمَا / فِيهِنَّ wiederholt.",
-          "marker": "Anapher فِيهِمَا / فِيهِنَّ am Abschnittsbeginn"
+          "marker": "Anapher فِيهِمَا / فِيهِنَّ am Abschnittsbeginn",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=55&verse=46"
         }
       ],
       "refrain": {
@@ -168,21 +182,24 @@
           "verseRange": "1-32",
           "function": "Narration + Argumentation",
           "description": "Huruf Muqattaat (يس) + Schwur (وَالْقُرْآنِ الْحَكِيمِ). Dann Erzählung (اصحاب القرية). Übergang markiert durch وَاضْرِبْ لَهُم مَّثَلًا (Vers 13).",
-          "marker": "وَاضْرِبْ لَهُم مَّثَلًا — Imperativ als Erzähleinleitung"
+          "marker": "وَاضْرِبْ لَهُم مَّثَلًا — Imperativ als Erzähleinleitung",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=36&verse=1"
         },
         {
           "label": "Teil 2: Schöpfungsargumente",
           "verseRange": "33-50",
           "function": "Argumentative Aufzählung",
           "description": "Kette von وَآيَةٌ لَّهُمُ (und ein Zeichen für sie ist...). Wiederholte Nominalstruktur als Aufzählungssignal.",
-          "marker": "وَآيَةٌ لَّهُمُ — dreimal wiederholte Formel (33, 37, 41)"
+          "marker": "وَآيَةٌ لَّهُمُ — dreimal wiederholte Formel (33, 37, 41)",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=36&verse=33"
         },
         {
           "label": "Teil 3: Eschatologische Rede",
           "verseRange": "51-83",
           "function": "Direkte Rede und Kontrast",
           "description": "Strukturwechsel durch وَنُفِخَ فِي الصُّورِ (51). Dann Kontrastpaare: Garten-Bewohner (55-58) vs. andere (59-65). Abschluss: rhetorische Fragen + Lobformel.",
-          "marker": "وَنُفِخَ فِي الصُّورِ — Passiv-Konstruktion als Szenenwechsel"
+          "marker": "وَنُفِخَ فِي الصُّورِ — Passiv-Konstruktion als Szenenwechsel",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=36&verse=51"
         }
       ],
       "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=36&verse=1"
@@ -199,35 +216,40 @@
           "verseRange": "1-7",
           "function": "Thematische Setzung",
           "description": "Konditional-Struktur: إِذَا وَقَعَتِ الْوَاقِعَةُ — temporale Rahmung. Dreiteilung angekündigt: أَزْوَاجًا ثَلَاثَةً (Vers 7). Verse 8-9 nennen die erste und dritte Gruppe kurz als rhetorische Fragen.",
-          "marker": "أَزْوَاجًا ثَلَاثَةً — expliziter Gliederungshinweis"
+          "marker": "أَزْوَاجًا ثَلَاثَةً — expliziter Gliederungshinweis",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=56&verse=1"
         },
         {
           "label": "Gruppe 1: Vorausgehende (السابقون)",
           "verseRange": "10-26",
           "function": "Beschreibung der Vorausgehenden",
           "description": "وَالسَّابِقُونَ السَّابِقُونَ — Tawkid lafzi als Emphase. Detaillierte Beschreibung ihrer Belohnung.",
-          "marker": "Wiederholung السَّابِقُونَ als rhetorisches Mittel"
+          "marker": "Wiederholung السَّابِقُونَ als rhetorisches Mittel",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=56&verse=10"
         },
         {
           "label": "Gruppe 2: Rechte (أصحاب اليمين)",
           "verseRange": "27-40",
           "function": "Beschreibung der Rechten",
           "description": "وَأَصْحَابُ الْيَمِينِ مَا أَصْحَابُ الْيَمِينِ — rhetorische Frage leitet die Beschreibung ein.",
-          "marker": "مَا أَصْحَابُ الْيَمِينِ — rhetorische Frage"
+          "marker": "مَا أَصْحَابُ الْيَمِينِ — rhetorische Frage",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=56&verse=27"
         },
         {
           "label": "Gruppe 3: Linke (أصحاب الشمال)",
           "verseRange": "41-56",
           "function": "Kontrastgruppe",
           "description": "وَأَصْحَابُ الشِّمَالِ مَا أَصْحَابُ الشِّمَالِ — parallele Nominalstruktur zu Gruppe 2.",
-          "marker": "مَا أَصْحَابُ الشِّمَالِ — parallele rhetorische Frage"
+          "marker": "مَا أَصْحَابُ الشِّمَالِ — parallele rhetorische Frage",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=56&verse=41"
         },
         {
           "label": "Schluss: Argumentation",
           "verseRange": "57-96",
           "function": "Schöpfungsargumente + Schwur",
           "description": "أَفَرَأَيْتُمْ-Kette (Habt ihr gesehen?) viermal wiederholt (58, 63, 68, 71). Abschluss mit فَلَا أُقْسِمُ (75) — Schwurformel.",
-          "marker": "أَفَرَأَيْتُمْ — vierfache rhetorische Frage als Argumentationskette"
+          "marker": "أَفَرَأَيْتُمْ — vierfache rhetorische Frage als Argumentationskette",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=56&verse=57"
         }
       ],
       "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=56&verse=1"

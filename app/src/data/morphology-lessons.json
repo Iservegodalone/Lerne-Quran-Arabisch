@@ -397,7 +397,7 @@
               [
                 "III",
                 "فَاعَلَ",
-                "Reziprok (gegenseitige Handlung)",
+                "Versuch/Konativ, Reziprozitaet (z.B. قَاتَلَ = versuchte zu toeten / kaempfte gegen)",
                 "قَاتَلَ",
                 "er bekämpfte (gegenseitig)"
               ],
@@ -1268,6 +1268,7 @@
                 "word": "يَخْدَعُونَ",
                 "root": "خ-د-ع",
                 "analysis": "3.m.pl. Imperfekt. Sie betrügen. Präfix يـ + Suffix ـُونَ.",
+                "note": "Standard-Hafs-Lesung hat يُخَادِعُونَ (Form III). Die Form-I-Lesung يَخْدَعُونَ ist eine andere Ueberlieferung.",
                 "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=9"
               },
               {
@@ -1485,7 +1486,7 @@
               "Jussiv 2.m.sg.: تَفْعَلْ (tafʿal)",
               "Entferne das Präfix تـ: → فْعَلْ",
               "Der Stamm beginnt mit فْ (Konsonant + Sukūn) — ein Cluster das Arabisch am Wortanfang nicht erlaubt.",
-              "Füge ein Hilfs-Alif (Hamzat al-Wasl) hinzu: → اِفْعَلْ",
+              "Füge ein Hilfs-Alif (Hamzat al-Wasl) hinzu: → اِفْعَلْ. Der Vokal auf dem Hamzat al-Wasl richtet sich nach dem Stammvokal: Kasra bei a- und i-Klasse (اِفْعَلْ), Damma bei u-Klasse (اُكْتُبْ).",
               "Für Plural: تَفْعَلُوا → اِفْعَلُوا",
               "Ausnahme: Bei Verben deren Imperfekt-Stamm mit einem Vokal beginnt, entfällt das Hilfs-Alif: Bsp. قُلْ (von يَقُولُ → Jussiv يَقُلْ → Imperativ قُلْ)"
             ]
@@ -1991,6 +1992,7 @@
                 "word": "تُكَذِّبُونَ",
                 "root": "ك-ذ-ب",
                 "analysis": "Form II Imperfekt Aktiv. Ihr leugnet. Nicht Passiv, aber kontrastiert mit Passiv-Kontext.",
+                "contrastExample": true,
                 "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=82&verse=9"
               }
             ]
@@ -2182,7 +2184,7 @@
                 "location": "5:2",
                 "word": "تَعَاوَنُوا",
                 "root": "ع-و-ن",
-                "analysis": "Imperativ Form VI (تَفَاعَلَ). Helft einander. ن fehlt, da Imperativform: تَعَاوَنُوا = helft einander (wörtl. unterstützt euch gegenseitig).",
+                "analysis": "Imperativ Form VI (تَفَاعَلَ). Helft einander. ن fehlt: Die Imperativform leitet sich vom Jussiv-Stamm ab und hat daher kein Indikativ-Nun.",
                 "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=5&verse=2"
               }
             ]
@@ -3022,7 +3024,7 @@
               [
                 "VII",
                 "مُنْفَعِل",
-                "مُنْفَعَل",
+                "مُنْفَعَل (theoretisches Muster, in der Praxis nicht belegt)",
                 "—"
               ],
               [
@@ -3072,11 +3074,11 @@
             "title": "Nomenmuster im Quran",
             "examples": [
               {
-                "location": "2:3",
+                "location": "2:2",
                 "word": "الْمُتَّقِينَ",
                 "root": "و-ق-ي",
                 "analysis": "Aktives Partizip Form VIII (مُفْتَعِل), Plural. Die sich Hütenden. Singular: مُتَّقٍ.",
-                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=3"
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=2"
               },
               {
                 "location": "1:6",
@@ -3847,8 +3849,8 @@
               ],
               [
                 "فُعُل",
-                "كِتَاب → كُتُب",
-                "Bücher"
+                "كِتَاب → كُتُب, رَسُول → رُسُل",
+                "Bücher, Gesandte"
               ],
               [
                 "فُعَلَاء",
@@ -3874,11 +3876,6 @@
                 "فِعَال",
                 "جَبَل → جِبَال",
                 "Berge"
-              ],
-              [
-                "فُعُل",
-                "رَسُول → رُسُل",
-                "Gesandte"
               ]
             ]
           },
@@ -6988,43 +6985,50 @@
                 "ref": "96:15",
                 "arabic": "لَنَسْفَعًا",
                 "explanation": "la-nasfaʿan — Leichtes Nun (geschrieben als Alif mit Tanwin). Wurzel: s-f-ʿ. Wir werden gewiss zupacken.",
-                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=96&verse=15"
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=96&verse=15",
+                "location": "96:15"
               },
               {
                 "ref": "104:4",
                 "arabic": "لَيُنبَذَنَّ",
                 "explanation": "la-yunbaḏanna — Schweres Nun. Form I Passiv + Bekräftigung. Er wird gewiss geworfen werden.",
-                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=104&verse=4"
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=104&verse=4",
+                "location": "104:4"
               },
               {
                 "ref": "12:32",
                 "arabic": "لَيُسْجَنَنَّ",
                 "explanation": "la-yusǧananna — Schweres Nun. Er wird gewiss eingesperrt werden.",
-                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=12&verse=32"
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=12&verse=32",
+                "location": "12:32"
               },
               {
                 "ref": "12:33",
                 "arabic": "وَإِلَّا تَصْرِفْ عَنِّي كَيْدَهُنَّ أَصْبُ",
                 "explanation": "Ohne Energetisches Nun als Kontrast — normaler Jussiv nach illa.",
-                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=12&verse=33"
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=12&verse=33",
+                "location": "12:33"
               },
               {
                 "ref": "19:68",
                 "arabic": "فَوَرَبِّكَ لَنَحْشُرَنَّهُمْ",
                 "explanation": "la-naḥšurannnahum — Schweres Nun + Pronomen. Wir werden sie gewiss versammeln.",
-                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=19&verse=68"
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=19&verse=68",
+                "location": "19:68"
               },
               {
                 "ref": "21:57",
                 "arabic": "لَأَكِيدَنَّ",
                 "explanation": "la-akidanna — Schweres Nun. Ich werde gewiss einen Plan schmieden.",
-                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=21&verse=57"
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=21&verse=57",
+                "location": "21:57"
               },
               {
                 "ref": "14:7",
                 "arabic": "لَئِن شَكَرْتُمْ لَأَزِيدَنَّكُمْ",
                 "explanation": "la-azidannakum — Schweres Nun nach Schwur-Lam in Bedingungssatz. Ich werde euch gewiss vermehren.",
-                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=14&verse=7"
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=14&verse=7",
+                "location": "14:7"
               }
             ]
           },
@@ -7183,31 +7187,36 @@
                 "ref": "2:216",
                 "arabic": "كُتِبَ عَلَيْكُمُ الْقِتَالُ",
                 "explanation": "kutiba — Passiv Form I. Das Kämpfen wurde euch vorgeschrieben. الْقِتَالُ ist Nāʾib al-Fāʿil (Nominativ).",
-                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=216"
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=216",
+                "location": "2:216"
               },
               {
                 "ref": "3:3",
                 "arabic": "أُنزِلَتِ التَّوْرَاةُ",
                 "explanation": "unzilat — Passiv Form IV. Die Tora wurde herabgesandt. Kein Fāʿil genannt.",
-                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=3"
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=3",
+                "location": "3:3"
               },
               {
                 "ref": "2:285",
                 "arabic": "وَمَا أُنزِلَ إِلَيْهِ",
                 "explanation": "unzila — Passiv Form IV. Was zu ihm herabgesandt wurde.",
-                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=285"
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=285",
+                "location": "2:285"
               },
               {
                 "ref": "39:69",
                 "arabic": "وَقُضِيَ بَيْنَهُم بِالْحَقِّ",
                 "explanation": "qudiya — Passiv Form I von ق-ض-ي. Es wurde zwischen ihnen in Wahrheit gerichtet.",
-                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=39&verse=69"
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=39&verse=69",
+                "location": "39:69"
               },
               {
                 "ref": "3:169",
                 "arabic": "الَّذِينَ قُتِلُوا فِي سَبِيلِ اللَّهِ",
                 "explanation": "qutilū — Passiv Form I Plural. Die getötet wurden auf dem Weg Gottes.",
-                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=169"
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=169",
+                "location": "3:169"
               }
             ]
           },
@@ -7398,25 +7407,29 @@
                 "ref": "1:2",
                 "arabic": "الحمد لله رب العالمين",
                 "explanation": "الحمد — Mubtada', definit durch Artikel. لله — Khabar (Präpositionalphrase), definit durch Idafa. رب العالمين — Badal oder Sifa, definit durch Idafa (رب ist Mudaf, العالمين ist Mudaf ilayhi mit Artikel).",
-                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=2"
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=2",
+                "location": "1:2"
               },
               {
                 "ref": "2:2",
                 "arabic": "ذلك الكتاب لا ريب فيه",
                 "explanation": "ذلك — Demonstrativpronomen, definit. الكتاب — Sifa oder Badal, definit durch Artikel. لا ريب — Gattungsnegation: ريب ist indefinit (kein Artikel, kein Tanwin wegen لا التي لنفي الجنس).",
-                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=2"
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=2",
+                "location": "2:2"
               },
               {
                 "ref": "2:30",
                 "arabic": "اني جاعل في الارض خليفة",
                 "explanation": "خليفة — indefinit (mit Tanwin im vokalisierten Text). Die Indefinitheit zeigt: ein Stellvertreter, nicht der Stellvertreter. Die Unbestimmtheit ist hier syntaktisch und semantisch signifikant.",
-                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=30"
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=30",
+                "location": "2:30"
               },
               {
                 "ref": "3:96",
                 "arabic": "ان اول بيت وضع للناس للذي ببكة مباركا",
                 "explanation": "مباركا — Hal (Zustandsakkusativ), indefinit, Akkusativ. Der Hal muss indefinit sein — hier: gesegnet (als Zustand).",
-                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=96"
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=96",
+                "location": "3:96"
               }
             ]
           }
@@ -7622,6 +7635,39 @@
             "title": "Alif al-Wiqaya (ألف الوقاية) — Die Schutz-Alif",
             "content": "Nach Waw al-Jama'a (der Plural-Waw in Verbformen der 3. Person maskulin Plural) wird eine Alif angehängt, die NICHT gesprochen wird. Sie heißt Alif al-Wiqaya oder Alif al-Fariqa.\n\nBeispiele:\nكَتَبُوا (sie schrieben) — die Alif nach der Waw ist stumm\nذَهَبُوا (sie gingen) — gleiche stumme Alif\nآمَنُوا (sie glaubten) — Alif nach Waw\n\nDiese Alif unterscheidet die Pluralform von anderen Waw-Endungen und ist im Rasm (Konsonantentext) sichtbar. Sie ist rein orthographisch — kein Lautwert.\n\nWICHTIG: Die Alif fällt weg, wenn ein Suffix-Pronomen folgt:\nكَتَبُوا (sie schrieben) → كَتَبُوهُ (sie schrieben es) — Alif verschwindet vor dem Suffix\n\nIm Quran: وَإِذَا لَقُوا الَّذِينَ آمَنُوا (2:14) — آمَنُوا mit Schutz-Alif.",
             "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=14"
+          },
+          {
+            "type": "quranExamples",
+            "title": "Sonderkategorien im Quran",
+            "examples": [
+              {
+                "location": "71:10",
+                "word": "اسْتِغْفَار",
+                "root": "غ-ف-ر",
+                "translation": "Vergebungsbitte",
+                "pattern": "اِسْتِفْعَال",
+                "explanation": "Ism al-Masdar (Verbalsubstantiv) von Form X (اِسْتَغْفَرَ). Das Muster اِسْتِفْعَال ist der regulaere Masdar der Form X.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=71&verse=10"
+              },
+              {
+                "location": "6:59",
+                "word": "مِفْتَاح",
+                "root": "ف-ت-ح",
+                "translation": "Schluessel",
+                "pattern": "مِفْعَال",
+                "explanation": "Ism al-Ala (Instrumentennomen). Muster مِفْعَال mit Mim+Kasra-Praefix. Im Quran als Plural مَفَاتِح — وَعِندَهُ مَفَاتِحُ الْغَيْبِ.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=6&verse=59"
+              },
+              {
+                "location": "18:48",
+                "word": "مَوْعِد",
+                "root": "و-ع-د",
+                "translation": "Ort/Zeit des Versprechens",
+                "pattern": "مَفْعِل",
+                "explanation": "Ism al-Makaan/Zamaan (Orts-/Zeitnomen). Muster مَفْعِل — der Ort oder Zeitpunkt an dem die Wurzelbedeutung stattfindet.",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=18&verse=48"
+              }
+            ]
           }
         ]
       },
@@ -7936,31 +7982,36 @@
                 "ref": "1:2",
                 "arabic": "الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ",
                 "explanation": "حَمْد (Muster فَعْل) — Masdar von ح-م-د als Mubtada im Nominativ.",
-                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=2"
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=2",
+                "location": "1:2"
               },
               {
                 "ref": "2:216",
                 "arabic": "كُتِبَ عَلَيْكُمُ الْقِتَالُ",
                 "explanation": "قِتَال (Muster فِعَال) — Masdar von ق-ت-ل als Na'ib al-Fa'il im Nominativ.",
-                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=216"
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=216",
+                "location": "2:216"
               },
               {
                 "ref": "110:2",
                 "arabic": "يَدْخُلُونَ فِي دِينِ اللَّهِ أَفْوَاجًا",
                 "explanation": "دِين (Muster فِعْل) — Masdar von د-ي-ن im Genitiv nach في.",
-                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=110&verse=2"
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=110&verse=2",
+                "location": "110:2"
               },
               {
                 "ref": "2:282",
                 "arabic": "إِلَّا أَنْ تَكُونَ تِجَارَةً حَاضِرَةً",
                 "explanation": "تِجَارَة (Muster فِعَالَة) — Masdar von ت-ج-ر im Akkusativ als Khabar Kana.",
-                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=282"
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=282",
+                "location": "2:282"
               },
               {
                 "ref": "2:285",
                 "arabic": "غُفْرَانَكَ رَبَّنَا",
                 "explanation": "غُفْرَان (Muster فُعْلَان) — Masdar von غ-ف-ر als Maf'ul Mutlaq oder Maf'ul bihi, Akkusativ.",
-                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=285"
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=285",
+                "location": "2:285"
               }
             ]
           }
@@ -8182,25 +8233,29 @@
                 "ref": "2:112",
                 "arabic": "بَلَىٰ مَنْ أَسْلَمَ وَجْهَهُ لِلَّهِ وَهُوَ مُحْسِنٌ",
                 "explanation": "مُحْسِن — Aktivpartizip Form IV von ح-س-ن. Muster مُفْعِل.",
-                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=112"
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=112",
+                "location": "2:112"
               },
               {
                 "ref": "1:6",
                 "arabic": "اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ",
                 "explanation": "مُسْتَقِيم — Aktivpartizip Form X von ق-و-م. Muster مُسْتَفْعِل (mit Hohlung: و → ي).",
-                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=6"
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=6",
+                "location": "1:6"
               },
               {
                 "ref": "3:159",
                 "arabic": "فَتَوَكَّلْ عَلَى اللَّهِ إِنَّ اللَّهَ يُحِبُّ الْمُتَوَكِّلِينَ",
                 "explanation": "مُتَوَكِّلِين — Aktivpartizip Form V von و-ك-ل, Plural Genitiv.",
-                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=159"
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=159",
+                "location": "3:159"
               },
               {
                 "ref": "2:164",
                 "arabic": "إِنَّ فِي خَلْقِ السَّمَاوَاتِ وَالْأَرْضِ وَاخْتِلَافِ اللَّيْلِ",
                 "explanation": "اخْتِلَاف — Masdar Form VIII von خ-ل-ف. Muster اِفْتِعَال.",
-                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=164"
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=164",
+                "location": "2:164"
               }
             ]
           }
@@ -8414,19 +8469,22 @@
                 "ref": "2:125",
                 "arabic": "وَاتَّخِذُوا مِنْ مَقَامِ إِبْرَاهِيمَ مُصَلًّى",
                 "explanation": "مَقَام — Stehplatz/Standort Abrahams. Muster مَفْعَل von ق-و-م (hohle Wurzel: و → ا).",
-                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=125"
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=125",
+                "location": "2:125"
               },
               {
                 "ref": "2:115",
                 "arabic": "وَلِلَّهِ الْمَشْرِقُ وَالْمَغْرِبُ",
                 "explanation": "مَشْرِق (Osten) und مَغْرِب (Westen) — Ortsnomen auf dem Muster مَفْعِل.",
-                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=115"
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=115",
+                "location": "2:115"
               },
               {
                 "ref": "97:5",
                 "arabic": "سَلَامٌ هِيَ حَتَّىٰ مَطْلَعِ الْفَجْرِ",
                 "explanation": "مَطْلَع — Zeit/Ort des Aufgehens der Morgendämmerung. Muster مَفْعَل.",
-                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=97&verse=5"
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=97&verse=5",
+                "location": "97:5"
               }
             ]
           }
@@ -8534,19 +8592,22 @@
                 "ref": "3:79",
                 "arabic": "كُونُوا رَبَّانِيِّينَ",
                 "explanation": "رَبَّانِيّ — Nisba von رَبّ mit ان-Erweiterung. 'dem Rabb Zugehörige'.",
-                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=79"
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=79",
+                "location": "3:79"
               },
               {
                 "ref": "7:157",
                 "arabic": "النَّبِيَّ الْأُمِّيَّ",
                 "explanation": "أُمِّيّ — morphologisch eine Nisba, die Basis ist linguistisch umstritten: (1) von أُمّ (Mutter) → 'im urspruenglichen Zustand verblieben, nicht schriftkundig'; (2) von أُمَّة (Gemeinschaft/Volk) → 'zu den Schriftvölkern nicht gehörig' oder 'aus den Völkern'; (3) von أُمّ الْقُرَى (Bezeichnung für Mekka in 6:92) → 'aus Mekka stammend'. Der Quran selbst gibt keine Etymologie.",
-                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=7&verse=157"
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=7&verse=157",
+                "location": "7:157"
               },
               {
                 "ref": "106:1",
                 "arabic": "لِإِيلَافِ قُرَيْشٍ",
                 "explanation": "قُرَيْش — Eigenname, aber morphologisch ein Diminutiv. Der Stamm trägt die Nisba-Form قُرَشِيّ.",
-                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=106&verse=1"
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=106&verse=1",
+                "location": "106:1"
               }
             ]
           }
@@ -8642,7 +8703,8 @@
                 "ref": "106:1",
                 "arabic": "لِإِيلَافِ قُرَيْشٍ",
                 "explanation": "قُرَيْش — Diminutiv von قِرْش. Muster فُعَيْل.",
-                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=106&verse=1"
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=106&verse=1",
+                "location": "106:1"
               }
             ]
           }
@@ -8818,6 +8880,36 @@
             "type": "explanation",
             "title": "Semantische Tendenzen",
             "content": "• Klasse a–a: Tritt häufig bei Verben mit emphatischen/gutturalen Radikalen auf (Kehllaut-Regel).\n• Klasse i–a: Oft Zustände, Emotionen, voruebergehende Eigenschaften (عَلِمَ wissen, فَرِحَ sich freuen, غَضِبَ zürnen).\n• Klasse u–u: IMMER inhaerent-stative Verben — sie beschreiben eine EIGENSCHAFT, keine Handlung (كَبُرَ gross sein, حَسُنَ schön sein, صَغُرَ klein sein). Diese Klasse hat NIE eine aktive/transitive Bedeutung.\n• Klassen a–u und a–i: Die häufigsten Klassen, vor allem bei transitiven Handlungsverben."
+          },
+          {
+            "type": "quranExamples",
+            "title": "Vokalklassen im Quran",
+            "examples": [
+              {
+                "location": "48:1",
+                "word": "فَتَحَ",
+                "root": "ف-ت-ح",
+                "translation": "er oeffnete / er gewaehrte einen Sieg",
+                "vokalklasse": "a–a",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=48&verse=1"
+              },
+              {
+                "location": "96:5",
+                "word": "عَلِمَ",
+                "root": "ع-ل-م",
+                "translation": "er wusste / er lehrte",
+                "vokalklasse": "i–a",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=96&verse=5"
+              },
+              {
+                "location": "2:183",
+                "word": "كَتَبَ",
+                "root": "ك-ت-ب",
+                "translation": "er schrieb vor / er verordnete",
+                "vokalklasse": "a–u",
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=183"
+              }
+            ]
           }
         ]
       },
@@ -8984,25 +9076,29 @@
                 "ref": "53:13",
                 "arabic": "وَلَقَدْ رَآهُ نَزْلَةً أُخْرَىٰ",
                 "explanation": "رَآهُ — رَأَى (sehen) + هُ (ihn). Perfekt 3ms mit Suffix. Hamza sichtbar.",
-                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=53&verse=13"
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=53&verse=13",
+                "location": "53:13"
               },
               {
                 "ref": "2:201",
                 "arabic": "وَقِنَا عَذَابَ النَّارِ",
                 "explanation": "قِنَا — Imperativ von وَقَى (schützen) + نَا (uns). Waw und Ya beide weggefallen.",
-                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=201"
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=201",
+                "location": "2:201"
               },
               {
                 "ref": "2:258",
                 "arabic": "أَنَا أُحْيِي وَأُمِيتُ",
                 "explanation": "أُحْيِي — Form IV von ح-ي-ي (beleben). Doppeltes Ya im Imperfekt.",
-                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=258"
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=258",
+                "location": "2:258"
               },
               {
                 "ref": "3:156",
                 "arabic": "اللَّهُ يُحْيِي وَيُمِيتُ",
                 "explanation": "يُحْيِي — Form IV Imperfekt 3ms von ح-ي-ي.",
-                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=156"
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=156",
+                "location": "3:156"
               }
             ]
           }
@@ -9109,37 +9205,43 @@
                 "ref": "2:3",
                 "arabic": "وَيُقِيمُونَ الصَّلَاةَ",
                 "explanation": "يُقِيمُونَ — Form IV Imperfekt 3mp von ق-و-م (aufrichten). Muster يُفِيلُونَ. Perfekt: أَقَامُوا. Aktivpartizip: مُقِيم. Masdar: إِقَامَة.",
-                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=3"
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=3",
+                "location": "2:3"
               },
               {
                 "ref": "2:185",
                 "arabic": "يُرِيدُ اللَّهُ بِكُمُ الْيُسْرَ",
                 "explanation": "يُرِيدُ — Form IV Imperfekt 3ms von ر-و-د (wollen). Perfekt: أَرَادَ. Masdar: إِرَادَة. Aktivpartizip: مُرِيد. Der mittlere Waw wird zu langem I im Imperfekt.",
-                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=185"
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=185",
+                "location": "2:185"
               },
               {
                 "ref": "1:6",
                 "arabic": "اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ",
                 "explanation": "الْمُسْتَقِيمَ — Form X Aktivpartizip von ق-و-م (gerade/aufrecht sein). Muster مُسْتَفِيل. Verb: اِسْتَقَامَ/يَسْتَقِيمُ. Masdar: اِسْتِقَامَة.",
-                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=6"
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=6",
+                "location": "1:6"
               },
               {
                 "ref": "11:112",
                 "arabic": "فَاسْتَقِمْ كَمَا أُمِرْتَ",
                 "explanation": "فَاسْتَقِمْ — Form X Imperativ von ق-و-م. Muster اِسْتَفِلْ (ohne langen Vokal). Das lange I des Imperfekts يَسْتَقِيمُ fällt im Imperativ weg.",
-                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=11&verse=112"
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=11&verse=112",
+                "location": "11:112"
               },
               {
                 "ref": "2:186",
                 "arabic": "فَلْيَسْتَجِيبُوا لِي",
                 "explanation": "يَسْتَجِيبُوا — Form X Imperfekt 3mp von ج-و-ب (antworten/erhören). Perfekt: اِسْتَجَابَ. Masdar: اِسْتِجَابَة. Das lange I ist das Kennzeichen des hohlen Verbs im Imperfekt.",
-                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=186"
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=186",
+                "location": "2:186"
               },
               {
                 "ref": "2:217",
                 "arabic": "لَا يَسْتَطِيعُونَ",
                 "explanation": "يَسْتَطِيعُونَ — Form X Imperfekt 3mp von ط-و-ع (können/vermögen). Perfekt: اِسْتَطَاعَ. Der mittlere Waw wird zu langem I im Imperfekt, zu langem A im Perfekt.",
-                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=217"
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=217",
+                "location": "2:217"
               }
             ]
           }
@@ -9234,43 +9336,50 @@
                 "ref": "2:129",
                 "arabic": "وَيُزَكِّيهِمْ",
                 "explanation": "يُزَكِّيهِمْ — Form II Imperfekt 3ms von ز-ك-و (läutern). Muster يُفَعِّلُ mit defektivem letztem Radikal → يُزَكِّي + هِمْ. Perfekt: زَكَّى.",
-                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=129"
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=129",
+                "location": "2:129"
               },
               {
                 "ref": "33:56",
                 "arabic": "يُصَلُّونَ عَلَى النَّبِيِّ",
                 "explanation": "يُصَلُّونَ — Form II Imperfekt 3mp von ص-ل-و (sich zuwenden/segnen). Hier mit Verdopplung und Waw-Kontraktion. Imperativ: صَلِّ (108:2).",
-                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=33&verse=56"
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=33&verse=56",
+                "location": "33:56"
               },
               {
                 "ref": "3:39",
                 "arabic": "فَنَادَتْهُ الْمَلَائِكَةُ",
                 "explanation": "نَادَتْهُ — Form III Perfekt 3fs von ن-د-و (rufen). Muster فَاعَلَ → نَادَى (3ms Perfekt). Imperfekt: يُنَادِي. Aktivpartizip: مُنَادٍ.",
-                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=39"
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=39",
+                "location": "3:39"
               },
               {
                 "ref": "53:4",
                 "arabic": "إِنْ هُوَ إِلَّا وَحْيٌ يُوحَىٰ",
                 "explanation": "يُوحَى — Form IV Passiv Imperfekt von و-ح-ي (offenbaren). Aktivform: أَوْحَى/يُوحِي. Das passive يُوحَى zeigt Alif Maqsura — typisch für defektives Passiv.",
-                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=53&verse=4"
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=53&verse=4",
+                "location": "53:4"
               },
               {
                 "ref": "2:2",
                 "arabic": "هُدًى لِّلْمُتَّقِينَ",
                 "explanation": "الْمُتَّقِينَ — Form VIII Aktivpartizip Plural von و-ق-ي (schützen/hüten). Das doppelte Ta ist Signal der Waw-Assimilation: اِتَّقَى/يَتَّقِي. Singular: مُتَّقٍ.",
-                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=2"
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=2",
+                "location": "2:2"
               },
               {
                 "ref": "2:16",
                 "arabic": "اشْتَرَوُا الضَّلَالَةَ",
                 "explanation": "اِشْتَرَوْا — Form VIII Perfekt 3mp von ش-ر-و/ي (kaufen/eintauschen). Muster اِفْتَعَلَ + defektiver letzter Radikal. Imperfekt: يَشْتَرِي. Aktivpartizip: مُشْتَرٍ.",
-                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=16"
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=16",
+                "location": "2:16"
               },
               {
                 "ref": "13:9",
                 "arabic": "الْكَبِيرُ الْمُتَعَالِ",
                 "explanation": "الْمُتَعَالِ — Form VI Aktivpartizip von ع-ل-و (erhaben sein). Verb: تَعَالَى/يَتَعَالَى. Das Partikel تَعَالَ ist ein erstarrter Imperativ ('komm!'). Der Gottesname: الْمُتَعَالِي (der Erhabene).",
-                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=13&verse=9"
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=13&verse=9",
+                "location": "13:9"
               }
             ]
           }
@@ -9370,31 +9479,36 @@
                 "ref": "2:11",
                 "arabic": "وَإِذَا قِيلَ لَهُمْ لَا تُفْسِدُوا فِي الْأَرْضِ",
                 "explanation": "قِيلَ — Passiv Perfekt 3ms von ق-و-ل (sagen). HOHLES VERB. Nicht *قُوِلَ, sondern kontrahiert: قِيلَ. 'Und wenn zu ihnen gesagt wird: Verbreitet kein Verderben auf der Erde.' قِيلَ erscheint über 50 Mal im Quran.",
-                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=11"
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=11",
+                "location": "2:11"
               },
               {
                 "ref": "39:69",
                 "arabic": "وَقُضِيَ بَيْنَهُم بِالْحَقِّ",
                 "explanation": "قُضِيَ — Passiv Perfekt 3ms von ق-ض-ي (entscheiden/urteilen). DEFEKTIVES VERB. Damma auf القاف, Kasra auf الضاد, Ya. 'Und es wurde zwischen ihnen in Wahrheit entschieden.' Signal: Endung ـِيَ.",
-                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=39&verse=69"
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=39&verse=69",
+                "location": "39:69"
               },
               {
                 "ref": "2:186",
                 "arabic": "وَإِذَا سَأَلَكَ عِبَادِي عَنِّي فَإِنِّي قَرِيبٌ أُجِيبُ دَعْوَةَ الدَّاعِ إِذَا دَعَانِ",
                 "explanation": "دُعِيَ würde hier nicht stehen, aber: دَعَا (er rief/bat) → Passiv: دُعِيَ (er wurde gerufen/gebeten). Das Verb دَعَا hat Wurzel د-ع-و (defektiv). Passiv Perfekt: دُعِيَ. Imperfekt Passiv: يُدْعَى.",
-                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=186"
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=186",
+                "location": "2:186"
               },
               {
                 "ref": "—",
                 "arabic": "يُقَالُ",
                 "explanation": "يُقَالُ (es wird gesagt) ist das Imperfekt Passiv von قَالَ. Muster: يُفَالُ. Der mittlere Waw erscheint als langer ā-Vokal, das Präfix hat Damma (nicht ya-Fatha des Aktivs).",
-                "verifyUrl": "https://corpus.quran.com/qurandictionary.jsp?q=qwl"
+                "verifyUrl": "https://corpus.quran.com/qurandictionary.jsp?q=qwl",
+                "location": "—"
               },
               {
                 "ref": "12:31",
                 "arabic": "فَلَمَّا سَمِعَتْ بِمَكْرِهِنَّ أَرْسَلَتْ إِلَيْهِنَّ",
                 "explanation": "يُرْسَلُ (es wird gesandt) — Passiv Imperfekt von أَرْسَلَ. Zum Vergleich: يُقْضَى (es wird entschieden) — Passiv Imperfekt von قَضَى. Signal: Präfix-Damma + Alif Maqsura am Ende.",
-                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=12&verse=31"
+                "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=12&verse=31",
+                "location": "12:31"
               }
             ]
           }

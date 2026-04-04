@@ -782,8 +782,8 @@
     },
     {
       "id": "discourse_5",
-      "title": "Argumentationsstruktur",
-      "description": "Wie der quranische Text Argumente aufbaut — durch Prämisse-Schluss-Muster, Beweisketten, Erzählung als Argument und kontrastive Parallelstrukturen.",
+      "title": "Textstruktur und Praemissenketten",
+      "description": "Wie der quranische Text Textsequenzen aufbaut — durch Praemisse-Schluss-Muster, textuelle Stuetzungsketten, Erzaehlung als Textstruktur und kontrastive Parallelstrukturen.",
       "learnContent": {
         "sections": [
           {
@@ -799,13 +799,13 @@
                 "ref": "56:57-62",
                 "arabic": "نَحْنُ خَلَقْنَاكُمْ فَلَوْلَا تُصَدِّقُونَ ○ أَفَرَأَيْتُم مَّا تُمْنُونَ ○ أَأَنتُمْ تَخْلُقُونَهُ أَمْ نَحْنُ الْخَالِقُونَ ○ نَحْنُ قَدَّرْنَا بَيْنَكُمُ الْمَوْتَ ... ○ وَلَقَدْ عَلِمْتُمُ النَّشْأَةَ الْأُولَىٰ فَلَوْلَا تَذَكَّرُونَ",
                 "transliteration": "nahnu khalaqnaakum fa-law-laa tusaddiquuna ○ a-fa-raʾaytum maa tumnuuna ○ a-antum takhluquunahu am nahnu l-khaaliquuna ...",
-                "note": "Prämisse 1: 'Wir haben euch erschaffen' (56:57). Prämisse 2: 'Habt ihr gesehen, was ihr (als Samen) ergiesst? Erschafft ihr es oder wir?' (56:58-59). Prämisse 3: 'Ihr kennt die erste Erschaffung' (56:62). Schlussfolgerung (durch فَلَوْلَا): 'Warum bestätigt/bedenkt ihr dann nicht?' Die Argumentationsstruktur ist: Beobachtung → rhetorische Frage → Schluss.",
+                "note": "Prämisse 1: 'Wir haben euch erschaffen' (56:57). Prämisse 2: 'Habt ihr gesehen, was ihr (als Samen) ergiesst? Erschafft ihr es oder wir?' (56:58-59). Prämisse 3: 'Ihr kennt die erste Erschaffung' (56:62). Schlussfolgerung (durch فَلَوْلَا): 'Warum bestätigt/bedenkt ihr dann nicht?' Die Textstruktur ist: Beobachtung → rhetorische Frage → Schluss.",
                 "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=56&verse=57"
               },
               {
                 "ref": "22:5-7",
                 "arabic": "يَا أَيُّهَا النَّاسُ إِن كُنتُمْ فِي رَيْبٍ مِّنَ الْبَعْثِ فَإِنَّا خَلَقْنَاكُم مِّن تُرَابٍ ثُمَّ مِن نُّطْفَةٍ ثُمَّ مِنْ عَلَقَةٍ ... ○ ذَٰلِكَ بِأَنَّ اللَّهَ هُوَ الْحَقُّ وَأَنَّهُ يُحْيِي الْمَوْتَىٰ",
-                "note": "Prämisse (eingeleitet durch إِن: 'Wenn ihr zweifelt'): Die Erschaffungsetappen als Beweis. Schlussfolgerung (eingeleitet durch ذَٰلِكَ بِأَنَّ): 'Das (ist so), weil Gott die Wahrheit ist und die Toten belebt.' Die Argumentationsrichtung: Zweifel → empirischer Beweis (Embryologie) → Schlussfolgerung.",
+                "note": "Prämisse (eingeleitet durch إِن: 'Wenn ihr zweifelt'): Die Erschaffungsetappen als textuelle Stuetzung. Schlussfolgerung (eingeleitet durch ذَٰلِكَ بِأَنَّ): 'Das (ist so), weil Gott die Wahrheit ist und die Toten belebt.' Die Textstruktur: Zweifel → empirische Beobachtung (Embryologie) → Schlussfolgerung.",
                 "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=22&verse=5"
               },
               {
@@ -819,12 +819,12 @@
           },
           {
             "type": "explanation",
-            "title": "Rhetorische Fragen als Argumentationsmittel",
-            "content": "Rhetorische Fragen sind keine echten Fragen — sie erwarten keine Antwort, sondern führen den Leser zur impliziten Schlussfolgerung. Im quranischen Text dienen sie als Prämissen in Argumentationsketten. Typische Formen: أَفَلَا (sehen/bedenken sie denn nicht?), أَلَمْ (haben sie nicht?), أَفَرَأَيْتُم (habt ihr gesehen?)."
+            "title": "Rhetorische Fragen als Textstrukturmittel",
+            "content": "Rhetorische Fragen sind keine echten Fragen — sie erwarten keine Antwort, sondern führen den Leser zur impliziten Schlussfolgerung. Im quranischen Text dienen sie als Prämissen in Textsequenzen. Typische Formen: أَفَلَا (sehen/bedenken sie denn nicht?), أَلَمْ (haben sie nicht?), أَفَرَأَيْتُم (habt ihr gesehen?)."
           },
           {
             "type": "example",
-            "title": "Rhetorische Fragen in Argumentationsketten — Beispiele",
+            "title": "Rhetorische Fragen in Textsequenzen — Beispiele",
             "examples": [
               {
                 "ref": "56:63-72",
@@ -835,31 +835,31 @@
               {
                 "ref": "67:16-19",
                 "arabic": "أَأَمِنتُم مَّن فِي السَّمَاءِ أَن يَخْسِفَ بِكُمُ الْأَرْضَ ... ○ أَمْ أَمِنتُم مَّن فِي السَّمَاءِ أَن يُرْسِلَ عَلَيْكُمْ حَاصِبًا ... ○ وَلَقَدْ كَذَّبَ الَّذِينَ مِن قَبْلِهِمْ فَكَيْفَ كَانَ نَكِيرِ ○ أَوَلَمْ يَرَوْا إِلَى الطَّيْرِ فَوْقَهُمْ صَافَّاتٍ وَيَقْبِضْنَ",
-                "note": "Kette von rhetorischen Fragen: أَأَمِنتُم ... أَمْ أَمِنتُم ... فَكَيْفَ ... أَوَلَمْ يَرَوْا. Jede Frage verstärkt das Argument. Die Voegel (67:19) sind ein empirisches Argument: Wer hält sie oben, wenn nicht Gott?",
+                "note": "Kette von rhetorischen Fragen: أَأَمِنتُم ... أَمْ أَمِنتُم ... فَكَيْفَ ... أَوَلَمْ يَرَوْا. Jede Frage verstaerkt die Textsequenz. Die Voegel (67:19) sind eine empirische Beobachtung als textuelle Stuetzung: Wer haelt sie oben, wenn nicht Gott?",
                 "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=67&verse=16"
               }
             ]
           },
           {
             "type": "explanation",
-            "title": "Erzählung als Argument (Qisas-Struktur)",
-            "content": "Der quranische Text verwendet Erzählungen (قِصَص) nicht nur als Geschichten, sondern als Argumente. Eine Erzählung dient als historischer Beweis für eine These. Die Struktur ist: These → Erzählung als Beleg → Schlussfolgerung. Oft wird nach der Erzählung explizit die Lehre formuliert."
+            "title": "Erzählung als Textstruktur (Qisas-Struktur)",
+            "content": "Der quranische Text verwendet Erzählungen (قِصَص) nicht nur als Geschichten, sondern als textuelle Stuetzung. Eine Erzählung dient als narrativer Beleg fuer eine These. Die Struktur ist: These → Erzählung als Beleg → Schlussfolgerung. Oft wird nach der Erzählung explizit die Lehre formuliert."
           },
           {
             "type": "example",
-            "title": "Erzählung als Argument — Beispiele",
+            "title": "Erzählung als Textstruktur — Beispiele",
             "examples": [
               {
                 "ref": "26:10-68",
                 "arabic": "وَإِذْ نَادَىٰ رَبُّكَ مُوسَىٰ أَنِ ائْتِ الْقَوْمَ الظَّالِمِينَ ... ○ إِنَّ فِي ذَٰلِكَ لَآيَةً ۖ وَمَا كَانَ أَكْثَرُهُم مُّؤْمِنِينَ",
-                "note": "Musa-Erzählung in Sure 26: Nach der Erzählung folgt der Kommentar إِنَّ فِي ذَٰلِكَ لَآيَةً ('Darin ist ein Zeichen'). Die Erzählung ist nicht Selbstzweck, sondern argumentativer Beleg. Derselbe Kommentar (إِنَّ فِي ذَٰلِكَ لَآيَةً) erscheint nach jeder Erzählung in Sure 26 (Verse 8, 67, 103, 121, 139, 158, 174, 190).",
+                "note": "Musa-Erzählung in Sure 26: Nach der Erzählung folgt der Kommentar إِنَّ فِي ذَٰلِكَ لَآيَةً ('Darin ist ein Zeichen'). Die Erzählung ist nicht Selbstzweck, sondern textuelle Stuetzung. Derselbe Kommentar (إِنَّ فِي ذَٰلِكَ لَآيَةً) erscheint nach jeder Erzählung in Sure 26 (Verse 8, 67, 103, 121, 139, 158, 174, 190).",
                 "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=26&verse=10"
               },
               {
                 "ref": "12:111",
                 "arabic": "لَقَدْ كَانَ فِي قَصَصِهِمْ عِبْرَةٌ لِّأُولِي الْأَلْبَابِ",
                 "transliteration": "laqad kaana fii qasasihim ʿibratun li-ulii l-albaabi",
-                "note": "Am Ende der Josefserzaehlung die explizite Formulierung: 'In ihren Erzählungen ist eine Lehre für die Verständigen.' Der Text benennt hier selbst die argumentative Funktion der Erzählung: Narrative dienen als عِبْرَة (Lehre, wörtlich: Übergang — von der Geschichte zur Einsicht).",
+                "note": "Am Ende der Josefserzaehlung die explizite Formulierung: 'In ihren Erzählungen ist eine Lehre für die Verständigen.' Der Text benennt hier selbst die textstrukturelle Funktion der Erzählung: Narrative dienen als عِبْرَة (Lehre, wörtlich: Übergang — von der Geschichte zur Einsicht).",
                 "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=12&verse=111"
               },
               {
@@ -873,23 +873,23 @@
           },
           {
             "type": "explanation",
-            "title": "Kontrastpaare als Argumentationsstruktur",
-            "content": "Der quranische Text stellt Gruppen, Zustände oder Handlungen parallel und kontrastiv nebeneinander, um ein Argument zu verstärken. Die Parallelstruktur zwingt den Leser zum Vergleich; der Kontrast macht die Schlussfolgerung unausweichlich. Typische Paare: Vertrauende und ihre Belohnung vs. Verdeckende und ihre Konsequenz."
+            "title": "Kontrastpaare als Textstruktur",
+            "content": "Der quranische Text stellt Gruppen, Zustände oder Handlungen parallel und kontrastiv nebeneinander, um eine Textsequenz zu verstaerken. Die Parallelstruktur zwingt den Leser zum Vergleich; der Kontrast macht die Schlussfolgerung unausweichlich. Typische Paare: Vertrauende und ihre Belohnung vs. Verdeckende und ihre Konsequenz."
           },
           {
             "type": "example",
-            "title": "Kontrastpaare als Argument — Beispiele",
+            "title": "Kontrastpaare als Textstruktur — Beispiele",
             "examples": [
               {
                 "ref": "47:12",
                 "arabic": "إِنَّ اللَّهَ يُدْخِلُ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ ۖ وَالَّذِينَ كَفَرُوا يَتَمَتَّعُونَ وَيَأْكُلُونَ كَمَا تَأْكُلُ الْأَنْعَامُ وَالنَّارُ مَثْوًى لَّهُمْ",
-                "note": "Parallele Struktur: الَّذِينَ آمَنُوا → Gärten vs. الَّذِينَ كَفَرُوا → Feuer. Dieselbe syntaktische Form (Relativsatz + Konsequenz), kontrastiver Inhalt. Das Argument entsteht durch den Vergleich: Gleiche Form, gegensätzliches Ergebnis.",
+                "note": "Parallele Struktur: الَّذِينَ آمَنُوا → Gärten vs. الَّذِينَ كَفَرُوا → Feuer. Dieselbe syntaktische Form (Relativsatz + Konsequenz), kontrastiver Inhalt. Die Textstruktur entsteht durch den Vergleich: Gleiche Form, gegensätzliches Ergebnis.",
                 "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=47&verse=12"
               },
               {
                 "ref": "3:116-117",
                 "arabic": "إِنَّ الَّذِينَ كَفَرُوا لَن تُغْنِيَ عَنْهُمْ أَمْوَالُهُمْ وَلَا أَوْلَادُهُم مِّنَ اللَّهِ شَيْئًا ... ○ مَثَلُ مَا يُنفِقُونَ فِي هَٰذِهِ الْحَيَاةِ الدُّنْيَا كَمَثَلِ رِيحٍ فِيهَا صِرٌّ أَصَابَتْ حَرْثَ قَوْمٍ ظَلَمُوا أَنفُسَهُمْ فَأَهْلَكَتْهُ",
-                "note": "Argumentationsstruktur: These (ihr Besitz nuetzt nicht) → Gleichnis als Beleg (wie ein eisiger Wind, der die Ernte zerstört). Das Gleichnis ist kein Schmuck, sondern ein argumentativer Baustein: Es macht die These anschaulich und zwingend.",
+                "note": "Textstruktur: These (ihr Besitz nuetzt nicht) → Gleichnis als Beleg (wie ein eisiger Wind, der die Ernte zerstört). Das Gleichnis ist kein Schmuck, sondern ein textueller Baustein: Es macht die These anschaulich.",
                 "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=116"
               }
             ]
@@ -905,8 +905,8 @@
         },
         {
           "type": "argument_mapping",
-          "prompt": "In Sure 26 erscheint nach jeder Verkündererzaehlung der Satz إِنَّ فِي ذَٰلِكَ لَآيَةً. Welche Funktion hat dieser Satz in der Argumentationsstruktur der Sure?",
-          "hint": "Er markiert explizit die argumentative Funktion der Erzählung: Jede Geschichte ist ein 'Zeichen' (آيَة) — ein Beweis für die Hauptthese. Die Wiederholung nach jeder Erzählung zeigt: Die Beweise haeufen sich, das Argument wird stärker."
+          "prompt": "In Sure 26 erscheint nach jeder Verkündererzaehlung der Satz إِنَّ فِي ذَٰلِكَ لَآيَةً. Welche Funktion hat dieser Satz in der Textstruktur der Sure?",
+          "hint": "Er markiert explizit die textstrukturelle Funktion der Erzählung: Jede Geschichte ist ein 'Zeichen' (آيَة) — eine textuelle Stuetzung fuer die Hauptthese. Die Wiederholung nach jeder Erzählung zeigt: Die Stuetzungen haeufen sich, die Textsequenz wird dichter."
         },
         {
           "type": "discourse_analysis",

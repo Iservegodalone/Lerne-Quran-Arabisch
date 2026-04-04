@@ -27,7 +27,8 @@
         "nom": "كِتَابٌ",
         "acc": "كِتَابًا",
         "gen": "كِتَابٍ"
-      }
+      },
+      "verifyUrl": "https://archive.org/details/WrightsArabicGrammar1Of2/page/n234"
     },
     "diptote": {
       "title": "Diptote Nomen (Mamnu' min as-Sarf)",
@@ -39,12 +40,14 @@
         "acc": "إِبْرَاهِيمَ",
         "gen": "إِبْرَاهِيمَ"
       },
-      "note": "Im Genitiv: Fatha statt Kasra. Das ist für die Vokalisierungsanalyse direkt relevant — wenn ein diptotes Nomen nach einer Präposition steht, hat es Fatha (nicht Kasra)."
+      "note": "Im Genitiv: Fatha statt Kasra. Das ist für die Vokalisierungsanalyse direkt relevant — wenn ein diptotes Nomen nach einer Präposition steht, hat es Fatha (nicht Kasra).",
+      "verifyUrl": "https://archive.org/details/WrightsArabicGrammar1Of2/page/n234"
     },
     "diptote_with_article": {
       "title": "Diptote mit Artikel",
       "description": "Wenn ein diptotes Nomen den bestimmten Artikel (ال) erhält, wird es TRIPTOT dekliniert — es bekommt Kasra im Genitiv zurück. Ebenso in der Idafa (Konstruktverbindung).",
-      "example": "المساجد (die Moscheen): im Genitiv المساجدِ mit Kasra, obwohl مساجد allein diptot wäre."
+      "example": "المساجد (die Moscheen): im Genitiv المساجدِ mit Kasra, obwohl مساجد allein diptot wäre.",
+      "verifyUrl": "https://archive.org/details/WrightsArabicGrammar1Of2/page/n234"
     }
   },
   "categories": [
@@ -68,7 +71,7 @@
           "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=124"
         },
         {
-          "word": "اسمعيل",
+          "word": "إِسْمَاعِيل",
           "transliteration": "Ismāʿīl",
           "meaning": "Ismael",
           "locations": [
@@ -260,7 +263,7 @@
           "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=248"
         }
       ],
-      "exception": "Einige kurze arabisierte Eigennamen sind triptot: نوح (Nuh), لوط (Lut), هود (Hud), شعيب (Shu'ayb)."
+      "exception": "Einige kurze arabisierte Eigennamen sind triptot: نوح (Nuh), لوط (Lut), هود (Hud), شعيب (Shu'ayb). Anmerkung zu شُعَيْب: Triptot nach Sibawayh; Mehrheitsmeinung der Grammatiker: diptot (Diminutivmuster + fremdsprachiger Ursprung)."
     },
     {
       "id": "proper_names_feminine",
@@ -588,7 +591,7 @@
           "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=3"
         },
         {
-          "word": "ثلث",
+          "word": "ثُلَاثَ",
           "transliteration": "ṯulāṯ",
           "meaning": "zu dritt",
           "locations": [

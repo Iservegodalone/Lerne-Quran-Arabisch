@@ -27,12 +27,12 @@
           {
             "type": "explanation",
             "title": "هَلْ",
-            "content": "هَلْ ist ein Fragepartikel mit engerer Distribution:\n\n1. Steht nur vor Verben — nicht direkt vor Nomen (Ausnahmen im Quran sind umstritten)\n2. Erwartet eine einfache Ja/Nein-Antwort\n3. Kann NICHT mit أَمْ eine Alternative einleiten (kein هَلْ ... أَمْ)\n4. Kann NICHT vor Negationspartikeln stehen (kein *هَلْ لَمْ, kein *هَلْ لَا)\n\nDiese Einschränkungen machen هَلْ zum syntaktisch markierten Fragepartikel — أَ ist der Defaultfall."
+            "content": "هَلْ ist ein Fragepartikel mit engerer Distribution:\n\n1. Steht typischerweise vor Verben. Im Quran auch vor Praepositionalphrasen belegt (z.B. 35:3: هَلْ مِنْ خَالِقٍ غَيْرُ اللَّهِ).\n2. Erwartet eine einfache Ja/Nein-Antwort\n3. Kann NICHT mit أَمْ eine Alternative einleiten (kein هَلْ ... أَمْ)\n4. Kann NICHT vor Negationspartikeln stehen (kein *هَلْ لَمْ, kein *هَلْ لَا)\n\nDiese Einschränkungen machen هَلْ zum syntaktisch markierten Fragepartikel — أَ ist der Defaultfall."
           },
           {
             "type": "explanation",
             "title": "Kontrastive Analyse: أَ vs. هَلْ",
-            "content": "Die Unterschiede zusammengefasst:\n\n| Eigenschaft | أَ | هَلْ |\n|-------------|---|----- |\n| Vor Nomen | Ja | Nein |\n| Vor Verben | Ja | Ja |\n| Alternative (أَمْ) | Ja | Nein |\n| Vor Negation | Ja (أَلَمْ, أَلَا) | Nein |\n| Häufigkeit im Quran | Sehr hoch | Niedriger |\n\nPraktische Regel: Wenn eine Frage eine Alternative enthält oder vor einem Nomen oder einer Negation steht, MUSS أَ stehen. هَلْ ist auf einfache, nicht-alternative Verbfragen beschränkt."
+            "content": "Die Unterschiede zusammengefasst:\n\n| Eigenschaft | أَ | هَلْ |\n|-------------|---|----- |\n| Vor Nomen | Ja | Selten (im Quran vor PP belegt, z.B. 35:3) |\n| Vor Verben | Ja | Ja |\n| Alternative (أَمْ) | Ja | Nein |\n| Vor Negation | Ja (أَلَمْ, أَلَا) | Nein |\n| Häufigkeit im Quran | Sehr hoch | Niedriger |\n\nPraktische Regel: Wenn eine Frage eine Alternative enthält oder vor einer Negation steht, MUSS أَ stehen. هَلْ steht typischerweise vor Verben, im Quran vereinzelt auch vor Praepositionalphrasen."
           },
           {
             "type": "quranExamples",
@@ -115,7 +115,7 @@
               "Keine von beiden"
             ],
             "correct": 1,
-            "explanation": "أَ kann vor jedem Satzglied stehen — Nomen, Verben, Partikeln. هَلْ steht nur vor Verben.",
+            "explanation": "أَ kann vor jedem Satzglied stehen — Nomen, Verben, Partikeln. هَلْ steht typischerweise vor Verben, im Quran vereinzelt auch vor Praepositionalphrasen (z.B. 35:3).",
             "verifyUrl": "https://archive.org/details/WrightsArabicGrammar/page/n87"
           },
           {
@@ -151,7 +151,7 @@
               "Weil هَلْ nur in Prosa vorkommt"
             ],
             "correct": 1,
-            "explanation": "Zwei Gründe: (1) أَ steht vor dem Pronomen أَنتُمْ (Nomen) — هَلْ könnte nicht vor einem Nomen stehen. (2) Es folgt eine أَمْ-Alternative — هَلْ erlaubt kein أَمْ.",
+            "explanation": "Zwei Gründe: (1) أَ steht vor dem Pronomen أَنتُمْ (Nomen) — هَلْ steht typischerweise nicht vor Nomen. (2) Es folgt eine أَمْ-Alternative — هَلْ erlaubt kein أَمْ.",
             "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=140"
           }
         ]

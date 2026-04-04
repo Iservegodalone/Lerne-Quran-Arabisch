@@ -126,6 +126,7 @@
         "vocalization": "ٱلنَّاسِ"
       },
       "explanation": "ال (Definitartikel) + Nomen von Wurzel ن-و-س. maskulin, Plural. Genitiv → Kasra auf س.",
+      "note": "Wurzel umstritten: ن-و-س (Bewegung) oder أ-ن-س (Geselligkeit). Letztere ist gaengiger (vgl. إِنْسَان, أُنَاس).",
       "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=8"
     },
     {
@@ -237,7 +238,7 @@
         "syntacticRole": "Maf'ul bihi (Akkusativ)",
         "vocalization": "أَنفُسَهُمْ"
       },
-      "explanation": "Nomen von Wurzel ن-ف-س. feminin, Plural. Akkusativ → Fatha auf م.",
+      "explanation": "Nomen von Wurzel ن-ف-س. feminin, Plural. Akkusativ → Fatha auf dem letzten Radikal (سَ) zeigt Akkusativ; das Mim traegt Sukun als Teil des Pronomensuffixes هُمْ.",
       "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=9"
     },
     {
@@ -276,7 +277,7 @@
         "wordType": "Nomen",
         "root": "س-ب-ح",
         "form": "Nomen",
-        "syntacticRole": "Maf'ul bihi (Akkusativ)",
+        "syntacticRole": "Maf'ul mutlaq (absoluter Akkusativ des Masdars سُبْحَان)",
         "vocalization": "سُبْحَٰنَكَ"
       },
       "explanation": "Nomen von Wurzel س-ب-ح. maskulin. Akkusativ → Fatha auf ك.",
@@ -708,7 +709,7 @@
       "location": "12:30",
       "steps": {
         "wordType": "Nomen",
-        "root": "م-ر-ا",
+        "root": "م-ر-أ",
         "form": "Nomen",
         "syntacticRole": "Fa'il/Mubtada (Nominativ)",
         "vocalization": "ٱمْرَأَتُ"

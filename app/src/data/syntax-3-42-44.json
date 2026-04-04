@@ -27,6 +27,7 @@
     "testContent": {
       "exercises": [
         {
+          "type": "multiple_choice",
           "prompt": "Was ist die Besonderheit eines Ism al-Fi'l?",
           "options": [
             "Es wird konjugiert wie ein normales Verb",
@@ -39,6 +40,7 @@
           "verifyUrl": "https://archive.org/details/WrightsArabicGrammar1Of2/page/n242"
         },
         {
+          "type": "multiple_choice",
           "prompt": "Welche Bedeutung hat هَيْهَاتَ in Sure 23:36?",
           "options": [
             "Komm her!",
@@ -51,6 +53,7 @@
           "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=23&verse=36"
         },
         {
+          "type": "multiple_choice",
           "prompt": "In welchem Kasus steht das Subjekt eines Ism al-Fi'l?",
           "options": [
             "Akkusativ",
@@ -94,6 +97,7 @@
     "testContent": {
       "exercises": [
         {
+          "type": "multiple_choice",
           "prompt": "Was bedeutet 'Tanazu' al-I'rab'?",
           "options": [
             "Zwei Nomen teilen sich ein Verb",
@@ -106,6 +110,7 @@
           "verifyUrl": "https://archive.org/details/WrightsArabicGrammar1Of2/page/n242"
         },
         {
+          "type": "multiple_choice",
           "prompt": "Was geschieht mit dem Verb, das das geteilte Nomen NICHT erhält?",
           "options": [
             "Es wird gestrichen",
@@ -149,6 +154,7 @@
     "testContent": {
       "exercises": [
         {
+          "type": "multiple_choice",
           "prompt": "Was liegt bei الْقَمَرَ قَدَّرْنَاهُ vor?",
           "options": [
             "Normaler Verbalsatz",
@@ -161,6 +167,7 @@
           "verifyUrl": "https://archive.org/details/WrightsArabicGrammar1Of2/page/n242"
         },
         {
+          "type": "multiple_choice",
           "prompt": "Warum steht الْقَمَرَ in 36:39 im Akkusativ?",
           "options": [
             "Es ist direktes Objekt von قَدَّرْنَا",
@@ -173,6 +180,7 @@
           "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=36&verse=39"
         },
         {
+          "type": "multiple_choice",
           "prompt": "Welche alternative Analyse ist bei Ishtighål manchmal möglich?",
           "options": [
             "Das Nomen als Hal (Zustandsakkusativ)",

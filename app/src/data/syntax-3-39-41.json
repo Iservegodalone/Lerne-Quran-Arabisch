@@ -63,6 +63,7 @@
     "testContent": {
       "exercises": [
         {
+          "type": "multiple_choice",
           "prompt": "Was signalisiert die Voranstellung des Objekts in إِيَّاكَ نَعْبُدُ?",
           "options": [
             "Nichts — es ist Zufall",
@@ -75,6 +76,7 @@
           "verifyUrl": "https://archive.org/details/WrightsArabicGrammar1Of2/page/n242"
         },
         {
+          "type": "multiple_choice",
           "prompt": "In فِي قُلُوبِهِم مَّرَضٌ — was ist Mubtadaʾ und was ist Khabar?",
           "options": [
             "فِي قُلُوبِهِم = Mubtadaʾ, مَّرَضٌ = Khabar",
@@ -87,6 +89,7 @@
           "verifyUrl": "https://archive.org/details/WrightsArabicGrammar1Of2/page/n242"
         },
         {
+          "type": "multiple_choice",
           "prompt": "Ändert die Voranstellung des Mafʿūl bihi dessen Kasus?",
           "options": [
             "Ja, es wird Nominativ",
@@ -99,6 +102,7 @@
           "verifyUrl": "https://archive.org/details/WrightsArabicGrammar1Of2/page/n242"
         },
         {
+          "type": "multiple_choice",
           "prompt": "Wenn ein Satz mit einer Präpositionalphrase beginnt und ein Nomen im Nominativ folgt — welche Satzstruktur liegt vor?",
           "options": [
             "Verbalsatz",
@@ -164,6 +168,7 @@
     "testContent": {
       "exercises": [
         {
+          "type": "multiple_choice",
           "prompt": "Worauf bezieht sich بِهِ in أَنزَلَ مِنَ السَّمَاءِ مَاءً فَأَخْرَجَ بِهِ (2:22)?",
           "options": [
             "Auf السَّمَاء (den Himmel)",
@@ -176,6 +181,7 @@
           "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=22"
         },
         {
+          "type": "multiple_choice",
           "prompt": "Warum wird für قُلُوبٌ (Herzen, Bruchplural) das Pronomen ها (fem. sg.) verwendet?",
           "options": [
             "Weil Herzen feminin sind",
@@ -188,6 +194,7 @@
           "verifyUrl": "https://archive.org/details/WrightsArabicGrammar1Of2/page/n280"
         },
         {
+          "type": "multiple_choice",
           "prompt": "Welche drei Kriterien helfen bei der Auflösung pronominaler Referenz?",
           "options": [
             "Reim, Rhythmus, Klang",
@@ -254,6 +261,7 @@
     "testContent": {
       "exercises": [
         {
+          "type": "multiple_choice",
           "prompt": "Welche Wörter leiten typischerweise einen Nebensatz ein?",
           "options": [
             "إِنَّ, كَانَ, قَالَ",
@@ -266,6 +274,7 @@
           "verifyUrl": "https://archive.org/details/WrightsArabicGrammar1Of2/page/n280"
         },
         {
+          "type": "multiple_choice",
           "prompt": "In 2:3 — gehört وَمِمَّا رَزَقْنَاهُمْ يُنفِقُونَ noch zum Relativsatz الَّذِينَ?",
           "options": [
             "Nein, es ist ein neuer Hauptsatz",
@@ -278,6 +287,7 @@
           "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=3"
         },
         {
+          "type": "multiple_choice",
           "prompt": "Was ist die größte Herausforderung bei Satzgrenzen im Quran?",
           "options": [
             "Die Verse sind zu kurz",

@@ -991,7 +991,10 @@
         {
           "meaning": "urteilen gegen",
           "example": "حَكَمَ عَلَى",
-          "ref": "Allgemeinarabisch",
+          "ref": "— (im Quran nicht direkt belegt)",
+          "notAttested": true,
+          "note": "Nicht im Quran belegt; klassisch-arabischer Gebrauch.",
+          "verifyUrl": "https://corpus.quran.com/qurandictionary.jsp?q=Hkm",
           "preposition": "عَلَى"
         }
       ],
@@ -1086,9 +1089,11 @@
       "rections": [
         {
           "meaning": "gewinnen / erlangen (etwas)",
-          "example": "فَازَ فَوْزًا عَظِيمًا",
-          "ref": "33:71",
-          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=33&verse=71",
+          "example": "فَازَ بِ",
+          "ref": "— (im Quran nicht mit بِ belegt)",
+          "notAttested": true,
+          "note": "فَازَ erscheint im Quran nur absolut oder mit Maf'ul Mutlaq (z.B. 33:71), nicht mit بِ.",
+          "verifyUrl": "https://corpus.quran.com/qurandictionary.jsp?q=fwz",
           "preposition": "بِ"
         },
         {
@@ -1099,7 +1104,7 @@
           "preposition": "—"
         }
       ],
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=33&verse=71"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=9&verse=72"
     },
     {
       "root": "و-ق-ي",
@@ -2082,9 +2087,9 @@
       "rections": [
         {
           "meaning": "retten (transitiv)",
-          "example": "فَأَنْجَيْنَاهُ وَأَصْحَابَ السَّفِينَةِ",
-          "ref": "29:15",
-          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=29&verse=15",
+          "example": "وَنَجَّيْنَاهُ وَأَهْلَهُ مِنَ الْكَرْبِ الْعَظِيمِ",
+          "ref": "21:76",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=21&verse=76",
           "preposition": "—"
         },
         {
@@ -2439,10 +2444,10 @@
           "preposition": "—"
         },
         {
-          "meaning": "berechnen / rechnen (transitiv)",
-          "example": "وَاللَّهُ يُحَاسِبُ",
-          "ref": "24:39",
-          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=24&verse=39",
+          "meaning": "meinen / vermuten (mit an-Satz)",
+          "example": "أَفَحَسِبَ الَّذِينَ كَفَرُوا أَنْ يَتَّخِذُوا عِبَادِي",
+          "ref": "18:102",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=18&verse=102",
           "preposition": "—"
         }
       ],
@@ -2529,13 +2534,15 @@
       "rections": [
         {
           "meaning": "verstehen (transitiv)",
-          "example": "فَفَهَّمْنَاهَا سُلَيْمَانَ",
-          "ref": "21:79",
-          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=21&verse=79",
+          "example": "فَهِمَ",
+          "ref": "— (im Quran nicht belegt)",
+          "notAttested": true,
+          "note": "Form I von ف-ه-م ist im Quran nicht belegt; nur Form II (فَهَّمَ) in 21:79.",
+          "verifyUrl": "https://corpus.quran.com/qurandictionary.jsp?q=fhm",
           "preposition": "—"
         }
       ],
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=21&verse=79"
+      "verifyUrl": "https://corpus.quran.com/qurandictionary.jsp?q=fhm"
     },
     {
       "root": "ظ-ن-ن",
@@ -2560,7 +2567,7 @@
       "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=28&verse=39"
     },
     {
-      "root": "ذ-ق",
+      "root": "ذ-و-ق",
       "verb": "ذَاقَ",
       "form": "I",
       "rections": [
@@ -2976,9 +2983,9 @@
         },
         {
           "meaning": "vorlesen / rezitieren für/gegenüber",
-          "example": "نَتْلُو عَلَيْكَ",
-          "ref": "28:3",
-          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=28&verse=3",
+          "example": "لِتَقْرَأَهُ عَلَى النَّاسِ عَلَى مُكْثٍ",
+          "ref": "17:106",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=17&verse=106",
           "preposition": "عَلَى"
         }
       ],
@@ -2991,13 +2998,15 @@
       "rections": [
         {
           "meaning": "hängen an / sich klammern an",
-          "example": "وَاعْتَصِمُوا بِحَبْلِ اللَّهِ",
-          "ref": "3:103",
-          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=103",
+          "example": "تَعَلَّقَ بِ",
+          "ref": "— (im Quran nicht belegt)",
+          "notAttested": true,
+          "note": "Form V von ع-ل-ق ist im Quran nicht belegt.",
+          "verifyUrl": "https://corpus.quran.com/qurandictionary.jsp?q=Elq",
           "preposition": "بِ"
         }
       ],
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=103"
+      "verifyUrl": "https://corpus.quran.com/qurandictionary.jsp?q=Elq"
     },
     {
       "root": "ع-ص-م",
@@ -3072,9 +3081,9 @@
         },
         {
           "meaning": "sich erheben über",
-          "example": "فَاسْتَعْلَى عَلَيْهِمْ",
-          "ref": "20:64",
-          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=20&verse=64",
+          "example": "لَا تَعْلُوا عَلَى اللَّهِ",
+          "ref": "44:19",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=44&verse=19",
           "preposition": "عَلَى"
         }
       ],
@@ -3138,20 +3147,24 @@
       "rections": [
         {
           "meaning": "sich abwenden von / abaendern von",
-          "example": "وَمَا هُمْ بِمُزَحْزِحِيهِ مِنَ الْعَذَابِ",
-          "ref": "2:96",
-          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=96",
+          "example": "حَوَّلَ عَنْ",
+          "ref": "— (im Quran nicht belegt)",
+          "notAttested": true,
+          "note": "Form II von ح-و-ل ist im Quran nicht belegt.",
+          "verifyUrl": "https://corpus.quran.com/qurandictionary.jsp?q=Hwl",
           "preposition": "عَنْ"
         },
         {
           "meaning": "wenden zu",
-          "example": "فَلَنُوَلِّيَنَّكَ قِبْلَةً تَرْضَاهَا",
-          "ref": "2:144",
-          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=144",
+          "example": "حَوَّلَ إِلَى",
+          "ref": "— (im Quran nicht belegt)",
+          "notAttested": true,
+          "note": "Form II von ح-و-ل ist im Quran nicht belegt.",
+          "verifyUrl": "https://corpus.quran.com/qurandictionary.jsp?q=Hwl",
           "preposition": "إِلَى"
         }
       ],
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=96"
+      "verifyUrl": "https://corpus.quran.com/qurandictionary.jsp?q=Hwl"
     },
     {
       "root": "ح-و-ل",
@@ -3160,20 +3173,24 @@
       "rections": [
         {
           "meaning": "sich abwenden von",
-          "example": "لَا يَحُولُ عَنْهَا",
-          "ref": "18:108",
-          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=18&verse=108",
+          "example": "تَحَوَّلَ عَنْ",
+          "ref": "— (im Quran nicht belegt)",
+          "notAttested": true,
+          "note": "Form V von ح-و-ل ist im Quran nicht belegt; nur Form I (حَالَ) in 8:24 und 18:108.",
+          "verifyUrl": "https://corpus.quran.com/qurandictionary.jsp?q=Hwl",
           "preposition": "عَنْ"
         },
         {
           "meaning": "sich wenden zu / ueberwechseln zu",
-          "example": "فَوَلِّ وَجْهَكَ شَطْرَ الْمَسْجِدِ الْحَرَامِ",
-          "ref": "2:144",
-          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=144",
+          "example": "تَحَوَّلَ إِلَى",
+          "ref": "— (im Quran nicht belegt)",
+          "notAttested": true,
+          "note": "Form V von ح-و-ل ist im Quran nicht belegt.",
+          "verifyUrl": "https://corpus.quran.com/qurandictionary.jsp?q=Hwl",
           "preposition": "إِلَى"
         }
       ],
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=18&verse=108"
+      "verifyUrl": "https://corpus.quran.com/qurandictionary.jsp?q=Hwl"
     },
     {
       "root": "ع-ج-ب",
@@ -3439,20 +3456,20 @@
       "rections": [
         {
           "meaning": "empfehlen / auferlegen (etwas)",
-          "example": "وَوَصَّى بِهَا إِبْرَاهِيمُ بَنِيهِ",
-          "ref": "2:132",
-          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=132",
+          "example": "يُوصِيكُمُ اللَّهُ فِي أَوْلَادِكُمْ",
+          "ref": "4:11",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=11",
           "preposition": "بِ"
         },
         {
           "meaning": "anweisen (transitiv / mit an-Satz)",
-          "example": "وَوَصَّيْنَا الْإِنْسَانَ بِوَالِدَيْهِ",
-          "ref": "31:14",
-          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=31&verse=14",
+          "example": "مِنْ بَعْدِ وَصِيَّةٍ يُوصِي بِهَا أَوْ دَيْنٍ",
+          "ref": "4:12",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=12",
           "preposition": "—"
         }
       ],
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=132"
+      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=11"
     },
     {
       "root": "ع-ه-د",

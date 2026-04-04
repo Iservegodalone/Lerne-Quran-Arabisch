@@ -241,7 +241,8 @@
           "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=30"
         }
       ],
-      "category": "reading_variant",
+      "category": "semantic_range",
+      "note": "Identische Vokalisierung, rein semantische Polysemie (Einzelnachfolger vs. kollektive Nachfolge).",
       "_note": "Same root, but semantic range of the pattern is debated.",
       "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=30"
     },
@@ -417,6 +418,8 @@
         }
       ],
       "category": "form_ambiguity",
+      "status": "resolved",
+      "note": "Keine Ambiguitaet mehr nach Ausschluss der Form-VII-Lesung.",
       "_note": "Form VII ينفجر has a different consonantal skeleton (ن vs ت) and is therefore not a genuine ambiguity of the same rasm يتفجر. The Form VII option was removed.",
       "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=74"
     },

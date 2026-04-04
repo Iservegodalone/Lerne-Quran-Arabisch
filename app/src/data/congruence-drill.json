@@ -36,7 +36,8 @@
     {
       "id": "R4",
       "rule": "Adjektiv kongruiert mit Nomen in Genus, Numerus, Kasus UND Definitheit",
-      "ref": "—"
+      "ref": "—",
+      "verifyUrl": "https://archive.org/details/WrightsArabicGrammar2Of2/page/n267"
     },
     {
       "id": "R5",
@@ -47,12 +48,14 @@
     {
       "id": "R6",
       "rule": "Feminines Subjekt direkt vor Verb → obligatorische Ta-Markierung am Verb",
-      "ref": "—"
+      "ref": "—",
+      "verifyUrl": "https://archive.org/details/WrightsArabicGrammar2Of2/page/n267"
     },
     {
       "id": "R7",
       "rule": "Feminines Subjekt mit Trennung vom Verb → optionale Ta-Markierung",
-      "ref": "—"
+      "ref": "—",
+      "verifyUrl": "https://archive.org/details/WrightsArabicGrammar2Of2/page/n267"
     }
   ],
   "exercises": [
@@ -103,6 +106,7 @@
       "arabic": "إِنِّي أَرَىٰ سَبْعَ بَقَرَاتٍ سِمَانٍ يَأْكُلُهُنَّ سَبْعٌ عِجَافٌ",
       "question": "Warum سِمَان (gebrochener Plural) und nicht سَمِينَة (Feminin Singular)?",
       "answer": "سِمَان ist ein gebrochener Plural (Muster فِعَال) von سَمِين. بَقَرَات ist gesunder Feminin-Plural (nicht gebrochen), daher volle Pluralkongruenz: das Adjektiv steht ebenfalls im Plural.",
+      "note": "سِمَان ist der gebrochene Plural des Adjektivs سَمِين. Gebrochene Adjektiv-Plurale koennen mit gesunden Femininpluralen kongruieren.",
       "rule": "R4",
       "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=12&verse=43"
     },

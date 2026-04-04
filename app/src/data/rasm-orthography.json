@@ -144,7 +144,8 @@
           "modernOrtho": "لدى",
           "transliteration": "ladā",
           "meaning": "bei",
-          "note": "Übereinstimmung — Alif Maqsura in beiden"
+          "note": "Übereinstimmung — Alif Maqsura in beiden",
+          "verifyUrl": "https://corpus.quran.com/qurantext.jsp"
         },
         {
           "quranOrtho": "يتوفىكم",
@@ -657,14 +658,16 @@
           "modernOrtho": "الم / ان لم",
           "transliteration": "an lam / a-lam",
           "meaning": "ob nicht / hat nicht",
-          "note": "Kontextabhängig getrennt oder zusammen"
+          "note": "Kontextabhängig getrennt oder zusammen",
+          "verifyUrl": "https://corpus.quran.com/qurantext.jsp"
         },
         {
           "quranOrtho": "عن ما",
           "modernOrtho": "عما",
           "transliteration": "ʿan mā / ʿammā",
           "meaning": "über das was / worueber",
-          "note": "Im Konsonantentext manchmal getrennt"
+          "note": "Im Konsonantentext manchmal getrennt",
+          "verifyUrl": "https://corpus.quran.com/qurantext.jsp"
         },
         {
           "quranOrtho": "في ما",
@@ -716,7 +719,7 @@
         },
         {
           "quranOrtho": "هٰذَا",
-          "modernOrtho": "هاذا",
+          "modernOrtho": "هذا",
           "transliteration": "hādhā",
           "meaning": "dieser",
           "locations": [
@@ -729,7 +732,7 @@
         },
         {
           "quranOrtho": "ذٰلِكَ",
-          "modernOrtho": "ذالك",
+          "modernOrtho": "ذلك",
           "transliteration": "dhālika",
           "meaning": "jener",
           "locations": [
@@ -742,7 +745,7 @@
         },
         {
           "quranOrtho": "لٰكِنَّ",
-          "modernOrtho": "لاكن",
+          "modernOrtho": "لكنّ",
           "transliteration": "lākinna",
           "meaning": "aber / jedoch",
           "locations": [
@@ -813,28 +816,32 @@
           "modernOrtho": "ال / ٱل",
           "transliteration": "al-",
           "meaning": "bestimmter Artikel",
-          "note": "Das häufigste Alif Wasla. Am Satzanfang mit Hamza, im Redefluss verschliffen."
+          "note": "Das häufigste Alif Wasla. Am Satzanfang mit Hamza, im Redefluss verschliffen.",
+          "verifyUrl": "https://archive.org/details/WrightsArabicGrammar1Of2/page/n23"
         },
         {
           "quranOrtho": "استفعل",
           "modernOrtho": "ٱستفعل",
           "transliteration": "istaf'ala",
           "meaning": "Form X Verb",
-          "note": "Das Alif am Anfang von Form VII, VIII, X ist Wasla."
+          "note": "Das Alif am Anfang von Form VII, VIII, X ist Wasla.",
+          "verifyUrl": "https://archive.org/details/WrightsArabicGrammar1Of2/page/n23"
         },
         {
           "quranOrtho": "ابن",
           "modernOrtho": "ٱبن",
           "transliteration": "ibn",
           "meaning": "Sohn",
-          "note": "Eines der wenigen Nomen mit Alif Wasla."
+          "note": "Eines der wenigen Nomen mit Alif Wasla.",
+          "verifyUrl": "https://archive.org/details/WrightsArabicGrammar1Of2/page/n23"
         },
         {
           "quranOrtho": "اسم",
           "modernOrtho": "ٱسم",
           "transliteration": "ism",
           "meaning": "Name",
-          "note": null
+          "note": null,
+          "verifyUrl": "https://archive.org/details/WrightsArabicGrammar1Of2/page/n23"
         }
       ]
     }

@@ -166,10 +166,11 @@
       "arabic": "وَيُقِيمُونَ الصَّلَاةَ",
       "targetWord": "الصَّلَاة",
       "root": "ص-ل-و",
-      "form": "I oder II",
+      "form": "I",
       "isMasdar": true,
       "masdarPattern": "فَعَالَة (mit Ta Marbuta)",
       "explanation": "صَلَاة ist Masdar der Wurzel ص-ل-و (Grundbedeutung: sich zuwenden, sich anschließen, folgen). Muster فَعَالَة. Im Quran bezeichnet الصَّلَاة die Zuwendung/Hinwendung als Handlungsform.",
+      "note": "Lexikalisiertes Verbalnomen; das Muster فَعَالَة ist bei der defektiven Wurzel ص-ل-و morphologisch irregulaer.",
       "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=3"
     },
     {
@@ -302,6 +303,7 @@
       "isMasdar": true,
       "masdarPattern": "فُعْلَان",
       "explanation": "قُرْآن ist Masdar auf dem Muster فُعْلَان (wie غُفْرَان, فُرْقَان). Bedeutung: die Rezitation/das Lesen.",
+      "note": "Etymologisch Masdar, im Quran als Eigenbezeichnung lexikalisiert.",
       "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=17&verse=78"
     },
     {
@@ -314,6 +316,7 @@
       "isMasdar": true,
       "masdarPattern": "فُعْلَان",
       "explanation": "فُرْقَان ist Masdar auf dem Muster فُعْلَان. Bedeutung: die Unterscheidung (zwischen Wahrheit und Falschheit).",
+      "note": "Etymologisch Masdar, im Quran als Eigenbezeichnung lexikalisiert.",
       "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=25&verse=1"
     },
     {
@@ -408,7 +411,7 @@
       "root": "و-ق-ي",
       "form": "—",
       "isMasdar": true,
-      "masdarPattern": "تَفْعَل (mit defektivem Lam)",
+      "masdarPattern": "Sondermuster (defektive Wurzel و-ق-ي)",
       "explanation": "تَقْوَى ist Masdar — Achtsamkeit/Schutznahme. Von der schwachen Wurzel و-ق-ي.",
       "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=197"
     },
@@ -576,8 +579,9 @@
       "root": "ط-و-ق",
       "form": "I",
       "isMasdar": true,
-      "masdarPattern": "فَاعِلَة",
+      "masdarPattern": "فَعْلَة (Hohlwurzel: Waw → langes Alif)",
       "explanation": "طَاقَة ist Masdar von Form I (طَاقَ). Muster فَاعِلَة (mit hohlem Ain). Bedeutung: die Fähigkeit/das Vermögen.",
+      "note": "Die Wurzel ط-و-ق ist hohl; das lange Alif resultiert aus dem schwachen mittleren Radikal.",
       "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=286"
     },
     {
@@ -709,7 +713,7 @@
       "form": "I",
       "isMasdar": true,
       "masdarPattern": "فَعْل",
-      "explanation": "سَلْم ist Masdar von Form I. Muster فَعْل. Bedeutung: der Frieden. (Variante: سِلْم).",
+      "explanation": "سَلْم ist Masdar von Form I. Muster فَعْل. Bedeutung: der Frieden. (Auch mit Kasra belegt: سِلْم).",
       "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=8&verse=61"
     },
     {
@@ -878,6 +882,7 @@
       "isMasdar": true,
       "masdarPattern": "فِعْل",
       "explanation": "رِزْق ist Masdar von Form I (رَزَقَ). Muster فِعْل. Bedeutung: die Versorgung/Nahrung. Wird auch als konkretes Nomen (das Versorgte) verwendet.",
+      "note": "Hier kontextuell als konkretes Nomen ('Versorgung/Nahrung') verwendet, nicht als abstraktes Verbalnomen.",
       "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=37"
     },
     {
@@ -934,10 +939,11 @@
       "arabic": "قُلْ أَمَرَ رَبِّي بِالْقِسْطِ",
       "targetWord": "الْقِسْط",
       "root": "ق-س-ط",
-      "form": "I/IV",
+      "form": "I",
       "isMasdar": true,
       "masdarPattern": "فِعْل",
       "explanation": "قِسْط ist Masdar. Muster فِعْل. Bedeutung: die Gerechtigkeit/Fairness. Von der Wurzel ق-س-ط.",
+      "note": "Form-I-Masdar auf dem Muster فِعْل. Form IV (أَقْسَطَ) hat das Masdar إِقْسَاط.",
       "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=7&verse=29"
     },
     {
@@ -998,6 +1004,7 @@
       "isMasdar": true,
       "masdarPattern": "فُعْلَان",
       "explanation": "سُبْحَان ist Masdar auf dem Muster فُعْلَان. Bedeutung: die Verherrlichung/Erhebung über Mängel. Steht permanent im Akkusativ als Maf'ul mutlaq — der Masdar drückt die Handlung der Verherrlichung aus, ohne dass ein finites Verb syntaktisch notwendig ist.",
+      "note": "سُبْحَان ist Masdar der Form I (سَبَحَ). Nicht zu verwechseln mit dem Form-II-Masdar تَسْبِيح von سَبَّحَ.",
       "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=191"
     },
     {

@@ -18,6 +18,7 @@
     {
       "id": "LG1",
       "title": "Aufbau eines Lane's-Eintrags",
+      "verifyUrl": "https://ejtaal.net/aa/#ll=Llh",
       "learnContent": {
         "sections": [
           {
@@ -66,7 +67,8 @@
               "Information Nomen",
               "Indefinites Nomen"
             ],
-            "correct": 0
+            "correct": 0,
+            "verifyUrl": "https://ejtaal.net/aa/#ll=Llh"
           },
           {
             "question": "Womit beginnt Lane typischerweise einen Wurzeleintrag?",
@@ -76,7 +78,8 @@
               "Mit der sinnlichsten/konkretesten Grundbedeutung",
               "Mit der grammatischen Form"
             ],
-            "correct": 2
+            "correct": 2,
+            "verifyUrl": "https://ejtaal.net/aa/#ll=Llh"
           },
           {
             "question": "Was bedeutet 'S' als Quellenabkürzung?",
@@ -86,7 +89,8 @@
               "Singular",
               "Sura"
             ],
-            "correct": 0
+            "correct": 0,
+            "verifyUrl": "https://ejtaal.net/aa/#ll=Llh"
           }
         ]
       }

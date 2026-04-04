@@ -116,22 +116,26 @@
         {
           "type": "root_field",
           "prompt": "Schlage die Wurzel ه-د-ي (h-d-y) in Lane's Lexikon nach. Notiere alle Bedeutungsfacetten. Finde dann mindestens 10 Verse im Quran, die verschiedene Facetten dieser Wurzel zeigen.",
-          "hint": "Die Wurzel ه-د-ي kommt in über 300 Versen vor. Bedeutungsfeld: leiten, führen, den Weg zeigen, ein Geschenk geben (هَدِيَّة), ein Opfertier führen (هَدْي)."
+          "hint": "Die Wurzel ه-د-ي kommt in über 300 Versen vor. Bedeutungsfeld: leiten, führen, den Weg zeigen, ein Geschenk geben (هَدِيَّة), ein Opfertier führen (هَدْي).",
+          "verifyUrl": "https://archive.org/details/WrightsArabicGrammar2Of2/page/n316"
         },
         {
           "type": "root_field",
           "prompt": "Untersuche die Wurzel ظ-ل-م (ẓ-l-m). Was ist die Grundbedeutung? Wie hilft sie, den quranischen Begriff ظُلْم zu verstehen?",
-          "hint": "Grundbedeutung: etwas an einen falschen Platz setzen. ظُلْم ist nicht einfach 'Ungerechtigkeit', sondern: etwas dorthin setzen, wo es nicht hingehört."
+          "hint": "Grundbedeutung: etwas an einen falschen Platz setzen. ظُلْم ist nicht einfach 'Ungerechtigkeit', sondern: etwas dorthin setzen, wo es nicht hingehört.",
+          "verifyUrl": "https://archive.org/details/WrightsArabicGrammar2Of2/page/n316"
         },
         {
           "type": "root_field",
           "prompt": "Vergleiche die Wurzeln ع-ب-د (ʿ-b-d) und ع-ب-ر (ʿ-b-r). Beide beginnen mit ع-ب. Gibt es ein gemeinsames Bedeutungselement?",
-          "hint": "ع-ب-د: dienen, Knecht sein (Lane's). ع-ب-ر: durchqueren, übersetzen (Lane's). Beide teilen ع-ب. Ob die gemeinsamen Konsonanten ein gemeinsames Bedeutungselement tragen, ist eine offene sprachwissenschaftliche Frage — notiere was du beobachtest."
+          "hint": "ع-ب-د: dienen, Knecht sein (Lane's). ع-ب-ر: durchqueren, übersetzen (Lane's). Beide teilen ع-ب. Ob die gemeinsamen Konsonanten ein gemeinsames Bedeutungselement tragen, ist eine offene sprachwissenschaftliche Frage — notiere was du beobachtest.",
+          "verifyUrl": "https://archive.org/details/WrightsArabicGrammar2Of2/page/n316"
         },
         {
           "type": "journal",
           "prompt": "Lege eine Root-Journal-Seite für die Wurzel ر-ح-م (r-ḥ-m) an. Grundbedeutung, alle Quran-Formen, eigene Beobachtungen.",
-          "hint": "Grundbedeutung: der Mutterschoß (رَحِم). رَحْمَة (Barmherzigkeit) kommt vom Mutterschoß. الرَّحْمَٰنُ الرَّحِيمُ — الرَّحْمَٰنُ folgt dem fa'laan-Muster (Fuelle einer Eigenschaft), الرَّحِيمُ folgt dem fa'iil-Muster (dauerhafte Eigenschaft) — zwei verschiedene Steigerungsmuster derselben Wurzel."
+          "hint": "Grundbedeutung: der Mutterschoß (رَحِم). رَحْمَة (Barmherzigkeit) kommt vom Mutterschoß. الرَّحْمَٰنُ الرَّحِيمُ — الرَّحْمَٰنُ folgt dem fa'laan-Muster (Fuelle einer Eigenschaft), الرَّحِيمُ folgt dem fa'iil-Muster (dauerhafte Eigenschaft) — zwei verschiedene Steigerungsmuster derselben Wurzel.",
+          "verifyUrl": "https://archive.org/details/WrightsArabicGrammar2Of2/page/n316"
         },
         {
           "type": "analysis",
@@ -350,27 +354,32 @@
         {
           "type": "intertextual",
           "prompt": "Finde alle Verse, in denen das Wort تَقْوَىٰ (taqwā) oder seine Wurzel و-ق-ي vorkommt. Was ergibt sich aus den quranischen Kontexten über تَقْوَىٰ?",
-          "hint": "Grundbedeutung der Wurzel و-ق-ي: sich schützen, sich hüten. تَقْوَىٰ wird geläufig als 'Gottesfurcht' übersetzt, doch die Wurzel bedeutet primär Schutznahme — sich vor dem schützen, was schadet."
+          "hint": "Grundbedeutung der Wurzel و-ق-ي: sich schützen, sich hüten. تَقْوَىٰ wird geläufig als 'Gottesfurcht' übersetzt, doch die Wurzel bedeutet primär Schutznahme — sich vor dem schützen, was schadet.",
+          "verifyUrl": "https://archive.org/details/WrightsArabicGrammar2Of2/page/n316"
         },
         {
           "type": "intertextual",
           "prompt": "Untersuche das Wort كِتَاب in allen seinen quranischen Kontexten. Bedeutet es immer 'Buch'?",
-          "hint": "كِتَاب kann bedeuten: Buch, Schrift, Verpflichtung, Dekret, Vorschrift. Der Quran verwendet es in mindestens vier verschiedenen Bedeutungen."
+          "hint": "كِتَاب kann bedeuten: Buch, Schrift, Verpflichtung, Dekret, Vorschrift. Der Quran verwendet es in mindestens vier verschiedenen Bedeutungen.",
+          "verifyUrl": "https://archive.org/details/WrightsArabicGrammar2Of2/page/n316"
         },
         {
           "type": "intertextual",
           "prompt": "Erstelle eine intertextuelle Analyse des Wortes آيَة. Welche Bedeutungen hat es im Quran?",
-          "hint": "آيَة: Zeichen, Beweis, Wunder, Vers. Der Quran nutzt alle vier Bedeutungen — manchmal in demselben Kontext, um Mehrdeutigkeit zu erzeugen."
+          "hint": "آيَة: Zeichen, Beweis, Wunder, Vers. Der Quran nutzt alle vier Bedeutungen — manchmal in demselben Kontext, um Mehrdeutigkeit zu erzeugen.",
+          "verifyUrl": "https://archive.org/details/WrightsArabicGrammar2Of2/page/n316"
         },
         {
           "type": "intertextual",
           "prompt": "Untersuche die Wurzel ص-ل-و und das Wort صَلَاة in allen quranischen Kontexten. Welches Bedeutungsspektrum ergibt sich aus der Wurzel und den Verwendungsstellen?",
-          "hint": "Die Grundbedeutung der Wurzel ص-ل-و ist 'folgen, sich anschließen, verbinden'. Der Quran verwendet صَلَاة in verschiedenen Kontexten — als Handlung des Menschen, als Handlung Gottes (33:56: إِنَّ اللَّهَ وَمَلَائِكَتَهُ يُصَلُّونَ عَلَى النَّبِيِّ), und als Handlung mit verschiedenen Kontextbedeutungen. Erst die Gesamtschau zeigt das volle Bild."
+          "hint": "Die Grundbedeutung der Wurzel ص-ل-و ist 'folgen, sich anschließen, verbinden'. Der Quran verwendet صَلَاة in verschiedenen Kontexten — als Handlung des Menschen, als Handlung Gottes (33:56: إِنَّ اللَّهَ وَمَلَائِكَتَهُ يُصَلُّونَ عَلَى النَّبِيِّ), und als Handlung mit verschiedenen Kontextbedeutungen. Erst die Gesamtschau zeigt das volle Bild.",
+          "verifyUrl": "https://archive.org/details/WrightsArabicGrammar2Of2/page/n316"
         },
         {
           "type": "intertextual",
           "prompt": "Finde alle Verse mit der Wurzel ر-ز-ق und dem Wort رِزْق. Was versteht der Quran unter 'Versorgung'?",
-          "hint": "Die Grundbedeutung ist 'versorgen, zuteilen'. رِزْق erscheint im Quran wiederholt in Kontexten, wo Gott als alleiniger Versorger benannt wird (11:6, 29:60). Es umfasst nicht nur Nahrung, sondern auch Wissen, Nachkommen und Führung. Achte auf den Unterschied zwischen رَازِق (Versorger) und رَزَّاق (beständig Versorgender, 51:58)."
+          "hint": "Die Grundbedeutung ist 'versorgen, zuteilen'. رِزْق erscheint im Quran wiederholt in Kontexten, wo Gott als alleiniger Versorger benannt wird (11:6, 29:60). Es umfasst nicht nur Nahrung, sondern auch Wissen, Nachkommen und Führung. Achte auf den Unterschied zwischen رَازِق (Versorger) und رَزَّاق (beständig Versorgender, 51:58).",
+          "verifyUrl": "https://archive.org/details/WrightsArabicGrammar2Of2/page/n316"
         },
         {
           "type": "analysis",
@@ -671,7 +680,8 @@
         {
           "type": "rhetoric_analyze",
           "prompt": "Aufgabe: Analysiere Sure 55 (ar-Raḥmān) rhetorisch. Identifiziere: (1) Den Refrain فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ und seine Funktion — wie oft kommt er vor, was bewirkt die Wiederholung? (2) Welche rhetorischen Mittel aus dieser Lektion findest du — Taqdīm, Iltifāt, rhetorische Frage, Gleichnis? (3) Wie ist die Sure strukturiert — gibt es eine Ringkomposition oder einen thematischen Aufbau (Schöpfung → Vergänglichkeit → Garten (جَنَّة — wörtl. Garten, konventionell 'Paradies'))? (4) An wen richtet sich der Dual (كُمَا) — und was bedeutet der Wechsel der Adressaten?",
-          "hint": "Der Refrain erscheint 31 Mal. Er ist eine rhetorische Frage die nach jeder Aufzählung wiederholt wird. Die Sure folgt einem Aufbau: Aufzählungen (1-30), Vergänglichkeit und Konsequenzen (31-45), Beschreibung zweier Gärten (46-78). Der Dual (كُمَا) richtet sich laut Vers 33 an Menschen und Jinn."
+          "hint": "Der Refrain erscheint 31 Mal. Er ist eine rhetorische Frage die nach jeder Aufzählung wiederholt wird. Die Sure folgt einem Aufbau: Aufzählungen (1-30), Vergänglichkeit und Konsequenzen (31-45), Beschreibung zweier Gärten (46-78). Der Dual (كُمَا) richtet sich laut Vers 33 an Menschen und Jinn.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=55&verse=1"
         },
         {
           "type": "analysis",
@@ -971,7 +981,8 @@
         {
           "type": "particle_distinction",
           "prompt": "In Sure 91 stehen acht Schwüre hintereinander (وَالشَّمْسِ, وَالْقَمَرِ, usw.). Finde den Punkt, an dem وَ von Schwur-وَ zu Konjunktion-وَ wechselt.",
-          "hint": "Die Schwüre gehen bis Vers 8 (وَنَفْسٍ). Ab Vers 9 (قَدْ أَفْلَحَ) beginnt die Antwort auf den Schwur. Die Schwüre bauen Spannung auf — die Auflösung kommt spät."
+          "hint": "Die Schwüre gehen bis Vers 8 (وَنَفْسٍ). Ab Vers 9 (قَدْ أَفْلَحَ) beginnt die Antwort auf den Schwur. Die Schwüre bauen Spannung auf — die Auflösung kommt spät.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=91&verse=1"
         },
         {
           "type": "particle_distinction",
@@ -1150,7 +1161,8 @@
               {
                 "arabic": "ض-غ-ط (ḍ-gh-ṭ)",
                 "meaning": "pressen, drücken, unter Druck setzen. Alle drei Konsonanten sind 'schwer' (emphatisch/pharyngal) — der Klang selbst drückt.",
-                "ref": "Klassisches Arabisch"
+                "ref": "Klassisches Arabisch",
+                "verifyUrl": "https://archive.org/details/WrightsArabicGrammar2Of2/page/n316"
               },
               {
                 "arabic": "د-م-م (d-m-m)",
@@ -1195,7 +1207,8 @@
         {
           "type": "phonosemantic",
           "prompt": "Finde mindestens drei weitere Wurzeln mit ف am Anfang, die eine Bedeutung von 'Öffnung' oder 'Trennung' tragen.",
-          "hint": "ف-ص-ل (trennen, entscheiden — فَصْل), ف-ر-ج (sich öffnen, Erleichterung — فَرَج), ف-ك-ك (lösen, befreien — فَكَّ رَقَبَةً in 90:13)."
+          "hint": "ف-ص-ل (trennen, entscheiden — فَصْل), ف-ر-ج (sich öffnen, Erleichterung — فَرَج), ف-ك-ك (lösen, befreien — فَكَّ رَقَبَةً in 90:13).",
+          "verifyUrl": "https://archive.org/details/WrightsArabicGrammar2Of2/page/n316"
         },
         {
           "type": "phonosemantic",
@@ -1380,7 +1393,8 @@
         {
           "type": "prosody",
           "prompt": "Lies Sure 55 laut vor. Achte auf den -ān-Reim und den Refrain. Wie oft kommt der Refrain vor und welchen Effekt erzeugt die Wiederholung?",
-          "hint": "Der Refrain فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ kommt 31 Mal vor. Er gliedert die Sure in Abschnitte und erzeugt einen fast meditativen Rhythmus."
+          "hint": "Der Refrain فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ kommt 31 Mal vor. Er gliedert die Sure in Abschnitte und erzeugt einen fast meditativen Rhythmus.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=55&verse=1"
         },
         {
           "type": "prosody",
@@ -1391,28 +1405,32 @@
         {
           "type": "prosody",
           "prompt": "Finde in Sure 99 alle Wiederholungen und klangmalerischen Elemente. Wie unterstützt der Klang die Bedeutung?",
-          "hint": "زُلْزِلَتِ (Vers 1) — das wiederholte z-l ahmt das Beben nach. يَوْمَئِذٍ wird dreimal wiederholt — es strukturiert die Abfolge der Ereignisse."
+          "hint": "زُلْزِلَتِ (Vers 1) — das wiederholte z-l ahmt das Beben nach. يَوْمَئِذٍ wird dreimal wiederholt — es strukturiert die Abfolge der Ereignisse.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=99&verse=1"
         },
         {
           "type": "prosody",
           "prompt": "Warum endet Sure 112 mit demselben Wort, mit dem sie beginnt (أَحَدٌ)?",
-          "hint": "Die Sure über Gottes Einheit (أَحَد = Einer) bildet selbst eine Einheit — sie schließt sich zu einem Ring. Form spiegelt Inhalt: Einheit in der Aussage, Einheit in der Struktur."
+          "hint": "Die Sure über Gottes Einheit (أَحَد = Einer) bildet selbst eine Einheit — sie schließt sich zu einem Ring. Form spiegelt Inhalt: Einheit in der Aussage, Einheit in der Struktur.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=112&verse=1"
         },
         {
           "type": "prosody",
           "prompt": "Aufgabe: Höre Sure 36 (Yā-Sīn) an und lies den Konsonantentext mit. Achte auf: (1) Den Wechsel zwischen langen und kurzen Versen — wo beschleunigt der Rhythmus, wo verlangsamt er? (2) Die Fāṣila (Versendreime) — welche Reimmuster erkennst du? (3) Die klangliche Verdichtung in den Passagen über den Jüngsten Tag (36:49-65). (4) Wie der Klang die Bedeutung unterstützt — z.B. die Abruptheit von صَيْحَةً (36:29, 36:49, 36:53).",
           "hint": "Sure 36 hat 83 Verse mit wechselnden Rhythmen. Die Eröffnung (يس, وَالْقُرْآنِ الْحَكِيمِ) ist langsam und feierlich. Die Erzählung beschleunigt mit kurzen Versen. Die Passagen über die Auferstehung (36:77-83) enden mit schnellen, drängenden Fragen. Die Fāṣila wechselt zwischen -īn/-ūn-Reimen und offenen Endungen.",
-          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=36&verse=49"
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=36&verse=1"
         },
         {
           "type": "analysis",
           "prompt": "Höre Sure 91 (ash-Shams) und achte auf die Fasila. Die Sure hat 15 Verse. In den ersten 10 Versen enden alle auf -aha (ضحها, تلها, جلها, يغشها, بنها, طحها, سوها, تقوها, زكها, دسها). Dann bricht der Reim ab (Vers 11-15). Was signalisiert dieser Reimbruch inhaltlich?",
-          "hint": "Die ersten 10 Verse sind Schwüre und allgemeine Aussagen — sie bilden eine geschlossene klangliche Einheit mit -aha-Reim. Ab Vers 11 beginnt die Erzählung von Thamud — ein neuer inhaltlicher Abschnitt. Der Reimbruch markiert den Übergang vom Allgemeinen (Schwüre über Schöpfung) zum Konkreten (historische Erzählung). Form und Inhalt stimmen überein."
+          "hint": "Die ersten 10 Verse sind Schwüre und allgemeine Aussagen — sie bilden eine geschlossene klangliche Einheit mit -aha-Reim. Ab Vers 11 beginnt die Erzählung von Thamud — ein neuer inhaltlicher Abschnitt. Der Reimbruch markiert den Übergang vom Allgemeinen (Schwüre über Schöpfung) zum Konkreten (historische Erzählung). Form und Inhalt stimmen überein.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=91&verse=1"
         },
         {
           "type": "direct_reading",
           "prompt": "Lies die ersten 5 Verse von Sure 93 (ad-Duha) laut vor: والضحى والليل اذا سجى ما ودعك ربك وما قلى وللاخره خير لك من الاولى ولسوف يعطيك ربك فترضى. Achte auf den Reimlaut -a am Ende jedes Verses. Wie wirkt dieser offene Vokal auf den Hörer?",
-          "hint": "Der offene -a-Reim (سجى, قلى, الاولى, فترضى) erzeugt einen weichen, offenen Klang — wie ein Ausatmen, ein Seufzen der Erleichterung. Passend zum Ton der Sure, der tröstlich und bekräftigend ist. Vergleiche mit dem harten -d-Reim in Sure 112 (احد, الصمد, يولد) — dort drückt der geschlossene Konsonant Endgueltigkeit aus."
+          "hint": "Der offene -a-Reim (سجى, قلى, الاولى, فترضى) erzeugt einen weichen, offenen Klang — wie ein Ausatmen, ein Seufzen der Erleichterung. Passend zum Ton der Sure, der tröstlich und bekräftigend ist. Vergleiche mit dem harten -d-Reim in Sure 112 (احد, الصمد, يولد) — dort drückt der geschlossene Konsonant Endgueltigkeit aus.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=93&verse=1"
         },
         {
           "type": "comparison",

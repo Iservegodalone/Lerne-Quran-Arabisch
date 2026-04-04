@@ -1926,7 +1926,7 @@
           "word": "صَٰلِحًا",
           "root": "ص-ل-ح",
           "form": "AP Form I, Akkusativ",
-          "role": "Maf'ul bihi / Sifa (zu implizitem عَمَلًا)",
+          "role": "Maf'ul bihi von عَمِلَ — عَمِلَ صَالِحًا ist direkte Konstruktion ohne Ellipse",
           "meaning": "Rechtschaffenes",
           "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=16&verse=97"
         },
@@ -2557,7 +2557,7 @@
           "word": "رَّسُولَ",
           "root": "ر-س-ل",
           "form": "Nomen (Muster فَعُول), Akkusativ",
-          "role": "Khabar (implizites كَانَ)",
+          "role": "Khabar von كَانَ — كَانَ aus dem vorherigen Satz (مَا كَانَ) regiert auch den لَٰكِنْ-Satz",
           "meaning": "Gesandter",
           "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=33&verse=40"
         },
@@ -2586,7 +2586,7 @@
           "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=33&verse=40"
         }
       ],
-      "structure": "مَا كَانَ-Satz (Negation) + لَٰكِن-Korrektur mit implizitem كَانَ",
+      "structure": "مَا كَانَ-Satz (Negation) + لَٰكِن-Korrektur — كَانَ aus مَا كَانَ regiert auch den لَٰكِن-Satz",
       "synthesis": "Muhammad war nicht der Vater eines eurer Männer, aber der Gesandte Gottes und das Siegel der Verkünder.",
       "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=33&verse=40"
     },
@@ -2598,7 +2598,7 @@
           "word": "سُبْحَٰنَ",
           "root": "س-ب-ح",
           "form": "Masdar, Akkusativ (immer Mudaf)",
-          "role": "Maf'ul mutlaq (implizites Verb)",
+          "role": "Maf'ul mutlaq — fossilisierte Akkusativkonstruktion des Masdars سُبْحَان",
           "meaning": "Preis / fern von Unvollkommenheit",
           "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=36&verse=36"
         },

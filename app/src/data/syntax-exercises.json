@@ -197,9 +197,10 @@
       "verse": {
         "surah": 55,
         "ayah": 1,
-        "text": "الرحمن",
+        "text": "الرَّحْمَٰنُ ﴿١﴾ عَلَّمَ الْقُرْآنَ",
         "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=55&verse=1"
       },
+      "note": "Die Analyse bezieht sich auf 55:1-2 zusammen.",
       "question": "Sure 55 beginnt mit الرحمن, gefolgt von علم القران (55:2). Identifiziere das Fa'il von علم.",
       "correctAnswer": {
         "wordIndices": [
@@ -256,7 +257,7 @@
     {
       "id": "syn_12",
       "type": "find_element",
-      "category": "fail",
+      "category": "inna",
       "verse": {
         "surah": 36,
         "ayah": 2,

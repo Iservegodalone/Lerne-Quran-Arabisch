@@ -78,7 +78,7 @@
               {
                 "ref": "2:62",
                 "arabic": "إِنَّ الَّذِينَ آمَنُوا وَالَّذِينَ هَادُوا وَالنَّصَارَىٰ وَالصَّابِئِينَ",
-                "explanation": "الصَّابِئِينَ — möglicherweise Nisba-Bildung; النَّصَارَى — irregulärer Nisba-Plural.",
+                "explanation": "صَابِئ ist ein Aktivpartizip (Muster فَاعِل) der Wurzel ص-ب-أ, KEINE Nisba-Bildung (kein Suffix ـِيّ). النَّصَارَى — irregulärer Nisba-Plural.",
                 "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=62"
               },
               {
@@ -113,7 +113,8 @@
             "ـَة (-ah)"
           ],
           "correct": 0,
-          "explanation": "Die maskuline Nisba-Endung ist ـِيّ mit Kasra und Shadda auf Ya."
+          "explanation": "Die maskuline Nisba-Endung ist ـِيّ mit Kasra und Shadda auf Ya.",
+          "verifyUrl": "https://archive.org/details/WrightsArabicGrammar1Of2/page/n166"
         },
         {
           "type": "multiple_choice",

@@ -45,6 +45,7 @@
                 "ref": "82:17-18",
                 "arabic": "وَمَا أَدْرَاكَ مَا يَوْمُ الدِّينِ ﴿١٧﴾ ثُمَّ مَا أَدْرَاكَ مَا يَوْمُ الدِّينِ ﴿١٨﴾",
                 "explanation": "Die rhetorische Frage وَمَا أَدْرَاكَ wird wiederholt, beim zweiten Mal mit ثُمَّ eingeleitet.",
+                "note": "Hinweis: ثُمَّ als Konjunktion zwischen den Wiederholungen weicht vom strengen Tawkid Lafzi ab (Definition: ohne Konjunktion). Dies ist ein Grenzfall zwischen Tawkid und rhetorischer Wiederholung.",
                 "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=82&verse=17"
               },
               {
@@ -99,7 +100,8 @@
               "Bekräftigung durch ein Schwurpartikel",
               "Bekräftigung durch Voranstellung"
             ],
-            "correct": 1
+            "correct": 1,
+            "verifyUrl": "https://archive.org/details/WrightsArabicGrammar2Of2/page/n274"
           },
           {
             "question": "In welchem Kasus steht das Tawkid relativ zu seinem Bezugswort?",
@@ -109,7 +111,8 @@
               "Im selben Kasus wie das Bezugswort",
               "Im Genitiv"
             ],
-            "correct": 2
+            "correct": 2,
+            "verifyUrl": "https://archive.org/details/WrightsArabicGrammar2Of2/page/n274"
           }
         ]
       }
@@ -144,6 +147,7 @@
                 "ref": "2:29",
                 "arabic": "هُوَ الَّذِي خَلَقَ لَكُمْ مَا فِي الْأَرْضِ جَمِيعًا",
                 "explanation": "جَمِيعًا (Akkusativ als Hal): 'insgesamt / alle zusammen' — bekräftigt die Gesamtheit dessen was auf der Erde ist.",
+                "note": "جَمِيعًا fungiert hier syntaktisch als Hal, wird aber auch als semantische Verstaerkung (Tawkid Ma'nawi) des Gesamtbezugs analysiert.",
                 "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=29"
               },
               {
@@ -236,7 +240,8 @@
               "كِلَا / كِلْتَا",
               "جَمِيع"
             ],
-            "correct": 2
+            "correct": 2,
+            "verifyUrl": "https://archive.org/details/WrightsArabicGrammar2Of2/page/n274"
           },
           {
             "question": "Was muss ein Tawkid-Ma'nawi-Wort immer tragen?",
@@ -246,7 +251,8 @@
               "Ein Pronomen-Suffix das auf das Bezugswort zurückverweist",
               "Shadda"
             ],
-            "correct": 2
+            "correct": 2,
+            "verifyUrl": "https://archive.org/details/WrightsArabicGrammar2Of2/page/n274"
           },
           {
             "question": "In 18:33: كِلْتَا الْجَنَّتَيْنِ — warum كِلْتَا und nicht كِلَا?",
@@ -267,7 +273,8 @@
               "18:33",
               "2:29"
             ],
-            "correct": 1
+            "correct": 1,
+            "verifyUrl": "https://archive.org/details/WrightsArabicGrammar2Of2/page/n274"
           }
         ]
       }

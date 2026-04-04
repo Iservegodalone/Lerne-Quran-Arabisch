@@ -91,8 +91,8 @@
     {
       "ref": "38:32",
       "arabic": "رُدُّوهَا عَلَيَّ",
-      "ellipsisType": "missing_object",
-      "analysis": "Das Pronomen -ها referiert auf etwas im vorherigen Kontext (die Pferde), das nicht im selben Satz explizit genannt wird. Der Bezug muss aus dem Erzählkontext erschlossen werden.",
+      "ellipsisType": "kein_ellipsis",
+      "analysis": "Das Pronomen -هَا IST das Objekt. Pronominale Anapher ist normale Kohaesion, keine syntaktische Luecke.",
       "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=38&verse=32"
     },
     {
@@ -126,8 +126,8 @@
     {
       "ref": "2:48",
       "arabic": "وَاتَّقُوا يَوْمًا لَا تَجْزِي نَفْسٌ عَنْ نَفْسٍ شَيْئًا",
-      "ellipsisType": "missing_mawsuf",
-      "analysis": "يَوْمًا ist temporal, aber das Relativpronomen fehlt: 'Fürchtet einen Tag, [an dem] kein Selbst für ein anderes Selbst etwas vergelten kann'. Der Relativsatz qualifiziert يَوْمًا direkt ohne الَّذِي.",
+      "ellipsisType": "asyndetic_relative",
+      "analysis": "Asyndetischer Relativsatz bei indefinitem Bezugswort — Standardgrammatik fuer indefinite Antezedenten, keine Ellipse.",
       "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=48"
     },
     {
@@ -203,8 +203,8 @@
     {
       "ref": "18:79",
       "arabic": "أَمَّا السَّفِينَةُ فَكَانَتْ لِمَسَاكِينَ يَعْمَلُونَ فِي الْبَحْرِ",
-      "ellipsisType": "missing_object",
-      "analysis": "يَعْمَلُونَ (sie arbeiten) — das direkte Objekt fehlt. 'Sie arbeiteten [mit ihr / als Fischer]' — die Art der Arbeit ist elidiert.",
+      "ellipsisType": "kein_ellipsis",
+      "analysis": "عَمِلَ ist hier intransitiv verwendet ('arbeiten'), mit dem Lokativ فِي الْبَحْرِ. Kein elidiertes Objekt.",
       "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=18&verse=79"
     },
     {
@@ -252,8 +252,8 @@
     {
       "ref": "6:136",
       "arabic": "وَجَعَلُوا لِلَّهِ مِمَّا ذَرَأَ مِنَ الْحَرْثِ وَالْأَنْعَامِ نَصِيبًا",
-      "ellipsisType": "missing_object",
-      "analysis": "ذَرَأَ (erschaffen) — transitives Verb. Das direkte Objekt fehlt: 'aus dem, was Er [an Feldfrueuchten und Vieh] erschaffen hat'. Das Objekt ist durch die Präpositionalphrase مِنَ الْحَرْثِ ersetzt.",
+      "ellipsisType": "kein_ellipsis",
+      "analysis": "Das Relativpronomen مَا in مِمَّا ذَرَأَ IST das Objekt von ذَرَأَ. Kein elidiertes Element.",
       "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=6&verse=136"
     },
     {

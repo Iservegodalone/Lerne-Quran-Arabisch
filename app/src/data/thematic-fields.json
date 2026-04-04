@@ -729,34 +729,13 @@
           "verifyUrl": "https://corpus.quran.com/qurandictionary.jsp?q=%D9%86%D9%85%D9%84"
         },
         {
-          "root": "غ ي ر",
-          "transliteration": "ġ-y-r",
-          "keyWords": [
-            "غير (anderer/ausser)",
-            "غَيْرَ"
-          ],
-          "count": "~154",
-          "corpusUrl": "https://corpus.quran.com/qurandictionary.jsp?q=%D8%BA%D9%8A%D8%B1",
-          "verifyUrl": "https://corpus.quran.com/qurandictionary.jsp?q=%D8%BA%D9%8A%D8%B1"
-        },
-        {
-          "root": "د و ن",
-          "transliteration": "d-w-n",
-          "keyWords": [
-            "دون (unterhalb/ohne)",
-            "دُونِكُمْ"
-          ],
-          "count": "~144",
-          "corpusUrl": "https://corpus.quran.com/qurandictionary.jsp?q=%D8%AF%D9%88%D9%86",
-          "verifyUrl": "https://corpus.quran.com/qurandictionary.jsp?q=%D8%AF%D9%88%D9%86"
-        },
-        {
           "root": "م ل ا",
           "transliteration": "m-l-ʾ",
           "keyWords": [
             "ملأ (fuellte/Vornehme)",
             "مِّلْءُ"
           ],
+          "note": "Breites Bedeutungsspektrum: ملأ = fuellen, aber auch مَلَأ = die Vornehmen/Ratsversammlung. Nur die Bedeutung 'fuellen' ist fuer das Feld Schoepfung/Natur relevant.",
           "count": "~40",
           "corpusUrl": "https://corpus.quran.com/qurandictionary.jsp?q=%D9%85%D9%84%D8%A7",
           "verifyUrl": "https://corpus.quran.com/qurandictionary.jsp?q=%D9%85%D9%84%D8%A7"
@@ -779,6 +758,7 @@
             "قرن (Generation/verband)",
             "قَرْنٍ"
           ],
+          "note": "Breites Bedeutungsspektrum: قَرْن = Generation/Zeitalter, aber auch = Horn, und قَرَنَ = verband/koppelte. Im Quran ueberwiegend 'Generation' (z.B. 6:6). Nur bedingt im Feld Schoepfung/Natur.",
           "count": "~36",
           "corpusUrl": "https://corpus.quran.com/qurandictionary.jsp?q=%D9%82%D8%B1%D9%86",
           "verifyUrl": "https://corpus.quran.com/qurandictionary.jsp?q=%D9%82%D8%B1%D9%86"

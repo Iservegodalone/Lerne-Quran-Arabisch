@@ -136,7 +136,8 @@
     {
       "context_form": "تِجَارَتُهُمْ",
       "expected_pausal": "تِجَارَتُهُمْ",
-      "rule": "case_drop",
+      "rule": "liaison_vowel_drop",
+      "explanation": "Die Damma auf dem ta' marbuta ist kein Kasusvokal, sondern ein Bindevokal (liaison vowel) vor dem Pronominalsuffix هُمْ. Im Pausalfall entfaellt dieser Bindevokal.",
       "quranRef": "2:16",
       "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=16"
     },
@@ -192,7 +193,8 @@
     {
       "context_form": "رَبَّكُمُ",
       "expected_pausal": "رَبَّكُمْ",
-      "rule": "case_drop",
+      "rule": "liaison_vowel_drop",
+      "explanation": "Die Damma auf dem mim von كُمُ ist kein Kasusvokal, sondern ein Bindevokal zur Vermeidung von Konsonantenhaeufung vor dem folgenden Wort. Im Pausalfall entfaellt dieser Bindevokal.",
       "quranRef": "2:21",
       "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=21"
     },

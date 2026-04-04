@@ -126,6 +126,7 @@
                 "ref": "12:82",
                 "arabic": "واسال القرية",
                 "explanation": "'Und frage das Dorf.' Rhetorisch als Metonymie (Majaz mursal) analysiert: القرية (das Dorf) wird konventionell als Behaelter fuer die Bewohner gedeutet. Syntaktisch ist der Satz jedoch vollstaendig — der Text richtet die Aufforderung direkt an die Ortschaft, ohne dass ein Wort ergaenzt werden muss.",
+                "note": "Die syntaktische Analyse bleibt auf der Textebene: Der Befehl richtet sich an die Ortschaft. Ob ein metonymischer Transfer intendiert ist, ist eine pragmatische (nicht syntaktische) Frage.",
                 "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=12&verse=82"
               },
               {
@@ -210,7 +211,8 @@
         {
           "type": "analysis",
           "prompt": "Lies Sure 1 komplett. Markiere jeden Vers mit der grammatischen Person in der über/mit Gott gesprochen wird (3. Person = über ihn, 2. Person = zu ihm). Wo genau findet der Wechsel statt?",
-          "hint": "Vers 1-4: 3. Person (Lob gebuehrt Gott, Herr der Welten...). Vers 5: 2. Person (Dir dienen wir). Der Wechsel ist zwischen Vers 4 und 5."
+          "hint": "Vers 1-4: 3. Person (Lob gebuehrt Gott, Herr der Welten...). Vers 5: 2. Person (Dir dienen wir). Der Wechsel ist zwischen Vers 4 und 5.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=1"
         }
       ],
       "testContent": {
@@ -286,7 +288,8 @@
               "Eine zukuenftige Handlung"
             ],
             "correct": 1,
-            "explanation": "Der Nominalsatz betont Zustand und Permanenz, der Verbalsatz betont Handlung und Ereignis."
+            "explanation": "Der Nominalsatz betont Zustand und Permanenz, der Verbalsatz betont Handlung und Ereignis.",
+            "verifyUrl": "https://archive.org/details/WrightsArabicGrammar2Of2/page/n316"
           }
         ]
       }
@@ -341,7 +344,8 @@
               "Überall gleich"
             ],
             "correct": 2,
-            "explanation": "In einem Chiasmus ist das mittlere Element (C) typischerweise der semantische Kern — das Zentrum der Spiegelstruktur."
+            "explanation": "In einem Chiasmus ist das mittlere Element (C) typischerweise der semantische Kern — das Zentrum der Spiegelstruktur.",
+            "verifyUrl": "https://archive.org/details/WrightsArabicGrammar2Of2/page/n316"
           }
         ]
       }
@@ -387,7 +391,8 @@
         {
           "type": "analysis",
           "prompt": "Lies Sure 55 und zähle wie oft der Refrain فباي الاء ربكما تكذبان vorkommt. Nach welchen Versen steht er? Kannst du ein Muster in der Verteilung erkennen?",
-          "hint": "31 Mal. Die Verteilung ist nicht gleichmäßig — die Abstaende zwischen den Refrains variieren und korrelieren mit der Länge der beschriebenen Gaben."
+          "hint": "31 Mal. Die Verteilung ist nicht gleichmäßig — die Abstaende zwischen den Refrains variieren und korrelieren mit der Länge der beschriebenen Gaben.",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=55&verse=1"
         }
       ],
       "testContent": {
@@ -504,7 +509,8 @@
         {
           "type": "analysis",
           "prompt": "Vergleiche: نعبدك (normale Wortstellung) mit اياك نعبد (quranische Wortstellung). Was ändert sich in der Bedeutung?",
-          "hint": "نعبدك = wir dienen dir (Default-Stellung). اياك نعبد = Dich dienen wir (Taqdīm: Objekt in markierter Anfangsposition)."
+          "hint": "نعبدك = wir dienen dir (Default-Stellung). اياك نعبد = Dich dienen wir (Taqdīm: Objekt in markierter Anfangsposition).",
+          "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=5"
         }
       ],
       "testContent": {
@@ -580,7 +586,8 @@
               "Rhythmus"
             ],
             "correct": 1,
-            "explanation": "Durch den Kontrast werden beide Seiten des Gegensatzes deutlicher."
+            "explanation": "Durch den Kontrast werden beide Seiten des Gegensatzes deutlicher.",
+            "verifyUrl": "https://archive.org/details/WrightsArabicGrammar2Of2/page/n316"
           }
         ]
       }
@@ -675,7 +682,8 @@
               "Es ist ein Grammatikfehler der durch Kontextanalyse aufgelöst werden muss"
             ],
             "correct": 1,
-            "explanation": "Jinas verbindet durch Klang was durch Bedeutung verschieden ist. Der Hörer muss die Bedeutungsdifferenz trotz der Klangaehnlichkeit aktiv auflösen — das verdichtet die Textrezeption."
+            "explanation": "Jinas verbindet durch Klang was durch Bedeutung verschieden ist. Der Hörer muss die Bedeutungsdifferenz trotz der Klangaehnlichkeit aktiv auflösen — das verdichtet die Textrezeption.",
+            "verifyUrl": "https://archive.org/details/WrightsArabicGrammar2Of2/page/n316"
           },
           {
             "question": "In وَمَكَرُوا وَمَكَرَ اللَّهُ (3:54) — was bewirkt die Wurzelwiederholung م-ك-ر?",
@@ -770,7 +778,8 @@
               "Es gibt keinen Unterschied"
             ],
             "correct": 1,
-            "explanation": "Bei Majaz wird die Grundbedeutung verlassen (ein Kopf entflammt nicht). Bei Tawriya bleiben die nahe und die ferne Bedeutung beide lexikalisch möglich und semantisch aktiv."
+            "explanation": "Bei Majaz wird die Grundbedeutung verlassen (ein Kopf entflammt nicht). Bei Tawriya bleiben die nahe und die ferne Bedeutung beide lexikalisch möglich und semantisch aktiv.",
+            "verifyUrl": "https://archive.org/details/WrightsArabicGrammar2Of2/page/n316"
           },
           {
             "question": "In 21:58 (لعلهم اليه يرجعون) — was sind die zwei Bedeutungsebenen von يرجعون?",
@@ -793,7 +802,8 @@
               "Jinas hat immer drei Bedeutungen"
             ],
             "correct": 0,
-            "explanation": "Bei Jinas stehen zwei verschiedene Wörter mit lautlicher Ähnlichkeit nebeneinander. Bei Tawriya ist es ein einziges Wort das zwei semantische Ebenen gleichzeitig aktiviert."
+            "explanation": "Bei Jinas stehen zwei verschiedene Wörter mit lautlicher Ähnlichkeit nebeneinander. Bei Tawriya ist es ein einziges Wort das zwei semantische Ebenen gleichzeitig aktiviert.",
+            "verifyUrl": "https://archive.org/details/WrightsArabicGrammar2Of2/page/n316"
           }
         ]
       }
@@ -876,7 +886,8 @@
               "Es gibt keinen Unterschied"
             ],
             "correct": 1,
-            "explanation": "Bei Kinaya funktioniert der Ausdruck auf beiden Ebenen gleichzeitig — wörtlich und uebertragen. Bei Majaz muss die wörtliche Ebene aufgegeben werden (ein Kopf 'entflammt' nicht wirklich)."
+            "explanation": "Bei Kinaya funktioniert der Ausdruck auf beiden Ebenen gleichzeitig — wörtlich und uebertragen. Bei Majaz muss die wörtliche Ebene aufgegeben werden (ein Kopf 'entflammt' nicht wirklich).",
+            "verifyUrl": "https://archive.org/details/WrightsArabicGrammar2Of2/page/n316"
           },
           {
             "question": "In 17:29 — wofuer steht die 'an den Hals gefesselte Hand' und wofuer die 'völlig ausgestreckte Hand'?",
@@ -990,7 +1001,8 @@
               "Einen Befehl"
             ],
             "correct": 1,
-            "explanation": "Das Muster fa''aal kodiert habituelle Wiederholung: غَفَّار = der immer wieder Vergebende, كَفَّار = der immer wieder Undankbare."
+            "explanation": "Das Muster fa''aal kodiert habituelle Wiederholung: غَفَّار = der immer wieder Vergebende, كَفَّار = der immer wieder Undankbare.",
+            "verifyUrl": "https://archive.org/details/WrightsArabicGrammar2Of2/page/n316"
           },
           {
             "question": "In الرَّحْمَنِ الرَّحِيمِ (1:1) — warum stehen zwei verschiedene Intensivformen derselben Wurzel nebeneinander?",
@@ -1090,7 +1102,8 @@
               "Ein Wort wird wiederholt"
             ],
             "correct": 1,
-            "explanation": "Ihtibak ist kreuzweise Auslassung: Klausel A lässt Y weg (rekonstruierbar aus B), Klausel B lässt X weg (rekonstruierbar aus A). Die Klauseln ergänzen sich gegenseitig."
+            "explanation": "Ihtibak ist kreuzweise Auslassung: Klausel A lässt Y weg (rekonstruierbar aus B), Klausel B lässt X weg (rekonstruierbar aus A). Die Klauseln ergänzen sich gegenseitig.",
+            "verifyUrl": "https://archive.org/details/WrightsArabicGrammar2Of2/page/n316"
           },
           {
             "question": "In 2:274 (بالليل والنهار سرا وعلانية) — was erzeugt die kreuzweise Zuordnung?",
@@ -1113,7 +1126,8 @@
               "Ihtibak kommt nur in Poesie vor"
             ],
             "correct": 1,
-            "explanation": "Hazf ist einseitige Auslassung (ein Element fehlt, Kontext ergänzt). Ihtibak ist gegenseitige Auslassung (zwei Klauseln ergänzen sich kreuzweise — jede liefert was der anderen fehlt)."
+            "explanation": "Hazf ist einseitige Auslassung (ein Element fehlt, Kontext ergänzt). Ihtibak ist gegenseitige Auslassung (zwei Klauseln ergänzen sich kreuzweise — jede liefert was der anderen fehlt).",
+            "verifyUrl": "https://archive.org/details/WrightsArabicGrammar2Of2/page/n316"
           }
         ]
       }
@@ -1181,7 +1195,8 @@
         {
           "type": "analysis",
           "prompt": "Vergleiche Laf wa-Nashr mit Ihtibak (B14): Beide arbeiten mit Elementen die zugeordnet werden müssen. Was ist der strukturelle Unterschied?",
-          "hint": "Ihtibak: Kreuzweise AUSLASSUNG — jede Klausel lässt etwas weg. Laf wa-Nashr: Erst BUENDELUNG, dann AUFSCHLUESSELUNG — nichts wird ausgelassen, aber die Zuordnung muss hergestellt werden. Ihtibak subtrahiert, Laf wa-Nashr entfaltet."
+          "hint": "Ihtibak: Kreuzweise AUSLASSUNG — jede Klausel lässt etwas weg. Laf wa-Nashr: Erst BUENDELUNG, dann AUFSCHLUESSELUNG — nichts wird ausgelassen, aber die Zuordnung muss hergestellt werden. Ihtibak subtrahiert, Laf wa-Nashr entfaltet.",
+          "verifyUrl": "https://archive.org/details/WrightsArabicGrammar2Of2/page/n316"
         }
       ],
       "testContent": {
@@ -1195,7 +1210,8 @@
               "Auslassung eines Satzglieds"
             ],
             "correct": 1,
-            "explanation": "Laf wa-Nashr ist ein zweiteiliges Muster: Erst Buendelung (Laf — mehrere Elemente zusammen nennen), dann Aufschlüsselung (Nashr — die Elemente einzeln entfalten)."
+            "explanation": "Laf wa-Nashr ist ein zweiteiliges Muster: Erst Buendelung (Laf — mehrere Elemente zusammen nennen), dann Aufschlüsselung (Nashr — die Elemente einzeln entfalten).",
+            "verifyUrl": "https://archive.org/details/WrightsArabicGrammar2Of2/page/n316"
           },
           {
             "question": "In 17:12 werden Nacht und Tag zuerst als 'zwei Zeichen' gebuendelt, dann einzeln aufgeschlüsselt (Nacht = gelöscht, Tag = sichtbar-machend). Welcher Typ liegt vor?",
@@ -1218,7 +1234,8 @@
               "Ihtibak ist nur in Poesie möglich"
             ],
             "correct": 1,
-            "explanation": "Bei Ihtibak fehlen Elemente die kreuzweise ergänzt werden müssen (Subtraktion). Bei Laf wa-Nashr werden Elemente erst gebuendelt, dann entfaltet (Addition/Entfaltung). Verschiedene Mechanismen, ähnlicher Effekt: Der Leser muss aktiv zuordnen."
+            "explanation": "Bei Ihtibak fehlen Elemente die kreuzweise ergänzt werden müssen (Subtraktion). Bei Laf wa-Nashr werden Elemente erst gebuendelt, dann entfaltet (Addition/Entfaltung). Verschiedene Mechanismen, ähnlicher Effekt: Der Leser muss aktiv zuordnen.",
+            "verifyUrl": "https://archive.org/details/WrightsArabicGrammar2Of2/page/n316"
           }
         ]
       }

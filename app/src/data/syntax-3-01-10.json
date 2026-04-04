@@ -66,7 +66,7 @@
         {
           "type": "explanation",
           "title": "Akkusativ-Funktionen im Detail",
-          "content": "Der Akkusativ (Naṣb) hat im Arabischen besonders viele Funktionen. Die wichtigsten für den Quran sind:\n\n1. Direktes Objekt (Mafʿūl bihi): خَلَقَ اللَّهُ السَّمَاوَاتِ — Gott erschuf die Himmel.\n2. Prädikat von كَانَ und ihren Schwestern: كَانَ اللَّهُ عَلِيمًا — Gott war/ist allwissend.\n3. Ism von إِنَّ und ihren Schwestern: إِنَّ اللَّهَ غَفُورٌ — Wahrlich, Gott ist vergebend.\n4. Zustandsakkusativ (Ḥāl): جَاءُوا بَاكِينَ — Sie kamen weinend.\n5. Spezifikationsakkusativ (Tamyīz): ازْدَادُوا إِيمَانًا — Sie nahmen zu an Glauben.\n6. Absoluter Akkusativ (Mafʿūl muṭlaq): فَصَلِّ لِرَبِّكَ صَلَاةً — Wende dich deinem Herrn in Zuwendung zu.\n7. Akkusativ des Grundes: يَجْعَلُونَ أَصَابِعَهُمْ فِي آذَانِهِم مِّنَ الصَّوَاعِقِ حَذَرَ الْمَوْتِ — aus Furcht vor dem Tod.",
+          "content": "Der Akkusativ (Naṣb) hat im Arabischen besonders viele Funktionen. Die wichtigsten für den Quran sind:\n\n1. Direktes Objekt (Mafʿūl bihi): خَلَقَ اللَّهُ السَّمَاوَاتِ — Gott erschuf die Himmel.\n2. Prädikat von كَانَ und ihren Schwestern: كَانَ اللَّهُ عَلِيمًا — Gott war/ist allwissend.\n3. Ism von إِنَّ und ihren Schwestern: إِنَّ اللَّهَ غَفُورٌ — Wahrlich, Gott ist vergebend.\n4. Zustandsakkusativ (Ḥāl): جَاءُوا بَاكِينَ — Sie kamen weinend.\n5. Spezifikationsakkusativ (Tamyīz): ازْدَادُوا إِيمَانًا — Sie nahmen zu an Glauben.\n6. Absoluter Akkusativ (Mafʿūl muṭlaq): فَصَلِّ لِرَبِّكَ صَلَاةً — Wende dich deinem Herrn in Zuwendung zu. [Konstruiertes Beispiel zur Veranschaulichung des Maf'ul Mutlaq. Der tatsaechliche Verstext von 108:2 lautet: فَصَلِّ لِرَبِّكَ وَانْحَرْ.]\n7. Akkusativ des Grundes: يَجْعَلُونَ أَصَابِعَهُمْ فِي آذَانِهِم مِّنَ الصَّوَاعِقِ حَذَرَ الْمَوْتِ — aus Furcht vor dem Tod.",
           "arabicExamples": [
             {
               "arabic": "خَلَقَ اللَّهُ السَّمَاوَاتِ",
@@ -106,6 +106,7 @@
               "location": "112:1",
               "word": "قُلْ هُوَ اللَّهُ أَحَدٌ",
               "analysis": "Analyse 1 (Standard): هُوَ ist ضمير الشأن (Pronomen der Angelegenheit). Der Satz اللَّهُ أَحَدٌ ist als Ganzes sein Khabar. Analyse 2 (in der Forschung umstritten): هُوَ = Mubtadaʾ, اللَّهُ = Badal zu هُوَ, أَحَدٌ = Khabar. Diese Analyse ist problematisch, da Badal zu einem Damir normalerweise eine Apposition zum Referenten erfordert, der hier im unmittelbaren Kontext fehlt.",
+              "note": "Die Analyse von هُوَ (Damir ash-Sha'n vs. Verweis) ist ein fortgeschrittenes Thema. Beide Analysen sind grammatisch vertretbar.",
               "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=112&verse=1"
             }
           ]
@@ -707,7 +708,7 @@
             "Schritt 3: كَانَ tritt ein → das Mubtadaʼ (اللَّهُ) wird zum Ism von kāna und bleibt im Nominativ.",
             "Schritt 4: Das Khabar wechselt in den Akkusativ: عَلِيمٌ → عَلِيمًا, حَكِيمٌ → حَكِيمًا.",
             "Schritt 5: وَ ist eine einfache Konjunktion (und).",
-            "Ergebnis: 'Und Gott ist allwissend, allweise.' — كَانَ drückt hier einen andauernden Zustand aus, nicht zeitgebunden."
+            "Ergebnis: 'Und Gott ist allwissend, allweise.' — كَانَ steht im perfektiven Aspekt; die zeitliche Referenz ergibt sich aus dem syntaktischen Kontext."
           ]
         },
         {
@@ -903,7 +904,7 @@
             {
               "arabic": "إِنَّ الصَّلَاةَ كَانَتْ عَلَى الْمُؤْمِنِينَ كِتَابًا مَّوْقُوتًا",
               "transliteration": "inna ṣ-ṣalāta kānat ʿalā l-muʾminīna kitāban mawqūtan",
-              "meaning": "Wahrlich, die Zuwendung (صَلَاة) ist den Vertrauenden zu bestimmten Zeiten vorgeschrieben"
+              "meaning": "Wahrlich, die Zuwendung/Hinwendung (الصَّلَاة) ist den Vertrauenden zu bestimmten Zeiten vorgeschrieben"
             }
           ]
         },
@@ -1103,13 +1104,13 @@
   {
     "id": "3.6",
     "title": "Konditionalsätze",
-    "description": "Bedingungssätze sind im Quran allgegenwärtig. Die Partikeln إِنْ, إِذَا, لَوْ und لَوْلَا bestimmen, ob eine Bedingung als ungewiss, gewiss, irreal oder konditional-negativ dargestellt wird.",
+    "description": "Bedingungssätze sind im Quran allgegenwärtig. Die Partikeln إِنْ, إِذَا, لَوْ und لَوْلَا bestimmen, ob eine Bedingung als hypothetisch, temporal-lokalisiert, irreal oder konditional-negativ dargestellt wird.",
     "learnContent": {
       "sections": [
         {
           "type": "explanation",
           "title": "Die vier Bedingungspartikeln",
-          "content": "Arabische Konditionalsätze bestehen aus zwei Teilen:\n1. Bedingung (Sharṭ / شَرْط) — der 'wenn'-Teil\n2. Antwort (Jawāb ash-sharṭ / جَوَاب الشَّرْط) — der 'dann'-Teil\n\nDie Partikel bestimmt die Art der Bedingung:\n\n1. إِنْ (in) — Ungewisse Bedingung: Die Erfüllung ist offen/ungewiss. Beide Verben stehen im Jussiv (مَجْزُوم).\n   إِنْ تَتَّقُوا اللَّهَ يَجْعَل لَّكُمْ فُرْقَانًا — Wenn ihr Gott fürchtet, wird Er euch Unterscheidung geben.\n\n2. إِذَا (idhā) — Gewisse/Erwartete Bedingung: Die Erfüllung wird als wahrscheinlich oder sicher dargestellt. Die Bedingung steht im Perfekt, die Antwort ist flexibler.\n   إِذَا جَاءَ نَصْرُ اللَّهِ — Wenn die Hilfe Gottes kommt (und sie WIRD kommen).\n\n3. لَوْ (law) — Irreale Bedingung: Die Bedingung ist nicht erfüllt (Gegenteil der Realität). Beide Verben stehen im Perfekt. Oft mit لَ in der Antwort.\n   لَوْ شَاءَ اللَّهُ لَهَدَاكُمْ — Hätte Gott gewollt, hätte Er euch geleitet.\n\n4. لَوْلَا (lawlā) — 'Gäbe es nicht / Wenn nicht': Drückt aus, dass etwas nur wegen eines bestimmten Umstands nicht eintritt.\n   لَوْلَا أَنتُمْ لَكُنَّا مُؤْمِنِينَ — Wäret ihr nicht gewesen, wären wir Vertrauende geworden.",
+          "content": "Arabische Konditionalsätze bestehen aus zwei Teilen:\n1. Bedingung (Sharṭ / شَرْط) — der 'wenn'-Teil\n2. Antwort (Jawāb ash-sharṭ / جَوَاب الشَّرْط) — der 'dann'-Teil\n\nDie Partikel bestimmt die Art der Bedingung:\n\n1. إِنْ (in) — Ungewisse Bedingung: Die Erfüllung ist offen/ungewiss. Beide Verben stehen im Jussiv (مَجْزُوم).\n   إِنْ تَتَّقُوا اللَّهَ يَجْعَل لَّكُمْ فُرْقَانًا — Wenn ihr Gott fürchtet, wird Er euch Unterscheidung geben.\n\n2. إِذَا (idhā) — Temporal-lokalisierte Bedingung (Temporalkonditionalsatz): Die Bedingung wird zeitlich verortet, im Gegensatz zu إِنْ (rein hypothetisch). Die Bedingung steht im Perfekt, die Antwort ist flexibler.\n   إِذَا جَاءَ نَصْرُ اللَّهِ — Wenn die Hilfe Gottes kommt (zeitlich verortet).\n\n3. لَوْ (law) — Irreale Bedingung: Die Bedingung ist nicht erfüllt (Gegenteil der Realität). Beide Verben stehen im Perfekt. Oft mit لَ in der Antwort.\n   لَوْ شَاءَ اللَّهُ لَهَدَاكُمْ — Hätte Gott gewollt, hätte Er euch geleitet.\n\n4. لَوْلَا (lawlā) — 'Gäbe es nicht / Wenn nicht': Drückt aus, dass etwas nur wegen eines bestimmten Umstands nicht eintritt.\n   لَوْلَا أَنتُمْ لَكُنَّا مُؤْمِنِينَ — Wäret ihr nicht gewesen, wären wir Vertrauende geworden.",
           "arabicExamples": [
             {
               "arabic": "إِن تَتُوبُوا إِلَى اللَّهِ",
@@ -1119,7 +1120,7 @@
             {
               "arabic": "إِذَا جَاءَ نَصْرُ اللَّهِ",
               "transliteration": "idhā jāʾa naṣru llāhi",
-              "meaning": "Wenn die Hilfe Gottes kommt (gewiss — Perfekt)"
+              "meaning": "Wenn die Hilfe Gottes kommt (temporal-lokalisiert — Perfekt)"
             },
             {
               "arabic": "لَوْ شَاءَ رَبُّكَ",
@@ -1150,12 +1151,12 @@
           "title": "Durchgearbeitetes Beispiel",
           "steps": [
             "Vers: إِذَا جَاءَ نَصْرُ اللَّهِ وَالْفَتْحُ (110:1)",
-            "Schritt 1: إِذَا = Bedingungspartikel für gewisse/erwartete Bedingung.",
+            "Schritt 1: إِذَا = Bedingungspartikel fuer temporal-lokalisierte Bedingung (Temporalkonditionalsatz) — die Bedingung wird zeitlich verortet, im Gegensatz zu إِنْ (rein hypothetisch).",
             "Schritt 2: جَاءَ = Verb im Perfekt (wie bei إِذَا üblich).",
             "Schritt 3: نَصْرُ اللَّهِ = Subjekt (Fāʿil) im Nominativ + Iḍāfa. 'Die Hilfe Gottes'.",
             "Schritt 4: وَالْفَتْحُ = durch وَ angereiht, ebenfalls Nominativ (Subjekt). 'Und der Sieg'.",
             "Schritt 5: Die Antwort auf die Bedingung folgt in Vers 2-3: فَسَبِّحْ...",
-            "Ergebnis: 'Wenn die Hilfe Gottes kommt und der Sieg (dann preise...)'. إِذَا zeigt: Das Kommen ist gewiss."
+            "Ergebnis: 'Wenn die Hilfe Gottes kommt und der Sieg (dann preise...)'. إِذَا verortet die Bedingung zeitlich — es handelt sich um einen Temporalkonditionalsatz."
           ]
         },
         {
@@ -1172,7 +1173,7 @@
               "arabic": "إِذَا جَاءَ أَجَلُهُمْ لَا يَسْتَأْخِرُونَ",
               "transliteration": "idhā jāʾa ajaluhum lā yastaʾkhirūna",
               "meaning": "Wenn ihre Frist kommt, können sie sie nicht aufschieben",
-              "note": "إِذَا — gewiss, Bedingung im Perfekt"
+              "note": "إِذَا — temporal-lokalisiert, Bedingung im Perfekt"
             },
             {
               "arabic": "لَوْ أَنزَلْنَا هَٰذَا الْقُرْآنَ عَلَىٰ جَبَلٍ",
@@ -1232,7 +1233,7 @@
             {
               "location": "110:1",
               "word": "إِذَا جَاءَ نَصْرُ اللَّهِ وَالْفَتْحُ",
-              "analysis": "إِذَا + Perfekt جَاءَ. Gewisse Bedingung — Gottes Hilfe wird kommen. Antwort in V.2: فَسَبِّحْ.",
+              "analysis": "إِذَا + Perfekt جَاءَ. Temporal-lokalisierte Bedingung — die Bedingung wird zeitlich verortet. Antwort in V.2: فَسَبِّحْ.",
               "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=110&verse=1"
             },
             {
@@ -1302,7 +1303,7 @@
             "Imperativ (Amr)"
           ],
           "answer": "Perfekt (Māḍī)",
-          "explanation": "Bei إِذَا steht die Bedingung im Perfekt (Māḍī), obwohl die Bedeutung oft futurisch ist. إِذَا drückt eine gewisse/erwartete Bedingung aus.",
+          "explanation": "Bei إِذَا steht die Bedingung im Perfekt (Māḍī), obwohl die Bedeutung oft futurisch ist. إِذَا drückt eine temporal-lokalisierte Bedingung aus (Temporalkonditionalsatz).",
           "verifyUrl": "https://archive.org/details/WrightsArabicGrammar1Of2/page/n242"
         },
         {
@@ -1315,7 +1316,7 @@
             },
             {
               "left": "إِذَا",
-              "right": "Gewisse/erwartete Bedingung"
+              "right": "Temporal-lokalisierte Bedingung"
             },
             {
               "left": "لَوْ",
@@ -1338,9 +1339,9 @@
         },
         {
           "type": "fill_in",
-          "prompt": "Ergänze die passende Bedingungspartikel: _____ جَاءَ نَصْرُ اللَّهِ وَالْفَتْحُ (110:1). Die Hilfe Gottes wird gewiss kommen.",
+          "prompt": "Ergänze die passende Bedingungspartikel: _____ جَاءَ نَصْرُ اللَّهِ وَالْفَتْحُ (110:1). Die Bedingung ist zeitlich verortet.",
           "answer": "إِذَا",
-          "hint": "Welche Partikel drückt eine gewisse, erwartete Bedingung aus?",
+          "hint": "Welche Partikel drückt eine temporal-lokalisierte Bedingung aus (Temporalkonditionalsatz)?",
           "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=110&verse=1"
         }
       ]
@@ -1596,7 +1597,7 @@
         {
           "type": "explanation",
           "title": "Die Antwort auf den Schwur (Jawāb al-Qasam)",
-          "content": "Die Antwort auf den Schwur ist die eigentliche Aussage, die durch den Schwur bekräftigt werden soll. Sie kann direkt nach dem Schwur folgen oder erst nach mehreren Schwur-Objekten.\n\nIn Sure 91 (ash-Shams) beispielsweise werden elf Schwur-Objekte aufgezählt, bevor die Antwort in Vers 9 kommt: قَدْ أَفْلَحَ مَن زَكَّاهَا — 'Wohl dem, der es (das Selbst) rein hält!'\n\nHäufige Muster der Antwort:\n1. إِنَّ + Satz: وَالْعَصْرِ ، إِنَّ الْإِنسَانَ لَفِي خُسْرٍ — 'Bei der Zeit! Wahrlich, der Mensch ist in Verlust.'\n2. لَ + Verb: وَالطُّورِ ... إِنَّ عَذَابَ رَبِّكَ لَوَاقِعٌ — 'Beim Berg! ... Die Strafe deines Herrn wird sich gewiss ereignen.'\n3. Manchmal ist die Antwort grammatisch umstritten oder implizit.",
+          "content": "Die Antwort auf den Schwur ist die eigentliche Aussage, die durch den Schwur bekräftigt werden soll. Sie kann direkt nach dem Schwur folgen oder erst nach mehreren Schwur-Objekten.\n\nIn Sure 91 (ash-Shams) beispielsweise werden elf Schwur-Objekte aufgezählt, bevor die Antwort in Vers 9 kommt: قَدْ أَفْلَحَ مَن زَكَّاهَا — 'Wohl dem, der es (das Selbst) rein hält!'\n\nHäufige Muster der Antwort:\n1. إِنَّ + Satz: وَالْعَصْرِ ، إِنَّ الْإِنسَانَ لَفِي خُسْرٍ — 'Bei der Zeit! Wahrlich, der Mensch ist in Verlust.'\n2. لَ + Verb: وَالطُّورِ ... إِنَّ عَذَابَ رَبِّكَ لَوَاقِعٌ — 'Beim Berg! ... Die Strafe deines Herrn wird sich gewiss ereignen.'\n3. Manchmal ist die Antwort grammatisch umstritten oder implizit, z.B. in Sure 89, wo der Jawab debattiert wird.",
           "arabicExamples": [
             {
               "arabic": "وَالْعَصْرِ ، إِنَّ الْإِنسَانَ لَفِي خُسْرٍ",
@@ -1885,7 +1886,7 @@
             {
               "location": "4:102",
               "word": "وَلْيَأْخُذُوا أَسْلِحَتَهُمْ فَإِذَا سَجَدُوا فَلْيَكُونُوا مِن وَرَائِكُمْ وَلْتَأْتِ طَائِفَةٌ أُخْرَىٰ لَمْ يُصَلُّوا فَلْيُصَلُّوا مَعَكَ وَلْيَأْخُذُوا حِذْرَهُمْ وَأَسْلِحَتَهُمْ",
-              "analysis": "Komplexer Vers mit mehreren Ḥāl-Konstruktionen und Zustandsbeschreibungen im militärischen Kontext.",
+              "analysis": "Hal-Elemente: حَاذِرُونَ (Hal-Satz des Subjekts), صَافِّينَ (Hal der Betenden). Der Vers illustriert verschachtelte Zustandsbeschreibungen im militärischen Kontext.",
               "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=102"
             },
             {

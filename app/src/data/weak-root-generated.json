@@ -181,7 +181,7 @@
           "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=106"
         }
       ],
-      "transformation": "Schwacher Radikal و erscheint als langer Vokal. Form IX.",
+      "transformation": "In Form IX (اِفْعَلَّ) bleibt der mittlere Radikal als Konsonant erhalten. Die Waw erscheint hier NICHT als langer Vokal wie in Form I.",
       "context": "يَوْمَ تَبْيَضُّ وُجُوهٌ وَتَسْوَدُّ وُجُوهٌ فَأَمَّا ٱلَّذِينَ ٱسْوَدَّتْ وُجُوهُهُمْ أَكَفَرْتُم بَعْدَ إِيمَٰنِكُمْ فَذُوقُوا۟ ٱلْعَذَابَ بِمَا كُنتُمْ تَكْفُرُونَ",
       "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=106"
     },
@@ -838,22 +838,22 @@
     },
     {
       "id": "wr029",
-      "root": "ه-ي-ت",
-      "weakType": "Hohl (mittlerer Radikal schwach — ajwaf)",
-      "weakLetter": "ي",
-      "classification": "hollow",
+      "root": "—",
+      "weakType": "Ism al-Fi'l (Ausrufepartikel)",
+      "weakLetter": "—",
+      "classification": "ism_fil",
       "mainWord": "هَيْتَ",
       "mainLocation": "12:23",
       "forms": [
         {
-          "tense": "Imperativ",
-          "form": "Form I",
+          "tense": "—",
+          "form": "Ism al-Fi'l",
           "vocalized": "هَيْتَ",
           "location": "12:23",
           "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=12&verse=23"
         }
       ],
-      "transformation": "Schwacher Radikal kann wegfallen.",
+      "transformation": "هَيْتَ ist kein konjugiertes Verb, sondern ein Ism al-Fi'l (Ausrufepartikel) mit der Bedeutung 'komm her'. Die Etymologie ist umstritten (moeglicherweise nicht-arabischen Ursprungs).",
       "context": "وَرَٰوَدَتْهُ ٱلَّتِى هُوَ فِى بَيْتِهَا عَن نَّفْسِهِۦ وَغَلَّقَتِ ٱلْأَبْوَٰبَ وَقَالَتْ هَيْتَ لَكَ قَالَ مَعَاذَ ٱللَّهِ إِنَّهُۥ رَبِّىٓ أَحْسَنَ مَثْوَاىَ إِنَّهُۥ لَا يُفْلِحُ ٱلظَّٰلِمُونَ",
       "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=12&verse=23"
     },

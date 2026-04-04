@@ -215,13 +215,13 @@
           "arabicExamples": [
             {
               "arabic": "يَجْعَلُونَ أَصَابِعَهُمْ فِي آذَانِهِمْ ... حَذَرَ الْمَوْتِ",
-              "transliteration": "yajʿalūna aṣābiʿahum fī āḏānihim ... ḥaḏara l-mawti",
+              "transliteration": "yajʿalūna aṣābiʿahum fī ādhānihim ... ḥadhara l-mawti",
               "meaning": "Sie stecken ihre Finger in ihre Ohren ... aus Angst vor dem Tod (2:19)",
               "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=19"
             },
             {
               "arabic": "وَلَا تَقْتُلُوا أَوْلَادَكُمْ خَشْيَةَ إِمْلَاقٍ",
-              "transliteration": "wa-lā taqtulū awlādakum ḫašyata imlāqin",
+              "transliteration": "wa-lā taqtulū awlādakum khašyata imlāqin",
               "meaning": "Und tötet nicht eure Kinder aus Angst vor Armut (17:31)",
               "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=17&verse=31"
             }
@@ -259,14 +259,14 @@
             },
             {
               "arabic": "خَشْيَةَ إِمْلَاقٍ",
-              "transliteration": "ḫašyata imlāqin",
+              "transliteration": "khašyata imlāqin",
               "meaning": "aus Angst vor Armut (17:31)",
               "note": "Akkusativ des Grundes in Iḍāfa-Verbindung — häufiges Quran-Muster",
               "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=17&verse=31"
             },
             {
               "arabic": "مِنْ خَشْيَةِ اللَّهِ",
-              "transliteration": "min ḫašyati llāhi",
+              "transliteration": "min khašyati llāhi",
               "meaning": "aus Ehrfurcht vor Gott",
               "note": "Alternative mit Präposition مِنْ — gleiche Bedeutung, andere Konstruktion"
             }
@@ -394,7 +394,7 @@
           "arabicExamples": [
             {
               "arabic": "اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ · صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ",
-              "transliteration": "ihdinā ṣ-ṣirāṭa l-mustaqīma · ṣirāṭa llaḏīna anʿamta ʿalayhim",
+              "transliteration": "ihdinā ṣ-ṣirāṭa l-mustaqīma · ṣirāṭa lladhīna anʿamta ʿalayhim",
               "meaning": "Führe uns den geraden Weg, den Weg derer, denen Du Gunst erwiesen hast (1:6-7)",
               "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=6"
             },
@@ -427,7 +427,7 @@
           "items": [
             {
               "arabic": "صِرَاطَ الَّذِينَ أَنْعَمْتَ",
-              "transliteration": "ṣirāṭa llaḏīna anʿamta",
+              "transliteration": "ṣirāṭa lladhīna anʿamta",
               "meaning": "den Weg derer, denen Du Gunst erwiesen hast (1:7)",
               "note": "Badal Kull min Kull — die Apposition ist mit dem Bezugswort identisch",
               "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=7"
@@ -441,9 +441,9 @@
             },
             {
               "arabic": "قُتِلَ أَصْحَابُ الْأُخْدُودِ · النَّارِ",
-              "transliteration": "qutila aṣḥābu l-uḫdūdi · an-nāri",
+              "transliteration": "qutila aṣḥābu l-ukhdūdi · an-nāri",
               "meaning": "Verderben über die Graben-Leute, des Feuers (85:4-5) — قُتِلَ hier als Verwünschungsformel",
-              "note": "Badal Ištimāl — das Feuer ist ein Aspekt/Inhalt der Gräben",
+              "note": "Badal Ištimāl — das Feuer ist ein Aspekt/Inhalt der Gräben. Alternativanalyse: النَّارِ als Badal Kull min Kull zu الْأُخْدُودِ (die Grube wird mit dem Feuer identifiziert).",
               "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=85&verse=4"
             },
             {
@@ -497,7 +497,7 @@
             },
             {
               "arabic": "الصِّرَاطَ · صِرَاطَ الَّذِينَ",
-              "transliteration": "aṣ-ṣirāṭa · ṣirāṭa llaḏīna",
+              "transliteration": "aṣ-ṣirāṭa · ṣirāṭa lladhīna",
               "meaning": "den Weg — den Weg derer — Apposition: صِرَاطَ ersetzt/präzisiert الصِّرَاطَ"
             }
           ]
@@ -608,7 +608,7 @@
             "إِلَهَ — Nomen im Akkusativ ohne Tanwīn (Fatḥa): 'Gott/Gottheit'. Dies ist der ISM von لَا.",
             "إِلَّا — Ausnahmepartikel: 'außer'",
             "اللَّهُ — das Ausgenommene. Steht im NOMINATIV (Ḍamma).",
-            "Warum Nominativ? Weil der Satz verneint und unvollständig ist (das Prädikat von لَا ist weggelassen). In diesem Fall folgt das Ausgenommene dem Kasus, den es im Satz haben würde, wenn إِلَّا nicht da wäre.",
+            "Warum Nominativ? Ein explizites Khabar ist bei لَا النَّافِيَة لِلْجِنْس nicht zwingend erforderlich, wenn die Bedeutung kontextuell klar ist. In diesem Fall folgt das Ausgenommene dem Kasus, den es im Satz haben würde, wenn إِلَّا nicht da wäre.",
             "Die Struktur لَا + Ism + إِلَّا ist syntaktisch vollstaendig als Genus-Negation mit Ausnahme. Ein explizites Khabar ist syntaktisch nicht zwingend erforderlich. اللَّهُ steht im Nominativ, weil es als Badal (Apposition) zum Ism von لَا fungiert — oder weil es in einem verneinten, unvollstaendigen Satz dem Kasus nach Satzfunktion folgt.",
             "Einer der häufig zitierten Sätze des Qurans — ein kanonisches Beispiel für die lā-nafiya-li-l-jins-Konstruktion."
           ]
@@ -692,7 +692,7 @@
             },
             {
               "arabic": "هَلْ مِنْ خَالِقٍ غَيْرُ اللَّهِ",
-              "transliteration": "hal min ḫāliqin ġayru llāhi",
+              "transliteration": "hal min khāliqin ġayru llāhi",
               "meaning": "Gibt es einen Schöpfer außer Gott? (35:3)",
               "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=35&verse=3"
             }
@@ -1147,7 +1147,7 @@
             },
             {
               "arabic": "مَا هَذَا بَشَرًا",
-              "transliteration": "mā hāḏā bašaran",
+              "transliteration": "mā hādhā bašaran",
               "meaning": "Dieser ist kein Mensch (12:31)",
               "note": "مَا — verneint Nominalsatz (wie لَيْسَ in Ḥijāz-Dialekt). Prädikat im Akkusativ",
               "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=12&verse=31"
@@ -1290,7 +1290,7 @@
             },
             {
               "arabic": "لَقَدْ خَلَقْنَا الْإِنْسَانَ",
-              "transliteration": "la-qad ḫalaqnā l-insāna",
+              "transliteration": "la-qad khalaqnā l-insāna",
               "meaning": "Wahrlich, Wir haben den Menschen erschaffen (95:4)",
               "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=95&verse=4"
             },
@@ -1306,6 +1306,7 @@
           "type": "explanation",
           "title": "Die Bekräftigungspartikel إِنَّ und أَنَّ",
           "content": "إِنَّ (wahrlich/gewiss) steht am Anfang eines Nominalsatzes und bekräftigt dessen Inhalt. Sie regiert: Nomen im Akkusativ (اسم إِنَّ) + Prädikat im Nominativ (خبر إِنَّ). أَنَّ hat dieselbe grammatische Wirkung, steht aber nicht am Satzanfang, sondern in Nebensätzen und nach Verben. إِنَّ kann mit dem Bekräftigungs-لَ vor dem Prädikat kombiniert werden: إِنَّ... لَـ = doppelte Bekräftigung. Die Hamza von إِنَّ ist Hamzat al-Qaṭʿ (wird immer ausgesprochen). Nach قَالَ und ähnlichen Verben wird إِنَّ typischerweise mit Kasra geschrieben.",
+          "note": "Phonologische Anmerkung; siehe Modul 1 fuer Details.",
           "arabicExamples": [
             {
               "arabic": "إِنَّ اللَّهَ غَفُورٌ رَحِيمٌ",
@@ -1315,7 +1316,7 @@
             {
               "arabic": "إِنَّ الصَّلَاةَ كَانَتْ عَلَى الْمُؤْمِنِينَ كِتَابًا مَوْقُوتًا",
               "transliteration": "inna ṣ-ṣalāta kānat ʿalā l-muʾminīna kitāban mawqūtan",
-              "meaning": "Wahrlich, die Zuwendung (صَلَاة) ist den Vertrauenden zu festgesetzten Zeiten vorgeschrieben (4:103)",
+              "meaning": "Wahrlich, die Zuwendung/Hinwendung (الصَّلَاة) ist den Vertrauenden zu festgesetzten Zeiten vorgeschrieben (4:103)",
               "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=103"
             },
             {
@@ -1347,25 +1348,25 @@
           "items": [
             {
               "arabic": "خَلَقَ اللَّهُ",
-              "transliteration": "ḫalaqa llāhu",
+              "transliteration": "khalaqa llāhu",
               "meaning": "Gott erschuf",
               "note": "Keine Bekräftigung — neutrale Aussage"
             },
             {
               "arabic": "قَدْ خَلَقَ اللَّهُ",
-              "transliteration": "qad ḫalaqa llāhu",
+              "transliteration": "qad khalaqa llāhu",
               "meaning": "Gewiss erschuf Gott",
               "note": "Einfache Bekräftigung durch قَدْ"
             },
             {
               "arabic": "لَقَدْ خَلَقَ اللَّهُ",
-              "transliteration": "la-qad ḫalaqa llāhu",
+              "transliteration": "la-qad khalaqa llāhu",
               "meaning": "Wahrlich, gewiss erschuf Gott",
               "note": "Doppelte Bekräftigung: لَ + قَدْ"
             },
             {
               "arabic": "إِنَّ اللَّهَ خَلَقَ",
-              "transliteration": "inna llāha ḫalaqa",
+              "transliteration": "inna llāha khalaqa",
               "meaning": "Wahrlich, Gott erschuf",
               "note": "Bekräftigung durch إِنَّ am Satzanfang"
             },
@@ -1610,6 +1611,7 @@
               "location": "2:228",
               "word": "ثَلَاثَةَ قُرُوءٍ",
               "analysis": "قُرُوء (gebrochener Plural von قَرْء) ohne Adjektiv, aber das Zahlwort ثَلَاثَة zeigt eine andere Kongruenzregel: Zahlen 3-10 stehen im Gegengeschlecht zum Gezählten.",
+              "note": "Dieses Beispiel illustriert primaer die Zahlwort-Geschlechtspolaritaet, nicht die Adjektivkongruenz. Es dient als Querverbindung zum Numerussystem.",
               "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=228"
             }
           ]
@@ -1712,13 +1714,13 @@
             },
             {
               "arabic": "اتَّخَذُوا أَحْبَارَهُمْ وَرُهْبَانَهُمْ أَرْبَابًا",
-              "transliteration": "ittaḫaḏū aḥbārahum wa-ruhbānahum arbāban",
+              "transliteration": "ittakhadhū aḥbārahum wa-ruhbānahum arbāban",
               "meaning": "Sie nahmen ihre Gelehrten und Mönche als Herren (9:31)",
               "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=9&verse=31"
             },
             {
               "arabic": "وَجَعَلُوا الْمَلَائِكَةَ الَّذِينَ هُمْ عِبَادُ الرَّحْمَنِ إِنَاثًا",
-              "transliteration": "wa-jaʿalū l-malāʾikata llaḏīna hum ʿibādu r-raḥmāni ināṯan",
+              "transliteration": "wa-jaʿalū l-malāʾikata lladhīna hum ʿibādu r-raḥmāni ināṯan",
               "meaning": "Und sie machten die Engel zu Weiblichen (43:19)",
               "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=43&verse=19"
             }
@@ -1743,7 +1745,7 @@
             },
             {
               "arabic": "أَمْ حَسِبْتُمْ أَنْ تَدْخُلُوا الْجَنَّةَ",
-              "transliteration": "am ḥasibtum an tadḫulū l-jannata",
+              "transliteration": "am ḥasibtum an tadkhulū l-jannata",
               "meaning": "Oder meint ihr, dass ihr den Garten betretet? (2:214)",
               "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=214"
             }
@@ -1914,7 +1916,7 @@
           "arabicExamples": [
             {
               "arabic": "يَكَادُ الْبَرْقُ يَخْطَفُ أَبْصَارَهُمْ",
-              "transliteration": "yakādu l-barqu yaḫṭafu abṣārahum",
+              "transliteration": "yakādu l-barqu yakhṭafu abṣārahum",
               "meaning": "Der Blitz reißt beinahe ihre Blicke weg (2:20)",
               "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=20"
             },
@@ -2022,13 +2024,13 @@
           "arabicExamples": [
             {
               "arabic": "فَذَبَحُوهَا وَمَا كَادُوا يَفْعَلُونَ",
-              "transliteration": "fa-ḏabaḥūhā wa-mā kādū yafʿalūna",
+              "transliteration": "fa-dhabaḥūhā wa-mā kādū yafʿalūna",
               "meaning": "Sie schlachteten sie, obwohl sie es fast nicht taten (2:71)",
               "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=71"
             },
             {
               "arabic": "إِذَا أَخْرَجَ يَدَهُ لَمْ يَكَدْ يَرَاهَا",
-              "transliteration": "iḏā aḫraja yadahu lam yakad yarāhā",
+              "transliteration": "idhā akhraja yadahu lam yakad yarāhā",
               "meaning": "Wenn er seine Hand ausstreckt, kann er sie kaum sehen (24:40)",
               "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=24&verse=40"
             }
