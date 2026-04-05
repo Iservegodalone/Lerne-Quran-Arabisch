@@ -71,7 +71,7 @@
     "missing_fa3il": "Ein Verb wurde identifiziert, aber kein explizites Subjekt (Fa'il) ist sichtbar. Im Arabischen kann das Subjekt im Verb selbst enthalten sein (Personalendung) — aber prüfen ob ein separates Subjekt erwartet wird.",
     "missing_verb": "Ein Satz oder eine Konstruktion deutet auf ein elidiertes Verb hin. Typisch bei: (1) Schwursätzen — der Schwurinhalt (jawab al-qasam) hat ein implizites Verb. (2) Konditionalsätzen — das Verb der Protasis oder Apodosis fehlt. (3) Existenz-/Präsentivsaetzen, wo 'kana' oder ein Bewegungsverb impliziert ist.",
     "missing_mawsuf": "Ein Adjektiv oder eine Beschreibung steht ohne sichtbares beschriebenes Nomen (Mawsuf). Das Adjektiv wird substantivisch gebraucht, wobei das beschriebene Nomen aus dem Kontext erschließbar ist. Typisch bei Zahlwoertern, Farbbezeichnungen und partizipialen Konstruktionen.",
-    "missing_condition_answer": "Ein Konditionalsatz (in/idha/law + Bedingung) ist sichtbar, aber die Antwort (Jawab al-Shart) fehlt oder ist nur impliziert. Mögliche Erklärungen: (1) Die Antwort ist identisch mit dem vorhergehenden Hauptsatz. (2) Die Antwort wird durch den Kontext als selbstverständlich vorausgesetzt. (3) Die Ellipse dient der rhetorischen Wirkung (Auslassung des Schrecklichen/Gewaltigen)."
+    "missing_condition_answer": "Ein Konditionalsatz (in/idha/law + Bedingung) ist sichtbar, aber die Antwort (Jawab al-Shart) fehlt oder ist nur impliziert. Mögliche Erklärungen: (1) Die Antwort ist identisch mit dem vorhergehenden Hauptsatz. (2) Die Antwort wird durch den Kontext als selbstverständlich vorausgesetzt. (3) Die Ellipse dient der sprachlichen Wirkung (Auslassung des Schrecklichen/Gewaltigen)."
   },
   "concreteExamples": [
     {
@@ -85,7 +85,7 @@
       "ref": "12:82",
       "arabic": "وَاسْأَلِ الْقَرْيَةَ الَّتِي كُنَّا فِيهَا",
       "ellipsisType": "kein_ellipsis",
-      "analysis": "وَاسْأَلِ الْقَرْيَةَ — frag die Ortschaft. Der Text formuliert die Aufforderung direkt an die Ortschaft. Syntaktisch ist der Satz vollstaendig — kein fehlendes Wort muss ergaenzt werden. In der Balagha-Tradition wird dies als Metonymie (Majaz mursal) analysiert — dies ist jedoch eine rhetorische Beschreibungskategorie, keine syntaktische Ellipse.",
+      "analysis": "وَاسْأَلِ الْقَرْيَةَ — frag die Ortschaft. Der Text formuliert die Aufforderung direkt an die Ortschaft. Syntaktisch ist der Satz vollstaendig — kein fehlendes Wort muss ergaenzt werden. In der traditionelle Analyse wird dies als Metonymie (Majaz mursal) analysiert — dies ist jedoch eine traditionelle Beschreibungskategorie, keine syntaktische Ellipse.",
       "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=12&verse=82"
     },
     {
@@ -120,7 +120,7 @@
       "ref": "13:31",
       "arabic": "وَلَوْ أَنَّ قُرْآنًا سُيِّرَتْ بِهِ الْجِبَالُ أَوْ قُطِّعَتْ بِهِ الْأَرْضُ أَوْ كُلِّمَ بِهِ الْمَوْتَىٰ",
       "ellipsisType": "missing_condition_answer",
-      "analysis": "Die Apodosis (Nachsatz) des Konditionalsatzes fehlt. Der Text lässt den Nachsatz bewusst offen — ein rhetorisches Mittel (Hazf al-Jawab), das die Wirkung dem Leser ueberlaesst.",
+      "analysis": "Die Apodosis (Nachsatz) des Konditionalsatzes fehlt. Der Text lässt den Nachsatz bewusst offen — ein sprachliches Mittel (Hazf al-Jawab), das die Wirkung dem Leser ueberlaesst.",
       "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=13&verse=31"
     },
     {

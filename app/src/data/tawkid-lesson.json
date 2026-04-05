@@ -31,7 +31,7 @@
             "examples": [
               {
                 "ref": "94:5-6",
-                "arabic": "فَإِنَّ مَعَ الْعُسْرِ يُسْرًا ﴿٥﴾ إِنَّ مَعَ الْعُسْرِ يُسْرًا ﴿٦﴾",
+                "arabic": "فَإِنَّ مَعَ الْعُسْرِ يُسْرًا · إِنَّ مَعَ الْعُسْرِ يُسْرًا",
                 "explanation": "Der gesamte Satz wird wiederholt: إِنَّ مَعَ الْعُسْرِ يُسْرًا — wörtliche Satzwiederholung als Bekräftigung.",
                 "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=94&verse=5"
               },
@@ -43,26 +43,26 @@
               },
               {
                 "ref": "82:17-18",
-                "arabic": "وَمَا أَدْرَاكَ مَا يَوْمُ الدِّينِ ﴿١٧﴾ ثُمَّ مَا أَدْرَاكَ مَا يَوْمُ الدِّينِ ﴿١٨﴾",
-                "explanation": "Die rhetorische Frage وَمَا أَدْرَاكَ wird wiederholt, beim zweiten Mal mit ثُمَّ eingeleitet.",
-                "note": "Hinweis: ثُمَّ als Konjunktion zwischen den Wiederholungen weicht vom strengen Tawkid Lafzi ab (Definition: ohne Konjunktion). Dies ist ein Grenzfall zwischen Tawkid und rhetorischer Wiederholung.",
+                "arabic": "وَمَا أَدْرَاكَ مَا يَوْمُ الدِّينِ · ثُمَّ مَا أَدْرَاكَ مَا يَوْمُ الدِّينِ",
+                "explanation": "Die Frage ohne Antworterwartung وَمَا أَدْرَاكَ wird wiederholt, beim zweiten Mal mit ثُمَّ eingeleitet.",
+                "note": "Hinweis: ثُمَّ als Konjunktion zwischen den Wiederholungen weicht vom strengen Tawkid Lafzi ab (Definition: ohne Konjunktion). Dies ist ein Grenzfall zwischen Tawkid und struktureller Wiederholung.",
                 "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=82&verse=17"
               },
               {
                 "ref": "69:1-2",
-                "arabic": "الْحَاقَّةُ ﴿١﴾ مَا الْحَاقَّةُ ﴿٢﴾",
-                "explanation": "Das Wort الْحَاقَّة wird sofort aufgegriffen — erst als Thema, dann in einer rhetorischen Frage.",
+                "arabic": "الْحَاقَّةُ · مَا الْحَاقَّةُ",
+                "explanation": "Das Wort الْحَاقَّة wird sofort aufgegriffen — erst als Thema, dann in einer Frage ohne Antworterwartung.",
                 "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=69&verse=1"
               },
               {
                 "ref": "101:1-2",
-                "arabic": "الْقَارِعَةُ ﴿١﴾ مَا الْقَارِعَةُ ﴿٢﴾",
+                "arabic": "الْقَارِعَةُ · مَا الْقَارِعَةُ",
                 "explanation": "Identisches Muster: Wort + sofortige Frage nach dem Wort.",
                 "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=101&verse=1"
               },
               {
                 "ref": "89:21-22",
-                "arabic": "كَلَّا إِذَا دُكَّتِ الْأَرْضُ دَكًّا دَكًّا ﴿٢١﴾ وَجَاءَ رَبُّكَ وَالْمَلَكُ صَفًّا صَفًّا ﴿٢٢﴾",
+                "arabic": "كَلَّا إِذَا دُكَّتِ الْأَرْضُ دَكًّا دَكًّا · وَجَاءَ رَبُّكَ وَالْمَلَكُ صَفًّا صَفًّا",
                 "explanation": "دَكًّا دَكًّا und صَفًّا صَفًّا: Wiederholung des Masdar als Bekräftigung — 'Zerschmetterung auf Zerschmetterung', 'Reihe auf Reihe'.",
                 "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=89&verse=21"
               }

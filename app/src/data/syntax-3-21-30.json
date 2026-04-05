@@ -1634,13 +1634,13 @@
   {
     "id": "3.30",
     "title": "Imperfekt als historisches Präsens (الْمُضَارِعُ الْحِكَائِيُّ)",
-    "description": "Der Quran verwendet das Imperfekt für vergangene Ereignisse — ein rhetorischer Tempuswechsel der die Handlung vergegenwärtigt.",
+    "description": "Der Quran verwendet das Imperfekt für vergangene Ereignisse — ein struktureller Tempuswechsel der die Handlung vergegenwärtigt.",
     "learnContent": {
       "sections": [
         {
           "type": "explanation",
           "title": "Was ist das historische Präsens?",
-          "content": "Im Standardarabisch drückt das Perfekt (الْمَاضِي) abgeschlossene Vergangenheit aus und das Imperfekt (الْمُضَارِع) Gegenwart oder Zukunft. Der Quran bricht diese Regel bewusst: Er verwendet das Imperfekt, um VERGANGENE Ereignisse so darzustellen, als geschähen sie gerade JETZT. Dies heißt الْمُضَارِعُ الْحِكَائِيُّ (das erzählende Imperfekt) oder auch الْحِكَايَةُ (Vergegenwärtigung). Der Tempuswechsel ist nicht zufällig — er ist ein präzises rhetorisches Mittel das den Leser in die Szene hineinzieht.",
+          "content": "Im Standardarabisch drückt das Perfekt (الْمَاضِي) abgeschlossene Vergangenheit aus und das Imperfekt (الْمُضَارِع) Gegenwart oder Zukunft. Der Quran bricht diese Regel bewusst: Er verwendet das Imperfekt, um VERGANGENE Ereignisse so darzustellen, als geschähen sie gerade JETZT. Dies heißt الْمُضَارِعُ الْحِكَائِيُّ (das erzählende Imperfekt) oder auch الْحِكَايَةُ (Vergegenwärtigung). Der Tempuswechsel ist nicht zufällig — er ist ein präzises sprachliches Mittel das den Leser in die Szene hineinzieht.",
           "arabicExamples": [
             {
               "arabic": "وَإِذْ يَرْفَعُ إِبْرَاهِيمُ الْقَوَاعِدَ",
@@ -1683,14 +1683,14 @@
             "Schritt 3: Widerspruch: إِذْ (Vergangenheit) + يَرْفَعُ (Gegenwart) → dies ist das historische Präsens",
             "Schritt 4: إِبْرَاهِيمُ = Ibrahim (Subjekt, فَاعِل im Nominativ) — lebte vor Jahrtausenden, also eindeutig Vergangenheit",
             "Schritt 5: الْقَوَاعِدَ مِنَ الْبَيْتِ = die Grundmauern des Hauses (der Kaaba) — Akkusativ-Objekt",
-            "Schritt 6: Rhetorische Wirkung: Der Leser wird in die Szene hineingezogen — er 'sieht' Ibrahim JETZT die Kaaba bauen",
+            "Schritt 6: Sprachliche Wirkung: Der Leser wird in die Szene hineingezogen — er 'sieht' Ibrahim JETZT die Kaaba bauen",
             "Schritt 7: Eine gewöhnliche Erzählung hätte إِذْ رَفَعَ (Perfekt) verwendet — der Quran wählt bewusst das Imperfekt"
           ]
         },
         {
           "type": "explanation",
-          "title": "Rhetorische Wirkung (historisches Präsens)",
-          "content": "Diese Technik heißt اِسْتِحْضَار — linguistisch handelt es sich um den Einsatz des Imperfekts mit Vergangenheitsbedeutung (historisches Praesens). Ihr Zweck ist es, vergangene Ereignisse so lebendig darzustellen, dass der Leser/Hörer sie als gegenwärtig empfindet. Im Quran wird dies an besonders bedeutsamen Stellen eingesetzt: beim Bau der Kaaba, bei Schlüsselmomenten der Verkündergeschichten, bei dramatischen Szenen am Tag des Gerichts. Der Tempuswechsel ist NIEMALS zufällig — jede Stelle hat eine rhetorische Begründung.",
+          "title": "Sprachliche Wirkung (historisches Präsens)",
+          "content": "Diese Technik heißt اِسْتِحْضَار — linguistisch handelt es sich um den Einsatz des Imperfekts mit Vergangenheitsbedeutung (historisches Praesens). Ihr Zweck ist es, vergangene Ereignisse so lebendig darzustellen, dass der Leser/Hörer sie als gegenwärtig empfindet. Im Quran wird dies an besonders bedeutsamen Stellen eingesetzt: beim Bau der Kaaba, bei Schlüsselmomenten der Verkündergeschichten, bei dramatischen Szenen am Tag des Gerichts. Der Tempuswechsel ist NIEMALS zufällig — jede Stelle hat eine emphatische Begründung.",
           "arabicExamples": [
             {
               "arabic": "وَإِذْ يَمْكُرُ بِكَ الَّذِينَ كَفَرُوا",
@@ -1765,12 +1765,12 @@
           "prompt": "Warum verwendet der Quran das Imperfekt für vergangene Ereignisse?",
           "options": [
             "Es ist ein grammatischer Fehler",
-            "Es ist ein rhetorisches Mittel zur Vergegenwärtigung (اِسْتِحْضَار)",
+            "Es ist ein sprachliches Mittel zur Vergegenwärtigung (اِسْتِحْضَار)",
             "Das Arabisch hatte damals keine Vergangenheitsform",
             "Es bedeutet dasselbe wie das Perfekt"
           ],
-          "answer": "Es ist ein rhetorisches Mittel zur Vergegenwärtigung (اِسْتِحْضَار)",
-          "explanation": "Der Tempuswechsel ist bewusst und rhetorisch: Er zieht den Leser in die Szene hinein und lässt vergangene Ereignisse als gegenwärtig erscheinen.",
+          "answer": "Es ist ein sprachliches Mittel zur Vergegenwärtigung (اِسْتِحْضَار)",
+          "explanation": "Der Tempuswechsel ist bewusst und emphatisch: Er zieht den Leser in die Szene hinein und lässt vergangene Ereignisse als gegenwärtig erscheinen.",
           "verifyUrl": "https://archive.org/details/WrightsArabicGrammar1Of2/page/n242"
         },
         {
@@ -1783,7 +1783,7 @@
         {
           "type": "sentence_analysis",
           "prompt": "Analysiere den Tempuswechsel in: إِذْ يَقُولُ لِصَاحِبِهِ لَا تَحْزَنْ إِنَّ اللَّهَ مَعَنَا (9:40)",
-          "answer": "إِذْ = Zeitadverb der Vergangenheit ('als'). يَقُولُ = Imperfekt ('er sagt') — historisches Präsens statt des erwarteten قَالَ (er sagte). لِصَاحِبِهِ = zu seinem Gefährten. لَا تَحْزَنْ = sei nicht traurig (Imperativ). إِنَّ اللَّهَ مَعَنَا = wahrlich, Gott ist mit uns. Rhetorische Wirkung: Der Leser hört die Worte als gegenwärtig — die Szene wird vergegenwärtigt.",
+          "answer": "إِذْ = Zeitadverb der Vergangenheit ('als'). يَقُولُ = Imperfekt ('er sagt') — historisches Präsens statt des erwarteten قَالَ (er sagte). لِصَاحِبِهِ = zu seinem Gefährten. لَا تَحْزَنْ = sei nicht traurig (Imperativ). إِنَّ اللَّهَ مَعَنَا = wahrlich, Gott ist mit uns. Sprachliche Wirkung: Der Leser hört die Worte als gegenwärtig — die Szene wird vergegenwärtigt.",
           "explanation": "Der Quran hätte إِذْ قَالَ (als er sagte) verwenden können, wählt aber إِذْ يَقُولُ. Dies versetzt den Leser in die Szene und lässt ihn die Worte als gegenwärtig erleben.",
           "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=9&verse=40"
         },

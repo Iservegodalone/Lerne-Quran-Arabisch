@@ -375,7 +375,7 @@
           {
             "type": "explanation",
             "title": "كَيْفَ (kayfa) — Interrogativ als Diskursmittel",
-            "content": "كَيْفَ (wie?) funktioniert auf Diskursebene nicht nur als echte Frage, sondern haueufig als rhetorisches Mittel. Rhetorisches كَيْفَ signalisiert Verwunderung oder Anklage: 'Wie koennt ihr nur...?' Es leitet keinen Informationsaustausch ein, sondern eine argumentative Konfrontation. Die erwartete Antwort ist: 'Es gibt keinen Grund dafuer — es ist unbegreiflich.'"
+            "content": "كَيْفَ (wie?) funktioniert auf Diskursebene nicht nur als echte Frage, sondern haueufig als sprachliches Mittel. Sprachliches كَيْفَ signalisiert Verwunderung oder Anklage: 'Wie koennt ihr nur...?' Es leitet keinen Informationsaustausch ein, sondern eine argumentative Konfrontation. Die erwartete Antwort ist: 'Es gibt keinen Grund dafuer — es ist unbegreiflich.'"
           },
           {
             "type": "example",
@@ -385,7 +385,7 @@
                 "ref": "2:28",
                 "arabic": "كَيْفَ تَكْفُرُونَ بِاللَّهِ وَكُنتُمْ أَمْوَاتًا فَأَحْيَاكُمْ ثُمَّ يُمِيتُكُمْ ثُمَّ يُحْيِيكُمْ ثُمَّ إِلَيْهِ تُرْجَعُونَ",
                 "transliteration": "kayfa takfuruuna bi-llaahi wa-kuntum amwaatan fa-ahyaakum thumma yumiitukum thumma yuhyiikum thumma ilayhi turjaʿuuna",
-                "note": "Rhetorisches كَيْفَ: 'WIE koennt ihr Gott verdecken, wo ihr doch tot wart und er euch belebte...?' Keine echte Frage — die Aufzaehlung der Taten Gottes (belebt, toetet, belebt wieder) macht die Antwort unmoeglich. كَيْفَ leitet eine argumentative Konfrontation ein.",
+                "note": "Sprachliches كَيْفَ: 'WIE koennt ihr Gott verdecken, wo ihr doch tot wart und er euch belebte...?' Keine echte Frage — die Aufzaehlung der Taten Gottes (belebt, toetet, belebt wieder) macht die Antwort unmoeglich. كَيْفَ leitet eine argumentative Konfrontation ein.",
                 "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=28"
               },
               {
@@ -695,7 +695,7 @@
           {
             "type": "explanation",
             "title": "Thematische Wechsel — Signalpartikel",
-            "content": "Thematische Wechsel innerhalb einer Sure werden oft durch bestimmte Partikel oder Formeln signalisiert. يَا أَيُّهَا (O ihr...) leitet einen neuen Adressaten und damit ein neues Thema ein. وَإِذْ (und als...) leitet eine Rückblende ein. قُلْ (sprich!) wechselt zum Imperativ. أَلَمْ (ist nicht...?) wechselt zum rhetorischen Argument. Diese Signale segmentieren die Sure in Abschnitte."
+            "content": "Thematische Wechsel innerhalb einer Sure werden oft durch bestimmte Partikel oder Formeln signalisiert. يَا أَيُّهَا (O ihr...) leitet einen neuen Adressaten und damit ein neues Thema ein. وَإِذْ (und als...) leitet eine Rückblende ein. قُلْ (sprich!) wechselt zum Imperativ. أَلَمْ (ist nicht...?) wechselt zum sprachlichen Argument. Diese Signale segmentieren die Sure in Abschnitte."
           },
           {
             "type": "example",
@@ -801,7 +801,7 @@
                 "ref": "56:57-62",
                 "arabic": "نَحْنُ خَلَقْنَاكُمْ فَلَوْلَا تُصَدِّقُونَ ○ أَفَرَأَيْتُم مَّا تُمْنُونَ ○ أَأَنتُمْ تَخْلُقُونَهُ أَمْ نَحْنُ الْخَالِقُونَ ○ نَحْنُ قَدَّرْنَا بَيْنَكُمُ الْمَوْتَ ... ○ وَلَقَدْ عَلِمْتُمُ النَّشْأَةَ الْأُولَىٰ فَلَوْلَا تَذَكَّرُونَ",
                 "transliteration": "nahnu khalaqnaakum fa-law-laa tusaddiquuna ○ a-fa-raʾaytum maa tumnuuna ○ a-antum takhluquunahu am nahnu l-khaaliquuna ...",
-                "note": "Prämisse 1: 'Wir haben euch erschaffen' (56:57). Prämisse 2: 'Habt ihr gesehen, was ihr (als Samen) ergiesst? Erschafft ihr es oder wir?' (56:58-59). Prämisse 3: 'Ihr kennt die erste Erschaffung' (56:62). Schlussfolgerung (durch فَلَوْلَا): 'Warum bestätigt/bedenkt ihr dann nicht?' Die Textstruktur ist: Beobachtung → rhetorische Frage → Schluss.",
+                "note": "Prämisse 1: 'Wir haben euch erschaffen' (56:57). Prämisse 2: 'Habt ihr gesehen, was ihr (als Samen) ergiesst? Erschafft ihr es oder wir?' (56:58-59). Prämisse 3: 'Ihr kennt die erste Erschaffung' (56:62). Schlussfolgerung (durch فَلَوْلَا): 'Warum bestätigt/bedenkt ihr dann nicht?' Die Textstruktur ist: Beobachtung → Frage ohne Antworterwartung → Schluss.",
                 "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=56&verse=57"
               },
               {
@@ -814,30 +814,30 @@
                 "ref": "88:17-20",
                 "arabic": "أَفَلَا يَنظُرُونَ إِلَى الْإِبِلِ كَيْفَ خُلِقَتْ ○ وَإِلَى السَّمَاءِ كَيْفَ رُفِعَتْ ○ وَإِلَى الْجِبَالِ كَيْفَ نُصِبَتْ ○ وَإِلَى الْأَرْضِ كَيْفَ سُطِحَتْ",
                 "transliteration": "a-fa-laa yanzuruuna ilaa l-ibili kayfa khuliqat ○ wa-ilaa s-samaaʾi kayfa rufiʿat ○ wa-ilaa l-jibaali kayfa nusibat ○ wa-ilaa l-ardi kayfa sutihat",
-                "note": "Vier rhetorische Fragen als Prämissenkette: Kamele, Himmel, Berge, Erde — jeweils mit كَيْفَ (wie). Die rhetorischen Fragen sind als Prämissenkette strukturiert; die Schlussfolgerung bleibt dem Rezipienten überlassen.",
+                "note": "Vier Frage ohne Antworterwartungn als Prämissenkette: Kamele, Himmel, Berge, Erde — jeweils mit كَيْفَ (wie). Die Frage ohne Antworterwartungn sind als Prämissenkette strukturiert; die Schlussfolgerung bleibt dem Rezipienten überlassen.",
                 "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=88&verse=17"
               }
             ]
           },
           {
             "type": "explanation",
-            "title": "Rhetorische Fragen als Textstrukturmittel",
-            "content": "Rhetorische Fragen sind keine echten Fragen — sie erwarten keine Antwort, sondern führen den Leser zur impliziten Schlussfolgerung. Im quranischen Text dienen sie als Prämissen in Textsequenzen. Typische Formen: أَفَلَا (sehen/bedenken sie denn nicht?), أَلَمْ (haben sie nicht?), أَفَرَأَيْتُم (habt ihr gesehen?)."
+            "title": "Sprachliche Fragen als Textstrukturmittel",
+            "content": "Sprachliche Fragen sind keine echten Fragen — sie erwarten keine Antwort, sondern führen den Leser zur impliziten Schlussfolgerung. Im quranischen Text dienen sie als Prämissen in Textsequenzen. Typische Formen: أَفَلَا (sehen/bedenken sie denn nicht?), أَلَمْ (haben sie nicht?), أَفَرَأَيْتُم (habt ihr gesehen?)."
           },
           {
             "type": "example",
-            "title": "Rhetorische Fragen in Textsequenzen — Beispiele",
+            "title": "Sprachliche Fragen in Textsequenzen — Beispiele",
             "examples": [
               {
                 "ref": "56:63-72",
                 "arabic": "أَفَرَأَيْتُم مَّا تَحْرُثُونَ ○ أَأَنتُمْ تَزْرَعُونَهُ أَمْ نَحْنُ الزَّارِعُونَ ○ ... ○ أَفَرَأَيْتُمُ الْمَاءَ الَّذِي تَشْرَبُونَ ○ أَأَنتُمْ أَنزَلْتُمُوهُ مِنَ الْمُزْنِ أَمْ نَحْنُ الْمُنزِلُونَ ○ ... ○ أَفَرَأَيْتُمُ النَّارَ الَّتِي تُورُونَ",
-                "note": "Dreifache أَفَرَأَيْتُم-Kette: Saat, Wasser, Feuer. Jede Frage ist eine Prämisse: 'Erschafft ihr das — oder wir?' Die rhetorischen Fragen sind als Prämissenkette strukturiert; die Schlussfolgerung bleibt dem Rezipienten überlassen.",
+                "note": "Dreifache أَفَرَأَيْتُم-Kette: Saat, Wasser, Feuer. Jede Frage ist eine Prämisse: 'Erschafft ihr das — oder wir?' Die Frage ohne Antworterwartungn sind als Prämissenkette strukturiert; die Schlussfolgerung bleibt dem Rezipienten überlassen.",
                 "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=56&verse=63"
               },
               {
                 "ref": "67:16-19",
                 "arabic": "أَأَمِنتُم مَّن فِي السَّمَاءِ أَن يَخْسِفَ بِكُمُ الْأَرْضَ ... ○ أَمْ أَمِنتُم مَّن فِي السَّمَاءِ أَن يُرْسِلَ عَلَيْكُمْ حَاصِبًا ... ○ وَلَقَدْ كَذَّبَ الَّذِينَ مِن قَبْلِهِمْ فَكَيْفَ كَانَ نَكِيرِ ○ أَوَلَمْ يَرَوْا إِلَى الطَّيْرِ فَوْقَهُمْ صَافَّاتٍ وَيَقْبِضْنَ",
-                "note": "Kette von rhetorischen Fragen: أَأَمِنتُم ... أَمْ أَمِنتُم ... فَكَيْفَ ... أَوَلَمْ يَرَوْا. Jede Frage verstaerkt die Textsequenz. Die Voegel (67:19) sind eine empirische Beobachtung als textuelle Stuetzung: Wer haelt sie oben, wenn nicht Gott?",
+                "note": "Kette von Frage ohne Antworterwartungn: أَأَمِنتُم ... أَمْ أَمِنتُم ... فَكَيْفَ ... أَوَلَمْ يَرَوْا. Jede Frage verstaerkt die Textsequenz. Die Voegel (67:19) sind eine empirische Beobachtung als textuelle Stuetzung: Wer haelt sie oben, wenn nicht Gott?",
                 "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=67&verse=16"
               }
             ]

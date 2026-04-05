@@ -59,7 +59,7 @@
               {
                 "ref": "36:60",
                 "arabic": "أَلَمْ أَعْهَدْ إِلَيْكُمْ يَا بَنِي آدَمَ أَن لَّا تَعْبُدُوا الشَّيْطَانَ",
-                "explanation": "أَلَمْ أَعْهَدْ — أَ + لَمْ + Jussiv. 'Habe ich euch nicht aufgetragen...?' Die Kombination أَ + Negation ergibt eine erwartete Bejahung (rhetorische Frage).",
+                "explanation": "أَلَمْ أَعْهَدْ — أَ + لَمْ + Jussiv. 'Habe ich euch nicht aufgetragen...?' Die Kombination أَ + Negation ergibt eine erwartete Bejahung (Frage ohne Antworterwartung).",
                 "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=36&verse=60"
               },
               {
@@ -285,7 +285,7 @@
           {
             "type": "explanation",
             "title": "كَيْفَ — Frage nach der Art und Weise",
-            "content": "كَيْفَ ('wie') fragt nach der Art und Weise oder dem Zustand.\n\nSyntaktisch: كَيْفَ ist ein Adverb (ظرف / حال). Es steht typisch am Satzanfang:\n- كَيْفَ + Verb: كَيْفَ تَكْفُرُونَ ('Wie könnt ihr leugnen?')\n- كَيْفَ + Nomen: كَيْفَ حَالُكَ ('Wie ist dein Zustand?')\n\nIm Quran hat كَيْفَ häufig rhetorische Funktion — die Frage drückt Verwunderung oder Tadel aus, nicht Informationssuche."
+            "content": "كَيْفَ ('wie') fragt nach der Art und Weise oder dem Zustand.\n\nSyntaktisch: كَيْفَ ist ein Adverb (ظرف / حال). Es steht typisch am Satzanfang:\n- كَيْفَ + Verb: كَيْفَ تَكْفُرُونَ ('Wie könnt ihr leugnen?')\n- كَيْفَ + Nomen: كَيْفَ حَالُكَ ('Wie ist dein Zustand?')\n\nIm Quran hat كَيْفَ häufig syntaktische Funktion — die Frage drückt Verwunderung oder Tadel aus, nicht Informationssuche."
           },
           {
             "type": "explanation",
@@ -304,7 +304,7 @@
               {
                 "ref": "2:28",
                 "arabic": "كَيْفَ تَكْفُرُونَ بِاللَّهِ وَكُنتُمْ أَمْوَاتًا فَأَحْيَاكُمْ",
-                "explanation": "كَيْفَ تَكْفُرُونَ — 'Wie könnt ihr leugnen?' Rhetorische Frage: drückt Verwunderung und Tadel aus, keine Informationssuche. كَيْفَ als Zustandsadverb.",
+                "explanation": "كَيْفَ تَكْفُرُونَ — 'Wie könnt ihr leugnen?' Sprachliche Frage: drückt Verwunderung und Tadel aus, keine Informationssuche. كَيْفَ als Zustandsadverb.",
                 "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=28"
               },
               {
@@ -316,13 +316,13 @@
               {
                 "ref": "81:26",
                 "arabic": "فَأَيْنَ تَذْهَبُونَ",
-                "explanation": "أَيْنَ تَذْهَبُونَ — 'Wohin geht ihr?' Rhetorische Frage am Ende der Sure — Verwunderung über die Abkehr.",
+                "explanation": "أَيْنَ تَذْهَبُونَ — 'Wohin geht ihr?' Sprachliche Frage am Ende der Sure — Verwunderung über die Abkehr.",
                 "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=81&verse=26"
               },
               {
                 "ref": "2:214",
                 "arabic": "مَتَىٰ نَصْرُ اللَّهِ ۗ أَلَا إِنَّ نَصْرَ اللَّهِ قَرِيبٌ",
-                "explanation": "مَتَى نَصْرُ اللَّهِ — 'Wann [kommt] Gottes Hilfe?' Echte Informationsfrage (nicht rhetorisch). Nominalsatz: مَتَى ist Prädikat, نَصْرُ اللَّهِ Subjekt.",
+                "explanation": "مَتَى نَصْرُ اللَّهِ — 'Wann [kommt] Gottes Hilfe?' Echte Informationsfrage (nicht emphatisch). Nominalsatz: مَتَى ist Prädikat, نَصْرُ اللَّهِ Subjekt.",
                 "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=214"
               },
               {
@@ -357,7 +357,7 @@
         {
           "type": "identification",
           "prompt": "Lies 67:30 (قُلْ أَرَأَيْتُمْ إِنْ أَصْبَحَ مَاؤُكُمْ غَوْرًا فَمَن يَأْتِيكُم بِمَاءٍ مَّعِينٍ). Welches Fragewort steht hier? Welche Funktion hat es?",
-          "hint": "مَنْ يَأْتِيكُمْ — مَنْ als Subjekt. Die Frage ist rhetorisch: 'Wer bringt euch...' = Niemand (ausser Gott).",
+          "hint": "مَنْ يَأْتِيكُمْ — مَنْ als Subjekt. Die Frage ist emphatisch: 'Wer bringt euch...' = Niemand (ausser Gott).",
           "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=67&verse=30"
         },
         {
@@ -385,12 +385,12 @@
             "question": "كَيْفَ تَكْفُرُونَ (2:28) — ist das eine echte Informationsfrage?",
             "options": [
               "Ja — der Sprecher will wissen, auf welche Art sie leugnen",
-              "Nein — es ist eine rhetorische Frage, die Verwunderung/Tadel ausdrückt",
+              "Nein — es ist eine Frage ohne Antworterwartung, die Verwunderung/Tadel ausdrückt",
               "Ja — es fragt nach dem Zeitpunkt",
               "Nein — es ist ein Befehl"
             ],
             "correct": 1,
-            "explanation": "كَيْفَ تَكْفُرُونَ ist rhetorisch: 'Wie KOENNT ihr leugnen?' drückt Verwunderung und Tadel aus. Der Sprecher sucht keine Information, sondern stellt die Handlung als unverstaendlich dar.",
+            "explanation": "كَيْفَ تَكْفُرُونَ ist emphatisch: 'Wie KOENNT ihr leugnen?' drückt Verwunderung und Tadel aus. Der Sprecher sucht keine Information, sondern stellt die Handlung als unverstaendlich dar.",
             "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=28"
           },
           {
@@ -489,7 +489,7 @@
         {
           "type": "analysis",
           "prompt": "Vergleiche 2:259 (كَمْ لَبِثْتَ — interrogativ) mit 36:31 (كَمْ أَهْلَكْنَا — berichtend). Welche syntaktischen und kontextuellen Merkmale unterscheiden die beiden Typen?",
-          "hint": "Interrogativ: echte Frage, wird beantwortet, oft im Dialog. Berichtend: rhetorische Feststellung einer grossen Menge, wird nicht beantwortet, oft mit مِنْ + Genitiv.",
+          "hint": "Interrogativ: echte Frage, wird beantwortet, oft im Dialog. Berichtend: sprachliche Feststellung einer grossen Menge, wird nicht beantwortet, oft mit مِنْ + Genitiv.",
           "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=259"
         },
         {
@@ -554,22 +554,22 @@
     },
     {
       "id": "IS5",
-      "title": "Rhetorische Frage (الاستفهام الإنكاري)",
+      "title": "Sprachliche Frage (الاستفهام الإنكاري)",
       "learnContent": {
         "sections": [
           {
             "type": "explanation",
-            "title": "Was ist eine rhetorische Frage?",
-            "content": "Eine rhetorische Frage ist syntaktisch eine Frage (mit Fragepartikel), aber pragmatisch keine Informationssuche. Der Sprecher erwartet keine Antwort — die Frage drückt etwas anderes aus.\n\nFunktionen rhetorischer Fragen im Quran:\n\n1. Verneinung: أَلَيْسَ اللَّهُ بِكَافٍ عَبْدَهُ ('Ist Gott nicht genügend für seinen Diener?' = Gott genügt.)\n2. Verwunderung: كَيْفَ تَكْفُرُونَ ('Wie könnt ihr leugnen?' = Es ist unverstaendlich.)\n3. Tadel: أَفَلَا تَعْقِلُونَ ('Denkt ihr denn nicht nach?' = Ihr solltet nachdenken.)\n4. Bekräftigung: أَلَمْ نَشْرَحْ لَكَ صَدْرَكَ ('Haben wir dir nicht deine Brust geweitet?' = Wir haben es getan.)\n\nDas Erkennungsmerkmal: Die Antwort ist im Kontext offensichtlich — die Frage zielt nicht auf neue Information."
+            "title": "Was ist eine Frage ohne Antworterwartung?",
+            "content": "Eine Frage ohne Antworterwartung ist syntaktisch eine Frage (mit Fragepartikel), aber pragmatisch keine Informationssuche. Der Sprecher erwartet keine Antwort — die Frage drückt etwas anderes aus.\n\nFunktionen Fragen ohne Antworterwartung im Quran:\n\n1. Verneinung: أَلَيْسَ اللَّهُ بِكَافٍ عَبْدَهُ ('Ist Gott nicht genügend für seinen Diener?' = Gott genügt.)\n2. Verwunderung: كَيْفَ تَكْفُرُونَ ('Wie könnt ihr leugnen?' = Es ist unverstaendlich.)\n3. Tadel: أَفَلَا تَعْقِلُونَ ('Denkt ihr denn nicht nach?' = Ihr solltet nachdenken.)\n4. Bekräftigung: أَلَمْ نَشْرَحْ لَكَ صَدْرَكَ ('Haben wir dir nicht deine Brust geweitet?' = Wir haben es getan.)\n\nDas Erkennungsmerkmal: Die Antwort ist im Kontext offensichtlich — die Frage zielt nicht auf neue Information."
           },
           {
             "type": "explanation",
-            "title": "Häufige rhetorische Muster im Quran",
-            "content": "Bestimmte Kombinationen signalisieren fast immer rhetorische Fragen:\n\n1. أَلَمْ (أَ + لَمْ): Frage + Negation + Jussiv = erwartete Bejahung\n   'Hast du nicht...?' = 'Du hast doch...!'\n\n2. أَفَلَا (أَ + فَ + لَا): Frage + Konsequenz + Negation = Tadel\n   'Denkt ihr denn nicht nach?' = 'Ihr solltet nachdenken!'\n\n3. أَلَيْسَ (أَ + لَيْسَ): Frage + Negationsverb = erwartete Bejahung\n   'Ist es nicht so, dass...?' = 'Es ist so!'\n\n4. أَلَا (أَ + لَا): Frage + Negation = Warnung oder Aufmerksamkeitslenkung\n   Oft am Satzanfang: أَلَا إِنَّ ('Wahrlich!' / 'Ist es nicht so, dass...!')\n\nDiese Muster sind syntaktisch erkennbar — die rhetorische Funktion ergibt sich aus der Kombination von Frage und Negation."
+            "title": "Häufige sprachliche Muster im Quran",
+            "content": "Bestimmte Kombinationen signalisieren fast immer Frage ohne Antworterwartungn:\n\n1. أَلَمْ (أَ + لَمْ): Frage + Negation + Jussiv = erwartete Bejahung\n   'Hast du nicht...?' = 'Du hast doch...!'\n\n2. أَفَلَا (أَ + فَ + لَا): Frage + Konsequenz + Negation = Tadel\n   'Denkt ihr denn nicht nach?' = 'Ihr solltet nachdenken!'\n\n3. أَلَيْسَ (أَ + لَيْسَ): Frage + Negationsverb = erwartete Bejahung\n   'Ist es nicht so, dass...?' = 'Es ist so!'\n\n4. أَلَا (أَ + لَا): Frage + Negation = Warnung oder Aufmerksamkeitslenkung\n   Oft am Satzanfang: أَلَا إِنَّ ('Wahrlich!' / 'Ist es nicht so, dass...!')\n\nDiese Muster sind syntaktisch erkennbar — die syntaktische Funktion ergibt sich aus der Kombination von Frage und Negation."
           },
           {
             "type": "quranExamples",
-            "title": "Rhetorische Fragen im Quran",
+            "title": "Sprachliche Fragen im Quran",
             "examples": [
               {
                 "ref": "94:1",
@@ -586,7 +586,7 @@
               {
                 "ref": "2:44",
                 "arabic": "أَتَأْمُرُونَ النَّاسَ بِالْبِرِّ وَتَنسَوْنَ أَنفُسَكُمْ وَأَنتُمْ تَتْلُونَ الْكِتَابَ ۚ أَفَلَا تَعْقِلُونَ",
-                "explanation": "Zwei rhetorische Fragen: (1) أَتَأْمُرُونَ — 'Befehlt ihr den Leuten Gutes und vergesst euch selbst?' = Tadel. (2) أَفَلَا تَعْقِلُونَ — 'Denkt ihr denn nicht nach?' = Ihr solltet nachdenken! أَ + فَ + لَا.",
+                "explanation": "Zwei Frage ohne Antworterwartungn: (1) أَتَأْمُرُونَ — 'Befehlt ihr den Leuten Gutes und vergesst euch selbst?' = Tadel. (2) أَفَلَا تَعْقِلُونَ — 'Denkt ihr denn nicht nach?' = Ihr solltet nachdenken! أَ + فَ + لَا.",
                 "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=44"
               },
               {
@@ -598,13 +598,13 @@
               {
                 "ref": "10:59",
                 "arabic": "قُلْ أَرَأَيْتُم مَّا أَنزَلَ اللَّهُ لَكُم مِّن رِّزْقٍ فَجَعَلْتُم مِّنْهُ حَرَامًا وَحَلَالًا قُلْ آللَّهُ أَذِنَ لَكُمْ أَمْ عَلَى اللَّهِ تَفْتَرُونَ",
-                "explanation": "آللَّهُ أَذِنَ لَكُمْ أَمْ ... تَفْتَرُونَ — Rhetorische Alternative: 'Hat Gott euch erlaubt, oder erfindet ihr gegen Gott?' Die erwartete Antwort ist die zweite Option. أَ ... أَمْ mit rhetorischer Funktion.",
+                "explanation": "آللَّهُ أَذِنَ لَكُمْ أَمْ ... تَفْتَرُونَ — Sprachliche Alternative: 'Hat Gott euch erlaubt, oder erfindet ihr gegen Gott?' Die erwartete Antwort ist die zweite Option. أَ ... أَمْ mit emphatischer Funktion.",
                 "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=10&verse=59"
               },
               {
                 "ref": "11:24",
                 "arabic": "مَثَلُ الْفَرِيقَيْنِ كَالْأَعْمَىٰ وَالْأَصَمِّ وَالْبَصِيرِ وَالسَّمِيعِ ۚ هَلْ يَسْتَوِيَانِ مَثَلًا ۚ أَفَلَا تَذَكَّرُونَ",
-                "explanation": "هَلْ يَسْتَوِيَانِ — 'Sind die beiden gleich?' Rhetorisch: 'Nein, sie sind nicht gleich.' Gefolgt von أَفَلَا تَذَكَّرُونَ — doppelte rhetorische Frage als Mittel des Tadels.",
+                "explanation": "هَلْ يَسْتَوِيَانِ — 'Sind die beiden gleich?' Rhetorisch: 'Nein, sie sind nicht gleich.' Gefolgt von أَفَلَا تَذَكَّرُونَ — doppelte Frage ohne Antworterwartung als Mittel des Tadels.",
                 "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=11&verse=24"
               }
             ]
@@ -614,7 +614,7 @@
       "exercises": [
         {
           "type": "identification",
-          "prompt": "Lies 67:16-17. Identifiziere die rhetorischen Fragen. Welche Funktion haben sie — Verneinung, Verwunderung, Tadel oder Bekräftigung?",
+          "prompt": "Lies 67:16-17. Identifiziere die Frage ohne Antworterwartungn. Welche Funktion haben sie — Verneinung, Verwunderung, Tadel oder Bekräftigung?",
           "hint": "Achte auf أَأَمِنتُم und die Folgeverse. Die Fragen drücken Warnung aus — 'seid ihr denn sicher, dass...?'",
           "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=67&verse=16"
         },
@@ -626,13 +626,13 @@
         },
         {
           "type": "identification",
-          "prompt": "Lies 56:58-59. Dort steht أَفَرَأَيْتُم und dann أَأَنتُمْ تَخْلُقُونَهُ أَمْ نَحْنُ الْخَالِقُونَ. Identifiziere die rhetorische Struktur. Welche Antwort wird erwartet?",
+          "prompt": "Lies 56:58-59. Dort steht أَفَرَأَيْتُم und dann أَأَنتُمْ تَخْلُقُونَهُ أَمْ نَحْنُ الْخَالِقُونَ. Identifiziere die sprachliche Struktur. Welche Antwort wird erwartet?",
           "hint": "أَ ... أَمْ-Alternative: 'Erschafft IHR es oder sind WIR die Schöpfer?' Erwartete Antwort: die zweite Option (Gott ist der Schöpfer).",
           "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=56&verse=58"
         },
         {
           "type": "analysis",
-          "prompt": "Vergleiche das rhetorische هَلْ in 11:24 (هَلْ يَسْتَوِيَانِ) mit dem nicht-rhetorischen هَلْ in 88:1 (هَلْ أَتَاكَ). Woran erkennst du im Kontext, ob هَلْ rhetorisch ist oder nicht?",
+          "prompt": "Vergleiche das emphatische هَلْ in 11:24 (هَلْ يَسْتَوِيَانِ) mit dem nicht-emphatischen هَلْ in 88:1 (هَلْ أَتَاكَ). Woran erkennst du im Kontext, ob هَلْ emphatisch ist oder nicht?",
           "hint": "In 11:24 ist die Antwort offensichtlich (Blinde und Sehende sind nicht gleich — gerade definiert). In 88:1 leitet هَلْ eine Erzählung ein — es lenkt die Aufmerksamkeit.",
           "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=11&verse=24"
         }
@@ -648,7 +648,7 @@
               "Wunsch: 'Hätten wir doch geweitet!'"
             ],
             "correct": 1,
-            "explanation": "أَلَمْ ist eine rhetorische Frage mit erwarteter Bejahung. 'Haben wir nicht...?' = 'Doch, wir haben!' Die Frage bekräftigt die positive Aussage.",
+            "explanation": "أَلَمْ ist eine Frage ohne Antworterwartung mit erwarteter Bejahung. 'Haben wir nicht...?' = 'Doch, wir haben!' Die Frage bekräftigt die positive Aussage.",
             "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=94&verse=1"
           },
           {
@@ -672,7 +672,7 @@
               "Beide Optionen sind gleichwertig"
             ],
             "correct": 1,
-            "explanation": "Die rhetorische Alternative (أَ ... أَمْ) lenkt auf die zweite Option: Die Adressaten erfinden etwas gegen Gott, ohne Erlaubnis. Der Kontext macht klar, dass die erste Option (Gottes Erlaubnis) nicht zutrifft.",
+            "explanation": "Die alternative Frageform (أَ ... أَمْ) lenkt auf die zweite Option: Die Adressaten erfinden etwas gegen Gott, ohne Erlaubnis. Der Kontext macht klar, dass die erste Option (Gottes Erlaubnis) nicht zutrifft.",
             "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=10&verse=59"
           },
           {

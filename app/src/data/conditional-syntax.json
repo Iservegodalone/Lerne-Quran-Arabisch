@@ -137,7 +137,7 @@
               "Es ist kein echter Konditionalsatz",
               "Die Apodosis ist vorangestellt — die Bedingung wird nachgeliefert",
               "إِنْ hat hier keine konditionale Funktion",
-              "Es handelt sich um eine rhetorische Frage"
+              "Es handelt sich um eine Frage ohne Antworterwartung"
             ],
             "correct": 1,
             "explanation": "Die Apodosis kann im Arabischen der Protasis vorangestellt werden. Die Protasis wird dann nachgeliefert und schränkt die Aussage ein. Dies ist im Quran häufig.",
@@ -514,7 +514,7 @@
           {
             "type": "explanation",
             "title": "لَوْلَا — Konzessive/Irreale Negation",
-            "content": "لَوْلَا hat zwei Funktionen:\n\n1. Kontrafaktisch ('wenn nicht / wäre nicht'): لَوْلَا + Nominalsatz (Subjekt im Nominativ) ... لَ + Perfekt\n   Bedeutung: 'Gaebe es X nicht, wäre Y geschehen.'\n\n2. Vorwurfsvolle Frage ('warum nicht?'): لَوْلَا + Verb\n   Bedeutung: 'Warum habt ihr nicht...?' — eine rhetorische Aufforderung.\n\nDie erste Funktion ist kontrafaktisch (wie لَوْ), die zweite ist eine Kommunikationsfunktion."
+            "content": "لَوْلَا hat zwei Funktionen:\n\n1. Kontrafaktisch ('wenn nicht / wäre nicht'): لَوْلَا + Nominalsatz (Subjekt im Nominativ) ... لَ + Perfekt\n   Bedeutung: 'Gaebe es X nicht, wäre Y geschehen.'\n\n2. Vorwurfsvolle Frage ('warum nicht?'): لَوْلَا + Verb\n   Bedeutung: 'Warum habt ihr nicht...?' — eine tadelnde Aufforderung.\n\nDie erste Funktion ist kontrafaktisch (wie لَوْ), die zweite ist eine Kommunikationsfunktion."
           },
           {
             "type": "quranExamples",

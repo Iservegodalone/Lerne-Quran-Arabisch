@@ -1,15 +1,15 @@
 {
   "meta": {
-    "title": "Balagha — Rhetorische Analyse des quranischen Textes",
-    "description": "Sprachwissenschaftliche Analyse rhetorischer Strukturen im Quran. Keine normative Rhetorik-Tradition, sondern empirische Beobachtung sprachlicher Muster.",
-    "approach": "Jede rhetorische Figur wird als beobachtbares sprachliches Phänomen definiert, mit Quran-Beispielen belegt und hinsichtlich ihrer Funktion im Text analysiert.",
+    "title": "Sprachliche Figuren und strukturelle Muster im Qurantext",
+    "description": "Sprachwissenschaftliche Analyse struktureller sprachlicher Muster im Quran. Empirische Beobachtung, keine normative Tradition.",
+    "approach": "Jede sprachliche Figur wird als beobachtbares Phänomen definiert, mit Quran-Beispielen belegt und hinsichtlich ihrer syntaktischen/semantischen Funktion im Text analysiert.",
     "sources": [
       {
         "name": "Quranic Arabic Corpus",
         "url": "https://corpus.quran.com/"
       },
       {
-        "name": "Wright's Arabic Grammar Vol II — Rhetoric & Figures of Speech",
+        "name": "Wright's Arabic Grammar Vol II",
         "url": "https://archive.org/details/grammarofthearab02telerich"
       }
     ]
@@ -353,7 +353,7 @@
     {
       "id": "B6",
       "title": "Takrir — Wiederholung und ihre Funktion",
-      "description": "Gezielte Wiederholung von Wörtern, Phrasen oder Strukturen als rhetorisches Mittel.",
+      "description": "Gezielte Wiederholung von Wörtern, Phrasen oder Strukturen als sprachliches Mittel.",
       "learnContent": {
         "sections": [
           {
@@ -421,7 +421,7 @@
           {
             "type": "explanation",
             "title": "Bedeutung der Auslassung",
-            "content": "Im Arabischen können Satzglieder ausgelassen werden wenn der Kontext sie eindeutig ergänzt. Wo der Text ein Satzglied auslaesst, kann dies verschiedene Gründe haben — nicht jede Auslassung ist zwingend rhetorisch motiviert:\n\n1. Ausgelassenes Objekt: Wenn ein transitives Verb kein Objekt hat, kann das Allgemeinheit ausdrücken (er gibt — an wen? An alle)\n2. Ausgelassenes Subjekt: Häufig bei Passivkonstruktionen — der Handelnde wird nicht genannt\n3. Ausgelassener Nachsatz: Eine Bedingung ohne explizite Folge"
+            "content": "Im Arabischen können Satzglieder ausgelassen werden wenn der Kontext sie eindeutig ergänzt. Wo der Text ein Satzglied auslaesst, kann dies verschiedene Gründe haben — nicht jede Auslassung ist zwingend stilistisch motiviert:\n\n1. Ausgelassenes Objekt: Wenn ein transitives Verb kein Objekt hat, kann das Allgemeinheit ausdrücken (er gibt — an wen? An alle)\n2. Ausgelassenes Subjekt: Häufig bei Passivkonstruktionen — der Handelnde wird nicht genannt\n3. Ausgelassener Nachsatz: Eine Bedingung ohne explizite Folge"
           },
           {
             "type": "quranExamples",
@@ -918,14 +918,14 @@
     },
     {
       "id": "B13",
-      "title": "Mubalagha (مُبَالَغَة) — Intensivbildung als rhetorisches Mittel",
-      "description": "Arabische Morphologie erzeugt durch bestimmte Nominalformen (Intensivformen) eine verstärkte Bedeutung. Die Wahl der Form ist selbst ein rhetorisches Mittel.",
+      "title": "Mubalagha (مُبَالَغَة) — Intensivbildung als sprachliches Mittel",
+      "description": "Arabische Morphologie erzeugt durch bestimmte Nominalformen (Intensivformen) eine verstärkte Bedeutung. Die Wahl der Form ist selbst ein sprachliches Mittel.",
       "learnContent": {
         "sections": [
           {
             "type": "explanation",
             "title": "Was ist Mubalagha?",
-            "content": "Mubalagha (Intensivierung) ist ein morphologisches Phänomen: Bestimmte Nominalformen (sighatu l-mubalagha / صيغة المبالغة) drücken eine verstärkte, intensivierte Version der Grundbedeutung aus. Die Intensivierung ist nicht stilistisch hinzugefuegt, sondern IN DER FORM SELBST KODIERT — die Morphologie trägt die Rhetorik.\n\nDie wichtigsten Intensivmuster:\n\n1. فَعَّال (fa''aal): Häufigkeit und Wiederholung der Handlung. Wer etwas IMMER WIEDER tut.\n   Beispiel: غَفَّار (ghaffaar) = der immer wieder Vergebende (von غ-ف-ر)\n\n2. فَعُول (fa'uul): Intensität und Fülle der Eigenschaft. Wer etwas in VOLLEM MASSE tut/ist.\n   Beispiel: غَفُور (ghafuur) = der in vollem Mass Vergebende\n\n3. فَعِيل (fa'iil): Beständige, dauerhafte Eigenschaft. Wer etwas ALS WESENSEIGENSCHAFT trägt.\n   Beispiel: رَحِيم (rahiim) = der wesenhaft Barmherzige\n\n4. فَعْلَان (fa'laan): Überfliessende, momentan ueberwaeltigende Fülle.\n   Beispiel: رَحْمَان (rahmaan) = der vor Barmherzigkeit Überfliessende\n\n5. مِفْعَال (mif'aal): Instrumentale Intensivierung — wer etwas als Mittel/Instrument ständig einsetzt.\n   Beispiel: مِقْدَام (miqdaam) = der ständig Voranschreitende (von ق-د-م)\n\nDer rhetorische Punkt: Wenn der Quran zwischen verschiedenen Intensivformen DERSELBEN WURZEL wechselt, ist das bedeutungstragend. Die Form selbst ist das rhetorische Mittel — nicht ein hinzugefuegtes Wort, sondern die morphologische Struktur."
+            "content": "Mubalagha (Intensivierung) ist ein morphologisches Phänomen: Bestimmte Nominalformen (sighatu l-mubalagha / صيغة المبالغة) drücken eine verstärkte, intensivierte Version der Grundbedeutung aus. Die Intensivierung ist nicht stilistisch hinzugefuegt, sondern IN DER FORM SELBST KODIERT — die Morphologie trägt die Bedeutungsverstaerkung.\n\nDie wichtigsten Intensivmuster:\n\n1. فَعَّال (fa''aal): Häufigkeit und Wiederholung der Handlung. Wer etwas IMMER WIEDER tut.\n   Beispiel: غَفَّار (ghaffaar) = der immer wieder Vergebende (von غ-ف-ر)\n\n2. فَعُول (fa'uul): Intensität und Fülle der Eigenschaft. Wer etwas in VOLLEM MASSE tut/ist.\n   Beispiel: غَفُور (ghafuur) = der in vollem Mass Vergebende\n\n3. فَعِيل (fa'iil): Beständige, dauerhafte Eigenschaft. Wer etwas ALS WESENSEIGENSCHAFT trägt.\n   Beispiel: رَحِيم (rahiim) = der wesenhaft Barmherzige\n\n4. فَعْلَان (fa'laan): Überfliessende, momentan ueberwaeltigende Fülle.\n   Beispiel: رَحْمَان (rahmaan) = der vor Barmherzigkeit Überfliessende\n\n5. مِفْعَال (mif'aal): Instrumentale Intensivierung — wer etwas als Mittel/Instrument ständig einsetzt.\n   Beispiel: مِقْدَام (miqdaam) = der ständig Voranschreitende (von ق-د-م)\n\nDer strukturelle Punkt: Wenn der Quran zwischen verschiedenen Intensivformen DERSELBEN WURZEL wechselt, ist das bedeutungstragend. Die Form selbst traegt die Intensivierung — nicht ein hinzugefuegtes Wort, sondern die morphologische Struktur."
           },
           {
             "type": "quranExamples",

@@ -2,7 +2,7 @@
   {
     "id": "3.11",
     "title": "Absoluter Akkusativ (Mafʿūl Muṭlaq)",
-    "description": "Das Verbal-Nomen (Masdar) im Akkusativ verstärkt oder spezifiziert die Handlung des Verbs — ein zentrales rhetorisches Mittel im Quran.",
+    "description": "Das Verbal-Nomen (Masdar) im Akkusativ verstärkt oder spezifiziert die Handlung des Verbs — ein zentrales sprachliches Mittel im Quran.",
     "learnContent": {
       "sections": [
         {
@@ -384,13 +384,13 @@
   {
     "id": "3.13",
     "title": "Apposition (Badal)",
-    "description": "Ein Nomen, das ein vorheriges Nomen ersetzt oder präzisiert und dessen Kasus übernimmt — ein Schlüsselkonzept für das Verständnis der Quran-Rhetorik.",
+    "description": "Ein Nomen, das ein vorheriges Nomen ersetzt oder präzisiert und dessen Kasus übernimmt — ein Schlüsselkonzept für das Verständnis der Quran-Satzbau.",
     "learnContent": {
       "sections": [
         {
           "type": "explanation",
           "title": "Was ist eine Apposition (Badal)?",
-          "content": "Die Apposition (البدل / al-badal) ist ein Nomen, das ein vorhergehendes Nomen (das Mubdal minhu / المبدل منه) näher bestimmt, erklärt oder ersetzt. Das entscheidende Merkmal: Die Apposition übernimmt IMMER denselben Kasus wie das Bezugswort. Es gibt vier Haupttypen: (1) Badal Kull min Kull (بدل كل من كل) — Totalapposition: Die Apposition ist identisch mit dem Bezugswort. (2) Badal Baʿḍ min Kull (بدل بعض من كل) — Teilapposition: Die Apposition ist ein Teil des Ganzen. (3) Badal Ištimāl (بدل اشتمال) — Einschlussapposition: Die Apposition ist ein Aspekt oder eine Eigenschaft des Bezugsworts. (4) Badal Ġalaṭ (بدل غلط) — Korrekturapposition: korrigiert ein Versprechen (im Quran nicht relevant). Im Quran dient die Apposition häufig der Präzisierung und rhetorischen Hervorhebung.",
+          "content": "Die Apposition (البدل / al-badal) ist ein Nomen, das ein vorhergehendes Nomen (das Mubdal minhu / المبدل منه) näher bestimmt, erklärt oder ersetzt. Das entscheidende Merkmal: Die Apposition übernimmt IMMER denselben Kasus wie das Bezugswort. Es gibt vier Haupttypen: (1) Badal Kull min Kull (بدل كل من كل) — Totalapposition: Die Apposition ist identisch mit dem Bezugswort. (2) Badal Baʿḍ min Kull (بدل بعض من كل) — Teilapposition: Die Apposition ist ein Teil des Ganzen. (3) Badal Ištimāl (بدل اشتمال) — Einschlussapposition: Die Apposition ist ein Aspekt oder eine Eigenschaft des Bezugsworts. (4) Badal Ġalaṭ (بدل غلط) — Korrekturapposition: korrigiert ein Versprechen (im Quran nicht relevant). Im Quran dient die Apposition häufig der Präzisierung und emphatischen Hervorhebung.",
           "arabicExamples": [
             {
               "arabic": "اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ · صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ",
@@ -418,7 +418,7 @@
             "Beachte: صِرَاطَ steht im SELBEN Kasus (Akkusativ) wie الصِّرَاطَ — das ist das Kennzeichen der Apposition.",
             "الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ — Relativsatz: 'derer, denen Du Gunst erwiesen hast'",
             "Typ: Badal Kull min Kull — صِرَاطَ الَّذِينَ أَنْعَمْتَ ist identisch mit الصِّرَاطَ الْمُسْتَقِيمَ und präzisiert es: Der gerade Weg IST der Weg derer, denen Gott Gunst erwiesen hat.",
-            "Rhetorischer Effekt: Zuerst wird der Weg allgemein genannt (der gerade Weg), dann wird er genau definiert (der Weg der Begünstigten). Diese Stufung erzeugt Spannung und Klarheit."
+            "Sprachlicher Effekt: Zuerst wird der Weg allgemein genannt (der gerade Weg), dann wird er genau definiert (der Weg der Begünstigten). Diese Stufung erzeugt Spannung und Klarheit."
           ]
         },
         {
@@ -662,7 +662,7 @@
             {
               "location": "3:135",
               "word": "وَمَنْ يَغْفِرُ الذُّنُوبَ إِلَّا اللَّهُ",
-              "analysis": "Verneinter (rhetorische Frage = Verneinung), unvollständiger Satz. اللَّهُ steht im Nominativ als Subjekt: 'Wer vergibt die Verfehlungen außer Gott?'",
+              "analysis": "Verneinter (Frage ohne Antworterwartung = Verneinung), unvollständiger Satz. اللَّهُ steht im Nominativ als Subjekt: 'Wer vergibt die Verfehlungen außer Gott?'",
               "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=135"
             },
             {
@@ -747,8 +747,8 @@
         {
           "type": "sentence_analysis",
           "prompt": "Analysiere die Ausnahme-Konstruktion: وَمَنْ يَغْفِرُ الذُّنُوبَ إِلَّا اللَّهُ (3:135)",
-          "answer": "Rhetorische Frage (= Verneinung). Kein Bezugswort explizit genannt (unvollständig). اللَّهُ steht im Nominativ nach Satzfunktion (Subjekt von يَغْفِرُ). Bedeutung: 'Niemand vergibt die Verfehlungen außer Gott.'",
-          "explanation": "Die rhetorische Frage مَنْ يَغْفِرُ hat die Kraft einer Verneinung: 'Niemand vergibt...' Da kein Bezugswort vor إِلَّا steht, ist der Satz unvollständig. اللَّهُ folgt der Satzfunktion als Subjekt von يَغْفِرُ und steht daher im Nominativ.",
+          "answer": "Sprachliche Frage (= Verneinung). Kein Bezugswort explizit genannt (unvollständig). اللَّهُ steht im Nominativ nach Satzfunktion (Subjekt von يَغْفِرُ). Bedeutung: 'Niemand vergibt die Verfehlungen außer Gott.'",
+          "explanation": "Die Frage ohne Antworterwartung مَنْ يَغْفِرُ hat die Kraft einer Verneinung: 'Niemand vergibt...' Da kein Bezugswort vor إِلَّا steht, ist der Satz unvollständig. اللَّهُ folgt der Satzfunktion als Subjekt von يَغْفِرُ und steht daher im Nominativ.",
           "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=135"
         },
         {
@@ -1192,7 +1192,7 @@
             {
               "location": "39:36",
               "word": "أَلَيْسَ اللَّهُ بِكَافٍ عَبْدَهُ",
-              "analysis": "Rhetorische Frage mit أَ + لَيْسَ (erwartet Ja-Antwort). اللَّهُ = Subjekt (Nominativ). بِكَافٍ = Prädikat mit verstärkendem بِ. Die بِ nach لَيْسَ ist ein Zeichen der Verstärkung.",
+              "analysis": "Sprachliche Frage mit أَ + لَيْسَ (erwartet Ja-Antwort). اللَّهُ = Subjekt (Nominativ). بِكَافٍ = Prädikat mit verstärkendem بِ. Die بِ nach لَيْسَ ist ein Zeichen der Verstärkung.",
               "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=39&verse=36"
             }
           ]

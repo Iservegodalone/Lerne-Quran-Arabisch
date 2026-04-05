@@ -55,7 +55,7 @@
     },
     {
       "id": "istifham_inkari",
-      "name": "Rhetorische Frage (Istifham Inkari)",
+      "name": "Sprachliche Frage (Istifham Inkari)",
       "markers": [
         "أَ + offensichtliche Antwort"
       ],
@@ -151,7 +151,7 @@
       "arabic": "أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَابِ الْفِيلِ",
       "quranRef": "105:1",
       "correctType": "istifham_inkari",
-      "explanation": "أَلَمْ تَرَ — formale Frage, aber die Antwort ist offensichtlich (ja, du hast gesehen/weisst). Rhetorische Frage zur Bekräftigung.",
+      "explanation": "أَلَمْ تَرَ — formale Frage, aber die Antwort ist offensichtlich (ja, du hast gesehen/weisst). Sprachliche Frage zur Bekräftigung.",
       "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=105&verse=1"
     },
     {
@@ -200,7 +200,7 @@
       "arabic": "هَلْ أَتَاكَ حَدِيثُ الْغَاشِيَةِ",
       "quranRef": "88:1",
       "correctType": "istifham_inkari",
-      "explanation": "هَلْ (Fragepartikel) — formal eine Frage, pragmatisch rhetorisch ('Ist dir die Nachricht gekommen?' = 'Höre zu!'). Leitet eine Erzählung ein.",
+      "explanation": "هَلْ (Fragepartikel) — formal eine Frage, pragmatisch emphatisch ('Ist dir die Nachricht gekommen?' = 'Höre zu!'). Leitet eine Erzählung ein.",
       "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=88&verse=1"
     },
     {
@@ -296,7 +296,7 @@
       "arabic": "أَلَيْسَ اللَّهُ بِكَافٍ عَبْدَهُ",
       "quranRef": "39:36",
       "correctType": "istifham_inkari",
-      "explanation": "أَ + لَيْسَ — rhetorische Frage. Die Antwort ist offensichtlich (ja, er genügt). Funktion: Bekräftigung der Aussage.",
+      "explanation": "أَ + لَيْسَ — Frage ohne Antworterwartung. Die Antwort ist offensichtlich (ja, er genügt). Funktion: Bekräftigung der Aussage.",
       "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=39&verse=36"
     },
     {
@@ -304,7 +304,7 @@
       "arabic": "مَنْ ذَا الَّذِي يَشْفَعُ عِندَهُ إِلَّا بِإِذْنِهِ",
       "quranRef": "2:255",
       "correctType": "istifham_inkari",
-      "explanation": "مَنْ (Fragepronomen) — rhetorische Frage. Die Antwort ist: niemand. Funktion: Betonung der Exklusivität.",
+      "explanation": "مَنْ (Fragepronomen) — Frage ohne Antworterwartung. Die Antwort ist: niemand. Funktion: Betonung der Exklusivität.",
       "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=255"
     },
     {
@@ -312,7 +312,7 @@
       "arabic": "أَيْنَ الْمَفَرُّ",
       "quranRef": "75:10",
       "correctType": "istifham_inkari",
-      "explanation": "أَيْنَ (wo?) — rhetorische Frage. Es gibt keinen Zufluchtsort. Funktion: Verdeutlichung der Ausweglosigkeit.",
+      "explanation": "أَيْنَ (wo?) — Frage ohne Antworterwartung. Es gibt keinen Zufluchtsort. Funktion: Verdeutlichung der Ausweglosigkeit.",
       "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=75&verse=10"
     },
     {
@@ -392,7 +392,7 @@
       "arabic": "بَدِيعُ السَّمَاوَاتِ وَالْأَرْضِ أَنَّىٰ يَكُونُ لَهُ وَلَدٌ",
       "quranRef": "6:101",
       "correctType": "istifham_inkari",
-      "explanation": "أَنَّىٰ (wie?) + Imperfekt: syntaktisch eine rhetorische Frage (Istifham inkari), die die Unmoeglichkeit ausdrueckt. 'Wie sollte er einen Sohn haben?!' Die Fragestruktur dient der Zurueckweisung — keine klassische Ta'ajjub-Formel (مَا أَفْعَلَهُ / أَفْعِلْ بِهِ).",
+      "explanation": "أَنَّىٰ (wie?) + Imperfekt: syntaktisch eine Frage ohne Antworterwartung (Istifham inkari), die die Unmoeglichkeit ausdrueckt. 'Wie sollte er einen Sohn haben?!' Die Fragestruktur dient der Zurueckweisung — keine klassische Ta'ajjub-Formel (مَا أَفْعَلَهُ / أَفْعِلْ بِهِ).",
       "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=6&verse=101"
     },
     {

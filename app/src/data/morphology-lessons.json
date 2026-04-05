@@ -6954,8 +6954,8 @@
               [
                 "3. m. Pl.",
                 "يَفْعَلُونَ",
-                "لَيَفْعَلُونَّ",
-                "Modus-Nun fällt weg, Waw bleibt"
+                "لَيَفْعَلُنَّ",
+                "Modus-Nun fällt, Waw fällt vor Emphase-Nun (iltiqāʾ as-sākinayn)"
               ],
               [
                 "2. m. Sg.",
@@ -7057,13 +7057,13 @@
           {
             "options": [
               "Nichts ändert sich",
-              "Modus-Nun fällt weg, Waw bleibt: يَفْعَلُونَّ",
+              "Modus-Nun fällt, Waw fällt: يَفْعَلُنَّ",
               "Das Wort wird länger",
               "Das Waw verdoppelt sich"
             ],
-            "explanation": "Das Modus-Nun fällt weg, das Waw des Plurals bleibt erhalten, und das Bekräftigungs-Nun tritt an: يَفْعَلُونَّ.",
+            "explanation": "Das Modus-Nun fällt, und das Waw des Plurals fällt vor dem Bekräftigungs-Nun wegen des Zusammentreffens zweier ruhender Konsonanten (iltiqāʾ as-sākinayn): يَفْعَلُنَّ. Sībawayhi diskutiert auch eine Variante mit Waw-Erhalt (يَفْعَلُونَّ), die jedoch nicht die Standardform darstellt.",
             "prompt": "Was passiert mit der Endung يَفْعَلُونَ wenn schweres Nun angefuegt wird?",
-            "answer": "Modus-Nun fällt weg, Waw bleibt: يَفْعَلُونَّ",
+            "answer": "Modus-Nun fällt, Waw fällt: يَفْعَلُنَّ",
             "verifyUrl": "https://archive.org/details/WrightsArabicGrammar1Of2/page/n100"
           },
           {

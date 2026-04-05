@@ -480,14 +480,14 @@
     },
     {
       "id": 7,
-      "title": "Rhetorische Struktur (Balagha)",
-      "description": "Die rhetorischen Mittel des Qurans erkennen und verstehen — Balāgha (بَلَاغَة) ist die Wissenschaft der sprachlichen Wirkung.",
+      "title": "Syntaktische Strukturen und Stilmittel",
+      "description": "Strukturelle sprachliche Muster des Qurans erkennen — Wortstellung, Satztypen, Passivkonstruktionen, Ellipsen und weitere syntaktische Phaenomene.",
       "learnContent": {
         "sections": [
           {
             "type": "explanation",
-            "title": "Was ist Balāgha?",
-            "content": "Balāgha (بَلَاغَة) ist die arabische Rhetorik — die Wissenschaft davon, wie Sprache wirkt. In dieser Stufe lernst du acht zentrale rhetorische Mittel, die der Quran durchgehend verwendet. Jedes Mittel hat eine Funktion: Es erzeugt Bedeutung durch sprachliche Struktur."
+            "title": "Strukturelle Sprachanalyse",
+            "content": "In dieser Stufe lernst du acht zentrale sprachliche Strukturen, die der Quran durchgehend verwendet. Jede Struktur hat eine syntaktische oder semantische Funktion: Sie erzeugt Bedeutung durch die beobachtbare Anordnung und Wahl sprachlicher Elemente."
           },
           {
             "type": "explanation",
@@ -578,7 +578,7 @@
           {
             "type": "explanation",
             "title": "5. Perspektivwechsel (Iltifāt / اِلْتِفَات)",
-            "content": "Der Quran wechselt innerhalb eines Abschnitts die grammatische Person: von der dritten Person ('Er') zur zweiten ('Du') oder zur ersten ('Wir'). Dieser Wechsel ist kein Fehler — er ist ein rhetorisches Mittel, das Aufmerksamkeit erzeugt und die Beziehung zwischen Sprecher und Zuhörer verändert.",
+            "content": "Der Quran wechselt innerhalb eines Abschnitts die grammatische Person: von der dritten Person ('Er') zur zweiten ('Du') oder zur ersten ('Wir'). Dieser Wechsel ist kein Fehler — er ist ein sprachliches Mittel, das Aufmerksamkeit erzeugt und die Beziehung zwischen Sprecher und Zuhörer verändert.",
             "arabicExamples": [
               {
                 "arabic": "الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ … إِيَّاكَ نَعْبُدُ",
@@ -593,7 +593,7 @@
           },
           {
             "type": "explanation",
-            "title": "6. Rhetorische Frage (اِسْتِفْهَام)",
+            "title": "6. Sprachliche Frage (اِسْتِفْهَام)",
             "content": "Der Quran stellt häufig Fragen, die keine Antwort erwarten, sondern den Zuhörer zum Nachdenken zwingen, zustimmen lassen oder zurechtweisen.",
             "arabicExamples": [
               {
@@ -609,7 +609,7 @@
                 "transliteration": "hal jazāʾu l-iḥsāni illā l-iḥsān",
                 "ref": "55:60",
                 "meaning": "Ist der Lohn der Güte etwas anderes als Güte?",
-                "analysis": "Die rhetorische Frage drückt eine universelle Wahrheit aus: Natürlich nicht. Sie ist stärker als die Aussage, weil sie den Zuhörer zum Zustimmen bewegt.",
+                "analysis": "Die Frage ohne Antworterwartung drückt eine universelle Wahrheit aus: Natürlich nicht. Sie ist stärker als die Aussage, weil sie den Zuhörer zum Zustimmen bewegt.",
                 "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=55&verse=60"
               }
             ],
@@ -655,7 +655,7 @@
       "exercises": [
         {
           "type": "rhetoric_identify",
-          "prompt": "Lies 12:4-5. Welches rhetorische Mittel verwendet Yusuf's Vater, als er sagt: 'Erzähle deine Vision nicht deinen Brüdern'?",
+          "prompt": "Lies 12:4-5. Welches sprachliche Mittel verwendet Yusuf's Vater, als er sagt: 'Erzähle deine Vision nicht deinen Brüdern'?",
           "hint": "Hadhf (Auslassung): Er nennt nicht explizit, WAS die Brüder tun werden. Er sagt nur: 'Sie könnten dir eine List planen.' Die Vagheit verstärkt die Bedrohung.",
           "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=12&verse=4"
         },
@@ -678,21 +678,21 @@
           "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=5"
         },
         {
-          "type": "rhetoric_analyze",
-          "prompt": "Aufgabe: Analysiere Sure 55 (ar-Raḥmān) rhetorisch. Identifiziere: (1) Den Refrain فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ und seine Funktion — wie oft kommt er vor, was bewirkt die Wiederholung? (2) Welche rhetorischen Mittel aus dieser Lektion findest du — Taqdīm, Iltifāt, rhetorische Frage, Gleichnis? (3) Wie ist die Sure strukturiert — gibt es eine Ringkomposition oder einen thematischen Aufbau (Schöpfung → Vergänglichkeit → Garten (جَنَّة — wörtl. Garten, konventionell 'Paradies'))? (4) An wen richtet sich der Dual (كُمَا) — und was bedeutet der Wechsel der Adressaten?",
-          "hint": "Der Refrain erscheint 31 Mal. Er ist eine rhetorische Frage die nach jeder Aufzählung wiederholt wird. Die Sure folgt einem Aufbau: Aufzählungen (1-30), Vergänglichkeit und Konsequenzen (31-45), Beschreibung zweier Gärten (46-78). Der Dual (كُمَا) richtet sich laut Vers 33 an Menschen und Jinn.",
+          "type": "structure_analyze",
+          "prompt": "Aufgabe: Analysiere Sure 55 (ar-Raḥmān) strukturell. Identifiziere: (1) Den Refrain فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ und seine Funktion — wie oft kommt er vor, was bewirkt die Wiederholung? (2) Welche sprachlichen Mittel aus dieser Lektion findest du — Taqdīm, Iltifāt, Frage ohne Antworterwartung, Gleichnis? (3) Wie ist die Sure strukturiert — gibt es eine Ringkomposition oder einen thematischen Aufbau (Schöpfung → Vergänglichkeit → Garten (جَنَّة — wörtl. Garten, konventionell 'Paradies'))? (4) An wen richtet sich der Dual (كُمَا) — und was bedeutet der Wechsel der Adressaten?",
+          "hint": "Der Refrain erscheint 31 Mal. Er ist eine Frage ohne Antworterwartung die nach jeder Aufzählung wiederholt wird. Die Sure folgt einem Aufbau: Aufzählungen (1-30), Vergänglichkeit und Konsequenzen (31-45), Beschreibung zweier Gärten (46-78). Der Dual (كُمَا) richtet sich laut Vers 33 an Menschen und Jinn.",
           "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=55&verse=1"
         },
         {
           "type": "analysis",
-          "prompt": "In 2:258 argumentiert Ibrahim mit dem König. Ibrahim sagt: ربى الذى يحيى ويميت (Mein Herr ist es, der lebendig macht und sterben lässt). Der König behauptet, auch er koenne das. Dann sagt Ibrahim: فان الله ياتى بالشمس من المشرق فات بها من المغرب (Gott bringt die Sonne vom Osten — bringe du sie vom Westen). Analysiere die rhetorische Strategie: Warum wechselt Ibrahim das Argument?",
+          "prompt": "In 2:258 argumentiert Ibrahim mit dem König. Ibrahim sagt: ربى الذى يحيى ويميت (Mein Herr ist es, der lebendig macht und sterben lässt). Der König behauptet, auch er koenne das. Dann sagt Ibrahim: فان الله ياتى بالشمس من المشرق فات بها من المغرب (Gott bringt die Sonne vom Osten — bringe du sie vom Westen). Analysiere die sprachliche Strategie: Warum wechselt Ibrahim das Argument?",
           "hint": "Ibrahim steigert sein Argument: Vom Abstrakten (Leben und Tod — interpretierbar) zum Konkreten (die Sonne — nicht interpretierbar). Der König konnte das erste Argument umdeuten (er 'toetete' und 'begnadigte'), aber das zweite lässt keinen Spielraum. Rhetorisch ist das eine Klimax — die Argumentation wird unwiderlegbar.",
           "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=258"
         },
         {
           "type": "identification",
-          "prompt": "Lies 67:3-4 (الذى خلق سبع سموت طباقا ما ترى فى خلق الرحمن من تفوت فارجع البصر هل ترى من فطور ثم ارجع البصر كرتين ينقلب اليك البصر خاسا وهو حسير). Identifiziere alle rhetorischen Mittel: Welche Kombination von Befehl (امر), rhetorischer Frage (استفهام) und Gleichnis findest du?",
-          "hint": "Vers 3: Rhetorische Frage (ما ترى ... من تفوت — siehst du irgendeine Unstimmigkeit?). Dann: Befehl (فارجع البصر — schaue nochmals hin!). Nochmals rhetorische Frage (هل ترى من فطور — siehst du Risse?). Vers 4: Erneuter Befehl (ارجع البصر كرتين — schaue zweimal hin!). Dann das Ergebnis: Der Blick kommt geschlagen und erschöpft zurück. Die Wiederholung des Befehls verstärkt die Gewissheit, dass nichts Fehlerhaftes gefunden wird.",
+          "prompt": "Lies 67:3-4 (الذى خلق سبع سموت طباقا ما ترى فى خلق الرحمن من تفوت فارجع البصر هل ترى من فطور ثم ارجع البصر كرتين ينقلب اليك البصر خاسا وهو حسير). Identifiziere alle sprachlichen Mittel: Welche Kombination von Befehl (امر), Frage ohne Antworterwartung (استفهام) und Gleichnis findest du?",
+          "hint": "Vers 3: Sprachliche Frage (ما ترى ... من تفوت — siehst du irgendeine Unstimmigkeit?). Dann: Befehl (فارجع البصر — schaue nochmals hin!). Nochmals Frage ohne Antworterwartung (هل ترى من فطور — siehst du Risse?). Vers 4: Erneuter Befehl (ارجع البصر كرتين — schaue zweimal hin!). Dann das Ergebnis: Der Blick kommt geschlagen und erschöpft zurück. Die Wiederholung des Befehls verstärkt die Gewissheit, dass nichts Fehlerhaftes gefunden wird.",
           "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=67&verse=3"
         },
         {
@@ -706,7 +706,7 @@
         "exercises": [
           {
             "type": "multiple_choice",
-            "question": "Welches rhetorische Mittel wird in إِيَّاكَ نَعْبُدُ (1:5) verwendet, wo das Objekt VOR das Verb gestellt wird?",
+            "question": "Welches sprachliche Mittel wird in إِيَّاكَ نَعْبُدُ (1:5) verwendet, wo das Objekt VOR das Verb gestellt wird?",
             "options": [
               "Iltifāt (Perspektivwechsel)",
               "Ḥadhf (Auslassung)",
@@ -730,12 +730,12 @@
           },
           {
             "type": "matching",
-            "question": "Ordne das rhetorische Mittel dem korrekten Beispiel zu: In Sure 1 wechselt der Text von 'Lob sei Gott' (3. Person) zu 'Dir dienen wir' (2. Person). Welches Mittel ist das?",
+            "question": "Ordne das sprachliche Mittel dem korrekten Beispiel zu: In Sure 1 wechselt der Text von 'Lob sei Gott' (3. Person) zu 'Dir dienen wir' (2. Person). Welches Mittel ist das?",
             "options": [
               "Iltifāt (Perspektivwechsel) — Übergang vom Reden über Gott zum Reden mit Gott",
               "Ḥadhf (Auslassung) — ein Satzteil wird weggelassen",
               "Taqdīm (Voranstellung) — ein Satzteil wird nach vorn gestellt",
-              "Istifhām (Rhetorische Frage) — eine Frage ohne erwartete Antwort"
+              "Istifhām (Sprachliche Frage) — eine Frage ohne erwartete Antwort"
             ],
             "correct": 0,
             "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=2"
@@ -766,7 +766,7 @@
           },
           {
             "type": "multiple_choice",
-            "question": "Was ist Ḥadhf (Auslassung) als rhetorisches Mittel im Quran?",
+            "question": "Was ist Ḥadhf (Auslassung) als sprachliches Mittel im Quran?",
             "options": [
               "Ein Schreibfehler, bei dem ein Wort vergessen wurde",
               "Das Weglassen eines Satzteils, um Bedeutung zu öffnen oder zu verallgemeinern",
@@ -778,7 +778,7 @@
           },
           {
             "type": "multiple_choice",
-            "question": "In 2:17 steht مَثَلُهُمْ كَمَثَ��ِ الَّذِي اسْتَوْقَدَ نَارًا (Ihr Gleichnis ist wie einer, der ein Feuer entzündete). Welches rhetorische Mittel wird hier verwendet?",
+            "question": "In 2:17 steht مَثَلُهُمْ كَمَثَ��ِ الَّذِي اسْتَوْقَدَ نَارًا (Ihr Gleichnis ist wie einer, der ein Feuer entzündete). Welches sprachliche Mittel wird hier verwendet?",
             "options": [
               "Taqdīm (Voranstellung)",
               "Iltifāt (Perspektivwechsel)",
@@ -793,7 +793,7 @@
             "question": "Was ist Iltifāt (Perspektivwechsel) im Quran?",
             "options": [
               "Der Wechsel zwischen Arabisch und anderen Sprachen",
-              "Der Wechsel zwischen 1., 2. und 3. Person innerhalb eines Abschnitts — jeder Wechsel hat rhetorische Funktion",
+              "Der Wechsel zwischen 1., 2. und 3. Person innerhalb eines Abschnitts — jeder Wechsel hat syntaktische Funktion",
               "Der Wechsel zwischen langen und kurzen Versen",
               "Der Wechsel zwischen Nominalsätzen und Verbalsätzen"
             ],
@@ -801,7 +801,7 @@
             "verifyUrl": "https://archive.org/details/WrightsArabicGrammar/page/n87"
           },
           {
-            "question": "In 93:3 steht ما ودعك ربك وما قلى — im zweiten Teil fehlt das Pronomen 'dich' (قلاك). Welches rhetorische Mittel ist das und welche Funktion hat es?",
+            "question": "In 93:3 steht ما ودعك ربك وما قلى — im zweiten Teil fehlt das Pronomen 'dich' (قلاك). Welches sprachliche Mittel ist das und welche Funktion hat es?",
             "options": [
               "Hadhf (Auslassung) — das fehlende Pronomen mildert die stilistische Direktheit der Aussage",
               "Iltifat (Perspektivwechsel) — der Text wechselt die Person",
@@ -813,7 +813,7 @@
             "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=93&verse=3"
           },
           {
-            "question": "In 2:258 wechselt Ibrahim sein Argument vom Abstrakten (Leben und Tod) zum Konkreten (Sonne aus dem Osten). Welche rhetorische Strategie ist das?",
+            "question": "In 2:258 wechselt Ibrahim sein Argument vom Abstrakten (Leben und Tod) zum Konkreten (Sonne aus dem Osten). Welche sprachliche Strategie ist das?",
             "options": [
               "Klimax — die Argumentation steigert sich vom Interpretierbaren zum Unwiderlegbaren",
               "Hadhf — ein Teil des Arguments wird ausgelassen",
@@ -826,10 +826,10 @@
           },
           {
             "type": "multiple_choice",
-            "question": "In 94:1 steht أَلَمْ نَشْرَحْ لَكَ صَدْرَكَ (Haben Wir dir nicht deine Brust geweitet?). Welches rhetorische Mittel liegt vor?",
+            "question": "In 94:1 steht أَلَمْ نَشْرَحْ لَكَ صَدْرَكَ (Haben Wir dir nicht deine Brust geweitet?). Welches sprachliche Mittel liegt vor?",
             "options": [
               "Mathal (Gleichnis)",
-              "Rhetorische Frage — die Frage IST die Aussage, eine bejahende Antwort wird vorausgesetzt",
+              "Sprachliche Frage — die Frage IST die Aussage, eine bejahende Antwort wird vorausgesetzt",
               "Taqdīm (Voranstellung)",
               "Ḥadhf (Auslassung)"
             ],
@@ -993,7 +993,7 @@
         {
           "type": "analysis",
           "prompt": "In 2:255 steht: من ذا الذى يشفع عنده الا باذنه (Wer ist es, der bei Ihm Fuersprache einlegt ausser mit Seiner Erlaubnis?). Analysiere die Partikel الا (ausser/es sei denn). Welche Funktion hat sie hier — schließt sie die Fuersprache aus oder lässt sie sie unter einer Bedingung zu?",
-          "hint": "الا (ausser) ist hier eine Ausnahmepartikel: Die rhetorische Frage verneint zunächst jede Fuersprache (من ذا الذى يشفع = wer könnte ...), dann öffnet الا eine einzige Ausnahme: باذنه (mit Seiner Erlaubnis). Die Partikel erzeugt ein doppeltes Signal: Fuersprache ist grundsätzlich unmöglich AUSSER Gott erlaubt sie.",
+          "hint": "الا (ausser) ist hier eine Ausnahmepartikel: Die Frage ohne Antworterwartung verneint zunächst jede Fuersprache (من ذا الذى يشفع = wer könnte ...), dann öffnet الا eine einzige Ausnahme: باذنه (mit Seiner Erlaubnis). Die Partikel erzeugt ein doppeltes Signal: Fuersprache ist grundsätzlich unmöglich AUSSER Gott erlaubt sie.",
           "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=255"
         },
         {
@@ -1274,7 +1274,7 @@
               "Die Wiederholung von دَكًّا دَكًّا mit dem harten ك ahmt das wiederholte Stampfen/Zermalmen klanglich nach",
               "Die Wiederholung dient nur der poetischen Ausschmückung",
               "Es handelt sich um einen Kopistenfehler",
-              "Die Wiederholung signalisiert eine rhetorische Frage"
+              "Die Wiederholung signalisiert eine Frage ohne Antworterwartung"
             ],
             "correct": 0,
             "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=89&verse=21"
@@ -1378,7 +1378,7 @@
           {
             "type": "explanation",
             "title": "Rhythmuswechsel als Bedeutungsträger",
-            "content": "Der Quran wechselt zwischen kurzen, schnellen Versen (wie in Sure 101, 111, 114) und langen, ausgedehnten Versen (wie in Sure 2, 3, 4). Kurze Verse erzeugen Dringlichkeit — sie kommen in Warnungen und eschatologischen Passagen vor. Lange Verse erzeugen Ausführlichkeit — sie kommen in Rechtstexten und Erzählungen vor. Der Rhythmuswechsel ist ein beschreibbares Muster mit rhetorischer Wirkung."
+            "content": "Der Quran wechselt zwischen kurzen, schnellen Versen (wie in Sure 101, 111, 114) und langen, ausgedehnten Versen (wie in Sure 2, 3, 4). Kurze Verse erzeugen Dringlichkeit — sie kommen in Warnungen und eschatologischen Passagen vor. Lange Verse erzeugen Ausführlichkeit — sie kommen in Rechtstexten und Erzählungen vor. Der Rhythmuswechsel ist ein beschreibbares Muster mit sprachlicher Wirkung."
           },
           {
             "type": "explanation",
@@ -1481,7 +1481,7 @@
             "type": "matching",
             "question": "Warum verwendet der Quran kurze, schnelle Verse in eschatologischen Passagen (z.B. Sure 101) und lange Verse in Rechtstexten (z.B. Sure 2)?",
             "options": [
-              "Kurze Verse erzeugen Dringlichkeit und Schock, lange Verse erzeugen Ausführlichkeit — der Rhythmuswechsel ist rhetorische Strategie",
+              "Kurze Verse erzeugen Dringlichkeit und Schock, lange Verse erzeugen Ausführlichkeit — der Rhythmuswechsel ist sprachliche Strategie",
               "Es ist Zufall, der mit dem Offenbarungszeitpunkt zusammenhängt",
               "Kurze Verse waren leichter zu merken für die frühen Muslime",
               "Lange Verse enthalten mehr Informationen und kurze weniger"
@@ -1584,7 +1584,7 @@
                 "arabic": "أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَابِ الْفِيلِ",
                 "transliteration": "a-lam tara kayfa faʿala rabbuka bi-aṣḥābi l-fīl",
                 "ref": "105:1",
-                "analysis": "Sprechakt: Rhetorische Frage. Der Vers FRAGT, aber erwartet keine Antwort — er lenkt Aufmerksamkeit und erzeugt Nachdenken. Die Frage TUT: Sie aktiviert die Erinnerung des Zuhörers.",
+                "analysis": "Sprechakt: Sprachliche Frage. Der Vers FRAGT, aber erwartet keine Antwort — er lenkt Aufmerksamkeit und erzeugt Nachdenken. Die Frage TUT: Sie aktiviert die Erinnerung des Zuhörers.",
                 "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=105&verse=1"
               }
             ],
@@ -1629,7 +1629,7 @@
                 "arabic": "أَمْ خُلِقُوا مِنْ غَيْرِ شَيْءٍ أَمْ هُمُ الْخَالِقُونَ ∙ أَمْ خَلَقُوا السَّمَاوَاتِ وَالْأَرْضَ بَل لَّا يُوقِنُونَ",
                 "transliteration": "am khuliqū min ghayri shayʾin am humu l-khāliqūn · am khalaqū s-samāwāti wa-l-arḍa bal lā yūqinūn",
                 "ref": "52:35-36",
-                "analysis": "Sprechakt: Argumentation. Der Vers ARGUMENTIERT durch eine Kette rhetorischer Fragen: Wurden sie aus dem Nichts geschaffen? Oder sind sie selbst die Schöpfer? Jede Frage schließt eine Möglichkeit aus — bis nur eine übrig bleibt: Gott hat sie geschaffen.",
+                "analysis": "Sprechakt: Argumentation. Der Vers ARGUMENTIERT durch eine Kette Frage ohne Antworterwartungn: Wurden sie aus dem Nichts geschaffen? Oder sind sie selbst die Schöpfer? Jede Frage schließt eine Möglichkeit aus — bis nur eine übrig bleibt: Gott hat sie geschaffen.",
                 "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=52&verse=35"
               }
             ],
@@ -1685,13 +1685,13 @@
         {
           "type": "analysis",
           "prompt": "Lies 67:1-5. Identifiziere den Sprechakt jedes Verses: (1) تبرك الذى بيده الملك (Segensreich ist der, in dessen Hand die Herrschaft liegt), (2) الذى خلق الموت والحيوه ليبلوكم (der Tod und Leben erschuf, um euch zu prüfen), (3-4) الذى خلق سبع سموت طباقا ... فارجع البصر هل ترى من فطور (der sieben Himmel schuf ... schau nochmals hin, siehst du Risse?). Wie bauen die Sprechakte aufeinander auf?",
-          "hint": "Vers 1: Lobpreis/Feststellung (Deklaration). Vers 2: Information mit verborgenem Versprechen/Warnung (die Prüfung hat ein Ziel). Verse 3-4: Argumentation durch Befehl und rhetorische Frage — der Zuhörer wird aufgefordert, selbst die Makellosigkeit der Schöpfung zu ueberpruefen. Der Aufbau: Lob → Begründung → Beweis durch eigene Beobachtung.",
+          "hint": "Vers 1: Lobpreis/Feststellung (Deklaration). Vers 2: Information mit verborgenem Versprechen/Warnung (die Prüfung hat ein Ziel). Verse 3-4: Argumentation durch Befehl und Frage ohne Antworterwartung — der Zuhörer wird aufgefordert, selbst die Makellosigkeit der Schöpfung zu ueberpruefen. Der Aufbau: Lob → Begründung → Beweis durch eigene Beobachtung.",
           "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=67&verse=1"
         },
         {
           "type": "identification",
           "prompt": "In 2:255 stehen mindestens vier verschiedene Sprechakte in einem Vers. Identifiziere sie: الله لا اله الا هو الحى القيوم ... من ذا الذى يشفع عنده الا باذنه ... ولا يحيطون بشى من علمه الا بما شا ... ولا يوده حفظهما وهو العلى العظيم.",
-          "hint": "1) Feststellung/Deklaration: الله لا اله الا هو (Es gibt keinen Gott ausser Ihm). 2) Argumentation durch rhetorische Frage: من ذا الذى يشفع عنده (Wer könnte bei Ihm Fuersprache einlegen?). 3) Information: يعلم ما بين ايديهم وما خلفهم (Er weiss, was vor ihnen und hinter ihnen ist). 4) Abschlussdeklaration: وهو العلى العظيم (Er ist der Erhabene, der Gewaltige). Der Vers baut eine Argumentation auf: Einheit Gottes → Macht Gottes → Wissen Gottes → zusammenfassende Erhebung.",
+          "hint": "1) Feststellung/Deklaration: الله لا اله الا هو (Es gibt keinen Gott ausser Ihm). 2) Argumentation durch Frage ohne Antworterwartung: من ذا الذى يشفع عنده (Wer könnte bei Ihm Fuersprache einlegen?). 3) Information: يعلم ما بين ايديهم وما خلفهم (Er weiss, was vor ihnen und hinter ihnen ist). 4) Abschlussdeklaration: وهو العلى العظيم (Er ist der Erhabene, der Gewaltige). Der Vers baut eine Argumentation auf: Einheit Gottes → Macht Gottes → Wissen Gottes → zusammenfassende Erhebung.",
           "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=255"
         },
         {
@@ -1731,7 +1731,7 @@
             "type": "matching",
             "question": "In 52:35-36 fragt der Quran: 'Wurden sie aus dem Nichts geschaffen? Oder sind sie selbst die Schöpfer?' — Welcher Sprechakt ist das?",
             "options": [
-              "Argumentation (اِحْتِجَاج) — durch rhetorische Fragen werden Möglichkeiten ausgeschlossen, bis nur eine übrig bleibt",
+              "Argumentation (اِحْتِجَاج) — durch Frage ohne Antworterwartungn werden Möglichkeiten ausgeschlossen, bis nur eine übrig bleibt",
               "Informieren (إِخْبَار) — der Quran teilt eine Tatsache mit",
               "Erzählen (قَصَص) — der Quran berichtet ein historisches Ereignis",
               "Warnen (إِنْذَار) — der Quran droht mit Strafe"
@@ -1827,12 +1827,12 @@
             "question": "In 67:3-4 fordert der Quran den Zuhörer auf: فارجع البصر هل ترى من فطور (Schaue nochmals hin — siehst du Risse?). Welche Kombination von Sprechakten liegt hier vor?",
             "options": [
               "Nur ein Befehl — der Zuhörer soll hinsehen",
-              "Befehl (فارجع البصر — Schau hin!) kombiniert mit rhetorischer Frage (هل ترى من فطور — siehst du Risse?) als Argumentation — der Zuhörer soll durch eigene Beobachtung zur Erkenntnis kommen",
-              "Nur eine rhetorische Frage — die Antwort ist vorgegeben",
+              "Befehl (فارجع البصر — Schau hin!) kombiniert mit Frage ohne Antworterwartung (هل ترى من فطور — siehst du Risse?) als Argumentation — der Zuhörer soll durch eigene Beobachtung zur Erkenntnis kommen",
+              "Nur eine Frage ohne Antworterwartung — die Antwort ist vorgegeben",
               "Nur eine Warnung — der Zuhörer wird bedroht"
             ],
             "correct": 1,
-            "explanation": "Der Vers kombiniert zwei Sprechakte: Der Befehl (Schau hin!) aktiviert den Zuhörer, die rhetorische Frage (Siehst du Risse?) führt ihn zur eigenen Beobachtung. Die beiden Sprechakte zusammen bilden eine rhetorische Struktur: Aufforderung zur Beobachtung gefolgt von einer Frage die den Zuhörer zum eigenen Urteil zwingt.",
+            "explanation": "Der Vers kombiniert zwei Sprechakte: Der Befehl (Schau hin!) aktiviert den Zuhörer, die Frage ohne Antworterwartung (Siehst du Risse?) führt ihn zur eigenen Beobachtung. Die beiden Sprechakte zusammen bilden eine sprachliche Struktur: Aufforderung zur Beobachtung gefolgt von einer Frage die den Zuhörer zum eigenen Urteil zwingt.",
             "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=67&verse=3"
           },
           {
@@ -1870,7 +1870,7 @@
           {
             "type": "explanation",
             "title": "Wie die Stufen zusammenfließen",
-            "content": "Stufe 1 (Alphabet): Du liest die Schrift flüssig. Stufe 2 (Morphologie): Du erkennst Wurzeln und Muster sofort. Stufe 3 (Syntax): Du verstehst die Satzstruktur intuitiv. Stufe 4 (Vokabular): Du kennst die 300 häufigsten Wörter auswendig. Stufe 5 (Semantische Felder): Du kennst das volle Bedeutungsfeld der Wurzeln. Stufe 6 (Intertextualität): Du erkennst Querbezüge zwischen Versen. Stufe 7 (Rhetorik): Du erkennst Taqdīm, Iltifāt, Hadhf und ihre Funktion. Stufe 8 (Partikeln): Du spürst den Unterschied zwischen فِي und بِ. Stufe 9 (Phonosemantik): Du hörst die Bedeutung im Klang. Stufe 10 (Prosodie): Du fühlst den Rhythmus als Bedeutungsträger. Stufe 11 (Sprechakte): Du erkennst, was der Vers TUT. All das zusammen IST direktes Verstehen."
+            "content": "Stufe 1 (Alphabet): Du liest die Schrift flüssig. Stufe 2 (Morphologie): Du erkennst Wurzeln und Muster sofort. Stufe 3 (Syntax): Du verstehst die Satzstruktur intuitiv. Stufe 4 (Vokabular): Du kennst die 300 häufigsten Wörter auswendig. Stufe 5 (Semantische Felder): Du kennst das volle Bedeutungsfeld der Wurzeln. Stufe 6 (Intertextualität): Du erkennst Querbezüge zwischen Versen. Stufe 7 (Satzbau): Du erkennst Taqdīm, Iltifāt, Hadhf und ihre Funktion. Stufe 8 (Partikeln): Du spürst den Unterschied zwischen فِي und بِ. Stufe 9 (Phonosemantik): Du hörst die Bedeutung im Klang. Stufe 10 (Prosodie): Du fühlst den Rhythmus als Bedeutungsträger. Stufe 11 (Sprechakte): Du erkennst, was der Vers TUT. All das zusammen IST direktes Verstehen."
           },
           {
             "type": "explanation",
@@ -1895,7 +1895,7 @@
           {
             "type": "explanation",
             "title": "Empfohlene Reihenfolge zum Auswendiglernen",
-            "content": "1. Sure 1 — 7 Verse. Die Eröffnungssure. Kurz, fundamental. Beginne hier. Lerne sie vom konsonantischen Text, ohne Vokalzeichen. Du wirst feststellen: Wenn du die Morphologie beherrschst, weißt du bei jedem Wort WARUM es so vokalisiert wird — du reproduzierst nicht nur, du verstehst die Struktur. 2. Vers 2:255 — Ein einzelner, langer, syntaktisch anspruchsvoller Vers. Grammatisch anspruchsvoll: Nominalsätze, Relativsätze, rhetorische Frage, Negation. Wer diesen Vers Wort für Wort vom Konsonantentext aus beherrscht, hat eine Musteranalyse für komplexe quranische Syntax internalisiert. 3. Sure 36 — 83 Verse. Verschiedene Sprechakte, wechselnde Themen, rhythmisch einprägsam. Das Auswendiglernen einer ganzen Sure dieser Länge vom Konsonantentext aus ist ein Meilenstein.",
+            "content": "1. Sure 1 — 7 Verse. Die Eröffnungssure. Kurz, fundamental. Beginne hier. Lerne sie vom konsonantischen Text, ohne Vokalzeichen. Du wirst feststellen: Wenn du die Morphologie beherrschst, weißt du bei jedem Wort WARUM es so vokalisiert wird — du reproduzierst nicht nur, du verstehst die Struktur. 2. Vers 2:255 — Ein einzelner, langer, syntaktisch anspruchsvoller Vers. Grammatisch anspruchsvoll: Nominalsätze, Relativsätze, Frage ohne Antworterwartung, Negation. Wer diesen Vers Wort für Wort vom Konsonantentext aus beherrscht, hat eine Musteranalyse für komplexe quranische Syntax internalisiert. 3. Sure 36 — 83 Verse. Verschiedene Sprechakte, wechselnde Themen, rhythmisch einprägsam. Das Auswendiglernen einer ganzen Sure dieser Länge vom Konsonantentext aus ist ein Meilenstein.",
             "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=255"
           },
           {
@@ -1965,7 +1965,7 @@
               {
                 "ref": "36:82",
                 "arabic": "انما امره اذا اراد شيا ان يقول له كن فيكون",
-                "explanation": "Einer der mächtigsten Verse des Qurans. Direktes Verstehen erfasst hier alle Ebenen gleichzeitig: (1) Morphologie: كن ist Imperativ von كان — zwei Buchstaben, die das Sein befehlen. (2) Syntax: Die إنما-Konstruktion beschränkt — Sein Befehl ist NUR dies. (3) Rhetorik: Die Kürze von كن steht im Kontrast zur Unendlichkeit dessen, was entsteht (فيكون). (4) Phonosemantik: Der Klang كن ist abrupt, sofortig — wie die Schöpfung selbst. (5) Sprechakt: Der Vers DEMONSTRIERT Gottes Macht, indem er sie auf ihre einfachste Form reduziert.",
+                "explanation": "Einer der mächtigsten Verse des Qurans. Direktes Verstehen erfasst hier alle Ebenen gleichzeitig: (1) Morphologie: كن ist Imperativ von كان — zwei Buchstaben, die das Sein befehlen. (2) Syntax: Die إنما-Konstruktion beschränkt — Sein Befehl ist NUR dies. (3) Satzbau: Die Kürze von كن steht im Kontrast zur Unendlichkeit dessen, was entsteht (فيكون). (4) Phonosemantik: Der Klang كن ist abrupt, sofortig — wie die Schöpfung selbst. (5) Sprechakt: Der Vers DEMONSTRIERT Gottes Macht, indem er sie auf ihre einfachste Form reduziert.",
                 "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=36&verse=82"
               },
               {
@@ -2005,8 +2005,8 @@
         },
         {
           "type": "direct_reading",
-          "prompt": "Lies 2:255 und notiere alle Ebenen, die du wahrnimmst: Worte, Syntax, Rhetorik, Klang, Sprechakt.",
-          "hint": "Wortebene: اللَّهُ لَا إِلَٰهَ إِلَّا هُوَ. Syntaxebene: Nominalsätze = tempusneutrale Zustandsaussagen. Rhetorik: Voranstellung, rhetorische Frage (مَن ذَا الَّذِي يَشْفَعُ). Klang: Majestätischer, langer Rhythmus. Sprechakt: Information + Argumentation.",
+          "prompt": "Lies 2:255 und notiere alle Ebenen, die du wahrnimmst: Worte, Syntax, Satzbau, Klang, Sprechakt.",
+          "hint": "Wortebene: اللَّهُ لَا إِلَٰهَ إِلَّا هُوَ. Syntaxebene: Nominalsätze = tempusneutrale Zustandsaussagen. Satzbau: Voranstellung, Frage ohne Antworterwartung (مَن ذَا الَّذِي يَشْفَعُ). Klang: Majestätischer, langer Rhythmus. Sprechakt: Information + Argumentation.",
           "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=255"
         },
         {
@@ -2021,14 +2021,14 @@
         },
         {
           "type": "memorization",
-          "prompt": "Lerne 2:255 vom Konsonantentext auswendig. Analysiere dabei jeden Satzteil: Welcher Satztyp? Welche Wurzeln? Welche rhetorischen Mittel?",
-          "hint": "2:255 enthält: Nominalsätze (الله لا اله الا هو الحي القيوم), Negationen (لا تاخذه سنة ولا نوم), rhetorische Frage (من ذا الذي يشفع عنده الا باذنه), Relativsätze und Voranstellung. Das Auswendiglernen dieses Verses ist gleichzeitig eine Musteranalyse in quranischer Syntax.",
+          "prompt": "Lerne 2:255 vom Konsonantentext auswendig. Analysiere dabei jeden Satzteil: Welcher Satztyp? Welche Wurzeln? Welche sprachlichen Mittel?",
+          "hint": "2:255 enthält: Nominalsätze (الله لا اله الا هو الحي القيوم), Negationen (لا تاخذه سنة ولا نوم), Frage ohne Antworterwartung (من ذا الذي يشفع عنده الا باذنه), Relativsätze und Voranstellung. Das Auswendiglernen dieses Verses ist gleichzeitig eine Musteranalyse in quranischer Syntax.",
           "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=255"
         },
         {
           "type": "direct_reading",
-          "prompt": "Lies 36:77-83 im Konsonantentext (اولم ير الانسن انا خلقنه من نطفه فاذا هو خصيم مبين ... انما امره اذا اراد شيا ان يقول له كن فيكون). Versuche, die gesamte Passage direkt zu verstehen — ohne innere Übersetzung. Notiere, welche Wörter du direkt erfasst und wo du noch stockst. Analysiere dann die Passage auf allen Ebenen: Wurzeln, Syntax, Rhetorik, Klang, Sprechakte.",
-          "hint": "Diese Passage ist ein Höhepunkt des Qurans: Sie beginnt mit einer rhetorischen Frage (Argumentation), führt durch ein Gleichnis (der Mensch vergisst seinen eigenen Ursprung), steigert sich zu einer Klimax (der, der die Knochen belebt, ist der, der sie beim ersten Mal erschuf) und schließt mit dem mächtigsten Vers: كن فيكون. Direktes Verstehen erfasst alle Ebenen gleichzeitig.",
+          "prompt": "Lies 36:77-83 im Konsonantentext (اولم ير الانسن انا خلقنه من نطفه فاذا هو خصيم مبين ... انما امره اذا اراد شيا ان يقول له كن فيكون). Versuche, die gesamte Passage direkt zu verstehen — ohne innere Übersetzung. Notiere, welche Wörter du direkt erfasst und wo du noch stockst. Analysiere dann die Passage auf allen Ebenen: Wurzeln, Syntax, Satzbau, Klang, Sprechakte.",
+          "hint": "Diese Passage ist ein Höhepunkt des Qurans: Sie beginnt mit einer Frage ohne Antworterwartung (Argumentation), führt durch ein Gleichnis (der Mensch vergisst seinen eigenen Ursprung), steigert sich zu einer Klimax (der, der die Knochen belebt, ist der, der sie beim ersten Mal erschuf) und schließt mit dem mächtigsten Vers: كن فيكون. Direktes Verstehen erfasst alle Ebenen gleichzeitig.",
           "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=36&verse=77"
         },
         {
@@ -2134,7 +2134,7 @@
             "question": "In 36:82 steht كن فيكون. Welche Ebenen erfasst direktes Verstehen gleichzeitig?",
             "options": [
               "Nur die wörtliche Bedeutung: 'Sei! Und es ist.'",
-              "Morphologie (Imperativ von كان), Syntax (إنما-Beschränkung), Rhetorik (Kürze vs. Unendlichkeit), Phonosemantik (abrupter Klang) und Sprechakt (Demonstration von Macht) — alle Ebenen gleichzeitig",
+              "Morphologie (Imperativ von كان), Syntax (إنما-Beschränkung), Satzbau (Kürze vs. Unendlichkeit), Phonosemantik (abrupter Klang) und Sprechakt (Demonstration von Macht) — alle Ebenen gleichzeitig",
               "Nur Grammatik und Wortbedeutung",
               "Nur den Klang und Rhythmus des Verses"
             ],
@@ -2157,12 +2157,12 @@
             "question": "In 36:77-83 führt der Quran vom Ursprung des Menschen (نطفه — Samentropfen) über die Argumentation (من يحيى العظم وهى رميم — wer belebt die Knochen, wenn sie vermodert sind?) bis zu كن فيكون (Sei! Und es ist). Was erfasst direktes Verstehen an dieser Passage, das eine Übersetzung nicht wiedergibt?",
             "options": [
               "Nur die wörtliche Bedeutung der einzelnen Wörter",
-              "Die rhetorische Klimax (Steigerung von der rhetorischen Frage zum unwiderlegbaren Argument), die phonosemantische Kraft von كن (zwei Buchstaben, die das Sein befehlen), und die syntaktische Reduktion (der gesamte Schöpfungsakt auf zwei Silben verdichtet) — alles gleichzeitig",
+              "Die sprachliche Klimax (Steigerung von der Frage ohne Antworterwartung zum unwiderlegbaren Argument), die phonosemantische Kraft von كن (zwei Buchstaben, die das Sein befehlen), und die syntaktische Reduktion (der gesamte Schöpfungsakt auf zwei Silben verdichtet) — alles gleichzeitig",
               "Nur die grammatischen Strukturen",
               "Nur die Reimstruktur der Passage"
             ],
             "correct": 1,
-            "explanation": "Direktes Verstehen erfasst alle Ebenen gleichzeitig: Die rhetorische Steigerung (von der Frage zur Antwort), die morphologische Reduktion (كن = nur zwei Buchstaben für den gesamten Schöpfungsbefehl), den phonosemantischen Kontrast (die Kürze von كن vs. die Unendlichkeit von فيكون), und den Sprechakt (Demonstration absoluter Macht). Keine Übersetzung kann diese Gleichzeitigkeit transportieren.",
+            "explanation": "Direktes Verstehen erfasst alle Ebenen gleichzeitig: Die sprachliche Steigerung (von der Frage zur Antwort), die morphologische Reduktion (كن = nur zwei Buchstaben für den gesamten Schöpfungsbefehl), den phonosemantischen Kontrast (die Kürze von كن vs. die Unendlichkeit von فيكون), und den Sprechakt (Demonstration absoluter Macht). Keine Übersetzung kann diese Gleichzeitigkeit transportieren.",
             "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=36&verse=77"
           }
         ]
