@@ -1238,17 +1238,12 @@
         {
           "type": "explanation",
           "title": "Ellipse des Verbs in Antworten",
-          "content": "Im Quran kommt es häufig vor, dass eine Frage gestellt wird und die Antwort nur aus einem Nomen (im Akkusativ) besteht — ohne Verb. Das fehlende Verb wird aus der Frage erschlossen. Diese Art der Ellipse (حَذْف / ḥadhf) ist kein Fehler, sondern eine bewusste rhetorische Technik (بَلَاغَة / balāgha). Sie vermeidet unnötige Wiederholung und macht die Antwort knapper und eindringlicher. Das Nomen in der Antwort steht im Akkusativ, weil es das Objekt des ausgelassenen Verbs ist.",
+          "content": "Im Quran kommt es häufig vor, dass eine Frage gestellt wird und die Antwort nur aus einem Nomen (im Akkusativ) besteht — ohne Verb. Das fehlende Verb wird syntaktisch aus der Frage erschlossen: Das Verb der Frage füllt die Regens-Stelle des Antwortnomens. Diese Art der Ellipse (حَذْف / ḥadhf) ist ein rein syntaktisches Phänomen. Das Nomen in der Antwort steht im Akkusativ, weil es das Objekt des ausgelassenen (aber aus der Frage rekonstruierbaren) Verbs ist.",
           "arabicExamples": [
             {
               "arabic": "حَذْف",
               "transliteration": "ḥadhf",
-              "meaning": "Auslassung / Ellipse"
-            },
-            {
-              "arabic": "بَلَاغَة",
-              "transliteration": "balāgha",
-              "meaning": "Rhetorik / Sprachkunst"
+              "meaning": "Auslassung / Ellipse (syntaktische Tilgung)"
             }
           ]
         },
@@ -1377,7 +1372,7 @@
           "answer": [
             "حَذْف"
           ],
-          "explanation": "حَذْف (ḥadhf) = Auslassung / Ellipse. Es ist ein zentrales Konzept der arabischen Rhetorik (بَلَاغَة).",
+          "explanation": "حَذْف (ḥadhf) = Auslassung / Ellipse. Es bezeichnet die syntaktische Tilgung eines aus dem Kontext rekonstruierbaren Elements (hier: des Verbs).",
           "verifyUrl": "https://archive.org/details/WrightsArabicGrammar1Of2/page/n260"
         },
         {
@@ -1389,15 +1384,15 @@
         },
         {
           "type": "multiple_choice",
-          "prompt": "Warum lässt der Quran in Antworten oft das Verb weg?",
+          "prompt": "Warum kann in Antworten auf Fragen das Verb syntaktisch wegfallen?",
           "options": [
             "Weil das Arabisch fehlerhaft ist",
             "Um Platz zu sparen",
-            "Um unnötige Wiederholung zu vermeiden und die Antwort rhetorisch knapper und eindringlicher zu machen",
+            "Weil das Verb aus der Frage rekonstruierbar ist und das Antwort-Nomen sein Objekt bleibt",
             "Weil Verben in Antworten optional sind"
           ],
-          "answer": "Um unnötige Wiederholung zu vermeiden und die Antwort rhetorisch knapper und eindringlicher zu machen",
-          "explanation": "Die Verb-Ellipse ist eine bewusste rhetorische Technik (بَلَاغَة). Sie vermeidet Redundanz und macht die Antwort wirkungsvoller.",
+          "answer": "Weil das Verb aus der Frage rekonstruierbar ist und das Antwort-Nomen sein Objekt bleibt",
+          "explanation": "Die Verb-Ellipse (حَذْف) ist ein syntaktisches Phänomen: Das Verb der Frage füllt die Regens-Stelle des Antwortnomens, das im Akkusativ als Objekt dieses getilgten Verbs steht.",
           "verifyUrl": "https://archive.org/details/WrightsArabicGrammar1Of2/page/n260"
         },
         {

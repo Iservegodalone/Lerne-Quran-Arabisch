@@ -81,9 +81,9 @@
             "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=189"
           },
           {
-            "word": "مَسْؤُول",
+            "word": "مَسْـُٔولًا",
             "ref": "17:36",
-            "explanation": "Sukun vor Hamza, Damma auf Hamza → Damma gewinnt → Waw-Sitz",
+            "explanation": "Sukun vor Hamza, Damma auf Hamza. Nach der Regel 'Damma gewinnt' waere Waw-Sitz zu erwarten (مَسْؤُول). Der Uthmanische Mushaf schreibt hier jedoch Ya-Sitz (مَسْـُٔول) — eine orthographische Konvention des muṣḥaf, die von der Standardregel abweicht.",
             "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=17&verse=36"
           }
         ]
@@ -146,9 +146,21 @@
         "title": "Hamza am Wortende mit Tanwin",
         "rule": "Bei Tanwin al-Fath (ً-) wird ein Alif-Träger angehängt (z.B. شَيْئًا), es sei denn, der Buchstabe vor dem Hamza ist bereits ein Alif (z.B. مَاءً — kein zusätzliches Alif).",
         "examples": [
-          "شَيْئًا (5:32)",
-          "مَاءً (18:29)",
-          "جُزْءًا (15:44)"
+          {
+            "word": "شَيْئًا",
+            "location": "5:32",
+            "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=5&verse=32"
+          },
+          {
+            "word": "مَاءً",
+            "location": "18:29",
+            "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=18&verse=29"
+          },
+          {
+            "word": "جُزْءًا",
+            "location": "15:44",
+            "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=15&verse=44"
+          }
         ]
       }
     ]
@@ -223,7 +235,7 @@
       "ref": "5:31",
       "type": "seat",
       "answer": 0,
-      "explanation": "Nach Waw mit Sukun, Fatha auf Hamza → auf der Zeile. Hinweis: Dies ist eine orthographische Besonderheit im utmanischen Rasm — nach den Standardregeln würde Fatha > Sukun einen Alif-Sitz ergeben, doch im Mushaf steht Hamza auf der Zeile nach Waw+Sukun. Achtung: Im Uthmani-Rasm steht Hamza hier auf der Zeile. Nach den allgemeinen Regeln waere ein Alif-Sitz zu erwarten. Die Mushaf-Orthographie weicht hier von den Standardregeln ab.",
+      "explanation": "Nach Waw mit Sukun, Fatha auf Hamza → auf der Zeile. Im utmanischen Rasm steht Hamza hier auf der Zeile nach Waw+Sukun, obwohl nach den Standardregeln (Fatha > Sukun) ein Alif-Sitz zu erwarten waere — eine orthographische Besonderheit der Mushaf-Schreibung.",
       "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=5&verse=31"
     },
     {
