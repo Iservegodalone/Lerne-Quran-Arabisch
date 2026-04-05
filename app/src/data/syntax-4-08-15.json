@@ -1517,21 +1517,21 @@
           "content": "لا النافية للجنس ist eine spezielle Form der Negation, die sich grundlegend von der normalen Negation mit لا unterscheidet. Normale لا negiert ein einzelnes Exemplar — لا رجلٌ في الدار ('kein Mann ist im Haus', aber es könnten andere Männer anderswo sein). لا النافية للجنس dagegen negiert die GESAMTE Gattung — لا رجلَ في الدار ('überhaupt kein Mann ist im Haus', die Gattung 'Mann' wird komplett ausgeschlossen). Die Bedingungen für لا النافية للجنس sind: (1) Das Nomen muss unbestimmt sein. (2) Es muss unmittelbar nach لا stehen, ohne Trennung. (3) Es steht im Akkusativ ohne Tanwin (مبني على الفتح). Das Khabar (Prädikat) von لا steht im Nominativ.",
           "arabicExamples": [
             {
-              "arabic": "لا ريبَ فيه",
+              "arabic": "لَا رَيْبَ فِيهِ",
               "transliteration": "lā rayba fīhi",
-              "meaning": "kein Zweifel darin (2:2) — ريبَ im Akkusativ ohne Tanwin",
+              "meaning": "kein Zweifel darin (2:2) — رَيْبَ im Akkusativ ohne Tanwin",
               "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=2"
             },
             {
-              "arabic": "لا اكراهَ في الدين",
+              "arabic": "لَا إِكْرَاهَ فِي الدِّينِ",
               "transliteration": "lā ikrāha fī d-dīn",
-              "meaning": "kein Zwang in der Religion (2:256) — اكراهَ im Akkusativ ohne Tanwin",
+              "meaning": "kein Zwang in der Religion (2:256) — إِكْرَاهَ im Akkusativ ohne Tanwin",
               "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=256"
             },
             {
-              "arabic": "لا إلهَ إلا هو",
+              "arabic": "لَا إِلَٰهَ إِلَّا هُوَ",
               "transliteration": "lā ilāha illā huwa",
-              "meaning": "kein Gott außer Ihm — إلهَ im Akkusativ ohne Tanwin"
+              "meaning": "kein Gott außer Ihm — إِلَٰهَ im Akkusativ ohne Tanwin"
             }
           ]
         },
@@ -1539,9 +1539,9 @@
           "type": "walkthrough",
           "title": "Durchgearbeitetes Beispiel",
           "steps": [
-            "Vers: لا ريبَ فيه (2:2)",
+            "Vers: لَا رَيْبَ فِيهِ (2:2)",
             "Schritt 1: لا — Gattungsnegation (لا النافية للجنس). Sie negiert nicht nur einen einzelnen Zweifel, sondern die gesamte Gattung 'Zweifel'.",
-            "Schritt 2: ريبَ — Ism von لا (اسم لا). Es steht im Akkusativ ohne Tanwin (مبني على الفتح). Beachte: nicht ريبًا (mit Tanwin), sondern ريبَ (ohne Tanwin).",
+            "Schritt 2: رَيْبَ — Ism von لا (اسم لا). Es steht im Akkusativ ohne Tanwin (مبني على الفتح). Beachte: nicht رَيْبًا (mit Tanwin), sondern رَيْبَ (ohne Tanwin).",
             "Schritt 3: فيه — Khabar von لا (خبر لا). Es ist eine Präpositionalphrase (جار ومجرور) und fungiert als Prädikat.",
             "Bedeutung: 'Kein Zweifel ist darin' — kein einziger Zweifel der Gattung 'Zweifel' existiert in diesem Buch."
           ]
@@ -1552,31 +1552,31 @@
           "examples": [
             {
               "location": "2:2",
-              "word": "لا ريبَ فيه",
-              "analysis": "لا = Gattungsnegation, ريبَ = Ism von لا (Akk. ohne Tanwin), فيه = Khabar (Präpositionalphrase). Kein Zweifel darin.",
+              "word": "لَا رَيْبَ فِيهِ",
+              "analysis": "لَا = Gattungsnegation, رَيْبَ = Ism von لا (Akk. ohne Tanwin), فِيهِ = Khabar (Präpositionalphrase). Kein Zweifel darin.",
               "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=2"
             },
             {
               "location": "2:256",
-              "word": "لا اكراهَ في الدين",
-              "analysis": "لا = Gattungsnegation, اكراهَ = Ism von لا (Akk. ohne Tanwin), في الدين = Khabar. Kein Zwang in der Religion.",
+              "word": "لَا إِكْرَاهَ فِي الدِّينِ",
+              "analysis": "لَا = Gattungsnegation, إِكْرَاهَ = Ism von لا (Akk. ohne Tanwin), فِي الدِّينِ = Khabar. Kein Zwang in der Religion.",
               "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=256"
             },
             {
               "location": "12:87",
-              "word": "لا يياس من روح الله الا القوم الكافرون",
-              "analysis": "لا mit Verb يياس — hier als einfache Negation eines Verbs. Nur die leugnenden Leute verzweifeln an Gottes Barmherzigkeit.",
+              "word": "لَا يَيْأَسُ مِن رَّوْحِ اللَّهِ إِلَّا الْقَوْمُ الْكَافِرُونَ",
+              "analysis": "لَا mit Verb يَيْأَسُ — hier als einfache Negation eines Verbs. Nur die leugnenden Leute verzweifeln an Gottes Barmherzigkeit.",
               "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=12&verse=87"
             },
             {
               "location": "55:33",
-              "word": "لا تنفذون الا بسلطان",
-              "analysis": "لا mit Verb تنفذون — Negation eines Verbs. Nicht durchdringt ihr (die Bereiche der Himmel und der Erde) außer mit Ermächtigung.",
+              "word": "لَا تَنفُذُونَ إِلَّا بِسُلْطَانٍ",
+              "analysis": "لَا mit Verb تَنفُذُونَ — Negation eines Verbs. Nicht durchdringt ihr (die Bereiche der Himmel und der Erde) außer mit Ermächtigung.",
               "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=55&verse=33"
             },
             {
               "location": "2:48",
-              "word": "لا تجزي نفس عن نفس شيئا",
+              "word": "لَا تَجْزِي نَفْسٌ عَن نَّفْسٍ شَيْئًا",
               "analysis": "لا mit Verb تجزي — Negation eines Verbs. Kein Selbst leistet für ein anderes Selbst etwas.",
               "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=48"
             }
@@ -1596,12 +1596,12 @@
             "Negiert nur bestimmte Nomen"
           ],
           "answer": "Negiert die gesamte Gattung, nicht nur ein Exemplar",
-          "explanation": "لا النافية للجنس negiert die gesamte Gattung. لا ريبَ فيه bedeutet nicht nur 'ein bestimmter Zweifel ist nicht darin', sondern 'kein einziger Zweifel der Gattung Zweifel existiert darin'.",
+          "explanation": "لا النافية للجنس negiert die gesamte Gattung. لَا رَيْبَ فِيهِ bedeutet nicht nur 'ein bestimmter Zweifel ist nicht darin', sondern 'kein einziger Zweifel der Gattung Zweifel existiert darin'.",
           "verifyUrl": "https://archive.org/details/WrightsArabicGrammar1Of2/page/n140"
         },
         {
           "type": "multiple_choice",
-          "prompt": "In welchem Kasus steht ريب in لا ريبَ فيه?",
+          "prompt": "In welchem Kasus steht رَيْبَ in لَا رَيْبَ فِيهِ?",
           "options": [
             "Nominativ mit Tanwin",
             "Akkusativ mit Tanwin",
@@ -1609,33 +1609,33 @@
             "Genitiv"
           ],
           "answer": "Akkusativ ohne Tanwin (مبني على الفتح)",
-          "explanation": "Das Ism von لا النافية للجنس steht im Akkusativ ohne Tanwin. Deshalb ريبَ (mit Fatha, ohne Tanwin) und nicht ريبًا (mit Tanwin) oder ريبٌ (Nominativ).",
+          "explanation": "Das Ism von لا النافية للجنس steht im Akkusativ ohne Tanwin. Deshalb رَيْبَ (mit Fatha, ohne Tanwin) und nicht رَيْبًا (mit Tanwin) oder رَيْبٌ (Nominativ).",
           "verifyUrl": "https://archive.org/details/WrightsArabicGrammar1Of2/page/n140"
         },
         {
           "type": "disambiguation",
-          "prompt": "Was unterscheidet لا ريبَ von لا ريبٌ?",
+          "prompt": "Was unterscheidet لَا رَيْبَ von لَا رَيْبٌ?",
           "options": [
             "Kein Unterschied",
-            "لا ريبَ negiert die Gattung (generisch), لا ريبٌ wäre einfache Negation eines Exemplars",
-            "لا ريبٌ ist stärker als لا ريبَ",
-            "لا ريبَ steht nur mit Verben"
+            "لَا رَيْبَ negiert die Gattung (generisch), لَا رَيْبٌ wäre einfache Negation eines Exemplars",
+            "لَا رَيْبٌ ist stärker als لَا رَيْبَ",
+            "لَا رَيْبَ steht nur mit Verben"
           ],
-          "answer": "لا ريبَ negiert die Gattung (generisch), لا ريبٌ wäre einfache Negation eines Exemplars",
-          "explanation": "Bei لا ريبَ (Akkusativ ohne Tanwin) liegt لا النافية للجنس vor — die gesamte Gattung 'Zweifel' wird negiert. Bei لا ريبٌ (Nominativ mit Tanwin) wäre es eine einfache Negation (لا العاملة عمل ليس oder لا النافية), die nur ein einzelnes Exemplar negiert.",
+          "answer": "لَا رَيْبَ negiert die Gattung (generisch), لَا رَيْبٌ wäre einfache Negation eines Exemplars",
+          "explanation": "Bei لَا رَيْبَ (Akkusativ ohne Tanwin) liegt لا النافية للجنس vor — die gesamte Gattung 'Zweifel' wird negiert. Bei لَا رَيْبٌ (Nominativ mit Tanwin) wäre es eine einfache Negation (لا العاملة عمل ليس oder لا النافية), die nur ein einzelnes Exemplar negiert.",
           "verifyUrl": "https://archive.org/details/WrightsArabicGrammar1Of2/page/n140"
         },
         {
           "type": "identification",
-          "prompt": "In لا اكراهَ في الدين (2:256), was ist das Khabar von لا?",
+          "prompt": "In لَا إِكْرَاهَ فِي الدِّينِ (2:256), was ist das Khabar von لا?",
           "options": [
-            "اكراهَ",
-            "في",
-            "الدين",
-            "في الدين (Präpositionalphrase)"
+            "إِكْرَاهَ",
+            "فِي",
+            "الدِّينِ",
+            "فِي الدِّينِ (Präpositionalphrase)"
           ],
-          "answer": "في الدين (Präpositionalphrase)",
-          "explanation": "اكراهَ ist das Ism von لا (Subjekt, Akkusativ ohne Tanwin). في الدين ist das Khabar (Prädikat) — eine Präpositionalphrase, die als Quasi-Satz fungiert.",
+          "answer": "فِي الدِّينِ (Präpositionalphrase)",
+          "explanation": "إِكْرَاهَ ist das Ism von لا (Subjekt, Akkusativ ohne Tanwin). فِي الدِّينِ ist das Khabar (Prädikat) — eine Präpositionalphrase, die als Quasi-Satz fungiert.",
           "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=256"
         },
         {
@@ -1655,7 +1655,7 @@
           "type": "fill_in",
           "prompt": "Wie wird das Nomen nach لا النافية للجنس vokalisiert?",
           "answer": "Mit Fatha ohne Tanwin (Akkusativ, aufgebaut auf der Fatha)",
-          "explanation": "Das Ism von لا النافية للجنس ist مبني على الفتح — es steht im Akkusativ, aber ohne Tanwin. Beispiel: ريبَ (nicht ريبًا), اكراهَ (nicht اكراهًا), إلهَ (nicht إلهًا).",
+          "explanation": "Das Ism von لا النافية للجنس ist مبني على الفتح — es steht im Akkusativ, aber ohne Tanwin. Beispiel: رَيْبَ (nicht رَيْبًا), إِكْرَاهَ (nicht إِكْرَاهًا), إِلَٰهَ (nicht إِلَٰهًا).",
           "verifyUrl": "https://archive.org/details/WrightsArabicGrammar1Of2/page/n140"
         }
       ]
@@ -1675,19 +1675,19 @@
           "content": "Die Partikel ما kann in bestimmten Kontexten wie ليس (nicht sein) funktionieren. In der hijazischen Varietät des Arabischen — der Varietät, in der der Quran verfasst ist — übernimmt ما die Rektion von ليس: Das Ism von ما (Subjekt) steht im Nominativ, das Khabar von ما (Prädikat) steht im Akkusativ. Dies unterscheidet sich von der tamimischen Varietät, in der ما keinen Einfluss auf den Kasus hat. Die Bedingungen für ما الحجازية sind: (1) ما darf nicht von إنْ gefolgt werden (ما إنْ hebt die Rektion auf). (2) Das Khabar darf nicht vor das Ism gestellt werden. (3) إلا darf nicht vor dem Khabar stehen (bei Ausnahmen verliert ما seine Rektion).",
           "arabicExamples": [
             {
-              "arabic": "ما هذا بشرا",
+              "arabic": "مَا هَٰذَا بَشَرًا",
               "transliteration": "mā hādhā basharan",
               "meaning": "dies ist kein Mensch (12:31) — هذا Nom., بشرا Akk.",
               "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=12&verse=31"
             },
             {
-              "arabic": "ما هن امهاتهم",
+              "arabic": "مَا هُنَّ أُمَّهَاتِهِمْ",
               "transliteration": "mā hunna ummahātihim",
-              "meaning": "sie sind nicht ihre Mütter (58:2) — هن Nom., امهاتهم Akk.",
+              "meaning": "sie sind nicht ihre Mütter (58:2) — هُنَّ Nom., أُمَّهَاتِهِمْ Akk.",
               "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=58&verse=2"
             },
             {
-              "arabic": "ما هذا الا ملك كريم",
+              "arabic": "مَا هَٰذَا إِلَّا مَلَكٌ كَرِيمٌ",
               "transliteration": "mā hādhā illā malakun karīm",
               "meaning": "dies ist nur ein edler Engel (12:31) — mit إلا fällt die Rektion weg, daher ملكٌ im Nominativ",
               "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=12&verse=31"
@@ -1698,10 +1698,10 @@
           "type": "walkthrough",
           "title": "Durchgearbeitetes Beispiel",
           "steps": [
-            "Vers: ما هذا بشرا (12:31)",
+            "Vers: مَا هَٰذَا بَشَرًا (12:31)",
             "Schritt 1: ما — Negation, die hier wie ليس funktioniert (ما الحجازية).",
-            "Schritt 2: هذا — Ism von ما (Subjekt). Es steht im Nominativ. Als Demonstrativpronomen ist es unveränderlich (مبني), aber seine syntaktische Position ist die des Subjekts im Nominativ.",
-            "Schritt 3: بشرا — Khabar von ما (Prädikat). Es steht im Akkusativ (Manṣūb), erkennbar an der Endung -an. Dies ist der Beweis, dass ما hier wie ليس regiert.",
+            "Schritt 2: هَٰذَا — Ism von ما (Subjekt). Es steht im Nominativ. Als Demonstrativpronomen ist es unveränderlich (مبني), aber seine syntaktische Position ist die des Subjekts im Nominativ.",
+            "Schritt 3: بَشَرًا — Khabar von ما (Prädikat). Es steht im Akkusativ (Manṣūb), erkennbar an der Endung -an. Dies ist der Beweis, dass ما hier wie ليس regiert.",
             "Bedeutung: 'Dies ist kein Mensch' — die Frauen sagen dies über Joseph."
           ]
         },
@@ -1711,26 +1711,26 @@
           "examples": [
             {
               "location": "12:31",
-              "word": "ما هذا بشرا",
-              "analysis": "ما = Negation wie ليس. هذا = Ism (Nom.). بشرا = Khabar (Akk.). Dies ist kein Mensch.",
+              "word": "مَا هَٰذَا بَشَرًا",
+              "analysis": "مَا = Negation wie ليس. هَٰذَا = Ism (Nom.). بَشَرًا = Khabar (Akk.). Dies ist kein Mensch.",
               "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=12&verse=31"
             },
             {
               "location": "2:102",
-              "word": "وما هم بضارين به من احد الا باذن الله",
-              "analysis": "ما = Negation wie ليس. هم = Ism (Nom.). بضارين = Khabar — die بـ ist eine verstärkende Partikel (باء زائدة), ضارين steht syntaktisch im Akkusativ. Sie schaden niemandem damit außer mit Gottes Erlaubnis.",
+              "word": "وَمَا هُم بِضَارِّينَ بِهِ مِنْ أَحَدٍ إِلَّا بِإِذْنِ اللَّهِ",
+              "analysis": "مَا = Negation wie ليس. هُم = Ism (Nom.). بِضَارِّينَ = Khabar — die بـ ist eine verstärkende Partikel (باء زائدة), ضَارِّينَ steht syntaktisch im Akkusativ. Sie schaden niemandem damit außer mit Gottes Erlaubnis.",
               "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=102"
             },
             {
               "location": "3:176",
-              "word": "وما هم بضارين الله شيئا",
-              "analysis": "ما = Negation wie ليس. هم = Ism (Nom.). بضارين = Khabar mit باء زائدة. Sie schaden Gott nicht das Geringste.",
+              "word": "وَمَا هُم بِضَارِّي اللَّهِ شَيْئًا",
+              "analysis": "مَا = Negation wie ليس. هُم = Ism (Nom.). بِضَارِّي = Khabar mit باء زائدة. Sie schaden Gott nicht das Geringste.",
               "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=176"
             },
             {
               "location": "11:109",
-              "word": "وما ربك بغافل عما يعملون",
-              "analysis": "ما = Negation wie ليس. ربك = Ism (Nom.). بغافل = Khabar mit باء زائدة. Dein Herr ist nicht achtlos über das, was sie tun. Hinweis: Die بـ vor dem Khabar ist eine verstärkende Partikel (باء زائدة), keine Präposition.",
+              "word": "وَمَا رَبُّكَ بِغَافِلٍ عَمَّا يَعْمَلُونَ",
+              "analysis": "مَا = Negation wie ليس. رَبُّكَ = Ism (Nom.). بِغَافِلٍ = Khabar mit باء زائدة. Dein Herr ist nicht achtlos über das, was sie tun. Hinweis: Die بـ vor dem Khabar ist eine verstärkende Partikel (باء زائدة), keine Präposition.",
               "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=11&verse=109"
             }
           ]
@@ -1749,12 +1749,12 @@
             "Wie لا النافية للجنس: Nomen im Akkusativ ohne Tanwin"
           ],
           "answer": "Wie ليس: Ism im Nominativ, Khabar im Akkusativ",
-          "explanation": "ما الحجازية funktioniert wie ليس: Das Subjekt (Ism) bleibt im Nominativ, das Prädikat (Khabar) wird in den Akkusativ gesetzt. Beispiel: ما هذا بشرا — هذا (Nom.) + بشرا (Akk.).",
+          "explanation": "ما الحجازية funktioniert wie ليس: Das Subjekt (Ism) bleibt im Nominativ, das Prädikat (Khabar) wird in den Akkusativ gesetzt. Beispiel: مَا هَٰذَا بَشَرًا — هَٰذَا (Nom.) + بَشَرًا (Akk.).",
           "verifyUrl": "https://archive.org/details/WrightsArabicGrammar1Of2/page/n242"
         },
         {
           "type": "identification",
-          "prompt": "Was ist der grammatische Status von بشرا in ما هذا بشرا?",
+          "prompt": "Was ist der grammatische Status von بَشَرًا in مَا هَٰذَا بَشَرًا?",
           "options": [
             "Ism von ما im Nominativ",
             "Khabar von ما im Akkusativ",
@@ -1767,7 +1767,7 @@
         },
         {
           "type": "multiple_choice",
-          "prompt": "Welche Rolle spielt die بـ in ما ربك بغافل?",
+          "prompt": "Welche Rolle spielt die بـ in مَا رَبُّكَ بِغَافِلٍ?",
           "options": [
             "Präposition (mit/durch)",
             "Schwurpartikel",
@@ -1775,7 +1775,7 @@
             "Kausalpartikel (weil)"
           ],
           "answer": "Verstärkende Partikel (باء زائدة), keine Präposition",
-          "explanation": "Die بـ vor dem Khabar von ما الحجازية ist eine باء زائدة (verstärkende, überschüssige بـ). Sie hat keine eigene Bedeutung und regiert keinen Genitiv im syntaktischen Sinne — sie verstärkt lediglich die Negation. Das Wort غافل ist syntaktisch das Khabar im Akkusativ.",
+          "explanation": "Die بـ vor dem Khabar von ما الحجازية ist eine باء زائدة (verstärkende, überschüssige بـ). Sie hat keine eigene Bedeutung und regiert keinen Genitiv im syntaktischen Sinne — sie verstärkt lediglich die Negation. Das Wort غَافِلٍ ist syntaktisch das Khabar im Akkusativ.",
           "verifyUrl": "https://archive.org/details/WrightsArabicGrammar1Of2/page/n242"
         },
         {
@@ -1795,13 +1795,13 @@
           "type": "identification",
           "prompt": "Welcher Vers zeigt ما الحجازية mit بـ زائدة?",
           "options": [
-            "ما هذا بشرا (12:31)",
-            "لا ريبَ فيه (2:2)",
-            "ما هم بضارين (3:176)",
-            "لا اكراهَ في الدين (2:256)"
+            "مَا هَٰذَا بَشَرًا (12:31)",
+            "لَا رَيْبَ فِيهِ (2:2)",
+            "وَمَا هُم بِضَارِّي (3:176)",
+            "لَا إِكْرَاهَ فِي الدِّينِ (2:256)"
           ],
-          "answer": "ما هم بضارين (3:176)",
-          "explanation": "In ما هم بضارين الله شيئا (3:176) liegt ما الحجازية vor, und die بـ vor ضارين ist eine باء زائدة (verstärkende Partikel). هم ist das Ism (Nom.), بضارين ist das Khabar.",
+          "answer": "وَمَا هُم بِضَارِّي (3:176)",
+          "explanation": "In وَمَا هُم بِضَارِّي اللَّهِ شَيْئًا (3:176) liegt ما الحجازية vor, und die بـ vor ضَارِّي ist eine باء زائدة (verstärkende Partikel). هُم ist das Ism (Nom.), بِضَارِّي ist das Khabar.",
           "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=176"
         }
       ]

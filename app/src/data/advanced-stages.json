@@ -533,11 +533,11 @@
             "content": "Der Quran verwendet das Passiv häufig, um den Handelnden ungenannt zu lassen. Linguistisch hat das zwei mögliche Funktionen: Der Fokus wird auf die Handlung oder den Empfänger gelenkt, oder der Akteur bleibt unbenannt.",
             "arabicExamples": [
               {
-                "arabic": "خُتِمَ عَلَىٰ قُلُوبِهِمْ",
-                "transliteration": "khutima ʿalā qulūbihim",
+                "arabic": "خَتَمَ اللَّهُ عَلَىٰ قُلُوبِهِمْ",
+                "transliteration": "khatama llāhu ʿalā qulūbihim",
                 "ref": "2:7",
-                "meaning": "Es wurde versiegelt über ihren Herzen",
-                "analysis": "In 2:7 steht die Aktivform خَتَمَ اللَّهُ عَلَىٰ قُلُوبِهِمْ mit explizitem Subjekt. Der Fokus der Analyse liegt auf der syntaktischen Struktur: Verb (خَتَمَ) + Fa'il (اللَّهُ) + Jarr wa-Majrur (عَلَىٰ قُلُوبِهِمْ).",
+                "meaning": "Gott versiegelte über ihren Herzen",
+                "analysis": "In 2:7 steht die Aktivform خَتَمَ اللَّهُ عَلَىٰ قُلُوبِهِمْ mit explizitem Subjekt. Das Verb steht im Aktiv (nicht Passiv). Syntaktische Struktur: Verb (خَتَمَ) + Fa'il (اللَّهُ) + Jarr wa-Majrur (عَلَىٰ قُلُوبِهِمْ). Die Passivform خُتِمَ kommt in diesem Vers nicht vor — sie wäre die Form ohne genannten Akteur.",
                 "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=7"
               },
               {
@@ -742,12 +742,12 @@
           },
           {
             "type": "multiple_choice",
-            "question": "In 2:7 steht خُتِمَ عَلَىٰ قُلُوبِهِمْ (es wurde versiegelt über ihren Herzen) im Passiv. Welche Funktion hat das Passiv ohne Akteur hier?",
+            "question": "In 2:7 steht خَتَمَ اللَّهُ عَلَىٰ قُلُوبِهِمْ im Aktiv mit explizitem Subjekt. Was wäre der Unterschied, wenn stattdessen die Passivform خُتِمَ عَلَىٰ قُلُوبِهِمْ stünde?",
             "options": [
-              "Es ist ein grammatischer Fehler",
-              "Der Akteur wird nicht genannt — der Fokus liegt auf der Handlung und dem Ergebnis",
-              "Es zeigt, dass niemand verantwortlich ist",
-              "Es zeigt, dass das Verb ohne Subjekt nicht vollständig ist"
+              "Kein Unterschied — Aktiv und Passiv sind austauschbar",
+              "Im Passiv wäre der Akteur nicht genannt — der Fokus läge auf der Handlung und dem Ergebnis statt auf dem Handelnden",
+              "Das Passiv wäre grammatisch falsch",
+              "Das Passiv wäre eine andere Wurzel"
             ],
             "correct": 1,
             "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=7"

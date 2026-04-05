@@ -1713,25 +1713,13 @@ export default function Module8() {
   if (view === VIEWS.MUSHAF_NOTATION) return (
     <div style={{ maxWidth: '900px', margin: '0 auto' }}>
       {newDrillBack}
-      <h2 style={{ marginBottom: '8px' }}>Mushaf-Notation und Gliederung</h2>
-      <p style={{ color: 'var(--text-secondary)', marginBottom: '16px', fontSize: '0.9rem' }}>Zeichen und Markierungen in gedruckten Mushaf-Ausgaben.</p>
-      <h3 style={{ marginBottom: '8px' }}>Gliederungseinheiten</h3>
-      {mushafNotationData.divisions.map(d => (
-        <div key={d.id} style={{ background: 'var(--bg-card)', border: '1px solid var(--border)', borderRadius: '8px', padding: '14px 18px', marginBottom: '10px' }}>
-          <h4 style={{ color: 'var(--accent)' }}>{d.name} — {d.german}</h4>
-          <p style={{ fontSize: '0.85rem' }}>{d.description}</p>
-          {d.total && <p style={{ fontSize: '0.8rem', color: 'var(--text-muted)' }}>Anzahl: {d.total}</p>}
-          {d.symbol && <p style={{ fontSize: '0.8rem' }}>Symbol: <span style={{ fontSize: '1.2rem' }}>{d.symbol}</span></p>}
-          <p style={{ fontSize: '0.75rem', color: 'var(--text-secondary)', marginTop: '4px' }}>{d.note}</p>
-        </div>
-      ))}
-      <h3 style={{ marginTop: '20px', marginBottom: '8px' }}>Textmarkierungen</h3>
-      {mushafNotationData.markers.map(m => (
-        <div key={m.id} style={{ background: 'var(--bg-card)', border: '1px solid var(--border)', borderRadius: '8px', padding: '14px 18px', marginBottom: '10px' }}>
-          <h4 style={{ color: 'var(--accent)' }}>{m.name} {m.symbol && <span style={{ fontSize: '1.4rem', marginLeft: '8px' }}>{m.symbol}</span>}</h4>
-          <p style={{ fontSize: '0.85rem' }}>{m.description}</p>
-          {m.total && <p style={{ fontSize: '0.8rem', color: 'var(--text-muted)' }}>Anzahl: {m.total}</p>}
-          <p style={{ fontSize: '0.75rem', color: 'var(--text-secondary)', marginTop: '4px' }}>{m.note}</p>
+      <h2 style={{ marginBottom: '8px' }}>Textelemente und Versmarkierungen</h2>
+      <p style={{ color: 'var(--text-secondary)', marginBottom: '16px', fontSize: '0.9rem' }}>Versmarkierungen und Textelemente im Qurantext.</p>
+      {mushafNotationData.textElements.map(el => (
+        <div key={el.id} style={{ background: 'var(--bg-card)', border: '1px solid var(--border)', borderRadius: '8px', padding: '14px 18px', marginBottom: '10px' }}>
+          <h4 style={{ color: 'var(--accent)' }}>{el.name} {el.symbol && <span style={{ fontSize: '1.4rem', marginLeft: '8px' }}>{el.symbol}</span>}</h4>
+          <p style={{ fontSize: '0.85rem' }}>{el.description}</p>
+          {el.note && <p style={{ fontSize: '0.75rem', color: 'var(--text-secondary)', marginTop: '4px' }}>{el.note}</p>}
         </div>
       ))}
     </div>

@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": "Mushaf-Notation und Gliederungszeichen",
-    "description": "Referenz für die Zeichen und Markierungen die in gedruckten Mushaf-Ausgaben erscheinen.",
+    "description": "Referenz fuer die Textelemente und Versmarkierungen im Qurantext.",
     "sources": [
       {
         "name": "Wright's Arabic Grammar Vol I",
@@ -13,69 +13,28 @@
       }
     ]
   },
-  "divisions": [
-    {
-      "id": "juz",
-      "name": "Juz' (جُزْء)",
-      "german": "Dreissigstel",
-      "description": "Der Quran ist in 30 gleich grosse Abschnitte (Ajza') eingeteilt. Jeder Juz' umfasst ungefaehr 20 Seiten. Die Einteilung ist rein quantitativ, nicht thematisch.",
-      "symbol": "جزء",
-      "total": 30,
-      "note": "Juz' 1 beginnt bei 1:1 (al-Fatiha), Juz' 30 endet bei 114:6 (an-Nas). Juz' 30 wird auch عَمَّ (Amma) genannt, nach dem ersten Wort von Sure 78.",
-      "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=1"
-    },
-    {
-      "id": "hizb",
-      "name": "Hizb (حِزْب)",
-      "german": "Sechzigstel",
-      "description": "Jeder Juz' ist in zwei Ahzab (Plural von Hizb) unterteilt. Der Quran hat somit 60 Ahzab.",
-      "symbol": "حزب",
-      "total": 60,
-      "note": "Die Hizb-Markierung erscheint als dekoratives Symbol am Seitenrand.",
-      "verifyUrl": "https://corpus.quran.com/qurantext.jsp?chapter=2&verse=142"
-    },
-    {
-      "id": "rubu",
-      "name": "Rub' al-Hizb (رُبْع الحِزْب)",
-      "german": "Viertel-Hizb",
-      "description": "Jeder Hizb ist in vier Viertel (Arba') unterteilt. Der Quran hat somit 240 Rubu'-Markierungen.",
-      "symbol": "۞",
-      "total": 240,
-      "note": "Das Rubu'-Zeichen (۞) erscheint im Qurantext an der Stelle wo das nächste Viertel beginnt. Es ist das häufigste Gliederungszeichen im Mushaf.",
-      "verifyUrl": "https://corpus.quran.com/qurantext.jsp?chapter=2&verse=26"
-    }
-  ],
-  "markers": [
+  "textElements": [
     {
       "id": "ayah_end",
       "name": "Versend-Zeichen",
       "symbol": "۝",
-      "description": "Markiert das Ende eines Verses (Aya). Die Versnummer steht innerhalb oder neben dem Zeichen. In den meisten Mushaf-Ausgaben ein dekorierter Kreis.",
-      "note": "Die Gesamtzahl der Verse variiert je nach Zählkonvention zwischen 6214 und 6236. Der heutige Standard zählt 6236 Verse. Die Abweichungen entstehen nicht durch fehlende Verse, sondern durch unterschiedliche Auffassungen, wo ein Vers endet und der nächste beginnt.",
+      "description": "Markiert das Ende eines Verses (Aya). Die Versnummer steht innerhalb oder neben dem Zeichen.",
+      "note": "Die Gesamtzahl der Verse variiert je nach Zaehlkonvention zwischen 6204 und 6236. Der heutige Standard zaehlt 6236 Verse. Die Abweichungen entstehen nicht durch fehlende Verse, sondern durch unterschiedliche Auffassungen, wo ein Vers endet und der naechste beginnt.",
       "verifyUrl": "https://corpus.quran.com/qurantext.jsp?chapter=1&verse=1"
     },
     {
       "id": "basmala",
       "name": "Basmala (بسملة)",
       "symbol": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
-      "description": "Steht vor jeder Sure AUSSER Sure 9 (at-Tawba). In Sure 1 (al-Fatiha) ist sie nach der gängigsten Zählkonvention (kufisch) der erste Vers. Andere Zählsysteme (basrisch) zählen sie nicht als eigenen Vers. In allen anderen Suren steht sie VOR dem ersten Vers und wird nicht als Vers gezählt.",
-      "note": "Sure 27:30 enthält eine Basmala INNERHALB des Verstextes (im Brief Salomos) — dort ist sie Teil des Verses selbst. Die Frage, ob die Basmala als eigener Vers zählt, betrifft nur die Basmala am Anfang der Suren (d.h. die formelhafte Einleitung vor dem ersten Vers).",
+      "description": "Steht vor jeder Sure ausser Sure 9. In Sure 1 ist sie nach der gaengigsten Zaehlkonvention (kufisch) der erste Vers. Andere Zaehlsysteme (basrisch) zaehlen sie nicht als eigenen Vers. In allen anderen Suren steht sie vor dem ersten Vers und wird nicht als Vers gezaehlt.",
+      "note": "Sure 27:30 enthaelt eine Basmala innerhalb des Verstextes — dort ist sie Teil des Verses selbst.",
       "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=27&verse=30"
     },
     {
       "id": "surah_header",
       "name": "Surenname und Verszahl",
-      "description": "Vor jeder Sure steht ein Header mit dem Surennamen (arabisch) und der Verszahl. Diese Angabe ist nicht Teil des Qurantextes — sie ist eine spätere redaktionelle Ergänzung.",
-      "note": "Surennamen und Verszahlen dienen der Navigation im Text.",
+      "description": "Vor jeder Sure steht ein Header mit dem Surennamen und der Verszahl. Dient der Navigation im Text.",
       "verifyUrl": "https://corpus.quran.com/qurantext.jsp?chapter=2&verse=1"
-    },
-    {
-      "id": "sajda",
-      "name": "Sajda-Zeichen",
-      "nameArabic": "سجدة",
-      "description": "Markiert Sajda-Positionen (15 nach gaengiger Zaehlung, wobei die Anzahl je nach Ueberlieferungstradition variiert), die in der Textueberlieferung mit einem Niederwerfungszeichen versehen wurden.",
-      "note": "Rein redaktionelle Markierung, nicht Teil des Korantextes.",
-      "verifyUrl": "https://corpus.quran.com/qurantext.jsp?chapter=7&verse=206"
     }
   ]
 }

@@ -1460,7 +1460,7 @@
   {
     "id": "3.29",
     "title": "Implizierte Elemente (Taqdīr)",
-    "description": "Die arabische Grammatik setzt manchmal Wörter voraus die nicht im Text stehen — das Konzept des تَقْدِير ist essentiell für das Quran-Verständnis.",
+    "description": "Die Grammatiktradition postuliert manchmal Elemente, die nicht im Text stehen. Genuiner Taqdir liegt nur vor, wenn eine syntaktische Position ein fehlendes Regens verlangt.",
     "learnContent": {
       "sections": [
         {
@@ -1484,18 +1484,20 @@
         },
         {
           "type": "explanation",
-          "title": "Typen des Taqdīr",
-          "content": "Die Grammatiktradition unterscheidet verschiedene Typen postulierter Elemente: 1) Postuliertes مُضَاف: وَاسْأَلِ الْقَرْيَةَ — die Tradition ergänzt أَهْلَ; der Text selbst ist syntaktisch vollständig. 2) Postuliertes Verb: Bei Antworten auf Fragen wird das Verb oft nicht wiederholt. 3) Postuliertes Subjekt oder Prädikat: In Nominalsätzen kann eines von beiden nicht explizit erscheinen. 4) Postuliertes Objekt: Ein transitives Verb steht ohne explizites Objekt. Diese Elemente werden in der traditionellen Analyse als مُقَدَّر (geschätzt/angenommen) markiert.",
+          "title": "Syntaktische Kriterien für Taqdir",
+          "content": "Genuiner Taqdir liegt nur vor, wenn eine syntaktische Lücke besteht — d.h. eine grammatische Position ein regierendes Element verlangt, das im Text fehlt: 1) Akkusativ ohne Regens: Ein Masdar oder Nomen im Akkusativ ohne sichtbares regierendes Verb — z.B. فَضَرْبَ الرِّقَابِ (47:4). 2) Unbesetzte obligatorische Satzposition: Ein Nominalsatz ohne explizites Subjekt oder Prädikat. 3) Kasus ohne Erklärung: Eine Kasusendung, die ohne ein fehlendes Element nicht parsbar ist. Die Grammatiktradition postuliert häufiger Taqdir als syntaktisch nötig — viele als مُقَدَّر markierte Fälle betreffen Sätze, die syntaktisch vollständig sind.",
           "arabicExamples": [
             {
-              "arabic": "أَهْلَ الْقَرْيَةِ",
-              "transliteration": "ahla l-qaryati",
-              "meaning": "die Bewohner des Dorfes — das von der Grammatiktradition postulierte مُضَاف in وَاسْأَلِ الْقَرْيَةَ; der Text selbst ist ohne diese Ergänzung vollständig"
+              "arabic": "فَضَرْبَ الرِّقَابِ",
+              "transliteration": "fa-ḍarba r-riqābi",
+              "meaning": "dann (schlagt) die Nacken (47:4) — ضَرْبَ steht im Akkusativ ohne regierendes Verb; hier ist ein impliziertes اِضْرِبُوا syntaktisch gefordert",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=47&verse=4"
             },
             {
-              "arabic": "أَكْلَ الْمَيْتَةِ",
-              "transliteration": "akla l-maytati",
-              "meaning": "das Essen des Verendeten — das von der Grammatiktradition postulierte مُضَاف in حُرِّمَتْ عَلَيْكُمُ الْمَيْتَةُ; der Text selbst ist ohne diese Ergänzung vollständig"
+              "arabic": "وَاسْأَلِ الْقَرْيَةَ",
+              "transliteration": "wa-sʾali l-qaryata",
+              "meaning": "frag die Ortschaft (12:82) — Verb + Objekt im Akkusativ. Syntaktisch vollständig; die traditionelle Ergänzung أَهْلَ ist Interpretation, kein syntaktischer Taqdir",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=12&verse=82"
             }
           ]
         },
@@ -1504,30 +1506,29 @@
           "title": "Durchgearbeitetes Beispiel",
           "steps": [
             "Vers: وَاسْأَلِ الْقَرْيَةَ الَّتِي كُنَّا فِيهَا (12:82) — und frag das Dorf, in dem wir waren",
-            "Schritt 1: اِسْأَلْ (frag) ist ein Imperativ — das Verb verlangt ein belebtes Objekt (man kann nur Personen fragen)",
-            "Schritt 2: الْقَرْيَةَ (das Dorf) ist ein Ort, kein belebtes Wesen — grammatisch problematisch",
-            "Schritt 3: Die Lösung: Ein مُضَاف ist impliziert → اِسْأَلْ أَهْلَ الْقَرْيَةِ = frag die Bewohner des Dorfes",
-            "Schritt 4: أَهْلَ (Bewohner) ist das implizierte Element (مُقَدَّر) — es steht nicht im Text, wird aber mitgedacht",
-            "Schritt 5: Dies ist مَجَازٌ مُرْسَلٌ (Metonymie): Der Ort steht für seine Bewohner",
-            "Schritt 6: Die Grammatik verlangt das implizierte أَهْلَ, damit das Verb اِسْأَلْ ein logisches Objekt hat"
+            "Schritt 1: اِسْأَلْ (frag) ist ein Imperativ (فِعْلُ أَمْرٍ)",
+            "Schritt 2: الْقَرْيَةَ steht im Akkusativ als direktes Objekt (مَفْعُولٌ بِهِ) des Verbs",
+            "Schritt 3: Der Satz ist syntaktisch vollständig: Verb + Objekt. Der Text sagt: frag die Ortschaft.",
+            "Schritt 4: Die Grammatiktradition postuliert ein مُضَاف (أَهْلَ), doch dies ist eine Interpretation, keine syntaktische Notwendigkeit",
+            "Schritt 5: Genuiner Taqdir liegt nur vor wenn eine syntaktische Position unbesetzt ist — hier hat das Verb sein Objekt"
           ]
         },
         {
           "type": "explanation",
-          "title": "Warum Taqdīr im Quran?",
-          "content": "Der Quran verwendet Taqdīr aus mehreren Gründen: 1) إِيجَاز (Kürze): Unnötige Wiederholungen werden vermieden. 2) بَلَاغَة (Rhetorik): Die Kürze erzeugt Wirkung und fordert den Leser zum Nachdenken auf. 3) تَعْمِيم (Verallgemeinerung): Durch das Weglassen bleibt die Aussage allgemeiner. 4) تَأْكِيد (Betonung): Was gesagt wird, erhält mehr Gewicht, wenn das Offensichtliche weggelassen wird. Für den Lernenden ist entscheidend: Wenn ein Satz grammatisch 'nicht aufgeht', prüfe ob ein Element impliziert ist.",
+          "title": "Wann ist Taqdir syntaktisch begründet?",
+          "content": "Taqdir ist ausschließlich dann gerechtfertigt, wenn eine syntaktische Position ein regierendes Element verlangt, das im Text nicht vorhanden ist. Kriterien: 1) Ein Akkusativ (مَنْصُوب) steht ohne sichtbares regierendes Verb — z.B. فَضَرْبَ الرِّقَابِ (47:4): der Masdar im Akkusativ verlangt ein impliziertes Verb (اِضْرِبُوا). 2) Eine Kasusendung ist ohne Regens nicht erklärbar. 3) Eine obligatorische Satzposition (Subjekt, Prädikat) ist unbesetzt. Wenn der Satz syntaktisch vollständig ist (Verb + Subjekt, oder Verb + Objekt, etc.), liegt kein Taqdir vor — auch wenn die Tradition eines postuliert.",
           "arabicExamples": [
+            {
+              "arabic": "فَضَرْبَ الرِّقَابِ",
+              "transliteration": "fa-ḍarba r-riqābi",
+              "meaning": "dann (schlagt) die Nacken! (47:4) — Der Masdar ضَرْبَ steht im Akkusativ, doch es fehlt ein regierendes Verb. Hier liegt genuiner Taqdir vor: die Syntax verlangt ein impliziertes اِضْرِبُوا.",
+              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=47&verse=4"
+            },
             {
               "arabic": "وَجَاءَ رَبُّكَ",
               "transliteration": "wa-jāʾa rabbuka",
-              "meaning": "und dein Herr kam (89:22) — impliziert: der Befehl/die Macht deines Herrn kam",
+              "meaning": "und dein Herr kam (89:22) — Verb (جَاءَ) + Subjekt (رَبُّكَ). Der Satz ist syntaktisch vollständig; kein Taqdir nötig.",
               "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=89&verse=22"
-            },
-            {
-              "arabic": "يُرِيدُ أَنْ يَنْقَضَّ",
-              "transliteration": "yurīdu an yanqaḍḍa",
-              "meaning": "sie (die Mauer) will einstürzen (18:77) — 'wollen' für eine Mauer? Metapher/Taqdīr",
-              "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=18&verse=77"
             }
           ]
         },
@@ -1538,19 +1539,19 @@
             {
               "location": "12:82",
               "word": "وَاسْأَلِ الْقَرْيَةَ",
-              "analysis": "Impliziertes مُضَاف: أَهْلَ (Bewohner). Vollständig: واسأل أَهْلَ القرية. Man fragt nicht ein Dorf, sondern seine Bewohner. Dies ist das Paradebeispiel für Taqdīr in der arabischen Grammatik.",
+              "analysis": "Imperativ (اِسْأَلْ) + Objekt im Akkusativ (الْقَرْيَةَ). Der Satz ist syntaktisch vollständig: Verb + Objekt. Die Grammatiktradition postuliert أَهْلَ als مُضَاف, doch das Verb hat sein Objekt — kein syntaktischer Taqdir.",
               "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=12&verse=82"
             },
             {
               "location": "5:3",
               "word": "حُرِّمَتْ عَلَيْكُمُ الْمَيْتَةُ",
-              "analysis": "Impliziertes مُضَاف: أَكْلُ (das Essen). Vollständig: حُرِّمَ عَلَيْكُمْ أَكْلُ الْمَيْتَةِ. Nicht das tote Tier selbst ist verboten, sondern sein Verzehr.",
+              "analysis": "Passiv-Verb (حُرِّمَتْ) + Präpositionalphrase (عَلَيْكُمُ) + Subjekt-Stellvertreter (الْمَيْتَةُ, Nominativ). Der Satz ist syntaktisch vollständig: das Verendete ist verboten. Die Grammatiktradition postuliert أَكْلُ, doch das ist Interpretation, keine syntaktische Notwendigkeit.",
               "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=5&verse=3"
             },
             {
               "location": "2:189",
               "word": "وَأْتُوا الْبُيُوتَ مِنْ أَبْوَابِهَا",
-              "analysis": "Wörtlich: 'Betretet die Häuser durch ihre Türen.' Hier ist kein Taqdīr nötig — der Satz ist vollständig. Aber metaphorisch wird ein impliziertes Element gelesen: Geht die Dinge richtig an.",
+              "analysis": "Verb (اُؤْتُوا, Imperativ) + Objekt (الْبُيُوتَ) + Präpositionalphrase (مِنْ أَبْوَابِهَا). Der Satz ist syntaktisch vollständig — kein Taqdir nötig.",
               "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=189"
             },
             {
@@ -1567,22 +1568,22 @@
       "exercises": [
         {
           "type": "multiple_choice",
-          "prompt": "Was ist das implizierte Element in وَاسْأَلِ الْقَرْيَةَ (12:82)?",
+          "prompt": "Ist der Satz وَاسْأَلِ الْقَرْيَةَ (12:82) syntaktisch vollständig?",
           "options": [
-            "Ein Verb (fragen)",
-            "أَهْلَ (Bewohner)",
-            "Ein Pronomen (sie)",
-            "الَّذِينَ (diejenigen die)"
+            "Nein — das Verb hat kein Objekt",
+            "Ja — Imperativ (اِسْأَلْ) + Objekt im Akkusativ (الْقَرْيَةَ)",
+            "Nein — es fehlt ein Subjekt",
+            "Nein — es fehlt eine Präposition"
           ],
-          "answer": "أَهْلَ (Bewohner)",
-          "explanation": "Das implizierte مُضَاف ist أَهْلَ: 'Frag die BEWOHNER des Dorfes.' Man kann ein Dorf nicht fragen — nur seine Bewohner.",
+          "answer": "Ja — Imperativ (اِسْأَلْ) + Objekt im Akkusativ (الْقَرْيَةَ)",
+          "explanation": "Der Satz ist syntaktisch vollständig: Verb + Objekt. Die Grammatiktradition postuliert أَهْلَ als مُضَاف, doch das ist Interpretation — keine syntaktische Notwendigkeit. Der Text sagt: frag die Ortschaft.",
           "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=12&verse=82"
         },
         {
-          "type": "identification",
-          "prompt": "Welches implizierte Element fehlt in حُرِّمَتْ عَلَيْكُمُ الْمَيْتَةُ (5:3)?",
-          "answer": "أَكْلُ (das Essen) ist impliziert. Vollständig: حُرِّمَ عَلَيْكُمْ أَكْلُ الْمَيْتَةِ — verboten wurde euch das Essen des Verendeten.",
-          "explanation": "Nicht das tote Tier an sich ist verboten, sondern sein Verzehr. Das مُضَاف أَكْل wird impliziert.",
+          "type": "sentence_analysis",
+          "prompt": "Analysiere den Satz حُرِّمَتْ عَلَيْكُمُ الْمَيْتَةُ (5:3). Ist er syntaktisch vollständig?",
+          "answer": "Ja. حُرِّمَتْ (Passiv-Verb) + عَلَيْكُمُ (Präpositionalphrase) + الْمَيْتَةُ (Subjekt-Stellvertreter, Nominativ). Der Satz ist syntaktisch vollständig: das Verendete ist verboten.",
+          "explanation": "Der Text sagt was er sagt. Die Grammatiktradition postuliert أَكْلُ als مُضَاف, doch syntaktisch ist der Satz vollständig — Passivverb + Subjekt-Stellvertreter.",
           "verifyUrl": "https://corpus.quran.com/wordbyword.jsp?chapter=5&verse=3"
         },
         {
@@ -1614,15 +1615,15 @@
         },
         {
           "type": "multiple_choice",
-          "prompt": "Warum verwendet der Quran Taqdīr?",
+          "prompt": "Wann ist Taqdir syntaktisch begründet?",
           "options": [
-            "Weil Wörter vergessen wurden",
-            "Aus Gründen der Kürze (إيجاز) und Rhetorik (بلاغة)",
-            "Weil die Grammatik fehlerhaft ist",
-            "Um den Text zu verschlüsseln"
+            "Immer wenn der Sinn es nahelegt",
+            "Wenn eine syntaktische Position ein Regens verlangt, das im Text fehlt",
+            "Wenn die Tradition es so überliefert",
+            "Bei jedem transitiven Verb ohne explizites Objekt"
           ],
-          "answer": "Aus Gründen der Kürze (إيجاز) und Rhetorik (بلاغة)",
-          "explanation": "Taqdīr ist ein bewusstes rhetorisches Mittel: Die Kürze erzeugt Wirkung, vermeidet Redundanz und fordert den Leser zum Nachdenken auf.",
+          "answer": "Wenn eine syntaktische Position ein Regens verlangt, das im Text fehlt",
+          "explanation": "Genuiner Taqdir liegt nur vor, wenn eine grammatische Position (z.B. Akkusativ ohne regierendes Verb wie in فَضَرْبَ الرِّقَابِ 47:4) ein Element verlangt, das im Text nicht vorhanden ist. Syntaktisch vollständige Sätze erfordern keinen Taqdir.",
           "verifyUrl": "https://archive.org/details/WrightsArabicGrammar1Of2/page/n242"
         }
       ]

@@ -15,6 +15,7 @@
       }
     ],
     "totalRootsInPath": 1642,
+    "coverageNote": "Die kumulative Abdeckung erreicht maximal ~64.53% aller Quranwörter, weil nur wurzelbasierte Wörter gezählt werden. Die verbleibenden ~35% entfallen auf nicht-wurzelbasierte Wörter: Partikel (مِنْ, فِي, عَلَى, إِنَّ, etc.), Pronomen (هُوَ, هُمْ, etc.), Präpositionen, Konjunktionen und andere Funktionswörter, die keiner triliteral/quadriliteral Wurzel zugeordnet werden.",
     "wordCoverage": {
       "tier1": "29.46%",
       "tier2": "39.04%",

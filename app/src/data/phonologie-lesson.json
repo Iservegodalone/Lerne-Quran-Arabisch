@@ -385,7 +385,7 @@
                 "ش /ʃ/",
                 "",
                 "",
-                "خ /x/",
+                "خ /χ/",
                 "ح /ħ/",
                 "ه /h/"
               ],
@@ -560,13 +560,13 @@
           {
             "question": "Welcher Konsonant wird pharyngal artikuliert?",
             "options": [
-              "خ /x/",
+              "خ /χ/",
               "ح /ħ/",
               "ه /h/",
               "ك /k/"
             ],
             "correct": 1,
-            "explanation": "ح /ħ/ ist ein stimmloser pharyngaler Frikativ. خ ist velar (konventionell; phonetisch leicht weiter hinten), ه ist glottal, ك ist velar."
+            "explanation": "ح /ħ/ ist ein stimmloser pharyngaler Frikativ. خ ist uvular, ه ist glottal, ك ist velar."
           },
           {
             "question": "Was unterscheidet ط von ت artikulatorisch?",
@@ -1200,7 +1200,7 @@
           {
             "type": "explanation",
             "title": "Nasalassimilation — Nun vor anderen Konsonanten",
-            "content": "Das Nun (ن) und die Nunation (Tanwin: -un, -an, -in) unterliegen vor folgenden Konsonanten einem Assimilationsgradienten, der vom Artikulationsort und der Artikulationsart des folgenden Konsonanten abhängt:\n\nVollständige Assimilation: Vor ر, ل, م, ن — Nun wird vollständig zum folgenden Konsonanten. Dies tritt bei Lauten auf, die dem Nun artikulatorisch am nächsten stehen (alveolar/nasal).\n\nPartielle Angleichung mit Nasalierung: Vor و, ي — Nun wird teilweise angeglichen, bleibt aber als nasaler Laut hörbar. Die artikulatorische Distanz ist größer als bei ر/ل/م/ن, aber die Approximanten erleichtern eine Angleichung.\n\nPartielle Angleichung am Artikulationsort des folgenden Konsonanten: Vor den meisten uebrigen Konsonanten (ت, د, ط, ص, ض, ث, ذ, ظ, ك, ق, ج, ش, س, ز, ف) — Nun wird am Artikulationsort des folgenden Konsonanten realisiert, ohne vollständig mit ihm zu verschmelzen. Der Grad der Angleichung variiert je nach artikulatorischer Nähe.\n\nKeine Assimilation: Vor ء und ه — Nun bleibt unverändert, da diese Laute (glottal/pharyngal) artikulatorisch zu weit vom alveolaren Nun entfernt sind.\n\nInsgesamt bilden diese Prozesse ein Kontinuum: je näher der Artikulationsort des folgenden Konsonanten am alveolaren Nun liegt, desto stärker die Assimilation.",
+            "content": "Das Nun (ن) und die Nunation (Tanwin: -un, -an, -in) unterliegen vor folgenden Konsonanten einem Assimilationsgradienten, der vom Artikulationsort und der Artikulationsart des folgenden Konsonanten abhängt:\n\nVollständige Assimilation: Vor ر, ل, م, ن — Nun wird vollständig zum folgenden Konsonanten. Dies tritt bei Lauten auf, die dem Nun artikulatorisch am nächsten stehen (alveolar/nasal).\n\nPartielle Angleichung mit Nasalierung: Vor و, ي — Nun wird teilweise angeglichen, bleibt aber als nasaler Laut hörbar. Die artikulatorische Distanz ist größer als bei ر/ل/م/ن, aber die Approximanten erleichtern eine Angleichung.\n\nPartielle Angleichung am Artikulationsort des folgenden Konsonanten: Vor den meisten uebrigen Konsonanten (ت, د, ط, ص, ض, ث, ذ, ظ, ك, ق, ج, ش, س, ز, ف) — Nun wird am Artikulationsort des folgenden Konsonanten realisiert, ohne vollständig mit ihm zu verschmelzen. Der Grad der Angleichung variiert je nach artikulatorischer Nähe.\n\nKeine Assimilation: Vor ء, ه, ح und ع — Nun bleibt unverändert, da diese Laute (glottal/pharyngal) artikulatorisch zu weit vom alveolaren Nun entfernt sind.\n\nInsgesamt bilden diese Prozesse ein Kontinuum: je näher der Artikulationsort des folgenden Konsonanten am alveolaren Nun liegt, desto stärker die Assimilation.",
             "arabicExamples": [
               {
                 "arabic": "مِنْ لَّدُنْهُ",
@@ -1328,7 +1328,7 @@
             "answer": [
               "Vor Hamza"
             ],
-            "explanation": "Vor Hamza (ء) und Ha (ه) findet keine Assimilation des Nun statt. Hamza ist ein Glottisverschlusslaut und artikulatorisch zu weit vom Nun entfernt."
+            "explanation": "Vor Hamza (ء), Ha (ه), Ha (ح) und Ayn (ع) findet keine Assimilation des Nun statt. Diese Laute (glottal/pharyngal) sind artikulatorisch zu weit vom alveolaren Nun entfernt."
           },
           {
             "type": "multiple_choice",
